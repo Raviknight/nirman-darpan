@@ -74,13 +74,236 @@ function initials(name){
   return name.split(/\s+/).filter(Boolean).map(w => w[0]).slice(0,2).join('').toUpperCase();
 }
 
-function commentsFor(id){ return state.commentsById[id] || []; }
+function commentsFor(id){
+  if (NIRMAN_AW && NIRMAN_AW.commentsCache[id]) {
+    return NIRMAN_AW.commentsCache[id].map(awDocToComment);
+  }
+  return state.commentsById[id] || [];
+}
+
+async function loadCommentsFromAppwrite(id){
+  if (!NIRMAN_AW) return;
+  try {
+    await NIRMAN_AW.listComments(id);
+    if (state.selectedId === id) renderModal();
+    renderGrid(); // voice counts on cards may have changed
+  } catch (_) { /* network blip — keep cached */ }
+}
 
 // ---- header sync ----
 document.getElementById('sync-time').textContent = 'Auto-synced ' + formatIST(new Date());
 resolveSyncTime().then(t => {
   document.getElementById('sync-time').textContent = 'Auto-synced ' + t;
 }).catch(() => {});
+
+// ============================================================================
+// Appwrite client (Phase 2.1) — Magic-URL sign-in + persistent comments.
+// When NIRMAN_APPWRITE_READY is false (placeholder Project ID), NIRMAN_AW stays
+// null and the rest of the app falls back to in-memory state seamlessly.
+// ============================================================================
+
+const NIRMAN_AW = (() => {
+  if (!window.NIRMAN_APPWRITE_READY || typeof Appwrite === 'undefined') return null;
+  const cfg = window.NIRMAN_APPWRITE;
+  const client = new Appwrite.Client().setEndpoint(cfg.endpoint).setProject(cfg.projectId);
+  const account = new Appwrite.Account(client);
+  const databases = new Appwrite.Databases(client);
+  const { Query, ID, Permission, Role } = Appwrite;
+
+  return {
+    cfg, client, account, databases, Query, ID, Permission, Role,
+    user: null,
+    commentsCache: {}, // projectId → Document[]
+
+    async refreshUser() {
+      try { this.user = await this.account.get(); }
+      catch (_) { this.user = null; }
+      return this.user;
+    },
+
+    async sendMagicLink(email) {
+      const url = window.location.origin + window.location.pathname;
+      return this.account.createMagicURLToken(this.ID.unique(), email, url);
+    },
+
+    async completeMagicLink(userId, secret) {
+      await this.account.createSession(userId, secret);
+      return this.refreshUser();
+    },
+
+    async signOut() {
+      try { await this.account.deleteSession('current'); } catch (_) {}
+      this.user = null;
+    },
+
+    async listComments(projectId) {
+      const r = await this.databases.listDocuments(this.cfg.databaseId, this.cfg.collections.comments, [
+        this.Query.equal('project_id', projectId),
+        this.Query.notEqual('status', 'removed'),
+        this.Query.orderDesc('$createdAt'),
+        this.Query.limit(100),
+      ]);
+      this.commentsCache[projectId] = r.documents;
+      return r.documents;
+    },
+
+    async postComment({ projectId, sentiment, text, location }) {
+      if (!this.user) throw new Error('Sign in first');
+      // Schema enum is positive/neutral/concern; in-memory uses 'negative'.
+      const s = sentiment === 'negative' ? 'concern' : sentiment;
+      const doc = {
+        project_id: projectId,
+        author_id: this.user.$id,
+        author_name: this.user.name || this.user.email.split('@')[0],
+        location: location || '',
+        sentiment: s,
+        text,
+        status: 'approved',
+      };
+      const perms = [
+        this.Permission.read(this.Role.any()),
+        this.Permission.update(this.Role.user(this.user.$id)),
+        this.Permission.delete(this.Role.user(this.user.$id)),
+      ];
+      return this.databases.createDocument(
+        this.cfg.databaseId, this.cfg.collections.comments,
+        this.ID.unique(), doc, perms,
+      );
+    },
+  };
+})();
+
+// Map an Appwrite document into the shape the render code expects.
+function awDocToComment(doc){
+  const created = new Date(doc.$createdAt);
+  const ago = describeAgo(created);
+  // Schema enum 'concern' ↔ in-memory 'negative'. Keep the rest of the UI unchanged.
+  const s = doc.sentiment === 'concern' ? 'negative' : doc.sentiment;
+  return {
+    name: doc.author_name || 'Anon',
+    loc: doc.location || 'Verified resident',
+    s,
+    text: doc.text,
+    date: ago,
+    _aw: true,
+    _pending: doc.status === 'pending',
+  };
+}
+function describeAgo(d){
+  const sec = Math.max(1, Math.round((Date.now() - d.getTime()) / 1000));
+  if (sec < 60) return sec + 's ago';
+  const min = Math.round(sec / 60); if (min < 60) return min + ' min ago';
+  const h = Math.round(min / 60); if (h < 24) return h + 'h ago';
+  const day = Math.round(h / 24); if (day < 7) return day + ' day' + (day === 1 ? '' : 's') + ' ago';
+  return d.toLocaleDateString('en-IN', { day: '2-digit', month: 'short', year: 'numeric' });
+}
+
+// ---- Auth UI ----
+
+function renderAuthUI(){
+  const root = document.getElementById('auth-slot');
+  if (!root) return;
+  if (!NIRMAN_AW) { root.innerHTML = ''; return; }
+  if (NIRMAN_AW.user) {
+    const u = NIRMAN_AW.user;
+    const label = (u.name && u.name.trim()) || u.email;
+    root.innerHTML = `
+      <span style="display:inline-flex;align-items:center;gap:8px;background:rgba(232,217,168,.16);border:1px solid rgba(232,217,168,.25);padding:5px 10px;border-radius:999px;font-size:11px;color:#e8d9a8">
+        <span style="width:7px;height:7px;border-radius:50%;background:#7fc99b"></span>
+        <b style="font-weight:600">${esc(label)}</b>
+        <button id="auth-signout" style="background:none;border:none;color:#cdded3;cursor:pointer;font-size:11px;text-decoration:underline">Sign out</button>
+      </span>
+    `;
+    document.getElementById('auth-signout').addEventListener('click', async () => {
+      await NIRMAN_AW.signOut();
+      renderAuthUI();
+      if (state.selectedId) renderModal(); // refresh composer state
+    });
+  } else {
+    root.innerHTML = `
+      <button id="auth-signin" style="background:rgba(232,217,168,.16);border:1px solid rgba(232,217,168,.25);color:#e8d9a8;padding:5px 13px;border-radius:999px;font-size:11px;font-weight:600;cursor:pointer">Sign in to comment</button>
+    `;
+    document.getElementById('auth-signin').addEventListener('click', openSignInCard);
+  }
+}
+
+function openSignInCard(prefillMsg){
+  const existing = document.getElementById('signin-overlay');
+  if (existing) existing.remove();
+  const wrap = document.createElement('div');
+  wrap.id = 'signin-overlay';
+  wrap.innerHTML = `
+    <div style="position:fixed;inset:0;background:rgba(18,40,30,.5);backdrop-filter:blur(3px);z-index:60;display:flex;align-items:center;justify-content:center;padding:20px">
+      <div style="background:#fff;border-radius:12px;max-width:420px;width:100%;padding:28px;box-shadow:0 24px 60px -20px rgba(0,0,0,.4)">
+        <h3 style="font-family:'Source Serif 4',serif;font-size:20px;margin:0 0 8px;font-weight:600">Sign in to Nirman Darpan</h3>
+        <p style="font-size:13px;color:#5c686f;margin:0 0 16px;line-height:1.5">
+          Type your email. We'll send you a one-click sign-in link — no password to remember.
+          Only verified residents post comments and cast votes.
+        </p>
+        <div id="signin-msg" style="font-size:13px;line-height:1.5;margin-bottom:12px"></div>
+        <form id="signin-form" autocomplete="on">
+          <input id="signin-email" type="email" required placeholder="you@example.com" autocomplete="email"
+            style="width:100%;font-family:'Public Sans',sans-serif;font-size:14px;color:#232a2e;border:1px solid #dddccf;border-radius:7px;padding:10px 12px;outline:none;margin-bottom:12px;box-sizing:border-box" />
+          <div style="display:flex;gap:8px;justify-content:flex-end">
+            <button type="button" id="signin-cancel" style="font-family:'Public Sans',sans-serif;font-size:13px;background:#f4f3ee;color:#5c686f;border:1px solid #dddccf;border-radius:7px;padding:9px 16px;cursor:pointer">Cancel</button>
+            <button type="submit" id="signin-send" style="font-family:'Public Sans',sans-serif;font-size:13px;font-weight:600;background:#1b5640;color:#fff;border:none;border-radius:7px;padding:9px 18px;cursor:pointer">Send magic link</button>
+          </div>
+        </form>
+        <p style="font-size:11px;color:#a4a294;margin:14px 0 0;line-height:1.5">
+          By signing in you agree to keep comments specific, civil, and on the public record. Comments are public and auditable.
+        </p>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(wrap);
+  if (prefillMsg) {
+    document.getElementById('signin-msg').innerHTML =
+      `<div style="background:#e7f0ea;color:#1b5640;padding:8px 11px;border-radius:7px">${esc(prefillMsg)}</div>`;
+  }
+  document.getElementById('signin-email').focus();
+  document.getElementById('signin-cancel').addEventListener('click', () => wrap.remove());
+  wrap.querySelector('div').addEventListener('click', (e) => { if (e.target === e.currentTarget) wrap.remove(); });
+  document.getElementById('signin-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const email = document.getElementById('signin-email').value.trim();
+    if (!email) return;
+    const msg = document.getElementById('signin-msg');
+    const btn = document.getElementById('signin-send');
+    btn.disabled = true; btn.textContent = 'Sending…';
+    try {
+      await NIRMAN_AW.sendMagicLink(email);
+      msg.innerHTML = `<div style="background:#e7f0ea;color:#1b5640;padding:10px 12px;border-radius:7px">
+        Sent. Check <b>${esc(email)}</b> for a link from Appwrite — clicking it brings you back here signed in.
+      </div>`;
+      btn.style.display = 'none';
+      document.getElementById('signin-cancel').textContent = 'Close';
+    } catch (err) {
+      msg.innerHTML = `<div style="background:#f7e7e3;color:#b04a3a;padding:10px 12px;border-radius:7px">
+        ${esc(err.message || 'Could not send the link. Try again.')}
+      </div>`;
+      btn.disabled = false; btn.textContent = 'Send magic link';
+    }
+  });
+}
+
+// Bootstrap: handle the redirect from a magic-link click.
+async function bootstrapAppwrite(){
+  if (!NIRMAN_AW) { renderAuthUI(); return; }
+  const params = new URLSearchParams(window.location.search);
+  const userId = params.get('userId');
+  const secret = params.get('secret');
+  if (userId && secret) {
+    try {
+      await NIRMAN_AW.completeMagicLink(userId, secret);
+    } catch (_) { /* expired/invalid → silently fall through to "not signed in" */ }
+    // Scrub the URL so a refresh doesn't try to re-use the token.
+    window.history.replaceState({}, '', window.location.origin + window.location.pathname);
+  } else {
+    await NIRMAN_AW.refreshUser();
+  }
+  renderAuthUI();
+  if (state.selectedId) renderModal();
+}
 
 // ---- stats ----
 function renderStats(){
@@ -281,6 +504,21 @@ function renderGrid(){
 }
 
 // ---- modal ----
+function composerOverlay(){
+  if (!NIRMAN_AW) {
+    return `<div style="position:absolute;inset:0;background:rgba(255,255,255,.55);backdrop-filter:blur(1px);border-radius:10px;display:flex;align-items:center;justify-content:center;text-align:center;padding:14px;font-size:12px;color:#5c686f;line-height:1.5;z-index:1">
+      Comments will go live once verified resident sign-in is wired in <b>Phase 2</b>.<br>This composer is a preview only.
+    </div>`;
+  }
+  if (!NIRMAN_AW.user) {
+    return `<div style="position:absolute;inset:0;background:rgba(255,255,255,.78);backdrop-filter:blur(1px);border-radius:10px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:14px;font-size:13px;color:#41474a;line-height:1.5;z-index:1;gap:10px">
+      <div>Verified residents only.</div>
+      <button id="composer-signin" style="font-family:'Public Sans',sans-serif;font-size:13px;font-weight:600;background:#1b5640;color:#fff;border:none;border-radius:7px;padding:9px 16px;cursor:pointer">Sign in to comment</button>
+    </div>`;
+  }
+  return '';
+}
+
 function srcIcon(t){ return t === 'gov' ? '🏛' : t === 'press' ? '📰' : '✔'; }
 function sentLabel(s){ return s === 'positive' ? 'Positive' : s === 'negative' ? 'Concern' : 'Neutral'; }
 function sentTagClass(s){ return s === 'positive' ? 'pos' : s === 'negative' ? 'neg' : 'neu'; }
@@ -291,6 +529,13 @@ function renderModal(){
   const p = D.find(x => x.id === state.selectedId);
   if (!p) { root.innerHTML = ''; document.body.style.overflow = ''; return; }
   document.body.style.overflow = 'hidden';
+
+  // Kick off an async fetch from Appwrite on first open per project; the
+  // resolved fetch re-renders the modal with real comments in place.
+  if (NIRMAN_AW && !NIRMAN_AW.commentsCache[p.id]) {
+    NIRMAN_AW.commentsCache[p.id] = []; // mark in-flight so we don't refetch
+    loadCommentsFromAppwrite(p.id);
+  }
 
   const c = CAT_COLOR[p.category] || '#5c686f';
   const fc = fillColor(p);
@@ -420,9 +665,7 @@ function renderModal(){
           <h4 class="sect">Citizen comments <span class="comment-count">${cm.length}</span></h4>
 
           <div class="composer" style="position:relative">
-            <div style="position:absolute;inset:0;background:rgba(255,255,255,.55);backdrop-filter:blur(1px);border-radius:10px;display:flex;align-items:center;justify-content:center;text-align:center;padding:14px;font-size:12px;color:#5c686f;line-height:1.5;z-index:1">
-              Comments will go live once verified resident sign-in is wired in <b>Phase 2</b>.<br>This composer is a preview only.
-            </div>
+            ${composerOverlay()}
             <div class="composer-btns">
               ${sentBtn('positive','pos','🙂 Positive')}
               ${sentBtn('neutral','neu','😐 Neutral')}
@@ -485,16 +728,41 @@ function wireModal(){
 
   const post = root.querySelector('#post-btn');
   if (post) {
-    post.addEventListener('click', () => {
+    post.addEventListener('click', async () => {
       const id = state.selectedId;
       const t = state.draftText.trim();
       if (!id || !t) return;
+      if (NIRMAN_AW && NIRMAN_AW.user) {
+        post.disabled = true; post.textContent = 'Posting…';
+        try {
+          await NIRMAN_AW.postComment({
+            projectId: id,
+            sentiment: state.draftSentiment,
+            text: t,
+          });
+          await NIRMAN_AW.listComments(id);
+          state.draftText = '';
+          renderGrid();
+          renderModal();
+        } catch (err) {
+          post.disabled = false; post.textContent = 'Post comment';
+          alert(err && err.message ? err.message : 'Could not post — try again.');
+        }
+        return;
+      }
+      // In-memory fallback when Appwrite isn't configured.
       const c = { name:'You', loc:'Verified resident', s: state.draftSentiment, text: t, date: 'Just now' };
       state.commentsById[id] = [c, ...(state.commentsById[id] || [])];
       state.draftText = '';
-      renderGrid();   // update voice counts on cards
-      renderModal(); // re-render comments list
+      renderGrid();
+      renderModal();
     });
+  }
+
+  // Wire the composer's "Sign in to comment" button.
+  const composerSignIn = root.querySelector('#composer-signin');
+  if (composerSignIn) {
+    composerSignIn.addEventListener('click', openSignInCard);
   }
 }
 
@@ -782,7 +1050,7 @@ function wireOnce(){
   });
   document.getElementById('district').addEventListener('change', (e) => {
     state.district = e.target.value;
-    if (state.mapMode === 'choropleth') renderMap();
+    renderMap();
     renderGrid();
   });
   document.querySelectorAll('.map-mode button').forEach(btn => {
@@ -835,3 +1103,4 @@ renderMap();
 renderFeatured();
 renderGrid();
 wireOnce();
+bootstrapAppwrite();
