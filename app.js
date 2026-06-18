@@ -87,9 +87,6 @@ function renderStats(){
   const active = D.filter(p => p.status === 'active');
   const completed = D.filter(p => p.status === 'completed');
   const totalBudget = D.reduce((a,p) => a + p.budget, 0);
-  const avgPos = active.length
-    ? Math.round(active.reduce((a,p) => a + p.sentiment.p, 0) / active.length)
-    : 0;
   const delayed = active.filter(p => p.delayed).length;
 
   document.getElementById('stats').innerHTML = `
@@ -106,12 +103,12 @@ function renderStats(){
     <div class="stat">
       <div class="stat-label">Tracked outlay</div>
       <div class="stat-value">₹${(totalBudget/1000).toFixed(1)}K Cr</div>
-      <div class="stat-sub">across all activities</div>
+      <div class="stat-sub">reported · unverified</div>
     </div>
     <div class="stat">
-      <div class="stat-label">Public sentiment</div>
-      <div class="stat-value" style="color:#2f7d52">${avgPos}%</div>
-      <div class="stat-sub">avg. positive</div>
+      <div class="stat-label">Districts covered</div>
+      <div class="stat-value" style="color:#3a5a7d">12</div>
+      <div class="stat-sub">all of Himachal Pradesh</div>
     </div>
     <div class="stat flag">
       <div class="stat-label">Flagged</div>
@@ -259,15 +256,23 @@ function renderGrid(){
             <div class="card-contractor">${esc(p.contractor)}</div>
           </div>
           <div class="card-foot">
-            <div class="sent-row">
-              <span class="sent-label">Public sentiment</span>
-              <span class="sent-num"><strong>${p.sentiment.p}%</strong> <span>· ${ratingsFmt} voices</span></span>
-            </div>
-            <div class="sent-bar">
-              <div style="width:${p.sentiment.p}%;background:#3f9e6a"></div>
-              <div style="width:${p.sentiment.n}%;background:#dcb24f"></div>
-              <div style="width:${p.sentiment.x}%;background:#c2664f"></div>
-            </div>
+            ${(p.ratings + cmCount > 0) ? `
+              <div class="sent-row">
+                <span class="sent-label">Public sentiment</span>
+                <span class="sent-num"><strong>${p.sentiment.p}%</strong> <span>· ${ratingsFmt} voices</span></span>
+              </div>
+              <div class="sent-bar">
+                <div style="width:${p.sentiment.p}%;background:#3f9e6a"></div>
+                <div style="width:${p.sentiment.n}%;background:#dcb24f"></div>
+                <div style="width:${p.sentiment.x}%;background:#c2664f"></div>
+              </div>
+            ` : `
+              <div class="sent-row">
+                <span class="sent-label">Public sentiment</span>
+                <span class="sent-num" style="color:#a4a294;font-style:italic">Not yet measured · Phase 2</span>
+              </div>
+              <div class="sent-bar"><div style="width:100%;background:#eceae1"></div></div>
+            `}
           </div>
         </div>
       </article>
@@ -381,29 +386,43 @@ function renderModal(){
           <h4 class="sect">Timeline</h4>
           <div class="timeline">${msHtml}</div>
 
-          <div class="perception">
-            <div class="perception-top">
-              <div>
-                <h4 class="sect" style="margin:0">Public perception</h4>
-                <div class="perception-sub">From ${ratingsFmt} verified voices across sources</div>
+          ${(ratings >= 25) ? `
+            <div class="perception">
+              <div class="perception-top">
+                <div>
+                  <h4 class="sect" style="margin:0">Public perception</h4>
+                  <div class="perception-sub">From ${ratingsFmt} verified voices across sources</div>
+                </div>
+                ${p.score ? `<div class="perception-score">${p.score.toFixed(1)}<small>/ 5.0</small></div>` : ''}
               </div>
-              <div class="perception-score">${p.score.toFixed(1)}<small>/ 5.0</small></div>
+              <div class="perception-bar">
+                <div style="width:${p.sentiment.p}%;background:#3f9e6a"></div>
+                <div style="width:${p.sentiment.n}%;background:#dcb24f"></div>
+                <div style="width:${p.sentiment.x}%;background:#c2664f"></div>
+              </div>
+              <div class="perception-legend">
+                <span class="pos">● Positive ${p.sentiment.p}%</span>
+                <span class="neu">● Neutral ${p.sentiment.n}%</span>
+                <span class="neg">● Concern ${p.sentiment.x}%</span>
+              </div>
             </div>
-            <div class="perception-bar">
-              <div style="width:${p.sentiment.p}%;background:#3f9e6a"></div>
-              <div style="width:${p.sentiment.n}%;background:#dcb24f"></div>
-              <div style="width:${p.sentiment.x}%;background:#c2664f"></div>
+          ` : `
+            <div class="perception" style="background:#fbf8ef">
+              <h4 class="sect" style="margin:0 0 4px">Public perception</h4>
+              <p style="font-size:13px;color:#7d8a82;line-height:1.5;margin:0">
+                Sentiment is hidden until at least <b>25 verified voices</b> have weighed in.
+                Showing percentages from a smaller sample is statistical theatre. Voices are coming in Phase 2
+                via verified resident sign-in.
+              </p>
             </div>
-            <div class="perception-legend">
-              <span class="pos">● Positive ${p.sentiment.p}%</span>
-              <span class="neu">● Neutral ${p.sentiment.n}%</span>
-              <span class="neg">● Concern ${p.sentiment.x}%</span>
-            </div>
-          </div>
+          `}
 
           <h4 class="sect">Citizen comments <span class="comment-count">${cm.length}</span></h4>
 
-          <div class="composer">
+          <div class="composer" style="position:relative">
+            <div style="position:absolute;inset:0;background:rgba(255,255,255,.55);backdrop-filter:blur(1px);border-radius:10px;display:flex;align-items:center;justify-content:center;text-align:center;padding:14px;font-size:12px;color:#5c686f;line-height:1.5;z-index:1">
+              Comments will go live once verified resident sign-in is wired in <b>Phase 2</b>.<br>This composer is a preview only.
+            </div>
             <div class="composer-btns">
               ${sentBtn('positive','pos','🙂 Positive')}
               ${sentBtn('neutral','neu','😐 Neutral')}
