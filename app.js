@@ -61,7 +61,7 @@ const state = {
   draftSentiment: 'positive',
   draftText: '',
   commentsById: Object.fromEntries(D.map(p => [p.id, p.comments.slice()])),
-  mapMode: 'choropleth',
+  mapMode: 'districts',
   mapMetric: 'count',
 };
 
@@ -597,9 +597,14 @@ function ringCentroid(ring){
   return [cx / n, cy / n];
 }
 
-function renderChoropleth(){
+// Unified renderer — always draws the HP choropleth; pin overlay in 'projects' mode.
+// No external tiles (avoids the J&K / Aksai Chin boundary issue OSM ships with),
+// no Leaflet dependency. Pure SVG, fully self-contained.
+
+const MAP_W = 980, MAP_H = 420;
+
+function renderMap(){
   const canvas = document.getElementById('map-canvas');
-  // preserve the tooltip element
   const tip = document.getElementById('map-tooltip');
   canvas.innerHTML = '';
   if (tip) canvas.appendChild(tip);
@@ -610,14 +615,15 @@ function renderChoropleth(){
     return;
   }
 
-  const W = 980, H = 420;
   const box = bboxOfFeatures();
-  const proj = projector(box, W, H, 14);
+  const proj = projector(box, MAP_W, MAP_H, 14);
   const metrics = metricFor(state.mapMetric);
   const palette = paletteFor(state.mapMetric);
   const max = Math.max(0.0001, ...Object.values(metrics).map(m => m.value));
 
-  let svg = `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">`;
+  let svg = `<svg viewBox="0 0 ${MAP_W} ${MAP_H}" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">`;
+
+  // District polygons — always rendered.
   for (const f of HP_DISTRICTS) {
     const name = f.properties.name;
     const m = metrics[name] || { value: 0, count: 0, budget: 0, flagged: 0 };
@@ -626,7 +632,8 @@ function renderChoropleth(){
     const paths = f.geometry.coordinates.map(r => ringPath(r, proj)).join(' ');
     svg += `<path class="district-path${isOn?' on':''}" data-name="${name}" d="${paths}" fill="${fill}" />`;
   }
-  // labels (centroid of biggest ring)
+
+  // District labels at centroid of biggest ring.
   for (const f of HP_DISTRICTS) {
     const ring = f.geometry.coordinates.reduce((a,b) => a.length >= b.length ? a : b);
     const [clng, clat] = ringCentroid(ring);
@@ -635,32 +642,90 @@ function renderChoropleth(){
     const dark = (m.value / max) > 0.55;
     svg += `<text class="district-label${dark?' dark':''}" x="${cx.toFixed(1)}" y="${cy.toFixed(1)}">${f.properties.name}</text>`;
   }
+
+  // Pin overlay — only in 'projects' mode.
+  if (state.mapMode === 'projects') {
+    // Project pin layer rendered after labels so pins sit on top.
+    svg += '<g class="pin-layer">';
+    for (const p of D) {
+      if (!p.coords) continue;
+      const [lat, lng] = p.coords;
+      const [x, y] = proj(lng, lat);
+      const cls = p.status === 'completed' ? 'completed' : (p.delayed ? 'delayed' : 'active');
+      svg += `<g class="nd-pin-svg" data-pin="${esc(p.id)}" transform="translate(${x.toFixed(1)},${y.toFixed(1)})">
+        <circle class="halo" r="9" />
+        <circle class="core ${cls}" r="5.5" />
+      </g>`;
+    }
+    svg += '</g>';
+  }
+
   svg += '</svg>';
   canvas.insertAdjacentHTML('beforeend', svg);
-  wireChoroplethEvents();
-  renderLegend(palette, max);
+
+  wireMapEvents(metrics, max);
+  renderMapLegend(palette, max);
+  renderFilterPill();
+
+  // sync mode buttons
+  document.querySelectorAll('.map-mode button').forEach(b => {
+    b.classList.toggle('on', b.getAttribute('data-mode') === state.mapMode);
+  });
+  // metric select is meaningless when the focus is pins
+  const metricSel = document.getElementById('map-metric');
+  if (metricSel) metricSel.style.display = state.mapMode === 'projects' ? 'none' : '';
 }
 
-function renderLegend(palette, max){
+function renderMapLegend(palette, max){
   const el = document.getElementById('map-legend');
   if (!el) return;
-  const metric = state.mapMetric;
-  const swatches = palette.map(c => `<span class="sw" style="background:${c}"></span>`).join('');
-  const lowLabel = metric === 'sentiment' ? '0%' : '0';
-  const highLabel = fmtMetric(metric, max).replace(/^.*?[\d]/, m => m);
-  el.innerHTML = `
-    <span><b>Legend</b> · per district</span>
-    <div class="swatch-row">${swatches}</div>
-    <span style="font-family:'IBM Plex Mono',monospace;color:#8a8a7e">${lowLabel} → ${highLabel}</span>
-    <span style="margin-left:auto;font-size:11px;color:#a4a294">Boundaries: geohacker/india (Census 2011, simplified).</span>
-  `;
+  if (state.mapMode === 'projects') {
+    el.innerHTML = `
+      <span><b>Legend</b></span>
+      <span style="display:inline-flex;align-items:center;gap:5px"><span style="width:11px;height:11px;border-radius:50%;background:#1b5640;border:2px solid #fff;box-shadow:0 0 0 1px #d8e2dc"></span>Active · on track</span>
+      <span style="display:inline-flex;align-items:center;gap:5px"><span style="width:11px;height:11px;border-radius:50%;background:#b3721f;border:2px solid #fff;box-shadow:0 0 0 1px #f3deb3"></span>Active · delayed</span>
+      <span style="display:inline-flex;align-items:center;gap:5px"><span style="width:11px;height:11px;border-radius:50%;background:#3f6b6e;border:2px solid #fff;box-shadow:0 0 0 1px #d8e2dc"></span>Completed</span>
+      <span style="margin-left:auto;font-size:11px;color:#a4a294">Pin positions are approximate site coordinates · refined in Phase 2.</span>
+    `;
+  } else {
+    const swatches = palette.map(c => `<span class="sw" style="background:${c}"></span>`).join('');
+    const lowLabel = '0';
+    const highLabel = fmtMetric(state.mapMetric, max).replace(/^.*?[\d]/, m => m);
+    el.innerHTML = `
+      <span><b>Legend</b> · per district</span>
+      <div class="swatch-row">${swatches}</div>
+      <span style="font-family:'IBM Plex Mono',monospace;color:#8a8a7e">${lowLabel} → ${highLabel}</span>
+      <span style="margin-left:auto;font-size:11px;color:#a4a294">Boundaries: geohacker/india (Census 2011, simplified). HP-only — no inter-state lines drawn.</span>
+    `;
+  }
 }
 
-function wireChoroplethEvents(){
+function renderFilterPill(){
+  const el = document.getElementById('map-filter-pill');
+  if (!el) return;
+  if (state.district === 'All') { el.innerHTML = ''; return; }
+  const list = visibleList();
+  el.innerHTML = `
+    <span class="filt-chip">
+      Filtered to <b>${esc(state.district)}</b>
+      <button type="button" data-clear="1" aria-label="Clear district filter">✕</button>
+    </span>
+    <span style="color:#5c686f">Showing ${list.length} project${list.length === 1 ? '' : 's'} below.</span>
+    <a data-scroll-grid="1" style="margin-left:auto">Jump to list ↓</a>
+  `;
+  el.querySelector('[data-clear]')?.addEventListener('click', () => {
+    state.district = 'All';
+    const sel = document.getElementById('district'); if (sel) sel.value = 'All';
+    renderMap(); renderGrid();
+  });
+  el.querySelector('[data-scroll-grid]')?.addEventListener('click', () => {
+    document.getElementById('grid').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+}
+
+function wireMapEvents(metrics, max){
   const canvas = document.getElementById('map-canvas');
   const tip = document.getElementById('map-tooltip');
-  const metrics = metricFor(state.mapMetric);
-  const max = Math.max(0.0001, ...Object.values(metrics).map(m => m.value));
 
   canvas.querySelectorAll('.district-path').forEach(path => {
     const name = path.getAttribute('data-name');
@@ -676,84 +741,32 @@ function wireChoroplethEvents(){
     path.addEventListener('click', () => {
       state.district = (state.district === name) ? 'All' : name;
       const sel = document.getElementById('district'); if (sel) sel.value = state.district;
-      renderChoropleth(); renderGrid();
+      renderMap(); renderGrid();
+      // make the side-effect visible — smooth-scroll to the filter pill below the map
+      requestAnimationFrame(() => {
+        document.getElementById('map-filter-pill').scrollIntoView({ behavior: 'smooth', block: 'center' });
+      });
     });
   });
-}
 
-// ---- pin map (Leaflet) ----
-
-let _leafletMap = null;
-let _leafletLayer = null;
-
-function renderPinMap(){
-  const canvas = document.getElementById('map-canvas');
-  // Detach the tooltip so Leaflet can own the canvas
-  const tip = document.getElementById('map-tooltip');
-  if (tip && tip.parentElement === canvas) canvas.removeChild(tip);
-
-  if (typeof L === 'undefined') {
-    canvas.innerHTML = '<div style="padding:24px;color:#8a8a7e;font-size:13px">Map library is still loading — flick the toggle once more in a second.</div>';
-    return;
-  }
-
-  if (!_leafletMap) {
-    canvas.innerHTML = '<div id="leaflet-host" style="width:100%;height:100%"></div>';
-    _leafletMap = L.map('leaflet-host', { scrollWheelZoom: false }).setView([31.7, 77.3], 7);
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 14,
-      attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-    }).addTo(_leafletMap);
-  } else {
-    // Reuse: clear the old container content if it was repurposed
-    if (!document.getElementById('leaflet-host')) {
-      canvas.innerHTML = '<div id="leaflet-host" style="width:100%;height:100%"></div>';
-      _leafletMap.remove(); _leafletMap = null;
-      return renderPinMap();
-    }
-  }
-  setTimeout(() => _leafletMap && _leafletMap.invalidateSize(), 50);
-
-  if (_leafletLayer) _leafletLayer.remove();
-  _leafletLayer = L.layerGroup().addTo(_leafletMap);
-
-  for (const p of D) {
-    if (!p.coords) continue;
-    const cls = p.status === 'completed' ? 'completed' : (p.delayed ? 'delayed' : 'active');
-    const icon = L.divIcon({
-      className: 'nd-pin-wrap',
-      html: `<div class="nd-pin ${cls}" title="${esc(p.name)}"></div>`,
-      iconSize: [18, 18],
-      iconAnchor: [9, 9],
+  canvas.querySelectorAll('[data-pin]').forEach(g => {
+    const id = g.getAttribute('data-pin');
+    const p = D.find(x => x.id === id); if (!p) return;
+    g.addEventListener('mousemove', (e) => {
+      const r = canvas.getBoundingClientRect();
+      const statusText = p.status === 'completed' ? 'Completed' : (p.delayed ? 'Active · delayed' : 'Active · on track');
+      tip.innerHTML = `<b>${esc(p.name)}</b>${esc(p.districtLabel)} · ${p.progress}% · ${statusText}`;
+      tip.style.left = (e.clientX - r.left) + 'px';
+      tip.style.top = (e.clientY - r.top) + 'px';
+      tip.classList.add('show');
     });
-    const m = L.marker(p.coords, { icon }).addTo(_leafletLayer);
-    m.bindPopup(`<div class="nd-pin-pop"><b>${esc(p.name)}</b>${esc(p.districtLabel)} · ${p.progress}% · ${p.status === 'completed' ? 'Completed' : (p.delayed ? 'Delayed' : 'On track')}<br><small style="color:#8a8a7e">Click pin again to open detail.</small></div>`);
-    m.on('click', () => {
-      // Open detail on click. Popup also opens by default.
-      state.selectedId = p.id;
+    g.addEventListener('mouseleave', () => tip.classList.remove('show'));
+    g.addEventListener('click', (e) => {
+      e.stopPropagation();
+      state.selectedId = id;
       renderModal();
     });
-  }
-
-  document.getElementById('map-legend').innerHTML = `
-    <span><b>Legend</b></span>
-    <span><span class="nd-pin active" style="display:inline-block;vertical-align:middle;margin-right:5px"></span>Active · on track</span>
-    <span><span class="nd-pin delayed" style="display:inline-block;vertical-align:middle;margin-right:5px"></span>Active · delayed</span>
-    <span><span class="nd-pin completed" style="display:inline-block;vertical-align:middle;margin-right:5px"></span>Completed</span>
-    <span style="margin-left:auto;font-size:11px;color:#a4a294">Tiles: © OpenStreetMap contributors.</span>
-  `;
-}
-
-function renderMap(){
-  if (state.mapMode === 'choropleth') renderChoropleth();
-  else renderPinMap();
-  // sync button state
-  document.querySelectorAll('.map-mode button').forEach(b => {
-    b.classList.toggle('on', b.getAttribute('data-mode') === state.mapMode);
   });
-  // hide metric select in pin mode (not meaningful)
-  const metricSel = document.getElementById('map-metric');
-  if (metricSel) metricSel.style.display = state.mapMode === 'pins' ? 'none' : '';
 }
 
 // ---- top-level wiring (once) ----
