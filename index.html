@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nirman Darpan · Himachal Pradesh Public Works Tracker</title>
+<meta name="description" content="Independent civic-transparency tracker for public works in Himachal Pradesh — status, budgets, timelines, accountable leads, and citizen sentiment.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Devanagari:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background:#f4f3ee;
+    font-family:'Public Sans',system-ui,sans-serif;
+    color:#232a2e;
+    -webkit-font-smoothing:antialiased;
+    min-height:100vh;
+  }
+  ::selection{background:#cfe0d6}
+  button{font-family:inherit}
+
+  /* Layout shell */
+  .nd-header{
+    position:sticky;top:0;z-index:20;
+    background:#123c2c;color:#eef2ec;border-bottom:1px solid #0c2c20;
+    background-image:repeating-radial-gradient(circle at 88% -40%, transparent 0 46px, rgba(255,255,255,.045) 46px 48px);
+  }
+  .nd-header-inner{
+    max-width:1240px;margin:0 auto;padding:14px 28px;
+    display:flex;align-items:center;gap:24px;flex-wrap:wrap;
+  }
+  .nd-brand{display:flex;align-items:baseline;gap:12px;flex:1;min-width:260px}
+  .nd-brand-hi{font-family:'Noto Serif Devanagari',serif;font-size:24px;font-weight:600;color:#e8d9a8}
+  .nd-brand-en{font-family:'Source Serif 4',serif;font-size:18px;font-weight:600;letter-spacing:.2px}
+  .nd-tagline{font-size:11px;color:#9fb4a6;letter-spacing:.3px}
+  .nd-sync{
+    display:flex;align-items:center;gap:10px;
+    background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.12);
+    border-radius:999px;padding:7px 14px;
+  }
+  .nd-sync-dot{width:8px;height:8px;border-radius:50%;background:#7fc99b;box-shadow:0 0 0 3px rgba(127,201,155,.2)}
+  .nd-sync-text{font-family:'IBM Plex Mono',monospace;font-size:11px;color:#cdded3}
+  .nd-sources{display:flex;align-items:center;gap:8px}
+  .nd-sources-label{font-size:10px;text-transform:uppercase;letter-spacing:.6px;color:#8aa093}
+  .nd-source-chip{font-size:11px;background:rgba(232,217,168,.16);color:#e8d9a8;border:1px solid rgba(232,217,168,.25);padding:3px 9px;border-radius:5px}
+
+  main{max-width:1240px;margin:0 auto;padding:30px 28px 80px}
+
+  /* Stats */
+  #stats{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;margin-bottom:14px}
+  .stat{background:#fff;border:1px solid #e7e6dd;border-radius:10px;padding:16px 18px}
+  .stat.flag{background:#fdf6ec;border-color:#ecdcc0}
+  .stat-label{font-family:'IBM Plex Mono',monospace;font-size:11px;color:#8a8a7e;letter-spacing:.4px;text-transform:uppercase}
+  .stat.flag .stat-label{color:#a9802f}
+  .stat-value{font-family:'Source Serif 4',serif;font-size:30px;font-weight:600;line-height:1.1;margin-top:4px}
+  .stat-sub{font-size:11px;color:#8a8a7e;margin-top:2px}
+  .stat.flag .stat-sub{color:#a9802f}
+  .disclaimer{font-size:12px;color:#8a8a7e;margin:0 2px 26px;line-height:1.5}
+
+  /* Featured */
+  .featured{
+    cursor:pointer;background:#fff;border:1px solid #e7e6dd;border-radius:14px;
+    overflow:hidden;margin-bottom:34px;display:grid;grid-template-columns:1.05fr 1fr;
+    transition:box-shadow .18s;
+  }
+  .featured:hover{box-shadow:0 14px 34px -18px rgba(18,60,44,.4)}
+  .featured-img{
+    position:relative;
+    background:repeating-linear-gradient(135deg,#e9e7dc 0 11px,#e3e0d3 11px 22px);
+    min-height:330px;display:flex;align-items:flex-end;padding:22px;
+  }
+  .featured-img .badge{
+    position:absolute;top:18px;left:18px;font-size:11px;font-weight:600;
+    text-transform:uppercase;letter-spacing:.6px;background:#123c2c;color:#e8d9a8;
+    padding:5px 11px;border-radius:6px;
+  }
+  .featured-img .caption{
+    font-family:'IBM Plex Mono',monospace;font-size:11px;color:#8f8d80;
+    background:rgba(255,255,255,.7);padding:5px 9px;border-radius:5px;
+  }
+  .featured-body{padding:28px 30px;display:flex;flex-direction:column}
+  .featured-title{font-family:'Source Serif 4',serif;font-size:28px;font-weight:600;line-height:1.18;margin:0 0 10px}
+  .featured-desc{font-size:14px;line-height:1.6;color:#4a565d;margin:0 0 18px}
+
+  /* Filter bar */
+  .filter-bar{
+    display:flex;align-items:flex-end;justify-content:space-between;gap:16px;
+    border-bottom:1px solid #dddccf;margin-bottom:18px;flex-wrap:wrap;
+  }
+  .tabs{display:flex;gap:4px}
+  .tab{
+    font-family:'Public Sans',sans-serif;font-size:15px;font-weight:600;
+    background:none;border:none;padding:10px 16px;cursor:pointer;
+    display:flex;align-items:center;gap:8px;border-bottom:2px solid transparent;
+    margin-bottom:-1px;color:#9a9888;
+  }
+  .tab.on{color:#1b5640;border-bottom-color:#1b5640}
+  .tab-count{font-family:'IBM Plex Mono',monospace;font-size:12px;opacity:.7}
+  .controls{display:flex;align-items:center;gap:10px;padding-bottom:10px}
+  .controls input,.controls select{
+    font-family:'Public Sans',sans-serif;font-size:13px;color:#232a2e;
+    background:#fff;border:1px solid #dddccf;border-radius:7px;padding:8px 12px;outline:none;
+  }
+  .controls input{width:210px}
+  .controls select{padding:8px 10px}
+
+  /* Chips */
+  #chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:24px}
+  .chip{
+    display:inline-flex;align-items:center;gap:7px;
+    font-family:'Public Sans',sans-serif;font-size:13px;font-weight:500;
+    padding:7px 13px;border-radius:999px;cursor:pointer;transition:all .15s;
+    background:#fff;color:#5c686f;border:1px solid #dddccf;
+  }
+  .chip.on{background:#1b5640;color:#fff;border-color:#1b5640}
+  .chip .dot{width:8px;height:8px;border-radius:2px}
+
+  /* Grid */
+  #grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+  .empty{
+    text-align:center;padding:70px 20px;color:#8a8a7e;background:#fff;
+    border:1px dashed #dddccf;border-radius:12px;grid-column:1/-1;
+  }
+  .empty h3{font-family:'Source Serif 4',serif;font-size:20px;color:#5c686f;margin:0}
+  .empty p{font-size:13px;margin:6px 0 0}
+
+  .card{
+    cursor:pointer;background:#fff;border:1px solid #e7e6dd;border-radius:12px;
+    overflow:hidden;display:flex;flex-direction:column;transition:box-shadow .18s,border-color .18s;
+  }
+  .card:hover{box-shadow:0 12px 28px -16px rgba(18,60,44,.38);border-color:#cfd6cd}
+  .card-img{
+    position:relative;height:124px;
+    background:repeating-linear-gradient(135deg,#eceadf 0 10px,#e6e3d6 10px 20px);
+    display:flex;align-items:flex-end;padding:10px;
+  }
+  .card-cat{
+    position:absolute;top:10px;left:10px;
+    display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:600;
+    background:rgba(255,255,255,.92);padding:4px 9px;border-radius:6px;color:#41474a;
+  }
+  .card-cat .dot{width:9px;height:9px;border-radius:2px;flex-shrink:0}
+  .status-pill{font-size:11px;font-weight:600;color:#fff;padding:4px 10px;border-radius:6px}
+  .status-pill.active{background:rgba(27,86,64,.92)}
+  .status-pill.completed{background:rgba(63,107,110,.92)}
+  .card-body{padding:16px 17px 17px;display:flex;flex-direction:column;flex:1}
+  .card-row{display:flex;justify-content:space-between;align-items:center}
+  .card-meta{font-size:11px;color:#7d8a82;display:inline-flex;align-items:center;gap:5px}
+  .card-id{font-family:'IBM Plex Mono',monospace;font-size:10px;color:#aeac9e}
+  .card-title{font-family:'Source Serif 4',serif;font-size:18px;font-weight:600;line-height:1.25;margin:7px 0 12px;min-height:45px}
+  .progress-row{display:flex;justify-content:space-between;font-size:11px;color:#7d8a82;margin-bottom:5px}
+  .progress-eta{font-family:'IBM Plex Mono',monospace;color:#41474a}
+  .bar{height:7px;background:#eceae1;border-radius:999px;overflow:hidden}
+  .bar > div{height:100%;border-radius:999px}
+  .delay{font-size:11px;font-weight:600;color:#b3721f;margin:11px 0}
+  .card-foot{
+    margin-top:auto;padding-top:13px;border-top:1px solid #f0eee4;
+  }
+  .sent-row{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+  .sent-label{font-size:11px;color:#7d8a82}
+  .sent-num{font-size:12px}
+  .sent-num strong{font-weight:600;color:#2f7d52}
+  .sent-num span{color:#a4a294;font-size:11px}
+  .sent-bar{display:flex;height:7px;border-radius:999px;overflow:hidden;background:#eee}
+  .sent-bar > div{height:100%}
+
+  .card-money{display:flex;justify-content:space-between;align-items:center;margin:13px 0 12px;font-size:12px}
+  .card-money-label{color:#8a8a7e}
+  .card-money-val{font-family:'IBM Plex Mono',monospace;font-weight:500}
+  .card-contractor{color:#8a8a7e;font-size:11px;text-align:right;max-width:130px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+  /* Footer */
+  footer{border-top:1px solid #dddccf;background:#efeee7}
+  .footer-inner{
+    max-width:1240px;margin:0 auto;padding:24px 28px;
+    display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;align-items:center;
+  }
+  .footer-brand{font-family:'Source Serif 4',serif;font-size:15px;color:#41474a}
+  .footer-note{font-size:11px;color:#8a8a7e;max-width:640px;line-height:1.5;text-align:right}
+
+  /* Featured progress */
+  .feat-status{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+  .pill-progress{font-size:12px;font-weight:600;background:#e7f0ea;color:#1b5640;padding:5px 11px;border-radius:6px}
+  .pill-delay{font-size:12px;font-weight:600;background:#fdf0dc;color:#b3721f;padding:5px 11px;border-radius:6px}
+  .feat-prog-row{display:flex;justify-content:space-between;font-size:12px;color:#5c686f;margin-bottom:6px}
+  .feat-prog-row b{font-family:'IBM Plex Mono',monospace;font-weight:500;color:#232a2e}
+  .feat-prog-bar{height:9px;background:#ecebe2;border-radius:999px;overflow:hidden}
+  .feat-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:auto;padding-top:18px;border-top:1px solid #eceadf}
+  .feat-grid > div > div:first-child{font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:#9a9888}
+  .feat-grid > div > div:last-child{font-family:'IBM Plex Mono',monospace;font-size:14px;margin-top:3px}
+  .feat-cat-row{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+  .feat-cat{display:inline-flex;align-items:center;gap:6px;font-size:12px;color:#5c686f}
+  .feat-cat .dot{width:9px;height:9px;border-radius:2px}
+  .feat-id{font-family:'IBM Plex Mono',monospace;font-size:11px;color:#a4a294}
+
+  /* Modal */
+  .modal-backdrop{
+    position:fixed;inset:0;z-index:40;background:rgba(18,40,30,.5);
+    backdrop-filter:blur(3px);display:flex;justify-content:flex-end;
+    animation:nd-fade .2s ease;
+  }
+  @keyframes nd-fade{from{opacity:0}to{opacity:1}}
+  .modal{
+    width:min(640px,100%);height:100%;overflow-y:auto;background:#f6f5ef;
+    box-shadow:-20px 0 60px -20px rgba(0,0,0,.5);
+    animation:nd-slide .25s ease;
+  }
+  @keyframes nd-slide{from{transform:translateX(40px);opacity:.5}to{transform:none;opacity:1}}
+  .modal-hero{
+    position:relative;height:170px;
+    background:repeating-linear-gradient(135deg,#e9e7dc 0 11px,#e3e0d3 11px 22px);
+    display:flex;align-items:flex-end;padding:18px;
+  }
+  .modal-close{
+    position:absolute;top:16px;right:16px;width:34px;height:34px;border-radius:50%;
+    border:none;background:rgba(255,255,255,.9);color:#41474a;font-size:18px;cursor:pointer;line-height:1;
+  }
+  .modal-status{position:absolute;top:18px;left:18px}
+  .modal-cap{
+    font-family:'IBM Plex Mono',monospace;font-size:11px;color:#8f8d80;
+    background:rgba(255,255,255,.72);padding:5px 9px;border-radius:5px;
+  }
+  .modal-body{padding:24px 28px 40px}
+  .modal-meta-row{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+  .modal-meta-row .cat{display:inline-flex;align-items:center;gap:6px;font-size:12px;color:#5c686f}
+  .modal-meta-row .cat .dot{width:9px;height:9px;border-radius:2px}
+  .modal-meta-row .dist{font-size:12px;color:#7d8a82}
+  .modal-meta-row .id{font-family:'IBM Plex Mono',monospace;font-size:11px;color:#a4a294;margin-left:auto}
+  .modal-title{font-family:'Source Serif 4',serif;font-size:26px;font-weight:600;line-height:1.2;margin:0 0 10px}
+  .modal-desc{font-size:14px;line-height:1.65;color:#4a565d;margin:0 0 18px}
+
+  .panel{background:#fff;border:1px solid #e7e6dd;border-radius:10px;padding:16px 18px;margin-bottom:14px}
+  .panel-row{display:flex;justify-content:space-between;font-size:12px;color:#5c686f;margin-bottom:7px}
+  .panel-row b{font-family:'IBM Plex Mono',monospace;font-weight:500;color:#232a2e}
+
+  .facts{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:#e7e6dd;border:1px solid #e7e6dd;border-radius:10px;overflow:hidden;margin-bottom:22px}
+  .facts .cell{background:#fff;padding:13px 16px}
+  .facts .lbl{font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:#9a9888}
+  .facts .v{font-size:13px;margin-top:3px;line-height:1.4}
+  .facts .v.mono{font-family:'IBM Plex Mono',monospace;font-size:14px}
+
+  h4.sect{font-family:'Source Serif 4',serif;font-size:16px;font-weight:600;margin:0 0 12px}
+
+  .lead{display:flex;align-items:center;gap:12px;background:#fff;border:1px solid #e7e6dd;border-radius:9px;padding:10px 14px}
+  .lead-ini{width:36px;height:36px;border-radius:50%;background:#e7f0ea;color:#1b5640;font-weight:600;font-size:13px;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+  .lead-name{font-size:14px;font-weight:600}
+  .lead-role{font-size:12px;color:#7d8a82}
+
+  .timeline{position:relative;margin:0 0 26px;padding-left:4px}
+  .ms-row{display:flex;gap:14px;padding-bottom:16px;position:relative}
+  .ms-col{display:flex;flex-direction:column;align-items:center}
+  .ms-dot{width:15px;height:15px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;flex-shrink:0;z-index:1}
+  .ms-dot.done{border:2px solid #1b5640;background:#1b5640}
+  .ms-dot.todo{border:2px solid #cfcdbf;background:#fff}
+  .ms-line{width:2px;flex:1;background:#dddccf;margin-top:2px}
+  .ms-l{font-size:13px;font-weight:500}
+  .ms-l.done{color:#232a2e}
+  .ms-l.todo{color:#8a8a7e}
+  .ms-d{font-family:'IBM Plex Mono',monospace;font-size:11px;color:#a4a294;margin-top:2px}
+
+  .perception{background:#fff;border:1px solid #e7e6dd;border-radius:12px;padding:20px;margin-bottom:24px}
+  .perception-top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:16px}
+  .perception-sub{font-size:12px;color:#7d8a82;margin-top:2px}
+  .perception-score{font-family:'Source Serif 4',serif;font-size:30px;font-weight:600;color:#1b5640;line-height:1;text-align:right}
+  .perception-score small{font-size:11px;color:#a4a294;display:block}
+  .perception-bar{display:flex;height:11px;border-radius:999px;overflow:hidden;background:#eee;margin-bottom:12px}
+  .perception-bar > div{height:100%}
+  .perception-legend{display:flex;justify-content:space-between;font-size:12px}
+  .perception-legend .pos{color:#2f7d52}
+  .perception-legend .neu{color:#b3892f}
+  .perception-legend .neg{color:#b04a3a}
+
+  .composer{background:#fff;border:1px solid #e7e6dd;border-radius:10px;padding:14px;margin-bottom:16px}
+  .composer-btns{display:flex;gap:8px;margin-bottom:10px}
+  .sent-btn{
+    font-family:'Public Sans',sans-serif;font-size:12px;font-weight:600;cursor:pointer;
+    padding:7px 12px;border-radius:7px;background:#f4f3ee;color:#7d8a82;border:1.5px solid #e7e6dd;
+  }
+  .sent-btn.pos.on{background:#e6f1ea;color:#2f7d52;border-color:#2f7d52}
+  .sent-btn.neu.on{background:#f6efdd;color:#a9802f;border-color:#a9802f}
+  .sent-btn.neg.on{background:#f7e7e3;color:#b04a3a;border-color:#b04a3a}
+  .composer textarea{
+    width:100%;min-height:64px;resize:vertical;
+    font-family:'Public Sans',sans-serif;font-size:13px;color:#232a2e;
+    border:1px solid #dddccf;border-radius:7px;padding:10px;outline:none;box-sizing:border-box;
+  }
+  .composer-foot{display:flex;justify-content:space-between;align-items:center;margin-top:10px}
+  .composer-foot small{font-size:11px;color:#a4a294}
+  .composer button.post{
+    font-family:'Public Sans',sans-serif;font-size:13px;font-weight:600;
+    background:#1b5640;color:#fff;border:none;border-radius:7px;padding:9px 18px;cursor:pointer;
+  }
+
+  .comment{background:#fff;border:1px solid #e7e6dd;border-radius:10px;padding:13px 15px}
+  .comment-head{display:flex;align-items:center;gap:10px;margin-bottom:7px}
+  .comment-ini{width:30px;height:30px;border-radius:50%;background:#eef1ea;color:#41474a;font-weight:600;font-size:12px;display:flex;align-items:center;justify-content:center}
+  .comment-name{font-size:13px;font-weight:600}
+  .comment-loc{font-size:11px;color:#a4a294}
+  .comment-tag{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.4px;padding:3px 8px;border-radius:5px}
+  .comment-tag.pos{background:#e6f1ea;color:#2f7d52}
+  .comment-tag.neg{background:#f7e7e3;color:#b04a3a}
+  .comment-tag.neu{background:#f6efdd;color:#a9802f}
+  .comment p{font-size:13px;line-height:1.55;color:#41474a;margin:0}
+  .comment-count{font-family:'IBM Plex Mono',monospace;font-size:12px;color:#a4a294;font-weight:400}
+
+  .sources{margin-top:24px;padding-top:18px;border-top:1px solid #dddccf}
+  .sources-lbl{font-size:10px;text-transform:uppercase;letter-spacing:.6px;color:#9a9888;margin-bottom:9px}
+  .sources-row{display:flex;flex-wrap:wrap;gap:8px}
+  .source{display:inline-flex;align-items:center;gap:6px;font-size:12px;background:#fff;border:1px solid #e0dfd3;color:#5c686f;padding:6px 11px;border-radius:7px}
+
+  /* responsive */
+  @media (max-width:980px){
+    #stats{grid-template-columns:repeat(2,1fr)}
+    .featured{grid-template-columns:1fr}
+    #grid{grid-template-columns:repeat(2,1fr)}
+  }
+  @media (max-width:640px){
+    main{padding:20px 16px 60px}
+    .nd-header-inner{padding:14px 16px}
+    #stats{grid-template-columns:1fr 1fr}
+    #grid{grid-template-columns:1fr}
+    .controls input{width:100%}
+    .filter-bar{flex-direction:column;align-items:stretch}
+    .controls{flex-wrap:wrap}
+    .facts{grid-template-columns:1fr}
+  }
+</style>
+</head>
+<body>
+
+<header class="nd-header">
+  <div class="nd-header-inner">
+    <div class="nd-brand">
+      <span class="nd-brand-hi">निर्माण दर्पण</span>
+      <div style="display:flex;flex-direction:column;gap:1px">
+        <span class="nd-brand-en">Nirman Darpan</span>
+        <span class="nd-tagline">Himachal Pradesh · Public works, in public view</span>
+      </div>
+    </div>
+    <div class="nd-sync">
+      <span class="nd-sync-dot"></span>
+      <span class="nd-sync-text" id="sync-time">Auto-synced —</span>
+    </div>
+    <div class="nd-sources">
+      <span class="nd-sources-label">Sources</span>
+      <span class="nd-source-chip">Govt portals</span>
+      <span class="nd-source-chip">Press</span>
+      <span class="nd-source-chip">Verified social</span>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section id="stats"></section>
+  <p class="disclaimer">Compiled automatically from official tender &amp; departmental portals, district press reporting, and verified social accounts. Figures reflect the latest available public record — independently sourced, not government-endorsed.</p>
+
+  <div id="featured-wrap"></div>
+
+  <div class="filter-bar">
+    <div class="tabs">
+      <button id="tab-active" class="tab on" data-tab="active">Active <span class="tab-count" id="count-active">—</span></button>
+      <button id="tab-completed" class="tab" data-tab="completed">Completed <span class="tab-count" id="count-completed">—</span></button>
+    </div>
+    <div class="controls">
+      <input id="search" placeholder="Search projects, contractors…" autocomplete="off">
+      <select id="district"></select>
+      <select id="sort">
+        <option value="attention">Sort: Needs attention</option>
+        <option value="progress">Sort: Most progress</option>
+        <option value="budget">Sort: Largest outlay</option>
+        <option value="discussed">Sort: Most discussed</option>
+      </select>
+    </div>
+  </div>
+
+  <div id="chips"></div>
+
+  <section id="grid"></section>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <span class="footer-brand">निर्माण दर्पण · Nirman Darpan</span>
+    <span class="footer-note">An independent civic-transparency project. Data is aggregated from public records and may contain reporting lags or errors — verify against official sources before acting. Not affiliated with the Government of Himachal Pradesh.</span>
+  </div>
+</footer>
+
+<div id="modal-root"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
