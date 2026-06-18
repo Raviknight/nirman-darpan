@@ -385,6 +385,34 @@
   .comment p{font-size:13px;line-height:1.55;color:#41474a;margin:0}
   .comment-count{font-family:'IBM Plex Mono',monospace;font-size:12px;color:#a4a294;font-weight:400}
 
+  /* Public conversation panel (Phase 3.1 — press aggregation) */
+  .social-panel{background:#fff;border:1px solid #e7e6dd;border-radius:12px;padding:18px;margin-bottom:24px}
+  .social-panel .social-head{display:flex;justify-content:space-between;align-items:flex-start}
+  .social-sub{font-size:12px;color:#7d8a82;line-height:1.4}
+  .social-loading,.social-empty{font-size:13px;color:#7d8a82}
+  .social-langbar{display:flex;height:8px;border-radius:999px;overflow:hidden;background:#eee;margin-top:12px}
+  .social-langbar > div{height:100%}
+  .social-langbar + div .dot{display:inline-block;width:8px;height:8px;border-radius:2px;vertical-align:middle;margin-right:4px}
+  .social-list{display:flex;flex-direction:column;gap:8px;margin-top:14px}
+  .social-row{display:block;padding:10px 12px;border:1px solid #eceadf;border-radius:8px;text-decoration:none;color:inherit;transition:border-color .12s,background .12s}
+  .social-row:hover{border-color:#cfd6cd;background:#fbfbf7}
+  .social-row-title{font-size:13px;line-height:1.4;color:#232a2e;font-weight:500;margin-bottom:4px}
+  .social-row-meta{font-size:11px;color:#8a8a7e;display:flex;align-items:center;gap:6px}
+  .social-lang-tag{font-size:9px;font-weight:700;letter-spacing:.5px;padding:1px 5px;border-radius:3px;text-transform:uppercase}
+  .social-lang-tag.en{background:#eef0f6;color:#3a5a7d}
+  .social-lang-tag.hi{background:#f5eee4;color:#7d5a3a}
+  .social-more{
+    margin-top:12px;width:100%;background:#f4f3ee;color:#5c686f;
+    border:1px solid #dddccf;border-radius:7px;padding:8px;
+    font-family:'Public Sans',sans-serif;font-size:13px;font-weight:600;cursor:pointer;
+  }
+  .social-more:hover{background:#eceadf}
+  .social-method{
+    font-size:11px;color:#a4a294;margin:14px 0 0;line-height:1.5;
+    padding-top:12px;border-top:1px solid #f0eee4;
+  }
+  .social-method a{color:#5c686f;text-decoration:underline}
+
   .sources{margin-top:24px;padding-top:18px;border-top:1px solid #dddccf}
   .sources-lbl{font-size:10px;text-transform:uppercase;letter-spacing:.6px;color:#9a9888;margin-bottom:9px}
   .sources-row{display:flex;flex-wrap:wrap;gap:8px}

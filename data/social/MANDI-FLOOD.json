@@ -1,0 +1,24 @@
+{
+    "updated_at":  "2026-06-18T20:37:43.8871282Z",
+    "project_id":  "MANDI-FLOOD",
+    "counts":  {
+                   "press":  null,
+                   "gov":  0,
+                   "en":  0,
+                   "hi":  null,
+                   "total":  null
+               },
+    "mentions":  [
+                     {
+                         "title":  "Fourlane : 5621 करोड़ से बनेगा ब्यास लेफ्ट बैंक फोरलेन, NHAI बदलेगा अलाइनमेंट - Divya Himachal",
+                         "source":  "Divya Himachal",
+                         "source_id":  "google-news-hi",
+                         "url":  "https://news.google.com/rss/articles/CBMivAJBVV95cUxOdTRMWjRPZG5yNG1ydU9CVkQxdHlxTjRqY0ZhdWZTT0R3dmN3TkFqRWprbDgwNjZnTHJCbVdESm5aVDFZbHBLY3ZTMEloVElLN1Rld3dKeFFoc3JoMjNhLWNMa0poWWRzaXFueUE1Z2RjM0owSFF2eDBMQUR4Y2VybEdicDVMdlBTSHdlTUw0eXpRakptdUphSzB0SjB2RVVoWVMwWEdLeEpWclg5bUViN2RVQkxWYnAydVJZbWl1LTl2U0JHcUlNaWprRkJRcFFvSzktVUU4UTFIaGJScW9DZ1FydEk3bWlTanpSZFNTSkhIbzRCT2dxTUtkUmxpYUFfUFhRby02VjRLQWRXQ3I5UGp2RW4tMGVoNmRBaXhLRzR5YV9jbDNMUXAzRS1HMnE2X1ZfUTRrMjd3YWJj0gHCAkFVX3lxTE9ZeWo2NFE0elFpaVZZcnB5NUtaQVdENUYyNjhZMjdMUENzMl9zREs2Tjl3MHdOWkNkN1RoM3FUdkRrcVdEQ1RGaG1ka1NXMDN4dVVyaW5vMjhMSVgzVlJQRHpGNXJuY2ptY0t2Tm1iNTR6VkpNOFBGRmhNYjN1Z3A4dFRwbUN3T0JhZ21WZkpfV3hmaU4wNTh4Zm9fQ1BNUzVSTXNqYUNrdnZaSEF0d192Y3pQWHJmaW1YZHY4dDJ1aDZzRWp2ODVRTnkzQmVEalNEVWdkVWQ5cjVZcXZ2SXExVGhKcW1fOFhrOWlLN1VrSWRjT2Z5UUd6Q2o4LS1oYlBnZGJvdGdrQXhRUkhZaHZWQ0toQTBBT3VzOUxlYTZpOEFGQVBjQ0xxM2VKOU5tTVhwdDdQaXlTaF85RmhqMmlLbnc?oc=5",
+                         "date":  "2025-11-04T08:00:00.0000000Z",
+                         "kind":  "press",
+                         "lang":  "hi",
+                         "match":  "Aut Bajaura road"
+                     }
+                 ],
+    "methodology":  "Google News (India) en-IN + hi-IN. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+}

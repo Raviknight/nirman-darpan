@@ -504,6 +504,101 @@ function renderGrid(){
 }
 
 // ---- modal ----
+
+// Cache for data/social/<id>.json (filled lazily on first modal open per project).
+const socialCache = {};
+
+async function loadSocial(id){
+  if (id in socialCache) return socialCache[id];
+  try {
+    const r = await fetch(`data/social/${encodeURIComponent(id)}.json`, { cache: 'no-store' });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    socialCache[id] = await r.json();
+  } catch (_) {
+    socialCache[id] = null;
+  }
+  return socialCache[id];
+}
+
+function timeAgo(iso){
+  if (!iso) return '';
+  const d = new Date(iso); if (isNaN(d.getTime())) return '';
+  const sec = Math.max(1, Math.round((Date.now() - d.getTime()) / 1000));
+  if (sec < 60) return sec + 's ago';
+  const min = Math.round(sec / 60); if (min < 60) return min + ' min ago';
+  const h = Math.round(min / 60); if (h < 24) return h + 'h ago';
+  const day = Math.round(h / 24); if (day < 31) return day + ' day' + (day===1?'':'s') + ' ago';
+  return d.toLocaleDateString('en-IN', { day:'2-digit', month:'short', year:'numeric' });
+}
+
+function renderSocialPanel(id){
+  const data = socialCache[id];
+  if (data === undefined) {
+    // not loaded yet — kick off and render a placeholder
+    loadSocial(id).then(() => {
+      const el = document.getElementById('social-panel-' + id);
+      if (el) el.innerHTML = renderSocialPanel(id);
+    });
+    return `<div class="social-loading">Loading public conversation…</div>`;
+  }
+  if (!data || !data.mentions) {
+    return `<div class="social-empty">
+      <h4 class="sect" style="margin:0 0 6px">Public conversation</h4>
+      <p style="font-size:13px;color:#7d8a82;margin:0 0 4px;line-height:1.5">
+        No mentions yet from the press-RSS sweep. Either the auto-sync workflow hasn't run since this project was added, or the query didn't match anything in the latest news pool.
+      </p>
+    </div>`;
+  }
+  const total = data.counts?.total || 0;
+  const en = data.counts?.en || 0;
+  const hi = data.counts?.hi || 0;
+  const mentions = (data.mentions || []).slice(0, 5);
+  const updated = data.updated_at ? timeAgo(data.updated_at) : '';
+  const langStrip = (en + hi > 0) ? `
+    <div class="social-langbar" aria-label="Language mix">
+      <div style="width:${total ? Math.round(en/total*100) : 0}%;background:#3a5a7d" title="English: ${en}"></div>
+      <div style="width:${total ? Math.round(hi/total*100) : 0}%;background:#7d5a3a" title="Hindi: ${hi}"></div>
+    </div>
+    <div style="display:flex;justify-content:space-between;font-size:11px;color:#7d8a82;margin-top:4px">
+      <span><span class="dot" style="background:#3a5a7d"></span> English ${en}</span>
+      <span><span class="dot" style="background:#7d5a3a"></span> Hindi ${hi}</span>
+    </div>
+  ` : '';
+  const list = mentions.length ? mentions.map(m => `
+    <a href="${esc(m.url)}" target="_blank" rel="noopener nofollow" class="social-row">
+      <div class="social-row-title">${esc(m.title)}</div>
+      <div class="social-row-meta">
+        <span>${esc(m.source || 'News')}</span>
+        ${m.date ? `<span>· ${esc(timeAgo(m.date))}</span>` : ''}
+        ${m.lang === 'hi' ? `<span class="social-lang-tag hi">हिं</span>` : (m.lang === 'en' ? `<span class="social-lang-tag en">EN</span>` : '')}
+      </div>
+    </a>
+  `).join('') : `<div style="font-size:13px;color:#7d8a82;padding:6px 0">No items yet.</div>`;
+  const moreRow = (data.mentions.length > 5)
+    ? `<button class="social-more" data-pid="${esc(id)}" type="button">Show all ${data.mentions.length} mentions</button>`
+    : '';
+  return `
+    <div class="social-head">
+      <div>
+        <h4 class="sect" style="margin:0 0 2px">Public conversation</h4>
+        <div class="social-sub">
+          <b>${total}</b> press mention${total === 1 ? '' : 's'} aggregated
+          ${updated ? `· refreshed ${esc(updated)}` : ''}
+        </div>
+      </div>
+    </div>
+    ${langStrip}
+    <div class="social-list">${list}</div>
+    ${moreRow}
+    <p class="social-method">
+      Aggregated from Indian press via Google News (en-IN + hi-IN).
+      Headlines link to the original publisher — we do not repost text.
+      No automated sentiment scoring; read the headline.
+      <a href="data/sources.md" target="_blank">Methodology</a>
+    </p>
+  `;
+}
+
 function composerOverlay(){
   if (!NIRMAN_AW) {
     return `<div style="position:absolute;inset:0;background:rgba(255,255,255,.55);backdrop-filter:blur(1px);border-radius:10px;display:flex;align-items:center;justify-content:center;text-align:center;padding:14px;font-size:12px;color:#5c686f;line-height:1.5;z-index:1">
@@ -662,6 +757,8 @@ function renderModal(){
             </div>
           `}
 
+          <div id="social-panel-${esc(p.id)}" class="social-panel">${renderSocialPanel(p.id)}</div>
+
           <h4 class="sect">Citizen comments <span class="comment-count">${cm.length}</span></h4>
 
           <div class="composer" style="position:relative">
@@ -764,6 +861,28 @@ function wireModal(){
   if (composerSignIn) {
     composerSignIn.addEventListener('click', openSignInCard);
   }
+
+  // "Show all N mentions" — expand the social panel inline.
+  root.querySelectorAll('.social-more').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const pid = btn.getAttribute('data-pid');
+      const data = socialCache[pid];
+      if (!data || !data.mentions) return;
+      const list = btn.previousElementSibling; // .social-list
+      const allHtml = data.mentions.map(m => `
+        <a href="${esc(m.url)}" target="_blank" rel="noopener nofollow" class="social-row">
+          <div class="social-row-title">${esc(m.title)}</div>
+          <div class="social-row-meta">
+            <span>${esc(m.source || 'News')}</span>
+            ${m.date ? `<span>· ${esc(timeAgo(m.date))}</span>` : ''}
+            ${m.lang === 'hi' ? `<span class="social-lang-tag hi">हिं</span>` : (m.lang === 'en' ? `<span class="social-lang-tag en">EN</span>` : '')}
+          </div>
+        </a>
+      `).join('');
+      list.innerHTML = allHtml;
+      btn.remove();
+    });
+  });
 }
 
 // ---- map module ----

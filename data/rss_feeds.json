@@ -1,0 +1,19 @@
+{
+  "_doc": "Sources polled by scripts/social_sync.mjs. We primarily use Google News RSS (free, query-driven, aggregates many Indian publishers — bypasses individual publisher anti-bot blocks). The 'static' feeds are kept as a safety net; many publishers' direct RSS endpoints now 403 automated requests.",
+  "google_news": {
+    "enabled": true,
+    "endpoint": "https://news.google.com/rss/search",
+    "locales": [
+      { "hl": "en-IN", "gl": "IN", "ceid": "IN:en", "tag": "en" },
+      { "hl": "hi-IN", "gl": "IN", "ceid": "IN:hi", "tag": "hi" }
+    ]
+  },
+  "static_feeds": [
+    {
+      "id": "the-hindu-national",
+      "name": "The Hindu · National",
+      "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+      "kind": "press"
+    }
+  ]
+}
