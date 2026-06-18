@@ -11,7 +11,7 @@
 window.NIRMAN_APPWRITE = {
   endpoint:   "https://nyc.cloud.appwrite.io/v1",
   projectId:  "6a34470a0010b8e65407",
-  databaseId: "main",
+  databaseId: "6a344b6f002c3a7ca279",
   collections: {
     comments: "comments",
     votes:    "votes",
