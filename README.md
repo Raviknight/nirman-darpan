@@ -20,7 +20,8 @@ This is the **Phase-1 static prototype** of the product — a no-build vanilla H
 │   ├── projects.js           — project dataset (loaded as a <script>)
 │   ├── hp-districts.js       — HP district polygons (simplified from geohacker/india)
 │   ├── meta.json             — rewritten by the auto-sync job
-│   └── sources.md            — catalogue of legit sources by authority level
+│   ├── sources.md            — catalogue of legit sources by authority level
+│   └── config.js             — runtime config (paste Appwrite IDs here when ready)
 ├── scripts/
 │   └── sync.mjs              — Node script the scheduled job runs
 ├── .github/workflows/
