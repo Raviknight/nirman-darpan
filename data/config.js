@@ -9,8 +9,8 @@
 // app.js wires up Appwrite for comments, votes, and verified resident sign-in.
 
 window.NIRMAN_APPWRITE = {
-  endpoint:   "https://fra.cloud.appwrite.io/v1",   // region prefix matches your Appwrite project
-  projectId:  "PASTE_PROJECT_ID_HERE",              // ← put your real Project ID here
+  endpoint:   "https://nyc.cloud.appwrite.io/v1",
+  projectId:  "6a34470a0010b8e65407",
   databaseId: "main",
   collections: {
     comments: "comments",
