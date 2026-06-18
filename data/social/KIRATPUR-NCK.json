@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-06-18T20:41:10.741Z",
+  "updated_at": "2026-06-18T21:17:43.840Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
-    "press": 201,
+    "press": 238,
     "gov": 0,
-    "en": 100,
-    "hi": 101,
-    "total": 201
+    "en": 136,
+    "hi": 102,
+    "total": 238
   },
   "mentions": [
+    {
+      "title": "Kiratpur-Nerchowk project: HC-ordered audit uncovers over Rs 22cr scam - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeFpCOWFlcDdzdHVNMTMyVmV4YVpseUxTSkJ3aDlpb1Z6VFNxNkJ6ek9RSDFDZGlfaFdLUmJzRVlHM1FseVZyMURLa1Ntb2lKMWp0dUNWTU85NGFBSDBFUE1qUWpaWVF5Tm1VbDdGaEIxRUJkZW5VNkE4Y05UT2lmSUI5YnM5ZFppcnJiY0FQc2t1RDdhRVFWeUFzRjcwWTluLWRUekZCOVRpM3ZneGFRcGJseVdMUHdWTmU2NUlOd2tZNUhrbVd0cFJNSHA3YnNSSXoyaFppNnlPRTNkem5kUdIB5gFBVV95cUxQZ19YakdlMWFPRjNkVzFyQ2dDck5id0dCaDIwMkhoS1JDSzJha2pUeEFCTEtiUG1feTAyN1pxOW93OWlNbkdaTGxWbHlhdXpHaG5vWUFpdHJtLXB1LTdyU3R3cGdUVlhjNWlRNG1PWmxSdmo0SnlZZjJoS29PTjlPSmVYUGpudGFQd3ROdVF0c3oxRjV3dnl2NE9oa3NMWXRlR2JubjJNZUprbFF4Z2RIWmhzQTE3Y2JTbDBFNDRCT0FUR1BkTEVmNXhXdFZlNEhHUE8wdkRSeHNuVXNQMEZxWlA4ZWpDUQ?oc=5",
+      "date": "2026-06-14T18:02:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Kiratpur Nerchowk"
+    },
     {
       "title": "हिमाचल में टूरिस्ट सीजन में चंडीगढ़ मनाली हाईवे पर भीषण ट्रैफिक जाम - Aaj Tak News",
       "source": "Aaj Tak News",
@@ -197,16 +207,6 @@
       "date": "2026-03-26T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "Punjab youth dies in road accident on Chandigarh-Manali highway - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWVNXZ1ZPTHFNYWpSRERlMlVvbHNNM1pka0hpTXZxNlppSGxKTlMtR3gtXzk0NkduZ3VzaVRSX1pTLUxwbTczck8wUHk5M2R6TmllOGNlT01MemQyNzZPMVh1aXNpZml2cXo4OWRPZkpMTmRBc0pzd2d2eE8wYVJFZHQ3U1JCWXJFUm56WUhrS3k2dmVldjlWWGs5TlBkbm5qMTdNNktMVURfaTc4WEJtcWpPY2FQTXUxT3lxb0pBWkdQNmFTQzNKLWlpWk1kdFhfUkREQVRWWknSAd4BQVVfeXFMT3pSUElISnlGZTA1eVZVc3JvYmpCa00tckJ1Uk1rWkRiZWUxMjdmczNsVkR3bVVzWmRtblFzWFV2eERjR0dLSzlWZjRQQklMVVMxVWJvS09DU08za1VhQkdUNEZBN1ZPNkphYWRtblYyVm4tWm41aC1leF9Ed3Vka0JVN0JTVWpaWUp2cmlrMHl1X0ZXM1VoQmxHY3pUSjRnTkt4Y2tQMlU3dGhsd3JjV0VpeHAwTFBlNFhYd2pCZzFOWnBHQ2VoUHpGY2gwbjItU0J4WFdIMVM1bE41Rkxn?oc=5",
-      "date": "2026-03-06T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Chandigarh Manali highway"
     }
   ],

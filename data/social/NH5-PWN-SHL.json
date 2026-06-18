@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-18T20:41:08.336Z",
+  "updated_at": "2026-06-18T21:17:41.203Z",
   "project_id": "NH5-PWN-SHL",
   "counts": {
-    "press": 45,
+    "press": 44,
     "gov": 0,
-    "en": 31,
+    "en": 30,
     "hi": 14,
-    "total": 45
+    "total": 44
   },
   "mentions": [
     {
@@ -17,6 +17,16 @@
       "date": "2026-05-26T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Kaithlighat Dhalli"
+    },
+    {
+      "title": "Landslide at Shimla in 2025 an 'act of god', NHAI tells NGT, rejecting compensation claim - The New Indian Express",
+      "source": "The New Indian Express",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHo2bDBRdUc1MnV6NkNxZ0JnOVBfX2hvYTFOUlVRa1pGVmlfM3NmYUF4UFlsaUIxbmRId3AwcDlqLUtPZWtteWQ4dUcwaG5UdS00TGU4UW1SbXlycEJYbm5DNHdJQjJKb0FiWEpXSWxLdHN2emNzTFp2dXpYaFdFdVJhWWpvcmt6dTZxNXVyd3VKXzNLZ2pGS2JWOUtpM2Q5LU1jeGpkTzktaUh3TTRXUXNWbVVIMU9uaGtQTWNwT3RVbV9IQjFSUXFuQmY0dWFKZGfSAd8BQVVfeXFMTmd2c0NHT2YyRFl0bHFuRUZXeU5rRGtBdzQ2cDBqeGVZWnBLaEF1V0ZhS0hOdFBPaG12NmVJdlJjeDMza20yOEN5dG91QUpBV19jcWxaOFZjTHpJeDR3U2ZhM29IRlpIcHV6SHMtUjc3UVl0LXA4MmgxZXlpcXhxeUZfemhlVHlyYlFyd05IN2ZxbjVVZUpURFNOZ21FSGQxbV9qMkRYM0F5T3lFQXEwcUo4SGxIeXZXRjNiYXE0Mi1KSTlZaTJoSjVmWGZzLTR1NGVZNVEzUG5RYjFRb2FRVQ?oc=5",
+      "date": "2026-05-22T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Kaithlighat Dhalli"
     },
     {
@@ -168,16 +178,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Kaithlighat Dhalli"
-    },
-    {
-      "title": "SJVN Collaborates with NHAI to Enhance Infrastructure Development Through Technical Consultancy Services - The News Himachal",
-      "source": "The News Himachal",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV05xQU40SEtWREdmOWMxaldDZ09NVFVBUF9VeGNLY2tGVXRBTTN1OU4wd2dLcXFrUy1NSGZiUDVDNDZGNkpxZ25PVmNVNERHb0FCODdTTng5YU9WeHd1T0Q1UXdOMmV3VmFVNGdacDVtMHZnNHFaaFEyMUdMY19VV0htMjg3STR5SkhvelRhdHhiX0tfY19UR0pBODhENlppY0ZUZzJ6NE4yU05wb1d0TlQyZTNva1JLbGNENVVmbWlxZUEwb3gtX0dnX1IxMWRJV1dVSTEtUzE?oc=5",
-      "date": "2024-01-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Parwanoo Solan Shimla"
     },
     {
       "title": "Vertical hill cutting, lack of paved shoulders to blame for damage to Parwanoo-Solan road - The Tribune",

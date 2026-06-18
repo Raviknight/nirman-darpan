@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T20:41:28.688Z",
+  "updated_at": "2026-06-18T21:18:02.140Z",
   "project_id": "IIT-MANDI",
   "counts": {
     "press": 254,
@@ -25,6 +25,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3FKRGFQRkNuMXNhbU5lZ0ZyZTlPZFlSb0NlbVRvLVdRd1VxekcwWEx5WmZXOFJRZ05WQjFtRW95cTNUcU9TSHhJZTFYNG1VRGkteDVwMFJ0MjZDcHN6a2dhVlo3d3NpVUdla3BKYU84YXFYOGxRNFRCOGswRDRqNlBlZnFja3ZQZlZIOWtDTExaY3dfSERZZlhlTjNqdXMzbmI5RWZpRlE5bEVnanFnZWpUZEHSAbsBQVVfeXFMUE1TVzdmbUMyVVFxYS1aZW5oX0JlRThieFJpaDRMNlotbEFwazl0Unc5LUlQZ0M4dEdNaVBINHQ4UkRHd0V2SVc5TVh5YTUteXY5ZjJMSW1ldnNQcGJNQnJKRVoxcTJNZXJCck1BWUNLdmMxTTh1a3VjX28yZ2JSMVMtQWQ4TkIyenlHVzE0RWdzU0lkVXFGU3dzOWxGemNoUWcwOGhLbXdpNUdTQWVackJYX05Sc2JpTXE0cw?oc=5",
       "date": "2026-06-16T04:20:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "Mandatory for IIT Mandi students to attend event on 'Afterlife' | Tap to know more | Inshorts - Inshorts",
+      "source": "Inshorts",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODRoN3loNkoyNGRpVDZsenJMS2FDRzlocDQzbjdWOXBVTVlkTEdZWE5iVzFvSXhIR3NzRnRXZTNETXV0TjY4RmQzaVFkZTFUZlFwa1JQNWx3bzQ0R0hJcGpqSzN4LWFEUGdoUWpvaWRFTXl3RVRYckxOam94azNUeWRidVh6S0xrbXllTC04X21BQktlZXBIb1pMbVQ5RFdFZ3pzT2ZLRmJHZ9IBrwFBVV95cUxNeTJaRXFHZ0doRWFpckZxTWNIYjJ2VTBXX1VNbDZCblF0RkFVeHhjamRlZXJrdW5HY1NnSlRVUUxvSnFlRDhVWHFfM0Y1SVRuTW9CdV9SMTN6V29vLWlpbmgtRFFMUEhVWXdPSlRwZmRvbTZhSlo5M0paM1BnV3lFTGVkMDNCOEhkUWRMcWloM1BiZjM2ZkJMSGpLeE1IbTFGZlY1WlJZVDVCTmQwMUM0?oc=5",
+      "date": "2026-06-15T15:20:19.000Z",
       "kind": "press",
       "lang": "en",
       "match": "IIT Mandi"
@@ -160,16 +170,6 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "IIT Mandi unveils first-of-its-kind quantum BTech - EdexLive",
-      "source": "EdexLive",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdW5OT0hpQkw0WVFid3hnYU0waU1UWk94ODlrWnFpQnQxVHM2bHB6QXVHNzlGYkVvOXJiNXYxc1Y5Qm9XVWhBaHJEUndVNHUxRUs2SE9LNWZVR29Ob3AyeXpPbGZucXdfZUlzSTYzdmNqeEJLWlJrZXMwYkFBY2JIbVpJSGxVVXVaMy1wcTQ2aXlnS01GaGViU0hUSXJrYXFXNlFScHZPNzJsVFJTbTg3MEFSeC1kY0NWd3UyYzdUVFFjZ9IBzwFBVV95cUxQYzJFQlg5eWpLenMtamdyVm14NnI4VDhGVTBkTWx2ci1fZ1YxaVE1blZOb1M0Rmdpb1lZUkNuT2ROMGR4Zk4yUGlUQXNIZmE4bVNFa2dFdkdZeEVuYmhCYVZDbzdldUZMenRPSFh6blY4ODhsdFJvUVlxSmtaOFZmTGxBcGFfMDA3bVREek5jS2hLS2JFUlZNN2RROFJnZXc3RWZUUFdteDZ0ZGV3NDBXR3VjSjdNMGhxV2otWXJvZnpTVEdJV2lBZWVEM0dpQmM?oc=5",
-      "date": "2026-06-09T07:45:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "IIT Mandi launches B.Tech Programme In Quantum Science And Engineering - NDTV",
       "source": "NDTV",
       "source_id": "google-news-en",
@@ -190,6 +190,16 @@
       "match": "IIT Mandi"
     },
     {
+      "title": "IIT Mandi launches India’s first IIT B.Tech programme in Quantum Science and Engineering - Bilkul Online",
+      "source": "Bilkul Online",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmR2UGs3YkRKX0hYejhFRUJiZDJFWXhKMGFBNEp1bHFsOFdaVGFfSDZTWl82VzNhNktYckNoWEZDcHo3b2RkWGl6UzNna2lzSWtHMmdmUnMzQU82MzVEc0NVQVRFNTN2ZE1vOEFOVktES1Zidi1nMEhPMkl2ek5wdkZkUlNQZWJ2VmgwMU5EckpuY1NKWkp3dUxlaWp3ZWVSRmpFMmJxU0dabGJMenh5VVJ6REFQWjZwYlFndnJSV0NlQQ?oc=5",
+      "date": "2026-06-09T06:48:24.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
       "title": "Himachal: आईआईटी मंडी में अब क्वांटम साइंस इंजीनियरिंग की भी होगी पढ़ाई, तीन नए बीटेक कोर्स शुरू - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -197,16 +207,6 @@
       "date": "2026-06-08T23:30:03.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "3 new BTech programmes at IIT-Mandi - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVUpVNGNnZXg4c3JUcEdBbmJiaGZJUGs3dk5FajJkTjNVbmZjZTFFSk1vMzl2ZklQMW9nc0dQVW14NnA0WkRNNGZaUndVandDbDNyNzJZN2ZaX2k3U3VMMzFxY2hUQmo4b1AweUEwTkdLOHRVYzVpZF94Mk9JNk9iemtxTkRHZw?oc=5",
-      "date": "2026-06-08T20:06:06.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "IIT Mandi"
     }
   ],
