@@ -205,7 +205,18 @@ const D = [
 ];
 
 const FEATURED_ID = 'NH5-PWN-SHL';
-const SYNC_TIME = '18 Jun 2026, 09:40 IST';
+
+function syncTimeIST(){
+  const fmt = new Intl.DateTimeFormat('en-IN', {
+    day: '2-digit', month: 'short', year: 'numeric',
+    hour: '2-digit', minute: '2-digit', hour12: false,
+    timeZone: 'Asia/Kolkata',
+  });
+  const parts = fmt.formatToParts(new Date());
+  const get = (t) => parts.find(p => p.type === t)?.value || '';
+  return `${get('day')} ${get('month')} ${get('year')}, ${get('hour')}:${get('minute')} IST`;
+}
+const SYNC_TIME = syncTimeIST();
 
 // ---- state ----
 const state = {
