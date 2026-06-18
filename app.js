@@ -61,6 +61,8 @@ const state = {
   draftSentiment: 'positive',
   draftText: '',
   commentsById: Object.fromEntries(D.map(p => [p.id, p.comments.slice()])),
+  mapMode: 'choropleth',
+  mapMetric: 'count',
 };
 
 function fillColor(p){
@@ -477,6 +479,264 @@ function wireModal(){
   }
 }
 
+// ---- map module ----
+
+const HP_DISTRICTS = (window.NIRMAN_HP_DISTRICTS && window.NIRMAN_HP_DISTRICTS.features) || [];
+
+const PALETTE_PINE   = ['#f4f3ee', '#d8e2dc', '#a8c6b3', '#5c9379', '#1b5640'];
+const PALETTE_OCHRE  = ['#fdf6ec', '#f3deb3', '#e2b974', '#c08e35', '#7a5a1e'];
+const PALETTE_BLUE   = ['#f1f3f6', '#d6dee9', '#a3b7cc', '#5e7fa1', '#2b4a6f'];
+
+function metricFor(metric){
+  const acc = {}; // district name → {count, budget, flagged, sentSum, sentN}
+  for (const f of HP_DISTRICTS) {
+    acc[f.properties.name] = { count:0, budget:0, flagged:0, sentSum:0, sentN:0 };
+  }
+  for (const p of D) {
+    if (p.status !== 'active') continue;
+    for (const d of (p.dists || [])) {
+      const a = acc[d]; if (!a) continue;
+      a.count++; a.budget += p.budget; if (p.delayed) a.flagged++;
+      a.sentSum += p.sentiment.p; a.sentN++;
+    }
+  }
+  const out = {};
+  for (const [name, a] of Object.entries(acc)) {
+    let v = 0;
+    if (metric === 'count') v = a.count;
+    else if (metric === 'budget') v = a.budget;
+    else if (metric === 'flagged') v = a.flagged;
+    else if (metric === 'sentiment') v = a.sentN ? a.sentSum / a.sentN : 0;
+    out[name] = { value: v, count: a.count, budget: a.budget, flagged: a.flagged };
+  }
+  return out;
+}
+
+function paletteFor(metric){
+  if (metric === 'flagged') return PALETTE_OCHRE;
+  if (metric === 'sentiment') return PALETTE_PINE;
+  if (metric === 'budget') return PALETTE_BLUE;
+  return PALETTE_PINE;
+}
+
+function colorFor(value, max, palette){
+  if (max <= 0 || value <= 0) return palette[0];
+  const t = Math.min(0.9999, value / max);
+  const idx = Math.min(palette.length - 1, Math.floor(t * palette.length));
+  return palette[idx];
+}
+
+function fmtMetric(metric, v){
+  if (metric === 'budget') return '₹' + Math.round(v).toLocaleString('en-IN') + ' Cr';
+  if (metric === 'sentiment') return Math.round(v) + '% positive';
+  return Math.round(v) + (metric === 'flagged' ? ' flagged' : ' projects');
+}
+
+function bboxOfFeatures(){
+  let minLng=Infinity, maxLng=-Infinity, minLat=Infinity, maxLat=-Infinity;
+  for (const f of HP_DISTRICTS) {
+    for (const ring of f.geometry.coordinates) {
+      for (const [lng, lat] of ring) {
+        if (lng < minLng) minLng = lng; if (lng > maxLng) maxLng = lng;
+        if (lat < minLat) minLat = lat; if (lat > maxLat) maxLat = lat;
+      }
+    }
+  }
+  return { minLng, maxLng, minLat, maxLat };
+}
+
+function projector(box, W, H, pad){
+  const w = box.maxLng - box.minLng, h = box.maxLat - box.minLat;
+  // equirectangular with latitude-aware aspect (HP is at ~31° N, cos(31°) ≈ 0.857)
+  const cos = Math.cos((box.minLat + box.maxLat) / 2 * Math.PI / 180);
+  const aspect = (w * cos) / h;
+  const innerW = W - 2 * pad, innerH = H - 2 * pad;
+  let drawW, drawH;
+  if (aspect > innerW / innerH) { drawW = innerW; drawH = innerW / aspect; }
+  else { drawH = innerH; drawW = innerH * aspect; }
+  const ox = pad + (innerW - drawW) / 2;
+  const oy = pad + (innerH - drawH) / 2;
+  return (lng, lat) => {
+    const x = ox + (lng - box.minLng) / w * drawW;
+    const y = oy + (box.maxLat - lat) / h * drawH;
+    return [x, y];
+  };
+}
+
+function ringPath(ring, proj){
+  let s = '';
+  for (let i = 0; i < ring.length; i++) {
+    const [x, y] = proj(ring[i][0], ring[i][1]);
+    s += (i === 0 ? 'M' : 'L') + x.toFixed(1) + ',' + y.toFixed(1);
+  }
+  return s + 'Z';
+}
+
+function ringCentroid(ring){
+  let cx = 0, cy = 0, n = ring.length - 1; // last == first
+  for (let i = 0; i < n; i++) { cx += ring[i][0]; cy += ring[i][1]; }
+  return [cx / n, cy / n];
+}
+
+function renderChoropleth(){
+  const canvas = document.getElementById('map-canvas');
+  // preserve the tooltip element
+  const tip = document.getElementById('map-tooltip');
+  canvas.innerHTML = '';
+  if (tip) canvas.appendChild(tip);
+
+  if (!HP_DISTRICTS.length) {
+    canvas.insertAdjacentHTML('beforeend',
+      '<div style="padding:24px;color:#8a8a7e;font-size:13px">District polygons failed to load. Try reloading.</div>');
+    return;
+  }
+
+  const W = 980, H = 420;
+  const box = bboxOfFeatures();
+  const proj = projector(box, W, H, 14);
+  const metrics = metricFor(state.mapMetric);
+  const palette = paletteFor(state.mapMetric);
+  const max = Math.max(0.0001, ...Object.values(metrics).map(m => m.value));
+
+  let svg = `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">`;
+  for (const f of HP_DISTRICTS) {
+    const name = f.properties.name;
+    const m = metrics[name] || { value: 0, count: 0, budget: 0, flagged: 0 };
+    const fill = colorFor(m.value, max, palette);
+    const isOn = state.district === name;
+    const paths = f.geometry.coordinates.map(r => ringPath(r, proj)).join(' ');
+    svg += `<path class="district-path${isOn?' on':''}" data-name="${name}" d="${paths}" fill="${fill}" />`;
+  }
+  // labels (centroid of biggest ring)
+  for (const f of HP_DISTRICTS) {
+    const ring = f.geometry.coordinates.reduce((a,b) => a.length >= b.length ? a : b);
+    const [clng, clat] = ringCentroid(ring);
+    const [cx, cy] = proj(clng, clat);
+    const m = metrics[f.properties.name] || { value: 0 };
+    const dark = (m.value / max) > 0.55;
+    svg += `<text class="district-label${dark?' dark':''}" x="${cx.toFixed(1)}" y="${cy.toFixed(1)}">${f.properties.name}</text>`;
+  }
+  svg += '</svg>';
+  canvas.insertAdjacentHTML('beforeend', svg);
+  wireChoroplethEvents();
+  renderLegend(palette, max);
+}
+
+function renderLegend(palette, max){
+  const el = document.getElementById('map-legend');
+  if (!el) return;
+  const metric = state.mapMetric;
+  const swatches = palette.map(c => `<span class="sw" style="background:${c}"></span>`).join('');
+  const lowLabel = metric === 'sentiment' ? '0%' : '0';
+  const highLabel = fmtMetric(metric, max).replace(/^.*?[\d]/, m => m);
+  el.innerHTML = `
+    <span><b>Legend</b> · per district</span>
+    <div class="swatch-row">${swatches}</div>
+    <span style="font-family:'IBM Plex Mono',monospace;color:#8a8a7e">${lowLabel} → ${highLabel}</span>
+    <span style="margin-left:auto;font-size:11px;color:#a4a294">Boundaries: geohacker/india (Census 2011, simplified).</span>
+  `;
+}
+
+function wireChoroplethEvents(){
+  const canvas = document.getElementById('map-canvas');
+  const tip = document.getElementById('map-tooltip');
+  const metrics = metricFor(state.mapMetric);
+  const max = Math.max(0.0001, ...Object.values(metrics).map(m => m.value));
+
+  canvas.querySelectorAll('.district-path').forEach(path => {
+    const name = path.getAttribute('data-name');
+    path.addEventListener('mousemove', (e) => {
+      const r = canvas.getBoundingClientRect();
+      const m = metrics[name];
+      tip.innerHTML = `<b>${name}</b>${m.count} active · ₹${m.budget.toLocaleString('en-IN')} Cr · ${m.flagged} flagged`;
+      tip.style.left = (e.clientX - r.left) + 'px';
+      tip.style.top = (e.clientY - r.top) + 'px';
+      tip.classList.add('show');
+    });
+    path.addEventListener('mouseleave', () => tip.classList.remove('show'));
+    path.addEventListener('click', () => {
+      state.district = (state.district === name) ? 'All' : name;
+      const sel = document.getElementById('district'); if (sel) sel.value = state.district;
+      renderChoropleth(); renderGrid();
+    });
+  });
+}
+
+// ---- pin map (Leaflet) ----
+
+let _leafletMap = null;
+let _leafletLayer = null;
+
+function renderPinMap(){
+  const canvas = document.getElementById('map-canvas');
+  // Detach the tooltip so Leaflet can own the canvas
+  const tip = document.getElementById('map-tooltip');
+  if (tip && tip.parentElement === canvas) canvas.removeChild(tip);
+
+  if (typeof L === 'undefined') {
+    canvas.innerHTML = '<div style="padding:24px;color:#8a8a7e;font-size:13px">Map library is still loading — flick the toggle once more in a second.</div>';
+    return;
+  }
+
+  if (!_leafletMap) {
+    canvas.innerHTML = '<div id="leaflet-host" style="width:100%;height:100%"></div>';
+    _leafletMap = L.map('leaflet-host', { scrollWheelZoom: false }).setView([31.7, 77.3], 7);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 14,
+      attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    }).addTo(_leafletMap);
+  } else {
+    // Reuse: clear the old container content if it was repurposed
+    if (!document.getElementById('leaflet-host')) {
+      canvas.innerHTML = '<div id="leaflet-host" style="width:100%;height:100%"></div>';
+      _leafletMap.remove(); _leafletMap = null;
+      return renderPinMap();
+    }
+  }
+  setTimeout(() => _leafletMap && _leafletMap.invalidateSize(), 50);
+
+  if (_leafletLayer) _leafletLayer.remove();
+  _leafletLayer = L.layerGroup().addTo(_leafletMap);
+
+  for (const p of D) {
+    if (!p.coords) continue;
+    const cls = p.status === 'completed' ? 'completed' : (p.delayed ? 'delayed' : 'active');
+    const icon = L.divIcon({
+      className: 'nd-pin-wrap',
+      html: `<div class="nd-pin ${cls}" title="${esc(p.name)}"></div>`,
+      iconSize: [18, 18],
+      iconAnchor: [9, 9],
+    });
+    const m = L.marker(p.coords, { icon }).addTo(_leafletLayer);
+    m.bindPopup(`<div class="nd-pin-pop"><b>${esc(p.name)}</b>${esc(p.districtLabel)} · ${p.progress}% · ${p.status === 'completed' ? 'Completed' : (p.delayed ? 'Delayed' : 'On track')}<br><small style="color:#8a8a7e">Click pin again to open detail.</small></div>`);
+    m.on('click', () => {
+      // Open detail on click. Popup also opens by default.
+      state.selectedId = p.id;
+      renderModal();
+    });
+  }
+
+  document.getElementById('map-legend').innerHTML = `
+    <span><b>Legend</b></span>
+    <span><span class="nd-pin active" style="display:inline-block;vertical-align:middle;margin-right:5px"></span>Active · on track</span>
+    <span><span class="nd-pin delayed" style="display:inline-block;vertical-align:middle;margin-right:5px"></span>Active · delayed</span>
+    <span><span class="nd-pin completed" style="display:inline-block;vertical-align:middle;margin-right:5px"></span>Completed</span>
+    <span style="margin-left:auto;font-size:11px;color:#a4a294">Tiles: © OpenStreetMap contributors.</span>
+  `;
+}
+
+function renderMap(){
+  if (state.mapMode === 'choropleth') renderChoropleth();
+  else renderPinMap();
+  // sync button state
+  document.querySelectorAll('.map-mode button').forEach(b => {
+    b.classList.toggle('on', b.getAttribute('data-mode') === state.mapMode);
+  });
+  // hide metric select in pin mode (not meaningful)
+  const metricSel = document.getElementById('map-metric');
+  if (metricSel) metricSel.style.display = state.mapMode === 'pins' ? 'none' : '';
+}
+
 // ---- top-level wiring (once) ----
 function wireOnce(){
   document.getElementById('tab-active').addEventListener('click', () => {
@@ -489,7 +749,18 @@ function wireOnce(){
     state.q = e.target.value; renderGrid();
   });
   document.getElementById('district').addEventListener('change', (e) => {
-    state.district = e.target.value; renderGrid();
+    state.district = e.target.value;
+    if (state.mapMode === 'choropleth') renderMap();
+    renderGrid();
+  });
+  document.querySelectorAll('.map-mode button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      state.mapMode = btn.getAttribute('data-mode');
+      renderMap();
+    });
+  });
+  document.getElementById('map-metric').addEventListener('change', (e) => {
+    state.mapMetric = e.target.value; renderMap();
   });
   document.getElementById('level').addEventListener('change', (e) => {
     state.level = e.target.value; renderGrid();
@@ -528,6 +799,7 @@ renderStats();
 renderDistrictOptions();
 renderChips();
 renderTabs();
+renderMap();
 renderFeatured();
 renderGrid();
 wireOnce();

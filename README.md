@@ -18,6 +18,7 @@ This is the **Phase-1 static prototype** of the product — a no-build vanilla H
 ├── app.js                    — state, render functions, event wiring
 ├── data/
 │   ├── projects.js           — project dataset (loaded as a <script>)
+│   ├── hp-districts.js       — HP district polygons (simplified from geohacker/india)
 │   ├── meta.json             — rewritten by the auto-sync job
 │   └── sources.md            — catalogue of legit sources by authority level
 ├── scripts/
@@ -49,6 +50,7 @@ start index.html
 ## Features (this build)
 
 - **Stats band:** active / completed / tracked outlay / avg sentiment / flagged.
+- **Across Himachal map** — choropleth view shades each district by chosen metric (active projects, tracked outlay, flagged count, avg sentiment); click a district to filter. Toggle to a Leaflet pin view (OpenStreetMap tiles) showing each project's approximate site; click a pin to open the detail panel.
 - **Featured hero** for a priority active project.
 - **Active / Completed** tabs with counts.
 - **Search** (name, contractor, district, category), **district** filter, **mandate** filter (Centre / State / District), **sort** (needs attention / progress / outlay / discussion).

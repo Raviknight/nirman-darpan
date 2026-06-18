@@ -7,7 +7,7 @@ window.NIRMAN_FEATURED_ID = 'NH5-PWN-SHL';
 window.NIRMAN_PROJECTS = [
   // ────────────────────────────── CENTRE-LEVEL ──────────────────────────────
   {
-    id:'NH5-PWN-SHL', name:'Chandigarh–Shimla 4-Lane Highway (NH-5)', category:'Roads & highways', level:'center',
+    id:'NH5-PWN-SHL', name:'Chandigarh–Shimla 4-Lane Highway (NH-5)', category:'Roads & highways', level:'center', coords:[30.95,77.07],
     dists:['Solan','Shimla'], districtLabel:'Solan · Shimla', status:'active', progress:68, delayed:true,
     start:'Mar 2018', eta:'Dec 2026', budget:3475, spent:2360,
     awardedBy:'NHAI — National Highways Authority of India', contractor:'Gawar–Sushee JV (EPC)',
@@ -29,7 +29,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'KIRATPUR-NCK', name:'Kiratpur–Nerchowk 4-Lane (NH-21)', category:'Roads & highways', level:'center',
+    id:'KIRATPUR-NCK', name:'Kiratpur–Nerchowk 4-Lane (NH-21)', category:'Roads & highways', level:'center', coords:[31.40,76.80],
     dists:['Bilaspur','Mandi','Una'], districtLabel:'Bilaspur · Mandi', status:'active', progress:85, delayed:false,
     start:'Jul 2018', eta:'Dec 2026', budget:4750, spent:3900,
     awardedBy:'NHAI — National Highways Authority of India', contractor:'GR Infraprojects + four package contractors',
@@ -50,7 +50,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'BHANUPLI-RAIL', name:'Bhanupli–Bilaspur–Beri Broad Gauge Rail', category:'Bridges & tunnels', level:'center',
+    id:'BHANUPLI-RAIL', name:'Bhanupli–Bilaspur–Beri Broad Gauge Rail', category:'Bridges & tunnels', level:'center', coords:[31.35,76.75],
     dists:['Bilaspur'], districtLabel:'Bilaspur', status:'active', progress:28, delayed:true,
     start:'2008 (revived 2019)', eta:'2030', budget:6800, spent:1750,
     awardedBy:'Ministry of Railways', contractor:'Northern Railway / RVNL',
@@ -71,7 +71,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'RENUKA-DAM', name:'Renukaji Multipurpose Dam', category:'Power & hydro', level:'center',
+    id:'RENUKA-DAM', name:'Renukaji Multipurpose Dam', category:'Power & hydro', level:'center', coords:[30.61,77.45],
     dists:['Sirmaur'], districtLabel:'Sirmaur', status:'active', progress:34, delayed:true,
     start:'Dec 2019', eta:'2029', budget:7000, spent:1980,
     awardedBy:'HP Power Corporation / Six-state consortium', contractor:'HPPCL execution wing',
@@ -92,7 +92,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'LUHRI-1', name:'Luhri Stage-I Hydroelectric Project', category:'Power & hydro', level:'center',
+    id:'LUHRI-1', name:'Luhri Stage-I Hydroelectric Project', category:'Power & hydro', level:'center', coords:[31.40,77.46],
     dists:['Shimla','Kullu'], districtLabel:'Shimla · Kullu', status:'active', progress:52, delayed:false,
     start:'Nov 2020', eta:'2027', budget:1810, spent:980,
     awardedBy:'SJVN Ltd', contractor:'Patel Engineering', owner:'SJVN Ltd (PSU)', img:'powerhouse / Sutlej', score:3.8, ratings:1490,
@@ -112,7 +112,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'KGR-AIRPORT', name:'Kangra (Gaggal) Airport Expansion', category:'Tourism infrastructure', level:'center',
+    id:'KGR-AIRPORT', name:'Kangra (Gaggal) Airport Expansion', category:'Tourism infrastructure', level:'center', coords:[32.16,76.26],
     dists:['Kangra'], districtLabel:'Kangra', status:'active', progress:22, delayed:true,
     start:'Feb 2022', eta:'2028', budget:3300, spent:410,
     awardedBy:'AAI / HP Govt (land acquisition)', contractor:'To be awarded (post-acquisition)', owner:'Airports Authority of India', img:'runway / terminal render', score:2.6, ratings:1980,
@@ -132,7 +132,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'MANDI-AIRPORT', name:'Mandi Greenfield Airport (Balh Valley)', category:'Tourism infrastructure', level:'center',
+    id:'MANDI-AIRPORT', name:'Mandi Greenfield Airport (Balh Valley)', category:'Tourism infrastructure', level:'center', coords:[31.66,76.91],
     dists:['Mandi'], districtLabel:'Mandi', status:'active', progress:6, delayed:true,
     start:'2022', eta:'2030', budget:1100, spent:90,
     awardedBy:'AAI / HP Tourism Dept', contractor:'To be awarded', owner:'Airports Authority of India',
@@ -153,7 +153,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'ATAL-TUNNEL', name:'Atal Tunnel, Rohtang', category:'Bridges & tunnels', level:'center',
+    id:'ATAL-TUNNEL', name:'Atal Tunnel, Rohtang', category:'Bridges & tunnels', level:'center', coords:[32.38,77.21],
     dists:['Lahaul-Spiti'], districtLabel:'Lahaul-Spiti', status:'completed', progress:100, delayed:false,
     start:'2010', eta:'2020', completed:'Oct 2020', budget:3300, spent:3300,
     awardedBy:'BRO — Ministry of Defence', contractor:'Strabag–Afcons JV', owner:'Border Roads Organisation', img:'tunnel portal / Lahaul valley', score:4.8, ratings:9800,
@@ -173,7 +173,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'AIIMS-BLP', name:'AIIMS Bilaspur', category:'Hospitals & health', level:'center',
+    id:'AIIMS-BLP', name:'AIIMS Bilaspur', category:'Hospitals & health', level:'center', coords:[31.36,76.72],
     dists:['Bilaspur'], districtLabel:'Bilaspur', status:'completed', progress:100, delayed:false,
     start:'2017', eta:'2022', completed:'Oct 2022', budget:1470, spent:1470,
     awardedBy:'Ministry of Health & Family Welfare', contractor:'HSCC (India) Ltd', owner:'AIIMS / MoHFW', img:'hospital campus, Kothipura', score:4.4, ratings:6300,
@@ -193,7 +193,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'IIT-MANDI', name:'IIT Mandi (Kamand campus)', category:'Schools & education', level:'center',
+    id:'IIT-MANDI', name:'IIT Mandi (Kamand campus)', category:'Schools & education', level:'center', coords:[31.78,76.99],
     dists:['Mandi'], districtLabel:'Mandi', status:'completed', progress:100, delayed:false,
     start:'2009', eta:'2017', completed:'2017', budget:1010, spent:1010,
     awardedBy:'Ministry of Education', contractor:'CPWD / HSCC',
@@ -214,7 +214,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'JJM-HP', name:'Jal Jeevan Mission — Himachal household taps', category:'Water & sanitation', level:'center',
+    id:'JJM-HP', name:'Jal Jeevan Mission — Himachal household taps', category:'Water & sanitation', level:'center', coords:[31.85,77.30],
     dists:['Bilaspur','Chamba','Hamirpur','Kangra','Kinnaur','Kullu','Lahaul-Spiti','Mandi','Shimla','Sirmaur','Solan','Una'],
     districtLabel:'Statewide', status:'active', progress:95, delayed:false,
     start:'Aug 2019', eta:'Dec 2026', budget:9520, spent:8910,
@@ -236,7 +236,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'SMART-SHIMLA', name:'Greater Shimla Smart City Mission', category:'Tourism infrastructure', level:'center',
+    id:'SMART-SHIMLA', name:'Greater Shimla Smart City Mission', category:'Tourism infrastructure', level:'center', coords:[31.10,77.17],
     dists:['Shimla'], districtLabel:'Shimla', status:'active', progress:72, delayed:false,
     start:'2017', eta:'Dec 2026', budget:2900, spent:2050,
     awardedBy:'MoHUA — Smart Cities Mission', contractor:'Multiple work packages',
@@ -259,7 +259,7 @@ window.NIRMAN_PROJECTS = [
 
   // ────────────────────────────── STATE-LEVEL ──────────────────────────────
   {
-    id:'SML-WATER', name:'Shimla Water Supply Augmentation (Sutlej Lift)', category:'Water & sanitation', level:'state',
+    id:'SML-WATER', name:'Shimla Water Supply Augmentation (Sutlej Lift)', category:'Water & sanitation', level:'state', coords:[31.10,77.17],
     dists:['Shimla'], districtLabel:'Shimla', status:'active', progress:81, delayed:false,
     start:'Jun 2019', eta:'Sep 2026', budget:709, spent:602,
     awardedBy:'World Bank / Shimla Jal Prabandhan Nigam', contractor:'Larsen & Toubro', owner:'SJPNL', img:'pumping station / pipeline', score:4.1, ratings:3870,
@@ -279,7 +279,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'MANDI-FLOOD', name:'Mandi–Kullu 2023 Flood Road Restoration', category:'Disaster recovery', level:'state',
+    id:'MANDI-FLOOD', name:'Mandi–Kullu 2023 Flood Road Restoration', category:'Disaster recovery', level:'state', coords:[31.84,77.05],
     dists:['Mandi','Kullu'], districtLabel:'Mandi · Kullu', status:'active', progress:74, delayed:false,
     start:'Aug 2023', eta:'Dec 2026', budget:1240, spent:910,
     awardedBy:'HP PWD / NDRF support', contractor:'Multiple district PWD divisions', owner:'HP Public Works Department', img:'restored road / river edge', score:3.9, ratings:5210,
@@ -299,7 +299,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'SCHOOL-MOD', name:'Govt. School STEM Modernisation Cluster', category:'Schools & education', level:'state',
+    id:'SCHOOL-MOD', name:'Govt. School STEM Modernisation Cluster', category:'Schools & education', level:'state', coords:[31.55,76.39],
     dists:['Hamirpur','Una'], districtLabel:'Hamirpur · Una', status:'completed', progress:100, delayed:false,
     start:'2021', eta:'2024', completed:'Mar 2024', budget:185, spent:178,
     awardedBy:'HP Education Dept / Samagra Shiksha', contractor:'District works divisions', owner:'Dept. of Elementary & Higher Education', img:'classroom / smart lab', score:4.0, ratings:2210,
@@ -321,7 +321,7 @@ window.NIRMAN_PROJECTS = [
 
   // ────────────────────────────── DISTRICT-LEVEL ──────────────────────────────
   {
-    id:'SOLAN-BUS', name:'Solan Old Bus Stand Redevelopment', category:'Tourism infrastructure', level:'district',
+    id:'SOLAN-BUS', name:'Solan Old Bus Stand Redevelopment', category:'Tourism infrastructure', level:'district', coords:[30.91,77.10],
     dists:['Solan'], districtLabel:'Solan', status:'active', progress:42, delayed:false,
     start:'Feb 2024', eta:'Mar 2026', budget:46, spent:19,
     awardedBy:'HP Road Transport Corp / Solan MC', contractor:'Local PWD division',
@@ -342,7 +342,7 @@ window.NIRMAN_PROJECTS = [
     ],
   },
   {
-    id:'HMR-LINK', name:'PMGSY-III Hamirpur Link Roads Cluster', category:'Roads & highways', level:'district',
+    id:'HMR-LINK', name:'PMGSY-III Hamirpur Link Roads Cluster', category:'Roads & highways', level:'district', coords:[31.69,76.52],
     dists:['Hamirpur'], districtLabel:'Hamirpur', status:'active', progress:60, delayed:false,
     start:'Apr 2024', eta:'Dec 2026', budget:38, spent:23,
     awardedBy:'PMGSY-III / HP Rural Development', contractor:'HP PWD Hamirpur division',

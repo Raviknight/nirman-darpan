@@ -13,6 +13,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Devanagari:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=">
 <style>
   *{box-sizing:border-box}
   html,body{margin:0}
@@ -129,6 +130,62 @@
     padding:2px 7px;border-radius:5px;margin-left:6px;
     vertical-align:middle;
   }
+
+  /* Map */
+  #map-section{background:#fff;border:1px solid #e7e6dd;border-radius:14px;overflow:hidden;margin-bottom:26px}
+  .map-header{
+    display:flex;justify-content:space-between;align-items:center;gap:14px;
+    padding:14px 18px;border-bottom:1px solid #eceadf;flex-wrap:wrap;
+  }
+  .map-title{font-family:'Source Serif 4',serif;font-size:18px;font-weight:600;color:#232a2e}
+  .map-title small{display:block;font-family:'Public Sans',sans-serif;font-size:11px;color:#8a8a7e;font-weight:400;margin-top:2px}
+  .map-controls{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .map-mode{display:inline-flex;border:1px solid #dddccf;border-radius:8px;overflow:hidden;background:#f4f3ee}
+  .map-mode button{
+    font-family:'Public Sans',sans-serif;font-size:12px;font-weight:600;color:#5c686f;
+    background:transparent;border:none;padding:7px 14px;cursor:pointer;
+  }
+  .map-mode button.on{background:#1b5640;color:#fff}
+  #map-metric{
+    font-family:'Public Sans',sans-serif;font-size:12px;color:#232a2e;
+    background:#fff;border:1px solid #dddccf;border-radius:7px;padding:7px 10px;outline:none;
+  }
+  #map-canvas{height:420px;background:#f4f3ee;position:relative}
+  #map-canvas svg{display:block;width:100%;height:100%}
+  .district-path{cursor:pointer;stroke:#fff;stroke-width:1.2;transition:fill .15s,stroke .15s}
+  .district-path:hover{stroke:#123c2c;stroke-width:2}
+  .district-path.on{stroke:#123c2c;stroke-width:2.2}
+  .district-label{font-family:'Public Sans',sans-serif;font-size:10px;fill:#232a2e;pointer-events:none;text-anchor:middle;font-weight:600}
+  .district-label.dark{fill:#fff}
+  #map-tooltip{
+    position:absolute;pointer-events:none;background:#123c2c;color:#fff;
+    font-size:11px;line-height:1.4;padding:6px 9px;border-radius:6px;
+    transform:translate(-50%,-100%);margin-top:-8px;opacity:0;transition:opacity .12s;
+    white-space:nowrap;z-index:5;font-family:'Public Sans',sans-serif;
+  }
+  #map-tooltip b{display:block;font-weight:600;margin-bottom:2px}
+  #map-tooltip.show{opacity:1}
+  #map-legend{
+    display:flex;align-items:center;gap:10px;padding:12px 18px;
+    border-top:1px solid #eceadf;font-size:11px;color:#5c686f;flex-wrap:wrap;
+  }
+  #map-legend .swatch-row{display:flex;align-items:center;gap:0}
+  #map-legend .sw{width:24px;height:10px;border-right:1px solid #fff}
+  #map-legend .sw:last-child{border-right:none}
+  #map-legend .ticks{display:flex;gap:0;font-family:'IBM Plex Mono',monospace;font-size:10px;color:#8a8a7e;margin-left:6px}
+  #map-legend .tick{width:24px;text-align:right;padding-right:4px}
+
+  /* Leaflet popup */
+  .nd-pin-pop{font-family:'Public Sans',sans-serif;font-size:12px}
+  .nd-pin-pop b{display:block;font-size:13px;color:#232a2e;margin-bottom:2px}
+  .leaflet-popup-content-wrapper{border-radius:9px}
+  .nd-pin{
+    width:18px;height:18px;border-radius:50%;border:3px solid #fff;
+    box-shadow:0 2px 6px rgba(0,0,0,.2);cursor:pointer;
+  }
+  .nd-pin.active{background:#1b5640}
+  .nd-pin.delayed{background:#b3721f}
+  .nd-pin.completed{background:#3f6b6e}
 
   /* Grid */
   #grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
@@ -369,6 +426,28 @@
   <section id="stats"></section>
   <p class="disclaimer">Compiled automatically from official tender &amp; departmental portals, district press reporting, and verified social accounts. Figures reflect the latest available public record — independently sourced, not government-endorsed.</p>
 
+  <section id="map-section">
+    <div class="map-header">
+      <div class="map-title">Across Himachal <small>Click a district to filter the list. Toggle to the pin view for site locations.</small></div>
+      <div class="map-controls">
+        <div class="map-mode">
+          <button data-mode="choropleth" class="on">District view</button>
+          <button data-mode="pins">Pin map</button>
+        </div>
+        <select id="map-metric">
+          <option value="count">Shade by: active projects</option>
+          <option value="budget">Shade by: tracked outlay</option>
+          <option value="flagged">Shade by: flagged (delayed)</option>
+          <option value="sentiment">Shade by: avg sentiment</option>
+        </select>
+      </div>
+    </div>
+    <div id="map-canvas">
+      <div id="map-tooltip"></div>
+    </div>
+    <div id="map-legend"></div>
+  </section>
+
   <div id="featured-wrap"></div>
 
   <div class="filter-bar">
@@ -408,7 +487,9 @@
 
 <div id="modal-root"></div>
 
+<script src="data/hp-districts.js"></script>
 <script src="data/projects.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="></script>
 <script src="app.js"></script>
 </body>
 </html>
