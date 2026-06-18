@@ -10,13 +10,21 @@ Status, budgets, timelines, accountable leads, and citizen sentiment for active 
 
 ## What's in this repo
 
-This is the **Phase-1 static prototype** of the product — a no-build vanilla HTML/CSS/JS site that recreates the intended look and behavior with 9 hand-authored sample projects. No server, no database, no build step.
+This is the **Phase-1 static prototype** of the product — a no-build vanilla HTML/CSS/JS site that recreates the intended look and behavior with 17 hand-authored sample projects tagged by mandate level (Centre / State / District). No server, no database, no build step.
 
 ```
 .
-├── index.html        — page shell, fonts, styles
-├── app.js            — data (9 sample projects), state, render functions
-├── docs/HANDOFF.md   — full product spec and roadmap (Phase 2 / Phase 3)
+├── index.html                — page shell, fonts, styles, filter UI
+├── app.js                    — state, render functions, event wiring
+├── data/
+│   ├── projects.js           — project dataset (loaded as a <script>)
+│   ├── meta.json             — rewritten by the auto-sync job
+│   └── sources.md            — catalogue of legit sources by authority level
+├── scripts/
+│   └── sync.mjs              — Node script the scheduled job runs
+├── .github/workflows/
+│   └── sync.yml              — Mon & Thu cron + manual dispatch
+├── docs/HANDOFF.md           — full product spec and roadmap (Phase 2 / Phase 3)
 └── README.md
 ```
 
@@ -43,10 +51,16 @@ start index.html
 - **Stats band:** active / completed / tracked outlay / avg sentiment / flagged.
 - **Featured hero** for a priority active project.
 - **Active / Completed** tabs with counts.
-- **Search** (name, contractor, district, category), **district** filter, **sort** (needs attention / progress / outlay / discussion).
+- **Search** (name, contractor, district, category), **district** filter, **mandate** filter (Centre / State / District), **sort** (needs attention / progress / outlay / discussion).
 - **Category chips** for one-click filtering.
-- **Project cards** with status, progress, delay flag, outlay, contractor, and a stacked sentiment meter.
+- **Project cards** with status, progress, delay flag, outlay, contractor, a mandate badge, and a stacked sentiment meter.
 - **Detail panel (right-side modal)** with construction progress, key facts grid (awarded by, contractor, owner, outlay & spent, start / target), accountable leads, milestone timeline, public-perception score & breakdown, and a citizen-comment composer + thread.
+
+## Auto-sync
+
+A GitHub Actions cron (`.github/workflows/sync.yml`) runs **Mondays and Thursdays at 19:00 UTC** (~00:30 IST next morning) and re-stamps `data/meta.json`. The site reads that file to render the "Auto-synced" header pill — so the timestamp visitors see reflects the last verified pass, not a hardcoded date. You can also kick the workflow off manually from the Actions tab → **Auto-sync → Run workflow**.
+
+This is the heartbeat. Real source fetches (per `data/sources.md`) get plugged into `scripts/sync.mjs` as Phase 2 lands — they always land in a "pending review" queue that a human approves before going public (see `docs/HANDOFF.md`).
 
 Comments posted in this build are stored only in the page's memory — they vanish on refresh. Persistence is part of Phase 2 (see roadmap).
 

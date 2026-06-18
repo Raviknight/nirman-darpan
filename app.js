@@ -18,211 +18,43 @@ const CAT_COLOR = {
 };
 const CATS = Object.keys(CAT_COLOR);
 
-const D = [
-  {
-    id:'NH5-PWN-SHL', name:'Chandigarh–Shimla 4-Lane Highway (NH-5)', category:'Roads & highways',
-    dists:['Solan','Shimla'], districtLabel:'Solan · Shimla', status:'active', progress:68, delayed:true,
-    start:'Mar 2018', eta:'Dec 2026', budget:3475, spent:2360,
-    awardedBy:'NHAI — National Highways Authority of India', contractor:'Gawar–Sushee JV (EPC)',
-    owner:'Ministry of Road Transport & Highways', img:'corridor / viaduct photo', score:3.6, ratings:4120,
-    leads:[{n:'R. K. Pankaj',r:'Project Director, NHAI Shimla PIU'},{n:'Anil Sharma',r:'Resident Engineer'},{n:'Gawar Construction',r:'EPC contractor lead'}],
-    desc:'Widening of the 92 km Parwanoo–Solan–Shimla corridor to four lanes with bypasses, viaducts and tunnels to cut travel time and reduce landslide closures.',
-    sentiment:{p:58,n:27,x:15},
-    milestones:[
-      {l:'Parwanoo–Solan stretch opened to traffic',d:'2021',done:true},
-      {l:'Solan–Kaithlighat four-laning completed',d:'2024',done:true},
-      {l:'Kaithlighat–Dhalli tunnels & viaducts',d:'In progress · 2026',done:false},
-      {l:'Full corridor commissioning',d:'Target Dec 2026',done:false},
-    ],
-    sources:[{t:'gov',n:'NHAI project portal'},{t:'press',n:'The Tribune, Shimla'},{t:'social',n:'@HP_PWD (verified)'}],
-    comments:[
-      {name:'Vikram Thakur',loc:'Solan',s:'positive',text:'The Parwanoo–Solan stretch is genuinely a relief — monsoon drive used to take double the time.',date:'3 days ago'},
-      {name:'Neha Verma',loc:'Shimla',s:'negative',text:'Kaithlighat–Dhalli has been "almost done" for two years. The slow viaduct work near Shoghi is a daily jam.',date:'1 week ago'},
-      {name:'Aman Gupta',loc:'Kandaghat',s:'neutral',text:'Quality of the new stretches looks solid, but ETAs keep slipping. Hope Dec 2026 holds.',date:'2 weeks ago'},
-    ],
-  },
-  {
-    id:'RENUKA-DAM', name:'Renukaji Multipurpose Dam', category:'Power & hydro',
-    dists:['Sirmaur'], districtLabel:'Sirmaur', status:'active', progress:34, delayed:true,
-    start:'Dec 2019', eta:'2029', budget:7000, spent:1980,
-    awardedBy:'HP Power Corporation / Six-state consortium', contractor:'HPPCL execution wing',
-    owner:'HP Power Corporation Ltd (HPPCL)', img:'dam site / Giri river', score:2.9, ratings:2640,
-    leads:[{n:'Sanjay Gupta',r:'Director (Projects), HPPCL'},{n:'Meena Rao',r:'Chief Engineer, civil'},{n:'R&R Cell',r:'Resettlement & rehab office'}],
-    desc:'A 148 m dam on the Giri river primarily to augment drinking water supply to Delhi, with a 40 MW power component. Tied up in land acquisition and rehabilitation.',
-    sentiment:{p:31,n:34,x:35},
-    milestones:[
-      {l:'Forest & environment clearances',d:'2019',done:true},
-      {l:'Land acquisition & R&R packages',d:'Ongoing',done:false},
-      {l:'Main dam construction',d:'Not started',done:false},
-      {l:'Commissioning',d:'Target 2029',done:false},
-    ],
-    sources:[{t:'gov',n:'HPPCL tender records'},{t:'press',n:'Amar Ujala'},{t:'social',n:'@SirmaurVoices (verified)'}],
-    comments:[
-      {name:'Dinesh Negi',loc:'Dadahu',s:'negative',text:'Rehabilitation packages for affected villages are still unclear. People deserve certainty before construction.',date:'5 days ago'},
-      {name:'Pooja Sharma',loc:'Nahan',s:'neutral',text:'Water security is important, but Himachal carries the cost while Delhi gets the supply. Needs fair terms.',date:'2 weeks ago'},
-    ],
-  },
-  {
-    id:'LUHRI-1', name:'Luhri Stage-I Hydroelectric Project', category:'Power & hydro',
-    dists:['Shimla','Kullu'], districtLabel:'Shimla · Kullu', status:'active', progress:52, delayed:false,
-    start:'Nov 2020', eta:'2027', budget:1810, spent:980,
-    awardedBy:'SJVN Ltd', contractor:'Patel Engineering', owner:'SJVN Ltd (PSU)', img:'powerhouse / Sutlej', score:3.8, ratings:1490,
-    leads:[{n:'A. K. Singh',r:'Head of Project, SJVN'},{n:'Rohit Katoch',r:'Site Civil Engineer'}],
-    desc:'A 210 MW run-of-river project on the Sutlej spanning the Shimla–Kullu border, designed to feed clean power to the northern grid.',
-    sentiment:{p:64,n:24,x:12},
-    milestones:[
-      {l:'Foundation stone laid',d:'2020',done:true},
-      {l:'Coffer dam & diversion tunnel',d:'2023',done:true},
-      {l:'Powerhouse & barrage works',d:'In progress',done:false},
-      {l:'First unit synchronisation',d:'Target 2027',done:false},
-    ],
-    sources:[{t:'gov',n:'SJVN disclosures'},{t:'press',n:'Divya Himachal'},{t:'social',n:'@SJVN_Official (verified)'}],
-    comments:[
-      {name:'Tara Chand',loc:'Rampur',s:'positive',text:'Local employment during construction has been decent. Roads to the site improved too.',date:'4 days ago'},
-      {name:'Suresh Mehta',loc:'Nirmand',s:'neutral',text:'On schedule so far. Watching how they handle silt and downstream flow.',date:'1 week ago'},
-    ],
-  },
-  {
-    id:'SML-WATER', name:'Shimla Water Supply Augmentation (Sutlej Lift)', category:'Water & sanitation',
-    dists:['Shimla'], districtLabel:'Shimla', status:'active', progress:81, delayed:false,
-    start:'Jun 2019', eta:'Sep 2026', budget:709, spent:602,
-    awardedBy:'World Bank / Shimla Jal Prabandhan Nigam', contractor:'Larsen & Toubro', owner:'SJPNL', img:'pumping station / pipeline', score:4.1, ratings:3870,
-    leads:[{n:'Dharmendra Gill',r:'CEO, SJPNL'},{n:'Kavita Joshi',r:'Project Engineer'},{n:'L&T Water',r:'Execution partner'}],
-    desc:'A World Bank–backed scheme lifting 67 MLD from the Sutlej at Sunni to end Shimla’s chronic summer water crisis after the 2018 shortage.',
-    sentiment:{p:73,n:19,x:8},
-    milestones:[
-      {l:'Sunni intake & rising main',d:'2022',done:true},
-      {l:'Pumping stations commissioned',d:'2024',done:true},
-      {l:'City distribution upgrades',d:'In progress',done:false},
-      {l:'Full 67 MLD supply',d:'Target Sep 2026',done:false},
-    ],
-    sources:[{t:'gov',n:'SJPNL portal'},{t:'press',n:'The Indian Express'},{t:'social',n:'@ShimlaJal (verified)'}],
-    comments:[
-      {name:'Ritika Bansal',loc:'Sanjauli',s:'positive',text:'Last two summers were the first without tanker queues in my locality. Huge difference.',date:'6 days ago'},
-      {name:'Mohit Rana',loc:'Chhota Shimla',s:'positive',text:'Pressure has improved. Still some old-pipe leakages to fix in the inner city.',date:'2 weeks ago'},
-    ],
-  },
-  {
-    id:'KGR-AIRPORT', name:'Kangra (Gaggal) Airport Expansion', category:'Tourism infrastructure',
-    dists:['Kangra'], districtLabel:'Kangra', status:'active', progress:22, delayed:true,
-    start:'Feb 2022', eta:'2028', budget:3300, spent:410,
-    awardedBy:'AAI / HP Govt (land acquisition)', contractor:'To be awarded (post-acquisition)', owner:'Airports Authority of India', img:'runway / terminal render', score:2.6, ratings:1980,
-    leads:[{n:'Deputy Commissioner, Kangra',r:'Land acquisition nodal officer'},{n:'AAI Regional Office',r:'Technical planning'}],
-    desc:'Runway extension from 1,376 m to 3,010 m to allow larger aircraft for the Dharamshala tourism circuit. Stalled by acquisition of land across several villages.',
-    sentiment:{p:36,n:28,x:36},
-    milestones:[
-      {l:'Master plan & DPR approved',d:'2022',done:true},
-      {l:'Land acquisition (villages)',d:'Disputed · ongoing',done:false},
-      {l:'Runway & terminal construction',d:'Not started',done:false},
-      {l:'Operational larger aircraft',d:'Target 2028',done:false},
-    ],
-    sources:[{t:'gov',n:'AAI / DC Kangra notices'},{t:'press',n:'Hindustan Times'},{t:'social',n:'@KangraUpdates (verified)'}],
-    comments:[
-      {name:'Harish Sood',loc:'Gaggal',s:'negative',text:'Compensation rates being offered are below market. Families have lived here for generations.',date:'2 days ago'},
-      {name:'Anjali Dogra',loc:'Dharamshala',s:'positive',text:'Tourism badly needs bigger flights. Hope a fair settlement unlocks this soon.',date:'1 week ago'},
-    ],
-  },
-  {
-    id:'MANDI-FLOOD', name:'Mandi–Kullu 2023 Flood Road Restoration', category:'Disaster recovery',
-    dists:['Mandi','Kullu'], districtLabel:'Mandi · Kullu', status:'active', progress:74, delayed:false,
-    start:'Aug 2023', eta:'Dec 2026', budget:1240, spent:910,
-    awardedBy:'HP PWD / NDRF support', contractor:'Multiple district PWD divisions', owner:'HP Public Works Department', img:'restored road / river edge', score:3.9, ratings:5210,
-    leads:[{n:'Engineer-in-Chief, HP PWD',r:'Restoration programme head'},{n:'SE Mandi Circle',r:'Field execution'},{n:'SE Kullu Circle',r:'Field execution'}],
-    desc:'Rebuilding of national & state highways, bridges and link roads washed out in the July 2023 floods across the Beas valley — restoring connectivity to cut-off villages.',
-    sentiment:{p:67,n:23,x:10},
-    milestones:[
-      {l:'Emergency single-lane restoration',d:'2023',done:true},
-      {l:'Permanent road & retaining works',d:'In progress',done:false},
-      {l:'Bridge reconstruction (key spans)',d:'In progress',done:false},
-      {l:'Full programme closure',d:'Target Dec 2026',done:false},
-    ],
-    sources:[{t:'gov',n:'HP PWD damage reports'},{t:'press',n:'The Tribune'},{t:'social',n:'@HPSDMA (verified)'}],
-    comments:[
-      {name:'Lekh Raj',loc:'Aut',s:'positive',text:'Our village was cut off for weeks. The temporary bridge came up fast — credit where due.',date:'5 days ago'},
-      {name:'Sunita Devi',loc:'Bajaura',s:'neutral',text:'Main roads are back but several link roads to upper villages are still rough. Please don’t forget them.',date:'2 weeks ago'},
-    ],
-  },
-  {
-    id:'ATAL-TUNNEL', name:'Atal Tunnel, Rohtang', category:'Bridges & tunnels',
-    dists:['Lahaul-Spiti'], districtLabel:'Lahaul-Spiti', status:'completed', progress:100, delayed:false,
-    start:'2010', eta:'2020', completed:'Oct 2020', budget:3300, spent:3300,
-    awardedBy:'BRO — Ministry of Defence', contractor:'Strabag–Afcons JV', owner:'Border Roads Organisation', img:'tunnel portal / Lahaul valley', score:4.8, ratings:9800,
-    leads:[{n:'Brig. K.P. Purushothaman',r:'BRO Project Chief Engineer'},{n:'Strabag–Afcons',r:'Tunnelling contractor'}],
-    desc:'A 9.02 km highway tunnel under the Rohtang Pass giving year-round access to the Lahaul valley — among the world’s longest road tunnels above 10,000 ft.',
-    sentiment:{p:88,n:9,x:3},
-    milestones:[
-      {l:'Construction began',d:'2010',done:true},
-      {l:'Breakthrough achieved',d:'2017',done:true},
-      {l:'Inaugurated & opened',d:'Oct 2020',done:true},
-      {l:'All-weather Lahaul access',d:'Delivered',done:true},
-    ],
-    sources:[{t:'gov',n:'BRO records'},{t:'press',n:'The Hindu'},{t:'social',n:'@official_dgbr (verified)'}],
-    comments:[
-      {name:'Tashi Dorje',loc:'Keylong',s:'positive',text:'Life-changing. Lahaul is no longer cut off for six months. Medical emergencies finally have a route.',date:'1 month ago'},
-      {name:'Rinchen Angmo',loc:'Sissu',s:'positive',text:'Tourism and our local economy completely transformed after this opened.',date:'2 months ago'},
-    ],
-  },
-  {
-    id:'AIIMS-BLP', name:'AIIMS Bilaspur', category:'Hospitals & health',
-    dists:['Bilaspur'], districtLabel:'Bilaspur', status:'completed', progress:100, delayed:false,
-    start:'2017', eta:'2022', completed:'Oct 2022', budget:1470, spent:1470,
-    awardedBy:'Ministry of Health & Family Welfare', contractor:'HSCC (India) Ltd', owner:'AIIMS / MoHFW', img:'hospital campus, Kothipura', score:4.4, ratings:6300,
-    leads:[{n:'Executive Director, AIIMS Bilaspur',r:'Institutional head'},{n:'HSCC (India)',r:'Construction agency'}],
-    desc:'A 750-bed tertiary-care institute at Kothipura under PMSSY, bringing super-specialty care and a medical college to the lower Himalayan belt.',
-    sentiment:{p:80,n:14,x:6},
-    milestones:[
-      {l:'Foundation laid',d:'2017',done:true},
-      {l:'OPD services began',d:'2021',done:true},
-      {l:'Full inauguration',d:'Oct 2022',done:true},
-      {l:'Medical college intake',d:'Operational',done:true},
-    ],
-    sources:[{t:'gov',n:'PMSSY / MoHFW'},{t:'press',n:'Hindustan Times'},{t:'social',n:'@AIIMSBilaspur (verified)'}],
-    comments:[
-      {name:'Kamlesh Kumar',loc:'Bilaspur',s:'positive',text:'We no longer have to travel to Chandigarh or PGI for serious treatment. Massive relief for the region.',date:'3 weeks ago'},
-      {name:'Reena Thakur',loc:'Ghumarwin',s:'neutral',text:'Great facility, but specialist appointment waiting times are long. More staff needed.',date:'1 month ago'},
-    ],
-  },
-  {
-    id:'SCHOOL-MOD', name:'Govt. School STEM Modernisation Cluster', category:'Schools & education',
-    dists:['Hamirpur','Una'], districtLabel:'Hamirpur · Una', status:'completed', progress:100, delayed:false,
-    start:'2021', eta:'2024', completed:'Mar 2024', budget:185, spent:178,
-    awardedBy:'HP Education Dept / Samagra Shiksha', contractor:'District works divisions', owner:'Dept. of Elementary & Higher Education', img:'classroom / smart lab', score:4.0, ratings:2210,
-    leads:[{n:'Director, Higher Education',r:'Programme owner'},{n:'District Project Officers',r:'Rollout & monitoring'}],
-    desc:'Smart classrooms, science & computer labs and accessibility upgrades across 120 government schools in Hamirpur and Una districts.',
-    sentiment:{p:71,n:22,x:7},
-    milestones:[
-      {l:'School survey & prioritisation',d:'2021',done:true},
-      {l:'Civil upgrades & labs',d:'2023',done:true},
-      {l:'Equipment & connectivity',d:'2024',done:true},
-      {l:'Teacher training rollout',d:'Delivered',done:true},
-    ],
-    sources:[{t:'gov',n:'Samagra Shiksha HP'},{t:'press',n:'Divya Himachal'},{t:'social',n:'@EduDeptHP (verified)'}],
-    comments:[
-      {name:'Anita Kaushal',loc:'Hamirpur',s:'positive',text:'My daughter’s school finally has a working computer lab. The change in interest level is visible.',date:'1 month ago'},
-      {name:'Prem Singh',loc:'Una',s:'neutral',text:'Good infrastructure, but a few schools still wait on reliable internet for the smart boards.',date:'6 weeks ago'},
-    ],
-  },
-];
 
-const FEATURED_ID = 'NH5-PWN-SHL';
+const D = window.NIRMAN_PROJECTS || [];
+const FEATURED_ID = window.NIRMAN_FEATURED_ID || (D[0] && D[0].id);
+const LEVEL_LABEL = { center: 'Centre', state: 'State', district: 'District' };
+const LEVEL_BADGE_BG = { center: '#e8eef4', state: '#eef4ec', district: '#f5eee4' };
+const LEVEL_BADGE_FG = { center: '#3a5a7d', state: '#3f6b4a', district: '#7d5a3a' };
 
-function syncTimeIST(){
+
+function formatIST(date){
   const fmt = new Intl.DateTimeFormat('en-IN', {
     day: '2-digit', month: 'short', year: 'numeric',
     hour: '2-digit', minute: '2-digit', hour12: false,
     timeZone: 'Asia/Kolkata',
   });
-  const parts = fmt.formatToParts(new Date());
+  const parts = fmt.formatToParts(date);
   const get = (t) => parts.find(p => p.type === t)?.value || '';
   return `${get('day')} ${get('month')} ${get('year')}, ${get('hour')}:${get('minute')} IST`;
 }
-const SYNC_TIME = syncTimeIST();
+
+// Try the cron-written timestamp first; fall back to current time (e.g. when loaded via file://).
+async function resolveSyncTime(){
+  try {
+    const r = await fetch('data/meta.json', { cache: 'no-store' });
+    if (r.ok) {
+      const m = await r.json();
+      if (m && m.synced_at) return formatIST(new Date(m.synced_at));
+    }
+  } catch (_) {}
+  return formatIST(new Date());
+}
 
 // ---- state ----
 const state = {
   tab: 'active',
   category: 'All',
   district: 'All',
+  level: 'All',
   q: '',
   sort: 'attention',
   selectedId: null,
@@ -243,7 +75,10 @@ function initials(name){
 function commentsFor(id){ return state.commentsById[id] || []; }
 
 // ---- header sync ----
-document.getElementById('sync-time').textContent = 'Auto-synced ' + SYNC_TIME;
+document.getElementById('sync-time').textContent = 'Auto-synced ' + formatIST(new Date());
+resolveSyncTime().then(t => {
+  document.getElementById('sync-time').textContent = 'Auto-synced ' + t;
+}).catch(() => {});
 
 // ---- stats ----
 function renderStats(){
@@ -357,6 +192,7 @@ function visibleList(){
   if (state.tab === 'active') list = list.filter(p => p.id !== FEATURED_ID);
   if (state.category !== 'All') list = list.filter(p => p.category === state.category);
   if (state.district !== 'All') list = list.filter(p => p.dists.includes(state.district));
+  if (state.level !== 'All') list = list.filter(p => p.level === state.level);
   const q = state.q.trim().toLowerCase();
   if (q) {
     list = list.filter(p =>
@@ -394,6 +230,8 @@ function renderGrid(){
     const etaLabel = completed ? ('Done ' + (p.completed || p.eta)) : ('ETA ' + p.eta);
     const cmCount = commentsFor(p.id).length;
     const ratingsFmt = (p.ratings + cmCount).toLocaleString('en-IN');
+    const lvl = p.level || 'center';
+    const lvlBadge = `<span class="level-tag" style="background:${LEVEL_BADGE_BG[lvl]};color:${LEVEL_BADGE_FG[lvl]}">${LEVEL_LABEL[lvl]}</span>`;
     return `
       <article class="card" data-open="${esc(p.id)}">
         <div class="card-img">
@@ -402,7 +240,7 @@ function renderGrid(){
         </div>
         <div class="card-body">
           <div class="card-row">
-            <span class="card-meta">◎ ${esc(p.districtLabel)}</span>
+            <span class="card-meta">◎ ${esc(p.districtLabel)} ${lvlBadge}</span>
             <span class="card-id">${esc(p.id)}</span>
           </div>
           <h3 class="card-title">${esc(p.name)}</h3>
@@ -514,6 +352,7 @@ function renderModal(){
           <div class="modal-meta-row">
             <span class="cat"><span class="dot" style="background:${c}"></span>${esc(p.category)}</span>
             <span class="dist">◎ ${esc(p.districtLabel)}</span>
+            <span class="level-tag" style="background:${LEVEL_BADGE_BG[p.level||'center']};color:${LEVEL_BADGE_FG[p.level||'center']}">${LEVEL_LABEL[p.level||'center']}</span>
             <span class="id">${esc(p.id)}</span>
           </div>
           <h2 class="modal-title">${esc(p.name)}</h2>
@@ -651,6 +490,9 @@ function wireOnce(){
   });
   document.getElementById('district').addEventListener('change', (e) => {
     state.district = e.target.value; renderGrid();
+  });
+  document.getElementById('level').addEventListener('change', (e) => {
+    state.level = e.target.value; renderGrid();
   });
   document.getElementById('sort').addEventListener('change', (e) => {
     state.sort = e.target.value; renderGrid();
