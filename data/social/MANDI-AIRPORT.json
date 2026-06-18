@@ -1,214 +1,214 @@
 {
-    "updated_at":  "2026-06-18T20:37:20.6791163Z",
-    "project_id":  "MANDI-AIRPORT",
-    "counts":  {
-                   "press":  28,
-                   "gov":  0,
-                   "en":  16,
-                   "hi":  12,
-                   "total":  28
-               },
-    "mentions":  [
-                     {
-                         "title":  "Mandi Airport : बदलनी पड़ी मंडी एयरपोर्ट की डीपीआर, जानिए क्या है कारण - Divya Himachal",
-                         "source":  "Divya Himachal",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3gtOFpGXzFPcW1aY0J2WnZNNVU2SVhoak1qd2MyaFIzQzBMNUR0YlMxaWpRdEY3aUFRN0NmekJ5MXFGX29jZ0FZRXpack1PLWpBVnlQWGdhYWZGaGt1c0QtTGZlZ2JETWd1Q3NpTFNSNDA2cS04clJOTGRsdDBneG5yekprVG9NZkd4TlVrX0lpM2FsRjRjN0ppeWstbjFuZS1FdTNXR3poYWFmbENObtIBtgFBVV95cUxQWVpUeWsyWkxpWUNvVHM2SUFRY09FZHY2cXVZenBkUmk1ZllNako2N2tGU2dQalBESnFHLXhLc20yUFRyRnhwRmdPMkQ3NHZ3aUN6N3Q3bndTM1hqcnZFTFJDeW51aFZPQXZuZUd4RnZRb3hVVDhJY3B4ZTZNRzhYSmZybHBZLVU0TFBYaE9EXzRNdkNUMGVHVTVpbnhhTWQxYUdtOHg3aW5EX0pEQWNJTVJTNGRvdw?oc=5",
-                         "date":  "2026-04-03T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "जयराम ठाकुर का ड्रीम प्रोजेक्ट, CM सुक्खू की सरकार में मोदी सरकार से मिली बड़ी मंजूरी के बाद जगी नई आस - ETV Bharat",
-                         "source":  "ETV Bharat",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMndtUlNyR3ZkZ3I2RV9TNzBkUzMtbmVfUXIwR2hmejItQmFWbkxsb01DYVNMMlE5Zkx4UFVvbVZjbmhMRUdXMHRzemN1TXdyOTJfS0Qxa2NSSFVLQU9nbjEwZkZJZURyUHh4WTl6MzlZZG9rVi1aV2JSX3R4R0M3MVBDQV9wcTZGaXJ3ci1ZLTdPSldfUkdJZlpvNlk4Q0ZGSzV4Q1dCMjd3Y1J2dkprX2dabmIwLUtXZ3BpTVBkMXcwNmtIa0VyYmxoVk1qcDhaZ3NaUmI2WWJHRmYzYl9RTmhTZGozSjlPYjJwelBFRU5keUpyWmd0UGg4aElhZ9IBgwJBVV95cUxQdll1dWg1ckxpLVlXM3p1OTU4N3QtYzFmUEgtWGQyV2tCcV9GakdSWG1ZdlRuQktVbHloS0hiRkRjSFh0N3l6RC1zS0dBa3lUREszamNHNnBsRDlhNHR5WklxbkYxVUE4eTd3NzhyaklsTTdjUnRkOF93ZGZ0TmlTY2pNLWtDTkNhZldtaDZ0YUtwUEh5VHNHX2JwMkVrZHBFTW9laFNLcEVaS0RvSVVKZmNRdDY4LTdBUWJ4eXdnYU1zZzdmbVFNMmVseXZmTzFJcUozempNcVN6YWFhQ0ZMX2VVWnMtNUtQMk85cGJzY0ktMG9BUG9uNmtLQ3NEY3VBVExF?oc=5",
-                         "date":  "2026-02-10T08:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "खुशखबरी : मंडी हवाई अड्डे को मिली साइट क्लियरेंस, भूमि अधिग्रहण सहित अन्य निर्माण पर खर्च होंगे इतने करोड़ - Divya Himachal",
-                         "source":  "Divya Himachal",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTENaU1NLQVpFMENfWDJSVTYwVkZpbHp3T05MNVAtUVEwNlZYWUhYaWxOcnI5NmRuYy10ZG9od3M4a0RDbnNocHNGZWdZcjhFVXgzX0ZfWUhiQVo4alpaV2IxZ2p5LU9sdHBzUmFJTGZlQTduV3QtaUg4dVZ2NmpLZDl0VHRJYy1HYzh1WEtYalI0Sm50aFRwZk5mVWRmUjlaNlBmbWhpaHR2N0tKOGdJUERUeUtRYThxZmxoUm5kTkNSVnluZlRWb3dXTDlsUVJ3UTMtWWViQWpzc21fc3A3VzZya1ZSNGFiOWfSAe8BQVVfeXFMUE0zbkZfRFY1bXBrMHNPWW5VT3BRbUFmQVRucm5XUTZyV01KZG5ZLXRLd2d4RlFyMU01eEFHWEtMb2QxUy1XcThTckdrXzcyQnd3cUVvS2dMZWwwU3RGSmdrUTVRcTF3UDNmd2lhV0NZZ05TQm5RRmwzTVdDNTBMSHdqLXh6S1MwNlBfdHgtSzU1Qm1ZWDlCSmV1S0ZKWUJqQ1RUN2hKajBtUWQ2TkZDcWVPY2tBd3I5OFdSMzR5TC0zaFczc2V2aE1xZnBCaXYzTFcxWFB4VFhXeUprYzl2dUpoWS00bUlqdTd4ampqQTQ?oc=5",
-                         "date":  "2026-02-03T08:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "मंडी में बनेगा इंटरनेशनल एयरपोर्ट, 3400 बीघा जमीन होगी एक्वायर - Dainik Bhaskar",
-                         "source":  "Dainik Bhaskar",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3FLUDdnZFZJOG9JNzQzU0otRmxrT3Z0WTY4b3hCSmRRSk0xbGItMWtwdlBJQkhodkY1cjhicURVMDhRQVQ5VXlCRl9pOGVEVFVhaUVxZ253WkQ0X2MxejBYczVrczhfSHdUc1J2YWduUmhUYk1RM25Mc3F2dHJydVUzeTlWZUktNEc2c2tYSUhVYmFnZGx2bFZIN0x0UTNwY1NaUjdfbG9KbzJM0gGyAUFVX3lxTE9KMVdVaXNoZkw5azl0aTJzREM1eGVQZmVCRGE5MGUxU3RHVGEwUnptOS1ldE50NUVOSkprekVtOEUtY3Q0b1dIYzlSaTVBbUxXeHY4Y1V2U2tic1hEbVhfWHlOdFJqYlZfMUxhLVdxRGV1Uk51UWhmWkxZUFZ3TmIzRnJ2OTh3em1CTVRlRXJsdkNHYWN2NVRVY1dYNWZFMzgtVVBiWkU4R2V2MENVVjJkRVE?oc=5",
-                         "date":  "2024-10-29T16:39:19.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "Farmers in Himachal Pradesh Oppose Takeover of Fertile Land for Mandi Airport - Land Conflict Watch",
-                         "source":  "Land Conflict Watch",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMivgFBVV95cUxObU44cjM2N0p4VDBRUWQ3ZVg4NkxfWE03d2pMVjc5OWZrVEVTMmhlakMwd2hPcWN5MlRjREtHenNMUHRJN0tnUVRLanJQanVTNmUtQy16bVppTkpGMUZKVXRPTzdyS1BxRnRnc3lhNkhEcnk2ZzVXSTRMTU9fYnJnaklFdEhJMG4zVU9YVjQyRG5LLTVnVUo4RVJQLTd6cmstUjNTdTJ6OU5JcTdJRlFqNGpHRG1mQldpQVZQOFdR?oc=5",
-                         "date":  "2024-08-20T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "IIT-Mandi director Behera not fit to hold the position: Jairam Ramesh - Business Standard",
-                         "source":  "Business Standard",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcU1WeUhZcF9VbTJoX0lfN3JyOHh3b2duak4wSjdoTXdCNkI2eFdRU2NKLUxGTTVXTUlob2lTVXJ0TEF6SzlLbVpXM3JkbXNXS0pGd3pDZnFjdzNHYTIzSHpkT3VlQ2EtV1NhU3FRQWlGVm5waE9ZMzlYVlQtOHBoeWhWa05Vamc1Q1hvZ1B0TUNEeXFHcXJGcmRSSnA4Z3dnRW1ueUJCSjdyTzFPd0tvRUxqaUlVZXN4OFQxem02cVZnMkw0cThHeDBxNExEUdIB0wFBVV95cUxQcVFtdFNsbS1FaWlUS2hnMmU4dHBxemRqZ0ZTZjF3TURvR2ktbHBmeVZ3YktPNlZNMUE0SDk1YmxfSHNwZk9hZWtDYXFjeTNFeFVqU0lBX0xUNmpUWENtTkVJbGZ6cVZNSHRidVJ2RFoyT2wyMmZxdkVjTThJS3o4TWg4WFl4Mi1TaFV0ZmNLSFdHTWZpLUJtRHg4MFphdXQ2cmRhQ3ZRTDk2MHF5UkFaRDhQMEpyMWRtVGdqbGxHTUtaeEU0R0hCMUVvUk1uNFU2RTZB?oc=5",
-                         "date":  "2023-09-08T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "IIT Roorkee submits probe report over bridge collapse in Bihar\u0027s Bhagalpur - Business Standard",
-                         "source":  "Business Standard",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmtmODhnWEQ1UFdGUDh1d2NZNWdPZTJrdFFwR0F5VlFHY0ZIUnNwTGRqQlFSaWZ2eE4yeWpSN0hTSk91Yl9vdEtWQ3djdEhjRHliTnVOOERLTF9Dd05NcGRjbHlGYmZRXzVOekNiM1ZQdXRjM3JSM1FiNzI4cFpEV2ZVcXBVSTU2c1NQdllieXhZVkNfVWtvcS0wR2dNaTdGT3B4RmVSWFQxc0M3UlNxOE91NXBWbXBTR2tfM1JUQTVyUWlDNHhJc2NrZDBFeFgzSW5wUVN30gHbAUFVX3lxTE8yZU1xR0gtTFEyZndNYUU1MUliSV85QWZFZDdWSlNwTDY0bG1BSnlVeE5wRGRtc3NMZG5jVzJYbGpmNmp2WWlNdjJwSDBqcHlfQ3Jla0FaaWcwWVFKZmJ6Vy1jd0dVa0lBdzlTX0JYTmh6WURnMUFUeVU1VHZkMzBQOFlibXQySWNqWjBISFo4VUl2UHhFSjRnMDMxQ0RhZEtwZ2IyMUxRajZHMEtTdFRIakpvYmQ2LU5DenJnUjh2ZDU5eWlocGNyRnlrSERNQjdkeC1PZXRvWmpJMA?oc=5",
-                         "date":  "2023-06-07T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "India\u0027s most awaited upcoming airports - The Times of India",
-                         "source":  "The Times of India",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDhCS2VfclBUZkNZVHhnSnByUHhybThiZ3RmcU54UDZMV0NsU0FkOWpNWkZaZXZPV1YyVWctb0l6YndSNUt2NzhTbVVaQ3JIdWNuQVFycFZYbmk1dTFkOEx2VExYT2ZMbmtHWDVOaHVCdHRKSjdIQUZBYTU3a05VT25pNWtKOU1RVW9PLU1kS2NQUTFOM2FULWlZTEFpUDBxVlh1blA3Q0psSXMtOTJaYmJ4TW1Dc3c10gG4AUFVX3lxTE5UOEJLZV9yUFRmQ1lUeGdKcHJQeHJtOGJndGZxTnhQNkxXQ2xTQWQ5ak1aRlpldk9XVjJVZy1vSXpid1I1S3Y3OFNtVVpDckh1Y25BUXJwVlhuaTV1MWQ4THZUTFhPZkxua0dYNU5odUJ0dEpKN0hBRkFhNTdrTlVPbmk1a0o5TVFVb08tTWRLY1BRMU4zYVQtaVlMQWlQMHFWWHVuUDdDSmxJcy05MlpiYnhNbUNzdzU?oc=5",
-                         "date":  "2023-05-25T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "Experts will give opinion on Kangra Airport expansion; Formation of special group, report sought in two months on land acquisition - Himtimes",
-                         "source":  "Himtimes",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXN3eEtjN3NkTWpOcEs2TTBEaS0xZDVzMGJ3NnNZWG93S2d5aFhnRDNQV2ZOTXlFRmtZVlhMbGRoQUhYYmVta01tVDl5MTE0OXZyc09adFNEc1ZfYTBLSFhXeXdsYVhTSzVkN2VPdzY3aEU1TWtRcy0xU1R5QzFfWA?oc=5",
-                         "date":  "2023-04-26T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "Shift proposed Mandi airport to Hamirpur dist, suggests new SIA - The Times of India",
-                         "source":  "The Times of India",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdjRVcUVlYXMwa2Nnb1doTmh0alBBSy1OUHRCQ2tRMldTc1JWbnlhXzBWb2tZeGhuV0lTbW9mTTNENWt5SGVTSnZTYURCaF9LQzI5X0xUaDNxbGV3eFoxd0F0eS10SGNyWVZ4Ym5nNXU3aDhCUGtPMFpQMGtUcmQ5SzUxaDVIU2tpU0c3TmNVNmFraXE0TW16V3lXMnZUZWR0dDNNYzVGZm5Ka2s1amQ4ZzlZWndHZEl6N3dNWWhqTVFtMkl2a09SZzBtQUoxdXdK0gHWAUFVX3lxTFBpcUpYWXUwcExicmpFbDZaQU02T3AzVWh5SGpwRjFrNC0zTU1xSkZ2VjNrR252VEQ0TVV0V3h6dm01WGw5R2hGemVZVFRURnlvZVVvUlctMDJDcFBZNU1LamVzTzRTSTFOR2NrMFJEcklyRG9QOUxwSFN4MGF1aG5zSlpucllZSG45MnVSY0NTWTBWeFRsNkZ3Q05ZbGhpRmZuaFdoQkhxbS1fYmFyY0VBeEdwVXI2U25UYnZtcXlpeDJ4TmNVWXlJdGtreWc5UEVncExFX0E?oc=5",
-                         "date":  "2023-04-09T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "People oppose green-field airport in Mandi, cite existing 3 ones in HP - The Times of India",
-                         "source":  "The Times of India",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeGFhNlJWZEpvMUU1SnRmR2FxUVlLWEs5SDVTeDdZMzU3ZmFLZjdDYXAtcXNrSzdlNUs0bkhtY1Z5aDBmWHJjd0U4bE50OEp4dkwxRk1DaGQ1TVJuTGg0WmRLUk9Pc25wRUN0XzY2ODNucWNwR3FzOHBqWGJJMUt0eVJpQlY3VmFIenNzRG9vSVQteTNLTTRRLVktNjM3R1ctdzIyWnNHMzRNblZJVllnUW1YYjczZDM5MG5OVU45NU5OUkVQdmNGVmR1eGVOZ0huX05PY3ZYOXJCUdIB3wFBVV95cUxNbmsxUEVId3NnQTl1Q3BHOFhLcmQtX05QZDExT1Zydm9vUDVwTmRQWF9sYWtYRXBSZXVVT0ZPcTVWV1BER0lUV2R3LVpmVUdPSkZONV9rbE1PTWR2bUZvSi1mN2pQcUtla3JKYWRRYmRObFhWUTJrdjg4S0VmSl9RT1FJb0E2bzVxMEtSSkJYX004Ulpha0VRbHdNTGhoRGtiNS1oR2MxeGtqb08tZjJKUEJwaHJpandWR3Rzb3VSZGc5TFgtV0VxM2JzOHY1dzJtYm9RM1hjZXlZUkNBOTF3?oc=5",
-                         "date":  "2023-03-27T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "Balh Mandi Airport: विदेशों में बसे हिमाचली बोले- सरकार बल्ह में बनाए हवाई अड्डा, नहीं आने देंगे धन की कमी - Amar Ujala",
-                         "source":  "Amar Ujala",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMHNDb05GOE4wUk1odUhaMDdJOG9KZ2M0R2pwcXlwU2stdElUZGNIeEtmWFRkSF93RWxlak9idzRpMnktNVloeG1SSTVKYzBWNTZWcEFIT0hXNnkyYnBXdTJnbTJZTFduOElnbnNPQ3V3cy1qc2tmRENWY0RrXzlFSF9uWmlVVlNHWVg1clJJOE5OY2haZDVQTENiNTN6TEJhaHg1SUhyN29BSVlKeVA3SkxZQi1nR0h6cDI4ZTRfQ201Z9IBxwFBVV95cUxPMVo4RnBnYTNFRWhEMmhRM1ZWOGVMN01KTXZNTnpaaXVfTk9wNXBqcHI5YjVmd2o5WkJINjF0WkpfVWhoM09kV0JyMFlkX2ctMDNHZ3ZLTUtmdFdMbURpS2JnMFBrbGdJaVdYMzBsd0o5T1VvT1JaaVNhMS0yUTh6Y25FSEl5ZW1jcUxYeEc5SFd3TnREYmd3RTN5NHFuN2lURlBpWXozQmg1Sm14TmFaT0ZwRlUtNlJfYjU4S2hpaUJ2RmJjMVdz?oc=5",
-                         "date":  "2023-03-23T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "मंडी एयरपोर्ट: भूमि अधिग्रहण में 8034 करोड़ रुपये की लागत, 5248 करोड़ की बन रही DPR, जल्द होगा शिलान्यास - News18 Hindi",
-                         "source":  "News18 Hindi",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb0I0ODJVWlRRVW1XbDZRdDh3b3FRR0lxZGVyVDRNM0pHU0lfSmVteVo5eWxlWDJYa21WMGRCbm44U3JPYjM4NUZWOHFUZ29ucEhVOHRNbXNqMnEwZktDdmRHaEdVcWNQT3BLRlM2UWhLS0hDdlpiOFlWLXVPYl9GLXhDTHBNOGhzcy1OM2s0MUpKRFhTWl8zZTBKdmRtQVE4U1VLV0ZPWlNIZmE3TnBmNmk2V0UySmxubEhwcGJPNG1hejFvS3pYbnRpZHRFbzM5bXE1d1YzU0R4Zk0zZ0szZXNJNlhpZ9IB6wFBVV95cUxNcExqNm9YY1FQMVBqWTFOZXVmSHJOTUptYng4VVBMcjF0UHdNeE8yNnBSaUxpbFJwNE5QaWd5aEl5NGFVcEk0SkZlaXc4c1JaVEd1RHJCNy1kaW9jWmpENUxFODdMT1JMU01ya2x4RURjTkF5elFwZlp6VUpuQVE0dHNDYkQ2NlBfNEhaSThCZnI1RmFHQWVraEV2SW54RXlVS1RLR2lKZW9kWlY1MXc3RkNJWklHQjJlSFQ2dkxJMGxxVlV1MlVoTmxhbjQzTWZwcmdUUHdxck1TNFZjX3ZKWC1GNWZQeGt2endJ?oc=5",
-                         "date":  "2023-03-21T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "Mandi Airport: विमानपत्तन प्राधिकरण ने मंडी हवाई अड्डे की डीपीआर लौटाई, कहा-तकनीकी खामियां करें दूर - Amar Ujala",
-                         "source":  "Amar Ujala",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMiywFBVV95cUxNenVsakNUZDliR00wNElqTW9oRVpIUFZmdG9YRGdnbkJrUzd6WVhJZGs0ZGpKRDNFLVA4ZGU5Y2hndF8yUF9tenozOUFXM0owYTh3dTlhVWNwcDB2VGtMUGFyZ2xnTkVvVkJFaUUyWWNVN1JPOWw3Tlk1ekR3UmFJbWwyQjlib0NNMm9QNlppOWJqamRrUDVJZ3NDWUF1cEFhX0NCNERjQU1EQlN6U3VVQzBjUHhrb1lRT3Rvbm55eGtRM0t0cEt2YVBRUdIB0AFBVV95cUxPVHVpVXRzRkhuSDJiUXJCdEJsQkdVd09tZjEtMHNFcDh0S2FOelcxTVZobGpHa01UdFBpYWtRcmdHTW1tandMQndRLW1aX0NjRGgzcmFDWlpqbHFsdFdoRGJKR3JJbXM1ejkyNjlBWTYwSVVMUy1EemN1cVY4N3hWbjlEYk1rYUstNUZTbk1qSnVmemZ4bDIxU2JTNVUtczRncFlTVFZCbDAwcmtKZFRGY05DRGl6cGd3VWQ3bHIwc2NJY1h2dkxab210X0dMLVVm?oc=5",
-                         "date":  "2023-02-27T08:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "DPR preparation underway for Balh Valley airport project in Himachal Pradesh - Projects Today",
-                         "source":  "Projects Today",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjdpV3p6VS1QdFlVbkhnN09IdmRTd0FNZEl3R0oyZ2cySGRwWFFsU2k3YUUzU01zWkxibmpCaDZRODJZUkplZEU1MVFzYlRaeHZNVkNXV2xfZGk1Mkw4b0JyUFpSaklFNVJlQlh4R0pLaXZMQkZlRW40dkVLaVU4ZmdiZ0FDNy05UkdJNy1LV2phbzNLVGtsdEdUbnFvVnVHQ1BQamlYS0RHalNKZmZZ?oc=5",
-                         "date":  "2023-01-05T08:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Balh valley airport"
-                     },
-                     {
-                         "title":  "मंडी एयरपोर्ट के लिए होगी 2368 बीघा भूमि एक्वायर: निर्माण के लिए 6 महीने में हिप्पा करेगा सोशल इम्पैक्ट असे... - Dainik Bhaskar",
-                         "source":  "Dainik Bhaskar",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjZmdEljaVZvN0Fta09way1uY1UzQ1ZJcXFrTzdod0JBYXdNeGlyWjRheFUwUFJYdG1ScU9SekM3X3JGQkVuMEZ3V1FnSmhlTXhlaUVVS1N0Z3ZLMXNWR09hRmg3X1lyYjNWODdGTVBaWVRxYTFONGtENGxQNWxpM3lGWlprZE5RN01DM3JxQkFUNWNFa25DbEFSVlViXzB2bF9DUU1FVjZFM2I2Z0l3aWVLOUFPblHSAbwBQVVfeXFMUGtadlIxTktoM0NyTEo1V29LYnFvdHltT3lDNTRrbWN3RHczZ0pLSVZETGFLNGlRVEtnWXF3YU9sY05pYlowM1doUWRtWEFLVy1UX2NWRGp3Ync2N0hvdldsMDJtRzhmZGF2elZQZTNVSUwxWFg2LWJZUTR4c2tYSk41bkdKSlRCZlJSaHk5OVZaOVpUaXJ1aVRHZjBBTVhiLS0yVHQxM3ZmVVhyZVluYjRKcnFHLUtDZkpVUzY?oc=5",
-                         "date":  "2022-10-07T08:56:09.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "Site clearance given for Mandi airport - The Tribune",
-                         "source":  "The Tribune",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWRVUGlpaWVwbE5WV3VOSnZNZVF3T0ZkaUUyUWswcGt5aEtSN3dDbXhkNmRHMTZxOTZvLW40MDJ0bWFWWFljQVpaYmpBVzNZRFZVSlY2YngxeldMRkdIX05JWm1PS0FKSndiMDZmdm1hNTB1OE9OeVQ2X3lHV2gtRG4zT2FBLUZPdzlRSTdtS3FyQdIBlwFBVV95cUxPb1hEXzFDUndEUjhpdnJyWGtvcDh3RjRyazlBTExrZ2oyc2N4dHN6eXJ5MG5RY3hTaFpSQVU5SXNGTTFhZWMzcWxjUnVING9ETGF0ekZBWEdBdWhPRHNtU2s3SVZiY09HWUN5QXRaN1Z0NmlYcVZpTkdweUo3SDlWWGs4RjNHVld5Zl9HMkhQZ1dzOFdETUhB?oc=5",
-                         "date":  "2022-07-26T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "MoU Paves Way For Mandi Airport In Himachal Pradesh - Hill Post",
-                         "source":  "Hill Post",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWRqQlVOdW5WSEhKUWRzOUc4QUJVakJid2UwX01jZzc0SGlSeExJUVlXQ2FFZnpQckpRaE5kalYtYTlWeU1EVEE0c1RXX2J2bzczUklfdDlFc0ZEc2xKd21TeWlLSkFBcVhJdTU2V2w2bkZPZGVMWjBJZTBkMlR6YTZYendfMmFRRExpeGJjRmw?oc=5",
-                         "date":  "2022-04-28T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "Mandi Airport : मंडी एयरपोर्ट पर उतर सकेंगे बड़े विमान, 3100 मीटर होगी रन-वे की लंबाई - Divya Himachal",
-                         "source":  "Divya Himachal",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb1lpSFE4V1lmWHVNMnNGZVlrZUp0ODFVLXl3VGdhdEoxY1ZpOUpxdjhKWUFkM1NLZmlmalJaTG9zV0FhSXNKRWtqajZCOHFBaHFMQm1iNkRGbVdfdThVUjQ0M2QzSFVodjJqNjl4bXdDWFpmWXBXVXBqWnNac3psb004eGZuSXFUVlJPMjI4YWxhUVVIMUVBYXhsNkg2X2JkLWtFZy0tTHNIZ3dCWmJVMWpEUHJneHAtZGdTcnFZdlNuOHcwZlFhS3RHd0hMNkRsU2hRcXZaQ05aby1lOXU2UXg5elfSAeoBQVVfeXFMTXdIbkVpQjNiSllzS3BEdjJzMDh5RDNWb0lDNzcxdWRYUzNjX0RCM2VsOWFKcVU2R0ZCdTFLVlpuellPOHIyQlZwcGxqTTUteFlyM0xoSVJ0Wk1QdG9yeGtORzRfeUlvTnFfZjA0ZDl6d0lPUE1CVzV6dUM0MTVCNlpDNDF0OGR2VDlLS2FGMFl4RWtVZ2luRDZRa0ozVDc0QjQyc3pLdUJtTjJ3NHdxcGdFSWlHMU9aVmhMVzdiVWp0bmNTUnRwbmpUUUV6eDJIRnVva0ZxQ2FNMDNHWmdQdFBMNzlXTHUzbWN3?oc=5",
-                         "date":  "2021-11-06T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Mandi airport"
-                     },
-                     {
-                         "title":  "Mandi Airport Spells Disaster for Himachal - thecitizen.in",
-                         "source":  "thecitizen.in",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHZYTFlsNVMzc1FQZ2RTTUNKY0VLZDlSWVlrd2ZJYzY1LVJEQ1JvZ1FFdlVTeWI0WVpEb0otdEdtSGdMck9WUTM1UnlDZHdiNFRsVUtwU2lfSndJVzNOR1dOWDRIaVg4SnlCVFMxc3JVX25jZVFkc185M05uYjQxZ0ZvdHJYbU92RkY4U0FEYS0yVjE5Nktwd2x5TmExVzV3eUVFV1V3MXphUdIBrwFBVV95cUxOWndSclA3RG11cW91MkU0bUNNUWNwVk9ySGR4NXc0amVsRkxEd3RxcUM4U2doblRFeXFWV0xSdUtTMkpZcWZ3WUxVd3NIbzRFQnFTWHpyMEVJV0REMVYwSk5Gb2pGMUN4cXdjSGh6LUVYeFNVR25Eb3NVeDVwZk9oOGJBUW94ZU1VX0RJRjRsNzhYZ3VPV2w5NDl2T05NZUJyQThFdTlBNlFZNXEwZk9B?oc=5",
-                         "date":  "2021-10-24T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Mandi airport"
-                     }
-                 ],
-    "methodology":  "Google News (India) en-IN + hi-IN. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "updated_at": "2026-06-18T20:41:21.208Z",
+  "project_id": "MANDI-AIRPORT",
+  "counts": {
+    "press": 29,
+    "gov": 0,
+    "en": 16,
+    "hi": 13,
+    "total": 29
+  },
+  "mentions": [
+    {
+      "title": "Mandi Airport : बदलनी पड़ी मंडी एयरपोर्ट की डीपीआर, जानिए क्या है कारण - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3gtOFpGXzFPcW1aY0J2WnZNNVU2SVhoak1qd2MyaFIzQzBMNUR0YlMxaWpRdEY3aUFRN0NmekJ5MXFGX29jZ0FZRXpack1PLWpBVnlQWGdhYWZGaGt1c0QtTGZlZ2JETWd1Q3NpTFNSNDA2cS04clJOTGRsdDBneG5yekprVG9NZkd4TlVrX0lpM2FsRjRjN0ppeWstbjFuZS1FdTNXR3poYWFmbENObtIBtgFBVV95cUxQWVpUeWsyWkxpWUNvVHM2SUFRY09FZHY2cXVZenBkUmk1ZllNako2N2tGU2dQalBESnFHLXhLc20yUFRyRnhwRmdPMkQ3NHZ3aUN6N3Q3bndTM1hqcnZFTFJDeW51aFZPQXZuZUd4RnZRb3hVVDhJY3B4ZTZNRzhYSmZybHBZLVU0TFBYaE9EXzRNdkNUMGVHVTVpbnhhTWQxYUdtOHg3aW5EX0pEQWNJTVJTNGRvdw?oc=5",
+      "date": "2026-04-03T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "जयराम ठाकुर का ड्रीम प्रोजेक्ट, CM सुक्खू की सरकार में मोदी सरकार से मिली बड़ी मंजूरी के बाद जगी नई आस - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMndtUlNyR3ZkZ3I2RV9TNzBkUzMtbmVfUXIwR2hmejItQmFWbkxsb01DYVNMMlE5Zkx4UFVvbVZjbmhMRUdXMHRzemN1TXdyOTJfS0Qxa2NSSFVLQU9nbjEwZkZJZURyUHh4WTl6MzlZZG9rVi1aV2JSX3R4R0M3MVBDQV9wcTZGaXJ3ci1ZLTdPSldfUkdJZlpvNlk4Q0ZGSzV4Q1dCMjd3Y1J2dkprX2dabmIwLUtXZ3BpTVBkMXcwNmtIa0VyYmxoVk1qcDhaZ3NaUmI2WWJHRmYzYl9RTmhTZGozSjlPYjJwelBFRU5keUpyWmd0UGg4aElhZ9IBgwJBVV95cUxQdll1dWg1ckxpLVlXM3p1OTU4N3QtYzFmUEgtWGQyV2tCcV9GakdSWG1ZdlRuQktVbHloS0hiRkRjSFh0N3l6RC1zS0dBa3lUREszamNHNnBsRDlhNHR5WklxbkYxVUE4eTd3NzhyaklsTTdjUnRkOF93ZGZ0TmlTY2pNLWtDTkNhZldtaDZ0YUtwUEh5VHNHX2JwMkVrZHBFTW9laFNLcEVaS0RvSVVKZmNRdDY4LTdBUWJ4eXdnYU1zZzdmbVFNMmVseXZmTzFJcUozempNcVN6YWFhQ0ZMX2VVWnMtNUtQMk85cGJzY0ktMG9BUG9uNmtLQ3NEY3VBVExF?oc=5",
+      "date": "2026-02-10T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "खुशखबरी : मंडी हवाई अड्डे को मिली साइट क्लियरेंस, भूमि अधिग्रहण सहित अन्य निर्माण पर खर्च होंगे इतने करोड़ - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTENaU1NLQVpFMENfWDJSVTYwVkZpbHp3T05MNVAtUVEwNlZYWUhYaWxOcnI5NmRuYy10ZG9od3M4a0RDbnNocHNGZWdZcjhFVXgzX0ZfWUhiQVo4alpaV2IxZ2p5LU9sdHBzUmFJTGZlQTduV3QtaUg4dVZ2NmpLZDl0VHRJYy1HYzh1WEtYalI0Sm50aFRwZk5mVWRmUjlaNlBmbWhpaHR2N0tKOGdJUERUeUtRYThxZmxoUm5kTkNSVnluZlRWb3dXTDlsUVJ3UTMtWWViQWpzc21fc3A3VzZya1ZSNGFiOWfSAe8BQVVfeXFMUE0zbkZfRFY1bXBrMHNPWW5VT3BRbUFmQVRucm5XUTZyV01KZG5ZLXRLd2d4RlFyMU01eEFHWEtMb2QxUy1XcThTckdrXzcyQnd3cUVvS2dMZWwwU3RGSmdrUTVRcTF3UDNmd2lhV0NZZ05TQm5RRmwzTVdDNTBMSHdqLXh6S1MwNlBfdHgtSzU1Qm1ZWDlCSmV1S0ZKWUJqQ1RUN2hKajBtUWQ2TkZDcWVPY2tBd3I5OFdSMzR5TC0zaFczc2V2aE1xZnBCaXYzTFcxWFB4VFhXeUprYzl2dUpoWS00bUlqdTd4ampqQTQ?oc=5",
+      "date": "2026-02-03T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "बल्ह-गग्गल एयरपोर्ट को लेकर बजट में ये बोले सीएम सुक्खू, जयराम ठाकुर दिखे नाखुश - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPR2dXLWJ6Qm5IU25Ja3AwaXNiYmY5c0tKT2dDak10NUdodkRuZ3JFeUt5Y3VxaGxNT2JIWDFYSjRjTDYyXzFqaDRSazRQdy01NGJBWWFGWGV1Q2ZPMUJkaUd6eWVBdkZrN3FZNTIwMzE5WG1nNDF4UHBaZ2huMnJFYXJobWYzaWl3WVVTdGhlUHFqbDRNeU5FNk83eDI0a1hQMmFhaklnOXBpTzJ6OHR6VnFxX2IzVFBUQzNMQ3hBUDNUT3R3WDdBM2c1RUNTeHNoRFp3RVRqRDBmejhHemZuMnYyZnktbXhHVEIyQXpFdWdFNjlqakNhbGVoSlFWNUhGY0ZJM2h6R2lCd03SAZACQVVfeXFMTkV6bWJ4bm5lRjBHNG5hMFlzdWtBVVhvdEpZSTNkcFBqb0tGSmU1MXBUbF93dzJqNGFQM0E0RzJuSGZ3czlRUnNWbXhJWHNVazV6Wkh3UWVjX1JjLTNRalZxMWdVM25uM3M2eG9YVG4yRTZseUFYVS1BdmhOMzM0SnV2LV9iMjY2VXlRZVRjeG8tSXpfU0VPN2NKVEpFMjJYVFhTLUs0THc4RVdad2NzSk9veUdwcGhucEs4aXF1Y0QzbVhOT1ZoX19kbW1qMnJfbS1PU1pUUjRQRzlDd1JydUt5NjB2c1BlUl81Tmk1N2pPQTQtWERCUEpaRUlSdm1VMWwxZ0NGaWlLc1ZrWFAyckc?oc=5",
+      "date": "2025-03-17T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "मंडी में बनेगा इंटरनेशनल एयरपोर्ट, 3400 बीघा जमीन होगी एक्वायर - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3FLUDdnZFZJOG9JNzQzU0otRmxrT3Z0WTY4b3hCSmRRSk0xbGItMWtwdlBJQkhodkY1cjhicURVMDhRQVQ5VXlCRl9pOGVEVFVhaUVxZ253WkQ0X2MxejBYczVrczhfSHdUc1J2YWduUmhUYk1RM25Mc3F2dHJydVUzeTlWZUktNEc2c2tYSUhVYmFnZGx2bFZIN0x0UTNwY1NaUjdfbG9KbzJM0gGyAUFVX3lxTE9KMVdVaXNoZkw5azl0aTJzREM1eGVQZmVCRGE5MGUxU3RHVGEwUnptOS1ldE50NUVOSkprekVtOEUtY3Q0b1dIYzlSaTVBbUxXeHY4Y1V2U2tic1hEbVhfWHlOdFJqYlZfMUxhLVdxRGV1Uk51UWhmWkxZUFZ3TmIzRnJ2OTh3em1CTVRlRXJsdkNHYWN2NVRVY1dYNWZFMzgtVVBiWkU4R2V2MENVVjJkRVE?oc=5",
+      "date": "2024-10-29T16:39:19.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "Farmers in Himachal Pradesh Oppose Takeover of Fertile Land for Mandi Airport - Land Conflict Watch",
+      "source": "Land Conflict Watch",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObU44cjM2N0p4VDBRUWQ3ZVg4NkxfWE03d2pMVjc5OWZrVEVTMmhlakMwd2hPcWN5MlRjREtHenNMUHRJN0tnUVRLanJQanVTNmUtQy16bVppTkpGMUZKVXRPTzdyS1BxRnRnc3lhNkhEcnk2ZzVXSTRMTU9fYnJnaklFdEhJMG4zVU9YVjQyRG5LLTVnVUo4RVJQLTd6cmstUjNTdTJ6OU5JcTdJRlFqNGpHRG1mQldpQVZQOFdR?oc=5",
+      "date": "2024-08-20T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "IIT-Mandi director Behera not fit to hold the position: Jairam Ramesh - Business Standard",
+      "source": "Business Standard",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcU1WeUhZcF9VbTJoX0lfN3JyOHh3b2duak4wSjdoTXdCNkI2eFdRU2NKLUxGTTVXTUlob2lTVXJ0TEF6SzlLbVpXM3JkbXNXS0pGd3pDZnFjdzNHYTIzSHpkT3VlQ2EtV1NhU3FRQWlGVm5waE9ZMzlYVlQtOHBoeWhWa05Vamc1Q1hvZ1B0TUNEeXFHcXJGcmRSSnA4Z3dnRW1ueUJCSjdyTzFPd0tvRUxqaUlVZXN4OFQxem02cVZnMkw0cThHeDBxNExEUdIB0wFBVV95cUxQcVFtdFNsbS1FaWlUS2hnMmU4dHBxemRqZ0ZTZjF3TURvR2ktbHBmeVZ3YktPNlZNMUE0SDk1YmxfSHNwZk9hZWtDYXFjeTNFeFVqU0lBX0xUNmpUWENtTkVJbGZ6cVZNSHRidVJ2RFoyT2wyMmZxdkVjTThJS3o4TWg4WFl4Mi1TaFV0ZmNLSFdHTWZpLUJtRHg4MFphdXQ2cmRhQ3ZRTDk2MHF5UkFaRDhQMEpyMWRtVGdqbGxHTUtaeEU0R0hCMUVvUk1uNFU2RTZB?oc=5",
+      "date": "2023-09-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "IIT Roorkee submits probe report over bridge collapse in Bihar's Bhagalpur - Business Standard",
+      "source": "Business Standard",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmtmODhnWEQ1UFdGUDh1d2NZNWdPZTJrdFFwR0F5VlFHY0ZIUnNwTGRqQlFSaWZ2eE4yeWpSN0hTSk91Yl9vdEtWQ3djdEhjRHliTnVOOERLTF9Dd05NcGRjbHlGYmZRXzVOekNiM1ZQdXRjM3JSM1FiNzI4cFpEV2ZVcXBVSTU2c1NQdllieXhZVkNfVWtvcS0wR2dNaTdGT3B4RmVSWFQxc0M3UlNxOE91NXBWbXBTR2tfM1JUQTVyUWlDNHhJc2NrZDBFeFgzSW5wUVN30gHbAUFVX3lxTE8yZU1xR0gtTFEyZndNYUU1MUliSV85QWZFZDdWSlNwTDY0bG1BSnlVeE5wRGRtc3NMZG5jVzJYbGpmNmp2WWlNdjJwSDBqcHlfQ3Jla0FaaWcwWVFKZmJ6Vy1jd0dVa0lBdzlTX0JYTmh6WURnMUFUeVU1VHZkMzBQOFlibXQySWNqWjBISFo4VUl2UHhFSjRnMDMxQ0RhZEtwZ2IyMUxRajZHMEtTdFRIakpvYmQ2LU5DenJnUjh2ZDU5eWlocGNyRnlrSERNQjdkeC1PZXRvWmpJMA?oc=5",
+      "date": "2023-06-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "India's most awaited upcoming airports - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDhCS2VfclBUZkNZVHhnSnByUHhybThiZ3RmcU54UDZMV0NsU0FkOWpNWkZaZXZPV1YyVWctb0l6YndSNUt2NzhTbVVaQ3JIdWNuQVFycFZYbmk1dTFkOEx2VExYT2ZMbmtHWDVOaHVCdHRKSjdIQUZBYTU3a05VT25pNWtKOU1RVW9PLU1kS2NQUTFOM2FULWlZTEFpUDBxVlh1blA3Q0psSXMtOTJaYmJ4TW1Dc3c10gG4AUFVX3lxTE5UOEJLZV9yUFRmQ1lUeGdKcHJQeHJtOGJndGZxTnhQNkxXQ2xTQWQ5ak1aRlpldk9XVjJVZy1vSXpid1I1S3Y3OFNtVVpDckh1Y25BUXJwVlhuaTV1MWQ4THZUTFhPZkxua0dYNU5odUJ0dEpKN0hBRkFhNTdrTlVPbmk1a0o5TVFVb08tTWRLY1BRMU4zYVQtaVlMQWlQMHFWWHVuUDdDSmxJcy05MlpiYnhNbUNzdzU?oc=5",
+      "date": "2023-05-25T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "Experts will give opinion on Kangra Airport expansion; Formation of special group, report sought in two months on land acquisition - Himtimes",
+      "source": "Himtimes",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXN3eEtjN3NkTWpOcEs2TTBEaS0xZDVzMGJ3NnNZWG93S2d5aFhnRDNQV2ZOTXlFRmtZVlhMbGRoQUhYYmVta01tVDl5MTE0OXZyc09adFNEc1ZfYTBLSFhXeXdsYVhTSzVkN2VPdzY3aEU1TWtRcy0xU1R5QzFfWA?oc=5",
+      "date": "2023-04-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "Shift proposed Mandi airport to Hamirpur dist, suggests new SIA - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdjRVcUVlYXMwa2Nnb1doTmh0alBBSy1OUHRCQ2tRMldTc1JWbnlhXzBWb2tZeGhuV0lTbW9mTTNENWt5SGVTSnZTYURCaF9LQzI5X0xUaDNxbGV3eFoxd0F0eS10SGNyWVZ4Ym5nNXU3aDhCUGtPMFpQMGtUcmQ5SzUxaDVIU2tpU0c3TmNVNmFraXE0TW16V3lXMnZUZWR0dDNNYzVGZm5Ka2s1amQ4ZzlZWndHZEl6N3dNWWhqTVFtMkl2a09SZzBtQUoxdXdK0gHWAUFVX3lxTFBpcUpYWXUwcExicmpFbDZaQU02T3AzVWh5SGpwRjFrNC0zTU1xSkZ2VjNrR252VEQ0TVV0V3h6dm01WGw5R2hGemVZVFRURnlvZVVvUlctMDJDcFBZNU1LamVzTzRTSTFOR2NrMFJEcklyRG9QOUxwSFN4MGF1aG5zSlpucllZSG45MnVSY0NTWTBWeFRsNkZ3Q05ZbGhpRmZuaFdoQkhxbS1fYmFyY0VBeEdwVXI2U25UYnZtcXlpeDJ4TmNVWXlJdGtreWc5UEVncExFX0E?oc=5",
+      "date": "2023-04-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "People oppose green-field airport in Mandi, cite existing 3 ones in HP - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeGFhNlJWZEpvMUU1SnRmR2FxUVlLWEs5SDVTeDdZMzU3ZmFLZjdDYXAtcXNrSzdlNUs0bkhtY1Z5aDBmWHJjd0U4bE50OEp4dkwxRk1DaGQ1TVJuTGg0WmRLUk9Pc25wRUN0XzY2ODNucWNwR3FzOHBqWGJJMUt0eVJpQlY3VmFIenNzRG9vSVQteTNLTTRRLVktNjM3R1ctdzIyWnNHMzRNblZJVllnUW1YYjczZDM5MG5OVU45NU5OUkVQdmNGVmR1eGVOZ0huX05PY3ZYOXJCUdIB3wFBVV95cUxNbmsxUEVId3NnQTl1Q3BHOFhLcmQtX05QZDExT1Zydm9vUDVwTmRQWF9sYWtYRXBSZXVVT0ZPcTVWV1BER0lUV2R3LVpmVUdPSkZONV9rbE1PTWR2bUZvSi1mN2pQcUtla3JKYWRRYmRObFhWUTJrdjg4S0VmSl9RT1FJb0E2bzVxMEtSSkJYX004Ulpha0VRbHdNTGhoRGtiNS1oR2MxeGtqb08tZjJKUEJwaHJpandWR3Rzb3VSZGc5TFgtV0VxM2JzOHY1dzJtYm9RM1hjZXlZUkNBOTF3?oc=5",
+      "date": "2023-03-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "Balh Mandi Airport: विदेशों में बसे हिमाचली बोले- सरकार बल्ह में बनाए हवाई अड्डा, नहीं आने देंगे धन की कमी - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMHNDb05GOE4wUk1odUhaMDdJOG9KZ2M0R2pwcXlwU2stdElUZGNIeEtmWFRkSF93RWxlak9idzRpMnktNVloeG1SSTVKYzBWNTZWcEFIT0hXNnkyYnBXdTJnbTJZTFduOElnbnNPQ3V3cy1qc2tmRENWY0RrXzlFSF9uWmlVVlNHWVg1clJJOE5OY2haZDVQTENiNTN6TEJhaHg1SUhyN29BSVlKeVA3SkxZQi1nR0h6cDI4ZTRfQ201Z9IBxwFBVV95cUxPMVo4RnBnYTNFRWhEMmhRM1ZWOGVMN01KTXZNTnpaaXVfTk9wNXBqcHI5YjVmd2o5WkJINjF0WkpfVWhoM09kV0JyMFlkX2ctMDNHZ3ZLTUtmdFdMbURpS2JnMFBrbGdJaVdYMzBsd0o5T1VvT1JaaVNhMS0yUTh6Y25FSEl5ZW1jcUxYeEc5SFd3TnREYmd3RTN5NHFuN2lURlBpWXozQmg1Sm14TmFaT0ZwRlUtNlJfYjU4S2hpaUJ2RmJjMVdz?oc=5",
+      "date": "2023-03-23T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "मंडी एयरपोर्ट: भूमि अधिग्रहण में 8034 करोड़ रुपये की लागत, 5248 करोड़ की बन रही DPR, जल्द होगा शिलान्यास - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb0I0ODJVWlRRVW1XbDZRdDh3b3FRR0lxZGVyVDRNM0pHU0lfSmVteVo5eWxlWDJYa21WMGRCbm44U3JPYjM4NUZWOHFUZ29ucEhVOHRNbXNqMnEwZktDdmRHaEdVcWNQT3BLRlM2UWhLS0hDdlpiOFlWLXVPYl9GLXhDTHBNOGhzcy1OM2s0MUpKRFhTWl8zZTBKdmRtQVE4U1VLV0ZPWlNIZmE3TnBmNmk2V0UySmxubEhwcGJPNG1hejFvS3pYbnRpZHRFbzM5bXE1d1YzU0R4Zk0zZ0szZXNJNlhpZ9IB6wFBVV95cUxNcExqNm9YY1FQMVBqWTFOZXVmSHJOTUptYng4VVBMcjF0UHdNeE8yNnBSaUxpbFJwNE5QaWd5aEl5NGFVcEk0SkZlaXc4c1JaVEd1RHJCNy1kaW9jWmpENUxFODdMT1JMU01ya2x4RURjTkF5elFwZlp6VUpuQVE0dHNDYkQ2NlBfNEhaSThCZnI1RmFHQWVraEV2SW54RXlVS1RLR2lKZW9kWlY1MXc3RkNJWklHQjJlSFQ2dkxJMGxxVlV1MlVoTmxhbjQzTWZwcmdUUHdxck1TNFZjX3ZKWC1GNWZQeGt2endJ?oc=5",
+      "date": "2023-03-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "Mandi Airport: विमानपत्तन प्राधिकरण ने मंडी हवाई अड्डे की डीपीआर लौटाई, कहा-तकनीकी खामियां करें दूर - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNenVsakNUZDliR00wNElqTW9oRVpIUFZmdG9YRGdnbkJrUzd6WVhJZGs0ZGpKRDNFLVA4ZGU5Y2hndF8yUF9tenozOUFXM0owYTh3dTlhVWNwcDB2VGtMUGFyZ2xnTkVvVkJFaUUyWWNVN1JPOWw3Tlk1ekR3UmFJbWwyQjlib0NNMm9QNlppOWJqamRrUDVJZ3NDWUF1cEFhX0NCNERjQU1EQlN6U3VVQzBjUHhrb1lRT3Rvbm55eGtRM0t0cEt2YVBRUdIB0AFBVV95cUxPVHVpVXRzRkhuSDJiUXJCdEJsQkdVd09tZjEtMHNFcDh0S2FOelcxTVZobGpHa01UdFBpYWtRcmdHTW1tandMQndRLW1aX0NjRGgzcmFDWlpqbHFsdFdoRGJKR3JJbXM1ejkyNjlBWTYwSVVMUy1EemN1cVY4N3hWbjlEYk1rYUstNUZTbk1qSnVmemZ4bDIxU2JTNVUtczRncFlTVFZCbDAwcmtKZFRGY05DRGl6cGd3VWQ3bHIwc2NJY1h2dkxab210X0dMLVVm?oc=5",
+      "date": "2023-02-27T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "DPR preparation underway for Balh Valley airport project in Himachal Pradesh - Projects Today",
+      "source": "Projects Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjdpV3p6VS1QdFlVbkhnN09IdmRTd0FNZEl3R0oyZ2cySGRwWFFsU2k3YUUzU01zWkxibmpCaDZRODJZUkplZEU1MVFzYlRaeHZNVkNXV2xfZGk1Mkw4b0JyUFpSaklFNVJlQlh4R0pLaXZMQkZlRW40dkVLaVU4ZmdiZ0FDNy05UkdJNy1LV2phbzNLVGtsdEdUbnFvVnVHQ1BQamlYS0RHalNKZmZZ?oc=5",
+      "date": "2023-01-05T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Balh valley airport"
+    },
+    {
+      "title": "मंडी एयरपोर्ट के लिए होगी 2368 बीघा भूमि एक्वायर: निर्माण के लिए 6 महीने में हिप्पा करेगा सोशल इम्पैक्ट असे... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjZmdEljaVZvN0Fta09way1uY1UzQ1ZJcXFrTzdod0JBYXdNeGlyWjRheFUwUFJYdG1ScU9SekM3X3JGQkVuMEZ3V1FnSmhlTXhlaUVVS1N0Z3ZLMXNWR09hRmg3X1lyYjNWODdGTVBaWVRxYTFONGtENGxQNWxpM3lGWlprZE5RN01DM3JxQkFUNWNFa25DbEFSVlViXzB2bF9DUU1FVjZFM2I2Z0l3aWVLOUFPblHSAbwBQVVfeXFMUGtadlIxTktoM0NyTEo1V29LYnFvdHltT3lDNTRrbWN3RHczZ0pLSVZETGFLNGlRVEtnWXF3YU9sY05pYlowM1doUWRtWEFLVy1UX2NWRGp3Ync2N0hvdldsMDJtRzhmZGF2elZQZTNVSUwxWFg2LWJZUTR4c2tYSk41bkdKSlRCZlJSaHk5OVZaOVpUaXJ1aVRHZjBBTVhiLS0yVHQxM3ZmVVhyZVluYjRKcnFHLUtDZkpVUzY?oc=5",
+      "date": "2022-10-07T08:56:09.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "Site clearance given for Mandi airport - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWRVUGlpaWVwbE5WV3VOSnZNZVF3T0ZkaUUyUWswcGt5aEtSN3dDbXhkNmRHMTZxOTZvLW40MDJ0bWFWWFljQVpaYmpBVzNZRFZVSlY2YngxeldMRkdIX05JWm1PS0FKSndiMDZmdm1hNTB1OE9OeVQ2X3lHV2gtRG4zT2FBLUZPdzlRSTdtS3FyQdIBlwFBVV95cUxPb1hEXzFDUndEUjhpdnJyWGtvcDh3RjRyazlBTExrZ2oyc2N4dHN6eXJ5MG5RY3hTaFpSQVU5SXNGTTFhZWMzcWxjUnVING9ETGF0ekZBWEdBdWhPRHNtU2s3SVZiY09HWUN5QXRaN1Z0NmlYcVZpTkdweUo3SDlWWGs4RjNHVld5Zl9HMkhQZ1dzOFdETUhB?oc=5",
+      "date": "2022-07-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "MoU Paves Way For Mandi Airport In Himachal Pradesh - Hill Post",
+      "source": "Hill Post",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWRqQlVOdW5WSEhKUWRzOUc4QUJVakJid2UwX01jZzc0SGlSeExJUVlXQ2FFZnpQckpRaE5kalYtYTlWeU1EVEE0c1RXX2J2bzczUklfdDlFc0ZEc2xKd21TeWlLSkFBcVhJdTU2V2w2bkZPZGVMWjBJZTBkMlR6YTZYendfMmFRRExpeGJjRmw?oc=5",
+      "date": "2022-04-28T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "Mandi Airport : मंडी एयरपोर्ट पर उतर सकेंगे बड़े विमान, 3100 मीटर होगी रन-वे की लंबाई - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb1lpSFE4V1lmWHVNMnNGZVlrZUp0ODFVLXl3VGdhdEoxY1ZpOUpxdjhKWUFkM1NLZmlmalJaTG9zV0FhSXNKRWtqajZCOHFBaHFMQm1iNkRGbVdfdThVUjQ0M2QzSFVodjJqNjl4bXdDWFpmWXBXVXBqWnNac3psb004eGZuSXFUVlJPMjI4YWxhUVVIMUVBYXhsNkg2X2JkLWtFZy0tTHNIZ3dCWmJVMWpEUHJneHAtZGdTcnFZdlNuOHcwZlFhS3RHd0hMNkRsU2hRcXZaQ05aby1lOXU2UXg5elfSAeoBQVVfeXFMTXdIbkVpQjNiSllzS3BEdjJzMDh5RDNWb0lDNzcxdWRYUzNjX0RCM2VsOWFKcVU2R0ZCdTFLVlpuellPOHIyQlZwcGxqTTUteFlyM0xoSVJ0Wk1QdG9yeGtORzRfeUlvTnFfZjA0ZDl6d0lPUE1CVzV6dUM0MTVCNlpDNDF0OGR2VDlLS2FGMFl4RWtVZ2luRDZRa0ozVDc0QjQyc3pLdUJtTjJ3NHdxcGdFSWlHMU9aVmhMVzdiVWp0bmNTUnRwbmpUUUV6eDJIRnVva0ZxQ2FNMDNHWmdQdFBMNzlXTHUzbWN3?oc=5",
+      "date": "2021-11-06T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mandi airport"
+    }
+  ],
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
 }

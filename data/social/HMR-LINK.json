@@ -1,64 +1,64 @@
 {
-    "updated_at":  "2026-06-18T20:37:51.6022834Z",
-    "project_id":  "HMR-LINK",
-    "counts":  {
-                   "press":  5,
-                   "gov":  0,
-                   "en":  null,
-                   "hi":  4,
-                   "total":  5
-               },
-    "mentions":  [
-                     {
-                         "title":  "यूपी: प्रदेश में गुरुवार देर रात छह पीसीएस अधिकारियों के तबादले, कानपुर, गोरखपुर सहित इन जिलों में बदलाव - Amar Ujala",
-                         "source":  "Amar Ujala",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUU9MMy1GVWhob1NKNWRRM2hET1p5WXNTcThRN1RrUzJFWklpcnhQM25JWmlQZFhkMlVTRkhpSTZlNDM2Z29vLW5NcEtxaFJheHREU3M1NlptYjF1cUJqWFI0emJhTm0yTGI1cVZYZElNR2cyM2lQaTRmZjF3REc1Vi01NVBUMnJNUVB5NHlZUGx6eHpPcWUtcEhUdXJVbXBNMGd6MzlrX0R5VUtXekxPaEQtR1l0M015Yk80cUczZFpBNE5LZmhZX29xMDh3TmU4amhfRC00T2o5OHRuemFOOGtRWURXTknSAewBQVVfeXFMTWxYWk4xaUtYcGdjS2Flek96YVRSM2tKTUlTODVxU19fN190SmdJVjFCSExMeFg3N3cyMGkzN0JNUGtHWHpSZGhNMEJVYW5sYXR2c3FXcmJOU2xDM0Z0VkNxdnRZdlNVc2pqdlh4ZENRbFlYTWhVSHNnV2JLMGhfbDVPVXBiU0NXWHp2UU1pOUVyVGt4a016bXY5ZWdFN0s2MmJuSDVCUEZfbFZXdFgwbFc5SFNEX1F6VVAySkhHUGVlTFJzYWN6VExfLXUwUWxxRTdBejV0dlpmamJ6VUVZbEhXdGlmQVJrVVdYMUQ?oc=5",
-                         "date":  "2026-01-30T08:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "PMGSY Hamirpur"
-                     },
-                     {
-                         "title":  "UP में 6 पीसीएस अफसरों के तबादले; मथुरा से राकेश कुमार हमीरपुर भेजे गए, महेश प्रकाश अपर जिलाधिकारी कानपुर नगर - ETV Bharat",
-                         "source":  "ETV Bharat",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdDNCN0VKbUNNd1ZaNGpoTFZZVkM5S1ZpRG1VMHYzdzF4Uml4akhNbjJNaVVoa3BuM2o2UDlCck1Ibjc1R3Rnc1V5NHd6Ul9GVndmYkxVeGM2QjBQZWpzT05EeEZPd202V2lMMC1abE9UbHlKcWdFcUpWUkY0SDF0emx3a2FVZnFVNGl6MDlQMmlyaHQzN0xobHRIY0VIc0JsaXBkR2d1SkpaR2ctdkJZR2xmTXpxaF9UaVZ2Yk1rbnVIWVdDM2xGM2prcnBPTXh2enEwSDFRUXFMMzd3R192aDA4ellYQ0JDLUZqVzBnb19yUFItS0pMV1JxVdIBgAJBVV95cUxORVNxLUNURUFwM1lxLUpya2E1WTJaaVlfNkZQWUJ2VVhSVzZZaW9Tb1hpSWJmTVFzTjZrSGFEWU5uNFZmUFRadEhTUXJRUVJpN002Q0JBQ0lPZzFTd0RsOE5ubVRWM09UaDFTNDAwQ2ptSDg3VW1WZWpWSzg0OS1nWko4Y1VfWm9IZ19LODJCOHlyYjZocVJhRW55UEZsRXFtbFI0cTF5VTBaWlZCN1M5R04yQ3RhbzFkTGlqcWNEMWVWRzRIbVlWSjJZcjBISldrcW4yXzBBLU9oLVFVa1Y1Q2dVWmtEbWtaQmYyNDF4THJxNmFUVUFjMjB4U0tSa3E5?oc=5",
-                         "date":  "2026-01-30T08:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "PMGSY Hamirpur"
-                     },
-                     {
-                         "title":  "यूपी में बड़ा प्रशासनिक फेरबदल, मथुरा-हमीरपुर से गोरखपुर तक बदले गए PCS अफसर - Zee News",
-                         "source":  "Zee News",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkt6Q2dmaTRVV3l4c3k1OHpEdFE2a3VGcURqQVVKNDhqT0Vqd1BzT29ETUdBNzJ2OERabEdVNnJpWTQ5ZjdITFc0NWVoRmtuMW9WaEVuZF9EUm9mT1dZQjFBb3RTMFFLeU9jbkVQLUdXMWlFcEwxUUhNZE1jWnAtMkU2a3lseFIzOENjaEtCUTN6a256c01uV3QtcjlZXzIyRlpUTkpYdk9xS01BR2h3ZjZzdDN5Umk4YlpZZzl30gHDAUFVX3lxTE5jcGVRYUVEaG9qNWU0NVZPZl9kUjJHbFpZSHhBTmpBYVZoWXJDOXY5N2h6ajdwR2xSbUw1akV5UXVsbFB6dndNQjFvaGM3dEg1UVFtSnQ3SG9uQXhyTmtmSlJzSDYyU0xfWlVURHJaNlhOYVNfZUdLZUc3YXVEVFhTa3VGX3BLYTk3Y2VHc01CM0NTdlIwSnJnS1V0UUZNRkNqM2JEdnZsbFBXcjRHN0NyeWMzYkw1LVBkajAtRGp3UU5Ndw?oc=5",
-                         "date":  "2026-01-29T08:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "PMGSY Hamirpur"
-                     },
-                     {
-                         "title":  "Himachal polls 2022: Once a power centre, Hamirpur now sees low-key electioneering - The Indian Express",
-                         "source":  "The Indian Express",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTURwNmEwRmJpZ3dsWVM1SnF1UXY0YkRFTGVvZ1hIbm1wWXNnV0t3aVk3Y1UxbzNVUTJkMF9XWHNXbWN3eW9yV3RITXV1NFhUb2ZLbXhEeXZEeE96cnZ4aVgzZjQxbU1sN0w3RkVTSUVGZmh0cVRzYXBMS3VDSlVDU2x0aWRxRDhNWGJ4VFF3TFU2NXNPeER1T2Y3ak5pS2lNd0RrdTRXZW8wa3pBZHphMFllZndtTmdtc1ZV0gHCAUFVX3lxTFBwdzJaS3BCdFA3Q1JaTzB3MThMZzBjSG9MQTRZNzlHMEhOQ3h2RGVtTlRjQ3hmTmJpbThVUWdEQTlsd0w0dEg3X1VtZXhQUjFlTjhQVXh4RjFpbG1CY09tWkpEWUpaQzhkaVNodkJlMWljaFg3YU84TzQ1NERSWUM4aE01V09YQ3lqMThoV2p3UHFjeTlBNEJGNTA3ZS1mUnZXd1pZMm1iUWFNSjRsSVhITnVlb19YdktyeEJ4UmJmb2h3?oc=5",
-                         "date":  "2022-11-10T08:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Bhoranj road"
-                     },
-                     {
-                         "title":  "लखनऊ : शासन ने देर रात किए वरिष्ठ 48 पीसीएस अफसरों के तबादले - Amar Ujala",
-                         "source":  "Amar Ujala",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdk5yRDZZbUtncFJQbjNjQXRhekFnZnRjTlJ2WS11U1phbi1YcG0wOG9kVmpnUWZFQzlSSzVKLVVLR1o4WWFxODZOLW5UZGhoX0FjRFdKQXVpTmE5SGNUREFPUFM2cjNKUWJyUnY3TkdSUUZ0bUVaY2hRLXhqUVF5TVJ5X3BBM1VQcnhuNWZBVXNjNC1ZMERXWm44RGhfem5HX04w0gGoAUFVX3lxTE55a3dCUUtrb3hWZlJ6RkxkUTJ2NnpEY1Bqcy1DV3p2XzNheGJsOEUzeTNzcHNrU3VxZHlZNUZhdVFmdDRqbHZnb0dFVE5BZlV4ZFpPSTJndjZoR09jQ09aTjVoWjk1WTV2U2pEREQwYzZ5SUhKNUNJNkdlVFFVaXpBbW05OXFUZ0tqVkk2aEozTllKQTgtYkFodlo1UnJiR21HQ21VUDA4dg?oc=5",
-                         "date":  "2021-10-01T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "PMGSY Hamirpur"
-                     }
-                 ],
-    "methodology":  "Google News (India) en-IN + hi-IN. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "updated_at": "2026-06-18T20:41:42.210Z",
+  "project_id": "HMR-LINK",
+  "counts": {
+    "press": 5,
+    "gov": 0,
+    "en": 1,
+    "hi": 4,
+    "total": 5
+  },
+  "mentions": [
+    {
+      "title": "UP में 6 पीसीएस अफसरों के तबादले; मथुरा से राकेश कुमार हमीरपुर भेजे गए, महेश प्रकाश अपर जिलाधिकारी कानपुर नगर - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdDNCN0VKbUNNd1ZaNGpoTFZZVkM5S1ZpRG1VMHYzdzF4Uml4akhNbjJNaVVoa3BuM2o2UDlCck1Ibjc1R3Rnc1V5NHd6Ul9GVndmYkxVeGM2QjBQZWpzT05EeEZPd202V2lMMC1abE9UbHlKcWdFcUpWUkY0SDF0emx3a2FVZnFVNGl6MDlQMmlyaHQzN0xobHRIY0VIc0JsaXBkR2d1SkpaR2ctdkJZR2xmTXpxaF9UaVZ2Yk1rbnVIWVdDM2xGM2prcnBPTXh2enEwSDFRUXFMMzd3R192aDA4ellYQ0JDLUZqVzBnb19yUFItS0pMV1JxVdIBgAJBVV95cUxORVNxLUNURUFwM1lxLUpya2E1WTJaaVlfNkZQWUJ2VVhSVzZZaW9Tb1hpSWJmTVFzTjZrSGFEWU5uNFZmUFRadEhTUXJRUVJpN002Q0JBQ0lPZzFTd0RsOE5ubVRWM09UaDFTNDAwQ2ptSDg3VW1WZWpWSzg0OS1nWko4Y1VfWm9IZ19LODJCOHlyYjZocVJhRW55UEZsRXFtbFI0cTF5VTBaWlZCN1M5R04yQ3RhbzFkTGlqcWNEMWVWRzRIbVlWSjJZcjBISldrcW4yXzBBLU9oLVFVa1Y1Q2dVWmtEbWtaQmYyNDF4THJxNmFUVUFjMjB4U0tSa3E5?oc=5",
+      "date": "2026-01-30T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "PMGSY Hamirpur"
+    },
+    {
+      "title": "यूपी: प्रदेश में गुरुवार देर रात छह पीसीएस अधिकारियों के तबादले, कानपुर, गोरखपुर सहित इन जिलों में बदलाव - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUU9MMy1GVWhob1NKNWRRM2hET1p5WXNTcThRN1RrUzJFWklpcnhQM25JWmlQZFhkMlVTRkhpSTZlNDM2Z29vLW5NcEtxaFJheHREU3M1NlptYjF1cUJqWFI0emJhTm0yTGI1cVZYZElNR2cyM2lQaTRmZjF3REc1Vi01NVBUMnJNUVB5NHlZUGx6eHpPcWUtcEhUdXJVbXBNMGd6MzlrX0R5VUtXekxPaEQtR1l0M015Yk80cUczZFpBNE5LZmhZX29xMDh3TmU4amhfRC00T2o5OHRuemFOOGtRWURXTknSAewBQVVfeXFMTWxYWk4xaUtYcGdjS2Flek96YVRSM2tKTUlTODVxU19fN190SmdJVjFCSExMeFg3N3cyMGkzN0JNUGtHWHpSZGhNMEJVYW5sYXR2c3FXcmJOU2xDM0Z0VkNxdnRZdlNVc2pqdlh4ZENRbFlYTWhVSHNnV2JLMGhfbDVPVXBiU0NXWHp2UU1pOUVyVGt4a016bXY5ZWdFN0s2MmJuSDVCUEZfbFZXdFgwbFc5SFNEX1F6VVAySkhHUGVlTFJzYWN6VExfLXUwUWxxRTdBejV0dlpmamJ6VUVZbEhXdGlmQVJrVVdYMUQ?oc=5",
+      "date": "2026-01-30T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "PMGSY Hamirpur"
+    },
+    {
+      "title": "यूपी में बड़ा प्रशासनिक फेरबदल, मथुरा-हमीरपुर से गोरखपुर तक बदले गए PCS अफसर - Zee News",
+      "source": "Zee News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkt6Q2dmaTRVV3l4c3k1OHpEdFE2a3VGcURqQVVKNDhqT0Vqd1BzT29ETUdBNzJ2OERabEdVNnJpWTQ5ZjdITFc0NWVoRmtuMW9WaEVuZF9EUm9mT1dZQjFBb3RTMFFLeU9jbkVQLUdXMWlFcEwxUUhNZE1jWnAtMkU2a3lseFIzOENjaEtCUTN6a256c01uV3QtcjlZXzIyRlpUTkpYdk9xS01BR2h3ZjZzdDN5Umk4YlpZZzl30gHDAUFVX3lxTE5jcGVRYUVEaG9qNWU0NVZPZl9kUjJHbFpZSHhBTmpBYVZoWXJDOXY5N2h6ajdwR2xSbUw1akV5UXVsbFB6dndNQjFvaGM3dEg1UVFtSnQ3SG9uQXhyTmtmSlJzSDYyU0xfWlVURHJaNlhOYVNfZUdLZUc3YXVEVFhTa3VGX3BLYTk3Y2VHc01CM0NTdlIwSnJnS1V0UUZNRkNqM2JEdnZsbFBXcjRHN0NyeWMzYkw1LVBkajAtRGp3UU5Ndw?oc=5",
+      "date": "2026-01-29T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "PMGSY Hamirpur"
+    },
+    {
+      "title": "Himachal polls 2022: Once a power centre, Hamirpur now sees low-key electioneering - The Indian Express",
+      "source": "The Indian Express",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTURwNmEwRmJpZ3dsWVM1SnF1UXY0YkRFTGVvZ1hIbm1wWXNnV0t3aVk3Y1UxbzNVUTJkMF9XWHNXbWN3eW9yV3RITXV1NFhUb2ZLbXhEeXZEeE96cnZ4aVgzZjQxbU1sN0w3RkVTSUVGZmh0cVRzYXBMS3VDSlVDU2x0aWRxRDhNWGJ4VFF3TFU2NXNPeER1T2Y3ak5pS2lNd0RrdTRXZW8wa3pBZHphMFllZndtTmdtc1ZV0gHCAUFVX3lxTFBwdzJaS3BCdFA3Q1JaTzB3MThMZzBjSG9MQTRZNzlHMEhOQ3h2RGVtTlRjQ3hmTmJpbThVUWdEQTlsd0w0dEg3X1VtZXhQUjFlTjhQVXh4RjFpbG1CY09tWkpEWUpaQzhkaVNodkJlMWljaFg3YU84TzQ1NERSWUM4aE01V09YQ3lqMThoV2p3UHFjeTlBNEJGNTA3ZS1mUnZXd1pZMm1iUWFNSjRsSVhITnVlb19YdktyeEJ4UmJmb2h3?oc=5",
+      "date": "2022-11-10T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Bhoranj road"
+    },
+    {
+      "title": "लखनऊ : शासन ने देर रात किए वरिष्ठ 48 पीसीएस अफसरों के तबादले - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdk5yRDZZbUtncFJQbjNjQXRhekFnZnRjTlJ2WS11U1phbi1YcG0wOG9kVmpnUWZFQzlSSzVKLVVLR1o4WWFxODZOLW5UZGhoX0FjRFdKQXVpTmE5SGNUREFPUFM2cjNKUWJyUnY3TkdSUUZ0bUVaY2hRLXhqUVF5TVJ5X3BBM1VQcnhuNWZBVXNjNC1ZMERXWm44RGhfem5HX04w0gGoAUFVX3lxTE55a3dCUUtrb3hWZlJ6RkxkUTJ2NnpEY1Bqcy1DV3p2XzNheGJsOEUzeTNzcHNrU3VxZHlZNUZhdVFmdDRqbHZnb0dFVE5BZlV4ZFpPSTJndjZoR09jQ09aTjVoWjk1WTV2U2pEREQwYzZ5SUhKNUNJNkdlVFFVaXpBbW05OXFUZ0tqVkk2aEozTllKQTgtYkFodlo1UnJiR21HQ21VUDA4dg?oc=5",
+      "date": "2021-10-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "PMGSY Hamirpur"
+    }
+  ],
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
 }

@@ -1,214 +1,214 @@
 {
-    "updated_at":  "2026-06-18T20:37:41.1812198Z",
-    "project_id":  "SML-WATER",
-    "counts":  {
-                   "press":  47,
-                   "gov":  0,
-                   "en":  33,
-                   "hi":  14,
-                   "total":  47
-               },
-    "mentions":  [
-                     {
-                         "title":  "Shimla News: उपभोक्ता को थमाया 2.56 लाख रुपये का पानी बिल रद्द, कंपनी पर लगाया जुर्माना; जानें पूरा मामला - Amar Ujala",
-                         "source":  "Amar Ujala",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUlpIcDJqWmFFQVBFV2lrYmNYS1M5YnUwczlhUzkyYm53OTBicWtoZFhvSlBFUEg1cUoxNElabDNvQTlCQVg2eEZabmk4bU1OTnlhTE1oWHp2eFZwRXd6X1VWZmJUNURWTHY2QmJRU3I3NXdsZ1FxWDNyZC1qS2gyTmkyMk9vNWxfZG5pTU1xLUF6bTM4eEQ4alZ0YWhFdXpRVEU5dHVlb044N2pFTVlONjVpaE7SAboBQVVfeXFMTXZ4UWUyU2dSUHBrcnY3bUhHaGl6LS0yTXFLaHNrYm9XM25YQVhMS2dDRENvQlhDSG9FNDhCLUlySWJCN2xHSWVQbFlWaGFlLTJUX0FEaTRMVlR2cnFqWGdyb0dOdXhLVGhXbVlZd1hJaGc1VjIxMHpUTGNLTVd3YnZhRUpIU2dSaHFpd0drSlhxa0ZqRDVLVjZuR1pMZjF1ckg4RXJqdTVBUUYxYkY2YTdkSnJScGdYOGVB?oc=5",
-                         "date":  "2026-06-17T04:30:46.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "Shimla News: उपभोक्ता को थमाया 2.56 लाख रुपये का पानी बिल रद्द, कंपनी पर लगाया जुर्माना; जानें पूरा मामला - Amar Ujala",
-                         "source":  "Amar Ujala",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnhRZTJTZ1JQcGtydjdtSEdoaXotLTJNcUtoc2tib1czblhBWExLZ0NEQ29CWENIb0U0OEItSXJJYkI3bEdJZVBsWVZoYWUtMlRfQURpNExWVHZycWpYZ3JvR051eEtUaFdtWVl3WEloZzVWMjEwelRMY0tNV3didmFFSkhTZ1JocWl3R2tKWHFrRmpENUtWNm5HWkxmMXVySDhFcmp1NUFRRjFiRjZhN2RKclJwZ1g4ZUHSAboBQVVfeXFMTXZ4UWUyU2dSUHBrcnY3bUhHaGl6LS0yTXFLaHNrYm9XM25YQVhMS2dDRENvQlhDSG9FNDhCLUlySWJCN2xHSWVQbFlWaGFlLTJUX0FEaTRMVlR2cnFqWGdyb0dOdXhLVGhXbVlZd1hJaGc1VjIxMHpUTGNLTVd3YnZhRUpIU2dSaHFpd0drSlhxa0ZqRDVLVjZuR1pMZjF1ckg4RXJqdTVBUUYxYkY2YTdkSnJScGdYOGVB?oc=5",
-                         "date":  "2026-06-17T04:30:46.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "शिमला की इस व्यस्त सड़क पर नौ जुलाई तक वन-वे रहेगा ट्रैफिक, जानें क्या है वजह - ETV Bharat",
-                         "source":  "ETV Bharat",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcXBOUS1ib29mTnJSUWhOYU5oRmhXM0xRRmx6T25YWVhCWGd6c2lka1RBb19QZklqMDBnU0d6NkZPYXBkQ05OWkxUZ3o0cUJWNWdXeDNwT3E0d3Fwc1Q4VkhVNmNEMk8wLTRydzU3VlIyenRucmRraDB6ZzY0UWNpUWhYWkFObFNPMnFZa1p5Ql9MeFRxYkE4Mzg4Y3Znc3NMeW9FZFBla1V2Zm5JLUNKeTVpZFdoWndM0gG-AUFVX3lxTE1VN2dCOER6T01RS0dHNXBVTXItYldTd2t1UklSRnpvUzNzNE5QMVZWRURhNWtydXZjUjh0WTFyMnFQZTBmekRFRFE2anlnSkRiLUdFcWc2VmZ0cEwtNlMtSW40OUxsQlVScXhsdXdMWWVXWmF1RkdncTNtNlZiRG1lMTMwZkdJRDFoNlBhb2FIeVU4MExHd01XQU9mVnVRT1Z3dmtHcTdfUTF5S3VEMy1VN2YyNkozT1Q1QUZVdHc?oc=5",
-                         "date":  "2026-06-14T09:43:08.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "Shimla MC, PWD to transfer assets to SJPNL - The Tribune",
-                         "source":  "The Tribune",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFI0OXd6NzdOVGl5OWk3QWZYRHg2eXVSdXRmQjZvVmVZV2hvcUlDTFlVMlJrSjdmMlB3MlpGeDg5VVFWTmxrSzhxTmZTRDhGVjh3OEU5M2c4WE1QVjlCbDRnNlFjOUpjVHBYaldiVktrdE1jQTJXR29jLVZub1ZQYk5JQWZ3MG1YaWlDRnNB?oc=5",
-                         "date":  "2026-06-09T20:11:27.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "Mashobra becomes first area in Shimla to receive 24x7 drinking water supply - The Tribune",
-                         "source":  "The Tribune",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVUMxTEJpY2xydmRKQ25sR0p1WUJPdE9mazdrazZjZkg0Y19vdXF1UWhLM2JZU3hKUGF2bWtRc2d1eHlHaWlWSDY4Y3pwYmdwaVVWa2NjTWpMN01xSWs2VHJsV0FrRkV2WlJpbFRkRjM3clZ5djJTYkx5T1lEWW1WUXF1aE5hTldKUzFLMEc1TEs1cU5Oekhnc0pDN2hzVmYyOFhCRUhVeWpsRTRqZ0VXWEUwRWgtNVVhelltRUtrSFhoSDlUN0IyeA?oc=5",
-                         "date":  "2026-04-13T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "शिमला में गर्मियों में नहीं होगी पानी की कमी, शुरू हुई ये नई पेयजल परियोजना - ETV Bharat",
-                         "source":  "ETV Bharat",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVzBxUGlZdndBc19TUVNmZjNkNlFLUUQyc3NmSnBDSmJQS0RSSDVUbFZDUTNia0ZfeVh2cUs1VjZVOTFmS0xLanlUaTg4OU1ZN0ZpbDVrNzFYTlJMRWJMZFdNNDBfYnRpRklZREhhQmpweFFjNDdUYUs3czVLeW0zay1mZ3VCSDNMaUE1Q3gzalYxWEpyTWJfZzNUTjRBVVN6aS1IeDMwNkVqUTVJY2RTWWRkaFN1cFU5QjIzX2R2Q2JsNzJKcWVfTGNwTDRHRzc2bmF4UHhaY0F6aWJTN1dMVnlFVEhjQ2ZnZnRwSE5kVzVQRmxZYWfSAfsBQVVfeXFMT2RFekV1UnVrX0hjakQxN3F6eVVWaXRvRTdrM1l6cG0zcHo3cGpEZVFBUzU4a1k4Y09aS0dOZzB6RklJUWIxUk44ZGo2R1ozQk5tcDZlQm9SbFhzUndxQlhSR0k3QlB2S0w2aVhwRzdQT25udE5PY0NCcURJb1doUl9zaDVEYkg2QVVGbkpjWmctZElvRF9LOXdkdVo4VkZmeTFESDU2TGhyN0o0OC1FbUlPdm12Z0ZROXc2VWRNR3VZa0NiYXphSDB3eTFhbUhxTjdmaGZmYlp5TDdHaEVrSU5Ea1hIWUZ2VG5TY2NRa2hDczdsYzJTalZUTGc?oc=5",
-                         "date":  "2026-03-09T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "Sutlej water reaches Shimla’s Sanjauli reservoir after final testing of Rs 500-crore bulk supply project - Telegraph India",
-                         "source":  "Telegraph India",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTlpDQ2lDeV9oZTA4ZHI5MkFrQTFxR3lyaTBwZW84dkJRZXNYSi10N3k3TWRZY2YydjNDTm9JY3dlV18xVGwwVEVlT3ZFVGt0UWc0amk2dUt0YVVodVdfaVBmRzB1dHBOOGRZLTlNck4yS3oxRE9PUmVqNWlYVjI2QnZZQWFvak03V3ZSRk9fR3RLOUs0cFV3VzJQVXNfN0ZpVm02M1pTTGZlVm1GalI3Y2dSX3duT2xrNmI2bFY4QVZRTlZtcGpHa29KZDM5Uko0aHhGN1ptLUZyaE9OaUg3ckVMd2o3dDDSAewBQVVfeXFMT2FlRGQ1bzRiTGZpNDFmQVF3b3NIUXQwTzZPX0R1U1NZZnZla2duQ2dHV0VvSlAyWHVKNkZIVER3ZjhhSWVTYWVoNnE0blVKLXRhdS1IeFZoUnFNekVUTjdUeGZ3MWVKaWN4OHJXekdVYVNxN1hfQVpobjlrWG4zZ0tyWVRka2NIOXlTX1ZpTnZlYl82LU5EV0QzY0h3cHNRWG9qcVRrQUhneEdKMm4yUzZMTGExa2JJQ0VSWTE1OUtOc3dpMmY0TU1fRmhuTWdBaGtNem9JbERicFM4R1ZQSHM0bmFYSXRVUy1KcFA?oc=5",
-                         "date":  "2026-03-08T08:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shimla Water Supply"
-                     },
-                     {
-                         "title":  "Shakroli water supply scheme nears completion for 24x7 drinking water in Shimla - Projects Today",
-                         "source":  "Projects Today",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY25jSkx2ckpMY2pycnZoaWxyWENWTTBjZWRBOUY2VTRyWFFWdUt6TGl1NWdnM0p4ZGhuaEcyQXpuMDJ5RjBZQ0N5bFRLTnJfUGc3ek5zRl9BYW44Nk01WUx4MDRDcDlNdWxlSkdidjBwYVM1cEp1bmU1cGFldkpoM2EwXzhvcVgzWGpvVm1WV2NpeEF1OGRzWmxNX3RpVjJqZldUaFBKMGl0TG1KZHc?oc=5",
-                         "date":  "2026-01-09T08:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "Himachal: SJPNL issues partial water supply disruption advisory to people amid tourist surge - ANI News",
-                         "source":  "ANI News",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU5GbTZIUlFmZkNHVjMyc2NlSUgyaUtlWkRsX0U5MkhkS3gzQ2RNSWJoZHRES1NwUlF6UGtzdUN2OGQ0Tm9RVWFOM2xwMVFZYXpyZllOTU9zV1ZLRlNvNnhQckxoQkZCSHFOQWxXaXJXQ2JGWlVIYjlTY2FlTjNZaWxqczlYazlySTFvUV9wVDdvVGxoMHQ3NHpPUW9tZ1BtRVVvZi03VmVfeDR1MTd5Mng5WUdSTEZ6NmhERmpXcksyZUxmUTNGTmU2MFFONEdVaXEzdUtwWUlKX3RBdmh3UnFDc29HV3p3akNZ?oc=5",
-                         "date":  "2025-12-18T08:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "Himachal rain: Woman killed in Shimla’s Rampur, one missing from Kullu | Hindustan Times - Hindustan Times",
-                         "source":  "Hindustan Times",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPemt4ZmhZU2hlS2twdUNaNzRNMFBpeUJ3ZU5PX1hjb0ZKclUzZzRsZ2VjTUxJY3BJRkt2WXJoaXFzc2U4LWd5Vjd5MmdBUmR4UlQ0VkUtU3ZkWE1ya0xJS3JIdnJUazBVVVZOWDdUOVVVUEg3WHRheFpzNk1ERFhXMXVKeFFQWS13NFktWFJIb2I5VHlaZkk1V2wzakZaQmI5Zk1XWTlFQ2hfNGRUWFR3VFRqMVVOSnpkVHN0OU1ZMUtRbFllZnpZQUpvQzdSa1o0d3ZrU0tmejY3aVXSAeABQVVfeXFMTmFPbnp1U3J2NXNEMzZTRGZsMWFDdVhOYkUwc2FCRHo1OTZScEtFWkNFNDk3eTljaUFoeDNvVDFTcEdvMEFuOUpoRkNZWkxpc0NjaVphcFZ4OHN4aTJiNGZ3SWpBajg2MDZ1ckZKWlI3ME5WUWVLV1Q0LVd0SVF2dldSTWd2bHVIZy1SZU1YRWQxUm5fR1E3SkpvUEk4SXVDclJCVnBrR2ZXRE5mMk9nNVFEdXhPTjFyZTIwQmRPOHhCVXlfWnpVVG5EZk1sSG96NGxqT1otT2ZrcXdpakVjYnE?oc=5",
-                         "date":  "2025-08-15T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shimla Water Supply"
-                     },
-                     {
-                         "title":  "Now, call centre for water supply issues - The Tribune",
-                         "source":  "The Tribune",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1ZBbXVtTWpLYjk2dVFrSXZrSTl1WmRfZWgwN2ZwTHpjbHhXYy1LNFpOZWNqelZ1UTlHQTZnMERUTnBtODc2UlNqYVNDTS1Pd1NFajkyOGlHR0F1WWF3cm5Ecmg2cDVBQmlZanhWclRuZkJLU3ZwVFB0X0Nadng4dWxWX3BfYmlqaVdV?oc=5",
-                         "date":  "2025-07-13T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "Water tariff hiked by 10% in Shimla - The Tribune",
-                         "source":  "The Tribune",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbzRZX2ZWUzdEZjYweXBkWmNYVGFZa1pBWmlaQjU5NXFFRmctYTlhazFqc0FRN0g0VGlYMGlWWEhhTGpGZHExcXU1MGRjR3YxN3N6LW1fSFQ1UlJzVzFDRjhLdV9LVTZ4TDFpQTFZYVZKa05Gc2d3TWtldE92NGxBVml1Z3A?oc=5",
-                         "date":  "2025-04-02T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "शिमला में महंगी होगी पानी की आपूर्ति, SJPNL ने टैरिफ में की 10 प्रतिशत की बढ़ोतरी - ETV Bharat",
-                         "source":  "ETV Bharat",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRU1fcUlEMGhyeDZlUEhhcEszOTFUWlFrakluUUlKb0E2NnYyTnV3czFJWE4yN21tSkNZNW1qQndjS2R3SjZGSmlOQkd0UHJzbUplTkxfQ1gtVDZEakVsMHY5T29FMlVoOWdURUQxNVU4ZGs4SmlFYnQ0dmFRcHRjNnJZVXhuZmluRW40NkFZWkpTQ1NlVktNdDlyd1NJTGV3YkNhZVNhdWlsX3dHZXZKWWNSYjJCM0pDYVdORDNOUE90S1VYOW1zdWtBYTg5LW5nc3FtSkNHbGhnN0lIaGdYUVFZc9IB6AFBVV95cUxNR19pYmpwYWJBcUZmd090eW5vS1ZNSFVkeXE0NnQ4b3RjZVV1LTlsbHZPY25ZaXdySG13cUxjWmFJbHJFYjAzdXNqYXlZTDAtRHVhNzVOWnNtZnJtcDR3NXpCVUJvZmFoN2N6Z1RHblF3V2lmSU5KdGRoelFRYkI4Q2I0NF9pemI5cW9jMEd2VEdpUXJfS0RnS1ZHZmNYcDU5aWcteGZDZWREeWtuU2otMnktd2M3U2RqU1dsUElHWGp0MDdyZnk2S1o2T1E3ZzVMaDdQb3JQS3JmYU9nSmFKYi1lc215SHB5?oc=5",
-                         "date":  "2025-04-02T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Shimla Water Supply"
-                     },
-                     {
-                         "title":  "शिमला में पानी महंगा, जल निगम ने बढ़ाया टैरिफ, अब कितना चुकाना होगा बिल? - Live Hindustan",
-                         "source":  "Live Hindustan",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb3ZzTDdGX0phek95ZjRtTEtvcFR4UjRsNWdJX0w1S3hCVjJUajZyT3g4TWxKV0h2b2tpaVRJX2tUMHU0d183UlFJUWJjb3FoaHEtQ2doU3NSLWVPQTRmdTVLZERhdjJXR09YVHFfWkR1cHVnUXlrN2gtR2lpRm1sYUZLUTJhSzZOanRSZUkwT2xLX1V4cjZoVkZHZkY2MHo2b1RjVklpMnFNcnlVZEhibWdHVnhXNmNwcXdMMUQyRTladjA3NUVhMTRUeC1MMHhsM2NNdFFRTmRsQS0ya09V0gHkAUFVX3lxTFBRSXI4RHpYd1Z0dmQtdl9BUHFNYy0xR2dfdkx3Z2JGVU05NTNJd3dhbzdBYkFVeEtxR3ZHNzQ4UkZ2UGRjZzkzMXJuUlRGSnlmV1F4dFlveTVzTVFZcjhwVkV4Q0E2eHFMZzNpUVlLUGJldHZGY1pKbUlrYnB6NWd0M21YckkyaHpYVlF2QUYwcDRGOXgtTHFvR1l4cjBZUDd6ME92Tk5JeWgxcUZHTHM4R016SklKZ3VSUkRGTXpEcE5Va21ieDEwRFlJRW1OMHR5S3d4OV9mWE5nQnhHS19JYUw3Nw?oc=5",
-                         "date":  "2025-04-02T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "Sutlej water for Shimla soon - The Tribune",
-                         "source":  "The Tribune",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Jd3RIZHVYbDNhTVJTbU1qU2ZnMmpZY3AzS3hXOE1xZ0xYOVhvNDAzZi1WLUZpcWpFcU1TM01HUDV4M1lFY0tzOFBHXzh2cDVZY3BEdzVZcUJ4b1RqcFFmRXlnWngtczI5cmJxbVR6aHkxblAwc0JWZVoxV1o?oc=5",
-                         "date":  "2025-01-10T08:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "24x7 water supply in Shimla from May ’25 - The Tribune",
-                         "source":  "The Tribune",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcHpMY2NzWlRvMEt1ZU5ObWJhQ2NjVUtjYVFEcXNUYzNnc0tGSWUzVlFZamdEejkzZC1WNk10d1NQMVJmd2xEblhsNVZ2amxnZGdTVnN3dURNSGdTZjJSanRtUWY0T2FhSkF2emhNMTRScGExYVhLenZBUlJhOXhwbEJjanhuSDNLQXNz?oc=5",
-                         "date":  "2024-10-08T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "हिमाचल में ड्रोन को लेकर गरमाई सियासत: SJPNL करा रही थी GIS मैपिंग, इस मसले पर विधानसभा में कल हुआ था हंगामा - Dainik Bhaskar",
-                         "source":  "Dainik Bhaskar",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVHFZNjZndGJMdk9uX0pnVWNzbHJmQ0U5S0FuNG9YZ0pVNWlSMG1COEZhYmNsVkVlYk9aUENaZkh2UFRLREVXdGlQNmRaSE5QNTdDbXJ5ZVMzTU82VnFXYWQ1RENUeTFKeE5GYzQ1NVJBcHhUYlVlRElGNHoxa1hwZ2hFLXRSVWlwdW9fN2JCWVZZcGhCSFl0VG9hUl85S19pTU5xZVRFRHZXNjBOdVl2Q1hrVEkxeFpfRk1ta01aVdIBxAFBVV95cUxNYnJ0bE9RY2JQR0o3bzNDZjNLM3pad0FuQmdfZ1liRDNOdGVFaURSSV9MZGhVdGZ6SjhXSG9PUjhPb0JDb2RVWGVjY05rclZOdlhTT1RvNW9NdlFEaWQyZzNKWmtjTWQyQVBTT0xyZTFURUFxUTJKU0FVOGNPUS1yNGU1UFZCT0dNOWRnWUgxMDhGbXdmaWxRT1NJNmFRbWpTSThBMG1XS0o5QVM5TGZ4alpZRFFEODZid29GdnFMQ3FYQWZE?oc=5",
-                         "date":  "2024-08-31T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "SJPNL"
-                     },
-                     {
-                         "title":  "Shimla water crisis: Tourist-packed hotels scramble for water as supplies drop sharply - The Economic Times",
-                         "source":  "The Economic Times",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZGRxYTdFMks0Q2ZPbXc3c3RIb2h4SXUxMzhHRDdWRXNPTHJoVVplZWNzaUx2OWFWdC1ES2ZqWEo4M1hQc0RhenNXdHV4T0x0M21DTm1ZZnhSMlVoT1JVWm1WakVicDZLZWhyVElMLVBlZG8yYTJWNktDZEZSZUZQWEI3ZXlKMjFYbnBhcTdwLS1YVHpKN01MN1F2aC1SdmlqaFFrTHpBMVR5WlZvMEs3Yk5BMmNuWlRIeEZoS2poOEdQTi1LWDdCSWVtQjJrZm1fRDAyb2NZR0Rhd2VUUTYzbnY3OXbSAeoBQVVfeXFMTWg2Y1NacjZQLW1uSmdRNVJfVEVJNDY4TDYtWFA2TEFLX2Y2TFJUREdWeU45LUwwd1psZWxIcXRLZ0lvOGt3Y2JvSFF4NmZLQlpMVTc4SnQtSTVORlc2bll0Z1BzMzVXNmo3ZDJwR3RzaFJiNXhDNUhLUUV5NnZkc2dKT3dpdmpNRnlHYThVdUpNakFIQnQ2SEdrNnU4R1hNTGZSRHphOVZnUWJrT0JEUjZYVDJnaXlFM2ljN2NyRFdtcHczdGdZZXVFTHFta3RYb0NjczNBZ3ZiTjhTS0xwSHJqZXVOM05WTzBR?oc=5",
-                         "date":  "2024-06-18T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shimla Water Supply"
-                     },
-                     {
-                         "title":  "Himachal: हिमाचल में भीषण गर्मी से सूख रहे प्राकृतिक जल स्रोत, शिमला में गहरा रहा जल संकट - ABP News",
-                         "source":  "ABP News",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQW9aR0JaUGN3c2Ntb0hoYXFZWHprUUJITjZ5U3FudzZJVmVsdDIxbFFfUHFFMEpBZ2M0dmljZS1LcWpLalozY1o2MDVXNXNoLXk0YlFqdVlFV0g4V1VGbUxrRmxLZngtb3dzVWM5VjFQTE03Z2FESEp4ekNjQzNBRmMzbFdZUTQ5QWNKTkJPb3diVVp2MDZwZ29DeFNuUkRyTkJublNSc3FqN1Z2VnFQa2Z1dm5hNHluVUdQY0xLOGxtZ0JRMXFaUy0zT25YN1NxZkgzel9zMDhKY2ctN3Z1U0tZa9IB6AFBVV95cUxQR2RrNzB5WHNSXzJHSnlxSDRBZy1PT1dZYmNlbFc3ckpRSGJFQk5NTnpIY3Izcmw3LUNzLXB5ZUFnQUhEZ19wMlp0NU1ZNFpGanpSdGlOeVlORy1UOWdpT09hbmJCUzVCUTZCYm1fdURhSEloWE5zUm0wb1VKb1g5ZVpwaFdGMFdSVlJ0cWdpOTBZdGZWYkI3b3RVY2xpcGJPc0kxRUk3dXp2V3o1a2lHeHRoUVo4dU8zR1F6bjFnNVZEeXJqWmRkOEdzMUVzWXIwcHRsX0U4VVZpc3pIZmU5UlRFM3FTRDda?oc=5",
-                         "date":  "2024-06-15T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Shimla Water Supply"
-                     },
-                     {
-                         "title":  "Himachal News: शिमला जल प्रबंधन निगम लिमिटेड में बदलाव, अब इस नए नाम से जाना जाएगा SJPNL - Jagran",
-                         "source":  "Jagran",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlBVZ01DVy1zZktQcHFDVnJ1QVQzd25LR2FnOWxodXpKeUVQUTA1SzhsN1RPdmo4MFJRVnJKNm9WMXdYWHBHNG0tc0hsbWFfWF9pNXNpRnhONW9fdGxORmIwWlQxVWJ6UlZJQmJsSzNtZm9kWkRvNURnM0FXR3RMZEV2T2FSdjBLa2UwUW5vcDRYdkpYV1lETzhYeWxPd1VZeW1DOXlVSTFxeHhwY292UlRaOXZGbm1BYVdNaA?oc=5",
-                         "date":  "2024-06-08T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "SJPNL"
-                     }
-                 ],
-    "methodology":  "Google News (India) en-IN + hi-IN. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "updated_at": "2026-06-18T20:41:34.535Z",
+  "project_id": "SML-WATER",
+  "counts": {
+    "press": 49,
+    "gov": 0,
+    "en": 34,
+    "hi": 15,
+    "total": 49
+  },
+  "mentions": [
+    {
+      "title": "Shimla News: उपभोक्ता को थमाया 2.56 लाख रुपये का पानी बिल रद्द, कंपनी पर लगाया जुर्माना; जानें पूरा मामला - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUlpIcDJqWmFFQVBFV2lrYmNYS1M5YnUwczlhUzkyYm53OTBicWtoZFhvSlBFUEg1cUoxNElabDNvQTlCQVg2eEZabmk4bU1OTnlhTE1oWHp2eFZwRXd6X1VWZmJUNURWTHY2QmJRU3I3NXdsZ1FxWDNyZC1qS2gyTmkyMk9vNWxfZG5pTU1xLUF6bTM4eEQ4alZ0YWhFdXpRVEU5dHVlb044N2pFTVlONjVpaE7SAboBQVVfeXFMTXZ4UWUyU2dSUHBrcnY3bUhHaGl6LS0yTXFLaHNrYm9XM25YQVhMS2dDRENvQlhDSG9FNDhCLUlySWJCN2xHSWVQbFlWaGFlLTJUX0FEaTRMVlR2cnFqWGdyb0dOdXhLVGhXbVlZd1hJaGc1VjIxMHpUTGNLTVd3YnZhRUpIU2dSaHFpd0drSlhxa0ZqRDVLVjZuR1pMZjF1ckg4RXJqdTVBUUYxYkY2YTdkSnJScGdYOGVB?oc=5",
+      "date": "2026-06-17T04:30:46.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJPNL"
+    },
+    {
+      "title": "Shimla News: उपभोक्ता को थमाया 2.56 लाख रुपये का पानी बिल रद्द, कंपनी पर लगाया जुर्माना; जानें पूरा मामला - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnhRZTJTZ1JQcGtydjdtSEdoaXotLTJNcUtoc2tib1czblhBWExLZ0NEQ29CWENIb0U0OEItSXJJYkI3bEdJZVBsWVZoYWUtMlRfQURpNExWVHZycWpYZ3JvR051eEtUaFdtWVl3WEloZzVWMjEwelRMY0tNV3didmFFSkhTZ1JocWl3R2tKWHFrRmpENUtWNm5HWkxmMXVySDhFcmp1NUFRRjFiRjZhN2RKclJwZ1g4ZUHSAboBQVVfeXFMTXZ4UWUyU2dSUHBrcnY3bUhHaGl6LS0yTXFLaHNrYm9XM25YQVhMS2dDRENvQlhDSG9FNDhCLUlySWJCN2xHSWVQbFlWaGFlLTJUX0FEaTRMVlR2cnFqWGdyb0dOdXhLVGhXbVlZd1hJaGc1VjIxMHpUTGNLTVd3YnZhRUpIU2dSaHFpd0drSlhxa0ZqRDVLVjZuR1pMZjF1ckg4RXJqdTVBUUYxYkY2YTdkSnJScGdYOGVB?oc=5",
+      "date": "2026-06-17T04:30:46.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJPNL"
+    },
+    {
+      "title": "शिमला की इस व्यस्त सड़क पर नौ जुलाई तक वन-वे रहेगा ट्रैफिक, जानें क्या है वजह - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcXBOUS1ib29mTnJSUWhOYU5oRmhXM0xRRmx6T25YWVhCWGd6c2lka1RBb19QZklqMDBnU0d6NkZPYXBkQ05OWkxUZ3o0cUJWNWdXeDNwT3E0d3Fwc1Q4VkhVNmNEMk8wLTRydzU3VlIyenRucmRraDB6ZzY0UWNpUWhYWkFObFNPMnFZa1p5Ql9MeFRxYkE4Mzg4Y3Znc3NMeW9FZFBla1V2Zm5JLUNKeTVpZFdoWndM0gG-AUFVX3lxTE1VN2dCOER6T01RS0dHNXBVTXItYldTd2t1UklSRnpvUzNzNE5QMVZWRURhNWtydXZjUjh0WTFyMnFQZTBmekRFRFE2anlnSkRiLUdFcWc2VmZ0cEwtNlMtSW40OUxsQlVScXhsdXdMWWVXWmF1RkdncTNtNlZiRG1lMTMwZkdJRDFoNlBhb2FIeVU4MExHd01XQU9mVnVRT1Z3dmtHcTdfUTF5S3VEMy1VN2YyNkozT1Q1QUZVdHc?oc=5",
+      "date": "2026-06-14T09:43:08.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJPNL"
+    },
+    {
+      "title": "Shimla MC, PWD to transfer assets to SJPNL - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFI0OXd6NzdOVGl5OWk3QWZYRHg2eXVSdXRmQjZvVmVZV2hvcUlDTFlVMlJrSjdmMlB3MlpGeDg5VVFWTmxrSzhxTmZTRDhGVjh3OEU5M2c4WE1QVjlCbDRnNlFjOUpjVHBYaldiVktrdE1jQTJXR29jLVZub1ZQYk5JQWZ3MG1YaWlDRnNB?oc=5",
+      "date": "2026-06-09T20:11:27.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL"
+    },
+    {
+      "title": "Mashobra becomes first area in Shimla to receive 24x7 drinking water supply - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVUMxTEJpY2xydmRKQ25sR0p1WUJPdE9mazdrazZjZkg0Y19vdXF1UWhLM2JZU3hKUGF2bWtRc2d1eHlHaWlWSDY4Y3pwYmdwaVVWa2NjTWpMN01xSWs2VHJsV0FrRkV2WlJpbFRkRjM3clZ5djJTYkx5T1lEWW1WUXF1aE5hTldKUzFLMEc1TEs1cU5Oekhnc0pDN2hzVmYyOFhCRUhVeWpsRTRqZ0VXWEUwRWgtNVVhelltRUtrSFhoSDlUN0IyeA?oc=5",
+      "date": "2026-04-13T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL"
+    },
+    {
+      "title": "शिमला में गर्मियों में नहीं होगी पानी की कमी, शुरू हुई ये नई पेयजल परियोजना - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVzBxUGlZdndBc19TUVNmZjNkNlFLUUQyc3NmSnBDSmJQS0RSSDVUbFZDUTNia0ZfeVh2cUs1VjZVOTFmS0xLanlUaTg4OU1ZN0ZpbDVrNzFYTlJMRWJMZFdNNDBfYnRpRklZREhhQmpweFFjNDdUYUs3czVLeW0zay1mZ3VCSDNMaUE1Q3gzalYxWEpyTWJfZzNUTjRBVVN6aS1IeDMwNkVqUTVJY2RTWWRkaFN1cFU5QjIzX2R2Q2JsNzJKcWVfTGNwTDRHRzc2bmF4UHhaY0F6aWJTN1dMVnlFVEhjQ2ZnZnRwSE5kVzVQRmxZYWfSAfsBQVVfeXFMT2RFekV1UnVrX0hjakQxN3F6eVVWaXRvRTdrM1l6cG0zcHo3cGpEZVFBUzU4a1k4Y09aS0dOZzB6RklJUWIxUk44ZGo2R1ozQk5tcDZlQm9SbFhzUndxQlhSR0k3QlB2S0w2aVhwRzdQT25udE5PY0NCcURJb1doUl9zaDVEYkg2QVVGbkpjWmctZElvRF9LOXdkdVo4VkZmeTFESDU2TGhyN0o0OC1FbUlPdm12Z0ZROXc2VWRNR3VZa0NiYXphSDB3eTFhbUhxTjdmaGZmYlp5TDdHaEVrSU5Ea1hIWUZ2VG5TY2NRa2hDczdsYzJTalZUTGc?oc=5",
+      "date": "2026-03-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJPNL"
+    },
+    {
+      "title": "Sutlej water reaches Shimla’s Sanjauli reservoir after final testing of Rs 500-crore bulk supply project - Telegraph India",
+      "source": "Telegraph India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTlpDQ2lDeV9oZTA4ZHI5MkFrQTFxR3lyaTBwZW84dkJRZXNYSi10N3k3TWRZY2YydjNDTm9JY3dlV18xVGwwVEVlT3ZFVGt0UWc0amk2dUt0YVVodVdfaVBmRzB1dHBOOGRZLTlNck4yS3oxRE9PUmVqNWlYVjI2QnZZQWFvak03V3ZSRk9fR3RLOUs0cFV3VzJQVXNfN0ZpVm02M1pTTGZlVm1GalI3Y2dSX3duT2xrNmI2bFY4QVZRTlZtcGpHa29KZDM5Uko0aHhGN1ptLUZyaE9OaUg3ckVMd2o3dDDSAewBQVVfeXFMT2FlRGQ1bzRiTGZpNDFmQVF3b3NIUXQwTzZPX0R1U1NZZnZla2duQ2dHV0VvSlAyWHVKNkZIVER3ZjhhSWVTYWVoNnE0blVKLXRhdS1IeFZoUnFNekVUTjdUeGZ3MWVKaWN4OHJXekdVYVNxN1hfQVpobjlrWG4zZ0tyWVRka2NIOXlTX1ZpTnZlYl82LU5EV0QzY0h3cHNRWG9qcVRrQUhneEdKMm4yUzZMTGExa2JJQ0VSWTE1OUtOc3dpMmY0TU1fRmhuTWdBaGtNem9JbERicFM4R1ZQSHM0bmFYSXRVUy1KcFA?oc=5",
+      "date": "2026-03-08T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Water Supply"
+    },
+    {
+      "title": "Shakroli water supply scheme nears completion for 24x7 drinking water in Shimla - Projects Today",
+      "source": "Projects Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY25jSkx2ckpMY2pycnZoaWxyWENWTTBjZWRBOUY2VTRyWFFWdUt6TGl1NWdnM0p4ZGhuaEcyQXpuMDJ5RjBZQ0N5bFRLTnJfUGc3ek5zRl9BYW44Nk01WUx4MDRDcDlNdWxlSkdidjBwYVM1cEp1bmU1cGFldkpoM2EwXzhvcVgzWGpvVm1WV2NpeEF1OGRzWmxNX3RpVjJqZldUaFBKMGl0TG1KZHc?oc=5",
+      "date": "2026-01-09T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL"
+    },
+    {
+      "title": "Himachal: SJPNL issues partial water supply disruption advisory to people amid tourist surge - ANI News",
+      "source": "ANI News",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU5GbTZIUlFmZkNHVjMyc2NlSUgyaUtlWkRsX0U5MkhkS3gzQ2RNSWJoZHRES1NwUlF6UGtzdUN2OGQ0Tm9RVWFOM2xwMVFZYXpyZllOTU9zV1ZLRlNvNnhQckxoQkZCSHFOQWxXaXJXQ2JGWlVIYjlTY2FlTjNZaWxqczlYazlySTFvUV9wVDdvVGxoMHQ3NHpPUW9tZ1BtRVVvZi03VmVfeDR1MTd5Mng5WUdSTEZ6NmhERmpXcksyZUxmUTNGTmU2MFFONEdVaXEzdUtwWUlKX3RBdmh3UnFDc29HV3p3akNZ?oc=5",
+      "date": "2025-12-18T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL"
+    },
+    {
+      "title": "Rising turbidity worsens drinking water crisis in Shimla, city on the brink - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMVdTQ2ZEUndWSG9QV1UxaVhtblk0MG5ocm1KemJLOWZITW5kRllYa3FkSGMtcUpkVGNZNDZqejVZUGhRQ1duaFJqRnJBenNzMnV4RS1TeFVweVF6Vlh1Y2pKNUNxVDB6S3lLNE1sYldFZVJmTmhBUE5CeHY3eXFrSXBfRFBvUnAxQ2FFejBVdnhTTGxKVmJ2cF8xaVVSa0tUanNBTHBDSTN4bEY3NlBCYXhsWmkycGlDaUHSAb4BQVVfeXFMTlJWQWNENG5ycUo5UkUwRkV0NGdRa2ZYN08tdTdpUGh4S0RyNElQQmNJcF9VWDBBZ2NEY295dDJkVmp3ZUh5TndaaVZwM2MxcGFGSTFDb0s2NEJqc2V4WFYxWnVLdTdKMFN3a2FqSzEzZjcybVZEOWlnQnZGUDJYLV9vWW5aMzAzN0JaNmUyNWdncW5zSDNCQk01SGExSVAya1c2OE9ISm9iemFqTFk4SXpoaTFQN2Exak4zZVZBZw?oc=5",
+      "date": "2025-09-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL"
+    },
+    {
+      "title": "Himachal rain: Woman killed in Shimla’s Rampur, one missing from Kullu | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPemt4ZmhZU2hlS2twdUNaNzRNMFBpeUJ3ZU5PX1hjb0ZKclUzZzRsZ2VjTUxJY3BJRkt2WXJoaXFzc2U4LWd5Vjd5MmdBUmR4UlQ0VkUtU3ZkWE1ya0xJS3JIdnJUazBVVVZOWDdUOVVVUEg3WHRheFpzNk1ERFhXMXVKeFFQWS13NFktWFJIb2I5VHlaZkk1V2wzakZaQmI5Zk1XWTlFQ2hfNGRUWFR3VFRqMVVOSnpkVHN0OU1ZMUtRbFllZnpZQUpvQzdSa1o0d3ZrU0tmejY3aVXSAeABQVVfeXFMTmFPbnp1U3J2NXNEMzZTRGZsMWFDdVhOYkUwc2FCRHo1OTZScEtFWkNFNDk3eTljaUFoeDNvVDFTcEdvMEFuOUpoRkNZWkxpc0NjaVphcFZ4OHN4aTJiNGZ3SWpBajg2MDZ1ckZKWlI3ME5WUWVLV1Q0LVd0SVF2dldSTWd2bHVIZy1SZU1YRWQxUm5fR1E3SkpvUEk4SXVDclJCVnBrR2ZXRE5mMk9nNVFEdXhPTjFyZTIwQmRPOHhCVXlfWnpVVG5EZk1sSG96NGxqT1otT2ZrcXdpakVjYnE?oc=5",
+      "date": "2025-08-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Water Supply"
+    },
+    {
+      "title": "Now, call centre for water supply issues - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1ZBbXVtTWpLYjk2dVFrSXZrSTl1WmRfZWgwN2ZwTHpjbHhXYy1LNFpOZWNqelZ1UTlHQTZnMERUTnBtODc2UlNqYVNDTS1Pd1NFajkyOGlHR0F1WWF3cm5Ecmg2cDVBQmlZanhWclRuZkJLU3ZwVFB0X0Nadng4dWxWX3BfYmlqaVdV?oc=5",
+      "date": "2025-07-13T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL"
+    },
+    {
+      "title": "शिमला में महंगी होगी पानी की आपूर्ति, SJPNL ने टैरिफ में की 10 प्रतिशत की बढ़ोतरी - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRU1fcUlEMGhyeDZlUEhhcEszOTFUWlFrakluUUlKb0E2NnYyTnV3czFJWE4yN21tSkNZNW1qQndjS2R3SjZGSmlOQkd0UHJzbUplTkxfQ1gtVDZEakVsMHY5T29FMlVoOWdURUQxNVU4ZGs4SmlFYnQ0dmFRcHRjNnJZVXhuZmluRW40NkFZWkpTQ1NlVktNdDlyd1NJTGV3YkNhZVNhdWlsX3dHZXZKWWNSYjJCM0pDYVdORDNOUE90S1VYOW1zdWtBYTg5LW5nc3FtSkNHbGhnN0lIaGdYUVFZc9IB6AFBVV95cUxNR19pYmpwYWJBcUZmd090eW5vS1ZNSFVkeXE0NnQ4b3RjZVV1LTlsbHZPY25ZaXdySG13cUxjWmFJbHJFYjAzdXNqYXlZTDAtRHVhNzVOWnNtZnJtcDR3NXpCVUJvZmFoN2N6Z1RHblF3V2lmSU5KdGRoelFRYkI4Q2I0NF9pemI5cW9jMEd2VEdpUXJfS0RnS1ZHZmNYcDU5aWcteGZDZWREeWtuU2otMnktd2M3U2RqU1dsUElHWGp0MDdyZnk2S1o2T1E3ZzVMaDdQb3JQS3JmYU9nSmFKYi1lc215SHB5?oc=5",
+      "date": "2025-04-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla Water Supply"
+    },
+    {
+      "title": "Water tariff hiked by 10% in Shimla - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbzRZX2ZWUzdEZjYweXBkWmNYVGFZa1pBWmlaQjU5NXFFRmctYTlhazFqc0FRN0g0VGlYMGlWWEhhTGpGZHExcXU1MGRjR3YxN3N6LW1fSFQ1UlJzVzFDRjhLdV9LVTZ4TDFpQTFZYVZKa05Gc2d3TWtldE92NGxBVml1Z3A?oc=5",
+      "date": "2025-04-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL"
+    },
+    {
+      "title": "शिमला में पानी महंगा, जल निगम ने बढ़ाया टैरिफ, अब कितना चुकाना होगा बिल? - Live Hindustan",
+      "source": "Live Hindustan",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb3ZzTDdGX0phek95ZjRtTEtvcFR4UjRsNWdJX0w1S3hCVjJUajZyT3g4TWxKV0h2b2tpaVRJX2tUMHU0d183UlFJUWJjb3FoaHEtQ2doU3NSLWVPQTRmdTVLZERhdjJXR09YVHFfWkR1cHVnUXlrN2gtR2lpRm1sYUZLUTJhSzZOanRSZUkwT2xLX1V4cjZoVkZHZkY2MHo2b1RjVklpMnFNcnlVZEhibWdHVnhXNmNwcXdMMUQyRTladjA3NUVhMTRUeC1MMHhsM2NNdFFRTmRsQS0ya09V0gHkAUFVX3lxTFBRSXI4RHpYd1Z0dmQtdl9BUHFNYy0xR2dfdkx3Z2JGVU05NTNJd3dhbzdBYkFVeEtxR3ZHNzQ4UkZ2UGRjZzkzMXJuUlRGSnlmV1F4dFlveTVzTVFZcjhwVkV4Q0E2eHFMZzNpUVlLUGJldHZGY1pKbUlrYnB6NWd0M21YckkyaHpYVlF2QUYwcDRGOXgtTHFvR1l4cjBZUDd6ME92Tk5JeWgxcUZHTHM4R016SklKZ3VSUkRGTXpEcE5Va21ieDEwRFlJRW1OMHR5S3d4OV9mWE5nQnhHS19JYUw3Nw?oc=5",
+      "date": "2025-04-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJPNL"
+    },
+    {
+      "title": "Sutlej water for Shimla soon - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Jd3RIZHVYbDNhTVJTbU1qU2ZnMmpZY3AzS3hXOE1xZ0xYOVhvNDAzZi1WLUZpcWpFcU1TM01HUDV4M1lFY0tzOFBHXzh2cDVZY3BEdzVZcUJ4b1RqcFFmRXlnWngtczI5cmJxbVR6aHkxblAwc0JWZVoxV1o?oc=5",
+      "date": "2025-01-10T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL"
+    },
+    {
+      "title": "24x7 water supply in Shimla from May ’25 - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcHpMY2NzWlRvMEt1ZU5ObWJhQ2NjVUtjYVFEcXNUYzNnc0tGSWUzVlFZamdEejkzZC1WNk10d1NQMVJmd2xEblhsNVZ2amxnZGdTVnN3dURNSGdTZjJSanRtUWY0T2FhSkF2emhNMTRScGExYVhLenZBUlJhOXhwbEJjanhuSDNLQXNz?oc=5",
+      "date": "2024-10-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL"
+    },
+    {
+      "title": "हिमाचल में ड्रोन को लेकर गरमाई सियासत: SJPNL करा रही थी GIS मैपिंग, इस मसले पर विधानसभा में कल हुआ था हंगामा - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVHFZNjZndGJMdk9uX0pnVWNzbHJmQ0U5S0FuNG9YZ0pVNWlSMG1COEZhYmNsVkVlYk9aUENaZkh2UFRLREVXdGlQNmRaSE5QNTdDbXJ5ZVMzTU82VnFXYWQ1RENUeTFKeE5GYzQ1NVJBcHhUYlVlRElGNHoxa1hwZ2hFLXRSVWlwdW9fN2JCWVZZcGhCSFl0VG9hUl85S19pTU5xZVRFRHZXNjBOdVl2Q1hrVEkxeFpfRk1ta01aVdIBxAFBVV95cUxNYnJ0bE9RY2JQR0o3bzNDZjNLM3pad0FuQmdfZ1liRDNOdGVFaURSSV9MZGhVdGZ6SjhXSG9PUjhPb0JDb2RVWGVjY05rclZOdlhTT1RvNW9NdlFEaWQyZzNKWmtjTWQyQVBTT0xyZTFURUFxUTJKU0FVOGNPUS1yNGU1UFZCT0dNOWRnWUgxMDhGbXdmaWxRT1NJNmFRbWpTSThBMG1XS0o5QVM5TGZ4alpZRFFEODZid29GdnFMQ3FYQWZE?oc=5",
+      "date": "2024-08-31T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJPNL"
+    },
+    {
+      "title": "शिमला में खत्म होगा हर साल पैदा होने वाला जल संकट, 315 करोड़ रुपए से 24x7 पानी पहुंचाने - ABP News",
+      "source": "ABP News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNM1pLdXE3aXo3aEVSLW1nZ2hvM1hTdXJGcUcyVXFYR2NOWXNBRk5tTGpDQkdKNnRwS251MWNsTVhJenlxRENETXpsMk4ybXo0M1pjNGYzd0xhZHVWREs2N2J6NHB3czdYS19QaHdUcnVRalBWZ2I1eFFMRXRFdUY0WUx5TGtmaGtmMEd6OWU1RlFDeUtldENlQXNFSENvSVlkNE1mODNpanhOUXBOaV9tdHN2dWhyQ1hkMk5BRmhJT19RUXl0aEJ4RjdwMVpkWHgzM1VmUGY2UV91d0hmYVlTZHJwT1BtdTjSAewBQVVfeXFMTWhmaE1QQWl0QnFtZk9VM3ViZU9pcjNzQS1fRy1UM0I5RW5mcVZ6TDRWN0pjZHViVWZINlVSQjNQbVV0NGRpb0NITi05anhBbzVzcllZZWZzSjZ5OVFGV3FhZktrcU1Sb0tvaVRqUGJJckdMNWJweFdOYkIxSVBQaVNtSnY0SlhkYnQwWk42UkxYX196NUZzSDVkWmlvOXprdWNiOVItNlh5RWVVazBRLVA0LWd0Y3Q0N2tCLU9HOWhnaFJ1RnRULU8yTkU5M0hjcFpOQ3VmSXZBMWFRdWR3eWZLR3hqLXNfS2tIUGk?oc=5",
+      "date": "2024-06-22T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla Water Supply"
+    },
+    {
+      "title": "Shimla water crisis: Tourist-packed hotels scramble for water as supplies drop sharply - The Economic Times",
+      "source": "The Economic Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZGRxYTdFMks0Q2ZPbXc3c3RIb2h4SXUxMzhHRDdWRXNPTHJoVVplZWNzaUx2OWFWdC1ES2ZqWEo4M1hQc0RhenNXdHV4T0x0M21DTm1ZZnhSMlVoT1JVWm1WakVicDZLZWhyVElMLVBlZG8yYTJWNktDZEZSZUZQWEI3ZXlKMjFYbnBhcTdwLS1YVHpKN01MN1F2aC1SdmlqaFFrTHpBMVR5WlZvMEs3Yk5BMmNuWlRIeEZoS2poOEdQTi1LWDdCSWVtQjJrZm1fRDAyb2NZR0Rhd2VUUTYzbnY3OXbSAeoBQVVfeXFMTWg2Y1NacjZQLW1uSmdRNVJfVEVJNDY4TDYtWFA2TEFLX2Y2TFJUREdWeU45LUwwd1psZWxIcXRLZ0lvOGt3Y2JvSFF4NmZLQlpMVTc4SnQtSTVORlc2bll0Z1BzMzVXNmo3ZDJwR3RzaFJiNXhDNUhLUUV5NnZkc2dKT3dpdmpNRnlHYThVdUpNakFIQnQ2SEdrNnU4R1hNTGZSRHphOVZnUWJrT0JEUjZYVDJnaXlFM2ljN2NyRFdtcHczdGdZZXVFTHFta3RYb0NjczNBZ3ZiTjhTS0xwSHJqZXVOM05WTzBR?oc=5",
+      "date": "2024-06-18T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Water Supply"
+    }
+  ],
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
 }
