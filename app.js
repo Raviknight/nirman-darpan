@@ -610,8 +610,12 @@ function renderChips(){
 }
 
 function renderTabs(){
-  document.getElementById('tab-active').classList.toggle('on', state.tab === 'active');
-  document.getElementById('tab-completed').classList.toggle('on', state.tab === 'completed');
+  const a = document.getElementById('tab-active');
+  const c = document.getElementById('tab-completed');
+  a.classList.toggle('on', state.tab === 'active');
+  c.classList.toggle('on', state.tab === 'completed');
+  a.setAttribute('aria-selected', state.tab === 'active' ? 'true' : 'false');
+  c.setAttribute('aria-selected', state.tab === 'completed' ? 'true' : 'false');
 }
 
 // ---- grid ----
@@ -1139,15 +1143,40 @@ function timeAgo(iso){
   return d.toLocaleDateString('en-IN', { day:'2-digit', month:'short', year:'numeric' });
 }
 
+function flaggedUrls(){
+  try { return new Set(JSON.parse(localStorage.getItem('nd_flagged_urls') || '[]')); }
+  catch (_) { return new Set(); }
+}
+function flagUrl(url){
+  const s = flaggedUrls(); s.add(url);
+  try { localStorage.setItem('nd_flagged_urls', JSON.stringify([...s])); } catch (_) {}
+}
+function unflagAll(){ try { localStorage.removeItem('nd_flagged_urls'); } catch (_) {} }
+
+function renderSocialMentionRow(m, flagged){
+  return `
+    <div class="social-row" data-row-url="${esc(m.url)}">
+      <a href="${esc(m.url)}" target="_blank" rel="noopener nofollow" class="social-row-link">
+        <div class="social-row-title">${esc(m.title)}</div>
+        <div class="social-row-meta">
+          <span>${esc(m.source || 'News')}</span>
+          ${m.date ? `<span>· ${esc(timeAgo(m.date))}</span>` : ''}
+          ${m.lang === 'hi' ? `<span class="social-lang-tag hi">हिं</span>` : (m.lang === 'en' ? `<span class="social-lang-tag en">EN</span>` : '')}
+        </div>
+      </a>
+      <button type="button" class="social-flag-btn" data-flag-url="${esc(m.url)}" aria-label="Hide this mention — not actually about this project">⌀ Off-topic</button>
+    </div>
+  `;
+}
+
 function renderSocialPanel(id){
   const data = socialCache[id];
   if (data === undefined) {
-    // not loaded yet — kick off and render a placeholder
     loadSocial(id).then(() => {
       const el = document.getElementById('social-panel-' + id);
       if (el) el.innerHTML = renderSocialPanel(id);
     });
-    return `<div class="social-loading">Loading public conversation…</div>`;
+    return `<div class="social-loading" aria-live="polite">Loading public conversation…</div>`;
   }
   if (!data || !data.mentions) {
     return `<div class="social-empty">
@@ -1157,13 +1186,16 @@ function renderSocialPanel(id){
       </p>
     </div>`;
   }
+  const flagged = flaggedUrls();
+  const visibleMentions = (data.mentions || []).filter(m => !flagged.has(m.url));
+  const hiddenCount = (data.mentions || []).length - visibleMentions.length;
   const total = data.counts?.total || 0;
   const en = data.counts?.en || 0;
   const hi = data.counts?.hi || 0;
-  const mentions = (data.mentions || []).slice(0, 5);
+  const mentions = visibleMentions.slice(0, 5);
   const updated = data.updated_at ? timeAgo(data.updated_at) : '';
   const langStrip = (en + hi > 0) ? `
-    <div class="social-langbar" aria-label="Language mix">
+    <div class="social-langbar" role="img" aria-label="Language mix: English ${en}, Hindi ${hi}">
       <div style="width:${total ? Math.round(en/total*100) : 0}%;background:#3a5a7d" title="English: ${en}"></div>
       <div style="width:${total ? Math.round(hi/total*100) : 0}%;background:#7d5a3a" title="Hindi: ${hi}"></div>
     </div>
@@ -1172,18 +1204,14 @@ function renderSocialPanel(id){
       <span><span class="dot" style="background:#7d5a3a"></span> Hindi ${hi}</span>
     </div>
   ` : '';
-  const list = mentions.length ? mentions.map(m => `
-    <a href="${esc(m.url)}" target="_blank" rel="noopener nofollow" class="social-row">
-      <div class="social-row-title">${esc(m.title)}</div>
-      <div class="social-row-meta">
-        <span>${esc(m.source || 'News')}</span>
-        ${m.date ? `<span>· ${esc(timeAgo(m.date))}</span>` : ''}
-        ${m.lang === 'hi' ? `<span class="social-lang-tag hi">हिं</span>` : (m.lang === 'en' ? `<span class="social-lang-tag en">EN</span>` : '')}
-      </div>
-    </a>
-  `).join('') : `<div style="font-size:13px;color:#7d8a82;padding:6px 0">No items yet.</div>`;
-  const moreRow = (data.mentions.length > 5)
-    ? `<button class="social-more" data-pid="${esc(id)}" type="button">Show all ${data.mentions.length} mentions</button>`
+  const list = mentions.length
+    ? mentions.map(m => renderSocialMentionRow(m, false)).join('')
+    : `<div style="font-size:13px;color:#7d8a82;padding:6px 0">No items left after off-topic filtering.</div>`;
+  const moreRow = (visibleMentions.length > 5)
+    ? `<button class="social-more" data-pid="${esc(id)}" type="button">Show all ${visibleMentions.length} mentions</button>`
+    : '';
+  const hiddenNote = hiddenCount
+    ? `<div class="social-hidden-note"><b>${hiddenCount}</b> mention${hiddenCount === 1 ? '' : 's'} hidden by you as off-topic. <button type="button" class="social-unflag-btn">Reset</button></div>`
     : '';
   return `
     <div class="social-head">
@@ -1198,6 +1226,7 @@ function renderSocialPanel(id){
     ${langStrip}
     <div class="social-list">${list}</div>
     ${moreRow}
+    ${hiddenNote}
     <p class="social-method">
       Aggregated from Indian press via Google News (en-IN + hi-IN).
       Headlines link to the original publisher — we do not repost text.
@@ -1317,9 +1346,9 @@ function renderModal(){
 
   root.innerHTML = `
     <div class="modal-backdrop" data-close="1">
-      <div class="modal" data-stop="1">
+      <div class="modal" data-stop="1" role="dialog" aria-modal="true" aria-labelledby="modal-title-${esc(p.id)}">
         <div class="modal-hero">
-          <button class="modal-close" data-close="1" aria-label="Close">✕</button>
+          <button class="modal-close" data-close="1" aria-label="Close project panel">✕</button>
           <span class="modal-status status-pill ${completed?'completed':'active'}">${completed?'Completed':'In progress'}</span>
           <span class="modal-cap">${esc(p.img)}</span>
         </div>
@@ -1330,7 +1359,7 @@ function renderModal(){
             <span class="level-tag" style="background:${LEVEL_BADGE_BG[p.level||'center']};color:${LEVEL_BADGE_FG[p.level||'center']}">${LEVEL_LABEL[p.level||'center']}</span>
             <span class="id">${esc(p.id)}</span>
           </div>
-          <h2 class="modal-title">${esc(p.name)}</h2>
+          <h2 class="modal-title" id="modal-title-${esc(p.id)}">${esc(p.name)}</h2>
           <p class="modal-desc">${esc(p.desc)}</p>
           ${renderShareRow(p)}
           ${(!completed && p.delayed) ? `<div style="margin-bottom:16px"><span class="pill-delay">⚠ Behind schedule</span></div>` : ''}
@@ -1547,19 +1576,47 @@ function wireModal(){
       const pid = btn.getAttribute('data-pid');
       const data = socialCache[pid];
       if (!data || !data.mentions) return;
-      const list = btn.previousElementSibling; // .social-list
-      const allHtml = data.mentions.map(m => `
-        <a href="${esc(m.url)}" target="_blank" rel="noopener nofollow" class="social-row">
-          <div class="social-row-title">${esc(m.title)}</div>
-          <div class="social-row-meta">
-            <span>${esc(m.source || 'News')}</span>
-            ${m.date ? `<span>· ${esc(timeAgo(m.date))}</span>` : ''}
-            ${m.lang === 'hi' ? `<span class="social-lang-tag hi">हिं</span>` : (m.lang === 'en' ? `<span class="social-lang-tag en">EN</span>` : '')}
-          </div>
-        </a>
-      `).join('');
-      list.innerHTML = allHtml;
+      const flagged = flaggedUrls();
+      const visible = data.mentions.filter(m => !flagged.has(m.url));
+      const list = btn.previousElementSibling;
+      list.innerHTML = visible.map(m => renderSocialMentionRow(m, false)).join('');
       btn.remove();
+      wireSocialFlagButtons();
+    });
+  });
+
+  // Flag press mention as off-topic (localStorage). Re-renders the panel.
+  wireSocialFlagButtons();
+
+  // Reset all flagged URLs for this browser.
+  root.querySelectorAll('.social-unflag-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      if (!confirm('Reset all hidden press mentions in this browser?')) return;
+      unflagAll();
+      const panel = document.querySelector('[id^="social-panel-"]');
+      if (panel) panel.innerHTML = renderSocialPanel(state.selectedId);
+      wireModal();
+    });
+  });
+}
+
+function wireSocialFlagButtons(){
+  document.querySelectorAll('.social-flag-btn').forEach(btn => {
+    if (btn._wired) return; btn._wired = true;
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      const url = btn.getAttribute('data-flag-url');
+      if (!url) return;
+      flagUrl(url);
+      const row = btn.closest('.social-row');
+      if (row) {
+        row.style.transition = 'opacity .2s'; row.style.opacity = '0';
+        setTimeout(() => {
+          const panel = document.querySelector('[id^="social-panel-"]');
+          if (panel) panel.innerHTML = renderSocialPanel(state.selectedId);
+          wireModal();
+        }, 220);
+      }
     });
   });
 }

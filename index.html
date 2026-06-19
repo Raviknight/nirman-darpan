@@ -589,8 +589,26 @@
   .social-langbar > div{height:100%}
   .social-langbar + div .dot{display:inline-block;width:8px;height:8px;border-radius:2px;vertical-align:middle;margin-right:4px}
   .social-list{display:flex;flex-direction:column;gap:8px;margin-top:14px}
-  .social-row{display:block;padding:10px 12px;border:1px solid #eceadf;border-radius:8px;text-decoration:none;color:inherit;transition:border-color .12s,background .12s}
+  .social-row{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;padding:10px 12px;border:1px solid #eceadf;border-radius:8px;background:#fff;transition:border-color .12s,background .12s}
   .social-row:hover{border-color:#cfd6cd;background:#fbfbf7}
+  .social-row-link{flex:1;text-decoration:none;color:inherit;display:block;min-width:0}
+  .social-flag-btn{
+    background:none;border:1px solid #eceadf;border-radius:5px;color:#a4a294;
+    font-family:'Public Sans',sans-serif;font-size:10px;font-weight:600;cursor:pointer;
+    padding:4px 7px;flex-shrink:0;
+  }
+  .social-flag-btn:hover{background:#f7e7e3;border-color:#c2664f;color:#b04a3a}
+  .social-hidden-note{
+    margin-top:10px;font-size:11px;color:#7d8a82;background:#f4f3ee;
+    border:1px solid #eceadf;border-radius:6px;padding:7px 10px;
+    display:flex;justify-content:space-between;align-items:center;gap:8px;
+  }
+  .social-unflag-btn{
+    background:none;border:1px solid #dddccf;color:#5c686f;border-radius:5px;
+    font-family:'Public Sans',sans-serif;font-size:11px;font-weight:600;cursor:pointer;
+    padding:3px 9px;
+  }
+  .social-unflag-btn:hover{background:#fff;color:#1b5640;border-color:#1b5640}
   .social-row-title{font-size:13px;line-height:1.4;color:#232a2e;font-weight:500;margin-bottom:4px}
   .social-row-meta{font-size:11px;color:#8a8a7e;display:flex;align-items:center;gap:6px}
   .social-lang-tag{font-size:9px;font-weight:700;letter-spacing:.5px;padding:1px 5px;border-radius:3px;text-transform:uppercase}
@@ -632,8 +650,9 @@
 </style>
 </head>
 <body>
+<a href="#main-content" style="position:absolute;left:-9999px;top:0;background:#1b5640;color:#fff;padding:8px 14px;font-weight:600;z-index:9999" onfocus="this.style.left='12px'" onblur="this.style.left='-9999px'">Skip to main content</a>
 
-<header class="nd-header">
+<header class="nd-header" role="banner">
   <div class="nd-header-inner">
     <div class="nd-brand">
       <span class="nd-brand-hi">निर्माण दर्पण</span>
@@ -656,8 +675,8 @@
   </div>
 </header>
 
-<main>
-  <section id="stats"></section>
+<main id="main-content" role="main">
+  <section id="stats" aria-label="At-a-glance project counts"></section>
   <p class="disclaimer">An independent civic-transparency project. Phase 2 will compile records automatically from official tender &amp; departmental portals, district press reporting, and verified social accounts, with a human-in-the-loop moderation queue before anything goes public. Not affiliated with the Government of Himachal Pradesh.</p>
 
   <section id="map-section">
@@ -685,20 +704,20 @@
   <div id="featured-wrap"></div>
 
   <div class="filter-bar">
-    <div class="tabs">
-      <button id="tab-active" class="tab on" data-tab="active">Active <span class="tab-count" id="count-active">—</span></button>
-      <button id="tab-completed" class="tab" data-tab="completed">Completed <span class="tab-count" id="count-completed">—</span></button>
+    <div class="tabs" role="tablist" aria-label="Project status filter">
+      <button id="tab-active" class="tab on" data-tab="active" role="tab" aria-selected="true" aria-controls="grid">Active <span class="tab-count" id="count-active">—</span></button>
+      <button id="tab-completed" class="tab" data-tab="completed" role="tab" aria-selected="false" aria-controls="grid">Completed <span class="tab-count" id="count-completed">—</span></button>
     </div>
     <div class="controls">
-      <input id="search" placeholder="Search projects, contractors…" autocomplete="off">
-      <select id="district"></select>
-      <select id="level">
+      <input id="search" placeholder="Search projects, contractors…" autocomplete="off" aria-label="Search projects, contractors, districts, categories">
+      <select id="district" aria-label="Filter by district"></select>
+      <select id="level" aria-label="Filter by mandate level">
         <option value="All">All mandates</option>
         <option value="center">Centre-level</option>
         <option value="state">State-level</option>
         <option value="district">District-level</option>
       </select>
-      <select id="sort">
+      <select id="sort" aria-label="Sort projects">
         <option value="attention">Sort: Needs attention</option>
         <option value="progress">Sort: Most progress</option>
         <option value="budget">Sort: Largest outlay</option>
@@ -709,10 +728,10 @@
 
   <div id="chips"></div>
 
-  <section id="grid"></section>
+  <section id="grid" role="region" aria-label="Project list" aria-live="polite"></section>
 </main>
 
-<footer>
+<footer role="contentinfo">
   <div class="footer-inner">
     <div style="display:flex;flex-direction:column;gap:10px;flex:1;min-width:240px">
       <span class="footer-brand">निर्माण दर्पण · Nirman Darpan</span>
