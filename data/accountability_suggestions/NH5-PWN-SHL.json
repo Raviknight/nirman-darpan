@@ -1,0 +1,41 @@
+{
+    "updated_at":  "2026-06-19T19:25:00.8217705Z",
+    "project_id":  "NH5-PWN-SHL",
+    "count":  3,
+    "suggestions":  [
+                        {
+                            "category":  "litigation",
+                            "severity":  "medium",
+                            "title":  "Shimla landslide that damaged apple orchards was ‘act of God’, NHAI tells National Green Tribunal - The Indian Express",
+                            "summary":  "Auto-detected from press: \"Shimla landslide that damaged apple orchards was ‘act of God’, NHAI tells National Green Tribunal - The Indian Express\" — review the linked article and edit before promoting.",
+                            "source_url":  "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmZzYS1nZ2FOUmxEVjFRUEYxWUMtYl9zcGtPUHh4eWFJcktLX0V0eEVFMXU0bHRUb3BFUFJpTkpCNklVVzlsMEl1NVNDa0ZQdFM4VGpDV002dzdPQWRHZ3lhdnpoTlhIWGFTdlNXbTUtZUFJcTZFVGludmNDcmFneUNLd3dOOG9hRGQyd1NnTU93V0ZnSUpHbFhKWFpNS05xcnJUetIBqwFBVV95cUxNeFI1aU04V0Z5QU5zZTdEMlpWTm8wd3hLQzlHVjhGcjMwTnV1V2VMenNRelZBY3JrQTBLUjlONWltanE2OXViUzBfWU1JU1pMRFluSU4xUWlGUWFPWklXM0R5d2ptTzFzcnBXSG9YWHF1dWlJVGNMQzIzcy0wZHZsZ1lDVjJseWQ3TjVBanpnM0pYYlBoaWRwaGhSaVZmSk92b1RnZkMyaEUyRUk?oc=5",
+                            "source_name":  "The Indian Express",
+                            "lang":  "en",
+                            "date":  "2026-05-21T07:00:00.000Z",
+                            "matched_term":  "national green tribunal"
+                        },
+                        {
+                            "category":  "incident",
+                            "severity":  "high",
+                            "title":  "Shimla Five-Storey Building Collapses, Landslides Block NH As Rains Pummel Himachal Pradesh - ETV Bharat",
+                            "summary":  "Auto-detected from press: \"Shimla Five-Storey Building Collapses, Landslides Block NH As Rains Pummel Himachal Pradesh - ETV Bharat\" — review the linked article and edit before promoting.",
+                            "source_url":  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTWVwR21BcVFKMWpXV3pLejJTWEhWRFg5SXBmSkVnamIzcFlXN2hOWnFBZ20tdWE1dHlOZURtcG9MVG9oc3dGZEFLV0tER2VPejJVeHc0OFFCT2JLVjJuMmt2TTRUYVNOaXVsUEFFdkFlNVBzeFJfa3ZXeDRoM0xORnRMNzF2WHBqQlN4ZzI1UUtBa2FCaVg3TndTeEVqNXZIaG5HR0ctd0NpMlowLXkyUWRtVGw0RDFXeVQzWXVJMG9pd3dPUExaQ255amt4M0pkam0wZ19VbFJWQdIB3wFBVV95cUxQSDF6Vm11VWxWUXhmSGR5ajAwSWE2TEg4VzFLOXN2ZThDMHAtS25fZjhMbjNjWVlMRGhUeEo0N1FfUTRVekx6M0lvNERfQnVuUk9OVmM5NVlSbUV1TW1SMkw2NWZLeGJCYlRuNllHdjluVkRWdVAyc1JJNk51WFM1Y05NOFFUUk1FS0hGcHdiRmQ0eHdxSXVEQjQtYWlRTllIVC1GZWFEM0YzX1p5elU1RmlhVnlDalVyc3BCTUZGMGlKN0lpXzlOeVVhZng4SFdKVGVxNVBxQmMwTU1xYU9j?oc=5",
+                            "source_name":  "ETV Bharat",
+                            "lang":  "en",
+                            "date":  "2025-06-30T07:00:00.000Z",
+                            "matched_term":  "collapse"
+                        },
+                        {
+                            "category":  "incident",
+                            "severity":  "high",
+                            "title":  "Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - The Federal",
+                            "summary":  "Auto-detected from press: \"Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - The Federal\" — review the linked article and edit before promoting.",
+                            "source_url":  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcW94YnVfR0pHeUVkZUd2WUV3U3VBRUlIc2l2allCMWtRUlNVdnJiLWNJdXVrbVl6UTl2WUllcTd0ZFdheC1ac0RHU2FpV1ZTWlZSNlN5aTRKSE9QSTViZnl0VGJEUVJMN2xpb1hwQnkwWE9Kd3Z5bmg3QktHOXVPZTFzTzZHR3pEOHhZLS1SaHo5ZmJFaVd0c25XMFh1blBSa0xsbFVyc19nWkRCUDMwaTdRdWstUzB3dmJ2UW0xb201cHF5MVJ1T000aEpHYVlmM3pfNzJB?oc=5",
+                            "source_name":  "The Federal",
+                            "lang":  "en",
+                            "date":  "2023-11-22T08:00:00.000Z",
+                            "matched_term":  "collapse"
+                        }
+                    ],
+    "methodology":  "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
+}

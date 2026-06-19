@@ -14,6 +14,7 @@ on:
       - 'scripts/gen_district_pages.mjs'
       - 'scripts/gen_feed.mjs'
       - 'scripts/gen_sitemap.mjs'
+      - 'scripts/detect_accountability.mjs'
       - '.github/workflows/sync.yml'
   workflow_dispatch: {}
 
@@ -43,6 +44,10 @@ jobs:
         run: node scripts/social_sync.mjs
         continue-on-error: true
 
+      - name: Detect accountability signals from press
+        run: node scripts/detect_accountability.mjs
+        continue-on-error: true
+
       - name: Regenerate per-project static pages
         run: node scripts/gen_project_pages.mjs
 
@@ -59,7 +64,7 @@ jobs:
         run: |
           git config user.name 'nirman-darpan-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/meta.json data/social sitemap.xml projects districts feed.xml
+          git add data/meta.json data/social data/accountability_suggestions sitemap.xml projects districts feed.xml
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0

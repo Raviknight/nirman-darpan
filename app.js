@@ -718,6 +718,21 @@ function renderGrid(){
 // Cache for data/social/<id>.json (filled lazily on first modal open per project).
 const socialCache = {};
 
+// Cache for data/accountability_suggestions/<id>.json (auto-detected from press).
+const acctSuggestCache = {};
+
+async function loadAcctSuggestions(id){
+  if (id in acctSuggestCache) return acctSuggestCache[id];
+  try {
+    const r = await fetch(`data/accountability_suggestions/${encodeURIComponent(id)}.json`, { cache: 'no-store' });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    acctSuggestCache[id] = await r.json();
+  } catch (_) {
+    acctSuggestCache[id] = null;
+  }
+  return acctSuggestCache[id];
+}
+
 // Accountability categories — keep in lockstep with the schema enum.
 const ACCT_CATS = [
   { key: 'incident',   label: 'Incidents',   color: '#b04a3a', desc: 'Accidents on site, fatalities, FIRs', hasSeverity: true  },
@@ -769,12 +784,91 @@ function renderAccountabilityPanel(projectId){
       </div>
       ${partiesBlock}
       ${ACCT_CATS.map(c => renderAccountabilityBlock(projectId, c, byCat[c.key])).join('')}
+      ${renderAcctSuggestions(projectId)}
       <p class="acct-foot">
         Every entry needs a source citation. User submissions land as <i>pending review</i> until a moderator confirms.
         Sourced and auditable, not just allegations.
       </p>
     </div>
   `;
+}
+
+const STALE_DAYS = 180;
+function daysSince(iso){
+  if (!iso) return Infinity;
+  const d = new Date(iso); if (isNaN(d.getTime())) return Infinity;
+  return Math.round((Date.now() - d.getTime()) / 86400000);
+}
+
+function renderAcctSuggestions(projectId){
+  const data = acctSuggestCache[projectId];
+  if (data === undefined) {
+    // not loaded yet — kick off and stub-render
+    loadAcctSuggestions(projectId).then(() => {
+      const el = document.querySelector('#acct-suggest-' + projectId);
+      if (el) el.outerHTML = renderAcctSuggestions(projectId);
+    });
+    return `<div id="acct-suggest-${esc(projectId)}" class="acct-suggest"><div style="font-size:12px;color:#a4a294">Scanning press for accountability signals…</div></div>`;
+  }
+  if (!data || !data.suggestions || !data.suggestions.length) {
+    return `<div id="acct-suggest-${esc(projectId)}" class="acct-suggest acct-suggest-empty">
+      <h5>Auto-detected from press</h5>
+      <p>No accountability-relevant keywords found in the latest press snapshot. The sweep runs twice weekly.</p>
+    </div>`;
+  }
+  const items = data.suggestions.slice(0, 10).map((s, i) => {
+    const cat = ACCT_CAT_BY_KEY[s.category];
+    const catColor = cat ? cat.color : '#5c686f';
+    const catLabel = cat ? cat.label.replace(/s$/, '') : s.category;
+    const promoteBtn = (NIRMAN_AW && NIRMAN_AW.user)
+      ? `<button class="acct-promote-btn" type="button" data-promote-pid="${esc(projectId)}" data-promote-idx="${i}">Promote to entry</button>`
+      : (NIRMAN_AW
+          ? `<a class="acct-promote-btn" data-do-signin="1">Sign in to promote</a>`
+          : '');
+    return `
+      <li class="acct-suggest-item">
+        <div class="acct-suggest-meta">
+          <span class="acct-suggest-cat" style="background:${catColor}">${esc(catLabel)}</span>
+          <span class="acct-suggest-sev acct-sev-${esc(s.severity || 'medium')}">${esc(s.severity || 'medium')}</span>
+          <span class="acct-suggest-term" title="Matched term">⌕ ${esc(s.matched_term || '')}</span>
+        </div>
+        <a href="${esc(s.source_url)}" target="_blank" rel="noopener nofollow" class="acct-suggest-title">${esc(s.title)}</a>
+        <div class="acct-suggest-foot">
+          <span>${esc(s.source_name || 'News')}${s.lang === 'hi' ? ' · हिं' : ''}</span>
+          ${promoteBtn}
+        </div>
+      </li>
+    `;
+  }).join('');
+  return `
+    <div id="acct-suggest-${esc(projectId)}" class="acct-suggest">
+      <h5>Auto-detected from press <span class="acct-suggest-count">${data.suggestions.length}</span></h5>
+      <p class="acct-suggest-note">
+        Keyword scan of recent press coverage. <b>False positives are normal</b> — a signed-in moderator promotes real ones to verified entries. Source link opens the original article.
+      </p>
+      <ul class="acct-suggest-list">${items}</ul>
+    </div>
+  `;
+}
+
+// Open the add-entry form pre-filled with a suggestion's values.
+function promoteAcctSuggestion(projectId, idx){
+  const data = acctSuggestCache[projectId];
+  if (!data || !data.suggestions || !data.suggestions[idx]) return;
+  const s = data.suggestions[idx];
+  openAccountabilityForm(projectId, s.category);
+  // Wait for the form to render then pre-fill.
+  setTimeout(() => {
+    const f = document.getElementById('acct-form');
+    if (!f) return;
+    if (f.title) f.title.value = s.title.slice(0, 200);
+    if (f.summary) f.summary.value = 'From press: ' + s.title + (s.source_name ? '\n\nSource: ' + s.source_name : '');
+    if (f.source_url) f.source_url.value = s.source_url;
+    if (f.severity) f.severity.value = s.severity || 'medium';
+    if (s.date && f.date_occurred) {
+      try { f.date_occurred.value = new Date(s.date).toISOString().slice(0, 10); } catch (_) {}
+    }
+  }, 50);
 }
 
 function renderAccountableParties(p){
@@ -839,13 +933,18 @@ function renderAccountabilityEntry(e){
     ? `<span class="acct-verified" title="Verified by moderator">✓ verified</span>`
     : `<span class="acct-pending" title="User submission awaiting moderator review">⏵ pending review</span>`;
   const sevClass = e.severity ? `acct-sev-${e.severity}` : '';
+  // Entries open for >180 days get a visible stale tag so moderators can
+  // either close or escalate. We don't auto-mutate the row — display only.
+  const ageDays = daysSince(e.date_occurred);
+  const isStale = e.status === 'open' && ageDays > STALE_DAYS;
   const statusClass = `acct-status acct-status-${e.status}`;
   return `
-    <div class="acct-entry">
+    <div class="acct-entry${isStale ? ' acct-entry-stale' : ''}">
       <div class="acct-entry-head">
         <b>${esc(e.title)}</b>
         <span class="${statusClass}">${esc(e.status)}</span>
         ${e.severity ? `<span class="acct-sev ${sevClass}">${esc(e.severity)}</span>` : ''}
+        ${isStale ? `<span class="acct-stale" title="Open longer than ${STALE_DAYS} days">⏱ ${ageDays}d stale</span>` : ''}
       </div>
       ${e.summary ? `<p class="acct-entry-body">${esc(e.summary)}</p>` : ''}
       <div class="acct-entry-foot">
@@ -1153,6 +1252,13 @@ function renderModal(){
       .then(() => { if (state.selectedId === p.id) renderModal(); })
       .catch(() => {});
   }
+  // Press-derived accountability suggestions (works without Appwrite — these
+  // are static JSON files committed by the auto-sync workflow).
+  if (!(p.id in acctSuggestCache)) {
+    loadAcctSuggestions(p.id).then(() => {
+      if (state.selectedId === p.id) renderModal();
+    }).catch(() => {});
+  }
 
   const c = CAT_COLOR[p.category] || '#5c686f';
   const fc = fillColor(p);
@@ -1408,6 +1514,15 @@ function wireModal(){
       const pid = btn.getAttribute('data-add-pid');
       const cat = btn.getAttribute('data-add-cat');
       openAccountabilityForm(pid, cat);
+    });
+  });
+
+  // Accountability "Promote to entry" buttons (auto-detected suggestions).
+  root.querySelectorAll('[data-promote-pid]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const pid = btn.getAttribute('data-promote-pid');
+      const idx = parseInt(btn.getAttribute('data-promote-idx'), 10);
+      promoteAcctSuggestion(pid, idx);
     });
   });
 
