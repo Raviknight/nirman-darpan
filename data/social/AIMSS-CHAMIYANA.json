@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-06-19T17:18:57.579Z",
+  "updated_at": "2026-06-19T19:26:58.529Z",
   "project_id": "AIMSS-CHAMIYANA",
   "counts": {
-    "press": 91,
+    "press": 92,
     "gov": 0,
-    "en": 35,
+    "en": 36,
     "hi": 56,
-    "total": 91
+    "total": 92
   },
   "mentions": [
+    {
+      "title": "Shimla News: चमियाना अस्पताल में एमआरआई मशीन इंस्टाल, 22 से होंगे ट्रायल - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbHNqRFJSMm9PclYzMEJaMHVTSHpuSGU1Skt3b1ZlNHROX25qTHlwNXc1NHpmc0VicW5SWVkyeHQwbGI0N2JpVkgxZ081dllGSjhFRC13U2l5dklqNjhqNkdWZUtFOXdjaUlYX0RqQzRLRVdlV1VoRlF1cnNmQVh6Q0J4MGlZemlCOXkzVkZyanJPNHBPWnQ4c3M2Rmhna2FtSzBnXzBYM0ZKOFhQMWxOOWIybklmd0JneVZwTVlmYTlUVEo1RDlNLXQ4VHZYcnhscnBJdEpHWk8ydWM2ZGNDS9IB5gFBVV95cUxNVUlwYkFrOTRxRlpQTHlJcmFZVHBnbGNINnFGbVRhTmdLbms2NWlDcl9IcnRNbHJGZkdHTEVnX2hPMGdSZDhfZ0tQV3dUdDlUVDdBQ05zQThVRFVoTmpGdUNNOGlCcTFJdXZLTEFLSnRveHhROHAwMy1DYWRtMGszWWstVmgxN25WVGhycmhEbDRXMVVKaHFXbVdCNHo0Q2JDQjdLQ1RQYk5tOXd5NkVGMW5iMzlLbUtSRXF4Vl9Ycm14RE1LWUU4c3phNk9HcG1Bb1hMX0dYQ1Z4VWhVMnJ6WXFFa0Y2Zw?oc=5",
+      "date": "2026-06-19T18:29:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
     {
       "title": "Shimla News: चमियाना अस्पताल में जल्द शुरू होगी ऑनलाइन बनना - Amar Ujala",
       "source": "Amar Ujala",
@@ -70,16 +80,6 @@
       "match": "Chamiyana hospital"
     },
     {
-      "title": "दिल्ली होटल हादसे के बाद अब राजस्थान अस्पताल में मचा हड़कंप, धुएं से भरी ओपीडी तो भागने लगे मरीज - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPblhHNHF4a0VXUm1GeEhrSkp6S2E1V0ozcEl6WFNaTk1RTGlEeUFyWGJIWkRnQ0x5VllSWTV5M1BrMnR1NjNJWW5JVy1lVlhKQVF6SDhYSnZzQlBuMkw0M0hVWTlSUUJOTHU1M1daRkYzclBRbjlTQmtGbDVtdUVsV01wZFhnRGdNNjhKM19mZHJyQVVXcV81STRuUHJoempvREk1Umg4TkJ3VDlQZHZHcGhzNUdjLWo2M1J1bTk2d1ZJSDNNNmJjdkYzeWlsLVdXSnB0T3lyNjF2MmRJTGJRSkROb0g2V09rMzNjYUpSRXRCQkHSAfgBQVVfeXFMTmZxNDJEcVU3UllnaEZpcC1xdVd3RE5HOXJ6MmVvbks5RmNrdzd4MUVtdzBHcHFkeVpiYUlvbnU4bVZ5UVlibUtxUWhVZVFkS3AzbDJlcnQ2Mmx3OXpUbmVQcW5JRVVsOVcwOGpNOEMxWUhDcnZJam4zLWp4NVJodVdPTjZ5UWRXNXR3SnFKek13dmpyR25HNkZQSl9SekFaRXA1YkJWSXF1UjByRnhKQWN2bjFZYmVfR2c3YUEtOFlaMW9hRjJFdlUtLTZ3WDBPRHYtUy1HR1ZVUFFURklZZHRnTDhXbkFfYnFhbUtqWWVnYkZDZEIzemI?oc=5",
-      "date": "2026-06-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
       "title": "Shimla News: चमियाना अस्पताल में पहले हो चुका है विरोध - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -110,6 +110,16 @@
       "match": "Chamiyana hospital"
     },
     {
+      "title": "Dialysis facility launched at Chamiyana hospital - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEZGNHFSOUM5SFhBSFdZRnozOFpaSjI4MV85M01PUTJSc00tX3dJaHVOWVJBZ01wYzJUSzFNc1QtanltM2NkVHhfYXVwaDVRSlctVXBWa1ZFbUJpa1ZKNWRjUUZGb1BOYThsRmFPY3d6V0J4V3N2M21uWGdLYXU0bXZnR1pFZFFuQnB4WGNRRlBqUnlRaHlr?oc=5",
+      "date": "2026-05-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Chamiyana hospital"
+    },
+    {
       "title": "Shimla News: सुपर स्पेशलिटी अस्पताल चमियाना में अब मरीजों को 24 घंटे मिलेगी सीटी स्कैन की सुविधा - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -120,10 +130,10 @@
       "match": "Chamiyana hospital"
     },
     {
-      "title": "Shimla: Expect Chamiyana's Atal institute to be among finest hospitals in 5 yrs - The Tribune",
+      "title": "Shimla: Expect Chamiyanas Atal institute to be among finest hospitals in 5 yrs - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS3ZJN3lYTU5rY2Q1cFZIM2daSGh5QmEtVHF5bU9KQjlILUJiZERGbGdneF9nV1NMUGwyRC1XVXNEajRBSnduWmdRbGJieXBiVzVyRG02eXZvOG41SDRLQ3QyQkxPTjRtdVFSTE9CRW9xQWJYRUc0bGVPSE1wNHZ1Tk4wbmRKTkhUdnNoSm5MM2s5ZkIzMlJndzlEOE5QNS1Kc0Z3MkFvVktCTFFvcEtESmRxcWxYZFFTeDBkekxsVEtfWmhpLVdDemRRZ1ZaQ0g2WUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS3ZJN3lYTU5rY2Q1cFZIM2daSGh5QmEtVHF5bU9KQjlILUJiZERGbGdneF9nV1NMUGwyRC1XVXNEajRBSnduWmdRbGJieXBiVzVyRG02eXZvOG41SDRLQ3QyQkxPTjRtdVFSTE9CRW9xQWJYRUc0bGVPSE1wNHZ1Tk4wbmRKTkhUdnNoSm5MM2s5ZkIzMlJndzlEOE5QNS1Kc0Z3MkFvVktCTFFvcEtESmRxcWxYZFFTeDBkekxsVEtfWmhpLVdDemRRZ1ZaQ0g2WUHSAdYBQVVfeXFMTWpsRFpSQWhwOGZkUDF1UVc4dDZVd1dnWEZsUmlLcVhPMlhPRkVrQ1J1WkdEX0xhX0g3dUptNGN0eEs2T3JrUU4tMlRQSm0yXzBOLVp5eU9ZbFpvVkVYWjFBd1FsNm1pckhYM1N5OVBDV1QwbWR2OEVtQ2ZkUGpVblJpdkZGUkV4ZnljNFJHUzQwdUUzVFRmUzBGN3BSU1pROXNOV2poUzNVZzdQdmlnT2tyYmtYdm5jQTlkZUtKVE42RDRUeTRYRDdMX240OEs1X2NER19kQQ?oc=5",
       "date": "2026-05-01T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -194,16 +204,6 @@
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXp6TmY2b3h3VEZmMXlZLUJCZ00xeHdFZjRxcmxFX0xsWm4xQWJoaHJYcFFSTkY4eW5SUmI1bkF2ekV0ZHZ4Ylk0Z2RCTlBMdWJMa01yb2R6OVJ1MTVBVW9yMi1yVlNheklzNTBhYkxmNUtRSHV5ai1JS3pnc1pRczFFQ2JmQWhyaVZBaWlpTjRrRDc4Y1RtWkJNZ1I4bVlLU0kwcGx1cVN4b1RZT2FORkxyYzQ0LXVQZV9oTWtLc2NlRWNLYU5KMVIyWEZUNmNuTWdJSWVOcEkzWDjSAeABQVVfeXFMTUxUdERDSDdvUkZ3UUhDZWVDeHhfSWJRaWxRLU5RekxaMjM2dlJHZkVmZkY3R0VTVEFPRC1fV1pNYURfOVVEU0dHTjQ4MjFGSkdZTUhHT3dlWmlySHhscTdfS1dzQVlBRkhncFdxM3h1QlktSFNFaWNyTlNPR0pjTmNCSld2RmI3Q05PWUNNQmlsM0NnMDI3Q1pldUpaV0NqbmZVRW9xOTNfcnJfWnRxZjM4dzFHUHlzaWV3dWh0UTEybjlmNXVCOFBvTUs0cVhxejFIcU5UeDk0Qy0xTFFLejU?oc=5",
-      "date": "2026-02-24T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIMSS Chamiyana"
-    },
-    {
-      "title": "शिमला में अस्पताल परिसर में इंसान की टांग मुंह में लेकर घूमता रहा कुत्ता, अब हुआ बड़ा खुलासा - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOW53TDluM2N4aGtPUFZiZGdCT3BNVkdxdDRBYUNtaWQycFVya2xLWm1UbGloZ2tDSUlnNGM2d0stZ29IbDNneHJLNllBQTc5bWVyZDhTdjlaMHdxR3hldU43S0dzeHlLa29JNTZpUmo0MkY1WWo4cEVqZzdJY1JVS3NuTmhzVGM0cWRadzY0WWVLV3paVTRYNWNtTFpycjdqemxwSUZqVGZEVGFkLXY4d19MalEyTUxuQlZHTHpmTHhwa1AzLWdfY2Q5T3FOZHNDTUtF0gHYAUFVX3lxTFBwSDFYbk4zVFpKdEY3T18zbmktTDlXOTJFZkVwOWVrSUhVMkRkTDhUOVE2NWtfMGo4Njk4NkhtajZYcVZkMmVzSXctaDJjMlZLc3otQWl1MHh4R1RBcjM5NlRpeXJPaFROUVBkbUJhLXVGZ2NqcnAwZTA2UzV3cnRnUXlERk50ZFVaOGJCSXNFQTBfekFzdXlkdU9leDRRb19QekpnTGpBSkt1ZnRncGh0LXFJbTJkdG52RG55NkpzNWVJb3hNQW9hV0xidTAzRWczQWRwZEVyTA?oc=5",
       "date": "2026-02-24T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",

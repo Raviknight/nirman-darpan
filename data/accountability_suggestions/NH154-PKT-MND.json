@@ -1,41 +1,41 @@
 {
-    "updated_at":  "2026-06-19T19:25:01.0652068Z",
-    "project_id":  "NH154-PKT-MND",
-    "count":  3,
-    "suggestions":  [
-                        {
-                            "category":  "litigation",
-                            "severity":  "medium",
-                            "title":  "Malan flyover construction on Pathankot-Mandi highway enters final phase as last pillars completed - The Tribune",
-                            "summary":  "Auto-detected from press: \"Malan flyover construction on Pathankot-Mandi highway enters final phase as last pillars completed - The Tribune\" — review the linked article and edit before promoting.",
-                            "source_url":  "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObWtIZGdQLWdEVlItMkhiY282ZXZCLTN5OVZ1N0ZkdVppVng5YzZIdkk1ZDhBMmsxYVZvazVKRXFYRGZXU1ZkU2dYeGZxZVNodmJPMTE4OWU0dktEemM5bU9BQUlRLU5zZVhDRnV0R0VOb1BDU1pNd3hxcXU2Y0RJZnJveXFJZnBjZHk0aHR4WENwRFJFa2R6V0ptd0FiUW9GMWlsUENVZVJUWnlJZTdaQkhSNUZVR1RkY1pSTl9YRnp6ZHp0LTg5WTYwZ3cxM3M4OXBXRnUzdnJBczhXUUdBbDhtaDhydnJBazh2cHo1SWhsMGFPaWVXRUVR0gH6AUFVX3lxTE5ta0hkZ1AtZ0RWUi0ySGJjbzZldkItM3k5VnU3RmR1WmlWeDljNkh2STVkOEEyazFhVm9rNUpFcVhEZldTVmRTZ1h4ZnFlU2h2Yk8xMTg5ZTR2S0R6YzltT0FBSVEtTnNlWENGdXRHRU5vUENTWk13eHFxdTZjRElmcm95cUlmcGNkeTRodHhYQ3BEUkVrZHpXSm13QWJRb0YxaWxQQ1VlUlRaeUllN1pCSFI1RlVHVGRjWlJOX1hGenpkenQtODlZNjBndzEzczg5cFdGdTN2ckFzOFdRR0FsOG1oOHJ2ckFrOHZwejVJaGwwYU9pZVdFRVE?oc=5",
-                            "source_name":  "The Tribune",
-                            "lang":  "en",
-                            "date":  "2026-06-17T19:51:32.000Z",
-                            "matched_term":  "pil"
-                        },
-                        {
-                            "category":  "defect",
-                            "severity":  "medium",
-                            "title":  "Crackdown spurs revival of stalled Pathankot–Mandi four-lane project - The Tribune",
-                            "summary":  "Auto-detected from press: \"Crackdown spurs revival of stalled Pathankot–Mandi four-lane project - The Tribune\" — review the linked article and edit before promoting.",
-                            "source_url":  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2xmQTZQcXZVN05aV3ZHN2dCRGItMXk2UlM2NXFUMjIxMHE5a1hrYjRFRlBxcE41Q2VabEhvRlBwdF9LaWdjNEQtMGVJNXhPaE1Yd18zS3pKQ1hDQkRZOHMwZkVueFhBTE95N2xjWEtYYmZqSlR4ZzZtSE1DanBaYWVYQXdXclJTUERMdDJEMm94QzBZbE9NSF9Md3NwdWZaRGpZTDJQZnNLODFHV2lNY2JB0gG2AUFVX3lxTE1sS3ZQRzFtSGFHVG55d0oxMUM1TUcwQUt1REs2cmpNb2pwUjZrSnkyY3phUGZfS3ZEeG13RnhXMkx2b1UwMmFUQ1F5N2xHUHRDUmttX3IwODZlYjRERlpxRDZ6d0dZVDhfQmZwWTRVb0IwbDNSb05jN0tqQmJPeVdPN2t5ejBfaVQtOEVraW9yT2J5TjRheU1XbHVoWlBtWW4yLWRBQWQxX1hjOWtvQjhLYmpKYUFn?oc=5",
-                            "source_name":  "The Tribune",
-                            "lang":  "en",
-                            "date":  "2025-08-19T07:00:00.000Z",
-                            "matched_term":  "crack"
-                        },
-                        {
-                            "category":  "litigation",
-                            "severity":  "medium",
-                            "title":  "NGT takes suo motu cognisance of unsafe widening work on Pathankot-Mandi highway in HP - The Statesman",
-                            "summary":  "Auto-detected from press: \"NGT takes suo motu cognisance of unsafe widening work on Pathankot-Mandi highway in HP - The Statesman\" — review the linked article and edit before promoting.",
-                            "source_url":  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdjZ0RzN1b0p5NWJBaTJWLWRidlg1R0RzeHVPVm5YRW96NUdma2d6MWdRNC16NkxmNXNoNm1TT1hHUnZnbEVkanVIMGN0enk3TllVQ3luZHNhZW1EeWo2S000UkxwdFVuM0NTSDZBbGZGV2Q4STRFckNtUGNyXzRCUFk2akFBdFZyX2p1cmNWRWFoTzZQWUpyT3ltdDhLdUZXbUdSX2tWTEpXSG9VNlZaV1dCV0xWYU5zYzlkYkd4R0daUEdrR2xueF9MNW1ORm9Ia09v0gHYAUFVX3lxTE53dVlFbFJFZGxSV0NOeUVKNzJHUnUzMU9abl8xOFVkX2JVYkFRdjRxbllmQ0dIYTRabXNqQkRraEtYeEF1a29xUnh2N1pUMU5lSkg3am8wRVZKUEhwMmoxV1dCeDFyaGhVbU5xZ3F1Y1pobjFrX0tTRVhmSkJEUFNISnlNODNEUmZZWHR6QmZkQWwzLW5IZGxveGgxOU1GWldYMFl5eGtLWHpDS21kMlhnZEkzQnowcm94Y1RJNGlqMGFfcFlqTDhiQWptN0l1MDJtbElQZU1URQ?oc=5",
-                            "source_name":  "The Statesman",
-                            "lang":  "en",
-                            "date":  "2025-08-12T07:00:00.000Z",
-                            "matched_term":  "ngt"
-                        }
-                    ],
-    "methodology":  "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
+  "updated_at": "2026-06-19T19:27:26.406Z",
+  "project_id": "NH154-PKT-MND",
+  "count": 3,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "title": "Malan flyover construction on Pathankot-Mandi highway enters final phase as last pillars completed - The Tribune",
+      "summary": "Auto-detected from press: \"Malan flyover construction on Pathankot-Mandi highway enters final phase as last pillars completed - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObWtIZGdQLWdEVlItMkhiY282ZXZCLTN5OVZ1N0ZkdVppVng5YzZIdkk1ZDhBMmsxYVZvazVKRXFYRGZXU1ZkU2dYeGZxZVNodmJPMTE4OWU0dktEemM5bU9BQUlRLU5zZVhDRnV0R0VOb1BDU1pNd3hxcXU2Y0RJZnJveXFJZnBjZHk0aHR4WENwRFJFa2R6V0ptd0FiUW9GMWlsUENVZVJUWnlJZTdaQkhSNUZVR1RkY1pSTl9YRnp6ZHp0LTg5WTYwZ3cxM3M4OXBXRnUzdnJBczhXUUdBbDhtaDhydnJBazh2cHo1SWhsMGFPaWVXRUVR0gH6AUFVX3lxTE5ta0hkZ1AtZ0RWUi0ySGJjbzZldkItM3k5VnU3RmR1WmlWeDljNkh2STVkOEEyazFhVm9rNUpFcVhEZldTVmRTZ1h4ZnFlU2h2Yk8xMTg5ZTR2S0R6YzltT0FBSVEtTnNlWENGdXRHRU5vUENTWk13eHFxdTZjRElmcm95cUlmcGNkeTRodHhYQ3BEUkVrZHpXSm13QWJRb0YxaWxQQ1VlUlRaeUllN1pCSFI1RlVHVGRjWlJOX1hGenpkenQtODlZNjBndzEzczg5cFdGdTN2ckFzOFdRR0FsOG1oOHJ2ckFrOHZwejVJaGwwYU9pZVdFRVE?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2026-06-17T19:51:32.000Z",
+      "matched_term": "pil"
+    },
+    {
+      "category": "defect",
+      "severity": "medium",
+      "title": "Crackdown spurs revival of stalled Pathankot–Mandi four-lane project - The Tribune",
+      "summary": "Auto-detected from press: \"Crackdown spurs revival of stalled Pathankot–Mandi four-lane project - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2xmQTZQcXZVN05aV3ZHN2dCRGItMXk2UlM2NXFUMjIxMHE5a1hrYjRFRlBxcE41Q2VabEhvRlBwdF9LaWdjNEQtMGVJNXhPaE1Yd18zS3pKQ1hDQkRZOHMwZkVueFhBTE95N2xjWEtYYmZqSlR4ZzZtSE1DanBaYWVYQXdXclJTUERMdDJEMm94QzBZbE9NSF9Md3NwdWZaRGpZTDJQZnNLODFHV2lNY2JB0gG2AUFVX3lxTE1sS3ZQRzFtSGFHVG55d0oxMUM1TUcwQUt1REs2cmpNb2pwUjZrSnkyY3phUGZfS3ZEeG13RnhXMkx2b1UwMmFUQ1F5N2xHUHRDUmttX3IwODZlYjRERlpxRDZ6d0dZVDhfQmZwWTRVb0IwbDNSb05jN0tqQmJPeVdPN2t5ejBfaVQtOEVraW9yT2J5TjRheU1XbHVoWlBtWW4yLWRBQWQxX1hjOWtvQjhLYmpKYUFn?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2025-08-19T07:00:00.000Z",
+      "matched_term": "crack"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "title": "NGT takes suo motu cognisance of unsafe widening work on Pathankot-Mandi highway in HP - The Statesman",
+      "summary": "Auto-detected from press: \"NGT takes suo motu cognisance of unsafe widening work on Pathankot-Mandi highway in HP - The Statesman\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdjZ0RzN1b0p5NWJBaTJWLWRidlg1R0RzeHVPVm5YRW96NUdma2d6MWdRNC16NkxmNXNoNm1TT1hHUnZnbEVkanVIMGN0enk3TllVQ3luZHNhZW1EeWo2S000UkxwdFVuM0NTSDZBbGZGV2Q4STRFckNtUGNyXzRCUFk2akFBdFZyX2p1cmNWRWFoTzZQWUpyT3ltdDhLdUZXbUdSX2tWTEpXSG9VNlZaV1dCV0xWYU5zYzlkYkd4R0daUEdrR2xueF9MNW1ORm9Ia09v0gHYAUFVX3lxTE53dVlFbFJFZGxSV0NOeUVKNzJHUnUzMU9abl8xOFVkX2JVYkFRdjRxbllmQ0dIYTRabXNqQkRraEtYeEF1a29xUnh2N1pUMU5lSkg3am8wRVZKUEhwMmoxV1dCeDFyaGhVbU5xZ3F1Y1pobjFrX0tTRVhmSkJEUFNISnlNODNEUmZZWHR6QmZkQWwzLW5IZGxveGgxOU1GWldYMFl5eGtLWHpDS21kMlhnZEkzQnowcm94Y1RJNGlqMGFfcFlqTDhiQWptN0l1MDJtbElQZU1URQ?oc=5",
+      "source_name": "The Statesman",
+      "lang": "en",
+      "date": "2025-08-12T07:00:00.000Z",
+      "matched_term": "ngt"
+    }
+  ],
+  "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

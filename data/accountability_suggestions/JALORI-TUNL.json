@@ -1,9 +1,19 @@
 {
-    "updated_at":  "2026-06-19T19:25:01.0849039Z",
-    "project_id":  "JALORI-TUNL",
-    "count":  0,
-    "suggestions":  [
-
-                    ],
-    "methodology":  "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
+  "updated_at": "2026-06-19T19:27:26.407Z",
+  "project_id": "JALORI-TUNL",
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "title": "Jalori Jot tunnel alignment finalised, heeding Shoja villagers’ concerns - The Times of India",
+      "summary": "Auto-detected from press: \"Jalori Jot tunnel alignment finalised, heeding Shoja villagers’ concerns - The Times of India\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUlQzOVJFSXlmWHRkbENHaTMzY1lFTXhSbnAzVU5ZM2JvSlEtY2wybHVheHZ2SmJCSF9pamdyUnN1Y0U2bXc5eGtTUFpkUHJOcFQ4N0dKZWxFUDN0OFYtM2NpcEZYTnhaN2o0b3dqTUtkdHo3VHJ0VFBGc2RQdzQ2QTJHY2wwVGp4NTdPb3pnWkxoNWVyZWUybFB6UDF4YWVULUtHd3dEZ3J0elV4SXNUNWRoLWN3VEpGdnRBVVZQNzVPV2Ewd0lwNFRuR2x6ekVRQmctbVMwV1dQTVZhTnJaM29R?oc=5",
+      "source_name": "The Times of India",
+      "lang": "en",
+      "date": "2024-12-29T08:00:00.000Z",
+      "matched_term": "sho"
+    }
+  ],
+  "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

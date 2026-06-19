@@ -1,19 +1,19 @@
 {
-    "updated_at":  "2026-06-19T19:25:01.0736142Z",
-    "project_id":  "SHINKULA-TUNL",
-    "count":  1,
-    "suggestions":  [
-                        {
-                            "category":  "litigation",
-                            "severity":  "medium",
-                            "title":  "Over 1250 km road length constructed by BRO along Indo-China border in Ladakh - Daily Excelsior",
-                            "summary":  "Auto-detected from press: \"Over 1250 km road length constructed by BRO along Indo-China border in Ladakh - Daily Excelsior\" — review the linked article and edit before promoting.",
-                            "source_url":  "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGZnNm52aWtxQ3hhZDAwSkVzS2xSeE9IcmNxbFhGRjZ2RURFaW16ZWQ5ZzVpVVBxdkp3Q05wVlctemRWX3NnLTU3ck9iTkFyMEJXMVlpZ1FFc0RwQXo2VG1yWGFIeWQ5V25fcWV2WThfSlhRbXRJeEtzNFZWcnpPN1ROUGE2eEJOdVVyQTMyR0tLUnR0NWJ6VHd1emo3UFNKamxta3ZuUnlSTEMyT3hwdGN30gGyAUFVX3lxTE1YZmc2bnZpa3FDeGFkMDBKRXNLbFJ4T0hyY3FsWEZGNnZFREVpbXplZDlnNWlVUHF2SndDTnBWVy16ZFZfc2ctNTdyT2JOQXIwQlcxWWlnUUVzRHBBejZUbXJYYUh5ZDlXbl9xZXZZOF9KWFFtdEl4S3M0VlZyek83VE5QYTZ4Qk51VXJBMzJHS0tSdHQ1YnpUd3V6ajdQU0pqbG1rdm5SeVJMQzJPeHB0Y3c?oc=5",
-                            "source_name":  "Daily Excelsior",
-                            "lang":  "en",
-                            "date":  "2025-03-18T07:00:00.000Z",
-                            "matched_term":  "ngt"
-                        }
-                    ],
-    "methodology":  "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
+  "updated_at": "2026-06-19T19:27:26.407Z",
+  "project_id": "SHINKULA-TUNL",
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "title": "Over 1250 km road length constructed by BRO along Indo-China border in Ladakh - Daily Excelsior",
+      "summary": "Auto-detected from press: \"Over 1250 km road length constructed by BRO along Indo-China border in Ladakh - Daily Excelsior\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEVNT0xvenhneVVTRnZWbzZPRWhhR2VTTnNEWlFfUF84WTM2ZUJPMU5UcjM2d1BsMXYxUjROeXpMWlRCbWh0c2Z0TkJRRmZQNEY0aTJSck9Ta0MxQTBlSVBNNVp2SXZGdDVib2pBNFlGQWdPcGxVVjA2UFQweVoyWWt3SFotbDlON2U1cVNSbEJiRkdnTFB6UnFwYlBaUGRUSjZwXzMzaG5pSFJNeXfSAbIBQVVfeXFMTVhmZzZudmlrcUN4YWQwMEpFc0tsUnhPSHJjcWxYRkY2dkVERWltemVkOWc1aVVQcXZKd0NOcFZXLXpkVl9zZy01N3JPYk5BcjBCVzFZaWdRRXNEcEF6NlRtclhhSHlkOVduX3Fldlk4X0pYUW10SXhLczRWVnJ6TzdUTlBhNnhCTnVVckEzMkdLS1J0dDVielR3dXpqN1BTSmpsbWt2blJ5UkxDMk94cHRjdw?oc=5",
+      "source_name": "Daily Excelsior",
+      "lang": "en",
+      "date": "2025-03-18T07:00:00.000Z",
+      "matched_term": "ngt"
+    }
+  ],
+  "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

@@ -1,19 +1,19 @@
 {
-    "updated_at":  "2026-06-19T19:25:00.9829556Z",
-    "project_id":  "ATAL-TUNNEL",
-    "count":  1,
-    "suggestions":  [
-                        {
-                            "category":  "incident",
-                            "severity":  "high",
-                            "title":  "Mother and son killed as car plunges into gorge in Lahaul-Spiti | Tap to know more | Inshorts - Inshorts",
-                            "summary":  "Auto-detected from press: \"Mother and son killed as car plunges into gorge in Lahaul-Spiti | Tap to know more | Inshorts - Inshorts\" — review the linked article and edit before promoting.",
-                            "source_url":  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMDBJODlNSjA2eFdoVWxTZm9wR2E0aXJYeE9IdzRmaEtWeGlqWWNtbUEySTVNNTdKTUhiS1ZCNmlyS1pCdUZUSFhIZ1NVczRmVldYUjgwYnhyYktJdmhUV01US3pnNHJFQ2dTVUV2bHhWV0cwV2RieWw0bFFCNmlZdUU1enBRY2x2VHFBMUNWT0pYNlVJeXZCMVpFUkdPem5MalREYVBGZXBXQdIBrwFBVV95cUxORzNaS1dyUng5cHlUM1BpVnZRVmE1U29lS0hlQVl5akdwTUxVMHNPeW84U2tSZ2tyblRnREtXam1rMGVjSXJ2cDM1Uk9KUzlQc1ZPQWtEVFh5emNaN2dpUjFZX05JYjZsNzJTNFNlRHhkTFY4VVZtX0ZOSDBYcHRkUWdlVXRYalFiUnpnUHAtSWZORGRpRFVzbTAybWEyeFdubWlrc3ZXWVRNellGal9v?oc=5",
-                            "source_name":  "Inshorts",
-                            "lang":  "en",
-                            "date":  "2026-06-18T07:59:02.000Z",
-                            "matched_term":  "killed"
-                        }
-                    ],
-    "methodology":  "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
+  "updated_at": "2026-06-19T19:27:26.399Z",
+  "project_id": "ATAL-TUNNEL",
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "incident",
+      "severity": "high",
+      "title": "Mother and son killed as car plunges into gorge in Lahaul-Spiti | Tap to know more | Inshorts - Inshorts",
+      "summary": "Auto-detected from press: \"Mother and son killed as car plunges into gorge in Lahaul-Spiti | Tap to know more | Inshorts - Inshorts\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMDBJODlNSjA2eFdoVWxTZm9wR2E0aXJYeE9IdzRmaEtWeGlqWWNtbUEySTVNNTdKTUhiS1ZCNmlyS1pCdUZUSFhIZ1NVczRmVldYUjgwYnhyYktJdmhUV01US3pnNHJFQ2dTVUV2bHhWV0cwV2RieWw0bFFCNmlZdUU1enBRY2x2VHFBMUNWT0pYNlVJeXZCMVpFUkdPem5MalREYVBGZXBXQdIBrwFBVV95cUxORzNaS1dyUng5cHlUM1BpVnZRVmE1U29lS0hlQVl5akdwTUxVMHNPeW84U2tSZ2tyblRnREtXam1rMGVjSXJ2cDM1Uk9KUzlQc1ZPQWtEVFh5emNaN2dpUjFZX05JYjZsNzJTNFNlRHhkTFY4VVZtX0ZOSDBYcHRkUWdlVXRYalFiUnpnUHAtSWZORGRpRFVzbTAybWEyeFdubWlrc3ZXWVRNellGal9v?oc=5",
+      "source_name": "Inshorts",
+      "lang": "en",
+      "date": "2026-06-18T07:59:02.000Z",
+      "matched_term": "killed"
+    }
+  ],
+  "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

@@ -1,9 +1,19 @@
 {
-    "updated_at":  "2026-06-19T19:25:00.9485689Z",
-    "project_id":  "RENUKA-DAM",
-    "count":  0,
-    "suggestions":  [
-
-                    ],
-    "methodology":  "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
+  "updated_at": "2026-06-19T19:27:26.394Z",
+  "project_id": "RENUKA-DAM",
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "title": "Centre revives three long-stalled Yamuna dam projects to shore up Delhi’s water supply - The Economic Times",
+      "summary": "Auto-detected from press: \"Centre revives three long-stalled Yamuna dam projects to shore up Delhi’s water supply - The Economic Times\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeHVxOWlXOFZoSTRtVTdtZlAwd283Vml5clY5WFZwQVlmMm5kazJWMmFTTkI4YkViVEtRdXY0RHhoaHJaTkNsZlRCc3k5bm9Kd3dRZDJoUkVRSk5TV0k2MG9RTG1PbUQ3eUJyMDRhYmRiNDZFQ2w4OHBTRjhQRTAtTzltZWs2aXJUTG1jelBCdTE1VElwbE82WTNOQ1VzTXNOY1Q1NHpWbFZscUtjT1lvVVp0TFF2ZGdhOHlBQmdaYWdONlNqdW1FOEN1cV9vS0pvbVB5WDdWWHp2TklnWC13a2RFRVrSAeoBQVVfeXFMTS13d2k4N0JmakZWd0xhSkZKdGt1cUVlYTBUeUJfazZRV24tanlhanRfT0xNazZqT1EwdHB5aFRyeVFzeEg3SEtkWWhGTzVOV3B2SUZVUlhQd3JWSHA0MDZYRnYzN042SHRLS2ZpUEc2SWpNenpNWnJOQUJ3ZWlfR3pHWExPY0VwZHREejVCdG1ZRG1nZWFHREFOZ181X2ltVXQ4R3EtV3pyeVhyeFQtSjdZZWxMOTJMM0Vnb0NLZkF5OG01R29QSlhSenlWU19QYUNiRWVzUGhxaFdfTE1OLVZybC12NlE3eDdn?oc=5",
+      "source_name": "The Economic Times",
+      "lang": "en",
+      "date": "2026-01-17T08:00:00.000Z",
+      "matched_term": "sho"
+    }
+  ],
+  "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

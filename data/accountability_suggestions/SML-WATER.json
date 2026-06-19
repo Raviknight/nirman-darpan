@@ -1,19 +1,52 @@
 {
-    "updated_at":  "2026-06-19T19:25:01.1350436Z",
-    "project_id":  "SML-WATER",
-    "count":  1,
-    "suggestions":  [
-                        {
-                            "category":  "grievance",
-                            "severity":  "low",
-                            "title":  "Himachal: SJPNL issues partial water supply disruption advisory to people amid tourist surge - ANI News",
-                            "summary":  "Auto-detected from press: \"Himachal: SJPNL issues partial water supply disruption advisory to people amid tourist surge - ANI News\" — review the linked article and edit before promoting.",
-                            "source_url":  "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU5GbTZIUlFmZkNHVjMyc2NlSUgyaUtlWkRsX0U5MkhkS3gzQ2RNSWJoZHRES1NwUlF6UGtzdUN2OGQ0Tm9RVWFOM2xwMVFZYXpyZllOTU9zV1ZLRlNvNnhQckxoQkZCSHFOQWxXaXJXQ2JGWlVIYjlTY2FlTjNZaWxqczlYazlySTFvUV9wVDdvVGxoMHQ3NHpPUW9tZ1BtRVVvZi03VmVfeDR1MTd5Mng5WUdSTEZ6NmhERmpXcksyZUxmUTNGTmU2MFFONEdVaXEzdUtwWUlKX3RBdmh3UnFDc29HV3p3akNZ?oc=5",
-                            "source_name":  "ANI News",
-                            "lang":  "en",
-                            "date":  "2025-12-18T08:00:00.000Z",
-                            "matched_term":  "rti"
-                        }
-                    ],
-    "methodology":  "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
+  "updated_at": "2026-06-19T19:27:26.410Z",
+  "project_id": "SML-WATER",
+  "count": 4,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "title": "Mashobra becomes first area in Shimla to receive 24x7 drinking water supply - The Tribune",
+      "summary": "Auto-detected from press: \"Mashobra becomes first area in Shimla to receive 24x7 drinking water supply - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVUMxTEJpY2xydmRKQ25sR0p1WUJPdE9mazdrazZjZkg0Y19vdXF1UWhLM2JZU3hKUGF2bWtRc2d1eHlHaWlWSDY4Y3pwYmdwaVVWa2NjTWpMN01xSWs2VHJsV0FrRkV2WlJpbFRkRjM3clZ5djJTYkx5T1lEWW1WUXF1aE5hTldKUzFLMEc1TEs1cU5Oekhnc0pDN2hzVmYyOFhCRUhVeWpsRTRqZ0VXWEUwRWgtNVVhelltRUtrSFhoSDlUN0IyeA?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2026-04-13T07:00:00.000Z",
+      "matched_term": "sho"
+    },
+    {
+      "category": "grievance",
+      "severity": "low",
+      "title": "Himachal: SJPNL issues partial water supply disruption advisory to people amid tourist surge - ANI News",
+      "summary": "Auto-detected from press: \"Himachal: SJPNL issues partial water supply disruption advisory to people amid tourist surge - ANI News\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU5GbTZIUlFmZkNHVjMyc2NlSUgyaUtlWkRsX0U5MkhkS3gzQ2RNSWJoZHRES1NwUlF6UGtzdUN2OGQ0Tm9RVWFOM2xwMVFZYXpyZllOTU9zV1ZLRlNvNnhQckxoQkZCSHFOQWxXaXJXQ2JGWlVIYjlTY2FlTjNZaWxqczlYazlySTFvUV9wVDdvVGxoMHQ3NHpPUW9tZ1BtRVVvZi03VmVfeDR1MTd5Mng5WUdSTEZ6NmhERmpXcksyZUxmUTNGTmU2MFFONEdVaXEzdUtwWUlKX3RBdmh3UnFDc29HV3p3akNZ?oc=5",
+      "source_name": "ANI News",
+      "lang": "en",
+      "date": "2025-12-18T08:00:00.000Z",
+      "matched_term": "rti"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "title": "Giri Water Supply Scheme: Shimla to combat water shortage with new tank - The Tribune",
+      "summary": "Auto-detected from press: \"Giri Water Supply Scheme: Shimla to combat water shortage with new tank - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkxHWDYtMUV0bDc3MGN4WS0teWpZd0NsZGw0Szg5SUtDNTc1dDJsNGRGZ3ZHWF9nRjJEaEV1dHRoNFotUVVybUduQm8wbVg2WndZX1ZjRWxWS1ZaVDJYZXhneTN5UkdicERyN2haZFBSMEtjTFpBOVNNblcwNml3cFdJWGR0V0NFc1BRaVdfU3k2ZTFsbnpVZ3ZnUWg4YXQzNmFuUGtZblRfVFR2eUEwcDZwdHc?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2024-10-18T07:00:00.000Z",
+      "matched_term": "sho"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "title": "Project Signing: World Bank Signs Agreement to Help Himachal Pradesh End Water Shortages in Shimla - World Bank Group",
+      "summary": "Auto-detected from press: \"Project Signing: World Bank Signs Agreement to Help Himachal Pradesh End Water Shortages in Shimla - World Bank Group\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZlRfUWEwLXI4czhleFFBZGRiSkhuc01QdGkxUGFKYWJSTkFHNmtSaHNOU3Atd09MWjRvdHpRRjkxVEthdUhOR0xlZTRMdHBEMmpFbk1KMW9QU2JNMVVPYjlFVFo0OXAyaWV2cC1oQ3M2dFVjVFpxclVaVFg4MjRhTG1VcXRaWjQ4QV83ai15RFR1eW1oLUIwTV9DU2Y4c1hMOUxTYVMtYXpyWFJlRWlxeGpzSkRpYnRyMnNZRlpCbVdaWGNpNWd1aU1ZNGtpaVJqWnhOQmdjZw?oc=5",
+      "source_name": "World Bank Group",
+      "lang": "en",
+      "date": "2019-02-15T08:00:00.000Z",
+      "matched_term": "sho"
+    }
+  ],
+  "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }
