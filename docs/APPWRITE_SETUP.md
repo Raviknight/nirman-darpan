@@ -117,17 +117,49 @@ git push
 
 The site reads `data/config.js` on every load. If `projectId` is still the placeholder, the site stays in in-memory mode. Once it's a real ID, the site switches to live Appwrite — sign-in is enabled, comments persist, votes count.
 
-## Phase 2.2 — more collections later
+---
 
-When we expand the watchdog modules, we add collections incrementally. Each one needs only its attributes + permissions + indexes set up:
+## Phase 2.3 — Accountability module table
 
-- `incidents` — accidents on site, FIRs, fatalities.
-- `defects` — quality failures, audit-flagged defects, citizen reports.
-- `audits` — CAG / PAC observations.
-- `grievances` — RTI / CPGRAMS references.
-- `litigations` — PIL / NGT cases.
-- `sources` — every citation URL we accept.
-- `right_of_reply` — contractor / department responses.
+One unified table covers all five accountability categories (Incidents / Defects / Audits / Grievances / Litigation) — easier to set up, simpler permissions, simpler moderation. Categorisation is a field on the row, not a separate table.
+
+### Table 3 — `accountability_entries`
+
+Inside the `main` database → **Create table** · **Name:** `Accountability entries` · **Table ID:** `accountability_entries`.
+
+Columns:
+
+| Key | Type | Size / values | Required | Default |
+|---|---|---|---|---|
+| `project_id` | String | 64 | ✅ | — |
+| `category` | Enum | `incident`, `defect`, `audit`, `grievance`, `litigation` | ✅ | — |
+| `title` | String | 200 | ✅ | — |
+| `summary` | String | 2000 | — | — |
+| `date_occurred` | Datetime | — | — | — |
+| `source_url` | String | 1000 | — | — |
+| `severity` | Enum | `low`, `medium`, `high` | — | `medium` |
+| `status` | Enum | `open`, `addressed`, `disputed` | ✅ | `open` |
+| `author_id` | String | 64 | ✅ | — |
+| `verified` | Boolean | — | ✅ | `false` |
+
+**Settings → Permissions:**
+- `any` → ✅ Read
+- `users` → ✅ Create, Update, Delete
+
+Toggle **Row security: ON** at the top — so a submitter can edit / delete their own row but can't touch others'.
+
+**Indexes** (create both):
+- `by_project_category` · Type: `key` · Columns: `project_id (ASC)`, `category (ASC)`.
+- `by_project_date` · Type: `key` · Columns: `project_id (ASC)`, `date_occurred (DESC)`.
+
+That's it for the table. The site already references it as `accountability` in `data/config.js`.
+
+---
+
+## Future collections (placeholder)
+
+- `sources` — every citation URL we accept (per-row metadata about archives + access time).
+- `right_of_reply` — contractor / department responses bound to an accountability row.
 - `corrections_log` — public history of what we changed, when, why.
 
-Schemas land in this file as we build each module.
+Schemas land in this file when we build each module.

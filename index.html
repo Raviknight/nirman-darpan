@@ -385,6 +385,85 @@
   .comment p{font-size:13px;line-height:1.55;color:#41474a;margin:0}
   .comment-count{font-family:'IBM Plex Mono',monospace;font-size:12px;color:#a4a294;font-weight:400}
 
+  /* Accountability module (Phase 2.3) */
+  .acct-panel{background:#fff;border:1px solid #e7e6dd;border-radius:12px;padding:18px;margin-bottom:24px}
+  .acct-head{display:flex;justify-content:space-between;align-items:flex-start;gap:14px;margin-bottom:14px;flex-wrap:wrap}
+  .acct-sub{font-size:12px;color:#7d8a82;line-height:1.4}
+  .acct-roll{display:flex;gap:6px;flex-wrap:wrap}
+  .acct-pill{font-size:11px;font-weight:600;padding:4px 10px;border-radius:999px;letter-spacing:.3px}
+  .acct-pill.open{background:#f7e7e3;color:#b04a3a}
+  .acct-pill.addressed{background:#e7f0ea;color:#1b5640}
+  .acct-pill.disputed{background:#f6efdd;color:#a9802f}
+  .acct-foot{font-size:11px;color:#a4a294;margin:14px 0 0;line-height:1.5;padding-top:12px;border-top:1px solid #f0eee4}
+
+  .acct-block{border:1px solid #eceadf;border-radius:9px;margin-bottom:10px;overflow:hidden}
+  .acct-block:last-of-type{margin-bottom:0}
+  .acct-block-head{
+    display:flex;align-items:center;gap:8px;padding:10px 12px;background:#fbfbf7;
+    border-bottom:1px solid #eceadf;font-size:13px;flex-wrap:wrap;
+  }
+  .acct-block-head b{color:#232a2e}
+  .acct-block-head small{color:#7d8a82;font-size:11px;flex:1}
+  .acct-cat-dot{width:10px;height:10px;border-radius:2px;flex-shrink:0}
+  .acct-block-count{font-family:'IBM Plex Mono',monospace;font-size:11px;color:#5c686f}
+  .acct-add-btn{
+    font-family:'Public Sans',sans-serif;font-size:11px;font-weight:600;
+    background:#1b5640;color:#fff;border:none;border-radius:6px;padding:5px 10px;cursor:pointer;
+  }
+  .acct-add-btn:hover{background:#2f7d52}
+  .acct-list{padding:8px 12px}
+  .acct-empty{font-size:12px;color:#a4a294;padding:6px 0}
+
+  .acct-entry{padding:9px 0;border-top:1px solid #f0eee4}
+  .acct-entry:first-child{border-top:none}
+  .acct-entry-head{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:4px}
+  .acct-entry-head b{font-size:13px;color:#232a2e;flex:1;min-width:0}
+  .acct-status{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.4px;padding:2px 7px;border-radius:4px}
+  .acct-status-open{background:#f7e7e3;color:#b04a3a}
+  .acct-status-addressed{background:#e7f0ea;color:#1b5640}
+  .acct-status-disputed{background:#f6efdd;color:#a9802f}
+  .acct-sev{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.4px;padding:2px 7px;border-radius:4px}
+  .acct-sev-low{background:#eef1ea;color:#5c686f}
+  .acct-sev-medium{background:#f6efdd;color:#a9802f}
+  .acct-sev-high{background:#f7e7e3;color:#b04a3a}
+  .acct-entry-body{font-size:12px;color:#41474a;line-height:1.5;margin:3px 0 5px}
+  .acct-entry-foot{display:flex;align-items:center;gap:8px;font-size:11px;color:#8a8a7e;flex-wrap:wrap}
+  .acct-entry-foot a{color:#1b5640;text-decoration:underline;font-weight:600}
+  .acct-verified{color:#2f7d52;font-weight:600}
+  .acct-pending{color:#a9802f;font-weight:600}
+
+  /* Inline add-entry form */
+  .acct-form-bg{
+    position:fixed;inset:0;background:rgba(18,40,30,.5);backdrop-filter:blur(3px);
+    z-index:60;display:flex;align-items:center;justify-content:center;padding:20px;
+  }
+  .acct-form-card{
+    background:#fff;border-radius:12px;max-width:520px;width:100%;
+    padding:24px 26px;box-shadow:0 24px 60px -20px rgba(0,0,0,.4);
+    max-height:90vh;overflow-y:auto;
+  }
+  .acct-form-card h3{font-family:'Source Serif 4',serif;font-size:18px;margin:0 0 8px;font-weight:600}
+  .acct-form-help{font-size:12px;color:#5c686f;margin:0 0 16px;line-height:1.5}
+  .acct-form-card label{display:flex;flex-direction:column;gap:5px;font-size:12px;font-weight:600;color:#41474a;margin-bottom:12px}
+  .acct-form-card label .req{color:#b04a3a}
+  .acct-form-card input[type="text"],
+  .acct-form-card input[type="url"],
+  .acct-form-card input[type="date"],
+  .acct-form-card select,
+  .acct-form-card textarea{
+    font-family:'Public Sans',sans-serif;font-size:13px;font-weight:400;color:#232a2e;
+    border:1px solid #dddccf;border-radius:7px;padding:9px 12px;outline:none;background:#fff;
+  }
+  .acct-form-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}
+  .acct-form-actions{display:flex;gap:8px;justify-content:flex-end;margin-top:12px}
+  .acct-form-actions button{
+    font-family:'Public Sans',sans-serif;font-size:13px;font-weight:600;border-radius:7px;padding:9px 16px;cursor:pointer;
+  }
+  #acct-cancel{background:#f4f3ee;color:#5c686f;border:1px solid #dddccf}
+  #acct-submit{background:#1b5640;color:#fff;border:none}
+  #acct-submit:disabled{opacity:.7;cursor:wait}
+  .acct-form-err{background:#f7e7e3;color:#b04a3a;padding:9px 12px;border-radius:7px;font-size:12px;margin-bottom:10px}
+
   /* Voting widget (Phase 2.2) */
   .vote-row{display:flex;gap:10px;margin-top:14px}
   .vote-btn{

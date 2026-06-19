@@ -113,8 +113,9 @@ const NIRMAN_AW = (() => {
   return {
     cfg, client, account, databases, Query, ID, Permission, Role,
     user: null,
-    commentsCache: {}, // projectId → Document[]
-    votesCache: {},    // projectId → { up, down, myDir, myDocId, loadedAt }
+    commentsCache: {},       // projectId → Document[]
+    votesCache: {},          // projectId → { up, down, myDir, myDocId, loadedAt }
+    accountabilityCache: {}, // projectId → Document[]
 
     async refreshUser() {
       try { this.user = await this.account.get(); }
@@ -146,6 +147,55 @@ const NIRMAN_AW = (() => {
       ]);
       this.commentsCache[projectId] = r.documents;
       return r.documents;
+    },
+
+    async loadAccountabilityEntries(projectId) {
+      if (!this.cfg.collections.accountability) return [];
+      try {
+        const r = await this.databases.listDocuments(
+          this.cfg.databaseId,
+          this.cfg.collections.accountability,
+          [
+            this.Query.equal('project_id', projectId),
+            this.Query.orderDesc('date_occurred'),
+            this.Query.limit(200),
+          ],
+        );
+        this.accountabilityCache[projectId] = r.documents;
+        return r.documents;
+      } catch (e) {
+        // Most likely cause: the accountability_entries table doesn't exist
+        // yet. Cache an empty array so the UI shows the empty state instead
+        // of perpetually loading.
+        this.accountabilityCache[projectId] = [];
+        return [];
+      }
+    },
+
+    async addAccountabilityEntry({ projectId, category, title, summary, date_occurred, source_url, severity, status }) {
+      if (!this.user) throw new Error('Sign in first');
+      const doc = {
+        project_id: projectId,
+        category,
+        title,
+        summary: summary || '',
+        date_occurred: date_occurred || new Date().toISOString(),
+        source_url: source_url || '',
+        severity: severity || 'medium',
+        status: status || 'open',
+        author_id: this.user.$id,
+        verified: false,
+      };
+      const perms = [
+        this.Permission.read(this.Role.any()),
+        this.Permission.update(this.Role.user(this.user.$id)),
+        this.Permission.delete(this.Role.user(this.user.$id)),
+      ];
+      return this.databases.createDocument(
+        this.cfg.databaseId,
+        this.cfg.collections.accountability,
+        this.ID.unique(), doc, perms,
+      );
     },
 
     async loadVotes(projectId) {
@@ -553,6 +603,184 @@ function renderGrid(){
 // Cache for data/social/<id>.json (filled lazily on first modal open per project).
 const socialCache = {};
 
+// Accountability categories — keep in lockstep with the schema enum.
+const ACCT_CATS = [
+  { key: 'incident',   label: 'Incidents',   color: '#b04a3a', desc: 'Accidents on site, fatalities, FIRs', hasSeverity: true  },
+  { key: 'defect',     label: 'Defects',     color: '#b3721f', desc: 'Quality failures, audit-flagged defects, citizen-reported issues', hasSeverity: true  },
+  { key: 'audit',      label: 'Audits',      color: '#3a5a7d', desc: 'CAG performance audits, PAC observations', hasSeverity: false },
+  { key: 'grievance',  label: 'Grievances',  color: '#7d5a3a', desc: 'RTI references, CPGRAMS complaints', hasSeverity: false },
+  { key: 'litigation', label: 'Litigation',  color: '#5b5a7a', desc: 'PILs, NGT petitions, court orders', hasSeverity: false },
+];
+const ACCT_CAT_BY_KEY = Object.fromEntries(ACCT_CATS.map(c => [c.key, c]));
+
+function renderAccountabilityPanel(projectId){
+  if (!NIRMAN_AW) {
+    return `
+      <div class="acct-panel">
+        <h4 class="sect" style="margin:0 0 6px">Accountability</h4>
+        <p style="font-size:13px;color:#7d8a82;line-height:1.5;margin:0">
+          Tracking incidents, defects, audits, grievances and litigation per project goes live once
+          Appwrite is configured — see <a href="docs/APPWRITE_SETUP.md">docs/APPWRITE_SETUP.md</a>.
+        </p>
+      </div>`;
+  }
+  const entries = NIRMAN_AW.accountabilityCache[projectId] || [];
+  const open = entries.filter(e => e.status === 'open').length;
+  const addressed = entries.filter(e => e.status === 'addressed').length;
+  const disputed = entries.filter(e => e.status === 'disputed').length;
+  const byCat = Object.fromEntries(ACCT_CATS.map(c => [c.key, []]));
+  for (const e of entries) if (byCat[e.category]) byCat[e.category].push(e);
+  return `
+    <div class="acct-panel">
+      <div class="acct-head">
+        <div>
+          <h4 class="sect" style="margin:0 0 4px">Accountability</h4>
+          <div class="acct-sub">${entries.length} verified record${entries.length === 1 ? '' : 's'} on file · sourced + moderated</div>
+        </div>
+        <div class="acct-roll">
+          <span class="acct-pill open">${open} open</span>
+          <span class="acct-pill addressed">${addressed} addressed</span>
+          ${disputed ? `<span class="acct-pill disputed">${disputed} disputed</span>` : ''}
+        </div>
+      </div>
+      ${ACCT_CATS.map(c => renderAccountabilityBlock(projectId, c, byCat[c.key])).join('')}
+      <p class="acct-foot">
+        Every entry needs a source citation. User submissions land as <i>pending review</i> until a moderator confirms.
+        Watchdog standard — sourced + auditable, not just allegations.
+      </p>
+    </div>
+  `;
+}
+
+function renderAccountabilityBlock(projectId, cat, entries){
+  const openHere = entries.filter(e => e.status === 'open').length;
+  const addBtn = (NIRMAN_AW && NIRMAN_AW.user)
+    ? `<button type="button" class="acct-add-btn" data-add-cat="${esc(cat.key)}" data-add-pid="${esc(projectId)}">+ Add</button>`
+    : '';
+  const body = entries.length === 0
+    ? `<div class="acct-empty">No verified entries yet${NIRMAN_AW && NIRMAN_AW.user ? ' — be the first to submit one with a source.' : '.'}</div>`
+    : entries.map(renderAccountabilityEntry).join('');
+  return `
+    <div class="acct-block">
+      <div class="acct-block-head">
+        <span class="acct-cat-dot" style="background:${cat.color}"></span>
+        <b>${cat.label}</b>
+        <small>${cat.desc}</small>
+        ${entries.length ? `<span class="acct-block-count">${entries.length}${openHere ? ` · <b style="color:#b04a3a">${openHere} open</b>` : ''}</span>` : ''}
+        ${addBtn}
+      </div>
+      <div class="acct-list">${body}</div>
+    </div>
+  `;
+}
+
+function renderAccountabilityEntry(e){
+  const date = e.date_occurred ? new Date(e.date_occurred).toLocaleDateString('en-IN', { day:'2-digit', month:'short', year:'numeric' }) : '';
+  const verified = e.verified
+    ? `<span class="acct-verified" title="Verified by moderator">✓ verified</span>`
+    : `<span class="acct-pending" title="User submission awaiting moderator review">⏵ pending review</span>`;
+  const sevClass = e.severity ? `acct-sev-${e.severity}` : '';
+  const statusClass = `acct-status acct-status-${e.status}`;
+  return `
+    <div class="acct-entry">
+      <div class="acct-entry-head">
+        <b>${esc(e.title)}</b>
+        <span class="${statusClass}">${esc(e.status)}</span>
+        ${e.severity ? `<span class="acct-sev ${sevClass}">${esc(e.severity)}</span>` : ''}
+      </div>
+      ${e.summary ? `<p class="acct-entry-body">${esc(e.summary)}</p>` : ''}
+      <div class="acct-entry-foot">
+        ${date ? `<span>${date}</span>` : ''}
+        ${e.source_url ? `<a href="${esc(e.source_url)}" target="_blank" rel="noopener nofollow">Source ↗</a>` : '<span style="color:#b04a3a">⚠ no source url</span>'}
+        ${verified}
+      </div>
+    </div>
+  `;
+}
+
+function openAccountabilityForm(projectId, categoryKey){
+  const cat = ACCT_CAT_BY_KEY[categoryKey];
+  if (!cat) return;
+  const existing = document.getElementById('acct-form-overlay');
+  if (existing) existing.remove();
+  const wrap = document.createElement('div');
+  wrap.id = 'acct-form-overlay';
+  const isInDef = cat.hasSeverity;
+  wrap.innerHTML = `
+    <div class="acct-form-bg">
+      <div class="acct-form-card">
+        <h3>Add ${cat.label.replace(/s$/, '').toLowerCase()} for this project</h3>
+        <p class="acct-form-help">${esc(cat.desc)}. Submissions land as <b>pending review</b> — a moderator confirms before promoting to verified.</p>
+        <form id="acct-form">
+          <label>Title <span class="req">*</span>
+            <input type="text" name="title" maxlength="200" required placeholder="Short, specific, no rhetoric (≤ 200 chars)">
+          </label>
+          <label>Details
+            <textarea name="summary" maxlength="2000" rows="4" placeholder="What happened? Specific dates, locations, names, figures, page references."></textarea>
+          </label>
+          <label>Source URL <span class="req">*</span>
+            <input type="url" name="source_url" required placeholder="News article, RTI reply, audit PDF, court order…">
+          </label>
+          <div class="acct-form-row">
+            <label>When did this happen?
+              <input type="date" name="date_occurred">
+            </label>
+            <label>Status
+              <select name="status">
+                <option value="open" selected>Open</option>
+                <option value="addressed">Addressed</option>
+                <option value="disputed">Disputed</option>
+              </select>
+            </label>
+            ${isInDef ? `
+            <label>Severity
+              <select name="severity">
+                <option value="low">Low</option>
+                <option value="medium" selected>Medium</option>
+                <option value="high">High</option>
+              </select>
+            </label>` : ''}
+          </div>
+          <div id="acct-form-msg"></div>
+          <div class="acct-form-actions">
+            <button type="button" id="acct-cancel">Cancel</button>
+            <button type="submit" id="acct-submit">Submit for review</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(wrap);
+  wrap.querySelector('.acct-form-bg').addEventListener('click', (e) => { if (e.target === e.currentTarget) wrap.remove(); });
+  wrap.querySelector('#acct-cancel').addEventListener('click', () => wrap.remove());
+  wrap.querySelector('input[name="title"]').focus();
+  wrap.querySelector('#acct-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const f = e.target;
+    const submitBtn = wrap.querySelector('#acct-submit');
+    const msg = wrap.querySelector('#acct-form-msg');
+    submitBtn.disabled = true; submitBtn.textContent = 'Submitting…';
+    try {
+      await NIRMAN_AW.addAccountabilityEntry({
+        projectId,
+        category: categoryKey,
+        title: f.title.value.trim(),
+        summary: f.summary.value.trim(),
+        source_url: f.source_url.value.trim(),
+        date_occurred: f.date_occurred.value ? new Date(f.date_occurred.value).toISOString() : null,
+        severity: f.severity ? f.severity.value : null,
+        status: f.status.value,
+      });
+      await NIRMAN_AW.loadAccountabilityEntries(projectId);
+      wrap.remove();
+      renderModal();
+    } catch (err) {
+      submitBtn.disabled = false; submitBtn.textContent = 'Submit for review';
+      msg.innerHTML = `<div class="acct-form-err">${esc((err && err.message) || 'Submission failed.')}</div>`;
+    }
+  });
+}
+
 function renderPerceptionPanel(projectId){
   if (!NIRMAN_AW) {
     return `
@@ -739,6 +967,12 @@ function renderModal(){
       .then(() => { if (state.selectedId === p.id) renderModal(); })
       .catch(() => {});
   }
+  if (NIRMAN_AW && !NIRMAN_AW.accountabilityCache[p.id]) {
+    NIRMAN_AW.accountabilityCache[p.id] = [];
+    NIRMAN_AW.loadAccountabilityEntries(p.id)
+      .then(() => { if (state.selectedId === p.id) renderModal(); })
+      .catch(() => {});
+  }
 
   const c = CAT_COLOR[p.category] || '#5c686f';
   const fc = fillColor(p);
@@ -833,6 +1067,8 @@ function renderModal(){
 
           <h4 class="sect">Timeline</h4>
           <div class="timeline">${msHtml}</div>
+
+          ${renderAccountabilityPanel(p.id)}
 
           ${renderPerceptionPanel(p.id)}
 
@@ -963,6 +1199,15 @@ function wireModal(){
   // "Sign in" link inside the perception panel.
   root.querySelectorAll('[data-do-signin]').forEach(a => {
     a.addEventListener('click', (e) => { e.preventDefault(); openSignInCard(); });
+  });
+
+  // Accountability "+ Add" buttons.
+  root.querySelectorAll('[data-add-cat]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const pid = btn.getAttribute('data-add-pid');
+      const cat = btn.getAttribute('data-add-cat');
+      openAccountabilityForm(pid, cat);
+    });
   });
 
   // "Remove vote" link — re-casts the same direction which toggles off.

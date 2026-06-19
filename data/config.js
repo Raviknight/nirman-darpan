@@ -13,8 +13,9 @@ window.NIRMAN_APPWRITE = {
   projectId:  "6a34470a0010b8e65407",
   databaseId: "6a344b6f002c3a7ca279",
   collections: {
-    comments: "comments",
-    votes:    "votes",
+    comments:       "comments",
+    votes:          "votes",
+    accountability: "accountability_entries",
   },
   buckets: {
     evidence: "evidence",
