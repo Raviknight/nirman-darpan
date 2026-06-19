@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-19T12:00:49.574Z",
+  "updated_at": "2026-06-19T12:29:23.743Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 51,
+    "press": 50,
     "gov": 0,
-    "en": 36,
+    "en": 35,
     "hi": 15,
-    "total": 51
+    "total": 50
   },
   "mentions": [
     {
@@ -95,16 +95,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDg5TWhpSy1VbGF6Z3plUlhneE45THNTTDRQZ19pdnVrbXBJZUFFNUFOc0Iza3A1V0xVRXhDU3RibmxJTEJqYnBOU1Ftd1lRb2JNZktrWEtCUXV4cEd0Y3RPZlR2VVVmM3dkcmMtSGRLVjVJeEoyWlhBTFlZeXhteWJGZV9pYl9ZQkU1Y2lhaUdhLTdFcDdZaFVWNmxWdw?oc=5",
       "date": "2025-09-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "SJPNL"
-    },
-    {
-      "title": "Rising turbidity worsens drinking water crisis in Shimla, city on the brink - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMVdTQ2ZEUndWSG9QV1UxaVhtblk0MG5ocm1KemJLOWZITW5kRllYa3FkSGMtcUpkVGNZNDZqejVZUGhRQ1duaFJqRnJBenNzMnV4RS1TeFVweVF6Vlh1Y2pKNUNxVDB6S3lLNE1sYldFZVJmTmhBUE5CeHY3eXFrSXBfRFBvUnAxQ2FFejBVdnhTTGxKVmJ2cF8xaVVSa0tUanNBTHBDSTN4bEY3NlBCYXhsWmkycGlDaUHSAb4BQVVfeXFMTlJWQWNENG5ycUo5UkUwRkV0NGdRa2ZYN08tdTdpUGh4S0RyNElQQmNJcF9VWDBBZ2NEY295dDJkVmp3ZUh5TndaaVZwM2MxcGFGSTFDb0s2NEJqc2V4WFYxWnVLdTdKMFN3a2FqSzEzZjcybVZEOWlnQnZGUDJYLV9vWW5aMzAzN0JaNmUyNWdncW5zSDNCQk01SGExSVAya1c2OE9ISm9iemFqTFk4SXpoaTFQN2Exak4zZVZBZw?oc=5",
-      "date": "2025-09-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "SJPNL"
@@ -207,6 +197,16 @@
       "date": "2024-06-18T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Shimla Water Supply"
+    },
+    {
+      "title": "Himachal: हिमाचल में भीषण गर्मी से सूख रहे प्राकृतिक जल स्रोत, शिमला में गहरा रहा जल संकट - ABP News",
+      "source": "ABP News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQW9aR0JaUGN3c2Ntb0hoYXFZWHprUUJITjZ5U3FudzZJVmVsdDIxbFFfUHFFMEpBZ2M0dmljZS1LcWpLalozY1o2MDVXNXNoLXk0YlFqdVlFV0g4V1VGbUxrRmxLZngtb3dzVWM5VjFQTE03Z2FESEp4ekNjQzNBRmMzbFdZUTQ5QWNKTkJPb3diVVp2MDZwZ29DeFNuUkRyTkJublNSc3FqN1Z2VnFQa2Z1dm5hNHluVUdQY0xLOGxtZ0JRMXFaUy0zT25YN1NxZkgzel9zMDhKY2ctN3Z1U0tZa9IB6AFBVV95cUxQR2RrNzB5WHNSXzJHSnlxSDRBZy1PT1dZYmNlbFc3ckpRSGJFQk5NTnpIY3Izcmw3LUNzLXB5ZUFnQUhEZ19wMlp0NU1ZNFpGanpSdGlOeVlORy1UOWdpT09hbmJCUzVCUTZCYm1fdURhSEloWE5zUm0wb1VKb1g5ZVpwaFdGMFdSVlJ0cWdpOTBZdGZWYkI3b3RVY2xpcGJPc0kxRUk3dXp2V3o1a2lHeHRoUVo4dU8zR1F6bjFnNVZEeXJqWmRkOEdzMUVzWXIwcHRsX0U4VVZpc3pIZmU5UlRFM3FTRDda?oc=5",
+      "date": "2024-06-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Shimla Water Supply"
     }
   ],

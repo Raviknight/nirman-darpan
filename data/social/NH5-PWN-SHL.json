@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-06-19T12:00:10.680Z",
+  "updated_at": "2026-06-19T12:28:35.451Z",
   "project_id": "NH5-PWN-SHL",
   "counts": {
-    "press": 45,
+    "press": 44,
     "gov": 0,
-    "en": 31,
+    "en": 30,
     "hi": 14,
-    "total": 45
+    "total": 44
   },
   "mentions": [
+    {
+      "title": "यात्री कृपया ध्यान दें: दिल्ली मंडल में कई ट्रेनें आज की जाएंगी डायवर्ट, पावर और ट्रैफिक ब्लॉक के चलते फैसला - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWJnSFhiVXRyM01VUUE3WFhQRGZXekpNN2pGQjNzeE1tQ3N6LWdhVlZFTFdfY0M3SnQ2Umhlc1Jlem10TVdEdHAydUVuNjVhbVM3ZlRabzE0cndLNVUtTkJaNDFXMWVBWE9fb2pNLWxmYXZGUzI4SlZmeVRaSXVBN2xWZ2pZQUc1NGxCYTB2V3ZwUE5KemFMRlMtT3J4d1RGOGxBUTg2a0hxenJXaEwzcWFka2txQWVLR29qeVRPaHpKdnkxVUQ2SjVHRGw0YmhqQm1lRURWUzYtNEczYzhVM2diMHpMRVZW0gHuAUFVX3lxTE9EV2thZVBXdlQ5bUFLTThBN05BM1YtNnJ6cjVmcnd2eE1zX0EtWGs4MFMyMzFZbEx0ai05MDRrTVM3Z0ZsX1loMTNoWF84Mlc2UGVmNmtKRm1wa3NhOG1MTmc2Wk9ESnNiWXJtUmJmZUFFYXVMVlczYVB4LWQ0cWZRWk9TNDBNZ3VDeGxDZjVTYVM2RkJxWl9wLXBxVWxFME40cFBINDhnMGJyTVo2M0QyU0w0azhDamI0bGhwUlBpVHlCVDAxSmY1TFVTRnFyZUhid0VreUFrZTMzdDZQdy02SG9hdmh6Z3Z2YjRkWUE?oc=5",
+      "date": "2026-05-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kaithlighat Dhalli"
+    },
     {
       "title": "‘Act of god’: NHAI says landslides not due to Shimla 4-lane project - The Times of India",
       "source": "The Times of India",
@@ -160,26 +170,6 @@
       "match": "Kaithlighat Dhalli"
     },
     {
-      "title": "2 killed, 3 injured as truck rams into car, motorcycle in Himachal Pradesh’s Solan - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjhFdmlEa2trUWFuRFlrY1huUTltTzZYdHM4RU81a0ZBbkNBSnE0TzI5MkhBMlh0RC1zelZ5MVBQOUd6eFYyMkp4TjZaR0lvVlZkTGs0ZGkxVGN4ME9vNTQzSXZucHpMM3o3RzQ2dEhvOHF0Z2RBY3FIN2o4RjVjclBuVGxnWm9peHNYeFFXc3BTRnBoZ21RQUtYQVRpRVdVczEyLWwyNHdabkxsOUNkcFZKUUE?oc=5",
-      "date": "2024-02-12T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Parwanoo Solan Shimla"
-    },
-    {
-      "title": "SJVN Collaborates with NHAI to Enhance Infrastructure Development Through Technical Consultancy Services - The News Himachal",
-      "source": "The News Himachal",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV05xQU40SEtWREdmOWMxaldDZ09NVFVBUF9VeGNLY2tGVXRBTTN1OU4wd2dLcXFrUy1NSGZiUDVDNDZGNkpxZ25PVmNVNERHb0FCODdTTng5YU9WeHd1T0Q1UXdOMmV3VmFVNGdacDVtMHZnNHFaaFEyMUdMY19VV0htMjg3STR5SkhvelRhdHhiX0tfY19UR0pBODhENlppY0ZUZzJ6NE4yU05wb1d0TlQyZTNva1JLbGNENVVmbWlxZUEwb3gtX0dnX1IxMWRJV1dVSTEtUzE?oc=5",
-      "date": "2024-01-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Parwanoo Solan Shimla"
-    },
-    {
       "title": "Vertical hill cutting, lack of paved shoulders to blame for damage to Parwanoo-Solan road - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -204,6 +194,16 @@
       "source": "The Indian Express",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMnpWYVZ3OFN0N21YSzJXak4xcHZMdmc3aERsWWt3VjdETVlFR1c2MHpUNWNPcjhpT3lZZUpuUXlhVTRwUkl5Mm1fdEVKQk5fYWoxRWtKN085VjBqNEFXQUlveFJXcWVLemQwNjhlVDRqYVg0WEVKcEJwMXoweVBCMXJBczFEUkZobzJxejRuQi1ybmE1Y3YxSlo5bWNZaUxIU2hLOVRHY0tTWHJ6NlU4a1JlZ0RSeTNYNTJnbzl30gHEAUFVX3lxTE5ZRjZBQi1TZDV2SUlidGEyQ3FfUHZLaDhKbEZCOEpOLUdrMzZLbEl0MkZZcEFoUFhGNldlTUh4UFBDXzdMY2RVVS1OeFh3eWdKblRnbHQ3akR1NlVXZE5ZR0k3dm1RbFpLSmNQSGhKNVZpbTJuZ0JRUi1zUFQ2TGlLSFFTUmwyMFJkQ3JwTlllai1MajBhWURtbWlxc1pJUktlWmpaQm9DRTh0dmN2M1JZRjc3M0xmNzdkcENsWlZ5NUszNHk?oc=5",
+      "date": "2023-08-06T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parwanoo Solan Shimla"
+    },
+    {
+      "title": "Sanwara toll plaza closed till Parwanoo road is restored - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVU54VVRUWnZBMmZMYzh1TDhhcW5DcTliTnRXaFNIX1U5bnRnWnNubXpHYXJpTHNFajhIZ3cydDlLLXZvRFM4YnhTV2NIUkRVbWRDVnd1bVNlQ1RLd1RGdW5LR2JOY2ptVC1NbFpPajRRTlFlU0JhdEt4a1FIWEI5d2daTWo3blhNc040c2pxQWFtdHowOThBNTk4bFFXR1FkUG14bG9NbEVteUE?oc=5",
       "date": "2023-08-06T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
