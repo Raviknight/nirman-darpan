@@ -729,12 +729,21 @@ const ACCT_CATS = [
 const ACCT_CAT_BY_KEY = Object.fromEntries(ACCT_CATS.map(c => [c.key, c]));
 
 function renderAccountabilityPanel(projectId){
+  const p = D.find(x => x.id === projectId);
+  const partiesBlock = p ? renderAccountableParties(p) : '';
+
   if (!NIRMAN_AW) {
     return `
       <div class="acct-panel">
-        <h4 class="sect" style="margin:0 0 6px">Accountability</h4>
-        <p style="font-size:13px;color:#7d8a82;line-height:1.5;margin:0">
-          Tracking incidents, defects, audits, grievances and litigation per project goes live once
+        <div class="acct-head">
+          <div>
+            <h4 class="sect" style="margin:0 0 4px">Accountability</h4>
+            <div class="acct-sub">Who is responsible for this project, and where to direct concerns.</div>
+          </div>
+        </div>
+        ${partiesBlock}
+        <p style="font-size:13px;color:#7d8a82;line-height:1.5;margin:14px 0 0">
+          Incident, defect, audit, grievance and litigation tracking goes live once
           Appwrite is configured — see <a href="docs/APPWRITE_SETUP.md">docs/APPWRITE_SETUP.md</a>.
         </p>
       </div>`;
@@ -758,11 +767,46 @@ function renderAccountabilityPanel(projectId){
           ${disputed ? `<span class="acct-pill disputed">${disputed} disputed</span>` : ''}
         </div>
       </div>
+      ${partiesBlock}
       ${ACCT_CATS.map(c => renderAccountabilityBlock(projectId, c, byCat[c.key])).join('')}
       <p class="acct-foot">
         Every entry needs a source citation. User submissions land as <i>pending review</i> until a moderator confirms.
         Sourced and auditable, not just allegations.
       </p>
+    </div>
+  `;
+}
+
+function renderAccountableParties(p){
+  const list = (p.contractors && p.contractors.length) ? p.contractors : [p.contractor].filter(Boolean);
+  if (!list.length && !p.owner && !p.awardedBy) return '';
+  const contractorsHtml = list.length
+    ? `<li>
+        <span class="party-lbl">Contractor${list.length > 1 ? 's' : ''}</span>
+        <ul class="party-sublist">${list.map(c => `<li>${esc(c)}</li>`).join('')}</ul>
+      </li>`
+    : '';
+  const ownerHtml = p.owner
+    ? `<li><span class="party-lbl">Owning department</span><span class="party-val">${esc(p.owner)}</span></li>`
+    : '';
+  const awardedHtml = p.awardedBy
+    ? `<li><span class="party-lbl">Awarded by</span><span class="party-val">${esc(p.awardedBy)}</span></li>`
+    : '';
+  const leadsHtml = (p.leads && p.leads.length)
+    ? `<li>
+        <span class="party-lbl">Named leads</span>
+        <ul class="party-sublist">${p.leads.map(l => `<li><b>${esc(l.n)}</b> — ${esc(l.r)}</li>`).join('')}</ul>
+      </li>`
+    : '';
+  return `
+    <div class="acct-parties">
+      <div class="acct-parties-title">Parties accountable</div>
+      <ul class="party-list">
+        ${contractorsHtml}
+        ${ownerHtml}
+        ${awardedHtml}
+        ${leadsHtml}
+      </ul>
     </div>
   `;
 }
