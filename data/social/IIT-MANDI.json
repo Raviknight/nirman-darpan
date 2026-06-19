@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-19T13:28:13.177Z",
+  "updated_at": "2026-06-19T16:09:53.102Z",
   "project_id": "IIT-MANDI",
   "counts": {
-    "press": 260,
+    "press": 259,
     "gov": 0,
-    "en": 149,
+    "en": 148,
     "hi": 111,
-    "total": 260
+    "total": 259
   },
   "mentions": [
     {
@@ -97,16 +97,6 @@
       "date": "2026-06-13T05:15:53.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "Mandi: चालक-परिचालक भाई-भाई, लेकर रहेंगे पाई-पाई के नारों से गूंजा मंडी बस स्टैंड - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMWlDem5oRlVwNGE3OUJhSE5JUG5zcWpsZUdON2IzWWxTdlVXRlhyN1lYUTBha1pMb0xiUnR5RE4zeTk4ajRPT0VPckdaZ3ZVLXhHVmNKdmxMeHBvTWFXNWdWNWExYWdLSEVEM0NpN19uaGJ5bDJiX2FoRzNoM09hc2c2U0tqNnk1QkIxUGxjTTIxZkt4RVhXV0xPU3BWREtPZjBIQmprYVF6b1hXRkZGVTlRRFhBNUJpdWVDZ3VlSEdwSXFMbWhueWZPUEd5NHFHY2w5czRlQU8zTXRjZER1ZlZxOWI1alp0N0xWb1kybGs?oc=5",
-      "date": "2026-06-12T09:39:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "IIT Mandi"
     },
     {
@@ -207,6 +197,16 @@
       "date": "2026-06-09T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi launches India’s first IIT B.Tech programme in Quantum Science and Engineering - Bilkul Online",
+      "source": "Bilkul Online",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmR2UGs3YkRKX0hYejhFRUJiZDJFWXhKMGFBNEp1bHFsOFdaVGFfSDZTWl82VzNhNktYckNoWEZDcHo3b2RkWGl6UzNna2lzSWtHMmdmUnMzQU82MzVEc0NVQVRFNTN2ZE1vOEFOVktES1Zidi1nMEhPMkl2ek5wdkZkUlNQZWJ2VmgwMU5EckpuY1NKWkp3dUxlaWp3ZWVSRmpFMmJxU0dabGJMenh5VVJ6REFQWjZwYlFndnJSV0NlQQ?oc=5",
+      "date": "2026-06-09T06:48:24.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "IIT Mandi"
     }
   ],
