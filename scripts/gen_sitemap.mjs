@@ -15,6 +15,7 @@ const today = new Date().toISOString().slice(0, 10);
 const base = 'https://raviknight.github.io/nirman-darpan/';
 
 const editorialPages = ['about/', 'methodology/', 'corrections/', 'privacy/', 'funding/', 'code-of-conduct/'];
+const districts = ['Bilaspur','Chamba','Hamirpur','Kangra','Kinnaur','Kullu','Lahaul-Spiti','Mandi','Shimla','Sirmaur','Solan','Una'];
 
 const lines = ['<?xml version="1.0" encoding="UTF-8"?>',
   '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
@@ -23,6 +24,10 @@ const lines = ['<?xml version="1.0" encoding="UTF-8"?>',
 // Per-project canonical URL is /projects/<id>/ (static HTML, indexable).
 for (const id of ids) {
   lines.push(`  <url><loc>${base}projects/${id}/</loc><lastmod>${today}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>`);
+}
+lines.push(`  <url><loc>${base}districts/</loc><lastmod>${today}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>`);
+for (const d of districts) {
+  lines.push(`  <url><loc>${base}districts/${encodeURIComponent(d)}/</loc><lastmod>${today}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>`);
 }
 for (const slug of editorialPages) {
   lines.push(`  <url><loc>${base}${slug}</loc><lastmod>${today}</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>`);

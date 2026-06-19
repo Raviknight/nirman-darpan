@@ -126,6 +126,17 @@ function renderPage(p, social, related) {
     return `<li>${ico} ${esc(s.n)}</li>`;
   }).join('');
 
+  // External-link block: Wikipedia (if known), YouTube search, Google search.
+  const ytQuery = encodeURIComponent(p.name + ' Himachal Pradesh');
+  const ytUrl = 'https://www.youtube.com/results?search_query=' + ytQuery;
+  const gQuery = encodeURIComponent('"' + p.name + '"');
+  const gUrl = 'https://www.google.com/search?q=' + gQuery;
+  const externalLinks = [
+    p.wikipedia_url ? `<li><a href="${esc(p.wikipedia_url)}" target="_blank" rel="noopener">📖 Wikipedia article</a><small>Background, history, sourced citations on Wikipedia.</small></li>` : '',
+    `<li><a href="${esc(ytUrl)}" target="_blank" rel="noopener">▶ Videos on YouTube</a><small>News coverage and resident-shot footage.</small></li>`,
+    `<li><a href="${esc(gUrl)}" target="_blank" rel="noopener">🔍 Google search</a><small>Wider press, government notes, social mentions.</small></li>`,
+  ].filter(Boolean).join('');
+
   const pressMentionsHtml = (social && social.mentions && social.mentions.length)
     ? social.mentions.slice(0, 8).map(m => `
         <li>
@@ -191,10 +202,10 @@ function renderPage(p, social, related) {
   .leads-list li{background:#fff;border:1px solid #e7e6dd;border-radius:8px;padding:10px 14px;margin:6px 0;font-size:13px}
   .leads-list .role{color:#7d8a82;font-size:12px}
   .sources-list li{font-size:13px;padding:4px 0}
-  .related-list li, .press-list li{font-size:13px;padding:6px 0;border-bottom:1px solid #f0eee4}
-  .related-list li:last-child, .press-list li:last-child{border-bottom:none}
-  .related-list a, .press-list a{font-weight:500}
-  .related-list small, .press-list small{display:block;color:#8a8a7e;font-size:11px;margin-top:2px}
+  .related-list li, .press-list li, .external-list li{font-size:13px;padding:6px 0;border-bottom:1px solid #f0eee4}
+  .related-list li:last-child, .press-list li:last-child, .external-list li:last-child{border-bottom:none}
+  .related-list a, .press-list a, .external-list a{font-weight:500}
+  .related-list small, .press-list small, .external-list small{display:block;color:#8a8a7e;font-size:11px;margin-top:2px}
   .ms{display:flex;gap:10px;padding:8px 0;list-style:none}
   .ms-mark{font-weight:700;color:#cfcdbf;width:18px;flex-shrink:0;text-align:center}
   .ms.done .ms-mark{color:#1b5640}
@@ -276,6 +287,9 @@ ${JSON.stringify(jsonLd(p), null, 2)}
 
   <h2>Sources</h2>
   <ul class="sources-list">${sourcesHtml}</ul>
+
+  <h2>Look up more</h2>
+  <ul class="external-list">${externalLinks}</ul>
 
   <h2>Related projects</h2>
   <p style="font-size:13px;color:#7d8a82;margin:0 0 6px">Other public works tracked on Nirman Darpan, weighted by shared district and category.</p>
