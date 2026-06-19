@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-19T20:16:31.177Z",
+  "updated_at": "2026-06-19T20:28:09.412Z",
   "project_id": "GMC-NAHAN",
   "counts": {
-    "press": 100,
+    "press": 98,
     "gov": 0,
-    "en": 24,
-    "hi": 76,
-    "total": 100
+    "en": 23,
+    "hi": 75,
+    "total": 98
   },
   "mentions": [
     {
@@ -88,16 +88,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Nahan GMC"
-    },
-    {
-      "title": "Sirmour News: मेडिकल कॉलेज की इमरजेंसी में वरिष्ठ चिकित्सकों की कमी, लोग परेशान - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOTdqUER4RkJfTkhhd3lvQ19tRDVIdnUyQklweDBsZUV0S1hqcXk2V29CWUZsZlZIcl8xZUNROGRSUGs2bzdHOFpKRFU2Z2VOWUdqTndHRWFjQXBVWDhabVJJNGVSN2NoZi1aZnl0NEZ1LU5qZ0MyN2JXV2RMTjhqNHp4T21uMzcyeElPdE4tdWF6ZzVhSk9oSTExd0p6R25XX2JBS0tRd29lemgwaTRlbG16WXhBbWotcEliUG5Laks0NEYxbG9yZGxPYVVpcEJ1VlZ2bWNtaHV3ZWtS0gHiAUFVX3lxTFBYVjZYS2VkcGxDVjQwWG5DTFBqcXlhN3o1UktsbTVKc1RkTUhtdDBsQ3c5TG9HTkVjY2RsNTFmN3Q0d1o0cG14d2o3RTZjbmE5X25VVzdGd25KVVlVbU1HbVZYYlJnUUFpSFJGTWNjTjFWUkJHekNEcU1Oa09MbXByenBoMlBScXVYMm9Vc3d2V1ZsLW5YWUV0ZVd0OG9sbUpVZDNUYkJGdTZXNUhpYXF1cE9xM1hxQkpIWHVYbGFXWUY3TFZ6b1gzNnlhcGJTSkpFakN2Q1hvVXphNmtUYWlMOXc?oc=5",
-      "date": "2026-05-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
     },
     {
       "title": "नाहन में स्कॉर्पियो की टक्कर ने छीना बचपन, मासूम आर्यन की मौत से शहर गमगीन - MBM NEWS",
@@ -207,6 +197,16 @@
       "date": "2026-03-22T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "Himachal: नाहन जेल में हत्या की सजा काट रहे कैदी की मौत - Punjab Kesari",
+      "source": "Punjab Kesari",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXBxUjFhTXJhemZ3aW1HTTNINFpjWkx4UXJFTTZza1E0QzdzX2NhWGFzYXYyQldNT09XUjlLamtlZ0VFNGRXdW11S181QnE4eGlZWDJmbHlpdEZYR2lWVk9Xczlmdjh0dE1McjR5MHZPWFA2RlI3NWdTU2RvcGVIcVpBeUtNYWk1NTNpWDNPMmNLOGJ2a1RaTnJJVEREUHoyUkRsdWk0THdJYTZBbWRQY1F30gG6AUFVX3lxTFBDMWdrYklCVmVxMGtOcFpqcng5MlFRUkdyLUg4WFRsSDlxWF9DM2RLOEx0RzUxRm5OSzBVRzk0b3BPcTdCRzZ3YWZFQWJGYVNTNU5yM3JlZUdRY0lvdVRYTTI1VlhNcEoxdTVwMWZHam1HYmJBU3hpX1FKMVV6ZDNlZ0tpQkd2dHZvbDRaMHk2c0JJcmRUZmNWTTBqNEhHVWw3WVVydFloNDVJMllncERwTXp4THFrTXViUQ?oc=5",
+      "date": "2026-03-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Nahan medical college"
     }
   ],

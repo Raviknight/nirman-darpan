@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-19T20:16:01.387Z",
+  "updated_at": "2026-06-19T20:27:37.651Z",
   "project_id": "KOLDAM-HEP",
   "counts": {
-    "press": 90,
+    "press": 70,
     "gov": 0,
-    "en": 61,
-    "hi": 29,
-    "total": 90
+    "en": 40,
+    "hi": 30,
+    "total": 70
   },
   "mentions": [
     {
@@ -170,16 +170,6 @@
       "match": "Koldam"
     },
     {
-      "title": "Rock falls on moving vehicle in Himachal, 2 injured: Water released from Jhakri and Koldam; alert issued up... - Bhaskar English",
-      "source": "Bhaskar English",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdGJTSnVlQkZuT3g1RTlXeWlnZlBEOUcyR0wwRlVlczlWM2Z6UTdLYnpWTG8zTlZIQUtrTTdoRERVMzduNTJVbXJDTVJYaGVGZEhlZlp0cW1RRnc4LUlzNnVhSVlKN2w1YmRPY1hjNkJWRExWMUVZMlllN2o3Q3V5YjZ3NF9LUjhMbnBXbTBvQmVCVW41Xy1KeDNVdk15d29qd0tJdjhPbXlfOUpOWnhoc1VEX09KOEc0cWYzSUZZZmtKRFRxM3FXY3dUM1U1aEVYWkFvckJOMjIzNDBwT0tCZWYxUnpmbHkwQkZBVERVVy04eDhtRjhJRUV1T3VkYnhVSEdMU0dzQlJ6dGZvTHVCeUVkaGY0bTRjVUZWZndCWnZBblBHU2JoTmRYS2draUZMaTVOQ3dYYkltOHhpemNNTklyRdIByAJBVV95cUxQRlRjUFdUM1B4QVViVjRNME5KaXBSZjVRRERSZU1iWndySnEzRWtxV3M0bm5kRC1PQk9UMWVUaUdYcG5tOVRUU0xzSmdNLW5Vc25jSzVDbFRGandQMUZVU0x4ZWFpM1hUS2hMSmhYSHFNRFdTUUR4N1FWcF9qaGxvMTZkb0Mwa3B1M3JQZGltZ0t4V2RCLUhseGJTdE5tdEF1OVpTWUVEOWVqSzhnNFFwSUY3UTRWbTI1Um1wbmJtdHZkcm5ZV3BhbHRzRFlrWkJjVzJQMzg1REVrZHR3eGZIMVRGdDRNZnVzNXUwMlBQRHVaN3BvVU1oNy1KcUVhUklLSTlqempIV0lUcHBGVU1qY0VNTkNhelREdzFoM1U5R2RrS0F1N1RXN0wweU5hVFRXV29EcDRITzdQTndabXMydTVkeGM5NVM4?oc=5",
-      "date": "2025-07-22T05:41:32.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Koldam"
-    },
-    {
       "title": "All Himachal dams are operating within safe limits amid cloudy weather and high inflows: SDMA - ANI News",
       "source": "ANI News",
       "source_id": "google-news-en",
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Kol Dam"
+    },
+    {
+      "title": "मशीन से बनेंगे अब इको-फ्रेंडली पत्तल - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM05INlVNeTZDZ0lKcDVjZ1BPWHJlY1pVcmh6bXBlbWZYMGJWTExoaHltVWxzbFdwLS1kTXRPWUswSTJ1NzdiaWdrczBQb1paN1hEUDdPUjlGRW0xeVlPWHdZWnUwbVkwMVBlMTdzdmxtOThxWnhTcVdPVTVvdkJOY1EzSjBWYnllYkNuVkxPeU41YUHSAZgBQVVfeXFMUE4wdlpaVzdraUhaRXpiaHBhN1BYRnJwODJaT19jR3pNdDdvUEIzR3JFeU9qc1Z3V0h5eHktdXEyMDNqbVVJcEdEdENxTGU0OXBlRk5wNTltc19QSVZYaHpwX1pIOW8wclNLUmczUWI1UWRYR0hIVGxiajNqYmhhLXBlS3cyNFBENDNkaEJIbmFMRUlyeUJrUzI?oc=5",
+      "date": "2025-04-30T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "NTPC Koldam"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."

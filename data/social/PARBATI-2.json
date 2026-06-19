@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-06-19T20:15:57.519Z",
+  "updated_at": "2026-06-19T20:27:33.617Z",
   "project_id": "PARBATI-2",
   "counts": {
-    "press": 110,
+    "press": 127,
     "gov": 0,
-    "en": 43,
-    "hi": 67,
-    "total": 110
+    "en": 42,
+    "hi": 85,
+    "total": 127
   },
   "mentions": [
+    {
+      "title": "Naugachia : जगतपति नाथ मंदिर में दिनदहाड़े चोरी : मां पार्वती की प्रतिमा से चांदी का छत्र ले उड़ा बालक- GS NEWS - GS NEWS",
+      "source": "GS NEWS",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ONlVrMUZIZ1ZlQWRDek1OUXQzcGJSUHd5NW9sdl9QVFJSeDVSNUpzNm96LTJVTzJ0bXZsMjdfVzRqeWt3X3FzSHVqc2k1QUkzSHJPTEZDZ0VSXzlmdjNHaGd1NTlRYkNXOUxjSk9LMkx4ZWVGZHc?oc=5",
+      "date": "2026-06-14T18:43:49.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
     {
       "title": "Masik Shivratri 2026: मासिक शिवरात्रि पर करें भगवान शिव और माता पार्वती की पूजा, मिलेगा सुख-समृद्धि का आशीर्वाद | When is Monthly Shivratri—June 13 or 14? Note the correct date, auspicious timing, and worship ritual. - bhaskarhindi.com",
       "source": "bhaskarhindi.com",
@@ -90,6 +100,16 @@
       "match": "Parbati II"
     },
     {
+      "title": "जामताड़ा : गांधी मैदान दुर्गा मंदिर में मां पार्वती की प्रतिमा क्षतिग्रस्त, लोगों में आक्रोश - Lagatar News",
+      "source": "Lagatar News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGtKUXhaTERpRTN4ek1uUzZ3WTRUMTFFNDkzcDFjT1JISUZyUjktTldWcVN1MnRnd0RNYkZlSEctbkVKVnF5VGtYbFBWUHlLTk5uQ2lkSXozUUlNUXJMcUlKc2d4bmNmS0ZjODVEWlc1a0EzcEFaMkFNTUFTcmF0MzR4eTdUY1hRM1ZWdHhLYzhlaGk3NzdDV2xCUnpHZXljUFZid2hIckxWT1o3NGc?oc=5",
+      "date": "2026-05-17T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
       "title": "ज्येष्ठ माह में कब है मासिक शिवरात्रि? इस तरह प्राप्त करें शिव-पार्वती की कृपा - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -120,21 +140,21 @@
       "match": "Parbati II"
     },
     {
-      "title": "बांग्ला लेखक रामकुमार मुखोपाध्याय को 'हर पार्वती कथा' के लिए मिला प्रतिष्ठित सरस्वती सम्मान - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS042RXh2S084LTFOc1EteWNsUVZpVVE5V1lGTXh5dEczWnJhRDZtTmhqa0VVV3Jpc2t0QlRFVnhrZU44eXNxX1F1MjVJWHczZ01GblpzSnBicl9BenRiRjFNSlJzT1lKME9hWWQ1SFp5UTE3ek43UjhlTzE1dVlJTEswUlQ1d0JKbWNPc3NxS0ZQVGl0RVRnM01zZ1FmektDOUNaaHBrdk9oYVlBSFlyS3VFenV6UVRDOFBkZmxidUQ?oc=5",
-      "date": "2026-03-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
       "title": "मथुरा में ऐतिहासिक क्षण, द्रौपदी मुर्मू गोवर्धन पर्वत की 21 Km परिक्रमा करने वालीं देश की पहली राष्‍ट्रपति - Navbharat Times",
       "source": "Navbharat Times",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQi1yNkxRa1BLeFp2eDRiV1E1QmllNmN0Rzl5TDc5TTZyNDdGbGVpcHpMV0hPWVhkYjdJMnlmR2JKYkxxa3EwVXR6WFNBcVpobTFndHNvay1IOVhUcWwtU2J5aHNVYW5wWGxjUVV5dFc0REFOaW12bjhQVHBFOUpWTXExRXI5YXIxNmQ2UVF1M2ZQYll1eWxXR0xsMWRneHVrV0d4OWtaZGtJb3JyM2ZkdTlZV01vRjRuaXVLTmlkU3hKT3BjVVlRWWVHdzVCMV9lSHZpaTUzLUJzc0M4MktiNnFKclRaeDFud3JFVFVramRsQXhVZDgzSHItbHlaSTJCRWlHaXZDdFBfVkE3VUZNR0tCbW5GZ0E30gGeAkFVX3lxTE9nNlIzTGtaUTFxNzVHTG42TDBhd25WT3o4RXc5ZXV3MWRJcm1JNURVaDM5YWxlSE00MHZIV200MW9LUEV5bjkxOHJIbGVBMlBYSUFubi1LOWswaTd3TVo4bnZQRXU2cjgxcWY2dFhYUjNpX2NVVzRxeHQtUnh5Z2RaU241ZE1Sak8yVDZDRjBpcFRQTktTR3NkaHkwd1FaMHlMZFN0N1dIeEdzVGVTM3M1dlpQVXh1SGppY096Zld0RGc1VUxtRDdFQ3ZSUzFqM3NEN2plYm5MYkxfbUpWSHhpczkwdFdJU3J4MzRBT3A4b2RvSWRfaE9nR09LT2xMVTdLVlZ0dGR4eUxlaFM2MFk1MUVIVHJoaEpMV2xqWVE?oc=5",
       "date": "2026-03-22T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "Gangaur ki kahani: गणगौर व्रत आज, मां पार्वती और भगवान शिव का आशीर्वाद पाने के लिए पढ़ें ये व्रत कथा - Mint",
+      "source": "Mint",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFhWc3VfZm54T1drREszQkJLWjVJcXhfajc3YmE3M3lYVVB1amp0WG9CR2h5MmtKWDBobTJIVVdwSExaYUM4aGZVdXJQUVlZckJ4ZnRqN1NPYVJaNWROMGlUWDQxTjhzWFpVREUxbTc2d180RUlfOEFXYnNXcmJmN0dTU0xDZkp4dkZiN1hXb0lPX3RIVFUyM1k0SXl1RjdTWGkzc0xGQ2NUbDdHTlNnTVEyYzZ3OHBPbkgxUThjcjVUQzVhd2lNdjZ30gHPAUFVX3lxTE41U09HaW51WnIycmQ1dldmZ0ZONTQ3UUd2V2NWeVpxZEpkRVh5N2hTVFdRWmpOelA4cUxpUnBRWXhmZTdoTDJIVWhsMjNWTHlxSmIteFQyZ2dzLW1NeEhqbkktTWlWd3hoekxUeUI5SThKVkRfcGFTZ2tRWFc5M2FTeTgwVXVFaFZQZUIyUEdodUdpNHlpR01TTldYYkRBX2NNbTAzZHVNU3ZTVDZ1WHJENTRzY3F0czJxNGR3YXJIRmtfS3l3RENLaHZvSWRoZw?oc=5",
+      "date": "2026-03-21T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
@@ -150,11 +170,11 @@
       "match": "Parbati II"
     },
     {
-      "title": "विजय-रश्मिका की शादी क्यों दिला रही शिव-पार्वती और बाहुबली की याद, उनके शाही लुक में क्या था खास? - ndtv.in",
-      "source": "ndtv.in",
+      "title": "Gangaur Vrat Katha in Hindi: गणगौर पूजा की पौराणिक कथा, मां पार्वती और भगवान शिव की अद्भुत लीला, जानें ये व - India TV Hindi",
+      "source": "India TV Hindi",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQzhIeTd2OGxQRGhnOGVPM0dzM3dpTEs3UnJFck9zaVJzdXJqR1JxMURfeHdFa3Z1eVFnaXBHWXZDb2Q3QmhTZF9HeXlXeXQ0cnNXR01IM2loeEo1T25YOXdxS2s4QklhYjFHdHlxSU1McG1rMUxTTXNUaXdmLXpwUWptOWJ4dm1QblZyRURLRHd4aHNaTWFVckg5ME5WLUR5SXBxcWdpVkNtSlhQTnlidDNpV0QzSE8tRWhrN3RZOEVWcGl6U3VpbjB5Z3ZpbFVoakU1Yzk5OXlzbHVYcWlfWVFB?oc=5",
-      "date": "2026-02-28T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQYkE3bHVZZGItZzRYX0QtQmx3WG9Wa05zLWp0VmFrOHljR2ZYZjNmc1ZQblpaUXdTV3dfT010Nld6aHlQQThGS2Vsc2tRZ1BnejZuWGVIQXVfNl9fZHRJUi11V0pMUThsZnFaVE85aUdyc2tHNWlSUzhENUsxbDYyWHk0MGc1aFpjX1BuWTlnZ1BzbEVpV1lpSlRpQmh3QjZfT0tHQzlJSHNTZElmZ211UHczXzNHNlpEQnBERWttRHNGOXB6aHQyM3k2RXUyY1JobTdZMmlJclBqTW5pdDllZ1YweEdvTS03WUc4N3p2bWlxNjFfeUQ2aXR0d1p2UHBiNjVWSW92ZEU5Ujc5WXkxbTBR0gGXAkFVX3lxTE1fVXF3dVFfNFBkNFEtNGdzQ2VudTJiRDlKRkFHZGFBajczRWNoU3ZldnhWdk5GWjhQLVJPcmg4X181c0NRVVE0WTJOb3hfWVZyaEY3NGNZM1lpVFo2RkpmMlpyZ003dTc3N21iNWxaTklXZGp4bkxnTWFHRi1pZEp2U3hXRFVINThqbmF1Sm5KRHlMYTB2ekRfS1B0cEU1Sm9QdGh3aTN6aWxTVFVUYXF1al9scXNIWE1TdVJUdG05VkN1VmhHeDJVR2RDM3hTaWZyOXB2TGNMajFZZ25vZDNjdjBPZUwxZUU1SFlyMzhrb3BfLVM2VTRSQ2Y1ZU5pb05JOEZkcUt2NFdwSmJkeGpET1AwdGhFNA?oc=5",
+      "date": "2026-03-20T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
@@ -170,43 +190,23 @@
       "match": "Parbati II"
     },
     {
-      "title": "Maha Shivratri 2026: महाशिवरात्रि पर मां पार्वती की पूजा से मजबूत होगा रिश्ता, जानें खास उपाय - ndtv.in",
-      "source": "ndtv.in",
+      "title": "Mata Parvati Ji Ki Aarti: महाशिवरात्रि के दिन जरूर करें माता पार्वती की आरती, बरसेगी शिव-शक्ति की कृपा - India TV Hindi",
+      "source": "India TV Hindi",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORmpFR1o5blA5YkpGODkyX3dyS003NHlPaE5kYkhhU2lIeEtUVm1uc1ZUMUZzZEJVYzJvZHYza1ZWUEFyaWJFT2s0Ylc4dUVhSE4tWklUYTdYemV2d3NrNi1Fa2JvcWh5MmUtVW4yZHJyeVRUZkFYdEJFVkdxRlpmZnNGWXJ2dzFocDFVUU5paXJzVU5lOENpYUpjM1JOODZrQmktLUlMUlY1OEs4bDBoQW50dGpidE83S3NFRW1QNS1SZnJQbUxuRWVxcDhPRW5jdTIwOUpQRmpUQmNCdHpQV3JaN2YtZw?oc=5",
-      "date": "2026-02-12T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM2tqVmlJOWlPclJoY1lxb1JwVnVYeXlDbVhJZUowMU90aWQwSHdYU3JtbmhwRWV3cVVHaENEN3k2LUF5VTRlbkt0UUY4Z0dJanA3OV93SHYxVThrUm9HalRBZDdnR1R4VHh5eG9lNjByTGNhMmdMYmtpTmRlazhCaGw3OTNla0xuMmtGSXo5RUN1SHh1Zm90dDNQREg5QS1aaGVTZUFFNEk5N3hyQ3MzRWtIRGs3YXNkR2FYc1RZNmZjRG1pNXVnZ0RZbWlJbXhjUUpkU1M4bjM3a3llUzR3SUVuZzBEbnA1dUxOcmhvanNqUdIB9wFBVV95cUxNM3l6TGNuc3o1V0xwSkNvTmpMM21hZzJvZG5wMF9ueEQzQ2Vfd2hzQUMwbk9LZUZIcF92aVNlaTVkVEkzOVc0Zk9rZU14OF9CUWlDeExPblJHUEF5REJNalY0UXlIWmlCVjI1T0szR3pVakp3N3FxWmtlb1k3emlZWmx3blhFOVVPQlhWNXE0RXlPckd5VGg3M3RhNndjalV5NE1JdXNwaGoyOU5HMHFrckRpOG0tckhsVVNaSGV5QmpUaFI5QUxsUllORVVRZG53Yld6UDZjelJtdmFNZXJxc3JRWWl3UmlYdnNVWEowcXZha1hVSzNz?oc=5",
+      "date": "2026-02-15T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
     },
     {
-      "title": "Mahashivratri Ke Upay 2026: महाशिवरात्रि पर माता पार्वती को चढ़ाएं इन रंगों की साड़ी, वैवाहिक जीवन की परेशनियां हो सकती हैं दूर | mahashivratri ke upay 2026 offer these saree colours to maa parvati for happy married lif - Herzindagi",
-      "source": "Herzindagi",
+      "title": "Mahashivratri 2026: महाशिवरात्रि पर ऐसे करें शिव-पार्वती की पूजा, भोलेनाथ स्वयं हर लेंगे जीवन के सभी कष्ट - Yugantar Pravah",
+      "source": "Yugantar Pravah",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdE1sdWwzU3AzODNzZEdBc1FkcWlUcmdWbExOYlNid29JaWRsVHNKR29WTEVYQTRodzNfcHpqLXA5TW9XOWVxUTc1U1g0Mm9BVGxtSVBXTEdEOUJpNDRmLTdTOFpTaDZGQ19US09TajZGTk1BcmZ3bG9xUjU4VFo0T2JXN2xNWTZfMzRRZlFEbXAwWUMzT1E2X0J1c0gtY09MYVRpZVdHcnBwWU9hTGdSYTAydzctendkNGlCRUhyOFhyMllzNmpqZFVoVVpBSE9JMDNHLWNVWWtpNVB2VDRBN1BvQlFuVWY3emVJMTdUbUJTaUYtaWVIWGp4N3BSSDM1MFF3?oc=5",
-      "date": "2026-02-11T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHFaUHJuUFZ6bkR6X0NRb3NHLVM2ekpHaHZWUnRjZnIyM3JVRjczSFRzY082bU1TbVRMNjlYQlE4dmZnUms4UDNjOU11MWxYRi1YNTI1LWFlNHZLaWU1MV8wWTNrZFAwVDZuME9jRWEzUk9JXzdhOGhRa0p4b2s1MlRuRWRjXzdPRjhZbVEzMHNrM2dSZzk1VFFFMTM1V2hyQWhjVF9DRjduQVE?oc=5",
+      "date": "2026-02-15T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "Mahashivratri 2026: महाशिवरात्रि क्यों मनाई जाती है? जानें शिव-पार्वती विवाह की पौराणिक कथा - Prabhat Khabar",
-      "source": "Prabhat Khabar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd2JwNlgtQkQ3Y1lZVGpQaTZuei1mWENHclFUTFBiMU9vd0xxTzByTFVzNHJ4UDgzczZWNEZDbDcxaEdHOEhsWlVPSFZTdlk0ZGdDM051NlREdlVFRlFBVGRzMHVhbDQ3ZjBzRURyaWMya1QyV1ZYOVAxNktkdWoxQTlFM0YyOTlMS2twUzIwaTBmblhQTHhsTWlDSEVPbDlCVVppbE9xeHFXaWpXZng2WUYwWlFSNjY0enNKN3l0d05kUVNmb2MtUkpqXzRhS1FldnE0N29IQWZKVG1sQ3BkWGlTYUpnTEdQc1HSAe8BQVVfeXFMTlVmODBtODdYdG9GWjMwamhBaENSVmRVN2o3ampBM3VfZEk5UEhxckI1Z2xYa0I2VHZ6THBfTVV5cGcxaUd3VzlENzhLNzRQaFJjbXhueGlJVmVhYU9vTERHLXZSZXdtY3MwckdxOXZ1UGRqYzBOd3FFcGNGMnhoMVVvRGNsMVZwYllfN1ltczNXeHhpdFJNbXcxaktCelZETlJxTDI0TlFUeUl5aE51aEEzeXFsQV8tQ2VmaHduV2tVYVZFMDNwT1AzTHF2dzBxUU5TbjY2V2tHUFhnNUY4cHptclltM3hIR2FqTGhMclU?oc=5",
-      "date": "2026-02-03T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "PRAGATI drives timely implementation of major infrastructure projects, spotlight on Parbati-II Hydroelectric Project - DD News",
-      "source": "DD News",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQndkTHpiY0pHaU82bXVpYnZ0dnp3UFQ3NnRwbEZiV0I3YmhENE5SSkk2emhSMTJsbGcyNnRuaGJEWGNjTGpiYnBFN1hlRUlJbDNXWm43Vl9GamhFdVk0MWd3VFZFb0Z0bVNTaExVZjZieUZHTlZiaksyYUo5SWVXZVVtc1pNZHNBdGxRdmJseXQ3bldkTDBlX3pfMXlaNjgteGp0OTd3OTZiaVRWaVU3MERub0JuZUZXM3JjM3BORGVNdDNIY2pNU25CVjdlRUVqMjdQNi1wRHk?oc=5",
-      "date": "2026-01-09T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Parbati II"
     }
   ],

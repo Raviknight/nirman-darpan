@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-19T20:16:22.996Z",
+  "updated_at": "2026-06-19T20:28:00.282Z",
   "project_id": "SHONGTONG-HEP",
   "counts": {
-    "press": 41,
+    "press": 40,
     "gov": 0,
-    "en": 33,
+    "en": 32,
     "hi": 8,
-    "total": 41
+    "total": 40
   },
   "mentions": [
     {
@@ -160,16 +160,6 @@
       "match": "Shongtong Karcham"
     },
     {
-      "title": "Himachal CM reviews Shongtong-Karcham hydroelectric project, directs completion by November 2026 - The Statesman",
-      "source": "The Statesman",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRF96SFdseXZ4ZnBMWjl5OHBaSHNCVHNyRUFuQWpJdm5hQ3RpMXpqWkxTRzhmX0dfRHJleFhnZHdTR2JLVlg2aG0yM3ZwTnVrRzcxUGpPZXZYSi1uckpBUG95cHlHR1FDbnlXRHpVNV9pMHA3UTlvbTJwV1FBZ1pERnI5OUdQMUdfQm8ydFNjM2RZVkZ0cllIdWVrcEpMV3QwM2hJMHctUlNIeUxUSDVIZy1ZTzhOQWpnanBaLXFWS2NNQkpDeDMydWFIN0l1b2dnekhrQTBaVGU1WGgyUTNr0gHkAUFVX3lxTFBVSHd4M2V1YTlyQmxxd1FGbXZiUDd3T0FDRVJKaTBueVVwZ2FLb1o4Z1FRdWw1NWNKdm15ODR5WTBNOGNKS0VOUmk5SkpCVm1iNS05U0RVYmZJUmtrYVlSTDJPSkttVnRfWXNVbEctLUsyVkFxQUJLTFV0aGhyMWdjQUpzckRvUnV3Rm5HYjBwZTYtd1Z3d2dTWHNxT1VKR0JIMXFaY2tRWl9WQW11eVRMeFdxMTFpOHJxVjY4WENPbXJRbXpHbEhnZ1JibVFoZlNpejd0aWRFaWIzZnc4aGdsaTlCdg?oc=5",
-      "date": "2025-06-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shongtong Karcham"
-    },
-    {
       "title": "CM सुक्खू ने किया शोंगटोंग कड़छम जल विद्युत प्रोजेक्ट का दौरा, कहा- 2032 तक हिमाचल को... - ABP News",
       "source": "ABP News",
       "source_id": "google-news-hi",
@@ -204,6 +194,16 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT0ZqN1V5eFFPajVYbnAybldSanNZREZFTUI0N1RRZVNtU3VuNTV4SlFJd2pCVTRXandacXREeFE1N0psRG1GU0NSQTdnWU5JTGN6ZlVpWVlyQ0hIdlA5YWJFdzJqNnVObDhFQncwNUY4aEpNMEpmUVNlSDBhSWlfSEZxcUNlYmZrS2Mza2g0QmhKaUg0akxXSllOTVFucEVPNHQyWGdWOGJjWWpFWnU4dnhPZDJYSnlVUVFNR25mYlhYdzh0LXRUTUlldEdhWDJwUGMxbnVVX05aNDl1aEtKV0RTalhNeXBXZlhaaHZLa9IB9AFBVV95cUxQNXU2RF9kRFdobmVzVXh5UDNhSGhreWN1LXRmT1RZVGcxclBFNER5b0VGWnNQR05XWnlEOEoycl9tV1FuMWEyTWdTUC1WTnZDWXVYRnVXX1BnQUFsRTNvWldVano0NExQUzBzenF3QXE1X25EZ3doN05FaWoxUGd3X2E3c0d6d2xGaHNwdHFYTWZzZ3RIbHV0S3hkcy1lbVB5NWhJUDBua1AzM3JmV1J2WkNjM0Q2OTZaVGxyQUNmOWdwOE5rWGF0aGFnRWV5VF9sWlBuT3FmZjV4WFpKNDQ5UFhaRVYzdENwNWlhN05rUy13Z2hv?oc=5",
+      "date": "2025-06-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Gwalior News: होटल में चल रहा था देह व्यापार, भारी मात्रा में शक्तिवर्धक गोलियां और आपत्तिजनक सामग्री मिली - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNbXpFRnZvelFfRlJCc2Q5dExsaVBNVnJhUU1HT004YTJzMmJFeklyWHB1R1U5RXdMLWRZem52MnYwOWRBbjFLRjludldnMHB3aFFBOE1YZ0o4Mmw5TmhKaEhWQTJjRWtnWE84OFBLRXFBc2hIQTVkZmZRX3RDTjYwNFFQajNOR3lkYXJ5UUNFeTh4RGxnekdSWWNsUGUwRXIyZnJTN01xRzlPT2dMZ3E1QTYwT0llR0xiZk9WQVdhQVV3bWJBeVJDLUhnS0p0Y2VyTGt1eUlNTWdHQVhFWjY1aU9OVUFJc05iY21WNGtiQy1aM3Zvcl93NWs3YkE3czlVeVNXdjA3R3VvazAtaTQxQzBjZks3TzcwZE1pZUw3TFhVNHF1bHhkS2JrQ0stMUd1ODJQckRTLThJajRhRmlzWExHQ05EUURlNzhUSU0zSXd1N0ZYR2tWUkVlQnRFOHRZdHlhWU8wc9IB7AJBVV95cUxPYW40RXhOalhRclNyLTNQOVlfMTFUNDFOdGE4Qk1rTjd1bXZVVUVRY2tBZUFyQ2t3UGJQbDlySHBPTkZSMW1SOU9TM05rNk44UERFaFNKeUpzZFgxM2pMNHYzdXpDblJuSWVsMnI0bDBSOFUzQmFnZGhVd0p1V19WQ2NMV0w0ZEttcEs0VnBEUjcxMXROM3p6eklMTktCeGpidWhTWWd4Rzg3dXpEME43MGtvSWZ0blhodTFPc1FIMm1CZ19MRFhXUnRaeGdrUnlOWWhMcDhxSmY4anZuLVg1cUFpUXdCZjZva0xURjN0aW11ak9MS2dqUlBNT0VCTTNIWUh1LUJKRkEzWFRQa2hNTWhxQWVqa0wzV0dIM01yVThuOUZveS1qUmZJWW91TGxZNGRxR0t0bXlzaFVOcllwVmp1OUx1d0ZRSzlRT0NrMFZLbGoydEJ4TF9OS2pGN0hOUkEwX1B1V0JiY0JU?oc=5",
       "date": "2025-06-09T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
