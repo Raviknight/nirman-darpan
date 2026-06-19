@@ -74,6 +74,52 @@ function initials(name){
   return name.split(/\s+/).filter(Boolean).map(w => w[0]).slice(0,2).join('').toUpperCase();
 }
 
+// SEO / share helpers: per-project page title + OG meta + deep-link URL.
+const SITE_BASE = 'https://raviknight.github.io/nirman-darpan/';
+
+function syncMetaForProject(p){
+  if (p) {
+    const title = `${p.name} · ${p.districtLabel} · Nirman Darpan`;
+    document.title = title;
+    setMeta('og:title', title);
+    setMeta('twitter:title', title);
+    const desc = `${p.name} — ${p.status === 'completed' ? 'Completed' : (p.delayed ? 'Behind schedule' : 'In progress')} · ₹${p.budget.toLocaleString('en-IN')} Cr outlay · ${p.contractor}. Tracked on Nirman Darpan, an independent civic-transparency project for Himachal Pradesh.`;
+    setMeta('description', desc.slice(0, 300));
+    setMeta('og:description', desc.slice(0, 300));
+    setMeta('og:url', SITE_BASE + '?project=' + encodeURIComponent(p.id));
+    const can = document.querySelector('link[rel="canonical"]');
+    if (can) can.href = SITE_BASE + '?project=' + encodeURIComponent(p.id);
+  } else {
+    document.title = 'Nirman Darpan · Himachal Pradesh Public Works Tracker';
+    setMeta('og:title', 'Nirman Darpan — Himachal Pradesh Public Works');
+    setMeta('twitter:title', 'Nirman Darpan — Himachal Pradesh Public Works');
+    setMeta('description', 'Independent civic-transparency tracker for public works in Himachal Pradesh — status, budgets, timelines, accountable leads, accountability records, and citizen voices.');
+    setMeta('og:description', 'Independent civic-transparency tracker for public works in Himachal Pradesh — status, budgets, timelines, accountability records, and citizen voices.');
+    setMeta('og:url', SITE_BASE);
+    const can = document.querySelector('link[rel="canonical"]');
+    if (can) can.href = SITE_BASE;
+  }
+}
+
+function setMeta(key, value){
+  const sel = key.startsWith('og:') || key.startsWith('twitter:')
+    ? `meta[property="${key}"], meta[name="${key}"]`
+    : `meta[name="${key}"]`;
+  let el = document.querySelector(sel);
+  if (!el) {
+    el = document.createElement('meta');
+    if (key.startsWith('og:')) el.setAttribute('property', key);
+    else el.setAttribute('name', key);
+    document.head.appendChild(el);
+  }
+  el.setAttribute('content', value);
+}
+
+function pushProjectUrl(id){
+  const url = id ? SITE_BASE + '?project=' + encodeURIComponent(id) : SITE_BASE;
+  try { history.pushState({ id }, '', url); } catch (_) {}
+}
+
 function commentsFor(id){
   if (NIRMAN_AW && NIRMAN_AW.commentsCache[id]) {
     return NIRMAN_AW.commentsCache[id].map(awDocToComment);
@@ -781,6 +827,26 @@ function openAccountabilityForm(projectId, categoryKey){
   });
 }
 
+function renderShareRow(p){
+  const url = SITE_BASE + '?project=' + encodeURIComponent(p.id);
+  const text = `${p.name} — tracked on Nirman Darpan`;
+  const waUrl = 'https://wa.me/?text=' + encodeURIComponent(text + ' ' + url);
+  const twUrl = 'https://twitter.com/intent/tweet?text=' + encodeURIComponent(text) + '&url=' + encodeURIComponent(url);
+  return `
+    <div class="share-row">
+      <button class="share-btn" type="button" data-share-copy="${esc(url)}" title="Copy project link">
+        <span class="share-ico">🔗</span> Copy link
+      </button>
+      <a class="share-btn" href="${waUrl}" target="_blank" rel="noopener" title="Share on WhatsApp">
+        <span class="share-ico">💬</span> WhatsApp
+      </a>
+      <a class="share-btn" href="${twUrl}" target="_blank" rel="noopener" title="Share on X / Twitter">
+        <span class="share-ico">𝕏</span> Share
+      </a>
+    </div>
+  `;
+}
+
 function renderPerceptionPanel(projectId){
   if (!NIRMAN_AW) {
     return `
@@ -950,10 +1016,11 @@ function sentTagClass(s){ return s === 'positive' ? 'pos' : s === 'negative' ? '
 
 function renderModal(){
   const root = document.getElementById('modal-root');
-  if (!state.selectedId) { root.innerHTML = ''; document.body.style.overflow = ''; return; }
+  if (!state.selectedId) { root.innerHTML = ''; document.body.style.overflow = ''; syncMetaForProject(null); return; }
   const p = D.find(x => x.id === state.selectedId);
-  if (!p) { root.innerHTML = ''; document.body.style.overflow = ''; return; }
+  if (!p) { root.innerHTML = ''; document.body.style.overflow = ''; syncMetaForProject(null); return; }
   document.body.style.overflow = 'hidden';
+  syncMetaForProject(p);
 
   // Kick off async fetches from Appwrite on first open per project. Resolved
   // calls re-render the modal in place.
@@ -1046,6 +1113,7 @@ function renderModal(){
           </div>
           <h2 class="modal-title">${esc(p.name)}</h2>
           <p class="modal-desc">${esc(p.desc)}</p>
+          ${renderShareRow(p)}
           ${(!completed && p.delayed) ? `<div style="margin-bottom:16px"><span class="pill-delay">⚠ Behind schedule</span></div>` : ''}
 
           <div class="panel">
@@ -1113,6 +1181,7 @@ function wireModal(){
   backdrop.addEventListener('click', (e) => {
     if (e.target.closest('[data-close]')) {
       state.selectedId = null;
+      pushProjectUrl(null);
       renderModal();
     }
   });
@@ -1199,6 +1268,22 @@ function wireModal(){
   // "Sign in" link inside the perception panel.
   root.querySelectorAll('[data-do-signin]').forEach(a => {
     a.addEventListener('click', (e) => { e.preventDefault(); openSignInCard(); });
+  });
+
+  // Copy-link share button.
+  root.querySelectorAll('[data-share-copy]').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      const url = btn.getAttribute('data-share-copy');
+      try {
+        await navigator.clipboard.writeText(url);
+        const orig = btn.innerHTML;
+        btn.innerHTML = '<span class="share-ico">✓</span> Copied';
+        setTimeout(() => { btn.innerHTML = orig; }, 1500);
+      } catch (_) {
+        // Clipboard API not allowed (insecure context) — fallback to prompt
+        window.prompt('Copy this link:', url);
+      }
+    });
   });
 
   // Accountability "+ Add" buttons.
@@ -1514,6 +1599,7 @@ function wireMapEvents(metrics, max){
     g.addEventListener('click', (e) => {
       e.stopPropagation();
       state.selectedId = id;
+      pushProjectUrl(id);
       renderModal();
     });
   });
@@ -1562,6 +1648,7 @@ function wireOnce(){
     const el = e.target.closest('[data-open]');
     if (!el) return;
     state.selectedId = el.getAttribute('data-open');
+    pushProjectUrl(state.selectedId);
     renderModal();
   };
   document.getElementById('grid').addEventListener('click', openFromClick);
@@ -1571,9 +1658,28 @@ function wireOnce(){
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape' && state.selectedId) {
       state.selectedId = null;
+      pushProjectUrl(null);
       renderModal();
     }
   });
+
+  // Browser back/forward — sync the modal to the URL.
+  window.addEventListener('popstate', () => {
+    const u = new URL(window.location.href);
+    const pid = u.searchParams.get('project');
+    state.selectedId = pid && D.find(p => p.id === pid) ? pid : null;
+    renderModal();
+  });
+}
+
+// Open the right project on first paint if the URL contains ?project=ID.
+function openFromDeepLink(){
+  const u = new URL(window.location.href);
+  const pid = u.searchParams.get('project');
+  if (pid && D.find(p => p.id === pid)) {
+    state.selectedId = pid;
+    renderModal();
+  }
 }
 
 // ---- initial render ----
@@ -1585,4 +1691,5 @@ renderMap();
 renderFeatured();
 renderGrid();
 wireOnce();
+openFromDeepLink();
 bootstrapAppwrite();

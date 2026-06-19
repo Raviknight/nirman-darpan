@@ -6,9 +6,42 @@
 <title>Nirman Darpan · Himachal Pradesh Public Works Tracker</title>
 <meta name="description" content="Independent civic-transparency tracker for public works in Himachal Pradesh — status, budgets, timelines, accountable leads, and citizen sentiment.">
 <meta property="og:title" content="Nirman Darpan — Himachal Pradesh Public Works">
-<meta property="og:description" content="An independent civic-transparency tracker. Status, budgets, timelines, and public sentiment for active and completed public works across Himachal Pradesh.">
+<meta property="og:description" content="An independent civic-transparency tracker. Status, budgets, timelines, accountability records and public sentiment for active and completed public works across Himachal Pradesh.">
 <meta property="og:type" content="website">
+<meta property="og:url" content="https://raviknight.github.io/nirman-darpan/">
+<meta property="og:site_name" content="Nirman Darpan">
+<meta property="og:locale" content="en_IN">
+<meta property="og:locale:alternate" content="hi_IN">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Nirman Darpan — Himachal Pradesh Public Works">
+<meta name="twitter:description" content="An independent civic-transparency tracker for Himachal Pradesh public works.">
+<link rel="canonical" href="https://raviknight.github.io/nirman-darpan/">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://raviknight.github.io/nirman-darpan/#website",
+      "url": "https://raviknight.github.io/nirman-darpan/",
+      "name": "Nirman Darpan",
+      "alternateName": "निर्माण दर्पण",
+      "description": "An independent civic-transparency tracker for public works in Himachal Pradesh.",
+      "inLanguage": ["en-IN", "hi-IN"]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://raviknight.github.io/nirman-darpan/#dataset",
+      "name": "Himachal Pradesh Public Works Tracker",
+      "description": "Independent, citation-backed record of active and completed public infrastructure projects across Himachal Pradesh — status, budgets, timelines, accountable leads, citizen voices, press coverage, and accountability records (incidents, defects, audits, grievances, litigation).",
+      "spatialCoverage": "Himachal Pradesh, India",
+      "url": "https://raviknight.github.io/nirman-darpan/",
+      "license": "https://opensource.org/licenses/MIT",
+      "keywords": "Himachal Pradesh, public works, infrastructure, civic transparency, accountability, NHAI, BRO, HP PWD, hydropower, highways, AIIMS, IIT Mandi"
+    }
+  ]
+}
+</script>
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23123c2c'/%3E%3Ctext x='16' y='22' text-anchor='middle' font-family='Georgia,serif' font-weight='600' font-size='16' fill='%23e8d9a8'%3EN%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -384,6 +417,17 @@
   .comment-tag.neu{background:#f6efdd;color:#a9802f}
   .comment p{font-size:13px;line-height:1.55;color:#41474a;margin:0}
   .comment-count{font-family:'IBM Plex Mono',monospace;font-size:12px;color:#a4a294;font-weight:400}
+
+  /* Share buttons (SEO / distribution) */
+  .share-row{display:flex;gap:8px;margin:0 0 18px;flex-wrap:wrap}
+  .share-btn{
+    display:inline-flex;align-items:center;gap:6px;
+    font-family:'Public Sans',sans-serif;font-size:12px;font-weight:600;color:#5c686f;
+    background:#f4f3ee;border:1px solid #dddccf;border-radius:7px;padding:6px 11px;
+    text-decoration:none;cursor:pointer;transition:background .12s,border-color .12s,color .12s;
+  }
+  .share-btn:hover{background:#fff;border-color:#1b5640;color:#1b5640}
+  .share-ico{font-size:13px;line-height:1}
 
   /* Accountability module (Phase 2.3) */
   .acct-panel{background:#fff;border:1px solid #e7e6dd;border-radius:12px;padding:18px;margin-bottom:24px}
