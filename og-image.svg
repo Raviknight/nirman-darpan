@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <pattern id="dots" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="rgba(255,255,255,.07)"/>
+    </pattern>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#123c2c"/>
+      <stop offset="100%" stop-color="#0e3122"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#dots)"/>
+
+  <!-- HP outline silhouette (heavily simplified) -->
+  <g transform="translate(820,180)" opacity="0.18">
+    <path d="M 0 80 L 30 30 L 80 10 L 140 0 L 200 40 L 260 80 L 310 130 L 320 200 L 280 260 L 220 290 L 160 280 L 100 250 L 40 200 L 10 140 Z"
+          fill="none" stroke="#e8d9a8" stroke-width="3"/>
+  </g>
+
+  <!-- Devanagari wordmark -->
+  <text x="80" y="200" font-family="serif" font-size="76" font-weight="600" fill="#e8d9a8">निर्माण दर्पण</text>
+
+  <!-- English wordmark -->
+  <text x="80" y="290" font-family="Georgia, serif" font-size="58" font-weight="600" fill="#ffffff">Nirman Darpan</text>
+
+  <!-- Tagline -->
+  <text x="80" y="350" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#cdded3">
+    Himachal Pradesh · public works, in public view.
+  </text>
+
+  <!-- Stat strip -->
+  <g transform="translate(80,440)" font-family="Helvetica, Arial, sans-serif" fill="#eef2ec">
+    <text x="0" y="0" font-size="22" font-weight="600">32 projects · all 12 districts · ₹86,500 Cr tracked outlay</text>
+    <text x="0" y="40" font-size="18" fill="#9fb4a6">Status · budgets · accountability records · citizen voices</text>
+  </g>
+
+  <!-- Bottom URL ribbon -->
+  <rect x="0" y="580" width="1200" height="50" fill="#1b5640"/>
+  <text x="80" y="612" font-family="Courier, monospace" font-size="20" fill="#e8d9a8">
+    raviknight.github.io/nirman-darpan
+  </text>
+</svg>

@@ -1777,7 +1777,8 @@ function renderFilterPill(){
       <button type="button" data-clear="1" aria-label="Clear district filter">✕</button>
     </span>
     <span style="color:#5c686f">Showing ${list.length} project${list.length === 1 ? '' : 's'} below.</span>
-    <a data-scroll-grid="1" style="margin-left:auto">Jump to list ↓</a>
+    <a href="districts/${encodeURIComponent(state.district)}/" class="filt-drill" title="Open dedicated district page">Open ${esc(state.district)} page →</a>
+    <a data-scroll-grid="1" style="margin-left:6px">Jump to list ↓</a>
   `;
   el.querySelector('[data-clear]')?.addEventListener('click', () => {
     state.district = 'All';
