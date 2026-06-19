@@ -69,6 +69,33 @@ The Tribune Shimla, Hindustan Times Shimla, Divya Himachal and Amar Ujala HP all
 >
 > Ravi Sharma
 
+### Follow-up sequence
+
+Most newsrooms run on chaos and a reporter who's interested won't necessarily reply on day one. Use this sequence:
+
+**Day 7 — Single-line nudge.** Reply to your own original email, no new subject.
+
+> Hi — quick nudge on the note below. Happy to walk you (or whichever reporter on the HP / state-government beat is the right fit) through any of the 32 projects, or pull together a one-page brief on a specific one. — Ravi
+
+**Day 14 — One concrete hook.** New email, fresh subject, ONE specific story angle from the auto-detected accountability list.
+
+> **Subject:** Audit / accident / delay story specific to <project> — Nirman Darpan data
+>
+> Hi —
+>
+> Following up on the launch note last week. One specific hook that may be worth a column or short piece — auto-surfaced from press coverage:
+>
+> - **<Project name>** ([link to /projects/<id>/])
+> - **What the data shows:** <one sentence from the suggestion: "HC-ordered audit uncovered ₹22 cr in irregularities" / "Five tourists injured in highway accident" / etc.>
+> - **Source the data points at:** <publisher of the matched article>
+>
+> Happy to pull the full evidence packet — contractor names, accountable leads, related accountability flags, any RTI references we hold — into a one-page brief by tomorrow if it's a fit.
+>
+> Regards,
+> Ravi · ravikntsh@gmail.com
+
+**Day 21 — Drop.** Do not chase a third time on the same outlet for the same initial pitch. Treat it as a "not now," not a "no." Rotate them back into the next pitch round when you have a meaningfully new story.
+
 ### Draft email — Hindi version (for Divya Himachal, Amar Ujala)
 
 > **विषय:** हिमाचल प्रदेश की सार्वजनिक परियोजनाओं का स्वतंत्र निगरानी मंच — Nirman Darpan / निर्माण दर्पण
