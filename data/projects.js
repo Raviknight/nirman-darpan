@@ -43,7 +43,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'BHANUPLI-RAIL', name:'Bhanupli–Bilaspur–Beri Broad Gauge Rail', category:'Bridges & tunnels', level:'center', coords:[31.35,76.75], social_queries:['Bhanupli Bilaspur rail line','Bhanupali Beri railway','Bilaspur railway broad gauge','RVNL Bilaspur rail'], wikipedia_url:'https://en.wikipedia.org/wiki/Bhanupali%E2%80%93Bilaspur%E2%80%93Beri_railway_line',
+    id:'BHANUPLI-RAIL', name:'Bhanupli–Bilaspur–Beri Broad Gauge Rail', category:'Bridges & tunnels', level:'center', coords:[31.35,76.75], social_queries:['Bhanupli Bilaspur rail line','Bhanupali Beri railway','Bilaspur railway broad gauge','RVNL Bilaspur rail'], wikipedia_url:'https://en.wikipedia.org/wiki/Bhanupli%E2%80%93Leh_line',
     dists:['Bilaspur'], districtLabel:'Bilaspur', status:'active', progress:28, delayed:true,
     start:'2008 (revived 2019)', eta:'2030', budget:6800, spent:1750,
     awardedBy:'Ministry of Railways', contractor:'Northern Railway / RVNL',
@@ -61,7 +61,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'RENUKA-DAM', name:'Renukaji Multipurpose Dam', category:'Power & hydro', level:'center', coords:[30.61,77.45], social_queries:['Renukaji Dam','Renuka Dam Sirmaur','Giri river dam'], wikipedia_url:'https://en.wikipedia.org/wiki/Renuka_Dam',
+    id:'RENUKA-DAM', name:'Renukaji Multipurpose Dam', category:'Power & hydro', level:'center', coords:[30.61,77.45], social_queries:['Renukaji Dam','Renuka Dam Sirmaur','Giri river dam'], 
     dists:['Sirmaur'], districtLabel:'Sirmaur', status:'active', progress:34, delayed:true,
     start:'Dec 2019', eta:'2029', budget:7000, spent:1980,
     awardedBy:'HP Power Corporation / Six-state consortium', contractor:'HPPCL execution wing',
@@ -79,7 +79,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'LUHRI-1', name:'Luhri Stage-I Hydroelectric Project', category:'Power & hydro', level:'center', coords:[31.40,77.46], social_queries:['Luhri Stage','Luhri Hydroelectric','SJVN Sutlej','Luhri 210 MW'], wikipedia_url:'https://en.wikipedia.org/wiki/Luhri_Hydroelectric_Project',
+    id:'LUHRI-1', name:'Luhri Stage-I Hydroelectric Project', category:'Power & hydro', level:'center', coords:[31.40,77.46], social_queries:['Luhri Stage','Luhri Hydroelectric','SJVN Sutlej','Luhri 210 MW'], 
     dists:['Shimla','Kullu'], districtLabel:'Shimla · Kullu', status:'active', progress:52, delayed:false,
     start:'Nov 2020', eta:'2027', budget:1810, spent:980,
     awardedBy:'SJVN Ltd', contractor:'Patel Engineering', owner:'SJVN Ltd (PSU)', img:'powerhouse / Sutlej', score:null, ratings:0,
@@ -96,7 +96,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'KGR-AIRPORT', name:'Kangra (Gaggal) Airport Expansion', category:'Tourism infrastructure', level:'center', coords:[32.16,76.26], social_queries:['Gaggal airport expansion','Kangra airport runway extension','Dharamshala airport expansion','Gaggal land acquisition'], wikipedia_url:'https://en.wikipedia.org/wiki/Kangra_Airport',
+    id:'KGR-AIRPORT', name:'Kangra (Gaggal) Airport Expansion', category:'Tourism infrastructure', level:'center', coords:[32.16,76.26], social_queries:['Gaggal airport expansion','Kangra airport runway extension','Dharamshala airport expansion','Gaggal land acquisition'], image_url:'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kangra_airport_1.jpg/640px-Kangra_airport_1.jpg', image_credit:'Photo: Wikimedia Commons · CC BY-SA', wikipedia_url:'https://en.wikipedia.org/wiki/Kangra_Airport',
     dists:['Kangra'], districtLabel:'Kangra', status:'active', progress:22, delayed:true,
     start:'Feb 2022', eta:'2028', budget:3300, spent:410,
     awardedBy:'AAI / HP Govt (land acquisition)', contractor:'To be awarded (post-acquisition)', owner:'Airports Authority of India', img:'runway / terminal render', score:null, ratings:0,
@@ -131,7 +131,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'ATAL-TUNNEL', name:'Atal Tunnel, Rohtang', category:'Bridges & tunnels', level:'center', coords:[32.38,77.21], social_queries:['Atal Tunnel','Rohtang Tunnel','Lahaul tunnel','BRO Rohtang'], wikipedia_url:'https://en.wikipedia.org/wiki/Atal_Tunnel',
+    id:'ATAL-TUNNEL', name:'Atal Tunnel, Rohtang', category:'Bridges & tunnels', level:'center', coords:[32.38,77.21], social_queries:['Atal Tunnel','Rohtang Tunnel','Lahaul tunnel','BRO Rohtang'], image_url:'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Atal_Tunnel_vrtmrgmpksk_%282%29.jpg/640px-Atal_Tunnel_vrtmrgmpksk_%282%29.jpg', image_credit:'Photo: Wikimedia Commons · CC BY-SA', wikipedia_url:'https://en.wikipedia.org/wiki/Atal_Tunnel',
     dists:['Lahaul-Spiti'], districtLabel:'Lahaul-Spiti', status:'completed', progress:100, delayed:false,
     start:'2010', eta:'2020', completed:'Oct 2020', budget:3300, spent:3300,
     awardedBy:'BRO — Ministry of Defence', contractor:'Strabag–Afcons JV', owner:'Border Roads Organisation', img:'tunnel portal / Lahaul valley', score:null, ratings:0,
@@ -148,7 +148,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'AIIMS-BLP', name:'AIIMS Bilaspur', category:'Hospitals & health', level:'center', coords:[31.36,76.72], social_queries:['AIIMS Bilaspur','Kothipura AIIMS','Bilaspur tertiary care'], wikipedia_url:'https://en.wikipedia.org/wiki/AIIMS_Bilaspur',
+    id:'AIIMS-BLP', name:'AIIMS Bilaspur', category:'Hospitals & health', level:'center', coords:[31.36,76.72], social_queries:['AIIMS Bilaspur','Kothipura AIIMS','Bilaspur tertiary care'], image_url:'https://upload.wikimedia.org/wikipedia/en/b/bd/All_India_Institute_of_Medical_Sciences%2C_Bilaspur_Logo.png', image_credit:'Logo: AIIMS Bilaspur (via Wikipedia, fair use)', wikipedia_url:'https://en.wikipedia.org/wiki/AIIMS_Bilaspur',
     dists:['Bilaspur'], districtLabel:'Bilaspur', status:'completed', progress:100, delayed:false,
     start:'2017', eta:'2022', completed:'Oct 2022', budget:1470, spent:1470,
     awardedBy:'Ministry of Health & Family Welfare', contractor:'HSCC (India) Ltd', owner:'AIIMS / MoHFW', img:'hospital campus, Kothipura', score:null, ratings:0,
@@ -165,7 +165,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'IIT-MANDI', name:'IIT Mandi (Kamand campus)', category:'Schools & education', level:'center', coords:[31.78,76.99], social_queries:['IIT Mandi','Kamand campus','IIT Mandi placement','IIT Mandi research'], wikipedia_url:'https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Mandi',
+    id:'IIT-MANDI', name:'IIT Mandi (Kamand campus)', category:'Schools & education', level:'center', coords:[31.78,76.99], social_queries:['IIT Mandi','Kamand campus','IIT Mandi placement','IIT Mandi research'], image_url:'https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/IIT_Mandi.svg/330px-IIT_Mandi.svg.png', image_credit:'Logo: IIT Mandi (via Wikipedia, fair use)', wikipedia_url:'https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Mandi',
     dists:['Mandi'], districtLabel:'Mandi', status:'completed', progress:100, delayed:false,
     start:'2009', eta:'2017', completed:'2017', budget:1010, spent:1010,
     awardedBy:'Ministry of Education', contractor:'CPWD / HSCC',
@@ -238,7 +238,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'DHAULASIDH-HEP', name:'Dhaulasidh Hydroelectric Project (66 MW)', category:'Power & hydro', level:'center', coords:[31.78,76.30], social_queries:['Dhaulasidh','Dhaulasidh SJVN','Beas hydro Hamirpur','SJVN Dhaulasidh'], wikipedia_url:'https://en.wikipedia.org/wiki/Dhaulasidh_Hydroelectric_Project',
+    id:'DHAULASIDH-HEP', name:'Dhaulasidh Hydroelectric Project (66 MW)', category:'Power & hydro', level:'center', coords:[31.78,76.30], social_queries:['Dhaulasidh','Dhaulasidh SJVN','Beas hydro Hamirpur','SJVN Dhaulasidh'], 
     dists:['Hamirpur','Kangra'], districtLabel:'Hamirpur · Kangra', status:'active', progress:85, delayed:true,
     start:'May 2021', eta:'2026', budget:688, spent:540,
     awardedBy:'Govt of India / Govt of HP', contractor:'Rithwik Projects Pvt Ltd (civil)', owner:'SJVN Ltd (PSU)', img:'barrage / Beas river', score:null, ratings:0,
@@ -255,7 +255,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'KOLDAM-HEP', name:'Koldam Hydroelectric Power Station (800 MW)', category:'Power & hydro', level:'center', coords:[31.41,76.89], social_queries:['Koldam','Kol Dam','NTPC Koldam','Sutlej Barmana dam'], wikipedia_url:'https://en.wikipedia.org/wiki/Koldam_Hydroelectric_Power_Project',
+    id:'KOLDAM-HEP', name:'Koldam Hydroelectric Power Station (800 MW)', category:'Power & hydro', level:'center', coords:[31.41,76.89], social_queries:['Koldam','Kol Dam','NTPC Koldam','Sutlej Barmana dam'], image_url:'https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Power_House_IMG_20200505_171842.jpg/640px-Power_House_IMG_20200505_171842.jpg', image_credit:'Photo: Wikimedia Commons · CC BY-SA', wikipedia_url:'https://en.wikipedia.org/wiki/Koldam_Dam',
     dists:['Bilaspur','Mandi'], districtLabel:'Bilaspur · Mandi', status:'completed', progress:100, delayed:true,
     start:'2004', eta:'2015', completed:'Jun 2015', budget:4527, spent:4527,
     awardedBy:'Ministry of Power', contractors:['Italian-Thai Development (civil JV lead)','Subcontracted Indian civil packages','Andritz Hydro / Voith (E&M packages, as relevant)'], owner:'NTPC Ltd (PSU)', img:'rockfill dam on the Sutlej', score:null, ratings:0,
@@ -306,7 +306,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'SHINKULA-TUNL', name:'Shinku La Tunnel', category:'Bridges & tunnels', level:'center', coords:[32.78,77.51], social_queries:['Shinku La tunnel','Shinkun La','BRO Shinku La','Darcha Padam tunnel'], wikipedia_url:'https://en.wikipedia.org/wiki/Shinku_La_Tunnel',
+    id:'SHINKULA-TUNL', name:'Shinku La Tunnel', category:'Bridges & tunnels', level:'center', coords:[32.78,77.51], social_queries:['Shinku La tunnel','Shinkun La','BRO Shinku La','Darcha Padam tunnel'], 
     dists:['Lahaul-Spiti'], districtLabel:'Lahaul-Spiti', status:'active', progress:12, delayed:true,
     start:'May 2025', eta:'2028', budget:1681, spent:210,
     awardedBy:'Union Cabinet / Ministry of Defence', contractor:'BRO (Project Yojak)', owner:'Border Roads Organisation', img:'tunnel portal near Shinku La pass', score:null, ratings:0,
@@ -428,7 +428,7 @@ window.NIRMAN_PROJECTS = [
   },
 
   {
-    id:'SHONGTONG-HEP', name:'Shongtong Karcham Hydroelectric Project (450 MW)', category:'Power & hydro', level:'state', coords:[31.59,78.18], social_queries:['Shongtong Karcham','Shongtong HPPCL','Kinnaur hydro','Satluj Shongtong'], wikipedia_url:'https://en.wikipedia.org/wiki/Shongtong_Karcham_Hydroelectric_Project',
+    id:'SHONGTONG-HEP', name:'Shongtong Karcham Hydroelectric Project (450 MW)', category:'Power & hydro', level:'state', coords:[31.59,78.18], social_queries:['Shongtong Karcham','Shongtong HPPCL','Kinnaur hydro','Satluj Shongtong'], 
     dists:['Kinnaur'], districtLabel:'Kinnaur', status:'active', progress:75, delayed:true,
     start:'2012', eta:'2026', budget:2113, spent:1600,
     awardedBy:'Govt of Himachal Pradesh (ADB / KfW financing)', contractors:['Andritz Hydro (E&M)','HPPCL civil packages','Tunnel specialist contractors'], owner:'HP Power Corporation Ltd (HPPCL)', img:'underground powerhouse / Satluj barrage', score:null, ratings:0,
@@ -445,7 +445,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'BAJOLI-HOLI-HEP', name:'Bajoli Holi Hydroelectric Project (180 MW)', category:'Power & hydro', level:'state', coords:[32.46,76.55], social_queries:['Bajoli Holi','GMR Bajoli Holi','Ravi hydro Chamba','Holi Bharmour power'], wikipedia_url:'https://en.wikipedia.org/wiki/Bajoli_Holi_Hydroelectric_Project',
+    id:'BAJOLI-HOLI-HEP', name:'Bajoli Holi Hydroelectric Project (180 MW)', category:'Power & hydro', level:'state', coords:[32.46,76.55], social_queries:['Bajoli Holi','GMR Bajoli Holi','Ravi hydro Chamba','Holi Bharmour power'], 
     dists:['Chamba'], districtLabel:'Chamba', status:'completed', progress:100, delayed:true,
     start:'2013', eta:'2022', completed:'Mar 2022', budget:2205, spent:2205,
     awardedBy:'Govt of Himachal Pradesh (allotted to GMR)', contractors:['GMR Bajoli Holi Hydropower (civil, project owner)','GE Renewable Energy (E&M turbines & generators)','Civil package subcontractors'], owner:'GMR Bajoli Holi Hydropower Pvt Ltd', img:'powerhouse on the upper Ravi', score:null, ratings:0,

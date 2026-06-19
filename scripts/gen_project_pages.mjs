@@ -174,6 +174,10 @@ function renderPage(p, social, related) {
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Devanagari:wght@500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../../pages.css">
 <style>
+  .project-photo{margin:18px 0 24px}
+  .project-photo img{width:100%;max-height:380px;object-fit:cover;border-radius:12px;border:1px solid #e7e6dd;display:block}
+  .project-photo figcaption{font-size:11px;color:#8a8a7e;margin-top:6px;text-align:right}
+  .project-photo figcaption a{color:#5c686f;text-decoration:underline}
   .project-hero{
     background:#fff;border:1px solid #e7e6dd;border-radius:14px;
     padding:24px 26px;margin-bottom:24px;
@@ -241,6 +245,13 @@ ${JSON.stringify(jsonLd(p), null, 2)}
   <p class="page-eyebrow">${esc(p.category)} · ${esc(p.districtLabel)} · ${LEVEL_LABEL[p.level||'center']}-level</p>
   <h1>${esc(p.name)}</h1>
   <p class="lede">${esc(p.desc)}</p>
+
+  ${p.image_url ? `
+    <figure class="project-photo">
+      <img src="${esc(p.image_url)}" alt="${esc(p.name)} — photograph" loading="lazy">
+      <figcaption>${esc(p.image_credit || 'Photo via Wikipedia')}${p.wikipedia_url ? ` · <a href="${esc(p.wikipedia_url)}" target="_blank" rel="noopener">Source article</a>` : ''}</figcaption>
+    </figure>
+  ` : ''}
 
   <section class="project-hero">
     <div class="meta-row">

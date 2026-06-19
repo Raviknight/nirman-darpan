@@ -670,9 +670,12 @@ function renderGrid(){
     const ratingsFmt = (p.ratings + cmCount).toLocaleString('en-IN');
     const lvl = p.level || 'center';
     const lvlBadge = `<span class="level-tag" style="background:${LEVEL_BADGE_BG[lvl]};color:${LEVEL_BADGE_FG[lvl]}">${LEVEL_LABEL[lvl]}</span>`;
+    const imgStyle = p.image_url
+      ? `background-image:linear-gradient(rgba(0,0,0,.05),rgba(0,0,0,.35)),url('${esc(p.image_url)}');background-size:cover;background-position:center`
+      : '';
     return `
       <article class="card" data-open="${esc(p.id)}">
-        <div class="card-img">
+        <div class="card-img" style="${imgStyle}">
           <span class="card-cat"><span class="dot" style="background:${c}"></span>${esc(p.category)}</span>
           <span class="status-pill ${completed?'completed':'active'}">${completed?'Completed':'In progress'}</span>
         </div>
@@ -1321,10 +1324,10 @@ function renderModal(){
   root.innerHTML = `
     <div class="modal-backdrop" data-close="1">
       <div class="modal" data-stop="1" role="dialog" aria-modal="true" aria-labelledby="modal-title-${esc(p.id)}">
-        <div class="modal-hero">
+        <div class="modal-hero" style="${p.image_url ? `background-image:linear-gradient(rgba(0,0,0,.05),rgba(0,0,0,.45)),url('${esc(p.image_url)}');background-size:cover;background-position:center` : ''}">
           <button class="modal-close" data-close="1" aria-label="Close project panel">✕</button>
           <span class="modal-status status-pill ${completed?'completed':'active'}">${completed?'Completed':'In progress'}</span>
-          <span class="modal-cap">${esc(p.img)}</span>
+          <span class="modal-cap">${p.image_url ? esc(p.image_credit || 'Photo via Wikipedia') : esc(p.img)}</span>
         </div>
         <div class="modal-body">
           <div class="modal-meta-row">
