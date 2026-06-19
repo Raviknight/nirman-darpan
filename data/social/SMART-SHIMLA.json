@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-19T12:29:01.349Z",
+  "updated_at": "2026-06-19T13:28:17.070Z",
   "project_id": "SMART-SHIMLA",
   "counts": {
-    "press": 73,
+    "press": 74,
     "gov": 0,
     "en": 45,
-    "hi": 28,
-    "total": 73
+    "hi": 29,
+    "total": 74
   },
   "mentions": [
     {
@@ -120,6 +120,16 @@
       "match": "Shimla Smart City"
     },
     {
+      "title": "माननीयों के लिए शिमला माल रोड को बना दिया पार्किंग जोन, हाईकोर्ट ने सरकार से मांगा सारा रिकॉर्ड - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWXQtaUZrcTVwZjBxVWMtNExWSTd0OGdoTmlyaklVUFdWbmg0ZXZGQ2RIZTNWck8zb1VxTXJjZTBhWWVEeDcyTWdocFU1RnVuUWl4OE0zYUZhVTZSQlBqVWJ4TGNod05adUdJa1VVMUtSM1VudXRfWmZfem9IdXpOVFdkM3dwM2xZRTdSaDN6TWtYV0VBZVBuNjVrbmlMNEFYTU9Nc1d5NFlBczVYRHJlQ0RLc2NHWXlBMEd5dzI1azRpbWhUNWh2aHFUa2QtRExRQkJEYVZsSEFpVUlPanQyWdIB5gFBVV95cUxNanFsWk8zbml0ajJCZnFORGdUa0ZyTUFXelVkanBoUmY1bG5Xei1jOEg5TGxXaUpTcDBEckxDQkpfajJVQzVnc3VfU29ySkZOb253amlXNFowUWVyR0xIbEZ1UmdGWmxpV0VjSEw3VEdBbk1QNEFwcE5aQ3RMa2ZVdHBIY3VxNXVudURVV3IyQVJoNkR3elk4TDdTeHZPU1RPQVIwQWdQZmFRMHJLQmVDMVBRb1hTQWR1TTJYcjh2cldLUHNad2tuTzNyX2p6czF0ZGFhTzRuRVVBdktkcHd5b0RtNnNGQQ?oc=5",
+      "date": "2025-11-12T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mall Road Shimla"
+    },
+    {
       "title": "Shimla boarding school: Three students go missing during outing; found safe within a day - The Times of India",
       "source": "The Times of India",
       "source_id": "google-news-en",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Shimla Smart City"
-    },
-    {
-      "title": "Shimla Snowfall Video: शिमला में क्रिसमस से पहले हुई जबरदस्त बर्फ़बारी, पर्यटकों में खुशी - Zee News",
-      "source": "Zee News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR1d0SklPQ2dab2FJOExyNzllQmhDY1ZoV0VNaEFCMjVOTWJWM1k4ZTdicnhENzFMak9seW54dDVvMGVqWXNFckJaMkJHRTdvclN2dldFVklrRVltV0xwem85Tmh3ZEdiY0d2U2tlZEUwMkZadl92QXhvc2dGUUY3NXBDUy1VLUwycnJYZVVXbVU3eVhxRHhZVU1GazBxVWQ1MHVwcFNoVzB2WVZCbGhGSWhfcllpdEV1VG5uSFVualQzSUx1Zk14dURjRF9DdmZNXy10N1A1N3g3anBacTB5U0RuMHFhdzJOajZjSmtrLVJlVVlydmNRR3pnMncxUTVwXy1n?oc=5",
-      "date": "2024-12-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Mall Road Shimla"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-19T12:28:57.100Z",
+  "updated_at": "2026-06-19T13:28:13.177Z",
   "project_id": "IIT-MANDI",
   "counts": {
-    "press": 258,
+    "press": 260,
     "gov": 0,
-    "en": 148,
-    "hi": 110,
-    "total": 258
+    "en": 149,
+    "hi": 111,
+    "total": 260
   },
   "mentions": [
     {
@@ -100,6 +100,16 @@
       "match": "IIT Mandi"
     },
     {
+      "title": "Mandi: चालक-परिचालक भाई-भाई, लेकर रहेंगे पाई-पाई के नारों से गूंजा मंडी बस स्टैंड - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMWlDem5oRlVwNGE3OUJhSE5JUG5zcWpsZUdON2IzWWxTdlVXRlhyN1lYUTBha1pMb0xiUnR5RE4zeTk4ajRPT0VPckdaZ3ZVLXhHVmNKdmxMeHBvTWFXNWdWNWExYWdLSEVEM0NpN19uaGJ5bDJiX2FoRzNoM09hc2c2U0tqNnk1QkIxUGxjTTIxZkt4RVhXV0xPU3BWREtPZjBIQmprYVF6b1hXRkZGVTlRRFhBNUJpdWVDZ3VlSEdwSXFMbWhueWZPUEd5NHFHY2w5czRlQU8zTXRjZER1ZlZxOWI1alp0N0xWb1kybGs?oc=5",
+      "date": "2026-06-12T09:39:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
       "title": "IIT Mandi, NSDC Launch HIMSHIKHAR - BW Education",
       "source": "BW Education",
       "source_id": "google-news-en",
@@ -180,31 +190,21 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "IIT मंडी में बीटेक के तीन नए कोर्स शुरू, क्वांटम साइंस एंड इंजीनियरिंग शुरू कर देश का पहला संस्थान बना - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa2lreXBXRkY2d0ROTy03M09ONjBQbWRhMEYyc1daRGpNSU14S0t2bVJBeGkwd0Q4bXZXTjN1WjNUQnRqV3Z3Tk5SN2xCZ1JRT0FVLV9KT0x5ajBrSVpCZmlad211YW4wXzA1WUlPNi1Nbi1NMUZZQ1kwUnRwRFdvWTFlU0VsbXVmNWlQMS10UmdERG80Smh5ZmlsamwweUJJT1RtN0ZwZ2FXWm9JNjd4ZzJ2ZWM0RHBwemNFbnNZYWRXSGlid3FNU1liNm9TYjNZ?oc=5",
-      "date": "2026-06-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT Mandi launches India’s first IIT B.Tech programme in Quantum Science and Engineering - Bilkul Online",
-      "source": "Bilkul Online",
+      "title": "3 new BTech programmes at IIT-Mandi - The Tribune",
+      "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmR2UGs3YkRKX0hYejhFRUJiZDJFWXhKMGFBNEp1bHFsOFdaVGFfSDZTWl82VzNhNktYckNoWEZDcHo3b2RkWGl6UzNna2lzSWtHMmdmUnMzQU82MzVEc0NVQVRFNTN2ZE1vOEFOVktES1Zidi1nMEhPMkl2ek5wdkZkUlNQZWJ2VmgwMU5EckpuY1NKWkp3dUxlaWp3ZWVSRmpFMmJxU0dabGJMenh5VVJ6REFQWjZwYlFndnJSV0NlQQ?oc=5",
-      "date": "2026-06-09T06:48:24.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVUpVNGNnZXg4c3JUcEdBbmJiaGZJUGs3dk5FajJkTjNVbmZjZTFFSk1vMzl2ZklQMW9nc0dQVW14NnA0WkRNNGZaUndVandDbDNyNzJZN2ZaX2k3U3VMMzFxY2hUQmo4b1AweUEwTkdLOHRVYzVpZF94Mk9JNk9iemtxTkRHZw?oc=5",
+      "date": "2026-06-09T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "IIT Mandi"
     },
     {
-      "title": "Himachal: आईआईटी मंडी में अब क्वांटम साइंस इंजीनियरिंग की भी होगी पढ़ाई, तीन नए बीटेक कोर्स शुरू - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "IIT मंडी में बीटेक के तीन नए कोर्स शुरू, क्वांटम साइंस एंड इंजीनियरिंग शुरू कर देश का पहला संस्थान बना - Jagran",
+      "source": "Jagran",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZXc1cFBrSnhxRWFncXRobjFqSF9wTHF5YVJtNllrWkllLV9hbXJyOXppR3ZlT0dWcGJONVBzaE5OdkpBRjktTGNlQU94cUh5REpWRlpUZTZ1UWRXM2FzMGdQQTdjV1laaXktZnd0d3pxWFZzU1RrSkFJTjNncmZ6MzVPYzNQbHVVSVZlTVhYOE1LLUlXRmppRXVqc3JlUGw4UlJzd2hVN3pPam9ZYXo4ZVA3MFp0MXBsVGo3LUpZOGtRRmh2RnE1aHFiUU05TlpMekJJQ3Fn0gHbAUFVX3lxTFAwWDFVc2FsTnRXdGdYR3Joa1RiT20xNEEycW9uTm9rUUFOcHhlYm5idVNXNV9FTmN1QW5uRDNnXzJBUURONnJZbkhHMzhIY1lCRkRHN05CelRCNmJIQkV6X3NvVVdtNlE5MHVRU1pFMWFhcERhSWQ3RkVWVkdONVBiY3VZZEwxYk9WTFFNVzdNZ1luNERabE5FaHhwaE5KWWxzU0Q4SEpybnF4YXVPcGFvMGJTTmNxdHdmSDNlajJOUWt6UDFDMWc4YUl5S1E5cENGRG9zeUNwM1owMA?oc=5",
-      "date": "2026-06-08T23:30:03.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa2lreXBXRkY2d0ROTy03M09ONjBQbWRhMEYyc1daRGpNSU14S0t2bVJBeGkwd0Q4bXZXTjN1WjNUQnRqV3Z3Tk5SN2xCZ1JRT0FVLV9KT0x5ajBrSVpCZmlad211YW4wXzA1WUlPNi1Nbi1NMUZZQ1kwUnRwRFdvWTFlU0VsbXVmNWlQMS10UmdERG80Smh5ZmlsamwweUJJT1RtN0ZwZ2FXWm9JNjd4ZzJ2ZWM0RHBwemNFbnNZYWRXSGlid3FNU1liNm9TYjNZ?oc=5",
+      "date": "2026-06-09T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "IIT Mandi"
