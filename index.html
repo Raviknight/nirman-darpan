@@ -385,6 +385,28 @@
   .comment p{font-size:13px;line-height:1.55;color:#41474a;margin:0}
   .comment-count{font-family:'IBM Plex Mono',monospace;font-size:12px;color:#a4a294;font-weight:400}
 
+  /* Voting widget (Phase 2.2) */
+  .vote-row{display:flex;gap:10px;margin-top:14px}
+  .vote-btn{
+    flex:1;display:flex;align-items:center;justify-content:center;gap:10px;
+    background:#f4f3ee;border:1.5px solid #dddccf;border-radius:9px;
+    padding:11px 14px;cursor:pointer;
+    font-family:'Public Sans',sans-serif;color:#5c686f;
+    transition:background .12s,border-color .12s,color .12s;
+  }
+  .vote-btn:hover:not(:disabled){background:#fff;border-color:#cfd6cd}
+  .vote-btn:disabled{cursor:wait;opacity:.7}
+  .vote-btn.up.on{background:#e7f0ea;border-color:#2f7d52;color:#1b5640}
+  .vote-btn.down.on{background:#f7e7e3;border-color:#b04a3a;color:#b04a3a}
+  .vote-ico{font-size:16px;line-height:1}
+  .vote-count{font-family:'IBM Plex Mono',monospace;font-size:15px;font-weight:600;color:#232a2e;min-width:28px;text-align:left}
+  .vote-btn.up.on .vote-count{color:#1b5640}
+  .vote-btn.down.on .vote-count{color:#b04a3a}
+  .vote-label{font-size:12px;font-weight:600}
+  .vote-meta{font-size:11px;color:#a4a294;margin:10px 0 0;line-height:1.5}
+  .vote-meta a{color:#1b5640;font-weight:600;cursor:pointer;text-decoration:underline}
+  .vote-meta b{color:#41474a}
+
   /* Public conversation panel (Phase 3.1 — press aggregation) */
   .social-panel{background:#fff;border:1px solid #e7e6dd;border-radius:12px;padding:18px;margin-bottom:24px}
   .social-panel .social-head{display:flex;justify-content:space-between;align-items:flex-start}

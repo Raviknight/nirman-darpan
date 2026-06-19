@@ -114,6 +114,7 @@ const NIRMAN_AW = (() => {
     cfg, client, account, databases, Query, ID, Permission, Role,
     user: null,
     commentsCache: {}, // projectId → Document[]
+    votesCache: {},    // projectId → { up, down, myDir, myDocId, loadedAt }
 
     async refreshUser() {
       try { this.user = await this.account.get(); }
@@ -145,6 +146,50 @@ const NIRMAN_AW = (() => {
       ]);
       this.commentsCache[projectId] = r.documents;
       return r.documents;
+    },
+
+    async loadVotes(projectId) {
+      const r = await this.databases.listDocuments(this.cfg.databaseId, this.cfg.collections.votes, [
+        this.Query.equal('project_id', projectId),
+        this.Query.limit(5000),
+      ]);
+      const votes = r.documents;
+      const up = votes.filter(v => v.direction === 1).length;
+      const down = votes.filter(v => v.direction === -1).length;
+      const mine = this.user ? votes.find(v => v.user_id === this.user.$id) : null;
+      if (!this.votesCache) this.votesCache = {};
+      this.votesCache[projectId] = {
+        up, down,
+        myDir: mine ? mine.direction : null,
+        myDocId: mine ? mine.$id : null,
+        loadedAt: Date.now(),
+      };
+      return this.votesCache[projectId];
+    },
+
+    async castVote(projectId, direction) {
+      if (!this.user) throw new Error('Sign in first');
+      const cached = (this.votesCache && this.votesCache[projectId]) || null;
+      if (cached && cached.myDocId) {
+        if (cached.myDir === direction) {
+          // toggle off
+          await this.databases.deleteDocument(this.cfg.databaseId, this.cfg.collections.votes, cached.myDocId);
+        } else {
+          await this.databases.updateDocument(this.cfg.databaseId, this.cfg.collections.votes, cached.myDocId, { direction });
+        }
+      } else {
+        const perms = [
+          this.Permission.read(this.Role.any()),
+          this.Permission.update(this.Role.user(this.user.$id)),
+          this.Permission.delete(this.Role.user(this.user.$id)),
+        ];
+        await this.databases.createDocument(
+          this.cfg.databaseId, this.cfg.collections.votes, this.ID.unique(),
+          { project_id: projectId, user_id: this.user.$id, direction },
+          perms,
+        );
+      }
+      return this.loadVotes(projectId);
     },
 
     async postComment({ projectId, sentiment, text, location }) {
@@ -508,6 +553,63 @@ function renderGrid(){
 // Cache for data/social/<id>.json (filled lazily on first modal open per project).
 const socialCache = {};
 
+function renderPerceptionPanel(projectId){
+  if (!NIRMAN_AW) {
+    return `
+      <div class="perception" style="background:#fbf8ef">
+        <h4 class="sect" style="margin:0 0 4px">Public perception</h4>
+        <p style="font-size:13px;color:#7d8a82;line-height:1.5;margin:0">
+          Voting goes live in Phase 2. The Appwrite layer isn't configured in this build —
+          see <a href="docs/APPWRITE_SETUP.md">docs/APPWRITE_SETUP.md</a>.
+        </p>
+      </div>`;
+  }
+  const v = NIRMAN_AW.votesCache[projectId] || { up: 0, down: 0, myDir: null };
+  const total = v.up + v.down;
+  const showPct = total >= 25;
+  const upPct = total ? Math.round(v.up / total * 100) : 0;
+  const downPct = 100 - upPct;
+  const myFoot = !NIRMAN_AW.user
+    ? `<p class="vote-meta"><a data-do-signin="1">Sign in</a> to cast your vote · one vote per verified resident per project.</p>`
+    : (v.myDir
+        ? `<p class="vote-meta">You voted <b>${v.myDir === 1 ? 'helpful' : 'concern'}</b>. <a data-do-unvote="1" data-dir="${v.myDir}" data-pid="${esc(projectId)}">Remove vote</a></p>`
+        : `<p class="vote-meta">One vote per verified resident per project. Click again on the same button to remove.</p>`);
+
+  return `
+    <div class="perception">
+      <div class="perception-top">
+        <div>
+          <h4 class="sect" style="margin:0">Public perception</h4>
+          <div class="perception-sub">${total} verified resident vote${total === 1 ? '' : 's'}${showPct ? '' : ' · percentages hidden below 25'}</div>
+        </div>
+      </div>
+      <div class="vote-row">
+        <button class="vote-btn up ${v.myDir === 1 ? 'on' : ''}" type="button" data-vote="1" data-pid="${esc(projectId)}" aria-pressed="${v.myDir === 1}">
+          <span class="vote-ico">👍</span>
+          <span class="vote-count">${v.up}</span>
+          <span class="vote-label">Helpful</span>
+        </button>
+        <button class="vote-btn down ${v.myDir === -1 ? 'on' : ''}" type="button" data-vote="-1" data-pid="${esc(projectId)}" aria-pressed="${v.myDir === -1}">
+          <span class="vote-ico">👎</span>
+          <span class="vote-count">${v.down}</span>
+          <span class="vote-label">Concerns</span>
+        </button>
+      </div>
+      ${showPct ? `
+        <div class="perception-bar" style="margin-top:12px">
+          <div style="width:${upPct}%;background:#3f9e6a"></div>
+          <div style="width:${downPct}%;background:#c2664f"></div>
+        </div>
+        <div class="perception-legend" style="margin-top:6px">
+          <span class="pos">● Helpful ${upPct}%</span>
+          <span class="neg">● Concerns ${downPct}%</span>
+        </div>
+      ` : ''}
+      ${myFoot}
+    </div>
+  `;
+}
+
 async function loadSocial(id){
   if (id in socialCache) return socialCache[id];
   try {
@@ -625,11 +727,17 @@ function renderModal(){
   if (!p) { root.innerHTML = ''; document.body.style.overflow = ''; return; }
   document.body.style.overflow = 'hidden';
 
-  // Kick off an async fetch from Appwrite on first open per project; the
-  // resolved fetch re-renders the modal with real comments in place.
+  // Kick off async fetches from Appwrite on first open per project. Resolved
+  // calls re-render the modal in place.
   if (NIRMAN_AW && !NIRMAN_AW.commentsCache[p.id]) {
     NIRMAN_AW.commentsCache[p.id] = []; // mark in-flight so we don't refetch
     loadCommentsFromAppwrite(p.id);
+  }
+  if (NIRMAN_AW && !NIRMAN_AW.votesCache[p.id]) {
+    NIRMAN_AW.votesCache[p.id] = { up: 0, down: 0, myDir: null, myDocId: null };
+    NIRMAN_AW.loadVotes(p.id)
+      .then(() => { if (state.selectedId === p.id) renderModal(); })
+      .catch(() => {});
   }
 
   const c = CAT_COLOR[p.category] || '#5c686f';
@@ -726,36 +834,7 @@ function renderModal(){
           <h4 class="sect">Timeline</h4>
           <div class="timeline">${msHtml}</div>
 
-          ${(ratings >= 25) ? `
-            <div class="perception">
-              <div class="perception-top">
-                <div>
-                  <h4 class="sect" style="margin:0">Public perception</h4>
-                  <div class="perception-sub">From ${ratingsFmt} verified voices across sources</div>
-                </div>
-                ${p.score ? `<div class="perception-score">${p.score.toFixed(1)}<small>/ 5.0</small></div>` : ''}
-              </div>
-              <div class="perception-bar">
-                <div style="width:${p.sentiment.p}%;background:#3f9e6a"></div>
-                <div style="width:${p.sentiment.n}%;background:#dcb24f"></div>
-                <div style="width:${p.sentiment.x}%;background:#c2664f"></div>
-              </div>
-              <div class="perception-legend">
-                <span class="pos">● Positive ${p.sentiment.p}%</span>
-                <span class="neu">● Neutral ${p.sentiment.n}%</span>
-                <span class="neg">● Concern ${p.sentiment.x}%</span>
-              </div>
-            </div>
-          ` : `
-            <div class="perception" style="background:#fbf8ef">
-              <h4 class="sect" style="margin:0 0 4px">Public perception</h4>
-              <p style="font-size:13px;color:#7d8a82;line-height:1.5;margin:0">
-                Sentiment is hidden until at least <b>25 verified voices</b> have weighed in.
-                Showing percentages from a smaller sample is statistical theatre. Voices are coming in Phase 2
-                via verified resident sign-in.
-              </p>
-            </div>
-          `}
+          ${renderPerceptionPanel(p.id)}
 
           <div id="social-panel-${esc(p.id)}" class="social-panel">${renderSocialPanel(p.id)}</div>
 
@@ -861,6 +940,45 @@ function wireModal(){
   if (composerSignIn) {
     composerSignIn.addEventListener('click', openSignInCard);
   }
+
+  // Vote buttons.
+  root.querySelectorAll('.vote-btn').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      if (!NIRMAN_AW) return;
+      if (!NIRMAN_AW.user) { openSignInCard('Sign in to cast your vote.'); return; }
+      const pid = btn.getAttribute('data-pid');
+      const dir = parseInt(btn.getAttribute('data-vote'), 10);
+      btn.disabled = true;
+      try {
+        await NIRMAN_AW.castVote(pid, dir);
+        renderGrid();
+        renderModal();
+      } catch (err) {
+        btn.disabled = false;
+        alert((err && err.message) || 'Vote failed.');
+      }
+    });
+  });
+
+  // "Sign in" link inside the perception panel.
+  root.querySelectorAll('[data-do-signin]').forEach(a => {
+    a.addEventListener('click', (e) => { e.preventDefault(); openSignInCard(); });
+  });
+
+  // "Remove vote" link — re-casts the same direction which toggles off.
+  root.querySelectorAll('[data-do-unvote]').forEach(a => {
+    a.addEventListener('click', async (e) => {
+      e.preventDefault();
+      const dir = parseInt(a.getAttribute('data-dir'), 10);
+      const pid = a.getAttribute('data-pid');
+      try {
+        await NIRMAN_AW.castVote(pid, dir);
+        renderModal();
+      } catch (err) {
+        alert((err && err.message) || 'Could not remove vote.');
+      }
+    });
+  });
 
   // "Show all N mentions" — expand the social panel inline.
   root.querySelectorAll('.social-more').forEach(btn => {

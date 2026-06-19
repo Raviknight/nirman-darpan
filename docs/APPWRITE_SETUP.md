@@ -73,7 +73,9 @@ Attributes:
 
 Settings → Permissions:
 - `any` → Read
-- `users` → Create
+- `users` → Create, **Update**, **Delete**
+
+> **For Phase 2.2 (voting widget):** add **Update** and **Delete** to `users` so a resident can change their vote or remove it. Then toggle **Row security: ON** at the top of the same Settings tab — that enforces "you can only update / delete your own vote row" via the row-level permissions the client sets on create.
 
 Indexes:
 - `one_vote_per_user_per_project` · Type: **`unique`** · Attributes: `project_id (ASC)`, `user_id (ASC)`.
