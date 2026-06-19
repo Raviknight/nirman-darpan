@@ -169,13 +169,18 @@ const NIRMAN_AW = (() => {
       return this.user;
     },
 
-    async sendMagicLink(email) {
-      const url = window.location.origin + window.location.pathname;
-      return this.account.createMagicURLToken(this.ID.unique(), email, url);
+    // Email OTP (6-digit code), not Magic URL. Magic URL tokens were being
+    // pre-consumed by Gmail / Outlook security scanners before the user
+    // could click — single-use tokens + scanner pre-fetch = "Invalid token"
+    // every time. OTP avoids the problem entirely (no URL to pre-fetch) and
+    // is a friendlier flow for Indian users used to bank/telecom OTPs.
+    async sendEmailOTP(email) {
+      const token = await this.account.createEmailToken(this.ID.unique(), email);
+      return { userId: token.userId };
     },
 
-    async completeMagicLink(userId, secret) {
-      await this.account.createSession(userId, secret);
+    async verifyEmailOTP(userId, code) {
+      await this.account.createSession(userId, code);
       return this.refreshUser();
     },
 
@@ -377,19 +382,33 @@ function openSignInCard(prefillMsg){
     <div style="position:fixed;inset:0;background:rgba(18,40,30,.5);backdrop-filter:blur(3px);z-index:60;display:flex;align-items:center;justify-content:center;padding:20px">
       <div style="background:#fff;border-radius:12px;max-width:420px;width:100%;padding:28px;box-shadow:0 24px 60px -20px rgba(0,0,0,.4)">
         <h3 style="font-family:'Source Serif 4',serif;font-size:20px;margin:0 0 8px;font-weight:600">Sign in to Nirman Darpan</h3>
-        <p style="font-size:13px;color:#5c686f;margin:0 0 16px;line-height:1.5">
-          Type your email. We'll send you a one-click sign-in link — no password to remember.
+        <p style="font-size:13px;color:#5c686f;margin:0 0 16px;line-height:1.5" id="signin-helptext">
+          Enter your email. We'll send you a one-time 6-digit code — no password to remember.
           Only verified residents post comments and cast votes.
         </p>
         <div id="signin-msg" style="font-size:13px;line-height:1.5;margin-bottom:12px"></div>
-        <form id="signin-form" autocomplete="on">
+
+        <form id="signin-email-form" autocomplete="on">
           <input id="signin-email" type="email" required placeholder="you@example.com" autocomplete="email"
             style="width:100%;font-family:'Public Sans',sans-serif;font-size:14px;color:#232a2e;border:1px solid #dddccf;border-radius:7px;padding:10px 12px;outline:none;margin-bottom:12px;box-sizing:border-box" />
           <div style="display:flex;gap:8px;justify-content:flex-end">
             <button type="button" id="signin-cancel" style="font-family:'Public Sans',sans-serif;font-size:13px;background:#f4f3ee;color:#5c686f;border:1px solid #dddccf;border-radius:7px;padding:9px 16px;cursor:pointer">Cancel</button>
-            <button type="submit" id="signin-send" style="font-family:'Public Sans',sans-serif;font-size:13px;font-weight:600;background:#1b5640;color:#fff;border:none;border-radius:7px;padding:9px 18px;cursor:pointer">Send magic link</button>
+            <button type="submit" id="signin-send" style="font-family:'Public Sans',sans-serif;font-size:13px;font-weight:600;background:#1b5640;color:#fff;border:none;border-radius:7px;padding:9px 18px;cursor:pointer">Send code</button>
           </div>
         </form>
+
+        <form id="signin-code-form" autocomplete="off" style="display:none">
+          <input id="signin-code" type="text" inputmode="numeric" pattern="[0-9]*" maxlength="6" required placeholder="6-digit code" autocomplete="one-time-code"
+            style="width:100%;font-family:'IBM Plex Mono',monospace;font-size:20px;letter-spacing:8px;text-align:center;color:#232a2e;border:1px solid #dddccf;border-radius:7px;padding:12px;outline:none;margin-bottom:12px;box-sizing:border-box" />
+          <div style="display:flex;gap:8px;justify-content:space-between;align-items:center">
+            <button type="button" id="signin-resend" style="font-family:'Public Sans',sans-serif;font-size:12px;color:#5c686f;background:none;border:none;cursor:pointer;text-decoration:underline">Use a different email</button>
+            <div style="display:flex;gap:8px">
+              <button type="button" id="signin-cancel-2" style="font-family:'Public Sans',sans-serif;font-size:13px;background:#f4f3ee;color:#5c686f;border:1px solid #dddccf;border-radius:7px;padding:9px 16px;cursor:pointer">Cancel</button>
+              <button type="submit" id="signin-verify" style="font-family:'Public Sans',sans-serif;font-size:13px;font-weight:600;background:#1b5640;color:#fff;border:none;border-radius:7px;padding:9px 18px;cursor:pointer">Verify &amp; sign in</button>
+            </div>
+          </div>
+        </form>
+
         <p style="font-size:11px;color:#a4a294;margin:14px 0 0;line-height:1.5">
           By signing in you agree to keep comments specific, civil, and on the public record. Comments are public and auditable.
         </p>
@@ -399,12 +418,19 @@ function openSignInCard(prefillMsg){
   document.body.appendChild(wrap);
   if (prefillMsg) {
     document.getElementById('signin-msg').innerHTML =
-      `<div style="background:#e7f0ea;color:#1b5640;padding:8px 11px;border-radius:7px">${esc(prefillMsg)}</div>`;
+      `<div style="background:#fdf6ec;color:#7a5a1e;padding:8px 11px;border-radius:7px">${esc(prefillMsg)}</div>`;
   }
   document.getElementById('signin-email').focus();
-  document.getElementById('signin-cancel').addEventListener('click', () => wrap.remove());
-  wrap.querySelector('div').addEventListener('click', (e) => { if (e.target === e.currentTarget) wrap.remove(); });
-  document.getElementById('signin-form').addEventListener('submit', async (e) => {
+
+  let pendingUserId = null;
+
+  const close = () => wrap.remove();
+  document.getElementById('signin-cancel').addEventListener('click', close);
+  document.getElementById('signin-cancel-2').addEventListener('click', close);
+  wrap.querySelector('div').addEventListener('click', (e) => { if (e.target === e.currentTarget) close(); });
+
+  // Step 1: send code
+  document.getElementById('signin-email-form').addEventListener('submit', async (e) => {
     e.preventDefault();
     const email = document.getElementById('signin-email').value.trim();
     if (!email) return;
@@ -412,57 +438,75 @@ function openSignInCard(prefillMsg){
     const btn = document.getElementById('signin-send');
     btn.disabled = true; btn.textContent = 'Sending…';
     try {
-      await NIRMAN_AW.sendMagicLink(email);
+      const { userId } = await NIRMAN_AW.sendEmailOTP(email);
+      pendingUserId = userId;
       msg.innerHTML = `<div style="background:#e7f0ea;color:#1b5640;padding:10px 12px;border-radius:7px;line-height:1.5">
-        <b>Sent.</b> Check <b>${esc(email)}</b> for a link from Appwrite (sender ends in <code>@appwrite.io</code> for the moment).<br>
+        <b>Sent.</b> A 6-digit code is on its way to <b>${esc(email)}</b>.<br>
         <span style="color:#5c686f;font-size:12px">
-          ⚠ The first one often lands in <b>Spam / Promotions</b>. Move it to Inbox and click the link there.<br>
-          The link expires in ~15 minutes, so click it soon. Clicking brings you back here signed in.
+          ⚠ First-time codes often land in <b>Spam / Promotions</b>. The code is valid for ~15 minutes.
         </span>
       </div>`;
-      btn.style.display = 'none';
-      document.getElementById('signin-cancel').textContent = 'Close';
+      document.getElementById('signin-helptext').textContent = `Enter the 6-digit code we sent to ${email}.`;
+      document.getElementById('signin-email-form').style.display = 'none';
+      document.getElementById('signin-code-form').style.display = 'block';
+      document.getElementById('signin-code').focus();
     } catch (err) {
       msg.innerHTML = `<div style="background:#f7e7e3;color:#b04a3a;padding:10px 12px;border-radius:7px">
-        ${esc(err.message || 'Could not send the link. Try again.')}
+        ${esc(err.message || 'Could not send the code. Try again.')}
       </div>`;
-      btn.disabled = false; btn.textContent = 'Send magic link';
+      btn.disabled = false; btn.textContent = 'Send code';
+    }
+  });
+
+  // "Use a different email" — back to step 1
+  document.getElementById('signin-resend').addEventListener('click', () => {
+    pendingUserId = null;
+    document.getElementById('signin-code-form').style.display = 'none';
+    document.getElementById('signin-email-form').style.display = 'block';
+    document.getElementById('signin-msg').innerHTML = '';
+    document.getElementById('signin-send').disabled = false;
+    document.getElementById('signin-send').textContent = 'Send code';
+    document.getElementById('signin-helptext').textContent = `Enter your email. We'll send you a one-time 6-digit code — no password to remember.`;
+    document.getElementById('signin-email').focus();
+  });
+
+  // Step 2: verify code
+  document.getElementById('signin-code-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const code = document.getElementById('signin-code').value.trim();
+    if (!code || !pendingUserId) return;
+    const msg = document.getElementById('signin-msg');
+    const btn = document.getElementById('signin-verify');
+    btn.disabled = true; btn.textContent = 'Verifying…';
+    try {
+      await NIRMAN_AW.verifyEmailOTP(pendingUserId, code);
+      wrap.remove();
+      renderAuthUI();
+      if (state.selectedId) renderModal();
+    } catch (err) {
+      msg.innerHTML = `<div style="background:#f7e7e3;color:#b04a3a;padding:10px 12px;border-radius:7px">
+        ${esc(err.message || 'Code did not work. Try again, or request a new one.')}
+      </div>`;
+      btn.disabled = false; btn.textContent = 'Verify & sign in';
+      document.getElementById('signin-code').select();
     }
   });
 }
 
-// Bootstrap: handle the redirect from a magic-link click.
+// Bootstrap: just rehydrate the session if cookies exist. (We used to handle
+// a Magic-URL redirect here, but switched to Email OTP — see sendEmailOTP in
+// NIRMAN_AW for why. No URL params to process anymore.)
 async function bootstrapAppwrite(){
   if (!NIRMAN_AW) { renderAuthUI(); return; }
+  // Legacy: if someone clicks an old Magic URL link, strip the params so it
+  // doesn't dangle on the URL. We don't try to consume the token.
   const params = new URLSearchParams(window.location.search);
-  const userId = params.get('userId');
-  const secret = params.get('secret');
-
-  // Preserve the deep-linked project (if any) when we scrub the magic-URL token.
-  const projectParam = params.get('project');
-
-  if (userId && secret) {
-    let signInError = null;
-    try {
-      await NIRMAN_AW.completeMagicLink(userId, secret);
-      console.log('[Appwrite] Magic-link sign-in succeeded as', NIRMAN_AW.user?.email);
-    } catch (err) {
-      console.error('[Appwrite] Magic-link sign-in failed:', err);
-      signInError = err && err.message ? err.message : 'Unknown error.';
-    }
-    // Scrub the URL so a refresh doesn't try to re-use the token, but keep ?project= if it was there.
+  if (params.has('userId') && params.has('secret')) {
+    const projectParam = params.get('project');
     const clean = window.location.origin + window.location.pathname + (projectParam ? '?project=' + encodeURIComponent(projectParam) : '');
     window.history.replaceState({}, '', clean);
-
-    if (signInError) {
-      renderAuthUI();
-      // Re-open the sign-in card with the actual error so the user knows what to do.
-      openSignInCard('Sign-in failed: ' + signInError + ' Try sending a fresh link — older ones expire in ~15 minutes.');
-      return;
-    }
-  } else {
-    await NIRMAN_AW.refreshUser();
   }
+  try { await NIRMAN_AW.refreshUser(); } catch (_) {}
   renderAuthUI();
   if (state.selectedId) renderModal();
 }

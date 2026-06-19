@@ -25,8 +25,10 @@ On the project Overview, copy:
 
 8. Sidebar → **Auth → Settings**.
 9. Enable:
-   - **Email/password**
-   - **Magic URL** (passwordless — much friendlier for citizens)
+   - **Email OTP** (passwordless — a 6-digit code is emailed; user types it in)
+   - **Email/password** (fallback, harmless to keep on)
+
+> **Why OTP, not Magic URL.** Magic URL emails contain a single-use link that Gmail and Outlook security scanners *pre-fetch* before the user clicks — by the time the human clicks, the token is already consumed and Appwrite returns "Invalid token." OTP avoids the problem entirely (no URL to pre-fetch). It's also the auth flow Indian users are most familiar with (every bank, telecom, food-delivery app uses it). If Magic URL is also enabled it's harmless; we just never call it from the site.
 
 Leave Phone, OAuth, and Anonymous off.
 
