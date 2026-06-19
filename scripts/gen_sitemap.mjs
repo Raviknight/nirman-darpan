@@ -14,11 +14,16 @@ const ids = [...projectsRaw.matchAll(/id:'([A-Z0-9-]+)'/g)].map(m => m[1]);
 const today = new Date().toISOString().slice(0, 10);
 const base = 'https://raviknight.github.io/nirman-darpan/';
 
+const editorialPages = ['about/', 'methodology/', 'corrections/', 'privacy/', 'funding/', 'code-of-conduct/'];
+
 const lines = ['<?xml version="1.0" encoding="UTF-8"?>',
   '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
   `  <url><loc>${base}</loc><lastmod>${today}</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>`];
 for (const id of ids) {
   lines.push(`  <url><loc>${base}?project=${id}</loc><lastmod>${today}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>`);
+}
+for (const slug of editorialPages) {
+  lines.push(`  <url><loc>${base}${slug}</loc><lastmod>${today}</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>`);
 }
 lines.push('</urlset>', '');
 

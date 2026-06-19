@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Methodology · Nirman Darpan</title>
+<meta name="description" content="How Nirman Darpan sources, verifies, refreshes and publishes data about Himachal Pradesh public works.">
+<link rel="canonical" href="https://raviknight.github.io/nirman-darpan/methodology/">
+<meta property="og:title" content="Methodology — Nirman Darpan">
+<meta property="og:description" content="How project records, press mentions, votes and accountability entries are sourced and verified.">
+<meta property="og:type" content="article">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Devanagari:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../pages.css">
+</head>
+<body>
+<header class="page-header">
+  <div class="page-header-inner">
+    <a href="../" class="brand">
+      <span class="hi">निर्माण दर्पण</span>
+      <span class="en">Nirman Darpan</span>
+    </a>
+    <a href="../" class="back-link">← Back to tracker</a>
+  </div>
+</header>
+
+<main class="page-main">
+  <p class="page-eyebrow">Methodology</p>
+  <h1>How we source, verify and publish.</h1>
+  <p class="lede">Nirman Darpan is a civic data product. This page is a public record of how every number, headline and accountability flag on the site got there.</p>
+
+  <h2>Project records</h2>
+  <p>Each project's core record — name, location, mandate level (Centre/State/District), category, status, budget, contractor, accountable leads, milestones — is curated from public sources. The current sources we draw from are catalogued at <a href="https://github.com/Raviknight/nirman-darpan/blob/main/data/sources.md" target="_blank" rel="noopener">data/sources.md</a>. They include:</p>
+  <ul>
+    <li><strong>Central agencies:</strong> NHAI, MoRTH, BRO, AAI, Indian Railways / RVNL, SJVN, HPPCL, MoHFW (PMSSY), Jal Shakti, MoHUA Smart Cities, BBMB.</li>
+    <li><strong>State authorities:</strong> HP State Portal, HP PWD, HP Jal Shakti Vibhag (IPH), HPSDMA, SJPNL, HP Education Department, HP Tourism Department, HPRTC.</li>
+    <li><strong>District-level:</strong> DC offices, Municipal Councils, PMGSY OMMAS.</li>
+    <li><strong>Press (for cross-verification):</strong> The Tribune, Hindustan Times, The Indian Express, The Hindu, Divya Himachal, Amar Ujala.</li>
+  </ul>
+  <p>Project records are hand-curated. Some figures — particularly budget and spent values for in-progress projects — are best-available public estimates and refined as audits and progress reports become available. The git commit history shows every change to every record, making the dataset fully auditable.</p>
+
+  <h2>Press mentions ("Public conversation" panel)</h2>
+  <p>Each project panel includes a count of recent press mentions and links to the top headlines. This is aggregated from <strong>Google News (India)</strong> in English (<code>en-IN</code>) and Hindi (<code>hi-IN</code>) locales using each project's keyword set. The aggregation:</p>
+  <ul>
+    <li>Queries phrases (not loose keywords) to reduce false positives.</li>
+    <li>Deduplicates by URL stem.</li>
+    <li>Stores per-project snapshots in <code>data/social/&lt;id&gt;.json</code> in the repo — fully visible.</li>
+    <li>Refreshes via GitHub Actions on Mondays and Thursdays.</li>
+  </ul>
+  <p>We <strong>link to headlines; we never repost the article text</strong>. This respects publisher copyright and avoids ToS issues. We also do <strong>no automated sentiment scoring</strong> on press mentions — reading the headline is a more honest signal than collapsing it into a percentage. See "What we don't do" below for why.</p>
+
+  <h3>Why these sources, not others</h3>
+  <table>
+    <thead><tr><th>Platform</th><th>Used?</th><th>Why</th></tr></thead>
+    <tbody>
+      <tr><td>Google News (India)</td><td>Yes</td><td>Aggregates thousands of Indian publishers, free, query-friendly, no per-publisher anti-bot blocks.</td></tr>
+      <tr><td>Direct publisher RSS</td><td>Partial</td><td>Used where reliable; many Indian publishers 403 automated requests now.</td></tr>
+      <tr><td>Twitter / X</td><td>No</td><td>Paid since 2023 (Basic tier $200/mo); free hashtag search is gone.</td></tr>
+      <tr><td>Facebook / Instagram</td><td>No</td><td>Public-post search via Graph API was deprecated in 2018.</td></tr>
+      <tr><td>Reddit</td><td>No (for now)</td><td>Skews young/urban/English/diaspora — not representative of HP residents.</td></tr>
+      <tr><td>Bluesky / Mastodon</td><td>No</td><td>Negligible Indian volume on HP civic topics in 2026.</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Citizen voices (Public perception panel)</h2>
+  <p>Verified residents can sign in (passwordless email link) and cast one vote per project — helpful or concerns. The "one vote per resident per project" rule is enforced by a database-level unique constraint, not just a UI nudge.</p>
+  <p>Comments require the same sign-in. Both follow the <a href="../code-of-conduct/">code of conduct</a>.</p>
+  <p><strong>Sample-size threshold:</strong> we do not show vote percentages until at least 25 verified votes exist on a project. Below that, percentages from a tiny sample are statistical theatre — we show only counts.</p>
+
+  <h2>Accountability records</h2>
+  <p>Each project's Accountability panel tracks five categories: incidents, defects, audits, grievances, and litigation. Anyone signed in can submit an entry, with a required <strong>source URL</strong>. Submissions land as <em>pending review</em> until a moderator promotes them to verified. The current moderator is the project owner; widening this to a small team is on the roadmap.</p>
+
+  <h2>Auto-sync</h2>
+  <p>A scheduled job runs Mondays and Thursdays at 19:00 UTC (≈ 00:30 IST). It refreshes:</p>
+  <ul>
+    <li><code>data/meta.json</code> — the "Auto-synced" timestamp at the top of the site.</li>
+    <li><code>data/social/*.json</code> — press snapshots per project.</li>
+    <li><code>sitemap.xml</code> — search engine index.</li>
+  </ul>
+  <p>The workflow definition is at <a href="https://github.com/Raviknight/nirman-darpan/blob/main/.github/workflows/sync.yml" target="_blank" rel="noopener">.github/workflows/sync.yml</a>.</p>
+
+  <h2>What we don't do (and why)</h2>
+  <ul>
+    <li><strong>No automated sentiment scoring</strong> on press headlines. AI models can mislabel an "audit uncovers Rs 22 cr scam" headline as neutral because it's factual. A reader who clicks the link gets a more accurate impression in two seconds than any model can summarise.</li>
+    <li><strong>No anonymous comments.</strong> Every Indian civic comment thread without auth gets flooded by vendor PR campaigns and partisan astroturf within weeks. Verification is friction, but it's the only way the signal stays meaningful.</li>
+    <li><strong>No reposting of press text.</strong> Headlines + links only.</li>
+    <li><strong>No tracking pixels or analytics.</strong> See <a href="../privacy/">privacy</a>.</li>
+    <li><strong>No blended scores.</strong> Verified-resident votes and press signal are different qualities of data. Showing one number that combines them would hide where the actual conviction lives. They are presented separately.</li>
+  </ul>
+
+  <h2>Limitations</h2>
+  <ul>
+    <li>Budget and spent figures for active projects are best-available public estimates. They are refined as audits emerge.</li>
+    <li>Site coordinates are approximate (corridor midpoint for multi-district works); refined when field-verified.</li>
+    <li>HP-only for now. The schema is portable; replication to another state is welcome.</li>
+    <li>Coverage skews to projects above ~₹100 crore. Smaller works fall through the cracks; we'd like to fix that with citizen submissions.</li>
+  </ul>
+
+  <p>If you spot an error, see <a href="../corrections/">corrections</a> for how to report it.</p>
+
+  <p class="updated-stamp">Last updated: 19 June 2026</p>
+</main>
+
+<footer class="page-footer">
+  <div class="page-footer-inner">
+    <nav>
+      <a href="../">Home</a>
+      <a href="../about/">About</a>
+      <a href="../methodology/" class="on">Methodology</a>
+      <a href="../corrections/">Corrections</a>
+      <a href="../privacy/">Privacy</a>
+      <a href="../funding/">Funding</a>
+      <a href="../code-of-conduct/">Code of Conduct</a>
+    </nav>
+    <p class="page-footer-note">निर्माण दर्पण · Nirman Darpan — independent civic-transparency project for Himachal Pradesh. Not affiliated with any government or party.</p>
+  </div>
+</footer>
+</body>
+</html>

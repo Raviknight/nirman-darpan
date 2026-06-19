@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy · Nirman Darpan</title>
+<meta name="description" content="What Nirman Darpan collects, what we do not, and your rights under India's DPDP Act 2023.">
+<link rel="canonical" href="https://raviknight.github.io/nirman-darpan/privacy/">
+<meta property="og:title" content="Privacy — Nirman Darpan">
+<meta property="og:type" content="article">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Devanagari:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../pages.css">
+</head>
+<body>
+<header class="page-header">
+  <div class="page-header-inner">
+    <a href="../" class="brand">
+      <span class="hi">निर्माण दर्पण</span>
+      <span class="en">Nirman Darpan</span>
+    </a>
+    <a href="../" class="back-link">← Back to tracker</a>
+  </div>
+</header>
+
+<main class="page-main">
+  <p class="page-eyebrow">Privacy</p>
+  <h1>What we collect, what we don't, and your rights.</h1>
+  <p class="lede">Nirman Darpan is built with the minimum data collection a civic-transparency product can run on. Plain language; nothing buried.</p>
+
+  <h2>What we collect, only from signed-in users</h2>
+  <table>
+    <thead><tr><th>Data</th><th>Why we need it</th><th>Where it lives</th></tr></thead>
+    <tbody>
+      <tr><td>Your email address</td><td>To send the sign-in link and to keep one identity per voter (the "1 verified resident, 1 vote" rule).</td><td>Appwrite Cloud (auth)</td></tr>
+      <tr><td>An account ID</td><td>Internal reference linking your votes, comments, and accountability submissions to your account.</td><td>Appwrite Cloud (auth)</td></tr>
+      <tr><td>Display name (optional)</td><td>Shown next to your public comments.</td><td>Appwrite Cloud (auth)</td></tr>
+      <tr><td>The comments, votes and submissions you make</td><td>That's the point — they're the public record.</td><td>Appwrite Cloud (database). Public by design.</td></tr>
+      <tr><td>Session cookie</td><td>Keeps you signed in across visits. First-party, secure, HTTP-only.</td><td>Your browser, scoped to Appwrite's domain.</td></tr>
+    </tbody>
+  </table>
+  <p>Visiting the site without signing in is fully anonymous from our side. We do not log visitors.</p>
+
+  <h2>What we do <em>not</em> collect</h2>
+  <ul>
+    <li>No tracking pixels — no Facebook Pixel, no Google Analytics, no Hotjar / Mixpanel / anything in that category.</li>
+    <li>No advertising networks. There are no ads on this site.</li>
+    <li>No device fingerprinting, browser fingerprinting, canvas tracking.</li>
+    <li>No precise location data. (The HP map shows district polygons, not your location.)</li>
+    <li>No phone numbers. Sign-in is email-only.</li>
+    <li>No payment data — there is nothing to pay for.</li>
+  </ul>
+
+  <h2>Third parties we use</h2>
+  <table>
+    <thead><tr><th>Service</th><th>Used for</th><th>Their privacy policy</th></tr></thead>
+    <tbody>
+      <tr><td>Appwrite Cloud (US-East NYC region)</td><td>Sign-in, comments storage, votes, accountability entries.</td><td><a href="https://appwrite.io/privacy" target="_blank" rel="noopener">appwrite.io/privacy</a></td></tr>
+      <tr><td>GitHub Pages</td><td>Hosting the site itself.</td><td><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">GitHub Privacy Statement</a></td></tr>
+      <tr><td>Google Fonts</td><td>Page typography. Loaded from <code>fonts.googleapis.com</code>.</td><td><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a></td></tr>
+      <tr><td>Google News (server-side only)</td><td>Aggregating press mentions per project. Run from a GitHub Action; no per-visitor data is sent.</td><td>—</td></tr>
+      <tr><td>Brevo (optional, if SMTP is wired)</td><td>Delivering sign-in emails to inbox instead of spam.</td><td><a href="https://www.brevo.com/legal/privacypolicy/" target="_blank" rel="noopener">brevo.com/legal/privacypolicy</a></td></tr>
+    </tbody>
+  </table>
+
+  <h2>Cookies</h2>
+  <p>We use exactly one cookie — your Appwrite session, set on the Appwrite domain. It expires automatically when you sign out, or after a period of inactivity. We do not use any advertising or tracking cookies.</p>
+
+  <h2>Your rights (DPDP Act 2023)</h2>
+  <p>India's Digital Personal Data Protection Act 2023 gives you specific rights. We honour them:</p>
+  <ul>
+    <li><strong>Right to access</strong> — see everything we hold about you. Email <a href="mailto:ravikntsh@gmail.com?subject=Data%20access%20request">ravikntsh@gmail.com</a> with your account email; you'll get an export within 7 days.</li>
+    <li><strong>Right to correction</strong> — fix wrong information. Same email.</li>
+    <li><strong>Right to erasure</strong> — delete your account and personal data. Comments and votes you posted publicly can either be removed entirely or detached from your identity (anonymised). You choose; we honour within 7 days. Note that the git commit history is a public record we cannot rewrite — only your personal data is removed.</li>
+    <li><strong>Right to grievance redressal</strong> — for complaints. <a href="mailto:ravikntsh@gmail.com?subject=Privacy%20grievance">ravikntsh@gmail.com</a>.</li>
+    <li><strong>Right to nominate</strong> — designate someone else to exercise rights on your behalf in case you cannot.</li>
+  </ul>
+  <p>If you are dissatisfied with our handling of a request, you can escalate to the Data Protection Board of India once it is operational.</p>
+
+  <h2>Children</h2>
+  <p>Nirman Darpan does not knowingly collect data from anyone under 18. Sign-in requires confirmation of adult status (we will add an explicit check). If you believe a minor has signed up, email us and we will remove the account.</p>
+
+  <h2>Changes to this policy</h2>
+  <p>Material changes are flagged in the <a href="../corrections/">corrections log</a> and at the top of this page with the new "last updated" date. Minor wording fixes are committed silently and visible in the <a href="https://github.com/Raviknight/nirman-darpan/commits/main" target="_blank" rel="noopener">git history</a>.</p>
+
+  <p class="updated-stamp">Last updated: 19 June 2026</p>
+</main>
+
+<footer class="page-footer">
+  <div class="page-footer-inner">
+    <nav>
+      <a href="../">Home</a>
+      <a href="../about/">About</a>
+      <a href="../methodology/">Methodology</a>
+      <a href="../corrections/">Corrections</a>
+      <a href="../privacy/" class="on">Privacy</a>
+      <a href="../funding/">Funding</a>
+      <a href="../code-of-conduct/">Code of Conduct</a>
+    </nav>
+    <p class="page-footer-note">निर्माण दर्पण · Nirman Darpan — independent civic-transparency project for Himachal Pradesh. Not affiliated with any government or party.</p>
+  </div>
+</footer>
+</body>
+</html>
