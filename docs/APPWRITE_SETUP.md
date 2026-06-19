@@ -156,6 +156,42 @@ That's it for the table. The site already references it as `accountability` in `
 
 ---
 
+## Phase 2.x — Email deliverability (sign-in links → inbox, not spam)
+
+Appwrite Cloud's default outbound sender (`noreply@appwrite.io` or similar) has weak email-reputation against Gmail / Outlook spam filters. First-time recipients usually find the magic-link email in **Spam / Promotions**. Two fixes, in order of how much they help:
+
+### Quick mitigation (no setup)
+- The sign-in card already warns users to check spam.
+- Recipients can "Mark as not spam" + add the sender to contacts; future emails land in inbox.
+
+### Proper fix (Brevo SMTP, free tier — ~10 minutes)
+
+1. Sign up free at <https://www.brevo.com/> (formerly Sendinblue).
+2. Brevo dashboard → **SMTP & API → SMTP** → copy:
+   - **Host:** `smtp-relay.brevo.com`
+   - **Port:** `587`
+   - **Login:** your Brevo SMTP username (an email-looking string)
+   - **Password:** your Brevo SMTP key (you generate it on the SMTP page)
+3. Brevo dashboard → **Senders** → **Add a sender** → use any email you control (e.g. `ravikntsh@gmail.com`). Brevo sends a verification email; click it.
+4. Appwrite Console → your `nirman-darpan` project → **Settings → SMTP**:
+   - Enable **Custom SMTP server**
+   - Host / Port / Login / Password from step 2
+   - **Sender email:** the one you verified in step 3
+   - **Sender name:** `Nirman Darpan`
+   - Save.
+5. Test from the site: click **Sign in** → enter your email → check inbox.
+
+Brevo free tier: 300 emails / day, no domain verification needed for the basic setup. That's enough for hundreds of resident sign-ins per day.
+
+### Better fix (custom domain — when you get one)
+
+After buying `nirmandarpan.in` or similar:
+1. Add the domain to Brevo → verify DKIM + SPF (Brevo gives you the DNS records).
+2. Update Appwrite SMTP sender to `noreply@nirmandarpan.in`.
+3. Emails now arrive from your own domain — inbox placement near 100%.
+
+---
+
 ## Future collections (placeholder)
 
 - `sources` — every citation URL we accept (per-row metadata about archives + access time).

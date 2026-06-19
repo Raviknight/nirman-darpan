@@ -413,8 +413,12 @@ function openSignInCard(prefillMsg){
     btn.disabled = true; btn.textContent = 'Sending…';
     try {
       await NIRMAN_AW.sendMagicLink(email);
-      msg.innerHTML = `<div style="background:#e7f0ea;color:#1b5640;padding:10px 12px;border-radius:7px">
-        Sent. Check <b>${esc(email)}</b> for a link from Appwrite — clicking it brings you back here signed in.
+      msg.innerHTML = `<div style="background:#e7f0ea;color:#1b5640;padding:10px 12px;border-radius:7px;line-height:1.5">
+        <b>Sent.</b> Check <b>${esc(email)}</b> for a link from Appwrite (sender ends in <code>@appwrite.io</code> for the moment).<br>
+        <span style="color:#5c686f;font-size:12px">
+          ⚠ The first one often lands in <b>Spam / Promotions</b>. Move it to Inbox and click the link there.<br>
+          The link expires in ~15 minutes, so click it soon. Clicking brings you back here signed in.
+        </span>
       </div>`;
       btn.style.display = 'none';
       document.getElementById('signin-cancel').textContent = 'Close';
@@ -433,12 +437,29 @@ async function bootstrapAppwrite(){
   const params = new URLSearchParams(window.location.search);
   const userId = params.get('userId');
   const secret = params.get('secret');
+
+  // Preserve the deep-linked project (if any) when we scrub the magic-URL token.
+  const projectParam = params.get('project');
+
   if (userId && secret) {
+    let signInError = null;
     try {
       await NIRMAN_AW.completeMagicLink(userId, secret);
-    } catch (_) { /* expired/invalid → silently fall through to "not signed in" */ }
-    // Scrub the URL so a refresh doesn't try to re-use the token.
-    window.history.replaceState({}, '', window.location.origin + window.location.pathname);
+      console.log('[Appwrite] Magic-link sign-in succeeded as', NIRMAN_AW.user?.email);
+    } catch (err) {
+      console.error('[Appwrite] Magic-link sign-in failed:', err);
+      signInError = err && err.message ? err.message : 'Unknown error.';
+    }
+    // Scrub the URL so a refresh doesn't try to re-use the token, but keep ?project= if it was there.
+    const clean = window.location.origin + window.location.pathname + (projectParam ? '?project=' + encodeURIComponent(projectParam) : '');
+    window.history.replaceState({}, '', clean);
+
+    if (signInError) {
+      renderAuthUI();
+      // Re-open the sign-in card with the actual error so the user knows what to do.
+      openSignInCard('Sign-in failed: ' + signInError + ' Try sending a fresh link — older ones expire in ~15 minutes.');
+      return;
+    }
   } else {
     await NIRMAN_AW.refreshUser();
   }
