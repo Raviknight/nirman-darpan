@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-19T16:10:07.073Z",
+  "updated_at": "2026-06-19T17:13:10.997Z",
   "project_id": "NH105-PNJ-NLG",
   "counts": {
-    "press": 30,
+    "press": 31,
     "gov": 0,
     "en": 10,
-    "hi": 20,
-    "total": 30
+    "hi": 21,
+    "total": 31
   },
   "mentions": [
     {
@@ -95,6 +95,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdGRjdmZkWDMyMzZFRVJxLUdnci1YUXd0dW1EYUctWXMwOEowSm9UQW1VeGhyMlFiS2dHVkxiX0g4LVFpSVBJRWdKSHBmNjFFdjdLT3JwR0RmZkV6X2lMek5DQ3JjRm5YaDBCYS0xQkxHejU5dHp5d0xzbzBvR0w3RkdjUDRydnBOaWJuckhQQk5SUFRvNVE0QUtGQXB2WkZ4VjFCNDlhQmlYc2Q0YUdsbzhxM0NDMWpiTlN2WTBxTWphWDdPMWpFdFd1Nnh5alRYT2RESjQwcHYzYmpQY3FjbW9FZ1JheG85ZVJJY2t3SWRINjJob0syU2hqMmUxcERIUzU1M2hUVUVkN190NVZqWDYzMGptd2poWXBfSm5XVXg5UmfSAagCQVVfeXFMTmg1NkpZWjZwQ1UxZ1Q1S0ZvQlBjcm13dWd5RGlHTWZyd1VUQ2Q4RzFKYnpvOUxvb3JWb01JRkhCdTVRTHR5d2dCb0h1UjRUdWs3TVhWdjVaWXhMLUYycTVtbnl4UnBmTWc4LXF4WGdKS25QQ2laeTlSQmVtUml5LXl5UmpHdFJhWXVDUUhydVkycExKV0VsdE5IMlEzN2I5RlhyclJEVlJnZlZOM3RKVDVUUXZJVmExZS1wemJEX0w3b3ozT3JnbGJkcG5OV2VxbFEtNlRMX1BmN2pJeWNLXzRuZXFfTUJiejQwaGd6cmpOTkQ4Qmc3QjVzcHM0NGxxSE5Way1qQXhYc2kzOEp0NjBnRHN3YXNjV01hZDFjX0RHYkdkSjl4WTg?oc=5",
       "date": "2026-03-25T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "10वीं बार टला पिंजौर-नालागढ़ फोरलेन का टेंडर - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEZnSmxncGNId29jdnBVUXNFUzJVa205Vlh3SWpFOUFPN2E0UU13MjBaYktwR0xSWmlDUWFpTkVDY3Z3M0FlWWdpODBadjJvU0pnVXVHd3B5RmhNMkZEZXo4Q21pSl90S1dmTjd1Z01fZTBkM1hkeTNNYVM2MXBjbTdsZVlKVTg4dTYtRjEyM3E3ZFo3c0paVUgyb3VreTJRTDIxM0Q5a9IBrAFBVV95cUxQMlE2Um5HZVJ6TmhsVUd0SEpPckFyWGJDU214WlZRNXdhRm9wVkVZT1J4TGR6THhtNk9CamtvRVdkS3Q1elpEQnVQYWpkZkxUa3dpSVRrQTEwc1NVTTFQc284QTFQUDVseHRuNWNDUFpRNFhiemR1SmxXN0pKTDFmWTFHdDVSS0IyYkJaVEdWUTFsRXZiVkozR0Q2RHViZ1Y4ZXc4b0l5X0lkaWZj?oc=5",
+      "date": "2026-02-20T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Pinjore Nalagarh"
@@ -194,16 +204,6 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYS1ycXJtVFRfRUhuNTZ4aXVueXU5V0hIX3hGaU9jOFN2eDZZLXg1emRMS05RLTlyQm5nVE9xcHJiNDI1VTE5NTVSeklRLVJPWGtudjNKWTlqUC1ITFgyQThReElrdTZuT1FxSmpNUkVPNkVlaU84WV83OUhzbmVzWkM1T3pOd0lqT0pFZ1AtWVZTOXYxQ3ZQcVdiajhQZ01QSmhMUGVnS2xIaWdaRUNWcUtfcmFFR3lJU0ZQSVNRTHJVaVNDc01LQmNzcndsZUcwd052dkkzeWs5U2FrbUpFUzNPSUNxRUNYRG5XR3llVXN3aUxUcjVMcjU5NXplel9BY1BPQU9vNVFfLXRNeld6X3NtWXU0aXRhampPaExwQjdxQlZyMEt30gGsAkFVX3lxTE0wOXJ6Z3dZbzhvZk1xZlRuNGtsMGVlS2FaSGkxOE9acVE1bW9UZWxYVlIwUWdjN2NkRmZ0MW1LU1ZWOGlkSmR5X2g5YkpLSGlSU3dGcV9VcG9qVldxN2dKQTNaUzV4Y0FhZl9fOWl0MTNSMW0wRjBna3ZCaU9rNl80Y3B4NjFrUWY0cjBadXJ1LUZsUGtEQjRYRGhpM3ZLZ1NibkwydmFSMnhhdllJbUZVVnRlaGhnYndYYWZVOTA4dWFOcUYxOWFIaHZRaGtGMVExUEhyOEViS2N0WHZiREwxQnZwSnIyeGxUMFVmb2pGMmJpdDczcXRZS0x6bnRiLUEwMlg2V0hKQ3ZPUkZVdlh4bVk1dlpxQVI3WmZBNXJGUFp0V21FdnBwaE5lNQ?oc=5",
-      "date": "2025-01-10T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pinjore Nalagarh"
-    },
-    {
-      "title": "कछुआ चाल से चल रहा पिंजौर-बद्दी-नालागढ़ फोरलेन का निर्माण - Dainik Tribune",
-      "source": "Dainik Tribune",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGo5ZnYwM2dvX1dWSG4zcVV6THZ1TnRNdG4tS2VQWFFsdUZacGFsaGFqcXhoYjJIbTVaQ0J3TU16d3F5UVZQck1GWDZ0bFNWYTYteU5uVWQyVXBwTEtkWThrWF9TbGhSRDlwdHNKaHdqc3JqczZvbkhVSHg1X0xMT3g1NGNiSzF6N0c0Y2RzWnpOUnNqZDE3M3VfYXZaNEJ3a2h2bHBrSnhZRlZCd19tZlZ0OEUwaWtCaGZVZElBVVNJSHlUNnBEZE4wQlNRQdIB0gFBVV95cUxNM29uSHVLMEJaUk02NHpaUThKZlNuVlpsZlJsRG1hS0xFZmVKY3VJdUJSZEs0bXlIeWptRkV3NTNkT3pCdENITFRsZXdWcElSUkNsNEdzWjA3ZmNwM3ZyMjVtVDdhUGg4NzRQNEljSjlKYTIyODc0YmI2emY0R1NuU0VWQ1UybHU3V3g4SVA4Z3owb19tc1hZZUkyLUNXZWdzUzZHMFFIeGJ5eHZ4bXhEdERRWGtqNk1kYU5OalQ0TFYySWdaaUpmRlFtbkhfc0lKYkE?oc=5",
       "date": "2025-01-10T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
