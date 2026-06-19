@@ -82,4 +82,21 @@ for (const p of projects) {
   if (suggestions.length) console.log(`  ${p.id}: ${suggestions.length} suggestions`);
 }
 
+// Write a manifest so the editorial queue (/admin/queue/) can discover
+// which projects have suggestions without having to probe every project id.
+const manifest = { generated_at: new Date().toISOString(), total_projects: 0, total_suggestions: 0, projects: [] };
+for (const p of projects) {
+  try {
+    const j = JSON.parse(await readFile(join(outDir, p.id + '.json'), 'utf8'));
+    if (j.count > 0) {
+      manifest.projects.push({ id: j.project_id, count: j.count, updated_at: j.updated_at });
+      manifest.total_suggestions += j.count;
+    }
+  } catch (_) {}
+}
+manifest.projects.sort((a, b) => b.count - a.count);
+manifest.total_projects = manifest.projects.length;
+await writeFile(join(outDir, '_index.json'), JSON.stringify(manifest, null, 2) + '\n', 'utf8');
+console.log(`Manifest: ${manifest.total_projects} projects, ${manifest.total_suggestions} suggestions.`);
+
 console.log(`Done. ${totalSuggestions} total suggestions across ${projects.length} projects.`);

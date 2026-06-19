@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Editorial queue · Nirman Darpan</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="canonical" href="https://raviknight.github.io/nirman-darpan/admin/queue/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Devanagari:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../pages.css">
+<style>
+  .queue-bar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px;margin-bottom:18px}
+  .queue-stats{display:flex;gap:10px;flex-wrap:wrap;font-size:12px}
+  .queue-stat{background:#fff;border:1px solid #e7e6dd;border-radius:7px;padding:6px 12px}
+  .queue-stat b{font-family:'IBM Plex Mono',monospace;font-weight:600;color:#1b5640}
+  .queue-stat.rejected b{color:#b04a3a}
+  .queue-stat.approved b{color:#2f7d52}
+  .queue-empty{background:#fff;border:1px dashed #dddccf;border-radius:9px;padding:30px;text-align:center;color:#7d8a82;margin-top:20px}
+  .queue-list{display:flex;flex-direction:column;gap:10px;margin-top:14px}
+  .qitem{background:#fff;border:1px solid #e7e6dd;border-radius:9px;padding:13px 16px}
+  .qitem-head{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:6px;font-size:11px;color:#7d8a82}
+  .qitem-head .proj{font-weight:600;color:#1b5640;background:#e7f0ea;padding:2px 8px;border-radius:5px;font-size:11px}
+  .qitem-head .cat{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.4px;color:#fff;padding:2px 7px;border-radius:4px}
+  .qitem-head .sev{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.4px;padding:2px 7px;border-radius:4px}
+  .qitem-head .sev.high{background:#f7e7e3;color:#b04a3a}
+  .qitem-head .sev.medium{background:#f6efdd;color:#a9802f}
+  .qitem-head .sev.low{background:#eef1ea;color:#5c686f}
+  .qitem-head .term{font-family:'IBM Plex Mono',monospace;font-size:10px;color:#a4a294}
+  .qitem-title{display:block;font-size:14px;color:#232a2e;text-decoration:none;line-height:1.4;font-weight:600;margin-bottom:6px}
+  .qitem-title:hover{color:#1b5640;text-decoration:underline}
+  .qitem-meta{font-size:11px;color:#8a8a7e;margin-bottom:10px}
+  .qitem-actions{display:flex;gap:8px;justify-content:flex-end;flex-wrap:wrap}
+  .qbtn{font-family:'Public Sans',sans-serif;font-size:12px;font-weight:600;border-radius:6px;padding:6px 13px;cursor:pointer;border:1px solid transparent}
+  .qbtn.approve{background:#1b5640;color:#fff}
+  .qbtn.approve:hover{background:#2f7d52}
+  .qbtn.reject{background:#fff;color:#b04a3a;border-color:#f7e7e3}
+  .qbtn.reject:hover{background:#f7e7e3}
+  .qbtn:disabled{opacity:.5;cursor:wait}
+  .auth-block{background:#fff;border:1px solid #e7e6dd;border-radius:10px;padding:24px;text-align:center;margin-top:30px}
+  .auth-block h2{font-family:'Source Serif 4',serif;font-size:18px;margin:0 0 8px}
+  .auth-block p{margin:0 0 14px;color:#5c686f}
+  .auth-block a, .auth-block button{display:inline-block;background:#1b5640;color:#fff;text-decoration:none;padding:9px 18px;border-radius:7px;font-size:13px;font-weight:600;border:none;cursor:pointer;font-family:'Public Sans',sans-serif}
+  .auth-block button:hover, .auth-block a:hover{background:#2f7d52}
+  #signin-inline{display:flex;flex-direction:column;gap:10px;max-width:320px;margin:0 auto}
+  #signin-inline input{font-family:'Public Sans',sans-serif;font-size:13px;padding:10px 12px;border:1px solid #dddccf;border-radius:7px;outline:none}
+  .info-banner{background:#fbf3df;border:1px solid #ecdcc0;color:#7a5a1e;padding:11px 14px;border-radius:8px;font-size:12px;line-height:1.5;margin-bottom:14px}
+  .info-banner b{color:#5a4112}
+</style>
+</head>
+<body>
+<header class="page-header">
+  <div class="page-header-inner">
+    <a href="../../" class="brand">
+      <span class="hi">निर्माण दर्पण</span>
+      <span class="en">Nirman Darpan</span>
+    </a>
+    <a href="../../" class="back-link">← Back to tracker</a>
+  </div>
+</header>
+
+<main class="page-main">
+  <p class="page-eyebrow">Editorial queue · not indexed · moderator-only</p>
+  <h1>Suggestions awaiting review</h1>
+  <p class="lede">Auto-detected from the press sweep. Approve to publish on the project's Accountability panel as a verified record. Reject to hide it from this queue forever (locally).</p>
+
+  <div id="queue-app">
+    <p style="color:#a4a294">Checking sign-in…</p>
+  </div>
+</main>
+
+<footer class="page-footer">
+  <div class="page-footer-inner">
+    <nav>
+      <a href="../../">Home</a>
+      <a href="../../projects/">Projects</a>
+      <a href="../../about/">About</a>
+      <a href="../../methodology/">Methodology</a>
+      <a href="../../corrections/">Corrections</a>
+    </nav>
+    <p class="page-footer-note">Editorial queue is private. Moderator authorization required. Once the moderators team exists in Appwrite, this page switches from email allowlist to proper team-membership check.</p>
+  </div>
+</footer>
+
+<script src="../../data/config.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/appwrite@16.0.2/dist/iife/sdk.js"></script>
+<script>
+(async () => {
+  const root = document.getElementById('queue-app');
+  const cfg = window.NIRMAN_APPWRITE;
+  if (!window.NIRMAN_APPWRITE_READY) {
+    root.innerHTML = `<div class="auth-block"><h2>Appwrite not configured</h2><p>data/config.js still has placeholder Project ID. Editorial queue requires Appwrite.</p></div>`;
+    return;
+  }
+
+  // Email allowlist — primary editor + future moderators. Switches to
+  // Appwrite teams.get('moderators').list() when the team exists.
+  const ALLOWLIST = ['ravikntsh@gmail.com'];
+
+  const esc = (s) => String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  const client = new Appwrite.Client().setEndpoint(cfg.endpoint).setProject(cfg.projectId);
+  const account = new Appwrite.Account(client);
+  const databases = new Appwrite.Databases(client);
+  const { Query, ID, Permission, Role } = Appwrite;
+
+  // ---- auth gate
+  let user = null;
+  try { user = await account.get(); } catch (_) {}
+  if (!user) {
+    root.innerHTML = `
+      <div class="auth-block">
+        <h2>Sign in to access the queue</h2>
+        <p>Use the same email you signed up with on the main site.</p>
+        <div id="signin-inline">
+          <input id="qe-email" type="email" placeholder="you@example.com">
+          <button id="qe-send">Send code</button>
+        </div>
+        <div id="signin-inline-code" style="display:none;margin-top:10px">
+          <input id="qe-code" type="text" inputmode="numeric" maxlength="6" placeholder="6-digit code" style="text-align:center;font-family:'IBM Plex Mono',monospace;font-size:18px;letter-spacing:6px;width:100%;padding:10px 12px;border:1px solid #dddccf;border-radius:7px;outline:none">
+          <button id="qe-verify" style="margin-top:10px">Verify & sign in</button>
+        </div>
+        <p id="qe-msg" style="margin-top:14px;font-size:12px;color:#7d8a82;min-height:14px"></p>
+      </div>`;
+    let pendingUserId = null;
+    document.getElementById('qe-send').addEventListener('click', async () => {
+      const email = document.getElementById('qe-email').value.trim();
+      if (!email) return;
+      const msg = document.getElementById('qe-msg');
+      msg.textContent = 'Sending…';
+      try {
+        const tok = await account.createEmailToken(ID.unique(), email);
+        pendingUserId = tok.userId;
+        document.getElementById('signin-inline-code').style.display = 'block';
+        document.getElementById('qe-code').focus();
+        msg.innerHTML = '<span style="color:#1b5640">Code sent. Check your inbox (and spam).</span>';
+      } catch (e) {
+        msg.textContent = e.message || 'Failed to send.';
+      }
+    });
+    document.getElementById('qe-verify').addEventListener('click', async () => {
+      const code = document.getElementById('qe-code').value.trim();
+      if (!code || !pendingUserId) return;
+      const msg = document.getElementById('qe-msg');
+      msg.textContent = 'Verifying…';
+      try {
+        await account.createSession(pendingUserId, code);
+        location.reload();
+      } catch (e) {
+        msg.textContent = e.message || 'Invalid code.';
+      }
+    });
+    return;
+  }
+  if (!ALLOWLIST.includes((user.email || '').toLowerCase())) {
+    root.innerHTML = `<div class="auth-block">
+      <h2>Not authorized</h2>
+      <p>You are signed in as <b>${esc(user.email)}</b> but not on the editor allowlist. Ask the project owner to add you.</p>
+      <a href="../../">← Back to the public tracker</a>
+    </div>`;
+    return;
+  }
+
+  // ---- load manifest + per-project suggestions
+  let manifest;
+  try {
+    const r = await fetch('../../data/accountability_suggestions/_index.json', { cache: 'no-store' });
+    manifest = await r.json();
+  } catch (_) {
+    root.innerHTML = '<p style="color:#b04a3a">Failed to load suggestions index.</p>';
+    return;
+  }
+  const allSuggestions = [];
+  for (const p of manifest.projects) {
+    try {
+      const r = await fetch('../../data/accountability_suggestions/' + p.id + '.json', { cache: 'no-store' });
+      const j = await r.json();
+      for (const s of (j.suggestions || [])) {
+        allSuggestions.push({ ...s, project_id: p.id });
+      }
+    } catch (_) {}
+  }
+
+  // ---- rejection cache
+  const rejectedKey = 'nd_queue_rejected_urls';
+  const loadRejected = () => { try { return new Set(JSON.parse(localStorage.getItem(rejectedKey) || '[]')); } catch (_) { return new Set(); } };
+  const saveRejected = (s) => { try { localStorage.setItem(rejectedKey, JSON.stringify([...s])); } catch (_) {} };
+
+  let approvedThisSession = 0;
+  let rejectedThisSession = 0;
+
+  function render() {
+    const rejected = loadRejected();
+    const visible = allSuggestions.filter(s => !rejected.has(s.source_url));
+    const CAT_COLOR = { incident:'#b04a3a', defect:'#b3721f', audit:'#3a5a7d', grievance:'#7d5a3a', litigation:'#5b5a7a' };
+    const bar = `
+      <div class="queue-bar">
+        <div class="queue-stats">
+          <span class="queue-stat"><b>${visible.length}</b> pending</span>
+          <span class="queue-stat approved"><b>${approvedThisSession}</b> approved this session</span>
+          <span class="queue-stat rejected"><b>${rejectedThisSession}</b> rejected this session</span>
+          <span class="queue-stat">${manifest.total_projects} projects scanned</span>
+        </div>
+        <div style="font-size:11px;color:#a4a294">Signed in as ${esc(user.email)} · <a href="#" id="qe-signout" style="color:#5c686f">Sign out</a></div>
+      </div>
+      <div class="info-banner">
+        <b>Editorial standard.</b> Approve only if the linked article is actually about this project AND constitutes a real incident / defect / audit / grievance / litigation event. The matched keyword can be a false positive — read the headline.
+      </div>
+    `;
+    if (visible.length === 0) {
+      root.innerHTML = bar + '<div class="queue-empty">Queue clear. Next press sweep runs Mon + Thu.</div>';
+    } else {
+      const items = visible.map((s, i) => `
+        <div class="qitem" data-i="${i}">
+          <div class="qitem-head">
+            <span class="proj">${esc(s.project_id)}</span>
+            <span class="cat" style="background:${CAT_COLOR[s.category] || '#5c686f'}">${esc(s.category)}</span>
+            <span class="sev ${esc(s.severity || 'medium')}">${esc(s.severity || 'medium')}</span>
+            <span class="term">⌕ ${esc(s.matched_term || '')}</span>
+          </div>
+          <a class="qitem-title" href="${esc(s.source_url)}" target="_blank" rel="noopener nofollow">${esc(s.title)}</a>
+          <div class="qitem-meta">${esc(s.source_name || 'News')}${s.lang === 'hi' ? ' · हिंदी' : (s.lang === 'en' ? ' · English' : '')}${s.date ? ' · ' + new Date(s.date).toLocaleDateString('en-IN', { day:'2-digit', month:'short', year:'numeric' }) : ''}</div>
+          <div class="qitem-actions">
+            <button class="qbtn reject" data-action="reject" data-i="${i}">Reject</button>
+            <button class="qbtn approve" data-action="approve" data-i="${i}">Approve</button>
+          </div>
+        </div>
+      `).join('');
+      root.innerHTML = bar + '<div class="queue-list">' + items + '</div>';
+    }
+    document.getElementById('qe-signout')?.addEventListener('click', async (e) => {
+      e.preventDefault();
+      try { await account.deleteSession('current'); } catch (_) {}
+      location.reload();
+    });
+    root.querySelectorAll('[data-action="reject"]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const s = visible[parseInt(btn.dataset.i, 10)];
+        const r = loadRejected(); r.add(s.source_url); saveRejected(r);
+        rejectedThisSession++;
+        render();
+      });
+    });
+    root.querySelectorAll('[data-action="approve"]').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const s = visible[parseInt(btn.dataset.i, 10)];
+        btn.disabled = true; btn.textContent = 'Approving…';
+        try {
+          const perms = [Permission.read(Role.any()), Permission.update(Role.user(user.$id)), Permission.delete(Role.user(user.$id))];
+          await databases.createDocument(cfg.databaseId, cfg.collections.accountability, ID.unique(), {
+            project_id: s.project_id,
+            category: s.category,
+            title: s.title,
+            summary: 'From press: ' + s.title + (s.source_name ? '\n\nSource: ' + s.source_name : ''),
+            date_occurred: s.date || new Date().toISOString(),
+            source_url: s.source_url,
+            severity: s.severity || 'medium',
+            status: 'open',
+            author_id: user.$id,
+            verified: true,
+          }, perms);
+          approvedThisSession++;
+          const r = loadRejected(); r.add(s.source_url); saveRejected(r); // also hide from future renders
+          render();
+        } catch (err) {
+          btn.disabled = false; btn.textContent = 'Approve';
+          alert((err && err.message) || 'Approve failed.');
+        }
+      });
+    });
+  }
+  render();
+})();
+</script>
+</body>
+</html>
