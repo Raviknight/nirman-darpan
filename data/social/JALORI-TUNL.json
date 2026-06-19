@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-19T17:13:17.583Z",
+  "updated_at": "2026-06-19T17:18:55.257Z",
   "project_id": "JALORI-TUNL",
   "counts": {
-    "press": 32,
+    "press": 33,
     "gov": 0,
     "en": 16,
-    "hi": 16,
-    "total": 32
+    "hi": 17,
+    "total": 33
   },
   "mentions": [
     {
@@ -78,6 +78,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Jalori tunnel"
+    },
+    {
+      "title": "फिर लम्बा हुआ जलोड़ी जोत टनल का इंतजार, केंद्र सरकार ने इस बात पर जताई आपत्ति - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQV3B2eERMbFZfRDI1V29yeFZRdUtEMFAzSmVMYzZqeEtYaFN3MzhtN2VZY2x4bGkxOEVfZE5BcG1EUGNfVTNRRGZ4RXhsVi1LUFVDV0E3bU5QeFdtNXVfTFlOR2lvZFk3U1pSR2V3eEFNUld5VXYtbXVuVnlfZWNrLWtFNzk0eEpKZVB5NzlYWG4wTWZSamlmblEwTmpzTS1EYXowdDU2YU1YaFNRYkNfY295SUthTnJxb00tMFM1UnZoUml4VGhDUEpIM2Z5eDlNMVUzbUJ4emhnWHJ1U0tUSnBUU0pmaS1KVmc4b3BOVzZPdHFjcmxhYXFCLVlZSy1TUmtWTHZydWlNalpMWmctRHV2bm9ab0c4ZFpXUUJHUEtiSHdUdjdqTA?oc=5",
+      "date": "2025-10-29T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Jalori Jot"
     },
     {
       "title": "Jalori Tunnel : जलोड़ी टनल से खुलेगा विकास का रास्ता, केंद्र ने मंजूर किए 1452 करोड़ - Divya Himachal",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Jalori tunnel"
-    },
-    {
-      "title": "हिमाचल को मिला एक और तोहफा, जलोड़ी जोत सुरंग के अलाइनमेंट को मिली मंजूरी; इतने KM की राह होगी आसान - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUlTeC1EekFWLUlGMkZ4eWdIUkhzRlJqck00Q1JSYnNBaXJySTN5bEc1TnB0OHRQR3JzNksteUpMRGJTbFZTM0F6bW5HQUVNYThLX0NvREFFQ0Y2UGdiQWRKNnF5eXBYYmdJcDBGU2VIeGc1WlNSOUdvQTMxQXVpZ1RNSy05Vkp0R3RGeGU4YzBtenloOEJZT2Q1TTkxWjNoTWpTWGllVDJFSHd3VFNRaHR1U3hhanRiQV9GX252eVlIZzlWR1VzMEJScElwak1naEV2bWY1MnVZcnJpNHFmcg?oc=5",
-      "date": "2024-12-28T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Jalori Jot"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."

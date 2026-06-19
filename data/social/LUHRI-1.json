@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-19T17:12:44.581Z",
+  "updated_at": "2026-06-19T17:18:22.787Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 32,
+    "press": 31,
     "gov": 0,
-    "en": 23,
+    "en": 22,
     "hi": 9,
-    "total": 32
+    "total": 31
   },
   "mentions": [
     {
@@ -55,16 +55,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2NUSmU2a0dDTEY0NDNBcnhEekQ0ODY2SkVWNGVoZzlVVFZ6Wkt2Sm5iXzNMNFEyTGdHRV9xVDhKMVNuN0x2Nk0wa1lCV0hLd1JKek8xb1d4R1B6cmlIaFcyNnBtYU1qWlBCLVlwdWNkbklUdDhHeWlfZmdaOXpEM05CSFdxa1pScVBFWXJyTzE?oc=5",
       "date": "2025-07-04T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - PSU Watch",
-      "source": "PSU Watch",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVU5SzktRVZLeWd3Mkw4UUROMmxKQzJlRDJzS25XNnU3ZmRiendROERhMUpFRlNndDF0X0dsZW4xUy0wa3JOZlVPWDg0S2VwNTlkc3FDS0QwY1MzUXRXVkxzREZFbGNteDB1d0YwalppZFF2QnM1aW1TX2xKOVkxRlVRMkVKRG53bDNJSzh4a0tOWG5YTHZyWWNwblI5cXZrYk9QUEZNd9IBtAFBVV95cUxQMlJ0anZpZnFMb2lpRWMxN3gxejc5SW93VjVvUkY3Y0FJRGVOb3RxVGFzalNWZ0dRcjBZbWJxQWI3NlpuV2JBQ2w5dHBIeG1nX3hrSXp5bXc1VzhoMWlpUzE5UUh3S25pbzAyYTB2LWVPSWRRQ1JrZnZrZVlJZ2hEQk1KMnppRE00YW1rRzRBTlpMTUNodG42c242RmVYcmx0aGs5aXFUUjg4UVB6T2VGclphUUo?oc=5",
-      "date": "2025-07-01T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
+    },
+    {
+      "title": "Patel Engineering bags Rs 976 cr order for Luhri hydro electric project - ET EnergyWorld",
+      "source": "ET EnergyWorld",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkk2ZzlKQ25NTi02VXNuejFtWmI5cVNyc2hFLUZNY2JXSHIzam0tZWs5X2psVmQ0aUxWVmdaOGVXZFJaZGdic0hPSVdpTS12SVNuWUFCNEtlTjY4MFFKTmhjWnRSWlRUdGVIcU5HQmUtakMwX2twaERRUGR6S1JUUFdTUEpPMU1YemZPaTBPNzdsWlRJWGpiUHRnNWhXck9sYl82ZUNnZkVveDZhbGVFc1lRbU9OODduU1RodHg0NlljaWpyR3JtOXNHY1lqb2lv0gHWAUFVX3lxTE9Sa09za0RsVkcxNGM0TmcwSy1TRXcteWtFT25zdzJtMmRwaTA0V0x2MUNPc1I2TGtxbzJzdkRvbEE0b0ZnV19feExOLTBSMkhkNm5PUzk5NnZhS3FxT01keWt1Mmt2bDFHZWxfcHI3QWkwNkVWYVp6LUY5STJmUnN4dGo3REJYV0NHdzJxbXh4Y2J3OHZ1cGJ4S0w4cE5rbDJzVE5zMnhYMjBTelhfQkxzOVJYZXBhNkhVY1hfbm5lSTJoY1gyWk9walJkcU1DWURsd3JlZ3c?oc=5",
+      "date": "2021-08-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Hydroelectric"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
