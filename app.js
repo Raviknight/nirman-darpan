@@ -200,6 +200,7 @@ const NIRMAN_AW = (() => {
       return r.documents;
     },
 
+    accountabilityTableMissing: false,
     async loadAccountabilityEntries(projectId) {
       if (!this.cfg.collections.accountability) return [];
       try {
@@ -213,11 +214,16 @@ const NIRMAN_AW = (() => {
           ],
         );
         this.accountabilityCache[projectId] = r.documents;
+        this.accountabilityTableMissing = false;
         return r.documents;
       } catch (e) {
         // Most likely cause: the accountability_entries table doesn't exist
-        // yet. Cache an empty array so the UI shows the empty state instead
-        // of perpetually loading.
+        // yet. Record the fact + cache empty so UI disables Add and shows
+        // a clear editorial-process message instead of failing visibly.
+        const msg = (e && e.message ? e.message : '') + '';
+        if (msg.indexOf('could not be found') !== -1 || msg.indexOf('not found') !== -1) {
+          this.accountabilityTableMissing = true;
+        }
         this.accountabilityCache[projectId] = [];
         return [];
       }
@@ -762,23 +768,32 @@ function renderAccountabilityPanel(projectId){
         </div>
         ${partiesBlock}
         <p style="font-size:13px;color:#7d8a82;line-height:1.5;margin:14px 0 0">
-          Incident, defect, audit, grievance and litigation tracking goes live once
-          Appwrite is configured — see <a href="docs/APPWRITE_SETUP.md">docs/APPWRITE_SETUP.md</a>.
+          Editorial review of press coverage runs weekly. Verified findings appear here as the editorial team confirms them against a primary source.
         </p>
       </div>`;
   }
+
   const entries = NIRMAN_AW.accountabilityCache[projectId] || [];
   const open = entries.filter(e => e.status === 'open').length;
   const addressed = entries.filter(e => e.status === 'addressed').length;
   const disputed = entries.filter(e => e.status === 'disputed').length;
   const byCat = Object.fromEntries(ACCT_CATS.map(c => [c.key, []]));
   for (const e of entries) if (byCat[e.category]) byCat[e.category].push(e);
+
+  const tableMissingBanner = NIRMAN_AW.accountabilityTableMissing
+    ? `<div class="acct-table-missing">
+        <b>Submissions opening soon.</b>
+        Accountability records will appear here once the editorial review queue is wired up.
+        For urgent flags about this project, write to <a href="mailto:ravikntsh@gmail.com?subject=Nirman%20Darpan%20accountability%20flag">ravikntsh@gmail.com</a>.
+      </div>`
+    : '';
+
   return `
     <div class="acct-panel">
       <div class="acct-head">
         <div>
           <h4 class="sect" style="margin:0 0 4px">Accountability</h4>
-          <div class="acct-sub">${entries.length} verified record${entries.length === 1 ? '' : 's'} on file · sourced + moderated</div>
+          <div class="acct-sub">${entries.length} verified record${entries.length === 1 ? '' : 's'} on file · editor-reviewed against a primary source</div>
         </div>
         <div class="acct-roll">
           <span class="acct-pill open">${open} open</span>
@@ -787,11 +802,10 @@ function renderAccountabilityPanel(projectId){
         </div>
       </div>
       ${partiesBlock}
+      ${tableMissingBanner}
       ${ACCT_CATS.map(c => renderAccountabilityBlock(projectId, c, byCat[c.key])).join('')}
-      ${renderAcctSuggestions(projectId)}
       <p class="acct-foot">
-        Every entry needs a source citation. User submissions land as <i>pending review</i> until a moderator confirms.
-        Sourced and auditable, not just allegations.
+        How an entry becomes a record: a press item or resident submission goes to the editorial queue → the editor verifies against a primary source → if it holds up, it lands here as a permanent, dated, citation-backed record. The auto-press sweep that feeds the queue runs twice weekly.
       </p>
     </div>
   `;
@@ -805,54 +819,13 @@ function daysSince(iso){
 }
 
 function renderAcctSuggestions(projectId){
-  const data = acctSuggestCache[projectId];
-  if (data === undefined) {
-    // not loaded yet — kick off and stub-render
-    loadAcctSuggestions(projectId).then(() => {
-      const el = document.querySelector('#acct-suggest-' + projectId);
-      if (el) el.outerHTML = renderAcctSuggestions(projectId);
-    });
-    return `<div id="acct-suggest-${esc(projectId)}" class="acct-suggest"><div style="font-size:12px;color:#a4a294">Scanning press for accountability signals…</div></div>`;
-  }
-  if (!data || !data.suggestions || !data.suggestions.length) {
-    return `<div id="acct-suggest-${esc(projectId)}" class="acct-suggest acct-suggest-empty">
-      <h5>Auto-detected from press</h5>
-      <p>No accountability-relevant keywords found in the latest press snapshot. The sweep runs twice weekly.</p>
-    </div>`;
-  }
-  const items = data.suggestions.slice(0, 10).map((s, i) => {
-    const cat = ACCT_CAT_BY_KEY[s.category];
-    const catColor = cat ? cat.color : '#5c686f';
-    const catLabel = cat ? cat.label.replace(/s$/, '') : s.category;
-    const promoteBtn = (NIRMAN_AW && NIRMAN_AW.user)
-      ? `<button class="acct-promote-btn" type="button" data-promote-pid="${esc(projectId)}" data-promote-idx="${i}">Promote to entry</button>`
-      : (NIRMAN_AW
-          ? `<a class="acct-promote-btn" data-do-signin="1">Sign in to promote</a>`
-          : '');
-    return `
-      <li class="acct-suggest-item">
-        <div class="acct-suggest-meta">
-          <span class="acct-suggest-cat" style="background:${catColor}">${esc(catLabel)}</span>
-          <span class="acct-suggest-sev acct-sev-${esc(s.severity || 'medium')}">${esc(s.severity || 'medium')}</span>
-          <span class="acct-suggest-term" title="Matched term">⌕ ${esc(s.matched_term || '')}</span>
-        </div>
-        <a href="${esc(s.source_url)}" target="_blank" rel="noopener nofollow" class="acct-suggest-title">${esc(s.title)}</a>
-        <div class="acct-suggest-foot">
-          <span>${esc(s.source_name || 'News')}${s.lang === 'hi' ? ' · हिं' : ''}</span>
-          ${promoteBtn}
-        </div>
-      </li>
-    `;
-  }).join('');
-  return `
-    <div id="acct-suggest-${esc(projectId)}" class="acct-suggest">
-      <h5>Auto-detected from press <span class="acct-suggest-count">${data.suggestions.length}</span></h5>
-      <p class="acct-suggest-note">
-        Keyword scan of recent press coverage. <b>False positives are normal</b> — a signed-in moderator promotes real ones to verified entries. Source link opens the original article.
-      </p>
-      <ul class="acct-suggest-list">${items}</ul>
-    </div>
-  `;
+  // PUBLIC SURFACE: nothing is rendered here. Auto-detected suggestions are
+  // operational data, not editorial content — they live in
+  // data/accountability_suggestions/ and feed the moderator-only Editorial
+  // Queue at /admin/queue/ (built behind Appwrite team-membership). Readers
+  // of the site see only verified findings the editorial team has signed off.
+  // See docs/ROADMAP.md, Phase 4.
+  return '';
 }
 
 // Open the add-entry form pre-filled with a suggestion's values.
@@ -911,11 +884,12 @@ function renderAccountableParties(p){
 
 function renderAccountabilityBlock(projectId, cat, entries){
   const openHere = entries.filter(e => e.status === 'open').length;
-  const addBtn = (NIRMAN_AW && NIRMAN_AW.user)
-    ? `<button type="button" class="acct-add-btn" data-add-cat="${esc(cat.key)}" data-add-pid="${esc(projectId)}">+ Add</button>`
+  const tableMissing = NIRMAN_AW && NIRMAN_AW.accountabilityTableMissing;
+  const addBtn = (NIRMAN_AW && NIRMAN_AW.user && !tableMissing)
+    ? `<button type="button" class="acct-add-btn" data-add-cat="${esc(cat.key)}" data-add-pid="${esc(projectId)}">+ Submit</button>`
     : '';
   const body = entries.length === 0
-    ? `<div class="acct-empty">No verified entries yet${NIRMAN_AW && NIRMAN_AW.user ? ' — be the first to submit one with a source.' : '.'}</div>`
+    ? `<div class="acct-empty">No findings on record. Editor reviews press coverage weekly; sourced submissions from verified residents are also reviewed.</div>`
     : entries.map(renderAccountabilityEntry).join('');
   return `
     <div class="acct-block">
