@@ -624,7 +624,7 @@ function visibleList(){
   const q = state.q.trim().toLowerCase();
   if (q) {
     list = list.filter(p =>
-      (p.name + ' ' + p.contractor + ' ' + p.districtLabel + ' ' + p.category).toLowerCase().includes(q)
+      (p.name + ' ' + ((p.contractors && p.contractors.join(' ')) || p.contractor || '') + ' ' + p.districtLabel + ' ' + p.category).toLowerCase().includes(q)
     );
   }
   if (state.sort === 'attention') {
@@ -682,7 +682,11 @@ function renderGrid(){
           ${(!completed && p.delayed) ? `<div class="delay">⚠ Running behind schedule</div>` : ''}
           <div class="card-money">
             <div><span class="card-money-label">Outlay</span> <span class="card-money-val">${INR(p.budget)}</span></div>
-            <div class="card-contractor">${esc(p.contractor)}</div>
+            <div class="card-contractor" title="${esc((p.contractors && p.contractors.length) ? p.contractors.join(' · ') : p.contractor)}">${
+              (p.contractors && p.contractors.length > 1)
+                ? esc(p.contractors[0]) + ' +' + (p.contractors.length - 1) + ' more'
+                : esc((p.contractors && p.contractors[0]) || p.contractor)
+            }</div>
           </div>
           <div class="card-foot">
             ${(p.ratings + cmCount > 0) ? `
@@ -1188,7 +1192,11 @@ function renderModal(){
 
           <div class="facts">
             <div class="cell"><div class="lbl">Awarded by</div><div class="v">${esc(p.awardedBy)}</div></div>
-            <div class="cell"><div class="lbl">Contractor / executor</div><div class="v">${esc(p.contractor)}</div></div>
+            <div class="cell"><div class="lbl">${(p.contractors && p.contractors.length > 1) ? 'Contractors' : 'Contractor / executor'}</div><div class="v">${
+              (p.contractors && p.contractors.length)
+                ? '<ul style="margin:0;padding-left:18px;list-style:disc">' + p.contractors.map(x => `<li>${esc(x)}</li>`).join('') + '</ul>'
+                : esc(p.contractor)
+            }</div></div>
             <div class="cell"><div class="lbl">Owning department</div><div class="v">${esc(p.owner)}</div></div>
             <div class="cell"><div class="lbl">Sanctioned outlay</div><div class="v mono">${INR(p.budget)} <span style="color:#9a9888;font-size:11px">· ${INR(p.spent)} spent</span></div></div>
             <div class="cell"><div class="lbl">Started</div><div class="v mono">${esc(p.start)}</div></div>

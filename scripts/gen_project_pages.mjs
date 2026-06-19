@@ -260,7 +260,7 @@ ${JSON.stringify(jsonLd(p), null, 2)}
 
     <div class="facts">
       <div class="cell"><div class="lbl">Awarded by</div><div class="v">${esc(p.awardedBy)}</div></div>
-      <div class="cell"><div class="lbl">Contractor / executor</div><div class="v">${esc(p.contractor)}</div></div>
+      <div class="cell"><div class="lbl">${(p.contractors && p.contractors.length > 1) ? 'Contractors' : 'Contractor / executor'}</div><div class="v">${(p.contractors && p.contractors.length) ? '<ul style="margin:0;padding-left:18px">' + p.contractors.map(x => '<li>' + esc(x) + '</li>').join('') + '</ul>' : esc(p.contractor)}</div></div>
       <div class="cell"><div class="lbl">Owning department</div><div class="v">${esc(p.owner)}</div></div>
       <div class="cell"><div class="lbl">Sanctioned outlay</div><div class="v mono">${INR(p.budget)}<br><span style="color:#9a9888;font-size:11px">${INR(p.spent)} spent</span></div></div>
       <div class="cell"><div class="lbl">Started</div><div class="v mono">${esc(p.start)}</div></div>
