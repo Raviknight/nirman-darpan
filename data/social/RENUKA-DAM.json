@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T19:26:19.750Z",
+  "updated_at": "2026-06-19T20:15:37.082Z",
   "project_id": "RENUKA-DAM",
   "counts": {
     "press": 44,
@@ -25,16 +25,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTmFRSGFBckk1amlpQ19mTm9CZ3Z6VGJJN0hQNVktdmFBOEJ2YlRKRldHMWVySVdIZXBKd2lKTDVvX2RuYzk2WTUzSFNKTEE1T0tBV0ZaS0Z5WXJDSmRuSklCUFVmNHN4WnZzU2JqS3REWmg0OUdsZW9fdm5QR215R3RBc1doOGlNZkZuMzVsMjhUcC05TG4zeDMydXRXeVJRbXBpOWpXQkhpeHJqUGVwWDBfQ2VmTVM3LS1JZ2NUeGRUSkxIaWV6Sm5QQlJHODJHNDVqedIB2gFBVV95cUxPNXVNMUtvZXBfRWZEWUlfVUV6WmdCRVRVUnhSUWNkbk5pUmxuQjNhRjl5ajRQdjQxSGZrTzV1M0hoXy1scFZOS2FhTTRJbWNEanBEdUljTDloMWp3TGFWY2tCWEdINGZCRHc2WC02UjZwSU5NY1laaUt2RkFwWmx0c01Jclh2a2xlclAyWEE0QjluczRLYVJQbmU4RTZZdDZGQW9PVmhJZFlTWkZRLVJvd1E0Y2hvbmQ2TE5LaGlEaG1Nc3VjOUczQV8yVFVkbXRfOE9adV9jXzVUQQ?oc=5",
       "date": "2026-05-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Renukaji Dam"
-    },
-    {
-      "title": "Patel Engineering wins Rs 230.7 crore Bhutan hydro project package - Power Peak Digest",
-      "source": "Power Peak Digest",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTFJsakxlVkJHY3FoaHhJQ0c2ZF80Y0tqeFdRdlU2MVNkQzdGMXhsMkRDUFluOTlNNG92TE03Z3JqeG45d3dockhSVWR3cHgyc0owWkZpVVNMaEN5S3FoMHNNTVVieWhQUjRtY2VZRmgycFoyWm10eDMyUTBqS1VWeFJubTJLUVI1elR3eGxxbjhVUjBEZzNtZURKYw?oc=5",
-      "date": "2026-03-22T22:12:02.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Renukaji Dam"
@@ -75,6 +65,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaGlCYXNTb1V4NFlZQmx2ejhVQXBTQVVqV2FxTTk0TFg3QWpfQUxvQ29sZTkxMG5WcUdGdHUyQ29MV0pSWU9oSVpxZlpQYnRUN0ZtMTNFU3UyU3JuZ3dSdGt4N3M2RUFSbzB6OFF1SVBkcGl2WExlb3pTNVNGS1lUQ2EyY0NGbjJQYWxOdG1CUjQ5YkhlcGt6MUI0R1hqRWV1Y3dSaFRoQTY3dXpxcEE0dlpVdUJmYW1ueVRoYkxOTm9YTWRoakZBcTVfQm8zQVNFMWJr?oc=5",
       "date": "2026-02-26T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "Patel Engineering Wins L1 Bid for Renukaji Dam Project Package-1. - News on Projects",
+      "source": "News on Projects",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDRLSDltUDBqYkZZclgxZmt1bVVrM1MtLXpLS1BQRE1KYnctZ0hjaG04WDRRZ2xGNzJFMXZWM29fY1hZNkZ3Zzd4T1J6MFd4MnlkZ01ZUEJnT2xLTUxRazJwT0loQVNsVjJEYUJTcTNRTEdUQkJLMXZkc1lzVXlsRVdfYXlnVWRaWTlGWUtCVFdRejU2RG1qYjA1SFcwY1NKcGc?oc=5",
+      "date": "2026-02-24T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Renukaji Dam"
@@ -190,6 +190,16 @@
       "match": "Renukaji Dam"
     },
     {
+      "title": "लखवार से किशाऊ तक, कैसे 3 बांध मिटाएंगे दिल्ली की प्यास? जानें प्रोजेक्ट की पूरी टाइमलाइन? - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczNKRkVhNWdXODdSN1VvbDhyOGl4MDFOajY5ZFFaQ3NWYWVDT3VXaTN6N2hSY0hvYWstZkE1M1FTaTQzRUIzb2R1ZDFoNi1fd1VvRzlPMFNjTWVZRW9wb1JSU2pUMHBZWjhLcDVzTTNQOGIwNE1FNUJ3bVkyTEpKU3NxaGp6dnJIbmduTjhROVpTaC1xSThDank3enlMOFpYUy1EM3hUd2otU0NNRDd0RzVvQmRlSUxFazJFYng3Wm13VknSAcgBQVVfeXFMUHBZVEdCM01qR2FCVXlyQk9VXzI1emFPWjVrY0Z3YUo3cFp4WmxtSW0ydDByZnZ2RWlHX3BkQlpMVGJTVXVTM3l6R2tsNEJuM2lyaUV6NGxCbEhNUE5hTU01b1h0VE9SbHJfUXQ5cnAtd3RMUlFCY2I5ZTlna2w1Z0RweFJvdEhteEJxTzM1QTAtTFA0ekxTVzdRTHBPcndTZVJKVmlhVy1ENTlLNzR1ZExTSDVkQUZ5X1YweFdnZFFjZmpfSjhnZmM?oc=5",
+      "date": "2026-01-17T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Renukaji Dam"
+    },
+    {
       "title": "Renuka Dam: रेणुकाजी बांध परियोजना का गुरूग्राम की कंपनी करेगी निर्माण, अवाॅर्ड हुआ काम - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Renukaji Dam"
-    },
-    {
-      "title": "Delhi to Build Three New Water Treatment Plants to Address Supply Gap - APAC Media",
-      "source": "APAC Media",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzFOZUhyNzZ2TnhyYkhJckFJb283MEl2MF9NQUE1M1cyS3l4N3A4am1VX1hRZnQxdFc3MUNMZ2JjdmdhekxkNnMydnY0WGpldTc5YV9LZTQ4djBOOTZMWWVES0pmcndLbXctczJ2eFlKYVA1WU0taGdUNGE1Z2U3WEZzMDFub01mNWdlUnRhQ2dVdkVyQ1hMYlAtanYwYzc3eGlKb0tiS3JpUQ?oc=5",
-      "date": "2025-06-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Giri river dam"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
