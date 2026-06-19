@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-18T21:18:08.219Z",
+  "updated_at": "2026-06-19T12:00:49.574Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 47,
+    "press": 51,
     "gov": 0,
-    "en": 33,
-    "hi": 14,
-    "total": 47
+    "en": 36,
+    "hi": 15,
+    "total": 51
   },
   "mentions": [
     {
@@ -14,16 +14,6 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUlpIcDJqWmFFQVBFV2lrYmNYS1M5YnUwczlhUzkyYm53OTBicWtoZFhvSlBFUEg1cUoxNElabDNvQTlCQVg2eEZabmk4bU1OTnlhTE1oWHp2eFZwRXd6X1VWZmJUNURWTHY2QmJRU3I3NXdsZ1FxWDNyZC1qS2gyTmkyMk9vNWxfZG5pTU1xLUF6bTM4eEQ4alZ0YWhFdXpRVEU5dHVlb044N2pFTVlONjVpaE7SAboBQVVfeXFMTXZ4UWUyU2dSUHBrcnY3bUhHaGl6LS0yTXFLaHNrYm9XM25YQVhMS2dDRENvQlhDSG9FNDhCLUlySWJCN2xHSWVQbFlWaGFlLTJUX0FEaTRMVlR2cnFqWGdyb0dOdXhLVGhXbVlZd1hJaGc1VjIxMHpUTGNLTVd3YnZhRUpIU2dSaHFpd0drSlhxa0ZqRDVLVjZuR1pMZjF1ckg4RXJqdTVBUUYxYkY2YTdkSnJScGdYOGVB?oc=5",
-      "date": "2026-06-17T04:30:46.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "SJPNL"
-    },
-    {
-      "title": "Shimla News: उपभोक्ता को थमाया 2.56 लाख रुपये का पानी बिल रद्द, कंपनी पर लगाया जुर्माना; जानें पूरा मामला - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnhRZTJTZ1JQcGtydjdtSEdoaXotLTJNcUtoc2tib1czblhBWExLZ0NEQ29CWENIb0U0OEItSXJJYkI3bEdJZVBsWVZoYWUtMlRfQURpNExWVHZycWpYZ3JvR051eEtUaFdtWVl3WEloZzVWMjEwelRMY0tNV3didmFFSkhTZ1JocWl3R2tKWHFrRmpENUtWNm5HWkxmMXVySDhFcmp1NUFRRjFiRjZhN2RKclJwZ1g4ZUHSAboBQVVfeXFMTXZ4UWUyU2dSUHBrcnY3bUhHaGl6LS0yTXFLaHNrYm9XM25YQVhMS2dDRENvQlhDSG9FNDhCLUlySWJCN2xHSWVQbFlWaGFlLTJUX0FEaTRMVlR2cnFqWGdyb0dOdXhLVGhXbVlZd1hJaGc1VjIxMHpUTGNLTVd3YnZhRUpIU2dSaHFpd0drSlhxa0ZqRDVLVjZuR1pMZjF1ckg4RXJqdTVBUUYxYkY2YTdkSnJScGdYOGVB?oc=5",
       "date": "2026-06-17T04:30:46.000Z",
       "kind": "press",
       "lang": "hi",
@@ -95,6 +85,26 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU5GbTZIUlFmZkNHVjMyc2NlSUgyaUtlWkRsX0U5MkhkS3gzQ2RNSWJoZHRES1NwUlF6UGtzdUN2OGQ0Tm9RVWFOM2xwMVFZYXpyZllOTU9zV1ZLRlNvNnhQckxoQkZCSHFOQWxXaXJXQ2JGWlVIYjlTY2FlTjNZaWxqczlYazlySTFvUV9wVDdvVGxoMHQ3NHpPUW9tZ1BtRVVvZi03VmVfeDR1MTd5Mng5WUdSTEZ6NmhERmpXcksyZUxmUTNGTmU2MFFONEdVaXEzdUtwWUlKX3RBdmh3UnFDc29HV3p3akNZ?oc=5",
       "date": "2025-12-18T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL"
+    },
+    {
+      "title": "Sutlej water likely to flow into Shimla before winter - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDg5TWhpSy1VbGF6Z3plUlhneE45THNTTDRQZ19pdnVrbXBJZUFFNUFOc0Iza3A1V0xVRXhDU3RibmxJTEJqYnBOU1Ftd1lRb2JNZktrWEtCUXV4cEd0Y3RPZlR2VVVmM3dkcmMtSGRLVjVJeEoyWlhBTFlZeXhteWJGZV9pYl9ZQkU1Y2lhaUdhLTdFcDdZaFVWNmxWdw?oc=5",
+      "date": "2025-09-11T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL"
+    },
+    {
+      "title": "Rising turbidity worsens drinking water crisis in Shimla, city on the brink - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMVdTQ2ZEUndWSG9QV1UxaVhtblk0MG5ocm1KemJLOWZITW5kRllYa3FkSGMtcUpkVGNZNDZqejVZUGhRQ1duaFJqRnJBenNzMnV4RS1TeFVweVF6Vlh1Y2pKNUNxVDB6S3lLNE1sYldFZVJmTmhBUE5CeHY3eXFrSXBfRFBvUnAxQ2FFejBVdnhTTGxKVmJ2cF8xaVVSa0tUanNBTHBDSTN4bEY3NlBCYXhsWmkycGlDaUHSAb4BQVVfeXFMTlJWQWNENG5ycUo5UkUwRkV0NGdRa2ZYN08tdTdpUGh4S0RyNElQQmNJcF9VWDBBZ2NEY295dDJkVmp3ZUh5TndaaVZwM2MxcGFGSTFDb0s2NEJqc2V4WFYxWnVLdTdKMFN3a2FqSzEzZjcybVZEOWlnQnZGUDJYLV9vWW5aMzAzN0JaNmUyNWdncW5zSDNCQk01SGExSVAya1c2OE9ISm9iemFqTFk4SXpoaTFQN2Exak4zZVZBZw?oc=5",
+      "date": "2025-09-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "SJPNL"
@@ -180,6 +190,16 @@
       "match": "SJPNL"
     },
     {
+      "title": "शिमला में खत्म होगा हर साल पैदा होने वाला जल संकट, 315 करोड़ रुपए से 24x7 पानी पहुंचाने - ABP News",
+      "source": "ABP News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNM1pLdXE3aXo3aEVSLW1nZ2hvM1hTdXJGcUcyVXFYR2NOWXNBRk5tTGpDQkdKNnRwS251MWNsTVhJenlxRENETXpsMk4ybXo0M1pjNGYzd0xhZHVWREs2N2J6NHB3czdYS19QaHdUcnVRalBWZ2I1eFFMRXRFdUY0WUx5TGtmaGtmMEd6OWU1RlFDeUtldENlQXNFSENvSVlkNE1mODNpanhOUXBOaV9tdHN2dWhyQ1hkMk5BRmhJT19RUXl0aEJ4RjdwMVpkWHgzM1VmUGY2UV91d0hmYVlTZHJwT1BtdTjSAewBQVVfeXFMTWhmaE1QQWl0QnFtZk9VM3ViZU9pcjNzQS1fRy1UM0I5RW5mcVZ6TDRWN0pjZHViVWZINlVSQjNQbVV0NGRpb0NITi05anhBbzVzcllZZWZzSjZ5OVFGV3FhZktrcU1Sb0tvaVRqUGJJckdMNWJweFdOYkIxSVBQaVNtSnY0SlhkYnQwWk42UkxYX196NUZzSDVkWmlvOXprdWNiOVItNlh5RWVVazBRLVA0LWd0Y3Q0N2tCLU9HOWhnaFJ1RnRULU8yTkU5M0hjcFpOQ3VmSXZBMWFRdWR3eWZLR3hqLXNfS2tIUGk?oc=5",
+      "date": "2024-06-22T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla Water Supply"
+    },
+    {
       "title": "Shimla water crisis: Tourist-packed hotels scramble for water as supplies drop sharply - The Economic Times",
       "source": "The Economic Times",
       "source_id": "google-news-en",
@@ -188,26 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Shimla Water Supply"
-    },
-    {
-      "title": "Himachal: हिमाचल में भीषण गर्मी से सूख रहे प्राकृतिक जल स्रोत, शिमला में गहरा रहा जल संकट - ABP News",
-      "source": "ABP News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQW9aR0JaUGN3c2Ntb0hoYXFZWHprUUJITjZ5U3FudzZJVmVsdDIxbFFfUHFFMEpBZ2M0dmljZS1LcWpLalozY1o2MDVXNXNoLXk0YlFqdVlFV0g4V1VGbUxrRmxLZngtb3dzVWM5VjFQTE03Z2FESEp4ekNjQzNBRmMzbFdZUTQ5QWNKTkJPb3diVVp2MDZwZ29DeFNuUkRyTkJublNSc3FqN1Z2VnFQa2Z1dm5hNHluVUdQY0xLOGxtZ0JRMXFaUy0zT25YN1NxZkgzel9zMDhKY2ctN3Z1U0tZa9IB6AFBVV95cUxQR2RrNzB5WHNSXzJHSnlxSDRBZy1PT1dZYmNlbFc3ckpRSGJFQk5NTnpIY3Izcmw3LUNzLXB5ZUFnQUhEZ19wMlp0NU1ZNFpGanpSdGlOeVlORy1UOWdpT09hbmJCUzVCUTZCYm1fdURhSEloWE5zUm0wb1VKb1g5ZVpwaFdGMFdSVlJ0cWdpOTBZdGZWYkI3b3RVY2xpcGJPc0kxRUk3dXp2V3o1a2lHeHRoUVo4dU8zR1F6bjFnNVZEeXJqWmRkOEdzMUVzWXIwcHRsX0U4VVZpc3pIZmU5UlRFM3FTRDda?oc=5",
-      "date": "2024-06-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla Water Supply"
-    },
-    {
-      "title": "Himachal News: शिमला जल प्रबंधन निगम लिमिटेड में बदलाव, अब इस नए नाम से जाना जाएगा SJPNL - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlBVZ01DVy1zZktQcHFDVnJ1QVQzd25LR2FnOWxodXpKeUVQUTA1SzhsN1RPdmo4MFJRVnJKNm9WMXdYWHBHNG0tc0hsbWFfWF9pNXNpRnhONW9fdGxORmIwWlQxVWJ6UlZJQmJsSzNtZm9kWkRvNURnM0FXR3RMZEV2T2FSdjBLa2UwUW5vcDRYdkpYV1lETzhYeWxPd1VZeW1DOXlVSTFxeHhwY292UlRaOXZGbm1BYVdNaA?oc=5",
-      "date": "2024-06-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "SJPNL"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."

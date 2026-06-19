@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-18T21:17:49.790Z",
+  "updated_at": "2026-06-19T12:00:17.456Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 31,
+    "press": 32,
     "gov": 0,
     "en": 23,
-    "hi": 8,
-    "total": 31
+    "hi": 9,
+    "total": 32
   },
   "mentions": [
     {
@@ -160,6 +160,16 @@
       "match": "Luhri Stage"
     },
     {
+      "title": "SJVN’s Luhri-1 Hydro Electric Project enters advanced stage of construction - PSU Watch",
+      "source": "PSU Watch",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVDZuNmU2MDhnaVU5MmwxZlVtcUNxWHFCLWNkekp3WjA2ck95YUpXaVVXd3dCeDNmT2R6dXdwaDhoTnd5WG9IaTRZU0h1T0pVbjNaWUhUTWhTbWtFNU5haDJHd2ZVRFU0aU4wdkM5ZmFGNjZIaTFHcDVhVk5mN0l4Y3NyRG5lSVJwNFFqMzI5VVpyX1FhcGtRYmp5MTM1TXctY1B1emxkMnB6RnFTQ3fSAbsBQVVfeXFMTVNEbHhqR2d5Zk01S0JidGtNV0VZTkRYRkNrYXpRMU9XQkx2b0tuVnhFMWp4bmx3M2NPQTBGcHBxWTNDN3lERHJucUpiV1FfVlMzSW1QcEdGMW42dDNIN3hMSy11Z0RYdXRob3NaTUV4V3l5OXpVbWFoSHdHbVprcFBoLXJ6LWZqejNsSjRPV0xHT2l5MFVhekxyUkRpTDk0aEZBVVlzajU4cXA0QTdFUU9NZkJYNm1OTG9zMA?oc=5",
+      "date": "2022-06-25T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
       "title": "Luhri Stage-I Hydroelectric Project, Himachal Pradesh, India - Power Technology",
       "source": "Power Technology",
       "source_id": "google-news-en",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
-    },
-    {
-      "title": "Patel Engineering bags Rs 976 cr order for Luhri hydro electric project - ET EnergyWorld",
-      "source": "ET EnergyWorld",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkk2ZzlKQ25NTi02VXNuejFtWmI5cVNyc2hFLUZNY2JXSHIzam0tZWs5X2psVmQ0aUxWVmdaOGVXZFJaZGdic0hPSVdpTS12SVNuWUFCNEtlTjY4MFFKTmhjWnRSWlRUdGVIcU5HQmUtakMwX2twaERRUGR6S1JUUFdTUEpPMU1YemZPaTBPNzdsWlRJWGpiUHRnNWhXck9sYl82ZUNnZkVveDZhbGVFc1lRbU9OODduU1RodHg0NlljaWpyR3JtOXNHY1lqb2lv0gHWAUFVX3lxTE9Sa09za0RsVkcxNGM0TmcwSy1TRXcteWtFT25zdzJtMmRwaTA0V0x2MUNPc1I2TGtxbzJzdkRvbEE0b0ZnV19feExOLTBSMkhkNm5PUzk5NnZhS3FxT01keWt1Mmt2bDFHZWxfcHI3QWkwNkVWYVp6LUY5STJmUnN4dGo3REJYV0NHdzJxbXh4Y2J3OHZ1cGJ4S0w4cE5rbDJzVE5zMnhYMjBTelhfQkxzOVJYZXBhNkhVY1hfbm5lSTJoY1gyWk9walJkcU1DWURsd3JlZ3c?oc=5",
-      "date": "2021-08-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Hydroelectric"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."

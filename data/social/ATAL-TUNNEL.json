@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-18T21:17:57.322Z",
+  "updated_at": "2026-06-19T12:00:24.092Z",
   "project_id": "ATAL-TUNNEL",
   "counts": {
-    "press": 403,
+    "press": 404,
     "gov": 0,
     "en": 201,
-    "hi": 202,
-    "total": 403
+    "hi": 203,
+    "total": 404
   },
   "mentions": [
     {
@@ -50,16 +50,6 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "Himachal: Three new tunnels planned on Manali-Leh route - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDJ4c2s2QjV6WE0xSGp5QVJxTGFDUWV5RXg1VjNmX25fS3BNUGNDQXFVRkhCUnFsRjlrdFNlbS15aW5EZVBDbEFOMEpiNHBVZ2IzSm95UFo2cW51MmotdndBUmd3M0txLW1QUVdQb1FpT2VYQjBXZGRxaTczZjZsa0NhQUZHRkpDckNKd3NuN1R1T0JlVThOS0V0SUpCbWPSAaMBQVVfeXFMTjNKYUFOT0o1NVdQWW5FdmtWbEdfVEZnVWc1bjdjbVZQeHZnX3YxNDhhZXdrYmhSbG1Ianl3UWNXSGJmQkwwcFlYZW5RS2lNR3ItSjJwM3N0VEg2QlFRYXJKZlllSjJpLU9YdEZ2WnMwclUxaG03SFp4V1k2ZTdCRlBCTVdKRmhBYTM2OGtCZG50RVl3V0pESWxFUWVIUFlCNVp0OA?oc=5",
-      "date": "2026-06-13T20:15:37.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
       "title": "Plans Afoot To Cap Number Of Vehicles Crossing Atal Tunnel Daily - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-en",
@@ -80,6 +70,16 @@
       "match": "Atal Tunnel"
     },
     {
+      "title": "Vehicle Rush Beyond Capacity Leaves Carbon Deposits Building Up Inside Atal Tunnel - The News Himachal",
+      "source": "The News Himachal",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZk1KblluQ3FFclAyajlFdjl1S0VEaXdJaGR3aml2VWs3UWFwdnlNR0hxY1BEbGliVkdJTlJ6VzlwcWM5NjN0QUd5U0pkakw5R2JtS1lsY3ctNUU5ZU5XX2xPWTFCNm0xMUZ0VjZ0Yy1mZVlLNlBiNlJyR1RobG5wN3ZGVjItX3N6aWVhZ2hSMGgzVHRiU0lmekZGQnMzQWNwRG9XN3ROY0RqOHVzUVRUeE4yV0c2Qkl1UnJJ?oc=5",
+      "date": "2026-06-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
       "title": "हिमाचल: अटल टनल पर क्षमता से दोगुना ट्रैफिक, दीवारों पर जमी कार्बन की परत; वाहनों की संख्या तय करने की तैयारी - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -87,6 +87,16 @@
       "date": "2026-06-08T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "Manali To Atal Tunnel & Sissu | Today’s Snow & Weather Update ❄️ (xcSfZrthrT) - Fathom Journal",
+      "source": "Fathom Journal",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50VVhlb01TeVB5Z0hJVk40cWYtSDlOSm5nU25PZTc2Wm9DNkhKSnVlUGNvOTZlN2Z4NWVwc3ZDek8yblVydlg1Nk5jcUVwWThPbENuajhfb0hneUpuRHE2OFNtTkl3MnZZT1NZLUd1VXE?oc=5",
+      "date": "2026-06-05T17:26:13.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Atal Tunnel"
     },
     {
@@ -180,8 +190,8 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "हिमाचल में ये झील टूटी तो 34 बस्तियां, 57 पुल और अटल टनल पर खतरा - Aaj Tak News",
-      "source": "Aaj Tak News",
+      "title": "हिमाचल में ये झील टूटी तो 34 बस्तियां, 57 पुल और अटल टनल पर खतरा - AajTak",
+      "source": "AajTak",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFJBOW11N1JpTjl3a1FOWFVLYzBhNUFJMlVOVE4yX0dEaGRfZlhoZzluRzBjRld0TnBxUUNEQ1JTZXp6T3M1MmdfeE51MzFlRDBSdXBlYm5PcGRUc19EM2hVa2lKOHJscUV3RUdWUTd5Q3BjVEZ4VXR6Z0JLZmcyYW45Qk1uWUZKeWxrQ3RaaVVVREg5T0l3NGdIeW1Zbk03X3JrcGpsTHVPaWhpMGdFYmx30gG3AUFVX3lxTE84bFZkb1ZKc3ItLWZpaUprc3FCZnZ6UFNJYnhTYzFPb3hEN3NMdk5YTlRRNVlKUC1rcGw1aFdwaHZlX1kybXRxdFRZX0F4d3pOdXV5MTc0aUV2eE5FTVNka3drbUV3aU5KbHp3OFY3cFFxaGRURUlTQWtkWkh4MU1xNFFlLVh0VmJielJRX29NRVlaWlp2ck1oZDNLSXVzdFdLZkE1Q0RjRGJLWUxsYW9ZaTY2X2JwOA?oc=5",
       "date": "2026-05-27T07:00:00.000Z",
@@ -195,16 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdzZOVHYyV3hIN3FCNGRKUk1LWUYtN0VPUmdOaUhWcEUwcTU0VjVEWEtXeG9uU05lSWtOZ0F6aHh5RXBrT1VzYUw5b1FIOWFZZzg2UGt0blJCc2M?oc=5",
       "date": "2026-05-26T23:28:29.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Today Live Snowfall In Sissu Atal Tunnel Rohtang || Live Snowfall Today || Manali Road Open || Stephen Hendry Ronnie O'sullivan Dispute (Lb7pJWsU4F) - Mshale",
-      "source": "Mshale",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YLThMUGp5NHdqYmJxRnVFb29zZ2dHaEtxZUZKR2dKaDVzSzRHaUhmSXN5ZDdTQ1BwRFZkQTVwZnk4OWVJOEw0MHYyanB6cnNTTFpTc2xBcHd5NlE?oc=5",
-      "date": "2026-05-26T21:58:46.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Atal Tunnel"

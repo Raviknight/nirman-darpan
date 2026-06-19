@@ -1,34 +1,14 @@
 {
-  "updated_at": "2026-06-18T21:17:41.203Z",
+  "updated_at": "2026-06-19T12:00:10.680Z",
   "project_id": "NH5-PWN-SHL",
   "counts": {
-    "press": 44,
+    "press": 45,
     "gov": 0,
-    "en": 30,
+    "en": 31,
     "hi": 14,
-    "total": 44
+    "total": 45
   },
   "mentions": [
-    {
-      "title": "यात्री कृपया ध्यान दें: दिल्ली मंडल में कई ट्रेनें आज की जाएंगी डायवर्ट, पावर और ट्रैफिक ब्लॉक के चलते फैसला - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWJnSFhiVXRyM01VUUE3WFhQRGZXekpNN2pGQjNzeE1tQ3N6LWdhVlZFTFdfY0M3SnQ2Umhlc1Jlem10TVdEdHAydUVuNjVhbVM3ZlRabzE0cndLNVUtTkJaNDFXMWVBWE9fb2pNLWxmYXZGUzI4SlZmeVRaSXVBN2xWZ2pZQUc1NGxCYTB2V3ZwUE5KemFMRlMtT3J4d1RGOGxBUTg2a0hxenJXaEwzcWFka2txQWVLR29qeVRPaHpKdnkxVUQ2SjVHRGw0YmhqQm1lRURWUzYtNEczYzhVM2diMHpMRVZW0gHuAUFVX3lxTE9EV2thZVBXdlQ5bUFLTThBN05BM1YtNnJ6cjVmcnd2eE1zX0EtWGs4MFMyMzFZbEx0ai05MDRrTVM3Z0ZsX1loMTNoWF84Mlc2UGVmNmtKRm1wa3NhOG1MTmc2Wk9ESnNiWXJtUmJmZUFFYXVMVlczYVB4LWQ0cWZRWk9TNDBNZ3VDeGxDZjVTYVM2RkJxWl9wLXBxVWxFME40cFBINDhnMGJyTVo2M0QyU0w0azhDamI0bGhwUlBpVHlCVDAxSmY1TFVTRnFyZUhid0VreUFrZTMzdDZQdy02SG9hdmh6Z3Z2YjRkWUE?oc=5",
-      "date": "2026-05-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kaithlighat Dhalli"
-    },
-    {
-      "title": "Landslide at Shimla in 2025 an 'act of god', NHAI tells NGT, rejecting compensation claim - The New Indian Express",
-      "source": "The New Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHo2bDBRdUc1MnV6NkNxZ0JnOVBfX2hvYTFOUlVRa1pGVmlfM3NmYUF4UFlsaUIxbmRId3AwcDlqLUtPZWtteWQ4dUcwaG5UdS00TGU4UW1SbXlycEJYbm5DNHdJQjJKb0FiWEpXSWxLdHN2emNzTFp2dXpYaFdFdVJhWWpvcmt6dTZxNXVyd3VKXzNLZ2pGS2JWOUtpM2Q5LU1jeGpkTzktaUh3TTRXUXNWbVVIMU9uaGtQTWNwT3RVbV9IQjFSUXFuQmY0dWFKZGfSAd8BQVVfeXFMTmd2c0NHT2YyRFl0bHFuRUZXeU5rRGtBdzQ2cDBqeGVZWnBLaEF1V0ZhS0hOdFBPaG12NmVJdlJjeDMza20yOEN5dG91QUpBV19jcWxaOFZjTHpJeDR3U2ZhM29IRlpIcHV6SHMtUjc3UVl0LXA4MmgxZXlpcXhxeUZfemhlVHlyYlFyd05IN2ZxbjVVZUpURFNOZ21FSGQxbV9qMkRYM0F5T3lFQXEwcUo4SGxIeXZXRjNiYXE0Mi1KSTlZaTJoSjVmWGZzLTR1NGVZNVEzUG5RYjFRb2FRVQ?oc=5",
-      "date": "2026-05-22T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kaithlighat Dhalli"
-    },
     {
       "title": "‘Act of god’: NHAI says landslides not due to Shimla 4-lane project - The Times of India",
       "source": "The Times of India",
@@ -178,6 +158,26 @@
       "kind": "press",
       "lang": "hi",
       "match": "Kaithlighat Dhalli"
+    },
+    {
+      "title": "2 killed, 3 injured as truck rams into car, motorcycle in Himachal Pradesh’s Solan - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjhFdmlEa2trUWFuRFlrY1huUTltTzZYdHM4RU81a0ZBbkNBSnE0TzI5MkhBMlh0RC1zelZ5MVBQOUd6eFYyMkp4TjZaR0lvVlZkTGs0ZGkxVGN4ME9vNTQzSXZucHpMM3o3RzQ2dEhvOHF0Z2RBY3FIN2o4RjVjclBuVGxnWm9peHNYeFFXc3BTRnBoZ21RQUtYQVRpRVdVczEyLWwyNHdabkxsOUNkcFZKUUE?oc=5",
+      "date": "2024-02-12T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parwanoo Solan Shimla"
+    },
+    {
+      "title": "SJVN Collaborates with NHAI to Enhance Infrastructure Development Through Technical Consultancy Services - The News Himachal",
+      "source": "The News Himachal",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV05xQU40SEtWREdmOWMxaldDZ09NVFVBUF9VeGNLY2tGVXRBTTN1OU4wd2dLcXFrUy1NSGZiUDVDNDZGNkpxZ25PVmNVNERHb0FCODdTTng5YU9WeHd1T0Q1UXdOMmV3VmFVNGdacDVtMHZnNHFaaFEyMUdMY19VV0htMjg3STR5SkhvelRhdHhiX0tfY19UR0pBODhENlppY0ZUZzJ6NE4yU05wb1d0TlQyZTNva1JLbGNENVVmbWlxZUEwb3gtX0dnX1IxMWRJV1dVSTEtUzE?oc=5",
+      "date": "2024-01-23T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parwanoo Solan Shimla"
     },
     {
       "title": "Vertical hill cutting, lack of paved shoulders to blame for damage to Parwanoo-Solan road - The Tribune",

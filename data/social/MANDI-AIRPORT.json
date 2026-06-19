@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-18T21:17:54.285Z",
+  "updated_at": "2026-06-19T12:00:21.494Z",
   "project_id": "MANDI-AIRPORT",
   "counts": {
-    "press": 28,
+    "press": 29,
     "gov": 0,
     "en": 16,
-    "hi": 12,
-    "total": 28
+    "hi": 13,
+    "total": 29
   },
   "mentions": [
     {
@@ -35,6 +35,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTENaU1NLQVpFMENfWDJSVTYwVkZpbHp3T05MNVAtUVEwNlZYWUhYaWxOcnI5NmRuYy10ZG9od3M4a0RDbnNocHNGZWdZcjhFVXgzX0ZfWUhiQVo4alpaV2IxZ2p5LU9sdHBzUmFJTGZlQTduV3QtaUg4dVZ2NmpLZDl0VHRJYy1HYzh1WEtYalI0Sm50aFRwZk5mVWRmUjlaNlBmbWhpaHR2N0tKOGdJUERUeUtRYThxZmxoUm5kTkNSVnluZlRWb3dXTDlsUVJ3UTMtWWViQWpzc21fc3A3VzZya1ZSNGFiOWfSAe8BQVVfeXFMUE0zbkZfRFY1bXBrMHNPWW5VT3BRbUFmQVRucm5XUTZyV01KZG5ZLXRLd2d4RlFyMU01eEFHWEtMb2QxUy1XcThTckdrXzcyQnd3cUVvS2dMZWwwU3RGSmdrUTVRcTF3UDNmd2lhV0NZZ05TQm5RRmwzTVdDNTBMSHdqLXh6S1MwNlBfdHgtSzU1Qm1ZWDlCSmV1S0ZKWUJqQ1RUN2hKajBtUWQ2TkZDcWVPY2tBd3I5OFdSMzR5TC0zaFczc2V2aE1xZnBCaXYzTFcxWFB4VFhXeUprYzl2dUpoWS00bUlqdTd4ampqQTQ?oc=5",
       "date": "2026-02-03T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mandi airport"
+    },
+    {
+      "title": "बल्ह-गग्गल एयरपोर्ट को लेकर बजट में ये बोले सीएम सुक्खू, जयराम ठाकुर दिखे नाखुश - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPR2dXLWJ6Qm5IU25Ja3AwaXNiYmY5c0tKT2dDak10NUdodkRuZ3JFeUt5Y3VxaGxNT2JIWDFYSjRjTDYyXzFqaDRSazRQdy01NGJBWWFGWGV1Q2ZPMUJkaUd6eWVBdkZrN3FZNTIwMzE5WG1nNDF4UHBaZ2huMnJFYXJobWYzaWl3WVVTdGhlUHFqbDRNeU5FNk83eDI0a1hQMmFhaklnOXBpTzJ6OHR6VnFxX2IzVFBUQzNMQ3hBUDNUT3R3WDdBM2c1RUNTeHNoRFp3RVRqRDBmejhHemZuMnYyZnktbXhHVEIyQXpFdWdFNjlqakNhbGVoSlFWNUhGY0ZJM2h6R2lCd03SAZACQVVfeXFMTkV6bWJ4bm5lRjBHNG5hMFlzdWtBVVhvdEpZSTNkcFBqb0tGSmU1MXBUbF93dzJqNGFQM0E0RzJuSGZ3czlRUnNWbXhJWHNVazV6Wkh3UWVjX1JjLTNRalZxMWdVM25uM3M2eG9YVG4yRTZseUFYVS1BdmhOMzM0SnV2LV9iMjY2VXlRZVRjeG8tSXpfU0VPN2NKVEpFMjJYVFhTLUs0THc4RVdad2NzSk9veUdwcGhucEs4aXF1Y0QzbVhOT1ZoX19kbW1qMnJfbS1PU1pUUjRQRzlDd1JydUt5NjB2c1BlUl81Tmk1N2pPQTQtWERCUEpaRUlSdm1VMWwxZ0NGaWlLc1ZrWFAyckc?oc=5",
+      "date": "2025-03-17T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Mandi airport"
@@ -197,16 +207,6 @@
       "date": "2021-11-06T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Mandi airport"
-    },
-    {
-      "title": "Mandi Airport Spells Disaster for Himachal - thecitizen.in",
-      "source": "thecitizen.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHZYTFlsNVMzc1FQZ2RTTUNKY0VLZDlSWVlrd2ZJYzY1LVJEQ1JvZ1FFdlVTeWI0WVpEb0otdEdtSGdMck9WUTM1UnlDZHdiNFRsVUtwU2lfSndJVzNOR1dOWDRIaVg4SnlCVFMxc3JVX25jZVFkc185M05uYjQxZ0ZvdHJYbU92RkY4U0FEYS0yVjE5Nktwd2x5TmExVzV3eUVFV1V3MXphUdIBrwFBVV95cUxOWndSclA3RG11cW91MkU0bUNNUWNwVk9ySGR4NXc0amVsRkxEd3RxcUM4U2doblRFeXFWV0xSdUtTMkpZcWZ3WUxVd3NIbzRFQnFTWHpyMEVJV0REMVYwSk5Gb2pGMUN4cXdjSGh6LUVYeFNVR25Eb3NVeDVwZk9oOGJBUW94ZU1VX0RJRjRsNzhYZ3VPV2w5NDl2T05NZUJyQThFdTlBNlFZNXEwZk9B?oc=5",
-      "date": "2021-10-24T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Mandi airport"
     }
   ],

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-18T21:18:03.784Z",
+  "updated_at": "2026-06-19T12:00:29.397Z",
   "project_id": "JJM-HP",
   "counts": {
-    "press": 6,
+    "press": 7,
     "gov": 0,
-    "en": 1,
+    "en": 2,
     "hi": 5,
-    "total": 6
+    "total": 7
   },
   "mentions": [
     {
@@ -57,6 +57,16 @@
       "date": "2022-06-01T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Jal Jeevan Mission Himachal"
+    },
+    {
+      "title": "Jal Jeevan Mission: Himachal Pradesh presents Annual Action Plan - tennews.in",
+      "source": "tennews.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTjlkTTJzQmJsRzZHMmVsOTlYanctcTRGN3czMUNLNW9CRXAxajhta09WYzVuZUh2V2N4ODZBR3o3ZzNhQkk4RGxOVDIxSjItZy1iS0tZQW9CZUMtQUxtUURDWjQydXRjYjFWbUh4a1BxYjZMY0pJMDZnbnp4bjFyaFpEMHJ3VzRicEp3?oc=5",
+      "date": "2021-05-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Jal Jeevan Mission Himachal"
     },
     {

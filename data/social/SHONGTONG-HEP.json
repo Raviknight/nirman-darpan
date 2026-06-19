@@ -1,214 +1,214 @@
 {
-    "updated_at":  "2026-06-19T11:58:38.4036331Z",
-    "project_id":  "SHONGTONG-HEP",
-    "counts":  {
-                   "press":  41,
-                   "gov":  0,
-                   "en":  33,
-                   "hi":  8,
-                   "total":  41
-               },
-    "mentions":  [
-                     {
-                         "title":  "Ensure completion of Shongtong–Karcham hydro project by end of this fiscal: Himachal CM | Hindustan Times - Hindustan Times",
-                         "source":  "Hindustan Times",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOb0Q2VkFkenRkU3NESzJlWFg0dG5fUDRSZVcwZXJ5U0R2bjBtT2lWNEVBVVl3SERDVVJBam50NkloclBRNlFFbElCYUdHekJoVXIwRm1GOUQ2bzFyTDhLMmJXMl92S0plX2Rodk5sUTZWX01pQXBncmJMQnJVbjFnOWlqa0lnT0tpUWstckUxTkdsVWVQQ1VUZzZYcVcyckdVbFJFbEI4UXFDQnlOU19pNmpmZklocHdvR3ZPV01UNVV0ZXo4WjlUYUx1OURGekJFbU9tNE1SbEZCN0otMGlKbTYxSExmY2c0d0VJTWtIVE5OdUXSAfgBQVVfeXFMTko4QlVpb2RpS3VCdGQ5T1RDeHB4QV83WkVMY0laTGMzQkl1MFVlaGdDVEpxeUtfUVFDU0Z5NGxNd0d0N2QweUtEVmkxVmdFQVFEbERqazZBUkY3UF93VnN0ZUJvVk1hczRUdWhkS2hTVkp6MVdkbjA2ajFUc2RjU3M0XzU4azRNdEVwOFFmNUJDOUM3Q0xndkxNa3hEZ1M0VGlXS2VUTXBrM3h0c2QzeTVPVUFYNWlQUjVlMXlCQU5HSUpEMDZlc1hTYWJ2b0poNkVfaEZpUTF0UEM3aXZXTjFvQ181ZFRRV29NanZ1bHVRR0VEWGpqZWw?oc=5",
-                         "date":  "2026-04-15T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "CM Sukhu Reviews 450 MW Kinnaur Hydro Project, Pushes Timely Completion - BW Businessworld",
-                         "source":  "BW Businessworld",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVVxcHpRbERjYWpUUTI3ZzNqWXlkdG1lWGhienJIdWZIS1d3ZEZHRmRuWnlaTUlGVkt0QUVzQmxHczVmWmQwZU1TN01FQkVYVUlSV2otbG9jSzQ5WHBKQVRJTldYY2pWdXdMZkdIR2U3OHcxYVRsbGRJZ0hjVW5YbHlTVC1ZYUd4NmU5dllEenVjY00xYWZpdnA2LWF6OEV6Y0xNYXZPRVZfR0laS3RPbUQ0X2M?oc=5",
-                         "date":  "2026-04-15T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Kinnaur hydro"
-                     },
-                     {
-                         "title":  "Shongtong Karcham Hydroelectric Project, State, Capacity, Latest News - Vajiram \u0026 Ravi",
-                         "source":  "Vajiram \u0026 Ravi",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmN1LWhuckJKSTI2Z08xR1RmQktIRW9GVUQzU0xsTU0wQlI5QWk5UG13Q2FNLXZnMERka3hCQU5yVE1CczBjRFlZTkZtNHl4YTRtb0VONWJBbnNTMFc2SUcyMVVCQ2NMdDlXYlpKbWNWc2o1YTNhaHRvdXAwV2RITllhalN3eUJzT0FB?oc=5",
-                         "date":  "2026-04-15T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "CM Sukhu Sets Deadlines for 450 MW Shongtong-Karcham Hydel Project Completion - The Tribune",
-                         "source":  "The Tribune",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmR6LVhoWXN4T3hHbzRBTThrUnRpYWJPall3ZDJ3XzFtbjJjZUZ1RU80RFNic0kzQWNueHpuOVZMT0pjYXlFc0F4NFdMUnlHdGVLVlUwd2wxVlJzLXRSR0puWkt0MC1mNGxWbFF2a05KVmI3LXBLZnZuc3lVbGJ6NVpQckoxbWRHTmtDclJXOEFjaURpRUx5OXQ1eFZQZjlJZFIzNld0dmhFYWEzVW9mNDVITWJ0Rlczakxmck930gHCAUFVX3lxTE9DS24zSE5TRWhIcGNjb3U5dzlKRFNXMHBuZ0NWRjY2V2tmNHJHS1FTWlMxa010bHVsZkVsYjNZWjFRX3A5TVVLb0M3Z0k1WUc3Wk90WkhmOU10eUtYcDJmT1dMT29ZbFRwX0FwR09iR3psblBvU1J4TzZjMEZncUJ2RlVyZHRrb1Z5U2IzV0ZCbHFpckYzX0xqVlhfY1djeDkwOTR5RldWTHVTTEQwa1VsS3BBMzBEbERIbWhJdUlQNkJR?oc=5",
-                         "date":  "2026-04-14T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "Tapri Fruit Unit \u0026 Shongtong-Karcham Project Inspected - Rediff MoneyWiz",
-                         "source":  "Rediff MoneyWiz",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDZkTkl1b1kwMVFNSHozbWhYRGcyZUt4cHZiQ2VsNlFRaUluZkw1ZGt0b29qdnFpaDB5OThxS2NKaThpR0daY0pnaDJBRXY0ZDFwdkZSSEN4UnRwdm5CN2NHTDBoRzItRXdONzBsNFBRdVN3eXY1LTlSUDRRelRmMGNJZkQ4UUl4c09BTmpydi1XM3Z5WGc1MVRnZXVPcFFYX0oxTnphWdIBrAFBVV95cUxQbWRsY3o4Nkhsdlo4YWVsMXhsVThnRGh1SDdLblM5NXQzbjNWV2x6eEVlNXJrTndfc213WWFvT3pTckFCMko3U0hxM1ppYnVsRld5Yk82OUxBeUtKcWJzd1FXQjJieHNUN1cxNjkwYnBYWk16UG5JYlZIcHhzdWpaOTh3SUJORzdOQXA4alNvQXFlT2o2alAxMzJka2MwSmh5djAyTUt0SHhsN00z?oc=5",
-                         "date":  "2026-04-14T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "Himachal CM reviews progress of Shongtong-Karcham hydroelectric project, directs early completion - ANI News",
-                         "source":  "ANI News",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZlM2cnJaYWxPVmx6QW9vbGUyM3ZkVm9ON2FxLWhRVGdaRmpoRDg4UTVva2YzLXhoc0lfYkNqdlVuU1BYTkh1Q0Vrc2ExUFY4dndWeEdIaURqSTNwM0JYa1Rad1A1S2tRVm1hTm9rczBFSGN6OGtKcURmOXBWU1J3dV9iY01nNFk0RlZDYUZUMGdUeHdsTlFHSERLaDhtcUJ0RTJobEdvcGdtUHFsNzcwTmtqVm5rVVdFTTJ4Uk54QkhtRG5SbldBUHFzbjJfbmdzN2FjZzh5c3dfM2Z5WnA0QS0wb181eXJTR1RRY29UcVBmQQ?oc=5",
-                         "date":  "2026-04-14T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "Five in fray for Shongtong interstate-TBCB transmission scheme, in second bidding round - T\u0026D India",
-                         "source":  "T\u0026D India",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkJhNDR3Rkg0TC1ZcFVEbVN4UDJ5RWZjR1l6NjhHUzJZeUxfeV9JUUU3eTkxZVpCeDhsQTVsVHYwYTdHa29MTVVrcUl6U28tZXlMWHd3M19QSVZvNTNoRFpxMmktR2dYWl9JZkxCa2thb2JDV1Q0Ri00N2g3eDJpYmVVWS1ybFF4RFVNRjRZdWl4Ukpjc25XUjByRXp6ZWlQYUthM09zcXBLM3ZzQUxUdF930gG3AUFVX3lxTFBqVjBiUkZMNHJPcGE3OF9JYU5lMU94WmViZ1ZpbDlfSzBUVVFTMVdFclhWc2lWNnZ4WHA4LW45b2wyMU9XTE1CUlZzSlg2Qml6Skt3RTl1ZDJNRXJwdXBaVXFabk1OeGlUVTdaa3BLcE0ydWVJWXFRY2daQm1neGdNbWgwaGNsc3FzTkNlLVdxaFlWS2Q3ZEQtZjBJbGZCaVdhMjNSWTRQNnhvRXY3ZDNWdGtrVFVncw?oc=5",
-                         "date":  "2026-04-08T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "Fresh bidding opens for Shongtong Power Transmission interstate scheme - Projects Today",
-                         "source":  "Projects Today",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjRqaTRDTml6ekxEVV8xcGFSRnYwZnhhVEFqTmYyQVp2S1d6QVJ1eEQxUU9xb1NHYjBTQW5qd1VCckJIMDBQOHM3aDBNTlhZQ01GTE9YeUoxdW1lMW1iQ3k5YTUzYklubXJyR3J3R0FFTHU4bVdRSkUwU1lYbGQ0SkRiRlB1a0FFdDlycEl3cFg4aHdsUndSU2l5a01NdUhZZUxRMVpPNA?oc=5",
-                         "date":  "2025-09-10T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "Shongtong Power Transmission scheme comes up for fresh bidding - T\u0026D India",
-                         "source":  "T\u0026D India",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM21Jb21lbnVLV1VnYzdMSDFoWHExZ1Q4dUJSbnZtajFvU0NkYmJLMUxLMlpnR0lFcXVVYmI1ajZSNUstbDFpUVpJdUNuT3ZxTFhDdVF3bHZRWFBhMFozYk94NTNEWi1XMGtwSGJ5WkEtZjJpTV9hRnBtXzZhUWVud1pTVFBweUY3eFFFYVRLSGEyd9IBlwFBVV95cUxNdW1yMkEzRTlrRVVzVmJXTG9oMXFjSkd3blhEMWJwdDdNd0VYZjRQc2ZEdTQ5SHBzM0oxUnZtTGFKY2JrRl9RbWFVSldOUFdkelNHSjdzWFpnQUdjeklhZ2wxc0JYRWtRZjlBNDcwTDJNeVh0bTJkWjJuZUFDTEVfV2tjYlBIME5FOEstRmdaMEN0dER1Mndr?oc=5",
-                         "date":  "2025-09-10T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "सोलर पैनलों से हो रहा है कितना कचरा, नहीं जानती सरकार - Down to Earth- Hindi",
-                         "source":  "Down to Earth- Hindi",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVEdRdVh4VkFtdXgzU0hLbDh4Wk85OTRkcVBsWlprOGhaZXRVWklWdHFpQmh3emJ1Wng2SFZMbk9tcDNpV1l3NDJhY2hfMTMtMkw0eW1ULVIyUWJHQU5tREJqTWEyeXB6ZU1wYXlsVHJIRzlLWVZxTGNaNTkyYldCXzRySTAySHc3aElBbW8wZW9hYzhnbkl3NVlOWU5teXhDWXJRS2JnOUxPUklYOVpnQkRwdlB6aTQ3akxta3VDdmFsMWlPX2Q4dkZaMXdjaldYa0VOU3k0Q29xa3REa2Y1NnZ30gHvAUFVX3lxTFB0aW1YWHdRUVVRejNRcHlxY1k4dHlHdklNNkstRmJFNXVQalRnZ3pWamFuekN6T1BXQk0xVldVZzFpRnBOeWx0Nmh1czdqN2haQmR5ckRmQTYxZUgwUHN4UFVFQnRvMmRaaHNXUUJCZ3RYLWhWa3FSam42RHNLN2tWT3FyeXBIV0xianBQcTAzVVAwd3hOWGxiWlN2UlRoWk5LVnZSZTd2Qm9paGR5Wl9MOTR0S05jbXJBa0dPS3p4bFFPUlJad2l3OUtxOTVHZHh1RFl2LUhPcktiYl8zdk5MVXQtXy1TZHVDTXkxNmEw?oc=5",
-                         "date":  "2025-07-28T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "Completion of Shongtong-Karcham Hydroelectric Project set for Nov 2026 deadline - Projects Today",
-                         "source":  "Projects Today",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalVaQVNzSFhzbFJYTVVGMzE2eGdzX1Z4cVRPWk93eFdBd1lCaGVOY0JjZkI2VmROSXh3c2YxbFM3QzBnMXFWeFZZNnpPb3ViS1Nna01uNkJhU0JBeUJEXzJneFpWanoxN2xQRXo5emZYNjFxUTI1YXotY252TURVRVpzdkhXY3Y1VzUtY3pjVFpHYWhFUjQxcUxxZnZzTHFhWjFaZlZxcS1OTk9ITVE?oc=5",
-                         "date":  "2025-06-11T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "Himachal CM directs completion of Shongtong-Karcham hydroelectric project by November 2026 | Hindustan Times - Hindustan Times",
-                         "source":  "Hindustan Times",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN1FvTUlVRnAzNGIyN3hNS1BxdHNid09XYlBka0REU21mV09KWFF5Smp5NDVVV0pfeUxydlJHcWdCTDM1XzJ0LXNCX3ZUVGVzQTRYV2Z5bFNtb0IwWVlBWG1TRGpOcm56eEh6OUF2OHA4dXQwWnFTQ2NsenhYSmRtQ1RCY2lHSWltbk1wZ0xQdnNGTVhBODI1djBOTWVudm5ZcmR5SmNsNEVNNFdDVnFqVWdZamdQenAtQ1g5WmpTT3l3RENOX1gzXzl2SlFBQzN1T1pvaUo5QjktaDVmNUVKTkVvTHM5NkIyaFNLamNWcGdMSG9wYXdNUNIB_gFBVV95cUxOazRJdENjczJiclJmSnFORC0tMVphNHRDYmphYnA1djJwNkZZZU5YQmZNbnNKS1lTdU5kaGpHbFZ4dXluSEViRG5KamszM1k4ZkF0alN3di02WE13SWxUNGhCT053YnUwdm1TYlg3Ym9HcDJiaE9BbUVMUHhFT0d1VFhCMkNINTZacTVjNXpSVXVZaWJGb2VNOHo0cV8wMGNEM3NZenNrbjYyZ1ZPbmVlYVVZUXB3bUoxU0lyemV1YmtLRHUtNUFNMHB0bkt4VHdod3RGRlVESjNEaWZPZEJoRUI2anZ6Sk9SOXppZXZrcXhNNTB1MldURnczS003Zw?oc=5",
-                         "date":  "2025-06-10T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "Shongtong-Karcham gets 2026 deadline, HP bets big on hydro - The Times of India",
-                         "source":  "The Times of India",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPalAxaVAwY3FhR0wwcklfWHZhSkx6OG9tOXNNeUhYSUFGSVo3d2NxYUlENF9ObURUc3pPbUpRdHFzcHM2a0c3RVZ2S1VUNV9hSUU3akxDSDNiVTNIeG04MldBNW83Nm1ERFVFaGxmc245bnBqS29UaGdOZ1lKMmlDc25nWEo1aTdwczd6RXlNOU9HVTdYM2dRMnU3SGJVTWV5cTZoZl9jalE2MTc1eGR3dzFfN2JGTXNkLXA1Z2EwVzhNbTdkY0hhT0J0cXAzaXVI0gHWAUFVX3lxTE9leE5QR3lWX3FDQWtScjJyVjJ0bUFKTTI0RjBqZ2Q4ZWtNd0RHR0xNNzUwMVpCbHJ5bHViUk9tNGJsVW9uZ0lhZVF1dl9OcVNDYlpoWHo2emNfV1ZwNTdqNW0wWTFnckliNEhzcVBCQ3JEeGpDMHFidHFQVlhwRmF6S2g1al96dGhrVlF3eXh6dFZGUXpIbTN5a1Bka1h5ZFpjcXdweml2MlNvUTR0YTFRZ3JXNGxlLXFFc1BVMURxYWxHejQzZ3B6LWh2WE1QYkZGbnpVZ2c?oc=5",
-                         "date":  "2025-06-10T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "Shongtong-Karcham hydro project to be commissioned by Nov 2026: Himachal CM Sukhu - Social News XYZ",
-                         "source":  "Social News XYZ",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObzRJMnJfc3RPd3FoR0g4cDFKOHNScy1SeEpPWXotcVBTcHUwXzFmcWZrRFp2T0ZMWmlUc1JGcHVCdXhHYUxOTDZCaGhFelhhRTd6dUY0RmRFNEx6d3dPb19TT19fa2ZmWFpPc0FDWWdWbE1MYkZWWFFMZWZHd3Q5T2hvOTNCTjY3YmlXN1NhbTlCUXIwRVNQcERNWlB1NUFYRUJITF92V1BBaC1rLTFrdjJxbkhCQUdSa2FJ0gG7AUFVX3lxTE5vNEkycl9zdE93cWhHSDhwMUo4c1JzLVJ4Sk9Zei1xUFNwdTBfMWZxZmtEWnZPRkxaaVRzUkZwdUJ1eEdhTE5MNkJoaEV6WGFFN3p1RjRGZEU0THp3d09vX1NPX19rZmZYWk9zQUNZZ1ZsTUxiRlZYUUxlZkd3dDlPaG85M0JONjdiaVc3U2FtOUJRcjBFU1BwRE1aUHU1QVhFQkhMX3ZXUEFoLWstMWt2MnFuSEJBR1JrYUk?oc=5",
-                         "date":  "2025-06-09T14:40:20.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "Dausa: बांदीकुई-जयपुर लिंक एक्सप्रेस-वे पर कट की मांग को लेकर धरना समाप्त, सांसद मीणा ने कराया आश्वस्त; जानें - Amar Ujala",
-                         "source":  "Amar Ujala",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT0ZqN1V5eFFPajVYbnAybldSanNZREZFTUI0N1RRZVNtU3VuNTV4SlFJd2pCVTRXandacXREeFE1N0psRG1GU0NSQTdnWU5JTGN6ZlVpWVlyQ0hIdlA5YWJFdzJqNnVObDhFQncwNUY4aEpNMEpmUVNlSDBhSWlfSEZxcUNlYmZrS2Mza2g0QmhKaUg0akxXSllOTVFucEVPNHQyWGdWOGJjWWpFWnU4dnhPZDJYSnlVUVFNR25mYlhYdzh0LXRUTUlldEdhWDJwUGMxbnVVX05aNDl1aEtKV0RTalhNeXBXZlhaaHZLa9IB9AFBVV95cUxQNXU2RF9kRFdobmVzVXh5UDNhSGhreWN1LXRmT1RZVGcxclBFNER5b0VGWnNQR05XWnlEOEoycl9tV1FuMWEyTWdTUC1WTnZDWXVYRnVXX1BnQUFsRTNvWldVano0NExQUzBzenF3QXE1X25EZ3doN05FaWoxUGd3X2E3c0d6d2xGaHNwdHFYTWZzZ3RIbHV0S3hkcy1lbVB5NWhJUDBua1AzM3JmV1J2WkNjM0Q2OTZaVGxyQUNmOWdwOE5rWGF0aGFnRWV5VF9sWlBuT3FmZjV4WFpKNDQ5UFhaRVYzdENwNWlhN05rUy13Z2hv?oc=5",
-                         "date":  "2025-06-09T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "बनारस के किला रेस्टोरेंट में चिंगारी से लगी आग, देखें VIDEO - Amar Ujala",
-                         "source":  "Amar Ujala",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMnZyelJ0NGNNSnVLSFZHVkFubTBpLThPaGd2Ul9NVlBsbG1CbHZHd2Z2SjhVaVBDU3VYZnBNR2Y5UUM1c3lUVDlSTDNtaDlvYWY5M3gzSzdQaTI2Ulo0Y1RzOVNzSkIybGhTSktMUW1iMWdQWFZTalVkSXM2ZE0wT3hNajNGMFBic2hSMTVRVkxtaWp4MHJRYU56SHd5MkJ1eGpESFlyWGtnUTVCSWgxOWhNX29LOEFRVlJja0FfeHNFSDZx0gHKAUFVX3lxTFBoMVh1UUJHY2FnQ05VQi1EdmRJLWNzMkg5eUVuRmh1YW8zaWU2S2VYS0U2SkhKQ2h5SUY1bzhFWUN1STB2NHY4clZmOGwyb0N1NEZ1d3pabUc5UDVPMDZjMzlXbWNRZVNWeS1KeHcwMm9HWE0zbE9kYU15bllVbHNtOGZCcHpUbHlzTjZOYWlhdUlYY1ppUjZ3QzlXdUZuWXNjUG5SMFhGcUx0dEU3Ny1iME15dFA3STVScXBzMVZnZE9ZZi1SakRCTXc?oc=5",
-                         "date":  "2025-06-09T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "जींद से मथुरा जाने वाली बस का बदला समय, अब दोपहर 12 बजे जींद से चलेगी बस - Amar Ujala",
-                         "source":  "Amar Ujala",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSl96am4zUndxTDJBOTU1cTc2VFRqb19OOEtYQmx1dTBwMTlILVpUcWFxYjEtN01LZm4wSVBucDRJUG95TXY2bkJCYlVoelJEZWF4X25jZUVLT1JpUERfM1NQcHFJVVNxbllCYmlhdjNfb0ZBUXBGWHhXSzNUZlFVZXJYeDhPbVdPT1VRTVBPMUFGamJPR2dNekZhYlZzMzZDRFlxNzA4cDYyX2Q30gGyAUFVX3lxTFAxQ0hGbFJoSG5kNll2SE9JZGFQRm9MQ0J0SDhjU1Q5VGo2aW5fRDVOOU9jenBpV25TUzk0M3JEOEhGWUFVOUlVMU5MYTFfUFJoa3I1TklMLTdiUU5qMnRnN1pUaVFZSEpIMEVUVkhvaHlWaEdaVC1RRGlpdWJZNFdibUswUzhwY1hUVTRCMmZ3QjIwSmRUTVlleTNRbm14YS1fUHNTZzFuWlFXTS1BZTE3aFE?oc=5",
-                         "date":  "2025-06-09T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "CM सुक्खू ने किया शोंगटोंग कड़छम जल विद्युत प्रोजेक्ट का दौरा, कहा- 2032 तक हिमाचल को... - ABP News",
-                         "source":  "ABP News",
-                         "source_id":  "google-news-hi",
-                         "url":  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3p4alI3N3ZkZUlRWGlIWC1sQVV5TFZxc2laMm5oMlM3dG1vd0d0MjByWnpIX1FrUG1yd1N4UDg2YVcyT0J6ZGZBb3FYYWpLbVE1aG5kelQtdEVOOFVtLUs0emUtNGZlV1ludGZ2V1cwOGwwUnZQV0gwY19sbnAxTE9zUEp6VjgzUExKbVNBM25EaDBzbjBobGM4eGtLUnRfRkxVUjdJaGZGMmp3bDBKM3dVZ0RTa1hjYUpfd1F0dE5iTDhTRXREc0p4NFdxanAxbzBsaHo4SURhWHNyNU1XeHBPeEE0MW5NQUHSAe8BQVVfeXFMT2JJaHdTRHRHRnBTZXctWDVmN1ZyMkZHRzRrYVlGSUdJUDRmZldPRmVnUnpBQVlCRTBnZEc0a0pEM0IwcFhzaDVPaENGbWFqbDZ5SFJIRW9McEpDYWJlTU1ZYU91djJQSDFYZ3NJSVA1WnBFU2x1ZWZ2Zlk1UXROcnkyQktTUHdRSmhQSkliZXFtS2hJTlRtRzQ0M0U4bmdKU2twTVoyQ0dGR0pGdU5sT2JZN2VOdGlNd0F0WEpLYU1KOUtUMnZzUk9vbFVaeHJ6RU5OSjQ5dmRtQms4NEhiVFkyc0pBNFJGQ1gydFhneEk?oc=5",
-                         "date":  "2025-06-09T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "hi",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "Himachal Pradesh Government - himachalpr.gov.in",
-                         "source":  "himachalpr.gov.in",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkWFMwbnUzNjgxREl4TW1NSUU2azdHZkpmUU9Sc0w2bFlYRmo2NGlQTVh5aFFRYXZVTlF6SWpDdTVyczFMcEpyX281ZWdmSlRTU29yMjRnb0JEZE90ZDRSdVc4Z3V0YUtIVzd0b1EwcWJiUjA?oc=5",
-                         "date":  "2025-06-09T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     },
-                     {
-                         "title":  "Himachal CM reviews Shongtong-Karcham hydroelectric project, directs completion by November 2026 - The Statesman",
-                         "source":  "The Statesman",
-                         "source_id":  "google-news-en",
-                         "url":  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRF96SFdseXZ4ZnBMWjl5OHBaSHNCVHNyRUFuQWpJdm5hQ3RpMXpqWkxTRzhmX0dfRHJleFhnZHdTR2JLVlg2aG0yM3ZwTnVrRzcxUGpPZXZYSi1uckpBUG95cHlHR1FDbnlXRHpVNV9pMHA3UTlvbTJwV1FBZ1pERnI5OUdQMUdfQm8ydFNjM2RZVkZ0cllIdWVrcEpMV3QwM2hJMHctUlNIeUxUSDVIZy1ZTzhOQWpnanBaLXFWS2NNQkpDeDMydWFIN0l1b2dnekhrQTBaVGU1WGgyUTNr0gHkAUFVX3lxTFBVSHd4M2V1YTlyQmxxd1FGbXZiUDd3T0FDRVJKaTBueVVwZ2FLb1o4Z1FRdWw1NWNKdm15ODR5WTBNOGNKS0VOUmk5SkpCVm1iNS05U0RVYmZJUmtrYVlSTDJPSkttVnRfWXNVbEctLUsyVkFxQUJLTFV0aGhyMWdjQUpzckRvUnV3Rm5HYjBwZTYtd1Z3d2dTWHNxT1VKR0JIMXFaY2tRWl9WQW11eVRMeFdxMTFpOHJxVjY4WENPbXJRbXpHbEhnZ1JibVFoZlNpejd0aWRFaWIzZnc4aGdsaTlCdg?oc=5",
-                         "date":  "2025-06-09T07:00:00.0000000Z",
-                         "kind":  "press",
-                         "lang":  "en",
-                         "match":  "Shongtong Karcham"
-                     }
-                 ],
-    "methodology":  "Google News (India) en-IN + hi-IN. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "updated_at": "2026-06-19T12:00:54.898Z",
+  "project_id": "SHONGTONG-HEP",
+  "counts": {
+    "press": 41,
+    "gov": 0,
+    "en": 33,
+    "hi": 8,
+    "total": 41
+  },
+  "mentions": [
+    {
+      "title": "Shongtong Karcham Hydroelectric Project, State, Capacity, Latest News - Vajiram & Ravi",
+      "source": "Vajiram & Ravi",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmN1LWhuckJKSTI2Z08xR1RmQktIRW9GVUQzU0xsTU0wQlI5QWk5UG13Q2FNLXZnMERka3hCQU5yVE1CczBjRFlZTkZtNHl4YTRtb0VONWJBbnNTMFc2SUcyMVVCQ2NMdDlXYlpKbWNWc2o1YTNhaHRvdXAwV2RITllhalN3eUJzT0FB?oc=5",
+      "date": "2026-04-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Ensure completion of Shongtong–Karcham hydro project by end of this fiscal: Himachal CM | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOb0Q2VkFkenRkU3NESzJlWFg0dG5fUDRSZVcwZXJ5U0R2bjBtT2lWNEVBVVl3SERDVVJBam50NkloclBRNlFFbElCYUdHekJoVXIwRm1GOUQ2bzFyTDhLMmJXMl92S0plX2Rodk5sUTZWX01pQXBncmJMQnJVbjFnOWlqa0lnT0tpUWstckUxTkdsVWVQQ1VUZzZYcVcyckdVbFJFbEI4UXFDQnlOU19pNmpmZklocHdvR3ZPV01UNVV0ZXo4WjlUYUx1OURGekJFbU9tNE1SbEZCN0otMGlKbTYxSExmY2c0d0VJTWtIVE5OdUXSAfgBQVVfeXFMTko4QlVpb2RpS3VCdGQ5T1RDeHB4QV83WkVMY0laTGMzQkl1MFVlaGdDVEpxeUtfUVFDU0Z5NGxNd0d0N2QweUtEVmkxVmdFQVFEbERqazZBUkY3UF93VnN0ZUJvVk1hczRUdWhkS2hTVkp6MVdkbjA2ajFUc2RjU3M0XzU4azRNdEVwOFFmNUJDOUM3Q0xndkxNa3hEZ1M0VGlXS2VUTXBrM3h0c2QzeTVPVUFYNWlQUjVlMXlCQU5HSUpEMDZlc1hTYWJ2b0poNkVfaEZpUTF0UEM3aXZXTjFvQ181ZFRRV29NanZ1bHVRR0VEWGpqZWw?oc=5",
+      "date": "2026-04-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "CM Sukhu Reviews 450 MW Kinnaur Hydro Project, Pushes Timely Completion - BW Businessworld",
+      "source": "BW Businessworld",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVVxcHpRbERjYWpUUTI3ZzNqWXlkdG1lWGhienJIdWZIS1d3ZEZHRmRuWnlaTUlGVkt0QUVzQmxHczVmWmQwZU1TN01FQkVYVUlSV2otbG9jSzQ5WHBKQVRJTldYY2pWdXdMZkdIR2U3OHcxYVRsbGRJZ0hjVW5YbHlTVC1ZYUd4NmU5dllEenVjY00xYWZpdnA2LWF6OEV6Y0xNYXZPRVZfR0laS3RPbUQ0X2M?oc=5",
+      "date": "2026-04-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Kinnaur hydro"
+    },
+    {
+      "title": "Himachal CM reviews progress of Shongtong-Karcham hydroelectric project, directs early completion - ANI News",
+      "source": "ANI News",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZlM2cnJaYWxPVmx6QW9vbGUyM3ZkVm9ON2FxLWhRVGdaRmpoRDg4UTVva2YzLXhoc0lfYkNqdlVuU1BYTkh1Q0Vrc2ExUFY4dndWeEdIaURqSTNwM0JYa1Rad1A1S2tRVm1hTm9rczBFSGN6OGtKcURmOXBWU1J3dV9iY01nNFk0RlZDYUZUMGdUeHdsTlFHSERLaDhtcUJ0RTJobEdvcGdtUHFsNzcwTmtqVm5rVVdFTTJ4Uk54QkhtRG5SbldBUHFzbjJfbmdzN2FjZzh5c3dfM2Z5WnA0QS0wb181eXJTR1RRY29UcVBmQQ?oc=5",
+      "date": "2026-04-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Tapri Fruit Unit & Shongtong-Karcham Project Inspected - Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDZkTkl1b1kwMVFNSHozbWhYRGcyZUt4cHZiQ2VsNlFRaUluZkw1ZGt0b29qdnFpaDB5OThxS2NKaThpR0daY0pnaDJBRXY0ZDFwdkZSSEN4UnRwdm5CN2NHTDBoRzItRXdONzBsNFBRdVN3eXY1LTlSUDRRelRmMGNJZkQ4UUl4c09BTmpydi1XM3Z5WGc1MVRnZXVPcFFYX0oxTnphWdIBrAFBVV95cUxQbWRsY3o4Nkhsdlo4YWVsMXhsVThnRGh1SDdLblM5NXQzbjNWV2x6eEVlNXJrTndfc213WWFvT3pTckFCMko3U0hxM1ppYnVsRld5Yk82OUxBeUtKcWJzd1FXQjJieHNUN1cxNjkwYnBYWk16UG5JYlZIcHhzdWpaOTh3SUJORzdOQXA4alNvQXFlT2o2alAxMzJka2MwSmh5djAyTUt0SHhsN00z?oc=5",
+      "date": "2026-04-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "CM Sukhu Sets Deadlines for 450 MW Shongtong-Karcham Hydel Project Completion - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmR6LVhoWXN4T3hHbzRBTThrUnRpYWJPall3ZDJ3XzFtbjJjZUZ1RU80RFNic0kzQWNueHpuOVZMT0pjYXlFc0F4NFdMUnlHdGVLVlUwd2wxVlJzLXRSR0puWkt0MC1mNGxWbFF2a05KVmI3LXBLZnZuc3lVbGJ6NVpQckoxbWRHTmtDclJXOEFjaURpRUx5OXQ1eFZQZjlJZFIzNld0dmhFYWEzVW9mNDVITWJ0Rlczakxmck930gHCAUFVX3lxTE9DS24zSE5TRWhIcGNjb3U5dzlKRFNXMHBuZ0NWRjY2V2tmNHJHS1FTWlMxa010bHVsZkVsYjNZWjFRX3A5TVVLb0M3Z0k1WUc3Wk90WkhmOU10eUtYcDJmT1dMT29ZbFRwX0FwR09iR3psblBvU1J4TzZjMEZncUJ2RlVyZHRrb1Z5U2IzV0ZCbHFpckYzX0xqVlhfY1djeDkwOTR5RldWTHVTTEQwa1VsS3BBMzBEbERIbWhJdUlQNkJR?oc=5",
+      "date": "2026-04-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Five in fray for Shongtong interstate-TBCB transmission scheme, in second bidding round - T&D India",
+      "source": "T&D India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkJhNDR3Rkg0TC1ZcFVEbVN4UDJ5RWZjR1l6NjhHUzJZeUxfeV9JUUU3eTkxZVpCeDhsQTVsVHYwYTdHa29MTVVrcUl6U28tZXlMWHd3M19QSVZvNTNoRFpxMmktR2dYWl9JZkxCa2thb2JDV1Q0Ri00N2g3eDJpYmVVWS1ybFF4RFVNRjRZdWl4Ukpjc25XUjByRXp6ZWlQYUthM09zcXBLM3ZzQUxUdF930gG3AUFVX3lxTFBqVjBiUkZMNHJPcGE3OF9JYU5lMU94WmViZ1ZpbDlfSzBUVVFTMVdFclhWc2lWNnZ4WHA4LW45b2wyMU9XTE1CUlZzSlg2Qml6Skt3RTl1ZDJNRXJwdXBaVXFabk1OeGlUVTdaa3BLcE0ydWVJWXFRY2daQm1neGdNbWgwaGNsc3FzTkNlLVdxaFlWS2Q3ZEQtZjBJbGZCaVdhMjNSWTRQNnhvRXY3ZDNWdGtrVFVncw?oc=5",
+      "date": "2026-04-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Shongtong Power Transmission scheme comes up for fresh bidding - T&D India",
+      "source": "T&D India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM21Jb21lbnVLV1VnYzdMSDFoWHExZ1Q4dUJSbnZtajFvU0NkYmJLMUxLMlpnR0lFcXVVYmI1ajZSNUstbDFpUVpJdUNuT3ZxTFhDdVF3bHZRWFBhMFozYk94NTNEWi1XMGtwSGJ5WkEtZjJpTV9hRnBtXzZhUWVud1pTVFBweUY3eFFFYVRLSGEyd9IBlwFBVV95cUxNdW1yMkEzRTlrRVVzVmJXTG9oMXFjSkd3blhEMWJwdDdNd0VYZjRQc2ZEdTQ5SHBzM0oxUnZtTGFKY2JrRl9RbWFVSldOUFdkelNHSjdzWFpnQUdjeklhZ2wxc0JYRWtRZjlBNDcwTDJNeVh0bTJkWjJuZUFDTEVfV2tjYlBIME5FOEstRmdaMEN0dER1Mndr?oc=5",
+      "date": "2025-09-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Fresh bidding opens for Shongtong Power Transmission interstate scheme - Projects Today",
+      "source": "Projects Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjRqaTRDTml6ekxEVV8xcGFSRnYwZnhhVEFqTmYyQVp2S1d6QVJ1eEQxUU9xb1NHYjBTQW5qd1VCckJIMDBQOHM3aDBNTlhZQ01GTE9YeUoxdW1lMW1iQ3k5YTUzYklubXJyR3J3R0FFTHU4bVdRSkUwU1lYbGQ0SkRiRlB1a0FFdDlycEl3cFg4aHdsUndSU2l5a01NdUhZZUxRMVpPNA?oc=5",
+      "date": "2025-09-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "सोलर पैनलों से हो रहा है कितना कचरा, नहीं जानती सरकार - Down to Earth- Hindi",
+      "source": "Down to Earth- Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVEdRdVh4VkFtdXgzU0hLbDh4Wk85OTRkcVBsWlprOGhaZXRVWklWdHFpQmh3emJ1Wng2SFZMbk9tcDNpV1l3NDJhY2hfMTMtMkw0eW1ULVIyUWJHQU5tREJqTWEyeXB6ZU1wYXlsVHJIRzlLWVZxTGNaNTkyYldCXzRySTAySHc3aElBbW8wZW9hYzhnbkl3NVlOWU5teXhDWXJRS2JnOUxPUklYOVpnQkRwdlB6aTQ3akxta3VDdmFsMWlPX2Q4dkZaMXdjaldYa0VOU3k0Q29xa3REa2Y1NnZ30gHvAUFVX3lxTFB0aW1YWHdRUVVRejNRcHlxY1k4dHlHdklNNkstRmJFNXVQalRnZ3pWamFuekN6T1BXQk0xVldVZzFpRnBOeWx0Nmh1czdqN2haQmR5ckRmQTYxZUgwUHN4UFVFQnRvMmRaaHNXUUJCZ3RYLWhWa3FSam42RHNLN2tWT3FyeXBIV0xianBQcTAzVVAwd3hOWGxiWlN2UlRoWk5LVnZSZTd2Qm9paGR5Wl9MOTR0S05jbXJBa0dPS3p4bFFPUlJad2l3OUtxOTVHZHh1RFl2LUhPcktiYl8zdk5MVXQtXy1TZHVDTXkxNmEw?oc=5",
+      "date": "2025-07-28T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Completion of Shongtong-Karcham Hydroelectric Project set for Nov 2026 deadline - Projects Today",
+      "source": "Projects Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalVaQVNzSFhzbFJYTVVGMzE2eGdzX1Z4cVRPWk93eFdBd1lCaGVOY0JjZkI2VmROSXh3c2YxbFM3QzBnMXFWeFZZNnpPb3ViS1Nna01uNkJhU0JBeUJEXzJneFpWanoxN2xQRXo5emZYNjFxUTI1YXotY252TURVRVpzdkhXY3Y1VzUtY3pjVFpHYWhFUjQxcUxxZnZzTHFhWjFaZlZxcS1OTk9ITVE?oc=5",
+      "date": "2025-06-11T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Shongtong-Karcham gets 2026 deadline, HP bets big on hydro - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPalAxaVAwY3FhR0wwcklfWHZhSkx6OG9tOXNNeUhYSUFGSVo3d2NxYUlENF9ObURUc3pPbUpRdHFzcHM2a0c3RVZ2S1VUNV9hSUU3akxDSDNiVTNIeG04MldBNW83Nm1ERFVFaGxmc245bnBqS29UaGdOZ1lKMmlDc25nWEo1aTdwczd6RXlNOU9HVTdYM2dRMnU3SGJVTWV5cTZoZl9jalE2MTc1eGR3dzFfN2JGTXNkLXA1Z2EwVzhNbTdkY0hhT0J0cXAzaXVI0gHWAUFVX3lxTE9leE5QR3lWX3FDQWtScjJyVjJ0bUFKTTI0RjBqZ2Q4ZWtNd0RHR0xNNzUwMVpCbHJ5bHViUk9tNGJsVW9uZ0lhZVF1dl9OcVNDYlpoWHo2emNfV1ZwNTdqNW0wWTFnckliNEhzcVBCQ3JEeGpDMHFidHFQVlhwRmF6S2g1al96dGhrVlF3eXh6dFZGUXpIbTN5a1Bka1h5ZFpjcXdweml2MlNvUTR0YTFRZ3JXNGxlLXFFc1BVMURxYWxHejQzZ3B6LWh2WE1QYkZGbnpVZ2c?oc=5",
+      "date": "2025-06-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Himachal CM directs completion of Shongtong-Karcham hydroelectric project by November 2026 | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN1FvTUlVRnAzNGIyN3hNS1BxdHNid09XYlBka0REU21mV09KWFF5Smp5NDVVV0pfeUxydlJHcWdCTDM1XzJ0LXNCX3ZUVGVzQTRYV2Z5bFNtb0IwWVlBWG1TRGpOcm56eEh6OUF2OHA4dXQwWnFTQ2NsenhYSmRtQ1RCY2lHSWltbk1wZ0xQdnNGTVhBODI1djBOTWVudm5ZcmR5SmNsNEVNNFdDVnFqVWdZamdQenAtQ1g5WmpTT3l3RENOX1gzXzl2SlFBQzN1T1pvaUo5QjktaDVmNUVKTkVvTHM5NkIyaFNLamNWcGdMSG9wYXdNUNIB_gFBVV95cUxOazRJdENjczJiclJmSnFORC0tMVphNHRDYmphYnA1djJwNkZZZU5YQmZNbnNKS1lTdU5kaGpHbFZ4dXluSEViRG5KamszM1k4ZkF0alN3di02WE13SWxUNGhCT053YnUwdm1TYlg3Ym9HcDJiaE9BbUVMUHhFT0d1VFhCMkNINTZacTVjNXpSVXVZaWJGb2VNOHo0cV8wMGNEM3NZenNrbjYyZ1ZPbmVlYVVZUXB3bUoxU0lyemV1YmtLRHUtNUFNMHB0bkt4VHdod3RGRlVESjNEaWZPZEJoRUI2anZ6Sk9SOXppZXZrcXhNNTB1MldURnczS003Zw?oc=5",
+      "date": "2025-06-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Shongtong-Karcham hydro project to be commissioned by Nov 2026: Himachal CM Sukhu - Social News XYZ",
+      "source": "Social News XYZ",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObzRJMnJfc3RPd3FoR0g4cDFKOHNScy1SeEpPWXotcVBTcHUwXzFmcWZrRFp2T0ZMWmlUc1JGcHVCdXhHYUxOTDZCaGhFelhhRTd6dUY0RmRFNEx6d3dPb19TT19fa2ZmWFpPc0FDWWdWbE1MYkZWWFFMZWZHd3Q5T2hvOTNCTjY3YmlXN1NhbTlCUXIwRVNQcERNWlB1NUFYRUJITF92V1BBaC1rLTFrdjJxbkhCQUdSa2FJ0gG7AUFVX3lxTE5vNEkycl9zdE93cWhHSDhwMUo4c1JzLVJ4Sk9Zei1xUFNwdTBfMWZxZmtEWnZPRkxaaVRzUkZwdUJ1eEdhTE5MNkJoaEV6WGFFN3p1RjRGZEU0THp3d09vX1NPX19rZmZYWk9zQUNZZ1ZsTUxiRlZYUUxlZkd3dDlPaG85M0JONjdiaVc3U2FtOUJRcjBFU1BwRE1aUHU1QVhFQkhMX3ZXUEFoLWstMWt2MnFuSEJBR1JrYUk?oc=5",
+      "date": "2025-06-09T14:40:20.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Himachal Pradesh Government - himachalpr.gov.in",
+      "source": "himachalpr.gov.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkWFMwbnUzNjgxREl4TW1NSUU2azdHZkpmUU9Sc0w2bFlYRmo2NGlQTVh5aFFRYXZVTlF6SWpDdTVyczFMcEpyX281ZWdmSlRTU29yMjRnb0JEZE90ZDRSdVc4Z3V0YUtIVzd0b1EwcWJiUjA?oc=5",
+      "date": "2025-06-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Himachal CM reviews Shongtong-Karcham hydroelectric project, directs completion by November 2026 - The Statesman",
+      "source": "The Statesman",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRF96SFdseXZ4ZnBMWjl5OHBaSHNCVHNyRUFuQWpJdm5hQ3RpMXpqWkxTRzhmX0dfRHJleFhnZHdTR2JLVlg2aG0yM3ZwTnVrRzcxUGpPZXZYSi1uckpBUG95cHlHR1FDbnlXRHpVNV9pMHA3UTlvbTJwV1FBZ1pERnI5OUdQMUdfQm8ydFNjM2RZVkZ0cllIdWVrcEpMV3QwM2hJMHctUlNIeUxUSDVIZy1ZTzhOQWpnanBaLXFWS2NNQkpDeDMydWFIN0l1b2dnekhrQTBaVGU1WGgyUTNr0gHkAUFVX3lxTFBVSHd4M2V1YTlyQmxxd1FGbXZiUDd3T0FDRVJKaTBueVVwZ2FLb1o4Z1FRdWw1NWNKdm15ODR5WTBNOGNKS0VOUmk5SkpCVm1iNS05U0RVYmZJUmtrYVlSTDJPSkttVnRfWXNVbEctLUsyVkFxQUJLTFV0aGhyMWdjQUpzckRvUnV3Rm5HYjBwZTYtd1Z3d2dTWHNxT1VKR0JIMXFaY2tRWl9WQW11eVRMeFdxMTFpOHJxVjY4WENPbXJRbXpHbEhnZ1JibVFoZlNpejd0aWRFaWIzZnc4aGdsaTlCdg?oc=5",
+      "date": "2025-06-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "CM सुक्खू ने किया शोंगटोंग कड़छम जल विद्युत प्रोजेक्ट का दौरा, कहा- 2032 तक हिमाचल को... - ABP News",
+      "source": "ABP News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3p4alI3N3ZkZUlRWGlIWC1sQVV5TFZxc2laMm5oMlM3dG1vd0d0MjByWnpIX1FrUG1yd1N4UDg2YVcyT0J6ZGZBb3FYYWpLbVE1aG5kelQtdEVOOFVtLUs0emUtNGZlV1ludGZ2V1cwOGwwUnZQV0gwY19sbnAxTE9zUEp6VjgzUExKbVNBM25EaDBzbjBobGM4eGtLUnRfRkxVUjdJaGZGMmp3bDBKM3dVZ0RTa1hjYUpfd1F0dE5iTDhTRXREc0p4NFdxanAxbzBsaHo4SURhWHNyNU1XeHBPeEE0MW5NQUHSAe8BQVVfeXFMT2JJaHdTRHRHRnBTZXctWDVmN1ZyMkZHRzRrYVlGSUdJUDRmZldPRmVnUnpBQVlCRTBnZEc0a0pEM0IwcFhzaDVPaENGbWFqbDZ5SFJIRW9McEpDYWJlTU1ZYU91djJQSDFYZ3NJSVA1WnBFU2x1ZWZ2Zlk1UXROcnkyQktTUHdRSmhQSkliZXFtS2hJTlRtRzQ0M0U4bmdKU2twTVoyQ0dGR0pGdU5sT2JZN2VOdGlNd0F0WEpLYU1KOUtUMnZzUk9vbFVaeHJ6RU5OSjQ5dmRtQms4NEhiVFkyc0pBNFJGQ1gydFhneEk?oc=5",
+      "date": "2025-06-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "बनारस के किला रेस्टोरेंट में चिंगारी से लगी आग, देखें VIDEO - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMnZyelJ0NGNNSnVLSFZHVkFubTBpLThPaGd2Ul9NVlBsbG1CbHZHd2Z2SjhVaVBDU3VYZnBNR2Y5UUM1c3lUVDlSTDNtaDlvYWY5M3gzSzdQaTI2Ulo0Y1RzOVNzSkIybGhTSktMUW1iMWdQWFZTalVkSXM2ZE0wT3hNajNGMFBic2hSMTVRVkxtaWp4MHJRYU56SHd5MkJ1eGpESFlyWGtnUTVCSWgxOWhNX29LOEFRVlJja0FfeHNFSDZx0gHKAUFVX3lxTFBoMVh1UUJHY2FnQ05VQi1EdmRJLWNzMkg5eUVuRmh1YW8zaWU2S2VYS0U2SkhKQ2h5SUY1bzhFWUN1STB2NHY4clZmOGwyb0N1NEZ1d3pabUc5UDVPMDZjMzlXbWNRZVNWeS1KeHcwMm9HWE0zbE9kYU15bllVbHNtOGZCcHpUbHlzTjZOYWlhdUlYY1ppUjZ3QzlXdUZuWXNjUG5SMFhGcUx0dEU3Ny1iME15dFA3STVScXBzMVZnZE9ZZi1SakRCTXc?oc=5",
+      "date": "2025-06-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "जींद से मथुरा जाने वाली बस का बदला समय, अब दोपहर 12 बजे जींद से चलेगी बस - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSl96am4zUndxTDJBOTU1cTc2VFRqb19OOEtYQmx1dTBwMTlILVpUcWFxYjEtN01LZm4wSVBucDRJUG95TXY2bkJCYlVoelJEZWF4X25jZUVLT1JpUERfM1NQcHFJVVNxbllCYmlhdjNfb0ZBUXBGWHhXSzNUZlFVZXJYeDhPbVdPT1VRTVBPMUFGamJPR2dNekZhYlZzMzZDRFlxNzA4cDYyX2Q30gGyAUFVX3lxTFAxQ0hGbFJoSG5kNll2SE9JZGFQRm9MQ0J0SDhjU1Q5VGo2aW5fRDVOOU9jenBpV25TUzk0M3JEOEhGWUFVOUlVMU5MYTFfUFJoa3I1TklMLTdiUU5qMnRnN1pUaVFZSEpIMEVUVkhvaHlWaEdaVC1RRGlpdWJZNFdibUswUzhwY1hUVTRCMmZ3QjIwSmRUTVlleTNRbm14YS1fUHNTZzFuWlFXTS1BZTE3aFE?oc=5",
+      "date": "2025-06-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Dausa: बांदीकुई-जयपुर लिंक एक्सप्रेस-वे पर कट की मांग को लेकर धरना समाप्त, सांसद मीणा ने कराया आश्वस्त; जानें - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT0ZqN1V5eFFPajVYbnAybldSanNZREZFTUI0N1RRZVNtU3VuNTV4SlFJd2pCVTRXandacXREeFE1N0psRG1GU0NSQTdnWU5JTGN6ZlVpWVlyQ0hIdlA5YWJFdzJqNnVObDhFQncwNUY4aEpNMEpmUVNlSDBhSWlfSEZxcUNlYmZrS2Mza2g0QmhKaUg0akxXSllOTVFucEVPNHQyWGdWOGJjWWpFWnU4dnhPZDJYSnlVUVFNR25mYlhYdzh0LXRUTUlldEdhWDJwUGMxbnVVX05aNDl1aEtKV0RTalhNeXBXZlhaaHZLa9IB9AFBVV95cUxQNXU2RF9kRFdobmVzVXh5UDNhSGhreWN1LXRmT1RZVGcxclBFNER5b0VGWnNQR05XWnlEOEoycl9tV1FuMWEyTWdTUC1WTnZDWXVYRnVXX1BnQUFsRTNvWldVano0NExQUzBzenF3QXE1X25EZ3doN05FaWoxUGd3X2E3c0d6d2xGaHNwdHFYTWZzZ3RIbHV0S3hkcy1lbVB5NWhJUDBua1AzM3JmV1J2WkNjM0Q2OTZaVGxyQUNmOWdwOE5rWGF0aGFnRWV5VF9sWlBuT3FmZjV4WFpKNDQ5UFhaRVYzdENwNWlhN05rUy13Z2hv?oc=5",
+      "date": "2025-06-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shongtong Karcham"
+    }
+  ],
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
 }
