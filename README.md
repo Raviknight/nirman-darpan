@@ -10,7 +10,7 @@ Status, budgets, timelines, accountable leads, and citizen sentiment for active 
 
 ## What's in this repo
 
-This is the **Phase-1 static prototype** of the product — a no-build vanilla HTML/CSS/JS site that recreates the intended look and behavior with 17 hand-authored sample projects tagged by mandate level (Centre / State / District). No server, no database, no build step.
+This is the **Phase-1 static prototype** of the product — a no-build vanilla HTML/CSS/JS site that recreates the intended look and behavior with **32 hand-authored projects** tagged by mandate level (Centre / State / District), covering every district in Himachal. No server, no database, no build step.
 
 ```
 .
