@@ -375,11 +375,14 @@ function renderAuthUI(){
     root.innerHTML = `
       <button id="auth-signin" style="background:rgba(232,217,168,.16);border:1px solid rgba(232,217,168,.25);color:#e8d9a8;padding:5px 13px;border-radius:999px;font-size:11px;font-weight:600;cursor:pointer">Sign in to comment</button>
     `;
-    document.getElementById('auth-signin').addEventListener('click', openSignInCard);
+    document.getElementById('auth-signin').addEventListener('click', () => openSignInCard());
   }
 }
 
 function openSignInCard(prefillMsg){
+  // Defensive: if a callsite passed the click event (or anything non-string)
+  // we drop it instead of letting it render as "[object PointerEvent]".
+  if (typeof prefillMsg !== 'string') prefillMsg = '';
   const existing = document.getElementById('signin-overlay');
   if (existing) existing.remove();
   const wrap = document.createElement('div');
@@ -1471,7 +1474,7 @@ function wireModal(){
   // Wire the composer's "Sign in to comment" button.
   const composerSignIn = root.querySelector('#composer-signin');
   if (composerSignIn) {
-    composerSignIn.addEventListener('click', openSignInCard);
+    composerSignIn.addEventListener('click', () => openSignInCard());
   }
 
   // Vote buttons.
