@@ -53,7 +53,7 @@ The Tribune Shimla, Hindustan Times Shimla, Divya Himachal and Amar Ujala HP all
 > Public records are scattered across NHAI, HPPCL, SJVN, BRO, HP PWD and PMSSY portals; press follow-up is sporadic; citizens have nowhere to see the full picture for a single project. This site brings it into one place, with two principles:
 >
 > - Every claim has a source link. Per-project pages already aggregate press coverage from Indian newspapers in English and Hindi.
-> - Citizen voices (votes, comments, accountability flags) are verified-identity only — no anonymous astroturfing. International watchdog standard.
+> - Citizen voices (votes, comments, accountability flags) are verified-identity only — no anonymous astroturfing.
 >
 > Three projects worth a look as starting points:
 >

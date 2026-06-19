@@ -13,7 +13,7 @@
 //   - Bluesky / Mastodon (negligible Indian volume in 2026)
 //
 // No automated sentiment scoring. We surface headlines and links so readers
-// form their own impression — this is the watchdog norm.
+// form their own impression. Aggregation, not adjudication.
 
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { join, dirname } from 'node:path';

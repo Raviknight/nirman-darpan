@@ -7,7 +7,7 @@ window.NIRMAN_FEATURED_ID = 'NH5-PWN-SHL';
 window.NIRMAN_PROJECTS = [
   // ────────────────────────────── CENTRE-LEVEL ──────────────────────────────
   {
-    id:'NH5-PWN-SHL', name:'Chandigarh–Shimla 4-Lane Highway (NH-5)', category:'Roads & highways', level:'center', coords:[30.95,77.07], social_queries:['Parwanoo Solan Shimla','NH-5 Shimla','Kaithlighat Dhalli','Shimla 4-lane'],
+    id:'NH5-PWN-SHL', name:'Chandigarh–Shimla 4-Lane Highway (NH-5)', category:'Roads & highways', level:'center', coords:[30.95,77.07], social_queries:['Parwanoo-Solan-Shimla 4-lane','Kaithlighat Dhalli','Solan Shimla four lane','Shoghi viaduct','Parwanoo Shimla NH-5','NH-5 four laning'],
     dists:['Solan','Shimla'], districtLabel:'Solan · Shimla', status:'active', progress:68, delayed:true,
     start:'Mar 2018', eta:'Dec 2026', budget:3475, spent:2360,
     awardedBy:'NHAI — National Highways Authority of India', contractor:'Gawar–Sushee JV (EPC)',
@@ -43,7 +43,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'BHANUPLI-RAIL', name:'Bhanupli–Bilaspur–Beri Broad Gauge Rail', category:'Bridges & tunnels', level:'center', coords:[31.35,76.75], social_queries:['Bhanupli Bilaspur rail','Bhanupali Beri railway','Bilaspur railway line','HP rail link Leh'],
+    id:'BHANUPLI-RAIL', name:'Bhanupli–Bilaspur–Beri Broad Gauge Rail', category:'Bridges & tunnels', level:'center', coords:[31.35,76.75], social_queries:['Bhanupli Bilaspur rail line','Bhanupali Beri railway','Bilaspur railway broad gauge','RVNL Bilaspur rail'],
     dists:['Bilaspur'], districtLabel:'Bilaspur', status:'active', progress:28, delayed:true,
     start:'2008 (revived 2019)', eta:'2030', budget:6800, spent:1750,
     awardedBy:'Ministry of Railways', contractor:'Northern Railway / RVNL',
@@ -96,7 +96,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'KGR-AIRPORT', name:'Kangra (Gaggal) Airport Expansion', category:'Tourism infrastructure', level:'center', coords:[32.16,76.26], social_queries:['Kangra airport','Gaggal airport','Dharamshala airport','Gaggal runway'],
+    id:'KGR-AIRPORT', name:'Kangra (Gaggal) Airport Expansion', category:'Tourism infrastructure', level:'center', coords:[32.16,76.26], social_queries:['Gaggal airport expansion','Kangra airport runway extension','Dharamshala airport expansion','Gaggal land acquisition'],
     dists:['Kangra'], districtLabel:'Kangra', status:'active', progress:22, delayed:true,
     start:'Feb 2022', eta:'2028', budget:3300, spent:410,
     awardedBy:'AAI / HP Govt (land acquisition)', contractor:'To be awarded (post-acquisition)', owner:'Airports Authority of India', img:'runway / terminal render', score:null, ratings:0,
@@ -113,7 +113,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'MANDI-AIRPORT', name:'Mandi Greenfield Airport (Balh Valley)', category:'Tourism infrastructure', level:'center', coords:[31.66,76.91], social_queries:['Mandi airport','Balh valley airport','Greenfield airport HP'],
+    id:'MANDI-AIRPORT', name:'Mandi Greenfield Airport (Balh Valley)', category:'Tourism infrastructure', level:'center', coords:[31.66,76.91], social_queries:['Mandi greenfield airport','Balh valley airport','Mandi airport AAI','Balh airport land acquisition'],
     dists:['Mandi'], districtLabel:'Mandi', status:'active', progress:6, delayed:true,
     start:'2022', eta:'2030', budget:1100, spent:90,
     awardedBy:'AAI / HP Tourism Dept', contractor:'To be awarded', owner:'Airports Authority of India',
@@ -183,7 +183,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'JJM-HP', name:'Jal Jeevan Mission — Himachal household taps', category:'Water & sanitation', level:'center', coords:[31.85,77.30], social_queries:['Jal Jeevan Mission Himachal','Har Ghar Jal HP','JJM HP tap'],
+    id:'JJM-HP', name:'Jal Jeevan Mission — Himachal household taps', category:'Water & sanitation', level:'center', coords:[31.85,77.30], social_queries:['Jal Jeevan Mission Himachal Pradesh','Har Ghar Jal Himachal','HP Jal Shakti JJM','JJM HP coverage'],
     dists:['Bilaspur','Chamba','Hamirpur','Kangra','Kinnaur','Kullu','Lahaul-Spiti','Mandi','Shimla','Sirmaur','Solan','Una'],
     districtLabel:'Statewide', status:'active', progress:95, delayed:false,
     start:'Aug 2019', eta:'Dec 2026', budget:9520, spent:8910,
@@ -202,7 +202,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'SMART-SHIMLA', name:'Greater Shimla Smart City Mission', category:'Tourism infrastructure', level:'center', coords:[31.10,77.17], social_queries:['Shimla Smart City','Mall Road Shimla','Shimla heritage Mall','Shimla SPV'],
+    id:'SMART-SHIMLA', name:'Greater Shimla Smart City Mission', category:'Tourism infrastructure', level:'center', coords:[31.10,77.17], social_queries:['Shimla Smart City Mission','Shimla SCL','Shimla Smart City Ltd','Shimla Smart City project','MoHUA Shimla'],
     dists:['Shimla'], districtLabel:'Shimla', status:'active', progress:72, delayed:false,
     start:'2017', eta:'Dec 2026', budget:2900, spent:2050,
     awardedBy:'MoHUA — Smart Cities Mission', contractor:'Multiple work packages',
@@ -376,7 +376,7 @@ window.NIRMAN_PROJECTS = [
 
   // ────────────────────────────── STATE-LEVEL ──────────────────────────────
   {
-    id:'SML-WATER', name:'Shimla Water Supply Augmentation (Sutlej Lift)', category:'Water & sanitation', level:'state', coords:[31.10,77.17], social_queries:['Shimla Water Supply','Sunni Sutlej lift','SJPNL','Shimla water augmentation'],
+    id:'SML-WATER', name:'Shimla Water Supply Augmentation (Sutlej Lift)', category:'Water & sanitation', level:'state', coords:[31.10,77.17], social_queries:['Sunni Sutlej lift','SJPNL Shimla','Shimla Jal Prabandhan','Shimla 67 MLD','Sunni water scheme'],
     dists:['Shimla'], districtLabel:'Shimla', status:'active', progress:81, delayed:false,
     start:'Jun 2019', eta:'Sep 2026', budget:709, spent:602,
     awardedBy:'World Bank / Shimla Jal Prabandhan Nigam', contractor:'Larsen & Toubro', owner:'SJPNL', img:'pumping station / pipeline', score:null, ratings:0,
@@ -393,7 +393,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'MANDI-FLOOD', name:'Mandi–Kullu 2023 Flood Road Restoration', category:'Disaster recovery', level:'state', coords:[31.84,77.05], social_queries:['Mandi Kullu flood','Beas valley restoration','HP PWD 2023 floods','Aut Bajaura road'],
+    id:'MANDI-FLOOD', name:'Mandi–Kullu 2023 Flood Road Restoration', category:'Disaster recovery', level:'state', coords:[31.84,77.05], social_queries:['Mandi Kullu 2023 flood restoration','Beas valley road restoration','HP PWD flood damage','Aut Bajaura road repair'],
     dists:['Mandi','Kullu'], districtLabel:'Mandi · Kullu', status:'active', progress:74, delayed:false,
     start:'Aug 2023', eta:'Dec 2026', budget:1240, spent:910,
     awardedBy:'HP PWD / NDRF support', contractor:'Multiple district PWD divisions', owner:'HP Public Works Department', img:'restored road / river edge', score:null, ratings:0,
@@ -410,7 +410,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'SCHOOL-MOD', name:'Govt. School STEM Modernisation Cluster', category:'Schools & education', level:'state', coords:[31.55,76.39], social_queries:['Samagra Shiksha Hamirpur','Samagra Shiksha Una','HP STEM schools','HP smart classroom'],
+    id:'SCHOOL-MOD', name:'Govt. School STEM Modernisation Cluster', category:'Schools & education', level:'state', coords:[31.55,76.39], social_queries:['Samagra Shiksha Hamirpur Una','HP STEM modernisation','HP government school smart classroom','Samagra Shiksha HP labs'],
     dists:['Hamirpur','Una'], districtLabel:'Hamirpur · Una', status:'completed', progress:100, delayed:false,
     start:'2021', eta:'2024', completed:'Mar 2024', budget:185, spent:178,
     awardedBy:'HP Education Dept / Samagra Shiksha', contractor:'District works divisions', owner:'Dept. of Elementary & Higher Education', img:'classroom / smart lab', score:null, ratings:0,
@@ -550,7 +550,7 @@ window.NIRMAN_PROJECTS = [
     comments:[],
   },
   {
-    id:'HMR-LINK', name:'PMGSY-III Hamirpur Link Roads Cluster', category:'Roads & highways', level:'district', coords:[31.69,76.52], social_queries:['PMGSY Hamirpur','Hamirpur link road','Bhoranj road','Bijhri road PWD'],
+    id:'HMR-LINK', name:'PMGSY-III Hamirpur Link Roads Cluster', category:'Roads & highways', level:'district', coords:[31.69,76.52], social_queries:['PMGSY-III Hamirpur','Hamirpur link roads cluster','Bhoranj PMGSY','Bijhri PMGSY','Dhatwal link roads'],
     dists:['Hamirpur'], districtLabel:'Hamirpur', status:'active', progress:60, delayed:false,
     start:'Apr 2024', eta:'Dec 2026', budget:38, spent:23,
     awardedBy:'PMGSY-III / HP Rural Development', contractor:'HP PWD Hamirpur division',

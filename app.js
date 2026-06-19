@@ -757,7 +757,7 @@ function renderAccountabilityPanel(projectId){
       ${ACCT_CATS.map(c => renderAccountabilityBlock(projectId, c, byCat[c.key])).join('')}
       <p class="acct-foot">
         Every entry needs a source citation. User submissions land as <i>pending review</i> until a moderator confirms.
-        Watchdog standard — sourced + auditable, not just allegations.
+        Sourced and auditable, not just allegations.
       </p>
     </div>
   `;
@@ -1244,15 +1244,14 @@ function wireModal(){
   if (!backdrop) return;
 
   backdrop.addEventListener('click', (e) => {
-    if (e.target.closest('[data-close]')) {
+    // Close only on a direct backdrop click or the explicit X button.
+    // The previous closest('[data-close]') check matched the backdrop ancestor
+    // from every inner click, closing the modal on any content click.
+    if (e.target === backdrop || e.target.closest('button[data-close]')) {
       state.selectedId = null;
       pushProjectUrl(null);
       renderModal();
     }
-  });
-  modal.addEventListener('click', (e) => {
-    // Stop bubbling for inner clicks except explicit close
-    if (!e.target.closest('[data-close]')) e.stopPropagation();
   });
 
   root.querySelectorAll('[data-sent]').forEach(btn => {
