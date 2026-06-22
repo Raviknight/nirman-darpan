@@ -1,19 +1,29 @@
 {
-  "updated_at": "2026-06-19T20:27:49.068Z",
+  "updated_at": "2026-06-22T21:29:36.824Z",
   "project_id": "AIMSS-CHAMIYANA",
   "counts": {
-    "press": 91,
+    "press": 93,
     "gov": 0,
-    "en": 36,
-    "hi": 55,
-    "total": 91
+    "en": 39,
+    "hi": 54,
+    "total": 93
   },
   "mentions": [
+    {
+      "title": "Shimla News: चमियाना अस्पताल में मल्टीपल स्केलेरोसिस रोग पर हुआ संवाद - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUXpuY0EwZDdjb01od1lZZUtNdnVIU3JpeWdpMng5dDdIV3pHYTBxa0dwNWlKeE5zZTNfN3Fva1NDaC13N2RiSjJZd0VrNFpHY0VVYXNwREJVcWREZ2VrR1dQbFMtY3BuX0FYaW5HQWpHY3p5RU9zYm9CTUlJWE96WVpLRVhjbGdxaUtiOVBHUmpTVmxxSlQ0dmpIVzJBLVo3X05WMzZMNW91XzhoOXgxTWJHWnZ4dWktNVpuRDMzWVN5OXJyRFl0a0NmaXo0ZjZJYXV0SjNn0gHWAUFVX3lxTFBRem5jQTBkN2NvTWh3WVllS012dUhTcml5Z2kyeDl0N0hXekdhMHFrR3A1aUp4TnNlM183cW9rU0NoLXc3ZGJKMll3RWs0WkdjRVVhc3BEQlVxZERnZWtHV1BsUy1jcG5fQVhpbkdBakdjenlFT3Nib0JNSUlYT3pZWktFWGNsZ3FpS2I5UEdSalNWbHFKVDR2akhXMkEtWjdfTlYzNkw1b3VfOGg5eDFNYkdadnh1aS01Wm5EMzNZU3k5cnJEWXRrQ2ZpejRmNklhdXRKM2c?oc=5",
+      "date": "2026-06-20T18:29:03.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
     {
       "title": "Shimla News: चमियाना अस्पताल में एमआरआई मशीन इंस्टाल, 22 से होंगे ट्रायल - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVUlwYkFrOTRxRlpQTHlJcmFZVHBnbGNINnFGbVRhTmdLbms2NWlDcl9IcnRNbHJGZkdHTEVnX2hPMGdSZDhfZ0tQV3dUdDlUVDdBQ05zQThVRFVoTmpGdUNNOGlCcTFJdXZLTEFLSnRveHhROHAwMy1DYWRtMGszWWstVmgxN25WVGhycmhEbDRXMVVKaHFXbVdCNHo0Q2JDQjdLQ1RQYk5tOXd5NkVGMW5iMzlLbUtSRXF4Vl9Ycm14RE1LWUU4c3phNk9HcG1Bb1hMX0dYQ1Z4VWhVMnJ6WXFFa0Y2Z9IB5gFBVV95cUxNVUlwYkFrOTRxRlpQTHlJcmFZVHBnbGNINnFGbVRhTmdLbms2NWlDcl9IcnRNbHJGZkdHTEVnX2hPMGdSZDhfZ0tQV3dUdDlUVDdBQ05zQThVRFVoTmpGdUNNOGlCcTFJdXZLTEFLSnRveHhROHAwMy1DYWRtMGszWWstVmgxN25WVGhycmhEbDRXMVVKaHFXbVdCNHo0Q2JDQjdLQ1RQYk5tOXd5NkVGMW5iMzlLbUtSRXF4Vl9Ycm14RE1LWUU4c3phNk9HcG1Bb1hMX0dYQ1Z4VWhVMnJ6WXFFa0Y2Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbHNqRFJSMm9PclYzMEJaMHVTSHpuSGU1Skt3b1ZlNHROX25qTHlwNXc1NHpmc0VicW5SWVkyeHQwbGI0N2JpVkgxZ081dllGSjhFRC13U2l5dklqNjhqNkdWZUtFOXdjaUlYX0RqQzRLRVdlV1VoRlF1cnNmQVh6Q0J4MGlZemlCOXkzVkZyanJPNHBPWnQ4c3M2Rmhna2FtSzBnXzBYM0ZKOFhQMWxOOWIybklmd0JneVZwTVlmYTlUVEo1RDlNLXQ4VHZYcnhscnBJdEpHWk8ydWM2ZGNDS9IB5gFBVV95cUxNVUlwYkFrOTRxRlpQTHlJcmFZVHBnbGNINnFGbVRhTmdLbms2NWlDcl9IcnRNbHJGZkdHTEVnX2hPMGdSZDhfZ0tQV3dUdDlUVDdBQ05zQThVRFVoTmpGdUNNOGlCcTFJdXZLTEFLSnRveHhROHAwMy1DYWRtMGszWWstVmgxN25WVGhycmhEbDRXMVVKaHFXbVdCNHo0Q2JDQjdLQ1RQYk5tOXd5NkVGMW5iMzlLbUtSRXF4Vl9Ycm14RE1LWUU4c3phNk9HcG1Bb1hMX0dYQ1Z4VWhVMnJ6WXFFa0Y2Zw?oc=5",
       "date": "2026-06-19T18:29:02.000Z",
       "kind": "press",
       "lang": "hi",
@@ -30,11 +40,11 @@
       "match": "Chamiyana hospital"
     },
     {
-      "title": "दो मशीनें, मगर एक रेडियोलॉजिस्ट पर टिकी सेवाएं, पानीपत सिविल अस्पताल में अल्ट्रासाउंड के लिए भटक रहे मरीज - ETV Bharat",
-      "source": "ETV Bharat",
+      "title": "ओंकारेश्वर में फिर हादसा… डूबने से एक श्रद्धालु की मौत, भीड़ के कारण समय पर नहीं पहुंचा पाए अस्पताल - Patrika News",
+      "source": "Patrika News",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWGRVbFFXck1RY1JybU93MEFLTWptRHdrQmczelFHVU1QVzBuUnJkaFZPSWxDUlV4SExMMXpwaHZVSWpiVnFlUFE2Ym1GV19Odk15MlFnMzhDMGJwTWo1M2Nia1NlYVh6S3haLTllQXNPaXA3U3NscVJXSUY0WEU4bVpYVWxsbW03NDJ4OGtUcFZBcmRHS2dFNFI5cTZScHBfNE5LOVJ2TDlucWlNeVBWM3l1SUo1RjZia3VBeDRXTzU3aEdLMVJUOTJnRTlTcy0wNGhYWWpybmVTTkRwX2x6UVEyU0h0czhpN19Vc1BhWWVYdEJqWDlkSE03aXPSAYICQVVfeXFMTjR2ZnAtbF94S3NFR2FMNW9ZUjJmLUY0Q0hsLUlXQVl3NUxCakxhdmQzS05oVmp2RlloSS0zYmhRTWtrTDhJaEoxaG1tcWg1WTNMS3dFQjZlbDd1eXJSNU4zdnprZkJwMjVrMnRFY0t5WUpITEZXSlY2TUFKaWNIWkJ2OVh1MktidGtRRldBOVUxTjVBanZNcGlwYVJuODJvUVJTS2g3RlFfQ0l5b3laVVE3M0FKeVM5MDhtT1ppNG5RWmhxdFlvNEZBWkNFSV9FMUxWTHBOYTE3QURSX083T1V6dlFwa2M3bkxOaVpfeDZqSkdTdUpmNmttM1VZdC10REZ3?oc=5",
-      "date": "2026-06-13T05:45:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOV3A1MTV3d3pmcEdFSkJteGdUaFZhSFRjWE9JSXpsY2tjTTkxNXVnSkhyZk03OU9YekVmZjhOUW10TWhOakZSek04RkFKeHJ0TUN5Unk5c3BId2ZXM1JEckFfNm95SXRIMUEtalR5azJRNWFDNjV2VVhtUTQ2T0ROb2poX2p2cWExLTlfUHRnY3E5MzFXNnlSRDUwZjVkXzNYNDdZalV2NXZmWGs1M0I5bDk4TFZxSktqVlhYa2pZTWtsVVRSdWp2ZEw0YXhFcXBzbHRDTmtLdlZXaUR1MFhBYzVzbWp4SWl1LWR4N1ZoUk1nT2lST05tcdIB_gFBVV95cUxQV0NFUjJQakZKR3JmcU1GQ3pJUnFxelFZQXNvbjljdnNPMWZRVUw0Q0l5TFV6NGlmU21GR05MYTY3NWh4MHg4OEI4TDI1N1hEcFE2MVAxQUg1ZFl3eTB2Z3dyb0ZSLWFlNzdRRzBQVjZwLTBiS3hIbkk1OHJ4THU1dkdKOTMzemh2ODdoYVBxdTkyOWdKR3cyam5rZ3UxeGhDaVI3Nkc3YmVUXzBOTmd0NEJ4cHc1MEhCdVhxN0FHTk5mektyV0ZWTjV5TDliU0NJZC1XRnJLRnYwQTc2d2RWaVZ5emRJQlpSV0E4ZnhhZUlPeHFnRHk3WEY3ZzZxQQ?oc=5",
+      "date": "2026-06-16T06:24:38.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chamiyana hospital"
@@ -44,16 +54,6 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRlJqeFczTTJqMHdtUndrNHRMT2xTSlhjSG5fOGc5N3hkQUMwcy1JUEcyRElEWmIxY1B2dHE3NnhUd2FkYWdVNi1EcnV6UU5Vbnp3UTQ4bW5EZFpWaTVreVVKZmJhOHJkV1dkaldFMnlMNXUyWlJrYUlsai0tYmp4ZHJhWWhyRXBUU2dLRGNxeFVSUEppZTh0SXhmeXVTdTBLR0lhczFNTXl4QnhDenBzNU1hTkNoWEZ3Ul96MVl3cVZBX1E2ZEswemFkOFdXcXp2eWxQOUNn0gHbAUFVX3lxTE9ZX0NSY0xXak1UVE5Jb2JNNnIwUUpXS1RlMktIQS1GT1Z4bi1iZFNxcHR1WDNqN0pGQVhFNHRrZk9fQkU0WHMzNjBlQzhFcFVWNFlkdVJtOFVMVWlmTVk0WmRFNV9UUGt0Q0U3dDNSUFVCaGw3ejlvOHhvbUwzaEhlaUVzeVhaT1ZqLUtTREozdkwzaUlqQkk1dEFHWmZiQnN3X0FyUS05bVVHZGk5TWd3ZkhvampsN2VHS1hGNjNBcjg4LXV2TzdvaFVVaG9BVVo5Xy1LUUcwalZ2RQ?oc=5",
-      "date": "2026-06-11T10:18:49.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "अंबाला: फोन पर आया अलर्ट, चली तूफानी हवा - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWdNUGNyT1l3Qm9XQkREbk5WN0ZINzh2LW5VZlFOMVA3Y1VYNmt0YVZIOXpjRy1MSlNoOEJ0UFJvZTZHSzR2Rk5xaWFkQ1NSTGhkNk5rQkRMbkc2aFBFeUN0SmhjRk9hMF9vOW1HSUpJbkppbTBqZE1nWmNqWnVJWTM1cWY4dUo0aFB4SzF2UkhJd9IBlwFBVV95cUxOMkVZT2FGWF9ublVOMFl3blNwVERsdVg5ZVRVQnZQSzdmTmpwT0dPRTFfbGh5QzN1Nlc4SFo3MldHQUZPa3VUVGZJOGpqNVI4TzZQNVJQVW9SNkNDbHRrUGJTUnVVWDdlNlZkWlh2MGxnTDVPWWxrUzdNaVNLQXBmTXdXQ0ZNSkNaQU0tMXZaMXpONEt4VUtz?oc=5",
       "date": "2026-06-11T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -70,31 +70,11 @@
       "match": "Chamiyana hospital"
     },
     {
-      "title": "Shimla News: चमियाना अस्पताल में पहले हो चुका है विरोध - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzc5RGNENTR6WHJGdkZTLVgtR2VpY3o4a3hjMjlEbHFhb1NBaXJNQmk4djNXVnllbl9sUklpMm91QUI5ZXI4SHJYbXhwZ0RvU1BSOS1ISnFpSEpIWmpYSjhJY2FEaGVveElUZmhEZXFwX2hhUk83VlEwRVRnNDdmSkg2Yjd1aDBfOHl0aDY0cmtvLUkwd1NmZ0laN2o4WGl2TUEwSndYZUktQk9ZWU16WlVhelRwNWRNTzdNTEg1RFNQMHVkZWfSAcsBQVVfeXFMTWxVT0hRRTVmMS13dENIY1ZqSzB4bTY4SkJhTFRWSklCSE83STBPeFlmV1Bra2huMXJHSkNWUmpmeUpLVXphNnhzQVBHeGFEU3NBZnhYY0JvaEg3dWRQVmFhanhBTzljY21oUFRLM3VCdjdfalhGWW54d2R0Z05KemFlcEtPcnYwak9zbk9UX2lvSTh4TENWWWY2b2Q3ZXlLakt3bjhRb0hxOEpQWlVwZ3pfUWdDZ0dtZWJEcVpHNFdQbzE0RVNyOU1iWDQ?oc=5",
-      "date": "2026-06-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
       "title": "Shimla Hospital OPD Schedule: चमियाणा और IGMC शिमला में 4 जून को कौन विशेषज्ञ रहेगा उपस्थित, यहां देखिए लिस्ट - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdVhZaG84eXhVNWtsdDIwaW5nRHpCMWNOel90blhZclBKbnhzdUZadi1Sdkp1c0dvclRDX0lyajdvbGZnQjNHU2QzQkFRRnkxeG5vcm50d05IOUM0aWZtMmxLZU5qS1l2ZHBxRmlUYjBVNER6UnA0dHllWDhJQ0pNUjRuVDh3NXY2OG9nRWpqWDFkN0l2VDNfU2VQOThrcWlMMjJIWEFzOHRVMzVPdkhmTkhfS0Ytc2xNVE5lRDF3?oc=5",
       "date": "2026-06-03T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "Shimla चमियाना अस्पताल में डायलिसिस सुविधा शुरू - Janta Se Rishta",
-      "source": "Janta Se Rishta",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVE0MDliRmVlcjZqNGRqeEpfR3dnR2R5U0xRc24xRlB5aFo2YmFPLURYU3g3RUtFOHlZWlBrajJmSWZFckNZVGZYbFZKZGJkVDd3VTktVlBSd1dXWXFaa3hOMVUyMDlCaXVFYkp6VEZVVmtrY21lYmFYaWQ2NmhzQ3hDdUN5SWRuOENJR2luSWJfTzA3Mnc4WE5lWTRZMGVMM3lXQUxjdlNLUm9RdFhlUNIBtgFBVV95cUxNdW1hdm55VTRUS2hGNHFLQXlHbkNHVzBNRG01cUIxSzNKa1pKZ1V5ZnNpYUpqcGlkYkpfa3o2M2tkRXNvU0F5X3k3NnlHS29lb2ZkUGRsOXM2Z2tQUXZBRkUzRmtIbm50SHpSQ0hNY3BRcFdZb0dJNGp0NWJTc1ExRUpLODFZSUtFc3lXMjAwank2b0tTUE1idl9nd0VvMVJ0T3ZuLTN5djdEay1RMnI5Uk13MXNRUQ?oc=5",
-      "date": "2026-05-28T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chamiyana hospital"
@@ -107,6 +87,26 @@
       "date": "2026-05-27T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "Shimla News: चमियाना अस्पताल में डायलिसिस सेवा शुरू, किडनी मरीजों को राहत - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQREtXaDFFRWFtb2ZCZklnanc5Y0lUQW9fSUxra1RCQXNoSFRPSUtHVjdYRWZCUHdCaU10SUV4bzBxOUs2WlNLMFRZVTB5aTlsTzI4Mk9IQkd0TFdmSVlBM3dpVmdjOWE0V3FJMFJYNUxkVXJYXzJUcXVvNmVhc2VrUUNheU5kenpFOUhzMExUeWNmVVJrU3dMVTd3OTljU0twV01sR2FzbVJzVFN4SXZEcTAzdXM5OGhwREl3WnFNRDhEMGpLWFJ4V0tvdXFXUkZZMzUtN3pYMGtpVW5SWF9FdVR30gHnAUFVX3lxTE1fOVBuakdTRFJEVmFIMW9ld3dEallsMkJWdFJqVWk5UmlEV08wQ2pVS3ZpZWZpcERFd213N0VjYy0yZTFpWksxQk0wUWgzVVh3Q3UxWUhHbTBaeGxETDlfU1ItQU5EMmx6SS10VlMxSGtjT2I0d1VBdXNzcEdJU28xaUZiVFZFTHBFeVZKMjRvYVBXVE5CMFRUU0k2TmpXS2J2ZV84LWxMYTVpaUtZWDVfZnBYcUNfVHdVc0lPX09MaDJlZ25XZy1mZExBQ1hjTW5SeGxsTVNJbzNTZ2Y0RmgtMlp0UW9FVQ?oc=5",
+      "date": "2026-05-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "हिमाचल: मेडिकल कॉलेजों समेत चमियाना अस्पताल के सहायक आचार्यों की छुट्टियों में 11 दिन की कटौती - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcjZPRW5RM3F4R0ZjdkNCLVJPcFpSS1Y3S19qY0t4MjFwWHZHaFBjT1Y5SzRtVGU3cW1VNE5TbTNfQ1NCWDg2aXRiTVo2S2NxV3ZBOHdQMHJUS0dTblhycWtxV3NZTGtaXzRYS1JTSmctMXpTd1JoTVo4NVc2SlZLd1prMFRJZVB3V19DVVdDeTFkY0I4RGlaRnBCbW1WWXp1V2wzNUNZc2p4cGo1Sks2MWRCZ0wycmFWM0kwZ1pUVHRDY20yYUJpSnp0cEZzektSbEhLNkJKXzNNUnlLeldYWXJrbmTSAeoBQVVfeXFMT3RSblBWU2ZYMENIU092dFF0cGpwU2VEUlNQTkR3Z01ZbGplZG5HY1o2N1NGd2VseE42TnR0NV9GaWtVMTNnSXM1TVpnZTJuLVFvOW5hOFd0ZXZZUHF5WC1wZ3pqczd0SDQyaUJieEtCWDY2dERsNmxBZE15blVmWmk0V21sT2I5OF9ub2xZZUxCb1N6YTdMY1Y1NVN6WXloa0VJYXk4ZUFra0ROUnhUS3ZFV3kzSTlYN1VTazNCczFDNkFmZk1GNFB3N0VxZF95Z2pZRXhNMHhFZURaUC1pWXBPSHMyb0phaTNn?oc=5",
+      "date": "2026-05-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Chamiyana hospital"
     },
     {
@@ -145,16 +145,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQzk2RHFBYUwxa0g3bWpVZDBDYXJkRGxwLURNTl8zaDZsRjZaa3JjMjBENVE3MlJDZFNaT2NSamRIOXFHTlJTY2lEMy1RbWtPUGczbFVVY3BOVVQxU0JXakxJMDlEdkxrS2dVZEFZb0JBazdzWW83WUszQllMS3Z2OUxwRkF5RXBzaWh4cXhLenM2b3FrbVVmTVhkRHhXR0FYQVpWZW83YUNtell1RlJfQTk1NURVajd2T2tpVm04SGFQNTRTSlNqUlU4bDFydUZIS3VsMzh0RjJ5OVpzOFc3TThLTktkbm9vSXNGZW9GLTRBMjg5NkdVbVQ4Y9IBgAJBVV95cUxOMWNxLVZkZmZMa0FVeFFUN0VUQlBNV1cwbDhja29KdjRldVk2amNWT1RHZTduSzl6ODduT1FFTnRFSWl1RnNCekE2OEFONUJMSWdJNHdBWFhPREFIZGFYeXZvX2ZLXzBRUk9FTXBQbUowWTlpbDNiMFRraEhCLVB3VHY1bjBzWTZRZFhHbVNPQmhFV1l0VlRhUWEwVTdjdVprbFgzTkRyNXpUWFctelRhM3BWYVJjNnZreV9aeS1GcnhGbGJyWjlRV0Q0WF9aaGRFSDUyVm5mY292UENIMEY2MmI4N3ItcEZXYktHM3NGU2ZLVU9iVlRCWmVWUElBTzVl?oc=5",
       "date": "2026-03-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "Anurag Dobhal: 'शायद कभी चल न पाऊं…' अस्पताल से अनुराग डोभाल का दर्दनाक व्लॉग, अब भी हालत है नाजुक - MSN",
-      "source": "MSN",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6wVBVV95cUxONTVqUE1tUWVua0NDWUtoalc3UGZNMUF5aDF5cXUtLVNRdDlxRDdrd2J2NmxIMkRaYVI4M09qaVowT1djMm9kYjhHSmxDVWk3eEdHck5UbG1qc096NlZEZFBSeHQ1T1VvdmlLczhQSC1PaEdidlBwWk5VcDNfN001TTdjYmIxVEN6dnRhY3pfcGF2amtDRW9DZDlZR1NxT2pLc1ZsVTI2ak84Rm1GLVh5Vjgzd2lxNzVRUnUxM0VCNVNvX0lUSDRvVm9IblRhVktmM05Pc1BIQnhPYWZlOFYzRFJIeDNHR3pMNGI2S1BZS2VtWGN6RkxMYXZJOWhhQW9uMk93eHRVOXJSM0kzbjBIdWhES2FuOVRuQTRzN3Zrd2JIOWVBcG5meXVuSTZfT29ZaGprbkw3VEVTNUc5cXNsY2lmclJaUERjT1dKekNKdUZlSmZ6cEd6M04yNXppZmJ3Z3FRWXJtdmVYQUNNM1Q5dGpuQ2laWkFBcHVZMEltT3VPNXRIZkpFSnZadTY5SnpjQklPUUk0VFc5bnl1VnFUaGhFOU0xeFlRQnRKRmJHcDdDQ1dhLWZfbFU2QWtYNUk2Y0ZvZEZIME9DMDE1QzJva2F5MXN0VXp0ckZMUlhvSXZmekhTdWtCUHNIWEFqaEdrOUMwVllmS0ZQWDlzWHlQWVdTNXBfdlFuUThSZUxOb2czaF9DbGJjdm80RTB3cXZjeGVBSVFaRFkzUUc5bjdudmd5eWp0MEpBdjVObHB2Y1dZdWpkbGx6WEhjcWxxUTZUNFBVLVVxUmFRbGhfcGQ1Sk5MaGF2ekhlRThuZkktR05xbmZEY0QtMVE2NmY5NzF5QlRTMnZod3RTdFAyWUp3dVdxVjZpVmpQZmtVRlhoMzJEN1BoV0thLUY1TFNMT2U0c3hUWVF0dXhOYlRVVjcwSU5Dc2ZmNU1WZG90RlNKbFdkajZGellrWmEwejEzV0ljMWtpdWtIZTRhc0k?oc=5",
-      "date": "2026-03-25T05:37:45.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chamiyana hospital"
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "AIMSS Chamiyana"
+    },
+    {
+      "title": "Two Notorious Chitta Smugglers, David and Sandy in HP Police Net - HimbuMail",
+      "source": "HimbuMail",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NQTdTMzJMWktET2lGZjBkOUpCVXZIUDU0TFR1VHgzMy1zaHdDU3hqa0E4cUN5NENTWkVpNTZDal9ZUkVoR04wSVJwQnVnak9kMFlYR0JTU1ZpVEhUbWx4RzZB?oc=5",
+      "date": "2026-02-24T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "super specialty Shimla"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."

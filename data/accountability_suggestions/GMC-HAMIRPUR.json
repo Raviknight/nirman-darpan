@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-06-19T20:28:16.001Z",
+  "updated_at": "2026-06-22T21:30:01.313Z",
   "project_id": "GMC-HAMIRPUR",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "title": "₹1,000 cr to be spent on strengthening Hamirpur Medical College: Sukhu | Hindustan Times - Hindustan Times",
+      "summary": "Auto-detected from press: \"₹1,000 cr to be spent on strengthening Hamirpur Medical College: Sukhu | Hindustan Times - Hindustan Times\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZEdpcFpuUzVBXzVDWE1QMW9GRFlIQXE4a3E0S2JiMlhMeWxWUWYyTlhEUVZuMTBFMHFUdkJSMmJSblhmR2U4eF9xcGlWNUNUbHZjd2J6cTN0aTExaGZDdUtoaHozV1FPZG1JQllxcGdCbE02V2tYcHBHOXNPRkpRSVlGTlViU3pFN2RFaTM0ZklYSXRidk9kRG1aQmw0UFhyTkJhUVMwd1NzZ0FLTEpQb0hpYXh3MmhaS1RmbmFTQXRDVUJCTkhEV1BvNlVack82MFZmQnJyM0poUdIB3wFBVV95cUxPWlVvNDZBY05BME1nQ2szYS1TbUxtSDlzSGR6NGFYZGFBWndHZnZCZlcxeExVSlZHRThybENCb1Z0OVo2WExxVUxtTGRkRTVVdXpMU2lrMHhJZW5XTld0YVlyemxmdlRaaDA4c1dQYjZjZjAxcm5xLWZoMFpfbVlNLWYzaWFDSzNqTElEU0pyX2JSOEI1b0pGbG9JbmJCem5HMGdMd1BHN0FPdnJWS0FlNzRvbnI1VHZrbHNvRFk3UXVDRzI2dG9FN05rTlR0UnVUWXlOSTROZkNrYlRoeHc0?oc=5",
+      "source_name": "Hindustan Times",
+      "lang": "en",
+      "date": "2026-02-28T08:00:00.000Z",
+      "matched_term": "ngt"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

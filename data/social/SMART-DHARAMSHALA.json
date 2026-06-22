@@ -1,29 +1,49 @@
 {
-  "updated_at": "2026-06-19T20:27:51.395Z",
+  "updated_at": "2026-06-22T21:29:38.897Z",
   "project_id": "SMART-DHARAMSHALA",
   "counts": {
-    "press": 68,
+    "press": 69,
     "gov": 0,
-    "en": 46,
+    "en": 47,
     "hi": 22,
-    "total": 68
+    "total": 69
   },
   "mentions": [
+    {
+      "title": "CM Sukhu unveils redeveloped Fountain Chowk, E-Bus Depot in Dharamshala - MSN",
+      "source": "MSN",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNcEYwQ1ZaV2xkaFlfSjgxbkNZSklJZ3pVa3podGVwSXlScU1BTG9UY3BWejZHb3FFNjJyZ1BYMG5pNktfUlBWdFl5amc5d1BVd1RSTmkzNk5rRG5qazdSVTI5Y2tPSWkzQ2hpc3k5cGRWMFZsZWRRdE9ua2NITWRtS1BNS0lybk1sZTRfeTZnLURlazI5NkNuTGt1a05nVEQzc1g4VlJRRldlT3pUcklnc0pKRUNLamJYdGthakdRNjZhUVdmdjMtM05UUWpIdVhuOHF0M1g4OWV0aUZ4LUZzdlp4OXlqWjVJc1ZkQmFJcEtJbFYxR2I2Sl8ycDNlcHNlWUdwNzFIUWpTSWtxVFVPSXQ4M25WVk05VzZnakxQaVZuNW9BcXFONENEYndUbnl3NWVwQTFWRjZmaGhMNEtncVpTRi00QUxPSVNkYWEwbGJzZw?oc=5",
+      "date": "2026-06-20T11:41:36.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dharamshala Smart City"
+    },
     {
       "title": "CM inaugurates redeveloped Fountain Chowk in Dharamshala - MSN",
       "source": "MSN",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOeUFnQXBSZUxxQWQteXlCUFhzZmQ1dnlGblJHMXEtdXcwT0RtSHNZdUNWVllNLWFPQWF2QndSQmdQby1TLS1nODlUR2tDTG1Ibi0ydDVwcGtxdXh1dlE2Wmw5cEVnbVdJSWtwY0xaZVRxampOTWE0OVFRWGJNTFZPWFlVNVVMWVhaazlKTGpGZVNlUlVKTGlmcHU2M1h4b0VvYXNyNGlqa3FxOHJQdFVpYl9aYWtza0wwNE9DWngxaGtZN3J4LUFWZjlsSDlIOWliUlJyS3hvZkcyT2dUeEFuajhZRURhQ0Nyb29ERzE5aE5xRzZFYVdxZjZxd0ZjZjM1QTU1RWc5REU4dVhBVFNTQlZlMExFOHhzbloybXJVX3c1VXdlNFF2UWpQMmgzOHAwNjdpeWRDVnZIYTE1bmJV?oc=5",
-      "date": "2026-06-17T19:45:22.000Z",
+      "date": "2026-06-17T19:45:23.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Dharamshala Smart City"
+    },
+    {
+      "title": "स्मार्ट सिटी धर्मशाला में फव्वारा चौक का नया अंदाज - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRjFfSjJQYTlGVHl2NXJPUjNna05LX201NDRSMU5UVlZxdmRwWDQ0QW5hQmNqd2JGZkVOTjhvdVV1Ykh0eDlEQ180Xzlmd3V2ZHfSAZ8BQVVfeXFMUFdZR3pxNV9jOHBtZms1Y0dnYzFKOUJmYXo1QXhILWVRMldMZVl1WWZOWnA3RUhMREZKUGp0eUZCbno2WFhiQVpxQmw3ckxWWEYtcG11cXQ4ckRsTjhiNDhPSDZMeTN0WDlzbTdsbW5YYi1HTVBoMUhETjRURVY5X1ZrYzlXcjhYVDVFSVVQVTc4OGRZSUdOb1ZEemxwVG9r?oc=5",
+      "date": "2026-06-17T18:33:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Dharamshala Smart City"
     },
     {
       "title": "CM inaugurates redeveloped Fountain Chowk in Dharamshala - The Times of India",
       "source": "The Times of India",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGlhdEptR2pvTmY5alNCeVBQdENLVnNOdTgxeFFiZHdNVUkzb19VS09pM2lLZGkyRC1qZ0VFX0lfNmQ0aFF4VnJyZVlUbzZtWVE1ZzByaFB2VEJjOWlKb0ctekpJNm5JZWpDVVJLTk53bWhhUzE1emd6N0Q1ODVmTUVKZVdGdlVISjZXV1hVM2JTNG51aG5MUU5BVWF1QmZ3YUlnVzlIVmE2LWY3c0UzeDF6QWVMRTIyb3V6R1NkNjg3YXJDV0xzTlQ5a1l6VGZESnZ1ONIB1AFBVV95cUxQVGlhdEptR2pvTmY5alNCeVBQdENLVnNOdTgxeFFiZHdNVUkzb19VS09pM2lLZGkyRC1qZ0VFX0lfNmQ0aFF4VnJyZVlUbzZtWVE1ZzByaFB2VEJjOWlKb0ctekpJNm5JZWpDVVJLTk53bWhhUzE1emd6N0Q1ODVmTUVKZVdGdlVISjZXV1hVM2JTNG51aG5MUU5BVWF1QmZ3YUlnVzlIVmE2LWY3c0UzeDF6QWVMRTIyb3V6R1NkNjg3YXJDV0xzTlQ5a1l6VGZESnZ1OA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORS1seVN5ZzBhV2N2YjdnV3ZqWHJaZjZhZ241T1JVNkZKeTBFeGVLaHMwWk9EbFQ0ZVI2OFJLcHBoYnhYUGhLRHFrczBSNnV1ZlJmWHg1MWdad25KSEJ0TUs3NEtBZUhHY05HTWoxS0ZIeEJmT0NrcDVCQjI4WnVwZFIybnVKWW9VRl80ZXVQOW9ray0xUjlWYWkycktIYU5GN2lUcFZuX0luTGN1aThWdTVPd1ZTSm04b0VseEd3T0ZTbjVIc2g3UlV5YXdzWEnSAdQBQVVfeXFMUFRpYXRKbUdqb05mOWpTQnlQUHRDS1ZzTnU4MXhRYmR3TVVJM29fVUtPaTNpS2RpMkQtamdFRV9JXzZkNGhReFZycmVZVG82bVlRNWcwcmhQdlRCYzlpSm9HLXpKSTZuSWVqQ1VSS05Od21oYVMxNXpnejdENTg1Zk1FSmVXRnZVSEo2V1dYVTNiUzRudWhuTFFOQVVhdUJmd2FJZ1c5SFZhNi1mN3NFM3gxekFlTEUyMm91ekdTZDY4N2FyQ1dMc05UOWtZelRmREp2dTg?oc=5",
       "date": "2026-06-17T17:54:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -150,16 +170,6 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "Dripping Springs Community Library raises funds for new mobile library - Community Impact | News",
-      "source": "Community Impact | News",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa3RacHZoMDhMS1IzSDctT0hnT0tBeXF5RHV1aTFESXNLbUlyc0kwaS1CaWVUOWJ2WjFSQVFXd2p3bGZoZm1Xb2NteTRGc3pEdXV5Qk5oM1VsNjlOa2t5NlRxSjRQcHluODlFUmNrVEtlS0RnVkdBc2tZbk5pQ3FzYU9oaFhJM29jY3hUY281bU5IVDN5T1VuYzFVQ2VveXI4MnNwZ0NGb21MQi1xV0I2OEx1THRBNXo3YlZyb0VHWmxENDFHVWYtckhwMGFZRTBYN3ZuY2w2dnlXWGZQbENjT0JHZVRIU1BLVUV5ZzdfS2NTZmlZR2c?oc=5",
-      "date": "2025-11-25T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
-    },
-    {
       "title": "Ethanol boost: Davangere Sugar charts ambitious expansion amid India’s biofuel push - ChiniMandi",
       "source": "ChiniMandi",
       "source_id": "google-news-en",
@@ -188,16 +198,6 @@
       "kind": "press",
       "lang": "en",
       "match": "DSCL"
-    },
-    {
-      "title": "10 Deputy Commissioners,19 IAS, and 6 HPAS officers reshuffled in Himachal Pradesh - HIMACHAL HEADLINES",
-      "source": "HIMACHAL HEADLINES",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXBMWWdraG1yY3JYX2pER3JkX3JCTUF6RWVVRjdmemVma0hkekFuVlBDLTROYnFnSWlRSlVKOFBYZmhEd1ZjeF9RQUF4VGtGenI2Z2dWQW5kVGtUek9Ua25zMENRb25xMjh0d0UzaU5Lc3pwaVpmZldoRzRkdURiWTkxZ1Z3aXRsSko5SE5STkFxS0lSRkY3UGxMQ3lXeHludFZfMDdhNmdBWDVienc?oc=5",
-      "date": "2025-03-26T12:31:05.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dharamshala Smart City"
     },
     {
       "title": "Dripping Springs Community Library looks to future - haysfreepress.com",

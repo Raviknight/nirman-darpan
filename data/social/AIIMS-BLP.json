@@ -1,22 +1,52 @@
 {
-  "updated_at": "2026-06-19T20:27:23.031Z",
+  "updated_at": "2026-06-22T21:29:13.534Z",
   "project_id": "AIIMS-BLP",
   "counts": {
-    "press": 205,
+    "press": 204,
     "gov": 0,
     "en": 100,
-    "hi": 105,
-    "total": 205
+    "hi": 104,
+    "total": 204
   },
   "mentions": [
+    {
+      "title": "हिमाचल के बिलासपुर में बंदरों का आतंक, मंदिर सो लौट रहे बुजुर्ग पर किया हमला; एम्स में तोड़ा दम - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPc0dUbVhRU05rMmRXVjhEUVZfeXVzaUY4aTY3N1JIRVVxZTFCY1FnVV9XZEJ2SmU4UFBqWmNfYXBDYTBIOWN4dmR5RVpSVVM2aG04U1kyM1BGSWpybnRKZ0FXczhoMmxyaURFSFlNb0lTanU2Yl9majlCY2tjMHA3Sk8yN0pmMFJreTE1SEFOOG5wcmxOUUFzWE8tUGpEYm1BWE9ocldQTjU3VDVwSHh4djVNekJGc2U3SU9RRncwdWVYbnd0cWZselNmWEZQY29CQ2M0MGxXUWcwc2ZpZ0RNMWE4dDZSUUpvTGVDRE9n?oc=5",
+      "date": "2026-06-22T16:44:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
     {
       "title": "एम्स बिलासपुर: थायराइड की गांठों में कैंसर के खतरे का शुरुआती स्तर पर लग जाएगा पता, शोध शुरू - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQjVKanQ5UEY1eGQxVU5wem1CdUhlaVpRVV9wc3Rkd0VFRFNaSzhURXRqSEk1QzBVSzEteU1VcU1SY3MxV0J6MnJia2xrNHNsYlE3UnZhNmZncjZKQnFJY3hSQy01cFlMbExzdm1uQ1NINjZvV3BVcC1WTUs4MGh0d3IyN2hKd3pZTmlfbUc3dzI1dHBVdXhNZ3ZRNE5jYVNxajUwc1A5VEdPbUxTZ2VwQURLLVF2XzlyOUhvcFRnTk5JaFB4ZklCbGxUeS1Dd2s1UnI0UVpB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQjVKanQ5UEY1eGQxVU5wem1CdUhlaVpRVV9wc3Rkd0VFRFNaSzhURXRqSEk1QzBVSzEteU1VcU1SY3MxV0J6MnJia2xrNHNsYlE3UnZhNmZncjZKQnFJY3hSQy01cFlMbExzdm1uQ1NINjZvV3BVcC1WTUs4MGh0d3IyN2hKd3pZTmlfbUc3dzI1dHBVdXhNZ3ZRNE5jYVNxajUwc1A5VEdPbUxTZ2VwQURLLVF2XzlyOUhvcFRnTk5JaFB4ZklCbGxUeS1Dd2s1UnI0UVpB0gHbAUFVX3lxTE44TXUyd0JGajhwT1Uxbnp5cXIwdWhJenFhWEdsZkgteHVVTU1zQ25uUGlYN1RyNlBBUGFUYmJ2WlctZGphT0lfMTJEWmRzdWhhTF9tTGxQOWZoc0xBZ1lyeGxfc081d3VWenI1ZDgtOG5QRUg4NXRCb0FvRVROMS1ZRTREUnVGR3h3RWxYVkU4N3pKSm1jTlhyS0pWdDNRakF5QkNWdmdJSV9pNkVCRUpUYWh3OHN1SVNnRl84US13SFpVUkhqcGI5c1IwVzJLd0wtMU5ucEIwYldKMA?oc=5",
       "date": "2026-06-18T23:30:03.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "Manikaran road mishap toll rises to 3 after injured youth succumbs at AIIMS-Bilaspur - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcm1NUWlYdFVua3Y0SDNjYWE1WXZscm54T2tzaEdvN2N4TkMwZ1czTUs0c3gzRVVJUEFzZ3N6c1B3Rzl1OWpPZlAtQkhzczRDaU9PQTFhQXhMWDZCT0dGOEJUWWg5YlBLNDZOb2JCbmNqVWh0aTR0UnM4c1BQYTBORkg3ZWxWX1NxMmlsUGJaSmFHVjdiTUVEcHFFNWM5aDRwNGJFN0lIZWEwdVlGQlJxTHV2X3M4b29zUktWNHRDTElaX0kweldB0gHLAUFVX3lxTE1Xd2ZSLUNwZUVPaW9udTdqU1dPWWhtUjk5MjZxOFd4RWlmYnJJV1VuZXl6UFZ1bXNvQW4wNGNPblJkTktvOUlDTFpDalFMLVRYODFLU2J3bjBoak0wa3pvUmRrN2k1SG5pQXUzWFFzcEFqbHBUUU5iQVFUT2taWU04VHZKUHVDbS1PUWQwWF95cmJSS243YWNVREhOb0g5SEtZc3YzZWRLdDcwd081MWJ3X1VjcHdWYzJCTFZuMU9ndUdnY0psdTNObVNr?oc=5",
+      "date": "2026-06-13T19:31:38.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "AIIMS Faculty Recruitment 2026 Out for 303 Posts, Eligibility, Salary, Selection Process - Adda247",
+      "source": "Adda247",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02UlRIZFV4eC1ldUJYNERFazdmV28xcTVjbHc1eWlRZzlmV2Z3NTJ3QXIxa243V1NhQUY3bG05dEFqUE5oV3VrQUhPWW9rMTZJb1FBbk5nUGFpMHRGMGxJdnhQS291S3dnWllBUWl1aXhvYnZPNmRlN0VYZ1NfQ1U?oc=5",
+      "date": "2026-06-13T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "AIIMS Bilaspur"
     },
     {
@@ -24,17 +54,7 @@
       "source": "Adda247",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45Z0VHck9aOV8zTDE0VGstMERUa05iMEhURjNFQTlxX3ZxUGdEalMxYUEzck5pZ1NrTmpFRVliMWdhQk9CWHlBQVBINDhhSDBseUh3UG9vMGdmdE4tQWNTMzJnRnRxZWFwbGt0bVJzWklJLWFrRFE?oc=5",
-      "date": "2026-06-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Manikaran road mishap toll rises to 3 after injured youth succumbs at AIIMS-Bilaspur - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcm1NUWlYdFVua3Y0SDNjYWE1WXZscm54T2tzaEdvN2N4TkMwZ1czTUs0c3gzRVVJUEFzZ3N6c1B3Rzl1OWpPZlAtQkhzczRDaU9PQTFhQXhMWDZCT0dGOEJUWWg5YlBLNDZOb2JCbmNqVWh0aTR0UnM4c1BQYTBORkg3ZWxWX1NxMmlsUGJaSmFHVjdiTUVEcHFFNWM5aDRwNGJFN0lIZWEwdVlGQlJxTHV2X3M4b29zUktWNHRDTElaX0kweldB?oc=5",
-      "date": "2026-06-13T19:31:38.000Z",
+      "date": "2026-06-12T19:19:45.000Z",
       "kind": "press",
       "lang": "en",
       "match": "AIIMS Bilaspur"
@@ -44,7 +64,7 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbXFpQU9XWFpubEhEUzBlU3M0THIzVlRCTWhsSkdIaXBEWkJrUEVYXzMzVE5xWTFZQk95YXJycnNseElIdGRoLWFnS05UaXRoVWZqanJrcUtQZ2FLbEU5TlFBTnUxbUFOTngtX09CajdnZktPSHNZbWpXZTRuUXhJUGp5dVdub3UtcDJMRnVZaTNZWEliWXlBemM3bUwtSDJtMDUzY3l2aGd2Ykt3SUFFTFlUV1FwM1hDbElyaDY1QWp3azZPYmNNb1NvNnpzcGIxXzVwYm9XR2h3VEtyN29FRGVtczXSAeoBQVVfeXFMT1l1aG1lSTBJdGU0YXNMYUdSVWlNeXlKa2p2X0hRRGFRZnZpTUkwOHZUM0xleURwSGdaQmUtNE52MUpodnVWSjJXZFNoVTFHNDB6azZmUDNBaDAzOGtZWmFabmNyNGFqYXFBc21ES09ibUNlQmNicnVyeWtZNXhDSkxsM0FROGNSTnVXYUpiRHhqRnp5UFpaVjBtT1FVUm5neXdNRGN0cXpRc1N6M2NYSi1zWkJ2RkJnYnNqLXBBTV9CbzU3MUpuVUNfMkxwTFpPbTZLaDlRc2lvVWJuOHEybkFVNGZXVEh5cUdR?oc=5",
-      "date": "2026-06-12T10:35:29.000Z",
+      "date": "2026-06-12T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"
@@ -60,21 +80,11 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "Bilaspur News: एम्स बिलासपुर में 24 घंटे कैंटीन सेवा देने के लिए टेंडर जारी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeThZeWM4MkhTekZSNEx0cUxaRS13ZG1NaFczWlhYaS0zREVMR3RCMmdma1FURTRxT3NnTXJrV3ZkMlBNV2d0QXVCRHZUZXF4M2pzQkczOVZ5Sm5QUFRSZS1DWmpsYnc4ZC1rbEd1eXppcWY3WkM4aWxzaHNaeGJLZzh4ZVFyR0M4VUlkRHF0azUzVFpZYnljeE9PdEd2LVp3dHFQNV9zOHo4ODJiT05CVTdyTFFXX183dEtPeGpTYzM2UnlnU3lYS1JfVDl3dk9kc2NSWlZNS0tkVERHalZZTnpMVlhzZXFQLU9seVBpREnSAfYBQVVfeXFMTVlYMnNjRkRUaURUczJIWmVFMTgtN2w0Q0k0dk55R0dTOWdPVUdSS09xMGRLTmppc0lWRkxLdTFRZjJKNzNYekpLekVlS05BN2V0NzlSbGxOTEkzX2V1N09aNmVjcTFEZG8yY0VJM1VaNzlqMnVNSVpZcndCMFU4cGdydEhBY0J3R3lFXzVCYVE2UE5RT1JlZ3ROZzJBNW1wRllRQXQwamVNanUzUklLZFZVMXhkNDByTGp2RTFmMC1SSS1mNlQ2WXEwZGhhX294MUFaS09lc2E4dm4yWGxCNmNJTGFoRGVUbEdNeXRka2pfdTdjZXZn?oc=5",
-      "date": "2026-06-10T18:22:01.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
       "title": "Himachal News: एम्स बिलासपुर में जल्द शुरू होगी पेल्विस सर्जरी सुविधा, गंभीर ट्रॉमा मरीजों को मिलेगा बड़ा लाभ - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQjFnaEU3RmZqNnNxSnozMVh5bXVtQ1hoNy1aWXhiQlI2Ty1TV255ci1iTGtlMHBvbWtieXVRbEdDZzJ2Q2FZOGdGZ2RtRTJOX1oySHNnSXZtMWhBNWF3akxuQnQ1dmxGTUpwNG13NmNzT21qejJNajdfc2tKQmhMcHRPLXB0VEkzN3d1TF9aYnFjbV9QSlpCLVJVanBvVkFFOGN2bTc2UEU2V2RDTVlDTVJ6Y1dPdHN6QTNndEZReWJYOURKajdZTmFzendKNXpSc29ESHNndlN3alnSAeABQVVfeXFMTnVqSjN3dno1ajIwUjJ0OWVSSnpHSnBSRFhsbHZOTlNWdjkzVXB6Zl9EdzFxRWZ6MGRyX0xUYThDZU4tTTdiRk1pcGo1WWIxX0JCWksxaEZrN0ZkbEhwYnd1enN3MkhTUHNLYkVya2NrWjA0N2k0SnNwQ1VPbkUxRTNlZ1F1b25BZ2doeDhYWEhwcmMxSFhPSGZudEVnVzVpcFhLWU1KUldFSU5VeXpGdTMxU3M2RWg3bUhuOVJHNXF3Rk9YRmQteXpmVlV4Ujl5cE1PLWg4ZnB4Vk1pYUZFSVo?oc=5",
-      "date": "2026-06-10T06:39:56.000Z",
+      "date": "2026-06-10T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"
@@ -90,23 +100,13 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "Union Health Minister Nadda Lauds AIIMS Bilaspur on 3rd Foundation Day - Newsonair",
-      "source": "Newsonair",
+      "title": "Union Health Minister Nadda Lauds AIIMS Bilaspur on 3rd Foundation Day - News On AIR",
+      "source": "News On AIR",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQczF1QjNWeEl4cHR0bDRIT25yVGRnZDJ2cS0zRG1JQ1JaSG93cXI0dERXRTFQeERaZDhoWjk1VEpWVWRUeHVxQkRzWE1yU3ZLQk85VGU2QTZmT25aMU5lYzJxNFZkaTdRN1J2Vi1rZ20wdV9LYVI5eGtwODlxQVQ5cFRfSjhtTnVIMExxX1BCa0dzeGs2Yk85OGF5dWE?oc=5",
       "date": "2026-06-08T04:54:01.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "संवेदनशीलता की मिसाल : एम्स बिलासपुर में शुरू हुई रोगी सहभागी पहल - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVTA3bjdLQ0MxWkk1Z0JCNGstU0hLYzBQd2ZxU1gwUlhLWHNGdHUwU2tIT2NzYzJQc3c3OVNzcGZZMnk2Ylk5VVNTTDlrNEJkeXJVMk40SEl6YV9wakpRRTl5MUN5TC13Qm9yamFxNFVSekRaZEkzcDdpaUxHRnJnNnZKQjJfSXQxbjZ2TWpJSkczNXNkVXJfdndZYVZpRmtVOFZuS3lCTGxpZ3JDVVB1b1RnbFp1T2JrVEZkVzg2TmtNb1o0dGplZldtMHVtdkRneDNNQ3V2YlhWMjF2cDNZVjA1Q3hoeE9WVVA1MkNBU09hRTNfZEgwMjktVDRaVDZKbzhZUF9wRWJHX09JeWNQWWMwc9IBmAJBVV95cUxOb1VLMWRoQzVCbkNIMDFFXzVlQmJCTTByRzdkeDRZRGpqMm16ZXNrX19mR2hCeGtrVVpjR3JIVFQ1OTducF8zRFpra2lYSmRhS1RLaDN5M0NSalJiaXRpUjNyQjhLTlB4bHVwOWxtcFNrVGpPUmdpQlpScXUtZDJndUU2dnRjZDBrelZLOGJJWjlJNHM0dnZybEU4NVVIcGloNHhuNnhTMktuZ3R2dV9hQklhX0RYcERUSGtUQnRGaV9VenhqSVVEaXdhTFdMaGM4OUdndkc4RmVFZmNFTkFZQWhaQjlxNS12S21JQUtES1VRNl92dlhURGhycmd1WFYzcjMyVE1vTHFXaDVkUndqaHhfbkdMeE5Q?oc=5",
-      "date": "2026-06-06T17:58:02.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "AIIMS Bilaspur"
     },
     {
@@ -144,16 +144,6 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSVFqNzJoRWVpSlFoUzRreWN1M2t4bHNvNVhrWkhKd0RUVktvbUNTWDNlUDZuWEktSFNuUmhjZUV4dmRqRGpPWGtpeU42OTZLeXpBWC14UjhzWENQN0pNTHRmSlc5QVNuQU9ycUNQSU1aNHJmakZTUzliVXpPeGlQNlJ1ajFvX2JhMU0wT001VF9DWWplc1QtQnI1Wk01Vi1qSDlBbnJIenNLNC0xUW9CcnNOdHk1cldhNFBhdG1sS2FMNnl1cUVaOFhzSmNQak1RQnUxcXo4alpiZXV3Q25zNFhEeUxfRjlzY1NPZ05oMmFvZ2hfM3JXWEItWmhSZTdSZXpJ0gGIAkFVX3lxTE0tRU85bnJmVTBwRi04ZlZXT2dUNTFjSl9XbER5U0pYcjZKMnhBb2pvanMwMFJ6bDkzMjkxZ3VJeVduZ3lHN25OaklZdWNER0EzanN6NGdtazVTTFlWQThmWTAtZVYtbFZaeGZsZXhySWNBb1VCU05TdmtPdHJ0RnR4NjQxbTYwc04zZUV4d3Mwc2ZwUExncmpTTzlWdnRXMTRYaVJiYXNOaDcza2J3TmprcmNyRUxibFlmOV9Pd2VwYXJOeUllUnFZY3V0RnFneUpHV2JkWU5oNHYtanZjeDVscEs1Vk1Qa1pNLUIzSExJS19QbkRsV3VkQThVblNRYkFncF9kWmU1aQ?oc=5",
-      "date": "2026-06-03T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Bilaspur News: लावारिस पशुओं के हमले में बुजुर्ग गंभीर घायल, एम्स रेफर - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTWtsRS1GcnVfZWpXQ2dGYWJmTFAtSVo4NEExclJGQlFvNXhCX1Rfb0ZqUVdGRFh3Vk9QaXVKcF80SnFkQkZIcklIRGFOcGNOOVgtZ2RNcG9IQnJvenZJd2JfazNONndVc19BVHIxWTNyamxKbU1CdGVGWGo2M05VQ1hwOGF4dTlNSHdsOWpGWk56RGNzM0lWX2VIbHVicUZZRDlLcUE0QUJFbWdWcThFem9hVV9WWC1mTWF1YWtlVlUtWVAyNW1ldFYzOTlMTmZXQTJWSUdjS3RoQUJpZENzRFVTb0ZDaURIRnBuVTREUFlFMDV1Y0xEYWxsY0ZjQdIBgwJBVV95cUxPdjhjemlRQnhaQ3QtcFZLaHA5U3duQ1hjR3ZEb01tSm13R3FHSEV3MHBYUko4bkVyMHdBdTdVMTlmaUxQU0ZsTzhhWWcwMEkwQngyMnVTWHBnM2N3VDhoaWRRMDBBcmF2X0hFdnQ5dExYV2JCRXFiRUxqLUZRSWNfdFUyTXN5bWxXTjlwRlVVNGZ5cVFRS0c4cW9jSmRkbDRDZXZjdVNwZG1YYXJ5UktjVU00QlpZZzV6MDRjVmJHV2JWU3hGUkw3ei1HTm83S1hDX3cyd1VsNVQ3TEp5OGhLU0lDUkVBN1JrUWtWX1BMM1lzUUNVWUh5UHFwcVdBNXY0UHQ4?oc=5",
       "date": "2026-06-03T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -205,6 +195,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMDM4MTBvc0R6b2E0azNNeWlYU19JMHNlVXlIa0t2NUNiRmkwWFJET0hOWnVseW56cHNMWkkzbG01MlhZNERONDU3UFBLbnlhZjJvRUg0bk5OcEt0bEJKM2t4aFkzVEQ1Rk1sRGxXNHdSZGxvSGhxclFST1N1QUl4ZWtRaGVOMHZDbXVKbnpKMW82U2pVTHpwc184c0VQcVJqUUU0XzdRN1prTzJoOHJWcUd5ZVBTNUxWMExMZWZnRGlNZ9IBxwFBVV95cUxPeHdjcUluOHd6ejRtbk9PZ0Rna0RiREU3akRmNkVQM2dzOE1iMW9JMERLemQtOXBXZTBtZUhrVUlCQWZMQkFFcjN3d0xOQVowN1hueEJQVERmY2xPSUVhTGtETTd0dFZhV2pkRDlaYXBDcUlBeHZHZXozT1BLdkxsaHRRT19XS2dkVDROT1RtYXJFNEFxRXlaUEJ2ejVkMG5GWWFHb1hxNGRFcVJ2aDRZSS1EU3NpaTBXd1NYZ2VmMUpKbkF2RVBz?oc=5",
       "date": "2026-05-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "Bilaspur News: बायो इनोवेशन कॉन्क्लेव में शामिल हुए एम्स बिलासपुर के 40 एमबीबीएस छात्र - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOaDl4dUhGOTlDV0tzSFl0VFBIVUZkR3h4NlJOV1IyUXFqQ1lhamdlZlBnTWdEcV9NRE1LTHd2bWVBa0RqNkNRcUVjSzRFSjhaVzFad3plNElfZUpieFBVY1FPa1RzLThKZDRSUUNxWDVUWGJfczJ4Uml2bGxpalVYNVlKUENTRVoxSU1qdHpqSGVPOHRzazdRM0tyeWxsRU9OdGNUWl9iUm9FMWQzaHBGNEN6THlRX1NNcWhPV2NDV0VOSlkzRnRWeFR6RUpkOUNPaG9sdVdudHRyZnotSmVnTHJWSGlEWEFBY1pJTkFFVUNJdTd6WWgtUzdVRVAyWEg4NVNCRlpvSXIyeWJj0gGSAkFVX3lxTFBZR1l6NW9Kd0RJejVSZy03RVlPem84VVdaSU1hUDZsM1AzM1NvTkx5ME5nSUtINXFyMzBzUkZqN3dzY3B5RXlFY1JWVXYtOGFsQnkxeldFc2pLQ1cwNmh2TWdsZnRvbVRqaGtjUjhmYjFueU5IRGhpUmJLZ1IxbmJ2cVUzY2xLUE8yU3pJZ0NLN0hXekdMSWZjd0gzQ2RXX1oyc01OZDlmNTZycHRQUTVxcktiOXZURkpVdXZnR1VCaTdrd3VNbkRubXFjUHowc3FjVVJMcFlQUG1zWVdhNGt3V3hSZmFJbkNWUkZTVnNna1JuelIyZTVCejdXQXNPSkp0TDdWZjd4YVMwUWhaN1gwZlE?oc=5",
+      "date": "2026-05-18T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"

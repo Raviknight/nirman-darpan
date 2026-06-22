@@ -1,20 +1,40 @@
 {
-  "updated_at": "2026-06-19T20:27:31.332Z",
+  "updated_at": "2026-06-22T21:29:20.899Z",
   "project_id": "SMART-SHIMLA",
   "counts": {
-    "press": 79,
+    "press": 72,
     "gov": 0,
     "en": 30,
-    "hi": 49,
-    "total": 79
+    "hi": 42,
+    "total": 72
   },
   "mentions": [
     {
-      "title": "शिमला के सरस्वती पैराडाइज़ स्कूल को सुक्खू सरकार ने अपने कब्जे में लिया, 6 दिन पहले संचालिका की कर दी गई थी ... - News18 Hindi",
+      "title": "शिमला स्कूल संचालिका मर्डर केस में 7 दिन बाद भी नहीं खुली मर्डर मिस्ट्री, कब खुलेंगे हत्याकांड के पीछे के कई बड़े राज - Prajasatta",
+      "source": "Prajasatta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGF6SXNtRTYyN19FX290S3pkRFRrVjFpSlFGVF9EMU5FTUZkMUhYd3hwUkw0d1VRNGQ0TWQ4RUZlUDFoYm1zbTB4QmhkZG93WjViNnFDRTQ3ZkNDcE5LT2ItMnZCYmtyTTFGaDM2UHVDa0RVTmNWdGxDdTRHc2ljcE82eEJIWGwyeEVrU0V2UDhxdEJNakxxVjVsTGxBUjg?oc=5",
+      "date": "2026-06-22T07:32:09.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
+    {
+      "title": "Shimla : CCTV ने खोले स्कूल संचालिका हत्याकांड के चौंकाने वाले राज, फायरिंग का वीडियो आया सामने; शूटरों ने ऐसे मारी थी गोली - Punjab Kesari",
+      "source": "Punjab Kesari",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ3dWVFgwZ05POUlIazBZUWlWcEdYVkp1cTVCVktVOENRenFUTGJjTndlNkR5c3JNNkxXTGh2VThGWmpLdElrTGtuaTNJWTFNMmkyLVE3R1NiYXRNSWphWGw0ekZudGNYZ1otU0xPU2VTVW9kUEV6Q29id3ZVVnlEdnhLRjJGYURjQzFwQXYzbEdoRWZBc1k1YTF5c3AxUzhUZGJLNXpXd0YxNEVHTHRINUNrYWM2QnljWk5NV1pEZzg3Y0VK0gHMAUFVX3lxTFBDaG5fWXJnNTVjaFFHcV85OUUyd1dYUlRJUXE3U1NaZkdLNGVfaVI1NmJNN2ZGU3pnU21WRlhBQnVRLTlVajVMTFhBWnBYZDc0WEhUdWI5aUNXMElrUWZXamxnYzg1cmVHS0x1bGhvRWI0Z2lMZmJ3Sm5rMjNLNy1ydU01eG42Vm5DLVE2OEpKZmhBeFRUM1V0Z1Y3NlM1NC1MR3lHZExpWTRxRzFRX2JxQnRuY2c3SkVZYngzVWpmZmFJZjMyNG1RMEMybA?oc=5",
+      "date": "2026-06-20T08:09:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
+    {
+      "title": "शिमला स्कूल मर्डर केसः गेट पर इंतजार, फिर दिखते ही फायरिंग! CCTV ने खोले मनीषा मित्तल हत्याकांड के चौंकाने ... - News18 Hindi",
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxORDctQWNwQmt4UTc4YUlXb2xjNDJPbm9BOUpmd0pTRGpQQUROa0ZKLW5xWjRUZndkSm5HVlFCTHp5TXFla3lHQ2ZLVncwcUVOd2dybmRBYzM0UUktcGx6TXhiTzRyVEh3UURPMDFDbGFsN0VXb0dTOUhSWnZnTkZfUktOVk1oblB6cm5OdkJvUVFxWWtNaFR2aGxJWUhzZFRkVGx3QmpVaWh2SkI3Y1RmMTk2YkFrUzdqSjhJQ3pkcW01VEV6cGZab1RZcS1YWHRoV1B4dDdqVWJIRDNpVG1lMWxxa3g2LVNjWlpkdmxVbmJrc3V4dFVtRlpwV0pKVmNYaE9oZUduNGVEdXBKVVZpa1k4Z3hpNXk1NWcxOXNBcWh6d2dRNU5KeNIBrgJBVV95cUxQaWFwT0VGcjZ1MnNtYjRqRVMtaElyb21iWmNrTjBMMkk1WVYyY3piNjlITm9LSnNyV19EaTYybXZtZlNJU0xkUWxCU1FhcUpEZGpPWF9TZHFDU1JoN1BtZzZ5alJFaDBwaXNuVDFXVW9Vb2h1N2VSeFYwWXU2THJDVEdSX2NNQUxuV2tsbnNzM2RwSEU4ajB1TDdET3ZHbW9VRUthVDdtU3BQWTNqdlJUaGZHWlBrOXBOeFFmbThmWFdOX29RM2d6ZG56ekEtdGVHLVMyeFIta1Vad0Znald0cXBxM3lBOGVDallJZnlHQkgxa1ByTVVrbVpmdkhhcE5hZDZRSkVObDJjdzl3SnlNc1BtMDVfUzNGOWRYZmpST1dTbVhacXRzbTVkMTV0Zw?oc=5",
-      "date": "2026-06-19T03:40:32.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSnRMeTRtWVBxQ1NIeURiLWdZSWM0S0VDZ1pMa1BuU1hUUmx3c29zT0UydGhmNHlyUXM1SlVjSklRTW50X2piVVdDSkRJQ3ZPd1RpbTlON3RkRTlodGRXMkpiSFhhWDROYmxLYUhsQTB3ZFNRWlFSMXBRaUN5emhUYTVtSWZqMWowZnhpMmlvemJFWHZ5M3VYX0dKcFUzYm9OWnZPdjFGTU91REZ3NlRtT1E2cHkwazEwRG5FXzdoT1N3MXpoNGRINlJwVXJKQWdHV18yR1VCWmZkTzZyT2hhanQ5aWtlQUpmbUVDRUh3UU3SAfYBQVVfeXFMTTROMG1vVWdlajA2VElzTkppWkxPUnVJRGxURUpKejd2WlpOT2l6dVlLQl9OXzM4bFdQVFZPVHF4UzJjVHV0d3hodHQyUnYwSFVjblZ0bHE5c1RQejE5dGs3NUhvY1lvRHh6LUFtRENvWi1VemVNLUowQ3lLT3lnOVE2dmJDb040V0JfcFdBODZERnlFbU1zMmxNY3AtWEpZbmF6VXZzazJhdXNIckxJTWtPSmhPWUhvaUNyVDRoYmhRQmxnYmVDbTVWTHhGYk4zQU9QUHVKTmtSYmxPOV84bHZuSm0zVkVLYUR2X0dSZGNnM3pKbURn?oc=5",
+      "date": "2026-06-20T07:30:19.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"
@@ -70,26 +90,6 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "शिमला स्कूल हत्याकांड: शूटर 7 दिन रिमांड पर - himachaldastak.com",
-      "source": "himachaldastak.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWXUzZk1ITld1M1NGNTZhYkxIdmJpYjZxN3RwUXYzV2pTM0I5WTh3RmRWN1hyOVRYdXZiWlFnUnNRamx6LVlHYldsT3R6NlhVbnNCMkdkT1liVHJsZzU1ZklybFItd2xZRGkyM1FPTjJ5MVZ5MnlJQ1ROemQzcEtXR1JxUnRiUnB3TUJV?oc=5",
-      "date": "2026-06-17T03:02:33.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
-      "title": "हिमांक बोला- बहन गलत लोगों की संगत में थी: शिमला स्कूल पर कई लोगों की नजर, इन्होंने ही मनीषा मरवाई; सिर में... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcU5DQUR4c0ZFZWZBTy1mWHRQMjh5RHRITmxBaTZxbUdIaE9MY0ctYVM1bHBrZ2JWZHhTUkw5OE93SjBycW1GM2xFc1RkODFTWHBmYS1SSm5wVkszSEdFc1cyS1JaYVo4c1pTV0hWRDFDVGZyWFdUbFdCTzAwbmozTFBIOVlPbjBpWGNJdjFsNGhkVFh0N0d1M0dfU1ZPMy1KaDEzMEF5TjBnVnBVbFo0Tm1xQXBJLWFHcVV4WWhUelFXWXM4MUhMZW45RTBfUnQ2cWFN0gHYAUFVX3lxTE5XVlpsak1pSWd6Wk9hNjJkd21XUG1ZNFllVjhTWTlJczh1NVpJNjJFRldpUlJLOXRnSk5VRG5aVlBwQ25MV2lZTWY5aE9EVmF0U281YzRPNXNmaE1Sa0lORWU0UExfcTdvczU2LWo5XzVnWVpfaTQzMkxtaWFKRS1Wd25fUDJleXhBdm4xTmpMOUtCdGx1UGFyNHozbnkyeWFRa1lhc3RPRlRBTDM0b2RDU05YV05PMTQyUVdZNU4tX3k0bG5DN2ptR2NyQkotNmg5QlVxWFZReg?oc=5",
-      "date": "2026-06-17T00:47:02.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
       "title": "शिमला स्कूल संचालिका हत्याकांड: पेशी के दौरान मुंह छिपाते दिखे दोनों शूटर, कोर्ट ने 7 दिन के पुलिस रिमांड पर भेजा - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -130,16 +130,6 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "शिमला में निजी स्कूल की डायरेक्टर मनीषा मित्तल हत्याकांड में कहां से पकड़े गए आरोपी, कौन हैं दोनों, पुलिस क... - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXlza2FtNlg4UUduM2o1X0tqUFlUaHRKTGpxbHREQlFYaWxiWk8zbUxCTjNPV3diSGNzdGpraDJhRjVBZUlZMWMxM3Brb0x5R0xoU0FKMFhQNGFGbEZrVDRrb29PTHBJMkQ0WjhiZUFyVXFiNzM3eWdFbHhzTFFyWWhfZDl5aDdPWmJaamdHZnFCX0lGcWF2dDAxdUpmZzAxa05lMnVoMmdabHM3QjZ3VGNRWUN1NVdfYThOMm1iMTFkeDZoSER4ejZrVllwWlpyR0ZmUGdn0gHbAUFVX3lxTE54cUxiMUxqTUlWWXNpSHJ4RkxhQWVXbzRjR21RSDlndnhfRUhrSURCekRQMHFORlhoQlJ3eEl4OTlFYWxsOHNNSEFDYkpWWWIzN2tiby1mcGY1bmstVmZ5dUFhNzg3M2pFNm1mMVBEc0xiZ0hVN3Q1cl9yS3lXWExEd1M2SW4xbTU3Qm1nOU5uME1Hb09aRmwybW80REZPTEJBd3djX0hnQ3U4a3BEN1NtRThNQmZUTG9NaHQ0Q3gxQWFPcTNwTUo3bGdaYi1yZnU0b2RDWGhfY1ItMA?oc=5",
-      "date": "2026-06-16T01:17:51.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
       "title": "शिमला स्कूल संचालिका मर्डर केस में 2 शूटर गिरफ्तार - himachaldastak.com",
       "source": "himachaldastak.com",
       "source_id": "google-news-hi",
@@ -170,16 +160,6 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "शिमला स्कूल संचालिका हत्याकांड में 2 शूटर रोहतक से गिरफ्तार: 2 पिस्तौल बरामद, पहचान छिपाने को हरियाणा की गा... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTDcySkxISTNtbTZ1M3hfTTF5Z0xnSUNqMVRfVURsc0FYbUVsTVZiR282Q0Q3NDluT2tZRFBNZHFpMVR0RE80QmdRZnlMRkoxZmFCalU2U3BSZkUySUFURk85Rk1WQnpnMlJac0JyNUlsZmhDRDdscWtKMzc0MzhpR1VrSFFWZEJMWlZqcjNGRG1qZ2R3dkcxOXFHaUZxRGlPa01BQkRqbllNMXN6ZGpBaTZpM1p0TVJ6bVdLdTU0TXZzdkZGN056ZG9jSFJ0R3hvZWxjbFRyUDdBMzRWMzBlX9IB5gFBVV95cUxOcmxudllrNV9MQXR4OV9lTFBZMTdoMkpLaEY4VTNNQXpfQjdQZnNxVl9FVmhUX3NHVV9KWk5nMXliZE1ycXEzSm5rZ3VIMWpvWHd5cTNXelZ0Mm5KLVVYbTJ4NUVaSEVCbnI5TkRTOUg5elBydHNvZC1NczB4Z3VaWDgxQWRaQWZCT1liS2Y1TVVieV9ZTUZ3d0dldzJocWJkY2h4WE85bzM3UGtGRzZuelFKNEVHTjFSU2VlbTJlb2pHckNxdHJpVU1qV3Z3aHRtS2htTV9RSWdKY2wyMXBEZDZlSTdEUQ?oc=5",
-      "date": "2026-06-15T14:22:35.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
       "title": "शिमला मर्डर मिस्ट्री : बहन की लव मैरिज से नाराज था भाई, स्कूल संचालिका की हत्या मामले में सामने आया नया एंगल - Punjab Kesari",
       "source": "Punjab Kesari",
       "source_id": "google-news-hi",
@@ -205,6 +185,26 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ2Q1Vk02eEFHbjRtLUtsOW9nMTM2NDFEWjZYSDZRc3RnR2VPS0cwTmxNcWV0YnF4VkhMNU9mRkNFei04RHllams1NVRaSi1mR2ZrSFF1elYzcHZJOW42NHAxSDhMRDktMENiVkZxVldVZXlTZFNxd3Blc3RDTFJlUVR0dFJwbENuMEUtOU50eW12WlA0VjVRc0FaZS12MFNSQ0F2MHFNTURfTUk3ZkpFUVJYa1ZkWnJhUk04d1N4Nl91cFd4b1I0ZGNkOWhabFhGWVNoSzdKUHdURjRfUGg00gHkAUFVX3lxTE1BWldfQW1rQkY2Nks2TEtPei12M2dSTEpBbzRoYnc0VGhodGVQdWU2VFFvY2RxaVphOGRDTU0xMGxUT19hRUJZZFNvUmdLZzlRVkNIWFpCak1ycTk0RHk4SU83cDlLYmNZTlVGQXFPN1Ayd2oyZG5XcDVRemtubWI3SlZxdHE2ZHdLN0Q3QUtVakJfN0tOX2Q1YzlKYkV5dHJuanU5SGJYR2FrcW1wZmcwS2NwTm44a3RrMjhoa1pRZU1raVlCZzlXbUcwYnF1ZFlmalVRbzlLbkw3R0NVSGN6M3NEMQ?oc=5",
       "date": "2026-06-15T06:51:07.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
+    {
+      "title": "शिमला स्कूल संचालिका मर्डर: हमलावरों की तलाश तेज - himachaldastak.com",
+      "source": "himachaldastak.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnpYUTQzYVlXLVdaMEJuRmc4QTZRSEVDMHY5VEdaQm5abmRZVjIyeTY4N3BTb1FVT0FNR2xySW9mclpWQXZnUXI3d1RTdWY1R0VKWlQwekZkRVpMOWo1di1pSy1oQW9HbjZhSGx2MVM4eERnUDZ1d04taTh4REh1NXd5QW0tdjJT?oc=5",
+      "date": "2026-06-15T00:57:08.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
+    {
+      "title": "शिमला स्कूल संचालिका हत्याकांड: हमलावरों की तलाश में पुलिस की बड़ी कार्रवाई, CCTV और तकनीकी साक्ष्यों से जांच तेज - himachaldastak.com",
+      "source": "himachaldastak.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcldpV1pOWDNFaENTS01fczdwU1VkYXByemNGbmlTUlhUZENTd2lpdUNpeWV4VXhIcE5PVnNBc3luaVo0bVI0clVHNS1aN0hvNXRNQmxwM2w2NkdvQ1lPVzFRR2g2WVdqdXNNSnlSS0p4ZkxZa1pUTHQxM29fNFYyUDJR?oc=5",
+      "date": "2026-06-14T08:47:56.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"

@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-06-19T20:27:04.856Z",
+  "updated_at": "2026-06-22T21:28:57.355Z",
   "project_id": "NH5-PWN-SHL",
   "counts": {
-    "press": 21,
+    "press": 22,
     "gov": 0,
     "en": 11,
-    "hi": 10,
-    "total": 21
+    "hi": 11,
+    "total": 22
   },
   "mentions": [
+    {
+      "title": "यात्री कृपया ध्यान दें: दिल्ली मंडल में कई ट्रेनें आज की जाएंगी डायवर्ट, पावर और ट्रैफिक ब्लॉक के चलते फैसला - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWJnSFhiVXRyM01VUUE3WFhQRGZXekpNN2pGQjNzeE1tQ3N6LWdhVlZFTFdfY0M3SnQ2Umhlc1Jlem10TVdEdHAydUVuNjVhbVM3ZlRabzE0cndLNVUtTkJaNDFXMWVBWE9fb2pNLWxmYXZGUzI4SlZmeVRaSXVBN2xWZ2pZQUc1NGxCYTB2V3ZwUE5KemFMRlMtT3J4d1RGOGxBUTg2a0hxenJXaEwzcWFka2txQWVLR29qeVRPaHpKdnkxVUQ2SjVHRGw0YmhqQm1lRURWUzYtNEczYzhVM2diMHpMRVZW0gHuAUFVX3lxTE9EV2thZVBXdlQ5bUFLTThBN05BM1YtNnJ6cjVmcnd2eE1zX0EtWGs4MFMyMzFZbEx0ai05MDRrTVM3Z0ZsX1loMTNoWF84Mlc2UGVmNmtKRm1wa3NhOG1MTmc2Wk9ESnNiWXJtUmJmZUFFYXVMVlczYVB4LWQ0cWZRWk9TNDBNZ3VDeGxDZjVTYVM2RkJxWl9wLXBxVWxFME40cFBINDhnMGJyTVo2M0QyU0w0azhDamI0bGhwUlBpVHlCVDAxSmY1TFVTRnFyZUhid0VreUFrZTMzdDZQdy02SG9hdmh6Z3Z2YjRkWUE?oc=5",
+      "date": "2026-05-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kaithlighat Dhalli"
+    },
     {
       "title": "Shimla landslide that damaged apple orchards was ‘act of God’, NHAI tells National Green Tribunal - The Indian Express",
       "source": "The Indian Express",
@@ -57,16 +67,6 @@
       "date": "2025-06-30T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Kaithlighat Dhalli"
-    },
-    {
-      "title": "पूर्व रेलवे की तरफ से आई बुरी खबर, बिहार जाने वाली कई ट्रेन कैंसिल, महाकुंभ जा रहे यात्री भी होंगे प्रभावित - Jansatta",
-      "source": "Jansatta",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVU4zel9yOG5Mc1NKcTAxejBiQ3psTTRwTlNVd3g2R0UxTzFRalpocmg4X3lISmQtT0s1Q0lPWUF6RDBjbUJfem5OQ3VlYTkyNVpsblB1eE9ITVZYRWxvdzI5ZmVBN1h1UldkM0ZIa0MxdW5JV1F6ZnpPYUlXMGRFUG5ZYkNic1BBUzZmQWtqMnUtWnZUQlNPTVNJU0dPdGp3eWdNa2c2X05iZzZwVVoxT3paYnhrczIzV0tDZFR3NzBqci1ZWUc0c2NaNFo4aXR2TkdnVXZzbHplakVCdWNVStIB5wFBVV95cUxPcDExbENNc0RHU1VzNEtBM3VybmY4QVF4bHpYQ2Fka0Y4OXN5dEYxRERMdWVHZE1raFBSMjZWbUF1SGdzOV9McnhJOEZPb0JIVl9EQWFCVFM5UzRxREJyV2otZGNkLTFtTzc1NzVUTmFodmdQcnNZRTV2Z1JiYVZPUF9hMmh5WWtvM2Z2Y2c2b0xobHRnUEdKU180RVZMVkYtQmhaUXhvQzYzMnRSMGpzMEwyeVZWYVJYQkQtVmRIQV9ka0xVMjNZSDJCU3FSTmMzYUFZTnZQaFJYeEwtT1p0Y19UN3BxSzA?oc=5",
-      "date": "2025-02-19T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Kaithlighat Dhalli"
     },
     {
@@ -153,7 +153,7 @@
       "title": "Extradosed bridge to come up on Kaithlighat-Dhalli stretch - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObHJIUmNzeDJNNjFCcWlaTGp0LUhVU1Z4TmxKSkFZek95RUdoQjcya3F3OENTOUVIVU9YTm9iVGNxR1ptenQyWHd2THh0Rl9uVTl2RWhGU1gwQW14cE92cENRXzRaWjQybVoxZXJfTmE3TXFNQkMzMzAwQW1ZYmRGWGY3Zk5kYnZfdkF2OEVTTWdWS1dWbUdFSU9RS2xfamd6VktJOFR1d2p0MjlxS0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObHJIUmNzeDJNNjFCcWlaTGp0LUhVU1Z4TmxKSkFZek95RUdoQjcya3F3OENTOUVIVU9YTm9iVGNxR1ptenQyWHd2THh0Rl9uVTl2RWhGU1gwQW14cE92cENRXzRaWjQybVoxZXJfTmE3TXFNQkMzMzAwQW1ZYmRGWGY3Zk5kYnZfdkF2OEVTTWdWS1dWbUdFSU9RS2xfamd6VktJOFR1d2p0MjlxS0HSAbIBQVVfeXFMT1VtNlhpR2hQSEl5VjlkU0J6RDd5aXQzY2JOTVg2aS1jRTFzTm9KOEgwZWpjLUk2a21POV84UnBNdnpMd19TYVl5SHA2dnYtcFdzWnUyUHI5MEhNbHZUbWJNM3VKbnNDS1doZndYb2tLMVV2cmNpRXM5TjVvbWVpMzRBRTRIVlRoM1FGV0p0NU1LWW81R3JzbGNzVHRTd3ZidUpPUEc0aXE3T3lPNnVyYjBnZw?oc=5",
       "date": "2022-09-22T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -180,11 +180,11 @@
       "match": "Kaithlighat Dhalli"
     },
     {
-      "title": "विकास की बात: कैथलीघाट-ढली फोरलेन पर ढाई साल में दौड़ने लगेंगे वाहन - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "मेरठ से सफर करने वालों के लिए राहत की खबर, 15 और 18 अगस्त से दिल्ली के लिए दो ट्रेनों को हरी झंडी - Jagran",
+      "source": "Jagran",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3pfVF9ObWhUWkt6XzNiV21uY2FjNlVONXJpSmlmVkdsUTNFbzVJRHcyaGNJZ0FnZ25nTnpERTBGZEpCeldNVUdsT1Y3dlhPTVRJNUxlc3RfTXo4bVFoLTFHVklnU0ZPZmxvUVYwOTQxbWJvREtEMVJIRE1DeWVYMXJWbnhpOXVGUlBDcHFRYmZSSnZrN2tnU2VKeS1Xc250YUFQb1Q2QXFhd9IBrwFBVV95cUxNMnI0TWpkTDAtRUItajBsb3JXSzFmdTRiTGtPQnBXb0lIM1JfZl9sSkc1WnBqUWR1Z1FYNUpvV0tJZ3ZYeEFqME1ZMUphbFl3UGdaVml2YkE3cVRnQnFvU2o1Y1RRWjhHSmU5UnlhU3p5ZklKNHpEWUtsbGVMTlA3Nms3NXpLVFJYQlczeERkQl95WEJwYmVYMzJFTFdwMVVZZ2FXeHlGTHJnOGp2NEdV?oc=5",
-      "date": "2022-08-01T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSlBDMHZ0ZzcwQUU5anVRcGMzUmxHUDhyUU0za3lnYll6MWhDcU1fWUhyUzRyMHZlQVJjazA0TWhaaDRMYTNVeDZ5S2tITk8xZlpoSTM3SllSRXlCcDU3YktYaFdlZjRGaUx6eWl0R1NxYTY4bkd3emJvV2pUQWhXSDc2ZGMtZEFQNjhQemk1VFU0ZUc4T2tkdXZYZEFLeDdacVAwRUhMSkNPaVlaRld0dmVsM0l6MjBmUl9YdV94ZTJ3WS1fNGc1OWlCaDMydGxuUDZHVkR5SUFrZko3V3lDNG1R?oc=5",
+      "date": "2022-08-02T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Kaithlighat Dhalli"

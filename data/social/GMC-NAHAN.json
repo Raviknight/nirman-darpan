@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-06-19T20:28:09.412Z",
+  "updated_at": "2026-06-22T21:29:55.081Z",
   "project_id": "GMC-NAHAN",
   "counts": {
-    "press": 98,
+    "press": 102,
     "gov": 0,
-    "en": 23,
-    "hi": 75,
-    "total": 98
+    "en": 25,
+    "hi": 77,
+    "total": 102
   },
   "mentions": [
+    {
+      "title": "सिरमौर: मेडिकल कॉलेज नाहन में नशे के दुष्प्रभावों पर मरीजों और तीमारदारों को बांटा ज्ञान - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNWlWNUtiLWVTRHJGT0RZYU1ObzFzTzFQX1J1cnhENEdmUmNRajlIbVZ1X2xkV1RieDZGOWdhOXdpUnZ5Q2tZNHhHWEZ0cW1FV2lWY2p4YVF3NjQwS1N3Z1ByUnplTUQxOVFvVV94VEMydWIxT25PS2RzT3VQNmZQVTVPdlRYXzlZX0dMN21jZFBDVkk2ekNLQUtGbGF5YXRIbkhHSXQ4NFRkUzV1emYwaTljZm5CZDA5VzhFQ2ZLUmJ1UUYtZDNFNVZmeFEwVUgybGY5bWJ3MF9WNGxVdDZRdUV1WWpCQll2TEhxRE51dnBOb21NRXhWM2Y5TWRYdTZTNWJZZTRUOFlOOGp5XzBVOFlRSXFwY2NkZEJ30gGbAkFVX3lxTE81aVY1S2ItZVNEckZPRFlhTU5vMXNPMVBfUnVyeEQ0R2ZSY1FqOUhtVnVfbGRXVGJ4NkY5Z2E5d2lSdnlDa1k0eEdYRnRxbUVXaVZjanhhUXc2NDBLU3dnUHJSemVNRDE5UW9VX3hUQzJ1YjFPbk9LZHNPdVA2ZlBVNU92VFhfOVlfR0w3bWNkUENWSTZ6Q0tBS0ZsYXlhdEhuSEdJdDg0VGRTNXV6ZjBpOWNmbkJkMDlXOEVDZktSYnVRRi1kM0U1VmZ4UTBVSDJsZjltYncwX1Y0bFV0NlF1RXVZakJCWXZMSHFETnV2cE5vbU1FeFYzZjlNZFh1NlM1YlllNFQ4WU44anlfMFU4WVFJcXBjY2RkQnc?oc=5",
+      "date": "2026-06-22T13:54:52.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Sirmaur medical college"
+    },
+    {
+      "title": "Sirmour News: मेडिकल कॉलेज में स्वास्थ्य व्यवस्थाओं पर डॉ. बिंदल ने उठाए सवाल - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXNINGFHUEtORW5VWWJpYTRsTFdseGozVDVCY3EwZGItYkFaZWZQTlBLTUJ4S0pndVVnNWp3MnhTV0VXemhweEw4UkM3OHdzODg2TGIyVEU4Q1ZyaUFnVGVpM1RrR212dDJURENZM2w0b2hlRmhIRGhEd3RDSUdCemVtVjFvN0o4aXNkLXZURldQUlZwbmFLeUloeXJPRDBzdUk1a0V3NkNXc282LWtwVTJ4amF1WXp0eFF6Uy1nU1JoWGkxUUJZ0gHHAUFVX3lxTE1Nc0g0YUdQS05FblVZYmlhNGxMV2x4ajNUNUJjcTBkYi1iQVplZlBOUEtNQnhLSmd1VWc1ancyeFNXRVd6aHB4TDhSQzc4d3M4ODZMYjJURThDVnJpQWdUZWkzVGtHbXZ0MlREQ1kzbDRvaGVGaEhEaER3dENJR0J6ZW1WMW83Sjhpc2QtdlRGV1BSVnBuYUt5SWh5ck9EMHN1STVrRXc2Q1dzbzYta3BVMnhqYXVZenR4UXpTLWdTUmhYaTFRQlk?oc=5",
+      "date": "2026-06-21T18:28:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
     {
       "title": "हिमाचल में हर 2 मौत में एक को डाक्टर तक नसीब नहीं, शहरी क्षेत्रों की स्थिति ज्यादा खराब; रिपोर्ट में सामने आई बात - himachal deaths half lack medical aid urban worse than rural - Jagran",
       "source": "Jagran",
@@ -64,7 +84,7 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcXR5dWZudVYzX3NhYkhyWlVNUE9TeG56MEVzSkx2S1hpeTEya1UxbDNTVnJfNWNmdkszSkFjSVpmNnhDRFNnNGZLOUJ6V3hmNXJrdUQ2bjNPZWNCTk9ibkRNV2lTTmRPRXYxREprRElJX0g2RER0NkZrR3ZRaFNXdkw2LWpVbVJmMUZ6UXM4Zy1zOEpCOGZvXzhWYng0UnlLYzBMMTZIaEE4Qk5vVXJ1Z2lNa0NTSDJWNGxaZmxYLURlTDJqcHVFQ2M0dEhmOHV4blVGMm44QkNhYmplOGU4NWpSRjJjd9IB6wFBVV95cUxPVnB0NXc3N3I2eEtGd1o3LUFaWmxFbDBPRUswSVpTZ0x5NExJZVZLQzBzc29YZU1yWm01d3JqX2dwanNleFVwTHdSTVZRREtPTk50eGVSTFh2YWVYUUh3T2l1UzBFR2ZvUl81aC16cjQ2ZF9ONUEzVjg0TzNqZVRqWmVfd3F1Z01Td2FJMjkzSFYtTzV2QnVOb3p1Y2gxQ1lZRmJQNkx3aTFzV3hZYXR6UHdXNzI0TGZ2cWVyOGRtWHJPUlhnRWhMbXF5LWlCZ0kyVjFoZjlLcjA4dERRRXdvczNrUC1VNXFCbFdR?oc=5",
-      "date": "2026-06-11T12:34:20.000Z",
+      "date": "2026-06-11T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Nahan medical college"
@@ -80,31 +100,11 @@
       "match": "Nahan medical college"
     },
     {
-      "title": "भारत ने तोड़ा सौर ऊर्जा का रिकॉर्ड, जानिए क्यों नहीं चमक रहा घरेलू उद्योग - NewsBytes",
-      "source": "NewsBytes",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR3FybVNnWU5IM0F1NXZiUll3YTNheDlqRlBwN3lEZkc2TXdkX1d1Zk4xV0FKLVE5WHZsNXJCR0JLRzlvdGVBTUdlSVZ2cHA5Zlh2cnZUTGtFY1ljeS0zbDlOdkcySlkzeDIxUmo4Q3AtU2x0cmpKZWNzclhPYUVkMGhMYmZHcUQ2Nk1rMjNqMUpvVHB3ekNxVlJ3TXhvNk9QcDVQTURaSW1Cd3JZU3pieWhubl9rdTBBT0tVS1Bka0VrYkZkRWt2aHk5SQ?oc=5",
-      "date": "2026-06-04T15:33:46.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan GMC"
-    },
-    {
       "title": "नाहन में स्कॉर्पियो की टक्कर ने छीना बचपन, मासूम आर्यन की मौत से शहर गमगीन - MBM NEWS",
       "source": "MBM NEWS",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNdElzVDJiZ1Y0OEtvSXFlTkg2X1dHYU53Ql9KeVdEQ0UySTVsa25Ca2JRTjJqUFdrLTJtZEtjd0sxM3BOSVVMak1uNDF0SzYxZXpJa1ZCYVJDVTZRMENCc1htZm1vN1FrWEJTVFJ3Q3RaSjRZVVgxZUdyZHZoaGxOVnYtbHZBUmhGbGthNTRucVFnbm13SlFJSHJiS0wzblpLMGRxaDdZX090aFBmcHBkYUlJamQxM0VkZXFyMG1KRFhzbFljU0Zzd0xiQURack9PbzlESW05Z0R5VUJfOHVrYzM2TnAxbnRnOHNOQWZpTU1DclBBRE9iSFc3NE1md29BR0t3akpWOFV1RjFLNlhqY3R3elZ4QThoQ1hmbWpyOFFKWkJoMTNNTGdDcWdDV0NLaVA4cjU2MGdKa0xZa2lkRTJfWFA0WHVJa1lNLUNQNjZFQjZOVkNIa1VVUE5CT0t1SlE?oc=5",
       "date": "2026-05-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "Video: नाहन मेडिकल कॉलेज में मनाया अंतरराष्ट्रीय नर्सिंग दिवस - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3B1R2pLUl9fTEtSZGowSE00YmxrbUFzX2tjOHd6cUFJWC05dURxT2VWM3pSckREUEg5S054QTFSdnY2b0NoOVhPX2otWDJKVnhJYndoTHdxODl6S2IwbHFXbTd4ZnRXQWhUMDMxS29iaVFqRUlhWUZlQVdFNDhsWVBlc2ZPUmhrTGJOMENQY3FxcTRPakp2d0dqTjNFczlwZ2laY2hZbUNlVnBPZ0hCdmg2N0VqUGV1NE5DMjdYSW9DWl80VFFiOVNHaUZSdVdxZ25qQTFQaTRUUdIB3wFBVV95cUxQaDN5WlZOTWhESVAxelMtOEZXZWRUN0pHdG5UUWdGVzlmVHppWkVMbXE1czVIWWN2YThmUmlSbVJUcFFoeG0yMEowQm4yaHBwZnRSV3ltcTc1ZHkxdHNfNmhvWEZsZ29SbGdUMk5YWk16RmVtVjlEQnFSZ0dEZDZCVzJsckhOc19rTjJFSVVGTHRwQnB6QllXUUQ2SU1EMkh5eEZhMGR0X2VWYVJhZlZrUUMxcEVHc191akpLN1JHMUhaTUc4TEZIY1UwT1Bra18yd1UxVmhyVFoxMmE4Wkpj?oc=5",
-      "date": "2026-05-19T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Nahan medical college"
@@ -138,16 +138,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Nahan GMC"
-    },
-    {
-      "title": "Video: नाहन मेडिकल कॉलेज की मेडिसिन ओपीडी में चरमराई स्वास्थ्य सेवाएं, लंबी कतारें - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONl85U3NTS1VLTFM0NS1ENW5WYVNDcGY4bzFzd1RwNkJQdmVSSDZMeE4xMGlWUFh6UVVlZjdJMnFXWHpSQm1kMXg0cG5IamRfSF8wc1VUQXdwU1czaFVYNDd4OVY1akdZU215TENnTl93WmRURmJxeTZBMkdVN1k0eHp4WTlVLTJfYmQyTjdzRjdLRTVZNTJOQ1NOMjZYYlNQekdWTlhueXpRamhFcFF4N012TTRWaVRYdWw1bWk1bEZ0VHFnRV9KQ1l5U1FPSnMtX2dXbHIyVjVVZ0RydWNYN3NSQ1Z1VjZHWThsN3RYSdIB9AFBVV95cUxQV3RIV1NQRmMxajNxcHlHYzdCQkdfdm53RF9pRU8yWUNJekNiSkxGTndjMnVGNUxjMGVQYmk3VXZVeDVYaWhDTHU1dGRHQ1NTS3JyTmpIalRSbDFyYXg1NG40N1VRWDVaRWVaR1daS3NJTGtiZUlXOVFUM3BGUmdJbDRTRWNUcUVjQTdZSUxnSHdOanBFdkJmb0ZCTHBvLTBpTi1yUzdFMWpvcHNIQXlDRUhrUHBVR214WFh4Rkc4YjREQmxQb2Rra0daNmxZeVRLbmRIcm1hMllYWTNtTzE0VTJkdUtWbFU5Q0taeXNLOEgwQnZL?oc=5",
-      "date": "2026-04-13T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
     },
     {
       "title": "Sukhu announces increase in number of PG seats across Himachal Pradesh medical colleges - ET HealthWorld",
@@ -190,6 +180,16 @@
       "match": "Nahan medical college"
     },
     {
+      "title": "सिरमौर: मेडिकल कॉलेज परिसर में नर्सिंग स्कूल की छात्राओं ने दिया टीबी मुक्त भारत का संदेश - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ0tvU3NGeWFNZnRDT19DOUg0alY4YktoX19CcjI4RkViSGc5am52NXlQTUpzUFBhcUVSOUFRQURnUmd1aDFHelJaWHZ2WGxZVHBQVGFCX19qYlA1UlpQYmRLR3hVVjY5emtsNURKekZsOWhoOVQzR0tQUExJeHNDelZqaDV4SENGVUZBM3pGQlowakFUR2wwd29GYkdXYlZ5VVo0dk9JeG0xb1NFazR0U0VtaFM2OG1lc3ZoZzJLWXBBRElJblhTdWZvOGVUemEtWkxxUjNCSGNCM1djcFBzRlB4TktSV0xyb0dsdmNR0gHzAUFVX3lxTE5Lb2E5WGtQREM1VUpHbklKVW0ybmRCcXdpejd1RkVyeGd0dWN0dmxGZFpTS05TMUlJSjVxZURkZW5jUkUxR0pJbWdLWGhnTFFfMm11UjNhcWl3V0M1Rkx2eE1hLWJ5X2pVSjVUU0xmNUNEdGp5VE1aRFFkZXlWMFl4aTVWaGI5TlNnRUVyVTlZMWNTa0JpbTlsTXlSamdDRjdfVHdaUmR1T3pMVlpFYUQ5NnlKYkVOR08ycjBmYnk1d1pOSHM2d0tYa0Nmd25FdTFUNHFrbE9KcTFMbWpIaEN2dGFkVzdzcnVzRE9PMjE0UEd1QQ?oc=5",
+      "date": "2026-03-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Sirmaur medical college"
+    },
+    {
       "title": "Himachal to spend Rs 3,000 crore on medical equipment at Govt Medical Colleges: CM Sukhu - Medical Dialogues",
       "source": "Medical Dialogues",
       "source_id": "google-news-en",
@@ -200,14 +200,14 @@
       "match": "Nahan medical college"
     },
     {
-      "title": "Himachal: नाहन जेल में हत्या की सजा काट रहे कैदी की मौत - Punjab Kesari",
-      "source": "Punjab Kesari",
+      "title": "RBI के पास कोई प्रस्ताव नहीं, चमक गए Shriram Finance और Bajaj Finance के शेयर - Moneycontrol Hindi",
+      "source": "Moneycontrol Hindi",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXBxUjFhTXJhemZ3aW1HTTNINFpjWkx4UXJFTTZza1E0QzdzX2NhWGFzYXYyQldNT09XUjlLamtlZ0VFNGRXdW11S181QnE4eGlZWDJmbHlpdEZYR2lWVk9Xczlmdjh0dE1McjR5MHZPWFA2RlI3NWdTU2RvcGVIcVpBeUtNYWk1NTNpWDNPMmNLOGJ2a1RaTnJJVEREUHoyUkRsdWk0THdJYTZBbWRQY1F30gG6AUFVX3lxTFBDMWdrYklCVmVxMGtOcFpqcng5MlFRUkdyLUg4WFRsSDlxWF9DM2RLOEx0RzUxRm5OSzBVRzk0b3BPcTdCRzZ3YWZFQWJGYVNTNU5yM3JlZUdRY0lvdVRYTTI1VlhNcEoxdTVwMWZHam1HYmJBU3hpX1FKMVV6ZDNlZ0tpQkd2dHZvbDRaMHk2c0JJcmRUZmNWTTBqNEhHVWw3WVVydFloNDVJMllncERwTXp4THFrTXViUQ?oc=5",
-      "date": "2026-03-21T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORUxPdTZtbXhJbEo0X3pWU1BzYVZXU1Jvb0JwUXZUc0Z3OG9nbkw3YnhzUnJOOEVmN3JacDBPNlB1c0RuajVheU90MnpyT1RsRjRMUGRUcWJPSzVVVkJEZFp3dGNYUEtUdVV0aUpjTjRzR3k5MzJGbzZXQXg1NkdUREJWT0xmdFNSMWFQWGk0bHJuWXBmTnNwcVFMNi1aU2xsUjZsbFc3ZW9XMVRwV3NSMmxPQ0kySEpQZ1JtMmxxckliY3R0X0FwWnBCMllael9JejhudV9DcXdoWlFfVXpQWGNUbE4xZTJQeWNvNGZDcXQtdFZReFRRVTlXS0Nnd3Jod0I3Mm5BQmVtTGNjZklud9IBlgJBVV95cUxNd1V6VjlrMHZ2QnkyaHV2VWNza0VkT284RmMtR3JSakJBTTZTUnBIRmdVNlFvRVBUdmc3NEU5bTFYQkIxcEp1eVFzQnRpLWFjVzhvZjJKQ21CbHRkMGsyWVY4b2hCaUtVWGp0RVpyYm5XWVotQk03clVzTnFRd1BjaEZjWnF1T2VoRjBuMWRBVmVyM21TSzNBU21uQWFreUdSOGF4akZnbzNDQUY0UXlYMl9jeUFWVE1PekU5NWFwMFRIT1hrVTZ2Smg4dzNMVFVJdmVSZzllTVJ4SlI5a0ktZGN5dlItYnpsTExZSVlWYU16UWRMYU9GSGVuWmJzMFFfZzh3cGEtaHluRHZRX1V2eEx5QnFRZw?oc=5",
+      "date": "2026-03-18T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Nahan medical college"
+      "match": "Nahan GMC"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."

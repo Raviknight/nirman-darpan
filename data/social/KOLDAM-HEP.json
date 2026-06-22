@@ -1,30 +1,40 @@
 {
-  "updated_at": "2026-06-19T20:27:37.651Z",
+  "updated_at": "2026-06-22T21:29:26.804Z",
   "project_id": "KOLDAM-HEP",
   "counts": {
-    "press": 70,
+    "press": 95,
     "gov": 0,
-    "en": 40,
-    "hi": 30,
-    "total": 70
+    "en": 64,
+    "hi": 31,
+    "total": 95
   },
   "mentions": [
-    {
-      "title": "कोलडैम झील में वाटर स्पोर्ट्स और पर्यटन को बढ़ावा दे NTPC: राजेश धर्माणी - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX3pSZ0FVUXdnaG5SSE9ZdG1WclhMYjk5Q25MMU9OZ0EyNU1BQk5NX3BhRU9RYWh0Y1pkSk1HZElyU1dKV2hLdWhsZzNWeTFpVXRacUZMM0JjSDdhejF6Uk02YXpYakRKNXU1b2E1QTZMcnhhSU55aEQ2TnBJb0hfNVpndy1oVzVpM3g4bVMyRFpWcVFEMVJLRnhPNWRBWnZHc2NhM0J6STdob1NNUkwxZTVxRW1odDlhRWhQem1sTllObUI0b3BkVVRR0gHPAUFVX3lxTE50anV0OVIycDVRRWVLZUVMMWxoVmtaeFBfb0V3dm5PeVVuTzR6NUpfaU9hZ1R6S1FvQV9LNHlDdkV0WGtMTGtSTS1PdUpXLXZwU3pweHZpd2E2eGNTMFFWMERQUnhXTFoxbUx0NEEtZ0JNYXlIdExRb3BNU0hsblBfNWNLazVuejN3V0dTRFZ2OGY3ODJweV9zcGxPZGE1aW1ySWhJUkJ2c0pCaUJ0MC1HbXZ5WWFUb2lGTUFJejVxZzM0emdxWlRLUnpTY3Bzdw?oc=5",
-      "date": "2026-06-12T15:19:34.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
-    },
     {
       "title": "Video: राजेश धर्माणी बोले- कोलडैम झील को बनाया जाए वाटर स्पोर्ट्स और पर्यटन का बड़ा केंद्र - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdmFLNmdVWnl0VktSV0ktaHlQaG5vTkNrejBZS3BkQjJmNVJBckptaGsyNUxMN243QkR2d0pJR3l1VTZJTVRpZ3pxNElNRmhSamlNbERXc0ZnYndiZENrM0dycjFaR25USnU5NnFPMnZ0XzBPWExmRTFUM3ZOR3JqVmZielFsc0lDQ2FoQXZYU2I2eGhQTDlpUlVLa2h0YzlMMkkzQ0lyVnprWmpXY3dyQzJ1bVNpSXhtcjZfeHFXbXhlck1HMWtfbHVxSE56QzVwZGdPamE2QU14TWJmcmdaRlExQWdnb1dJTFJ0RkFJLTNqdmlHbWFKbjhIMDFEamh4LUY00gGIAkFVX3lxTE9yai1GWmMzM1N2TnZLSWJJVVlpN2RYMjVfYjV1SWVmbHNBWU1QQm13YWNqVlFhRGpXNEU0NkNWVGI3alozcTJjR0dLTDBsRVdxTHdDbm14NXNMcVotdlFDSWh0T0pFMDMtN0FCdnIzSkNLSzR3Mk1uMjJaNmpXck5OcE5NSC14X0Y1LUZLY1BEQy1LTUMxY25wanJ3NGpKSVJic0FvWk5mNDExQ3I3WG9qejZMLWVzcEdQbVM4Z0Zhdk1ENi12cVRyZExrMFBnRlkwN1BmdlpxVVJubk1JbWVnSXU5UU4xUE9BeWEtd1JpdDVQNzA0ZldNRVJMbDNQdmVwdFRlWWhKdQ?oc=5",
       "date": "2026-06-12T11:12:55.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
+    },
+    {
+      "title": "कोलडैम झील में वाटर स्पोर्ट्स और पर्यटन को बढ़ावा दे NTPC: राजेश धर्माणी - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX3pSZ0FVUXdnaG5SSE9ZdG1WclhMYjk5Q25MMU9OZ0EyNU1BQk5NX3BhRU9RYWh0Y1pkSk1HZElyU1dKV2hLdWhsZzNWeTFpVXRacUZMM0JjSDdhejF6Uk02YXpYakRKNXU1b2E1QTZMcnhhSU55aEQ2TnBJb0hfNVpndy1oVzVpM3g4bVMyRFpWcVFEMVJLRnhPNWRBWnZHc2NhM0J6STdob1NNUkwxZTVxRW1odDlhRWhQem1sTllObUI0b3BkVVRR0gHPAUFVX3lxTE50anV0OVIycDVRRWVLZUVMMWxoVmtaeFBfb0V3dm5PeVVuTzR6NUpfaU9hZ1R6S1FvQV9LNHlDdkV0WGtMTGtSTS1PdUpXLXZwU3pweHZpd2E2eGNTMFFWMERQUnhXTFoxbUx0NEEtZ0JNYXlIdExRb3BNU0hsblBfNWNLazVuejN3V0dTRFZ2OGY3ODJweV9zcGxPZGE1aW1ySWhJUkJ2c0pCaUJ0MC1HbXZ5WWFUb2lGTUFJejVxZzM0emdxWlRLUnpTY3Bzdw?oc=5",
+      "date": "2026-06-12T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
+    },
+    {
+      "title": "कोलडैम झील को बनाया जाए वाटर स्पोर्ट्स और पर्यटन का बड़ा केंद्र : धर्माणी - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOemJLbTVScElMZ2w2RWJlb3oxWV9IZml4SHhMU21qdGN3ekY5TzdQNUVQeHpLdDloQ0RCYnYxYTdISnZwUndYU21UX3hYQXpqYUo3UlNYc1Mtb3FlRWxEazNHYTJGYUlrZ1U0bEx2aWQ0TGEzUGtVWFRENVRyWDN3MmZnV3FFSU1SWXJOaWRwcU1SelB1OXFzNkplMUxKdzdhbXd6SmNUakNfakZWWXBuOFAxVHZONUUwalZ1VS1CbEV4YlBvSGNrTTh1QzNiZ19Mc0dKRi1LTGdOSGo4WjE5R0h6QmlHbXBocXpvTHVmbnFvNkRWLTJ0c2xLU2NyQmxBNXBCanhBOGZiajZwQWRyc0NsU0LSAZoCQVVfeXFMTnprbTQtNUpJb2hQTVpnSWxQX0tEaXE4SmtxbE1PRklWWGlOelJsQ0MtTjU2Q0w2dngzY1IxMUtzbXE3U1VpX3hDMUMxT2Npb1A0SnFJeGFiQ1NsMmR5S0E3S19vQVhsZjZZX2thOFY3NDVGNXZRWjNZMlF1cVhITzZ5ZXdVekNoWlBJODFaSmdhZWdjQTBJcno1MnNHMGFhVkRaYTY2ci0xMVcxUm9aWUctajJEYUZvellVUU1tWnF3SHU5aTZaenVMTWpyMjBjQXNEMkx2cFl3TFdZVFVWeF96TEl2SVlBNF9HcERTVU45QU5VcDU3bnpwa0xGUDFDQzdSZUNSSTVZei1LdllMeEtYQXNUUUpldVZn?oc=5",
+      "date": "2026-06-12T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Koldam"
@@ -38,16 +48,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Kol Dam"
-    },
-    {
-      "title": "Bilaspur News: एनटीपीसी कोलडैम ने मनाया स्थापना दिवस - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZkpfekRxRmljVmg1ajUxTDZHb2M0aVhXUk5zbEZQWXR6QjJDY3o5YzdabWFwUnhrYklHcFpqZlhaZHM0MnN1Y0ZFRkQxX1VQdjA0V0VOQVlDT2ktX2ZDUU1lQTRseG95b0Rpa2ttTjZNbm9qUGt3UE5CNG1UUUN2ckRweWRYemVIMk5meUdIcGh3SEhOSHBuNHltcTMtb2pUNkpwcjVXOE0xVzFfRW8xQzBsU2JzRjh3S056T2dwMUl3Z1dhSldYYUN6Z2xrSFBpQk130gHYAUFVX3lxTFBMRlBBQ1Nmd2pjTm1IU0xWMms5RXVYZVhpd2pZbGVWa200RFk2NlBRN0hoenl4bk5jVDZRLWNYeVlnNGdhME5KNEtZbGxhNGY4Y3I0ME1NWTZJNFR0eVRqQ1VNNW1VRjNkTzFVM29fUGFNdEJpMkZYMHNUTEVPSHk3clN4MEx3TTFpRWZVTHVUcGp1SHZyZS1JbnZJd2RFU21oazdFdjJLZ0JiOVN6R2ZjemtFeTJ2c05LZjJ1X1BtSnY2UjBvamtpTURvVDNrNFZpYjRiZHdzRg?oc=5",
-      "date": "2026-06-05T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
     },
     {
       "title": "Mandi News: एनटीपीसी कोलडैम ने शुरू की आपदा की तैयारी - Amar Ujala",
@@ -170,6 +170,16 @@
       "match": "Koldam"
     },
     {
+      "title": "Rock falls on moving vehicle in Himachal, 2 injured: Water released from Jhakri and Koldam; alert issued up... - Bhaskar English",
+      "source": "Bhaskar English",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdGJTSnVlQkZuT3g1RTlXeWlnZlBEOUcyR0wwRlVlczlWM2Z6UTdLYnpWTG8zTlZIQUtrTTdoRERVMzduNTJVbXJDTVJYaGVGZEhlZlp0cW1RRnc4LUlzNnVhSVlKN2w1YmRPY1hjNkJWRExWMUVZMlllN2o3Q3V5YjZ3NF9LUjhMbnBXbTBvQmVCVW41Xy1KeDNVdk15d29qd0tJdjhPbXlfOUpOWnhoc1VEX09KOEc0cWYzSUZZZmtKRFRxM3FXY3dUM1U1aEVYWkFvckJOMjIzNDBwT0tCZWYxUnpmbHkwQkZBVERVVy04eDhtRjhJRUV1T3VkYnhVSEdMU0dzQlJ6dGZvTHVCeUVkaGY0bTRjVUZWZndCWnZBblBHU2JoTmRYS2draUZMaTVOQ3dYYkltOHhpemNNTklyRdIByAJBVV95cUxQRlRjUFdUM1B4QVViVjRNME5KaXBSZjVRRERSZU1iWndySnEzRWtxV3M0bm5kRC1PQk9UMWVUaUdYcG5tOVRUU0xzSmdNLW5Vc25jSzVDbFRGandQMUZVU0x4ZWFpM1hUS2hMSmhYSHFNRFdTUUR4N1FWcF9qaGxvMTZkb0Mwa3B1M3JQZGltZ0t4V2RCLUhseGJTdE5tdEF1OVpTWUVEOWVqSzhnNFFwSUY3UTRWbTI1Um1wbmJtdHZkcm5ZV3BhbHRzRFlrWkJjVzJQMzg1REVrZHR3eGZIMVRGdDRNZnVzNXUwMlBQRHVaN3BvVU1oNy1KcUVhUklLSTlqempIV0lUcHBGVU1qY0VNTkNhelREdzFoM1U5R2RrS0F1N1RXN0wweU5hVFRXV29EcDRITzdQTndabXMydTVkeGM5NVM4?oc=5",
+      "date": "2025-07-22T05:41:32.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Koldam"
+    },
+    {
       "title": "All Himachal dams are operating within safe limits amid cloudy weather and high inflows: SDMA - ANI News",
       "source": "ANI News",
       "source_id": "google-news-en",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Kol Dam"
-    },
-    {
-      "title": "मशीन से बनेंगे अब इको-फ्रेंडली पत्तल - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM05INlVNeTZDZ0lKcDVjZ1BPWHJlY1pVcmh6bXBlbWZYMGJWTExoaHltVWxzbFdwLS1kTXRPWUswSTJ1NzdiaWdrczBQb1paN1hEUDdPUjlGRW0xeVlPWHdZWnUwbVkwMVBlMTdzdmxtOThxWnhTcVdPVTVvdkJOY1EzSjBWYnllYkNuVkxPeU41YUHSAZgBQVVfeXFMUE4wdlpaVzdraUhaRXpiaHBhN1BYRnJwODJaT19jR3pNdDdvUEIzR3JFeU9qc1Z3V0h5eHktdXEyMDNqbVVJcEdEdENxTGU0OXBlRk5wNTltc19QSVZYaHpwX1pIOW8wclNLUmczUWI1UWRYR0hIVGxiajNqYmhhLXBlS3cyNFBENDNkaEJIbmFMRUlyeUJrUzI?oc=5",
-      "date": "2025-04-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "NTPC Koldam"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."

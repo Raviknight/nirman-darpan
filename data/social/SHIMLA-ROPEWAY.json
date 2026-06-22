@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-19T20:28:11.732Z",
+  "updated_at": "2026-06-22T21:29:57.180Z",
   "project_id": "SHIMLA-ROPEWAY",
   "counts": {
-    "press": 103,
+    "press": 101,
     "gov": 0,
-    "en": 62,
-    "hi": 41,
-    "total": 103
+    "en": 61,
+    "hi": 40,
+    "total": 101
   },
   "mentions": [
     {
@@ -25,16 +25,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMGFNSzY1ZlpVS05kVi1GNFRNTmg2LXdkSG05M1VDZDV1QzBUTkpaTWNYM0tSaldMUXJQcFZVUmpqZ2Z4Wm1vOHc5ZGthS0l2SHgyRkhScHlKTV90T2NSai1QRGdnaVZma0ttSExKdHNySWhXbjBlNFk2MHZxNWxCT3dzN0t5WXNKTkJyTmVKNXNZNC13ang3WXBDQVdyWXVBN1JyN18tTGNEemlnVGQ2eHBFYUpGc2lsblJQM1BhamtHYldzWEFyRlJON1ZKdG1USkRrR2lUanR0NEc3YTc3V0JzZUthUWdVWDVRNldROEg0UDZCUzFFWnVEQm1NTk8y0gGGAkFVX3lxTFA3RmVIMWRReVVoZnRpV2g5VEFOMG1WMlZxQmFDdUFtck96dE1mZ29POXdzZHVzVm9YcE1fN1ZqRHFKaHM3cFJzOE1EQmt1dDBuWU14bnVPbGViRVo2aVd5THVUQW1rM3pubnJUQ1lHeUM0OEEzR0x4UnVKNk5YZWlYRzdCcHVUY0h3WGs4Y0FPWTNLYlNxNmd3Z0dNZmRTSXBOU3JIYXVaeE41R242UlVydk8yMHJRVzdXNi1RUVJhMDJHV185LXVqaU9XR3ZNR0NHS1Q5V2FOem1HTDU3ajdDTWN6UkUtcmpwdktnT0lxQ2pLQnQ1UGtrWk5sTG9BMlVHZ0g2NWc?oc=5",
       "date": "2026-06-18T18:29:02.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "RTDC Shimla"
-    },
-    {
-      "title": "Shimla News: गेयटी में हुआ अनारो नाटक का मंचन - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHQxbFdEMFJyRFJmTHlkMkNrWXhMS1VKTVpORjJkRnRPMmNYRmFaaS1PVFgzVG91YzA2VVdKQ1pvU3o4TDlSU1RHMkQ0Z1BndTVKaGhPMWg0Y0FPNVcxUlVCeVAyUm9KNEJObXpDa0IxVGI0Rm5VX0ZDNlFvLW12MFl6NEt0QVNmNE1CQ0Fvb1NGVFBKUFAyMUJkWGlIQmdYN0lnVDFXbC1wTzlra3ZYY9IBtgFBVV95cUxOUHVVMGlTMU5YM0ZBcWl3ZVZtbTkwNndZcDViV3BLUEJoWmF1ckIwdWM1SUF3cjBYeklzbnFobVhxaWxJeGVqSVdEM1BYQ0g4Vm9kRThzZnY2OGhuMmlKSF9vdGI2d0c5TU0yNVc5M1Q2dURZNHFjSlh5NHZreUZ4S3ZCX1hBOUE0ZE94NnJkcnVqMUh5MkEwclpldXpuaW5BOGthbVVkMWloOEppcmVzNVRLVWxadw?oc=5",
-      "date": "2026-06-13T18:29:02.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "RTDC Shimla"
@@ -60,20 +50,20 @@
       "match": "Shimla ropeway"
     },
     {
-      "title": "HP: Shimla ropeway project hits roadblock amid ‘cost escalations’ - MillenniumPost",
-      "source": "MillenniumPost",
+      "title": "Shimla ropeway left hanging as Himachal Pradesh Govt scraps tender after cost surges by Rs 1,200 crore - The Tribune",
+      "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnBHOG1hOWxfVGZVOHVLUTJBc1JnX2xRUWtVOF92MjhucGx0NEJaX3VWUk9ZU3JVdENaTmExbzBmRml5TnM5Sm1XR3BiXzFybXAwSk5oaVRScmoyUFJ5VEpIXzI3dEZVYkFIbTdBUUp2TUNyRllTYzlJcnJDb2xxU0dNVDFRLWhnc2VaNkFFRmlzZ3NxUHVmdkNDdXBBVDM1RXlKMWQyNW1yZ9IBrwFBVV95cUxPalFDZi1PRDRVeUIwcEUwRjRIVGlkeURhUmVJQVZ2VEI5M2ZMRXV4OEZuUXFOdUZNZnd2YkRsdFN4UDY2bGRZRnUwMEdHdHVCcGtHU0w1VFVDNmdzR1c4WDF4VTNxUFlTMElYbl8zUWR1d2hsU2ZLSDZ4YUVlTDlXdVZVSTZPZGtySnFnUUR2cXl0X05hUWFzNHVqVEVQdmM2dFhlb2tQRUZtanQyNllz?oc=5",
-      "date": "2026-05-24T19:40:03.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnByNmZrM2NTcEhKYk1kU29mOUtrV1FTbk1Ba1Vfc0YxcHpxVFpFbkl6ajVxeV9aRTlkWUVaQmh0RlVUX3VSZDczclVtSnJ1cmZ3RWNHYWUwYS1yZ2oyYWphaTg0MkpxOUh2aUxSaVZhQ3hhMDBXRWVXVDVwa2RYNGtzdWN6NmRCN3lFT3dkdVpjMkxfZkJwV056UTNkejlDT05lRnMwcGNUZUlUeDBBVnhpcXlHUUh0V1QzbEJOTnBwYnN3VUJ5SjdZYUVxWjV1RkZBM3VXbG5QYVdERFVJ?oc=5",
+      "date": "2026-05-24T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shimla ropeway"
     },
     {
-      "title": "Shimla ropeway left hanging as Himachal Pradesh Govt scraps tender after cost surges by Rs 1,200 crore - The Tribune",
-      "source": "The Tribune",
+      "title": "HP: Shimla ropeway project hits roadblock amid ‘cost escalations’ - MillenniumPost",
+      "source": "MillenniumPost",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnByNmZrM2NTcEhKYk1kU29mOUtrV1FTbk1Ba1Vfc0YxcHpxVFpFbkl6ajVxeV9aRTlkWUVaQmh0RlVUX3VSZDczclVtSnJ1cmZ3RWNHYWUwYS1yZ2oyYWphaTg0MkpxOUh2aUxSaVZhQ3hhMDBXRWVXVDVwa2RYNGtzdWN6NmRCN3lFT3dkdVpjMkxfZkJwV056UTNkejlDT05lRnMwcGNUZUlUeDBBVnhpcXlHUUh0V1QzbEJOTnBwYnN3VUJ5SjdZYUVxWjV1RkZBM3VXbG5QYVdERFVJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnBHOG1hOWxfVGZVOHVLUTJBc1JnX2xRUWtVOF92MjhucGx0NEJaX3VWUk9ZU3JVdENaTmExbzBmRml5TnM5Sm1XR3BiXzFybXAwSk5oaVRScmoyUFJ5VEpIXzI3dEZVYkFIbTdBUUp2TUNyRllTYzlJcnJDb2xxU0dNVDFRLWhnc2VaNkFFRmlzZ3NxUHVmdkNDdXBBVDM1RXlKMWQyNW1yZ9IBrwFBVV95cUxPalFDZi1PRDRVeUIwcEUwRjRIVGlkeURhUmVJQVZ2VEI5M2ZMRXV4OEZuUXFOdUZNZnd2YkRsdFN4UDY2bGRZRnUwMEdHdHVCcGtHU0w1VFVDNmdzR1c4WDF4VTNxUFlTMElYbl8zUWR1d2hsU2ZLSDZ4YUVlTDlXdVZVSTZPZGtySnFnUUR2cXl0X05hUWFzNHVqVEVQdmM2dFhlb2tQRUZtanQyNllz?oc=5",
       "date": "2026-05-24T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -90,23 +80,43 @@
       "match": "Shimla ropeway"
     },
     {
+      "title": "शिमला रोपवे प्रोजेक्ट: 13 स्टेशनों के साथ बनेगा एशिया का सबसे बड़ा नेटवर्क, मगर बजट ने बढ़ाई सरकार की टेंशन - Live Hindustan",
+      "source": "Live Hindustan",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY0tGLVFaUGtjd1NDbUo5cTdwRm1ub0FjbXAtaTNnWEk3WjV6Q1FwUVo5bGVnQ29PQUpGSEc4RTd6TndPWjNSbmJIR0xvSUpoRHNCTGpMQ3ZvT3Y4WDhRRXljNC1wVUJraG40UUhrb0RPc2FZdDQ5REZmbkZlZXBhTlRxaU5xWVEzcjFoOFlOWjFnUDdZVlNHZ0tiUzVFeWUweTd3Q3dPY2xxSElYWFVxTG9UVEY1a2lsUkhfRFVxVFpnU29tMHVyVHFld3hFMEV4bVYyamp5cHZfcDhYaTVYck9sWjBhSTRzZXVCVGJ30gHzAUFVX3lxTFBwcGJ1VFB6bE5keElwLVNvbXVTR1ZWTmhIdUo4S1FrSkVqWVZqNGhMLVQtMHdBbG1NclkteVMzb0hWN0N6djBnaWVFQnUxN1hlSWstSnNxV2xfWmh5aFJNcjFNSHdPREFoc3NmRjFDNHloWHZBWldESDZmUGV3SVJxOHc3UGZtczJQMWVseUg2LVhyYXpJZGpoa3otWktlSW5Zb1VoWDdQWl9DTGJITmZlOEE5R2xGTVhPZU1MaXo3Tmc5Y3VYUWlKQXFmLWx4Sm9pRVAwTzRLem9JUW41T0o2Z0hfV0FFRGliZklFLXctRk5vYw?oc=5",
+      "date": "2026-04-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla ropeway"
+    },
+    {
       "title": "Shimla ropeway faces funding hurdle as costs nearly double - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUszVGpCZFIyRzVJbG15Uk5HY3JLTXRiZ2kxcFY4aGRxdmgySGFNZ2ExcUM2ekU5djFrX0hUU25kcjZzQjAyY1pRdEN0c2xHUVBheDRvdG5IMFM3REE5b1NuV2JFZGJFejZfM1N4VFRTZkV5bVFNUVhBYUY5WVdHMC10STdtQmw3LVdiM3pfLWg1cUdtMi00Q2lmc1k0VmxJUElSNg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUszVGpCZFIyRzVJbG15Uk5HY3JLTXRiZ2kxcFY4aGRxdmgySGFNZ2ExcUM2ekU5djFrX0hUU25kcjZzQjAyY1pRdEN0c2xHUVBheDRvdG5IMFM3REE5b1NuV2JFZGJFejZfM1N4VFRTZkV5bVFNUVhBYUY5WVdHMC10STdtQmw3LVdiM3pfLWg1cUdtMi00Q2lmc1k0VmxJUElSNtIBqAFBVV95cUxOU25uZE5RdTZQa1ZZcmNMX2VDRVgwQzE0ZDNXSVlVQnJmeDdBcTFPUm9CeDB3a25uNUg2R3NwTktvcjVSbU1McVhIM2ZMS1F5b3JDREtqdjQ5VW9NSU1yQ0R3amdSM3p3MGFnUnU1NzQ4RmFYZXFOUlRIR1FtN3NhQkFSaDl0RjBlNmIzMXN3Wk1BTm9iQnliZ3ZoWVRmZkRfMUJpUmNDckk?oc=5",
       "date": "2026-04-20T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shimla ropeway"
     },
     {
-      "title": "तारादेवी से शिमला के बीच बनेगा रोपवे, 14 KM होगी लंबाई; केंद्र ने प्रोजेक्ट को दी मंजूरी - Jagran",
-      "source": "Jagran",
+      "title": "Shimla: गायनी ओपीडी को शिफ्ट करने का विरोध, केएनएच के बाहर भाजपा का धरना प्रदर्शन - Amar Ujala",
+      "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUURXd1B3a2hhUG9BV3V6QmcwTGJVWFJna1NCcW1vcFRLY092ZklkYVNuMWd0Xy1RQzNTdEJ2d0JIRG01UUVpaUZHbE5OclFVdHlCd2szV2hxa1BIMnVjejQzbkhKbGczRHRzMDh1MlVLUzFBWW42ZlNrOTVxb2Y5MW1lX2JkcVYtRVQxQ1FwcklaejRPNFVwNTRaOHg5RnBaZFVtR2VZTnFpQzNWdzFIaDQ0SVRSUQ?oc=5",
-      "date": "2026-04-10T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObndkcUVzaEI4M2doYV8ySEVSUEQwaTJ1S1pCVGhuamg2WVpjVXRDdzdic2FYQWg3MVRxZGtrSXpkeU5od2RzbTEwYTVud0VzR0RWazZNZ0doMzJpTmJHMXExXy13R1NDRTFzX3dINHcxVWd4d3ZXNG1pa1lGV3pfcExma0M4c01lXzViOHNzNHoyUEYwMFp5OWd5QWhsRDM1OWxNNXZqNkoycEwzRDRXMEVEeHVtT3FZTFBCVzBJZ0JuNjJ5X19LakRKSHdkQnVTSk9wMjdMNnJmTGhQbVI0bFlhbDXSAeoBQVVfeXFMT3MxSGJncDI4QlBjZ1hrX0N4bkVNdDJ5eTJZUlJHWE9VWjBHaWdZdkJQVXE0cXVwazBDbVJJS0hHbE1ELXJlRXRoM2gzcU5JTEdpVjZYVnRPSFdVenI5S2t6eFpGMmtzUjFOOVpOYXdYQUlTcHI4blBLb0tPdzhUdks5VW15SXN5d1huZG0zbHpWMHFnY2QtQ1NqS2k1VFNRX2RiLVZ6UmlXS3NSWC1SUldzOFBhY2tCa1FQZElQN0x5cGNfNjRobElVSjhoQk4yRHFqS0NzLVhXMkZKWUIyZG9CSGlwMHNCZW9R?oc=5",
+      "date": "2026-04-16T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "RTDC Shimla"
+    },
+    {
+      "title": "HC seeks status on Shimla ropeway, decongestion plan - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnpkVERxd01xZGxHMUZ6SGpEZXVBV1VOWk1YbWtzVGtmVlA0NHNTcHMzUEY3bnNVU09IT1BQaXhIYllDbkM2b3VJd0pLYk44X3JFR0czY3FacVlZNHNEaUFESHRvaGM3WEJvSDhSZWlNa1hPLWdDbmFKR0JZQXVDVnAxQUlaZ0tnV3l3VXlFR3IySC1RTHAycTQyNA?oc=5",
+      "date": "2026-03-30T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Shimla ropeway"
     },
     {
@@ -115,6 +125,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ3pmXzF2eExEc1V3WGN3RWsxM28yRF9zd0pUOW9mWEFodVpjMG1wUDdwZW85Qm9LX3RVcmFoNzU0YlMtTFF3dGN4bWYwQ1pZTmt5ZUJad1Vid2kzcWdYakJORnZ1elptNGN5S0wzSFJORHpWTHh4SmhtT09jeTAyNFk3S0dtcGNiOVdmdG9rbkJka0NCemVaUDA2UFJLNzRUQjdRYnVUQ0FRdGQtNTdpRGZyMjNlRWNOOVlzTGlHY3JDRW1fSDZEcnVzMlZWM2NMRWtEQkh6c1FEU0dDM2N4Qm5mT0NTUFRLZ1pLUWlR0gH-AUFVX3lxTE5TcVNiYkxVS09SZTJlM0JSbzlLdW1TejNzcll2QnhsZXFxTXhxV0RuaEdKa1JkeFRJbzRxUG9pWFBIaHV3MDJnUjBnaEdRWnRETUVjU1ZucWRYSjNVRnUyY2FRUm5OSmNWd3RvTXRDdk5MQWtsTFoxMHBGWHZQQ3Yxc21XM0VuRHpxblpZbDdZNGxMY0NhTmJOaG91aHpJdEdOSEp6TWllZzVPVzBuSEc4ZE5WMHNtaTRtUTg5MVhVVW8zd1Y4OXZmVmYyS0I1clJXY0lLVHpCdG5JbEpMcVVyS015SnRxUk9Yekl4bXdTZjBlWG1DS0ZkcGVud01B?oc=5",
       "date": "2026-01-22T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla ropeway"
+    },
+    {
+      "title": "Shimla ropeway project hit by delay, cost soars by Rs 1,000 cr - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1JwN0NEMDdKbl91REFoN2pncTJhamtTMVcwOHNoQ2V4dkNMLXF0N05XbnZyZWRoTVVkeU5Bb09HQTd6YXhmX3RrVDJmajRBUUVwSWdFeXp5YjNFam5MZzdBcEFiaU1fMlcxY083dlJmSF9YcEVRY1dwbV9WaDZDWVlUYmJ5cUVPbnpSeWNZSTA1YS05VWlyb3ByWVVrckUtdUs00gGnAUFVX3lxTE8yY2RrSkRRdWZKQ21mTHlmcUtTTnJkQ0hKTHVLVmJMT2Q5OHctSnc1Z0ZHM3pzMmpJTUljSFZ4S0NTUVpqMEVncUh0QmhrbjhnelBPSjYta1dKWGFtb3AxejQxaGJLNDduZTFfYXp6anpNTllRYVpIQlFGUnppNHA3ZHdtZnlsLVlJRlVBOTBFcGI2SjY0YmlGOVRNSVZZSzJjS3lPMV9Z?oc=5",
+      "date": "2026-01-21T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shimla ropeway"
@@ -185,26 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXlFMU5CQTFpeWFpLTh6YWx0eG1xNzZyZGF2bXUwZy0wcDNxZTN5SW9yTG9UWkV4YVd6bmptY29TcEdWZTU5YTVnbGJaUk85aFc2RHdKNzJNMDJrMDZHTVRRcGhEd2Nqdnk3NXJHOVhHaWJadkZRYXNONHVuUHN3d2NLSGVySVVKbnNzendpc1ViTlk?oc=5",
       "date": "2025-10-17T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla ropeway"
-    },
-    {
-      "title": "Green nod sets the ball rolling for 13.79-km ropeway project in Shimla - Hindustan Times",
-      "source": "Hindustan Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbl9sYURNcmE0Z1ZER0ZNbFFtYXBsdmp4M3ZNMmFZQWxELXpYS3VlSWlNbnFXdHdSWTNaeXpaZk51em5DbXN5Skh2NkpqcHFiaUZEaGhoT1l3LUFQTFlJNG1Gb092b2FUWWk0MXZmdnVwNWdidE0yTkhHa1prcFJ0VEJQSGpVRmU4dTRoRGt4MWZkczZXekZCMmpoNVhXWW9LUEtlS3BhVVlzMjVrRUNGRkRnbVBjckR4bEJjNDg4VE9UNVVZQ0RfNFg4QXdfMUp3QnVCQjlLVTNVLVRCZnc?oc=5",
-      "date": "2025-10-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla ropeway"
-    },
-    {
-      "title": "Shimla Ropeway And Rapid Transport Project Secures Stage-I Environmental Clearance - Swarajyamag",
-      "source": "Swarajyamag",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZlRZcFVMTGNJRk1jb1BWVWFPYV96SlFRVnVuY2NVNFdvdFVhZEVoamRXSWlLbV9JX2hvWGRjMDNBdXNmeHdvQ2xJTzVMSVppSno3eGpfUUpuWUYxVDFxOTBzZVlfQ1dTT2Y0S28tbW1xbkhyZ1JoNmtJVzlHZWxlbTQ2THVKNXZRRDlOR19kNVZSaGhlR3NacWNiOC1tQkszaDg2czk2Q183MGVPTWdMSDZtSjl1RThG0gHIAUFVX3lxTFBEbXNEb1pVM3BEQWRaZXA4NzE4NFdZQk9fa2ZNRVduZHdzdzdnRzNwbmJFUVlsVkdiajBMdXh2cXRmR3paS043OExUOXVKYi1OVk5nbG9nZXJaUmlPa3ozZnh0TzJQUnU2OXNQNlNyYlVfUlpoRFdhNE1waG83QnJYZ1RhSHFUODk4STZaSGNoMjdUdEZsengwQXNVQnMxV0hoMHdMMnJ2ZC1CVE9MdnFGbTJnVEhzOTlkNi1CbDhBTzdDVVhZWUVl?oc=5",
-      "date": "2025-10-16T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shimla ropeway"

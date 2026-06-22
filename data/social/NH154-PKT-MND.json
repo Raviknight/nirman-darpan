@@ -1,19 +1,29 @@
 {
-  "updated_at": "2026-06-19T20:27:42.128Z",
+  "updated_at": "2026-06-22T21:29:31.009Z",
   "project_id": "NH154-PKT-MND",
   "counts": {
-    "press": 67,
+    "press": 75,
     "gov": 0,
-    "en": 53,
-    "hi": 14,
-    "total": 67
+    "en": 59,
+    "hi": 16,
+    "total": 75
   },
   "mentions": [
+    {
+      "title": "फिर से सवालों के घेरे में पठानकोट-मंडी फोरलेन परियोजना - Jogindernagar.com",
+      "source": "Jogindernagar.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fcTVRUnZDVldCWXVfSnhPS0FVdDRrR3N5T2Q0eUZUY2JJVGhjZzlua2VwQzJmWTF4aDNzSHM4MERmV0ttdy1OM0V2MkpoZDlCcE9CNHhPZkhDcEdpOTFqNW9SM2xrX1ltS19FX2pLN2M?oc=5",
+      "date": "2026-06-22T02:18:13.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pathankot Mandi four lane"
+    },
     {
       "title": "Malan flyover construction on Pathankot-Mandi highway enters final phase as last pillars completed - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObWtIZGdQLWdEVlItMkhiY282ZXZCLTN5OVZ1N0ZkdVppVng5YzZIdkk1ZDhBMmsxYVZvazVKRXFYRGZXU1ZkU2dYeGZxZVNodmJPMTE4OWU0dktEemM5bU9BQUlRLU5zZVhDRnV0R0VOb1BDU1pNd3hxcXU2Y0RJZnJveXFJZnBjZHk0aHR4WENwRFJFa2R6V0ptd0FiUW9GMWlsUENVZVJUWnlJZTdaQkhSNUZVR1RkY1pSTl9YRnp6ZHp0LTg5WTYwZ3cxM3M4OXBXRnUzdnJBczhXUUdBbDhtaDhydnJBazh2cHo1SWhsMGFPaWVXRUVR0gH6AUFVX3lxTE5ta0hkZ1AtZ0RWUi0ySGJjbzZldkItM3k5VnU3RmR1WmlWeDljNkh2STVkOEEyazFhVm9rNUpFcVhEZldTVmRTZ1h4ZnFlU2h2Yk8xMTg5ZTR2S0R6YzltT0FBSVEtTnNlWENGdXRHRU5vUENTWk13eHFxdTZjRElmcm95cUlmcGNkeTRodHhYQ3BEUkVrZHpXSm13QWJRb0YxaWxQQ1VlUlRaeUllN1pCSFI1RlVHVGRjWlJOX1hGenpkenQtODlZNjBndzEzczg5cFdGdTN2ckFzOFdRR0FsOG1oOHJ2ckFrOHZwejVJaGwwYU9pZVdFRVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdy1oc0htUFh3X2pHZEh4dGJOVzRrLWJ0dFhnUzczTk4xQU5KeXFKTF9fLVZXczZGaVBDeDJlX0l0QzZiUGlCalYzT1JyajQxTVAwSXhiTllVajE2M0x1MjhPRnRwdHpkdHRZcllzb0Y2VkNhVHd6NTJoVHlTOHc1WUdBbkZvSkJLSnF0VjIzSVd2dnRaRHYyN0RSUjZaVmJYTUFnVzltdHA1VXVpcFFFenZ1c29GQlJTcnpwMHlIczh3SU1TcmgxcUNsT2pHQjNrWnREOWllNFFkd9IB3gFBVV95cUxQaGpyMTlZT3dmT21ILU96bDd4WnQyTk5wSHIxLXNKMURsMDEzNjNNVVVfU0hvN3V1Ry1vYTZPMG1fc20xOHliZnhkdlRncjNzTC1vTGtPRmdaWEhNck1hRlpzZGIyZFoySTVySzc1QWVPSkJHTU1DaXJMZWdMbkpxbV9QQWRPRmxfQ05YdkhsejY3ZEpvdENZZVpfZnBXVUsyLXlFelBLMUF3aUI3clktaU9VdDhpSkVvdDJ4WUd0WTE3SHdXcGs5SHk4QzFRZjVlTUhXaUlCWklCb29wYmc?oc=5",
       "date": "2026-06-17T19:51:32.000Z",
       "kind": "press",
       "lang": "en",
@@ -60,16 +70,6 @@
       "match": "Pathankot Mandi four lane"
     },
     {
-      "title": "Land acquisition not yet started, Parour-Padhar road project in limbo for three years - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUlBaYzJoQ3ZMUzhQUVdiSEE1S2otLTREa3loTGk4VVhCZDdHa0k0SEwwTmVMWWJWVm5QZVRQZGM5b0NHcVg2SVpLZVVEYlFBV0RJSkZGczZUVEhtQWpjbFVST0hCOWlkRS13dW9RVGhUaDBPeGpGMUtjVGl1RE83elNmR1BGWVBibnhZRXZsNWpJOHFBUDNTMDU0V2ZvX3FabzBRRFVZLUZ1bk1mbnhiQmdHRFpvczNyVWk2TjB4ZGY4QXpLS21n0gHLAUFVX3lxTE1FakZhY3JzZFN3TjBubXFpcDVIZ0tPWWlEa3VkdnJFY1l2U0FsOVRZeHFGa1VfNkdzUEdBU3llLWFBQ0JfSG9uSi16Q0tUVVJrUGxPTWI0d1dKU2VfcGFHcnlNb3V6X191eGN0WmtYU3o2cmlHZ3VfNlFzWmctZk9BYU9GdXZyamZoaklhTHZQcmhWUnJYLXI4NEt3ZlNHbVo3WTZVdFo1TnBjeEQ5WFNZZmVDZUF3Y3RtVFB1RTdUMDRiMDdfQWd1Rlg0?oc=5",
-      "date": "2026-03-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
       "title": "भूमि अधिग्रहण शुरू नहीं होने से परौर-पद्धर सड़क परियोजना तीन साल से अधर में - Jogindernagar.com",
       "source": "Jogindernagar.com",
       "source_id": "google-news-hi",
@@ -77,6 +77,16 @@
       "date": "2026-03-27T00:02:55.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
+      "title": "Land acquisition not yet started, Parour-Padhar road project in limbo for three years - Himtimes",
+      "source": "Himtimes",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkhuVks3V1J6QU9DTTd0MlZhUDBWQUw4Y1psRmp4eV9QdmUyUkNXSnRZZExKdDdPLW4wVXhqMV9OaDFiRko1US13MUl3eFpESGpYVkFEQnlhZ0R3ZzI3ZWItZDREa21oTHEwTGpxRVFNZVhONVRMWHVsMDdvaElNVEZJNllOZkhpb3VIbllyUkt0eWs5Vkc1YjV4MW1XaEs5YlN1MmlGRXR0dw?oc=5",
+      "date": "2026-03-26T23:51:26.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Pathankot Mandi four lane"
     },
     {
@@ -103,7 +113,7 @@
       "title": "One lane open for traffic on Pathankot-Mandi highway at Jassur leads to long jams - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGlHZDlick9HMk1jMC1MeldjSWsxQzFVRlFyU3paNFVtVlN4dVRDdkU2TTctQ25HQjBpYlM4RDFGMXhSQWxMb0Y3bGhxTEpzZjZldkU2QWg5SC1mQW9wUkJtV1BILVNtYUlCR0Y2LTczV2wwOUUtTmdsbm9fUzZfc2tDVGFSOTRDbVJnRk1ncTBSNGlZb1BDV3d5dUhOcUN4MTNUWUE4c1B4blVjRkRITXBVRWxxV0VNekF0aGU4MXdCTjA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGlHZDlick9HMk1jMC1MeldjSWsxQzFVRlFyU3paNFVtVlN4dVRDdkU2TTctQ25HQjBpYlM4RDFGMXhSQWxMb0Y3bGhxTEpzZjZldkU2QWg5SC1mQW9wUkJtV1BILVNtYUlCR0Y2LTczV2wwOUUtTmdsbm9fUzZfc2tDVGFSOTRDbVJnRk1ncTBSNGlZb1BDV3d5dUhOcUN4MTNUWUE4c1B4blVjRkRITXBVRWxxV0VNekF0aGU4MXdCTjDSAccBQVVfeXFMTXQyX1FlSFZLTGhKZDlWVHhzQmFhbmdiYS00YkVzZ0lKOEJBSXVuYjRQelotemFSWnhaSS1tS3JkR1ZaS3hMejJxcG0wUGV3bGo2UFlZN2RTMk5RTmEwOFNRR00tN0pYT2FhUS16aXFSQWhEY3R3QWJDLWR4cGtCUzRRc0ZxX2FsWGhvS0tLQnVBTFl6eXB0RUY2SkUxT3QtdW5aV0VSWlkzRWVPMlFESURWckhldEx6dnNNRXpiQ0ZpakNnX054WQ?oc=5",
       "date": "2026-01-14T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -130,10 +140,10 @@
       "match": "Pathankot Mandi four lane"
     },
     {
-      "title": "Pathankot-Mandi FourLane: पठानकोट-मंडी फोरलेन ने रोका विकास, अधूरे प्रोजेक्ट्स से लोग परेशान - Divya Himachal",
-      "source": "Divya Himachal",
+      "title": "पठानकोट-मंडी फोरलेन के अधूरे प्रोजेक्ट्स से लोग परेशान - Jogindernagar.com",
+      "source": "Jogindernagar.com",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSXFTb2JlYU1wcTctX05Wb0ctdVJKT09RVEFWZWNab3ZWbkdwOWk0RGpaLUxUNXFFYUZuQnFrV2RlOWpFaExuNjJGZWVtTVRnWWxrOHFscTcxVFV6WGFwUHNCMHgwVUFvcXRUVkxIcEtMRlV0VGtneF9ocUV2VTdZdFNQZ2stZ0I1OVpDMmhDYmdrendfSVNETWs0WGVvc1hJaENjWnM2Y05nb21HQWoxZ0xZcjExbE4yUzkycmJDUWtWRlN3Rm1CY1MzdHpwUEFISHNZck5kcHJPcmtEZ0RnVW4yak1GT1MzSHA5cXBDZUFFMXpHM3V6enFVRGXSAYICQVVfeXFMTUUxOFl4MUlGd0R3akQxcy0wR0E2dE9uTTlmWjV4dGhBSV9KV1hfXzEwYnI5RHZzc3RZWTJhNmx5LXpyRHJmcmtvdjRxR3owSC05UnI2eHA0VHZtaXg0RERSZ19VQl9aQUhCQUNFSjhUblVsWVpudThqWHZTeDdmODlpSGlmLVRDVFQ4YWdMMHZLUGl1M2dtVklYaVVZWngtWC1jTk5yZGdTUWd5NUNyVENaNWlpOXhtcmZBZGppdHRmbFZKR2NUcEFUSEt3UzRwNmxMb1U2enpQWWVWcDFDT2gyamUtMmY3MDdySGRfdlJydzljd09SOUpJTW5CNU5RN0Zn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHIxRlR3OXBneFdLeXlkc050R3lOTmsxTXVEZVN6MUg2R2RreWNGdzdMVDkyVjFoVWZqZWRRMnBGOEdnQ0pOWmUzLXB2WXV0SF9FVGdac2lwSklTVnk1N0xBU2xKOWsxZ2ZlUGJuZkFxcFFQR0gwUlptMmFyRTRsb0VnNTFvWWZhZnRHR1hLQjEtbURwLWoxd0MtMTVlWmluLXZJZ2VoQVlXb2hMdkJ4dy1GamJYS250eHc?oc=5",
       "date": "2025-12-19T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -170,6 +180,16 @@
       "match": "Pathankot Mandi four lane"
     },
     {
+      "title": "Construction of twin-tube tunnel near Kotla on Pathankot-Mandi highway under a cloud - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdENud0ZJaV9XUURIeV94WVBYNThsR1NONHU5cUJqNGtDTnZLeFh0bGpyQkppeGFJdUNVRS1FSHp0Yks1cFJGaWpNcVdFOWxtS3A4N3RvMVZLMFRjWDg3NXVVczRQd0ZOdDNsc18wOHUtZ1FFRTJoekw2alVCdm9fa3VnbUNVNVlpSlNZeTFfYUdWaVluU1pndFF2UTR4ZVliT29tR1FhX2FkVjgtWTk5WWpmd1FnY0w0UlZDenNwNTZJNWtCam0w0gHLAUFVX3lxTE43M05abkRSdGFqTENmbS1Fd2NicWg4Z1NxVTZBNjl0ZUx5UllYUVpnVm1aQTl4SnR0c3BjaW5OQTVVWFNvM0g1RzRzM21PWlNaTzBSeHVlcmJuZHBzUXlLeGdiZV9VdG43M0VsLVR4SGNxc3hPTFMycTFEejFmYWF5MjBFRTR5S0NKVkxWdlFOX19wUmtScFZtTXp4Zmdia0tEN2MtNC1GamI2TXU5SUpOR2JTRzRXSVQyUWhWaHFVRVM3aHkzZGpjc0V3?oc=5",
+      "date": "2025-10-23T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
       "title": "Pathankot-Mandi Fourlane : परौर से आगे फोरलेन का दोबारा होगा टेंडर, NHAI ने की तैयारी - Divya Himachal",
       "source": "Divya Himachal",
       "source_id": "google-news-hi",
@@ -183,28 +203,8 @@
       "title": "Pathankot-Mandi four-lane work turns daily commute into ordeal for residents - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkxTeFZDcmhBeUZhQ2lsYXZTQ3ZoQ3FpUjVBZ0diVGZsOXplWVBtZkFlb0F5OHBoRWNHeDlZbHBxeVNmcnhocE1SVFZBTWFFd3BJamdZZG56UkUwU19xdUFjd0cxRnBWNEdqclMzbzVUZkdFT0Q2c0ZTVlR0UEdCSmpRbnBSOFZjenczYTc5QkotaUQ3MDhDVEFDc2VLOTNzMFhSUHNoUmNJek9kUFEycDVJQmc1cmstMzJybw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkxTeFZDcmhBeUZhQ2lsYXZTQ3ZoQ3FpUjVBZ0diVGZsOXplWVBtZkFlb0F5OHBoRWNHeDlZbHBxeVNmcnhocE1SVFZBTWFFd3BJamdZZG56UkUwU19xdUFjd0cxRnBWNEdqclMzbzVUZkdFT0Q2c0ZTVlR0UEdCSmpRbnBSOFZjenczYTc5QkotaUQ3MDhDVEFDc2VLOTNzMFhSUHNoUmNJek9kUFEycDVJQmc1cmstMzJyb9IBwAFBVV95cUxOdjZMdzktenpVa3lsX0xPXzdub3MzM2NzYlBKQlU2YWFGRWd4UXFzWDF1Z01mQlJtQmNLM0oySHhzdDlxVDZTNnlUcXZMTkd5S2hKMkIzRHZOa0J4VWY0OG1aMWNkWWZSU3ZXRmRhY3dHWkVQbEI3UER1LVRVekQtb3pSX3E0ZG44bzFLSHJmalVCbXRqM19vazBPbEg5UkRCVkxTMUlxNXIzT3JhX2taNlpvcnBqdEdLVkhKRExvbWc?oc=5",
       "date": "2025-08-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "Crackdown spurs revival of stalled Pathankot–Mandi four-lane project - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2xmQTZQcXZVN05aV3ZHN2dCRGItMXk2UlM2NXFUMjIxMHE5a1hrYjRFRlBxcE41Q2VabEhvRlBwdF9LaWdjNEQtMGVJNXhPaE1Yd18zS3pKQ1hDQkRZOHMwZkVueFhBTE95N2xjWEtYYmZqSlR4ZzZtSE1DanBaYWVYQXdXclJTUERMdDJEMm94QzBZbE9NSF9Md3NwdWZaRGpZTDJQZnNLODFHV2lNY2JB0gG2AUFVX3lxTE1sS3ZQRzFtSGFHVG55d0oxMUM1TUcwQUt1REs2cmpNb2pwUjZrSnkyY3phUGZfS3ZEeG13RnhXMkx2b1UwMmFUQ1F5N2xHUHRDUmttX3IwODZlYjRERlpxRDZ6d0dZVDhfQmZwWTRVb0IwbDNSb05jN0tqQmJPeVdPN2t5ejBfaVQtOEVraW9yT2J5TjRheU1XbHVoWlBtWW4yLWRBQWQxX1hjOWtvQjhLYmpKYUFn?oc=5",
-      "date": "2025-08-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "NGT takes suo motu cognisance of unsafe widening work on Pathankot-Mandi highway in HP - The Statesman",
-      "source": "The Statesman",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdjZ0RzN1b0p5NWJBaTJWLWRidlg1R0RzeHVPVm5YRW96NUdma2d6MWdRNC16NkxmNXNoNm1TT1hHUnZnbEVkanVIMGN0enk3TllVQ3luZHNhZW1EeWo2S000UkxwdFVuM0NTSDZBbGZGV2Q4STRFckNtUGNyXzRCUFk2akFBdFZyX2p1cmNWRWFoTzZQWUpyT3ltdDhLdUZXbUdSX2tWTEpXSG9VNlZaV1dCV0xWYU5zYzlkYkd4R0daUEdrR2xueF9MNW1ORm9Ia09v0gHYAUFVX3lxTE53dVlFbFJFZGxSV0NOeUVKNzJHUnUzMU9abl8xOFVkX2JVYkFRdjRxbllmQ0dIYTRabXNqQkRraEtYeEF1a29xUnh2N1pUMU5lSkg3am8wRVZKUEhwMmoxV1dCeDFyaGhVbU5xZ3F1Y1pobjFrX0tTRVhmSkJEUFNISnlNODNEUmZZWHR6QmZkQWwzLW5IZGxveGgxOU1GWldYMFl5eGtLWHpDS21kMlhnZEkzQnowcm94Y1RJNGlqMGFfcFlqTDhiQWptN0l1MDJtbElQZU1URQ?oc=5",
-      "date": "2025-08-12T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pathankot Mandi four lane"
