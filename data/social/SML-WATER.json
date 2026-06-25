@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-06-22T21:29:41.168Z",
+  "updated_at": "2026-06-25T20:53:31.101Z",
   "project_id": "SML-WATER",
   "counts": {
     "press": 20,
     "gov": 0,
-    "en": 10,
-    "hi": 10,
+    "en": 11,
+    "hi": 9,
     "total": 20
   },
   "mentions": [
+    {
+      "title": "Shimla News: चार हजार पानी का बिल रद्द, जल प्रबंधन निगम को देना होगा दस हजार हर्जाना - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHlQQkQ4RU1iSXlaYURKUGJ5SzJlMWJXd3JrVmVOVjFqVjVxOFpya1lFX3lPRERoM0M1VUFNdlBYcDBCdk9iZjVFR09YU3I4aTR2T0trcXRCVzM4SHpWWlNyYW56OE5PMFhuSGg2eWR1eHhOVzZleUN4QzYwN2haelpZRWZqcHJfNTlpOGU2THJpUWRtS3VVZUtjZVlSUGvSAaQBQVVfeXFMUDRqZEYxNmtUWlhZYm90WDJiZDZPOWwtWXBSNkp2SGY0ckRXZkJBenpOYXF6SndIdmh2WHBRbER3bHJlbVZTUXlFaEhjYU5zNjhycW0wTU96QW5ZdE80WjUyUkdtd1QyUzNwcUNNV3oyVUJJSGhvXzhhT3ZVUkxkTXJyMWgzbzBwZXN0UzZ2alZyckNHZzRrLXRVeUZ4VGJncXJ0ZDA?oc=5",
+      "date": "2026-06-23T18:24:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "Himachal govt agencies fail to pay Rs 5cr environmental fine, NGT told - MSN",
+      "source": "MSN",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1h3STVfd2d3akh5Qm0tWk4xc2tjZTdoSVN1Y0hZSm1GeUVja0UzUldZRFNnYWxRMm1oc045OU5Vd2VJMTY1Rk5yTUh1V3AwVVNRbUd3MWhlaHFoVTU4clVkVnRDUElaWkMtZDRpeEJXdm1kWVBDQXZGcFZrZHZzX1Z6R1o4WE5fNV81cnFsSnRfd0RDMHZiSjFoN0g0bXRmR3hVRl82emhLaEs5Z3ZCM05YQ0g5VzBoMEE?oc=5",
+      "date": "2026-06-19T21:27:44.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
     {
       "title": "हिमाचल के इस शहर में लगेंगे पानी के नए ऑटोमेटिक मीटर, उपभोक्ताओं को मिलेगा ये फायदा - ETV Bharat",
       "source": "ETV Bharat",
@@ -20,10 +40,20 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
+      "title": "हिमाचल में सरकारी आवासों का 2.88 करोड़ रुपये का पानी बिल बकाया, खाली आवासों ने बढ़ाया जल शक्ति विभाग का सिरदर्दा - himachal pradesh government housing projects outstanding water bills of rs 288 crore with vaca - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOTk53aHRqclBMTEVhc09jTDRNRkJqZWE4RVdqdFhkdmFyRGhjNVF1NXJrUDJpWGFhV3lsZ1J2RUluM29BZTRDcWVIbXQxMW5obDNDbTIwdnMzMnd3RGM5MDlILUtJY3BhSTBsdDloVTdsWWVvdm1lanFQWWl4c2doMjFjdnZfY0ExMGY1Nkh0MWd1M2wxTF9heGRBdGgzRFJSb1JOQlcyeE81cDM3aFZia0h2U0V5cURYSU9KX2hkREpCaGI1ck04dDRSZ2tvYlp2aHFrUFFRYXE2c2JTd3FTRFVYOHNJTDR6MkxXLXBUQnBhX3AxbzM5WC1xbEZIc1JLUHZlN1NuSXQwUnBDVjZael85NnBMcktzQW9JVFdQa1lUcHVKSXlETm1fUUdXRHo4?oc=5",
+      "date": "2026-04-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
       "title": "Mashobra becomes first area in Shimla to receive 24x7 drinking water supply - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVUMxTEJpY2xydmRKQ25sR0p1WUJPdE9mazdrazZjZkg0Y19vdXF1UWhLM2JZU3hKUGF2bWtRc2d1eHlHaWlWSDY4Y3pwYmdwaVVWa2NjTWpMN01xSWs2VHJsV0FrRkV2WlJpbFRkRjM3clZ5djJTYkx5T1lEWW1WUXF1aE5hTldKUzFLMEc1TEs1cU5Oekhnc0pDN2hzVmYyOFhCRUhVeWpsRTRqZ0VXWEUwRWgtNVVhelltRUtrSFhoSDlUN0IyeA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVUMxTEJpY2xydmRKQ25sR0p1WUJPdE9mazdrazZjZkg0Y19vdXF1UWhLM2JZU3hKUGF2bWtRc2d1eHlHaWlWSDY4Y3pwYmdwaVVWa2NjTWpMN01xSWs2VHJsV0FrRkV2WlJpbFRkRjM3clZ5djJTYkx5T1lEWW1WUXF1aE5hTldKUzFLMEc1TEs1cU5Oekhnc0pDN2hzVmYyOFhCRUhVeWpsRTRqZ0VXWEUwRWgtNVVhelltRUtrSFhoSDlUN0IyeNIBzAFBVV95cUxPNEZZakpCbFQ2MWgwR296VFlGT3ZqMC1sdlk3RG9HZ2I0Vy1rcnhVaWRUZlp2YllTazFYMGlJblp3TWg2RWZKSWVOWlN6WEQ0TUtrRnZLV3JxSFJ1Y1VfOWJaMzZXd29HRUpEWkIzMHBVcjFmQW9SbTR3R2ZjUFZOQ3RsYVY5YUVwSUlNeDduTEJ0S293Ukt6LUhtMFRONTJXbG9VZjdtSjl2dy1xMUNlbUFyU19BX3dGUXNWWVZidFhrSllBYnRnZTJsR0E?oc=5",
       "date": "2026-04-13T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -60,21 +90,11 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "शिमला में महंगी होगी पानी की आपूर्ति, SJPNL ने टैरिफ में की 10 प्रतिशत की बढ़ोतरी - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRU1fcUlEMGhyeDZlUEhhcEszOTFUWlFrakluUUlKb0E2NnYyTnV3czFJWE4yN21tSkNZNW1qQndjS2R3SjZGSmlOQkd0UHJzbUplTkxfQ1gtVDZEakVsMHY5T29FMlVoOWdURUQxNVU4ZGs4SmlFYnQ0dmFRcHRjNnJZVXhuZmluRW40NkFZWkpTQ1NlVktNdDlyd1NJTGV3YkNhZVNhdWlsX3dHZXZKWWNSYjJCM0pDYVdORDNOUE90S1VYOW1zdWtBYTg5LW5nc3FtSkNHbGhnN0lIaGdYUVFZc9IB6AFBVV95cUxNR19pYmpwYWJBcUZmd090eW5vS1ZNSFVkeXE0NnQ4b3RjZVV1LTlsbHZPY25ZaXdySG13cUxjWmFJbHJFYjAzdXNqYXlZTDAtRHVhNzVOWnNtZnJtcDR3NXpCVUJvZmFoN2N6Z1RHblF3V2lmSU5KdGRoelFRYkI4Q2I0NF9pemI5cW9jMEd2VEdpUXJfS0RnS1ZHZmNYcDU5aWcteGZDZWREeWtuU2otMnktd2M3U2RqU1dsUElHWGp0MDdyZnk2S1o2T1E3ZzVMaDdQb3JQS3JmYU9nSmFKYi1lc215SHB5?oc=5",
-      "date": "2025-04-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "Shimla to Get 24/7 Water Supply with New Storage Tanks and Smart Pipelines - HIMACHAL HEADLINES",
-      "source": "HIMACHAL HEADLINES",
+      "title": "Shimla Water Tariff Hike: Consumers to Pay More - Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbjJkSmoweDRCR01QWV9RdUdLTl9vVFBJZnBncE5RZVNfWVozZlU4Wk5jbDBuWFRzZ1dCZktwQzlKNGRTM2VBZnJ3YUJiLUZ2UE94a3VkcTNqSDR1NGhSMXdyNGs5ZVAxVHBvRXNnZW5lLUZaV29MV2ZwNjFlX3dtX2VsMzVUQjhLVG5KWVNRc3BVMU92RzgyWWVVS29XWUt2QmxDWTBla1o1bmNGUGo0?oc=5",
-      "date": "2025-03-24T00:46:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlVNN3FZQ1YzYTN4SnNSYXpON3pYWnRCbzNfWTBNOVFELTR1SGotblNHa0pOb01tYWlKU0NZVUtNVTFMQ0dXX3dIeDBZMEhCUUhYWWk4bVVya1NzczhaNkVsRm1TbEVBNG1LOE00dTdDajlpbzJZWHQxcXpiblA5a21UeHNSV245UENxQVYtd04zMmVqYzc1SUlMS0k4UlHSAaQBQVVfeXFMUGJTeXU1WHJ4ZlIzWGhGZ21SMy1iajRmcTNUTzlkMy1uMi02Z2RMWEExZGJOU0Z3SVlTX0FnRHBSb2EzdDFpRHpXY0R5TWNEbW4yb0VQYkVCSU94UnlNalpNTExxc3BucFlla0dPVVNxYi13MlJKRlcwcUplcVNCbkRsYXhtdW5TTDBmeHRjV0hNUHBxaEdueGROVUFCdEdFWVdEeW8?oc=5",
+      "date": "2025-04-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shimla Jal Prabandhan"
@@ -90,10 +110,20 @@
       "match": "SJPNL Shimla"
     },
     {
+      "title": "Ex-Dy Mayor seeks shifting of Winter Carnival stage in Shimla - The Statesman",
+      "source": "The Statesman",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTnIwSEFtNGIyeHprcmxpb01TendpZjh6NllKNnlYSEhVenZMeU5yMFlZNFF6eEpkNVJsblBTVmdYRWNxTlBKT1N1TnBFbFA2SkY5MFdVbTFqYlZwWVJQQ28xckt2RmxNeWV0SXRZT29RSnBDWDJFNklfaF9VaUFKVWZvWGNJUFJDUTBKZDFqU0M5SV9CVFY4ckI1dWZKbHNsNExDZjJCREhjUGx3cmlCSTRB0gG3AUFVX3lxTFBZT3pzNHl6ZjFkOFZGaEFpakhlSHJQcERta0lvX1lhMVpNU2VDN0hwMjRhcWhHLVoyZzE4LW1TbllmVjJHUktBVGJGNktoYUk5ZEV4N1A3R2E5QUhnb3pSNkxjRmlWbTV3dE9zeVJWcUlOVDBpZ3l1bnN0MG9oMllMOU1qVFRVNHEtYkZ6S2VsV2wtdnY2ckpxQU1kSHBFZnY2WGRwaHNtT2VjMm94eFp6UVBXNWV0WQ?oc=5",
+      "date": "2024-12-25T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL Shimla"
+    },
+    {
       "title": "Giri Water Supply Scheme: Shimla to combat water shortage with new tank - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkxHWDYtMUV0bDc3MGN4WS0teWpZd0NsZGw0Szg5SUtDNTc1dDJsNGRGZ3ZHWF9nRjJEaEV1dHRoNFotUVVybUduQm8wbVg2WndZX1ZjRWxWS1ZaVDJYZXhneTN5UkdicERyN2haZFBSMEtjTFpBOVNNblcwNml3cFdJWGR0V0NFc1BRaVdfU3k2ZTFsbnpVZ3ZnUWg4YXQzNmFuUGtZblRfVFR2eUEwcDZwdHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkxHWDYtMUV0bDc3MGN4WS0teWpZd0NsZGw0Szg5SUtDNTc1dDJsNGRGZ3ZHWF9nRjJEaEV1dHRoNFotUVVybUduQm8wbVg2WndZX1ZjRWxWS1ZaVDJYZXhneTN5UkdicERyN2haZFBSMEtjTFpBOVNNblcwNml3cFdJWGR0V0NFc1BRaVdfU3k2ZTFsbnpVZ3ZnUWg4YXQzNmFuUGtZblRfVFR2eUEwcDZwdHfSAbgBQVVfeXFMUFhaRXZTV19GTzdzX05oaFZKV3k5aHEtWTNHT3EyMXlVcTRxTENkV3A0aUdreGR6bU5YaGNxYzdnUGtXYko1a1ZQSVVGYmlNdmxMWDZMUTFYa25BSWtZbk5jOFR0ek1qQ29oUXRzaGMwSERNcnpSYXpiY0t2YkloZUQ3WllXdlh3Vnk5RFJuc0p0SWNMZUtWalExVjZYMFhROUk0RVA2eHc3UHNDRldqMXB4bndwNGdraw?oc=5",
       "date": "2024-10-18T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -105,36 +135,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlBVZ01DVy1zZktQcHFDVnJ1QVQzd25LR2FnOWxodXpKeUVQUTA1SzhsN1RPdmo4MFJRVnJKNm9WMXdYWHBHNG0tc0hsbWFfWF9pNXNpRnhONW9fdGxORmIwWlQxVWJ6UlZJQmJsSzNtZm9kWkRvNURnM0FXR3RMZEV2T2FSdjBLa2UwUW5vcDRYdkpYV1lETzhYeWxPd1VZeW1DOXlVSTFxeHhwY292UlRaOXZGbm1BYVdNaA?oc=5",
       "date": "2024-06-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "Shimla's ex-deputy mayor seeks SIT probe into tendering process for 24X7 water supply project - Republic World",
-      "source": "Republic World",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcDlINDRVN2FTMDVBeEZ3RFRxLXJ6NnBIRGdfdUFGRXdjeGNkQVdHZnFENGlTNjNZcXZ0c1NlQ1lmeEJHVzFFaWFhU2ZLU3dKLW1pSWJGekVGMEtSUXNTQnlaNE1jSjFfeC1nNGJQNVBfdDJQS1FtY1pPaUYta3JPVUUxQm4taGpKQVJCOS1UdW5tWUxQSzFIYmFxTjJKN0N5eHlkM2ZqVGl6SXlKWElqM2NPdnVLNTdKNkhqQUF0clVHMUd0YVBwOFhmVTU5U1lDSmZCdER6c9IB3AFBVV95cUxQSkxxdVZvcWh6NnNzOFo4bnlldEc4Wk56bklLOGxWdFdfVkJKTG1jV0cyd3A5aXFiRFpONXp3VGtWQTlUNVVOT1hoc3FRb3Q1YVNxWTVQdGhIUmh6dVpsMUo1N19CZ2xERjFSQ0tXOE41V3lONUhmc19OT3FaV1ZNUWg2SlRzeE0yNF9kRVRmb20xUXFXOWd5U3F1VE1IMGZMX2tSWHBjUmdTM1NfMHRVVnpMYm5lMDU2X2wzREhZcmR0V09oSS1BNld5WU0xMlpTeGJGWF9VTUtxVDdz?oc=5",
-      "date": "2023-08-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "HAS Officers Transfer: एचएएस पंकज ललित संभालेंगे शिमला जल प्रबंधन का जिम्मा, विजय कुमार प्रारंभिक शिक्षा निदेशक - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQWVvcG5yQUR5OXB5eWwwR21pY3Fidjh6Z0FJY3R4VmN0NHQxaUVUam80VW5DRVp1LUFhaTE5dmxId2hFS1ZMcGhiSHVHNEtRSFZUQVlQVVhGSFd1MHFIamRXODRzTm9OYVYya0EydU9kZnJqM2RGVEtKQkhYeTBOdm9abjR1LVRnb3RpWDdQemtXckRhcUVBQzNWZHA1ZmwwYkI4M1dwb0dDdy1UNXpiSjA1NzkwRmp2TlY3RDhRRjFmM01WUC1KS3hB0gHPAUFVX3lxTE5wLW4wSFl2Q2Rndk5uY3JUaHo2b2J2OEFHZVdEeGFWN0hEU19rSElIZllEc3NjNUpWbk9nSm85N2FTUG5NaXBzMVA0X3pVd3lHeGhPcjJzaGc1cWF5SDczWEVVcm9VZHI2YklaTXAwNmUzMTc3UHJCZFczM05LNkZDMkNfVVFvVWtsVmR0RmdaS09yeVppNEJtRWpjWlFKVUNQeE5pcGFsaXN4eWZDQnFqT3g1djJJRUVIZjZvaEp2aV9NOTJKUXR1bmFlZHQ3WQ?oc=5",
-      "date": "2022-06-22T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "Shimla Water Crisis: पेयजल स्रोतों में जल स्तर गिरने से गहराया संकट, अब तीसरे दिन मिलेगी पानी की सप्लाई - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMVlFQlJRY3hMb0FUN1ZPXy1fbHFzb2NPZzE4Tm1CbG5fZnNSbG4tYXZnVkduRTA1cVVRbTdSX2JYNXAxWVhXSl9yUUNkNVRTLXdVN0tjQWw5WEE5emh3UmhuZHNrRi1jajByQXRvR05rOEFVWXpEakFzb1pETTFZVmllVU1UbTVCSGN1dDhNdkF5VHFKVnZnQklGN2I3c1R0MVJMdmg4TC1FaGM1S3NMT1gzS0RON29lQTgwWEZpSkFMTzR20gHKAUFVX3lxTFBoNjhLbThmOWtiSHNjM041VFUzUDNDMUhMLXhZRXZQTk0xWkN5NFkxUW5rRkUzZThHdnpPdGpUY0F4bE5DYmZyMXRoQ0pndGwta0NVT012Ui1TQnRKOGR1SGZqalppWkdIOXBOV3ZSZDZrRkJaRXYxVXBQYWVJQXhxZ1oxTjlGR2hMLTdyX293ckJjandWVDVMLU90RnRHT0gyQ3A0VjA4a3EwaWNjUVRIZG03eFRnUVlOUUNTbHhGSjMydk5iVi1OTVE?oc=5",
-      "date": "2022-06-11T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla Jal Prabandhan"

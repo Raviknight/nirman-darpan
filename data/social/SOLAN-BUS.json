@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-22T21:29:58.603Z",
+  "updated_at": "2026-06-25T20:53:48.963Z",
   "project_id": "SOLAN-BUS",
   "counts": {
-    "press": 7,
+    "press": 6,
     "gov": 0,
     "en": 3,
-    "hi": 4,
-    "total": 7
+    "hi": 3,
+    "total": 6
   },
   "mentions": [
     {
@@ -37,16 +37,6 @@
       "date": "2025-10-10T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Solan bus stand"
-    },
-    {
-      "title": "चार दिन से बस स्टैंड में खराब खड़ी बस - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM3llNUJyTFpZS1NfeU1Od0RGeGtmSVlKX0ktcUxYNDlia0V2NktHdXgyTFpOU2UzQTJLZDVyTTF1c2p5OGRBalhOVzEwYXZlN05HNHVRbmUwRVBSMUtmWGFfZHBpRlNrd0hYYVEzMjNmeU5sQlNwaUFLZkE5LWhIWUhBSE1Ea2c5bTRRRFNfOE5qdjJRbFZJbjM1TDFPYXVRX3fSAacBQVVfeXFMTTRjZURSZHVYOWEtQk9FRGdFNEYwZ09IY2RIcXRpYkJRM3YzNmVsNVByOVQ5eHo0bU52Z1dBcF9LMzFLR0IzMFhPejNsVm9VWnFrNzlFNG1ZakVsdi01ZWlWTmY5X19OdEpfSVg1Mm5mWVhHbXJhUEFOcllNaFlmNVJuNURIQ3c0ZVEtMlRYQjRXUm1HOUlXeFIzQ2llVU1ZSUtZSE1HZ0E?oc=5",
-      "date": "2025-05-23T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Solan bus stand"
     },
     {

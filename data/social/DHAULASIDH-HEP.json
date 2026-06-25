@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-22T21:29:24.796Z",
+  "updated_at": "2026-06-25T20:53:14.114Z",
   "project_id": "DHAULASIDH-HEP",
   "counts": {
-    "press": 24,
+    "press": 26,
     "gov": 0,
-    "en": 17,
+    "en": 19,
     "hi": 7,
-    "total": 24
+    "total": 26
   },
   "mentions": [
     {
@@ -54,6 +54,16 @@
       "source": "The News Himachal",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpwYTBLZjhyYlF5N2EyYWpVMWRSNmFjYVM3ZGpzZWh4Vk5tUWkwbmxGWGw2NlNLcFcwZTNzdmtTem9sS2JwT2tPV2tXTHBCYzhGM1Nka29acmpudlh4ZzNqQVFLMUtIbm44QWRaS0pwcHJfcGFzOGhFQ0dKejB1ZzhHOEFMRWNNbVFvZENuM24yT2NJVE1tZHlJd3ZuNXFIcmJ5NQ?oc=5",
+      "date": "2023-01-29T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "N.L Sharma, CMD, SJVN commences Dam Concreting of Dhaulasidh Hydro Project - HIMACHAL HEADLINES",
+      "source": "HIMACHAL HEADLINES",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzhIY0JDS3hVazk1cV9hMFAxME1xSElWTHVqdGQ5SVR2ZTZTY0NlT2pxdDYzYy1BLWo1Mm82cVduMVdwOVhDRU45b3pMNW1vNmZfUFRyS29QQkRiS08xdld1YWhqYnJuYkdmV0FFWDVpYTI4VG95cGVkVy13YmNRdVQ3aEJDak1IVkhHdVE4Z1QtREZUZHpPYkVJak9YY0JCcHJxNHFuN2Q5Qkg4?oc=5",
       "date": "2023-01-29T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -110,6 +120,16 @@
       "match": "Dhaulasidh"
     },
     {
+      "title": "SJVN CMD inaugurates upstream Coffer Dam of Dhaulasidh project - PSU Watch",
+      "source": "PSU Watch",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVJmTUt3QjRpMjZLaWRqWE5FaTdkVnFva0lCb05nZkZoZ05fX19yWW1DcXA0UWdYLTJLcU54YnprZVJzWHZpTXRNbGpVODNzd0dWaVh3YklDYXp5Y2Z4QUlFc0x6OThleUJmbE5sclR3YUNydFlLc0NzLUd6TTk5VWVPYVdIU2FKb3pzcGxjRkI0T0VYa1F5TkR30gGnAUFVX3lxTE55Sjd1cW9hR0lwbXE4dTZsMkMxZXJCSU1TLWtRWHQxYml2Qmpsb18wY0FEb3llV1I1Y1UzMTNxbE9QbjYxRDJ4a3hfVWxzTlNVbENtT3pOZzBjOWVwRV9EeDJRR1VZa0lGQlZ1ZURkT3A0N1FlUU9Falp3cFlnLTF6RkRIQzMzVjlFRkM3dW41UUtHTVNUOGNreURSdnZ5Ync1N2p1VjRz?oc=5",
+      "date": "2022-07-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
       "title": "SJVN ties up funds for 66-MW hydropower project in Himachal Pradesh - ET EnergyWorld",
       "source": "ET EnergyWorld",
       "source_id": "google-news-en",
@@ -125,6 +145,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3ZiUVQ2VnFSYXprZk5YZko2QV9sR0pXUUtocU5aczZ0WXhyZktIcm9oOXRtZkVtZ3BzZUJsV0t4VUpxZjZWTy02R210bHlXajU5ZGRXUV9rbXZSTFVWWXR5ZVl5THc1TlR4LXdENmJ6NHYzbHQ1bjNVRENSb3NwTGpNZ1k3clM3MlhMcmpfM2RoYlNpVE05Ug?oc=5",
       "date": "2022-04-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "SJVN signs loan agreement of Rs 494 cr for 66 MW Dhaulasidh HEP - PSU Watch",
+      "source": "PSU Watch",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemtybmVGMnJpWkxYa3FOMnlXdV81WmowR01xNzFIcEdTb2ttdlRHeWtRNHQ4T0V0eTRFTjhaOU4yZGloczBJSHhjTFRSYlRJUVRUTlVaaEMya1FpNmNSVG5Yc2swa2FkbGZ2ZnFZN2F2cy1GUGEyaGFUaDNqd2xNYnQyVDVHWll0WFpjb0JidlVMMDZsRmJ4eEpMUGJ6TXN1TjJR0gGwAUFVX3lxTE9pRm4tVlRVUFR2RnExOHVwRHV4NlA1WjI4ZG9rQVIydldJamFwQkphSGpPeGpRci12NXdfaWMzNDBTTUQtazBGZ0ZvUVpKb2FkcERXak1LbWtfNGtBeU1Xa0puWUdDb2NaRm5UYnNzcXQwMW9FNUh2MVV0VVBZTTFxYmdvWEU3SjlRZ1lsNGNySHhkejFoUDd5Tk5UbWlzdDNHbzJBV3JpdkxaZFNyRmYy?oc=5",
+      "date": "2022-04-18T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dhaulasidh"
@@ -173,40 +203,10 @@
       "title": "SJVN awards electro mechanical works of Dhaulasidh project to Voith Hydro - PSU Watch",
       "source": "PSU Watch",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMTRjZzVOODE0X3dhUURjdmxtTXlZZVYydGZ6SHo5cF9rYkg4Ukw3LXhsQmhYbzRzUVdwbG5pQ1oyY0h1b0RVRS1CTDhESFBkMWVFalVOa0l5X2c4ZVFSQ2J6Q0ZpZWNKeGpPRm5acUh2b3NXWjg1TkZyeFRvZ19oQllzRWMzZnJyazRNT1pwVXU3T3BWVWhJdFA0cGVxUUnSAboBQVVfeXFMTlR4TmVGcGJJdl9lYUpPbXVDY1pFNG1mUFpnbG0yTmJUN1BhLUsyQ0xVRFJrY1lvTXNoSjVUSWRSQzZtanFTTi1Tamw4aEV2eWtNS2NVOE9NUVlHbmgyQXdCWVdSRnhJbVdrWEJoUW9iU3ZjdDlrbGtaS1F3Ry1STmlpSm8tN3h2cVpKbU1UckVVbjdxM0s4c2loVE1iYS0xQ2ZJS2lZSEYyS09ESGZ6Qnd4NlNaYVVMaGtn?oc=5",
-      "date": "2022-02-11T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "SJVN awards electro mechanical works of Dhaulasidh project to Voith Hydro - PSU Watch",
-      "source": "PSU Watch",
-      "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmRZSS14d0JFSDFKa0NDYkN3djVyODZ2d3gzWUdpNkJSVlUzZGFhS0tKNUFtUy1lRURsWjNFdEprVUZQRVRpbC1ZeTRVTV9KTFpISzV4RDZsWmFwWG5qQkdneDBZS2tncy1kT2cxMkxHRDlnRnVMQ2xySHpoWWcyWFBONThfSDh4WnVBZWt1Z3pHUV9hVllfa2RoRUNZSFd1aWFBTXRlODR6RG5j0gG6AUFVX3lxTE5UeE5lRnBiSXZfZWFKT211Q2NaRTRtZlBaZ2xtMk5iVDdQYS1LMkNMVURSa2NZb01zaEo1VElkUkM2bWpxU04tU2psOGhFdnlrTUtjVThPTVFZR25oMkF3QllXUkZ4SW1Xa1hCaFFvYlN2Y3Q5a2xrWktRd0ctUk5paUpvLTd4dnFaSm1NVHJFVW43cTNLOHNpaFRNYmEtMUNmSUtpWUhGMktPREhmekJ3eDZTWmFVTGhrZw?oc=5",
       "date": "2022-02-11T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "रेणुका बांध: हिमाचल में पीएम मोदी ने बिजली परियोजनाओं की आधारशिला रखी, जानें दिल्ली को क्या होगा फायदा? - AajTak",
-      "source": "AajTak",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa19ycVhNOGs3LWo0UVQzUVI0UlpVSFU3ZEx2TlpLNTh3OUxTMllqQ2hZd0syRkYwMWw1XzJNZGFtNFg4MEJNdk10UWJQcDZoOWtTNjlvdVZrY0ZLUDVSVl9DYkoyQ0tSQWFiRXFVOHpnZDQzN1hhaWxfdmhuSl9FZ1FIUjVLdXZqTG5IUkJkRjFaSUpYMHpYdExOTUpULTZqeFpDUUlVMDhBWV9qbVAzdENVREYwUjlmbzJfUDNKWWF4LW84dW00aUZpQ0VvU01BNU5kTlpyTmlpQmRZeFQ3Q1RJSnItOEdsTF9aVG0taW9ZYkljMjl6RktDa1o2QdIBgwJBVV95cUxNV0E0aWd3cVVCeE9KVTUzUDlXTk1UOE5DWmZReEl3Wkp1SWJiR1ZFVEZtUVB6dnhiWmpYcFo5SEtpd3c0eENTYkhfYkN5Sm1XODZxb04tazBXOXlmZzNOdzNpTHVfOFlTMDlmS0tmcUlyajEwUUoyWW5Vb3hmb25WU1haaWpfSHZZbEFRVGI1RXpxTkJlbktBckh5eVlqblpWQU5vc1p2ZU11MVVMeV96WFkxN1BKMFhQX1c2NG9iVy11SHM3Q21LYlg5dHE3SkpJUWVrSG1UZ1ZBRF9EczZfRjFDUVJCZ0d1MENJMWRzQndOT1M5azhhY0VFb085cjd4XzRn?oc=5",
-      "date": "2021-12-27T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "कांगड़ा और हमीरपुर के सैकड़ों गांव की प्यास बुझाएगा धौलासिद्ध पावर प्रोजेक्ट - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHV1d0Q0NmhVVUhZcHVaOGFXdm5rcTZFSlM1SXNZY1NlTjY1ampENXBFdnNISDJYMWNRd3VkbzQwVGIyWm1yMFpSbFprSVBCcmNZb2dKalI4V1Y4Vk00ZXNyWl9ENkEtR0Z1OFY3dXJxT25ucUlSa1E2dWZBSGNDZkZTSFBXMU1hcHlF0gGQAUFVX3lxTE9SbGo3NlBhOUlJZkFmNlF3YmhBRlpFZVdZNFVZUGdaR09ic045TmdKamxDZlllUDVfTGhIZlRtOUNfYnZTMlNFZ1dEeFktNVNEV2NDLTB5ejNGWkZXYmU0TEtkLVdCUFp1NUdtOUdielY0dVpRSnF6bXpvRnphc1lKTy12Zm1rZnFNb1M1SFJPaA?oc=5",
-      "date": "2021-08-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Dhaulasidh"
     }
   ],

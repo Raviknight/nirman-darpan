@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-06-22T21:29:07.014Z",
+  "updated_at": "2026-06-25T20:52:56.213Z",
   "project_id": "KGR-AIRPORT",
   "counts": {
-    "press": 59,
+    "press": 66,
     "gov": 0,
-    "en": 45,
+    "en": 52,
     "hi": 14,
-    "total": 59
+    "total": 66
   },
   "mentions": [
+    {
+      "title": "Rs 16.76 crore relief for 113 families affected by Gaggal airport expansion - Dailyhunt",
+      "source": "Dailyhunt",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNmdxYnRwT2JOTHZkQmhhTWdCSjQ2WU1ZOFRjbGQ1RGl4X09GYlZ3LS1vd0RiYy1MZU5GTGpWUzh6Skl0NUVBV0lHX243V3lxeFhTS2JWWjIzb1JZdlZuSTlpOWFKbjlRSW5yT0ZBVEpwdU1pUy0tT2g3MDc0V29xUTJ3WEFBMkNvSkU2ejBDU1A3SWpMUWxIdUtvWGE5bVFkWDZ6LUljallGMGdZTzAzZVhVejV6UC1qNnV3WmdQYVZjV3JWdWVoODE2NmJMM1dSZC04R0lHRnVseUl5emJZSFJaWldoYUJsdmVSWHRzTTNaNGxh?oc=5",
+      "date": "2026-06-11T15:21:31.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Gaggal airport expansion"
+    },
     {
       "title": "Rs 16.76 crore relief for 113 families affected by Gaggal airport expansion - The Tribune",
       "source": "The Tribune",
@@ -197,16 +207,6 @@
       "date": "2025-01-02T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Gaggal airport expansion"
-    },
-    {
-      "title": "हिमाचल के गग्गल एयरपोर्ट के विस्तार का मामला, हाईकोर्ट ने मांगी ताजा स्टेटस रिपोर्ट, साल के आखिरी दिन होगी सुनवाई - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWWFfaEt4M0REZjB2SS1uVURPc09qUW5PQ2o2dTlwRGVqaHZfM2ZZOV9yWjFVa0xWRk1KR3ZSQ0pRVXBMN3o2SlQta1FILWI4cnNRaDZKWURWNXhFWkkzUTNjSXI3NFExY2h4UDVmOWNjbmFCdXNBaWlRMC1hQ1RFSlRZbmlTTE1zeGExN09YdVExbFEwQTY5bFZzT0t5X1FOaWdYYkVBd21KSWtIY0RIRVRvRjZfTy1CcGNzbmxBSGJCLTdwQVFJRERjT3RfdUx4a3BqQjN0Qm5MVEhhak9DUTdONFRQVDN60gHuAUFVX3lxTE9BaUFOWHhsVTFKZUpmUVJoN3JZZmd0azc3LVpxZDNDNDVvTk5DbTM4NTdDUE54enlmdDJqQWZBOF9zb3E4OWJYZVNKNFdLNml0NmJ6aFVxQXhDdHJlRFFXWkVjV2dnY21OSjNfWGZfZ3VDcXg3TUdwekRsR05WUzFWWE5obHBJVmhQV2s5RlpmckxEMkYwTm5YQUU0b0hIWVFBMHR3RC1mb04xOWlhYTA1TW5ITElRN01TcjZfWDVMWThwaFdvS2lwVnVxRDVDeG5rcjRjbE9Wa0RSSk0xNEo3WTctcTVJamNRS2JjYUE?oc=5",
-      "date": "2024-12-24T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Gaggal airport expansion"
     }
   ],

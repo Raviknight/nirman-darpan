@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-22T21:29:38.897Z",
+  "updated_at": "2026-06-25T20:53:28.717Z",
   "project_id": "SMART-DHARAMSHALA",
   "counts": {
     "press": 69,
     "gov": 0,
-    "en": 47,
-    "hi": 22,
+    "en": 46,
+    "hi": 23,
     "total": 69
   },
   "mentions": [
@@ -20,16 +20,6 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "CM inaugurates redeveloped Fountain Chowk in Dharamshala - MSN",
-      "source": "MSN",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOeUFnQXBSZUxxQWQteXlCUFhzZmQ1dnlGblJHMXEtdXcwT0RtSHNZdUNWVllNLWFPQWF2QndSQmdQby1TLS1nODlUR2tDTG1Ibi0ydDVwcGtxdXh1dlE2Wmw5cEVnbVdJSWtwY0xaZVRxampOTWE0OVFRWGJNTFZPWFlVNVVMWVhaazlKTGpGZVNlUlVKTGlmcHU2M1h4b0VvYXNyNGlqa3FxOHJQdFVpYl9aYWtza0wwNE9DWngxaGtZN3J4LUFWZjlsSDlIOWliUlJyS3hvZkcyT2dUeEFuajhZRURhQ0Nyb29ERzE5aE5xRzZFYVdxZjZxd0ZjZjM1QTU1RWc5REU4dVhBVFNTQlZlMExFOHhzbloybXJVX3c1VXdlNFF2UWpQMmgzOHAwNjdpeWRDVnZIYTE1bmJV?oc=5",
-      "date": "2026-06-17T19:45:23.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dharamshala Smart City"
-    },
-    {
       "title": "स्मार्ट सिटी धर्मशाला में फव्वारा चौक का नया अंदाज - Divya Himachal",
       "source": "Divya Himachal",
       "source_id": "google-news-hi",
@@ -37,16 +27,6 @@
       "date": "2026-06-17T18:33:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Dharamshala Smart City"
-    },
-    {
-      "title": "CM inaugurates redeveloped Fountain Chowk in Dharamshala - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORS1seVN5ZzBhV2N2YjdnV3ZqWHJaZjZhZ241T1JVNkZKeTBFeGVLaHMwWk9EbFQ0ZVI2OFJLcHBoYnhYUGhLRHFrczBSNnV1ZlJmWHg1MWdad25KSEJ0TUs3NEtBZUhHY05HTWoxS0ZIeEJmT0NrcDVCQjI4WnVwZFIybnVKWW9VRl80ZXVQOW9ray0xUjlWYWkycktIYU5GN2lUcFZuX0luTGN1aThWdTVPd1ZTSm04b0VseEd3T0ZTbjVIc2g3UlV5YXdzWEnSAdQBQVVfeXFMUFRpYXRKbUdqb05mOWpTQnlQUHRDS1ZzTnU4MXhRYmR3TVVJM29fVUtPaTNpS2RpMkQtamdFRV9JXzZkNGhReFZycmVZVG82bVlRNWcwcmhQdlRCYzlpSm9HLXpKSTZuSWVqQ1VSS05Od21oYVMxNXpnejdENTg1Zk1FSmVXRnZVSEo2V1dYVTNiUzRudWhuTFFOQVVhdUJmd2FJZ1c5SFZhNi1mN3NFM3gxekFlTEUyMm91ekdTZDY4N2FyQ1dMc05UOWtZelRmREp2dTg?oc=5",
-      "date": "2026-06-17T17:54:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Dharamshala Smart City"
     },
     {
@@ -120,26 +100,6 @@
       "match": "DSCL"
     },
     {
-      "title": "CAG plugs irregularities worth Rs 60 crore in Dehradun Smart City Project - The Statesman",
-      "source": "The Statesman",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1JzNXVSMGVJX3VIQlVvTzJzTjZGYWd5d2pOVnBodno5dlZEWllJamxOanZyS25mdFRkak9QYjNzUmd0TkpuT08wZ2NZWHVaYmZ3eElmQnZTWUNKbHNGcFk2bHJzbzBoQ2RKdmc4UElJTFU2aGVPQ00wMllEaGU5YzM4VUZUUzRYWnduTkpFeUxwRkR4OTFYakRJaDcwWHgzYmlLMWVMOUJtUEViUnlOdXJNcjlaWjhiUmFHeWFMWkt3UdIBxwFBVV95cUxNcHhWcmJ0MWgxMXVRVDNZVFdza3Z5NWFLck9JdE5CdTdPcFg2d2lKb0JxUThEOElJc0pWQ3RuWWtoLUw3bkwyR0IwTnh1TWQ1TTVNU3diREN1WWNkbG5QdXBld2ZvOTZhTWxicU1hRGw3N1ZuMVU0MUEyZURTRzhwTGlQdFVwUzhLQjVyRHdwUEJWRWNXMFA1ZVBhQ3dzdFNEeWlUcTFxMFhqVExCUW9aQUlCeTNUTkJXOGRBNXJEUXU3OWJDRGFR?oc=5",
-      "date": "2026-03-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
-    },
-    {
-      "title": "पसगवां मेंअजबापुर चीनी मिल ने सड़क पर पानी छिड़का: धूल और गंदगी की समस्या दूर, जीएम ने तत्काल कार्रवाई की - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNDcwaEY0RG51MDJuQXhHeGhGVDc4anNVREZYRkpVYkZWVHJTdm1oalNlVDd2dGFGRTRzcVJDbl9ITEttejltOHJVVjRlQU9SX1NJdmNfRGNVeTR1cUViU2YxbEcyWFozdnE1NGJ5M1VqczhXbXhTNl9PaTgwN3dJb09Obzg3RTlVVTZPUGNJM2JrVFZUdkhoTEJKa3RQVnNGT1ZYeV9OZ1A0N1NDalRwbTBEcEpVazFyanV5azlJXzlZSHdiR2QwaGVDX1pyX2tOQTNMMnJaVEMtejFE0gHiAUFVX3lxTE9BLUZqbVQtYWwzTk11aW9fZVNvUmd5dUg0dzhaR1l5U1Z3ckNXRUxGMnhfUm9haVpCRGRfNVRjYUVGNnV6MXlCa3EyWFdtcU5iN0VJTWFaMFR6NkxRcmRqc2xQTnVISGl5VDNwdklZcS1MQ3N5YllJeEtJVnQ3Z3h3aW1ZUmFNNWlBSUJQaG5VTnl0TU5NeURfeVc5WFNLOTZSa3UwRmZoQ0U5Y2hzaElaRUhmTHVmMmRFM0RwQU04N2V0aUZ2aFdXVGlGRTNLWE0yS3RuZFFuMFp4Q1FxNXlhTEE?oc=5",
-      "date": "2026-03-06T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "DSCL"
-    },
-    {
       "title": "Dripping Springs Community Library connects writers in spotlight series - haysfreepress.com",
       "source": "haysfreepress.com",
       "source_id": "google-news-en",
@@ -150,11 +110,11 @@
       "match": "DSCL"
     },
     {
-      "title": "धर्मशाला शहर को मिला 25 करोड़ का समृद्धि भवन, तीन कार्यालयों का होगा संचालन, अब नगर निगम का पुराना ऑफिस भूल जाएं - dharamshala gets samridhi bhawan a 25 crore smart city project - Jagran",
-      "source": "Jagran",
+      "title": "धर्मशाला स्मार्ट सिटी योजना अधर में: 2109 करोड़ का था प्रोजेक्ट, 542 करोड़ की मंजूरी, 80 में 20 काम ही 9 सा... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXRwQWs2RFJBVE82MHUwSm1PMnU2eFBwa09kdHI0eXZmeFVrRjUxUzFodnh6THhhNEFUc1ZiUGgtVGFnRHBCUHFGX1lfOXI1Rk5TQnYydnlSeHZ0dkdyazVvNWZMS1ExUGxHdzZYR1Iwa3Byd2JRSGY3aTRVTmZTbHpPZU93b3B6TnUtT3ZhZUxHNFlTQkJpb3p4bU1FRm5rc3M1N1p2WDc1U1czQkVRaFBwdDloRkZXb1dRMTFxRUt0NE82QVE?oc=5",
-      "date": "2025-12-02T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1hGSHRDVDRNaVZmUmZQYklydndtQktJLUVBeGgwNkZzMldfQTliZUF5eTlIMmRuR0FhSTd3MzQtSkhrQ19tWGJsZmN4Y0lHLWg3VDltNnEyNlUzUlVmYi1IUUpaUU5GY3h3dXhnZVpzbjJMNDFFQjZmNVRZSElsLTBrUW9lUktKUEh5T3VtUlNsdmNjVmU1UnRPWjRYTi1ybDFOYXZoVFd6bjJydUdwd1FuQW_SAboBQVVfeXFMTVpWTV9hMGl3c0dFcnRMek5qbjZhQXpPZUR1OEh4NlhNakFWNF91VDNRbUtYdUtrV3NfOWRBcmdMbFNueEhsWXBuUVpNbmIwSmFtMEtzM2xLeW10SVhyMEp4d1AzSkkxRnp4WmVBaTlEdmI5X1BSNzEtNVJxaEJnSHF1ZGtfWDB4bjNIUURPdTBnNmg0cEJGTXNhNVphNC1BUmZKU0J6b0VKdWpIMzNieV9UbjJHU083Z1BB?oc=5",
+      "date": "2025-12-20T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala Smart City"
@@ -200,11 +160,51 @@
       "match": "DSCL"
     },
     {
+      "title": "Davangere Sugar reports Rs 53.75 crore EBITDA in FY25 - ChiniMandi",
+      "source": "ChiniMandi",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRzhBNzN1eGFHZzg0aUNXeVZqSERFSnNZdzNNcWt5VzZUSmZ4UmZoaUg1SE8xVW1ZOXJqTEZVNDRiVFlseDQwLW1VeThZYVpqWVctcUtNM2ozUEdreF9EMTdGU0poZlZZQTRaLWRseXhTeWY3eHdDTlp1ZzNiSjNTWE5RamVZNmtS?oc=5",
+      "date": "2025-06-12T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
+    },
+    {
+      "title": "10 Deputy Commissioners,19 IAS, and 6 HPAS officers reshuffled in Himachal Pradesh - HIMACHAL HEADLINES",
+      "source": "HIMACHAL HEADLINES",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXBMWWdraG1yY3JYX2pER3JkX3JCTUF6RWVVRjdmemVma0hkekFuVlBDLTROYnFnSWlRSlVKOFBYZmhEd1ZjeF9RQUF4VGtGenI2Z2dWQW5kVGtUek9Ua25zMENRb25xMjh0d0UzaU5Lc3pwaVpmZldoRzRkdURiWTkxZ1Z3aXRsSko5SE5STkFxS0lSRkY3UGxMQ3lXeHludFZfMDdhNmdBWDVienc?oc=5",
+      "date": "2025-03-26T12:31:05.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dharamshala Smart City"
+    },
+    {
       "title": "Dripping Springs Community Library looks to future - haysfreepress.com",
       "source": "haysfreepress.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXg0bldBSDFHQWpiMFh0aDRYbU9aRUJGWjAzN24wMnRuazYyNWlnNGhzV3dSaTdZTUtDUldyX2l4SHFBLWRhc2pyVjJtTUhjMGNlSDViSjh1bTAwTDJ6Mzg5RnQ5SzZvZkZPbTA3a2hxZkJIa3BiM2x3U3B1d080Ml93SlVfWlJvay1pMmlPRTFzUnE1N1U2WGxn?oc=5",
       "date": "2025-03-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
+    },
+    {
+      "title": "Tamil Nadu Weather: Kallakurichi Records Over 160 MM Of Rainfall - Check How It Rained In Other Dists - Oneindia",
+      "source": "Oneindia",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZldvZ2d5RTBQQmgwUzE0VlZOR3Q4ankzWkE4VzUzMmh1MGZzNG1ZVnY1clU2emwyb19Od3VXUWxmbHQ5dEgtUnJBWkpKMV9SRng1UTdzOFV3Z2NZUWN1Q1NIWjZ3TWdEdDAxRVRSMWZ4dVpEYVM1d0tlbFNjbXlJRlAzNElNbmxhSTlDbzRib1FhRDFUV0JVUW5TSUhSeWZXYVhBa0pGcm9CT1Jod2NSd2hZVk9sMWdDX2dNYlZnQ01QSWRTZDRwS3VsM3ozTFJjdzRNU0ppV0h3SEU?oc=5",
+      "date": "2025-03-12T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
+    },
+    {
+      "title": "Love Thy Neighbor - City Lifestyle",
+      "source": "City Lifestyle",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WOGlKaFM1eTJHWHNEdnFPeEJsNk1VWG00V19fTXFjaEhHc2VpcU93OHduQXVHSWtfRVI3aXpmX01UVnNDNXdxLTR6WkxveEx6VkRXdVhDMTdNNWRnVURERQ?oc=5",
+      "date": "2025-01-29T20:12:34.000Z",
       "kind": "press",
       "lang": "en",
       "match": "DSCL"

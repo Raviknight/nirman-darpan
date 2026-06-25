@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-22T21:29:23.118Z",
+  "updated_at": "2026-06-25T20:53:12.367Z",
   "project_id": "PARBATI-2",
   "counts": {
-    "press": 129,
+    "press": 133,
     "gov": 0,
-    "en": 45,
-    "hi": 84,
-    "total": 129
+    "en": 48,
+    "hi": 85,
+    "total": 133
   },
   "mentions": [
     {
@@ -14,20 +14,10 @@
       "source": "bhaskarhindi.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVF1WHRnN1QxMzhqRUs4eHR4UWlTMExfOFRxTDQ2UGVJdWRpVFM5Q041YTl1X3dfUHAzenpfWXByTXBqeEt0RmhzOXNJbjlKYmxsLUlkSHJPMmZxT3c4c0RhMXg5VmpibTd5SVF2d2wwdHdPdjRtTjdCbGhia09xRzdnT0tWUS05WEp1bE53bzJTU1lPbVQ2eDFCaDd4NU9CTlM1Vnk0SngwSWtC?oc=5",
-      "date": "2026-06-12T16:40:52.000Z",
+      "date": "2026-06-13T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
-    },
-    {
-      "title": "Kullu News: एनएचपीसी के परियोजना स्थल पर किया पौधरोपण - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc0RrXzlmRkZUbFVEdWZSYzl6c19qVEl3RzdEcktjbkVIWTY5RjZoekJlMXBvMlViSk9MOEk2dFI5VHoxdUx5eDRNc2c5RlQwR1h2ZkRzRUU1anR0TEE4ZVQxbUVQN0YzckdxZ0dlTE03TmlINWp1OUw1eWNabUxBZVJlS0NhRC1SMVdoTmFZTnNIUFZvU2ktLXVQakNVOU1qYjA0WkVUMUppbThXb0Jrek9RdmRmeDVPbHprTWZZTEdNSXJadlVwWUtB0gHPAUFVX3lxTE9NREc0MEZsbEx0YmxaSDN3c0MxOEgxanRWMHpLa1Q2OVJmaDdqMTdOcmNWaHFVVEVvd2xxUUlidHhoSTJkZTYycGlEQ0lrUEk0MzRnZG1VNXBxcy1XT2RvSmpFVjhQTldCYVVGdmxzb29Ed0h6anhaM0NWNzZSUXJZcU5KMFpZejFyWFNrQnhWLVkteXlRVGdkMFRqQy1TT2RkRjVvN256VE0xM2sxdGhSQnJ6T0FYblRPeWZRcEh0aExRVXpQb09UQzdTMGRyWQ?oc=5",
-      "date": "2026-06-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "NHPC Parbati"
     },
     {
       "title": "Video: कुल्लू में स्वास्थ्य रक्षा-एक चुनौती विषय पर प्रबुद्ध जन संगोष्ठी शुरू - Amar Ujala",
@@ -90,26 +80,6 @@
       "match": "Parbati II"
     },
     {
-      "title": "जामताड़ा : गांधी मैदान दुर्गा मंदिर में मां पार्वती की प्रतिमा क्षतिग्रस्त, लोगों में आक्रोश - Lagatar News",
-      "source": "Lagatar News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGtKUXhaTERpRTN4ek1uUzZ3WTRUMTFFNDkzcDFjT1JISUZyUjktTldWcVN1MnRnd0RNYkZlSEctbkVKVnF5VGtYbFBWUHlLTk5uQ2lkSXozUUlNUXJMcUlKc2d4bmNmS0ZjODVEWlc1a0EzcEFaMkFNTUFTcmF0MzR4eTdUY1hRM1ZWdHhLYzhlaGk3NzdDV2xCUnpHZXljUFZid2hIckxWT1o3NGc?oc=5",
-      "date": "2026-05-17T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "ज्येष्ठ माह में कब है मासिक शिवरात्रि? इस तरह प्राप्त करें शिव-पार्वती की कृपा - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWl0WmVBLXhOZzM0VXNpRjlfaWhjeUpEYTZUclI3ZlFSMWNqcG5qOWktS211YUYzZk02dklmc2xuZ0tuYTdHY0djdFZwNnhqYWstYzFqNXVCNjdjNmg0bElHd0V1RER0al9pRGJ0LWRvSnVSM1lOZFRzSU5zUDM1YWZXT21lSnZkQ0xlNklwNUR1UkQwVnVfakxJWlVtMXpmVDh0SjdMVmg1MF9QSDlXVjJZd3ppa2M?oc=5",
-      "date": "2026-05-13T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
       "title": "Parbati Hydropower Project Tunnel Leak Fixed After 19 Years; Power Generation Resumes In Kullu - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-en",
@@ -134,6 +104,16 @@
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaTN0TGpBRl96RDhnbG5HOGZmOTdzYldlb1pSb0I2bXRRV3ZqSFNraW1FSU11MWcybTdCS1h2S2MtbmF3UVNTZzJ4TU1Ga2pmSFNSbGdxU3JUbkMyV3ZxUTFSVGh5TTZsOE15YWI3aVE0UDVqTlZpcHpLbGdESTZhdXdjejY0RVhwLWVhQkpWV3hkOFdRa0NHZ0JIWWlYSlVQcFpaSHA3NnNQNlF6S2Q1X05zdGhlT2lHYXluUGRxY1Y4WVdKaGtyaXhZOTVobEFSOVNITzVPdnJtSXdk0gHiAUFVX3lxTE5Xd3I5TWxMeGRkS3p2cjNzX3VScHpJMlZKSFBJbWJ4X0ZDT0VhOGFqcUd1X1l2RTVaU3ZfYk1iWVZETGdLekNxdUlxM2xMc293MVNKMmI5TGxIanI3RlpjMTJnUFFBVlRleV9tT0J2WEFKbkZGdy1zcEEyVDZwUldtdDdXcFBsaS1pcU5jN0RObWxreDhWMW5qN0R3OXJMY1FCYWMtb1FnQ3hKRzNuNUxxTjBlMjdKQzlqX1JjUkJTU1RKMWV5bnVEX1h5Zm1FcEhGbm9oUlVnV0RYdlZ3Z3RmMHc?oc=5",
+      "date": "2026-03-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "बांग्ला लेखक रामकुमार मुखोपाध्याय को 'हर पार्वती कथा' के लिए मिला प्रतिष्ठित सरस्वती सम्मान - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS042RXh2S084LTFOc1EteWNsUVZpVVE5V1lGTXh5dEczWnJhRDZtTmhqa0VVV3Jpc2t0QlRFVnhrZU44eXNxX1F1MjVJWHczZ01GblpzSnBicl9BenRiRjFNSlJzT1lKME9hWWQ1SFp5UTE3ek43UjhlTzE1dVlJTEswUlQ1d0JKbWNPc3NxS0ZQVGl0RVRnM01zZ1FmektDOUNaaHBrdk9oYVlBSFlyS3VFenV6UVRDOFBkZmxidUQ?oc=5",
       "date": "2026-03-26T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -190,6 +170,16 @@
       "match": "Parbati II"
     },
     {
+      "title": "शिव-पार्वती विवाह शुरू, पहले दिन हुई हल्दी-मेहंदी की रस्में - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSHhyV3F6dDJYb0czYWtLcFI0UWRsV3NneHN1QnJxUGl1UThaSVJ6UFZaNUUtc2dxN2tZX3BNazdKUE9SRnoxT3dHSy1HSm5OdEhlOG4zNXZYNEltQ3B3NnZORmRNN2g1YmZaYUw0Ti1uMGc4Ul96REZxd1BOYkdRM0k4RHBVdjVZTGgyaDlIUWk0OFdCVGhSYVpEb3lUVFotT0ZOVUVmdDltWTJkc3h5M0FIOFltbVhXUXgybmhRQjhod9IBxwFBVV95cUxOM2F0MXJDQ3p0ZlhZd0ZWajlOV190OHBscWt0alphN090a05nMVBWUjRUdk1mek1LbVRrUTNEVEp4aUZGbGZGSmFTMEhUMW41dDNxcDV4R1BPZnBGQXZ3amdQSkFxZU1RSHRCTGE3TXFWLXNYcHdDdXRnNE5SZS02NlJCTVN2a0dhOTczTXA1clRhS1FXSzNwX2Y4MW5aUTFjQ21GTDBtZHZvXzlEYnBjbDJMRm15bTBUTnh6U3N1UzNXLUxjeU13?oc=5",
+      "date": "2026-02-15T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
       "title": "Mata Parvati Ji Ki Aarti: महाशिवरात्रि के दिन जरूर करें माता पार्वती की आरती, बरसेगी शिव-शक्ति की कृपा - India TV Hindi",
       "source": "India TV Hindi",
       "source_id": "google-news-hi",
@@ -205,6 +195,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHFaUHJuUFZ6bkR6X0NRb3NHLVM2ekpHaHZWUnRjZnIyM3JVRjczSFRzY082bU1TbVRMNjlYQlE4dmZnUms4UDNjOU11MWxYRi1YNTI1LWFlNHZLaWU1MV8wWTNrZFAwVDZuME9jRWEzUk9JXzdhOGhRa0p4b2s1MlRuRWRjXzdPRjhZbVEzMHNrM2dSZzk1VFFFMTM1V2hyQWhjVF9DRjduQVE?oc=5",
       "date": "2026-02-15T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "Maha Shivratri 2026: महाशिवरात्रि पर मां पार्वती की पूजा से मजबूत होगा रिश्ता, जानें खास उपाय - ndtv.in",
+      "source": "ndtv.in",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORmpFR1o5blA5YkpGODkyX3dyS003NHlPaE5kYkhhU2lIeEtUVm1uc1ZUMUZzZEJVYzJvZHYza1ZWUEFyaWJFT2s0Ylc4dUVhSE4tWklUYTdYemV2d3NrNi1Fa2JvcWh5MmUtVW4yZHJyeVRUZkFYdEJFVkdxRlpmZnNGWXJ2dzFocDFVUU5paXJzVU5lOENpYUpjM1JOODZrQmktLUlMUlY1OEs4bDBoQW50dGpidE83S3NFRW1QNS1SZnJQbUxuRWVxcDhPRW5jdTIwOUpQRmpUQmNCdHpQV3JaN2YtZw?oc=5",
+      "date": "2026-02-12T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"

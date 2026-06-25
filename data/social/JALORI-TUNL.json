@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-22T21:29:34.780Z",
+  "updated_at": "2026-06-25T20:53:24.461Z",
   "project_id": "JALORI-TUNL",
   "counts": {
     "press": 34,
     "gov": 0,
-    "en": 16,
-    "hi": 18,
+    "en": 17,
+    "hi": 17,
     "total": 34
   },
   "mentions": [
@@ -28,16 +28,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Jalori tunnel"
-    },
-    {
-      "title": "Snowfall cripples roads, power supply across Himachal - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUHBlSm5JODBOZnJPM0dvWVNHMDk4VFJuZF9PVHJlYUlUbkotRkx3aU12aEYtZ0NvR0dfdVVrSDVoU0o3bmVpcnNkR3d6b0UwVkF3WjBEUkxqLVN1c1ZjelpEODJoX1NzNjduNWM1N0xaQ2dyYjkwY28tNHRKc3UyY19RaFplZ0lRbTN1a2l0VHJSM1VvVkhfQ0Iza3QxQVpRcm9yWElYRGRZaEJ5YWpCVjRscEYxZGl4X2NWUkFpbGJNdTRWa3BRTEhR0gHPAUFVX3lxTFBvMVBzbVFYYWpnbVFObExjeENwZm5BUXhMZzlWaENTODBtZ0VSaWVybk5Tc1MwNl83UjM1R0tOWlcyQ2hHLUZVVldtMTdLZG1zOTlrTEN1anF2blNyalhIT01VWUFNNmoyRHJfS1dQZHVYVFZNMzg1ZW0ySEF0eFVxWTJlWk1ZUjIyYnBPRGZQdFlnRVlYVWFUZ1lwM0tMV0xuRENFV0xIOWlVRlBYaTNRYjlKdTQ3aTllbEJ6NUxtZ3AxV3hWaTRHVlZQYmh4Zw?oc=5",
-      "date": "2026-01-26T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Jalori Jot"
     },
     {
       "title": "हिमाचल में भारी बर्फबारी के बीच फंसे 5 सैलानी, वीडियो वायरल - ETV Bharat",
@@ -85,16 +75,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTzI4aWh5WlVqc2FkZHV3VWxiNkpKUjNKZzZpV21Oc0k3dG9KeFpiVkoydFNwdEdjMVBIOFlXSE52cHYyVW5SYkVpYmVrUWFFV0FjV3MxUFZldng1Q21WNUpreHlQU2c3U3BaTGpEQVkzVW9RRGhqUXdnUWw0XzNGZm5JUFI2bWhRRDNEbHJ0Z3h1SDJlR1pXWXFvWDl5aDVMQnRNeEZ0cVJoeDU3LTZpMGVMYjIxOE9DX0Vxb1l1QUdubWJVMW83aDAxbGfSAdIBQVVfeXFMTjBaajhDTkhkbVVoc1RCT2hjc3dsTFBLNXd1alRTWUdwZXJBSzA2Y3I0WTBJYUZXQnF0b1g4ejFZY2x2OERhSXBKaDZsd1ZRTmRWWjRDVDV0UVZhUkxZMkYyRW9zd3FhNDNpRWF3R3JxRDk3WUZHc0VPN21YSzJXV1E4ZkdPNmRYMGNKaVFTMWUwOWtTbDRwMmFBOGJvQ3c2Tko0V3Q0TWFiRjg0SHlSZTJKcWlFNEtmN0w3MUhnZWs3a0JhamkxWEItWkxyYUNNN3NR?oc=5",
       "date": "2025-08-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Jalori tunnel"
-    },
-    {
-      "title": "अटल टनल के बाद यहां बनेगी एक और सुरंग, केंद्र से 1452 करोड़ मंजूर, 4.2 किलोमीटर होगी लंबाई - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkp1ZzZQQTNrNGs5TXB6TWpUU201bjl2bWQ2eVo0T1ZSbmdoSmZvbVFsaTBWOEFPaVdpdmVCdW43dWpyVUc3N1lfSUFzS0twaE9HSzVwT2Q0X3VGX0hKSHplY1c3dEZBcDE5OWlDb21UU1VETjMtdTM5di1tcG1kakNwS05Dbms1RmJKdHpmZUZ3TEJFbWpBZVZvc3ZCbVJ3S0hsazRycDlSLXVBcFphOFBRdWpidVItb1hucmNQWFJoMlhyZ2RGWNIBzgFBVV95cUxNMnAwWlBYSnZCYThWOWdwTVJoR2Y4NkRqYjBNMXJjbWdfNnc5eXdtaUo4cHE2SGJzTnVaOEdhclpQSU1oQnJHa1hfc1o4N0NDX1d5Nnd4ZWV1dDNkMFRzVnFidjZsMmtxM1NVSEhROUx1d0E4RHZka0pHQkFBR2dEdGVvR3psQ1lOSnVMV3lSTDhxaGNKbDlWSXZlMUczQS05VmpJU1RPNF9laExUXzA1YWZESlgyU1UzOFhxdkE0bXBWWktyLUxyRzU3QXRVdw?oc=5",
-      "date": "2025-07-31T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Jalori tunnel"
@@ -205,6 +185,26 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUlTeC1EekFWLUlGMkZ4eWdIUkhzRlJqck00Q1JSYnNBaXJySTN5bEc1TnB0OHRQR3JzNksteUpMRGJTbFZTM0F6bW5HQUVNYThLX0NvREFFQ0Y2UGdiQWRKNnF5eXBYYmdJcDBGU2VIeGc1WlNSOUdvQTMxQXVpZ1RNSy05Vkp0R3RGeGU4YzBtenloOEJZT2Q1TTkxWjNoTWpTWGllVDJFSHd3VFNRaHR1U3hhanRiQV9GX252eVlIZzlWR1VzMEJScElwak1naEV2bWY1MnVZcnJpNHFmcg?oc=5",
       "date": "2024-12-28T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Jalori Jot"
+    },
+    {
+      "title": "हिमाचल में जलोड़ी-जोत टनल बनाने के लिए केंद्र की मंजूरी: 4KM लंबाई; 12 महीने रहेगी आवाजाही, 3-4 महीने को कट ... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZnI2MDJDNjVKNG81cmw5TlRFTmJpNGd1UjJMMG9GMUNHd2t3M2VYbEVSdjNfeGVKeXZmQWptUkMtbDhfSnVUTlppTzJ0dlc0b2w5TmI3MUJ1LWZCRFNkajBOQTl2OGhyZmw4UzN6TTZWV2Q2RlVjR0FKMlpad1RVel9ZRmtkbmlxalREaFRJNldidFNFbDQtQlY0MkUzOVdtajk5NHJMTDdhLWNuMnRMSTBBbGllY0JjUFB0a21ZbkV0MTVseDBzM2lJY1hzd3kwV3VKZFVBUkNIVFpGQ0VmSnFCeGdUaDRPeW9FUdIB8gFBVV95cUxOUVd1eU1xOXhySjFySTVKU3BTaUdLNktoQ2J4Q3czeDdreDJVOUYzb2N2ZDA3U2tMdGxqUHdwLXFsUGVqdzdkY0lhcUM1aVNJSzd4N2Q5S2U3WV9hczB4QW5yYS15S05Rb0lyMVVVaE5lOU1WMG91dHV0My1qRzl5RkFWdmE3ZTNCTkt6RFBWVk5qZFZ1eGg5MGpBQ0lyWGt5UXZnMkF1YW9ubFNyVFRlMS0xQmYxSGRhMFV3bllneW5sU2s4S1FESFJPQW5GWmx6U0Vnd2FUMkZMYnZCOFpGVXFDLXFzWmxadUE3MmdWc181Zw?oc=5",
+      "date": "2024-12-27T14:14:14.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Jalori Jot"
+    },
+    {
+      "title": "Shimla: जलोड़ी जोत सुरंग को केंद्र से सैद्धांतिक मंजूरी - Punjab Kesari",
+      "source": "Punjab Kesari",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdDhmSFFuUDZ6N2hxOWZmakNqelEzRE1hdks2X25XR3pXT0d5a0J2dDZscUgwYjZ0bzQ5WHVaTWozdWRMa3B5LTF5Nk1DQndBVmUxVklWZFNwd1RNcHlXelQ5aEttT2s5cmhSNlBWc2p3a1VrNERuX1RmdkhvN25zZGU0Vklxem9qV3NRekg5ejBqTjhOUjBua3hWd3d6dmZGeGlFcUhyUFdBOUh2Ym5QQ2EzamNnLU5LNnF2dDB4a9IBxwFBVV95cUxPcHlHU2Eza3hLNEgwSFVyX3Btc2ZzSWZhSldhUHVkVTlKWmozQkMwdTZUSnlvWmlmLVlMRGg1c19oOWJzLVhSWFdVa3lhN0tBWUxGU1ZESzQyZTd2MFNaWTZEeGlETi0wSjROd0NaR2xuUmhrSS1GZWY5RG5wMWxpVXI1Ni1SazNfRm9oQ19BSnNQRE8ydXdDZWVoZV8wcXlfa2lnc1lPVkhKa1oyOU95TVgzRy1SQ3dyMl82VlFvNlNnRm9KZzk0?oc=5",
+      "date": "2024-12-27T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Jalori Jot"

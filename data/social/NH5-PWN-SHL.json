@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-06-22T21:28:57.355Z",
+  "updated_at": "2026-06-25T20:52:46.499Z",
   "project_id": "NH5-PWN-SHL",
   "counts": {
-    "press": 22,
+    "press": 21,
     "gov": 0,
-    "en": 11,
+    "en": 10,
     "hi": 11,
-    "total": 22
+    "total": 21
   },
   "mentions": [
-    {
-      "title": "यात्री कृपया ध्यान दें: दिल्ली मंडल में कई ट्रेनें आज की जाएंगी डायवर्ट, पावर और ट्रैफिक ब्लॉक के चलते फैसला - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWJnSFhiVXRyM01VUUE3WFhQRGZXekpNN2pGQjNzeE1tQ3N6LWdhVlZFTFdfY0M3SnQ2Umhlc1Jlem10TVdEdHAydUVuNjVhbVM3ZlRabzE0cndLNVUtTkJaNDFXMWVBWE9fb2pNLWxmYXZGUzI4SlZmeVRaSXVBN2xWZ2pZQUc1NGxCYTB2V3ZwUE5KemFMRlMtT3J4d1RGOGxBUTg2a0hxenJXaEwzcWFka2txQWVLR29qeVRPaHpKdnkxVUQ2SjVHRGw0YmhqQm1lRURWUzYtNEczYzhVM2diMHpMRVZW0gHuAUFVX3lxTE9EV2thZVBXdlQ5bUFLTThBN05BM1YtNnJ6cjVmcnd2eE1zX0EtWGs4MFMyMzFZbEx0ai05MDRrTVM3Z0ZsX1loMTNoWF84Mlc2UGVmNmtKRm1wa3NhOG1MTmc2Wk9ESnNiWXJtUmJmZUFFYXVMVlczYVB4LWQ0cWZRWk9TNDBNZ3VDeGxDZjVTYVM2RkJxWl9wLXBxVWxFME40cFBINDhnMGJyTVo2M0QyU0w0azhDamI0bGhwUlBpVHlCVDAxSmY1TFVTRnFyZUhid0VreUFrZTMzdDZQdy02SG9hdmh6Z3Z2YjRkWUE?oc=5",
-      "date": "2026-05-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kaithlighat Dhalli"
-    },
     {
       "title": "Shimla landslide that damaged apple orchards was ‘act of God’, NHAI tells National Green Tribunal - The Indian Express",
       "source": "The Indian Express",
@@ -70,6 +60,16 @@
       "match": "Kaithlighat Dhalli"
     },
     {
+      "title": "पूर्व रेलवे की तरफ से आई बुरी खबर, बिहार जाने वाली कई ट्रेन कैंसिल, महाकुंभ जा रहे यात्री भी होंगे प्रभावित - Jansatta",
+      "source": "Jansatta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVU4zel9yOG5Mc1NKcTAxejBiQ3psTTRwTlNVd3g2R0UxTzFRalpocmg4X3lISmQtT0s1Q0lPWUF6RDBjbUJfem5OQ3VlYTkyNVpsblB1eE9ITVZYRWxvdzI5ZmVBN1h1UldkM0ZIa0MxdW5JV1F6ZnpPYUlXMGRFUG5ZYkNic1BBUzZmQWtqMnUtWnZUQlNPTVNJU0dPdGp3eWdNa2c2X05iZzZwVVoxT3paYnhrczIzV0tDZFR3NzBqci1ZWUc0c2NaNFo4aXR2TkdnVXZzbHplakVCdWNVStIB5wFBVV95cUxPcDExbENNc0RHU1VzNEtBM3VybmY4QVF4bHpYQ2Fka0Y4OXN5dEYxRERMdWVHZE1raFBSMjZWbUF1SGdzOV9McnhJOEZPb0JIVl9EQWFCVFM5UzRxREJyV2otZGNkLTFtTzc1NzVUTmFodmdQcnNZRTV2Z1JiYVZPUF9hMmh5WWtvM2Z2Y2c2b0xobHRnUEdKU180RVZMVkYtQmhaUXhvQzYzMnRSMGpzMEwyeVZWYVJYQkQtVmRIQV9ka0xVMjNZSDJCU3FSTmMzYUFZTnZQaFJYeEwtT1p0Y19UN3BxSzA?oc=5",
+      "date": "2025-02-19T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kaithlighat Dhalli"
+    },
+    {
       "title": "Kaithlighat-Dhalli Four Lane: 4800 करोड़ रुपये खर्चा, 15KM और 1 घंटे की बचत, कटने से बचेंगे 22500 पेड़ - News18 Hindi",
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
@@ -108,16 +108,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Kaithlighat Dhalli"
-    },
-    {
-      "title": "Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - The Federal",
-      "source": "The Federal",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcW94YnVfR0pHeUVkZUd2WUV3U3VBRUlIc2l2allCMWtRUlNVdnJiLWNJdXVrbVl6UTl2WUllcTd0ZFdheC1ac0RHU2FpV1ZTWlZSNlN5aTRKSE9QSTViZnl0VGJEUVJMN2xpb1hwQnkwWE9Kd3Z5bmg3QktHOXVPZTFzTzZHR3pEOHhZLS1SaHo5ZmJFaVd0c25XMFh1blBSa0xsbFVyc19nWkRCUDMwaTdRdWstUzB3dmJ2UW0xb201cHF5MVJ1T000aEpHYVlmM3pfNzJB?oc=5",
-      "date": "2023-11-22T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "NH-5 four laning"
     },
     {
       "title": "Work faster on highway: Shimla DC - The Times of India",
@@ -207,6 +197,16 @@
       "date": "2022-03-08T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Kaithlighat Dhalli"
+    },
+    {
+      "title": "PHOTOS: 7 माह बाद कालका-शिमला वर्ल्ड हैरिटेज ट्रैक पर फिर दौड़ेगी हिमालयन क्विन! - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ1ZxeGdxel9oZGl4QnZsa2RqSVZzQ2tqTGhDM3FPQjl5bHZPSExkcEVCRGo3QlpOX0d0R05NbFdGZUt3S2twQmh6dGt5em4tVkM3djlqZmlPY0hQU2lmc0xsbGN4aHFjdlF6cnBYMUxJY0lXbXJ4QktnQ0c1bFZOaTh0dFBJZC02Q0NjV1A1Qzk3cm16cExDaWNpMURDa1pHTlZyQVdnZVdxaTZhU3RERnAzWGJURTFfdk1yd1BSeXQyb2lXSk05VTcwOFROZnZ0VW0yUzdCYUZ3Tmo2YnZRdXVQUWl3RXNsZ0HSAe8BQVVfeXFMUHQ3VEgycUw0VWx6YkpybnV4bE0zWDNqWnBYYmxwTml0QXZhWmtaUGpwZTRCQndyMmw4T2RMbHJzeHFwMUR3aFJhMjFlLXB2SWNpTlN0NFZpYm5rbzV2WUE2REJpZEVPQ3JlbXYyZFd6LVpZQ2VpbFBoSVFNdHNMY0Z3d2VGSDVuejFKUmU0cUdEaFZabFpETklweVFvN3FMOU56NTBIQjBrZ3hIbWxTUWl5SGRldklTZlc5bnhnNkEzM01RaWhQZDBlcWtzZTJoM3NVUHU4Ty01YTd6cnQwaVJWUTNsaGpzSnBuWmNVZU0?oc=5",
+      "date": "2020-10-13T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Kaithlighat Dhalli"
     }
   ],

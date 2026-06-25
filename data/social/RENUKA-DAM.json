@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-22T21:29:03.318Z",
+  "updated_at": "2026-06-25T20:52:52.419Z",
   "project_id": "RENUKA-DAM",
   "counts": {
-    "press": 47,
+    "press": 49,
     "gov": 0,
-    "en": 36,
-    "hi": 11,
-    "total": 47
+    "en": 37,
+    "hi": 12,
+    "total": 49
   },
   "mentions": [
     {
@@ -150,26 +150,6 @@
       "match": "Renukaji Dam"
     },
     {
-      "title": "Vijay Kedia stock in focus after securing ₹910 Cr Renukaji Dam project in Himachal Pradesh - Trade Brains",
-      "source": "Trade Brains",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQblF6V3pyTTg0bDQ2R3pITXdwNkE4d2lKbUxhNy01OGd0OUF5TTFOU0tDZ1lmUTF4bzRudTVQNlFwWTRBekxNYjhEcEI5MWF5WUJRMFZRcnAxdVhGdDJyUjZ5ZkpHdDlhQkRqX0dTcEJFT0dqcFVFUnVkeXR0NTBKSFdBTlVUUkwxdWlnLXA2R2xUYVJiRzlBY24zUDBiak16N2NDRGxJLWZ4VE1WenJwMVRQcw?oc=5",
-      "date": "2026-02-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Renukaji Dam"
-    },
-    {
-      "title": "Patel Engineering Ltd. Awarded ₹910.08 Crore Contract for Renukaji Dam Project by HPPCL - InvestyWise",
-      "source": "InvestyWise",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXcwQUtkRDQtRWlfUkwwVmM3TmQyVkZ3RmxxbDkwa1JOSF96bDNKa0VLaU5HVWV0NHFIdXZkOGJLZ1VHRUdYUWFiMkZndE13cEtnNHN4bFBLMG56aXJlSEpLMTFJQUFPRUlNdlY0czhPY3BNc2R0UWhleDdra2xrZWRoRkhjMnlZenZQcXVGNUYzRXRYRjQxVg?oc=5",
-      "date": "2026-02-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Renukaji Dam"
-    },
-    {
       "title": "Patel Engg Secures ₹910 Cr Dam Contract Amidst Financial Risks - Whalesbook",
       "source": "Whalesbook",
       "source_id": "google-news-en",
@@ -207,6 +187,26 @@
       "date": "2026-01-17T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "Shri Renukaji Dam Project : श्रीरेणुकाजी परियोजना को मिली फाइनल क्लियरेंस - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa0VWQ1ZSdVExR0x1OE0yT2NZU1BobEt0QUhCYkM2OUs4Xzl2MHVjYUpaSnRneTRrcG9EdENtUzVZeU40cWFzUTU2VU8wdGVPWnVkcmdpSUdLLURhRDdlZnA1N3dyOU0tYTMyaXFPT1RfZWd5T3RtajVvTFpWRU92d2U5elBFYURuZ0NBeVdEOUl1aXFfQ25CSkRKVVZnclBzR1RSUS1uTm04akRCa3NWWFNFdXFFaWo5Ykp4NnNScHlpNDdteFF3V0FQNGtTNW9IQ3JydVRrRnBBZFBj0gHiAUFVX3lxTE1pekNVSExjZEJnTE1ueXRrc2hKcC1yNm8wYVExLXBUeGppbG1BaFJlXy1pNTFkTnYxeWs4Z3BVS1VpYVhmREJ5bjlyOE9ZekU3Q1R5NXIyX0xCLXYzQXJ2akg3eDhIMnRyUjVIdnFZWjVCR2hXMXp4RkMtTUx2SDZmbTlOTUU5cDNFN0lCLWx3cFlTTXJ5Ry1naVJBN2N1VVIzbWZhUEp6T0h1cTVUaGQ2dEpENDdURmp3d1RVeGVTTGlrUXg5bGVJTlBwNVdhdDVyRWoyMDVJZXptWDNXazhqeUE?oc=5",
+      "date": "2026-01-10T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "Renuka Dam: रेणुकाजी बांध परियोजना का गुरूग्राम की कंपनी करेगी निर्माण, अवाॅर्ड हुआ काम - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS1JyVDd6ZmpkbGVuaVZoaGJRUXBuelZrZHA4YzF4dUhIUjJ1dGluZHVoME0yTWhVZkNLbGpKVVV1YXQ0OGlhaFljVFB5TmVqX1pBZUhxaGZDaGtNUktFdzg2bXp4UmhBcGZhTmNRY251dWNMYjZDcmJidEo4X3RqSGZQWGZTLTROM2ZJVzZzSkwtNzVSUFQ0ejF3REVGREh6VC1KY0g2elhiemxoV0xMZTBoakxJS0lzN0ZTTTk5VjkzUdIBxwFBVV95cUxOQ3NNUlIyLTRyZU1KLVNwUUtFZDdXaURJS0NwanV5dHNaY2lGbmE4UmZFeU5WaEk2dEpGRlRxZWY0M3M1RUhTRjdvRzlPdWxNLUdpOUZlTkhtZVAzcUxWRm9EVmZiS1dUWEV4cWJ4R0lCNDRIY0dHR0xxbG9KSG1LZVA1ZzZrZFdVQjZDTWQyemt1MUI3Si12WXdScUhSeEdiUUFMXzJsRE1jcEtCLUswaTRCUWlFTV9TUksyOVM1U2wyUXZjYmhJ?oc=5",
+      "date": "2025-07-23T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Renukaji Dam"
     }
   ],

@@ -1,14 +1,64 @@
 {
-  "updated_at": "2026-06-22T21:29:16.158Z",
+  "updated_at": "2026-06-25T20:53:05.467Z",
   "project_id": "IIT-MANDI",
   "counts": {
-    "press": 261,
+    "press": 257,
     "gov": 0,
-    "en": 149,
-    "hi": 112,
-    "total": 261
+    "en": 146,
+    "hi": 111,
+    "total": 257
   },
   "mentions": [
+    {
+      "title": "आईआईटी मंडी सम्मेलन: विशेषज्ञ बोले- एक नहीं, कई संकट साथ, बनानी होगी बहु-आपदा रणनीति - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN3hhTWtIMXlxSlFmQnZYeU0yaHZiS1VzNnFka2tOUXUxOUFKTTVJcjFPSlVOOWVyM1g1dnZRZ0ZXbUlGWFpWTjFSTHFreXNFZ2FFY1B2SjljOW9FX1dsZmExWjVuS3J3Q0JqSkFRODg1YnI4UlhyNXJwMnhBZDUwV2dWQkR1U0R1VVgzQ29BR0pwbndETTZOeUNWalRMcmdxUUlKTXREZGJ4ekJjcVJ6SEx1allER2N0SzhDS3hNb2RKVnJqZVNwVG5hdlllZWZrUEhwU0c4N3Fyc3JVUnNLblhQU3JyRTlGWXZDNWFZbnNsOVVWcUhV0gH3AUFVX3lxTE03eGFNa0gxeXFKUWZCdlh5TTJodmJLVXM2cWRra05RdTE5QUpNNUlyMU9KVU45ZXIzWDV2dlFnRldtSUZYWlZOMVJMcWt5c0VnYUVjUHZKOWM5b0VfV2xmYTFaNW5LcndDQmpKQVE4ODVicjhSWHI1cnAyeEFkNTBXZ1ZCRHVTRHVVWDNDb0FHSnBud0RNNk55Q1ZqVExyZ3FRSUpNdERkYnh6QmNxUnpITHVqWURHY3RLOENLeE1vZEpWcmplU3BUbmF2WWVlZmtQSHBTRzg3cXJzclVSc0tuWFBTcnJFOUZZdkM1YVluc2w5VVZxSFU?oc=5",
+      "date": "2026-06-25T13:59:38.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "From Philosophy To Instrumentation: IIT Mandi's DDG Test Of Chakra Meditation - Swarajyamag",
+      "source": "Swarajyamag",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlE2MzJuTWpMYnVxdFRNMUFPb0ZOT0xEZzVEdGgtQjN5eUkzVXhvRTRZbW5lZkFkaDBMZnkwWTZQTVZzcjJuSmxPc3BMV1hoaGR4ZVJnWFFXdnpLRzlkTmk2TGJSbzVpTnBOQ21JMkYtN245ZmZsdF9PTjF6bG5ZWjBHODEyeWZIR0ZJOTVZeHcxNUJYd2VvYVY0dndhRVZHNXdINWFZX3hEaVVSUUlzZ0Vkbl80QTVn0gG4AUFVX3lxTE5iUTYzMm5NakxidXF0VE0xQU9vRk5PTERnNUR0aC1CM3l5STNVeG9FNFltbmVmQWRoMExmeTBZNlBNVnNyMm5KbE9zcExXWGhoZHhlUmdYUVd2ektHOWROaTZMYlJvNWlOcE5DbUkyRi03bjlmZmx0X09OMXpsbllaMEc4MTJ5ZkhHRkk5NVl4dzE1Qlh3ZW9hVjR2d2FFVkc1d0g1YVlfeERpVVJRSXNnRWRuXzRBNWc?oc=5",
+      "date": "2026-06-23T14:32:36.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT मंडी से पढ़ाई, असिस्टेंट प्रोफेसर की नौकरी छोड़ी; अब BPSC में 63वीं रैंक हासिल कर SDM बने श‍िवेंदु - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakY3NldCUFNiTnN0T1dORERwZW1maFVYc2E4X3NOcHBqMnUxVnpaRm1qOU1pN1pCQ05zWTJQdjBZRW10QTQ3bm14WjBpTkhLeGlsZDJDR1Q1RlpnMHk1V2JVMTlNU2lzWEpyVXlfOGphRnpTV3B5Uzk2VUF3ZVdvMXk5Ujh4bGduUi1OVkVRa3NBUGRDT2JFaUZsbWV0UDVENlNNdVp1N29mYm5FTkE?oc=5",
+      "date": "2026-06-23T04:48:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "A Trojan horse has breached the IITs - The Hindu",
+      "source": "The Hindu",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNlhzWHR2bjluQm1sdmY2X2J1R1JBVlFlb05SUDB1Tm8xMmJzU001bVZRR0txWkQ5cUNWRm5vUmhuY3VxdVVnUkttcmYydFRSMHNnSndpNlBMMU5KUEk0OGRfOU9OOUVKSTZ1cGFIejJkdmd0TWM2bkRkTHRZSXRUckt2TXdNSmFPNEtPMmsxSDJlUS1rS0NIcDdTSdIBogFBVV95cUxNcEdacFlJMXVvVHR5c3IyY2pyVVFpMzNDdzcxbHRiV1NoeWh5N1JLR0x0ZHVrVExzSjkyUV9iV2lDWGQteFRBajQ4ODRfZDJKakN6LXZxdFRHYkV4MERXQVZyekNtRWtEWXQ3Vjk4Sk53bko5N0g0SG9BV1dfcWFaOWRubGdrd0VfZFFGNEdORmE1NVVSRW54YXktYS1lWlFhLUE?oc=5",
+      "date": "2026-06-23T01:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi hosts 14th Convocation; Confers largest ever Degrees on 643 Students - education21.in",
+      "source": "education21.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbVR5MzVpRjYxMXdYeHdISTdiQ0NpcHBnSnhfd0IyQUFGaDdQZ0VHejZjTnFMUzQtRTRVR1E1RU9fVGF3bWkwQ09Dako1V1N5OEhBellJOFFfcnVkb0hKU2RXTnRwWWdvTDlvYUtkcC16dU5NQm5MZDJsMFNUWmJZcC1nc2hrSzB6VndleThXdVdsNFFZMjNwU1lxLW45S05GYlJV?oc=5",
+      "date": "2026-06-22T16:33:03.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
     {
       "title": "IIT Mandi Hosts 14th Convocation With Largest-Ever BTech Graduating Batch in the Institute’s History - Passionate In Marketing",
       "source": "Passionate In Marketing",
@@ -24,19 +74,9 @@
       "source": "Prittle Prattle News",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSTFzZWVRT19RRWw2TlpmckpsZVdJMUFZaV9YR2VyUEs1VnJ3LVh3Z1BIZXFEUm1kenpzZ1V0eklVcnhzTmU5RVdsR2xzeHc0SUpTcjJxYWk3cWdiOXpTSzNnZkZrd1RXRlZ0S3ZUT3h2NFJBTnJGUkQxZWVoaHBnQ2w1MW96S3FjR3RaNFFJNkgtNEVSLVpXMmRpdVh5QmFmMzYwWTFtM2s?oc=5",
-      "date": "2026-06-22T09:37:17.000Z",
+      "date": "2026-06-22T09:10:04.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "मंडी IIT के दीक्षांत समारोह में वायुन को प्रेजिडेंट गोल्ड: 643 विद्यार्थियों को डिग्रियां मिली; 321 बीटेक स... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXdaOTl6OXNRUGtfbWRleEZmRGFCbXlRbmtyeGU0RmNRY0R4VmdZQ052M19VOEpCR3lpbEM1S0QzbERtbFRCVlJWbDJpMlhzZXJ1X2JoU0VMaDh5YkVPeVJJRHlBYnZVMWNhUVVfZmpMREktY0lJS0FGd2ltQldkeWt2cHJiWHJjLTVUVVlCQm1VWGJOQ2FYZXpLYlB3cmVKUE91X1kySEpDa3NLUkZRTVFzOXJNSHB3NF9fMWFGQU1TSHPSAcgBQVVfeXFMUHJLTTVvYUUzX3lhNWh2VXQtN0V5aEprX2RGUW5Yb21YV1JjNWJJWkFuUGVtU285aE9UVU80NUNJUEt2aUFMN0gwalRjbGlMSFIwbjJ4bndzbEMzb3ViT2QzYXlfcmZRbVF4aE16Nnd6YTJSeFQ3SVBCUDY4WGlXWEZjYkJySjJoQXBfVUhjeC01SDJXQTgteXNFNXVnTkRtUEVKRkdYNm9vUFdVcjhhZlJ0WEc5TVpFNFIxV3BMN1RWb01QeVAxN2k?oc=5",
-      "date": "2026-06-22T08:53:09.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "IIT Mandi"
     },
     {
@@ -45,16 +85,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORm81Uk05VDlwb29sSlI1TXNQWDBsUnMzWkxQU2FuSXNON0hDX0RQejdzOVNDUXlmdVhTT3VKRm9aa0JCS0RUSGNIeUFGYy0zeW9NUTlrR1NHZVlYRHR1T0FibWlPM2QwMllmemxCbVAwOXJFbVBxVjVFQXBtQWZQdlJzMUZDQVdtQ3ZDTnBobG0xMG5KdWRGbU12ZFc2WXVORWhYRXVpa1RMdVg0VWJOQWFtb0pqRVpnY2Q0LXAxUzhGeTNyU3dFd2xtMUNmN1lyeTdhRVlNQlU1ckFG0gHjAUFVX3lxTE14bFNJSXVYR3MxYUk4YWxTaUZUak1FZ1hDNjJvTWdIYWJBTVBoUjNTb0JacEp0X2hWM0g3dGIxUmRQVExpQk15aGhjaG5xR2ZJX1oteEVpdWpGYnpsOHFfemFXMUZadlVHWTE3STczT3JjWi0xMU5SRDhiRTJBV0ZHbVQxa0lJRjVsekJDMGZtVGx1dFd6allIS2prT21lUHkzWHVFbFRIZVhJVEZDM1B6ek91OHBUXzVzc3FidXZIbDdrVkNDOHVOWGVwYjRNR1FmTWdoRmhxRG5ZaVc0S3dNSkJz?oc=5",
       "date": "2026-06-22T04:02:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT Mandi convocation: Record 321 BTech students receive degrees - MSN",
-      "source": "MSN",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQY0JxMTFwVFlxQkRERG9MUjY3U0RlUDFrZzQxSGM4dFlyYTJJX25ybWFheW9iU3dLUUk3eUh2T0tSUks2cW5ueENaUlhqRWNlZDV2Z0JZN1hGamdiQkJSb3hzRXFzcU1sbFRGbXRiRTBSWFBkQmVqd3pmS1hHSkZxRkNsNnA2ajNlVVNDaGZoSUNDUVV5bTFvd2gyM05jeVVJRWo2R1RNbkN5SHFac3luMXdHdmV5NFhPb3JHY2Y5SEJsenVQVXo1UURTaEhGUFY4Ync3VEV5OUdwS2dRN0NWOXBzeWE1TTBnaXpJX1dCa0dtSkxzY3d4Mk11UThpbV9RbU1pU1pMTllmblQyTzRKaGt2aHFveVJfd3cxNmVqdEVNb3lSclFvaFZHYmo2ekVtMkdVNEFKTkk3TTVSX3R2Q3BXS0VqbFZJ?oc=5",
-      "date": "2026-06-21T18:40:16.000Z",
       "kind": "press",
       "lang": "en",
       "match": "IIT Mandi"
@@ -80,16 +110,6 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "IIT Mandi-incubated startup DesignlensUX launches AI platform to improve digital customer experience - MSN",
-      "source": "MSN",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOU5zUV9rNkhydEY5Smk2LU5hZll5emFCeHhhV19zNFluSGJvSGo4d3RIUDRIaUwwc3lUOTZ4RU1LbFJRSDYwTm5vQlUtRmpRa2dYeXRNUjVHUG5xSnlwZDh4aWRGczQyQXNnTnNVRm5iaVA3NG1RVEZ5dlN0aGNhWUl1UkpXOENUeWR2OUVwbFJEMG1Hem01a1otalhLNjdISjJuekJDYnpxNjE5QlVtXzRwU1Z3TjNwYnQ5YXRmcTllMTNXaUlLdVlTN1ZFZjlXTDBsSl8tbHV0Szh4dDRVaDlEMA?oc=5",
-      "date": "2026-06-21T04:03:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "IIT मंडी के गोल्ड मेडलिस्ट वायुन को माइक्रोसाफ्ट में मिला 55 लाख का पैकेज, पिता बोले- टीचर ने जो बोला था वह सच हुआ - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -97,6 +117,16 @@
       "date": "2026-06-21T01:26:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "Record 321 B.Tech Students Graduate as IIT Mandi Confers Degrees on 643 - Outlook India",
+      "source": "Outlook India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTFVUWGZLa1dWaEk0ZXkwSGMyZ0VZaEphY1VkdmFVcVk5a01yNXluRTVGaXcxT3pqbE9uLTB0aGtsWTI0YTRzc0VJUDc3cERRWXdpU2JPTG5uSnpBM2V4UnNRa1FxcWRReWZkbXBnNmp1THJuR2oydUpYUjFvMVhlVVU3UVozdHBhQkotX2xzWXFWVDlRUmlTS04xTjRGSlNzdTc2Sk8zWThfRnJk0gG6AUFVX3lxTE5rcENjN0NfQWsyRGdVc1ZMX1VqNnRrNk1EZUNfcHo5TXFTMFlTU0otUG9aZTJfMkxwNi1PUExYOVV3emo2c3QxOHl3bFF6ZFh1aVZMd1UxRFpUYzNCTWVvamlVUjBtUGpJc3VBOXBJdjZmR1l0MWhWa2hQbWxIazlPdWRIV0p1X1NSel9sVmRSSEN4Ykg1WjIyQWhTamQxQzBpcUdOcE0yQ2lEUm5ZMUx4LXJrWjhJVS0yQQ?oc=5",
+      "date": "2026-06-20T13:43:39.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "IIT Mandi"
     },
     {
@@ -110,10 +140,10 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "643 विद्यार्थियों को डिग्रियां मिली; 321 बीटेक स्टूडेंट को एक साथ स्नातक उपाधि - Dainik Bhaskar",
+      "title": "मंडी IIT के दीक्षांत समारोह में वायुन को प्रेजिडेंट गोल्ड: 643 विद्यार्थियों को डिग्रियां मिली; 321 बीटेक स... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWg1SUU0R19JSHh2MmIzTFZrOW5XOUdrMTc1bE8wQ0JyNk5aZi1SM0V2b0k5Y1M1ZnhPcDFROUVENFJUWjFpUlU0SVk1MmxkUFk0V2ZMUVd2SlBrR2F0aHhwTXdjQ3pFcUQ4ZkNfVVFrY0pEakZHUi1mMHRzajJGMWV5ZDQtRFU4VXByQ25jRk5rcnNPU0tCNGFmWEM0bmtoXy1QNmdFVXZpMS1fRVVIeEUyQXlEYnRtNEdmMmhBRG1rRzZV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXdaOTl6OXNRUGtfbWRleEZmRGFCbXlRbmtyeGU0RmNRY0R4VmdZQ052M19VOEpCR3lpbEM1S0QzbERtbFRCVlJWbDJpMlhzZXJ1X2JoU0VMaDh5YkVPeVJJRHlBYnZVMWNhUVVfZmpMREktY0lJS0FGd2ltQldkeWt2cHJiWHJjLTVUVVlCQm1VWGJOQ2FYZXpLYlB3cmVKUE91X1kySEpDa3NLUkZRTVFzOXJNSHB3NF9fMWFGQU1TSHPSAcgBQVVfeXFMUHJLTTVvYUUzX3lhNWh2VXQtN0V5aEprX2RGUW5Yb21YV1JjNWJJWkFuUGVtU285aE9UVU80NUNJUEt2aUFMN0gwalRjbGlMSFIwbjJ4bndzbEMzb3ViT2QzYXlfcmZRbVF4aE16Nnd6YTJSeFQ3SVBCUDY4WGlXWEZjYkJySjJoQXBfVUhjeC01SDJXQTgteXNFNXVnTkRtUEVKRkdYNm9vUFdVcjhhZlJ0WEc5TVpFNFIxV3BMN1RWb01QeVAxN2k?oc=5",
       "date": "2026-06-20T13:08:18.000Z",
       "kind": "press",
       "lang": "hi",
@@ -160,16 +190,6 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "JEE वालों के लिए IIT मंडी ने शुरू किया क्वांटम साइंस बीटेक कोर्स, JoSAA से एडमिशन - MSN",
-      "source": "MSN",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxQd1JQS1hjUU41V2FDY3FrNzB2ZTRYeDZSdllINEJTQVl1WlRXUm8tSTR2WW5UWW9POGZ0cGFUa3dfZTlVcC1CcmY3X054dEhVOTVoUzdEdl9neU1qMkdEWHdlR2NyR25yZGZ1YWZoNEcxQzF3NUc4LXFnUk1HMURueExaaEZkMUt0YzFoRnJrVjdpMWRHMDF0eFUyY1kxeEpiZEFjbHNoQjdYYS1taWh1bVB2a214cFhkbnZKTE5TTGdXX0gzSGZiLU82ZnNtT1NYbVZWUVJ1RkNBVlF3X09OZFFkel9TQndrS2g3NGdieFUyTGhMOHJaSG5MTUhHRXFTYmpVVU9maXA2WFBhQ1M4ekpOZWVXbGxVRzVaN19XaHRDQVdQWHpLRDJXTHVOVjY3Y3VuSVRlTURrQnZaeENmai1RR3FfeUN0MnBwQmFreXpkdTNnWXdpRHl6bC14elVVMjcwNklzZHNuZUdjMmpzNTZCN0RPSTB6eTI5NWJBdkgzQWY2RFlTbWNGLTI3bUQzYVkwQjA3OXZ6clRfZEdHSEVlTzI1VmRRUkxGS05oVXIzOVY5STZXdEl2RzI2ZFFfZ1JlcDI1c0Q4cDJwa1lwX2Z0ck04c0k2U3Ztd2s0NEdQNmdZdjgzLVIyU0oxRVhXU2ROWHJSMy1Wb2dHcGp1blJfQ2VXNHhvTW51OGl2Zkh6c3NsZFUtV3I5NGUwd3dScmZkRHAzWHBFNWIzQ1hUVUI3dm9yWmQ1VlV6T1BEYjhLbUtQSU1tdFdDa0tfN050QWs4TlhLM1k5UTJTalJ0RlNPaHREM1cxbGVidTZOSzRxeXRJc3otOVlBY3N5VzM0LW1KNkY0enM4NUlieEtyWVNR?oc=5",
-      "date": "2026-06-19T12:22:13.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "BTech Course: JEE वालों के लिए IIT मंडी ने शुरू किया क्वांटम साइंस बीटेक कोर्स, JoSAA से एडमिशन - Navbharat Times",
       "source": "Navbharat Times",
       "source_id": "google-news-hi",
@@ -180,33 +200,13 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "IIT Mandi to hold 14th convocation on June 20 - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjdvdHdQN2RucjM0QXYxSHlzM0ZqM0I0UzIzTHlGa0Z0X3Ffd253bjlBTVhGdHNaQ0VBTENDWDBDaFhuM2dEVXVueEZhWk5OYTBBd2dZUXBBNkNDTFByZkV6Rm9JM253VGJCYzlWbkJjZWNwcW8xNWZRYjFVazBTSl9GUFNfaTJORHJKOTd1bTYycHfSAZcBQVVfeXFMTV9PYzVZb3pSNkRkZ2tDZmMydjZseS0wVjJacGt6ZFVleG41cTlqaGRIQXBqc1pZRXpyTkgtLVR5RUZ4cmdrTUJycDBObG1lTGRNR3c1Z2xycnlTSU5fVFJGaFlzSC1tOGt4cmZPZFNzdFd2SE42eVdjQUJTLTJyOHNyeG5fVXNicDV5RXlDX3lDRnRSZ29wOA?oc=5",
-      "date": "2026-06-18T19:36:42.000Z",
+      "title": "JEE वालों के लिए IIT मंडी ने शुरू किया क्वांटम साइंस बीटेक कोर्स, JoSAA से एडमिशन - MSN",
+      "source": "MSN",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxQd1JQS1hjUU41V2FDY3FrNzB2ZTRYeDZSdllINEJTQVl1WlRXUm8tSTR2WW5UWW9POGZ0cGFUa3dfZTlVcC1CcmY3X054dEhVOTVoUzdEdl9neU1qMkdEWHdlR2NyR25yZGZ1YWZoNEcxQzF3NUc4LXFnUk1HMURueExaaEZkMUt0YzFoRnJrVjdpMWRHMDF0eFUyY1kxeEpiZEFjbHNoQjdYYS1taWh1bVB2a214cFhkbnZKTE5TTGdXX0gzSGZiLU82ZnNtT1NYbVZWUVJ1RkNBVlF3X09OZFFkel9TQndrS2g3NGdieFUyTGhMOHJaSG5MTUhHRXFTYmpVVU9maXA2WFBhQ1M4ekpOZWVXbGxVRzVaN19XaHRDQVdQWHpLRDJXTHVOVjY3Y3VuSVRlTURrQnZaeENmai1RR3FfeUN0MnBwQmFreXpkdTNnWXdpRHl6bC14elVVMjcwNklzZHNuZUdjMmpzNTZCN0RPSTB6eTI5NWJBdkgzQWY2RFlTbWNGLTI3bUQzYVkwQjA3OXZ6clRfZEdHSEVlTzI1VmRRUkxGS05oVXIzOVY5STZXdEl2RzI2ZFFfZ1JlcDI1c0Q4cDJwa1lwX2Z0ck04c0k2U3Ztd2s0NEdQNmdZdjgzLVIyU0oxRVhXU2ROWHJSMy1Wb2dHcGp1blJfQ2VXNHhvTW51OGl2Zkh6c3NsZFUtV3I5NGUwd3dScmZkRHAzWHBFNWIzQ1hUVUI3dm9yWmQ1VlV6T1BEYjhLbUtQSU1tdFdDa0tfN050QWs4TlhLM1k5UTJTalJ0RlNPaHREM1cxbGVidTZOSzRxeXRJc3otOVlBY3N5VzM0LW1KNkY0enM4NUlieEtyWVNR?oc=5",
+      "date": "2026-06-19T10:36:21.000Z",
       "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "Court orders full fee refund as student leaves seat for IIT, says educational bodies aren’t profit ventures - The Indian Express",
-      "source": "The Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3FKRGFQRkNuMXNhbU5lZ0ZyZTlPZFlSb0NlbVRvLVdRd1VxekcwWEx5WmZXOFJRZ05WQjFtRW95cTNUcU9TSHhJZTFYNG1VRGkteDVwMFJ0MjZDcHN6a2dhVlo3d3NpVUdla3BKYU84YXFYOGxRNFRCOGswRDRqNlBlZnFja3ZQZlZIOWtDTExaY3dfSERZZlhlTjNqdXMzbmI5RWZpRlE5bEVnanFnZWpUZEHSAbsBQVVfeXFMUE1TVzdmbUMyVVFxYS1aZW5oX0JlRThieFJpaDRMNlotbEFwazl0Unc5LUlQZ0M4dEdNaVBINHQ4UkRHd0V2SVc5TVh5YTUteXY5ZjJMSW1ldnNQcGJNQnJKRVoxcTJNZXJCck1BWUNLdmMxTTh1a3VjX28yZ2JSMVMtQWQ4TkIyenlHVzE0RWdzU0lkVXFGU3dzOWxGemNoUWcwOGhLbXdpNUdTQWVackJYX05Sc2JpTXE0cw?oc=5",
-      "date": "2026-06-16T04:20:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT-Mandi concludes international conference on fundamental & advanced research in chemistry - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR00zVHZyTjRxT0x5MlBrRG9VZXpEb2JQVnpFeXF0VS1va0JqNEM3Uk1qOXJHX0dLSEF0R0JLU0JibEdRWGdsSGdXSDZqb1dWc0pYSlBIMzNKUkt6cDd1ZUlwcU5SN2E3Z2VuUUdnOEVPMUFfVUJoNW1jbUpSVl9JekhTNEdlNEtjWVhfR21JTU1tdWlTMDk2WWh5UmZCT1I3Wno0cW5ZeHQtTHplQUhfOEtQMkJkb3I3ZV9CcGNtX1NjQmR0c05WR0hVUmw5bVE?oc=5",
-      "date": "2026-06-14T21:03:04.000Z",
-      "kind": "press",
-      "lang": "en",
+      "lang": "hi",
       "match": "IIT Mandi"
     }
   ],

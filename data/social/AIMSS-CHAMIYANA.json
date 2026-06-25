@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-06-22T21:29:36.824Z",
+  "updated_at": "2026-06-25T20:53:26.699Z",
   "project_id": "AIMSS-CHAMIYANA",
   "counts": {
-    "press": 93,
+    "press": 95,
     "gov": 0,
     "en": 39,
-    "hi": 54,
-    "total": 93
+    "hi": 56,
+    "total": 95
   },
   "mentions": [
     {
       "title": "Shimla News: चमियाना अस्पताल में मल्टीपल स्केलेरोसिस रोग पर हुआ संवाद - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUXpuY0EwZDdjb01od1lZZUtNdnVIU3JpeWdpMng5dDdIV3pHYTBxa0dwNWlKeE5zZTNfN3Fva1NDaC13N2RiSjJZd0VrNFpHY0VVYXNwREJVcWREZ2VrR1dQbFMtY3BuX0FYaW5HQWpHY3p5RU9zYm9CTUlJWE96WVpLRVhjbGdxaUtiOVBHUmpTVmxxSlQ0dmpIVzJBLVo3X05WMzZMNW91XzhoOXgxTWJHWnZ4dWktNVpuRDMzWVN5OXJyRFl0a0NmaXo0ZjZJYXV0SjNn0gHWAUFVX3lxTFBRem5jQTBkN2NvTWh3WVllS012dUhTcml5Z2kyeDl0N0hXekdhMHFrR3A1aUp4TnNlM183cW9rU0NoLXc3ZGJKMll3RWs0WkdjRVVhc3BEQlVxZERnZWtHV1BsUy1jcG5fQVhpbkdBakdjenlFT3Nib0JNSUlYT3pZWktFWGNsZ3FpS2I5UEdSalNWbHFKVDR2akhXMkEtWjdfTlYzNkw1b3VfOGg5eDFNYkdadnh1aS01Wm5EMzNZU3k5cnJEWXRrQ2ZpejRmNklhdXRKM2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVV1YWVrdzlYTzVuSWFLalR1bVZtLUlvMndzSmhnTWpqNjVzeTZzajZBclh1RjljeFFHcnpSQy1HeFhNc2xjSS1vVW9KYTd2QjFfOThVQ25XdEZtTWt2VDFVNTJ2WC1kREtfNXd6MGRrQWpXQVpqX0d5UVQxYUN3RDI1NjAzc3lYOTRCYk81ZGxMUGJTTk9DVzNrMXZYQlRFVDBzRlpaQzNqcERuRmE5dHBWM0pKdno4VUxTNVhqQ1h3amdRNTRsSFNyYXl2dnl20gHWAUFVX3lxTFBRem5jQTBkN2NvTWh3WVllS012dUhTcml5Z2kyeDl0N0hXekdhMHFrR3A1aUp4TnNlM183cW9rU0NoLXc3ZGJKMll3RWs0WkdjRVVhc3BEQlVxZERnZWtHV1BsUy1jcG5fQVhpbkdBakdjenlFT3Nib0JNSUlYT3pZWktFWGNsZ3FpS2I5UEdSalNWbHFKVDR2akhXMkEtWjdfTlYzNkw1b3VfOGg5eDFNYkdadnh1aS01Wm5EMzNZU3k5cnJEWXRrQ2ZpejRmNklhdXRKM2c?oc=5",
       "date": "2026-06-20T18:29:03.000Z",
       "kind": "press",
       "lang": "hi",
@@ -64,7 +64,17 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORUlYcjVtMzRid0l0WjZYczlsZEFvck1HbTJDSENxQVUtUi1JQWl0Mk0zbjVxUHYxamZjOGNMZHhwdVg4WC1Ld3lYUG9nR3ZaaTN5Y2Z4clAzeFJoRlNoZFhxRHhBbkU0UGh3bDNua1pMNENYVHZkQnZkU3BjUktzb0ozS2xyZHVXemE2aVhNRG02Y2UyRXFmQVIzdkVGdzczWTZnWHhLWmVlbzltUzRZb3J6NG11WFptWXhNWFdxRU5ZOG4wV3ZyRk1tdmNFUUFaeW50eEtIVVBzS3R2eE16cHZDRVpRMkVxb2FrZTFTTUNSeWxFVXFMdmdR0gH_AUFVX3lxTE5wTkxwR2xrMzRWMFdER015VnRaaGg1QkxETjA5NlhKdW8xcWMtLUYxLWMwQkJ2S1hLX1A5em5UcGlrQW5pWTAyLWpTdmlRRDFaTG4yNHdwOWt0Zm83Z0NWSTJiMzRVMUpyMU5OeHFMU2Q0S2RvY1RHMWhpOE9Sb1lLNksyZlcwbjM3Y0NleGRpU0hLNnBhYzgzY3B2cUFjc0JJamo2Ni1CYUMwTmhyV0hkcnJtX25odW96cVZqZ3dFV1hNRDgwNXJXZFIyZGpyV3h5WldLWms0eUQ5NmZ3Q0VBalBDWjBCY2dnNk1Nd3NrZHU2UFlkeFU4NlZna3VWTQ?oc=5",
-      "date": "2026-06-10T18:29:02.000Z",
+      "date": "2026-06-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "OPD Schedule: शिमला IGMC व चमियाणा में सोमवार को मिलेंगी विशेषज्ञों की सेवाएं, सोलन में ये डॉक्टर मिलेंगे - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZldiSnZ0QmVyYmxmaVRKOWtsbGIxaDhxalRnNnBxME1ob0NrX29la3MxTVI4bmRIMkhWU3Q4dlpuQVhQd3BIbV85NDlnLXpZSUtsZjZZYjZXNDgzYXFwdDZtZ1otY1V6b0EzTkRpaWF3LVNOWEdxd2NOQ01YV0xfVVZQMHZDbHUtUGQwRWZnc2pHbE1UWmFmMFoyaWVnZ2NlVDUwVWhWeE5wT0FFLUdrUmhrN1JHUk1zRkww?oc=5",
+      "date": "2026-06-07T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chamiyana hospital"
@@ -87,16 +97,6 @@
       "date": "2026-05-27T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "Shimla News: चमियाना अस्पताल में डायलिसिस सेवा शुरू, किडनी मरीजों को राहत - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQREtXaDFFRWFtb2ZCZklnanc5Y0lUQW9fSUxra1RCQXNoSFRPSUtHVjdYRWZCUHdCaU10SUV4bzBxOUs2WlNLMFRZVTB5aTlsTzI4Mk9IQkd0TFdmSVlBM3dpVmdjOWE0V3FJMFJYNUxkVXJYXzJUcXVvNmVhc2VrUUNheU5kenpFOUhzMExUeWNmVVJrU3dMVTd3OTljU0twV01sR2FzbVJzVFN4SXZEcTAzdXM5OGhwREl3WnFNRDhEMGpLWFJ4V0tvdXFXUkZZMzUtN3pYMGtpVW5SWF9FdVR30gHnAUFVX3lxTE1fOVBuakdTRFJEVmFIMW9ld3dEallsMkJWdFJqVWk5UmlEV08wQ2pVS3ZpZWZpcERFd213N0VjYy0yZTFpWksxQk0wUWgzVVh3Q3UxWUhHbTBaeGxETDlfU1ItQU5EMmx6SS10VlMxSGtjT2I0d1VBdXNzcEdJU28xaUZiVFZFTHBFeVZKMjRvYVBXVE5CMFRUU0k2TmpXS2J2ZV84LWxMYTVpaUtZWDVfZnBYcUNfVHdVc0lPX09MaDJlZ25XZy1mZExBQ1hjTW5SeGxsTVNJbzNTZ2Y0RmgtMlp0UW9FVQ?oc=5",
-      "date": "2026-05-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Chamiyana hospital"
     },
     {
@@ -150,6 +150,16 @@
       "match": "Chamiyana hospital"
     },
     {
+      "title": "Anurag Dobhal: 'शायद कभी चल न पाऊं…' अस्पताल से अनुराग डोभाल का दर्दनाक व्लॉग, अब भी हालत है नाजुक - MSN",
+      "source": "MSN",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi6wVBVV95cUxONTVqUE1tUWVua0NDWUtoalc3UGZNMUF5aDF5cXUtLVNRdDlxRDdrd2J2NmxIMkRaYVI4M09qaVowT1djMm9kYjhHSmxDVWk3eEdHck5UbG1qc096NlZEZFBSeHQ1T1VvdmlLczhQSC1PaEdidlBwWk5VcDNfN001TTdjYmIxVEN6dnRhY3pfcGF2amtDRW9DZDlZR1NxT2pLc1ZsVTI2ak84Rm1GLVh5Vjgzd2lxNzVRUnUxM0VCNVNvX0lUSDRvVm9IblRhVktmM05Pc1BIQnhPYWZlOFYzRFJIeDNHR3pMNGI2S1BZS2VtWGN6RkxMYXZJOWhhQW9uMk93eHRVOXJSM0kzbjBIdWhES2FuOVRuQTRzN3Zrd2JIOWVBcG5meXVuSTZfT29ZaGprbkw3VEVTNUc5cXNsY2lmclJaUERjT1dKekNKdUZlSmZ6cEd6M04yNXppZmJ3Z3FRWXJtdmVYQUNNM1Q5dGpuQ2laWkFBcHVZMEltT3VPNXRIZkpFSnZadTY5SnpjQklPUUk0VFc5bnl1VnFUaGhFOU0xeFlRQnRKRmJHcDdDQ1dhLWZfbFU2QWtYNUk2Y0ZvZEZIME9DMDE1QzJva2F5MXN0VXp0ckZMUlhvSXZmekhTdWtCUHNIWEFqaEdrOUMwVllmS0ZQWDlzWHlQWVdTNXBfdlFuUThSZUxOb2czaF9DbGJjdm80RTB3cXZjeGVBSVFaRFkzUUc5bjdudmd5eWp0MEpBdjVObHB2Y1dZdWpkbGx6WEhjcWxxUTZUNFBVLVVxUmFRbGhfcGQ1Sk5MaGF2ekhlRThuZkktR05xbmZEY0QtMVE2NmY5NzF5QlRTMnZod3RTdFAyWUp3dVdxVjZpVmpQZmtVRlhoMzJEN1BoV0thLUY1TFNMT2U0c3hUWVF0dXhOYlRVVjcwSU5Dc2ZmNU1WZG90RlNKbFdkajZGellrWmEwejEzV0ljMWtpdWtIZTRhc0k?oc=5",
+      "date": "2026-03-25T05:37:45.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
       "title": "AIMSS Shimla issues show-cause notices after stray dog found with amputated limb outside facility - CNBC TV18",
       "source": "CNBC TV18",
       "source_id": "google-news-en",
@@ -184,16 +194,6 @@
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXp6TmY2b3h3VEZmMXlZLUJCZ00xeHdFZjRxcmxFX0xsWm4xQWJoaHJYcFFSTkY4eW5SUmI1bkF2ekV0ZHZ4Ylk0Z2RCTlBMdWJMa01yb2R6OVJ1MTVBVW9yMi1yVlNheklzNTBhYkxmNUtRSHV5ai1JS3pnc1pRczFFQ2JmQWhyaVZBaWlpTjRrRDc4Y1RtWkJNZ1I4bVlLU0kwcGx1cVN4b1RZT2FORkxyYzQ0LXVQZV9oTWtLc2NlRWNLYU5KMVIyWEZUNmNuTWdJSWVOcEkzWDjSAeABQVVfeXFMTUxUdERDSDdvUkZ3UUhDZWVDeHhfSWJRaWxRLU5RekxaMjM2dlJHZkVmZkY3R0VTVEFPRC1fV1pNYURfOVVEU0dHTjQ4MjFGSkdZTUhHT3dlWmlySHhscTdfS1dzQVlBRkhncFdxM3h1QlktSFNFaWNyTlNPR0pjTmNCSld2RmI3Q05PWUNNQmlsM0NnMDI3Q1pldUpaV0NqbmZVRW9xOTNfcnJfWnRxZjM4dzFHUHlzaWV3dWh0UTEybjlmNXVCOFBvTUs0cVhxejFIcU5UeDk0Qy0xTFFLejU?oc=5",
-      "date": "2026-02-24T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIMSS Chamiyana"
-    },
-    {
-      "title": "शिमला में अस्पताल परिसर में इंसान की टांग मुंह में लेकर घूमता रहा कुत्ता, अब हुआ बड़ा खुलासा - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOW53TDluM2N4aGtPUFZiZGdCT3BNVkdxdDRBYUNtaWQycFVya2xLWm1UbGloZ2tDSUlnNGM2d0stZ29IbDNneHJLNllBQTc5bWVyZDhTdjlaMHdxR3hldU43S0dzeHlLa29JNTZpUmo0MkY1WWo4cEVqZzdJY1JVS3NuTmhzVGM0cWRadzY0WWVLV3paVTRYNWNtTFpycjdqemxwSUZqVGZEVGFkLXY4d19MalEyTUxuQlZHTHpmTHhwa1AzLWdfY2Q5T3FOZHNDTUtF0gHYAUFVX3lxTFBwSDFYbk4zVFpKdEY3T18zbmktTDlXOTJFZkVwOWVrSUhVMkRkTDhUOVE2NWtfMGo4Njk4NkhtajZYcVZkMmVzSXctaDJjMlZLc3otQWl1MHh4R1RBcjM5NlRpeXJPaFROUVBkbUJhLXVGZ2NqcnAwZTA2UzV3cnRnUXlERk50ZFVaOGJCSXNFQTBfekFzdXlkdU9leDRRb19QekpnTGpBSkt1ZnRncGh0LXFJbTJkdG52RG55NkpzNWVJb3hNQW9hV0xidTAzRWczQWRwZEVyTA?oc=5",
       "date": "2026-02-24T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
