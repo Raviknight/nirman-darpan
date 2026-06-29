@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-06-25T20:53:31.101Z",
+  "updated_at": "2026-06-29T20:47:52.942Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 20,
+    "press": 21,
     "gov": 0,
     "en": 11,
-    "hi": 9,
-    "total": 20
+    "hi": 10,
+    "total": 21
   },
   "mentions": [
+    {
+      "title": "Himachal govt agencies fail to pay Rs 5cr environmental fine, NGT told - MSN",
+      "source": "MSN",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPcUQ1WmE1QTllY3ZjLVJMeThyTGFPMGt1WThwRHBsTHg0dmtvQWp1OGNCaDZER1lrN0R4VFl4d040eWczekZDbEpjVlllR1B5dkg1aE5YZkQwM3lacnJhWlZHRlhzVzRJT09vTHB3TldNWHl6NWFYWGdzb2tpMWJ5dG9rSHF6aUJSX2dxa1MzYW00aTRCS1ozeWRiUUVwMjJIMFp0dEx1b1NQT3QzUXZEcDQ1VUl4a0xUdS0xcFpvcTZqbmZ0UTNDNW01a2ZveEUxYWs4UFJVbEE2QUZWUGE4X3A1YWxBSVBKV0JJS1ZETVVDaERPdVU1YW1wSmpCWFJ6bTNLSGJHMk5TYzhkQlFmekxQOGNuSDFGRmJQamdVVXA4UHUzQW9kczdDdTM3WkdIZzlwUDBUZmoyRGx2aXNBaEpNXzJKUEs5MmlZTVlrQ3A?oc=5",
+      "date": "2026-06-26T23:16:19.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
     {
       "title": "Shimla News: चार हजार पानी का बिल रद्द, जल प्रबंधन निगम को देना होगा दस हजार हर्जाना - Amar Ujala",
       "source": "Amar Ujala",
@@ -20,31 +30,11 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "Himachal govt agencies fail to pay Rs 5cr environmental fine, NGT told - MSN",
-      "source": "MSN",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1h3STVfd2d3akh5Qm0tWk4xc2tjZTdoSVN1Y0hZSm1GeUVja0UzUldZRFNnYWxRMm1oc045OU5Vd2VJMTY1Rk5yTUh1V3AwVVNRbUd3MWhlaHFoVTU4clVkVnRDUElaWkMtZDRpeEJXdm1kWVBDQXZGcFZrZHZzX1Z6R1o4WE5fNV81cnFsSnRfd0RDMHZiSjFoN0g0bXRmR3hVRl82emhLaEs5Z3ZCM05YQ0g5VzBoMEE?oc=5",
-      "date": "2026-06-19T21:27:44.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
       "title": "हिमाचल के इस शहर में लगेंगे पानी के नए ऑटोमेटिक मीटर, उपभोक्ताओं को मिलेगा ये फायदा - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0JUVDk3WUdfYy1DblNpZWRzMEhQdnR3UU05TFVVeWpwaEljQk1SWDRmVml1YUtZNnZzTDlTZXBCVGhITTJybE5tZS1KVi15a09JU2RKQnNZQkQ3UlBTRVVfOHNfeHNkVk04RHNCblJKMDJwLVUxcW5hN21CRkRtRm9JcDV6clNyUEo4Nlp5N2w2cFVWVk1hbk50SXlqZU5CNktwZ3pVclJJcHVheVZBU0pkZmlidkpheFJPS09jcTJoUDNEMjBsempQV0pjVHMwRDM1dnNEYUJRYUdsRzU40gHkAUFVX3lxTE5zNldITVl4eXZaRzFIb3FtUzhlMndBa2xSNHdIVnNlYjFyeXBrVnhOT2UyLXJUQW9reUVHc2xhS0xRUUYzRnEyaV9CWmZUV1JvXzBLMUhwWnJJNEI3VWFRYkFDQUxlb0M3czFFRnRnd0d4ZE5kSm9DVTRjbV9NMnE5UVIxTnk5LXBmdVhoUXptU3FwSC1jc19nXzBPdGxrU0c4TDVVbkJNQVhXYlBDZWpwQnFuZnVuekMybGRBU25RczdoX0NzYkNIdVU1aE9TV24xNTZLYkJMeGd6R2llRVBPUTV1OQ?oc=5",
       "date": "2026-04-17T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "हिमाचल में सरकारी आवासों का 2.88 करोड़ रुपये का पानी बिल बकाया, खाली आवासों ने बढ़ाया जल शक्ति विभाग का सिरदर्दा - himachal pradesh government housing projects outstanding water bills of rs 288 crore with vaca - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOTk53aHRqclBMTEVhc09jTDRNRkJqZWE4RVdqdFhkdmFyRGhjNVF1NXJrUDJpWGFhV3lsZ1J2RUluM29BZTRDcWVIbXQxMW5obDNDbTIwdnMzMnd3RGM5MDlILUtJY3BhSTBsdDloVTdsWWVvdm1lanFQWWl4c2doMjFjdnZfY0ExMGY1Nkh0MWd1M2wxTF9heGRBdGgzRFJSb1JOQlcyeE81cDM3aFZia0h2U0V5cURYSU9KX2hkREpCaGI1ck04dDRSZ2tvYlp2aHFrUFFRYXE2c2JTd3FTRFVYOHNJTDR6MkxXLXBUQnBhX3AxbzM5WC1xbEZIc1JLUHZlN1NuSXQwUnBDVjZael85NnBMcktzQW9JVFdQa1lUcHVKSXlETm1fUUdXRHo4?oc=5",
-      "date": "2026-04-14T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla Jal Prabandhan"
@@ -80,6 +70,16 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
+      "title": "SJPNL को वर्ल्ड बैंक से मिली 587.19 करोड़ की राशि, विधानसभा में सरकार ने दी जानकारी - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1NoMkx1VzliajJ1ajZJXzkyYUZiY3U4bE5NZ3luMnpIOEx5eWpkSUVWd2hpajFOYmtpanA2dm8xSDlBTU1JU2ZkZjRYVGJQLThvTHlBNnlWTkIyZ1M3aUU0QndURHJ6cVZkaE42TVkyZks3d1E5SjEteU41UEM1eHJRVFM2ZHlSS0V2R2RjdV9HZndBdlhadjVpUWVNVTZwM21pT2MxV1VlcTVWcWRSUnRMZU9sOVdHcC1JMkhWb9IBxAFBVV95cUxOSll1bTYyRWNJVVlrUXg2UTZuOHNvNVpUTVFSaFcwS2tZM3JZWXdvZDUzWERPalpJaTNEdW5WaXZnR09JaWFva2s0bGxvR0RIcnUtWS1qdGRwTFlCSHZOZkIyTVZGelZndGczazUwZEV6ZU9DclM0LXVIT1dKd3daWTZiWTlkRFlzdTFfT2tJeFA2SmFYbDVhS0J5dkFFV1FGX2RpYTNJVGFERWJaSy1hQk1GYnNHVjVjbHI4RVBYSVRoRS1J?oc=5",
+      "date": "2025-12-06T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJPNL Shimla"
+    },
+    {
       "title": "Govt-run sewage treatment plants fined nearly Rs 3cr for polluting Himachal rivers - The Times of India",
       "source": "The Times of India",
       "source_id": "google-news-en",
@@ -97,6 +97,16 @@
       "date": "2025-04-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "शिमला में महंगी होगी पानी की आपूर्ति, SJPNL ने टैरिफ में की 10 प्रतिशत की बढ़ोतरी - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRU1fcUlEMGhyeDZlUEhhcEszOTFUWlFrakluUUlKb0E2NnYyTnV3czFJWE4yN21tSkNZNW1qQndjS2R3SjZGSmlOQkd0UHJzbUplTkxfQ1gtVDZEakVsMHY5T29FMlVoOWdURUQxNVU4ZGs4SmlFYnQ0dmFRcHRjNnJZVXhuZmluRW40NkFZWkpTQ1NlVktNdDlyd1NJTGV3YkNhZVNhdWlsX3dHZXZKWWNSYjJCM0pDYVdORDNOUE90S1VYOW1zdWtBYTg5LW5nc3FtSkNHbGhnN0lIaGdYUVFZc9IB6AFBVV95cUxNR19pYmpwYWJBcUZmd090eW5vS1ZNSFVkeXE0NnQ4b3RjZVV1LTlsbHZPY25ZaXdySG13cUxjWmFJbHJFYjAzdXNqYXlZTDAtRHVhNzVOWnNtZnJtcDR3NXpCVUJvZmFoN2N6Z1RHblF3V2lmSU5KdGRoelFRYkI4Q2I0NF9pemI5cW9jMEd2VEdpUXJfS0RnS1ZHZmNYcDU5aWcteGZDZWREeWtuU2otMnktd2M3U2RqU1dsUElHWGp0MDdyZnk2S1o2T1E3ZzVMaDdQb3JQS3JmYU9nSmFKYi1lc215SHB5?oc=5",
+      "date": "2025-04-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Shimla Jal Prabandhan"
     },
     {
@@ -185,16 +195,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iYmVIdnVuaEFlMS1aZUFucDJaYjJ6Yy10ZGZZanV3VlYzZ2FXeXRzanMtTjVFUTFKelhMLUxXVklUYURmam5Odm1oaUpBYTY5T1BsY2pkQ1I0ZXJwTzBnY2pQb01OSDRZU3dB0gFwQVVfeXFMUHJyZThGd0lHQkt3S3dlM180M3FVLTZrb19TRS0tbHp0Ti1TUV96dEd2cVA5TWhEZU9iMGJYMFRtMy1qZHRoVldqS1N3U1p2TmJaTHpDUDJHT3Q3RXBHaTE5c2NhaUkyVG5HQ0tYcnVUVg?oc=5",
       "date": "2019-06-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "शिमला में पानी की समस्या की शिकायत दर्ज कराने के लिए लांच होगा टोल फ्री नंबर - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWmxJNm1rN29YQ2VUUHdiZzhlS3hlVDZNS1I1OHVkbU43U1Niajg2ZEdkUG1hbGNjTVVyd3JXM3VXcml6RWZXaWFJbVItT1l4MldJbTZZYlBSZENzTXl2R01nQkg3OEVNZkNoMFhDakJyTnV6ZkdZRVlOYmF6bEQ0ZW5PNmxScUVPbTh0UDdVZG9PWmZsTDNOT0NwcnN2eG16ZzNZckNkcDEzTjM0VFBlZzZ4aW5ZclNFX2ctem91ZVZtdWFVTmJTajFiZnliMVFjcldxcF93bG5OeV8yaDV6ZzlHc285TXF5REc5MlBOUdIB9AFBVV95cUxPaFJPQVZ6dnBkWjBWQlNYVVVrY3Y1SlNUXzRLSnhWQV9Kb1NkLWNlRlkwUUlaYmhQZk9FV1RYRDJUYVJ3RE1HTUlVdC1tT0RvTmVEMXcyVi1CcEpYeGRWRGItTU90VUk3M2NpNk51RXREeGUweFlnQjJQYjNHN3pGZVI4WHZfNU1pQUhBdHdCY3ZlZDZJY1lBOU9zcVY0cHUyUWdtLVlRVHpUZHV1NnJOS0xoR0lKZElEYjVVRDNoMndoMFZkbVh5M0VvWm9RbGNvS05MUjlzUHFyNVNEWG93NWR0a0t5MlhXdDBEVWF3eW9JcHA1?oc=5",
-      "date": "2019-03-18T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla Jal Prabandhan"

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-25T20:52:49.069Z",
+  "updated_at": "2026-06-29T20:47:09.104Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
-    "press": 252,
+    "press": 244,
     "gov": 0,
     "en": 143,
-    "hi": 109,
-    "total": 252
+    "hi": 101,
+    "total": 244
   },
   "mentions": [
     {
@@ -14,7 +14,7 @@
       "source": "Jagran",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXhRZjltWDJPMzlhQUpEVi00cjVwd1FCSWl0OHpjYnpOTEREWUl1eWZTTUtJODljUmcxQ1FURDVwcHlUTVk4OWpVamhuRXk1a2dUb18weDJlZnU5T1ZpTXZ1WHJlSmI3OU4wSlFYTnVZNkN5bGxLaVdfblJNVGtOZDJ6VGJsdEFuSzY0Zzk5R3VBLTdZT2ZkSjF0N25PZG5hbDNZR1ZtOFVSZ3lSaVF1X2pvMkVGMVdBTk1UYQ?oc=5",
-      "date": "2026-06-20T12:28:00.000Z",
+      "date": "2026-06-20T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"
@@ -44,7 +44,7 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObnNoYThLUkVyRzNfQklNZWkzMThwVDRMREx6TVoxM0ExNXpTTktoem9pWVZKVTFaOGlSZkE4OGJhbXFOM1BhbU5INUhnYXdPdExLd1U2VHBUSUVIVmxsSTc0T1pGTmd2Y2FZSEYwdWxTd19BTm4wNWZvNldSTXJFR0lIUndhbjBBcFVZMVhONkR1ZDV0Vng1bUVOZ0ZiS3hRdEhKT1hVZUowVGR5M0RGLVRCWjZrMVdhWFllbThFckhCdmdDSllFcHdpTGZDSU9YSlROOWV5WEl0VXdxZ3RGZmlLaEhPMER1clZsbWd6Z0lpdFloWHRVRnJDVktfSFlkek51Nm40MDhmX3FrNU56QW42MDI5bEpzTFc0aWVHNU4tX2pKN0ZObE9B0gGvAkFVX3lxTE9YTUdRTHdialR3ZVhMczhDZzVjZDRSSVZXcDNBMHpxUEJxUHFlUTVrXzlFTkNXemhYak5RUHdZMEpGQ21Sb0NlaFVxQ3YxQmx4cXZSbnpkUUU2ZkV6TEp2cE11UHg3MFAtRHNPSURWY2dySUppaHlsdzVCeW1PTmoyYlVickxtUUhtTVd1aEhEZVlBamZldlp6dGVITkRUNWY5MERlTlJEZXBnUm5oUWJ1b19YOE5BcEZyS3B1U0FrQk5ZSnpmNC1kWUF1R3JUTWJRMURCMV9jeEpRNkRmdElvZ3J6am5lR3pMX0tWTWRERzEwWW9OcC10Y1VoWnNySTFpNkpsMEJ3dTBKRlhUZ3dVYlBUZGJXeW92Rkt6MUZvZWJhMW9PT2pqYTVSbkRnUQ?oc=5",
-      "date": "2026-06-12T17:21:02.000Z",
+      "date": "2026-06-12T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Kiratpur Nerchowk"
@@ -70,21 +70,11 @@
       "match": "Kiratpur Nerchowk"
     },
     {
-      "title": "Bilaspur News: कीरतपुर-नेरचौक फोरलेन के गरामोड़ टोल प्लाजा पर हंगामा - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "किरतपुर-नैरचौक फोरलेन पर बड़ा हादसा : लकड़ी से भरा ट्रक पलटा, दो घायल, 2 घंटे लगा जाम - himachaldastak.com",
+      "source": "himachaldastak.com",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSEtqYlYzS3pWQ1Z0U09xUUpPd0h5eHlhS1NLc29Pb1J4em1vdkx4eDRqTnVDV1AtdVdDdzBWV1ZUODVGSXRCUERncFlZQUJLT0JOUFo4NWFJOWpFamllZnlaNWhMbEpvLVhOa1dIZ1BsRGQ5VVAzdVJxUTQtemRzYXA0MmFfMW93SW1BT3d3MG5heXJUN3JwQ2RXcDhUSmpLSnYzRUxTdlppeUNrNXVPelFsUkpicnNOT0JsaVZWN2tFdWRkcHBid0p5S0ZGQUkyY0ltOXdJMGVGN0REdGhCeHVBaW5xbVZLdGhESjhuVHDSAfYBQVVfeXFMUHlBNFhkaEZWTDZTRktqWTZ5TDdhbS16YTJtOU9wWXRUaTRXVkNTZThLY0lDSjBoZ3lQbTE5dm1peGV1MU9XNkJhZzBWN2E3MmlTOFRYR1VoaVlVeFNhZzFtM1Z1ZFFhRzFkaHZVZ0FJSmRwQmNUNzdPc2tUeTNuWWNwcGIzelNMOEs2dUNDTzdnTnBja1k3SkxVb2dTb005WGZPUmxvS01POU56NlNTTWFXenlGbzd5NE02QXBiSlJ3aWRwTnotQW9xVTVfeEhZZEowMlczb3hRai1OcFBMN0xWdzVBNEVlX3ktd0JtRFlWTlFHMjFB?oc=5",
-      "date": "2026-06-04T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
-      "title": "Himachal: कीरतपुर-नेरचौक फोरलेन के गरामोड़ टोल प्लाजा पर हंगामा, पांच घंटे फ्री रखा टोल - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNkRqeEZnWUVyX3VvQWZkdkxuSVBFSTRNYXFHNzIycXdURi1QREZJMUZTNk1sN0RJZFk3ZlI1b0laNC03YXc2M2ZXcUJfbm5OaS1UeWJxY2VDVkh2OEt0eDA1U1FBMHFoMFY3N0U4VERfYzdaRlRMaVl2dW10ZlJjOWtMNjNSM0NXSEloNXJVTk00QTREdUVleW9rMm1RUEp1ZktndXExMHNGeUJHZTU4UllVMDNnSXpCSmhDcXR3UEt1YnRNcE5lUzQ4OFBDNjFsQkFJdUZHb1loWDg0eEo3WGdoVVFTR0Nu0gHuAUFVX3lxTE00dDJKSUtMbmRteFZLdElSMGdoYi1oSkVZbDBDRDhzME9nWnVkZVk5ZHhTRnY5NjUwcHpIR1NRUnFOOEUtd09tbFNtZ0lqRlRYdWJEejJ6WGV1cXI5eGRWWjVadlU1Vkg3cTZhV1pIU28yRGd2Rlhhd0pZZTZ5N3V6akQ0N190MzQybDE2R1I5OHhXbG9UbmpiLUVmV0NneDVVdXdGa0N2TDk1ZjJCMGM1NmdMSlpIT3VEV2tXWGsweURqME5vOVRscGItemRHWEhxQ3V4YUtVZGhiUUY3ckFYWTZWcGRoa0p2Z2hKUlE?oc=5",
-      "date": "2026-06-04T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TbFBrNEltaXBaUFZIanJaZHJScHltSUw5cmdLdFB4bjdYMzBCRjdoMm5lbk1DZ0RQVHY3TEtWVkRxdFdCQ0JOOWpUNlhKZU5zVFhLT1d6a1VRYnRXMEpRMnBydFN3cXNqanFWdEtCUW55bEhaOGdqZHNuRQ?oc=5",
+      "date": "2026-06-08T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Kiratpur Nerchowk"
@@ -143,7 +133,7 @@
       "title": "Entry tax hike by Himachal: Punjab taxi, truck drivers block Manali highway in Kiratpur - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLW0yR2ZLbjBpalJhX2RsX29hQ3Exc2RYektaOUlTdlJwR1hUbVo2R2REckZ3bWxjb0xVeG1sQVFWTTZoTmpFSFlKVElyNTVYQjVWZDVpTnNzdElwdWJlOS1BNy1vUk9DTTZMR0pVTFVqTGRNdWx3NEpBZHc5Q1dVSVBXdmVsLUZsWWRwZGFGeFhuV1BuUTIzRlVoamRzX2JlT1JEQ2hBMy1VRk82TGtRNm1FTkpTbTFuRDZlSDZXM29fb1pU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLW0yR2ZLbjBpalJhX2RsX29hQ3Exc2RYektaOUlTdlJwR1hUbVo2R2REckZ3bWxjb0xVeG1sQVFWTTZoTmpFSFlKVElyNTVYQjVWZDVpTnNzdElwdWJlOS1BNy1vUk9DTTZMR0pVTFVqTGRNdWx3NEpBZHc5Q1dVSVBXdmVsLUZsWWRwZGFGeFhuV1BuUTIzRlVoamRzX2JlT1JEQ2hBMy1VRk82TGtRNm1FTkpTbTFuRDZlSDZXM29fb1pU0gHIAUFVX3lxTFBhVWFSclhIcWN1RU1yTWpQOGZ3d2tmM2dEYlRTVWstQVVRZjBBZU9HWmtScHozOVFWM1RUOGV5eWhHRXY4U2ZaVUJoLUxaMnlEMjQ1YUgwYmZqa2JVNjh2LVJ5TFlJM1BhTmVMQ3M1QWZqMXdOdHphN3paa3JjLThMa0loampxTjdiRFJLSi1JN2pjNjNaNzVlbUJLSW15WHd2djdyUGpnbXpXOVkyV01OT1Zob3pPbkxZUkVOV3dwSDBWa01tUWly?oc=5",
       "date": "2026-04-05T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -193,7 +183,7 @@
       "title": "Himachal Pradesh entry tax hike: Where are the protests happening on Himachal-Punjab border - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmRIU1k4eXAyM1RQcFhRSmJ6Z0tjeTJld19leDVMb1dHbXVxaENfTXBiclJzMkFsQXBCYnhuRG9PSHZrNWVZbTBDLV9aWW5CMWFCZi1uRktxdC1JSmxZaHpZaFE4clFWWXFGdXZibm9nMWppek5UaFlOZDU0andGTEpLOXZmaEVWajZxM29SSDROQlliMjVELUdvVDhSZkFiYnQ0YndaZUtMVlByTHBJZEFoZDhKRDI1Zk91Tm5xaVIzQXlNbTRPUXNuOGJQbE0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmRIU1k4eXAyM1RQcFhRSmJ6Z0tjeTJld19leDVMb1dHbXVxaENfTXBiclJzMkFsQXBCYnhuRG9PSHZrNWVZbTBDLV9aWW5CMWFCZi1uRktxdC1JSmxZaHpZaFE4clFWWXFGdXZibm9nMWppek5UaFlOZDU0andGTEpLOXZmaEVWajZxM29SSDROQlliMjVELUdvVDhSZkFiYnQ0YndaZUtMVlByTHBJZEFoZDhKRDI1Zk91Tm5xaVIzQXlNbTRPUXNuOGJQbE3SAdMBQVVfeXFMUGJ1bXlSSWs4UmhyM09HQkd6a3VrcVl3dE5ZMFlIOWFXMm9YMXRJSmI4eTlfTzFOTm1ieWt2SzV5X3dvU3lRNUZrWlN5NmRjSmhLNWdud3lkSGUyNmNjTXgzV1ZZWkVCdE5vUlM3YXNYcXp2Wkw3Sk0tRjdFaVNjSHNiUC1Fd1c3MWpKX2pOUHdhS0Y2QzNhdHNCYmF1ZkJLb2x6ZFlCUDlVMlNzNGNCWEYyUE91cy1NYnZkM3VaQTVIaHdzNmNIUFRQZXg0Ni1sbVZUVQ?oc=5",
       "date": "2026-04-01T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -207,6 +197,16 @@
       "date": "2026-03-31T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "हिमाचल के पंडोह में चंडीगढ़-मनाली हाईवे पर निजी बस-कार में भीषण टक्कर, युवक और युवती की मौत, दो सवार घायल - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVlZUa3FKSDVZaXA3V3M3bW9UckNjR19FVUx6cmswUkFkVHBGV0pRSnFuMnVBdHhuNnNJN0JYSmZuUlJsVVZWLUcxLUdfQlRTYVU2TFhvblpuNWotQ3dKUmZ3eXhfVlYtLWFvbGppV2I2Y1BnNnJSVURQWElnVWxDNXFlZENaQUh6NlMwanZkZ1FGV3VlWnRFSjlrcFpTeW5rQlRyMEFhZ2czZ2tTMkZiR1pGOUt4N2RoanN0UUNhbVh1OHFCdm55QXY2TDJyT3UzS0hWNDNmQm5PejZ2YW9wd3ZWVXNYd1lyUWlHcGlya3Z4WVZ3QVkyeU5R0gH_AUFVX3lxTE5pRGRveEpDaWUwNVZrS09wUXVUbEV4c0JDT2gwVGlNMGZBYS1kSzY3Sl9DSjVRUmR6VVFKc0xtbW93UXFqV3p4TWRrbldGOTE1MUZuOThHa0lWRTB2aWcxZ0FCSUR6eTZ5Q01fS3ZoTUdndkl5VEdYeDBWSmNxOG03WmJWNmZBT0hEMlVWRUh4MW5LaUU4LUhzWVJtZUdJOE13RGZaMHlGdEluVG1CdVhlOW45UFRXcDN0SV81WlBScDNXZ2FGOFJDa2FDd2twcU5zbDFnMTh2UW9ObGJlYVdReDl4WHV3NUxybFc1MTFFZUV6NVowMTJuTHM0NlhMSQ?oc=5",
+      "date": "2026-03-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Chandigarh Manali highway"
     }
   ],

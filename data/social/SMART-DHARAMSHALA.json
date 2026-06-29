@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-25T20:53:28.717Z",
+  "updated_at": "2026-06-29T20:47:50.548Z",
   "project_id": "SMART-DHARAMSHALA",
   "counts": {
-    "press": 69,
+    "press": 65,
     "gov": 0,
-    "en": 46,
-    "hi": 23,
-    "total": 69
+    "en": 43,
+    "hi": 22,
+    "total": 65
   },
   "mentions": [
     {
@@ -14,7 +14,7 @@
       "source": "MSN",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNcEYwQ1ZaV2xkaFlfSjgxbkNZSklJZ3pVa3podGVwSXlScU1BTG9UY3BWejZHb3FFNjJyZ1BYMG5pNktfUlBWdFl5amc5d1BVd1RSTmkzNk5rRG5qazdSVTI5Y2tPSWkzQ2hpc3k5cGRWMFZsZWRRdE9ua2NITWRtS1BNS0lybk1sZTRfeTZnLURlazI5NkNuTGt1a05nVEQzc1g4VlJRRldlT3pUcklnc0pKRUNLamJYdGthakdRNjZhUVdmdjMtM05UUWpIdVhuOHF0M1g4OWV0aUZ4LUZzdlp4OXlqWjVJc1ZkQmFJcEtJbFYxR2I2Sl8ycDNlcHNlWUdwNzFIUWpTSWtxVFVPSXQ4M25WVk05VzZnakxQaVZuNW9BcXFONENEYndUbnl3NWVwQTFWRjZmaGhMNEtncVpTRi00QUxPSVNkYWEwbGJzZw?oc=5",
-      "date": "2026-06-20T11:41:36.000Z",
+      "date": "2026-06-27T06:26:45.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dharamshala Smart City"
@@ -30,13 +30,13 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "धर्मशाला : मुख्यमंत्री ने पुनर्विकसित फव्वारा चौक एवं ई-बस चार्जिंग डिपो का किया लोकार्पण - himachaldastak.com",
-      "source": "himachaldastak.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wN0FJZUdjYTE4N2FjNHdKYV9EOVBCR3gzbHk5RWYzd0g1YlBQRmxRZ2hCMm1waWpweFlvbnAxVjF2WDRkcVNMaGpLbDMtQmJDWlJCcUJ4NXFYbEV3dlFhVGM5bU5jODRBU1ZudGYwblZIX2xxZGlTeDJfU1c?oc=5",
-      "date": "2026-06-17T15:33:07.000Z",
+      "title": "CM inaugurates redeveloped Fountain Chowk in Dharamshala - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORS1seVN5ZzBhV2N2YjdnV3ZqWHJaZjZhZ241T1JVNkZKeTBFeGVLaHMwWk9EbFQ0ZVI2OFJLcHBoYnhYUGhLRHFrczBSNnV1ZlJmWHg1MWdad25KSEJ0TUs3NEtBZUhHY05HTWoxS0ZIeEJmT0NrcDVCQjI4WnVwZFIybnVKWW9VRl80ZXVQOW9ray0xUjlWYWkycktIYU5GN2lUcFZuX0luTGN1aThWdTVPd1ZTSm04b0VseEd3T0ZTbjVIc2g3UlV5YXdzWEnSAdQBQVVfeXFMUFRpYXRKbUdqb05mOWpTQnlQUHRDS1ZzTnU4MXhRYmR3TVVJM29fVUtPaTNpS2RpMkQtamdFRV9JXzZkNGhReFZycmVZVG82bVlRNWcwcmhQdlRCYzlpSm9HLXpKSTZuSWVqQ1VSS05Od21oYVMxNXpnejdENTg1Zk1FSmVXRnZVSEo2V1dYVTNiUzRudWhuTFFOQVVhdUJmd2FJZ1c5SFZhNi1mN3NFM3gxekFlTEUyMm91ekdTZDY4N2FyQ1dMc05UOWtZelRmREp2dTg?oc=5",
+      "date": "2026-06-17T07:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Dharamshala Smart City"
     },
     {
@@ -44,17 +44,27 @@
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzVTZTVxZF81bzBNX1V6cjBpak9XTWxVS3lxZnhrdGVmUDlKRzdDZ0NkNWtoSmtUUEpJeGpObkxhYmdScW44REJYdm5ETDEwNVdFMHh4RmMzcGZZdFh6ZzVuM1F1OUJFbExRQXBOWmJaS3lWNUdMQ1ZpV0Qzb0J5V2Y1U0J3bzU2bjdfU0xHUUFvMkZOcHZDSFZNSGlPWFczRG5mclp0VzYtbzZxeWtQU09RZGpCejJwZjlV0gHAAUFVX3lxTE5ELTg0VGpmc2F5Qm1OTW4zX3Q0OTNMSExkSzcwNXozaXVSSUdyRFhNS1RWTXMtYWlISDI2LVRlOFhCUGI2VEpjOUw0Nm1OOEp1Z29SNnp1VVlhcG15eVE5aTRNbEU1a3pnVWozcS1fa2JPLXdBMXd1ZmZ0NGlJMnZ6QnZSZGZSc0RlNzdadkQzbTJhUmpXX2NyNUx3ZTgtUkRxRmdhZHRLeDgwTWs2bEZLZExlLUJuN0htMUZlWVdITA?oc=5",
-      "date": "2026-06-17T13:07:52.000Z",
+      "date": "2026-06-17T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "धर्मशाला स्मार्ट सिटी 82.73 करोड़ की देनदारी में फंसी: 542.89 करोड़ के बजट के बाद भी बैंक में सिर्फ 62.28 क... - Dainik Bhaskar",
+      "title": "धर्मशाला स्मार्ट सिटी 82.73 करोड़ की देनदारी में फंसी: - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdDJicXNqd3czZEN2WFplTExzMTJ6QkxyMjJmejdsd0piLU1jQ3Y2R0RkNXE0YXJsenVnaEdzcmlpNlpqajE3a2ZtaWJzSE1vMUVDQXJRcHIzOHlGdU5JV1dwSlB6MGlydjJhY29tZEZnQmo4ejluMEllVWwwOXVHcktwWTFxTkppa1RGVFFfamoxcGFjcjI2WXU5TDZUMlc1STF5OHBPUDVjTHdpSDU4MDFkTG94RG5kdnRLa1JlS3A3T19OUVRWN9IBzgFBVV95cUxOUU8yOG43M0xyNXpCWTVRQkJNYkdKanJ6bl9scEM2RXZQb1lxc2JYTjlPclN5am5TTVdpWTZUVWk5bWlsd2h4RFZ2ZDRRa2ZVQzlJb2RSSTBUMXRqMExlbmZ3UGltcUYzU0FnUWVMMTMycjB6ZG1NMWlybEQxYWZRS0NMV0xZa2VjVENaS3BiTUtWOUR1aU9oVmN1NGxDbC1Ic3NydnhQal8tZU1faE4xS0dxcDR0RUFWdjJOTE8xc2t1Slo4cGdRckVNZDFpZw?oc=5",
-      "date": "2026-06-17T10:32:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdDJicXNqd3czZEN2WFplTExzMTJ6QkxyMjJmejdsd0piLU1jQ3Y2R0RkNXE0YXJsenVnaEdzcmlpNlpqajE3a2ZtaWJzSE1vMUVDQXJRcHIzOHlGdU5JV1dwSlB6MGlydjJhY29tZEZnQmo4ejluMEllVWwwOXVHcktwWTFxTkppa1RGVFFfamoxcGFjcjI2WXU5TDZUMlc1STF5OHBPUDVjTHdpSDU4MDFkTG94RG5kdnRLa1JlS3A3T19OUVRWNw?oc=5",
+      "date": "2026-06-17T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dharamshala Smart City"
+    },
+    {
+      "title": "धर्मशाला : मुख्यमंत्री ने पुनर्विकसित फव्वारा चौक एवं ई-बस चार्जिंग डिपो का किया लोकार्पण - himachaldastak.com",
+      "source": "himachaldastak.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wN0FJZUdjYTE4N2FjNHdKYV9EOVBCR3gzbHk5RWYzd0g1YlBQRmxRZ2hCMm1waWpweFlvbnAxVjF2WDRkcVNMaGpLbDMtQmJDWlJCcUJ4NXFYbEV3dlFhVGM5bU5jODRBU1ZudGYwblZIX2xxZGlTeDJfU1c?oc=5",
+      "date": "2026-06-17T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala Smart City"
@@ -100,11 +110,11 @@
       "match": "DSCL"
     },
     {
-      "title": "Dripping Springs Community Library connects writers in spotlight series - haysfreepress.com",
-      "source": "haysfreepress.com",
+      "title": "CAG pulls up DSCL for irregularities, mismanagement - Pioneer Edge",
+      "source": "Pioneer Edge",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHp3aUFrOGZQeGhubjlLRzN5b1pxbW1XUmtkZmVsYnRReDlodTFJSXA3dFJXVF9tV3ZyanFNdHJlVmhYR1NWdmJPS0VzV19GSEp4MU40MWJjaHBlM1dsTnc5UjNhTExnMzBUUzctM2NPTGRmSloyaWtNTlZuQTdqRGJQT0lWbzhhNXpRWEtjd1gwNWxHbnM3blNrZU0yVzBWVmlueHVzY3UtcV9aMGtSSHhlWXp6UQ?oc=5",
-      "date": "2026-02-18T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWHpNZ2xtWkt5VS11b3UtN0hsS2trdFpxYVB4TzgxQkhfVWRiMkoweTRjWFpMZjBaSEVrYWxoVlpzdlJUNllDTmZMZkZKbFE2V2FqdVAtYmxQS0xPT184RmlPbGRoNUpvSTktLWdaNzZTN25ZUFFUZ2kxWEItVTQ?oc=5",
+      "date": "2026-03-10T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "DSCL"
@@ -140,8 +150,8 @@
       "match": "DSCL"
     },
     {
-      "title": "Penny stock under ₹5 declares Capex expansion after closure of rights issue worth ₹149.22 crore - Mint",
-      "source": "Mint",
+      "title": "Penny stock under ₹5 declares Capex expansion after closure of rights issue worth ₹149.22 crore - livemint.com",
+      "source": "livemint.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdGFScTA5MTlpazBiaFZRNHZPeUxsUG1rRTdrSlotckJUNlgxSk94WW4xT2NXNnVOZTRGSGh6MEZhM3VvQnk3eWRzNFlaV0VlZXI5MHJsbTgteTJkWFN0NHBaWTNsendSb3E0V2JmS0tWbzRaNUtKU2VPS1R2X3hWOFNrY2pXc3FwWWgwVUxwT2xVS1R6cWRxLTVzQ1hvVkxJRmRHS2R1dF9wV2hSM3o1ODN1VFVTZGhMZEEzU1V2VmhkUTJBdUxBdVcteHlyLU5ma0h2cFZPWjNjTWU4SU5CN25nQWZyR3ZTMlY1LTRvX24tUzU1aVkyek9rcEdSRlJOTE1VVk1GWU40WnhINUtKZ3habm5aUdIBmwJBVV95cUxQZ0VKanBxUm9rdmVEMUJHZ20tUmZIVGRMbmZySjYzM1VTNml1bWZ3SGdwdzF2OEpzbDNhMGZHVEZfTDNIbHExQVBXTW0tYWNCbEF2ZFVCcVJsWGJ1VzhYT1VBekt6bWlOQWs2X0ZULU4xaEZ3ZHY1WE1ENTRPV0NlLVJObWlhdEdpLUp3WDUwMmFOcV9oRWI4cXRySDd5bDJCYVRPWlV3VWdfVjNrVzJVcDRFV2tPWVp2emNjYVhubHQ5WkdnYWdDa29fNGctNnRYTDFUcF9qLVY0eHNXZFRxajdzM09PaXhVSUJwLTYtZDl1T2tjdXdUQU1JV1pTdDQyR3RQMlAxaXQtcmdmV19DemxoR1J2blpsaHhr?oc=5",
       "date": "2025-08-31T07:00:00.000Z",
@@ -155,16 +165,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPODRqVHNUTHA3T1gwbEd2Rm1kRV9xT1VIMUZMUF84MmxVcVVIemt2MzRhdk5WVE9oSTA3ZGI3NTJtM1FMR2tCTHphYzJha29Ka3J6MG52cm5YUE8ySGh3Z3FSblZPclVUUjFvN1hMRGVranlkd255STJiLVU1QzJlckhRNEhWOWxGdFNDMDdLVWFLeFBNTzlXU2I3NUNnRk9PVWh6VGI3RGpqS3FFdG1wZGVHVFFISXZHM1dIYnc1STJFZnJFM3RnQU1KdmlMZW5UY1RkYktVM05NWDE2TXFkRU5jdVdaeE0?oc=5",
       "date": "2025-08-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
-    },
-    {
-      "title": "Davangere Sugar reports Rs 53.75 crore EBITDA in FY25 - ChiniMandi",
-      "source": "ChiniMandi",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRzhBNzN1eGFHZzg0aUNXeVZqSERFSnNZdzNNcWt5VzZUSmZ4UmZoaUg1SE8xVW1ZOXJqTEZVNDRiVFlseDQwLW1VeThZYVpqWVctcUtNM2ozUEdreF9EMTdGU0poZlZZQTRaLWRseXhTeWY3eHdDTlp1ZzNiSjNTWE5RamVZNmtS?oc=5",
-      "date": "2025-06-12T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "DSCL"

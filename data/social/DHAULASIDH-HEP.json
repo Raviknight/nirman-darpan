@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-06-25T20:53:14.114Z",
+  "updated_at": "2026-06-29T20:47:36.304Z",
   "project_id": "DHAULASIDH-HEP",
   "counts": {
-    "press": 26,
+    "press": 27,
     "gov": 0,
-    "en": 19,
+    "en": 20,
     "hi": 7,
-    "total": 26
+    "total": 27
   },
   "mentions": [
+    {
+      "title": "SJVN का बड़ा कदम: गुजरात की कंपनी के साथ 661 MW हाइड्रो PPA साइन, निवेशक ध्यान दें! - Whalesbook",
+      "source": "Whalesbook",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjAwQnNLcE9xb3FFdU9aOTNHM0tmbGZLR3N5aHlzcWs2YVV6YkRoVW5jLWFqbXJyN2YybVM1TjVXOUdyTk81VUhYTVpSdW1jUjBlWkpJQmNMNkZVRUVFT19LS0N4NEJkQi1yN2g1Z3N2Y04zcWd3MmFaV1luTHcwTGVTTXlRNlcxZjFpTm9HLWZWVGI4cVNIMlo3UkdkaFN4SHNidjBFR1Q5MEkzSi1lT1Z3U3d2UXh1Wmc?oc=5",
+      "date": "2026-06-29T13:18:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dhaulasidh"
+    },
     {
       "title": "केंद्र के अधीन स्थापित होने वाले चार पावर प्रोजेक्ट्स अब होंगे हिमाचल सरकार के, जानिए क्या है नई अपडेट? - ETV Bharat",
       "source": "ETV Bharat",
@@ -180,16 +190,6 @@
       "match": "Dhaulasidh"
     },
     {
-      "title": "Dhaulasidh hydro project: SJVN signs contract for electromechanical works - T&D India",
-      "source": "T&D India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlqd3NYNE1Vb2hMcTRCU1ljZ2FrZG5OR042VGN4cU91ejdkWEhXUDh4SWdlbjNyTHVWTmh0UXRHRW1kUUEwREFPWGMtYWtXX0xqUExleUNoTWMxZ3doMDcwQ19NWGIxOU8ydXNqOHVseUt1czlYZWpabzhpd2JTVXdsa0VJQkZuZFRvdjBxU2hyd182SERaaDFtTTZqcGvSAaQBQVVfeXFMTlZuMFhoT0ZZa1pSaDJzNlFtVUdsV3ZtUUthby1RTzcxLUpjSjBla3paS0hSLTZ2T29WRGkxQ291V3otRXJTaFhkQUk3dkRvTlk2NkdOUy1xazhLcDR0aDRXVFNhQnBXZFhuSk1fanJtM09VNHF0Y3dwZ2o0OE8yb1N3cDk3ejJVQVF0bFFXcEFqRlFlUGVudGpLZE95V2hMeTc4ZjM?oc=5",
-      "date": "2022-02-14T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
       "title": "SJVN Signs Electro Mechanical Works Contract with Voith for 66MW Dhaulasidh Project - Energetica India Magazine",
       "source": "Energetica India Magazine",
       "source_id": "google-news-en",
@@ -200,11 +200,11 @@
       "match": "Dhaulasidh"
     },
     {
-      "title": "SJVN awards electro mechanical works of Dhaulasidh project to Voith Hydro - PSU Watch",
-      "source": "PSU Watch",
+      "title": "Dhaulasidh hydro project: SJVN signs contract for electromechanical works - T&D India",
+      "source": "T&D India",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmRZSS14d0JFSDFKa0NDYkN3djVyODZ2d3gzWUdpNkJSVlUzZGFhS0tKNUFtUy1lRURsWjNFdEprVUZQRVRpbC1ZeTRVTV9KTFpISzV4RDZsWmFwWG5qQkdneDBZS2tncy1kT2cxMkxHRDlnRnVMQ2xySHpoWWcyWFBONThfSDh4WnVBZWt1Z3pHUV9hVllfa2RoRUNZSFd1aWFBTXRlODR6RG5j0gG6AUFVX3lxTE5UeE5lRnBiSXZfZWFKT211Q2NaRTRtZlBaZ2xtMk5iVDdQYS1LMkNMVURSa2NZb01zaEo1VElkUkM2bWpxU04tU2psOGhFdnlrTUtjVThPTVFZR25oMkF3QllXUkZ4SW1Xa1hCaFFvYlN2Y3Q5a2xrWktRd0ctUk5paUpvLTd4dnFaSm1NVHJFVW43cTNLOHNpaFRNYmEtMUNmSUtpWUhGMktPREhmekJ3eDZTWmFVTGhrZw?oc=5",
-      "date": "2022-02-11T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlqd3NYNE1Vb2hMcTRCU1ljZ2FrZG5OR042VGN4cU91ejdkWEhXUDh4SWdlbjNyTHVWTmh0UXRHRW1kUUEwREFPWGMtYWtXX0xqUExleUNoTWMxZ3doMDcwQ19NWGIxOU8ydXNqOHVseUt1czlYZWpabzhpd2JTVXdsa0VJQkZuZFRvdjBxU2hyd182SERaaDFtTTZqcGvSAaQBQVVfeXFMTlZuMFhoT0ZZa1pSaDJzNlFtVUdsV3ZtUUthby1RTzcxLUpjSjBla3paS0hSLTZ2T29WRGkxQ291V3otRXJTaFhkQUk3dkRvTlk2NkdOUy1xazhLcDR0aDRXVFNhQnBXZFhuSk1fanJtM09VNHF0Y3dwZ2o0OE8yb1N3cDk3ejJVQVF0bFFXcEFqRlFlUGVudGpLZE95V2hMeTc4ZjM?oc=5",
+      "date": "2022-02-14T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dhaulasidh"

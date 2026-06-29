@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-06-25T20:52:54.347Z",
+  "updated_at": "2026-06-29T20:47:14.715Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 34,
+    "press": 32,
     "gov": 0,
-    "en": 25,
-    "hi": 9,
-    "total": 34
+    "en": 22,
+    "hi": 10,
+    "total": 32
   },
   "mentions": [
+    {
+      "title": "SJVN का बड़ा कदम: गुजरात की कंपनी के साथ 661 MW हाइड्रो PPA साइन, निवेशक ध्यान दें! - Whalesbook",
+      "source": "Whalesbook",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjAwQnNLcE9xb3FFdU9aOTNHM0tmbGZLR3N5aHlzcWs2YVV6YkRoVW5jLWFqbXJyN2YybVM1TjVXOUdyTk81VUhYTVpSdW1jUjBlWkpJQmNMNkZVRUVFT19LS0N4NEJkQi1yN2g1Z3N2Y04zcWd3MmFaV1luTHcwTGVTTXlRNlcxZjFpTm9HLWZWVGI4cVNIMlo3UkdkaFN4SHNidjBFR1Q5MEkzSi1lT1Z3U3d2UXh1Wmc?oc=5",
+      "date": "2026-06-29T13:18:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Stage"
+    },
     {
       "title": "लूहरी जल विद्युत परियोजना के प्रभावितों को मिलेगा ये लाभ, 31 मई तक करें आवेदन - ETV Bharat",
       "source": "ETV Bharat",
@@ -60,16 +70,6 @@
       "match": "SJVN Sutlej"
     },
     {
-      "title": "SJVN signs Power Sale & Power Purchase Agreements with UPPCL, NDMC - Garhwal Post",
-      "source": "Garhwal Post",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2NUSmU2a0dDTEY0NDNBcnhEekQ0ODY2SkVWNGVoZzlVVFZ6Wkt2Sm5iXzNMNFEyTGdHRV9xVDhKMVNuN0x2Nk0wa1lCV0hLd1JKek8xb1d4R1B6cmlIaFcyNnBtYU1qWlBCLVlwdWNkbklUdDhHeWlfZmdaOXpEM05CSFdxa1pScVBFWXJyTzE?oc=5",
-      "date": "2025-07-04T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
       "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - PSU Watch",
       "source": "PSU Watch",
       "source_id": "google-news-en",
@@ -80,8 +80,8 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "State-run NHPC appoints Sanjay Kumar Singh as Director of Projects - Mint",
-      "source": "Mint",
+      "title": "State-run NHPC appoints Sanjay Kumar Singh as Director of Projects - livemint.com",
+      "source": "livemint.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOWFtd1ZBaWlpclY2WmIzbHEzWi1vMUlvNlB1ci1vbTdvdG5KMU9CYzh2LW91eENXQV9QSnJLdUV6VXo3X3lJSnhrQ1lPRXlON0pyc0dnbkNoZUd5ZExIUHVycmxmYWMyNW93VWMxa2tLQ2FjQlpzMW1WMjktenZhUmJ4WXEwMG96bUtYbGc3V1g1amtYaUZ6LWNhdlNKdVdDdXpQZFFNZVpxcWE5YTR1c1VWUnB6OUlHanFObUd2UUxqd1hKblHSAcsBQVVfeXFMUGhQSzkxemwwcnBudXFhTVhSVkV2OTZQU2xHd2pfTkF0djVHNjlKMm1kbzVIUnphMFUta21TTG9NSjRsN0Q2dFExcnJTc0Fid0JXTGlxQURocGkySENpU2tLNEdFRTBKZktQLUlyQmU5OS1KZlZFaW52RWR1U1pVcU4wMHhUTTVKdFFtOXc3ejl0V08wQXBORXZCWTJFeXgwWDJvaTc0RFVvZXlwN2ZtNzRqb0J6WTF3azFydDhqRHFrVHo4VTBPYXdVWXc?oc=5",
       "date": "2024-07-25T07:00:00.000Z",
@@ -108,16 +108,6 @@
       "kind": "press",
       "lang": "en",
       "match": "SJVN Sutlej"
-    },
-    {
-      "title": "लूहरी जल विद्युत परियोजना प्रभावितों का संघर्ष जारी - Dainik Tribune",
-      "source": "Dainik Tribune",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUW5YQXRFNXRsc2Fqd1hQckdlWEVMSWZsazNDa2piOXd1aktFVi1nck5neHktYVdWZHNWd192UmoxY0lock1YMHl6VUNuVmJONmZERm8zeHE1U0lLYlZqR2lCbUV0UWRVcHkwNHlTUVAzZU94MjBYNGFFZ2ltbm5UWGJtZmVxczVQakxxMWl3ejdWYldJUHhyZ1ZBbHNwYzUyTlEwUW9kczNDckVXYUVxcjdONkgxVS1LSE9OcG9YNjI2NnVYSXfSAcoBQVVfeXFMTTJlTGlzZXdScXpDWDZfODZScEV5Qm5zeUhNS1RSUnh0MGhTSG54QkVUcV9ZSHVhY3Rfc0RETnRkSEJTbXFhNkVpS2UzZGtxWnFGOEV6b21PQmhGRXVVemhwYnBaS0RSYkFSVWIyM2RVek9NcWctd28xZ05RazgzcURLWHlwTkdRZXRXSnhhVEhidktxSVFKWGpXcUhrNEE5emZhZ0hGcVZTd1REdUc0VmF0S08tcGN0Y2hSdy13RC1TbWdtdjFfTlpGQQ?oc=5",
-      "date": "2024-04-05T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Luhri Hydroelectric"
     },
     {
       "title": "Rampur: Luhri project to see light of day by ‘2026’ - The Tribune",
@@ -147,6 +137,16 @@
       "date": "2023-08-17T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "SJVN Sutlej"
+    },
+    {
+      "title": "Buxar Ground Report: मुआवजे को लेकर शुरू हुआ क‍िसान आंदोलन, अब राजनीति का अखाड़ा बना - Kisan Tak",
+      "source": "Kisan Tak",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRWJ4Rks1T2RqOHdDQ3JTR3RueDBieTlVTVluZzFWcS1vUDZqMDJILUtaX1NaMUhKLWJIejNqb0ZhaXZ3aTROSTJIYWZmQ2dvSUdBUXcyT2huS2hFbnVaX0FHOTRXbmpYUXFTaDduZlVtVTVqaTRJNXQtaTZuUTNVQktJWEF4VV96RHhpakNVVmFMQl9IME5Sb2tuZmJGaGlVdS1NWWx4UWpXLWtuYWFlZ3FTczE3dkJHV2Vfel9ZNG02OHA4cUZqY2gzU0ZCQ214dXRrbEZKcktiY2hSakVTUnNhb2hNeWxiUGg0MjBuUGh1ZHVmaUF2N3pRcFh5QUtVNGg40gGIAkFVX3lxTFBMdmF1aGZ1eUtvczFPQXRGNXlqd1NVUUFFOTRFTnVsUmpjd3VtOHJWem1wWkItTi1jX3dWSF9rUnh3NklzQW1RX092a2tZNVZJWEZTcTFLRk85c0Vfc3lRdXVITDM3QkVhekNXR0ltNjk5Z0hycjNzQ2VPLVJKWlJWRlNvMzB0UFd6SXMza09ZN2JHNjFsSDRWVlpOWUdtbFIyekkydzNDTkhHOFc3QkJoUzlQaHprQk9rN2dBYTBSTTBjYWVKYTB3UU9saVUzTDQxT2xhWjVXYUo2YkpfN2NKMUNCd19MMTdIb2RTbE1KbWRfTEhyanI3Y19EWEdxaU5nMFdLaVV1dA?oc=5",
+      "date": "2023-01-13T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "SJVN Sutlej"
     },
     {

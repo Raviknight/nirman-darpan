@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-25T20:52:52.419Z",
+  "updated_at": "2026-06-29T20:47:12.405Z",
   "project_id": "RENUKA-DAM",
   "counts": {
-    "press": 49,
+    "press": 47,
     "gov": 0,
-    "en": 37,
+    "en": 35,
     "hi": 12,
-    "total": 49
+    "total": 47
   },
   "mentions": [
     {
@@ -14,7 +14,7 @@
       "source": "ndtv.in",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdTdJWTZOemxjMTlpV3JqUDFKODM4ZFU3c24xYlB2QThINVpkcmxna0M2b2RwYUJxT2RYQ3h1dUZ4cTVYQU5HMTBqcHE4b0l1NG9XN25IdVRpSUpkNWwyUEw5N0xyd2EwYmdsSUtVMWFfWFJIQmFiRWJqUm9vWVBRTFZfQjJyWFc0Q25TeXBwd2h1ZzNKb1p2dllmSmF6RDhrNXh0VkFGRXBqVzBKZGpmLW00dS1kZzhhcTZhQ0dUcTNfYmplYkt2Njg2MlNCdjNwVHd5Q1FnZ01ZT1hhZ3ow?oc=5",
-      "date": "2026-06-18T14:16:22.000Z",
+      "date": "2026-06-18T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Renukaji Dam"
@@ -120,16 +120,6 @@
       "match": "Renukaji Dam"
     },
     {
-      "title": "Patel Engineering Declared Lowest Bidder for Rs 910.08 Crore Renukaji Dam Project - Hill Post",
-      "source": "Hill Post",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVHYwZWw2S040ckpmWkVrcHduOTFhSGZEaVJMWlVqVUttS1Z5VGszeHkzM3pjZHpnb0pUU3A3cTBXaThnRUFKLV94QjdweVJGUEtRdlhPNWxJVlhKYUNZdldYYW82MkkydUZyQTRFeGVTY2djb3A2N1NBUF9GeGRmU1pSaG5NVmRuZEk1OFdJVGhvM2NKYlBLZXVxUWpwc05tRUh0NVQ1OUowc2txOVRoRzlWQnlXYWtk?oc=5",
-      "date": "2026-02-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Renukaji Dam"
-    },
-    {
       "title": "Patel Engineering shares gain on ₹910 crore Himachal dam project win - CNBC TV18",
       "source": "CNBC TV18",
       "source_id": "google-news-en",
@@ -150,10 +140,10 @@
       "match": "Renukaji Dam"
     },
     {
-      "title": "Patel Engg Secures ₹910 Cr Dam Contract Amidst Financial Risks - Whalesbook",
-      "source": "Whalesbook",
+      "title": "Patel Engineering Ltd. Awarded ₹910.08 Crore Contract for Renukaji Dam Project by HPPCL - InvestyWise",
+      "source": "InvestyWise",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUmEzWlE2WExobFBhTU9MM3BtNEQ5THROY2xScS1uRVY0bHYwUzRsYVFsS3pDTWNwaG9HbE9VUmlHMGljcmp4SlhLcXE0OUdvcklBa2lKd0s4dThKT1otV0JBSFVGaWFGeVNLMHVGTEpKaHlGSkF1UjlTUzBxOEFoMl85QUZSQzRCMUVuVFAyUmpzb19VcU15d2ZhUnA5OG5ycFV5UFByRXdfV1BsSGlqVm43TGw2SmU0Qkc5MG53dS12aS1ma2JSc2x4R0llQS1QeW1zbi1lREhIVk9iSjR0SVRsb2czaDFXVFFwdGoxeEdTYXUwQlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXcwQUtkRDQtRWlfUkwwVmM3TmQyVkZ3RmxxbDkwa1JOSF96bDNKa0VLaU5HVWV0NHFIdXZkOGJLZ1VHRUdYUWFiMkZndE13cEtnNHN4bFBLMG56aXJlSEpLMTFJQUFPRUlNdlY0czhPY3BNc2R0UWhleDdra2xrZWRoRkhjMnlZenZQcXVGNUYzRXRYRjQxVg?oc=5",
       "date": "2026-02-23T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -207,6 +197,16 @@
       "date": "2025-07-23T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "Rs 95 Cr Sanctioned for Yamuna Water Project - Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb0hvdUVvT2x2OWh1X1d2Ykx1TEJPcmEwNDBPdkZub1hFVEJaV2JpcGZIaHJRRDJPN0cyUHEyUXdJNzFLbmtVNnQ3OHlBYzlWTmlYS3psb2xjWEJ2dVBfYzlPMnlMVlNUSVpMd3d2ZWpOWlBnMm1ONmhqeV9UUEh1MEtTV1BNdHh2dVBvekRZenNyMTdBZTFzREFsWVfSAaIBQVVfeXFMUFphTXlNMTZMdTNCSm5samdBTXhkRXUwWG95R3RKazYycFNpc2k3OHFib0YxaGRvbmVTdnEydENYZXdDYlhJeWVIMGxNOFI1VVBGMlpta0ctMGVGcjFJOU9way1qX0ZVMXZHcGdRWHFjYjE2NEpONmdxYy16bjkyUUhwQTZsQlVEdzV1akh4TXpqUVhpTlk2N29xbnBhNi1lYjZR?oc=5",
+      "date": "2025-07-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Renukaji Dam"
     }
   ],

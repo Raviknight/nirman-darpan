@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-25T20:53:20.523Z",
+  "updated_at": "2026-06-29T20:47:42.659Z",
   "project_id": "NH154-PKT-MND",
   "counts": {
     "press": 75,
     "gov": 0,
-    "en": 60,
-    "hi": 15,
+    "en": 59,
+    "hi": 16,
     "total": 75
   },
   "mentions": [
@@ -14,7 +14,7 @@
       "source": "Jogindernagar.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fcTVRUnZDVldCWXVfSnhPS0FVdDRrR3N5T2Q0eUZUY2JJVGhjZzlua2VwQzJmWTF4aDNzSHM4MERmV0ttdy1OM0V2MkpoZDlCcE9CNHhPZkhDcEdpOTFqNW9SM2xrX1ltS19FX2pLN2M?oc=5",
-      "date": "2026-06-25T13:42:56.000Z",
+      "date": "2026-06-25T16:50:19.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Pathankot Mandi four lane"
@@ -24,7 +24,17 @@
       "source": "The Tribune",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdy1oc0htUFh3X2pHZEh4dGJOVzRrLWJ0dFhnUzczTk4xQU5KeXFKTF9fLVZXczZGaVBDeDJlX0l0QzZiUGlCalYzT1JyajQxTVAwSXhiTllVajE2M0x1MjhPRnRwdHpkdHRZcllzb0Y2VkNhVHd6NTJoVHlTOHc1WUdBbkZvSkJLSnF0VjIzSVd2dnRaRHYyN0RSUjZaVmJYTUFnVzltdHA1VXVpcFFFenZ1c29GQlJTcnpwMHlIczh3SU1TcmgxcUNsT2pHQjNrWnREOWllNFFkd9IB3gFBVV95cUxQaGpyMTlZT3dmT21ILU96bDd4WnQyTk5wSHIxLXNKMURsMDEzNjNNVVVfU0hvN3V1Ry1vYTZPMG1fc20xOHliZnhkdlRncjNzTC1vTGtPRmdaWEhNck1hRlpzZGIyZFoySTVySzc1QWVPSkJHTU1DaXJMZWdMbkpxbV9QQWRPRmxfQ05YdkhsejY3ZEpvdENZZVpfZnBXVUsyLXlFelBLMUF3aUI3clktaU9VdDhpSkVvdDJ4WUd0WTE3SHdXcGs5SHk4QzFRZjVlTUhXaUlCWklCb29wYmc?oc=5",
-      "date": "2026-06-17T19:51:32.000Z",
+      "date": "2026-06-18T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
+      "title": "Himachal: Connectivity concerns mount over Nurpur bypass project - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON000cmNsQjZCZWFEWlBMdVV6dExYVWdqdDhUTzdCYUpVWnJsd19zVzBUWS1sNWcyOHp0LXg3X1hPYmFUX0RkMXg1YjFEcW5QWFVSMVFiOUZLRjVMejBxQVZ6QnpGd0ZwVGJTV2Z0cEQ0WDUyV0l4MS1TRzB0TnoyOXdUOXUwdmNXWFN2LS15MFZtUFR4Sng5ZXZHZWtoRGI4TGFqeGVWRzV0dknSAa8BQVVfeXFMT3FubjVaS1V5aF9adG54T29rT1lPb3M0aXdFekxuVkJNM01wTUtoaXd1WVhFeHkwZjFGWGdQNlhBNDRKVmx4QUptQkphdW1VWTRIMFRrU2tmbklEWUdxZ09TWXJEOXFodFVzRVR2OHYycnd6SWlCUGhVRHN1WWFLR2QyQ29iX0FpRlZUSS1TcVM3dUFlbnBBQkVJQmhVSEhqVHJHY19fSjkyTHZ6bmdnTQ?oc=5",
+      "date": "2026-06-08T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pathankot Mandi four lane"
@@ -103,7 +113,7 @@
       "title": "Traffic jams at Malan on Pathankot-Mandi highway inconvenience commuters - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjhoczdjQUJIYk9rY0hKRmNWQTlvT2NrZGFIcmppZVJEcUR3VmIyVTlOSDdVSzNOX2ZaZ2w5UGlXMWtVdlQyWklpcmFhQkJVRDNlWVpIcDBJTEVESW14dlgzQVdJYlNGY29LMHNfU2ZNQVFIVnNqNWx6M0tRR1ZfYnZicGJCQUVMQ0toTlQ1LThBeHFHNzk3Mnl6VFA4bUsyd1V0VWRvci04S0g4TkUyaQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjhoczdjQUJIYk9rY0hKRmNWQTlvT2NrZGFIcmppZVJEcUR3VmIyVTlOSDdVSzNOX2ZaZ2w5UGlXMWtVdlQyWklpcmFhQkJVRDNlWVpIcDBJTEVESW14dlgzQVdJYlNGY29LMHNfU2ZNQVFIVnNqNWx6M0tRR1ZfYnZicGJCQUVMQ0toTlQ1LThBeHFHNzk3Mnl6VFA4bUsyd1V0VWRvci04S0g4TkUyadIBtAFBVV95cUxNNXFwQ3I2RGFqeDhvRTdIRXZ2Rkh0dzY0RExtUVEyT0FnWmFvUGJtSnk5d1VVTWhSR2xPMVlLOG1QRzY4TlZfa25TMG1mZ0g1WU9fZ2NMYXViUTN4YXJWOURJNndxWU5VclZzTjQyWWhFRnBjazl0THZCSlNjOHVENUZmNTJ0QXZ1dHBYVFJPR3g2YndyNjZ6c3JqWnFkaXlFNy1QYUR6SWtiaDdsSTRYaHBYRk4?oc=5",
       "date": "2026-02-24T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -140,10 +150,10 @@
       "match": "Pathankot Mandi four lane"
     },
     {
-      "title": "पठानकोट-मंडी फोरलेन के अधूरे प्रोजेक्ट्स से लोग परेशान - Jogindernagar.com",
-      "source": "Jogindernagar.com",
+      "title": "Pathankot-Mandi FourLane: पठानकोट-मंडी फोरलेन ने रोका विकास, अधूरे प्रोजेक्ट्स से लोग परेशान - Divya Himachal",
+      "source": "Divya Himachal",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHIxRlR3OXBneFdLeXlkc050R3lOTmsxTXVEZVN6MUg2R2RreWNGdzdMVDkyVjFoVWZqZWRRMnBGOEdnQ0pOWmUzLXB2WXV0SF9FVGdac2lwSklTVnk1N0xBU2xKOWsxZ2ZlUGJuZkFxcFFQR0gwUlptMmFyRTRsb0VnNTFvWWZhZnRHR1hLQjEtbURwLWoxd0MtMTVlWmluLXZJZ2VoQVlXb2hMdkJ4dy1GamJYS250eHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSXFTb2JlYU1wcTctX05Wb0ctdVJKT09RVEFWZWNab3ZWbkdwOWk0RGpaLUxUNXFFYUZuQnFrV2RlOWpFaExuNjJGZWVtTVRnWWxrOHFscTcxVFV6WGFwUHNCMHgwVUFvcXRUVkxIcEtMRlV0VGtneF9ocUV2VTdZdFNQZ2stZ0I1OVpDMmhDYmdrendfSVNETWs0WGVvc1hJaENjWnM2Y05nb21HQWoxZ0xZcjExbE4yUzkycmJDUWtWRlN3Rm1CY1MzdHpwUEFISHNZck5kcHJPcmtEZ0RnVW4yak1GT1MzSHA5cXBDZUFFMXpHM3V6enFVRGXSAYICQVVfeXFMTUUxOFl4MUlGd0R3akQxcy0wR0E2dE9uTTlmWjV4dGhBSV9KV1hfXzEwYnI5RHZzc3RZWTJhNmx5LXpyRHJmcmtvdjRxR3owSC05UnI2eHA0VHZtaXg0RERSZ19VQl9aQUhCQUNFSjhUblVsWVpudThqWHZTeDdmODlpSGlmLVRDVFQ4YWdMMHZLUGl1M2dtVklYaVVZWngtWC1jTk5yZGdTUWd5NUNyVENaNWlpOXhtcmZBZGppdHRmbFZKR2NUcEFUSEt3UzRwNmxMb1U2enpQWWVWcDFDT2gyamUtMmY3MDdySGRfdlJydzljd09SOUpJTW5CNU5RN0Zn?oc=5",
       "date": "2025-12-19T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -163,7 +173,7 @@
       "title": "Hope rises: Work on Jassur flyover picks up pace after long delay - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVJuWlpmM05odFdMTzRmcmpsMnplNVYzQkliamZMczBwS3M3N2tjU2VxWi1lU0xtWWhpWllVZGozR0F0ck8tSlZ4dG9qYWs2bWRzTFVlV0p6dmJ3TGM2Y1pvYW04Y2gwSkg1TnJWYzMxbkpreDdYTjJ0cnpRMFZjbVdyQlJoRDR5N3BJN1d6d25DaWc5X3dqbDBMZ29pZWR3Qk0wZ1JvdWFRWE1L?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVJuWlpmM05odFdMTzRmcmpsMnplNVYzQkliamZMczBwS3M3N2tjU2VxWi1lU0xtWWhpWllVZGozR0F0ck8tSlZ4dG9qYWs2bWRzTFVlV0p6dmJ3TGM2Y1pvYW04Y2gwSkg1TnJWYzMxbkpreDdYTjJ0cnpRMFZjbVdyQlJoRDR5N3BJN1d6d25DaWc5X3dqbDBMZ29pZWR3Qk0wZ1JvdWFRWE1L0gGwAUFVX3lxTE5uNXAyV29hRE1kd3pESWxjemxXX0RhdE84aVZjNnYwLVk3MDRGSFlLV1kteXFFTDlCa2p1b1ZYNVF3Q1c4MU11cF9va2llVFNnb3cwT05OMjNvd2pLemRFeElBVFhUWEpEU2E4VmFZUHR4ZktmMDFiQTVHVWVMbzhxLU5lUk01M1E4dS1uVThmdlJJbTQzUE9vY0NWY0hmR1JhMUU0Q2QwUDhrRUdqYUFT?oc=5",
       "date": "2025-11-29T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -197,16 +207,6 @@
       "date": "2025-09-25T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "Pathankot-Mandi four-lane work turns daily commute into ordeal for residents - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkxTeFZDcmhBeUZhQ2lsYXZTQ3ZoQ3FpUjVBZ0diVGZsOXplWVBtZkFlb0F5OHBoRWNHeDlZbHBxeVNmcnhocE1SVFZBTWFFd3BJamdZZG56UkUwU19xdUFjd0cxRnBWNEdqclMzbzVUZkdFT0Q2c0ZTVlR0UEdCSmpRbnBSOFZjenczYTc5QkotaUQ3MDhDVEFDc2VLOTNzMFhSUHNoUmNJek9kUFEycDVJQmc1cmstMzJyb9IBwAFBVV95cUxOdjZMdzktenpVa3lsX0xPXzdub3MzM2NzYlBKQlU2YWFGRWd4UXFzWDF1Z01mQlJtQmNLM0oySHhzdDlxVDZTNnlUcXZMTkd5S2hKMkIzRHZOa0J4VWY0OG1aMWNkWWZSU3ZXRmRhY3dHWkVQbEI3UER1LVRVekQtb3pSX3E0ZG44bzFLSHJmalVCbXRqM19vazBPbEg5UkRCVkxTMUlxNXIzT3JhX2taNlpvcnBqdEdLVkhKRExvbWc?oc=5",
-      "date": "2025-08-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Pathankot Mandi four lane"
     }
   ],

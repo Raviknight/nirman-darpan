@@ -1,30 +1,40 @@
 {
-  "updated_at": "2026-06-25T20:53:42.916Z",
+  "updated_at": "2026-06-29T20:48:07.316Z",
   "project_id": "GMC-HAMIRPUR",
   "counts": {
-    "press": 94,
+    "press": 98,
     "gov": 0,
-    "en": 52,
+    "en": 56,
     "hi": 42,
-    "total": 94
+    "total": 98
   },
   "mentions": [
+    {
+      "title": "'मेडिकल कॉलेज के 60 करोड़ के फर्नीचर टेंडर में गड़बड़ी, एक फर्म को फायदा पहुंचाने के लिए बनाई जा रहीं शर्तें' - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxONlJhWXdNLWJyVkx4UXhFQmtEYTJPXzVDY01VcFFhYlcxMjNmWGhiQ04yT2tNUkJZZGJkOXBYMWRhaXV2MGIyeGZzMndLcGNaSEV2dDd2bFB0VEpWWk1jRDFfUjJ0NEphenp1Z0NncWV4WDBnck56c1pWeFJXMHo2dWQ5LWJhdHlmSjFEdF83ZjBqRmt3NVVBZEpZMGdwNjlQV2lxczh0N2w3MG84NEhVTDBQX0JJWXk5bGl1Y1B3VU9IWnZtYWdTV2dSaXk2eVFtMjhEck5UQ25uVllqSWp4ZVd3RklmU1JacklGVi1Nc09jVlFqbVN0R3pGcDE5WWNEaUdFeDk5OEhEQdIBigJBVV95cUxONlJhWXdNLWJyVkx4UXhFQmtEYTJPXzVDY01VcFFhYlcxMjNmWGhiQ04yT2tNUkJZZGJkOXBYMWRhaXV2MGIyeGZzMndLcGNaSEV2dDd2bFB0VEpWWk1jRDFfUjJ0NEphenp1Z0NncWV4WDBnck56c1pWeFJXMHo2dWQ5LWJhdHlmSjFEdF83ZjBqRmt3NVVBZEpZMGdwNjlQV2lxczh0N2w3MG84NEhVTDBQX0JJWXk5bGl1Y1B3VU9IWnZtYWdTV2dSaXk2eVFtMjhEck5UQ25uVllqSWp4ZVd3RklmU1JacklGVi1Nc09jVlFqbVN0R3pGcDE5WWNEaUdFeDk5OEhEQQ?oc=5",
+      "date": "2026-06-28T09:22:33.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "'20 साल में अनुराग नहीं कर पाए कोई काम, न रेल आई, न स्टेडियम बना, सीएम सुक्खू ने बनाया हमीरपुर मेडिकल कॉलेज' - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUmJaT2psSlZLWXliMUNHV0pjVFVaZzVMM2hGRWFXU3A5NWtXVkd1eWFNM0hUUWttUjNyejRkdU0welY0SFpfd3gxN1l5MjJROFptTXF1NG1ZRDdQNWNIaW5kR2JPQ2ZJZDB5NG9PUnJOQ1RfVUxyVkNUemRicjJTdGxjUFFSanVSaFpfTGhuRndxQlRweUJ5SllmUDBaNnVJc0F0RFR1WHBhMUVrNzViUjRHdkd5dF9GYjRYZ3NlbGZ4NEx4anZ4R1FDNnI4bjViU0JTemFKUFBoNHZzVVhKVW9YUdIB6AFBVV95cUxNM1QzWEo1RlJjeWtLVVpHdnlzSkFkWjVHdlFhUHdYclZCTk5BRXJhd1p6QWtBMzExZGRCajlCNFhNalhLS1h1N0prV1J5N1cyc1lTMS1wb1NLbjF1allqdU00a2MwMzhaWHhsd0J0ZlN0MlBaMDBvSUVySkFVY1NWcmU3UkFFMEZFRGZ0WndBWHR3UjlxRVc2Y180Y2Rfd1lNZkpJaFJIYnB0RWQxcjdzdzhSV082dURuTUZzaUxLc2poMGNZdXFTQTZYMUVtaXNCbXNwTWphVGw5bmlCdlBTZEt3RUVlczZq?oc=5",
+      "date": "2026-06-26T08:17:39.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
     {
       "title": "IIT-M hands over ultra-light wheelchairs to Army Hospital - Medical Buyer",
       "source": "Medical Buyer",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGJubjFvXzZIa0hURzV2ZVVBQnRlWTZLMFRIa2tyR1pHTkdiMmJFcHBlZXVIbTQ5YmhEWnFDY2RUcXJfeWlzSUllVkFyZGlCWWp1WkQta3JabDdrRDJENVZiWFBHLW9nMkQ2RWEzRTg4a2VyX3hZc2lMLWNQMnAwQWVQY0tuRV92YnByNE5B?oc=5",
       "date": "2026-06-24T16:39:13.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dr Radhakrishnan GMC"
-    },
-    {
-      "title": "Himachal to build critical care block of Dr Radhakrishnan GMC for Rs 35 crore - Medical Buyer",
-      "source": "Medical Buyer",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenFZS3BiTXdTYjJiYjV3QS05b2tqSFZpWkF1VlZzNnY5SWVFcHhuaklyUGk0VW44alJIQ0tXbl9CZHI3aDczU09HTzZFMVRLTDRfblRKWllJMF9tRUg4cDFaRExyYnozUjJKaW9MMHBVNXkxRnhHMFBlbTN0RUkzNFFZUXotUkhJMlFFaEp5c2V3cFpzeU5MRFEwU1k2N0NadHFSeHlhRlI?oc=5",
-      "date": "2026-06-24T08:50:55.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dr Radhakrishnan GMC"
@@ -57,6 +67,16 @@
       "date": "2026-06-23T10:18:41.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Hamirpur medical college to shift to new campus at Jol Sappar from next month - Dailyhunt",
+      "source": "Dailyhunt",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMnpxNVFsbnAxbUdjSWdud1Y4Z3JScHE1Z1dlbGtTVnQ3YVZQQmRveUZxTGJETkRUT2llRXVfcjVISUlaMDZVVjNEQnhpYnBRR1FndWJreWx1dkJmSzNKYVhSenBrZWRPblh4TGdZQlRvZ2tiYzVZOHh6LTBnU0lOZkNOQVhQVVp4Vjl3T0x0UUZDYkROcndsb3V4eUZGUjgycXFUQlFYZ0dSaElCZnZJQjFvQUpJVk5RV0dpc3NPVFNMekJSc25tNU5RckxiVGN5eU9Pam1XUEo4OGlPanlTLTlXSGV4Q3k0TXJybTRtdDE2RV9XRzhEeA?oc=5",
+      "date": "2026-06-22T15:59:02.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Hamirpur medical college"
     },
     {
@@ -100,21 +120,11 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "हमीरपुर मेडिकल कॉलेज को मिली बड़ी सौगात, 35 करोड़ रुपये के अत्याधुनिक क्रिटिकल केयर ब्लॉक का शिलान्यास - Arth Parkash",
-      "source": "Arth Parkash",
+      "title": "हमीरपुर : मुख्यमंत्री ने जोल सप्पड़ में 35 करोड़ से बनने वाले क्रिटिकल केयर ब्लॉक का किया शिलान्यास - himachaldastak.com",
+      "source": "himachaldastak.com",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY202aVVDRExFaXJKYVJoSktucnBvTEZzakRGaTNyUEVjSWIzandaRmtkc2F3QTE4UktSaXhhS3dRenZjQ3BialEtajF2ZF9LRkVpREl3czRpU1FqWUltUU9nUWQzZzVTTFk1aGZGb2F3a01sNG1WRHU3WVI3MkxscFRiaUkxcUdybHExX3NQcjhmX3RYckE?oc=5",
-      "date": "2026-06-21T11:58:34.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "हमीरपुर मेडिकल कॉलेज में 35 करोड़ के क्रिटिकल केयर ब्लॉक का शिलान्यास, जुलाई से नए परिसर में शुरू होंगी सेवाएं - Arth Parkash",
-      "source": "Arth Parkash",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kYWV0SDdic2RVY0ZjOVV1R3YtMG50dDlEX294aVhpUGxhVHpUT1ZpVWx5MHlXRDRFelVSel91Q1pLNllaaUVXa2l0Sk5GbHFrcmlwNXk0bHFMRHdxNDBXM3pZN3BnSDV1Mmc?oc=5",
-      "date": "2026-06-21T10:48:29.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjFwNTVtcUhEUkdMaVJ4R1Y0ZDlQU3Y0X0EtMFM1SU1CYWhNMjV2VEM4SXJxVDdPNE5qS0syekRSTlNna1NOSm9CRXBtNGNfaks5WThLT0NNc29IYmlFN0F0djNiaU8wQnNDVU00Sk4zaWI1Wk5mdFVpR0RJR1Mxcml2eDBPbUZvcTZ4UUVLZmRac1BsSVNtdjJ6WXNUd2VpUWxHNmJ0azg?oc=5",
+      "date": "2026-06-21T12:04:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Hamirpur medical college"
@@ -125,26 +135,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1hPZm1qNVBFVXRqcURlX0U5dE55emo0TEdxeUc2dGhOMF9IS0w4SXB1RnJyTnB0MUNKMURVQzFTTEphcHBiMC12UDhCWFhyWXJ4eWJIMVJJMndBYlBLOHVUdGpLRE1zVkpDb1FiYW9HQkJqelg2amV2MkhJc3pOaFJBMTZxT25mZEh2NlI1UjRQRUJGbTQxcjlLVmtvcVU1NVpjdDQ1cU1aT1NoV2drZ3dyV2hMT0dFWVdVZnFpTy1BbzNQX21fNVF3?oc=5",
       "date": "2026-06-21T10:24:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "CM सुक्खू का अनुराग ठाकुर पर बड़ा हमला! पूछा- 20 साल सांसद रहे, हमीरपुर के लिए क्या किया? OPS पर भी दिया बड़ा संकेत - Zee News",
-      "source": "Zee News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU1RlbG92SDZ6YTIxcm0ySzd4UXhESFpNTmVxcW5teFdUUTdNdUl3ZWJqVi05NGVNZmFUZTQ2ZGFOWG1yVHVMZVEtX1kxZmc1aWtrdXItdUlqVlR1VlNxNkxfM2NxTUJ4NkV1YnppQm5NNUpqNFR1cXFYdU5jQ0dkVk9vMWU5OGRLZjNkOHhZVUlxMGlDeUE2QUM0M3RHaHNNRFBVd3VDUTlob3FCNG43VUYwdkNndWMwYjVYdVcyb1JmUkcwcHdGZkFiYkRPcHdzNGfSAdcBQVVfeXFMUGpCMXZ1bnUyc2x5ZDV5TGlwQTdnZklRTzRBX2RjOVYtU05FZDR5bkpQVFJBVXM4cVlnaFJIT1pwd1EyODdCWXJyVVJsc2ZJM3F4VUFDcUpITU5qYmkyMC12RnZVUVFuMTI4alJKb3JfTkhSakhnRVFOS2JVYmw5VFZXR2I1X1llQjhJQ2FQbGtUdVdORkh1d3lfVTV2MUZPOUpmeGhjS2NWaHhwdlY4emxhQTJUQXc3QWo1bTNqLXpxTWFiVFViSEc4WERkVVRXWHppemEzNGM?oc=5",
-      "date": "2026-06-21T10:16:32.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "अमेरिकी हमले में शहीद आदित्य शर्मा का हमीरपुर मेडिकल कॉलेज में हुआ पोस्टमार्टम, सिर पर गहरी चोट के निशान - MBM NEWS",
-      "source": "MBM NEWS",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOcXpEQjR0SHRiM2JIaGwxRGZXNFVLLXR4TVA3aFF5NFY1enQ5U0NIVkc3Z2M4SURHQlVyMERtMDhwZUxrR0hSM1hrTGJ0UkNaWmR5V2djeUVld1k1X3R0bWI5VWNUNXhxVUwybGNFbG9xUTNIbnhmczdrX1FUQ0U2MHh4V1RwblVrS0xHQlJRd1ZsWV9oaE1OYzVtWHNEWklucXJ3Uk9aZDhxY1hyaHJNbXlCdzRwM0RLRlZuZ09nVWN0b245Qm14VHN6UkRObHA2Q3A1NmVySzZWSTN1MUdFdE9yUEVtTEl1a0hBSmtXY0ZxMFpPekdvRjNZY0s3U3Bib0c0V2lKeWgydUhxc1laWV9zdnZFN2pYZkU3XzFBVEMxQ1JrTG1uV1Y5bjkwdmx3bXNpeHhSaVpMNnhoaWoyelNDalFiQzFDMjJBWUJKT05jek0xVFNfejRPZy1tdnBOUVE?oc=5",
-      "date": "2026-06-18T06:30:45.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Hamirpur medical college"
@@ -164,7 +154,7 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSzR3UG5kQlludTIxYkMzak9vc201NTlOYWZQMkRQM0NDZkZIV1lkY1pNRm5sUmxsX2VqSWhuc3hjM3ZfZG5ndWRnbWtaaldRNUEwUHlPaC1DU0ZUZHM4cTlkNFZaUTVlanlqV0MxNC1qMHB0MjV2OFZjNXZPQVpBRDBtSFJ1NGtwenRpQnREeUZyMTR4R19FX2Y1cDE4Z2dnOFJEVjdFUjY4cVVLcVRlNWp2WDRtUlh1UG1od1VrWTEyTjZYYm45X2oyeWNMNU9udXNCTHpvS29xTThvSkNITzlOR2RIR1NwdU9EdXN3TUNNaUJINnNjOWJOcWvSAYICQVVfeXFMT2RkVmN0bm95dkV3aTY0RjhXT20wT0tSaENvRkZObXNNTF9wMzF4Q0duUkQ5RldkR19nWHJtYndZLVQzNW5WOHhkdUFmM0JqRklSMEpaazZEcjFNYlBPWVFaSFBDRE5DQnhhaV84dkNzU0p1SlpmUFFhVFBIQWhtSFhScDNzcHlUOEt4Mkdkc2wySVdNejBqdWVVUVRnek00N2VoUktlMDkzTWVwMUdUMGhoR0dmZEk3VlpDenFNY2pRRXJ3N2lWbmw2N2s0VDRGN2t5R1o5NXY3TnJYbWVPMERfUGRXTU13b28zc2E1OGNFRGotWVlyQjRtVGc4eXhUTkx3?oc=5",
-      "date": "2026-06-12T19:45:42.000Z",
+      "date": "2026-06-13T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Hamirpur medical college"
@@ -205,6 +195,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZWIzMmxaWC1CbzFnaDJoSUl0RzNSY3pwaGNJeHVNdm5qTDZMazdWV21tMzlRZ3pxT1Fzb2FENHBnNVBmQ2FEYUhmLURTaDFtWXNRZUw4Mk5rMk9rU1dDUm9NZW5pU3lBTF9JMmg0OVVubEdhVjJ1c19PWUs1ZEEtbTRnQnNwSjBzT29qZ2l2VS1Na1hjWWVlNnEwUWlERDgzMHhVUzRFMlNmT01SVGNFN3FaUjQ5aWo4VUdoMEtMdUwxWGtqWlFBNVFoZHk1MV9xOXAtM2FibDlmeTFJ0gHiAUFVX3lxTE1GQ05BejVXVEQ2ak05TXZGSlRnUUNwbGxqbWhNZDl6T1l3bk95R01mOEpFYXRaRGE2WDV3SG5UZ29uVUtGeGdyUTBJSXBhaDJxeHpGNFRqNzk2dlAtdHhTQ3VkeW5yZ1VjN3FMVU5iYVR3THlTdTNZSnI5SmI4YTZfTnBzUlUwdVZ5QnJuVnVzQVRUVGJhcnF4XzdSMTBkQmMxTGMtLUVlMnRNdklqQTN6bWF4WHJheE4ya0NEbndhYnlLZ0xWdFhYY3BuLTlkWm8xSmtKUXJQQ0RRbG1FLU91Q2c?oc=5",
       "date": "2026-03-29T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Mother detained for abandoning newborn at Hamirpur hospital - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZEMyV0Juakw2UjFuOF80WXRua1Fkc3l0b0x3U1g5SGcyWXd5cllGR0dXSENPLWNTbk9sRUh6S1ZKRmdnS05pbTVQdlRQN1JHam8zTlNGMmVhZVR2VEg2blFEb2pRbzZiVFBVSXlZcWRTVTFYVmQ5bWZ2NGJvTm9qaGV3bm4yX1lUN0VkVnIzUnVIbHU2N0tFeXMxWDRBX1NXdWdKMzdFOC0tQlFHQnVMbEM4WS1sVUtkY3Nsb2hhQ3hEU2tHb2NCMndFSDRQZTFBUldV0gHYAUFVX3lxTFBReWdjTS11Vm9fU2VHdjdLQ1g0V1dfTk9JSUh1ZWR0bU9DNF9ncXFVMFV0LVhuVFlLUWoxTFk0N19GWE96M0Y1NUlZYzlTaU1QVTRRZEV0enYwZUlnX0FoNmNQYl9JaHlraFhSc3FpLV96cGV1N3ZmbVU4VFU1RUdVaVhkeTE3LXNkT24wV3ZjRjFzekNuNERDRlBxRW4xV3NWOWdGUjgyOUJGV2lua0JoMGtHRWZoZHlZTEw1dUNJYU4zMEZTNG1odk9idlFIQTk4NlphbTFldw?oc=5",
+      "date": "2026-03-27T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Hamirpur medical college"
