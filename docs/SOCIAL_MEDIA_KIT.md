@@ -39,7 +39,7 @@ Skip Facebook and Instagram for now — they're consumer-grade, low-signal for c
 >
 > **How it's funded.** Self-funded by the founder. No advertising, no government grant, no contractor sponsorship, no party money. Cost transparency is on the funding page.
 >
-> **Built by.** Ravi Sharma, independent technologist and HP resident, with the Claude AI assistant as a coding collaborator. All editorial decisions are human.
+> **Built by.** Ravi Sharma, independent technologist and HP resident. All editorial decisions are human.
 >
 > Open source (MIT). Contact: ravikntsh@gmail.com.
 

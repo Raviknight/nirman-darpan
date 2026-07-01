@@ -1,6 +1,6 @@
 # Outreach kit — getting Nirman Darpan in front of people
 
-Everything in this file is ready to copy-paste. Steps marked **(I'll wire)** mean you take a small action, paste the result back into a chat with Claude, and the code change ships.
+Everything in this file is ready to copy-paste. Steps marked **(I'll wire)** mean you take a small action, then the code change ships.
 
 The site lives at **https://raviknight.github.io/nirman-darpan/** — that's the URL to share in every channel below.
 

@@ -36,7 +36,7 @@ The project exists, can be visited, can be cited, can be shared.
 | 1.9 JSON-LD structured data | ✅ | Article + Place + Dataset |
 | 1.10 OG share image + social card meta | ✅ | |
 | 1.11 Custom 404 + A11Y pass | ✅ | |
-| **Owner** | Claude (executing) + Ravi (curating) | |
+| **Owner** | Engineering (executing) + Ravi (curating) | |
 
 ---
 
@@ -79,14 +79,14 @@ The principle: **operational data is private; published data is editor-confirmed
 
 | Step | Status | Owner | What it produces |
 |---|---|---|---|
-| 4.1 Hide raw auto-detected suggestions from public site | ✅ this commit | Claude | Cleaner Accountability panel; the "auto-pulled / no one's home" feel is gone |
-| 4.2 Reframe panel copy: "editor reviews press weekly", "verified findings only" | ✅ this commit | Claude | Public messaging is now explicit that there is an editor |
-| 4.3 Detect missing-table error gracefully (no broken submit dialogs) | ✅ this commit | Claude | Done; banner appears in Accountability panel until the table exists |
+| 4.1 Hide raw auto-detected suggestions from public site | ✅ this commit | Engineering | Cleaner Accountability panel; the "auto-pulled / no one's home" feel is gone |
+| 4.2 Reframe panel copy: "editor reviews press weekly", "verified findings only" | ✅ this commit | Engineering | Public messaging is now explicit that there is an editor |
+| 4.3 Detect missing-table error gracefully (no broken submit dialogs) | ✅ this commit | Engineering | Done; banner appears in Accountability panel until the table exists |
 | 4.4 Create Appwrite `moderators` team + add Ravi as the first member | ⏸ blocked | Ravi | Required for next steps. ~30 seconds in Appwrite console. |
-| 4.5 Editorial Queue page at `/admin/queue/`, gated by `moderators` team membership | ⏸ behind 4.4 | Claude | Lists every suggestion across every project; per-row Approve / Edit / Reject buttons; writing Approve creates a real `accountability_entries` row with `verified: true`. |
-| 4.6 Persisted "rejected as off-topic" list (Appwrite team-shared) | ⏸ behind 4.4 | Claude | Off-topic flags survive sweeps and apply to all users, not just one browser. |
-| 4.7 Editorial decisions log at `/corrections/` | ⏸ behind 4.4 | Claude | Public list of "approved on X", "rejected on Y because Z". Adds visible institutional memory. |
-| 4.8 Right-of-reply workflow for contractors / officials | ⏸ behind 4.4 | Claude | Email-verified replies publish next to entries they answer. |
+| 4.5 Editorial Queue page at `/admin/queue/`, gated by `moderators` team membership | ⏸ behind 4.4 | Engineering | Lists every suggestion across every project; per-row Approve / Edit / Reject buttons; writing Approve creates a real `accountability_entries` row with `verified: true`. |
+| 4.6 Persisted "rejected as off-topic" list (Appwrite team-shared) | ⏸ behind 4.4 | Engineering | Off-topic flags survive sweeps and apply to all users, not just one browser. |
+| 4.7 Editorial decisions log at `/corrections/` | ⏸ behind 4.4 | Engineering | Public list of "approved on X", "rejected on Y because Z". Adds visible institutional memory. |
+| 4.8 Right-of-reply workflow for contractors / officials | ⏸ behind 4.4 | Engineering | Email-verified replies publish next to entries they answer. |
 | **Definition of done** | A visitor sees only verified findings + the editor's name; the editor handles all submissions through a single in-browser queue; every approval / rejection is dated and traceable. | | |
 
 ---
@@ -148,7 +148,7 @@ This answers your question directly: yes, we regenerate from scratch — but onl
 | Role | Person | What they do |
 |---|---|---|
 | **Editor / project owner** | Ravi Sharma | Decides what projects to track; reviews the editorial queue; signs off on accountability findings; maintains the corrections log; runs distribution. |
-| **Engineering** | Ravi (with Claude as coding collaborator) | Builds + maintains the code; runs scheduled jobs; ships features per this roadmap. |
+| **Engineering** | Ravi | Builds + maintains the code; runs scheduled jobs; ships features per this roadmap. |
 | **Moderators (Phase 4+)** | Ravi initially; expand to ~3 trusted volunteers later | Triage editorial queue items; approve / reject / edit; respond to right-of-reply requests. |
 | **Contributors (Phase 4+)** | Verified residents who sign in | Comments, votes, accountability submissions with source URL. |
 
