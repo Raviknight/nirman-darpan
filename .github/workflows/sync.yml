@@ -108,4 +108,12 @@ jobs:
             exit 0
           fi
           git commit -m "chore(sync): refresh data + project + district pages + feed + sitemap"
-          git push
+          # The branch may have moved while this run was executing (owner
+          # pushes, or a queued sync run that finished just before us).
+          # Rebase our bot commit on the latest remote head, then push with
+          # a couple of retries.
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "push attempt $i failed; retrying in 5s..."
+            sleep 5
+          done
