@@ -206,6 +206,27 @@
     } catch (_) {}
   }));
 
+  // ---- published accountability records (for status management / closing)
+  let publishedRecords = [];
+  try {
+    const r = await databases.listDocuments(cfg.databaseId, cfg.collections.accountability, [
+      Query.orderDesc('$createdAt'), Query.limit(200),
+    ]);
+    publishedRecords = r.documents;
+  } catch (_) {}
+
+  // ---- resident project suggestions
+  let projSuggestions = [];
+  let suggTableMissing = false;
+  try {
+    const r = await databases.listDocuments(cfg.databaseId, cfg.collections.suggestions, [
+      Query.orderDesc('$createdAt'), Query.limit(100),
+    ]);
+    projSuggestions = r.documents;
+  } catch (e) {
+    if ((e.message || '').includes('could not be found')) suggTableMissing = true;
+  }
+
   // ---- rejection cache
   const rejectedKey = 'nd_queue_rejected_urls';
   const loadRejected = () => { try { return new Set(JSON.parse(localStorage.getItem(rejectedKey) || '[]')); } catch (_) { return new Set(); } };
@@ -266,10 +287,9 @@
         <b>Editorial standard.</b> Approve only if the linked article is actually about this project AND constitutes a real incident / defect / audit / grievance / litigation event. The matched keyword can be a false positive — read the headline. Use the sentiment panel above to prioritise — projects trending negative in the press deserve first attention.
       </div>
     `;
-    if (visible.length === 0) {
-      root.innerHTML = bar + '<div class="queue-empty">Queue clear. Next press sweep runs Mon + Thu.</div>';
-    } else {
-      const items = visible.map((s, i) => `
+    const mainList = (visible.length === 0)
+      ? '<div class="queue-empty">Queue clear. Next press sweep runs Mon + Thu.</div>'
+      : '<div class="queue-list">' + visible.map((s, i) => `
         <div class="qitem" data-i="${i}">
           <div class="qitem-head">
             <span class="proj">${esc(s.project_id)}</span>
@@ -284,9 +304,97 @@
             <button class="qbtn approve" data-action="approve" data-i="${i}">Approve</button>
           </div>
         </div>
-      `).join('');
-      root.innerHTML = bar + '<div class="queue-list">' + items + '</div>';
-    }
+      `).join('') + '</div>';
+
+    // Resident project suggestions
+    const pendingSugg = projSuggestions.filter(s => s.status === 'pending');
+    const suggSection = `
+      <h2 style="font-family:'Source Serif 4',serif;font-size:19px;margin:34px 0 10px">Project suggestions from residents <span style="font-family:'IBM Plex Mono',monospace;font-size:13px;color:#a4a294">${pendingSugg.length} pending</span></h2>
+      ${suggTableMissing ? `<div class="info-banner"><b>Table missing.</b> Create the <code>project_suggestions</code> table per docs/APPWRITE_SETUP.md to accept resident submissions.</div>` : ''}
+      ${pendingSugg.length === 0 && !suggTableMissing ? '<div class="queue-empty">No pending suggestions.</div>' : ''}
+      <div class="queue-list">
+        ${pendingSugg.map(s => `
+          <div class="qitem">
+            <div class="qitem-head">
+              <span class="proj">${esc(s.district || '?')}</span>
+              <span class="cat" style="background:#5b5a7a">${esc(s.category || 'uncategorised')}</span>
+            </div>
+            <div class="qitem-title" style="cursor:default">${esc(s.name)}</div>
+            ${s.description ? `<div class="qitem-meta" style="color:#41474a">${esc(s.description)}</div>` : ''}
+            <div class="qitem-meta">${s.source_url ? `<a href="${esc(s.source_url)}" target="_blank" rel="noopener nofollow">Source ↗</a> · ` : ''}${new Date(s.$createdAt).toLocaleDateString('en-IN', { day:'2-digit', month:'short', year:'numeric' })}</div>
+            <div class="qitem-actions">
+              <button class="qbtn reject" data-sugg-action="rejected" data-sugg-id="${esc(s.$id)}">Reject</button>
+              <button class="qbtn approve" data-sugg-action="accepted" data-sugg-id="${esc(s.$id)}">Accept</button>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+      ${pendingSugg.length ? '<p style="font-size:11px;color:#a4a294;margin-top:8px">Accepting marks the suggestion for inclusion — the project still gets added to the dataset by the editor with full sourcing (data/projects.js).</p>' : ''}
+    `;
+
+    // Published accountability records — status management (closing open items)
+    const recSection = `
+      <h2 style="font-family:'Source Serif 4',serif;font-size:19px;margin:34px 0 10px">Published accountability records <span style="font-family:'IBM Plex Mono',monospace;font-size:13px;color:#a4a294">${publishedRecords.length}</span></h2>
+      ${publishedRecords.length === 0 ? '<div class="queue-empty">No published records yet. Approve suggestions above to create the first ones.</div>' : ''}
+      <div class="queue-list">
+        ${publishedRecords.map(rec => `
+          <div class="qitem">
+            <div class="qitem-head">
+              <span class="proj">${esc(rec.project_id)}</span>
+              <span class="cat" style="background:${CAT_COLOR[rec.category] || '#5c686f'}">${esc(rec.category)}</span>
+              <span class="sev ${esc(rec.severity || 'medium')}">${esc(rec.status)}</span>
+            </div>
+            <div class="qitem-title" style="cursor:default">${esc(rec.title)}</div>
+            <div class="qitem-meta">${rec.source_url ? `<a href="${esc(rec.source_url)}" target="_blank" rel="noopener nofollow">Source ↗</a> · ` : ''}${rec.date_occurred ? new Date(rec.date_occurred).toLocaleDateString('en-IN', { day:'2-digit', month:'short', year:'numeric' }) : ''}</div>
+            <div class="qitem-actions">
+              ${rec.status !== 'addressed' ? `<button class="qbtn approve" data-rec-status="addressed" data-rec-id="${esc(rec.$id)}">Mark addressed</button>` : ''}
+              ${rec.status !== 'disputed' ? `<button class="qbtn reject" data-rec-status="disputed" data-rec-id="${esc(rec.$id)}">Mark disputed</button>` : ''}
+              ${rec.status !== 'open' ? `<button class="qbtn" style="border:1px solid #dddccf;background:#f4f3ee;color:#5c686f" data-rec-status="open" data-rec-id="${esc(rec.$id)}">Reopen</button>` : ''}
+              <button class="qbtn" style="border:1px solid #f7e7e3;background:#fff;color:#b04a3a" data-rec-delete="${esc(rec.$id)}">Delete</button>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    `;
+
+    root.innerHTML = bar + mainList + suggSection + recSection;
+
+    // Suggestion accept / reject
+    root.querySelectorAll('[data-sugg-action]').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        btn.disabled = true;
+        try {
+          await databases.updateDocument(cfg.databaseId, cfg.collections.suggestions, btn.dataset.suggId, { status: btn.dataset.suggAction });
+          const s = projSuggestions.find(x => x.$id === btn.dataset.suggId);
+          if (s) s.status = btn.dataset.suggAction;
+          render();
+        } catch (err) { btn.disabled = false; alert(err.message || 'Update failed.'); }
+      });
+    });
+
+    // Record status changes (close / dispute / reopen open items)
+    root.querySelectorAll('[data-rec-status]').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        btn.disabled = true;
+        try {
+          await databases.updateDocument(cfg.databaseId, cfg.collections.accountability, btn.dataset.recId, { status: btn.dataset.recStatus });
+          const rec = publishedRecords.find(x => x.$id === btn.dataset.recId);
+          if (rec) rec.status = btn.dataset.recStatus;
+          render();
+        } catch (err) { btn.disabled = false; alert(err.message || 'Update failed.'); }
+      });
+    });
+    root.querySelectorAll('[data-rec-delete]').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        if (!confirm('Delete this published record permanently?')) return;
+        btn.disabled = true;
+        try {
+          await databases.deleteDocument(cfg.databaseId, cfg.collections.accountability, btn.dataset.recDelete);
+          publishedRecords = publishedRecords.filter(x => x.$id !== btn.dataset.recDelete);
+          render();
+        } catch (err) { btn.disabled = false; alert(err.message || 'Delete failed.'); }
+      });
+    });
     document.getElementById('qe-signout')?.addEventListener('click', async (e) => {
       e.preventDefault();
       try { await account.deleteSession('current'); } catch (_) {}

@@ -255,6 +255,28 @@ const NIRMAN_AW = (() => {
       );
     },
 
+    async suggestProject({ name, district, category, description, source_url }) {
+      if (!this.user) throw new Error('Sign in first');
+      const doc = {
+        name, district, category,
+        description: description || '',
+        source_url: source_url || '',
+        author_id: this.user.$id,
+        status: 'pending',
+      };
+      const perms = [
+        this.Permission.read(this.Role.users()),
+        // users() update lets the editor change status from the queue.
+        // Tightens to team:moderators once the team exists (Phase 4.6).
+        this.Permission.update(this.Role.users()),
+        this.Permission.delete(this.Role.user(this.user.$id)),
+      ];
+      return this.databases.createDocument(
+        this.cfg.databaseId, this.cfg.collections.suggestions,
+        this.ID.unique(), doc, perms,
+      );
+    },
+
     votesSummary: {}, // projectId → { up, down } across ALL projects (card meters)
     async loadAllVotes() {
       try {
@@ -765,6 +787,82 @@ function renderCardVoteMeter(projectId){
       <div style="width:${upPct}%;background:#3f9e6a"></div>
       <div style="width:${100 - upPct}%;background:#c2664f"></div>
     </div>`;
+}
+
+// ---- suggest-a-project form ----
+function openSuggestProjectForm(){
+  if (!NIRMAN_AW) { alert('Suggestions open once the backend is configured.'); return; }
+  if (!NIRMAN_AW.user) { openSignInCard('Sign in to suggest a project for tracking.'); return; }
+  const existing = document.getElementById('suggest-form-overlay');
+  if (existing) existing.remove();
+  const districts = [...new Set(D.flatMap(p => p.dists))].sort();
+  const wrap = document.createElement('div');
+  wrap.id = 'suggest-form-overlay';
+  wrap.innerHTML = `
+    <div class="acct-form-bg">
+      <div class="acct-form-card">
+        <h3>Suggest a project for tracking</h3>
+        <p class="acct-form-help">Know a public-works project in Himachal that we don't cover? Submit it — the editor reviews every suggestion and adds accepted ones to the tracker with full sourcing.</p>
+        <form id="suggest-form">
+          <label>Project name <span class="req">*</span>
+            <input type="text" name="name" maxlength="200" required placeholder="e.g. Nadaun–Sujanpur road widening">
+          </label>
+          <div class="acct-form-row">
+            <label>District <span class="req">*</span>
+              <select name="district" required>
+                ${districts.map(d => `<option value="${esc(d)}">${esc(d)}</option>`).join('')}
+                <option value="Statewide">Statewide</option>
+              </select>
+            </label>
+            <label>Category
+              <select name="category">
+                ${CATS.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join('')}
+              </select>
+            </label>
+          </div>
+          <label>Why should we track it?
+            <textarea name="description" maxlength="2000" rows="3" placeholder="What is it, roughly what does it cost, why does it matter?"></textarea>
+          </label>
+          <label>Source URL <span class="req">*</span>
+            <input type="url" name="source_url" required placeholder="News article, tender notice, department page…">
+          </label>
+          <div id="suggest-form-msg"></div>
+          <div class="acct-form-actions">
+            <button type="button" id="suggest-cancel">Cancel</button>
+            <button type="submit" id="suggest-submit">Submit for review</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(wrap);
+  wrap.querySelector('.acct-form-bg').addEventListener('click', (e) => { if (e.target === e.currentTarget) wrap.remove(); });
+  wrap.querySelector('#suggest-cancel').addEventListener('click', () => wrap.remove());
+  wrap.querySelector('input[name="name"]').focus();
+  wrap.querySelector('#suggest-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const f = e.target;
+    const btn = wrap.querySelector('#suggest-submit');
+    const msg = wrap.querySelector('#suggest-form-msg');
+    btn.disabled = true; btn.textContent = 'Submitting…';
+    try {
+      await NIRMAN_AW.suggestProject({
+        name: f.name.value.trim(),
+        district: f.district.value,
+        category: f.category.value,
+        description: f.description.value.trim(),
+        source_url: f.source_url.value.trim(),
+      });
+      msg.innerHTML = `<div style="background:#e7f0ea;color:#1b5640;padding:10px 12px;border-radius:7px;margin-bottom:10px">
+        <b>Submitted.</b> The editor reviews every suggestion — accepted projects appear on the tracker with full sourcing.
+      </div>`;
+      btn.style.display = 'none';
+      wrap.querySelector('#suggest-cancel').textContent = 'Close';
+    } catch (err) {
+      btn.disabled = false; btn.textContent = 'Submit for review';
+      msg.innerHTML = `<div class="acct-form-err">${esc((err && err.message) || 'Submission failed.')}</div>`;
+    }
+  });
 }
 
 // ---- modal ----
@@ -1936,6 +2034,10 @@ function wireOnce(){
   });
   document.getElementById('map-metric').addEventListener('change', (e) => {
     state.mapMetric = e.target.value; renderMap();
+  });
+  document.getElementById('suggest-project-link')?.addEventListener('click', (e) => {
+    e.preventDefault();
+    openSuggestProjectForm();
   });
   document.getElementById('level').addEventListener('change', (e) => {
     state.level = e.target.value; renderGrid();

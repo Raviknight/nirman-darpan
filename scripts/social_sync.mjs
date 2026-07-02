@@ -26,14 +26,55 @@ const cfg = JSON.parse(await readFile(join(root, 'data/rss_feeds.json'), 'utf8')
 
 const projectsRaw = await readFile(join(root, 'data/projects.js'), 'utf8');
 const projects = [];
-const projectRe = /id:'([^']+)'[\s\S]*?social_queries:(\[[^\]]*\])/g;
+const projectRe = /id:'([^']+)'[\s\S]*?social_queries:(\[[^\]]*\])(?:[^\n]*?exclude_terms:(\[[^\]]*\]))?/g;
 let m;
 while ((m = projectRe.exec(projectsRaw)) !== null) {
   const id = m[1];
   const queries = [...m[2].matchAll(/'([^']+)'/g)].map(x => x[1]);
-  projects.push({ id, queries });
+  const excludes = m[3] ? [...m[3].matchAll(/'([^']+)'/g)].map(x => x[1].toLowerCase()) : [];
+  projects.push({ id, queries, excludes });
 }
 console.log(`Loaded ${projects.length} projects with social_queries.`);
+
+// ---------------------------------------------------------------------------
+// Relevance filters. Google News quoted-phrase search still returns loosely
+// related coverage (e.g. Nepal infrastructure stories on a Shimla project
+// because a phrase token appears in the body). Three layers:
+//
+// 1. GEO BLOCKLIST — drop items naming other countries/regions unless the
+//    title also names Himachal explicitly.
+// 2. Per-project exclude_terms — optional array on each project in
+//    projects.js for project-specific false-positive patterns.
+// 3. Cross-portal dedup — the same story syndicates across portals with
+//    near-identical titles. Normalise (strip the ' - Publisher' suffix,
+//    lowercase, collapse to alphanumerics) and keep the first occurrence.
+// ---------------------------------------------------------------------------
+
+const GEO_BLOCKLIST = [
+  'nepal', 'kathmandu', 'pokhara', 'pakistan', 'lahore', 'karachi', 'islamabad',
+  'bangladesh', 'dhaka', 'sri lanka', 'colombo', 'bhutan', 'thimphu',
+  'नेपाल', 'काठमांडू', 'पाकिस्तान', 'बांग्लादेश',
+];
+const HP_MARKERS = [
+  'himachal', 'shimla', 'mandi', 'kangra', 'kullu', 'solan', 'bilaspur',
+  'hamirpur', 'una', 'chamba', 'sirmaur', 'kinnaur', 'lahaul', 'spiti',
+  'dharamshala', 'manali', 'rohtang', 'हिमाचल', 'शिमला', 'मंडी', 'कांगड़ा',
+  'कुल्लू', 'सोलन', 'बिलासपुर', 'हमीरपुर', 'ऊना', 'चंबा', 'सिरमौर', 'किन्नौर',
+];
+
+function passesGeoFilter(text) {
+  const t = text.toLowerCase();
+  const blockedHit = GEO_BLOCKLIST.some(g => t.includes(g));
+  if (!blockedHit) return true;
+  // Blocked geo named — only keep if Himachal context is explicit too
+  return HP_MARKERS.some(h => t.includes(h));
+}
+
+function normaliseTitle(title) {
+  // Strip trailing ' - Publisher' that Google News appends, then collapse.
+  const base = title.replace(/\s+[-–—|]\s+[^-–—|]{2,60}$/, '');
+  return base.toLowerCase().replace(/[^a-z0-9ऀ-ॿ]+/g, '').slice(0, 80);
+}
 
 const UA = 'Mozilla/5.0 (compatible; NirmanDarpanBot/1.0; +https://github.com/Raviknight/nirman-darpan)';
 
@@ -174,16 +215,31 @@ for (const p of projects) {
     });
   }
 
-  // dedupe by URL (Google News produces tracking-decorated URLs — strip the
-  // ?oc=… query to normalise where possible).
-  const seen = new Set();
+  // Relevance filters, then dedupe.
+  const seenUrl = new Set();
+  const seenTitle = new Set();
+  let droppedGeo = 0, droppedExclude = 0, droppedDupTitle = 0;
   const dedup = collected.filter(x => {
     if (!x.url) return false;
+    // 1. Geo blocklist — drop off-region stories with no Himachal context
+    if (!passesGeoFilter(x.title)) { droppedGeo++; return false; }
+    // 2. Per-project exclude terms
+    const tl = x.title.toLowerCase();
+    if (p.excludes && p.excludes.some(e => tl.includes(e))) { droppedExclude++; return false; }
+    // 3. URL dedup (strip tracking query)
     const key = x.url.split('?')[0];
-    if (seen.has(key)) return false;
-    seen.add(key);
+    if (seenUrl.has(key)) return false;
+    seenUrl.add(key);
+    // 4. Cross-portal title dedup — same story syndicated with near-identical
+    //    headline across publishers
+    const nt = normaliseTitle(x.title);
+    if (nt.length > 15 && seenTitle.has(nt)) { droppedDupTitle++; return false; }
+    seenTitle.add(nt);
     return true;
   });
+  if (droppedGeo || droppedExclude || droppedDupTitle) {
+    console.log(`  ${p.id}: dropped ${droppedGeo} geo, ${droppedExclude} excluded, ${droppedDupTitle} dup-title`);
+  }
   dedup.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
 
   const counts = { press: 0, gov: 0, en: 0, hi: 0, total: dedup.length };
@@ -197,7 +253,7 @@ for (const p of projects) {
     project_id: p.id,
     counts,
     mentions: dedup.slice(0, 20),
-    methodology: 'Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid).',
+    methodology: 'Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source.',
   };
   await writeFile(join(root, `data/social/${p.id}.json`),
                   JSON.stringify(payload, null, 2) + '\n', 'utf8');

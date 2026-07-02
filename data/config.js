@@ -16,6 +16,7 @@ window.NIRMAN_APPWRITE = {
     comments:       "comments",
     votes:          "votes",
     accountability: "accountability_entries",
+    suggestions:    "project_suggestions",
   },
   buckets: {
     evidence: "evidence",

@@ -206,6 +206,37 @@ After buying `nirmandarpan.in` or similar:
 
 ---
 
+## Phase 4.x — Resident project suggestions table
+
+Residents can suggest projects we don't track yet (footer → "＋ Suggest a project"). Submissions land in the Editorial Queue for Accept / Reject.
+
+### Table 4 — `project_suggestions`
+
+Inside the `main` database → **Create table** · **Name:** `Project suggestions` · **Table ID:** `project_suggestions`.
+
+Columns:
+
+| Key | Type | Size / values | Required | Default |
+|---|---|---|---|---|
+| `name` | String | 200 | ✅ | — |
+| `district` | String | 100 | ✅ | — |
+| `category` | String | 100 | — | — |
+| `description` | String | 2000 | — | — |
+| `source_url` | String | 1000 | — | — |
+| `author_id` | String | 64 | ✅ | — |
+| `status` | Enum | `pending`, `accepted`, `rejected` | ✅ | `pending` |
+
+**Settings → Permissions:**
+- `users` → ✅ Read, Create, Update
+
+Toggle **Row security: ON**. (Read/Update are granted to signed-in users at the row level so the editor can change status from the queue; tightens to the `moderators` team in Phase 4.6.)
+
+**Index:** `by_status` · Type: `key` · Columns: `status (ASC)`.
+
+Accepting a suggestion in the queue only marks it — the editor then adds the project to `data/projects.js` with full sourcing, which is what actually publishes it.
+
+---
+
 ## Future collections (placeholder)
 
 - `sources` — every citation URL we accept (per-row metadata about archives + access time).
