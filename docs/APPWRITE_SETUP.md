@@ -158,6 +158,18 @@ That's it for the table. The site already references it as `accountability` in `
 
 ---
 
+## Phase 2.x — Keeping the project awake
+
+Appwrite Cloud's free tier pauses any project with no API activity for 7 consecutive days. For a low-traffic civic site that's a real headache — you'd have to manually resume it before any sign-in works.
+
+**We solve this in the sync workflow itself.** `.github/workflows/sync.yml` runs on Mon + Thu (every 3–4 days) and includes a "Keep Appwrite project active" step that makes three lightweight, unauthenticated reads against the project's public collections. Each read counts as activity; three across three collections + the health endpoint is comfortably enough to keep the project marked live.
+
+No cost — Appwrite doesn't bill on read count, and even if they did, three requests twice a week is inside every free tier ever written. If you fork this repo for another state, update the `PROJECT_ID` and `DB_ID` values in that workflow step to match your Appwrite project.
+
+If you notice the project got paused anyway (e.g., you disabled the workflow for a while), just resume it once in the Appwrite Console → Overview → Resume. The next cron tick keeps it live from then on.
+
+---
+
 ## Phase 2.x — Email deliverability (sign-in links → inbox, not spam)
 
 Appwrite Cloud's default outbound sender (`noreply@appwrite.io` or similar) has weak email-reputation against Gmail / Outlook spam filters. First-time recipients usually find the magic-link email in **Spam / Promotions**. Two fixes, in order of how much they help:

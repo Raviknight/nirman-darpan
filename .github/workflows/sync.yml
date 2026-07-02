@@ -42,6 +42,30 @@ jobs:
       - name: Refresh metadata
         run: node scripts/sync.mjs
 
+      - name: Keep Appwrite project active (prevent 7-day auto-pause)
+        run: |
+          # Appwrite Cloud pauses free-tier projects after 7 days of no API
+          # activity. This runs Mon + Thu (every 3–4 days), well inside the
+          # threshold, so the project stays live even when there are zero
+          # public visitors. Uses a couple of unauthenticated reads on the
+          # project's public collections; counts as activity, costs nothing.
+          PROJECT_ID="6a34470a0010b8e65407"
+          ENDPOINT="https://nyc.cloud.appwrite.io/v1"
+          DB_ID="6a344b6f002c3a7ca279"
+          echo "[keepalive] hitting Appwrite health..."
+          curl -s -o /dev/null -w "  health: %{http_code}\n" \
+            -H "X-Appwrite-Project: $PROJECT_ID" \
+            "$ENDPOINT/health"
+          echo "[keepalive] listing 1 comment (activity ping)..."
+          curl -s -o /dev/null -w "  comments: %{http_code}\n" \
+            -H "X-Appwrite-Project: $PROJECT_ID" \
+            "$ENDPOINT/databases/$DB_ID/collections/comments/documents?queries%5B%5D=limit%281%29"
+          echo "[keepalive] listing 1 vote (activity ping)..."
+          curl -s -o /dev/null -w "  votes: %{http_code}\n" \
+            -H "X-Appwrite-Project: $PROJECT_ID" \
+            "$ENDPOINT/databases/$DB_ID/collections/votes/documents?queries%5B%5D=limit%281%29"
+        continue-on-error: true
+
       - name: Refresh public-conversation snapshots
         run: node scripts/social_sync.mjs
         continue-on-error: true
