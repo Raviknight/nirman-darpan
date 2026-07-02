@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:50:46.694Z",
+  "updated_at": "2026-07-02T12:32:10.809Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
     "press": 236,
@@ -38,16 +38,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "कीरतपुर-नेरचौक फोरलेन: 28.36 हेक्टेयर वन भूमि की अनुपालना रिपोर्ट लंबित, परियोजना में देरी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObnNoYThLUkVyRzNfQklNZWkzMThwVDRMREx6TVoxM0ExNXpTTktoem9pWVZKVTFaOGlSZkE4OGJhbXFOM1BhbU5INUhnYXdPdExLd1U2VHBUSUVIVmxsSTc0T1pGTmd2Y2FZSEYwdWxTd19BTm4wNWZvNldSTXJFR0lIUndhbjBBcFVZMVhONkR1ZDV0Vng1bUVOZ0ZiS3hRdEhKT1hVZUowVGR5M0RGLVRCWjZrMVdhWFllbThFckhCdmdDSllFcHdpTGZDSU9YSlROOWV5WEl0VXdxZ3RGZmlLaEhPMER1clZsbWd6Z0lpdFloWHRVRnJDVktfSFlkek51Nm40MDhmX3FrNU56QW42MDI5bEpzTFc0aWVHNU4tX2pKN0ZObE9B0gGvAkFVX3lxTE9YTUdRTHdialR3ZVhMczhDZzVjZDRSSVZXcDNBMHpxUEJxUHFlUTVrXzlFTkNXemhYak5RUHdZMEpGQ21Sb0NlaFVxQ3YxQmx4cXZSbnpkUUU2ZkV6TEp2cE11UHg3MFAtRHNPSURWY2dySUppaHlsdzVCeW1PTmoyYlVickxtUUhtTVd1aEhEZVlBamZldlp6dGVITkRUNWY5MERlTlJEZXBnUm5oUWJ1b19YOE5BcEZyS3B1U0FrQk5ZSnpmNC1kWUF1R3JUTWJRMURCMV9jeEpRNkRmdElvZ3J6am5lR3pMX0tWTWRERzEwWW9OcC10Y1VoWnNySTFpNkpsMEJ3dTBKRlhUZ3dVYlBUZGJXeW92Rkt6MUZvZWJhMW9PT2pqYTVSbkRnUQ?oc=5",
-      "date": "2026-06-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kiratpur Nerchowk"
     },
     {
       "title": "Bilaspur News: चंडीगढ़-मनाली हाईवे पर कार से चिट्टा बरामद, युवती सहित 3 गिरफ्तार - Punjab Kesari",
@@ -208,7 +198,17 @@
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "Motia Builders Group launches premium plotting project in Mohali - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd3FqeUlRQ2VfQko1QlRQTXY0ZDdaT195Z1F1Z2Itek50bVNxNTU3VExNSkN6cDM4Q25SNm9HRGdVdDdIV21tVmFQM19lek93c0JpWmlLMC1WVlJRVzIwaDBVcTNLRzBJRGJ5LUt3UUJYNVEtcDVvTjJrYXpsN0FVclYzUG5wdTYwbkgyNUhkTzdSazE1OUVDZjFIN3F2ZXJvYnpzVU54aDI5d1hPMm9N0gGzAUFVX3lxTE9KdzNJLTYxZVJqOHFSZDdFTDZEelloT0RGajJxREcxTzdiRGJSX2tCYVZMWEZsSWM5Wk0tTS1wbGhjRFExMW5BeUl6UlJUM3NiUVFpU3BYOW5sUkRuUkxKRnA0MkF4cWZpTkN5dnRjbzdCS3hMNnFBT3FlOXFxVm8xbWZDNk40bi1hcjdJd1JBcVQtdDZHbHN0YXdvcXV3ckFsZmMtRlQ2VVdpa3ZMWUVXU1RV?oc=5",
+      "date": "2026-03-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Chandigarh Manali highway"
     }
   ],
-  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
 }

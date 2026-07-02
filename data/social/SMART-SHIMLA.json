@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-02T11:51:09.555Z",
+  "updated_at": "2026-07-02T12:32:32.674Z",
   "project_id": "SMART-SHIMLA",
   "counts": {
     "press": 68,
     "gov": 0,
-    "en": 30,
-    "hi": 38,
+    "en": 29,
+    "hi": 39,
     "total": 68
   },
   "mentions": [
@@ -200,15 +200,15 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "शिमला स्कूल संचालिका हत्याकांड: हमलावरों की तलाश में पुलिस की बड़ी कार्रवाई, CCTV और तकनीकी साक्ष्यों से जांच तेज - himachaldastak.com",
-      "source": "himachaldastak.com",
+      "title": "शिमला मर्डर मिस्ट्री : बहन की लव मैरिज से नाराज था भाई, स्कूल संचालिका की हत्या मामले में सामने आया नया एंगल - Punjab Kesari",
+      "source": "Punjab Kesari",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcldpV1pOWDNFaENTS01fczdwU1VkYXByemNGbmlTUlhUZENTd2lpdUNpeWV4VXhIcE5PVnNBc3luaVo0bVI0clVHNS1aN0hvNXRNQmxwM2w2NkdvQ1lPVzFRR2g2WVdqdXNNSnlSS0p4ZkxZa1pUTHQxM29fNFYyUDJR?oc=5",
-      "date": "2026-06-14T08:47:56.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXlBa2lJektNTkRoNjl2WG5xYWFxanl1R2ZRRmpkNE5NTV9tOG1mYmFpbnl4Y3kxN1h3ODE5ck9aMG92N09sa25OazNxcmZwVmxzc1pOeXBfb1llN0xpemNqQnJoMmYxcWtONlE2alQ0UUktcGlOcjBMb2NIbU9XVnJrVF9Qa1Atdkd3UHBXakk0Yk9yWDQtbm9oY29DWWdxdjNVa1o5cnRZUm95UGt6WmlxNExtYXR1T2xYMDJn0gHGAUFVX3lxTFBFdXJOMEloSk12WF9iMHZ3SE0tUWRHQXN6NGJ6cWpLVHZsY1RvandWUG5Uck00Wm5ENUZQdTN5cWxoa0diTjBaLXhWZk9oLUJ2ZEpDOVNrVUlobVpLSEhPdHBKT1B4LXFTbFk5VUNSWngtU3V4WE5JLW5MTTRqR01zcnNnT2xFNS1OeDJVbUJManFQaF8wWENUVDVXTmJ2dUw2dlEwUEJya3FmeU5LcE5Wakk2MkxRV2pyZkdaTXlja29KVlF6dw?oc=5",
+      "date": "2026-06-15T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"
     }
   ],
-  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
 }

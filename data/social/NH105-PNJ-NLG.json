@@ -1,34 +1,14 @@
 {
-  "updated_at": "2026-07-02T11:51:18.142Z",
+  "updated_at": "2026-07-02T12:32:41.231Z",
   "project_id": "NH105-PNJ-NLG",
   "counts": {
-    "press": 28,
+    "press": 25,
     "gov": 0,
     "en": 11,
-    "hi": 17,
-    "total": 28
+    "hi": 14,
+    "total": 25
   },
   "mentions": [
-    {
-      "title": "नेपाल में सड़क किनारे खाई में गिरी यात्रियों से भरी बस, आठ की मौत और 16 घायल - bhaskarhindi.com",
-      "source": "bhaskarhindi.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNXVsbFhvQTc3WmNRRTlDakJJOElKZ3A0dzh6TU12UDNMRVBpS0duWEZ0SzBDV1ZBamZaWWh6TzQzWU9GaUN6dDQ1V2NfdEJmcWhLdnV2eGF2bWJsVmdjZV9GQTluRWV1akNXcUdVYzhqV01LMWx0R05vZDFyR29UWU1HOHFLaGdHM0pMZ3J1OFZWeVg1R3Z0d0lPMXNxQ0FyWkZnNnladnhrZw?oc=5",
-      "date": "2026-06-12T13:45:02.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "BBN highway"
-    },
-    {
-      "title": "नेपाल के बीपी हाईवे पर 300 मीटर गहरी खाई में गिरी बस, 8 यात्रियों की दर्दनाक मौत, 16 लोग घायल - navbharatlive.com",
-      "source": "navbharatlive.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2s5aXdtQXVDX0xydFI3SVYtNkI5MERUM2dwQmdEZXQ1TVJnbzZMTVN0Q3hyNjBpYjdZRjZrZUFOTU1fTHlIQUs4aFRIcXNhejZmTjA3WnZiaWJJV0JJaE1BQzZ5QzhzQV9PVFh2dEVUcUlnWlJiVlViSzktUFRwZkxTRkpvalk2UWNtU0tmdWtMblBQY05BZFNYdC1hNGpIYVlzU2ZBb1FaZDTSAbABQVVfeXFMTzNLMVRUT1VEV0dLQUhFTWVob2lEX1FjMW5HTFBiV3o1cWxDUXFuQUEwSkwwbTNXR1dfRmdNdzVia0JCNHFFVlcxNm5fUHFoTHBLd2xLQ2RlYjduUmlaSDdTeGtPdmpjN1ZnUzZFMm9YS1dpeU16N2d1ZkNaVTJjZzhvVkNqSlVaYlZmTE9SWkVNOHNzNE1KbDZpenhNZVBLaV9WeU1LWEdYSjA5eEZYeDY?oc=5",
-      "date": "2026-06-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "BBN highway"
-    },
     {
       "title": "Himachal High Court pulls up NHAI over delays in Pinjore-Baddi four-laning project - The Tribune",
       "source": "The Tribune",
@@ -140,20 +120,20 @@
       "match": "Pinjore Nalagarh"
     },
     {
-      "title": "कछुआ चाल से चल रहा पिंजौर-बद्दी-नालागढ़ फोरलेन का निर्माण - Dainik Tribune",
-      "source": "Dainik Tribune",
+      "title": "Panchkula News: पिंजौर नालागढ़ हाईवे का अब तक सिर्फ 38.60 प्रतिशत निर्माण, कीरतपुर पुल मार्च तक होगा पूरा - Amar Ujala",
+      "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGo5ZnYwM2dvX1dWSG4zcVV6THZ1TnRNdG4tS2VQWFFsdUZacGFsaGFqcXhoYjJIbTVaQ0J3TU16d3F5UVZQck1GWDZ0bFNWYTYteU5uVWQyVXBwTEtkWThrWF9TbGhSRDlwdHNKaHdqc3JqczZvbkhVSHg1X0xMT3g1NGNiSzF6N0c0Y2RzWnpOUnNqZDE3M3VfYXZaNEJ3a2h2bHBrSnhZRlZCd19tZlZ0OEUwaWtCaGZVZElBVVNJSHlUNnBEZE4wQlNRQdIB0gFBVV95cUxNM29uSHVLMEJaUk02NHpaUThKZlNuVlpsZlJsRG1hS0xFZmVKY3VJdUJSZEs0bXlIeWptRkV3NTNkT3pCdENITFRsZXdWcElSUkNsNEdzWjA3ZmNwM3ZyMjVtVDdhUGg4NzRQNEljSjlKYTIyODc0YmI2emY0R1NuU0VWQ1UybHU3V3g4SVA4Z3owb19tc1hZZUkyLUNXZWdzUzZHMFFIeGJ5eHZ4bXhEdERRWGtqNk1kYU5OalQ0TFYySWdaaUpmRlFtbkhfc0lKYkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYS1ycXJtVFRfRUhuNTZ4aXVueXU5V0hIX3hGaU9jOFN2eDZZLXg1emRMS05RLTlyQm5nVE9xcHJiNDI1VTE5NTVSeklRLVJPWGtudjNKWTlqUC1ITFgyQThReElrdTZuT1FxSmpNUkVPNkVlaU84WV83OUhzbmVzWkM1T3pOd0lqT0pFZ1AtWVZTOXYxQ3ZQcVdiajhQZ01QSmhMUGVnS2xIaWdaRUNWcUtfcmFFR3lJU0ZQSVNRTHJVaVNDc01LQmNzcndsZUcwd052dkkzeWs5U2FrbUpFUzNPSUNxRUNYRG5XR3llVXN3aUxUcjVMcjU5NXplel9BY1BPQU9vNVFfLXRNeld6X3NtWXU0aXRhampPaExwQjdxQlZyMEt30gGsAkFVX3lxTE0wOXJ6Z3dZbzhvZk1xZlRuNGtsMGVlS2FaSGkxOE9acVE1bW9UZWxYVlIwUWdjN2NkRmZ0MW1LU1ZWOGlkSmR5X2g5YkpLSGlSU3dGcV9VcG9qVldxN2dKQTNaUzV4Y0FhZl9fOWl0MTNSMW0wRjBna3ZCaU9rNl80Y3B4NjFrUWY0cjBadXJ1LUZsUGtEQjRYRGhpM3ZLZ1NibkwydmFSMnhhdllJbUZVVnRlaGhnYndYYWZVOTA4dWFOcUYxOWFIaHZRaGtGMVExUEhyOEViS2N0WHZiREwxQnZwSnIyeGxUMFVmb2pGMmJpdDczcXRZS0x6bnRiLUEwMlg2V0hKQ3ZPUkZVdlh4bVk1dlpxQVI3WmZBNXJGUFp0V21FdnBwaE5lNQ?oc=5",
       "date": "2025-01-10T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Pinjore Nalagarh"
     },
     {
-      "title": "Panchkula News: पिंजौर नालागढ़ हाईवे का अब तक सिर्फ 38.60 प्रतिशत निर्माण, कीरतपुर पुल मार्च तक होगा पूरा - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "कछुआ चाल से चल रहा पिंजौर-बद्दी-नालागढ़ फोरलेन का निर्माण - Dainik Tribune",
+      "source": "Dainik Tribune",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYS1ycXJtVFRfRUhuNTZ4aXVueXU5V0hIX3hGaU9jOFN2eDZZLXg1emRMS05RLTlyQm5nVE9xcHJiNDI1VTE5NTVSeklRLVJPWGtudjNKWTlqUC1ITFgyQThReElrdTZuT1FxSmpNUkVPNkVlaU84WV83OUhzbmVzWkM1T3pOd0lqT0pFZ1AtWVZTOXYxQ3ZQcVdiajhQZ01QSmhMUGVnS2xIaWdaRUNWcUtfcmFFR3lJU0ZQSVNRTHJVaVNDc01LQmNzcndsZUcwd052dkkzeWs5U2FrbUpFUzNPSUNxRUNYRG5XR3llVXN3aUxUcjVMcjU5NXplel9BY1BPQU9vNVFfLXRNeld6X3NtWXU0aXRhampPaExwQjdxQlZyMEt30gGsAkFVX3lxTE0wOXJ6Z3dZbzhvZk1xZlRuNGtsMGVlS2FaSGkxOE9acVE1bW9UZWxYVlIwUWdjN2NkRmZ0MW1LU1ZWOGlkSmR5X2g5YkpLSGlSU3dGcV9VcG9qVldxN2dKQTNaUzV4Y0FhZl9fOWl0MTNSMW0wRjBna3ZCaU9rNl80Y3B4NjFrUWY0cjBadXJ1LUZsUGtEQjRYRGhpM3ZLZ1NibkwydmFSMnhhdllJbUZVVnRlaGhnYndYYWZVOTA4dWFOcUYxOWFIaHZRaGtGMVExUEhyOEViS2N0WHZiREwxQnZwSnIyeGxUMFVmb2pGMmJpdDczcXRZS0x6bnRiLUEwMlg2V0hKQ3ZPUkZVdlh4bVk1dlpxQVI3WmZBNXJGUFp0V21FdnBwaE5lNQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGo5ZnYwM2dvX1dWSG4zcVV6THZ1TnRNdG4tS2VQWFFsdUZacGFsaGFqcXhoYjJIbTVaQ0J3TU16d3F5UVZQck1GWDZ0bFNWYTYteU5uVWQyVXBwTEtkWThrWF9TbGhSRDlwdHNKaHdqc3JqczZvbkhVSHg1X0xMT3g1NGNiSzF6N0c0Y2RzWnpOUnNqZDE3M3VfYXZaNEJ3a2h2bHBrSnhZRlZCd19tZlZ0OEUwaWtCaGZVZElBVVNJSHlUNnBEZE4wQlNRQdIB0gFBVV95cUxNM29uSHVLMEJaUk02NHpaUThKZlNuVlpsZlJsRG1hS0xFZmVKY3VJdUJSZEs0bXlIeWptRkV3NTNkT3pCdENITFRsZXdWcElSUkNsNEdzWjA3ZmNwM3ZyMjVtVDdhUGg4NzRQNEljSjlKYTIyODc0YmI2emY0R1NuU0VWQ1UybHU3V3g4SVA4Z3owb19tc1hZZUkyLUNXZWdzUzZHMFFIeGJ5eHZ4bXhEdERRWGtqNk1kYU5OalQ0TFYySWdaaUpmRlFtbkhfc0lKYkE?oc=5",
       "date": "2025-01-10T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -208,7 +188,27 @@
       "kind": "press",
       "lang": "hi",
       "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "Pinjore Nalagarh Four Lane: 25 मिनट में तय होगा 90 मिनट का सफर, 30 माह में पूरा होगा निर्माण कार्य - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT201dUxfeGM0SG5ZWVIxVXZrNkNtTG80bFZfdGVqVGV1cXdYRFNINEc0OWhVaHpFMEt6QWdkSnM4dXRiQlAyMXVrTUJQWWFxODQtT1htNlo2eVJhNmZZNE5Hb2tGckZqcVJ2S1pLT25qSjNnZEJvUGYxeVpxVHZGM2M3VWNkc0ZpelBCT1ZOeXFORnF6Um5sVmxDZTdGNkxQc2JWZHEtTGJrNlJqa0EzS295T3dvSXg3TmFLaWhPNE9WdThqQVExUUFOR2Y5WmQ3NVBjanBOMVJLZkFQ?oc=5",
+      "date": "2022-10-06T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "Nalagarh-Baddi Four Lane: नालागढ़-बद्दी फोरलेन निर्माण को रोडमैप तैयार - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWQyU2dFelVBQV92Q1kzRFNwbUh6NDhSaW5IWmZuREVWNWNpY2VQZmgwaVppRlR6NmVPSDV5dVlfYjlwRU1PNENqOW4wcHYzRTVtNGZ6a0ExZEhnckZaTlphMFVlQmZMbmYzbGVHc3F5a3hpVC12UmF2V280Xzl4UzNhSVpzdnozQXpzVndUSnRKbDhmNHltUU52V2pfSFJUY0xCam9tcmg5b2Z1QTMtek92Zm5aZGxkdUxtTDQ0NNIBxAFBVV95cUxPSGF2UUZfcG95WXRlWVNPZmVUWGVQOTZsdlFhMHpVWXJyY3k1U29pMWlHUzNPZnI5bzc4LUtmUUlsNEV6TnRHZW5ZUUdacEJOZGxPdTVlOVl4a2tqckpyMkFYSGdzdmIzOFZvZkFiTnFGbjR1bFBVajI0R00tMVFoNHFVUjFyNGhUS2pFeU1FY2w1bWxRQXJXMklFTnl0MGFJQjZ0NXgtSzBQRXV0ZzRySWNtTDMwZEpPVTRFMFdwcENCRFRv?oc=5",
+      "date": "2022-03-31T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Baddi four lane"
     }
   ],
-  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
 }

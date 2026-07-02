@@ -1,61 +1,62 @@
 {
-  "updated_at": "2026-07-02T11:52:04.385Z",
+  "updated_at": "2026-07-02T12:33:19.627Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
-    "positive": 6,
+    "positive": 5,
     "neutral": 12,
-    "concern": 2,
-    "avg_score": 0.08,
-    "avg_magnitude": 0.235
+    "concern": 3,
+    "avg_score": 0.045,
+    "avg_magnitude": 0.23
   },
   "youtube": {
-    "n": 28,
-    "positive": 21,
+    "n": 26,
+    "positive": 22,
     "neutral": 1,
-    "concern": 6,
-    "avg_score": 0.3,
-    "avg_magnitude": 0.632
+    "concern": 3,
+    "avg_score": 0.292,
+    "avg_magnitude": 0.5
   },
   "overall": {
-    "n": 48,
+    "n": 46,
     "positive": 27,
     "neutral": 13,
-    "concern": 8,
-    "avg_score": 0.208,
-    "avg_magnitude": 0.467
+    "concern": 6,
+    "avg_score": 0.185,
+    "avg_magnitude": 0.383
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Excellent videography with this beautiful vlog relating to Kangra Valley and the Kangra city and the important holy shri",
+      "title": "जय मां श्री बगलामुखी देवी",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Amazing, loved the video, thanks for showing around!!✨🙏",
+      "title": "I love sikandar bhai from Pakistan ❤❤❤",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Omg wow",
-      "score": 0.9
+      "title": "बेटे को भी होश में रहना चाहिए था इतनी खुशियां या इतना नशा भी",
+      "score": 0.6
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "So sad",
-      "score": -0.8
-    },
-    {
-      "source": "youtube",
-      "title": "So sad",
-      "score": -0.8
-    },
-    {
-      "source": "youtube",
       "title": "Very sad news",
+      "score": -0.8
+    },
+    {
+      "source": "youtube",
+      "title": "Very Very sad",
+      "score": -0.8
+    },
+    {
+      "source": "press",
+      "title": "Lack of clarity on compensation mars land acquisition for Gaggal airport project - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaElDYWRGTDlrdWgyMjg0ZUw2RFBNVmVJTXc1eV85VlJjOE5rRExrc1h1OVVDNXExQXdYRlJqNDQwVjRIU1k4TUlNczZxWUxFVkJwZVd3UzlWS3c2MFNTRFVZUlRMTFNzcXFJU2RxYjMtT2hRMDRiQ20zMGtvRnl4SFREUTBwNWRydi1hQWtjemZtcHJXUmJhOUVXR2NNU25GdEJ5anh4Sl9aLXdOVUFxT1lEWnBzb2VaLUFybXI1bjhsd9IBxgFBVV95cUxPS2p4Q0k4a25WVjFKNlBNY2JmMm1adURGcmFUaW90eFZHLV9lQ0xzYjJLYzU1NHBxWWlMMGtOdWM5LTMyaHc1TExMcW9mYUIwMHJSTTJtRmFsdHlHcjViU1c4M1JsSjI5clBZUUMwUmRTRmZrbEFibzgwaV9oNl9MdENEM3NObnVRcnVvQkIzY1VnRThNb0psNlBjSTl0Ym1UbmNlTW5vTXdTNllleGtQbTMyNTBZUXRKUk5ma1N2dm4yZU5uM2c?oc=5",
       "score": -0.8
     }
   ],

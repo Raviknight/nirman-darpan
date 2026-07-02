@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-07-02T11:51:22.922Z",
+  "updated_at": "2026-07-02T12:32:45.609Z",
   "project_id": "SHINKULA-TUNL",
   "counts": {
-    "press": 94,
+    "press": 90,
     "gov": 0,
-    "en": 70,
-    "hi": 24,
-    "total": 94
+    "en": 67,
+    "hi": 23,
+    "total": 90
   },
   "mentions": [
-    {
-      "title": "Rs 16810000000: India to build world's highest road tunnel at 16000 feet in..., China in fear due to... - news24online.com",
-      "source": "news24online.com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWjNhMGM2TEZxUnhrZG5feFZQZHltQjhPZTNxTHFvTDUzNlBYdWs3SzJuTGRNeFRBN3NiZHh0MHhDY0Q0U1k2YU52N2w2dm4tQU1feVE3RDZPQlFnWGh0ZGJFWjVCcEZLUTVTczZFaHhsV0RNM3N2TzRGNVBWRzI1OFRLOGhzamRtV1FDb1lUa3ZTVnpmVC1kQmxqMUVzZ0FyN0JQbVV3Yno5Y0NmZHZsZE43c3ZPbEFVWGZXTGlWQjk3ZTV1ejJ0bUdWbmprbEZNQWtvTWZ6ek9aQU5iT2I1X1FwNkZLSWZxOWt6aTVBM3VHMjhNSEhYMVFQVHRrMFNpanZxMWU3aUZWSGhOcklZZWF3UmJTdlhqb2VSYQ?oc=5",
-      "date": "2026-05-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shinku La tunnel"
-    },
     {
       "title": "चीन सीमा पर भारत का 'मास्टरस्ट्रोक'! ₹1681 करोड़ में बनेगी दुनिया की सबसे ऊंची सुरंग, इसे मिली तैयार करने की जिम्मेदारी - shinku la tunnel highest tunnel in the world at 15800 ft near china border in india - Jagran",
       "source": "Jagran",
@@ -200,15 +190,25 @@
       "match": "Shinku La tunnel"
     },
     {
-      "title": "Zojila-Shinkun La Tunnel: चीन-पाकिस्तान की मिलीभगत की काट हैं ये दोनों सुरंगें, बनेंगी लद्दाख की लाइफलाइन - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "Shinkun La Tunnel Project - Sanskriti IAS",
+      "source": "Sanskriti IAS",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWnFPN2NfM3ZrS3YwR1lOS0pBdjg1ZGVZaTdIakNCTXVDaHVPME1VTGdVZXJfTDhHY0hLZWhnYnRINVQ4cFJxdzVTc0ZGcEswczVrTEw1QmFlc2VpYTBacTEtak9vOVo2TDMzRVZacHl1NUZZLXJYRmhmRzBiekJlejc5V2hpNWNQeXNGTkNVM3pkNTNLclAtaUtsZmdzdVdxTzBLdXhwTldrMmxuajFhcXpYbHZPMXA4WWZnSTY2TzR4N1JsR3g4NFpjYWJySzVEN01EdTc0Q1VuRi1hRFJDSDRTNmVnSDgtVTc00gHwAUFVX3lxTE9Ua0Q4OE54ZlRSNmR6R041RnF4dFVxZnNmdEE4Y1h3UVd1NnM5eFAycFEyY3oxUTBITlNzeFBuSGwtYjU3dUppaXY1YUZyWGtzRkZESFcxNDRybGNnWGh4dE10cGhjalBrdjlaTHhLZU1IelBnV2RzbWZ0MzA0X0NvTzg0ZXZqckZtWlFIWHFwZ2lfbWREcUNIdTQ1SEdWUDBoc2EyS29GS003eHdzb2ZfTVFkektUb1FWRkNiVjB6VEpSMlpERDNwT2I2WXdlTlZ2RGRaMVMzWGVrSzJOaWo1X2J5cEJHSU5jS1BuVXVDTQ?oc=5",
-      "date": "2024-07-31T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcWpoeGZEOC1DTjlXdEFqclZoRWpJTklTQl9pZnNMT3huelo3WW5jRmtkRGhkZ295bGR3VTc2VmhSTWcwekJrY1FIVVcyMHlIY0NfMWVUYUIxLUtHZnBoQzJ4cmdWeXhjMEpiUU5LZHlLVVVta0xSRmh6R05UTDlYVmdR?oc=5",
+      "date": "2024-07-29T03:24:02.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Shinkun La"
+    },
+    {
+      "title": "Prime Minister Narendra Modi Inaugurates Shinku La Tunnel Construction - NDTV Profit",
+      "source": "NDTV Profit",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFpNanhPNkVNM2wzTThlQ05yM1lGaHBobVJtQmJlZGQ1Nm42VkVKb2swNHgwZFBoWXZsX0w1d1ZURS1FTGFteXVvSWxPYnhoVVRmYlYydVVEeDM4NUFzeTBVWWJBbjNEdl83YXc2dWY5YVdTRkFIckd1UmgxclRDU3RSbUdxWDh5R2hHMFJXcUQ4SVRka1ZpSnhlQ2o3bDB6TXFTNF81SWN0dktRLVo4b9IBuAFBVV95cUxPVXIwLU9QNHVBazMwUy1Sa2dZZ1Bnd1pLZ0FuR05nbEljcmtxeGJNWmNQOV9neFZpNWFIdU5Oek5TaE4yUjQyOGdkeVFuQklGMlR0TnE0Tm9zUWQ3YjYxUmJYdWd1Y2tjWEVUVjc2amc2WDJPT3RqWnUzYTc0eEtuYVlBbHc4V1djZ2wxYzlWSzJTMk5PRFZZYk5NdjFpZEJCNlVaamZnX05RU2FiZC1rWGRzVXBCWTNm?oc=5",
+      "date": "2024-07-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Shinku La tunnel"
     }
   ],
-  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
 }

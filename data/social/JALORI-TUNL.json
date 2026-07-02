@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:51:24.824Z",
+  "updated_at": "2026-07-02T12:32:47.560Z",
   "project_id": "JALORI-TUNL",
   "counts": {
     "press": 31,
@@ -80,8 +80,8 @@
       "match": "Jalori tunnel"
     },
     {
-      "title": "Centre Clears Rs 3,667 Crore Plan To Upgrade Himachal’s Road Connectivity, Tunnel To Come Up Beneath Kullu's Jalori Jot Pass - Swarajya",
-      "source": "Swarajya",
+      "title": "Centre Clears Rs 3,667 Crore Plan To Upgrade Himachal’s Road Connectivity, Tunnel To Come Up Beneath Kullu's Jalori Jot Pass - Swarajyamag",
+      "source": "Swarajyamag",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTS1ncjRYYnROaXlTMlJaWTExdC0zZFJVN0hjU1hYZ1Q2TTFTbDlEX0hXUXR6NUlheU5GVGxTQU8yTVdXTGVieno3QVRBQ292Q1NOTGkxX1JvZmpIWlNoTXNIXzB1QThMQnhPdUhiX2N1MGRJbVpma0tOOE9zNUJOWmNsbnhGUlNZUTFlUkVXQzZ5SUNESFFuUFpiRHZ4S1FBdlotMDFmblZ0SWtpellYX3hlUW50RjAtSWNkZFBFS2wxUzQ0c2tWV25lQ2Zsdi0yUlNKR3dRN2dmcko5eEJpTENfNk5GeEdDbTZn0gH7AUFVX3lxTE93NG04YThHYzVvWkRlTXFVOHpVeU5XMzRQYl9PczM2YWxnMkV1dFRiV0pNME9nMGlaTmhvMGtNX2dlMUVTTlJpTVdwS0lqTFpJU0ZqVmVfeU91RWY5TXRlLXJodFIwMDJYeG00dXRtLTBudElMbE9ocXBPUUtIRlhKYmJxTHZRcVhmS2NOd1VxRjdFeVJxME5xVWdreDdBNmNhc3RaZklmdWRCN0JYXzMzeUNDbG9aZkZiMUZwa3BCcWY4TTlLM0dPNkhzVVcxQ3NCdjloTUgwVkItVmhkckIyNnczZFlLTVp2NFZoQUNrZF8zVEZwdVhFalow?oc=5",
       "date": "2025-06-30T07:00:00.000Z",
@@ -150,8 +150,8 @@
       "match": "Jalori tunnel"
     },
     {
-      "title": "Centre Clears Final Alignment Of Jalori Tunnel In Himachal, Set To Transform Connectivity And Tourism In Kullu District - Swarajya",
-      "source": "Swarajya",
+      "title": "Centre Clears Final Alignment Of Jalori Tunnel In Himachal, Set To Transform Connectivity And Tourism In Kullu District - Swarajyamag",
+      "source": "Swarajyamag",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVFA3V1ZLZUt0c3VSSzFxdkFlU3MtMDJhcEJGcnVPMGdmQ21iMmdsSlNYNjFLUXpUdEFHdDVVQUs5YXFlemRCMHhKMXJPR0dMZWRxU1Ywb2lra3NCZlVncU1ick05NWpuTk9FSURQOWRTTHlhM0cwOUNBRVFaeDlTTTZYX0YzYVVCLVV1QXZTRHpGOGRMUzFlR1pVeHIzYUp2MHFUZ1J4Ym5MeGhnOF9qXzByeHhfQld1bk1zNVd6ZGFlejZvcUwtVkxJZC0xS0tlX0dNY3N2QktvQ1RTNGRTNlhqYVotck9P0gH4AUFVX3lxTE9raVFFSWEzVWNxRjVvcklNdEI2R0VPWk1WS2J0Wjc5T2lxTnZLQlZ6ZVl5S09PQXUxTTNOX3V1c3VoTHo0Z3gwRVl5WmpsMkdTSDRSaTlCMTNBakMyc2FTcXJSMzE4SXBEZFVEY3BNc28tZFR1c09zRzNfZXdzaEpWSHZLTExldTAwUWpveURQZk1iRnE5eW9NVmxwcnBqeW13UXJ0T1ZoX20zTDZiOFNKZHA2U0t0b1VCRFppdEc4YUpJX1NJRUNIaFJURnFTQ3VqbFRoY2ZyTlNMMm5nZlNnSHE2VVZybGhlQVdzX3VoN0lBMWMxOHRT?oc=5",
       "date": "2024-12-28T08:00:00.000Z",
@@ -210,5 +210,5 @@
       "match": "Jalori tunnel"
     }
   ],
-  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
 }

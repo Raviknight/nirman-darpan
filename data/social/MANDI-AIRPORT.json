@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:50:56.610Z",
+  "updated_at": "2026-07-02T12:32:20.436Z",
   "project_id": "MANDI-AIRPORT",
   "counts": {
     "press": 8,
@@ -90,5 +90,5 @@
       "match": "Balh valley airport"
     }
   ],
-  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
 }

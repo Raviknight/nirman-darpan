@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-02T11:51:20.577Z",
+  "updated_at": "2026-07-02T12:32:43.292Z",
   "project_id": "NH154-PKT-MND",
   "counts": {
-    "press": 71,
+    "press": 70,
     "gov": 0,
     "en": 55,
-    "hi": 16,
-    "total": 71
+    "hi": 15,
+    "total": 70
   },
   "mentions": [
     {
@@ -77,16 +77,6 @@
       "date": "2026-04-15T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "पठानकोट-मंडी फोरलेन की डीपीआर में देरी का मुद्दा संसद में गूंजा - Jogindernagar.com",
-      "source": "Jogindernagar.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQm1uTTBsSEl6bUxyNVVuQVdDTURtX01RVW1adWR5RUQwVmp3N0VOeW5PTGFsanNiZkNwblFSZ0RJSGZOZUJQMDdMUkpYNk1EV1Qtc25PWmFHeXhGaU5FdzV2R0tURG1QR203UXpkUWI1V19pZ1hMaUZfcjBGbkkyeGM2UERXNDR3cl8yeFF1VjhTdmJrVGN5aVZlbnVtTHh3MWZuWnBvSTVubTNqNkVxRlFHYm9lbXpJQmh2Q3doMW5vYUdOXy1ZWUpn?oc=5",
-      "date": "2026-04-08T00:38:05.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Pathankot Mandi four lane"
     },
     {
@@ -208,7 +198,17 @@
       "kind": "press",
       "lang": "en",
       "match": "Pathankot Mandi four lane"
+    },
+    {
+      "title": "Pathankot-Mandi Fourlane : परौर से आगे फोरलेन का दोबारा होगा टेंडर, NHAI ने की तैयारी - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQRmFJZHREc1ZscjB1cnNaUTVra2oxN2dtRTh4aG9RcldVZDNhaFJyN2txVXNZOUtRX01DLU03bTZ4bDV0TG1QMW9KbG5aU3FYOUN3WUhuNUtULU1rbjNqOXMzaG9SOW52dVQ3UkRLS28tbVl3NjZJWXltZG1yOGhJYURtZy1SUjBjdkdhQmVYdjBGaGdqQkFxSEV3SHFIdjJ1ZTY4RXFfWFR0WDN4U1NCeGpMLTJIOTMySlVuTWFhaDZMU2k1bEpQeFZWRTEwVXN0b0tGZGVOdnEtUGQ4UzBPcnktcmxNNmw4Q2RhdVRCQVFqRHpFZ0RaX1BkbEV2U3YzVVJvd290S0swN21QNGxud0MyN2FLVXpoX0hHX2VnTllfSXFMSkNuVGNhZ0ZmbV9UaklpVEp2cWHSAb4CQVVfeXFMUDkzMmR3cXdacGJ3YjBBVWdnc2RacmxtWngwZlFISHhaRTJFdzBZOFpHd25SM2JqVEEyS3dFRzlieUdkUzlRckFYaU0xLXJqVVBwQnF3OG96YmJMOWloYVdnSmZvcVd4bl9Xa0NIX3gtX25BbmJFNzVZZjRrbnQyY2x3TmtpbmxQV0ZUUFhHTGxyUGhtajl5X0drRXY3eGtjMG9JaXF1MUoteHlZdmNTVklGUURoRGN1b0YwNjRRRS02TV9QRTFaWWhINXhDUWY0MkhqR2NhTVlqa1ZnVVZRNEZiV2dQTnJyS2JCUnJOWWZycFU3MGgwS2RPcjVFWEE0RmVQbWZQTGlnWDVrWGpva2ZsQW5PWDhzMU5DenU1d05SaEJSZXdYMG9wYmxVei1VbjlNR0dTWmhYX2hRTmJB?oc=5",
+      "date": "2025-09-25T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pathankot Mandi four lane"
     }
   ],
-  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
 }

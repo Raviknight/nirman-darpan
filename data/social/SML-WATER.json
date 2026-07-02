@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:51:31.801Z",
+  "updated_at": "2026-07-02T12:32:54.270Z",
   "project_id": "SML-WATER",
   "counts": {
     "press": 21,
@@ -110,6 +110,16 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
+      "title": "6-IAS transfer in Himachal - HIMACHAL HEADLINES",
+      "source": "HIMACHAL HEADLINES",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yUWxhcW5Qc19LSTVHU19DdE5IaG5HS2V4ejlBVUJRMWV3NDAxYWs3clNCaDlUVGRuLUlaekJJVjBmY2xpV1V6WlFrbTYxcml4b1prcXNxN1lQZDZoQzJwUndzbG9Ld1I3YnhoRk1qWQ?oc=5",
+      "date": "2025-03-23T20:45:51.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJPNL Shimla"
+    },
+    {
       "title": "Ex-Dy Mayor seeks shifting of Winter Carnival stage in Shimla - The Statesman",
       "source": "The Statesman",
       "source_id": "google-news-en",
@@ -170,16 +180,6 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "Himachal Pradesh Government - himachalpr.gov.in",
-      "source": "himachalpr.gov.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LTEFHeEZRTi1NanQ3WkF0c1hyQm94U0RlMG5rTEkydmFJOUVhQTJxYW5HdjBQMTlaVkJKQjI5eHRRa0JjZ1JGdUlWYkhNRDlpYzRlMXNWeWFBeXlBVlVnUi1HSVU4R3RKanFMeTJn?oc=5",
-      "date": "2019-07-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
       "title": "पेयजल शिकायतों के लिए शिमला जल प्रबंधन निगम ने जारी किया हेल्पलाइन नंबर - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -210,5 +210,5 @@
       "match": "Shimla Jal Prabandhan"
     }
   ],
-  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
 }

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-02T11:50:50.273Z",
+  "updated_at": "2026-07-02T12:32:14.374Z",
   "project_id": "RENUKA-DAM",
   "counts": {
-    "press": 48,
+    "press": 47,
     "gov": 0,
-    "en": 37,
+    "en": 36,
     "hi": 11,
-    "total": 48
+    "total": 47
   },
   "mentions": [
     {
@@ -25,16 +25,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTmFRSGFBckk1amlpQ19mTm9CZ3Z6VGJJN0hQNVktdmFBOEJ2YlRKRldHMWVySVdIZXBKd2lKTDVvX2RuYzk2WTUzSFNKTEE1T0tBV0ZaS0Z5WXJDSmRuSklCUFVmNHN4WnZzU2JqS3REWmg0OUdsZW9fdm5QR215R3RBc1doOGlNZkZuMzVsMjhUcC05TG4zeDMydXRXeVJRbXBpOWpXQkhpeHJqUGVwWDBfQ2VmTVM3LS1JZ2NUeGRUSkxIaWV6Sm5QQlJHODJHNDVqedIB2gFBVV95cUxPNXVNMUtvZXBfRWZEWUlfVUV6WmdCRVRVUnhSUWNkbk5pUmxuQjNhRjl5ajRQdjQxSGZrTzV1M0hoXy1scFZOS2FhTTRJbWNEanBEdUljTDloMWp3TGFWY2tCWEdINGZCRHc2WC02UjZwSU5NY1laaUt2RkFwWmx0c01Jclh2a2xlclAyWEE0QjluczRLYVJQbmU4RTZZdDZGQW9PVmhJZFlTWkZRLVJvd1E0Y2hvbmQ2TE5LaGlEaG1Nc3VjOUczQV8yVFVkbXRfOE9adV9jXzVUQQ?oc=5",
       "date": "2026-05-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Renukaji Dam"
-    },
-    {
-      "title": "Patel Engineering wins Rs 230.7 crore Bhutan hydro project package - Power Peak Digest",
-      "source": "Power Peak Digest",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTFJsakxlVkJHY3FoaHhJQ0c2ZF80Y0tqeFdRdlU2MVNkQzdGMXhsMkRDUFluOTlNNG92TE03Z3JqeG45d3dockhSVWR3cHgyc0owWkZpVVNMaEN5S3FoMHNNTVVieWhQUjRtY2VZRmgycFoyWm10eDMyUTBqS1VWeFJubTJLUVI1elR3eGxxbjhVUjBEZzNtZURKYw?oc=5",
-      "date": "2026-03-22T22:12:02.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Renukaji Dam"
@@ -208,7 +198,17 @@
       "kind": "press",
       "lang": "hi",
       "match": "Renukaji Dam"
+    },
+    {
+      "title": "Rs 95 Cr Sanctioned for Yamuna Water Project - Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb0hvdUVvT2x2OWh1X1d2Ykx1TEJPcmEwNDBPdkZub1hFVEJaV2JpcGZIaHJRRDJPN0cyUHEyUXdJNzFLbmtVNnQ3OHlBYzlWTmlYS3psb2xjWEJ2dVBfYzlPMnlMVlNUSVpMd3d2ZWpOWlBnMm1ONmhqeV9UUEh1MEtTV1BNdHh2dVBvekRZenNyMTdBZTFzREFsWVfSAaIBQVVfeXFMUFphTXlNMTZMdTNCSm5samdBTXhkRXUwWG95R3RKazYycFNpc2k3OHFib0YxaGRvbmVTdnEydENYZXdDYlhJeWVIMGxNOFI1VVBGMlpta0ctMGVGcjFJOU9way1qX0ZVMXZHcGdRWHFjYjE2NEpONmdxYy16bjkyUUhwQTZsQlVEdzV1akh4TXpqUVhpTlk2N29xbnBhNi1lYjZR?oc=5",
+      "date": "2025-07-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Renukaji Dam"
     }
   ],
-  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
 }

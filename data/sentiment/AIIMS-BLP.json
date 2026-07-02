@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:52:06.402Z",
+  "updated_at": "2026-07-02T12:33:19.786Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
@@ -10,44 +10,42 @@
     "avg_magnitude": 0.195
   },
   "youtube": {
-    "n": 39,
-    "positive": 21,
-    "neutral": 15,
-    "concern": 3,
-    "avg_score": 0.249,
-    "avg_magnitude": 0.321
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 59,
-    "positive": 31,
-    "neutral": 24,
-    "concern": 4,
-    "avg_score": 0.217,
-    "avg_magnitude": 0.278
+    "n": 20,
+    "positive": 10,
+    "neutral": 9,
+    "concern": 1,
+    "avg_score": 0.155,
+    "avg_magnitude": 0.195
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "AIIMS Rishikesh & Bilaspur offers amazing scenic beauty.",
-      "score": 0.9
+      "source": "press",
+      "title": "एम्स बिलासपुर में जूनियर रेजिडेंट के 41 पदों पर नौकरी का अवसर, 22 जून तक करें आवेदन - IANS LIVE",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVEtbE5nM0YwZ2JlREZ6ZFVTaTBKaEYxVXd5enBTMDM0OWRpR2UweU1qUWJQNFdSREh6MXp5NWtsVVFUamIyajVScFNfWktsakN5bVdpbVozZHlyS2NHOFEwOXlyc3NlQ2luN19QeG1UUF9lbTAwUVg1TVQwQVQwVGFtTDBnbm5QZTJwNkRTc3F6MndxdENwWEdYdVBiX213emkwN2VocU80MklNWTZ4YzNPcnFJUHdUai1tbzlOT0RNZ1hwOWdnSWZVeDU?oc=5",
+      "score": 0.6
     },
     {
-      "source": "youtube",
-      "title": "❤❤❤ so beautiful Bilaspur",
-      "score": 0.9
+      "source": "press",
+      "title": "हिमाचल के बिलासपुर में बंदरों का आतंक, मंदिर सो लौट रहे बुजुर्ग पर किया हमला; एम्स में तोड़ा दम - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPc0dUbVhRU05rMmRXVjhEUVZfeXVzaUY4aTY3N1JIRVVxZTFCY1FnVV9XZEJ2SmU4UFBqWmNfYXBDYTBIOWN4dmR5RVpSVVM2aG04U1kyM1BGSWpybnRKZ0FXczhoMmxyaURFSFlNb0lTanU2Yl9majlCY2tjMHA3Sk8yN0pmMFJreTE1SEFOOG5wcmxOUUFzWE8tUGpEYm1BWE9ocldQTjU3VDVwSHh4djVNekJGc2U3SU9RRncwdWVYbnd0cWZselNmWEZQY29CQ2M0MGxXUWcwc2ZpZ0RNMWE4dDZSUUpvTGVDRE9n?oc=5",
+      "score": 0.4
     },
     {
-      "source": "youtube",
-      "title": "Big fan sir \nGive me a red heart",
-      "score": 0.9
+      "source": "press",
+      "title": "एम्स बिलासपुर में प्रोफेसर सहित 75 पदों पर भर्ती के लिए तुरंत करें आवेदन, 20 जून है अंतिम तिथि - IANS LIVE",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa24yTUpBOXZBUjNrRW1zWVNjUTZnT3BQNTNwQ3psRV9iMF9QNVh5b0g1WkN5RFhlakxRTlFHWkNCMk9qa0RweXRMM1BCSDlIbkdjQ1VaNnhyY3Y1SmRGc25iQi1Zc25lUnBidGJScWpYWTdXMlRYTFlXeWlyRTZxRTlHR1JMa2RZYzVxcFpHYnliZ2s3WHVjLUY3WHVwMm9jaW1PeWx5THU0dklyRDRyQ2k3MEhmN3FpR3JhMy04cG9NdVI4RzBVZG4wMXBrUQ?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Kash govt esa room iit main bhi de .iit rooms quality is so poor",
-      "score": -0.7
-    },
     {
       "source": "press",
       "title": "Manikaran road mishap toll rises to 3 after injured youth succumbs at AIIMS-Bilaspur - The Tribune",
@@ -55,9 +53,16 @@
       "score": -0.3
     },
     {
-      "source": "youtube",
-      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
-      "score": -0.2
+      "source": "press",
+      "title": "AIIMS Faculty Recruitment 2026 Out for 321 Posts, Eligibility, Salary, Selection Process - Adda247",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02UlRIZFV4eC1ldUJYNERFazdmV28xcTVjbHc1eWlRZzlmV2Z3NTJ3QXIxa243V1NhQUY3bG05dEFqUE5oV3VrQUhPWW9rMTZJb1FBbk5nUGFpMHRGMGxJdnhQS291S3dnWllBUWl1aXhvYnZPNmRlN0VYZ1NfQ1U?oc=5",
+      "score": -0.1
+    },
+    {
+      "source": "press",
+      "title": "Bilaspur News: एम्स बिलासपुर के यूरोलॉजी विभाग में मिलेगी महानगरों जैसी हाईटेक सुविधा - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOaHdORjdjSUFPelVKaVBrR1RWbWRabDRSQmxPNE9sNC11em1pd3FuQ1Z3MjVoUUhILTU3X0VUUmgydXdnRkt0Q1hicks4ZG81eWY5bVVPeWtPRGNNQmlVMXVGa3pvSDl4S3BCYkZ5dUE2WUdKdGF0YjZXWEF5YVJwQ3c4YVVwNXVocS1XQnpGTGRadU1ZeW9xSG5yR0cwQi02Y25yS2JIUnU2TWdaYmJVT0hBNHhyRHBjbzVHX2oySmRma0hkRGhQdTRrN1NCR3BrYXRDWUhUbHkwZDNhWk44T1hKX0IzS2tla3R1Vm9XZ1VYRmszZy1FUVhYSTFTZU1jTHZ6Nkx6X01aWWlwUXpsdFh3c2VZTzd0SXpsaVEzTkxpdFozelJlRWxzQ3BRZkp2cTh4Q3JSUFJZMWFBZzlR0gHEAkFVX3lxTE5JREZ2cXBmZkpYdFMtSUtfTkxGSUV5eWtmVFZzcXZBbXBwNTEtOXBvai1EWlBGN1BDZ2RjVEFJWG9ETDFvd3p1b180YzlQUTIwRlZXOFNfNllVMzNyY29sZUprUkRXaHZxUlJTRi01Y3Y3TmVBa0JkYUhHT29USy1uS3NMV3RXMGVjYmpDZTUyY2hvSFFoMXpXZmVxd3FMa3lLLXdIQkdSdnM2ZFdQWWN2Rlh0WlVGOWo0MENoVHQ2TmxPX2xQYURYVVBTZTRxWUN1a0ZvS2VBY09PTlV0LXJ4QmhNcDlOeWhIMFJpRldDNjFPQkZGZVhuRTVkYVVoRGdyVWt0T0VPSEhnZ1BMdm05VUNQTXZjbnZyamZXQVo0dlhEbU9vekQ2NmZhRXJKSko4SVJwUVFPa0pxekRITHAtQ2JwTA?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

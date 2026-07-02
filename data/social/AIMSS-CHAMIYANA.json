@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-02T11:51:27.005Z",
+  "updated_at": "2026-07-02T12:32:49.757Z",
   "project_id": "AIMSS-CHAMIYANA",
   "counts": {
-    "press": 94,
+    "press": 93,
     "gov": 0,
-    "en": 37,
+    "en": 36,
     "hi": 57,
-    "total": 94
+    "total": 93
   },
   "mentions": [
     {
@@ -210,5 +210,5 @@
       "match": "Chamiyana hospital"
     }
   ],
-  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."
+  "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
 }

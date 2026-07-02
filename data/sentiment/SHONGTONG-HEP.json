@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-02T11:52:20.770Z",
+  "updated_at": "2026-07-02T12:33:21.912Z",
   "project_id": "SHONGTONG-HEP",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 15,
+    "positive": 4,
+    "neutral": 16,
     "concern": 0,
-    "avg_score": 0.115,
-    "avg_magnitude": 0.135
+    "avg_score": 0.09,
+    "avg_magnitude": 0.11
   },
   "youtube": {
     "n": 0,
@@ -19,19 +19,13 @@
   },
   "overall": {
     "n": 20,
-    "positive": 5,
-    "neutral": 15,
+    "positive": 4,
+    "neutral": 16,
     "concern": 0,
-    "avg_score": 0.115,
-    "avg_magnitude": 0.135
+    "avg_score": 0.09,
+    "avg_magnitude": 0.11
   },
   "top_positive": [
-    {
-      "source": "press",
-      "title": "बनारस के किला रेस्टोरेंट में चिंगारी से लगी आग, देखें VIDEO - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMnZyelJ0NGNNSnVLSFZHVkFubTBpLThPaGd2Ul9NVlBsbG1CbHZHd2Z2SjhVaVBDU3VYZnBNR2Y5UUM1c3lUVDlSTDNtaDlvYWY5M3gzSzdQaTI2Ulo0Y1RzOVNzSkIybGhTSktMUW1iMWdQWFZTalVkSXM2ZE0wT3hNajNGMFBic2hSMTVRVkxtaWp4MHJRYU56SHd5MkJ1eGpESFlyWGtnUTVCSWgxOWhNX29LOEFRVlJja0FfeHNFSDZx0gHKAUFVX3lxTFBoMVh1UUJHY2FnQ05VQi1EdmRJLWNzMkg5eUVuRmh1YW8zaWU2S2VYS0U2SkhKQ2h5SUY1bzhFWUN1STB2NHY4clZmOGwyb0N1NEZ1d3pabUc5UDVPMDZjMzlXbWNRZVNWeS1KeHcwMm9HWE0zbE9kYU15bllVbHNtOGZCcHpUbHlzTjZOYWlhdUlYY1ppUjZ3QzlXdUZuWXNjUG5SMFhGcUx0dEU3Ny1iME15dFA3STVScXBzMVZnZE9ZZi1SakRCTXc?oc=5",
-      "score": 0.5
-    },
     {
       "source": "press",
       "title": "Himachal CM Sukhvinder Singh Sukhu Visits Shongtong Karcham Project Site #Gallery - Social News XYZ",
@@ -43,15 +37,15 @@
       "title": "CM सुक्खू ने किया शोंगटोंग कड़छम जल विद्युत प्रोजेक्ट का दौरा, कहा- 2032 तक हिमाचल को... - ABP News",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3p4alI3N3ZkZUlRWGlIWC1sQVV5TFZxc2laMm5oMlM3dG1vd0d0MjByWnpIX1FrUG1yd1N4UDg2YVcyT0J6ZGZBb3FYYWpLbVE1aG5kelQtdEVOOFVtLUs0emUtNGZlV1ludGZ2V1cwOGwwUnZQV0gwY19sbnAxTE9zUEp6VjgzUExKbVNBM25EaDBzbjBobGM4eGtLUnRfRkxVUjdJaGZGMmp3bDBKM3dVZ0RTa1hjYUpfd1F0dE5iTDhTRXREc0p4NFdxanAxbzBsaHo4SURhWHNyNU1XeHBPeEE0MW5NQUHSAe8BQVVfeXFMT2JJaHdTRHRHRnBTZXctWDVmN1ZyMkZHRzRrYVlGSUdJUDRmZldPRmVnUnpBQVlCRTBnZEc0a0pEM0IwcFhzaDVPaENGbWFqbDZ5SFJIRW9McEpDYWJlTU1ZYU91djJQSDFYZ3NJSVA1WnBFU2x1ZWZ2Zlk1UXROcnkyQktTUHdRSmhQSkliZXFtS2hJTlRtRzQ0M0U4bmdKU2twTVoyQ0dGR0pGdU5sT2JZN2VOdGlNd0F0WEpLYU1KOUtUMnZzUk9vbFVaeHJ6RU5OSjQ5dmRtQms4NEhiVFkyc0pBNFJGQ1gydFhneEk?oc=5",
       "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "Rampur Bushahar News: शोंगटोंग-कड़छम जलविद्युत परियोजना का निर्माण कर रही कंपनी को लगाया 7.47 लाख रुपये जुर्माना - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYVZQM1JPd2NQVWQ3Y0U4bVR5dlBRVGhNV0pZa3NpVUxTanpXMDhwTWFYS04yaDhvVE1jVEFQdWMzWWlhb19Bc3ZYeUNkbDZSaWs5allEWWhJYWRERXpYX1djb3d5VHlDNFVxZ29rdy0tX0VXWU4tc3ZRUC1JSUFhZi1MWm1pZ3VUNGVNLW91NUlCRTB5azlKM21iMzNHYVI4WklXa1p1UlVaSlNLcjhueVpVMjV6QXNKc2llaEI5R1c3TXYydjVQOU1MX0ZEb3N3VkQzN1lRTlRfdWVmYk9fNmxPU1pYbTctTjR6eF8wdEZaenEzeW9hck9ZT1A5MUxhWVpsS2cweDc1QzhscGRsNjloVFlxelJHczVjYy1DTVZmckFIcHRmN9IBrgJBVV95cUxQT0RwZFZYYXdBZE1SdnNFM0kxZU43U00wTnJPeTltR01qMm52UTBXczJKVkZWZGNkWW9uTFhDYkgwQ1NwY3lNRW1EUzY2Wi0yQnVacGwtN3k2QWljTmRQQ29tQWlSY0l1RTdVUmljaGVFUTVHc3pob1ViZkNjaUUzaFRnaVJ0dmc1T1Y3MkcwNUNRZWJ2dWhnNU5KbENXZ3BUdVRESE9iQkxuSkVQTWNVOGs1VkZ6S2paUW04VFVQMllfUHZERmFuTmxEM19pSmlRck9RcGYxWFdoWXZtYUJ6Vmk1bTM4Y1cyUHpaN29MOGRYcGhvbVFHUDc0eEZDaFNmS1dWbUpzY0c5Ny1QaXFVSFUzYUtSNXdXMF9idGl4Y2pFdk5tMzBNSVREbVlEQQ?oc=5",
+      "score": 0.3
     }
   ],
   "top_concern": [
-    {
-      "source": "press",
-      "title": "उच्च शिक्षा राज्य मंत्री रजनी तिवारी की गाड़ी से टकराई नीलगाय, गाड़ी क्षतिग्रस्त हुई - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPME1nc2I2QmEyWjBXaUdSMzdCYkJrMmlySFd0NloxcnZJaHJrQ0dtSXNsUmFNR2prRXNfZENUMUNHZW1wRl9xUVp5dzZxYktvZVJJeEtpNW83dHVEeEtvT3J3TS1zaklwS21JcEdqMExDVDB2aWhfM29ELWxVM29NekNpNTVRckNsZVpMSlFqRDlHeDlLdEFCT2RpaDVWSkJEeG53Zm9uYWJxYktCdnZOVzYzTkJvNV80dDNRSW43Sk5VTXJiSjZYa0Z1S2IxSUlIN25tdGdWQmNFMlU3UC0xa0xQYmFRNjZuY3h4RDJTTmR0b0VvRFBR0gH8AUFVX3lxTFA5cmlWNy1mcnpPeGpNS3czUFN1TzdDTE1lZXQ3WlFsTzh4SjdBY2JSVlVGSEdnZlpSYl9hN0FGMXlpQ0Y0VUV3TW1wVlNpeE8tODdDQm5jZjZDeUNfY0U3cTkxcTJaSUZYbkQ5MzdWckxCUVdpNGtpOTN3MXAzZFlKVzJpdHVtMzhGVURLamdSUTFxeFNldmdjckdIT1Q2S240a1RQbnlleDhZQUh6cFBFajdSX2dlaU44MThiR2RiNGhyY3h6Q04xdzRqdGlDQUZKR01BUmpzd0ExeWhOaFVEclZNR2RCQU10dU1MdlpNNGRLb1phaTVnRF9kOA?oc=5",
-      "score": 0
-    },
     {
       "source": "press",
       "title": "Shongtong-Karcham Hydroelectric Project to be Completed by November 2026: CM Sukhu - The News Himachal",
@@ -62,6 +56,12 @@
       "source": "press",
       "title": "Himachal CM reviews Shongtong-Karcham hydroelectric project, directs completion by November 2026 - The Statesman",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRF96SFdseXZ4ZnBMWjl5OHBaSHNCVHNyRUFuQWpJdm5hQ3RpMXpqWkxTRzhmX0dfRHJleFhnZHdTR2JLVlg2aG0yM3ZwTnVrRzcxUGpPZXZYSi1uckpBUG95cHlHR1FDbnlXRHpVNV9pMHA3UTlvbTJwV1FBZ1pERnI5OUdQMUdfQm8ydFNjM2RZVkZ0cllIdWVrcEpMV3QwM2hJMHctUlNIeUxUSDVIZy1ZTzhOQWpnanBaLXFWS2NNQkpDeDMydWFIN0l1b2dnekhrQTBaVGU1WGgyUTNr0gHkAUFVX3lxTFBVSHd4M2V1YTlyQmxxd1FGbXZiUDd3T0FDRVJKaTBueVVwZ2FLb1o4Z1FRdWw1NWNKdm15ODR5WTBNOGNKS0VOUmk5SkpCVm1iNS05U0RVYmZJUmtrYVlSTDJPSkttVnRfWXNVbEctLUsyVkFxQUJLTFV0aGhyMWdjQUpzckRvUnV3Rm5HYjBwZTYtd1Z3d2dTWHNxT1VKR0JIMXFaY2tRWl9WQW11eVRMeFdxMTFpOHJxVjY4WENPbXJRbXpHbEhnZ1JibVFoZlNpejd0aWRFaWIzZnc4aGdsaTlCdg?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "Shongtong-Karcham hydro project to be commissioned by Nov 2026: Himachal CM Sukhu - Social News XYZ",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObzRJMnJfc3RPd3FoR0g4cDFKOHNScy1SeEpPWXotcVBTcHUwXzFmcWZrRFp2T0ZMWmlUc1JGcHVCdXhHYUxOTDZCaGhFelhhRTd6dUY0RmRFNEx6d3dPb19TT19fa2ZmWFpPc0FDWWdWbE1MYkZWWFFMZWZHd3Q5T2hvOTNCTjY3YmlXN1NhbTlCUXIwRVNQcERNWlB1NUFYRUJITF92V1BBaC1rLTFrdjJxbkhCQUdSa2FJ0gG7AUFVX3lxTE5vNEkycl9zdE93cWhHSDhwMUo4c1JzLVJ4Sk9Zei1xUFNwdTBfMWZxZmtEWnZPRkxaaVRzUkZwdUJ1eEdhTE5MNkJoaEV6WGFFN3p1RjRGZEU0THp3d09vX1NPX19rZmZYWk9zQUNZZ1ZsTUxiRlZYUUxlZkd3dDlPaG85M0JONjdiaVc3U2FtOUJRcjBFU1BwRE1aUHU1QVhFQkhMX3ZXUEFoLWstMWt2MnFuSEJBR1JrYUk?oc=5",
       "score": 0
     }
   ],
