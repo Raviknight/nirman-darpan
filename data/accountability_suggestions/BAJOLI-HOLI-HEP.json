@@ -1,30 +1,7 @@
 {
-  "updated_at": "2026-07-02T12:33:14.725Z",
+  "updated_at": "2026-07-02T13:28:24.752Z",
   "project_id": "BAJOLI-HOLI-HEP",
-  "count": 2,
-  "suggestions": [
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "title": "GMR Group’s strategic sale of power assets to reduce debt, strengthen finances - Insolvency Tracker",
-      "summary": "Auto-detected from press: \"GMR Group’s strategic sale of power assets to reduce debt, strengthen finances - Insolvency Tracker\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkxlOTN0QnU0bWN0Tk9oRFpGR1lZSzBNMW1sWGlPYnR4cVdlUS1Gd2FBTmNrMk9UaHJvSWVtVGRmOTJqeFBnWThRcVdBU1hlb1BRMnUzNGpPLWloR19IWVFHTi1pQXBjNUNlRWpjZUp1R3pxblNLUEF4OUhxUjBmMVpJLWR5dEl0NXNJdWtheWxWTy1TTE1ybmJHNkRONjJEMmVOb1pzQThtX0J3R3NuQ1R6Rk8xdEU1?oc=5",
-      "source_name": "Insolvency Tracker",
-      "lang": "en",
-      "date": "2025-04-13T07:00:00.000Z",
-      "matched_term": "ngt"
-    },
-    {
-      "category": "defect",
-      "severity": "medium",
-      "title": "In Chamba, a village cracks under shadow of another hydro tunnel - The Times of India",
-      "summary": "Auto-detected from press: \"In Chamba, a village cracks under shadow of another hydro tunnel - The Times of India\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlRPSWR3ZmlKRDhabHhkZVd0WHhrZFBTdExCaWc1RGI5eEVtMklKS0JhVzZ6a1dtR3Z6SWlHVG5FZG5wYVl3TXJKU1Z5WVZKRzNrNmRXR3FFNnNIZzgzNlpzYnl1V0p6SE1XU1NPZW52WDJuTVR5VmFFaTdSVmlwZDh3eXFKbnJ3VmUtQUswNkJwTFM3UWs2TUpzVDhmUGtWNmxseFUyZEwtV3RnSzZjWXNOMnItc21WMFFlQkp1cXlnSkRWZ3JTYnZn0gHPAUFVX3lxTE5Yb2ZzUFpnVURtcHhTSDZDTlNxeEVlck1PM0lCaVBxNlBma3dIU3lkVnVDSzhkWi1Wd21RWHZGYnFKTGxBcXU2dkZQblRQSzVKTWZJUTEzQnduRm5YMWI2LWk2LUdOT3pXLWRTaEVYWmg0OVpJYXRoYVloZ000eDQtc21EWHhrWlZRU2F0VE1GZWNJNU91anMyTVRsRUJpYW1reXQ0RUhSeGZjUVdzMmQ0cVM2N2c5RmtqR3g3clBrUE95VmZTbENqWHBVMEJ3Yw?oc=5",
-      "source_name": "The Times of India",
-      "lang": "en",
-      "date": "2023-01-13T08:00:00.000Z",
-      "matched_term": "crack"
-    }
-  ],
+  "count": 0,
+  "suggestions": [],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

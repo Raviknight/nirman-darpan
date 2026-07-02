@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T12:33:19.878Z",
+  "updated_at": "2026-07-02T13:28:30.606Z",
   "project_id": "JJM-HP",
   "press": {
     "n": 3,
@@ -10,59 +10,53 @@
     "avg_magnitude": 0.1
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 21,
+    "positive": 8,
+    "neutral": 9,
+    "concern": 4,
+    "avg_score": 0.124,
+    "avg_magnitude": 0.443
   },
   "overall": {
-    "n": 3,
-    "positive": 0,
-    "neutral": 3,
-    "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.1
+    "n": 24,
+    "positive": 8,
+    "neutral": 12,
+    "concern": 4,
+    "avg_score": 0.121,
+    "avg_magnitude": 0.4
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "Jal Jeevan Mission: Himachal Pradesh to achieve ‘Har Ghar Jal’ - Construction World",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY3B6UDlWUHFfMi1PNTVYVTZQVkhIaW55NWc3T0xoR3ZtSXRWUHlWLUt0Um44NTkwbnNWUHFoLWp4REF2VG1UbG5vaTFYdG1sdEFiMFdobGUydi1tdkE2VDAxcFJBc2tZY004Z3YyS09iMDZESkhXZVlBYU12VkM5RVRycHZ3cUlpT3IwUS1zdGVlbkdEVWY0N2FwakVuSVpoT1RRUTNVR3hfX0tnNm5EM2RhU2Z2REM3SXhJdXNVd2ZERzYzamVUbjhLbXRURXg0T0RjVVgzYnp3Y0dzc093RHVoU3pWZ0lRR0NEVFZiNA?oc=5",
-      "score": 0.1
+      "source": "youtube",
+      "title": "Excellent achievement",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "Jal Jeevan Mission: Himachal Pradesh presents Annual Action Plan - tennews.in",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTjlkTTJzQmJsRzZHMmVsOTlYanctcTRGN3czMUNLNW9CRXAxajhta09WYzVuZUh2V2N4ODZBR3o3ZzNhQkk4RGxOVDIxSjItZy1iS0tZQW9CZUMtQUxtUURDWjQydXRjYjFWbUh4a1BxYjZMY0pJMDZnbnp4bjFyaFpEMHJ3VzRicEp3?oc=5",
-      "score": 0.1
+      "source": "youtube",
+      "title": "Thanks 😊😊😊",
+      "score": 0.8
     },
     {
-      "source": "press",
-      "title": "Union Minister for Jal Shakti approves 465 crore as Performance Incentive fund for 7 States under Jal Jeevan Mission - Sarkaritel.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHF5bHB2U0E1Zi05WDVTclpGSlFBcmpISTRIRnVWTmEwTU1IX3ZFMjlvekZxVlQ2V3lIRFhxVGt4QnRDZjc4S3hTaFJ1Z1JJRVRsSTVzS1lLYnlud2xha21BaFRWT3VDRHNhaDRJR2w4RUxFdVFWRF90a2FLWGN5cVpFaGxpZEhGRk9kWllhaTV4SnVhOHZBdUVGd1Juc3JnR0hMcnQ2V3Q3QjBQVC1TN3gtbnFVLXF6c3FoeDg4SmJTTTViamEydXlUSUFkOUNsVDdxMWVLdTBEd05B?oc=5",
-      "score": 0.1
+      "source": "youtube",
+      "title": "Very nice news about your work jay hind Barat Santan Jay Sri Rama Krishna tks 💖 best wishes BJP halp all India okay 🆗\ud83d",
+      "score": 0.7
     }
   ],
   "top_concern": [
     {
-      "source": "press",
-      "title": "Union Minister for Jal Shakti approves 465 crore as Performance Incentive fund for 7 States under Jal Jeevan Mission - Sarkaritel.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHF5bHB2U0E1Zi05WDVTclpGSlFBcmpISTRIRnVWTmEwTU1IX3ZFMjlvekZxVlQ2V3lIRFhxVGt4QnRDZjc4S3hTaFJ1Z1JJRVRsSTVzS1lLYnlud2xha21BaFRWT3VDRHNhaDRJR2w4RUxFdVFWRF90a2FLWGN5cVpFaGxpZEhGRk9kWllhaTV4SnVhOHZBdUVGd1Juc3JnR0hMcnQ2V3Q3QjBQVC1TN3gtbnFVLXF6c3FoeDg4SmJTTTViamEydXlUSUFkOUNsVDdxMWVLdTBEd05B?oc=5",
-      "score": 0.1
+      "source": "youtube",
+      "title": "Why congress didnt do this.",
+      "score": -0.4
     },
     {
-      "source": "press",
-      "title": "Jal Jeevan Mission: Himachal Pradesh presents Annual Action Plan - tennews.in",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTjlkTTJzQmJsRzZHMmVsOTlYanctcTRGN3czMUNLNW9CRXAxajhta09WYzVuZUh2V2N4ODZBR3o3ZzNhQkk4RGxOVDIxSjItZy1iS0tZQW9CZUMtQUxtUURDWjQydXRjYjFWbUh4a1BxYjZMY0pJMDZnbnp4bjFyaFpEMHJ3VzRicEp3?oc=5",
-      "score": 0.1
+      "source": "youtube",
+      "title": "WE NEED BIOGAS OR GREEN HAIDROJEAN FULE 🍏🌳",
+      "score": -0.4
     },
     {
-      "source": "press",
-      "title": "Jal Jeevan Mission: Himachal Pradesh to achieve ‘Har Ghar Jal’ - Construction World",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY3B6UDlWUHFfMi1PNTVYVTZQVkhIaW55NWc3T0xoR3ZtSXRWUHlWLUt0Um44NTkwbnNWUHFoLWp4REF2VG1UbG5vaTFYdG1sdEFiMFdobGUydi1tdkE2VDAxcFJBc2tZY004Z3YyS09iMDZESkhXZVlBYU12VkM5RVRycHZ3cUlpT3IwUS1zdGVlbkdEVWY0N2FwakVuSVpoT1RRUTNVR3hfX0tnNm5EM2RhU2Z2REM3SXhJdXNVd2ZERzYzamVUbjhLbXRURXg0T0RjVVgzYnp3Y0dzc093RHVoU3pWZ0lRR0NEVFZiNA?oc=5",
-      "score": 0.1
+      "source": "youtube",
+      "title": "Madam ji bihar ka News lana bhul gayi kya ab bihar ka News nahi lati",
+      "score": -0.3
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

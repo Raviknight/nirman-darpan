@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-02T12:33:22.007Z",
+  "updated_at": "2026-07-02T13:28:36.275Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
     "n": 20,
     "positive": 10,
-    "neutral": 5,
-    "concern": 5,
-    "avg_score": 0.06,
-    "avg_magnitude": 0.34
+    "neutral": 6,
+    "concern": 4,
+    "avg_score": 0.085,
+    "avg_magnitude": 0.315
   },
   "youtube": {
     "n": 0,
@@ -20,10 +20,10 @@
   "overall": {
     "n": 20,
     "positive": 10,
-    "neutral": 5,
-    "concern": 5,
-    "avg_score": 0.06,
-    "avg_magnitude": 0.34
+    "neutral": 6,
+    "concern": 4,
+    "avg_score": 0.085,
+    "avg_magnitude": 0.315
   },
   "top_positive": [
     {
@@ -60,9 +60,9 @@
     },
     {
       "source": "press",
-      "title": "Mother detained for abandoning newborn at Hamirpur hospital - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZEMyV0Juakw2UjFuOF80WXRua1Fkc3l0b0x3U1g5SGcyWXd5cllGR0dXSENPLWNTbk9sRUh6S1ZKRmdnS05pbTVQdlRQN1JHam8zTlNGMmVhZVR2VEg2blFEb2pRbzZiVFBVSXlZcWRTVTFYVmQ5bWZ2NGJvTm9qaGV3bm4yX1lUN0VkVnIzUnVIbHU2N0tFeXMxWDRBX1NXdWdKMzdFOC0tQlFHQnVMbEM4WS1sVUtkY3Nsb2hhQ3hEU2tHb2NCMndFSDRQZTFBUldV0gHYAUFVX3lxTFBReWdjTS11Vm9fU2VHdjdLQ1g0V1dfTk9JSUh1ZWR0bU9DNF9ncXFVMFV0LVhuVFlLUWoxTFk0N19GWE96M0Y1NUlZYzlTaU1QVTRRZEV0enYwZUlnX0FoNmNQYl9JaHlraFhSc3FpLV96cGV1N3ZmbVU4VFU1RUdVaVhkeTE3LXNkT24wV3ZjRjFzekNuNERDRlBxRW4xV3NWOWdGUjgyOUJGV2lua0JoMGtHRWZoZHlZTEw1dUNJYU4zMEZTNG1odk9idlFIQTk4NlphbTFldw?oc=5",
-      "score": -0.5
+      "title": "Anurag Thakur questions delay in shifting Hamirpur medical college to new campus - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNS1JUjJNcWlZTWI0VE1FUDZwMXI5ZjdDNU1uY3BrQkRsdnJNYWZ5Ti1jQzJCcDZpYlNaUUxrcW1UTGFDUkstYUlkOUpWaGtZSzdsQUgxOUQ0aVZoN0hpYS1fOEJDemRqRFYyZklWTXpZRkhaYVRXS0pnbDBWVnRPckNtV0tnUzgzVE91dWltcE1lWnJhbFBDTkJOaVNrY0FVRVlaMVgxcFRQQjRidEpKaWx0cFR0d9IBugFBVV95cUxOakw2Rll6c1NUbkI5bHBrbG1zTFl6Q1FMTzEtQUJsamFqejk1Z3NXYmhUaVBIYWJCQS1DV0FxSktRdXdCdzA5SUJGUTdhbUN5YlRFNjk0QlhUazJNRzg2Uk5xUFhIcm00dVhmYThlODBnOFByV19DZWwycmVtUTlQLVM1YlRaejhiUEN2czVscTVOalV3SlNqQ2pIcWdkWU5uZFBHMUt3RTY5SzI4emtvNkRQa2pnMWw0YUE?oc=5",
+      "score": -0.3
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

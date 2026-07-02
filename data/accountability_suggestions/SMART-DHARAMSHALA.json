@@ -1,11 +1,14 @@
 {
-  "updated_at": "2026-07-02T12:33:14.722Z",
+  "updated_at": "2026-07-02T13:28:24.749Z",
   "project_id": "SMART-DHARAMSHALA",
   "count": 1,
   "suggestions": [
     {
       "category": "audit",
       "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T13:28:24.749Z",
       "title": "CAG pulls up DSCL for irregularities, mismanagement - Pioneer Edge",
       "summary": "Auto-detected from press: \"CAG pulls up DSCL for irregularities, mismanagement - Pioneer Edge\" — review the linked article and edit before promoting.",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWHpNZ2xtWkt5VS11b3UtN0hsS2trdFpxYVB4TzgxQkhfVWRiMkoweTRjWFpMZjBaSEVrYWxoVlpzdlJUNllDTmZMZkZKbFE2V2FqdVAtYmxQS0xPT184RmlPbGRoNUpvSTktLWdaNzZTN25ZUFFUZ2kxWEItVTQ?oc=5",

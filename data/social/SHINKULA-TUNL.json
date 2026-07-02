@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-07-02T12:32:45.609Z",
+  "updated_at": "2026-07-02T13:27:53.823Z",
   "project_id": "SHINKULA-TUNL",
   "counts": {
-    "press": 90,
+    "press": 91,
     "gov": 0,
-    "en": 67,
+    "en": 68,
     "hi": 23,
-    "total": 90
+    "total": 91
   },
   "mentions": [
+    {
+      "title": "Rs 16810000000: India to build world's highest road tunnel at 16000 feet in..., China in fear due to... - news24online.com",
+      "source": "news24online.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWjNhMGM2TEZxUnhrZG5feFZQZHltQjhPZTNxTHFvTDUzNlBYdWs3SzJuTGRNeFRBN3NiZHh0MHhDY0Q0U1k2YU52N2w2dm4tQU1feVE3RDZPQlFnWGh0ZGJFWjVCcEZLUTVTczZFaHhsV0RNM3N2TzRGNVBWRzI1OFRLOGhzamRtV1FDb1lUa3ZTVnpmVC1kQmxqMUVzZ0FyN0JQbVV3Yno5Y0NmZHZsZE43c3ZPbEFVWGZXTGlWQjk3ZTV1ejJ0bUdWbmprbEZNQWtvTWZ6ek9aQU5iT2I1X1FwNkZLSWZxOWt6aTVBM3VHMjhNSEhYMVFQVHRrMFNpanZxMWU3aUZWSGhOcklZZWF3UmJTdlhqb2VSYQ?oc=5",
+      "date": "2026-05-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shinku La tunnel"
+    },
     {
       "title": "चीन सीमा पर भारत का 'मास्टरस्ट्रोक'! ₹1681 करोड़ में बनेगी दुनिया की सबसे ऊंची सुरंग, इसे मिली तैयार करने की जिम्मेदारी - shinku la tunnel highest tunnel in the world at 15800 ft near china border in india - Jagran",
       "source": "Jagran",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Shinkun La"
-    },
-    {
-      "title": "Prime Minister Narendra Modi Inaugurates Shinku La Tunnel Construction - NDTV Profit",
-      "source": "NDTV Profit",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFpNanhPNkVNM2wzTThlQ05yM1lGaHBobVJtQmJlZGQ1Nm42VkVKb2swNHgwZFBoWXZsX0w1d1ZURS1FTGFteXVvSWxPYnhoVVRmYlYydVVEeDM4NUFzeTBVWWJBbjNEdl83YXc2dWY5YVdTRkFIckd1UmgxclRDU3RSbUdxWDh5R2hHMFJXcUQ4SVRka1ZpSnhlQ2o3bDB6TXFTNF81SWN0dktRLVo4b9IBuAFBVV95cUxPVXIwLU9QNHVBazMwUy1Sa2dZZ1Bnd1pLZ0FuR05nbEljcmtxeGJNWmNQOV9neFZpNWFIdU5Oek5TaE4yUjQyOGdkeVFuQklGMlR0TnE0Tm9zUWQ3YjYxUmJYdWd1Y2tjWEVUVjc2amc2WDJPT3RqWnUzYTc0eEtuYVlBbHc4V1djZ2wxYzlWSzJTMk5PRFZZYk5NdjFpZEJCNlVaamZnX05RU2FiZC1rWGRzVXBCWTNm?oc=5",
-      "date": "2024-07-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shinku La tunnel"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

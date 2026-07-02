@@ -1,33 +1,14 @@
 {
-  "updated_at": "2026-07-02T12:33:14.698Z",
+  "updated_at": "2026-07-02T13:28:24.730Z",
   "project_id": "NH5-PWN-SHL",
-  "count": 4,
+  "count": 2,
   "suggestions": [
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "title": "Landslide at Shimla in 2025 an 'act of god', NHAI tells NGT, rejecting compensation claim - The New Indian Express",
-      "summary": "Auto-detected from press: \"Landslide at Shimla in 2025 an 'act of god', NHAI tells NGT, rejecting compensation claim - The New Indian Express\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHo2bDBRdUc1MnV6NkNxZ0JnOVBfX2hvYTFOUlVRa1pGVmlfM3NmYUF4UFlsaUIxbmRId3AwcDlqLUtPZWtteWQ4dUcwaG5UdS00TGU4UW1SbXlycEJYbm5DNHdJQjJKb0FiWEpXSWxLdHN2emNzTFp2dXpYaFdFdVJhWWpvcmt6dTZxNXVyd3VKXzNLZ2pGS2JWOUtpM2Q5LU1jeGpkTzktaUh3TTRXUXNWbVVIMU9uaGtQTWNwT3RVbV9IQjFSUXFuQmY0dWFKZGfSAd8BQVVfeXFMTmd2c0NHT2YyRFl0bHFuRUZXeU5rRGtBdzQ2cDBqeGVZWnBLaEF1V0ZhS0hOdFBPaG12NmVJdlJjeDMza20yOEN5dG91QUpBV19jcWxaOFZjTHpJeDR3U2ZhM29IRlpIcHV6SHMtUjc3UVl0LXA4MmgxZXlpcXhxeUZfemhlVHlyYlFyd05IN2ZxbjVVZUpURFNOZ21FSGQxbV9qMkRYM0F5T3lFQXEwcUo4SGxIeXZXRjNiYXE0Mi1KSTlZaTJoSjVmWGZzLTR1NGVZNVEzUG5RYjFRb2FRVQ?oc=5",
-      "source_name": "The New Indian Express",
-      "lang": "en",
-      "date": "2026-05-22T07:00:00.000Z",
-      "matched_term": "ngt"
-    },
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "title": "Shimla landslide that damaged apple orchards was ‘act of God’, NHAI tells National Green Tribunal - The Indian Express",
-      "summary": "Auto-detected from press: \"Shimla landslide that damaged apple orchards was ‘act of God’, NHAI tells National Green Tribunal - The Indian Express\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmZzYS1nZ2FOUmxEVjFRUEYxWUMtYl9zcGtPUHh4eWFJcktLX0V0eEVFMXU0bHRUb3BFUFJpTkpCNklVVzlsMEl1NVNDa0ZQdFM4VGpDV002dzdPQWRHZ3lhdnpoTlhIWGFTdlNXbTUtZUFJcTZFVGludmNDcmFneUNLd3dOOG9hRGQyd1NnTU93V0ZnSUpHbFhKWFpNS05xcnJUetIBqwFBVV95cUxNeFI1aU04V0Z5QU5zZTdEMlpWTm8wd3hLQzlHVjhGcjMwTnV1V2VMenNRelZBY3JrQTBLUjlONWltanE2OXViUzBfWU1JU1pMRFluSU4xUWlGUWFPWklXM0R5d2ptTzFzcnBXSG9YWHF1dWlJVGNMQzIzcy0wZHZsZ1lDVjJseWQ3TjVBanpnM0pYYlBoaWRwaGhSaVZmSk92b1RnZkMyaEUyRUk?oc=5",
-      "source_name": "The Indian Express",
-      "lang": "en",
-      "date": "2026-05-21T07:00:00.000Z",
-      "matched_term": "national green tribunal"
-    },
     {
       "category": "incident",
       "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T13:28:24.730Z",
       "title": "Shimla Five-Storey Building Collapses, Landslides Block NH As Rains Pummel Himachal Pradesh - ETV Bharat",
       "summary": "Auto-detected from press: \"Shimla Five-Storey Building Collapses, Landslides Block NH As Rains Pummel Himachal Pradesh - ETV Bharat\" — review the linked article and edit before promoting.",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTWVwR21BcVFKMWpXV3pLejJTWEhWRFg5SXBmSkVnamIzcFlXN2hOWnFBZ20tdWE1dHlOZURtcG9MVG9oc3dGZEFLV0tER2VPejJVeHc0OFFCT2JLVjJuMmt2TTRUYVNOaXVsUEFFdkFlNVBzeFJfa3ZXeDRoM0xORnRMNzF2WHBqQlN4ZzI1UUtBa2FCaVg3TndTeEVqNXZIaG5HR0ctd0NpMlowLXkyUWRtVGw0RDFXeVQzWXVJMG9pd3dPUExaQ255amt4M0pkam0wZ19VbFJWQdIB3wFBVV95cUxQSDF6Vm11VWxWUXhmSGR5ajAwSWE2TEg4VzFLOXN2ZThDMHAtS25fZjhMbjNjWVlMRGhUeEo0N1FfUTRVekx6M0lvNERfQnVuUk9OVmM5NVlSbUV1TW1SMkw2NWZLeGJCYlRuNllHdjluVkRWdVAyc1JJNk51WFM1Y05NOFFUUk1FS0hGcHdiRmQ0eHdxSXVEQjQtYWlRTllIVC1GZWFEM0YzX1p5elU1RmlhVnlDalVyc3BCTUZGMGlKN0lpXzlOeVVhZng4SFdKVGVxNVBxQmMwTU1xYU9j?oc=5",
@@ -39,6 +20,9 @@
     {
       "category": "litigation",
       "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T13:28:24.730Z",
       "title": "Geeta ka Gyan: भगवान श्री कृष्ण ने इन गुणों को बताया है श्रेष्ठ योगी की पहचान - Jagran",
       "summary": "Auto-detected from press: \"Geeta ka Gyan: भगवान श्री कृष्ण ने इन गुणों को बताया है श्रेष्ठ योगी की पहचान - Jagran\" — review the linked article and edit before promoting.",
       "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQURFZmY2bThIaHdxdnp2cnpJVlR6aTRXN2ZkZkU1dy1Ya1NzR1hfeDNpWkMxR1A3bWhLSmZGYno1Yl9vZFJlTnZXcTJyMnd3TS0tZTdYbHJBVFJ5ODkxdUkzLTd2a2VDdHhyY3MxX0Y0Uk1rTjRrTDdHSW5xZ3NRU2IyMF9veU9QaVhxT2E0aTJGSmdaY2c1MlpCTWFOQjkzUGlUcC1MOUxNYm1IbWdkVkd2WjcySE1PWEV6YzItR0E3anFmQjRVSHlyUWhaR0dHa2JvdnV4Nmk?oc=5",
