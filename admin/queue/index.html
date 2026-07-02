@@ -180,7 +180,7 @@
   // ---- load manifest + per-project suggestions
   let manifest;
   try {
-    const r = await fetch('../../data/accountability_suggestions/_index.json', { cache: 'no-store' });
+    const r = await fetch('../../data/accountability_suggestions/manifest.json', { cache: 'no-store' });
     manifest = await r.json();
   } catch (_) {
     root.innerHTML = '<p style="color:#b04a3a">Failed to load suggestions index.</p>';

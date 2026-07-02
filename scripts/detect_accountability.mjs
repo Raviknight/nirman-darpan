@@ -96,7 +96,7 @@ for (const p of projects) {
 }
 manifest.projects.sort((a, b) => b.count - a.count);
 manifest.total_projects = manifest.projects.length;
-await writeFile(join(outDir, '_index.json'), JSON.stringify(manifest, null, 2) + '\n', 'utf8');
+await writeFile(join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2) + '\n', 'utf8');
 console.log(`Manifest: ${manifest.total_projects} projects, ${manifest.total_suggestions} suggestions.`);
 
 console.log(`Done. ${totalSuggestions} total suggestions across ${projects.length} projects.`);
