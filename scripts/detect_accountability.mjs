@@ -41,7 +41,72 @@ function classify(text) {
   return null;
 }
 
+// ---------------------------------------------------------------------------
+// Resolution detection. A story like "NGT dismisses plea" or "potholes
+// repaired" keyword-matches a category but describes the CLOSURE of an issue,
+// not a new one. Tag it so the editor uses "Mark addressed" on the existing
+// record instead of approving a duplicate new entry.
+// ---------------------------------------------------------------------------
+const RESOLUTION_PATTERNS = [
+  'completed', 'inaugurated', 'opened to traffic', 'reopened', 'restored',
+  'repaired', 'resolved', 'clean chit', 'acquitted', 'dismissed', 'quashed',
+  'disposed', 'case closed', 'closes case', 'withdrawn', 'settled',
+  'compensation paid', 'compensation released', 'clearance granted',
+  'relief to', 'gets relief', 'work resumes', 'work resumed', 'restarted',
+  'पूरा', 'बहाल', 'मरम्मत', 'खारिज', 'निपटारा', 'क्लीन चिट', 'राहत',
+];
+function isResolutionStory(text) {
+  const t = text.toLowerCase();
+  return RESOLUTION_PATTERNS.some(r => t.includes(r));
+}
+
+// Normalised title for duplicate comparison across sweeps + against published
+// records (same normalisation as social_sync's cross-portal dedup).
+function normTitle(title) {
+  const base = String(title || '').replace(/\s+[-–—|]\s+[^-–—|]{2,60}$/, '');
+  return base.toLowerCase().replace(/[^a-z0-9ऀ-ॿ]+/g, '').slice(0, 80);
+}
+function urlStem(u) { return String(u || '').split('?')[0]; }
+
+// ---------------------------------------------------------------------------
+// Cross-check against ALREADY-PUBLISHED accountability records so an approved
+// story is never re-suggested. Records are publicly readable, so an
+// unauthenticated REST read works from CI. Degrades gracefully offline.
+// ---------------------------------------------------------------------------
+const AW = {
+  endpoint: 'https://nyc.cloud.appwrite.io/v1',
+  project: '6a34470a0010b8e65407',
+  db: '6a344b6f002c3a7ca279',
+};
+let publishedRecords = [];
+try {
+  const q = encodeURIComponent(JSON.stringify({ method: 'limit', values: [500] }));
+  const r = await fetch(`${AW.endpoint}/databases/${AW.db}/collections/accountability_entries/documents?queries[]=${q}`, {
+    headers: { 'X-Appwrite-Project': AW.project },
+  });
+  if (r.ok) {
+    publishedRecords = (await r.json()).documents || [];
+    console.log(`Cross-check: loaded ${publishedRecords.length} published records from Appwrite.`);
+  }
+} catch (e) {
+  console.log('Cross-check: could not reach Appwrite (' + e.message + ') — skipping published-record dedup this run.');
+}
+const publishedUrlStems = new Set(publishedRecords.map(r => urlStem(r.source_url)).filter(Boolean));
+const publishedByProject = {};
+for (const r of publishedRecords) {
+  (publishedByProject[r.project_id] = publishedByProject[r.project_id] || []).push({
+    title: r.title, norm: normTitle(r.title), category: r.category, status: r.status,
+  });
+}
+
+// first_seen persistence — lets the queue show how long a suggestion has been
+// waiting, and makes recaptured items identifiable across sweeps.
+const seenPath = join(outDir, 'seen.json');
+let seen = {};
+try { seen = JSON.parse(await readFile(seenPath, 'utf8')); } catch (_) {}
+
 let totalSuggestions = 0;
+let droppedPublished = 0;
 
 for (const p of projects) {
   const snapPath = join(root, 'data', 'social', p.id + '.json');
@@ -57,9 +122,35 @@ for (const p of projects) {
     const hit = classify((m.title || '') + ' ' + (m.match || ''));
     if (!hit) continue;
     seenUrls.add(m.url);
+
+    // Already published as a verified record? Never re-suggest.
+    if (publishedUrlStems.has(urlStem(m.url))) { droppedPublished++; continue; }
+
+    // Resolution-language story? Tag it — the editor should update the
+    // matching published record (Mark addressed) rather than approve a new one.
+    const resolution = isResolutionStory(m.title);
+
+    // Title-similar to a published record on this project? Flag as a likely
+    // duplicate / follow-up so the editor sees the connection.
+    const nt = normTitle(m.title);
+    let duplicateOf = null;
+    for (const rec of (publishedByProject[p.id] || [])) {
+      if (nt.length > 15 && rec.norm.length > 15 &&
+          (nt === rec.norm || nt.includes(rec.norm.slice(0, 30)) || rec.norm.includes(nt.slice(0, 30)))) {
+        duplicateOf = { title: rec.title, category: rec.category, status: rec.status };
+        break;
+      }
+    }
+
+    const stem = urlStem(m.url);
+    if (!seen[stem]) seen[stem] = new Date().toISOString();
+
     suggestions.push({
       category: hit.category,
       severity: hit.severity,
+      kind: resolution ? 'resolution' : 'issue',
+      duplicate_of: duplicateOf,
+      first_seen: seen[stem],
       title: m.title.slice(0, 200),
       summary: 'Auto-detected from press: "' + m.title.slice(0, 160) + '" — review the linked article and edit before promoting.',
       source_url: m.url,
@@ -99,4 +190,14 @@ manifest.total_projects = manifest.projects.length;
 await writeFile(join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2) + '\n', 'utf8');
 console.log(`Manifest: ${manifest.total_projects} projects, ${manifest.total_suggestions} suggestions.`);
 
+// Persist first_seen map (cap at 10k stems to bound file size).
+const seenKeys = Object.keys(seen);
+if (seenKeys.length > 10000) {
+  const trimmed = {};
+  for (const k of seenKeys.slice(-10000)) trimmed[k] = seen[k];
+  seen = trimmed;
+}
+await writeFile(seenPath, JSON.stringify(seen, null, 2) + '\n', 'utf8');
+
+if (droppedPublished) console.log(`Dropped ${droppedPublished} suggestions already published as verified records.`);
 console.log(`Done. ${totalSuggestions} total suggestions across ${projects.length} projects.`);

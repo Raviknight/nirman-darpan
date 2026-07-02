@@ -237,6 +237,33 @@ Accepting a suggestion in the queue only marks it — the editor then adds the p
 
 ---
 
+## Phase 4.x — Moderation actions table (cross-device reject memory)
+
+When the editor rejects a suggestion in the Editorial Queue, the rejection is remembered in the browser's localStorage — which means rejections don't carry across devices, and clearing browser data resurrects the whole queue. This small table fixes that.
+
+### Table 5 — `moderation_actions`
+
+Inside the `main` database → **Create table** · **Name:** `Moderation actions` · **Table ID:** `moderation_actions`.
+
+Columns:
+
+| Key | Type | Size / values | Required |
+|---|---|---|---|
+| `kind` | Enum | `reject` | ✅ |
+| `key` | String | 1000 | ✅ |
+| `author_id` | String | 64 | ✅ |
+
+**Settings → Permissions:**
+- `users` → ✅ Read, Create
+
+Toggle **Row security: ON**.
+
+**Index:** `by_kind` · Type: `key` · Columns: `kind (ASC)`.
+
+The queue degrades gracefully to localStorage-only until this table exists.
+
+---
+
 ## Future collections (placeholder)
 
 - `sources` — every citation URL we accept (per-row metadata about archives + access time).

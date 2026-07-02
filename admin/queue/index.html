@@ -28,6 +28,9 @@
   .qitem-head .sev.medium{background:#f6efdd;color:#a9802f}
   .qitem-head .sev.low{background:#eef1ea;color:#5c686f}
   .qitem-head .term{font-family:'IBM Plex Mono',monospace;font-size:10px;color:#a4a294}
+  .qitem-head .kind-resolution{font-size:10px;font-weight:700;background:#f3deb3;color:#7a5a1e;padding:2px 8px;border-radius:4px;text-transform:uppercase;letter-spacing:.4px}
+  .qitem-dup{font-size:11px;color:#7a5a1e;background:#fbf3df;border:1px solid #ecdcc0;border-radius:6px;padding:6px 10px;margin:4px 0 8px;line-height:1.4}
+  .qitem-resolution-hint{font-size:11px;color:#5c686f;background:#eef4ec;border:1px solid #d8e2dc;border-radius:6px;padding:6px 10px;margin:4px 0 8px;line-height:1.4}
   .qitem-title{display:block;font-size:14px;color:#232a2e;text-decoration:none;line-height:1.4;font-weight:600;margin-bottom:6px}
   .qitem-title:hover{color:#1b5640;text-decoration:underline}
   .qitem-meta{font-size:11px;color:#8a8a7e;margin-bottom:10px}
@@ -228,9 +231,31 @@
   }
 
   // ---- rejection cache
+  // Two layers: localStorage (instant, this browser) + the moderation_actions
+  // table in Appwrite (cross-device, survives cache clears). If the table
+  // doesn't exist yet, we degrade to localStorage-only.
   const rejectedKey = 'nd_queue_rejected_urls';
   const loadRejected = () => { try { return new Set(JSON.parse(localStorage.getItem(rejectedKey) || '[]')); } catch (_) { return new Set(); } };
   const saveRejected = (s) => { try { localStorage.setItem(rejectedKey, JSON.stringify([...s])); } catch (_) {} };
+
+  const MOD_ACTIONS = 'moderation_actions';
+  let modTableAvailable = true;
+  try {
+    const r = await databases.listDocuments(cfg.databaseId, MOD_ACTIONS, [Query.limit(500)]);
+    const local = loadRejected();
+    for (const d of r.documents) if (d.key) local.add(d.key);
+    saveRejected(local); // merge server-known rejections into this browser
+  } catch (_) { modTableAvailable = false; }
+
+  async function persistRejection(url){
+    const local = loadRejected(); local.add(url); saveRejected(local);
+    if (!modTableAvailable) return;
+    try {
+      await databases.createDocument(cfg.databaseId, MOD_ACTIONS, ID.unique(), {
+        kind: 'reject', key: url, author_id: user.$id,
+      }, [Permission.read(Role.users()), Permission.delete(Role.user(user.$id))]);
+    } catch (_) { /* non-fatal — localStorage still has it */ }
+  }
 
   function classifyAvg(avg){
     if (avg >= 0.15) return 'positive';
@@ -295,9 +320,12 @@
             <span class="proj">${esc(s.project_id)}</span>
             <span class="cat" style="background:${CAT_COLOR[s.category] || '#5c686f'}">${esc(s.category)}</span>
             <span class="sev ${esc(s.severity || 'medium')}">${esc(s.severity || 'medium')}</span>
+            ${s.kind === 'resolution' ? '<span class="kind-resolution">↺ possible resolution</span>' : ''}
             <span class="term">⌕ ${esc(s.matched_term || '')}</span>
           </div>
           <a class="qitem-title" href="${esc(s.source_url)}" target="_blank" rel="noopener nofollow">${esc(s.title)}</a>
+          ${s.kind === 'resolution' ? `<div class="qitem-resolution-hint">Resolution language detected ("completed", "dismissed", "repaired"…). If this closes an issue we already track, use <b>Mark addressed</b> on that record in Published records below — don't approve a duplicate new entry.</div>` : ''}
+          ${s.duplicate_of ? `<div class="qitem-dup">⚠ Similar to a published ${esc(s.duplicate_of.category)} record (<i>${esc((s.duplicate_of.title || '').slice(0, 90))}</i> · status: ${esc(s.duplicate_of.status)}). Likely the same story recaptured — reject unless it adds something new.</div>` : ''}
           <div class="qitem-meta">${esc(s.source_name || 'News')}${s.lang === 'hi' ? ' · हिंदी' : (s.lang === 'en' ? ' · English' : '')}${s.date ? ' · ' + new Date(s.date).toLocaleDateString('en-IN', { day:'2-digit', month:'short', year:'numeric' }) : ''}</div>
           <div class="qitem-actions">
             <button class="qbtn reject" data-action="reject" data-i="${i}">Reject</button>
@@ -403,7 +431,7 @@
     root.querySelectorAll('[data-action="reject"]').forEach(btn => {
       btn.addEventListener('click', () => {
         const s = visible[parseInt(btn.dataset.i, 10)];
-        const r = loadRejected(); r.add(s.source_url); saveRejected(r);
+        persistRejection(s.source_url); // localStorage + moderation_actions (cross-device)
         rejectedThisSession++;
         render();
       });
@@ -427,7 +455,7 @@
             verified: true,
           }, perms);
           approvedThisSession++;
-          const r = loadRejected(); r.add(s.source_url); saveRejected(r); // also hide from future renders
+          persistRejection(s.source_url); // hide from future renders, all devices
           render();
         } catch (err) {
           btn.disabled = false; btn.textContent = 'Approve';
