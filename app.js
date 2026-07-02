@@ -255,6 +255,23 @@ const NIRMAN_AW = (() => {
       );
     },
 
+    votesSummary: {}, // projectId → { up, down } across ALL projects (card meters)
+    async loadAllVotes() {
+      try {
+        const r = await this.databases.listDocuments(this.cfg.databaseId, this.cfg.collections.votes, [
+          this.Query.limit(5000),
+        ]);
+        const sum = {};
+        for (const v of r.documents) {
+          const s = sum[v.project_id] || (sum[v.project_id] = { up: 0, down: 0 });
+          if (v.direction === 1) s.up++;
+          else if (v.direction === -1) s.down++;
+        }
+        this.votesSummary = sum;
+        return sum;
+      } catch (_) { return this.votesSummary; }
+    },
+
     async loadVotes(projectId) {
       const r = await this.databases.listDocuments(this.cfg.databaseId, this.cfg.collections.votes, [
         this.Query.equal('project_id', projectId),
@@ -296,7 +313,10 @@ const NIRMAN_AW = (() => {
           perms,
         );
       }
-      return this.loadVotes(projectId);
+      const fresh = await this.loadVotes(projectId);
+      // Keep the card-level summary in step so grid meters update immediately.
+      this.votesSummary[projectId] = { up: fresh.up, down: fresh.down };
+      return fresh;
     },
 
     async postComment({ projectId, sentiment, text, location }) {
@@ -518,6 +538,8 @@ async function bootstrapAppwrite(){
   try { await NIRMAN_AW.refreshUser(); } catch (_) {}
   renderAuthUI();
   if (state.selectedId) renderModal();
+  // Bulk-load vote tallies for the card meters (1 API call for all projects).
+  NIRMAN_AW.loadAllVotes().then(() => renderGrid()).catch(() => {});
 }
 
 // ---- stats ----
@@ -704,29 +726,45 @@ function renderGrid(){
                 : esc((p.contractors && p.contractors[0]) || p.contractor)
             }</div>
           </div>
-          <div class="card-foot">
-            ${(p.ratings + cmCount > 0) ? `
-              <div class="sent-row">
-                <span class="sent-label">Public sentiment</span>
-                <span class="sent-num"><strong>${p.sentiment.p}%</strong> <span>· ${ratingsFmt} voices</span></span>
-              </div>
-              <div class="sent-bar">
-                <div style="width:${p.sentiment.p}%;background:#3f9e6a"></div>
-                <div style="width:${p.sentiment.n}%;background:#dcb24f"></div>
-                <div style="width:${p.sentiment.x}%;background:#c2664f"></div>
-              </div>
-            ` : `
-              <div class="sent-row">
-                <span class="sent-label">Public sentiment</span>
-                <span class="sent-num" style="color:#a4a294;font-style:italic">Not yet measured · Phase 2</span>
-              </div>
-              <div class="sent-bar"><div style="width:100%;background:#eceae1"></div></div>
-            `}
-          </div>
+          <div class="card-foot">${renderCardVoteMeter(p.id)}</div>
         </div>
       </article>
     `;
   }).join('');
+}
+
+// Card-level vote meter — reads live Appwrite vote tallies (votesSummary,
+// bulk-loaded once at bootstrap). Percentages only render at ≥25 votes,
+// same statistical threshold as the modal panel.
+function renderCardVoteMeter(projectId){
+  const s = (NIRMAN_AW && NIRMAN_AW.votesSummary[projectId]) || null;
+  const total = s ? s.up + s.down : 0;
+  if (total === 0) {
+    return `
+      <div class="sent-row">
+        <span class="sent-label">Public perception</span>
+        <span class="sent-num" style="color:#a4a294;font-style:italic">No verified votes yet</span>
+      </div>
+      <div class="sent-bar"><div style="width:100%;background:#eceae1"></div></div>`;
+  }
+  const upPct = Math.round(s.up / total * 100);
+  if (total < 25) {
+    return `
+      <div class="sent-row">
+        <span class="sent-label">Public perception</span>
+        <span class="sent-num"><strong>${total}</strong> <span>verified vote${total === 1 ? '' : 's'}</span></span>
+      </div>
+      <div class="sent-bar"><div style="width:100%;background:#eceae1"></div></div>`;
+  }
+  return `
+    <div class="sent-row">
+      <span class="sent-label">Public perception</span>
+      <span class="sent-num"><strong>${upPct}%</strong> <span>helpful · ${total.toLocaleString('en-IN')} votes</span></span>
+    </div>
+    <div class="sent-bar">
+      <div style="width:${upPct}%;background:#3f9e6a"></div>
+      <div style="width:${100 - upPct}%;background:#c2664f"></div>
+    </div>`;
 }
 
 // ---- modal ----
