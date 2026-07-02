@@ -1,0 +1,36 @@
+name: Appwrite keepalive
+
+# Appwrite Cloud free tier pauses projects after 7 days without API activity.
+# This tiny workflow pings the project daily from GitHub's servers so it never
+# idles out — independent of the main sync workflow, so editing or disabling
+# sync.yml can't accidentally let the project pause.
+#
+# Cost: ~10 seconds of GitHub Actions time per day (~5 min/month of the
+# 2,000-minute free tier). Appwrite reads are free.
+
+on:
+  schedule:
+    - cron: '30 3 * * *'   # daily at 03:30 UTC (09:00 IST)
+  workflow_dispatch: {}
+
+permissions: {}
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Appwrite
+        run: |
+          PROJECT_ID="6a34470a0010b8e65407"
+          ENDPOINT="https://nyc.cloud.appwrite.io/v1"
+          DB_ID="6a344b6f002c3a7ca279"
+          code=$(curl -s -o /dev/null -w "%{http_code}" \
+            -H "X-Appwrite-Project: $PROJECT_ID" \
+            "$ENDPOINT/databases/$DB_ID/collections/comments/documents?queries%5B%5D=limit%281%29")
+          echo "comments read: HTTP $code"
+          # 200 = active; 401/404 would still count as project activity, but
+          # flag anything that's not 200 so a paused project shows up as a red run.
+          if [ "$code" != "200" ]; then
+            echo "::warning::Appwrite returned $code — project may be paused. Resume it in the Appwrite Console."
+            exit 1
+          fi
