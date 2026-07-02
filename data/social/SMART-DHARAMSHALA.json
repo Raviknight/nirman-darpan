@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-02T18:10:54.313Z",
+  "updated_at": "2026-07-02T20:15:22.314Z",
   "project_id": "SMART-DHARAMSHALA",
   "counts": {
-    "press": 63,
+    "press": 64,
     "gov": 0,
-    "en": 40,
+    "en": 41,
     "hi": 23,
-    "total": 63
+    "total": 64
   },
   "mentions": [
     {
@@ -50,6 +50,16 @@
       "match": "Dharamshala Smart City"
     },
     {
+      "title": "Kangra News: छह बार बढ़ी डेडलाइन, फिर भी अधूरी रही धर्मशाला स्मार्ट सिटी - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPd1ZTUTVaLTVIRHV2ck1oTXhDYkZfa1pPVzNvYnQ2LWVRZ3dpVktIX0hiVV9paTYwTEtrWVBFUks3Y1kwRkNyZUhTdjZiMTlWN3diVERyNkVld1dyTHgyc3Q3VkVtRmxuZncwaXZSYWVEUmpvUlV1Q2IwZVc5WjhJaEdWQ2tRQlQ1RDliS19DR1JIVExDRVVRNXJ6VnBMWmZTUXhLNEIyQlFZRld5UkV3TkhyY18taWVJQmlEZ2RacmIzdTJtQmtzWTV6M0RPajJUQ3F0QmNmLXBYU2loVFZSQl9VSjN1cHI0Q2NUcnhKMWFRZmxoUHg3T01LYkw0amx4SDJjeUVFTl9aRmx00gGSAkFVX3lxTFBnM2hKQ21TY05faU01T2o4aFNJeGg0YWlGcUVuZE5JcmRxaXR4M3pZTUFlekRxNWdhS3F4R1ViVVBUcFRFVFlWRE5UUTRFUHc3aGx1TDFlMzlEYjZXTU42ME1qQlczWm9Db0I3UXZ3d09rS3hnZ3k4MGlLSXpHUjIyZWFCaU1GMjFuTkdEdUZjTTh5WllHWUI1RUFaVi1lMU9IOW1RNDRQV05KdHFieFdxc2xCUzdsOGJON09mZkg2NFVySFBOVGtYMUVyNUhMdlkxYlhaSXhOMzU5LXgwUUMzQ0wtRkxIZW5maFRERWxFQ0RaTFhWYnpMVTh6STRDV3I3MHVDVE44V3NUVlN6RHZvdlE?oc=5",
+      "date": "2026-06-17T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dharamshala Smart City"
+    },
+    {
       "title": "हिमाचल के इस शहर में दीवारों पर पोस्टर चिपकाए तो खैर नहीं, होगी FIR - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -75,16 +85,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wN0FJZUdjYTE4N2FjNHdKYV9EOVBCR3gzbHk5RWYzd0g1YlBQRmxRZ2hCMm1waWpweFlvbnAxVjF2WDRkcVNMaGpLbDMtQmJDWlJCcUJ4NXFYbEV3dlFhVGM5bU5jODRBU1ZudGYwblZIX2xxZGlTeDJfU1c?oc=5",
       "date": "2026-06-17T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dharamshala Smart City"
-    },
-    {
-      "title": "Kangra News: छह बार बढ़ी डेडलाइन, फिर भी अधूरी रही धर्मशाला स्मार्ट सिटी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPd1ZTUTVaLTVIRHV2ck1oTXhDYkZfa1pPVzNvYnQ2LWVRZ3dpVktIX0hiVV9paTYwTEtrWVBFUks3Y1kwRkNyZUhTdjZiMTlWN3diVERyNkVld1dyTHgyc3Q3VkVtRmxuZncwaXZSYWVEUmpvUlV1Q2IwZVc5WjhJaEdWQ2tRQlQ1RDliS19DR1JIVExDRVVRNXJ6VnBMWmZTUXhLNEIyQlFZRld5UkV3TkhyY18taWVJQmlEZ2RacmIzdTJtQmtzWTV6M0RPajJUQ3F0QmNmLXBYU2loVFZSQl9VSjN1cHI0Q2NUcnhKMWFRZmxoUHg3T01LYkw0amx4SDJjeUVFTl9aRmx00gGSAkFVX3lxTFBnM2hKQ21TY05faU01T2o4aFNJeGg0YWlGcUVuZE5JcmRxaXR4M3pZTUFlekRxNWdhS3F4R1ViVVBUcFRFVFlWRE5UUTRFUHc3aGx1TDFlMzlEYjZXTU42ME1qQlczWm9Db0I3UXZ3d09rS3hnZ3k4MGlLSXpHUjIyZWFCaU1GMjFuTkdEdUZjTTh5WllHWUI1RUFaVi1lMU9IOW1RNDRQV05KdHFieFdxc2xCUzdsOGJON09mZkg2NFVySFBOVGtYMUVyNUhMdlkxYlhaSXhOMzU5LXgwUUMzQ0wtRkxIZW5maFRERWxFQ0RaTFhWYnpMVTh6STRDV3I3MHVDVE44V3NUVlN6RHZvdlE?oc=5",
-      "date": "2026-06-17T02:36:03.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala Smart City"

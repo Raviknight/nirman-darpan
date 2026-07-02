@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-07-02T18:11:19.465Z",
+  "updated_at": "2026-07-02T20:15:44.838Z",
   "project_id": "ATAL-TUNNEL",
-  "count": 3,
+  "count": 4,
   "suggestions": [
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T20:15:44.838Z",
+      "title": "Tourist Died as Scorpio SUV Crashes Near Atal Tunnel in Himachal - The Morning Voice",
+      "summary": "Auto-detected from press: \"Tourist Died as Scorpio SUV Crashes Near Atal Tunnel in Himachal - The Morning Voice\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3ZsU3AxYXhXNjFKaVRKT291N1VkVlR4OGtWeW5JOEdQWmpBY1F0T3FhRGVJS0FIblRQNEVVc1VoQ2dxdGhIU3lpNkVEYU1rNjJDeGNNZ3o2LUNMeDhVX1FwS0NXNklobjNtdENFYjRSZHA1WWZDUGxrQWU5OVJpQ1Jld2dCVjk2dVNYbFJQVkp1RHJjRWprMU9uSFZ3b3dfVjVFM2R3?oc=5",
+      "source_name": "The Morning Voice",
+      "lang": "en",
+      "date": "2026-07-02T18:53:26.000Z",
+      "matched_term": "died"
+    },
     {
       "category": "incident",
       "severity": "high",

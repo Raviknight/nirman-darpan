@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:10:41.228Z",
+  "updated_at": "2026-07-02T20:15:10.096Z",
   "project_id": "KOLDAM-HEP",
   "counts": {
     "press": 88,
@@ -9,6 +9,16 @@
     "total": 88
   },
   "mentions": [
+    {
+      "title": "Bilaspur News: एनटीपीसी कोलडैम में हिम आयुष केंद्र शुरू - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdTlJQzNkVHZuQWxhdkJmdkNPQUxBcFZFQlQzYWVOTzF2YTlqNXMyTXNlWkxaejJ4VjQ3RXh6N2JIejRTMmFzQ0VvZVRaZ0VZb1dGbDNZSUtpXzhCdURzWFJnYWVzeGZMS0w0cUxCUUIwWFBqUzFrNk5iRmd1U1hfSUJIMFlRV0drY2FBdHhMVklpdlFIbUducVlvWnprUzA1U2p4eGVjNENfUEZfSnJtUURFaEk4WERtdWtKeS02ampkUUg1bldiTklObUJINHh0MWtzM2dob9IB3AFBVV95cUxNWjFmY1pHU0lyd2pUMTd4a2htZ05Nekh2cUhad3dBZTd1aDVFVjYxbTZ5a2lFQ2dzYmJOcUZ3WWxhVTF2RGVqeE5NbDlfakpEc2hOWF9KVXdMR09YbDEzMmUtWU1yaU9mQUY5ZDhlLThESktmSE03ZWF4XzhZTk1UYXQ5LWxIS05WR0JrLTVlZjRJX2lsRElMMVd6YWU5dHVQZFhYeG5Kb0NCZVJSUkcxNXNmRkNoZWNCRXhSRTRNcS00elVUeGhCMUU2cUU3YWZfQ0Q2aGl3TmhzNkVH?oc=5",
+      "date": "2026-07-02T18:16:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
+    },
     {
       "title": "कोलडैम झील में वाटर स्पोर्ट्स और पर्यटन को बढ़ावा दे NTPC: राजेश धर्माणी - ETV Bharat",
       "source": "ETV Bharat",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Kol Dam"
-    },
-    {
-      "title": "सूखी पड़ी थी सतलुज नदी, खेल रहे थे बच्‍चे, सायरन बजाकर डैम से छोड़ दिया पानी और हो गया करोड़ों का नुकसान - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdHpDY2w1MERTRENab28zWG5sR2VqdTQ1SENWNVB3OEdDZlBYYjFHNEdoaEMzWTVvWXNxYVlUMlZ0ajFyc3BtOERnejhEdFNKa1V6TWVnc0duYlNydnF0OFRibVVnRTRmUExSVGVKRWFQUmpKbTBGT0FUQ082Y2o1ck5kd3hVUm5Td2s2M2lJOFRSSDdjNjlraWVzMnJQOEFNQ1cwTDFja3hPV2diSEtMekNxVDdZYnlLT3lqWUliQmxLTGs0RE00WWVTUExmYzE1cjJKZnlyaEhBOVRBTUJwdEIteENDRmJVREJtTmJzU2RnakE3OXRlN0lBcTLSAYICQVVfeXFMT00zb3cwSlN3QmtzZnFpdVBodGtqLWVTcjlZcHNORHJlQXFnRWJSbFJHVnBONEJfeUxGc0hhS2JfRlM3Mm0zTG1PR3lzbHROWlI1bmZfalhfQzJLdUwweUNmUkttWFNJM1I0M2xEOEhQVTlmM2k3eC1fYjREMi1mTDVYOTBOTXI0bTZFUVE3SURFMGZ4UTFBRkxrOTlJV2RtRlZHLV9yQmJIb2ZWX3VJNW9XTFFoNFNYalUzUHpqam1vdWJmdkFQcFBDc3dFN1ZzaVBFVWN4RlZRMEFRNy1nTUd1U3VRcjg4UnE4Z0NqQUN4NUx2eF8ySVNoazFrbFQ3UXdn?oc=5",
-      "date": "2025-05-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

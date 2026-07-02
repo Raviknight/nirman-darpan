@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-02T18:11:15.028Z",
+  "updated_at": "2026-07-02T20:15:40.698Z",
   "project_id": "SHIMLA-ROPEWAY",
   "counts": {
     "press": 97,
     "gov": 0,
-    "en": 59,
-    "hi": 38,
+    "en": 60,
+    "hi": 37,
     "total": 97
   },
   "mentions": [
@@ -35,16 +35,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbGg1SG8yVk85MkNPZXFmS3RXUFcyeHIyQzkzRVFPellYaWtZZEIzTVRCMHBQeWV1dm5RRkU0Rmx6bFMwQkI1R2ZrMFNMY2Z2TXFDWUhFN2E3eWVsbkN5YVpIbzVNdW80b2hJRnVUejNhLUVsNl80LVFEVDBkN2NEVnpWQjZqNWVUZ050elE2OG80Vlc0STdRSG11SjU2TFIxMkI5OFNYY1lkN25MTFVFeFAtQkE3RHNUV3VpVWhZSnY4aW9Cd25COVpn0gHPAUFVX3lxTE9QLVlLV0ZQbklWbDVwTndDa2Z3Sy1xcmNUNURKMkttdzlFQTFLS05Bb3Qzdm15Y1g5dEF3SXFGcUxvdlFZa2ozRm1FWS1nYVBXU0ZRNWZOMTBSc3h5T09XLW9ncThDY3pLaUhrcUh6Q0VVQnVUei1FNW5uUU5falUxMU01czF4eW1sbzJFMndnSTRfcUdsWEJ4Y19mSVJKRnpfdGNTRUluOGlidGoxSjN1bVRURW1IQXZBZVRaZS1zTDdKd3VXeGFBN0dNaURHRQ?oc=5",
       "date": "2026-06-29T18:28:02.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "RTDC Shimla"
-    },
-    {
-      "title": "Shimla News: दो साल से चल रहा है काम, फिर भी धरेच-खगना सड़क खस्ताहाल - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMGFNSzY1ZlpVS05kVi1GNFRNTmg2LXdkSG05M1VDZDV1QzBUTkpaTWNYM0tSaldMUXJQcFZVUmpqZ2Z4Wm1vOHc5ZGthS0l2SHgyRkhScHlKTV90T2NSai1QRGdnaVZma0ttSExKdHNySWhXbjBlNFk2MHZxNWxCT3dzN0t5WXNKTkJyTmVKNXNZNC13ang3WXBDQVdyWXVBN1JyN18tTGNEemlnVGQ2eHBFYUpGc2lsblJQM1BhamtHYldzWEFyRlJON1ZKdG1USkRrR2lUanR0NEc3YTc3V0JzZUthUWdVWDVRNldROEg0UDZCUzFFWnVEQm1NTk8y0gGGAkFVX3lxTFA3RmVIMWRReVVoZnRpV2g5VEFOMG1WMlZxQmFDdUFtck96dE1mZ29POXdzZHVzVm9YcE1fN1ZqRHFKaHM3cFJzOE1EQmt1dDBuWU14bnVPbGViRVo2aVd5THVUQW1rM3pubnJUQ1lHeUM0OEEzR0x4UnVKNk5YZWlYRzdCcHVUY0h3WGs4Y0FPWTNLYlNxNmd3Z0dNZmRTSXBOU3JIYXVaeE41R242UlVydk8yMHJRVzdXNi1RUVJhMDJHV185LXVqaU9XR3ZNR0NHS1Q5V2FOem1HTDU3ajdDTWN6UkUtcmpwdktnT0lxQ2pLQnQ1UGtrWk5sTG9BMlVHZ0g2NWc?oc=5",
-      "date": "2026-06-18T18:29:02.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "RTDC Shimla"
@@ -204,6 +194,16 @@
       "source": "Swarajyamag",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMEJVUW9SSGdyWVUtWm9tY0w0RlJwSnJ5SjRZa3haeW9CS1Rpekh4cmx1MWF5WGVXNVZGWE9KQlB5cnJxbWI5djE4Vk12ZG5MeGRxVDg3dnlSWTU3b3ZrYjZyVENGNUVKUkRPaXJ6SERxcDhueTV0M3RCTVhYSkFDdG9SeFU1Qm8zempaZFV0eEhfZkM5WWdfTmtrQVJRdE5tRnZ6VnRBZENYRjlST0duZFE2S09STXZWLVM1Z25RX3Bta3p0OVhOV3pNaVpWQlVJTFQxOUZ1Z3Z5dk5YU1gybDdWQ2lpRDjSAfcBQVVfeXFMTXhMR20yZENMal9kVmM2bzQtb3JSUVFEUnVjNDhETU5zWnhVajJMWjVLc3drZkhtcjIxLWZ1MjFQUlAxQkFCaHdvSlR5TmJGSnU0QkNKemk5dTdUcDNrR0NTck1CaXg2N3c0dFJQdHBIcnlXbWcxNENWU1FMN1R3bjN6Mk96MlQzdkxvWDc3YkRaMTVCeXVrSHBfMDFMU2ZkcllQTWc5YkZsWk9LeHlOZVoybmVWc3Nlb0s5WlJMcHpXWm5uMXF4enctZXdWWjFVTWpMRUF5anRyZ0hqcW9xMEIydzRhVUU4QlVoN1dyT2ZYOTB6bDRlMA?oc=5",
+      "date": "2025-11-18T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla ropeway"
+    },
+    {
+      "title": "Himachal to handover 2.7427 ha of non-forest land for Shimla Ropeway - The Indian Express",
+      "source": "The Indian Express",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXk1OXgteWE4SzZ2SFV0eHlZUlo5d09DOE1FeEY2VXc3MW9KTEhDdHBEbm16NndyTHByWU94V3J4N0dHb3FJLTJRMmh5enkzWFQ3MW45UjREeVdTdktQT21VSEs0QUtRMVFHaEFiM1NmZ05zTkhfY3lEdkZKM0QxZ0FHcmxhMF9MY1M3aW5hVE9ybVlJTF9Yb3NfOEN4YlliU3dscUx5VVBkc2FJWWFr0gG2AUFVX3lxTE9uT29vd19aek9pNkhJYngwM1pGVU9reVEzY0N4UktOcmYzdEFFSjVqNVFNV2wtdGZGUU9INDBmeUFRRXdoLWVBeWpwQ1BfV0hZeGprRzFmUjV3SmxQdVplNlRGbDR3UWRIeE1qNkF5S1V4Vll1QkN4b2xLc1lleUZGSmtkc01rZDNXVHRfS1VtalVvdDBDTXBSVUgtTmN5ekNzdUxwZGRsUVlESndSb01zeXlyQnln?oc=5",
       "date": "2025-11-18T08:00:00.000Z",
       "kind": "press",
       "lang": "en",

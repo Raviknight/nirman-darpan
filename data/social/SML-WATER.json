@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-02T18:10:56.966Z",
+  "updated_at": "2026-07-02T20:15:24.648Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 21,
+    "press": 20,
     "gov": 0,
-    "en": 11,
+    "en": 10,
     "hi": 10,
-    "total": 21
+    "total": 20
   },
   "mentions": [
     {
@@ -47,16 +47,6 @@
       "date": "2026-03-09T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "Shakroli water supply scheme nears completion for 24x7 drinking water in Shimla - Projects Today",
-      "source": "Projects Today",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY25jSkx2ckpMY2pycnZoaWxyWENWTTBjZWRBOUY2VTRyWFFWdUt6TGl1NWdnM0p4ZGhuaEcyQXpuMDJ5RjBZQ0N5bFRLTnJfUGc3ek5zRl9BYW44Nk01WUx4MDRDcDlNdWxlSkdidjBwYVM1cEp1bmU1cGFldkpoM2EwXzhvcVgzWGpvVm1WV2NpeEF1OGRzWmxNX3RpVjJqZldUaFBKMGl0TG1KZHc?oc=5",
-      "date": "2026-01-09T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Shimla Jal Prabandhan"
     },
     {
@@ -110,16 +100,6 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "6-IAS transfer in Himachal - HIMACHAL HEADLINES",
-      "source": "HIMACHAL HEADLINES",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yUWxhcW5Qc19LSTVHU19DdE5IaG5HS2V4ejlBVUJRMWV3NDAxYWs3clNCaDlUVGRuLUlaekJJVjBmY2xpV1V6WlFrbTYxcml4b1prcXNxN1lQZDZoQzJwUndzbG9Ld1I3YnhoRk1qWQ?oc=5",
-      "date": "2025-03-23T20:45:51.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "SJPNL Shimla"
-    },
-    {
       "title": "Ex-Dy Mayor seeks shifting of Winter Carnival stage in Shimla - The Statesman",
       "source": "The Statesman",
       "source_id": "google-news-en",
@@ -135,6 +115,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkxHWDYtMUV0bDc3MGN4WS0teWpZd0NsZGw0Szg5SUtDNTc1dDJsNGRGZ3ZHWF9nRjJEaEV1dHRoNFotUVVybUduQm8wbVg2WndZX1ZjRWxWS1ZaVDJYZXhneTN5UkdicERyN2haZFBSMEtjTFpBOVNNblcwNml3cFdJWGR0V0NFc1BRaVdfU3k2ZTFsbnpVZ3ZnUWg4YXQzNmFuUGtZblRfVFR2eUEwcDZwdHfSAbgBQVVfeXFMUFhaRXZTV19GTzdzX05oaFZKV3k5aHEtWTNHT3EyMXlVcTRxTENkV3A0aUdreGR6bU5YaGNxYzdnUGtXYko1a1ZQSVVGYmlNdmxMWDZMUTFYa25BSWtZbk5jOFR0ek1qQ29oUXRzaGMwSERNcnpSYXpiY0t2YkloZUQ3WllXdlh3Vnk5RFJuc0p0SWNMZUtWalExVjZYMFhROUk0RVA2eHc3UHNDRldqMXB4bndwNGdraw?oc=5",
       "date": "2024-10-18T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "Drones hovering over Himachal LoP's official residence were deployed for mapping houses: Officials - MillenniumPost",
+      "source": "MillenniumPost",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPanptVDBGc3Q0dzJkbzRiRWRfMl81eFJzdm9BVElDX055bi04UDJwMTFJWmNYVllWVnhGMW9oQUV1b1RVQmE0c0FPZWxsYlZyWGZTeHpYUkM1MGMyQmZGUkZWdFBfaEk4V1hlbElmaDU5VnRZeVdvNUxrUzlpbHNZWXhSd2xNVkMtREpCS0M2M0lNbHh1aC1UU0FCRElpODQxQkF1bnpMYXUwT0JNc3RYTFhNcWhYblRORERWMC1FX0FiVVBGU0pPNWpJazhqeGtkR0UxdFJuY9IB3AFBVV95cUxPRlRSLUFEeU1rXy1uNzVLcnVqNkFXT0pLY0V1bzJHcmczQTFTR19pZlRnbEdXMkFXdExQQURIemtBeThsT25BZTU1RVBUYThLYkIzY19oNl91VGRIN01Pd1R4WUp3eVc5dWRDd21LOWE5d2R2cHJEV2l4eEZ2Y2R4T3h2R0dBU1JSX0VHV2lpVG1sMUt0eVN6SlE3TVgta2w3TF9PNTQ4anhNbnVrRHZUQjZORy1tZy11SFBxZzU2T2lfOEtMZzQ5NDRSZWZwSmFiMHRqTUgway11WFBj?oc=5",
+      "date": "2024-08-31T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shimla Jal Prabandhan"
@@ -207,6 +197,16 @@
       "date": "2018-09-18T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "शिमला में दूर होगी पानी की कमी, निगम ने जल प्रबंधन को सौंपी शक्तियां - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTE5XLW1uQXdFdWpnZHhPSjg2cTMtQk9vV2RnVGRueWRTS0tpZzRuVEhkQUhNOWkzcUtiV1AyeW9JUkIzdDZKZGJ6eldLZ0FaNkk4QjRwTno0SUNsYU5QaWNnUjdWd19JOUNsaWcxZENSanJNZDZocGROeGJtUVNLZ1otVXh2WTQ0UlBIS1JXd2dBcWhITUViRjJKMVRESDJIRlEzemxoRmfSAa4BQVVfeXFMTmFEVmFJenRHQzFqWnJjRFlXeHk5WWdYQ1JpNFZYaWNpeW1OY1N6VnkxM01XXzB1QXhXTVpKSHdYbGxtTGJ0V24wMExFUWlTZVJYOUFJOHJYb3ZScVhkR2ZMSnI3WW4wYmxjclFTSUd4bVB6NUlqU3VjYjBvUzdIbFcxcmdKSXRyR0hJbm9BUzB3NWh3dmRIZlU0Qkx2YmtWRnhqX1dwbWVmNmw1Zjln?oc=5",
+      "date": "2018-07-22T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Shimla Jal Prabandhan"
     }
   ],

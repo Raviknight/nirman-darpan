@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-07-02T18:10:27.010Z",
+  "updated_at": "2026-07-02T20:14:56.472Z",
   "project_id": "AIIMS-BLP",
   "counts": {
-    "press": 204,
+    "press": 203,
     "gov": 0,
     "en": 99,
-    "hi": 105,
-    "total": 204
+    "hi": 104,
+    "total": 203
   },
   "mentions": [
+    {
+      "title": "Bilaspur News: पीजी क्विज में एम्स बिलासपुर प्रथम - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWHh1RjRnWmNOTmk4dTR3bWRzSW1LY1lQdHNvSnRiaHNnc1d6M2RqWDUyb0wybUk5bjdGaWJqNGVVbWF3eTM1dGhselVnX1pMTFZzY3hxYmlPeVdfNzhYQVpnZU9ZMzQ2UzhPX085Wl9mbjlLY0F0MG16Njlya0plN3NqaXRxUHlTckctV2lCNWJ4OWNSRWJaRUIzWVlfazNTR1VfeGY3QndCNWtGVWx0Y3gyZFNXQlYxbGU2UVQwTTRlSXdFSG1rRU9mQdIB0AFBVV95cUxNRGp1UkZCNEFLNGlnS0xQZTM0MnpOWWwtMkNBc1hZenBkeWFkcGVweTdYZjd6c1BDQzd2SjNWanNYdmZzb3VzUXVnZlFZcnhQU2VVN2RTb3UzOTh4dGRTMVhxTWt5NlZEd2xoY0UyMUNHRF9LZnBidEttUVB5dkdkRWRYNGFkekt1Y19tSm5JMVk5Y2NKNG9qNU1BdGt1TFlWM0ttbmgtYkg0VUU3T3JFSHI2SHJuNUo3R3lLb3dIWm45WkFodms3dVJEcnRqV0xk?oc=5",
+      "date": "2026-07-02T18:08:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
     {
       "title": "AIIMS Bilaspur Launches ‘Aapat Setu’ Digital Platform to Streamline Emergency Referrals - Digital Health News",
       "source": "Digital Health News",
@@ -197,16 +207,6 @@
       "date": "2026-06-10T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Union Health Minister Nadda Lauds AIIMS Bilaspur on 3rd Foundation Day | Akashvani News - News On AIR",
-      "source": "News On AIR",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQczF1QjNWeEl4cHR0bDRIT25yVGRnZDJ2cS0zRG1JQ1JaSG93cXI0dERXRTFQeERaZDhoWjk1VEpWVWRUeHVxQkRzWE1yU3ZLQk85VGU2QTZmT25aMU5lYzJxNFZkaTdRN1J2Vi1rZ20wdV9LYVI5eGtwODlxQVQ5cFRfSjhtTnVIMExxX1BCa0dzeGs2Yk85OGF5dWE?oc=5",
-      "date": "2026-06-08T04:54:01.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "AIIMS Bilaspur"
     }
   ],
