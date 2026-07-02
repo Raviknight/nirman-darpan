@@ -268,6 +268,7 @@ ${JSON.stringify(jsonLd(p), null, 2)}
     </div>
 
     <div class="progress-bar"><div style="width:${p.progress}%"></div></div>
+    <div style="font-size:11px;color:#a4a294;margin-top:4px">Progress is a reported figure${p.progress_asof ? ` (as of ${esc(p.progress_asof)})` : ''}${p.progress_source ? ` · <a href="${esc(p.progress_source)}" target="_blank" rel="noopener nofollow" style="color:#5c686f">source ↗</a>` : ''} — curated from public records, not independently surveyed.</div>
 
     <div class="facts">
       <div class="cell"><div class="lbl">Awarded by</div><div class="v">${esc(p.awardedBy)}</div></div>

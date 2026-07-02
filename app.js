@@ -660,7 +660,7 @@ function renderFeatured(){
           ${p.delayed ? `<span class="pill-delay">⚠ Behind schedule</span>` : ''}
         </div>
         <div style="margin-bottom:18px">
-          <div class="feat-prog-row"><span>Progress</span><b>${p.progress}%</b></div>
+          <div class="feat-prog-row"><span>Progress <span style="font-size:10px;color:#a4a294">(reported${p.progress_asof ? ` · ${esc(p.progress_asof)}` : ''})</span></span><b>${p.progress}%</b></div>
           <div class="feat-prog-bar"><div style="width:${p.progress}%;background:${fc};height:100%;border-radius:999px"></div></div>
         </div>
         <div class="feat-grid">
@@ -764,7 +764,7 @@ function renderGrid(){
           </div>
           <h3 class="card-title">${esc(p.name)}</h3>
           <div>
-            <div class="progress-row">
+            <div class="progress-row" title="Reported figure${p.progress_asof ? ` · as of ${esc(p.progress_asof)}` : ''} — curated from public records, not independently surveyed">
               <span>${p.progress}% complete</span>
               <span class="progress-eta">${esc(etaLabel)}</span>
             </div>
@@ -1513,6 +1513,10 @@ function renderModal(){
           <div class="panel">
             <div class="panel-row"><span>Construction progress</span><b>${p.progress}%</b></div>
             <div class="feat-prog-bar"><div style="width:${p.progress}%;background:${fc};height:100%;border-radius:999px"></div></div>
+            <div style="font-size:11px;color:#a4a294;margin-top:6px">
+              Reported figure${p.progress_asof ? ` · as of ${esc(p.progress_asof)}` : ''}${p.progress_source ? ` · <a href="${esc(p.progress_source)}" target="_blank" rel="noopener nofollow" style="color:#5c686f">source ↗</a>` : ''}
+              — curated from public records, not independently surveyed.
+            </div>
           </div>
 
           <div class="facts">
