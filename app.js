@@ -154,11 +154,13 @@ const NIRMAN_AW = (() => {
   const client = new Appwrite.Client().setEndpoint(cfg.endpoint).setProject(cfg.projectId);
   const account = new Appwrite.Account(client);
   const databases = new Appwrite.Databases(client);
+  const teams = new Appwrite.Teams(client);
   const { Query, ID, Permission, Role } = Appwrite;
 
   return {
-    cfg, client, account, databases, Query, ID, Permission, Role,
+    cfg, client, account, databases, teams, Query, ID, Permission, Role,
     user: null,
+    isModerator: false,
     commentsCache: {},       // projectId → Document[]
     votesCache: {},          // projectId → { up, down, myDir, myDocId, loadedAt }
     accountabilityCache: {}, // projectId → Document[]
@@ -167,6 +169,24 @@ const NIRMAN_AW = (() => {
       try { this.user = await this.account.get(); }
       catch (_) { this.user = null; }
       return this.user;
+    },
+
+    // Super admin is hardcoded (can never be locked out); everyone else
+    // qualifies via membership of the Appwrite 'moderators' team — managed
+    // entirely from the Appwrite Console (role 'owner' = admin who can
+    // invite/elevate; role 'member' = moderator).
+    async checkModerator() {
+      this.isModerator = false;
+      if (!this.user) return false;
+      if ((this.user.email || '').toLowerCase() === 'ravikntsh@gmail.com') {
+        this.isModerator = true;
+        return true;
+      }
+      try {
+        const tl = await this.teams.list();
+        this.isModerator = (tl.teams || []).some(t => t.$id === 'moderators');
+      } catch (_) {}
+      return this.isModerator;
     },
 
     // Email OTP (6-digit code), not Magic URL. Magic URL tokens were being
@@ -401,15 +421,22 @@ function renderAuthUI(){
   if (NIRMAN_AW.user) {
     const u = NIRMAN_AW.user;
     const label = (u.name && u.name.trim()) || u.email;
+    const modLink = NIRMAN_AW.isModerator
+      ? `<a href="admin/queue/" style="display:inline-flex;align-items:center;gap:6px;background:rgba(127,201,155,.18);border:1px solid rgba(127,201,155,.35);color:#bfe6cf;padding:5px 12px;border-radius:999px;font-size:11px;font-weight:600;text-decoration:none" title="Editorial queue — moderators only">✎ Editorial desk</a>`
+      : '';
     root.innerHTML = `
-      <span style="display:inline-flex;align-items:center;gap:8px;background:rgba(232,217,168,.16);border:1px solid rgba(232,217,168,.25);padding:5px 10px;border-radius:999px;font-size:11px;color:#e8d9a8">
-        <span style="width:7px;height:7px;border-radius:50%;background:#7fc99b"></span>
-        <b style="font-weight:600">${esc(label)}</b>
-        <button id="auth-signout" style="background:none;border:none;color:#cdded3;cursor:pointer;font-size:11px;text-decoration:underline">Sign out</button>
+      <span style="display:inline-flex;align-items:center;gap:8px;flex-wrap:wrap">
+        ${modLink}
+        <span style="display:inline-flex;align-items:center;gap:8px;background:rgba(232,217,168,.16);border:1px solid rgba(232,217,168,.25);padding:5px 10px;border-radius:999px;font-size:11px;color:#e8d9a8">
+          <span style="width:7px;height:7px;border-radius:50%;background:#7fc99b"></span>
+          <b style="font-weight:600">${esc(label)}</b>
+          <button id="auth-signout" style="background:none;border:none;color:#cdded3;cursor:pointer;font-size:11px;text-decoration:underline">Sign out</button>
+        </span>
       </span>
     `;
     document.getElementById('auth-signout').addEventListener('click', async () => {
       await NIRMAN_AW.signOut();
+      NIRMAN_AW.isModerator = false;
       renderAuthUI();
       if (state.selectedId) renderModal(); // refresh composer state
     });
@@ -533,6 +560,7 @@ function openSignInCard(prefillMsg){
       await NIRMAN_AW.verifyEmailOTP(pendingUserId, code);
       wrap.remove();
       renderAuthUI();
+      NIRMAN_AW.checkModerator().then(() => renderAuthUI()).catch(() => {});
       if (state.selectedId) renderModal();
     } catch (err) {
       msg.innerHTML = `<div style="background:#f7e7e3;color:#b04a3a;padding:10px 12px;border-radius:7px">
@@ -560,6 +588,9 @@ async function bootstrapAppwrite(){
   try { await NIRMAN_AW.refreshUser(); } catch (_) {}
   renderAuthUI();
   if (state.selectedId) renderModal();
+  // Moderator check is async — re-render the header pill when it resolves
+  // so the Editorial desk link appears for team members.
+  NIRMAN_AW.checkModerator().then(() => renderAuthUI()).catch(() => {});
   // Bulk-load vote tallies for the card meters (1 API call for all projects).
   NIRMAN_AW.loadAllVotes().then(() => renderGrid()).catch(() => {});
 }
