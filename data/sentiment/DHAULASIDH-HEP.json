@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-02T13:28:30.609Z",
+  "updated_at": "2026-07-02T18:11:24.806Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
     "n": 20,
-    "positive": 6,
-    "neutral": 14,
+    "positive": 7,
+    "neutral": 13,
     "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.125
+    "avg_score": 0.135,
+    "avg_magnitude": 0.16
   },
   "youtube": {
     "n": 0,
@@ -19,49 +19,49 @@
   },
   "overall": {
     "n": 20,
-    "positive": 6,
-    "neutral": 14,
+    "positive": 7,
+    "neutral": 13,
     "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.125
+    "avg_score": 0.135,
+    "avg_magnitude": 0.16
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "सुक्खू सरकार का बड़ा फैसला, तीन जलविद्युत परियोजनाएं होंगी वापस - himachaldastak.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaU00YjhuMGFZbDFlNVhaVGQtTGFkcW9UYm9XTEY3dkYzNERldm1POXVjUnUtcVZzOGVnbHNRekg5NTBQelp0QnMwZjRUa1lseHR1MmMtMFFkRkNpUjhWWmZTazQ3cUI1b1p2eFIyamRiYjV1dzd4Nk1UZE9WLTJRWmV1VHlyQjl3amp2Y3I0Q3l5dE9BdjNWRkRLekRvQQ?oc=5",
+      "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "सुक्खू सरकार का बड़ा फैसला : सुन्नी, लुहरी और धौलासिद्ध परियोजनाओं को वापस लेने की प्रक्रिया शुरू - himachaldastak.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkRkN1ZVblNpQXd5emZ4RXpSbGFJb1pHODNfc2hTT3FBQnI5QWZUUkxMU09sbzAyNUFIYnpjWGtXQlVlcnVfNy03cGRzZzFzS2NEb1BJdnh5OEFNVHVqSWt5eVVLeVJoWVdCamROVlRwZ2RMa1ZTSmEtZEpTQUJ4MF9FbFJ6d20tTE9UQ2IwNnZvSG50VVE?oc=5",
+      "score": 0.5
+    },
     {
       "source": "press",
       "title": "Dhaulasiddha project: धौलासिद्ध प्रोजेक्ट के निर्माण से हिमाचल सरकार को 125 करोड़ का होगा नुकसान - Amar Ujala",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWhqcXplVGxuSmVJalBQMVVJVVRGazE0QXhnOVlGMVdrVzlBQ2gzLUVCZ2FDT3oyN1ZmVm9rT1dMYUNrOEkzT3k5UXY4S3hjNW5Rb2MyZE5ReFUxeVFIMkhxNjgxVTlKaGQ5VkRCSUd3Y2N4dXpIMjI1UTN1UXg1S294bkEzZjZ6S3FFTWs5SE1na0hvalhybDczUmFjZmpOX2hFM0hUbUlRMkNTYjJrVEcyYy1pMjA3Yl9JdUExNnJQTS1fWUHSAcsBQVVfeXFMTjRrcUxhRXhnM3NtTmY5QVBRM1lLeWl4aE4wWVVtdV9UZVpvZ29IQ1hYbUhVMk9ha1ZDTkN4aTFBck9rbkxLVW5PTm1YR0pvRXdjZ3ZEaVlaUjkwcVpVc1BQM0MyMzRkb0t6dlZ1Z0dib0NCbWZReG1xeS00Z2pzVkdYSkphTk1VRm0zd01KUUZHaktXcHpjMjBUb0dzZ0RWS285bDZteHNRR3cxV2VZX2hyMnNDZnlIWnN5bjI4SFQ2aXE4MjB1RmJVeWs?oc=5",
       "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "VIDEO:हिमाचल प्रदेश के निर्माणाधीन पावर प्रोजेक्ट धौला सिद्ध में घुसा तेंदुआ, 900 मजदूरों में दहशत - News18 Hindi",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSmp6MVRzUW5ZeEphX25TOUVRRzA0Tlgtd0ViYkhOU0dIeFNDUUhsLTZXODF1Q3pibzk4OEtoR1dUcDRtTVhvamRuVUtlRDJHZ0prRU51SDZ1MFRBSEd5ODlxWmZiREVwMXB3a2JkaVNDem1GS2F6MmZjdVpZYWxsaWhONkR5Y3JYUm9uVzY0akhGQkFYMzk3WW5ZWWtkOHVnNG12Sk5iVXJrZUJVRlBOeVRxUGRGT3Z1VWdMVGdUcnQ0bjBTZU5rU3RqWFphdC1za1lYYmJHV05DbW1WT2I1eFpYdHg2MTFlSG8tcTdlYW0wRGY4VVBBdVYyQ2QyNXNqMlhlTEx6dFlVeFlYcnfSAZMCQVVfeXFMTXRSbGoxUUFuZDk5SXB6cWQ3QllVbzMzRXY5N0NZSE5CZi0wS1p5dzNFOUdXTGtGNWJFQkFFOGMxeGdmeWVkbFMzMW03R2FiSkRGTVpuWThVajAxT3Vnb0hxQ3dIdDNzdHE0SDF0bjhFZzhHLVBaMXdfQW5GQ3lCSmwzWFFuUjhKN01SNGp0R0lvRERzTTFqblpWRVV1WWpUandoR3lfU3VmbW5nM1RGOHpURm5zRE1qR2NCeW05OHdPdHZPNXBVSVBfUklibzZ5QTRWUk5tUUhtMl81c0tjcHl5dHB3dlZwVFE0Skl1QTVXOVN6NWp5a3diR014cVBZMWEwLW9Rc2xoYkI4aGNxeVdSOFE?oc=5",
-      "score": 0.3
-    },
-    {
-      "source": "press",
-      "title": "SJVN का बड़ा कदम: गुजरात की कंपनी के साथ 661 MW हाइड्रो PPA साइन, निवेशक ध्यान दें! - Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjAwQnNLcE9xb3FFdU9aOTNHM0tmbGZLR3N5aHlzcWs2YVV6YkRoVW5jLWFqbXJyN2YybVM1TjVXOUdyTk81VUhYTVpSdW1jUjBlWkpJQmNMNkZVRUVFT19LS0N4NEJkQi1yN2g1Z3N2Y04zcWd3MmFaV1luTHcwTGVTTXlRNlcxZjFpTm9HLWZWVGI4cVNIMlo3UkdkaFN4SHNidjBFR1Q5MEkzSi1lT1Z3U3d2UXh1Wmc?oc=5",
-      "score": 0.2
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "SJVN awards electro mechanical works of Dhaulasidh project to Voith Hydro - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMTRjZzVOODE0X3dhUURjdmxtTXlZZVYydGZ6SHo5cF9rYkg4Ukw3LXhsQmhYbzRzUVdwbG5pQ1oyY0h1b0RVRS1CTDhESFBkMWVFalVOa0l5X2c4ZVFSQ2J6Q0ZpZWNKeGpPRm5acUh2b3NXWjg1TkZyeFRvZ19oQllzRWMzZnJyazRNT1pwVXU3T3BWVWhJdFA0cGVxUUnSAboBQVVfeXFMTlR4TmVGcGJJdl9lYUpPbXVDY1pFNG1mUFpnbG0yTmJUN1BhLUsyQ0xVRFJrY1lvTXNoSjVUSWRSQzZtanFTTi1Tamw4aEV2eWtNS2NVOE9NUVlHbmgyQXdCWVdSRnhJbVdrWEJoUW9iU3ZjdDlrbGtaS1F3Ry1STmlpSm8tN3h2cVpKbU1UckVVbjdxM0s4c2loVE1iYS0xQ2ZJS2lZSEYyS09ESGZ6Qnd4NlNaYVVMaGtn?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Dhaulasidh hydro project: SJVN signs contract for electromechanical works - T&D India",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlqd3NYNE1Vb2hMcTRCU1ljZ2FrZG5OR042VGN4cU91ejdkWEhXUDh4SWdlbjNyTHVWTmh0UXRHRW1kUUEwREFPWGMtYWtXX0xqUExleUNoTWMxZ3doMDcwQ19NWGIxOU8ydXNqOHVseUt1czlYZWpabzhpd2JTVXdsa0VJQkZuZFRvdjBxU2hyd182SERaaDFtTTZqcGvSAaQBQVVfeXFMTlZuMFhoT0ZZa1pSaDJzNlFtVUdsV3ZtUUthby1RTzcxLUpjSjBla3paS0hSLTZ2T29WRGkxQ291V3otRXJTaFhkQUk3dkRvTlk2NkdOUy1xazhLcDR0aDRXVFNhQnBXZFhuSk1fanJtM09VNHF0Y3dwZ2o0OE8yb1N3cDk3ejJVQVF0bFFXcEFqRlFlUGVudGpLZE95V2hMeTc4ZjM?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
       "title": "SJVN signs loan agreement of Rs 494 cr for 66 MW Dhaulasidh HEP - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemtybmVGMnJpWkxYa3FOMnlXdV81WmowR01xNzFIcEdTb2ttdlRHeWtRNHQ4T0V0eTRFTjhaOU4yZGloczBJSHhjTFRSYlRJUVRUTlVaaEMya1FpNmNSVG5Yc2swa2FkbGZ2ZnFZN2F2cy1GUGEyaGFUaDNqd2xNYnQyVDVHWll0WFpjb0JidlVMMDZsRmJ4eEpMUGJ6TXN1TjJR0gGwAUFVX3lxTE9pRm4tVlRVUFR2RnExOHVwRHV4NlA1WjI4ZG9rQVIydldJamFwQkphSGpPeGpRci12NXdfaWMzNDBTTUQtazBGZ0ZvUVpKb2FkcERXak1LbWtfNGtBeU1Xa0puWUdDb2NaRm5UYnNzcXQwMW9FNUh2MVV0VVBZTTFxYmdvWEU3SjlRZ1lsNGNySHhkejFoUDd5Tk5UbWlzdDNHbzJBV3JpdkxaZFNyRmYy?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "SJVN ties up funds for 66-MW hydropower project in Himachal Pradesh - ET EnergyWorld",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORFJaTUNIaDhHb3VwaWsxQVBMNVJLX1N4QkUycHBvVFlSV194b3dtUGNsY3BhdHNaMHVTWkhYczdESTBHQUV4cm1ieW96U3JUdnJLQ1RjcGFmRW4tYlRZWDhvdml6SDlCOWp1dVRtLUpPWG9sSFplcjQ4OEkzbVRYRTUxM1BSeGx2elBiYzVUU3RseHMtcHg3QkRvUjFIV3l3V1YzcWpKX3J0N1kxQWJBemJZUTh5NFdoQ2N1WjZKSkdmQlFUbUVIUXk0dVZqYmZv0gHWAUFVX3lxTE5zVldzQXZCTVRwdzQyQXZnYnhuY1E4SmFDM0xMdEY1endxOGk4cGlvemhsLWVGM21NSXdfUkpVTkxoS3ZqNE5jdFk3ZllNcEJCV090VnktMEpjQm5KVjBDU2NsUkRfOTZoOEdmMS1rZXlhYUFneFhYaWlBTXJEaTRvOG9FNVo2SzJndTYxckpuNUJNZzBZLXhId3l1OE9uWUw4Y0NIZjFXOU8zYlN5M2F0b2JxVk5DdW1IZnpNVjVkcUhmZ1JHZnp5TnZzc3Z1Mnh5aExlRXc?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "SJVN CMD inaugurates upstream Coffer Dam of Dhaulasidh project - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVJmTUt3QjRpMjZLaWRqWE5FaTdkVnFva0lCb05nZkZoZ05fX19yWW1DcXA0UWdYLTJLcU54YnprZVJzWHZpTXRNbGpVODNzd0dWaVh3YklDYXp5Y2Z4QUlFc0x6OThleUJmbE5sclR3YUNydFlLc0NzLUd6TTk5VWVPYVdIU2FKb3pzcGxjRkI0T0VYa1F5TkR30gGnAUFVX3lxTE55Sjd1cW9hR0lwbXE4dTZsMkMxZXJCSU1TLWtRWHQxYml2Qmpsb18wY0FEb3llV1I1Y1UzMTNxbE9QbjYxRDJ4a3hfVWxzTlNVbENtT3pOZzBjOWVwRV9EeDJRR1VZa0lGQlZ1ZURkT3A0N1FlUU9Falp3cFlnLTF6RkRIQzMzVjlFRkM3dW41UUtHTVNUOGNreURSdnZ5Ync1N2p1VjRz?oc=5",
       "score": 0
     }
   ],

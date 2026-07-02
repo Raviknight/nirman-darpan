@@ -1,98 +1,11 @@
 {
-  "updated_at": "2026-07-02T13:28:26.626Z",
+  "updated_at": "2026-07-02T18:11:19.886Z",
   "project_id": "LUHRI-1",
   "query": "\"Luhri Stage-I Hydroelectric Project\" Himachal",
   "counts": {
-    "videos": 3,
-    "comments": 8
+    "videos": 0,
+    "comments": 0
   },
-  "videos": [
-    {
-      "videoId": "n1Tf2MLQTiQ",
-      "title": "Luhri Stage-I Hydroelectric Project on Satluj, Himachal Pradesh, India",
-      "channel": "Praveen Thakur",
-      "published_at": "2023-07-08T13:39:46Z",
-      "description": "",
-      "comment_count": 1,
-      "comments": [
-        {
-          "comment_id": "UgywBTMX2YOe__uvKjp4AaABAg",
-          "author": "@hemlatamadhu1580",
-          "text": "😱",
-          "like_count": 0,
-          "published_at": "2023-07-08T14:09:06Z"
-        }
-      ]
-    },
-    {
-      "videoId": "RQCB1PdzyEM",
-      "title": "Luhri Hydroelectric Project 210 MW | Himachal Pradesh |",
-      "channel": "ROACH ACADEMY",
-      "published_at": "2020-11-09T15:58:08Z",
-      "description": "Luhri hydroelectric power project luhri stage 1 hydroelectric 210 MW power project between Kullu and Himachal Pradesh near ...",
-      "comment_count": 3,
-      "comments": [
-        {
-          "comment_id": "Ugy3W_qifEji80RVHYl4AaABAg",
-          "author": "@Jishermahadev",
-          "text": "👍👍👍👍👍👍",
-          "like_count": 1,
-          "published_at": "2020-11-10T13:16:47Z"
-        },
-        {
-          "comment_id": "Ugz0BYRpZCJMggih8Bx4AaABAg",
-          "author": "@arunkashyap3373",
-          "text": "😀😀😀oho guru ji...",
-          "like_count": 1,
-          "published_at": "2020-11-10T00:00:29Z"
-        },
-        {
-          "comment_id": "UgzqcajOzO8riCR7fO94AaABAg",
-          "author": "@shatkavlogs4923",
-          "text": "Great sir👍👍👍",
-          "like_count": 1,
-          "published_at": "2020-11-11T17:57:13Z"
-        }
-      ]
-    },
-    {
-      "videoId": "OZ7bjiBE_zo",
-      "title": "Luhri hydro power project in Himachal Pradesh | luhri hydro project 2020 | SJVN Luhri project 210 MW",
-      "channel": "eKnowledge Time",
-      "published_at": "2020-11-08T07:05:34Z",
-      "description": "हिमांचल प्रदेश में Luhri hydro power project बनाने के प्रस्ताव को Cabinet Committee on ...",
-      "comment_count": 4,
-      "comments": [
-        {
-          "comment_id": "Ugz9GJY8ivC88Zp-AA94AaABAg",
-          "author": "@AkashKashyap-pz1nv",
-          "text": "First",
-          "like_count": 0,
-          "published_at": "2020-11-08T07:06:13Z"
-        },
-        {
-          "comment_id": "Ugxlf62xuqmndkrUklR4AaABAg",
-          "author": "@saligram8257",
-          "text": "Suru kab hoga",
-          "like_count": 0,
-          "published_at": "2020-12-18T13:45:47Z"
-        },
-        {
-          "comment_id": "UgyV1iPJJCtI1qwhYk94AaABAg",
-          "author": "@rahulchauhan3361",
-          "text": "Kb hoga suru",
-          "like_count": 0,
-          "published_at": "2020-12-09T12:33:49Z"
-        },
-        {
-          "comment_id": "UgybPVfxaYxyo9u5MHt4AaABAg",
-          "author": "@sorovsingha4612",
-          "text": "Stage-1 not 3",
-          "like_count": 0,
-          "published_at": "2021-01-05T12:25:52Z"
-        }
-      ]
-    }
-  ],
+  "videos": [],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

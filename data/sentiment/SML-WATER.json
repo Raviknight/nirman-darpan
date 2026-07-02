@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-02T13:28:36.121Z",
+  "updated_at": "2026-07-02T18:11:25.477Z",
   "project_id": "SML-WATER",
   "press": {
     "n": 20,
-    "positive": 10,
-    "neutral": 7,
+    "positive": 9,
+    "neutral": 8,
     "concern": 3,
-    "avg_score": 0.12,
-    "avg_magnitude": 0.25
+    "avg_score": 0.11,
+    "avg_magnitude": 0.24
   },
   "youtube": {
     "n": 0,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 20,
-    "positive": 10,
-    "neutral": 7,
+    "positive": 9,
+    "neutral": 8,
     "concern": 3,
-    "avg_score": 0.12,
-    "avg_magnitude": 0.25
+    "avg_score": 0.11,
+    "avg_magnitude": 0.24
   },
   "top_positive": [
     {

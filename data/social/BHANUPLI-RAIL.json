@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-02T13:27:21.139Z",
+  "updated_at": "2026-07-02T18:10:14.142Z",
   "project_id": "BHANUPLI-RAIL",
   "counts": {
-    "press": 3,
+    "press": 4,
     "gov": 0,
     "en": 1,
-    "hi": 2,
-    "total": 3
+    "hi": 3,
+    "total": 4
   },
   "mentions": [
     {
@@ -38,6 +38,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Bhanupli Bilaspur rail line"
+    },
+    {
+      "title": "भानुपली बिलासपुर बेरी रेल लाइन की टनल नंबर 6 का उद्घाटन, रेल मार्ग से जुड़ेगा नैणा देवी मंदिर - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTWRGY0ZjMFJvQWlRb0UyTVF5N1VBY3M5UHJ5WDZ0anQtSUw3M0lPbklYdVlvM2tENlZ0QXJwck16aFBmYmpnbFViaWwwYlRWSjczSmxReFVLZzN1RWlyUWY1QUIzY25ITDJoSEg3LTYtNFllQXcwYmc1Y2RMSE9lTDJKMm9aMnhKdnlxLWRFNndOazY0UHltbGZCNVlrOHlOS2xWV3pLQjNWRkd3bjZ5aE51M2k3TUlHMTBKakNieWdRQ3JNYjFvbmNMb1dmMm9DRnhUZlM1WkpzWGVkbDhOY0JkRWRjRjVhRmVJ0gHwAUFVX3lxTE1QYWY3VEdnSTBUYmgzUV9OeXZjTklKRldBaTlPTkx6UTVFaHlqVWxsSXZlTzVJZ0hGQXBnb1FFYzgtUGNTaW44VS12LUZPd1BsQnpMM2tJZ3JTQmZ1MEVKSzNqOHhObm94WEF4RXZZQ0MwT215SzlveW9GWXJaeDlMbXV1MlV2dHc3TjRFVGd4QjloNkRaVlU2SWx2eXVSNzhZajk5TVdDemxLN29SaTEyOUc5cFNCWHhpOHlKQzlBbkM5Sm9EcERMNG5PN2ZQMEdURlBKNjZJQmtyV2FsNEV5NDc4NVVwc2hGZ19ENkZmcQ?oc=5",
+      "date": "2021-02-23T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Bhanupali Beri railway"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

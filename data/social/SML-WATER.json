@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-02T13:28:03.044Z",
+  "updated_at": "2026-07-02T18:10:56.966Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 20,
+    "press": 21,
     "gov": 0,
-    "en": 10,
+    "en": 11,
     "hi": 10,
-    "total": 20
+    "total": 21
   },
   "mentions": [
     {
@@ -47,6 +47,16 @@
       "date": "2026-03-09T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "Shakroli water supply scheme nears completion for 24x7 drinking water in Shimla - Projects Today",
+      "source": "Projects Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY25jSkx2ckpMY2pycnZoaWxyWENWTTBjZWRBOUY2VTRyWFFWdUt6TGl1NWdnM0p4ZGhuaEcyQXpuMDJ5RjBZQ0N5bFRLTnJfUGc3ek5zRl9BYW44Nk01WUx4MDRDcDlNdWxlSkdidjBwYVM1cEp1bmU1cGFldkpoM2EwXzhvcVgzWGpvVm1WV2NpeEF1OGRzWmxNX3RpVjJqZldUaFBKMGl0TG1KZHc?oc=5",
+      "date": "2026-01-09T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Shimla Jal Prabandhan"
     },
     {
@@ -170,16 +180,6 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "Himachal Pradesh Government - himachalpr.gov.in",
-      "source": "himachalpr.gov.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LTEFHeEZRTi1NanQ3WkF0c1hyQm94U0RlMG5rTEkydmFJOUVhQTJxYW5HdjBQMTlaVkJKQjI5eHRRa0JjZ1JGdUlWYkhNRDlpYzRlMXNWeWFBeXlBVlVnUi1HSVU4R3RKanFMeTJn?oc=5",
-      "date": "2019-07-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
       "title": "पेयजल शिकायतों के लिए शिमला जल प्रबंधन निगम ने जारी किया हेल्पलाइन नंबर - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -200,13 +200,13 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "शिमला में दूर होगी पानी की कमी, निगम ने जल प्रबंधन को सौंपी शक्तियां - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTE5XLW1uQXdFdWpnZHhPSjg2cTMtQk9vV2RnVGRueWRTS0tpZzRuVEhkQUhNOWkzcUtiV1AyeW9JUkIzdDZKZGJ6eldLZ0FaNkk4QjRwTno0SUNsYU5QaWNnUjdWd19JOUNsaWcxZENSanJNZDZocGROeGJtUVNLZ1otVXh2WTQ0UlBIS1JXd2dBcWhITUViRjJKMVRESDJIRlEzemxoRmfSAa4BQVVfeXFMTmFEVmFJenRHQzFqWnJjRFlXeHk5WWdYQ1JpNFZYaWNpeW1OY1N6VnkxM01XXzB1QXhXTVpKSHdYbGxtTGJ0V24wMExFUWlTZVJYOUFJOHJYb3ZScVhkR2ZMSnI3WW4wYmxjclFTSUd4bVB6NUlqU3VjYjBvUzdIbFcxcmdKSXRyR0hJbm9BUzB3NWh3dmRIZlU0Qkx2YmtWRnhqX1dwbWVmNmw1Zjln?oc=5",
-      "date": "2018-07-22T07:00:00.000Z",
+      "title": "Himachal Pradesh Government - himachalpr.gov.in",
+      "source": "himachalpr.gov.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yVl9HTEltbUFYc3pRZmRiM2pHLUNDbW40X1RRVFdzOWVScnFKV1V2dl9BTThybWxpbm5tQUpyLUZfWE1pUHAwMGJPbkRVdnR5cnV0dDJMTHlNOVg4bkp0MjB1amZUbTFHNXBRQ3h3?oc=5",
+      "date": "2018-09-18T07:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Shimla Jal Prabandhan"
     }
   ],

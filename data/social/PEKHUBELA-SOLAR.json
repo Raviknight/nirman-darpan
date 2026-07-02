@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-02T13:28:13.633Z",
+  "updated_at": "2026-07-02T18:11:07.682Z",
   "project_id": "PEKHUBELA-SOLAR",
   "counts": {
-    "press": 24,
+    "press": 23,
     "gov": 0,
-    "en": 15,
+    "en": 14,
     "hi": 9,
-    "total": 24
+    "total": 23
   },
   "mentions": [
     {
@@ -140,16 +140,6 @@
       "match": "Pekhubela solar"
     },
     {
-      "title": "Tenders for 7 Solar Projects Totalling 72 MW Have Been Invited: Himachal CM - Energetica India Magazine",
-      "source": "Energetica India Magazine",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOU1Dc2hwLWtKb0k3TVI3VzI1TzV2YlBhOGxLOVUzblFfVE1nT1Bpci1ZUENjQnJCZE01VDJfM3BaRHN4QmZzemZyUWtNVHhranFBRE4yOEdsOHZLLUpaeEdpSktLMlJ6RjF6eXVyZDF2RGJqVmI0M2dBS2F6R2ZJdDhLNHk2Qk43Z29GTVMtVC1wcXREd3A2cmNZZjdQVnN3dEVRbnNaYWFJWWVSaFllU2VR?oc=5",
-      "date": "2025-01-14T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pekhubela solar"
-    },
-    {
       "title": "बीकानेर में बनेगा दुनिया का सबसे बड़ा सोलर पार्क, पीएम मोदी ने किया था जयपुर में शिलान्यास - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Pekhubela solar"
+    },
+    {
+      "title": "4790 हेक्टेयर पर लगेंगे 2450 मेगावाट के तीन सोलर पार्क - Patrika News",
+      "source": "Patrika News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVhTVURLMUdOaGFEVGFRdHlpa1lVZ2tpYTYtOHhienJOQzB0Q3M0emVzQURUWWlCOWRGb0staklicGRHTTQyNk1QWUlZR3BCUnIza3hBbmthS1lSQXA5YzF2YkY0QWk3dFZmWlFJSTRqOU8yaW9HZ00tbldURnBrQ1dhNFFNZVY3bmRNMGFIXzVSZmJEX3F5R3JxaGtNTzRaQkdVMi1RNmhyd9IBrwFBVV95cUxPeU9tU211MjY1VnlxUjQyUExMNW1aUGpBLTgzejlXenY5M0hXcnFQQlFJSzVMSzRCRG15alZSN1dnaWV3QnRBOFVDNXA1aExsWDNGY0tyMzU0bXQ2MVI1QS10SUFOMXhGU0ZweS1KMjRFT1dXSllWRGcxQmZJSEZyODhkaS1WRHpMNlZPdGhkUEVWc2tEN084TC1yQWlDLUgxcUhnZ1BPVEcyXy1fMXpR?oc=5",
+      "date": "2024-06-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Una solar park"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

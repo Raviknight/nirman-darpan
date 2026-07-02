@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-07-02T13:27:25.056Z",
+  "updated_at": "2026-07-02T18:10:17.808Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 32,
+    "press": 33,
     "gov": 0,
-    "en": 22,
+    "en": 23,
     "hi": 10,
-    "total": 32
+    "total": 33
   },
   "mentions": [
+    {
+      "title": "HP to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - News Arena India",
+      "source": "News Arena India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFRvMnh4enBWOXN3U0ZnRjdwbjBtclJtb09iTkR0WGUyQUo3Mlg2d0kzMnZMSFY5QS1xMXJsYW5XZDhzcURjbnNoeVl4MjB3OHdILXZZVHhUalBvYVRoVFc3TldyWWxqX29lUWtUU0pwNllHSERHSTgyel8ySGgwa2pVMnZCc2JaRDB5N3dHcVJPTnVPV3A5ZzNhWGZKUGpZSFYwbA?oc=5",
+      "date": "2026-07-02T16:22:40.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "सुक्खू सरकार का बड़ा फैसला : सुन्नी, लुहरी और धौलासिद्ध परियोजनाओं को वापस लेने की प्रक्रिया शुरू - himachaldastak.com",
+      "source": "himachaldastak.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkRkN1ZVblNpQXd5emZ4RXpSbGFJb1pHODNfc2hTT3FBQnI5QWZUUkxMU09sbzAyNUFIYnpjWGtXQlVlcnVfNy03cGRzZzFzS2NEb1BJdnh5OEFNVHVqSWt5eVVLeVJoWVdCamROVlRwZ2RMa1ZTSmEtZEpTQUJ4MF9FbFJ6d20tTE9UQ2IwNnZvSG50VVE?oc=5",
+      "date": "2026-07-02T14:34:41.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Stage"
+    },
     {
       "title": "SJVN का बड़ा कदम: गुजरात की कंपनी के साथ 661 MW हाइड्रो PPA साइन, निवेशक ध्यान दें! - Whalesbook",
       "source": "Whalesbook",
@@ -58,16 +78,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
-    },
-    {
-      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - The Economic Times Hindi",
-      "source": "The Economic Times Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hOTTcxQXVwRXRWQWFMOGpvRnRzNGdETDBlckNfTzBpSng3WnluaGtzdVlGaU5xdWRnZko5cUNPd1EyQWwzTl9vbkJMVFBORmFlZ0toenpkamJjVk9ZNDZqU3JveHdPSHRYQjdwaFpnT1BUbkJxbWp6YWJHZl91MUhDMlR3enBxZkZtQVlmY20zR2NUNWRIdG83NFFIMlVIRWlndDlGUm1lbmFqbnFnZUxnU2o3ZUlxZlE1RXllU0N6Mnk1MGp5QlBPWVHSAdIBQVVfeXFMT0MxRGd6UXIyRVFGdjBZcmdRY3c5VEhrWTdhZHV2elkxRlF6emJ6eDFvVnZIdFR4WXAwUWdiTEhJaHBoeWpQdlJPcy1xS1JVTGt3SmpSaVNNdzE1aGVtd241SVdTdWEzb1F2S0lLRk5lMWs1dFJZR2RGMzRtYVRVRTAwcFM1M0VlUUNhRmF5X2h0RFNtbnRlZEdzU0RkNTMzQkUxS1pndk1FVHNIdkc1dmVaZGVoLVB0S2otMXZtakJZb01oc2ZJMk9mNmt3V3MwVVln?oc=5",
-      "date": "2026-02-06T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "SJVN Sutlej"
     },
     {
       "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - PSU Watch",
@@ -195,16 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWxnOFZuUHBqT3VVV1RCRm1HTnBwcnlGYzFxMF9fNzdsRFdxMnVKVTNPa0huNk50M2Z5RjU0X2JDTVIwalpubjNGN0dmSjl1cG9DMUZQck1mWFlvR0twTVh4Rl9GSzMzYmJpTUstM3dDSFA1dXR6QndhZXpCTFNjU1dMUkEzQXE1UDdHTXhIdHBmY3AzMGgyRC02VVJIZkJBMTBGV0F0VnVLd0tlcUFLVnBuVUVCdlFJekZxUFRyOWFEV2M4SG5tQTFpYkY5TzFUQkk0?oc=5",
       "date": "2021-12-28T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "SJVN awards electromechanical package of Luhri HEP to Voith - T&D India",
-      "source": "T&D India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT05uZXNuRjJ5d1JvZjg0aWFXMlhyZEZfOHh4WmhOVy1OWWpwRWFmZkxvRWl3a0Njd0RsUzM3ZXFzbHZFTjZUbkRnYUVhYkZ3NDVVU0xteDUtNmNkQjNZRG1TNEI5RWRwTEFCa3NqcU9rYlhzdkg1d3ZUaV9hZ2xTXzR2ajBoeUtEVzVDTVBB0gGTAUFVX3lxTE1yN2ZEQ1FtaVc0dEw3d2xxYkhiM1BOdUExSjdXbExuM2lXeHZxNVNTdnlEamREbXpPd2ZBZm84UUVtWUQxbFVMR1pmcDJUbVZFSzVyaW84Z2JCTHBYcEZBV1lhTFZvaU1UeExyOWxwMjlMTHM1bmFscDlNNEhnUkdsTVNtTGQ5SzBUX3VqR3B1NDZlMA?oc=5",
-      "date": "2021-08-13T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"

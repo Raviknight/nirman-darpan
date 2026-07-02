@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-02T13:28:30.303Z",
+  "updated_at": "2026-07-02T18:11:23.538Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
     "n": 20,
-    "positive": 10,
-    "neutral": 5,
-    "concern": 5,
-    "avg_score": 0.085,
-    "avg_magnitude": 0.29
+    "positive": 11,
+    "neutral": 6,
+    "concern": 3,
+    "avg_score": 0.13,
+    "avg_magnitude": 0.295
   },
   "youtube": {
     "n": 0,
@@ -19,13 +19,19 @@
   },
   "overall": {
     "n": 20,
-    "positive": 10,
-    "neutral": 5,
-    "concern": 5,
-    "avg_score": 0.085,
-    "avg_magnitude": 0.29
+    "positive": 11,
+    "neutral": 6,
+    "concern": 3,
+    "avg_score": 0.13,
+    "avg_magnitude": 0.295
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "अटल टनल में भारतीय सेना का कमाल, 10 जवानों ने दो बाइक पर बनाया ये रिकॉर्ड, रचा इतिहास - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc3BEZnNUNTlzRkdVVXFJTmVXVUI3dXF4LVFaQ1E1MGM5TzJ1aVM2NEk4Vjk5LXljTWdVQmtRelI2QUJaT2dyeUNlaVJaSkpiZ1ZKbmlLT2luTzhfSVdMWWhZS09yR1JST1dhYVFkQkhYR1NwUmVQbGNtbkJDUV90YmtyOXhrV2pNMHpna2RfRWtOSllIX2R3VXRvcG5HNnIxLWw5VU9aUC1EZ2NmSmZJY2drZVlxX1NYU2NXYVZBb1ZYeU85dmpybk45NGRRVEVmTUQzSU1WenlSUmk0cmfSAeMBQVVfeXFMTnpYMjBpMG1CaG45MXg4SThSQzFOdHQ1VEUwZFF6dEh0a0ZLemlBclVvX3M5VVljM1hyMk05NXk1VDUxcGpsckJUanFZNnAwVUs3VUZuTzBjeHUxNERQWEdXc1dyZ0pIYVNhWHFHYmE3ZGh1WVE2YndWVnVfcE9qU0VjTndqTU9wa1BvMklFZXM4UmY2YWZpTHh2Nlhfb2didnpqQUI1TTJCUzNMU29NdEhpbTFNTDhzUXdhdFBNdEt4RXN3WU5Wd21kVDVhajdrZDNXQzRWc0ZObnRyNFQ2ZDRDaU0?oc=5",
+      "score": 0.5
+    },
     {
       "source": "press",
       "title": "हिमाचल में सीकर के युवक की दर्दनाक मौत: अटल टनल के पास SUV पुल की बेसमेंट में गिरी, सरिये आर-पार हुए - ETV Bharat",
@@ -37,31 +43,25 @@
       "title": "अटल टनल से निकलते ही दर्दनाक हादसा, पिलर के सरियों पर जा फंसी स्कॉर्पियों; एक की मौत और तीन घायल - Live Hindustan",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSWQ3Q252b2Z2ZzVHWDVBZ2theTRWbTFLZTFVUndTWG8zQVloNnVsMUlDdW1xam0zVEd2V3Z1LUp6Z3BWbVZrczN2MlNjRXdCQkF5WHRDdjlUazNVaUZzcFNyemlnNU9QYnpVdDd6cF9IR01iMlZhTF9oWk92dmNhazUwRVZ3MGh2OE1aYkJjdFNUeDNBZ1pDX0Y1bGZYYkExaEQtcER6bTk5MUREOS1QNmJNX0NRX196aTN4SUdHclQ1YWJtMjc3WGtFTFBlX2tjSl9iUmkzUERlem1iYkxBbGI2Qjg2bnltNjJDa0xiOHRjUdIB8gFBVV95cUxOSWQ3Q252b2Z2ZzVHWDVBZ2theTRWbTFLZTFVUndTWG8zQVloNnVsMUlDdW1xam0zVEd2V3Z1LUp6Z3BWbVZrczN2MlNjRXdCQkF5WHRDdjlUazNVaUZzcFNyemlnNU9QYnpVdDd6cF9IR01iMlZhTF9oWk92dmNhazUwRVZ3MGh2OE1aYkJjdFNUeDNBZ1pDX0Y1bGZYYkExaEQtcER6bTk5MUREOS1QNmJNX0NRX196aTN4SUdHclQ1YWJtMjc3WGtFTFBlX2tjSl9iUmkzUERlem1iYkxBbGI2Qjg2bnltNjJDa0xiOHRjUQ?oc=5",
       "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "अटल टनल के पास बैरिकेड तोड़ पुल की सरियों में फंसी तेज रफ्तार कार, एक पर्यटक की मौत, तीन घायल - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdVlJYVlTMmdPLVNMUDBYa0JQWWhrems2TjJIOVh5TDJyYW5WWVN5T1NzV2ItdnZYT1Z6VFFDQy12OFFpN2JBZWRLZVEwcGx6c3J2TTNkMlVETm1BYktsTGdoX2V5aHRwbkd0Q2p3Z1hzWlFJc0pGT3AyZE1KRXMxY1BlWWp4Um9GRU5SM1VDUzR6WWxwWC16NC1SS2w2MTlvYzNtUGpvaUZ1WXhYWXJCNHB4R1N2dFk0R0haYXFENmluSUMtLWJoTENnVDh2ZS02RzBoNTNZei10X2hWNkFxaUFnd9IB6AFBVV95cUxNcjV6RmFhbjBGS3hfVWRnTzNXOFpvSWhMdmtWTG8xMDdRSDZLSnQxUTZEUEFzNi05Z1M5blB6OGZkeEpYNFRjdzZpVlJLN3Y0SGVpYXpqV2hESlNYa3I1bFloUjBlQkVRTHhjdFJwaWFuVkttM3lCc1BycDI1OGpyUV9fLUlIZjV1MElwR1lKNmVRVGl6UEF2TlVkX1hQNUc5MnpoLWdhVVJCd2d6TE1BbkFmMm53Y0pxaG5IUVVqSy1SV3NiOGotX0t6UnNFWVJ1SjdteWsyWHpzNGNnc1BfZ0JENktVMld1?oc=5",
-      "score": 0.5
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Atal Tunnel accident, one tourist from Sikar dead three injured after vehicle plunges near north portal during - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQUJhS2p6WEkxbk00cTJDWEpMcVB3QWVZTVJKZzFkdi1vN1pfODRkTFh0cnNWNnVxekF4RldZNVBqZnUtSzRIZVdkb2NEWExCT0Q4QnVlWUR2Q0ozT1N5UXdyUjdvNVpLV2JkSDZGQkhqME8yVGlLX3ZGNHFaY09fNXBOV1h0LS10WEU4OFVXWG9QRDc3blNjcDc0cnZmakExaDNST1RuQzZwaGI1QnNKcl8ybFhhVmEzbXBCYzQxSVZTcHd0ZmJsNEdfa3dvYkXSAc8BQVVfeXFMTUFCYUtqelhJMW5NNHEyQ1hKTHFQd0FlWU1SSmcxZHYtbzdaXzg0ZExYdHJzVjZ1cXpBeEZXWTVQamZ1LUs0SGVXZG9jRFhMQk9EOEJ1ZVlEdkNKM09TeVF3clI3bzVaS1diZEg2RkJIajBPMlRpS192RjRxWmNPXzVwTldYdC0tdFhFODhVV1hvUEQ3N25TY3A3NHJ2ZmpBMWgzUk9UbkM2cGhiNUJzSnJfMmxYYVZhM21wQmM0MUlWU3B3dGZibDRHX2t3b2JF?oc=5",
-      "score": -0.4
-    },
-    {
-      "source": "press",
-      "title": "Atal Tunnel horror: Scorpio hangs from bridge pillar after being pierced by iron rods, Rajasthan man killed - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmUwNERUYmtDMzVjUW5HLVRZLWFlaFoybnY0UmttVHNMNzY2dXY1ZUNCRV9xWG9Bby10dGZjNXJ5ZlppWXozSTg1ZXY1eXIyWTRWbTg5d1JkenZCd253bXFNdnFpNkhMYl8wWDlxOXhvampHYmpkbHdDc3gzRVpDZXhTUE9sdU9oRWNyN2VSSGMyWmhaLWthbWd2b0w3TDdoeDFaUjhNY09CMjJmSGpIYTV3TGVOT0NBT0dLZ0RaekM3aHJ5dERIbmJjbE4zQmRlNkRfdF8wLXVIWENoV1FwRkxCb9IB5wFBVV95cUxNTzI1N1NQZ1RnZ2dYV2Ruc2xJMFFLY3MwbXdocHBGZ1RmN0poSTVmdWxKS2VMdEZLT3EyZ1VUZ1FZTndhbk00WEtlbVdzaER6VDBCWGtieU5yay0xYm9MeWxhUTZKTE1wM1J6SHdGSThMT1JJV2U5SUdpN1ZWY2JGVkpVb2lkakJ1RlNpSlo5SEFrcUxYLWQtdm5oZkk5M2hRY0RIZkhldFIwaktWQWpGOVg5QUpsRDFWOS0wNVFuOWNObzlsd2YzSHd2RFhzTHVvRWlDeF9LNWdFUUdoMU9NQXQ4cVAzbkE?oc=5",
-      "score": -0.4
+      "title": "Tourist dies after SUV crashes into under-construction bridge near Himachal's Atal Tunnel - IBTimes India",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNzV3eFdhYjNMVzNMWXdiX3hkTUZodENUMmlsTTJGU1BIUm5VN1VZTjZNM0FKenU3NEdWS0wzVzFNUmJhZno1XzhpNUhyeVBERXh0NUlmWUlmQUZ4SlYwOGVXOHFpcWx1elVaR1QtWmRMckh4alZSTmNGTjlWTzAxZC1CT3otbnF2UEVVQmFVdUpzOTc4VDZaYmdpckxUWGhOTTloTmJtaS1PTEVLYUJKeFpnQXBjWEw2QUdSTUxn?oc=5",
+      "score": -0.7
     },
     {
       "source": "press",
       "title": "Tourist dies as Scorpio plunges off road, crashes on under-construction bridge near Himachal's Atal Tunnel | Video | India News - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeFpiQ21yMVBESzllT2FPNldSVFNsUHNudjViWlpLNEU3NmxuRHV3X2s1WngzbW9VUU5ZMWd1UDk4WGlranptT1NmaENMMXJkTG9wd21ZQzN6aUJ5Nkk3VFJLSjRMYUEzb3lLdUx6WEtfRVdaX0dUUG9fZEtSLW9mZFhMNGQwRU5Yd3BDUFlwNnJ3VmhWTmlYb0RGSnlHRzZZQWdMNWVSVWlHWHRuVGZubG92MmJQRExYcEpzSEo2TmNidzlqZTdXYVpuWjhIbU85eXFsMHZUQV93UkMwdmxEMlBDWFNqOVFFUDJxcjhJcjJEQm9pTzdPUWloMEw1Uk9FeWhtNXlLOV9RN2sw0gGSAkFVX3lxTFAta09ReFFnUlM4NU0zSEpPLVE2clE4X0trU0g0MV9sWl8wQ3V4NDBjVDAzTHBfRUdjRkZVY3lmMDRtUmM2TUFfOGhzNVVvcVRHX2hrMm1tRFdueGhueFZ5blJtNDhRcGhiMjZRWVFmRENJa0pLZ1BIODkwR2E0MkhrZlBlemZZQ0FiV25GNGZCbVRhd1pQdDJ2Wll2WHNENzJlVGoyTjFNZWZhTXZNUWJ6eDRKckw4aUh3ZEkyM3FudnBzdlZESUxRcW5nUk42eE50cWgzdGVEejFUaUx1V3RDV2hsSmRGZG53VmhzbDRtczQzak9QMjJEc0QzNEg1c3pyVmtEZmY2TGpHcnlUei1leXc?oc=5",
+      "score": -0.4
+    },
+    {
+      "source": "press",
+      "title": "Dramatic video of SUV crash near Atal Tunnel surfaces: Vehicle lands on steel rods, 1 killed - WION",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSmF0anNFcEx4WElQaHp4ZURkUWozTG1TaXByMlNwSjFvY0VaczVqMjlwY1REeS1pak5naGtwcUt0NzZ4YzdNNXZsb0ZrQ3doNWsyOG1QYVotanNtNXg4cjdLVHJVN0tEZ2h4Wl9pRjdTMTVrRXZYaUd5c2llYV9sZ092Nk9GeW8zcjRHbEg5dC1fNi1HcjdEQ01MaGVOQmRTM3pnZFpmU0VsbWNSX05sSXdjeU5WTWpUTzZra21ZeXZRQXhLQlB3UUl1Q2dIdWhrVHB0X1lB0gHbAUFVX3lxTFBGWFl6RzVUODR1MGZOVkk5NWxuWEt0eGk2MFdneUhObi1LRzF1UUloNUJReFJkdlRjUTdubmhWN01uUHQ4Ni1sZ2FwUG1Ycm5UaUZqUlpNR3VjUHlxVnQ4Nld3U3I1aWxYNmNEcndyOFlUdW1UZW14NU9hb0FYeFp3cmwtT2NzanZ5YXYtc2tGYkpRVlN2d2k1c3ZKS2RESDNwSFFlVm92b0diQlY5V0dxN0pUZWRodHBoUUd3WnNEVE92Y2ZyZlFzUFZ6ZTdvdDlHVXZDWmowelEwQQ?oc=5",
       "score": -0.4
     }
   ],
