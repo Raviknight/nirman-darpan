@@ -47,6 +47,22 @@
   #signin-inline input{font-family:'Public Sans',sans-serif;font-size:13px;padding:10px 12px;border:1px solid #dddccf;border-radius:7px;outline:none}
   .info-banner{background:#fbf3df;border:1px solid #ecdcc0;color:#7a5a1e;padding:11px 14px;border-radius:8px;font-size:12px;line-height:1.5;margin-bottom:14px}
   .info-banner b{color:#5a4112}
+
+  /* Sentiment panel */
+  .sent-panel{background:#fff;border:1px solid #e7e6dd;border-radius:10px;padding:14px 16px;margin-bottom:16px}
+  .sent-panel h2{font-family:'Source Serif 4',serif;font-size:15px;margin:0 0 10px;color:#232a2e}
+  .sent-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:8px}
+  .sent-cell{border:1px solid #eceadf;border-radius:8px;padding:9px 12px;font-size:12px}
+  .sent-cell .proj{font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:11px;color:#5c686f;margin-bottom:3px}
+  .sent-cell .val{font-family:'IBM Plex Mono',monospace;font-size:13px;font-weight:600}
+  .sent-cell .breakdown{font-size:10px;color:#8a8a7e;margin-top:2px}
+  .sent-cell.positive{background:#eef4ec}
+  .sent-cell.positive .val{color:#2f7d52}
+  .sent-cell.concern{background:#f7e7e3}
+  .sent-cell.concern .val{color:#b04a3a}
+  .sent-cell.neutral{background:#fbfbf7}
+  .sent-cell.neutral .val{color:#5c686f}
+  .sent-empty{font-size:12px;color:#a4a294;padding:8px 0}
 </style>
 </head>
 <body>
@@ -181,10 +197,52 @@
     } catch (_) {}
   }
 
+  // ---- sentiment overview (best-effort — 404s until the workflow has run once with keys)
+  const sentiment = {};
+  await Promise.all(manifest.projects.map(async (p) => {
+    try {
+      const r = await fetch('../../data/sentiment/' + p.id + '.json', { cache: 'no-store' });
+      if (r.ok) sentiment[p.id] = await r.json();
+    } catch (_) {}
+  }));
+
   // ---- rejection cache
   const rejectedKey = 'nd_queue_rejected_urls';
   const loadRejected = () => { try { return new Set(JSON.parse(localStorage.getItem(rejectedKey) || '[]')); } catch (_) { return new Set(); } };
   const saveRejected = (s) => { try { localStorage.setItem(rejectedKey, JSON.stringify([...s])); } catch (_) {} };
+
+  function classifyAvg(avg){
+    if (avg >= 0.15) return 'positive';
+    if (avg <= -0.15) return 'concern';
+    return 'neutral';
+  }
+
+  function renderSentimentPanel(){
+    const ids = Object.keys(sentiment).filter(id => (sentiment[id]?.overall?.n || 0) > 0);
+    if (ids.length === 0) {
+      return `
+        <div class="sent-panel">
+          <h2>Sentiment overview</h2>
+          <div class="sent-empty">No sentiment data yet. Runs on the next sync (Mon+Thu 19:00 UTC), or trigger manually at Actions → Auto-sync → Run workflow.</div>
+        </div>`;
+    }
+    ids.sort((a, b) => (sentiment[a].overall.avg_score) - (sentiment[b].overall.avg_score));
+    const cells = ids.map(id => {
+      const s = sentiment[id].overall;
+      const cls = classifyAvg(s.avg_score);
+      return `
+        <div class="sent-cell ${cls}">
+          <div class="proj">${esc(id)}</div>
+          <div class="val">${s.avg_score >= 0 ? '+' : ''}${s.avg_score}</div>
+          <div class="breakdown">n=${s.n} · ${s.positive}👍 / ${s.neutral}◐ / ${s.concern}👎</div>
+        </div>`;
+    }).join('');
+    return `
+      <div class="sent-panel">
+        <h2>Sentiment overview — ${ids.length} projects with scored items</h2>
+        <div class="sent-grid">${cells}</div>
+      </div>`;
+  }
 
   let approvedThisSession = 0;
   let rejectedThisSession = 0;
@@ -203,8 +261,9 @@
         </div>
         <div style="font-size:11px;color:#a4a294">Signed in as ${esc(user.email)} · <a href="#" id="qe-signout" style="color:#5c686f">Sign out</a></div>
       </div>
+      ${renderSentimentPanel()}
       <div class="info-banner">
-        <b>Editorial standard.</b> Approve only if the linked article is actually about this project AND constitutes a real incident / defect / audit / grievance / litigation event. The matched keyword can be a false positive — read the headline.
+        <b>Editorial standard.</b> Approve only if the linked article is actually about this project AND constitutes a real incident / defect / audit / grievance / litigation event. The matched keyword can be a false positive — read the headline. Use the sentiment panel above to prioritise — projects trending negative in the press deserve first attention.
       </div>
     `;
     if (visible.length === 0) {

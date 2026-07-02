@@ -15,6 +15,8 @@ on:
       - 'scripts/gen_feed.mjs'
       - 'scripts/gen_sitemap.mjs'
       - 'scripts/detect_accountability.mjs'
+      - 'scripts/youtube_sweep.mjs'
+      - 'scripts/score_sentiment.mjs'
       - '.github/workflows/sync.yml'
   workflow_dispatch: {}
 
@@ -48,6 +50,18 @@ jobs:
         run: node scripts/detect_accountability.mjs
         continue-on-error: true
 
+      - name: YouTube sweep (videos + comments per project)
+        run: node scripts/youtube_sweep.mjs
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        continue-on-error: true
+
+      - name: Score sentiment (press + YouTube)
+        run: node scripts/score_sentiment.mjs
+        env:
+          GOOGLE_NLP_API_KEY: ${{ secrets.GOOGLE_NLP_API_KEY }}
+        continue-on-error: true
+
       - name: Regenerate per-project static pages
         run: node scripts/gen_project_pages.mjs
 
@@ -64,7 +78,7 @@ jobs:
         run: |
           git config user.name 'nirman-darpan-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/meta.json data/social data/accountability_suggestions sitemap.xml projects districts feed.xml
+          git add data/meta.json data/social data/accountability_suggestions data/youtube data/sentiment sitemap.xml projects districts feed.xml
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
