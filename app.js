@@ -1216,8 +1216,7 @@ function renderPerceptionPanel(projectId){
       <div class="perception" style="background:#fbf8ef">
         <h4 class="sect" style="margin:0 0 4px">Public perception</h4>
         <p style="font-size:13px;color:#7d8a82;line-height:1.5;margin:0">
-          Voting goes live in Phase 2. The Appwrite layer isn't configured in this build —
-          see <a href="docs/APPWRITE_SETUP.md">docs/APPWRITE_SETUP.md</a>.
+          Voting is temporarily unavailable — reload the page. If this persists, the site's backend connection may be down.
         </p>
       </div>`;
   }
@@ -1386,7 +1385,7 @@ function renderSocialPanel(id){
 function composerOverlay(){
   if (!NIRMAN_AW) {
     return `<div style="position:absolute;inset:0;background:rgba(255,255,255,.55);backdrop-filter:blur(1px);border-radius:10px;display:flex;align-items:center;justify-content:center;text-align:center;padding:14px;font-size:12px;color:#5c686f;line-height:1.5;z-index:1">
-      Comments will go live once verified resident sign-in is wired in <b>Phase 2</b>.<br>This composer is a preview only.
+      Comments are temporarily unavailable — reload the page. If this persists, the site's backend connection may be down.
     </div>`;
   }
   if (!NIRMAN_AW.user) {
@@ -1955,7 +1954,7 @@ function renderMapLegend(palette, max){
       <span style="display:inline-flex;align-items:center;gap:5px"><span style="width:11px;height:11px;border-radius:50%;background:#1b5640;border:2px solid #fff;box-shadow:0 0 0 1px #d8e2dc"></span>Active · on track</span>
       <span style="display:inline-flex;align-items:center;gap:5px"><span style="width:11px;height:11px;border-radius:50%;background:#b3721f;border:2px solid #fff;box-shadow:0 0 0 1px #f3deb3"></span>Active · delayed</span>
       <span style="display:inline-flex;align-items:center;gap:5px"><span style="width:11px;height:11px;border-radius:50%;background:#3f6b6e;border:2px solid #fff;box-shadow:0 0 0 1px #d8e2dc"></span>Completed</span>
-      <span style="margin-left:auto;font-size:11px;color:#a4a294">Pin positions are approximate site coordinates · refined in Phase 2.</span>
+      <span style="margin-left:auto;font-size:11px;color:#a4a294">Pin positions are approximate site coordinates.</span>
     `;
   } else {
     const swatches = palette.map(c => `<span class="sw" style="background:${c}"></span>`).join('');
