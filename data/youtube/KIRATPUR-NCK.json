@@ -1,84 +1,11 @@
 {
-  "updated_at": "2026-07-02T11:23:35.178Z",
+  "updated_at": "2026-07-02T11:51:54.901Z",
   "project_id": "KIRATPUR-NCK",
   "query": "\"Kiratpur–Nerchowk 4-Lane\" Himachal",
   "counts": {
-    "videos": 3,
-    "comments": 6
+    "videos": 0,
+    "comments": 0
   },
-  "videos": [
-    {
-      "videoId": "WEC-qMVOgMw",
-      "title": "Kirtpur to Manali four Lane connecting Bridge village Patta &amp; Bharari Bilaspur Himachal Pradesh",
-      "channel": "Pankaj Verma Vlogs",
-      "published_at": "2022-08-09T17:34:22Z",
-      "description": "Kirtpur to Manali four Lane connecting Bridge village Patta and Mandi Bharadi Bilaspur Himachal Pradesh.Masakali 2.0.",
-      "comment_count": 4,
-      "comments": [
-        {
-          "comment_id": "UgwTItGt9kuYAoAR87d4AaABAg",
-          "author": "@madhvivermavlogs1991",
-          "text": "Wao very nice 😍",
-          "like_count": 1,
-          "published_at": "2022-08-09T17:46:32Z"
-        },
-        {
-          "comment_id": "UgzJ6KtXlsbRISg9MwB4AaABAg",
-          "author": "@VijayKumar-hg4oy",
-          "text": "Super Himachal Pradesh Bilaspur",
-          "like_count": 1,
-          "published_at": "2022-08-09T17:40:26Z"
-        },
-        {
-          "comment_id": "UgwkEVl6VeIXPMvl59F4AaABAg",
-          "author": "@123guguandnakshu",
-          "text": "Wow",
-          "like_count": 0,
-          "published_at": "2022-08-20T19:04:20Z"
-        },
-        {
-          "comment_id": "UgwGbi6S1ZUMLCfTYy14AaABAg",
-          "author": "@preetgopysaab8316",
-          "text": "Nice",
-          "like_count": 0,
-          "published_at": "2022-08-09T17:54:20Z"
-        }
-      ]
-    },
-    {
-      "videoId": "RJZgVLGFF-Y",
-      "title": "Kiratpur NerChowk 4 Lane      #roadtripvibes",
-      "channel": "Vanshika and Divisha",
-      "published_at": "2023-08-02T13:28:10Z",
-      "description": "",
-      "comment_count": 1,
-      "comments": [
-        {
-          "comment_id": "Ugww3P5YxHI_m6xXvvx4AaABAg",
-          "author": "@anshikasood6045",
-          "text": "Beautiful ❤❤❤❤❤",
-          "like_count": 0,
-          "published_at": "2026-03-08T08:13:17Z"
-        }
-      ]
-    },
-    {
-      "videoId": "rgIxgZL83CA",
-      "title": "Kiratpur  nerchowk four lanes express highway | 5 tunnels on the way to Manali | Himachal tourism",
-      "channel": "Lady driver",
-      "published_at": "2023-08-07T16:56:12Z",
-      "description": "Follow me on INSTAGRAM   https://instagram.com/ladydriver__yt?igshid=YmMyMTA2M2Y= ✓Join Lady Driver on Patreon ...",
-      "comment_count": 1,
-      "comments": [
-        {
-          "comment_id": "UgzzXsvQuXLJUrcb9514AaABAg",
-          "author": "@tlkraj3285",
-          "text": "Most awaited Expressway 🎉🎉🎉",
-          "like_count": 0,
-          "published_at": "2023-08-07T17:03:14Z"
-        }
-      ]
-    }
-  ],
+  "videos": [],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

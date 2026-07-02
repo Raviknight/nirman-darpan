@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-02T11:24:47.166Z",
+  "updated_at": "2026-07-02T11:52:22.896Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
+    "n": 20,
+    "positive": 8,
+    "neutral": 10,
+    "concern": 2,
+    "avg_score": 0.13,
+    "avg_magnitude": 0.305
+  },
+  "youtube": {
     "n": 0,
     "positive": 0,
     "neutral": 0,
@@ -9,44 +17,52 @@
     "avg_score": 0,
     "avg_magnitude": 0
   },
-  "youtube": {
-    "n": 2,
-    "positive": 2,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0.65,
-    "avg_magnitude": 0.65
-  },
   "overall": {
-    "n": 2,
-    "positive": 2,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0.65,
-    "avg_magnitude": 0.65
+    "n": 20,
+    "positive": 8,
+    "neutral": 10,
+    "concern": 2,
+    "avg_score": 0.13,
+    "avg_magnitude": 0.305
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Aapke channl sasbcribe krne ko varsha jariyal danser ne bola h.good job",
-      "score": 0.9
+      "source": "press",
+      "title": "बरेली में होली पर रामलीला, 166 साल की परंपरा; मुस्लिम समुदाय ने किया यात्रा का स्वागत - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1RsU3Z1dEFZOGFrZ1FpdTNrcWh5ZVdsWUNwdmlWaDE3elZSd1J0UktOZFNkNUxzRTBWX2VaTk9kcDM2Ul9kVE1LNDF4Njl1VXlfYVBSVzNrMTg5VGx6d0tRcVpXZ2ttdERRd3NGX3dXNnVfSmJ5MmlfWV9hQmRvODNUMXp2aVRZdHdrcHlPbFJweTZhZjQwaDlOYWtfRXc0TUUtd3JMZ1hDenhwRjhHMHdGcFI3N0JlTTZLN1NaZUFjWEhfbWRENzY0OWg4UlN3NTlib011X2FwMXpLMmNoWEZ30gHnAUFVX3lxTE9ZVUpvUnhfcTVyaVFTZDBuQW14RDBvTFBDQzBvdXlDQ1RBLVRWSi10U25zMi1yZlotV3hyY05sRjR0QzVKQnNJNm9wdk1UdGRtMlliVW9ISUFDLTZ2Z1habHRDZkNlVkM4NTBHN3lCY1FhYW5PMm12RnNzSm9KU21TbGJjRTF5Z19jeTZHQU4wVHRfbFBpQkpPSWlrV1ZQRDZrMWRQY3Faa2UyWldoUlZ4QjRlRk5zZjFfUXNEcktjbkY3OXJsaWt1ZzI0RUNacE1yTjFQLWF2cTROVzhzWjVPNHVYOHJkZw?oc=5",
+      "score": 0.6
     },
     {
-      "source": "youtube",
-      "title": "😊😊😊❤❤❤❤",
-      "score": 0.4
+      "source": "press",
+      "title": "बरेली की रामलीला जिसे अंग्रेज भी नहीं रोक पाए, 166 साल से कायम है परंपरा - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWxpYnhSMWIyZ1c1UGJld0VzWkhqczQzSC1RM2pDbUZ5UVhtT0htVW5CeE9SbU45NGhUOE1JTGVwbUlWNGUxRjNYNUcxRDJqRGoyWFIyWW5iT2hJc19OY19yelR5UTY4NGY3Vno4TUNEQXkzbjAxbHdPcGRweDQ1US05dW1GMzctMXJ4SjJzZVUyVVhXUmJoRGx5dEdBTS0zWXZybExaTHI0SUhZX0RrS1JjT3lib0lGdlpiWF9ldmZnSnQ0Y21TVzF2aE1xNU1iYjg0eVFJM0NIa1nSAeABQVVfeXFMTnMzVG9oYXBnVjNhdklCRl9UQlYzbTM2VG9hRFNCMzdOWER4Ylc0YV8xYVdva0pQLVBQVmctVUQ5OENQNUFlWERnQlo2dXpWQTZoNzJhMzlEc1N5R2hkczBsSk9zOGVRbmlqOEdUcWs1T0VpMWxKLUhqTVlTd1F5T015LWFockNVcVJpUWFiekhSRU1NSFRORHBCbGpWcGllbUkzY2t6em04QzM0eldwbzhkWmwxS3lmOVVDeERUMVZUM25tckpwS25PRkFMbjU1VnlMTnJGbXU5LVFEZmtrWTU?oc=5",
+      "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "होली के रंग होंगे और भी खास! बरेली में इस दुकान पर मिल रही हैं इंजेक्शन से लेकर हथौड़ा तक कई अनोखी पिचकारिय... - News18 Hindi",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOVFZVRl9tUnB5XzBsOGJrR0tDMWRGV1lUTk8yeDNVQzNmLURvY3BsU0REaGtQYlNnRWxiZ3pMVVRSdW15Vi11Y01PUFlJMDhNRmZ5WkxEZjYxcG56azl6N0dhdTVJdEVwSGhmck9jZFVuM1FrODJ0UXZsU0NCaktKVHIxdGtGOUJ6MWk5UjFxNExoXzhVNEZfVzM1YUNNemJsclQ2Q2tMZTlkcWpmVlJXc1BZRU9ld1ktWl9SaTFMcjIyREdYQmdqem1XRVF6U3MtRWFWOERyVlVNdWQ0cllfQWZLNGJWRnRhWXlhQ21jQVpwTS1GZlBTT2dFRHZCVXN4LUVmSlVsYVA1ckllb2pfNTBaY1pVYlNuOXYwbXNDOURyVU1QUXY0Y291WV9TSGEzT1FYN3poM2JiNmxMVnRzMjVtNlFhQ0ZRbUxNM2NvdUxLelZ3RHdSctIB3gJBVV95cUxNTUZzNklJSUxOZzIwZXVCUFFRYk9lTlM0enptOU5jdTM4Nlg0WGV5MnJuSG5nM0Jwb3BYQWNkMGNyMTA0Z00ybUgwSHcweWY3NUt6ZTMxZm9Ed0RaZ19zVWJFQzFXSGFjOUhwZW13eUxVUXJ1LWJEUy1OU2xhWUlOZl95MjRMaDZzWUlJWFYwOURiTzRULUlSU0sxSHF6dHNXZVlBTWszYlhEUXBWSWRwaC0wbnJhS096blltZGZfam40S1R4cjZpVjk2QjRXV3JDSmdlTmNWWThVUmxpLUh3SEJ5bHo0Y295N1NlV1gwRE9HNDRjUXA5bi1JRVJUTjBqaGdYRXc0Q2ZvSWMwZVdqSmJuQ1p3ZHpoX3UtU3lHQVFhdGFPTGs4S0IxQkhpdU5ESVg5NGhtUlVweU5hLUREWldaMl9kT3pwdzZfTGFMTVk3d3lOd3NCdmRycWNidw?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
     {
-      "source": "youtube",
-      "title": "😊😊😊❤❤❤❤",
-      "score": 0.4
+      "source": "press",
+      "title": "In Chamba, a village cracks under shadow of another hydro tunnel - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlRPSWR3ZmlKRDhabHhkZVd0WHhrZFBTdExCaWc1RGI5eEVtMklKS0JhVzZ6a1dtR3Z6SWlHVG5FZG5wYVl3TXJKU1Z5WVZKRzNrNmRXR3FFNnNIZzgzNlpzYnl1V0p6SE1XU1NPZW52WDJuTVR5VmFFaTdSVmlwZDh3eXFKbnJ3VmUtQUswNkJwTFM3UWs2TUpzVDhmUGtWNmxseFUyZEwtV3RnSzZjWXNOMnItc21WMFFlQkp1cXlnSkRWZ3JTYnZn0gHPAUFVX3lxTE5Yb2ZzUFpnVURtcHhTSDZDTlNxeEVlck1PM0lCaVBxNlBma3dIU3lkVnVDSzhkWi1Wd21RWHZGYnFKTGxBcXU2dkZQblRQSzVKTWZJUTEzQnduRm5YMWI2LWk2LUdOT3pXLWRTaEVYWmg0OVpJYXRoYVloZ000eDQtc21EWHhrWlZRU2F0VE1GZWNJNU91anMyTVRsRUJpYW1reXQ0RUhSeGZjUVdzMmQ0cVM2N2c5RmtqR3g3clBrUE95VmZTbENqWHBVMEJ3Yw?oc=5",
+      "score": -0.2
     },
     {
-      "source": "youtube",
-      "title": "Aapke channl sasbcribe krne ko varsha jariyal danser ne bola h.good job",
-      "score": 0.9
+      "source": "press",
+      "title": "GMR Power to sell stake in non-operating, stressed assets; stock zooms 15% - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZzRybXJVcXZmaU1FTi1PVXVULTQzdHlLRUIyUHdOUDN2MDFtVlBDZ1lIblVNc2JibFBuMm9yZlcwN29TdUEyd0FlY0gyVm5tSVdnNElZWlJaM093aXg4a3JNcEUweW05UWVGX2NmUlA4UGVnLXhsTC0zS1hhYXZ0bE9WMFVDQkV2WlRSU1lHRlJKaVB1aFRnOWJHaGU3NDEzYmlwcWRObHNlaFFrdlg1bEJBUktrbTB0ZkRkSmlONUxNZ2JjT0xMNXVEcHNMNjVQa2k1cFk4d9IB3AFBVV95cUxOS0FodzZBbGRPMmVpUWJSTXI5WWZoT1g3ZlFDa20zcVRBWGlXSDAzM2ZRZU1ienB0bXYwS2l4a0dnUXV4YURPUnBVMmx3Zkx3R09ua0pWTFhUUi05MUM3cGNhRFh2M3hBQjYyX2FtQnFwdV9fOVFsSTVmZVhHNkxJZUlTcFoxMTgtbnI4Tk43OEFlRi1LXzBpMjd4SlJibU9PeEVwZ0V6cmQzbXU4eEFSVnFiWkFOYUlNRzZYRVh0WkEzbm5rV2hIOVc0RTFJVUVYdW81R1hURkhCVjBF?oc=5",
+      "score": -0.2
+    },
+    {
+      "source": "press",
+      "title": "After year of seepage in Chamba project tunnel, repair work starts - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObjl1LXVqNXBYNU56T3hsN3VrWWJiZVdvdl90cG9CZXBsQmw5Z1ZkSmhUcG9kUTFkX3IyUEJtUVJ1ZGRKWTB2X2NXWnJiSHFIM1BVa2pURUVwRDBOcThKQ2FCX3l0eHFBSkR6LV8zbE9tcXhKaU5wdks0WG9McEl0RmRFZlJBamhKN2JkLVJRd2J3VnNIa3F4NlU3UWV1SHlnd0dxYjVHeThxZEFhbm5EbHFtMzdPUWw3QmhxWDBGRkxmR05SSGJwOEo1SFB4T0RiczUyMtIB2gFBVV95cUxNaFR2UEwxN2h6cFJQQjVERi1vYTVWWFhxQTFaZ083V1JjdUVCMENMejExbGhkbVpyX05JdWlkZmE3YzNRM0RrSW9GUU1tTzg5bUlDVVpKSmJWVm93Sk94Z01tNF9kVjJaM1JxczBMVUV2OElWaEJSN0xrLUNmYkxjLWtzRTF0bmFnTG5sRWxTRERtaHFzUFZ6ZDFOUkVsNUZwNWdxcTczMGwtQXZfOVNtY3UyZlFqVW5ESFI5NVQ0NUhmam1qbWhsZjJyWUE5UHBHTUdpeEU5S1ZYdw?oc=5",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

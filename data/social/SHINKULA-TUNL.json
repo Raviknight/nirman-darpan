@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-07-02T11:23:03.273Z",
+  "updated_at": "2026-07-02T11:51:22.922Z",
   "project_id": "SHINKULA-TUNL",
   "counts": {
     "press": 94,
     "gov": 0,
-    "en": 69,
-    "hi": 25,
+    "en": 70,
+    "hi": 24,
     "total": 94
   },
   "mentions": [
+    {
+      "title": "Rs 16810000000: India to build world's highest road tunnel at 16000 feet in..., China in fear due to... - news24online.com",
+      "source": "news24online.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWjNhMGM2TEZxUnhrZG5feFZQZHltQjhPZTNxTHFvTDUzNlBYdWs3SzJuTGRNeFRBN3NiZHh0MHhDY0Q0U1k2YU52N2w2dm4tQU1feVE3RDZPQlFnWGh0ZGJFWjVCcEZLUTVTczZFaHhsV0RNM3N2TzRGNVBWRzI1OFRLOGhzamRtV1FDb1lUa3ZTVnpmVC1kQmxqMUVzZ0FyN0JQbVV3Yno5Y0NmZHZsZE43c3ZPbEFVWGZXTGlWQjk3ZTV1ejJ0bUdWbmprbEZNQWtvTWZ6ek9aQU5iT2I1X1FwNkZLSWZxOWt6aTVBM3VHMjhNSEhYMVFQVHRrMFNpanZxMWU3aUZWSGhOcklZZWF3UmJTdlhqb2VSYQ?oc=5",
+      "date": "2026-05-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shinku La tunnel"
+    },
     {
       "title": "चीन सीमा पर भारत का 'मास्टरस्ट्रोक'! ₹1681 करोड़ में बनेगी दुनिया की सबसे ऊंची सुरंग, इसे मिली तैयार करने की जिम्मेदारी - shinku la tunnel highest tunnel in the world at 15800 ft near china border in india - Jagran",
       "source": "Jagran",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Shinku La tunnel"
-    },
-    {
-      "title": "Shinkun La Tunnel Project - Sanskriti IAS",
-      "source": "Sanskriti IAS",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcWpoeGZEOC1DTjlXdEFqclZoRWpJTklTQl9pZnNMT3huelo3WW5jRmtkRGhkZ295bGR3VTc2VmhSTWcwekJrY1FIVVcyMHlIY0NfMWVUYUIxLUtHZnBoQzJ4cmdWeXhjMEpiUU5LZHlLVVVta0xSRmh6R05UTDlYVmdR?oc=5",
-      "date": "2024-07-29T03:24:02.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shinkun La"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."

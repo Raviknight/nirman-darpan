@@ -1,45 +1,48 @@
 {
-  "updated_at": "2026-07-02T11:24:15.843Z",
+  "updated_at": "2026-07-02T11:52:04.668Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
     "n": 20,
-    "positive": 9,
+    "positive": 10,
     "neutral": 5,
-    "concern": 6,
-    "avg_score": 0.06,
+    "concern": 5,
+    "avg_score": 0.1,
     "avg_magnitude": 0.305
   },
   "youtube": {
-    "n": 27,
-    "positive": 12,
-    "neutral": 15,
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.207,
-    "avg_magnitude": 0.367
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 47,
-    "positive": 21,
-    "neutral": 20,
-    "concern": 6,
-    "avg_score": 0.145,
-    "avg_magnitude": 0.34
+    "n": 20,
+    "positive": 10,
+    "neutral": 5,
+    "concern": 5,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.305
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Wow very beautiful ❤",
-      "score": 0.9
+      "source": "press",
+      "title": "हिमाचल में सीकर के युवक की दर्दनाक मौत: अटल टनल के पास SUV पुल की बेसमेंट में गिरी, सरिये आर-पार हुए - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRndENU5qUlMwRU43MVpsTHVSREFGWTVHcnhOcWZYRU92eEE0Rzh5UTYyMjdXeWk3WUYxdVRGVnh4WXFYMHhGQjJwSm9tTG1YN2J3aURyVDcyM1VwR01fWE5mbENlT2s3VGYyOXQxR0hLWnh4Uk1hMnpOaGY2Y1ZUQ0MxeWJ1TTBmMk9uVlBnZDhBMWZUbDdmcDBBYXd2Qk9FZi1pY2xUSWRWYlo1YV9UYVNlbUtXYlNyaW5OMVlLd1VlNHRvM3hGWThaZm9UXzRla09vU3RqbDU1cmFQbkVmMW9SZnJVZG5JaExn0gHwAUFVX3lxTE5WaVpnQUVpZlpQOUhJVHgtZXI2d1d2RjZmMW56bW9QZGFldTljVFJuUU9Fb2kzbHhLM0YtU3FtV3dlUnE3RHNxRnA5Rk5JeFRqd29qRDgyODJmVE50b2g5eWRubmEtOVhCSi11QUEzRmxOWXEwbXFvc0EyTlZ4djBqRklZX1FPTUl0MGlGUHZuT2cyWVBRNmVFQ245ZnRBS014OUtIcWJ0WnV1Qm5WU1llVnVVVjRuaWtwSEduS2J6MnN3MVZ1ZnhFYlBfemdtemowUnViT1JuMFFFSDc0SDRkSVctbnFCc3F3U1p2a1ROVw?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Make more videos like this on zozila and rest of the tunnels and bridges like chenab and all❤",
-      "score": 0.8
+      "source": "press",
+      "title": "अटल टनल से निकलते ही दर्दनाक हादसा, पिलर के सरियों पर जा फंसी स्कॉर्पियों; एक की मौत और तीन घायल - Live Hindustan",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSWQ3Q252b2Z2ZzVHWDVBZ2theTRWbTFLZTFVUndTWG8zQVloNnVsMUlDdW1xam0zVEd2V3Z1LUp6Z3BWbVZrczN2MlNjRXdCQkF5WHRDdjlUazNVaUZzcFNyemlnNU9QYnpVdDd6cF9IR01iMlZhTF9oWk92dmNhazUwRVZ3MGh2OE1aYkJjdFNUeDNBZ1pDX0Y1bGZYYkExaEQtcER6bTk5MUREOS1QNmJNX0NRX196aTN4SUdHclQ1YWJtMjc3WGtFTFBlX2tjSl9iUmkzUERlem1iYkxBbGI2Qjg2bnltNjJDa0xiOHRjUdIB8gFBVV95cUxOSWQ3Q252b2Z2ZzVHWDVBZ2theTRWbTFLZTFVUndTWG8zQVloNnVsMUlDdW1xam0zVEd2V3Z1LUp6Z3BWbVZrczN2MlNjRXdCQkF5WHRDdjlUazNVaUZzcFNyemlnNU9QYnpVdDd6cF9IR01iMlZhTF9oWk92dmNhazUwRVZ3MGh2OE1aYkJjdFNUeDNBZ1pDX0Y1bGZYYkExaEQtcER6bTk5MUREOS1QNmJNX0NRX196aTN4SUdHclQ1YWJtMjc3WGtFTFBlX2tjSl9iUmkzUERlem1iYkxBbGI2Qjg2bnltNjJDa0xiOHRjUQ?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Very super 👍👍👍",
-      "score": 0.8
+      "source": "press",
+      "title": "अटल टनल के पास बैरिकेड तोड़ पुल की सरियों में फंसी तेज रफ्तार कार, एक पर्यटक की मौत, तीन घायल - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcjV6RmFhbjBGS3hfVWRnTzNXOFpvSWhMdmtWTG8xMDdRSDZLSnQxUTZEUEFzNi05Z1M5blB6OGZkeEpYNFRjdzZpVlJLN3Y0SGVpYXpqV2hESlNYa3I1bFloUjBlQkVRTHhjdFJwaWFuVkttM3lCc1BycDI1OGpyUV9fLUlIZjV1MElwR1lKNmVRVGl6UEF2TlVkX1hQNUc5MnpoLWdhVVJCd2d6TE1BbkFmMm53Y0pxaG5IUVVqSy1SV3NiOGotX0t6UnNFWVJ1SjdteWsyWHpzNGNnc1BfZ0JENktVMld10gHoAUFVX3lxTE1yNXpGYWFuMEZLeF9VZGdPM1c4Wm9JaEx2a1ZMbzEwN1FINktKdDFRNkRQQXM2LTlnUzluUHo4ZmR4Slg0VGN3NmlWUks3djRIZWlhempXaERKU1hrcjVsWWhSMGVCRVFMeGN0UnBpYW5WS20zeUJzUHJwMjU4anJRX18tSUhmNXUwSXBHWUo2ZVFUaXpQQXZOVWRfWFA1RzkyemgtZ2FVUkJ3Z3pMTUFuQWYybndjSnFobkhRVWpLLVJXc2I4ai1fS3pSc0VZUnVKN215azJYenM0Y2dzUF9nQkQ2S1UyV3U?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
@@ -52,13 +55,13 @@
     {
       "source": "press",
       "title": "Atal Tunnel horror: Scorpio hangs from bridge pillar after being pierced by iron rods, Rajasthan man killed - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPemxvOWJQN1FrbnpVekNmbkVMbHI5TWswdGN4dnM4V2VubTk5dEtyZHMtb1JlZ2Q3ekt5YWxMWVlBSWVEWDZEeG82aHlVRndkZTZiNXhkS1dQckJvRGVQdE9wNmNZTk9Ud2Z5VC1LZFZLZHg1ckJLRVhBMUhueVp1bkRHTTZ4UFBzZGs0RHc4bG1NcGRuS0JIcm1xWkI1LXJ2Qld1bjBGRmZhdTZGTWtYbTdmdW1kZUdFVUY5TEV5cTZnajV6bDJLU3FqX1pxVHB6aWt0SVB6UUl5Q09hUkQtZkRMQmw1OWPSAecBQVVfeXFMT3psbzliUDdRa256VXpDZm5FTGxyOU1rMHRjeHZzOFdlbm05OXRLcmRzLW9SZWdkN3pLeWFsTFlZQUllRFg2RHhvNmh5VUZ3ZGU2YjV4ZEtXUHJCb0RlUHRPcDZjWU5PVHdmeVQtS2RWS2R4NXJCS0VYQTFIbnladW5ER002eFBQc2RrNER3OGxtTXBkbktCSHJtcVpCNS1ydkJXdW4wRkZmYXU2Rk1rWG03ZnVtZGVHRVVGOUxFeXE2Z2o1emwyS1Nxal9acVRwemlrdElQelFJeUNPYVJELWZETEJsNTlj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmUwNERUYmtDMzVjUW5HLVRZLWFlaFoybnY0UmttVHNMNzY2dXY1ZUNCRV9xWG9Bby10dGZjNXJ5ZlppWXozSTg1ZXY1eXIyWTRWbTg5d1JkenZCd253bXFNdnFpNkhMYl8wWDlxOXhvampHYmpkbHdDc3gzRVpDZXhTUE9sdU9oRWNyN2VSSGMyWmhaLWthbWd2b0w3TDdoeDFaUjhNY09CMjJmSGpIYTV3TGVOT0NBT0dLZ0RaekM3aHJ5dERIbmJjbE4zQmRlNkRfdF8wLXVIWENoV1FwRkxCb9IB5wFBVV95cUxNTzI1N1NQZ1RnZ2dYV2Ruc2xJMFFLY3MwbXdocHBGZ1RmN0poSTVmdWxKS2VMdEZLT3EyZ1VUZ1FZTndhbk00WEtlbVdzaER6VDBCWGtieU5yay0xYm9MeWxhUTZKTE1wM1J6SHdGSThMT1JJV2U5SUdpN1ZWY2JGVkpVb2lkakJ1RlNpSlo5SEFrcUxYLWQtdm5oZkk5M2hRY0RIZkhldFIwaktWQWpGOVg5QUpsRDFWOS0wNVFuOWNObzlsd2YzSHd2RFhzTHVvRWlDeF9LNWdFUUdoMU9NQXQ4cVAzbkE?oc=5",
       "score": -0.4
     },
     {
       "source": "press",
-      "title": "Atal Tunnel horror: Scorpio hangs from bridge pillar after being pierced by iron rods, Rajasthan man killed - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmUwNERUYmtDMzVjUW5HLVRZLWFlaFoybnY0UmttVHNMNzY2dXY1ZUNCRV9xWG9Bby10dGZjNXJ5ZlppWXozSTg1ZXY1eXIyWTRWbTg5d1JkenZCd253bXFNdnFpNkhMYl8wWDlxOXhvampHYmpkbHdDc3gzRVpDZXhTUE9sdU9oRWNyN2VSSGMyWmhaLWthbWd2b0w3TDdoeDFaUjhNY09CMjJmSGpIYTV3TGVOT0NBT0dLZ0RaekM3aHJ5dERIbmJjbE4zQmRlNkRfdF8wLXVIWENoV1FwRkxCb9IB5wFBVV95cUxNTzI1N1NQZ1RnZ2dYV2Ruc2xJMFFLY3MwbXdocHBGZ1RmN0poSTVmdWxKS2VMdEZLT3EyZ1VUZ1FZTndhbk00WEtlbVdzaER6VDBCWGtieU5yay0xYm9MeWxhUTZKTE1wM1J6SHdGSThMT1JJV2U5SUdpN1ZWY2JGVkpVb2lkakJ1RlNpSlo5SEFrcUxYLWQtdm5oZkk5M2hRY0RIZkhldFIwaktWQWpGOVg5QUpsRDFWOS0wNVFuOWNObzlsd2YzSHd2RFhzTHVvRWlDeF9LNWdFUUdoMU9NQXQ4cVAzbkE?oc=5",
+      "title": "Tourist dies as Scorpio plunges off road, crashes on under-construction bridge near Himachal's Atal Tunnel | Video | India News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeFpiQ21yMVBESzllT2FPNldSVFNsUHNudjViWlpLNEU3NmxuRHV3X2s1WngzbW9VUU5ZMWd1UDk4WGlranptT1NmaENMMXJkTG9wd21ZQzN6aUJ5Nkk3VFJLSjRMYUEzb3lLdUx6WEtfRVdaX0dUUG9fZEtSLW9mZFhMNGQwRU5Yd3BDUFlwNnJ3VmhWTmlYb0RGSnlHRzZZQWdMNWVSVWlHWHRuVGZubG92MmJQRExYcEpzSEo2TmNidzlqZTdXYVpuWjhIbU85eXFsMHZUQV93UkMwdmxEMlBDWFNqOVFFUDJxcjhJcjJEQm9pTzdPUWloMEw1Uk9FeWhtNXlLOV9RN2sw0gGSAkFVX3lxTFAta09ReFFnUlM4NU0zSEpPLVE2clE4X0trU0g0MV9sWl8wQ3V4NDBjVDAzTHBfRUdjRkZVY3lmMDRtUmM2TUFfOGhzNVVvcVRHX2hrMm1tRFdueGhueFZ5blJtNDhRcGhiMjZRWVFmRENJa0pLZ1BIODkwR2E0MkhrZlBlemZZQ0FiV25GNGZCbVRhd1pQdDJ2Wll2WHNENzJlVGoyTjFNZWZhTXZNUWJ6eDRKckw4aUh3ZEkyM3FudnBzdlZESUxRcW5nUk42eE50cWgzdGVEejFUaUx1V3RDV2hsSmRGZG53VmhzbDRtczQzak9QMjJEc0QzNEg1c3pyVmtEZmY2TGpHcnlUei1leXc?oc=5",
       "score": -0.4
     }
   ],

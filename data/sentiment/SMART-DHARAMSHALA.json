@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-02T11:24:44.774Z",
+  "updated_at": "2026-07-02T11:52:16.928Z",
   "project_id": "SMART-DHARAMSHALA",
   "press": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 20,
+    "positive": 12,
+    "neutral": 7,
+    "concern": 1,
+    "avg_score": 0.15,
+    "avg_magnitude": 0.3
   },
   "youtube": {
     "n": 0,
@@ -18,14 +18,52 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 20,
+    "positive": 12,
+    "neutral": 7,
+    "concern": 1,
+    "avg_score": 0.15,
+    "avg_magnitude": 0.3
   },
-  "top_positive": [],
-  "top_concern": [],
+  "top_positive": [
+    {
+      "source": "press",
+      "title": "स्मार्ट सिटी धर्मशाला में फव्वारा चौक का नया अंदाज - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRjFfSjJQYTlGVHl2NXJPUjNna05LX201NDRSMU5UVlZxdmRwWDQ0QW5hQmNqd2JGZkVOTjhvdVV1Ykh0eDlEQ180Xzlmd3V2ZHfSAZ8BQVVfeXFMUFdZR3pxNV9jOHBtZms1Y0dnYzFKOUJmYXo1QXhILWVRMldMZVl1WWZOWnA3RUhMREZKUGp0eUZCbno2WFhiQVpxQmw3ckxWWEYtcG11cXQ4ckRsTjhiNDhPSDZMeTN0WDlzbTdsbW5YYi1HTVBoMUhETjRURVY5X1ZrYzlXcjhYVDVFSVVQVTc4OGRZSUdOb1ZEemxwVG9r?oc=5",
+      "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "हिमाचल के इस शहर में दीवारों पर पोस्टर चिपकाए तो खैर नहीं, होगी FIR - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzVTZTVxZF81bzBNX1V6cjBpak9XTWxVS3lxZnhrdGVmUDlKRzdDZ0NkNWtoSmtUUEpJeGpObkxhYmdScW44REJYdm5ETDEwNVdFMHh4RmMzcGZZdFh6ZzVuM1F1OUJFbExRQXBOWmJaS3lWNUdMQ1ZpV0Qzb0J5V2Y1U0J3bzU2bjdfU0xHUUFvMkZOcHZDSFZNSGlPWFczRG5mclp0VzYtbzZxeWtQU09RZGpCejJwZjlV0gHAAUFVX3lxTE5ELTg0VGpmc2F5Qm1OTW4zX3Q0OTNMSExkSzcwNXozaXVSSUdyRFhNS1RWTXMtYWlISDI2LVRlOFhCUGI2VEpjOUw0Nm1OOEp1Z29SNnp1VVlhcG15eVE5aTRNbEU1a3pnVWozcS1fa2JPLXdBMXd1ZmZ0NGlJMnZ6QnZSZGZSc0RlNzdadkQzbTJhUmpXX2NyNUx3ZTgtUkRxRmdhZHRLeDgwTWs2bEZLZExlLUJuN0htMUZlWVdITA?oc=5",
+      "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "धर्मशाला स्मार्ट रोड पहली बारिश में धंसी: 18 करोड़ की जगह 25 करोड़ में बनी, प्री मानसून में गड्ढों में तब्द... - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN2VCZ3ZweHFxdUF3VkZlWkRWU0otdEVHdGw4eDZkbXJPejdzdHlNSGxMQjdXT1FqSWVUSVppQjJfYmhzaTlzcmVNbzBnZ21lakNTQXUwQzZ4czRCRl9maUlONk9yUWhlMl9aVHcwNlYzYlRseUNBdnR4SXBqUldkcFVDcVRuYldwX0xVU1JBSFhreEo4NjdUWEE5ckFWblM0TzhLZVpKeDQ1aXNsWU5Xdi1pVFZjWnNmUnNBSXNBN1NmVG1PU2lwUl930gHPAUFVX3lxTFBmck9IMWRZWHBSeE5Ob2VlQndhQk44eUZRaWk3RU92MENKckRERzY4OFhlbjcyZ1Y0T2ZWVWxjN0JCZld2S0hlMG9jTnVOVkpId3dSZlpBb3JyXzg4Ym40ZUtxbC1EendaOTRrZHhwNjJYbFZmRTdKTldNNVlqQWJpTi11V082YnpWYUp2QUE0Tm5HUjg2UjBUTThTeDRpMENRT3FOTlZ0NUJkT2NyRldSZTBkZTZRdDRTcmRIT1hkRHVEYlJNY3JGNlNEZk8zaw?oc=5",
+      "score": 0.3
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "CAG pulls up DSCL for irregularities, mismanagement - Pioneer Edge",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWHpNZ2xtWkt5VS11b3UtN0hsS2trdFpxYVB4TzgxQkhfVWRiMkoweTRjWFpMZjBaSEVrYWxoVlpzdlJUNllDTmZMZkZKbFE2V2FqdVAtYmxQS0xPT184RmlPbGRoNUpvSTktLWdaNzZTN25ZUFFUZ2kxWEItVTQ?oc=5",
+      "score": -0.7
+    },
+    {
+      "source": "press",
+      "title": "10 Deputy Commissioners,19 IAS, and 6 HPAS officers reshuffled in Himachal Pradesh - HIMACHAL HEADLINES",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXBMWWdraG1yY3JYX2pER3JkX3JCTUF6RWVVRjdmemVma0hkekFuVlBDLTROYnFnSWlRSlVKOFBYZmhEd1ZjeF9RQUF4VGtGenI2Z2dWQW5kVGtUek9Ua25zMENRb25xMjh0d0UzaU5Lc3pwaVpmZldoRzRkdURiWTkxZ1Z3aXRsSko5SE5STkFxS0lSRkY3UGxMQ3lXeHludFZfMDdhNmdBWDVienc?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "Penny stock under ₹5 declares Capex expansion after closure of rights issue worth ₹149.22 crore - livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdGFScTA5MTlpazBiaFZRNHZPeUxsUG1rRTdrSlotckJUNlgxSk94WW4xT2NXNnVOZTRGSGh6MEZhM3VvQnk3eWRzNFlaV0VlZXI5MHJsbTgteTJkWFN0NHBaWTNsendSb3E0V2JmS0tWbzRaNUtKU2VPS1R2X3hWOFNrY2pXc3FwWWgwVUxwT2xVS1R6cWRxLTVzQ1hvVkxJRmRHS2R1dF9wV2hSM3o1ODN1VFVTZGhMZEEzU1V2VmhkUTJBdUxBdVcteHlyLU5ma0h2cFZPWjNjTWU4SU5CN25nQWZyR3ZTMlY1LTRvX24tUzU1aVkyek9rcEdSRlJOTE1VVk1GWU40WnhINUtKZ3habm5aUdIBmwJBVV95cUxQZ0VKanBxUm9rdmVEMUJHZ20tUmZIVGRMbmZySjYzM1VTNml1bWZ3SGdwdzF2OEpzbDNhMGZHVEZfTDNIbHExQVBXTW0tYWNCbEF2ZFVCcVJsWGJ1VzhYT1VBekt6bWlOQWs2X0ZULU4xaEZ3ZHY1WE1ENTRPV0NlLVJObWlhdEdpLUp3WDUwMmFOcV9oRWI4cXRySDd5bDJCYVRPWlV3VWdfVjNrVzJVcDRFV2tPWVp2emNjYVhubHQ5WkdnYWdDa29fNGctNnRYTDFUcF9qLVY0eHNXZFRxajdzM09PaXhVSUJwLTYtZDl1T2tjdXdUQU1JV1pTdDQyR3RQMlAxaXQtcmdmV19DemxoR1J2blpsaHhr?oc=5",
+      "score": 0
+    }
+  ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

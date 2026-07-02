@@ -1,63 +1,62 @@
 {
-  "updated_at": "2026-07-02T11:24:10.695Z",
+  "updated_at": "2026-07-02T11:52:04.385Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
-    "positive": 5,
+    "positive": 6,
     "neutral": 12,
-    "concern": 3,
-    "avg_score": 0.045,
-    "avg_magnitude": 0.23
+    "concern": 2,
+    "avg_score": 0.08,
+    "avg_magnitude": 0.235
   },
   "youtube": {
-    "n": 25,
-    "positive": 22,
+    "n": 28,
+    "positive": 21,
     "neutral": 1,
-    "concern": 2,
-    "avg_score": 0.336,
-    "avg_magnitude": 0.488
+    "concern": 6,
+    "avg_score": 0.3,
+    "avg_magnitude": 0.632
   },
   "overall": {
-    "n": 45,
+    "n": 48,
     "positive": 27,
     "neutral": 13,
-    "concern": 5,
-    "avg_score": 0.207,
-    "avg_magnitude": 0.373
+    "concern": 8,
+    "avg_score": 0.208,
+    "avg_magnitude": 0.467
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "जय मां श्री बगलामुखी देवी",
+      "title": "Excellent videography with this beautiful vlog relating to Kangra Valley and the Kangra city and the important holy shri",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "I love sikandar bhai from Pakistan ❤❤❤",
+      "title": "Amazing, loved the video, thanks for showing around!!✨🙏",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "बेटे को भी होश में रहना चाहिए था इतनी खुशियां या इतना नशा भी",
-      "score": 0.6
+      "title": "Omg wow",
+      "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Very Very sad",
-      "score": -0.8
-    },
-    {
-      "source": "press",
-      "title": "Lack of clarity on compensation mars land acquisition for Gaggal airport project - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaElDYWRGTDlrdWgyMjg0ZUw2RFBNVmVJTXc1eV85VlJjOE5rRExrc1h1OVVDNXExQXdYRlJqNDQwVjRIU1k4TUlNczZxWUxFVkJwZVd3UzlWS3c2MFNTRFVZUlRMTFNzcXFJU2RxYjMtT2hRMDRiQ20zMGtvRnl4SFREUTBwNWRydi1hQWtjemZtcHJXUmJhOUVXR2NNU25GdEJ5anh4Sl9aLXdOVUFxT1lEWnBzb2VaLUFybXI1bjhsd9IBxgFBVV95cUxPS2p4Q0k4a25WVjFKNlBNY2JmMm1adURGcmFUaW90eFZHLV9lQ0xzYjJLYzU1NHBxWWlMMGtOdWM5LTMyaHc1TExMcW9mYUIwMHJSTTJtRmFsdHlHcjViU1c4M1JsSjI5clBZUUMwUmRTRmZrbEFibzgwaV9oNl9MdENEM3NObnVRcnVvQkIzY1VnRThNb0psNlBjSTl0Ym1UbmNlTW5vTXdTNllleGtQbTMyNTBZUXRKUk5ma1N2dm4yZU5uM2c?oc=5",
+      "title": "So sad",
       "score": -0.8
     },
     {
       "source": "youtube",
-      "title": "RIP 🪦",
-      "score": -0.6
+      "title": "So sad",
+      "score": -0.8
+    },
+    {
+      "source": "youtube",
+      "title": "Very sad news",
+      "score": -0.8
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

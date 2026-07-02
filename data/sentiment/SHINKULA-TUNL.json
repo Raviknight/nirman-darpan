@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-07-02T11:24:42.760Z",
+  "updated_at": "2026-07-02T11:52:10.414Z",
   "project_id": "SHINKULA-TUNL",
   "press": {
-    "n": 9,
-    "positive": 2,
-    "neutral": 6,
-    "concern": 1,
-    "avg_score": 0,
-    "avg_magnitude": 0.156
+    "n": 20,
+    "positive": 5,
+    "neutral": 13,
+    "concern": 2,
+    "avg_score": 0.045,
+    "avg_magnitude": 0.175
   },
   "youtube": {
-    "n": 7,
-    "positive": 5,
-    "neutral": 1,
-    "concern": 1,
-    "avg_score": 0.314,
-    "avg_magnitude": 0.543
+    "n": 19,
+    "positive": 13,
+    "neutral": 3,
+    "concern": 3,
+    "avg_score": 0.405,
+    "avg_magnitude": 0.695
   },
   "overall": {
-    "n": 16,
-    "positive": 7,
-    "neutral": 7,
-    "concern": 2,
-    "avg_score": 0.138,
-    "avg_magnitude": 0.325
+    "n": 39,
+    "positive": 18,
+    "neutral": 16,
+    "concern": 5,
+    "avg_score": 0.221,
+    "avg_magnitude": 0.428
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Very good video",
+      "title": "Love to visit once complete. Incredible India..",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Great ❤",
-      "score": 0.8
+      "title": "Amazing \nMy all tym fvrt.animated videos by Study Iq ..n Adarsh sir u are describe whole things in better to better way\ud83e",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "संबंधित चित्र और वीडियो ही डालिए।इधर उधर के चित्र व्यर्थ होते है।",
-      "score": 0.6
+      "title": "Very good video",
+      "score": 0.9
     }
   ],
   "top_concern": [
@@ -56,8 +56,8 @@
     },
     {
       "source": "youtube",
-      "title": "Which month did u travel?",
-      "score": 0
+      "title": "Bahut khatarnak jaga h kabhi mat jana oxygen bilkul nhi h",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

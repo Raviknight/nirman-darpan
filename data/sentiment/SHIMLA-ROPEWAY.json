@@ -1,66 +1,68 @@
 {
-  "updated_at": "2026-07-02T11:24:51.612Z",
+  "updated_at": "2026-07-02T11:52:31.416Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
-    "n": 2,
-    "positive": 0,
-    "neutral": 2,
-    "concern": 0,
-    "avg_score": -0.1,
-    "avg_magnitude": 0.2
+    "n": 20,
+    "positive": 7,
+    "neutral": 9,
+    "concern": 4,
+    "avg_score": 0.035,
+    "avg_magnitude": 0.225
   },
   "youtube": {
-    "n": 1,
-    "positive": 1,
+    "n": 0,
+    "positive": 0,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0.5,
-    "avg_magnitude": 0.5
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 3,
-    "positive": 1,
-    "neutral": 2,
-    "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.3
+    "n": 20,
+    "positive": 7,
+    "neutral": 9,
+    "concern": 4,
+    "avg_score": 0.035,
+    "avg_magnitude": 0.225
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Tak HaiUthi Achani Uthi Burani👍",
+      "source": "press",
+      "title": "देश के सबसे लंबे परवाणू-शिमला रोपवे की बाधा दूर, सरकार का टेंडर शर्तों में बड़ा बदलाव; पर्यटकों को मिलेगी सुविधा - parwanooshimla ropeway indias longest project gets boost - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzBQNEJpdFRReEM0d2lLU3RMbjRJdThvdWJLN2U3aXhxRjZDZVZoenRraV9UQjQ5TWxzc1dJb3Q0R3U3Uzl5UXBqdm4zbUFTVGVPc3hfNVByZjl5TEM5bktvbG5ZanNTM0VvTVZFUi11ejN6aV9neVozbEtEc1VBTkdBdWlCUnBzWG5fT1JjVDVIN3FzVThUdTZKZmNmWkI0Tzl1QjN1ZTYteUNhQndVT1hlcHd5Zk1O?oc=5",
       "score": 0.5
     },
     {
       "source": "press",
-      "title": "Cabinet meeting starts in Himachal Secretariat: Proposal to raise vehicle registration fee likely; talks on... - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOE0yWEZkVk5CeEY5bDhVS1RodEtBdzZ0azVkRHRxVXhuY1padzNMSTRjU2tVU1RaN3dzLWl1SVd4b1B5Vm9IRzFrUU50N2NBekZyalJTSnZXOUJvbFFrLV9tTm1pb3lUQlFKamphbFkxdUdqOU9kcmRwN2EtVjdveTZnZnB1MWRSMzNUc1FnblBXaXBGVGg3Ykd5T3h1VWxUNjFLQUF3VWYwalVFd2g1Skg2YkQxOC1uWl9yckpGOFdkQTBZcEF1Rnc0d1JNQW1s0gHWAUFVX3lxTFBzR2l0MHVkVFI1MEhRMDFfcmExX045ZFJac1h2MkdvdnZSN1R4SmJBNjVGMC15ZEFhdDV2QWJ0alRKd2cteDdLLU9pdTNkRl9lZ1I3UWdzMjFfT0ItVjFoUU5NSzhpWmNzckw5SW50VXpqWlFMLXNTR1FkSkJiWnljbXYwaFkxZHlZQ05MdExYT2V2MU1IVmh1QWlxeW5tMUdsb3NFdG5Oc3FndWNxbURjVktyQVJNUjd5WXk4Ukk3TEh5aGNKVG92Q1FsUXVJWWRBay1fSHc?oc=5",
-      "score": -0.1
+      "title": "नड्डी में बनेगी एशिया की सबसे लंबी जिपलाइन, हिमाचल को मिलेगा नया एडवेंचर हब - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSC1oT0t0T25kZzBqZHA1SlYxTjhRUHVwWkVOYzVYU3l2SzJFTWxVWlk3RHBHYlBzVEZhaDZRalRtNUFKelQ5NzlFZTBIcDVJN1d3SUF4eEN4RVk0SmlCbEhnc0YyRkNWRkJNQVJZbTVqMEQzcjRQRklfNjNIRzVJZFFWX3pLUFAwbkVpTU5GTTBOTXc5ZXgtVEZTMWdJWlBkN0pkRVZBR2JET2I4by1heXM5Q21QNG4wZUM4TGRoNldMZEpPeDV6WGh3UDY2WGJzX2lhZl9fWFlsSW9tUWxvUlYtdnRVYl8tU3g4Q0U0eXXSAfYBQVVfeXFMTTUzOGpoR21vdWFDdElVTXZtdm1rZzZmLUJKWjNjbFNWdEtCSndNeDhob0phV3JHbFpDb1ZhSUFxWFdlUGhBUGozcDF4ckYyLXExLWZybTFUYXZkZ1hCVzhMNnJCbjRhc0VoV29nOHJkcndfRWFOU0dtb2dJQWFvVDUzUDBkc2xOaDhwc01LbEg5cWpyM0FMRlViQzRaVTlkd0EzT1hJNEtmN082NXprNnpodmtqcWtzaEVDUnF4OXdZZTQtZWVWdC1lbDRnbS1xNUtOdGIxNE9VMUd1QUtiZ3dFN0RyVUFPd3pwOW53VGFEZktIMmF3?oc=5",
+      "score": 0.5
     },
     {
       "source": "press",
-      "title": "Single-bid system delaying Shimla ropeway project: Himachal Deputy CM - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnZacm96NDludmI5NnAtSDI4QlNjcHBVbnc2UnVhNmJDQlZxQUtsNWE2dWZYS1JHOUM1N253MWY4NHBNd3A4Wk1sSmJqMFdjX0Z1eFRlSmo3RHgzOTZ0bVJGR1FxbnZwdUlWdVBVUGVYUXpYVnE2RUpZTnQtQ2cxQ3dYUkh5UWlJd2xQSUNjUng2UXhjUzlOTVV6YXp6MWMyTVJYSzg4U3E3ZWluRlJYSVVxR0ctSGZEUHhlek1LVEdUbTFQbFdkOEp30gHQAUFVX3lxTE4yUTF3M2lpcXJyak5GM0diZEt4c1E5VTVyWmVja1NIY0R4aGYtT3lpTlFDbEJUUjFCZ3o5LW93M2ZUMlc2MkhiUnBwekRpV3ljREJPdlQzTVhHVmtBWHR0dnRrcGkyYjdYRi1mdVNsanhGUTFrTFJyeDVDTm5VMVFMTUdYeUkzTjhkNHhjUXhLRXE1YmhKU2otZVc1N0o2Y3F1aUF3c3Z0alFRQ0cxRHd6eWNXcVp4TzhEa2o2VVlBdmd4TTZubTlncF9fUVp2ZnU?oc=5",
-      "score": -0.1
+      "title": "मौसम की दुश्वारियां बरकरार, नहीं लौटा जनजीवन पटरी पर - Dainik Tribune",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVNzcW4xRTZySEcxMkc3Z01oZC1LSXJkOEppaEV2dms3cW11VWZxcE0tdW1RZi1oYy05eHM2VHZkN0o2NndfSlllaGxkNWJSYnQ5UDNIcVBvak9YNDhaaWwyQ1l0aGhOWHRLbDE2RHFXZFVqWmFGeXdTZVJuakpKMkhJV2RRM0dnYXJzRTZ6VlNxQlFkYXFaenBKOTBHVnct0gGkAUFVX3lxTFBtUW43VVlBSnpQLTVORDNRNU5ZemZWT2dMRDMxWVNhR2pwOXpzUmJodU5kaXZ3bmhBYldHSW5DNl9SSWtVaGtneVZyQjhrM2w4V1NuOXMzdUk0c2tLZVNqMGQwdEY5Q1U2TWRQZ01uQl9fNlFHS3ZvUVd3eUVYcEFHWVIySmx4T25YQ2xTMjZnWUFUVTV2TXFCeVlCMXBGLWZtOVZw?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Single-bid system delaying Shimla ropeway project: Himachal Deputy CM - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnZacm96NDludmI5NnAtSDI4QlNjcHBVbnc2UnVhNmJDQlZxQUtsNWE2dWZYS1JHOUM1N253MWY4NHBNd3A4Wk1sSmJqMFdjX0Z1eFRlSmo3RHgzOTZ0bVJGR1FxbnZwdUlWdVBVUGVYUXpYVnE2RUpZTnQtQ2cxQ3dYUkh5UWlJd2xQSUNjUng2UXhjUzlOTVV6YXp6MWMyTVJYSzg4U3E3ZWluRlJYSVVxR0ctSGZEUHhlek1LVEdUbTFQbFdkOEp30gHQAUFVX3lxTE4yUTF3M2lpcXJyak5GM0diZEt4c1E5VTVyWmVja1NIY0R4aGYtT3lpTlFDbEJUUjFCZ3o5LW93M2ZUMlc2MkhiUnBwekRpV3ljREJPdlQzTVhHVmtBWHR0dnRrcGkyYjdYRi1mdVNsanhGUTFrTFJyeDVDTm5VMVFMTUdYeUkzTjhkNHhjUXhLRXE1YmhKU2otZVc1N0o2Y3F1aUF3c3Z0alFRQ0cxRHd6eWNXcVp4TzhEa2o2VVlBdmd4TTZubTlncF9fUVp2ZnU?oc=5",
-      "score": -0.1
+      "title": "Shimla ropeway faces funding hurdle as costs nearly double - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUszVGpCZFIyRzVJbG15Uk5HY3JLTXRiZ2kxcFY4aGRxdmgySGFNZ2ExcUM2ekU5djFrX0hUU25kcjZzQjAyY1pRdEN0c2xHUVBheDRvdG5IMFM3REE5b1NuV2JFZGJFejZfM1N4VFRTZkV5bVFNUVhBYUY5WVdHMC10STdtQmw3LVdiM3pfLWg1cUdtMi00Q2lmc1k0VmxJUElSNtIBqAFBVV95cUxOU25uZE5RdTZQa1ZZcmNMX2VDRVgwQzE0ZDNXSVlVQnJmeDdBcTFPUm9CeDB3a25uNUg2R3NwTktvcjVSbU1McVhIM2ZMS1F5b3JDREtqdjQ5VW9NSU1yQ0R3amdSM3p3MGFnUnU1NzQ4RmFYZXFOUlRIR1FtN3NhQkFSaDl0RjBlNmIzMXN3Wk1BTm9iQnliZ3ZoWVRmZkRfMUJpUmNDckk?oc=5",
+      "score": -0.8
     },
     {
       "source": "press",
-      "title": "Cabinet meeting starts in Himachal Secretariat: Proposal to raise vehicle registration fee likely; talks on... - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOE0yWEZkVk5CeEY5bDhVS1RodEtBdzZ0azVkRHRxVXhuY1padzNMSTRjU2tVU1RaN3dzLWl1SVd4b1B5Vm9IRzFrUU50N2NBekZyalJTSnZXOUJvbFFrLV9tTm1pb3lUQlFKamphbFkxdUdqOU9kcmRwN2EtVjdveTZnZnB1MWRSMzNUc1FnblBXaXBGVGg3Ykd5T3h1VWxUNjFLQUF3VWYwalVFd2g1Skg2YkQxOC1uWl9yckpGOFdkQTBZcEF1Rnc0d1JNQW1s0gHWAUFVX3lxTFBzR2l0MHVkVFI1MEhRMDFfcmExX045ZFJac1h2MkdvdnZSN1R4SmJBNjVGMC15ZEFhdDV2QWJ0alRKd2cteDdLLU9pdTNkRl9lZ1I3UWdzMjFfT0ItVjFoUU5NSzhpWmNzckw5SW50VXpqWlFMLXNTR1FkSkJiWnljbXYwaFkxZHlZQ05MdExYT2V2MU1IVmh1QWlxeW5tMUdsb3NFdG5Oc3FndWNxbURjVktyQVJNUjd5WXk4Ukk3TEh5aGNKVG92Q1FsUXVJWWRBay1fSHc?oc=5",
-      "score": -0.1
+      "title": "Shimla ropeway project hit by delay, cost soars by Rs 1,000 cr - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1JwN0NEMDdKbl91REFoN2pncTJhamtTMVcwOHNoQ2V4dkNMLXF0N05XbnZyZWRoTVVkeU5Bb09HQTd6YXhmX3RrVDJmajRBUUVwSWdFeXp5YjNFam5MZzdBcEFiaU1fMlcxY083dlJmSF9YcEVRY1dwbV9WaDZDWVlUYmJ5cUVPbnpSeWNZSTA1YS05VWlyb3ByWVVrckUtdUs00gGnAUFVX3lxTE8yY2RrSkRRdWZKQ21mTHlmcUtTTnJkQ0hKTHVLVmJMT2Q5OHctSnc1Z0ZHM3pzMmpJTUljSFZ4S0NTUVpqMEVncUh0QmhrbjhnelBPSjYta1dKWGFtb3AxejQxaGJLNDduZTFfYXp6anpNTllRYVpIQlFGUnppNHA3ZHdtZnlsLVlJRlVBOTBFcGI2SjY0YmlGOVRNSVZZSzJjS3lPMV9Z?oc=5",
+      "score": -0.4
     },
     {
-      "source": "youtube",
-      "title": "Tak HaiUthi Achani Uthi Burani👍",
-      "score": 0.5
+      "source": "press",
+      "title": "Amid Shimla Ropeway Facing Cost Rise Over Five-Year Delay, Himachal Pushes Air Links, Clears Asia’s Longest Adventure Zipline - Swarajya",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ3pmXzF2eExEc1V3WGN3RWsxM28yRF9zd0pUOW9mWEFodVpjMG1wUDdwZW85Qm9LX3RVcmFoNzU0YlMtTFF3dGN4bWYwQ1pZTmt5ZUJad1Vid2kzcWdYakJORnZ1elptNGN5S0wzSFJORHpWTHh4SmhtT09jeTAyNFk3S0dtcGNiOVdmdG9rbkJka0NCemVaUDA2UFJLNzRUQjdRYnVUQ0FRdGQtNTdpRGZyMjNlRWNOOVlzTGlHY3JDRW1fSDZEcnVzMlZWM2NMRWtEQkh6c1FEU0dDM2N4Qm5mT0NTUFRLZ1pLUWlR0gH-AUFVX3lxTE5TcVNiYkxVS09SZTJlM0JSbzlLdW1TejNzcll2QnhsZXFxTXhxV0RuaEdKa1JkeFRJbzRxUG9pWFBIaHV3MDJnUjBnaEdRWnRETUVjU1ZucWRYSjNVRnUyY2FRUm5OSmNWd3RvTXRDdk5MQWtsTFoxMHBGWHZQQ3Yxc21XM0VuRHpxblpZbDdZNGxMY0NhTmJOaG91aHpJdEdOSEp6TWllZzVPVzBuSEc4ZE5WMHNtaTRtUTg5MVhVVW8zd1Y4OXZmVmYyS0I1clJXY0lLVHpCdG5JbEpMcVVyS015SnRxUk9Yekl4bXdTZjBlWG1DS0ZkcGVud01B?oc=5",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

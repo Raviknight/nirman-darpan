@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-02T11:24:38.815Z",
+  "updated_at": "2026-07-02T11:52:07.131Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
-    "n": 19,
-    "positive": 8,
+    "n": 20,
+    "positive": 9,
     "neutral": 5,
     "concern": 6,
-    "avg_score": -0.011,
-    "avg_magnitude": 0.253
+    "avg_score": 0.02,
+    "avg_magnitude": 0.27
   },
   "youtube": {
     "n": 0,
@@ -18,14 +18,20 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 19,
-    "positive": 8,
+    "n": 20,
+    "positive": 9,
     "neutral": 5,
     "concern": 6,
-    "avg_score": -0.011,
-    "avg_magnitude": 0.253
+    "avg_score": 0.02,
+    "avg_magnitude": 0.27
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "कछुआ चाल से चल रहा पिंजौर-बद्दी-नालागढ़ फोरलेन का निर्माण - Dainik Tribune",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGo5ZnYwM2dvX1dWSG4zcVV6THZ1TnRNdG4tS2VQWFFsdUZacGFsaGFqcXhoYjJIbTVaQ0J3TU16d3F5UVZQck1GWDZ0bFNWYTYteU5uVWQyVXBwTEtkWThrWF9TbGhSRDlwdHNKaHdqc3JqczZvbkhVSHg1X0xMT3g1NGNiSzF6N0c0Y2RzWnpOUnNqZDE3M3VfYXZaNEJ3a2h2bHBrSnhZRlZCd19tZlZ0OEUwaWtCaGZVZElBVVNJSHlUNnBEZE4wQlNRQdIB0gFBVV95cUxNM29uSHVLMEJaUk02NHpaUThKZlNuVlpsZlJsRG1hS0xFZmVKY3VJdUJSZEs0bXlIeWptRkV3NTNkT3pCdENITFRsZXdWcElSUkNsNEdzWjA3ZmNwM3ZyMjVtVDdhUGg4NzRQNEljSjlKYTIyODc0YmI2emY0R1NuU0VWQ1UybHU3V3g4SVA4Z3owb19tc1hZZUkyLUNXZWdzUzZHMFFIeGJ5eHZ4bXhEdERRWGtqNk1kYU5OalQ0TFYySWdaaUpmRlFtbkhfc0lKYkE?oc=5",
+      "score": 0.6
+    },
     {
       "source": "press",
       "title": "नेपाल में सड़क किनारे खाई में गिरी यात्रियों से भरी बस, आठ की मौत और 16 घायल - bhaskarhindi.com",
@@ -37,12 +43,6 @@
       "title": "पिंजौर-नालागढ़ हाईवे के फाटक पर तीन दिन तक सुबह 10 से लेकर शाम 6 बजे तक बंद रहेगा ट्रैफिक - Dainik Bhaskar",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZ0pyTVFCSEdUdHlrZ2V5TGlac1A4TUxnemszcWZnd1dsZFFUelFNeEtIZS1EUElSR2ExOFp2NGxaN083R01fM21NMjVzZ3MyMW9OUjVNbTBad2pDd252Z09jVmtYR0NUYkxMckdOR2k3QWJtX25HdnNpTkk0OGlGUDI5YWtxdWZOYUdsU0IzbUtXNFdpUmdhZzhIamNEamNJeXNwN0VOdTJOZFFCcXl1X1NmMGx0TXgxcjhpdGNFLWstUlZFQ3JfNlUwMnZHbTNlZVR2X0trQ3g0eXNXV0pyQy1ldGNWV01XRmNxM1pjSWdBQnFMY2lyR2liVURUTTdMSjBzeERGMNIBjAJBVV95cUxNQ1FPMU9XTk9nR0s1SlJWQnZTUmR5Y0pWZjJRRjJWdlp3MlNtblZXUUw5UGRWdGNDbDkwbXpneDFRUzlLWGtWZUVlQ0hoODRPWHI5TFNrWlh5dThBWUJidmthbWdCbjFMY29keER1OXFuazJqS3duVHdOUUowNG5sNHZGSlBzcER2S09OeUtSVGw2MlM4bXg0NWNhQ2FMWXpNd0VjNzNQc1NFRzJaN3duaWtPQVI4RU1wTF9LV0VWZUgwQmhrWTVGLU5xeW1GeUo4UWFJMWdkd3h4QlhQS055dzNwRHhSX1BDSU9QcEpqRGhFUkxrYlJHN2dpcll4MXpmemxJNXUtdldPZGxa?oc=5",
       "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "नेपाल के बीपी हाईवे पर 300 मीटर गहरी खाई में गिरी बस, 8 यात्रियों की दर्दनाक मौत, 16 लोग घायल - navbharatlive.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2s5aXdtQXVDX0xydFI3SVYtNkI5MERUM2dwQmdEZXQ1TVJnbzZMTVN0Q3hyNjBpYjdZRjZrZUFOTU1fTHlIQUs4aFRIcXNhejZmTjA3WnZiaWJJV0JJaE1BQzZ5QzhzQV9PVFh2dEVUcUlnWlJiVlViSzktUFRwZkxTRkpvalk2UWNtU0tmdWtMblBQY05BZFNYdC1hNGpIYVlzU2ZBb1FaZDTSAbABQVVfeXFMTzNLMVRUT1VEV0dLQUhFTWVob2lEX1FjMW5HTFBiV3o1cWxDUXFuQUEwSkwwbTNXR1dfRmdNdzVia0JCNHFFVlcxNm5fUHFoTHBLd2xLQ2RlYjduUmlaSDdTeGtPdmpjN1ZnUzZFMm9YS1dpeU16N2d1ZkNaVTJjZzhvVkNqSlVaYlZmTE9SWkVNOHNzNE1KbDZpenhNZVBLaV9WeU1LWEdYSjA5eEZYeDY?oc=5",
-      "score": 0.3
     }
   ],
   "top_concern": [

@@ -1,63 +1,68 @@
 {
-  "updated_at": "2026-07-02T11:24:49.663Z",
+  "updated_at": "2026-07-02T11:52:27.018Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
-    "n": 1,
+    "n": 20,
+    "positive": 10,
+    "neutral": 6,
+    "concern": 4,
+    "avg_score": 0.085,
+    "avg_magnitude": 0.315
+  },
+  "youtube": {
+    "n": 0,
     "positive": 0,
-    "neutral": 1,
+    "neutral": 0,
     "concern": 0,
     "avg_score": 0,
     "avg_magnitude": 0
   },
-  "youtube": {
-    "n": 4,
-    "positive": 0,
-    "neutral": 3,
-    "concern": 1,
-    "avg_score": -0.125,
-    "avg_magnitude": 0.175
-  },
   "overall": {
-    "n": 5,
-    "positive": 0,
-    "neutral": 4,
-    "concern": 1,
-    "avg_score": -0.1,
-    "avg_magnitude": 0.14
+    "n": 20,
+    "positive": 10,
+    "neutral": 6,
+    "concern": 4,
+    "avg_score": 0.085,
+    "avg_magnitude": 0.315
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Dehra Mein college banaa hai Intercity college",
-      "score": 0.1
+      "source": "press",
+      "title": "'मेडिकल कॉलेज के 60 करोड़ के फर्नीचर टेंडर में गड़बड़ी, एक फर्म को फायदा पहुंचाने के लिए बनाई जा रहीं शर्तें' - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWxvZ2F5S1ZXbjQ5cnE2bFRNTFJkUXdpcXFQa1VxYmpPRmxKTVRJeldkRFlXazF2YTVsZzNrWUZfRFRnbEI2OWtON3VibHBoemxxVXgxNWlVT3ktS3lVMzN1ZUVMMFhPSWhUV00wVHAwcGxBSkdsZk5nYnBNYnl3bC1MYmpZcWVXUzlSNlF3MGY5RlpOUlNwd3Nhd1pTd0YxQUpjbllpY1VsTk1RakgxbXlnd1NUSGx1ZVFUZHBlMGxGZUhZb3pfcGEteHJrREdIRVluNmt6SFJVMFVzNmktSVJUS0RWeTFPNjBlOFdOLVV0akoyN2ozUzZKcENWTWVfQmh2dNIBigJBVV95cUxONlJhWXdNLWJyVkx4UXhFQmtEYTJPXzVDY01VcFFhYlcxMjNmWGhiQ04yT2tNUkJZZGJkOXBYMWRhaXV2MGIyeGZzMndLcGNaSEV2dDd2bFB0VEpWWk1jRDFfUjJ0NEphenp1Z0NncWV4WDBnck56c1pWeFJXMHo2dWQ5LWJhdHlmSjFEdF83ZjBqRmt3NVVBZEpZMGdwNjlQV2lxczh0N2w3MG84NEhVTDBQX0JJWXk5bGl1Y1B3VU9IWnZtYWdTV2dSaXk2eVFtMjhEck5UQ25uVllqSWp4ZVd3RklmU1JacklGVi1Nc09jVlFqbVN0R3pGcDE5WWNEaUdFeDk5OEhEQQ?oc=5",
+      "score": 0.5
     },
     {
       "source": "press",
-      "title": "Health horizon expands: With Rs 350-cr campus nearing completion, Hamirpur medical college prepares to shift to its permanent home - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQX1psSGFXMUVrRWlsX1VUN20tTlE2TmFoQ003a0dwT29oNjd6TWxRVG5xWkRKSEIzM3B0ZFBOVjdTM1F4NlhUaVVnRjJ5MUpGcVVRSFVpVVFmYzhDMm5la01tbDNhVkF0WEdQOEhELWlidGlab20wZ1MwTGxyQmVJbnM4TGd6dVRVdm90Ml9OLUJ2cG5RTlQyb2NFTnRnZHRfck04eXpKWlNNbHZjczAwY2ZicjlRWUJaMzVobDYtaEo4dzJQTEZUZURvYUt4UUxsOHBvTmo1RVpIUzVqVkROeVRRQ1Zud2ttcnhfVHVpYlY4QXB6dGVjMHhoYnpIYmY3NWxiX29R0gGGAkFVX3lxTFBfWmxIYVcxRWtFaWxfVVQ3bS1OUTZOYWhDTTdrR3BPb2g2N3pNbFFUbnFaREpIQjMzcHRkUE5WN1MzUXg2WFRpVWdGMnkxSkZxVVFIVWlVUWZjOEMybmVrTW1sM2FWQXRYR1A4SEQtaWJ0aVpvbTBnUzBMbHJCZUluczhMZ3p1VFV2b3QyX04tQnZwblFOVDJvY0VOdGdkdF9yTTh5ekpaU01sdmNzMDBjZmJyOVFZQlozNWhsNi1oSjh3MlBMRlRlRG9hS3hRTGw4cG9OajVFWkhTNWpWRE55VFFDVm53a21yeF9UdWliVjhBcHp0ZWMweGhiekhiZjc1bGJfb1E?oc=5",
-      "score": 0
+      "title": "मेडिकल कॉलेज का श्रेय लेने की मची होड़! CM सुखविंदर और सांसद अनुराग ठाकुर आमने-सामने - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTTFwRk9ydG14cVRQZktNd3pPVDllcVdfMmRQbnBFcFlSM3ctaEFfbERsLWs0VGxPdzIySGRsam82TnpfX1dTcEdZRmhjWmFHMW5abTBhaUk1eGtnTmJlNDg4QnI4NzhxWnhsYk5yNmJjRk1Wa1Rjbzl4Qmt5cHgzSlJBZWl4b3V6ckFsOUVQc1RtbXgwRjV5WmtBTVBWb3U4MDdXSkd6ZzcyNElSejBGMXNncWdUVzlNZ1BUQlR0Tk9qaGQ1SzVOSTFSenV1NlXSAdQBQVVfeXFMUEZEXzIwNGljQzBENHF4S09JaGxNQzc3cEh0MXNLRzBsV1E2MEZjd0xvaFBacUtDZmVQUUpjRUdjLVBiRFJRc3FfaG5tdTJzR3owTlVLNWJXcWZsN2staGxvYUlDbFJwTzJsZjBYLVRMcDNHeXNSTHlkWm5TNEpiaDJoY3c5QnFkclJTVlZyUUwxUW5uLUVtaTFYeEhldjFqVUpsaXdFTGZLdE9LSGJwTjhkQW5ZbE9YRVFXSndSalp3RUpJczFHa25ZSHEwU0FMSVVRU0I?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "When will new campus shifted?",
-      "score": 0
+      "source": "press",
+      "title": "8 साल से अधर में लटका मेडिकल कॉलेज, कांग्रेस सरकार पर बरसे सांसद अनुराग ठाकुर - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNemRETzZxX3JZaDVpOVVUQm9JU285TDYxcUJwT08zR3dqQUM3VDVfUzlNOHFFcTh0WE1OYkpxUHF3Q2Z1SE1OT3o5a0U3VUhXYlgyRm5uM3hFQXY1WEE4a2FkZnlzSGVCYk52ck16VG12WFBCNlVsVGRheUx0V0VfRGVlTkJKdmtCSERoSjRyeGhEb3pnLWp6dWtQM0FOTXd5SDhiVTA5Q3IzbzkwZmtvQVFVaFdyN25j0gG-AUFVX3lxTFBRT2RNWk04UHRqQXRyQnVxRmx6b19lYnZpa29vejhXQmxlZmZCcmNrU1g1NjZqNXNaV0RXVTV6NzYzai00MWJtMzNqSmpYTHh6Y0t6NmRJQmtOT1RHV250cTljVGM2VGlYaUVWS0lKYndXQ1M4WjkydmdrbV83U2p3TUxuVDdMQ09ORTRhaFVMZVU0Vk5WcHVKOU01U1BqRVhKRlZqUTUzZDZZLVRLdDlQaURiak5yMzVURzRXaFE?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
     {
-      "source": "youtube",
-      "title": "Dii cut off rank for state quota gen?",
-      "score": -0.5
+      "source": "press",
+      "title": "Mother detained for allegedly abandoning newborn at Hamirpur Medical College - Medical Dialogues",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZWIzMmxaWC1CbzFnaDJoSUl0RzNSY3pwaGNJeHVNdm5qTDZMazdWV21tMzlRZ3pxT1Fzb2FENHBnNVBmQ2FEYUhmLURTaDFtWXNRZUw4Mk5rMk9rU1dDUm9NZW5pU3lBTF9JMmg0OVVubEdhVjJ1c19PWUs1ZEEtbTRnQnNwSjBzT29qZ2l2VS1Na1hjWWVlNnEwUWlERDgzMHhVUzRFMlNmT01SVGNFN3FaUjQ5aWo4VUdoMEtMdUwxWGtqWlFBNVFoZHk1MV9xOXAtM2FibDlmeTFJ0gHiAUFVX3lxTE1GQ05BejVXVEQ2ak05TXZGSlRnUUNwbGxqbWhNZDl6T1l3bk95R01mOEpFYXRaRGE2WDV3SG5UZ29uVUtGeGdyUTBJSXBhaDJxeHpGNFRqNzk2dlAtdHhTQ3VkeW5yZ1VjN3FMVU5iYVR3THlTdTNZSnI5SmI4YTZfTnBzUlUwdVZ5QnJuVnVzQVRUVGJhcnF4XzdSMTBkQmMxTGMtLUVlMnRNdklqQTN6bWF4WHJheE4ya0NEbndhYnlLZ0xWdFhYY3BuLTlkWm8xSmtKUXJQQ0RRbG1FLU91Q2c?oc=5",
+      "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "Does the new campus include a hostel for students.😊😊",
-      "score": -0.1
+      "source": "press",
+      "title": "CM Sukhu trying to take credit for Hamirpur Medical College with no contributions: Anurag Thakur - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzk4Um5nSFI1eFpkQzczTE5qaFVMWVRCSTQ3VktzOFd0cjU4R29UcXVpTTFLUGhQUTVBUlNrTndqdDhXQkdhSjV0TnVVY1BvNDNJZGxVT0ZkU3k4RTY3YVBVOXJ4Z3gzdm1XZkFuY3kwN2ZPWlFtaTh4OGlkeDZfUnBMNlZCR2xQQ19iY2F2dWJCZDJTZDRfangzVWtXQnNfcEFSZURDYXBScGthdTlackE2OU1VSXZuVm5XLVdteTcwdm54c1plaHJR0gHPAUFVX3lxTFAwQUlYZzJHOUNLQV81cjgyaHc5TWJkLUlJMTJfQzFHQ3RwVzhmNURxRjd3RnFpVzRCOXQyR3J4V3Y2VlhTRWc3ZUtwUnlPejMxM0ZtbEg3bzgyaTBnWWZBUjRUNzJ2OW4wczhzbDhiMjVrdWN1UVQ4V0tGV0U1Ty1TdGV1MmJycHByLXBUZHB4X0xseGhmOGZYTnZPYzdNWmIwQV84dlpPUEJWOUk2SGxhWkFvaFJ4bmpMLXpYdGZ6MkdpcW1JNFZyR0hvaU1ETQ?oc=5",
+      "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "When will new campus shifted?",
-      "score": 0
+      "source": "press",
+      "title": "Anurag Thakur questions delay in shifting Hamirpur medical college to new campus - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNS1JUjJNcWlZTWI0VE1FUDZwMXI5ZjdDNU1uY3BrQkRsdnJNYWZ5Ti1jQzJCcDZpYlNaUUxrcW1UTGFDUkstYUlkOUpWaGtZSzdsQUgxOUQ0aVZoN0hpYS1fOEJDemRqRFYyZklWTXpZRkhaYVRXS0pnbDBWVnRPckNtV0tnUzgzVE91dWltcE1lWnJhbFBDTkJOaVNrY0FVRVlaMVgxcFRQQjRidEpKaWx0cFR0d9IBugFBVV95cUxOakw2Rll6c1NUbkI5bHBrbG1zTFl6Q1FMTzEtQUJsamFqejk1Z3NXYmhUaVBIYWJCQS1DV0FxSktRdXdCdzA5SUJGUTdhbUN5YlRFNjk0QlhUazJNRzg2Uk5xUFhIcm00dVhmYThlODBnOFByV19DZWwycmVtUTlQLVM1YlRaejhiUEN2czVscTVOalV3SlNqQ2pIcWdkWU5uZFBHMUt3RTY5SzI4emtvNkRQa2pnMWw0YUE?oc=5",
+      "score": -0.3
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

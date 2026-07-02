@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-07-02T11:24:19.298Z",
+  "updated_at": "2026-07-02T11:52:06.402Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 10,
+    "positive": 10,
+    "neutral": 9,
     "concern": 1,
-    "avg_score": 0.135,
-    "avg_magnitude": 0.175
+    "avg_score": 0.155,
+    "avg_magnitude": 0.195
   },
   "youtube": {
-    "n": 22,
-    "positive": 16,
-    "neutral": 5,
-    "concern": 1,
-    "avg_score": 0.386,
-    "avg_magnitude": 0.423
+    "n": 39,
+    "positive": 21,
+    "neutral": 15,
+    "concern": 3,
+    "avg_score": 0.249,
+    "avg_magnitude": 0.321
   },
   "overall": {
-    "n": 42,
-    "positive": 25,
-    "neutral": 15,
-    "concern": 2,
-    "avg_score": 0.267,
-    "avg_magnitude": 0.305
+    "n": 59,
+    "positive": 31,
+    "neutral": 24,
+    "concern": 4,
+    "avg_score": 0.217,
+    "avg_magnitude": 0.278
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Aiims Bilaspur is also my dream medical college 😊🥺🥺",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "AIIMS Rishikesh & Bilaspur offers amazing scenic beauty.",
@@ -40,9 +35,19 @@
       "source": "youtube",
       "title": "❤❤❤ so beautiful Bilaspur",
       "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Big fan sir \nGive me a red heart",
+      "score": 0.9
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Kash govt esa room iit main bhi de .iit rooms quality is so poor",
+      "score": -0.7
+    },
     {
       "source": "press",
       "title": "Manikaran road mishap toll rises to 3 after injured youth succumbs at AIIMS-Bilaspur - The Tribune",
@@ -53,11 +58,6 @@
       "source": "youtube",
       "title": "Ye aiims ko dekhte hi pyarr ho jata h",
       "score": -0.2
-    },
-    {
-      "source": "youtube",
-      "title": "Pls bhgwan ji 🙌🙌🙌🙌🧿🧿🧿this time 2026 🥹",
-      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

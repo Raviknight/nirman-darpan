@@ -1,64 +1,68 @@
 {
-  "updated_at": "2026-07-02T11:24:03.781Z",
+  "updated_at": "2026-07-02T11:52:01.627Z",
   "project_id": "RENUKA-DAM",
   "press": {
-    "n": 19,
+    "n": 20,
     "positive": 5,
-    "neutral": 12,
+    "neutral": 13,
     "concern": 2,
-    "avg_score": 0.063,
-    "avg_magnitude": 0.153
+    "avg_score": 0.06,
+    "avg_magnitude": 0.145
   },
   "youtube": {
-    "n": 7,
-    "positive": 4,
+    "n": 0,
+    "positive": 0,
     "neutral": 0,
-    "concern": 3,
-    "avg_score": 0.129,
-    "avg_magnitude": 0.914
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 26,
-    "positive": 9,
-    "neutral": 12,
-    "concern": 5,
-    "avg_score": 0.081,
-    "avg_magnitude": 0.358
+    "n": 20,
+    "positive": 5,
+    "neutral": 13,
+    "concern": 2,
+    "avg_score": 0.06,
+    "avg_magnitude": 0.145
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Thank you sr",
-      "score": 0.8
-    },
-    {
-      "source": "youtube",
-      "title": "Good information about these dams.",
-      "score": 0.7
-    },
     {
       "source": "press",
       "title": "लखवार और रेणुका परियोजनाओं में यूपी के 717 करोड़ अंशदान को स्वीकृति - Live Hindustan",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT1JnbUlFZUNIdE12LWlKNDRaaHZNUjFnSUdoRmFkWEQ0bkJZaHU0T2tmaWpCNFpXQm5pZ1VSd2dzV0lrZ0FpYkUwN0wyQ3RtV2xtZF9jVG8xaDZGdlg1S1RQNzZjazcxMTRaaFZQRGM1Q2hEX3U3MUtuaG9zam04NElIZXZYeXpKaGF2eWpTWXNZTEo1eTh6ODVYbVlmdnZYWDNOMXNoNWM1ZUFRZ1h2aHlIXzM5UnNMVHU2LXQxaF9BSG9SUlV0RC1mQllLcWhDUUY5ZzB2U1ZwNXlVSGQ2X1ZFTjNnMFc3MDhISjJyTFB5bXA4NXJvSU9lVG5xb0nSAYQCQVVfeXFMT29xSjBtcHV1bWFSUWNBbVZnOENuYXBZelhrekZ5RG9tRUNFeVVkLVh6alBwX3doYnRDZXRZRmpSdWtZeHU3R0JqaVFOa0ZHOHUxdzdGSUxEX1J5ZkNNNHp2TTJZU0o0YVdJM2xzOXpTWVBVamJpYVJ2Vk9MLUw3OVdyZWprYV9yVU9ySHpZdHJ6MzRfRkJqc1BLLW9lMVFSdjBWX2ZIWVBtR1FOWElTeGM5SDBrY3h1akNqZWRrWGVkTlhYaEJnSWpTVEZQemUtcDZ4TmhxeUlPbUt3Q0dRdUpfeWRtMDU3SnBaemFMQmhXbHY2NU1jQjhBbThsMnpNQ2stM1o?oc=5",
       "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "दिल्ली के लिए बड़ी राहत, भीषण गर्मी में भी नहीं होगी पानी की किल्लत, जानिए क्या है प्लान - ndtv.in",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdTdJWTZOemxjMTlpV3JqUDFKODM4ZFU3c24xYlB2QThINVpkcmxna0M2b2RwYUJxT2RYQ3h1dUZ4cTVYQU5HMTBqcHE4b0l1NG9XN25IdVRpSUpkNWwyUEw5N0xyd2EwYmdsSUtVMWFfWFJIQmFiRWJqUm9vWVBRTFZfQjJyWFc0Q25TeXBwd2h1ZzNKb1p2dllmSmF6RDhrNXh0VkFGRXBqVzBKZGpmLW00dS1kZzhhcTZhQ0dUcTNfYmplYkt2Njg2MlNCdjNwVHd5Q1FnZ01ZT1hhZ3ow?oc=5",
+      "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "Patel Engineering wins Rs 230.7 crore Bhutan hydro project package - Power Peak Digest",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTFJsakxlVkJHY3FoaHhJQ0c2ZF80Y0tqeFdRdlU2MVNkQzdGMXhsMkRDUFluOTlNNG92TE03Z3JqeG45d3dockhSVWR3cHgyc0owWkZpVVNMaEN5S3FoMHNNTVVieWhQUjRtY2VZRmgycFoyWm10eDMyUTBqS1VWeFJubTJLUVI1elR3eGxxbjhVUjBEZzNtZURKYw?oc=5",
+      "score": 0.2
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Lakhwar is 300 mw project not 927 mw",
-      "score": -0.5
-    },
-    {
-      "source": "youtube",
-      "title": "WE SHOULD COMPLETE LAKHWAR DAM ON MISSION MODE IF WE WANT TO BE SUPER POWER UP TO 2047.....",
-      "score": -0.5
-    },
     {
       "source": "press",
       "title": "Lakhwar dam delayed by three years, hits Delhi’s long-term water plan | Latest News Delhi - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTmFRSGFBckk1amlpQ19mTm9CZ3Z6VGJJN0hQNVktdmFBOEJ2YlRKRldHMWVySVdIZXBKd2lKTDVvX2RuYzk2WTUzSFNKTEE1T0tBV0ZaS0Z5WXJDSmRuSklCUFVmNHN4WnZzU2JqS3REWmg0OUdsZW9fdm5QR215R3RBc1doOGlNZkZuMzVsMjhUcC05TG4zeDMydXRXeVJRbXBpOWpXQkhpeHJqUGVwWDBfQ2VmTVM3LS1JZ2NUeGRUSkxIaWV6Sm5QQlJHODJHNDVqedIB2gFBVV95cUxPNXVNMUtvZXBfRWZEWUlfVUV6WmdCRVRVUnhSUWNkbk5pUmxuQjNhRjl5ajRQdjQxSGZrTzV1M0hoXy1scFZOS2FhTTRJbWNEanBEdUljTDloMWp3TGFWY2tCWEdINGZCRHc2WC02UjZwSU5NY1laaUt2RkFwWmx0c01Jclh2a2xlclAyWEE0QjluczRLYVJQbmU4RTZZdDZGQW9PVmhJZFlTWkZRLVJvd1E0Y2hvbmQ2TE5LaGlEaG1Nc3VjOUczQV8yVFVkbXRfOE9adV9jXzVUQQ?oc=5",
       "score": -0.5
+    },
+    {
+      "source": "press",
+      "title": "Delhi spends Rs 231 crore to tap hill rain in Yamuna, but not a drop flows in - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeTNHUGVUWjNOU053RC1SVXFydV90Rk9hZi1iYm5LMnVNbkpJSzBLRU0xNGpTMjR4elN5YXlCSUhjNjF5eGRmZEFTNHN4U3p6bU40OEtMRUtmTmZaM1Boc2ZkUi1rSGl5bjFOdFpmNVdqeWhxLTF0THlOeWx5cFI5UFRSRGpac0U4NHlVS0h0RW1ZMHdFQTNveVBnMU1XTmcwcUFHUTg5a3dkRy1vNjlFTzR5cHhmbFEtSl84a09VcEdJalpqMHZ4d0Fyd9IB2AFBVV95cUxNNExxa2h1M0ZMVTlmLThJMEFkcnZRZmdhWG5YOVZtVlVPRGRhNHZjaXhVdWNXN0d3MU9BU0hGMDE3dW9VU2NROFlIdzYyblE2ZmpBTl9paFRodk9MdU9qRW1fYUlyNEN4LXVWYWhudk9QOHZTRkZnQ1hjSUZOUk8zZUxZNU9GWnd5dXFBc0g4SFF5UFp5UXdHOS1ab2REWmFjYXk5N1pUR1Z4QnFvZzFqcE04R21KeU5tSjRxYktoajU4djlZbjVBRVh5Q0FESjB4T0Zqak16NV8?oc=5",
+      "score": -0.2
+    },
+    {
+      "source": "press",
+      "title": "Renuka Dam: रेणुकाजी बांध परियोजना का गुरूग्राम की कंपनी करेगी निर्माण, अवाॅर्ड हुआ काम - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS1JyVDd6ZmpkbGVuaVZoaGJRUXBuelZrZHA4YzF4dUhIUjJ1dGluZHVoME0yTWhVZkNLbGpKVVV1YXQ0OGlhaFljVFB5TmVqX1pBZUhxaGZDaGtNUktFdzg2bXp4UmhBcGZhTmNRY251dWNMYjZDcmJidEo4X3RqSGZQWGZTLTROM2ZJVzZzSkwtNzVSUFQ0ejF3REVGREh6VC1KY0g2elhiemxoV0xMZTBoakxJS0lzN0ZTTTk5VjkzUdIBxwFBVV95cUxOQ3NNUlIyLTRyZU1KLVNwUUtFZDdXaURJS0NwanV5dHNaY2lGbmE4UmZFeU5WaEk2dEpGRlRxZWY0M3M1RUhTRjdvRzlPdWxNLUdpOUZlTkhtZVAzcUxWRm9EVmZiS1dUWEV4cWJ4R0lCNDRIY0dHR0xxbG9KSG1LZVA1ZzZrZFdVQjZDTWQyemt1MUI3Si12WXdScUhSeEdiUUFMXzJsRE1jcEtCLUswaTRCUWlFTV9TUksyOVM1U2wyUXZjYmhJ?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

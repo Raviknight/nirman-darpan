@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-02T11:24:47.928Z",
+  "updated_at": "2026-07-02T11:52:24.924Z",
   "project_id": "PEKHUBELA-SOLAR",
   "press": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 20,
+    "positive": 7,
+    "neutral": 11,
+    "concern": 2,
+    "avg_score": 0.085,
+    "avg_magnitude": 0.225
   },
   "youtube": {
     "n": 0,
@@ -18,14 +18,52 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 20,
+    "positive": 7,
+    "neutral": 11,
+    "concern": 2,
+    "avg_score": 0.085,
+    "avg_magnitude": 0.225
   },
-  "top_positive": [],
-  "top_concern": [],
+  "top_positive": [
+    {
+      "source": "press",
+      "title": "बीकानेर में बनेगा दुनिया का सबसे बड़ा सोलर पार्क, पीएम मोदी ने किया था जयपुर में शिलान्यास - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1p0RlhGV3B2V0xwSG9VemIzc0cyaXRTYmdPOFVmd2lLRzVmUUdkTGJ3VHFyenEyaGxqc2xqc3FZeEM1dmFvNmp3bG5rVlZWSWw2SHFKSldtQ2QwZTlXWmVhU3NxWEVwTlhlQVhhdUpMVVMzVktOa3lKMmNlMlZuQjBuUEZHS1BpY200M3AxWldfRktDZU9YeDVYMjNoQ1k5RVZSaVNXeWU4Zy1BeVdSVVhFd1RQaUFWeGZQQ2UtWExvSEYxeUczZUFCdmdCZ0d6N01B0gHYAUFVX3lxTE4tOXo2Q2VCcWhkR2JIcVA0alNSZTZGV2JuTldwRzAzNk1JZzdvVjQtTXN2QklhOVFDeWxjNkt4SmZYNUpFR25lNlAzZkhqTU0xdlFXSlRWeU8zeEl0emI1WGhSenZUeDZLWEIyZXRMV2NVZ18tTVR1QTRnVWlmYS10czFHbHRMby1YZ0hnZE1HT0xLNE9pVkdORHdBZlhrYXlxeWJVUGFRRVU2VV9EcGpZMlpOVzZrMnozbUkybG4tN0JlbWRmS096X3FDUXlHZDFxM2JBWnBNeA?oc=5",
+      "score": 0.6
+    },
+    {
+      "source": "press",
+      "title": "Una News: मुख्यमंत्री ने 32 मेगावाट की पेखूबेला सौर ऊर्जा परियोजना की समर्पित - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb1lVZzNNQnJwR2pOc0pxcktpaWpFVEdhSnE3b1BfNlZaek1OU0ZxbkVQT0p4SnVBeG1TR0RfeVNCeHJpOXVNZ3NkTk4wNUtUUkY5d0FMcUlXVXBQYXV6OXZTSFpyVUZHUWZabWg2SEZYOHNxcVJSaUFzdGFyb29LQVBYUVBXS0MtWndleFRTWXBUaTlncGdncktvSUlGVzhIdWs3bU14bkEtbWZmVkJlc01lekd0MFdIMzZBZWNQazJic0pYR05jMGVUeVVZZ3MxNUF6YlFwVnZzMG9BNTFnUk56MNIB6AFBVV95cUxQMmF2T1FCNV9vdUNzV0g0dWRZazhSSXZEamZ3NVowejVpSFhYNGZBRllQTlJEZUlaaVlIYW9ydlVScFEzZE1KMmlzQ1k1dE9xYjRYTEU5RXluNGdKWVZSRnlaOTdRX21qWGtZZm1xaW1SWXQxWWh2NzhjWkdqbERZb1VPYV9zTlhHTUpYTDJqal8zQlhtbkktTzBFd2gwdXpndGJOVjVBanZtejRyU0dLQkZmZHhHWEhsUXNDdnpaNGNuaExzd1hnX0NvWE04N1ZZTkhNMTFrNFFkVFg5cEwxUE9mOXRWMGNt?oc=5",
+      "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "HPPCL चीफ इंजीनियर विमल नेगी सुसाइड केस में CBI का बड़ा खुलासा, सीनियर्स कर रहे थे परेशान, इसलिए की आत्महत्या - Navbharat Times",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQMDRYSU5yUUprbE90Z0J5ajNrZV9LRWpSVmkxa0trdURpbUlJNDlnMTBzajlVU1lRTkpCSG9POUJDZ2xXZEpFWjlWVVkzNjFycVItdkluem1DZFRWcnh5NThLcTg2TUU5dlFtMWRIS2RIdkNuUENKSkthNGhVQXpha3kteXFQZ2tlbG9BeU1ONWVIWTlHdFZvSzNRX01CLWdIbllqQ1lPSExVTHhlRl9iY2Vnc0J1aFFEMDlzYTRGRncwOG1INTFSUk5WMDdxZEJrNldlWElLOUVTUzZvWjV6V3pxR3A2ZE5hWEptVE5Wb3ZWRWdiRXAzanVOQnR6R3d6S3lOaDZZNTVHZVg3VUluZUYyN0xoN3Q0dGRTWDBtRUpkRUpLUzVwanRUWWdqYkJLcVhHOWFnWWQ1VTB60gHCAkFVX3lxTE1oWUYwRDNyVUlCOVBhNm5UX1FLTzQzelEwMXZnVjNoVjQxQTgwUXMxREdwM0s4bXJHbEtTVVRvWlcwN1EtY2xZNVVoRTE1LWlyWDRBcTczeDFNSUs2NV9SZEVEeVRDZDBTQXJ5cUVDYjBGcnlBZ0dOLWh3alMxVmRPdzUwN2NXOVQxdV81TU5PNklRYTRvN3NpZVRSRWZKOTFYYnk2U3hueWFabUt6Uk5kRVpKb2FsVUhfS0g2c2ZpOWx4a1JMTy16WnR5V1N6OTFKQnF3VHZJT1IwcEljZzdkVmFRejJmX2RCSHlXUHhJQmRLN21jOGdFQk01RVFMNlFBY285VXVoYXVQU1Z0QVhmVTI2RUd5UU9qRUlaSW1ydlFlYm1GTzU0THNuVHd0dFBmWTVkQUlOU2dKN1k0VHNENHc?oc=5",
+      "score": 0.4
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "\"Corruption, mismanagement\": Former Himachal Minister Bikram Thakur slams Sukhu govt over Pekhubela solar plant project - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVkZmYUV6cEZsTXhzNURLd1lQbmxKTDlYMHdvMHZfQnhZdmlFMzlsYW1LaTlYalY5ZlJEWVhCbXhWenFPRFB5R0VGVjREN3I0a0NBNElzUzlVeHdnMk0yOHlWNlJHOXJfZjBYaGZid2pFZTUzM3NsZFM1R0o2MkcyQUR3bXdwN2Q1TkJsanhVUWVibTdfd1o2N0ppdGVkY1JiZWtFMTZOUHFqOFRBdXFaenBzbkxoVURvVER0OW95MUg2ZWV4bUxPZUFzeG4xYzRiOVpkWDRNU3QtSkt5VDBlWnhuTEY4TUdxM0d6eHQ0WUFQdXhwTXEyWjNpd2FSMWVsRXVhbTM0RUs3VVE?oc=5",
+      "score": -0.7
+    },
+    {
+      "source": "press",
+      "title": "Pressure from seniors over solar power project drove Himachal chief engineer to suicide: CBI - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRjUySXIxcmlHSXh4Y3FHejVHcVlfUDl6bjM1QlVkSVl5VEotTXFiSGJ4TFZjLVozdkNYaGVjdUZhVGxGTWpsUWN5bnAtdFhrVW1fMkNtTExOaFd6WFdTdVZLUXBnMnROSUFvalV4dmxWM2pBT1RuS1lmdWxJN0UyZFZjcjFfdG1GejBLa1NtV3hJVVNwLXh0LWlPMWFWQjZxZUpLTFFOM21Jb042dDFraHY4U1A3Ump1amVDdnhicnBJUUtVNzQ2U25wdlplVGtsaExyaEF0aDVSdHVia2Myd3puMDctMXRfckdRT0hPMS1GQTBNTXBhZm95NEFvUdIBgwJBVV95cUxOaE4wa1ZqLVkzREhRQTB5ZWx2V090blpLLWNJWVFta21BWDRWSG9Eb19DTDdGTXdWWE9QLWJYWUx0b1Y4LTlSZWszVnd2Uks1OWo1aGE1X0hoaWlZM0xwbUNlbjBfX2ZobE9mbzJid1FMLXVZOUFKdkRJZjg0YVNhN3kxZk55Qjd6VDBxaC12eU5tRTFUX0tHR1doYVpjZ0hNSXA0TmVQUUpQaWUwYjB0Ri1GYS1EanZyRG9wQVdkRHg2XzFEc2R2MmI1dmtwaWlOUmQyaWQyd0JDNUs2WnZXeHE2WVRpYjhELUJCbDhvOEx6ZnhEY2ZWRXFJSnRwNWlpa3hB?oc=5",
+      "score": -0.6
+    },
+    {
+      "source": "press",
+      "title": "Himachal Pradesh Tenders 9 MW Solar Project with 6.3 MWh Battery Storage - Mercomindia.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmdlTEIxdTg3cVRQMlFMMjQyRm05bnJCUHFFZjNnYUZENl9PSUhfcXRHaldxNFh2V1RfZXFUTUo0R0xrcjZhSnYwMDNDX1VBMVhFNkZuU0wwU1UzTFl6dVVnSFFUbENITFd3Yl9ES0wtVFE5RE9iOXpCU3R2bk9IWlRRa213RjJmM1JjZkNySHVkWTloSlpRai1GdEg?oc=5",
+      "score": -0.1
+    }
+  ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

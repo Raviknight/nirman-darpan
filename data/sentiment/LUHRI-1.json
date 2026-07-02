@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:24:06.571Z",
+  "updated_at": "2026-07-02T11:52:01.951Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.14
   },
   "youtube": {
-    "n": 6,
-    "positive": 3,
-    "neutral": 3,
-    "concern": 0,
-    "avg_score": 0.233,
-    "avg_magnitude": 0.267
+    "n": 7,
+    "positive": 5,
+    "neutral": 1,
+    "concern": 1,
+    "avg_score": 0.229,
+    "avg_magnitude": 0.343
   },
   "overall": {
-    "n": 26,
-    "positive": 9,
-    "neutral": 17,
-    "concern": 0,
-    "avg_score": 0.142,
-    "avg_magnitude": 0.169
+    "n": 27,
+    "positive": 11,
+    "neutral": 15,
+    "concern": 1,
+    "avg_score": 0.144,
+    "avg_magnitude": 0.193
   },
   "top_positive": [
     {
@@ -46,17 +46,18 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Please tell me how and when the project layout was developed?!",
-      "score": -0.1
+      "title": "Stage-1 not 3",
+      "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "Sir ye shuru kb hoga??",
+      "title": "Kb hoga suru",
       "score": 0
     },
     {
-      "source": "youtube",
-      "title": "Ye sruru kb hoga sir",
+      "source": "press",
+      "title": "PM Modi Inaugurated & Laid Foundation Stone of Rs 11,000 crore Worth Hydropower Projects in Mandi, Himachal Pradesh - AffairsCloud.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWxnOFZuUHBqT3VVV1RCRm1HTnBwcnlGYzFxMF9fNzdsRFdxMnVKVTNPa0huNk50M2Z5RjU0X2JDTVIwalpubjNGN0dmSjl1cG9DMUZQck1mWFlvR0twTVh4Rl9GSzMzYmJpTUstM3dDSFA1dXR6QndhZXpCTFNjU1dMUkEzQXE1UDdHTXhIdHBmY3AzMGgyRC02VVJIZkJBMTBGV0F0VnVLd0tlcUFLVnBuVUVCdlFJekZxUFRyOWFEV2M4SG5tQTFpYkY5TzFUQkk0?oc=5",
       "score": 0
     }
   ],

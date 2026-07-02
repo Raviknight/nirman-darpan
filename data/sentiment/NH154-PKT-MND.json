@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-02T11:24:40.726Z",
+  "updated_at": "2026-07-02T11:52:08.118Z",
   "project_id": "NH154-PKT-MND",
   "press": {
-    "n": 12,
-    "positive": 4,
-    "neutral": 5,
-    "concern": 3,
-    "avg_score": 0.025,
-    "avg_magnitude": 0.275
+    "n": 20,
+    "positive": 6,
+    "neutral": 7,
+    "concern": 7,
+    "avg_score": -0.03,
+    "avg_magnitude": 0.27
   },
   "youtube": {
-    "n": 7,
-    "positive": 4,
+    "n": 9,
+    "positive": 6,
     "neutral": 2,
     "concern": 1,
-    "avg_score": 0.243,
-    "avg_magnitude": 0.371
+    "avg_score": 0.311,
+    "avg_magnitude": 0.411
   },
   "overall": {
-    "n": 19,
-    "positive": 8,
-    "neutral": 7,
-    "concern": 4,
-    "avg_score": 0.105,
-    "avg_magnitude": 0.311
+    "n": 29,
+    "positive": 12,
+    "neutral": 9,
+    "concern": 8,
+    "avg_score": 0.076,
+    "avg_magnitude": 0.314
   },
   "top_positive": [
     {
@@ -32,19 +32,24 @@
       "score": 0.9
     },
     {
+      "source": "youtube",
+      "title": "Great video👍",
+      "score": 0.9
+    },
+    {
       "source": "press",
       "title": "फिर से सवालों के घेरे में पठानकोट-मंडी फोरलेन परियोजना - Jogindernagar.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fcTVRUnZDVldCWXVfSnhPS0FVdDRrR3N5T2Q0eUZUY2JJVGhjZzlua2VwQzJmWTF4aDNzSHM4MERmV0ttdy1OM0V2MkpoZDlCcE9CNHhPZkhDcEdpOTFqNW9SM2xrX1ltS19FX2pLN2M?oc=5",
       "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "Himachal: राजोल-ठानपुरी पैच को नई उम्मीद, केंद्रीय राज्य मंत्री ने कही जल्द डीपीआर पूरी होने की बात - Divya Himachal",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUmV1dzRGV05NTDZhUU9pQkpVQm1wRkVYVnJkLUxVeDdQeHhkZ1VLTGRNcDBLdjhNV1JlWkxMY3RxOGNTaC1YcFdVdjJWUG5fQTA3NWZZdmdtN1A1ei1IZ1IyUG0ycnJnZkowODFBNGVGVllmWmhzUzljYS1PcGt2bnE2azlHanBDVFlhMlM3TGNKeUhqY2dzSWpaTGNIaUVZZkpBRThPWU10cXI1amVHLTliMlZhSXkwc3NrZUhST1dHUkNFdy1TU3I3cGVtQUdNQkJaNU5mT1B3R1RBVE51MGU1eF9SSkpKdFHSAe8BQVVfeXFMT1B4VTdiakc3TjhqbUh2X0VzWUlpYUVLQlllbGt6NUhab2ZUd1NzWUlFb3lkckxKNlBlZURqYll5dDR3TUxtYWR2Z050QUNxczVmZnhEdDhNZGIzaThTU1BGRTktT2g5dktqaWNFa1daeUlibFpsTjJJTS1TUVA1N0lKQlBPb2lQSlhFakZwT0c5TXRiREd3NUhzYXdvWHJDakk2TXlGU1RVMFR3Z1NUVDlWdWRQcjlTeTFKVXNjSnR4QURHM2tXREdMQ19CcWVmOUR5bUdYby03VU1BZ05DQl8ybDNjZGpuQkNnbTRQdm8?oc=5",
-      "score": 0.5
     }
   ],
   "top_concern": [
+    {
+      "source": "press",
+      "title": "Slow work on Thanpuri-Paror stretch of Pathankot-Mandi highway matter of concern - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1ZTVXhCZ3JHdHNVQUdoM0hweDVodFdtQ1FqNDNzMXQ1cEM4Z2F3WW9wRmZaOGd0UVgtNDdlT0VHV3lrcG1fcUV2TWE5WXVTaXBjRnlMRVNyT1g4aTc1V1RtQ0IzSHp5bE9QdXQ4ZklJOTJxbGlFVEotZnY3dlQtbFk1eklWY3VXMTBXMUs2SFpvOGNHSDdpdWJua19BblE5UFUzWHc3cnR5czhRck8zMVBpYjFtYTd2djhLeVF1Q245QdIBxgFBVV95cUxQblZldkRYVGYtRE1VYlB3dFh2dWdmMjdROTB2REVzM0RTbEZvUnZMTFdDb0NYbktxODhOcnhmUjRBUlBYSXRGVk5mZi1QdTFVZk1uS2VEbkZHVXg1QjBqV3pwc0hSVEY5SEhEWTNaNE1LX2RueTJ3dENMN1hEaVdlMUM1a0VfNjFBM2VjcEh2U3dGS1V6V0E1UFRCZEFWZHl2a0JPQkRXTGJWaTZJV25aZFB4NmJOdUNoVmlWeXppaUlTRmhkR3c?oc=5",
+      "score": -0.7
+    },
     {
       "source": "press",
       "title": "No DPR in absence of consultant, work on Palampur-Padhar road stretch delayed - The Tribune",
@@ -56,11 +61,6 @@
       "title": "Traffic jams at Malan on Pathankot-Mandi highway inconvenience commuters - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjhoczdjQUJIYk9rY0hKRmNWQTlvT2NrZGFIcmppZVJEcUR3VmIyVTlOSDdVSzNOX2ZaZ2w5UGlXMWtVdlQyWklpcmFhQkJVRDNlWVpIcDBJTEVESW14dlgzQVdJYlNGY29LMHNfU2ZNQVFIVnNqNWx6M0tRR1ZfYnZicGJCQUVMQ0toTlQ1LThBeHFHNzk3Mnl6VFA4bUsyd1V0VWRvci04S0g4TkUyadIBtAFBVV95cUxNNXFwQ3I2RGFqeDhvRTdIRXZ2Rkh0dzY0RExtUVEyT0FnWmFvUGJtSnk5d1VVTWhSR2xPMVlLOG1QRzY4TlZfa25TMG1mZ0g1WU9fZ2NMYXViUTN4YXJWOURJNndxWU5VclZzTjQyWWhFRnBjazl0THZCSlNjOHVENUZmNTJ0QXZ1dHBYVFJPR3g2YndyNjZ6c3JqWnFkaXlFNy1QYUR6SWtiaDdsSTRYaHBYRk4?oc=5",
       "score": -0.6
-    },
-    {
-      "source": "youtube",
-      "title": "Sadak k dono side ped lgaye jaye ❤❤❤ bhut khubsurat lgega",
-      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

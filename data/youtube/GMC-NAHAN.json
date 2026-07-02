@@ -1,90 +1,11 @@
 {
-  "updated_at": "2026-07-02T11:23:52.675Z",
+  "updated_at": "2026-07-02T11:52:01.139Z",
   "project_id": "GMC-NAHAN",
   "query": "\"Dr. Y. S. Parmar Govt. Medical College, Nahan\" Himachal",
   "counts": {
-    "videos": 3,
-    "comments": 7
+    "videos": 0,
+    "comments": 0
   },
-  "videos": [
-    {
-      "videoId": "ZchhghuUuXk",
-      "title": "💥Dr.YS parmar P.G college Nahan😍#viral #shorts",
-      "channel": "Sanjay kumar keys",
-      "published_at": "2024-03-10T03:15:02Z",
-      "description": "Dr.YS parmar P.G college Nahan  #viral #shorts #shorts #viral #youtuber #college #pgcollege #nahan.",
-      "comment_count": 1,
-      "comments": [
-        {
-          "comment_id": "UgyasqzFCw2jZVQ3vSV4AaABAg",
-          "author": "@rainachowdhary",
-          "text": "this is not for ug candidates ???????",
-          "like_count": 1,
-          "published_at": "2024-10-03T18:29:45Z"
-        }
-      ]
-    },
-    {
-      "videoId": "JpB3JWha0oA",
-      "title": "Dr Y S Parmar Medical College Nahan review! Personal visit by Vivek Gupta! Govt college of HP!Listen",
-      "channel": "GKWorks - Career Counseling, Career Mentors with Study Abroad, MBBS Abroad, MBBS India, India Premium Universities Admissions Services",
-      "published_at": "2022-04-06T09:44:20Z",
-      "description": "Dr Y S Parmar Medical College Nahan review! Personal visit by Vivek Gupta! Govt college of HP!",
-      "comment_count": 6,
-      "comments": [
-        {
-          "comment_id": "UgxP63Z7IHscaT_R6ad4AaABAg",
-          "author": "@prashantaggarwal5213",
-          "text": "Dear Mr. Vivek Gupta,\nI appreciate your views but this is not correct. Although the picture you are showing is just an entrance to the hospital and college. But if you go bit inside it has many BIG class rooms and hospital rooms. Since it's an old building which was running hospital 40 years back and before 5 years only they started Medical college and the new building is under construction.\nThe Medical Professors are very experienced and very helpful in teaching.\nAny college should not be determined by building or just by visiting..... it need time  and days to determine in depth.\nThanks",
-          "like_count": 10,
-          "published_at": "2022-04-07T00:37:02Z"
-        },
-        {
-          "comment_id": "Ugzt2byhaJmWgnMJ5vB4AaABAg",
-          "author": "@sarikamalhotra204",
-          "text": "Sir how is hind sitapur ?",
-          "like_count": 0,
-          "published_at": "2022-04-07T16:28:25Z"
-        },
-        {
-          "comment_id": "UgzWTlbh-Zx9l7S8Mkl4AaABAg",
-          "author": "@himanshuvashisht1137",
-          "text": "Uncle apna ilaaj krao",
-          "like_count": 3,
-          "published_at": "2022-12-28T17:18:36Z"
-        },
-        {
-          "comment_id": "Ugya96_2B5zjW2gd8mV4AaABAg",
-          "author": "@PramodKumar-pm4gd",
-          "text": "Good information sir",
-          "like_count": 0,
-          "published_at": "2022-04-06T14:38:35Z"
-        },
-        {
-          "comment_id": "UgxDs3OoHPdHptsOrQl4AaABAg",
-          "author": "@santoshsharma-lz7ig",
-          "text": "Pls sir mujhe en parents ka mobile number chahie tha yonki main en dautar lena chahti hun apna bnane ke lie",
-          "like_count": 0,
-          "published_at": "2024-04-23T00:03:07Z"
-        },
-        {
-          "comment_id": "UgzlbnU6B8_iZ0Lj6hh4AaABAg",
-          "author": "@urvashifakay8679",
-          "text": "You are highly mistaken sir. You probably were not even allowed to enter the college and that's why you are standing at the gate. The college is spread in a vast area and has all the facilities for students as well as patients. Nahan has a good catchment area of patients and has excellent teaching staff . By posting such a video without proper knowledge you are not only misguiding people but also questioning the integrity of NMC who is responsible for giving permissions to medical colleges. Nahan is a small laidback town and at 8:30 am in the morning one doesn't expect much hustle bustle since it is not prone to traffic jams as in plains or large cities. Here people leave their homes just 15  minutes before their office hours. As for patients, the hospitals in metro's are overburdened  to say the least but here they are attended to on arrival therefore you cannot see any rush. You decide whether it's a good thing or bad. \nP. S  Did you take a walk to the anatomy Department of the college in the lap of nature? Probably not! Next time please do.",
-          "like_count": 7,
-          "published_at": "2022-05-02T06:34:27Z"
-        }
-      ]
-    },
-    {
-      "videoId": "b5qU0r2uYjU",
-      "title": "Nahan Himachal PARADES #uk12rawat",
-      "channel": "Keep the Memories",
-      "published_at": "2022-10-03T18:06:04Z",
-      "description": "",
-      "comment_count": 0,
-      "comments": []
-    }
-  ],
+  "videos": [],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

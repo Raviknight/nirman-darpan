@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-02T11:22:50.884Z",
+  "updated_at": "2026-07-02T11:51:09.555Z",
   "project_id": "SMART-SHIMLA",
   "counts": {
-    "press": 69,
+    "press": 68,
     "gov": 0,
     "en": 30,
-    "hi": 39,
-    "total": 69
+    "hi": 38,
+    "total": 68
   },
   "mentions": [
     {
@@ -54,16 +54,6 @@
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSnRMeTRtWVBxQ1NIeURiLWdZSWM0S0VDZ1pMa1BuU1hUUmx3c29zT0UydGhmNHlyUXM1SlVjSklRTW50X2piVVdDSkRJQ3ZPd1RpbTlON3RkRTlodGRXMkpiSFhhWDROYmxLYUhsQTB3ZFNRWlFSMXBRaUN5emhUYTVtSWZqMWowZnhpMmlvemJFWHZ5M3VYX0dKcFUzYm9OWnZPdjFGTU91REZ3NlRtT1E2cHkwazEwRG5FXzdoT1N3MXpoNGRINlJwVXJKQWdHV18yR1VCWmZkTzZyT2hhanQ5aWtlQUpmbUVDRUh3UU3SAfYBQVVfeXFMTTROMG1vVWdlajA2VElzTkppWkxPUnVJRGxURUpKejd2WlpOT2l6dVlLQl9OXzM4bFdQVFZPVHF4UzJjVHV0d3hodHQyUnYwSFVjblZ0bHE5c1RQejE5dGs3NUhvY1lvRHh6LUFtRENvWi1VemVNLUowQ3lLT3lnOVE2dmJDb040V0JfcFdBODZERnlFbU1zMmxNY3AtWEpZbmF6VXZzazJhdXNIckxJTWtPSmhPWUhvaUNyVDRoYmhRQmxnYmVDbTVWTHhGYk4zQU9QUHVKTmtSYmxPOV84bHZuSm0zVkVLYUR2X0dSZGNnM3pKbURn?oc=5",
-      "date": "2026-06-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
-      "title": "Shimla News: ललिता बनी छोटा शिमला स्कूल एसएमसी की अध्यक्ष - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSFBUUmF5dS02VmxGdHdtOV9WSm83emRiVU16Z0ZmLVpJbjEwR0wxbEdyLXRZVjgyUWEwT2ZzNFpTMWRjVHBfMWt5MWxxLXZHdUhDaEhiZnBYRmJIbFFIOEJyMHlvMDYwMGdKR2VTM3hxbEJDVHEzYkpxMU9yUUtDTmxzV2dnQmVGQXZOWXQwZ0dGUlpwSmgzQnZOTElkM21vSXpIVmdRdVVxR215b04xcWJIbHB5d2h5VG9mb2FOZmhtMEJZWDQtU1d30gHPAUFVX3lxTE9YbGZnaVVxQ1VHdGZ0LS1YRk5zUlFlTzZldlZEeHBPalQxQ0dxdHN2NmI3MTl5U3lEaThOTDBxSExLVXlXeHJHNldPWjlOYkpnc0tjdmlJUTRHY1JPbl9ibmw2bmRQMTFEUm9GLW9CbFR2R25KREVuR290clpoaDNuZmxpZU5ZXzZUZ1BGell4QV90cGxVQTE2b3hWRWxLVnlBT3Z6OUV5MmRXRU9UWUxpamRLRDhYRkk0a1BOd0dHOFFLWEJRRTdZVE96NkhVTQ?oc=5",
       "date": "2026-06-20T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -205,6 +195,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONTB0WmQ1TWFpWnRFc1BLV3hpSW83UGx1aWIwM1ZyRmtmT1JTMVVMUDlnOHJHV3FGSzVYQ20tejl5NE1wMVB4ejBTYTZyOHgzclRQa0hCRFNmV1RhY041eC1SMUdYTnMwWUlpbHVsYUZta01SMzY3MVh2LUJYMm5kSVp4elJDYmM?oc=5",
       "date": "2026-06-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
+    {
+      "title": "शिमला स्कूल संचालिका हत्याकांड: हमलावरों की तलाश में पुलिस की बड़ी कार्रवाई, CCTV और तकनीकी साक्ष्यों से जांच तेज - himachaldastak.com",
+      "source": "himachaldastak.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcldpV1pOWDNFaENTS01fczdwU1VkYXByemNGbmlTUlhUZENTd2lpdUNpeWV4VXhIcE5PVnNBc3luaVo0bVI0clVHNS1aN0hvNXRNQmxwM2w2NkdvQ1lPVzFRR2g2WVdqdXNNSnlSS0p4ZkxZa1pUTHQxM29fNFYyUDJR?oc=5",
+      "date": "2026-06-14T08:47:56.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"

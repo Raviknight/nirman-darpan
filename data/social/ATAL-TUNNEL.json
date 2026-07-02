@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:22:41.520Z",
+  "updated_at": "2026-07-02T11:50:59.532Z",
   "project_id": "ATAL-TUNNEL",
   "counts": {
     "press": 407,
@@ -9,6 +9,16 @@
     "total": 407
   },
   "mentions": [
+    {
+      "title": "Indian Army's Corps of Signals Dare Devils attempt new world record at Atal Tunnel - The Economic Times",
+      "source": "The Economic Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV3AzOGxpbjhPNnVkTTZCdTR6OUVhS2s1V0xNWmJNcVpSWUxocnB1d3ZHSWxodDd4Z3ltbXdHVEN6cFBYckVLcEJEWVlSMzIxQjM3Wmo5Y3JLWE1RWTNKX0R1RnhwTXJ0TDVYYVRsRTVPcl80ZXZXQkI1ZUZONmYwSHBEQ0pTcEkxNGQ2blZRb0dKX2RaVUZGNjJhX05JOWdHSmhHY0NFTFVKdm9Udzk5ZW9HZjlBaVI3cTVZdUhJb3VxX1hVWXJFNUdkcWYyclk0SXFkTU5OLWJVLUxVQTFDeU5B0gHnAUFVX3lxTE9zV2xNUkZ5X1lLQ19QY3ZidFpMSE1RX0c2SEt2bThRX1l0MzduSHd6ZGVpRG8wd09jb3libGRKMnBObjdKYU53WEdSMGVBLU5kZ2lWVnFiRHM3dVFfYmpNcTJuaVZhVlBuQWVzLWdfQ2MxR091aWdxYVdaeXE1RkQwLXY3RTJZNUY4UlRwT19rYjJQbFhWc25QQWRQNjJ5cFNhaXNaTUNyTi1FQ0gySkhRSHpsclliV3RVai1YNGNnR2V2UFN2T2pzUm5jemZYQzFpMlY4M0VZRHI4M2NXVk9NXzZ5aHdwUQ?oc=5",
+      "date": "2026-07-02T11:20:49.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
     {
       "title": "हिमाचल घूमने गए सीकर के युवक की दर्दनाक मौत, अटल टनल के पास पुल की बेसमेंट में गिरी कार - News18 Hindi",
       "source": "News18 Hindi",
@@ -47,16 +57,6 @@
       "date": "2026-07-02T10:33:29.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Indian Army's Corps of Signals Dare Devils attempt new world record at Atal Tunnel - ANI News",
-      "source": "ANI News",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd0JfVmZNQmVFRGVsMW9kVW5tUnRORmNHMjF0UFBpMV9nNFViLXVzeml2ZFBXOFI5ZlVlS0RHUnBubkRHUGNYOGx6bFpCNDJXQXBvSndrRTl3NU45eGVjR20ybzNQWUxTZHE5LW1BczU1bW1DOU1UcTBTUUExQzk2UkVWSU9qUVdEX3AtMnNfNE5UNWc2V2xiSGc4LXFOc0o1ajVxQU5PZlhyVU00ekhYUFZaSzc5ZzZCbkNPMEFuWThuLTFVRDFCRFFESTNQOUtjLXZkUmwtbW4wMTlMbHc?oc=5",
-      "date": "2026-07-02T10:32:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Atal Tunnel"
     },
     {
@@ -170,16 +170,6 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "Atal Tunnel horror: Scorpio hangs from bridge pillar after being pierced by iron rods, Rajasthan man killed - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPemxvOWJQN1FrbnpVekNmbkVMbHI5TWswdGN4dnM4V2VubTk5dEtyZHMtb1JlZ2Q3ekt5YWxMWVlBSWVEWDZEeG82aHlVRndkZTZiNXhkS1dQckJvRGVQdE9wNmNZTk9Ud2Z5VC1LZFZLZHg1ckJLRVhBMUhueVp1bkRHTTZ4UFBzZGs0RHc4bG1NcGRuS0JIcm1xWkI1LXJ2Qld1bjBGRmZhdTZGTWtYbTdmdW1kZUdFVUY5TEV5cTZnajV6bDJLU3FqX1pxVHB6aWt0SVB6UUl5Q09hUkQtZkRMQmw1OWPSAecBQVVfeXFMT3psbzliUDdRa256VXpDZm5FTGxyOU1rMHRjeHZzOFdlbm05OXRLcmRzLW9SZWdkN3pLeWFsTFlZQUllRFg2RHhvNmh5VUZ3ZGU2YjV4ZEtXUHJCb0RlUHRPcDZjWU5PVHdmeVQtS2RWS2R4NXJCS0VYQTFIbnladW5ER002eFBQc2RrNER3OGxtTXBkbktCSHJtcVpCNS1ydkJXdW4wRkZmYXU2Rk1rWG03ZnVtZGVHRVVGOUxFeXE2Z2o1emwyS1Nxal9acVRwemlrdElQelFJeUNPYVJELWZETEJsNTlj?oc=5",
-      "date": "2026-07-02T04:38:42.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
       "title": "Atal Tunnel accident, one tourist from Sikar dead three injured after vehicle plunges near north portal during - CNBC TV18",
       "source": "CNBC TV18",
       "source_id": "google-news-en",
@@ -205,6 +195,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRERJVnlNWVdqMTA4RWFaZUFBaC1wMW9CWDRVR2JzRDd2THBZVzJVT3NGMEtWdUJRUkJnTjRhSFpLMUtDWi1veS1hNDJOM3V6YkFPZTFWNU5PZjNUZXBnVGdFY2xORE9WNWpjLVlmdDQ0NllySmJfVUFtVWQxLTBIdmpRbDNiWlR6UmsteVBRakp4dkZ0cjFxeWFNbU8ySWd6WmdORDNSVjBIcDJlSjM0S1VIRmpkOWw1cEF5VEVvemJLUHBTLWNOZmRXNElBTTJJ0gHWAUFVX3lxTE1SdV9wZW5URkFoU3dqV25GWHRZajgwNGNXaGlwbHBLZ0t2ZzNKa3U1TW1vNjRuZ1hBZ2pWZ3J6enVacm1pTkNUMkM4LWg0cFQ0S19pQmF3cjBnMHRKNnhHZl9kVGxfdmVxOHhQNW1obkZsRGtBT1pNNjlWLWgyM3FCS05MVVJXSHRUYWVOQTVOU29CMElMbnM4SUxVa3p4WEc5Z2QxYV9yVURZeWw0YTktVXN2dHI5bjFrLVYtMHc1cFB2RzQwOHJKQzRKV2FBZjZHOGp1TEE?oc=5",
       "date": "2026-07-02T03:12:13.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "अटल टनल से निकली तेज रफ्तार कार, रेलिंग तोड़ व्यास नदी पर बन रहे पुल की सरियों पर लटकी, राजस्थान के शख्स की मौत - Navbharat Times",
+      "source": "Navbharat Times",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQV3dINERta04yakJqOWx0MUkxbTQ5UEdLZXRnbTQwRlNhNjh0dkFYU0JiSjBsV0JJTmJDUjJvcWhJNWFkdENyM2YybkVvdUtZalFSQVBCZnhYUXhJZGpKU0NvU29VbWVpYVVoYmkwMmpOTGljakhrRzZKVmVCN3BKRHZkb0VWR090Rm9yYThlX3dxdG1xOVgzSm9meWUwT1lJU0xkUlJNb0ZKX2kzVEpiX2N6Q3dwUTE5Zm5rS0U5VWEyQ3FVMnVhak1WcEJBQjVXeWIwcFVYdU9WbFVKRHRfbzdxdDllT2ZiMTA4OEwxaWxEbkRVSUd1dHhHNU9lVDNXMDRCeVl2bjLSAY4CQVVfeXFMT0VsWU5VNjhlZG94TmUwU1RGMmxEMFlvSVlwM0hIUUFVTFh4UTJaQkJRWWNzNnZoTVNZVU1VQXh6MzJkbm1VYV8wdU93aXp3OTBUY25ZdW5hWUdBd2JQczNOYThrU0c0X1VuTzJ5N3hfZUQ0d2FzQVFNUEtRcHRtc0ZlRUhrLWlKU0tKcFBMUWFNU3V6MWkxZGFnY1Y4ZExfX0UyUnZ5SFFmX19sWDI2dkQzM1pwQzhOem9lRF9feUg4MjB0OG83T1lVUDB4cUQ5T2trOFM3QlFneTJxQmxPU1NYYkRKS2EtOVpBSXRjbW0yM0NxZ3IxYTF4aFFSTUhnZndlRzd6S1cybDh1T1lB?oc=5",
+      "date": "2026-07-02T02:02:16.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Atal Tunnel"

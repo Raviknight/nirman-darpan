@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-02T11:24:43.448Z",
+  "updated_at": "2026-07-02T11:52:12.682Z",
   "project_id": "JALORI-TUNL",
   "press": {
-    "n": 1,
-    "positive": 0,
-    "neutral": 1,
+    "n": 20,
+    "positive": 11,
+    "neutral": 9,
     "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.1
+    "avg_score": 0.23,
+    "avg_magnitude": 0.275
   },
   "youtube": {
     "n": 0,
@@ -18,27 +18,51 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 1,
-    "positive": 0,
-    "neutral": 1,
+    "n": 20,
+    "positive": 11,
+    "neutral": 9,
     "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.1
+    "avg_score": 0.23,
+    "avg_magnitude": 0.275
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "Jalori Jot tunnel alignment finalised, heeding Shoja villagers’ concerns - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUlQzOVJFSXlmWHRkbENHaTMzY1lFTXhSbnAzVU5ZM2JvSlEtY2wybHVheHZ2SmJCSF9pamdyUnN1Y0U2bXc5eGtTUFpkUHJOcFQ4N0dKZWxFUDN0OFYtM2NpcEZYTnhaN2o0b3dqTUtkdHo3VHJ0VFBGc2RQdzQ2QTJHY2wwVGp4NTdPb3pnWkxoNWVyZWUybFB6UDF4YWVULUtHd3dEZ3J0elV4SXNUNWRoLWN3VEpGdnRBVVZQNzVPV2Ewd0lwNFRuR2x6ekVRQmctbVMwV1dQTVZhTnJaM29R?oc=5",
-      "score": 0.1
+      "title": "Jalori Tunnel : डीपीआर की आपत्तियां दूर, अब केंद्र की हां का इंतजार, टनल बनने से आसान होगी पहाड़ की राह - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdUk1RGRkUENvM2RlWjU0Q25EZzJSckJTVUY3Y3NiNHFlZThORTJwQVhWQVd0ODlFNXdfQk9hWUFKS1Q4ME54LUpDVG50VS1JcW94a1Rya19HMjdJMzN5alpBa1lic2lzeVkxckRVMEdyUTliZHlNUW16dzBoRWg5VDRHZHJRTUE3WVp1MWtDa0Rpb2UxdmhnQjZYNHdCZWRDS3AzdlMyZjU1WTFmWmZZcmhybHZDdmVheV9Bd3RnbkQ0QzltWlVOckY1U0h1NFJ0ZmtQMWVTQjNqeEFIMnF2QXdvbkxqd9IB6wFBVV95cUxPZEpGT2dwZDFJMDBYVE1KUGNTcHY4ZENUTVdsdFBNa3NuZF9PMExBeFNwU0ZxcnhtRllEZ29sMzZ4Unl3YzR1MW9UYXN6aW1mZVI1MklOcjlNN3NGcjFPSVEzd1M3QlhNZzhDQkNMTVBudTctNmNLNUhSejFXVk80NWFVbnJ1NWJRT0xEOU05d3ZNUU9QOXd5Y2M3YnNvQVEtMTBnOC00THJmaEhDd1N4NzdYd3l0UGFteTg3YlJZTGJ2OENkY3NGT1F0QmhRbklrcWdfU0VtYjBGUGZEQmFFa1RfVUVBM2U1M3Bv?oc=5",
+      "score": 0.6
+    },
+    {
+      "source": "press",
+      "title": "Jalori Tunnel : जलोड़ी टनल से खुलेगा विकास का रास्ता, केंद्र ने मंजूर किए 1452 करोड़ - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTzI4aWh5WlVqc2FkZHV3VWxiNkpKUjNKZzZpV21Oc0k3dG9KeFpiVkoydFNwdEdjMVBIOFlXSE52cHYyVW5SYkVpYmVrUWFFV0FjV3MxUFZldng1Q21WNUpreHlQU2c3U3BaTGpEQVkzVW9RRGhqUXdnUWw0XzNGZm5JUFI2bWhRRDNEbHJ0Z3h1SDJlR1pXWXFvWDl5aDVMQnRNeEZ0cVJoeDU3LTZpMGVMYjIxOE9DX0Vxb1l1QUdubWJVMW83aDAxbGfSAdIBQVVfeXFMTjBaajhDTkhkbVVoc1RCT2hjc3dsTFBLNXd1alRTWUdwZXJBSzA2Y3I0WTBJYUZXQnF0b1g4ejFZY2x2OERhSXBKaDZsd1ZRTmRWWjRDVDV0UVZhUkxZMkYyRW9zd3FhNDNpRWF3R3JxRDk3WUZHc0VPN21YSzJXV1E4ZkdPNmRYMGNKaVFTMWUwOWtTbDRwMmFBOGJvQ3c2Tko0V3Q0TWFiRjg0SHlSZTJKcWlFNEtmN0w3MUhnZWs3a0JhamkxWEItWkxyYUNNN3NR?oc=5",
+      "score": 0.6
+    },
+    {
+      "source": "press",
+      "title": "अरे वाह! पेड़ के ऊपर ही बना दिया घर, एक रात रुकने के लिए देने वाले इतने रुपए - News18 Hindi",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRmlUNDZuVTZrOUJ2dHAwa0ZoUjNlRHJaNFdDUWhCdGluWGMwZTBDS19VNDFkU0ZiSmFUUnlZMjJGX1JWYUVRVkFCOGxpaWdCV2VaMG5ES3ZaekN2SGxKS1VBSHVVOWdCS0ZpNFd2NUQzNWc4bXFNNG5XbHpiOVBxLW82QUZqSkRQcUJ2M0F0VUw2Y01IS2hObk9jT0J6bFIxa2ozcldNR0FReU1mSFFZZHlydWY3Y1N3VHdZSG9QdlcxVFppZEhseGxQWmw0cHZkaG1SbjktVkUyelJCZW9GX9IB5gFBVV95cUxPajczQzBQVDVyVHRtaGtlT3V5clpVX3ZtU29UcXlUdmtmUXV3NG5oQnlTelU2b2RfZDdjVlJoLWdMWmZwMHJIM042MFFOUWgwcDBGSUIxMzFobU5uSHFWWWFkRkhTUXZDSHptYmgzOEczU0E0NDhwSDlsdGxjcjVjSGZDSU1LRXdkdDNWcFNCZ1ZPdURnQ2NXWUxPZ2p4MDR6Y3U1V1U3czVXREE2bnFkNXlobTdBVTFJZHMzY1l1T1QxZkhrZHd0bldHd1BGYTU1b2w1RlJ2NGxaM0p6U0JYYzVOcDljQQ?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Jalori Jot tunnel alignment finalised, heeding Shoja villagers’ concerns - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUlQzOVJFSXlmWHRkbENHaTMzY1lFTXhSbnAzVU5ZM2JvSlEtY2wybHVheHZ2SmJCSF9pamdyUnN1Y0U2bXc5eGtTUFpkUHJOcFQ4N0dKZWxFUDN0OFYtM2NpcEZYTnhaN2o0b3dqTUtkdHo3VHJ0VFBGc2RQdzQ2QTJHY2wwVGp4NTdPb3pnWkxoNWVyZWUybFB6UDF4YWVULUtHd3dEZ3J0elV4SXNUNWRoLWN3VEpGdnRBVVZQNzVPV2Ewd0lwNFRuR2x6ekVRQmctbVMwV1dQTVZhTnJaM29R?oc=5",
-      "score": 0.1
+      "title": "Jalori Jot tunnel to see light of the day - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVmViYlBLU0tBNWwzbVVsWjdqV0ZqWlhFYWw3NlRJckhvWTJvUGtDOGJFQkdYQ1BXSGZQZ1NPT0M2SkE2Z1lGMlQzYXdsLXcxOEVTMkVfM2pBMDdIeFphdlhHekQxVlhJSDVJX1piZGk2d1dMLU92VkMtTksyUUNYcl92d0Z3RWZNMlNmRkFQNkhteXJQZjA1VkgyS0FHTUpnZDlDeGdsTG9xNUxkZEh5VVc2d3pQS2N0Qmw4LTZlckktUzM5MVc1UFZRNHNhbjRqUFRFYWI3Mm3SAd4BQVVfeXFMTWhXR2h5NnA0WTBCRFdFaU1pTVRXNmN5dndRWWlQTkF3MFJPVENFQ0wzcmVNWlA2QUVyUndxWFJ4UXZtV0F3UWczQ3pxb0JXX0xnUTVCTnBRQnRkVUdzeDJ6OFYxckFGNDNoN1NmckV5QmdMQ2xMbnFXY28zTVRkNlhESVBRNXdQRnE4X1gzMEk5TFpDNTB4ald4QnFVal9ZTjN3Q0QwOXNHcjlZMkotSGxydW9KY1pVMmhha2tGQnYxZWQ1VGZ4d3dGdlI2djJmS0VUUUNVNTJ6Y21DTUVn?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "Centre finalises alignment of Jalori tunnel on NH-305 - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkdUSjdOR2I3WHV1dno2WWZ1STRFZjZfb0IwWEUzYW5IQldlOGxKa1p4aFJOT0Q2NjFyQ3lIYjZvSnFtQ3RXNGtpeC1lbDA5YjZuYkhZd3FYRlp1SDBJRGZmTHR4cms4ZmVlZHJwZExZRWRxamlibzdGV3FKQU15RjBiNW9lLTJiNHJNQk81NmNJN3BvMXNscDhJZVZmUQ?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "Jalori Tunnel Project gets green light: Reducing travel time and winter hardships in Himachal Pradesh; will... - Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ1dKUWtsaUY0U0QwV2F3ZGRXbUVhWXN6azZOUFlHTFRPMmNvWnFERFFPQXZ6RzBXdTJVMkNTVXR5c0ZUd3JLQUp6M0Z3Zl9HZlQzTE5JVDNMLUdpR2Q3VEpaTTVlYWwxVExNTWxnN3VaYmZIdDlHaU1fTHRuVEN5V3JhWFFrYl9Qczh6bnhZeEppUVh2X2JmNFFCdng1UFJPNDJwMlNhR0xMelE5Y01DdE5HdVdGT2VnRkpMOEk3NTk0YXJWVk12STRjV0dxV0hKNndETUlwdGdVUdIB3wFBVV95cUxOYkdxdFAwTTNFZzRQRDlwanBCb3Q4Qk1PZFQwVlE2cWdTNWhiREd0T0Fhc2I1eEtENEM4NFA2NFl4Sm5vWFhsZi0xc0hsdHhUbEdjOEJYaW9SNEZfMmRIR0plY3lIbkxraHZOSllwUGJNYkxtUU5pdXJQVndXLUZlckdzeWdkOHlWeG9lamM5YXE4cU5XbzNwaWtKT0JZYXZ2VjB1LUNyNURPVnpabGNNLWtaTFpPTTFMSXV2MVBjRkpCcjZaNFlXSmFKa2VjZElWVldFMmJGMnFYMnFXZ2dB?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

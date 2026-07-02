@@ -1,89 +1,11 @@
 {
-  "updated_at": "2026-07-02T11:23:51.202Z",
+  "updated_at": "2026-07-02T11:52:01.020Z",
   "project_id": "PEKHUBELA-SOLAR",
   "query": "\"Pekhubela Solar Power Project\" Himachal",
   "counts": {
-    "videos": 3,
-    "comments": 7
+    "videos": 0,
+    "comments": 0
   },
-  "videos": [
-    {
-      "videoId": "gipDYtcWZfc",
-      "title": "PEKHUBELA SOLAR POWER PROJECT | 37 MW | UNA | GREEN ENERGY",
-      "channel": "Nimbus Academy - IAS ",
-      "published_at": "2025-04-22T10:45:36Z",
-      "description": "hpgk #geography #protectedareas #hpas #has #hasexam #naib_tehsildar #naibtehsildar_exam #naibtehsildaar ...",
-      "comment_count": 7,
-      "comments": [
-        {
-          "comment_id": "Ugwd5KlmtBmOGFp7Rrx4AaABAg",
-          "author": "@kanikamahajan8673",
-          "text": "Very informative and nicely explained 👏 👍",
-          "like_count": 0,
-          "published_at": "2025-04-23T04:40:18Z"
-        },
-        {
-          "comment_id": "Ugwk-TQICycAiC1lcMp4AaABAg",
-          "author": "@BO80010113",
-          "text": "🎉🎉🎉🎉",
-          "like_count": 0,
-          "published_at": "2025-04-22T15:20:59Z"
-        },
-        {
-          "comment_id": "UgxoiZN9crxp2d3GUsF4AaABAg",
-          "author": "@Aspirants-Achievers",
-          "text": "🎉🎉",
-          "like_count": 0,
-          "published_at": "2025-04-22T11:08:50Z"
-        },
-        {
-          "comment_id": "UgwViEthqcfRv1q1YLx4AaABAg",
-          "author": "@upasanarana3988",
-          "text": "💯",
-          "like_count": 0,
-          "published_at": "2025-04-22T15:46:57Z"
-        },
-        {
-          "comment_id": "Ugw11X5-OldA2XtmjiV4AaABAg",
-          "author": "@puneetjaswalvlogs",
-          "text": "❤❤",
-          "like_count": 0,
-          "published_at": "2025-04-22T11:58:02Z"
-        },
-        {
-          "comment_id": "UgxZ17VsgDZMNd_dvK94AaABAg",
-          "author": "@TaxilaAcademyByKrishnaBhardwaj",
-          "text": "🎉🎉",
-          "like_count": 0,
-          "published_at": "2025-04-22T11:44:31Z"
-        },
-        {
-          "comment_id": "UgzR6zXqhfV7KISTDe94AaABAg",
-          "author": "@thakurasmita8361",
-          "text": "❤❤",
-          "like_count": 0,
-          "published_at": "2025-04-22T12:08:08Z"
-        }
-      ]
-    },
-    {
-      "videoId": "77NJkpFR1lM",
-      "title": "दिवंगत चीफ इंजीनियर विमल नेगी की पत्नी का बड़ा खुलासा",
-      "channel": "हिमाचल आज ",
-      "published_at": "2026-06-29T12:56:00Z",
-      "description": "HPPCL के दिवंगत चीफ इंजीनियर विमल नेगी की पत्नी किरण नेगी ने पति की ...",
-      "comment_count": 0,
-      "comments": []
-    },
-    {
-      "videoId": "sJL1BLgHH1k",
-      "title": "क्या है पेख़ूबेला पावर प्रोजेक्ट  क्यों जुड़ रहे विमल नेगी की आत्महत्या/हत्या के तार|",
-      "channel": "Study Noesis",
-      "published_at": "2025-05-27T11:03:43Z",
-      "description": "Vimal negi # 32 MW Pekhubela Solar Power Project पेखुबेला में सौर उर्जा प्लांट का ...",
-      "comment_count": 0,
-      "comments": []
-    }
-  ],
+  "videos": [],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

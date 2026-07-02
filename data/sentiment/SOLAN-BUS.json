@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-02T11:24:52.915Z",
+  "updated_at": "2026-07-02T11:52:31.986Z",
   "project_id": "SOLAN-BUS",
   "press": {
+    "n": 5,
+    "positive": 2,
+    "neutral": 1,
+    "concern": 2,
+    "avg_score": -0.14,
+    "avg_magnitude": 0.46
+  },
+  "youtube": {
     "n": 0,
     "positive": 0,
     "neutral": 0,
@@ -9,44 +17,52 @@
     "avg_score": 0,
     "avg_magnitude": 0
   },
-  "youtube": {
-    "n": 2,
-    "positive": 2,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0.8,
-    "avg_magnitude": 0.8
-  },
   "overall": {
-    "n": 2,
+    "n": 5,
     "positive": 2,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0.8,
-    "avg_magnitude": 0.8
+    "neutral": 1,
+    "concern": 2,
+    "avg_score": -0.14,
+    "avg_magnitude": 0.46
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "धन्यवाद है गाड़ी चालक और उसमे बैठे सवारियो को👏👏👏👏👏",
-      "score": 0.8
+      "source": "press",
+      "title": "राज्य में 50 ई-चार्जिंग स्टेशन, इलेक्ट्रिक बसों के संचालन को HRTC ने बढ़ाया कदम - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb1dJdXFVM1FMX2RwOERyeVIyTFJpNUJkLU8zWXp0QmhNQ1RXOFdMQXRERTB6VWhPX1ctZG9GU3h1MlpKdkZ6S05keTZjVndlM3RJaXJHY3A3dGRhZmo2cFc4emliSGozMlJoZ0JZT1dqSEtUdFFRWGtwYnRkMVBxZ3FpeXBwR2dRbkozZGVLOGEwLURjZXVPOHBKVGZUS0JVcnNpZEVCWTNWdFEwR2ZHRmptb2tDWXFUT2NTRlFUUUQ5TXFnOHAwaXl3NjdrLXlYbmZYZ2Zld1h5aExSMGxGVTNMUGkwWm9R0gHuAUFVX3lxTFBBTm5RVW1Lb1VfeklqcHI0OEJhajFoZzV2dFk4ZzBvOFFQOWE5Uncwb0hPYU9WeTZvQkNJZjJwTGg4d0dKelduVG9kSmptanBBRERad1Q0d0t0alFDZ1doVUxvWS04d0RJRWZULU1KZnJIT3djem9BRWlaY0RXTlFLU3VxNFRjNThXSWgzVUktOG16c2VwZF9fRFBWQ0ZLUHluNUNUU2JPcUw3SDFQdXBKXzNTMU41bUt4dDVoZnVvWnRHZjlucjlneEJmRGJlRTZfcDJUd25BZ3hwbllZaHlOa09IQjVtakNTQ2VxRkE?oc=5",
+      "score": 0.3
     },
     {
-      "source": "youtube",
-      "title": "Salute with heart ❤️ to driver Bhai ❤",
-      "score": 0.8
+      "source": "press",
+      "title": "SPECIAL: सोलन के इस ढाबे में डॉ. परमार किया करते थे ब्रेकफास्ट - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNEVvTkV4TGxmUjdJSHdpcmU4Q2ZTVFZQLUhERE5tMFNaTHJTdW9Fc1M2cTJ6UDVobXBpTW9ac3lMNHFDNzV3MndPRFVKbjdWV2NDa0lwOGVWYnhpeng5ank3WnJ1VWF4ZWRJOEx2VE9yUXZFY0QxTjFqSjJGYVdlVXRrYWJHcHRLT21uS3p6a2gycmJZV2k3alZnTmg1bW5DbFd6MlVQUng0Wkc3bjVCTjVHUUdTU2d0OE9pazctQXRRRUdXRmhBTFVFMzdoM0tMNnk4Vy0xb9IB3AFBVV95cUxQVDVtRUprSnRId0FLUUVYWUZQbksyLUJ3dFNQR2ZyWllxMU9UQUhFeGd2S19HVTBpVUI5cVk5dHVZZUlsR1psQXZjS2RadmNaQlNBZDUxUEdZSlkxSWlkQUZ6dkZkZkVidGdZREJsMUNTR2xjR2RBUUdkQlB3T2JZNFMwWEVpRXNDS2FrVzlaV3Y5WmdzQ0tNa2tDVkhxODFsbDZjZ0d0Q3lLRjZWajhadjVMWUVfcVJPZDNKVzNwaTBYc0l5WUtJWXRWWUNlbzdXMmtlOF90MkxaSU8x?oc=5",
+      "score": 0.3
+    },
+    {
+      "source": "press",
+      "title": "Muslims Fear Escalation as Shimla’s Anti-Mosque Agitations Spread to Other Towns - TheWire.in",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc1loNE5LbFhZa05EUHN4TVVkaTVhOEF6QVpjVkozSUF3LWpMWW9QUXBiRkxOUTR0OFU0NlBRemVVWVFybUpiMktaRlRiVDhTc3FmTU9hZDRfdzE5YUpRbTJzRGtGQ1dTSXdJWnZ2d1N2TlV5bFQ4MDBQNUFTanRKQ3NBWGs0Yk9GMElUMEFvLUtLMFhLV2tPeVM0SnBKd9IBmgFBVV95cUxQbFY4Znp2MDVvWWhKVm14V3FLUzZIUVNVZ3IxOWZ4cUNZNlJxd284T0F5RnVFU3ZiNnN6cnpWTzNod3pBanp5X2hDcTF5cW5CX1djZ1V4akNCM21iNWNTSkwwa0RyX2tpekhTeUt1LXlEbUtnVnlMN3dGTGtjVVVNaHlkRDd3bzFGSjlwOUZ1Z0d0SHFfUFZVNVRn?oc=5",
+      "score": 0
     }
   ],
   "top_concern": [
     {
-      "source": "youtube",
-      "title": "Salute with heart ❤️ to driver Bhai ❤",
-      "score": 0.8
+      "source": "press",
+      "title": "Himachal BJP chief's 80-year-old brother arrested for alleged sexual assault - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0Zmb1RvcnNaM0MwOEE4SWEzcWhyd1RSV3RVODBJYndfNjlLMmJWRlJWZERVT0lPX21wYV9IcFNORDc1c3VUUEFBZWJRdUozemhVVXlFYktsQnppcTRGU2xwV3d3TWJzVTYzUElYU0hNQ0NPOFFNTDNjYzRUUEJlb3haRVJSSEpod3Z4UlhDSFNPSC1wOHJybnFJcDlZaldRRDRCYW1xbWlQOW92dXI0eUN6Zm1fN0RRQUNsLUNTRmxENVc00gHSAUFVX3lxTFBBcFZ0V1VpVFh5WFdsVTRVeTJnUG1KaUJtM0l2akxuaWU5TlludjFLQ3laNGlvQ1p2NGtkeEhHNzQwSzZTZm8yTGFUTGlteDVybWZiUGN1YjR1ZzM3ajRsbnpWZHozb3NJNG9rc0F1eC00SW1ybmlkOHl3b1N0a0l0YXowS0Y3TGJyaVluYVU1azRobEpkd1pOY0xBQ3JqUUR2cGVzVnVqeVlHVUdUc3lSajIyVjhuLWEzaXpnOWNpUVlEa2h2Y2o1Ym93aUpNZFFvdw?oc=5",
+      "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "धन्यवाद है गाड़ी चालक और उसमे बैठे सवारियो को👏👏👏👏👏",
-      "score": 0.8
+      "source": "press",
+      "title": "Forensic report backs rape allegations against Dr Bindal: Solan police - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT1ZXSzVXLVI3cVdlRTk4X3hnbENhTFR1cTV5cGZMYktVSDR4V2NxNjE5UEVOWFVEV084bUN3ZHpZakY1NURHVjJmNFl6WV9WaWFDUWxGQXFSNHpTRDNLcUpJOGFJa0JFWkVWeTBHWnRrQnZybkJfNzNTV0lndXAxbGlZWDJwYjdoa25iSHo0eXBCN21UdW03Wnh2LUlNS0JubkdGR1c3Um1PUEUyQ1A0T3RwaTJEdlJfYUV5Z2JwQzFPUjBqZ3dPUVIyeWx2cUdLa0hJSkE5SVJ0bmpuOGZNR9IB5gFBVV95cUxQQmR6cXhGLTRfdmJlTlowVmIwanotYllTSGVJckNQWDZnU2RCb0ZPckVyUmdXbHRWb2JwOExDZzYwdk9KYURKSGFxZk1iRVdFTjJ3Y2VUZ3Zab0tweGMxQWlGcHRqU0dmSVlxOHdQYkNiYWtDeVc3cWFYdFRmaEIySnpEUWo0dU5WMTkzNlZhTjIzcGZzVFFIaVZJVkxpMFRtY09oRloyQkRrNndhOGFucmdsa05sREg5OE5vUFdpOXZQQkc3bmU4aXdjUW1TOWpRMEx1Tm1CczJTVmZ3Rk1XdjltRmJRUQ?oc=5",
+      "score": -0.6
+    },
+    {
+      "source": "press",
+      "title": "Muslims Fear Escalation as Shimla’s Anti-Mosque Agitations Spread to Other Towns - TheWire.in",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc1loNE5LbFhZa05EUHN4TVVkaTVhOEF6QVpjVkozSUF3LWpMWW9QUXBiRkxOUTR0OFU0NlBRemVVWVFybUpiMktaRlRiVDhTc3FmTU9hZDRfdzE5YUpRbTJzRGtGQ1dTSXdJWnZ2d1N2TlV5bFQ4MDBQNUFTanRKQ3NBWGs0Yk9GMElUMEFvLUtLMFhLV2tPeVM0SnBKd9IBmgFBVV95cUxQbFY4Znp2MDVvWWhKVm14V3FLUzZIUVNVZ3IxOWZ4cUNZNlJxd284T0F5RnVFU3ZiNnN6cnpWTzNod3pBanp5X2hDcTF5cW5CX1djZ1V4akNCM21iNWNTSkwwa0RyX2tpekhTeUt1LXlEbUtnVnlMN3dGTGtjVVVNaHlkRDd3bzFGSjlwOUZ1Z0d0SHFfUFZVNVRn?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
