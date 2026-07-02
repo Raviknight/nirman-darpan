@@ -219,12 +219,14 @@ Columns:
 | Key | Type | Size / values | Required | Default |
 |---|---|---|---|---|
 | `name` | String | 200 | ✅ | — |
-| `district` | String | 100 | ✅ | — |
+| `district` | Enum | `Bilaspur`, `Chamba`, `Hamirpur`, `Kangra`, `Kinnaur`, `Kullu`, `Lahaul-Spiti`, `Mandi`, `Shimla`, `Sirmaur`, `Solan`, `Una`, `Statewide` | ✅ | — |
 | `category` | String | 100 | — | — |
 | `description` | String | 2000 | — | — |
 | `source_url` | String | 1000 | — | — |
 | `author_id` | String | 64 | ✅ | — |
 | `status` | Enum | `pending`, `accepted`, `rejected` | ✅ | `pending` |
+
+> `district` is an enum (not free text) so misspellings can't enter the data even via direct API calls. The values above exactly match what the site's dropdown submits — spelling matters, including the hyphen in `Lahaul-Spiti`.
 
 **Settings → Permissions:**
 - `users` → ✅ Read, Create, Update
