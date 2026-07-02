@@ -1,0 +1,53 @@
+{
+  "updated_at": "2026-07-02T11:24:52.915Z",
+  "project_id": "SOLAN-BUS",
+  "press": {
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
+  },
+  "youtube": {
+    "n": 2,
+    "positive": 2,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0.8,
+    "avg_magnitude": 0.8
+  },
+  "overall": {
+    "n": 2,
+    "positive": 2,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0.8,
+    "avg_magnitude": 0.8
+  },
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "धन्यवाद है गाड़ी चालक और उसमे बैठे सवारियो को👏👏👏👏👏",
+      "score": 0.8
+    },
+    {
+      "source": "youtube",
+      "title": "Salute with heart ❤️ to driver Bhai ❤",
+      "score": 0.8
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Salute with heart ❤️ to driver Bhai ❤",
+      "score": 0.8
+    },
+    {
+      "source": "youtube",
+      "title": "धन्यवाद है गाड़ी चालक और उसमे बैठे सवारियो को👏👏👏👏👏",
+      "score": 0.8
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

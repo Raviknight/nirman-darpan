@@ -1,0 +1,31 @@
+{
+  "updated_at": "2026-07-02T11:24:45.436Z",
+  "project_id": "SML-WATER",
+  "press": {
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
+  },
+  "youtube": {
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
+  },
+  "overall": {
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
+  },
+  "top_positive": [],
+  "top_concern": [],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

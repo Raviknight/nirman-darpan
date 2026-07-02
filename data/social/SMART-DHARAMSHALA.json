@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-06-29T20:47:50.548Z",
+  "updated_at": "2026-07-02T11:23:09.701Z",
   "project_id": "SMART-DHARAMSHALA",
   "counts": {
-    "press": 65,
+    "press": 64,
     "gov": 0,
-    "en": 43,
-    "hi": 22,
-    "total": 65
+    "en": 41,
+    "hi": 23,
+    "total": 64
   },
   "mentions": [
+    {
+      "title": "मिशन पूरा... काम अधूरा : सात बार डेडलाइन बढ़ी, स्मार्ट नहीं बन पाया धर्मशाला - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTHR6c293TFJoV3QzWWEteC1kVmdGMkRiWFRWZjliR2pibTdVb00yWkVGVm5WZFB2TFl1c0w1dDZwcGVzTldteVZiUWFMV3doOFpxZWpuR1o3ckFWdzZpWnhCcnpmeXlUVTJuZzE4d25lbkpZa2Y4MllGX3kyS0Znc1otbTdnU1hsT0d2MTlQUzkzY3NlNDNGQWk1YkpZdHdWVjZLQXNSTGZtMGhpNVdnLXYzb3BWajlrMjB4ck5DTnU0MkNXU3pJX1dTeWNfdlpsS1hJcUJTTWJURW9sRklmU1BDeWE3U2V0enNGODIxWUbSAfYBQVVfeXFMTUdnVHk0QWxYRDhyR2pYWHp6YkowWW5JeUlqSmFURGI4NDdmTFFjeGc5X0JOVXNpaGYxcHllTTRfbktmS05qNnNtWlFFQV93Y2oxRnNfWDRUTmtjSWNtQjRnSFR1SEhNN3o0MkVGRGFPdXpybl9BMmFFckFxajk2R1BhME8yQl9oWU9aQW1YUU1YZ001Nzh5NkhzcUNoOHBoU0NmY1RFNXVHZHJMNDZiYm1neGJKbEVlNV8xd1hkSDVuM3FMekhZWFI2dURIRWdZa2dDbXdObVYtbW4teTRhcEFaTUs2ZS1lLXFRdVdtbkpvNE5KTFBR?oc=5",
+      "date": "2026-07-01T20:22:53.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dharamshala Smart City"
+    },
     {
       "title": "CM Sukhu unveils redeveloped Fountain Chowk, E-Bus Depot in Dharamshala - MSN",
       "source": "MSN",
@@ -50,10 +60,20 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "धर्मशाला स्मार्ट सिटी 82.73 करोड़ की देनदारी में फंसी: - Dainik Bhaskar",
+      "title": "Kangra News: छह बार बढ़ी डेडलाइन, फिर भी अधूरी रही धर्मशाला स्मार्ट सिटी - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPd1ZTUTVaLTVIRHV2ck1oTXhDYkZfa1pPVzNvYnQ2LWVRZ3dpVktIX0hiVV9paTYwTEtrWVBFUks3Y1kwRkNyZUhTdjZiMTlWN3diVERyNkVld1dyTHgyc3Q3VkVtRmxuZncwaXZSYWVEUmpvUlV1Q2IwZVc5WjhJaEdWQ2tRQlQ1RDliS19DR1JIVExDRVVRNXJ6VnBMWmZTUXhLNEIyQlFZRld5UkV3TkhyY18taWVJQmlEZ2RacmIzdTJtQmtzWTV6M0RPajJUQ3F0QmNmLXBYU2loVFZSQl9VSjN1cHI0Q2NUcnhKMWFRZmxoUHg3T01LYkw0amx4SDJjeUVFTl9aRmx00gGSAkFVX3lxTFBnM2hKQ21TY05faU01T2o4aFNJeGg0YWlGcUVuZE5JcmRxaXR4M3pZTUFlekRxNWdhS3F4R1ViVVBUcFRFVFlWRE5UUTRFUHc3aGx1TDFlMzlEYjZXTU42ME1qQlczWm9Db0I3UXZ3d09rS3hnZ3k4MGlLSXpHUjIyZWFCaU1GMjFuTkdEdUZjTTh5WllHWUI1RUFaVi1lMU9IOW1RNDRQV05KdHFieFdxc2xCUzdsOGJON09mZkg2NFVySFBOVGtYMUVyNUhMdlkxYlhaSXhOMzU5LXgwUUMzQ0wtRkxIZW5maFRERWxFQ0RaTFhWYnpMVTh6STRDV3I3MHVDVE44V3NUVlN6RHZvdlE?oc=5",
+      "date": "2026-06-17T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dharamshala Smart City"
+    },
+    {
+      "title": "धर्मशाला स्मार्ट सिटी 82.73 करोड़ की देनदारी में फंसी: 542.89 करोड़ के बजट के बाद भी बैंक में सिर्फ 62.28 क... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdDJicXNqd3czZEN2WFplTExzMTJ6QkxyMjJmejdsd0piLU1jQ3Y2R0RkNXE0YXJsenVnaEdzcmlpNlpqajE3a2ZtaWJzSE1vMUVDQXJRcHIzOHlGdU5JV1dwSlB6MGlydjJhY29tZEZnQmo4ejluMEllVWwwOXVHcktwWTFxTkppa1RGVFFfamoxcGFjcjI2WXU5TDZUMlc1STF5OHBPUDVjTHdpSDU4MDFkTG94RG5kdnRLa1JlS3A3T19OUVRWNw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdDJicXNqd3czZEN2WFplTExzMTJ6QkxyMjJmejdsd0piLU1jQ3Y2R0RkNXE0YXJsenVnaEdzcmlpNlpqajE3a2ZtaWJzSE1vMUVDQXJRcHIzOHlGdU5JV1dwSlB6MGlydjJhY29tZEZnQmo4ejluMEllVWwwOXVHcktwWTFxTkppa1RGVFFfamoxcGFjcjI2WXU5TDZUMlc1STF5OHBPUDVjTHdpSDU4MDFkTG94RG5kdnRLa1JlS3A3T19OUVRWN9IBzgFBVV95cUxOUU8yOG43M0xyNXpCWTVRQkJNYkdKanJ6bl9scEM2RXZQb1lxc2JYTjlPclN5am5TTVdpWTZUVWk5bWlsd2h4RFZ2ZDRRa2ZVQzlJb2RSSTBUMXRqMExlbmZ3UGltcUYzU0FnUWVMMTMycjB6ZG1NMWlybEQxYWZRS0NMV0xZa2VjVENaS3BiTUtWOUR1aU9oVmN1NGxDbC1Ic3NydnhQal8tZU1faE4xS0dxcDR0RUFWdjJOTE8xc2t1Slo4cGdRckVNZDFpZw?oc=5",
       "date": "2026-06-17T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -65,16 +85,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wN0FJZUdjYTE4N2FjNHdKYV9EOVBCR3gzbHk5RWYzd0g1YlBQRmxRZ2hCMm1waWpweFlvbnAxVjF2WDRkcVNMaGpLbDMtQmJDWlJCcUJ4NXFYbEV3dlFhVGM5bU5jODRBU1ZudGYwblZIX2xxZGlTeDJfU1c?oc=5",
       "date": "2026-06-17T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dharamshala Smart City"
-    },
-    {
-      "title": "Kangra News: छह बार बढ़ी डेडलाइन, फिर भी अधूरी रही धर्मशाला स्मार्ट सिटी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPd1ZTUTVaLTVIRHV2ck1oTXhDYkZfa1pPVzNvYnQ2LWVRZ3dpVktIX0hiVV9paTYwTEtrWVBFUks3Y1kwRkNyZUhTdjZiMTlWN3diVERyNkVld1dyTHgyc3Q3VkVtRmxuZncwaXZSYWVEUmpvUlV1Q2IwZVc5WjhJaEdWQ2tRQlQ1RDliS19DR1JIVExDRVVRNXJ6VnBMWmZTUXhLNEIyQlFZRld5UkV3TkhyY18taWVJQmlEZ2RacmIzdTJtQmtzWTV6M0RPajJUQ3F0QmNmLXBYU2loVFZSQl9VSjN1cHI0Q2NUcnhKMWFRZmxoUHg3T01LYkw0amx4SDJjeUVFTl9aRmx00gGSAkFVX3lxTFBnM2hKQ21TY05faU01T2o4aFNJeGg0YWlGcUVuZE5JcmRxaXR4M3pZTUFlekRxNWdhS3F4R1ViVVBUcFRFVFlWRE5UUTRFUHc3aGx1TDFlMzlEYjZXTU42ME1qQlczWm9Db0I3UXZ3d09rS3hnZ3k4MGlLSXpHUjIyZWFCaU1GMjFuTkdEdUZjTTh5WllHWUI1RUFaVi1lMU9IOW1RNDRQV05KdHFieFdxc2xCUzdsOGJON09mZkg2NFVySFBOVGtYMUVyNUhMdlkxYlhaSXhOMzU5LXgwUUMzQ0wtRkxIZW5maFRERWxFQ0RaTFhWYnpMVTh6STRDV3I3MHVDVE44V3NUVlN6RHZvdlE?oc=5",
-      "date": "2026-06-17T02:36:03.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala Smart City"
@@ -100,10 +110,10 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "Dripping Springs library celebrates four decades of community - Community Impact | News",
-      "source": "Community Impact | News",
+      "title": "Dripping Springs library celebrates four decades of community - Community Impact",
+      "source": "Community Impact",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWjZfNzdIc2N1cjdmQVVRTjNpcGg4NHh0ZXB6SFRhQlJQSU9oT0dXLWhIWEtjSjJsYW56T1VPWnNPcGMwQ09qYW1peGt4OTZ4NXVFMDF1dWR5VU9BU2dJLUs4MnRyUl9fOHdicTN1R1JrRms4ck5ha19ONEVfVU15YUlITVYyM0RIX1l0czgteFB6Sk15ekd5bGF0bE1zaGJBWWs0NGxuM0RmTDMzSnVLTWsyVDlVTGJZTDdROTlJUjgySXZnRnBVeGhFN01QcmdSZnBuU0otWnRKczAyWlN0c2pKelRvZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclpKclpQWmdQRm1ObTB1ZXdRR3FOenZSTVVrelpaZEVSUlEyX1FHUmxKVlNVdVVFTDkzb0wycWJoMUF1VEdzUmtzeGJubFlqMVl4QU41a2kxX2N4M2RVenppdFFGV2RjbTJ1ZEpzTlBoWWk4cDhERzI1TzQxbEhVdmtMVWxVQUlJbmgtM0pFR25zTWtGblU1OTdESng4WlMxSlRfaF9qSHk2RExrby14QUVrUFo5ajRqcUdjRm1JVEN4MGFIZ1djLTl1MHNHQQ?oc=5",
       "date": "2026-05-20T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -120,11 +130,31 @@
       "match": "DSCL"
     },
     {
+      "title": "Dripping Springs Community Library connects writers in spotlight series - haysfreepress.com",
+      "source": "haysfreepress.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHp3aUFrOGZQeGhubjlLRzN5b1pxbW1XUmtkZmVsYnRReDlodTFJSXA3dFJXVF9tV3ZyanFNdHJlVmhYR1NWdmJPS0VzV19GSEp4MU40MWJjaHBlM1dsTnc5UjNhTExnMzBUUzctM2NPTGRmSloyaWtNTlZuQTdqRGJQT0lWbzhhNXpRWEtjd1gwNWxHbnM3blNrZU0yVzBWVmlueHVzY3UtcV9aMGtSSHhlWXp6UQ?oc=5",
+      "date": "2026-02-18T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
+    },
+    {
       "title": "धर्मशाला स्मार्ट सिटी योजना अधर में: 2109 करोड़ का था प्रोजेक्ट, 542 करोड़ की मंजूरी, 80 में 20 काम ही 9 सा... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1hGSHRDVDRNaVZmUmZQYklydndtQktJLUVBeGgwNkZzMldfQTliZUF5eTlIMmRuR0FhSTd3MzQtSkhrQ19tWGJsZmN4Y0lHLWg3VDltNnEyNlUzUlVmYi1IUUpaUU5GY3h3dXhnZVpzbjJMNDFFQjZmNVRZSElsLTBrUW9lUktKUEh5T3VtUlNsdmNjVmU1UnRPWjRYTi1ybDFOYXZoVFd6bjJydUdwd1FuQW_SAboBQVVfeXFMTVpWTV9hMGl3c0dFcnRMek5qbjZhQXpPZUR1OEh4NlhNakFWNF91VDNRbUtYdUtrV3NfOWRBcmdMbFNueEhsWXBuUVpNbmIwSmFtMEtzM2xLeW10SVhyMEp4d1AzSkkxRnp4WmVBaTlEdmI5X1BSNzEtNVJxaEJnSHF1ZGtfWDB4bjNIUURPdTBnNmg0cEJGTXNhNVphNC1BUmZKU0J6b0VKdWpIMzNieV9UbjJHU083Z1BB?oc=5",
       "date": "2025-12-20T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dharamshala Smart City"
+    },
+    {
+      "title": "धर्मशाला शहर को मिला 25 करोड़ का समृद्धि भवन, तीन कार्यालयों का होगा संचालन, अब नगर निगम का पुराना ऑफिस भूल जाएं - dharamshala gets samridhi bhawan a 25 crore smart city project - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXRwQWs2RFJBVE82MHUwSm1PMnU2eFBwa09kdHI0eXZmeFVrRjUxUzFodnh6THhhNEFUc1ZiUGgtVGFnRHBCUHFGX1lfOXI1Rk5TQnYydnlSeHZ0dkdyazVvNWZMS1ExUGxHdzZYR1Iwa3Byd2JRSGY3aTRVTmZTbHpPZU93b3B6TnUtT3ZhZUxHNFlTQkJpb3p4bU1FRm5rc3M1N1p2WDc1U1czQkVRaFBwdDloRkZXb1dRMTFxRUt0NE82QVE?oc=5",
+      "date": "2025-12-02T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala Smart City"
@@ -178,36 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Dharamshala Smart City"
-    },
-    {
-      "title": "Dripping Springs Community Library looks to future - haysfreepress.com",
-      "source": "haysfreepress.com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXg0bldBSDFHQWpiMFh0aDRYbU9aRUJGWjAzN24wMnRuazYyNWlnNGhzV3dSaTdZTUtDUldyX2l4SHFBLWRhc2pyVjJtTUhjMGNlSDViSjh1bTAwTDJ6Mzg5RnQ5SzZvZkZPbTA3a2hxZkJIa3BiM2x3U3B1d080Ml93SlVfWlJvay1pMmlPRTFzUnE1N1U2WGxn?oc=5",
-      "date": "2025-03-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
-    },
-    {
-      "title": "Tamil Nadu Weather: Kallakurichi Records Over 160 MM Of Rainfall - Check How It Rained In Other Dists - Oneindia",
-      "source": "Oneindia",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZldvZ2d5RTBQQmgwUzE0VlZOR3Q4ankzWkE4VzUzMmh1MGZzNG1ZVnY1clU2emwyb19Od3VXUWxmbHQ5dEgtUnJBWkpKMV9SRng1UTdzOFV3Z2NZUWN1Q1NIWjZ3TWdEdDAxRVRSMWZ4dVpEYVM1d0tlbFNjbXlJRlAzNElNbmxhSTlDbzRib1FhRDFUV0JVUW5TSUhSeWZXYVhBa0pGcm9CT1Jod2NSd2hZVk9sMWdDX2dNYlZnQ01QSWRTZDRwS3VsM3ozTFJjdzRNU0ppV0h3SEU?oc=5",
-      "date": "2025-03-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
-    },
-    {
-      "title": "Love Thy Neighbor - City Lifestyle",
-      "source": "City Lifestyle",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WOGlKaFM1eTJHWHNEdnFPeEJsNk1VWG00V19fTXFjaEhHc2VpcU93OHduQXVHSWtfRVI3aXpmX01UVnNDNXdxLTR6WkxveEx6VkRXdVhDMTdNNWRnVURERQ?oc=5",
-      "date": "2025-01-29T20:12:34.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."

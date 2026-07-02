@@ -1,0 +1,64 @@
+{
+  "updated_at": "2026-07-02T11:24:49.663Z",
+  "project_id": "GMC-HAMIRPUR",
+  "press": {
+    "n": 1,
+    "positive": 0,
+    "neutral": 1,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
+  },
+  "youtube": {
+    "n": 4,
+    "positive": 0,
+    "neutral": 3,
+    "concern": 1,
+    "avg_score": -0.125,
+    "avg_magnitude": 0.175
+  },
+  "overall": {
+    "n": 5,
+    "positive": 0,
+    "neutral": 4,
+    "concern": 1,
+    "avg_score": -0.1,
+    "avg_magnitude": 0.14
+  },
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Dehra Mein college banaa hai Intercity college",
+      "score": 0.1
+    },
+    {
+      "source": "press",
+      "title": "Health horizon expands: With Rs 350-cr campus nearing completion, Hamirpur medical college prepares to shift to its permanent home - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQX1psSGFXMUVrRWlsX1VUN20tTlE2TmFoQ003a0dwT29oNjd6TWxRVG5xWkRKSEIzM3B0ZFBOVjdTM1F4NlhUaVVnRjJ5MUpGcVVRSFVpVVFmYzhDMm5la01tbDNhVkF0WEdQOEhELWlidGlab20wZ1MwTGxyQmVJbnM4TGd6dVRVdm90Ml9OLUJ2cG5RTlQyb2NFTnRnZHRfck04eXpKWlNNbHZjczAwY2ZicjlRWUJaMzVobDYtaEo4dzJQTEZUZURvYUt4UUxsOHBvTmo1RVpIUzVqVkROeVRRQ1Zud2ttcnhfVHVpYlY4QXB6dGVjMHhoYnpIYmY3NWxiX29R0gGGAkFVX3lxTFBfWmxIYVcxRWtFaWxfVVQ3bS1OUTZOYWhDTTdrR3BPb2g2N3pNbFFUbnFaREpIQjMzcHRkUE5WN1MzUXg2WFRpVWdGMnkxSkZxVVFIVWlVUWZjOEMybmVrTW1sM2FWQXRYR1A4SEQtaWJ0aVpvbTBnUzBMbHJCZUluczhMZ3p1VFV2b3QyX04tQnZwblFOVDJvY0VOdGdkdF9yTTh5ekpaU01sdmNzMDBjZmJyOVFZQlozNWhsNi1oSjh3MlBMRlRlRG9hS3hRTGw4cG9OajVFWkhTNWpWRE55VFFDVm53a21yeF9UdWliVjhBcHp0ZWMweGhiekhiZjc1bGJfb1E?oc=5",
+      "score": 0
+    },
+    {
+      "source": "youtube",
+      "title": "When will new campus shifted?",
+      "score": 0
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Dii cut off rank for state quota gen?",
+      "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "Does the new campus include a hostel for students.😊😊",
+      "score": -0.1
+    },
+    {
+      "source": "youtube",
+      "title": "When will new campus shifted?",
+      "score": 0
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

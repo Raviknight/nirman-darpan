@@ -1,0 +1,64 @@
+{
+  "updated_at": "2026-07-02T11:24:19.298Z",
+  "project_id": "AIIMS-BLP",
+  "press": {
+    "n": 20,
+    "positive": 9,
+    "neutral": 10,
+    "concern": 1,
+    "avg_score": 0.135,
+    "avg_magnitude": 0.175
+  },
+  "youtube": {
+    "n": 22,
+    "positive": 16,
+    "neutral": 5,
+    "concern": 1,
+    "avg_score": 0.386,
+    "avg_magnitude": 0.423
+  },
+  "overall": {
+    "n": 42,
+    "positive": 25,
+    "neutral": 15,
+    "concern": 2,
+    "avg_score": 0.267,
+    "avg_magnitude": 0.305
+  },
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Aiims Bilaspur is also my dream medical college 😊🥺🥺",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "AIIMS Rishikesh & Bilaspur offers amazing scenic beauty.",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "❤❤❤ so beautiful Bilaspur",
+      "score": 0.9
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "Manikaran road mishap toll rises to 3 after injured youth succumbs at AIIMS-Bilaspur - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcm1NUWlYdFVua3Y0SDNjYWE1WXZscm54T2tzaEdvN2N4TkMwZ1czTUs0c3gzRVVJUEFzZ3N6c1B3Rzl1OWpPZlAtQkhzczRDaU9PQTFhQXhMWDZCT0dGOEJUWWg5YlBLNDZOb2JCbmNqVWh0aTR0UnM4c1BQYTBORkg3ZWxWX1NxMmlsUGJaSmFHVjdiTUVEcHFFNWM5aDRwNGJFN0lIZWEwdVlGQlJxTHV2X3M4b29zUktWNHRDTElaX0kweldB0gHLAUFVX3lxTE1Xd2ZSLUNwZUVPaW9udTdqU1dPWWhtUjk5MjZxOFd4RWlmYnJJV1VuZXl6UFZ1bXNvQW4wNGNPblJkTktvOUlDTFpDalFMLVRYODFLU2J3bjBoak0wa3pvUmRrN2k1SG5pQXUzWFFzcEFqbHBUUU5iQVFUT2taWU04VHZKUHVDbS1PUWQwWF95cmJSS243YWNVREhOb0g5SEtZc3YzZWRLdDcwd081MWJ3X1VjcHdWYzJCTFZuMU9ndUdnY0psdTNObVNr?oc=5",
+      "score": -0.3
+    },
+    {
+      "source": "youtube",
+      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
+      "score": -0.2
+    },
+    {
+      "source": "youtube",
+      "title": "Pls bhgwan ji 🙌🙌🙌🙌🧿🧿🧿this time 2026 🥹",
+      "score": -0.1
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

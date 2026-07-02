@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-07-02T11:23:49.191Z",
+  "project_id": "SCHOOL-MOD",
+  "query": "\"Govt. School STEM Modernisation Cluster\" Himachal",
+  "counts": {
+    "videos": 0,
+    "comments": 0
+  },
+  "videos": [],
+  "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
+}

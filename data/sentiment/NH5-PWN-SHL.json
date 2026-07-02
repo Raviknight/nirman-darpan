@@ -1,0 +1,65 @@
+{
+  "updated_at": "2026-07-02T11:23:58.660Z",
+  "project_id": "NH5-PWN-SHL",
+  "press": {
+    "n": 20,
+    "positive": 9,
+    "neutral": 8,
+    "concern": 3,
+    "avg_score": 0.09,
+    "avg_magnitude": 0.25
+  },
+  "youtube": {
+    "n": 22,
+    "positive": 9,
+    "neutral": 8,
+    "concern": 5,
+    "avg_score": 0.232,
+    "avg_magnitude": 0.405
+  },
+  "overall": {
+    "n": 42,
+    "positive": 18,
+    "neutral": 16,
+    "concern": 8,
+    "avg_score": 0.164,
+    "avg_magnitude": 0.331
+  },
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Beautiful road journey",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Thanks for the video!",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Nice video 👍",
+      "score": 0.9
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Non veg items nahi batana chahiye, vagiteran ka khyal rakhna chahiye",
+      "score": -0.5
+    },
+    {
+      "source": "press",
+      "title": "Shimla landslide: Yet another complaint against NHAI, this time by Himachal forest dept - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVVNwaWJCN0RwcmVLQ0NFaF9hR09XbGNaX2Q1anRXamdFV0VNc2t2WURvWW41TjQyUnJ3TGdoc09tQWc1ZEZ0elZrRTNpYkdwUVMyLU9VdE1yMnpQczVpZzRHbFk3ZzdpTHVvRVMyc2NiNm1EbktydndhdDhJR25tQkQ1dUR2NFNaSGVfNGdHMVFhWm5MQmZMcGJfeG9kNU11TnRqTVYxN0N4X3Y3Q1NLSFROWlNuSUFKaVNHVXR1US14cVlJcndHT21lcWZ1QkJlSVBtQy11X1LSAd8BQVVfeXFMTUtQaU5VTUhycVBfRkN3WXBzQVhyWkhTcjZGM21KZlM4UzhpU0NaN3d3NzRmMVpFODM5N2FBX1EtbEphaDhOa3hzbENHM25SQWZRUE9ZMURHVXJNS080NmRPNFZHWFFCbVYxdzR5UWNfNWNsMVVfa2R2VUxkZEVqU0Z4SVQtRWZ6T0R6clVVNTJraUZaN2hIOXc0UmpoSXhTaXlKcmNvWkxYSFBFY0hsbE96THlCQjhNTGwzR0oySzA1TmVGS2tFV3FJamRSTE82b2hGdERfb25JaDdVQ0Z0TQ?oc=5",
+      "score": -0.5
+    },
+    {
+      "source": "press",
+      "title": "Landslide at Shimla in 2025 an 'act of god', NHAI tells NGT, rejecting compensation claim - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHo2bDBRdUc1MnV6NkNxZ0JnOVBfX2hvYTFOUlVRa1pGVmlfM3NmYUF4UFlsaUIxbmRId3AwcDlqLUtPZWtteWQ4dUcwaG5UdS00TGU4UW1SbXlycEJYbm5DNHdJQjJKb0FiWEpXSWxLdHN2emNzTFp2dXpYaFdFdVJhWWpvcmt6dTZxNXVyd3VKXzNLZ2pGS2JWOUtpM2Q5LU1jeGpkTzktaUh3TTRXUXNWbVVIMU9uaGtQTWNwT3RVbV9IQjFSUXFuQmY0dWFKZGfSAd8BQVVfeXFMTmd2c0NHT2YyRFl0bHFuRUZXeU5rRGtBdzQ2cDBqeGVZWnBLaEF1V0ZhS0hOdFBPaG12NmVJdlJjeDMza20yOEN5dG91QUpBV19jcWxaOFZjTHpJeDR3U2ZhM29IRlpIcHV6SHMtUjc3UVl0LXA4MmgxZXlpcXhxeUZfemhlVHlyYlFyd05IN2ZxbjVVZUpURFNOZ21FSGQxbV9qMkRYM0F5T3lFQXEwcUo4SGxIeXZXRjNiYXE0Mi1KSTlZaTJoSjVmWGZzLTR1NGVZNVEzUG5RYjFRb2FRVQ?oc=5",
+      "score": -0.5
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

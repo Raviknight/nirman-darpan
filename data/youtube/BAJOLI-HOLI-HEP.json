@@ -1,0 +1,98 @@
+{
+  "updated_at": "2026-07-02T11:23:50.589Z",
+  "project_id": "BAJOLI-HOLI-HEP",
+  "query": "\"Bajoli Holi Hydroelectric Project\" Himachal",
+  "counts": {
+    "videos": 3,
+    "comments": 8
+  },
+  "videos": [
+    {
+      "videoId": "_5vjQqiDu6s",
+      "title": "Bajoli Holi Power Project by GMR India",
+      "channel": "OdyssE Films",
+      "published_at": "2022-12-07T10:06:14Z",
+      "description": "A film celebrating the Bajoli Holi Power Project in the Himalayan foothills of Himachal Pradesh.",
+      "comment_count": 3,
+      "comments": [
+        {
+          "comment_id": "UgzCZV39OyJDxmQ6KMt4AaABAg",
+          "author": "@shyamsingh-nl9uj",
+          "text": "Please take the road to bhara bangal also,",
+          "like_count": 0,
+          "published_at": "2024-10-26T03:43:24Z"
+        },
+        {
+          "comment_id": "UgzwS24Aybjucxs8hrZ4AaABAg",
+          "author": "@syedaatifshakoor6054",
+          "text": "I also work in this project",
+          "like_count": 0,
+          "published_at": "2023-10-26T15:02:09Z"
+        },
+        {
+          "comment_id": "UgwXa-usRocLUN4gBYt4AaABAg",
+          "author": "@kapoor1996",
+          "text": "Chor company hai .. GMR tabhi toh loss mein chali hai..gareebo ka haq maara hai ..tabhi bik rhi hai.. ek din pura group bik jaega",
+          "like_count": 0,
+          "published_at": "2025-06-02T13:36:31Z"
+        }
+      ]
+    },
+    {
+      "videoId": "5PWr2pKWLkY",
+      "title": "Daily vlog | Day With Hydro Project Site Engineer |Bajoli-Holi HEP | Chamba | Himachal Pradesh",
+      "channel": "Holi The Land of Shiva ",
+      "published_at": "2021-02-20T05:40:13Z",
+      "description": "This video specially made for the young grads who recently graduated from Civil Engineering and looking forwards to make a ...",
+      "comment_count": 4,
+      "comments": [
+        {
+          "comment_id": "Ugw8b8IV_hTC449Z-Yp4AaABAg",
+          "author": "@HPNEWS24948",
+          "text": "Super videos 👌👌👌👌",
+          "like_count": 0,
+          "published_at": "2022-08-24T11:55:55Z"
+        },
+        {
+          "comment_id": "UgxFgG5dH6CS5t1qZjd4AaABAg",
+          "author": "@arvindsharma0087",
+          "text": "😊😊😊❤❤❤❤",
+          "like_count": 1,
+          "published_at": "2021-02-22T03:59:59Z"
+        },
+        {
+          "comment_id": "UgwHffsyMqNE4nad3V54AaABAg",
+          "author": "@atiralam4121",
+          "text": "Awesome bhai...  Thank you it helped me alot and opened my views on hydro engineer.",
+          "like_count": 1,
+          "published_at": "2021-02-20T05:48:45Z"
+        },
+        {
+          "comment_id": "UgxfBQjAe47wQ7sJC6R4AaABAg",
+          "author": "@SHUBHAM-dq4rz",
+          "text": "Aapke channl sasbcribe krne ko varsha jariyal danser ne bola h.good job",
+          "like_count": 2,
+          "published_at": "2021-04-18T15:22:32Z"
+        }
+      ]
+    },
+    {
+      "videoId": "tYgSw-0jjmQ",
+      "title": "Bajoli Holi Hydro Power Project",
+      "channel": "Dr. Ritesh Mahajan",
+      "published_at": "2025-01-06T02:43:30Z",
+      "description": "",
+      "comment_count": 1,
+      "comments": [
+        {
+          "comment_id": "UgzMBFAm7398Zdj6bch4AaABAg",
+          "author": "@kapoor1996",
+          "text": "Biggest blunder of Hydro Industry ever",
+          "like_count": 0,
+          "published_at": "2025-06-07T09:42:59Z"
+        }
+      ]
+    }
+  ],
+  "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
+}

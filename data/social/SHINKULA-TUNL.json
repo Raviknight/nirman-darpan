@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-29T20:47:44.613Z",
+  "updated_at": "2026-07-02T11:23:03.273Z",
   "project_id": "SHINKULA-TUNL",
   "counts": {
-    "press": 96,
+    "press": 94,
     "gov": 0,
-    "en": 70,
-    "hi": 26,
-    "total": 96
+    "en": 69,
+    "hi": 25,
+    "total": 94
   },
   "mentions": [
     {
@@ -58,6 +58,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Shinkun La"
+    },
+    {
+      "title": "Modi govt's masterstroke on China border; India to build world's highest tunnel in..., project is worth Rs... - news24online.com",
+      "source": "news24online.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZmVPSy1mUGd3WEdMam9lSkpFN2NTaTlJeDFTUGRBLV9VTjR2d2NnNnloNDFwUXFDMnVhZlRkVXpjdm1Mc2puR1ZhbkxhOUxYT1JwTXdvTXhMUkw2U1FEaS1mUGZMZkRJUmdScndxRmtOLVpSNnlCTy1TUWdLTG5yeUhxNDFObWNZbDVOT3ZiYlhLRFV2aURwSVdBZ182UHdqcDZuWWF2TFFLSjFHdXlfNEhEd0E3TTA1Vmd3Tk1UNUFtV1pLaEVsbkFLeHMtSDV5SkFLYXdBX1plamxjcF9aM1Q4eTVrRlp1MXdKRXY5ZnFIS1BuRGRrOGtIMi0xb3pDdGRjRWpXUHFWZE0?oc=5",
+      "date": "2026-05-03T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shinku La tunnel"
     },
     {
       "title": "$800 Million Shinkun La Tunnel Project, World’s Highest Tunnel Advances at 15,800 ft in India - Construction Review",
@@ -130,6 +140,16 @@
       "match": "Shinkun La"
     },
     {
+      "title": "About Shinkun La Tunnel: - Vajiram & Ravi",
+      "source": "Vajiram & Ravi",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16cldSR3pJV2tjei1ua3BkSWlBS3JyZ2pSYWwySTgzTU8zRDRneWk0TG93dDA3aVlRdWhqekR0dUxwb0RQTy1fd1NDWmJkRkwtUlR5d0NwN1p6NElrUVdjX0E0RGhWU0YxUnhjZVZ3?oc=5",
+      "date": "2025-06-11T11:20:14.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shinku La tunnel"
+    },
+    {
       "title": "All roads lead to Ladakh: Centre goes full throttle on connectivity after end of 370 - The Times of India",
       "source": "The Times of India",
       "source_id": "google-news-en",
@@ -188,26 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Shinkun La"
-    },
-    {
-      "title": "Prime Minister Narendra Modi Inaugurates Shinku La Tunnel Construction - NDTV Profit",
-      "source": "NDTV Profit",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFpNanhPNkVNM2wzTThlQ05yM1lGaHBobVJtQmJlZGQ1Nm42VkVKb2swNHgwZFBoWXZsX0w1d1ZURS1FTGFteXVvSWxPYnhoVVRmYlYydVVEeDM4NUFzeTBVWWJBbjNEdl83YXc2dWY5YVdTRkFIckd1UmgxclRDU3RSbUdxWDh5R2hHMFJXcUQ4SVRka1ZpSnhlQ2o3bDB6TXFTNF81SWN0dktRLVo4b9IBuAFBVV95cUxPVXIwLU9QNHVBazMwUy1Sa2dZZ1Bnd1pLZ0FuR05nbEljcmtxeGJNWmNQOV9neFZpNWFIdU5Oek5TaE4yUjQyOGdkeVFuQklGMlR0TnE0Tm9zUWQ3YjYxUmJYdWd1Y2tjWEVUVjc2amc2WDJPT3RqWnUzYTc0eEtuYVlBbHc4V1djZ2wxYzlWSzJTMk5PRFZZYk5NdjFpZEJCNlVaamZnX05RU2FiZC1rWGRzVXBCWTNm?oc=5",
-      "date": "2024-07-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shinku La tunnel"
-    },
-    {
-      "title": "How Ladakh Shinku La Tunnel Will Look After Completion: Check AI Photos - India.Com",
-      "source": "India.Com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSm9ES2dpYXlfTEVQV05oQzRJV3ZsUjFIdkhqeDNpdGM2RllpdWdEZVpjclY4dlBOcWRadjBkQVlmcjY4SlhDZmFaS3RwT3c5QkdTVGZ2SlRPcVV4d1E0RWVUWFhQX3NHS09vZzkwa1FjQi0taUprTk1zWUUycjlveEQzbjM0VTJ1UFlYbG9neGNhNldMVlpJd2VIbE95VnR6c0tNWV9sZFlkeTBkX2FFamw3LUNyUHUzOUNmdC01QVrSAcABQVVfeXFMTUpvREtnaWF5X0xFUFdOaEM0SVd2bFIxSHZIangzaXRjNkZZaXVnRGVaY3JWOHZQTnFkWnYwZEFZZnI2OEpYQ2ZhWkt0cE93OUJHU1RmdkpUT3FVeHdRNEVlVFhYUF9zR0tPb2c5MGtRY0ItLWlKa05Nc1lFMnI5b3hEM24zNFUydVBZWGxvZ3hjYTZXTFZaSXdlSGxPeVZ0enNLTVlfbGRZZHkwZF9hRWpsNy1DclB1MzlDZnQtNUFa?oc=5",
-      "date": "2024-07-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shinku La tunnel"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Keyword match on phrase. No automated sentiment — open a headline to read the source. Reddit / Twitter / Meta deliberately excluded (skew or paid)."

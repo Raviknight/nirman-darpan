@@ -1,0 +1,68 @@
+{
+  "updated_at": "2026-07-02T11:23:43.146Z",
+  "project_id": "PARBATI-2",
+  "query": "\"Parbati-II Hydroelectric Project\" Himachal",
+  "counts": {
+    "videos": 3,
+    "comments": 4
+  },
+  "videos": [
+    {
+      "videoId": "Adh9BUjQMJU",
+      "title": "4. Parbati-II Hydroelectric Project, which was seen in news, is located in which state?",
+      "channel": "Quiz Time",
+      "published_at": "2025-04-01T18:08:59Z",
+      "description": "National Hydroelectric Power Corporation Private Limited successfully completed the trial run of Unit 2 (200 MW) of the Parbati-II ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "HcHwnUosLXQ",
+      "title": "‘प्रगति’ से पार्बती-2 जलविद्युत परियोजना की मिला बल | PRAGATI | Hydro Power | Clean Energy | PM Modi",
+      "channel": "DD News",
+      "published_at": "2026-01-13T04:30:06Z",
+      "description": "The PRAGATI platform has strengthened the Parbati-II Hydroelectric Project by resolving long-pending issues through ...",
+      "comment_count": 4,
+      "comments": [
+        {
+          "comment_id": "Ugzp-aVUxei6D3RbrMF4AaABAg",
+          "author": "@RajeshPujari-y7c",
+          "text": "Jai Shri Ram Jai Modiji 🎉❤",
+          "like_count": 2,
+          "published_at": "2026-01-13T14:32:02Z"
+        },
+        {
+          "comment_id": "UgxiBUYWlK9gHEp30F54AaABAg",
+          "author": "@Meverythinginnovative",
+          "text": "Turn the water of himalayan rivers to the deserts of Rajasthan",
+          "like_count": 0,
+          "published_at": "2026-01-13T10:53:12Z"
+        },
+        {
+          "comment_id": "UgzYBNVdVeTiaOL1zbd4AaABAg",
+          "author": "@karuneshramishramishra8647",
+          "text": "❤😂🎉🎉🎉🎉",
+          "like_count": 0,
+          "published_at": "2026-01-13T06:05:18Z"
+        },
+        {
+          "comment_id": "UgxsVqVfCYHCDr61Cqh4AaABAg",
+          "author": "@GouriShitole",
+          "text": "Make this type of projects by using \nmoney of temple devotional money\nby giving them small interest over it\nAlso money of person like baba ramdeo or other Guru of India by\ngive them interest",
+          "like_count": 0,
+          "published_at": "2026-01-13T12:10:40Z"
+        }
+      ]
+    },
+    {
+      "videoId": "i04kd2gLlVg",
+      "title": "Parbati-II Hydroelectric Project, which was seen in news, is located in which state?",
+      "channel": "MPSC Notes (Mizoram PSC)",
+      "published_at": "2025-04-12T12:01:14Z",
+      "description": "This MCQ Shorts video tackles a current events question focusing on the Parbati-II Hydroelectric Project, recently in the news.",
+      "comment_count": 0,
+      "comments": []
+    }
+  ],
+  "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
+}

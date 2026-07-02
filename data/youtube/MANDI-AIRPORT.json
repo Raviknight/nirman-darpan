@@ -1,0 +1,54 @@
+{
+  "updated_at": "2026-07-02T11:23:38.450Z",
+  "project_id": "MANDI-AIRPORT",
+  "query": "\"Mandi Greenfield Airport\" Himachal",
+  "counts": {
+    "videos": 3,
+    "comments": 2
+  },
+  "videos": [
+    {
+      "videoId": "ylt1OpmC7MQ",
+      "title": "मंडी में एयरपोर्ट का विरोध: बल्ह के बजाय जाहू में हवाई अड्डा बनाने की मांग, किसानों ने DC को सौंपा",
+      "channel": "SidhivinayakTimes",
+      "published_at": "2026-02-09T16:21:00Z",
+      "description": "सिद्धि विनायक टाइम्स ब्यूरो। #BreakingNews #SidhivinayakTimes #MandiNews #GreenfieldAirport ...",
+      "comment_count": 2,
+      "comments": [
+        {
+          "comment_id": "UgxZsYDDPTkKsruwmOp4AaABAg",
+          "author": "@ramanthakur4989",
+          "text": "Hotel room book krane ka budget nhi mila",
+          "like_count": 0,
+          "published_at": "2026-02-11T06:37:43Z"
+        },
+        {
+          "comment_id": "UgyTC_dFbCUXm6_B8s14AaABAg",
+          "author": "@ramanthakur4989",
+          "text": "Jb joia ram ki double engine srkar thi tbh kya kia",
+          "like_count": 0,
+          "published_at": "2026-02-11T06:36:06Z"
+        }
+      ]
+    },
+    {
+      "videoId": "LghaxInQoDY",
+      "title": "मंडी में एयरपोर्ट का विरोध: बल्ह के बजाय जाहू में हवाई अड्डा बनाने की मांग, किसानों ने DC को सौंपा",
+      "channel": "SidhivinayakTimes",
+      "published_at": "2026-02-13T02:41:56Z",
+      "description": "सिद्धि विनायक टाइम्स ब्यूरो। #BreakingNews #SidhivinayakTimes #MandiNews #GreenfieldAirport ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "NLaAMqA_cAA",
+      "title": "Himachal Pradesh CA 22 FEB for HPAS, Allied, JBT, TET, NT &amp; Patwari Exams #hpas #currentaffairs",
+      "channel": "HP COMPETITIVE EXAMS",
+      "published_at": "2026-02-23T12:45:08Z",
+      "description": "Himachal Pradesh CA 22 FEB for HPAS, Allied, JBT, TET, NT & Patwari Exams #hpas #currentaffairs 🗞️ Himachal Pradesh ...",
+      "comment_count": 0,
+      "comments": []
+    }
+  ],
+  "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
+}

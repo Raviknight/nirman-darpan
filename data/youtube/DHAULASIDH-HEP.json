@@ -1,0 +1,39 @@
+{
+  "updated_at": "2026-07-02T11:23:43.713Z",
+  "project_id": "DHAULASIDH-HEP",
+  "query": "\"Dhaulasidh Hydroelectric Project\" Himachal",
+  "counts": {
+    "videos": 3,
+    "comments": 0
+  },
+  "videos": [
+    {
+      "videoId": "ctIihv2qpFo",
+      "title": "66 MW Dhaulasidh HEP - Civil &amp; Hydro-Mechanical Works | निर्माण और तकनीकी कार्यों पर एक नज़र",
+      "channel": "Rithwik Projects Private Limited",
+      "published_at": "2025-11-19T10:22:18Z",
+      "description": "A quick look at the ongoing progress of the 66 MW Dhaulasidh Hydroelectric Project in Himachal Pradesh, where Rithwik Projects ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "tjuxmd33cAo",
+      "title": "👉Himachal Sarkar Ki Badi Taiyari! |Kaunsi Bimari Ka Khatra? |#shorts #hpas #patwari #currentaffairs",
+      "channel": "HP COMPETITIVE EXAMS",
+      "published_at": "2026-05-31T12:45:21Z",
+      "description": "Himachal Sarkar Ki Badi Taiyari! |Kaunsi Bimari Ka Khatra? |#shorts #hpas #patwari #currentaffairs Dr. Yashwant Singh Parmar ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "8xkcGVWGaX8",
+      "title": "हमीरपुर में बिजली बोर्ड की परिसंपत्तियों का किया जा रहा स्थानांतरण...",
+      "channel": "DD News Himachal",
+      "published_at": "2026-04-20T09:50:55Z",
+      "description": "हमीरपुर में बिजली बोर्ड की परिसंपत्तियों का किया जा रहा स्थानांतरण ...",
+      "comment_count": 0,
+      "comments": []
+    }
+  ],
+  "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
+}

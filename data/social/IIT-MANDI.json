@@ -1,20 +1,70 @@
 {
-  "updated_at": "2026-06-29T20:47:27.710Z",
+  "updated_at": "2026-07-02T11:22:45.971Z",
   "project_id": "IIT-MANDI",
   "counts": {
-    "press": 224,
+    "press": 253,
     "gov": 0,
-    "en": 114,
-    "hi": 110,
-    "total": 224
+    "en": 142,
+    "hi": 111,
+    "total": 253
   },
   "mentions": [
     {
-      "title": "IIT Mandi scientists identify cellular signature of anaesthetised state in plants - ABP Live English",
-      "source": "ABP Live English",
+      "title": "UPTET 2026: Yogi Adityanath directs foolproof arrangements; says fairness cannot be compromised - Careers360",
+      "source": "Careers360",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVVBHQllkenZ4WWh1aWNUeFdqRjdTTy1PeEhhNGxNRVNLQWlqUUZCaWdZdG1GMVQ5WUx0T0poN2FzbktqTFRkYXlRY0VnVVVJdkU3cmUwYzV6S21XREs3cDlWQ0FrMVVFbG1OWExPLWl0aFMwcm5PVFpFdjNPa25ESHdnMjB4RzVUR3lVanVXclhCVU1pd243ejZJYmhFcTc4UXVFUlhlZEtSWmxPR04zWDZfWVdLa1RsUnJDTFZmMWI4dGfSAcgBQVVfeXFMTXVmRk11V2xORmJtVHdpTDJqYm8waDZrV1o3THVPcVoza25mZ1ZtQnlWTDE0UEcyUGJlYzNJSExacmlVNGVJSmFCT1Y0M3ZTRkxzSzZKZkE2MFFSZ1FCaDN0bzZkcFJrSzBRMGhvb1JoaXYyeVRtZDV0c3AzSTdZRUd4b1p0enB3d3JVU2dDZTZZWlZoWjVhWmpTUTR3U3hQVkVwWUZXYy1HanBHWXdRTm8xRmVDREZGZWt2MzVybW5QOEhRSWY3LTk?oc=5",
-      "date": "2026-06-29T18:45:42.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeWtBaFE0aDc4ZVdxanVCSThkT2ZBWFVzR1dOcm45T1UxWGREZzd3TmhubTA2MlA0VUFKWDlwVFlvb0ZDcUV5SGN4ZkUxRjBQeXdOZ1daNHd1QUZORlNpUmRYcm9PaVRpMTF4dFU0YTZBRkpkeVljc2lvcUtXZ2RYazZ2V1ZFSm03T3NOa0VRR1RTR3FZQUxpNXNFYzhuZFlGYmx6d0gtVy1oNGRsa0FDU3pNc0tGSGhFemRtaUd30gHDAUFVX3lxTE56ZFUwandIajNzU1oxUlNoMFF0eEptbmxnTm00ZWpqaEhBYnk4Z3RwWUNvUERocTJNYzhQdUJWQ0E0TVpKcnZuVWNVUFU3Qlh0MnBuRjU4aEhEMlpHQ3N5OURvSDUzc29taWxlVkhpYzFFamtoWDlmMHlmc3VjUGZ3ZUpTZHlOdGYzeTlOWFlKSUxuZFNfcHpkRHRGSEllSDI2VmtzV0hLX2xkc3dkcmFORG1pX2M4bWxpVzBmS25mLWRFRQ?oc=5",
+      "date": "2026-07-01T12:11:35.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "Plant Anaesthesia Study at IIT Mandi Points to Cellular Clues on Consciousness - Prittle Prattle News",
+      "source": "Prittle Prattle News",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGtOSVl0MUhIbkFZTnRnTFhHdGRhNXpPVkZNb1pkd2NtOUpRekVvaTczQ2RSNXZOUkZqNk04dTQ5c0h4aVVDVHlDSG43X05XdWJsMUJVTjNPeWxYb1R0YWtDYk5NRmszY0hpdVNkVkNHMVZWeEFCSlFKN2twRDJpSjRrejEyQi1NNzhjaUZOZ3A0TThQSmV1WkpFLWJjWWU1cVNPYWNZZUhrUjlJdTZnMkZn?oc=5",
+      "date": "2026-06-30T13:01:16.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi research"
+    },
+    {
+      "title": "पौधों की रिसर्च में IIT मंडी के साइंटिस्ट को बड़ी कामयाबी, पौधों में बेहोशी की अवस्था के कोशिकीय संकेतों की पहचान - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPb1UzUFZ5ZGRsVll0cERoRnlGYnhSRE5RLXJuZmxtc1Z4bGhtXzNORFRWbXdMVzRySGpHUVRMUEYzRjdTVGk4U2FYWjVXVl9YbXd6OFlIRENCcWtBMHNPRG1RVjRrcG5MVF9BckZpY3p1Z0NuLU1URkZMcmc5Z2djaHNYLU4xaXFfZkdJVEtYbnJZZEI0cVY2aXhLYjZibXBCazlyalMwMFhtU1pPaDNnNEc5T0JxX25Zd1EwS0JOOHRrUk91cGUzMlo3c2ZPTGV5NGNYenpMOXhZNFQyOFZtdThlVlBub0Q3U0tDdzBFeFBJTi1XSjV3ekpB0gH_AUFVX3lxTE5vSUlBUTRMLVFRbDJ6Z0puYzFhTmhUNjJXYV9UaVZkanhrRGZISjg1NW5DdE5vZkhHcFEwTjFIWDZ6N1hiejdNbjFpR1JxNVR0OHkwMnJzNmtRNGVnRUpUUjhqTnM0ZW42eko3ZmJDYlFTcENPT0F5UXRCVC14c042d2VUbndpUUw4emR0ZGZjNUxIanBmS1NocHlTSkdadGU4MzA5SGlvekRzUEZBYmF0dXI1VXlQd01HSmhyOFh3dUdJNllTbFpsWEhfbllad1p0aTYtVGVudmdTRU1BYnFDU2VZdlZkelJ1bzYyQmZOM0FGc0g4ZDl6U21ZU2stYw?oc=5",
+      "date": "2026-06-30T03:50:31.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi scientists identify cellular signature of anaesthetised state in plants | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc3VTNTQtSF9jOXRKWVIyVTdBcURCdDZaYmlkTktEa1dIVjd6SVNodjZVYjdRc3VqUVRXNENhbUNEMGtWRHZzU1ZQS0l0bUdpLVFMcHBuSnFyTGR0LXRWdjN2SmpZRkl2VUJCcUtZc01IYm9rWTN0NTlwUWROYmYzRGxxZTBrVEczam8yS0JmWU9DU2dDM2dLREZPVmdNZU91dW15NUJyWXdtSjhTa2xwNXJYRGRUckxjRVFoRnBRNHFPTXhuRnJtQlNucWE2NXNrVXhvUktqeFloZXZwOWhuMlpZNVQyUlk0VU5Za9IB8gFBVV95cUxOalFZNUhpRGpsSHVoVER0RWY0SXdCQnUxbzNwX0Nrc0ZjYUc2SGUxUWdLeE43R1hKaHRVWGozdWk2bGpXRHBLcFJnWS02Z0RLTFdFSklBSF9TV3hLbHZjUE9yZVAzTmRCcWI3Mno5eVdNcHVjcXpoM01XSEotdjZkOHcyY2FyRHIybk1OM1pHcC1LNGRnYWItNGU2RW5Ja2t3ZUhraXhqcDRXNUQ0OUFWZExwT0JzV3Z5NFh0Rk5YajBtRENIOVdoUGRncWt2NWJlRXlacFB6RnZ3X296TDdwVC1LMVdjbDZzMlA5UWxhSzFSQQ?oc=5",
+      "date": "2026-06-30T01:38:14.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi Research: बेहोशी की दवा के पाैधों में भी दिखा इंसानों जैसा असर, आईआईटी मंडी के शोध में खुलासा - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemgzWEk5dEZHdllsWXNVRlJJbTAxWFQ1WEx3T3RnQ3ZvS04ycXFqd3FqeDAtbl92anB0bi1UTXhGZTlaTll2Rk5KaDgyT1FMRkQ4LVdoUC1oYzI3eDhfVkRja0RlUEt6d2RVQmk5Wk9tMU01SDlwQjdiRXNRN0Z3TW9YV1l3aTFCMlJNNnhvNk90SGJUd0pRQ1pkNEIzcDBNVDViVWRackxYZWEzek1URi13LXZicXIyMGNzTjVYTmNSbU1w0gHKAUFVX3lxTE1aVXRuZHFablMyY3pGeGktdXFwdHliNXFaYl9HUzhBaEZpUmpNcDZISHJnZ1NIaGxGcjNYdWhYR3JtTjRldndzQ040SXY4N0FGZHFWQlU0S3daS0FPWDlxNkR0MUxLTHdhUGZKR0VFQUlXV2ZxakRDR1Z5VXZ2WE1ZSmRsYmFMQXdKMDF4R3B0MDhXM2F4YWd5RTZxajN0SEFXQURhci1fNE5hM3BudFVwaFZZZWNpS3JWS3RZcm00eFhBeXBkMENoRmc?oc=5",
+      "date": "2026-06-29T23:50:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "Groundbreaking IIT Mandi Research Reveals Cellular Signature Of Anaesthesia In Plants - Rediff",
+      "source": "Rediff",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2d0ajVmR3RUaDRvc2xKc3Z4Q1kxRFdqcVg1QkswT09lVjl6dVI4SVBQRVlMOWxTY1JraVBDRkdoTGNLUmJ6Uk5SOHRPTTBSWW14LW5McjlhZWZ5RTBadk9ZLWFCZG9VN2cwRW91cEhCWUNEd2pwMFpORUJ0MTRBWXlfVGFldjBZUWVSQy03c1lqZ0RNZ0NETUtxVFVNWkhIZlBlMzVGb9IBqgFBVV95cUxPa0ZycWZ1NUhtMU90WWtCWF9LYlNaaW9mOEp6Wi0zNFpJa0toV2EzUVVGQ2ZrLWtyMFNXNFhkTzdwOUV2VVRGVTliR05zdDhxaWxNUEJULWZvXzEwY3c2dThoN2FkNzBxVHltV3h2X1YxUnp3RWM1WGUwMC1ZRDR0dU1aR1ZJZVB2THRBR2F4a0lJc3p2dmlzYTV3UmUyQ2dZbWx4VDU1amtBQQ?oc=5",
+      "date": "2026-06-29T18:45:37.000Z",
       "kind": "press",
       "lang": "en",
       "match": "IIT Mandi"
@@ -40,16 +90,6 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "Indian Scientists Find the Cellular Signature of the Anesthetized State of Plant Consciousness - PSU Connect",
-      "source": "PSU Connect",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS25TM3ZTb0l2cE9yWU9pd2J4anB1RWxYaWRQMC1lMW5tTEZaVnQ3NGtsYzdyYXo5c3ktaUJmVnVhNXVCQ2JXem00N1F0bkJrUzJUVWZEVTVoZHJMWnk5M3l5dVlGM3Z3OVFvUmlwTWJhWE9ka05OS1dJS1JOcURkMGdZTHpTQlVHdnNFN3k4YXhjYU5kYkNkRWR0ME9vTHRXVVJOXzE0eW1mcEFBUktVVkVWT0hZTWkwU1c4dU9MZlE5ZENXd3pFV1JWckw3Mlds?oc=5",
-      "date": "2026-06-29T11:23:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "क्या पौधे भी महसूस करते हैं? IIT मंडी की खोज ने चेतना के रहस्यों से उठाया पर्दा, बेहोशी की दवा देने पर दिखी एक सी प्रतिक्रिया - iit mandi reveals plant consciousness anesthesia response - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -70,20 +110,10 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "IIT Mandi Project Associate-I Recruitment 2026 - Apply Online - FreeJobAlert.Com",
-      "source": "FreeJobAlert.Com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcDdINVh6TkY5eEQtNW8tckFjcW11a1VfMjNVSVJjMG9qZEx3eUZvNVNyTUFCOTBxYTg3X3RtV1NBZzBSRlg2NWVYdHptbDdUbkpRT096T2pHTnhhbEVfd28tYi1hYWphSlBad1FlbVZBRm1SMFpSczV5cjB1MGxJUDRWY1BqdmstR05oQnlKalc0cC1NSmxIZDBfMzNTV2YzaGV3dHdPZnU?oc=5",
-      "date": "2026-06-29T07:16:14.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "Mandi: आईआईटी मंडी की नई पहल, 10% छात्रों को बनाया जाएगा उद्यमी; हर महीने मिलेंगे 15 हजार रुपये - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVndxUnZ5NWZLQVFfQ2hLeDZ3US1oRWU0dFhKU3MtRl9qdkZJQWo1SkFjVnNSQ1hBUHdHTFlNeFk2NEt3RnlzYkJnZ1ZWWmxDWmdwVmUxZUEwSUR5UEdXNWV6WFVMdFhkc1R4UlF4aGtORnZqVVppd3RXM0Z4cGNCVG1id2l0QVRVMmpGTlFaRGNDaW5HZnI3TjhOdDBQOWlUQWk3bHVuLWU2a2pOdlFLbjk0dW1BdE02R2pHME1QVFVsV0tTZlhB0gHHAUFVX3lxTFBWd3FSdnk1ZktBUV9DaEt4NndRLWhFZTR0WEpTcy1GX2p2RklBajVKQWNWc1JDWEFQd0dMWU14WTY0S3dGeXNiQmdnVlZabENaZ3BWZTFlQTBJRHlQR1c1ZXpYVUx0WGRzVHhSUXhoa05GdmpVWml3dFczRnhwY0JUbWJ3aXRBVFUyakZOUVpEY0NpbkdmcjdOOE50MFA5aVRBaTdsdW4tZTZrak52UUtuOTR1bUF0TTZHakcwTVBUVWxXS1NmWEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVERnUmJxV2RDbjZmNVBaZVVxSGQ4RFVUZ3JzeFBnaWNPZTd1VGRNUVhzTjl2cXY2aG5IeXR6cUYwMGhFMDNPNUF1TDh6dlFRZFJqemxuam5sd0dMZXhvTk0yTWdXSTBLQjlYbWNUQWRKRDR4Y2l3MGo5enA2YlRObDRSd3FKQjNrWW1tS2RDSjc2UmNaQTZZcC0tUW80a2V4RXM4QlpmWTJScjhzY2xPeUM4OThXczRueGpyR25EYi1oUdIBxwFBVV95cUxQVndxUnZ5NWZLQVFfQ2hLeDZ3US1oRWU0dFhKU3MtRl9qdkZJQWo1SkFjVnNSQ1hBUHdHTFlNeFk2NEt3RnlzYkJnZ1ZWWmxDWmdwVmUxZUEwSUR5UEdXNWV6WFVMdFhkc1R4UlF4aGtORnZqVVppd3RXM0Z4cGNCVG1id2l0QVRVMmpGTlFaRGNDaW5HZnI3TjhOdDBQOWlUQWk3bHVuLWU2a2pOdlFLbjk0dW1BdE02R2pHME1QVFVsV0tTZlhB?oc=5",
       "date": "2026-06-26T07:15:43.000Z",
       "kind": "press",
       "lang": "hi",
@@ -100,21 +130,11 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "From Philosophy To Instrumentation: IIT Mandi's DDG Test Of Chakra Meditation - Swarajya",
-      "source": "Swarajya",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV3NWX0V0bVhtRzlIWDBWYlZtbllfOHQ1QXBkSEEtVDVhOWFvcEx2ZUZ5MnR1bng3UkF5QWE0VU1Wd2l3QWpvZ2tvYmJ1akVqR2NQTG9pd1U3RWgxQmxDRXZjaDExRU1kYkRzd0t3Y3dZQVhUQm0wS1VCeVFncGtPNzkxQVhVTmxqZWJIZEpDWFJUbm5ra1BtRVJzUm5WUkY1bmpWbklVS1XSAbgBQVVfeXFMTmJRNjMybk1qTGJ1cXRUTTFBT29GTk9MRGc1RHRoLUIzeXlJM1V4b0U0WW1uZWZBZGgwTGZ5MFk2UE1Wc3IybkpsT3NwTFdYaGhkeGVSZ1hRV3Z6S0c5ZE5pNkxiUm81aU5wTkNtSTJGLTduOWZmbHRfT04xemxuWVowRzgxMnlmSEdGSTk1WXh3MTVCWHdlb2FWNHZ3YUVWRzV3SDVhWV94RGlVUlFJc2dFZG5fNEE1Zw?oc=5",
-      "date": "2026-06-23T14:32:36.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "IIT मंडी से पढ़ाई, असिस्टेंट प्रोफेसर की नौकरी छोड़ी; अब BPSC में 63वीं रैंक हासिल कर SDM बने श‍िवेंदु - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakY3NldCUFNiTnN0T1dORERwZW1maFVYc2E4X3NOcHBqMnUxVnpaRm1qOU1pN1pCQ05zWTJQdjBZRW10QTQ3bm14WjBpTkhLeGlsZDJDR1Q1RlpnMHk1V2JVMTlNU2lzWEpyVXlfOGphRnpTV3B5Uzk2VUF3ZVdvMXk5Ujh4bGduUi1OVkVRa3NBUGRDT2JFaUZsbWV0UDVENlNNdVp1N29mYm5FTkE?oc=5",
-      "date": "2026-06-23T04:48:00.000Z",
+      "date": "2026-06-23T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "IIT Mandi"
@@ -150,6 +170,26 @@
       "match": "IIT Mandi research"
     },
     {
+      "title": "IIT Mandi awards degrees to 643 students in its 14th Convocation - The Indian Express",
+      "source": "The Indian Express",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORm81Uk05VDlwb29sSlI1TXNQWDBsUnMzWkxQU2FuSXNON0hDX0RQejdzOVNDUXlmdVhTT3VKRm9aa0JCS0RUSGNIeUFGYy0zeW9NUTlrR1NHZVlYRHR1T0FibWlPM2QwMllmemxCbVAwOXJFbVBxVjVFQXBtQWZQdlJzMUZDQVdtQ3ZDTnBobG0xMG5KdWRGbU12ZFc2WXVORWhYRXVpa1RMdVg0VWJOQWFtb0pqRVpnY2Q0LXAxUzhGeTNyU3dFd2xtMUNmN1lyeTdhRVlNQlU1ckFG0gHjAUFVX3lxTE14bFNJSXVYR3MxYUk4YWxTaUZUak1FZ1hDNjJvTWdIYWJBTVBoUjNTb0JacEp0X2hWM0g3dGIxUmRQVExpQk15aGhjaG5xR2ZJX1oteEVpdWpGYnpsOHFfemFXMUZadlVHWTE3STczT3JjWi0xMU5SRDhiRTJBV0ZHbVQxa0lJRjVsekJDMGZtVGx1dFd6allIS2prT21lUHkzWHVFbFRIZVhJVEZDM1B6ek91OHBUXzVzc3FidXZIbDdrVkNDOHVOWGVwYjRNR1FmTWdoRmhxRG5ZaVc0S3dNSkJz?oc=5",
+      "date": "2026-06-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi holds 14th Convocation, records largest-ever B.Tech batch in institute’s history - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPem5oTXBOYm1zRWd4UFVQYngwZ3FGWnlNbTVUTldGOGVNSUZ1dDVleVBNaDVQelE1eDllazYxaGdWU2o3cnk3V2hxMEpSNHNVLS05M0RGVWRqczdwOHZaRjVlOEMySlQzaFFCSzJUNUhCMFRFYWt2c1NHakh6VHdFRGxGdl9iNDZfVExubTNnV0VkXzNzR2ZVTDl2NktHbnl5NGgzNlBGeFcyV0FWWVZ4SnFuRWNlMVdhZ29IRFYtbWhUY1FzZ0VkckV1bHbSAdABQVVfeXFMT3QydUVfaFlHMmJHX1FQYmNORm4zbVlzZmp4MjBkLVdBbi1BSVo5ekdPUUZXWDljU0JZd25VdHB5VWJEMHE1cWcyU2pEMnhJODk0Z2ktN1FvTHBVZVc4Sm14T29HUURlTFBaemFlTlFzQ2gxeFpyTUlkdS1MVFdRbnV6SUY0cFh2dURReXdEejYtai05R3hhQzI5aWZNS1pjQTYtdm5IdGJSbHZRekpjdnZEQ09odDdzbWk4V0VWZmJqRHFJTmwycmpEWWtCTDZSSQ?oc=5",
+      "date": "2026-06-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
       "title": "IIT मंडी के गोल्ड मेडलिस्ट वायुन को माइक्रोसाफ्ट में मिला 55 लाख का पैकेज, पिता बोले- टीचर ने जो बोला था वह सच हुआ - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -160,51 +200,11 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "Himachal: लक्ष्मीधर बेहरा बोले- क्वांटम तकनीक, भूकंप और जलवायु परिवर्तन पर शोध करेगा आईआईटी मंडी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeUVvM1haNDVwNjRJbzlDVVpKdmQzVnJLU2RkR1BxQndUUHRMWlZiYy1mTmRzcmt0UnZJUkJDQ2pScjVUbHdYY3MxQ0hTQ3BXLXBrS3dLaXhiQnZWVzJtVFNuS0lITW1pbUdjVjdIZHZSam5fZ2ZrNWR1OFVuSlVnN0RtTDJ0ZEphYmJLWTlCOWhvU3FZRDZKZEd6eVVsVmlRaXR3ci1nbE84bmlTZTJxblF6QVViMFVZSWg3dzFmSHhGc09DWmdlSS1TRjhGYUItNlM4SUF5Mkg5TXJzS3JZelNwSWXSAeoBQVVfeXFMTVBCNnRQdGJYUlJPdmNVX0xqX0k5bzVmdHQyYmh2R2E4anp3bzNSOFVxa3dmaVVwUUFxTXhtV3N4aFBIbzdDNmRTREdHM0FfN0xMSkZWZFdiMnFneTVOaThIZTBNTUp0a1ZSV3lDQXM3aXBMRkpDYXZQM3pCR0E3RVROYnJDUkhVS0Z0Zmttc3ptYmEwVVFpM2NsRk9yd3JKM1Z5SU4yVkVqLVFLbUdhLUxWUkIyeGVYbDIxa0xuLVIyd2tINTJCeXpQMlRmQnR2SU13V2pMQmFhb3F6RGF3LUJZZ2xZMHRwMld3?oc=5",
-      "date": "2026-06-20T13:14:35.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "Video: लक्ष्मीधर बेहरा बोले- क्वांटम टेक्नोलॉजी, भूकंप और जलवायु परिवर्तन पर शोध करेगा आईआईटी मंडी - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPanNRcm1PbGJJTUtmWlZEODJaa0wwNWtaU3JpVEZZRC1ZeHo4SVJQcHFfV1hqNEZ6a1owSjM2eWh5ZE9LVmktYU1KNzdWeEpMbFhtbUxSeV9DZWk0a3dpQzcwZU04RldUYkJMTGh5R0NyeEw5bUh0Mlp0WnFyd0YwU0I5c3lhSWQ3MFFwVE1lQTF1aF9kV1A5djdQeXF1Z1g1bDFGWnEwSWNINVhBOXhaM202X2FHQ0pKNS1qUDlVX2dpMXpnelV1NTE0cmRxY1M0VVJGRDZZZzRzeE5CWXJfMlJEdEVtU2l1M182LUZ0UVlZT2FrUEVFLTdKNExsQWZPV1dzTUdiTHBmd9IBjwJBVV95cUxQSUd1R1BEakJCdXBNWDFZd3NzUWhVdDZ6RGVodmt3cGZpYjVabGdnMzU3dHFBbnh0dkxlbzZrcVFwaDI0dVBMRGwzSUc5Uzk1cmF1WlU2OU9hZGY2cDQ1R3czQWVSZi1GT0RRMmZualZBRXZTX3oyUmdBNGZkRHRPMzNlWkZYWHdJTmlxSmlSWk56ODRHMUJvWk83aGpTTGdCMi1wbmlGLURVQzJ6Uk4weVNHVDdwOGdaSVZ1YUgxZW9XUFpuRllsUTdMcm03S2EwaVI3aTRyc19sTVdzSkFtRWVKOXQ2TUtqM054Q3k0RHNGRm80b200SU5DeGRKb01PMGJRRXdPY0Y4ckY4R2RN?oc=5",
       "date": "2026-06-20T11:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "मंडी IIT के दीक्षांत समारोह में वायुन को प्रेजिडेंट गोल्ड: 643 विद्यार्थियों को डिग्रियां मिली; 321 बीटेक स... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXdaOTl6OXNRUGtfbWRleEZmRGFCbXlRbmtyeGU0RmNRY0R4VmdZQ052M19VOEpCR3lpbEM1S0QzbERtbFRCVlJWbDJpMlhzZXJ1X2JoU0VMaDh5YkVPeVJJRHlBYnZVMWNhUVVfZmpMREktY0lJS0FGd2ltQldkeWt2cHJiWHJjLTVUVVlCQm1VWGJOQ2FYZXpLYlB3cmVKUE91X1kySEpDa3NLUkZRTVFzOXJNSHB3NF9fMWFGQU1TSHPSAcgBQVVfeXFMUHJLTTVvYUUzX3lhNWh2VXQtN0V5aEprX2RGUW5Yb21YV1JjNWJJWkFuUGVtU285aE9UVU80NUNJUEt2aUFMN0gwalRjbGlMSFIwbjJ4bndzbEMzb3ViT2QzYXlfcmZRbVF4aE16Nnd6YTJSeFQ3SVBCUDY4WGlXWEZjYkJySjJoQXBfVUhjeC01SDJXQTgteXNFNXVnTkRtUEVKRkdYNm9vUFdVcjhhZlJ0WEc5TVpFNFIxV3BMN1RWb01QeVAxN2k?oc=5",
-      "date": "2026-06-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT मंडी के दीक्षा समारोह में वयून गोयल को मिला प्रेजिडेंट गोल्ड मेडल, 643 छात्रों को डिग्री - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVFBqWFBpc2d0cVd4S1hlNnVpbGxtb2o2bUQ3ZzAwMFB4ZmVrWDRuRUFiQXJocER5MXVoNXRCV0xLRi02eXB3NDhBN1Jpc2s3a1hsTE50TWJxNWlIVGxCVkl2WjVqZmdBb3FUV0JfYWdWX0QxeDZOa1JHUlRGYkF3N21XaXhJbWNlNzNIYkRPZFdBU2Yzb2FsNUZwMWRzSkVxMDRSaG15eEhKaWQyU0ZrV1NFMFRpS2dXNzQwcg?oc=5",
-      "date": "2026-06-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "BTech Course: JEE वालों के लिए IIT मंडी ने शुरू किया क्वांटम साइंस बीटेक कोर्स, JoSAA से एडमिशन - Navbharat Times",
-      "source": "Navbharat Times",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNMU9hVGx2Q09Ra0RWOXd2NmEtVURPUTJ6MlJ4MkVsZGo2djZZUVJkT19fc2ozb1pXbmpxczlfVjRnNTk1VEdCNjJ5eU0xaU9wWHY0VXFQNi14TVRrbUFCcXZjZkhZZ2s3TGZXTDRrSWVGSzAwNUJ0ekdQeG1jWlFLcjJudVhSUWp5TFVwb3FacERDODl2RzJkUG1YZVVjOVNpM1g4ak5oUGMyS0VYcDR2VklQUUNod2VXbF9HdGJpZ3ZLUEljVVVMUmI2Q29XMDF1UWZMbUZDbHFQVWJPMHhzN0llTHZqeU56ZVRtUE5aWURjSmFWR1BDcmpwQk9SMGlYQm5nYzYtNG9fX3dGOUpPUUloUkFCSENNN1YzMdIBogJBVV95cUxPQzBpNFhoSXNkVENEdU1VS2FjdnJSNWsyd1lEV0NxSm1rV08ycW1CQkhBOUJETmlnMDhWV2UtbmZIUTQwNzdoR1AydnpkN0N0bFJCVC1nT3ZONlFYbXFnSlpwLUQ2WmpnbVJIbS1zQ0lIRUFhUk4tRUw0WkxlVlV5d3FKczQ0dFN1OFlRclBjeDl2d0puMFNvT0pfT180b25OUzBxZU52VlYzQkZLTE5TTDNobmhscDF2UWlhTXdwNW9XemM5VTRJMkNSV0xWMXBNQkFsVlcybHBRVTVjcnJRWW81aENpbW1GUi00d25LTlRPNW1jUnM3NDJnTkhHQ3hmWXJaSThkMVY3RFYteWJUY1c1X3dGVjhWSi1wRUZmWWZpZw?oc=5",
-      "date": "2026-06-19T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "IIT Mandi"

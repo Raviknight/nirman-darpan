@@ -1,0 +1,45 @@
+{
+  "updated_at": "2026-07-02T11:24:43.448Z",
+  "project_id": "JALORI-TUNL",
+  "press": {
+    "n": 1,
+    "positive": 0,
+    "neutral": 1,
+    "concern": 0,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.1
+  },
+  "youtube": {
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
+  },
+  "overall": {
+    "n": 1,
+    "positive": 0,
+    "neutral": 1,
+    "concern": 0,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.1
+  },
+  "top_positive": [
+    {
+      "source": "press",
+      "title": "Jalori Jot tunnel alignment finalised, heeding Shoja villagers’ concerns - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUlQzOVJFSXlmWHRkbENHaTMzY1lFTXhSbnAzVU5ZM2JvSlEtY2wybHVheHZ2SmJCSF9pamdyUnN1Y0U2bXc5eGtTUFpkUHJOcFQ4N0dKZWxFUDN0OFYtM2NpcEZYTnhaN2o0b3dqTUtkdHo3VHJ0VFBGc2RQdzQ2QTJHY2wwVGp4NTdPb3pnWkxoNWVyZWUybFB6UDF4YWVULUtHd3dEZ3J0elV4SXNUNWRoLWN3VEpGdnRBVVZQNzVPV2Ewd0lwNFRuR2x6ekVRQmctbVMwV1dQTVZhTnJaM29R?oc=5",
+      "score": 0.1
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "Jalori Jot tunnel alignment finalised, heeding Shoja villagers’ concerns - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUlQzOVJFSXlmWHRkbENHaTMzY1lFTXhSbnAzVU5ZM2JvSlEtY2wybHVheHZ2SmJCSF9pamdyUnN1Y0U2bXc5eGtTUFpkUHJOcFQ4N0dKZWxFUDN0OFYtM2NpcEZYTnhaN2o0b3dqTUtkdHo3VHJ0VFBGc2RQdzQ2QTJHY2wwVGp4NTdPb3pnWkxoNWVyZWUybFB6UDF4YWVULUtHd3dEZ3J0elV4SXNUNWRoLWN3VEpGdnRBVVZQNzVPV2Ewd0lwNFRuR2x6ekVRQmctbVMwV1dQTVZhTnJaM29R?oc=5",
+      "score": 0.1
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

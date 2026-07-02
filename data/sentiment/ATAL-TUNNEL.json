@@ -1,0 +1,66 @@
+{
+  "updated_at": "2026-07-02T11:24:15.843Z",
+  "project_id": "ATAL-TUNNEL",
+  "press": {
+    "n": 20,
+    "positive": 9,
+    "neutral": 5,
+    "concern": 6,
+    "avg_score": 0.06,
+    "avg_magnitude": 0.305
+  },
+  "youtube": {
+    "n": 27,
+    "positive": 12,
+    "neutral": 15,
+    "concern": 0,
+    "avg_score": 0.207,
+    "avg_magnitude": 0.367
+  },
+  "overall": {
+    "n": 47,
+    "positive": 21,
+    "neutral": 20,
+    "concern": 6,
+    "avg_score": 0.145,
+    "avg_magnitude": 0.34
+  },
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Wow very beautiful ❤",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Make more videos like this on zozila and rest of the tunnels and bridges like chenab and all❤",
+      "score": 0.8
+    },
+    {
+      "source": "youtube",
+      "title": "Very super 👍👍👍",
+      "score": 0.8
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "Atal Tunnel accident, one tourist from Sikar dead three injured after vehicle plunges near north portal during - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQUJhS2p6WEkxbk00cTJDWEpMcVB3QWVZTVJKZzFkdi1vN1pfODRkTFh0cnNWNnVxekF4RldZNVBqZnUtSzRIZVdkb2NEWExCT0Q4QnVlWUR2Q0ozT1N5UXdyUjdvNVpLV2JkSDZGQkhqME8yVGlLX3ZGNHFaY09fNXBOV1h0LS10WEU4OFVXWG9QRDc3blNjcDc0cnZmakExaDNST1RuQzZwaGI1QnNKcl8ybFhhVmEzbXBCYzQxSVZTcHd0ZmJsNEdfa3dvYkXSAc8BQVVfeXFMTUFCYUtqelhJMW5NNHEyQ1hKTHFQd0FlWU1SSmcxZHYtbzdaXzg0ZExYdHJzVjZ1cXpBeEZXWTVQamZ1LUs0SGVXZG9jRFhMQk9EOEJ1ZVlEdkNKM09TeVF3clI3bzVaS1diZEg2RkJIajBPMlRpS192RjRxWmNPXzVwTldYdC0tdFhFODhVV1hvUEQ3N25TY3A3NHJ2ZmpBMWgzUk9UbkM2cGhiNUJzSnJfMmxYYVZhM21wQmM0MUlWU3B3dGZibDRHX2t3b2JF?oc=5",
+      "score": -0.4
+    },
+    {
+      "source": "press",
+      "title": "Atal Tunnel horror: Scorpio hangs from bridge pillar after being pierced by iron rods, Rajasthan man killed - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPemxvOWJQN1FrbnpVekNmbkVMbHI5TWswdGN4dnM4V2VubTk5dEtyZHMtb1JlZ2Q3ekt5YWxMWVlBSWVEWDZEeG82aHlVRndkZTZiNXhkS1dQckJvRGVQdE9wNmNZTk9Ud2Z5VC1LZFZLZHg1ckJLRVhBMUhueVp1bkRHTTZ4UFBzZGs0RHc4bG1NcGRuS0JIcm1xWkI1LXJ2Qld1bjBGRmZhdTZGTWtYbTdmdW1kZUdFVUY5TEV5cTZnajV6bDJLU3FqX1pxVHB6aWt0SVB6UUl5Q09hUkQtZkRMQmw1OWPSAecBQVVfeXFMT3psbzliUDdRa256VXpDZm5FTGxyOU1rMHRjeHZzOFdlbm05OXRLcmRzLW9SZWdkN3pLeWFsTFlZQUllRFg2RHhvNmh5VUZ3ZGU2YjV4ZEtXUHJCb0RlUHRPcDZjWU5PVHdmeVQtS2RWS2R4NXJCS0VYQTFIbnladW5ER002eFBQc2RrNER3OGxtTXBkbktCSHJtcVpCNS1ydkJXdW4wRkZmYXU2Rk1rWG03ZnVtZGVHRVVGOUxFeXE2Z2o1emwyS1Nxal9acVRwemlrdElQelFJeUNPYVJELWZETEJsNTlj?oc=5",
+      "score": -0.4
+    },
+    {
+      "source": "press",
+      "title": "Atal Tunnel horror: Scorpio hangs from bridge pillar after being pierced by iron rods, Rajasthan man killed - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmUwNERUYmtDMzVjUW5HLVRZLWFlaFoybnY0UmttVHNMNzY2dXY1ZUNCRV9xWG9Bby10dGZjNXJ5ZlppWXozSTg1ZXY1eXIyWTRWbTg5d1JkenZCd253bXFNdnFpNkhMYl8wWDlxOXhvampHYmpkbHdDc3gzRVpDZXhTUE9sdU9oRWNyN2VSSGMyWmhaLWthbWd2b0w3TDdoeDFaUjhNY09CMjJmSGpIYTV3TGVOT0NBT0dLZ0RaekM3aHJ5dERIbmJjbE4zQmRlNkRfdF8wLXVIWENoV1FwRkxCb9IB5wFBVV95cUxNTzI1N1NQZ1RnZ2dYV2Ruc2xJMFFLY3MwbXdocHBGZ1RmN0poSTVmdWxKS2VMdEZLT3EyZ1VUZ1FZTndhbk00WEtlbVdzaER6VDBCWGtieU5yay0xYm9MeWxhUTZKTE1wM1J6SHdGSThMT1JJV2U5SUdpN1ZWY2JGVkpVb2lkakJ1RlNpSlo5SEFrcUxYLWQtdm5oZkk5M2hRY0RIZkhldFIwaktWQWpGOVg5QUpsRDFWOS0wNVFuOWNObzlsd2YzSHd2RFhzTHVvRWlDeF9LNWdFUUdoMU9NQXQ4cVAzbkE?oc=5",
+      "score": -0.4
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

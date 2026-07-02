@@ -1,0 +1,67 @@
+{
+  "updated_at": "2026-07-02T11:24:51.612Z",
+  "project_id": "SHIMLA-ROPEWAY",
+  "press": {
+    "n": 2,
+    "positive": 0,
+    "neutral": 2,
+    "concern": 0,
+    "avg_score": -0.1,
+    "avg_magnitude": 0.2
+  },
+  "youtube": {
+    "n": 1,
+    "positive": 1,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0.5,
+    "avg_magnitude": 0.5
+  },
+  "overall": {
+    "n": 3,
+    "positive": 1,
+    "neutral": 2,
+    "concern": 0,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.3
+  },
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Tak HaiUthi Achani Uthi Burani👍",
+      "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "Cabinet meeting starts in Himachal Secretariat: Proposal to raise vehicle registration fee likely; talks on... - Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOE0yWEZkVk5CeEY5bDhVS1RodEtBdzZ0azVkRHRxVXhuY1padzNMSTRjU2tVU1RaN3dzLWl1SVd4b1B5Vm9IRzFrUU50N2NBekZyalJTSnZXOUJvbFFrLV9tTm1pb3lUQlFKamphbFkxdUdqOU9kcmRwN2EtVjdveTZnZnB1MWRSMzNUc1FnblBXaXBGVGg3Ykd5T3h1VWxUNjFLQUF3VWYwalVFd2g1Skg2YkQxOC1uWl9yckpGOFdkQTBZcEF1Rnc0d1JNQW1s0gHWAUFVX3lxTFBzR2l0MHVkVFI1MEhRMDFfcmExX045ZFJac1h2MkdvdnZSN1R4SmJBNjVGMC15ZEFhdDV2QWJ0alRKd2cteDdLLU9pdTNkRl9lZ1I3UWdzMjFfT0ItVjFoUU5NSzhpWmNzckw5SW50VXpqWlFMLXNTR1FkSkJiWnljbXYwaFkxZHlZQ05MdExYT2V2MU1IVmh1QWlxeW5tMUdsb3NFdG5Oc3FndWNxbURjVktyQVJNUjd5WXk4Ukk3TEh5aGNKVG92Q1FsUXVJWWRBay1fSHc?oc=5",
+      "score": -0.1
+    },
+    {
+      "source": "press",
+      "title": "Single-bid system delaying Shimla ropeway project: Himachal Deputy CM - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnZacm96NDludmI5NnAtSDI4QlNjcHBVbnc2UnVhNmJDQlZxQUtsNWE2dWZYS1JHOUM1N253MWY4NHBNd3A4Wk1sSmJqMFdjX0Z1eFRlSmo3RHgzOTZ0bVJGR1FxbnZwdUlWdVBVUGVYUXpYVnE2RUpZTnQtQ2cxQ3dYUkh5UWlJd2xQSUNjUng2UXhjUzlOTVV6YXp6MWMyTVJYSzg4U3E3ZWluRlJYSVVxR0ctSGZEUHhlek1LVEdUbTFQbFdkOEp30gHQAUFVX3lxTE4yUTF3M2lpcXJyak5GM0diZEt4c1E5VTVyWmVja1NIY0R4aGYtT3lpTlFDbEJUUjFCZ3o5LW93M2ZUMlc2MkhiUnBwekRpV3ljREJPdlQzTVhHVmtBWHR0dnRrcGkyYjdYRi1mdVNsanhGUTFrTFJyeDVDTm5VMVFMTUdYeUkzTjhkNHhjUXhLRXE1YmhKU2otZVc1N0o2Y3F1aUF3c3Z0alFRQ0cxRHd6eWNXcVp4TzhEa2o2VVlBdmd4TTZubTlncF9fUVp2ZnU?oc=5",
+      "score": -0.1
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "Single-bid system delaying Shimla ropeway project: Himachal Deputy CM - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnZacm96NDludmI5NnAtSDI4QlNjcHBVbnc2UnVhNmJDQlZxQUtsNWE2dWZYS1JHOUM1N253MWY4NHBNd3A4Wk1sSmJqMFdjX0Z1eFRlSmo3RHgzOTZ0bVJGR1FxbnZwdUlWdVBVUGVYUXpYVnE2RUpZTnQtQ2cxQ3dYUkh5UWlJd2xQSUNjUng2UXhjUzlOTVV6YXp6MWMyTVJYSzg4U3E3ZWluRlJYSVVxR0ctSGZEUHhlek1LVEdUbTFQbFdkOEp30gHQAUFVX3lxTE4yUTF3M2lpcXJyak5GM0diZEt4c1E5VTVyWmVja1NIY0R4aGYtT3lpTlFDbEJUUjFCZ3o5LW93M2ZUMlc2MkhiUnBwekRpV3ljREJPdlQzTVhHVmtBWHR0dnRrcGkyYjdYRi1mdVNsanhGUTFrTFJyeDVDTm5VMVFMTUdYeUkzTjhkNHhjUXhLRXE1YmhKU2otZVc1N0o2Y3F1aUF3c3Z0alFRQ0cxRHd6eWNXcVp4TzhEa2o2VVlBdmd4TTZubTlncF9fUVp2ZnU?oc=5",
+      "score": -0.1
+    },
+    {
+      "source": "press",
+      "title": "Cabinet meeting starts in Himachal Secretariat: Proposal to raise vehicle registration fee likely; talks on... - Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOE0yWEZkVk5CeEY5bDhVS1RodEtBdzZ0azVkRHRxVXhuY1padzNMSTRjU2tVU1RaN3dzLWl1SVd4b1B5Vm9IRzFrUU50N2NBekZyalJTSnZXOUJvbFFrLV9tTm1pb3lUQlFKamphbFkxdUdqOU9kcmRwN2EtVjdveTZnZnB1MWRSMzNUc1FnblBXaXBGVGg3Ykd5T3h1VWxUNjFLQUF3VWYwalVFd2g1Skg2YkQxOC1uWl9yckpGOFdkQTBZcEF1Rnc0d1JNQW1s0gHWAUFVX3lxTFBzR2l0MHVkVFI1MEhRMDFfcmExX045ZFJac1h2MkdvdnZSN1R4SmJBNjVGMC15ZEFhdDV2QWJ0alRKd2cteDdLLU9pdTNkRl9lZ1I3UWdzMjFfT0ItVjFoUU5NSzhpWmNzckw5SW50VXpqWlFMLXNTR1FkSkJiWnljbXYwaFkxZHlZQ05MdExYT2V2MU1IVmh1QWlxeW5tMUdsb3NFdG5Oc3FndWNxbURjVktyQVJNUjd5WXk4Ukk3TEh5aGNKVG92Q1FsUXVJWWRBay1fSHc?oc=5",
+      "score": -0.1
+    },
+    {
+      "source": "youtube",
+      "title": "Tak HaiUthi Achani Uthi Burani👍",
+      "score": 0.5
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

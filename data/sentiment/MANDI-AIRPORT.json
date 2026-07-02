@@ -1,0 +1,68 @@
+{
+  "updated_at": "2026-07-02T11:24:11.683Z",
+  "project_id": "MANDI-AIRPORT",
+  "press": {
+    "n": 8,
+    "positive": 3,
+    "neutral": 4,
+    "concern": 1,
+    "avg_score": 0.025,
+    "avg_magnitude": 0.2
+  },
+  "youtube": {
+    "n": 2,
+    "positive": 0,
+    "neutral": 2,
+    "concern": 0,
+    "avg_score": 0.05,
+    "avg_magnitude": 0.05
+  },
+  "overall": {
+    "n": 10,
+    "positive": 3,
+    "neutral": 6,
+    "concern": 1,
+    "avg_score": 0.03,
+    "avg_magnitude": 0.17
+  },
+  "top_positive": [
+    {
+      "source": "press",
+      "title": "इंटरनेशनल ग्रीन फील्ड एयरपोर्ट, साइट क्लियरेंस की अवधि एक साल बढ़ाने को केंद्र से उठाया मामला - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRFRKZXlzUWRvOVBBcHZBVjZnbjRlNGNtd096RU5jS003MUk3QXhZb1NkQUF3US10X2hZNm5CTHhadldHS0xJeE95Vk43ZEI4N2F0aGs3YmxKSTJmb3g2WDh6bVFrSWk5eTA1WTFyYXQxRzBYSGluamZZbjBXYVltM0xGa2xDYm9WWEVON3VUREtvQUdTV1dRdHdVQm9mbjhzYzJQNFlzb245MWtOSFNSUl9CcTNubGhpNk5SOC0tOUhWSm5mOGF0Y25QRl92bzRWNEdoTXJWS3V5Y1lyRjFvNVpxczhsU05MUnRHU09UMW5nRW5OMno5bXo5dnljcDDSAYQCQVVfeXFMT3BUcnVaVXdiUno1NFFwVUlhWXowWUZqMllHM3lCVmNIZ3ZXaThxWFFDTTFkal9Ya1FpSHpCaEJyM0hmYktyY2FKdUxYN2V1LWkta1BWQmNjRjhuT0hzMlFMVVc1NzkySXlrQS1aeVpJdFlJVXN5TkdXUHd0NUVMRTh2M3lZVkJibHRjNHdxYkI5TFE5TTk1dEdra1FEdlJheWRYVjF3c0M5Q2trbExXTV9MaGZsRUowX2lkTFA3M09OU0FTOVhRSmxDNl9XZU9HdUl4aGR2STB1c015ZFhDQnN3SW5hUE5lWmJYeE5BYjdYdG1MOC1EazRhQUIyclV3bm0wN0k?oc=5",
+      "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "Mandi Airport: विमानपत्तन प्राधिकरण ने मंडी हवाई अड्डे की डीपीआर लौटाई, कहा-तकनीकी खामियां करें दूर - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNenVsakNUZDliR00wNElqTW9oRVpIUFZmdG9YRGdnbkJrUzd6WVhJZGs0ZGpKRDNFLVA4ZGU5Y2hndF8yUF9tenozOUFXM0owYTh3dTlhVWNwcDB2VGtMUGFyZ2xnTkVvVkJFaUUyWWNVN1JPOWw3Tlk1ekR3UmFJbWwyQjlib0NNMm9QNlppOWJqamRrUDVJZ3NDWUF1cEFhX0NCNERjQU1EQlN6U3VVQzBjUHhrb1lRT3Rvbm55eGtRM0t0cEt2YVBRUdIB0AFBVV95cUxPVHVpVXRzRkhuSDJiUXJCdEJsQkdVd09tZjEtMHNFcDh0S2FOelcxTVZobGpHa01UdFBpYWtRcmdHTW1tandMQndRLW1aX0NjRGgzcmFDWlpqbHFsdFdoRGJKR3JJbXM1ejkyNjlBWTYwSVVMUy1EemN1cVY4N3hWbjlEYk1rYUstNUZTbk1qSnVmemZ4bDIxU2JTNVUtczRncFlTVFZCbDAwcmtKZFRGY05DRGl6cGd3VWQ3bHIwc2NJY1h2dkxab210X0dMLVVm?oc=5",
+      "score": 0.2
+    },
+    {
+      "source": "press",
+      "title": "HP CM seeks special assistance from Niti Aayog for Mandi greenfield airport - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNWlpdDRVOXhHM0JLaDdKbVYxbmdSNkc4dTBCRC05ZW9Lc1NQVlBWMkhSMEFNd0JCZURpVXNNOWZWXzlfakNJeTlyTUZBdUhBSTlKckNnTUt4enlwbVloc05hTzkwbVhRV0hIUE5zUHczSE1NbDlKTUNkVHUxZXBKb2RmcGtFbC1nZkxwSlcxUGtEVnZKdm9lTXRDc29PcXZMV01kcGdYdGpFQXExQlY0dGViY3ZsNUo3TFBSalFJd1puTmpacmhRT1diQWwzRmczYmlNMTZUYVNya0VKV0x3Tjg1NndVYzRG0gHuAUFVX3lxTE5nYTg0OXBHeWx5LWlWd0gwLUJZN0FlSWJwazFDYU4yOHNKWVNOWDZKeEU2SlBFakhwUFozTVBua2dna0dYZUpLUm13UHk1bXFpeElfd3NqSEFTakJfZjRKZDBqSjBka3dCWGR1WDg3blg1a2pPeDA0TFl2Z19ydjhWQVFTRm0tcU1oRXhPSmxzZGFEMU1CZDFRRmdmbVkwS3Bfcng2b01FUlVlX1J0czlKLXdUcWUtaVU1cThUUHA5TjBJWjBpaUQxczZscFBWRlAwRnZtZmFQMVk0NmxOT2hMdUU2c3drRUdYQWtab1E?oc=5",
+      "score": 0.2
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "Himachal Pradesh’s poorly planned Mandi airport risks its limited fertile agricultural land - The Caravan",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3Z3cEUxbHF5bzFKOEQtWWxicHV2LVJnV25GbzlUYVUxbDc2S2NmZjZYZUV2NFFQZXI1QjkxV3pqcWZpNm1LVDRvLVM5amVEWm5WeWtxLVY1N3F5cjkydnR3UGxsMlVTVFo3UmJaamJsa2M0TFM3TW0xNk8tOGlpc2tlRU9MekI0cEVURTRLZTFmRUFVWUFJNHloZjdFVVlFMHpzVGVrQ2lnaWRsWEFSYUd2b2hOSTZGSlV1ODRGTFd5TVhGd3dmSA?oc=5",
+      "score": -0.7
+    },
+    {
+      "source": "youtube",
+      "title": "Jb joia ram ki double engine srkar thi tbh kya kia",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "Who is Suman K Bery? - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oLXBTQ3hjbWYwRmZ0Y3BNME9TSlNCYVpTWkhSVDhsalZTSWF2a25EV1dHdDVQd3BtMEFBMHpKQzEzTDFMeWdNd3hpTHFmeXg2eTJoelpNN1BYWlEzQWllSXJfNVVIc05vLWg0?oc=5",
+      "score": 0
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

@@ -1,0 +1,64 @@
+{
+  "updated_at": "2026-07-02T11:24:06.571Z",
+  "project_id": "LUHRI-1",
+  "press": {
+    "n": 20,
+    "positive": 6,
+    "neutral": 14,
+    "concern": 0,
+    "avg_score": 0.115,
+    "avg_magnitude": 0.14
+  },
+  "youtube": {
+    "n": 6,
+    "positive": 3,
+    "neutral": 3,
+    "concern": 0,
+    "avg_score": 0.233,
+    "avg_magnitude": 0.267
+  },
+  "overall": {
+    "n": 26,
+    "positive": 9,
+    "neutral": 17,
+    "concern": 0,
+    "avg_score": 0.142,
+    "avg_magnitude": 0.169
+  },
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Great sir👍👍👍",
+      "score": 0.9
+    },
+    {
+      "source": "press",
+      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - The Economic Times Hindi",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hOTTcxQXVwRXRWQWFMOGpvRnRzNGdETDBlckNfTzBpSng3WnluaGtzdVlGaU5xdWRnZko5cUNPd1EyQWwzTl9vbkJMVFBORmFlZ0toenpkamJjVk9ZNDZqU3JveHdPSHRYQjdwaFpnT1BUbkJxbWp6YWJHZl91MUhDMlR3enBxZkZtQVlmY20zR2NUNWRIdG83NFFIMlVIRWlndDlGUm1lbmFqbnFnZUxnU2o3ZUlxZlE1RXllU0N6Mnk1MGp5QlBPWVHSAdIBQVVfeXFMT0MxRGd6UXIyRVFGdjBZcmdRY3c5VEhrWTdhZHV2elkxRlF6emJ6eDFvVnZIdFR4WXAwUWdiTEhJaHBoeWpQdlJPcy1xS1JVTGt3SmpSaVNNdzE1aGVtd241SVdTdWEzb1F2S0lLRk5lMWs1dFJZR2RGMzRtYVRVRTAwcFM1M0VlUUNhRmF5X2h0RFNtbnRlZEdzU0RkNTMzQkUxS1pndk1FVHNIdkc1dmVaZGVoLVB0S2otMXZtakJZb01oc2ZJMk9mNmt3V3MwVVln?oc=5",
+      "score": 0.8
+    },
+    {
+      "source": "youtube",
+      "title": "👍👍👍👍👍👍",
+      "score": 0.4
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Please tell me how and when the project layout was developed?!",
+      "score": -0.1
+    },
+    {
+      "source": "youtube",
+      "title": "Sir ye shuru kb hoga??",
+      "score": 0
+    },
+    {
+      "source": "youtube",
+      "title": "Ye sruru kb hoga sir",
+      "score": 0
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

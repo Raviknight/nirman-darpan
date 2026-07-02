@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-29T20:48:16.332Z",
+  "updated_at": "2026-07-02T11:23:33.507Z",
   "project_id": "KGR-AIRPORT",
-  "count": 1,
+  "count": 2,
   "suggestions": [
     {
       "category": "litigation",
@@ -11,8 +11,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjVTaEdRUGgybldINGVFdV9PYUc1Z2ZaY1lnS3hZWnU2RDBJZWlWVjZrbDFoa3RELUV2al95Q1B5Q004YnBMaW5WaDdiWWlWSnhVNVRJNE5seU9qc01ScTdkbVNXaUtoa1I2SGJvc1FsY3FwaGZMd1FJMk5ZTXlZbmNlUk5Nc3BnS2otRXVLOEYzWjBjWlVvc0RJclFfUVE?oc=5",
       "source_name": "News Arena India",
       "lang": "en",
-      "date": "2026-06-10T07:00:00.000Z",
+      "date": "2026-06-10T12:51:57.000Z",
       "matched_term": "sho"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "title": "CM Sukhu meets Civil Aviation Minister, discusses strengthening air connectivity to Himachal - ET TravelWorld",
+      "summary": "Auto-detected from press: \"CM Sukhu meets Civil Aviation Minister, discusses strengthening air connectivity to Himachal - ET TravelWorld\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaFdOZUhuUFRJak9hLVRWQ1c4Y1dTaGZDd0dabDdWSmJJNmloT1ZwbXpKXzRQbm85UGl0RFA0SUhNTnhyQXBzNDJjN0paVzBfcm9YbFZSZTRUUHNkY3ZBbHNDZmFQOFFHMm8xeGR6ZXBLSk9NaThWNVZTejlwZlg5TjJRR1EwUDA1ZVhtU091MFFvemZpRVBNR2lzLU9nU1lhbk9uQkNhTm5xTlZNemI5SnNtLUtVSE0xd2lhYXlRLTBBOTROT2JUdWtmbVVTY1RjSkxpNXBQVTBIUEpZSERpS3l5V09SbEtZZDhkM0lvOWYwUmZwOF9PX09XSnJ3SGPSAYQCQVVfeXFMUG1TcE1Pd045ZjNpcXRMNXhVelZ2QjJjS1J3eVRWZHI2bl9pUWxoemtIcWFvempqOGk2MVZUeE5ENThYLW9vNTJKZ1dfcThqR3JKaGZPc3ExR0E1R2o1REVYQjdjcV9fbnJ3dFIwV01JTGRpc1RWYmVVcm9Sck83UElHbmw4UWFNajFqbnBfSjRVVlAzb3h3SXNHT2dRc0VCYUtYaUsydFdhN19NbDhwTzhWZTVpVVZfdzktLVNxbTdDNnVCbmduX2gxY1Etc2FEaXhtblEwNjhvcWRFa1p5RmE4enZfU2JwdXFZc3BpY2dCS2I4ZE8zV2NmeEU5b0FBY3VTdzM?oc=5",
+      "source_name": "ET TravelWorld",
+      "lang": "en",
+      "date": "2025-07-15T07:00:00.000Z",
+      "matched_term": "ngt"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

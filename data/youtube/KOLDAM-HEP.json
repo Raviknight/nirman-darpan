@@ -1,0 +1,111 @@
+{
+  "updated_at": "2026-07-02T11:23:44.498Z",
+  "project_id": "KOLDAM-HEP",
+  "query": "\"Koldam Hydroelectric Power Station\" Himachal",
+  "counts": {
+    "videos": 3,
+    "comments": 10
+  },
+  "videos": [
+    {
+      "videoId": "mkVu9hzyC58",
+      "title": "NTPC कोल डैम पहुंचे मंत्री राजेश धर्माणी, पावर स्टेशन का दौरा किया, तकनीकी जानकारी ली",
+      "channel": "Punjab Kesari Himachal Pradesh",
+      "published_at": "2026-06-13T07:17:49Z",
+      "description": "NTPC कोल डैम पहुंचे मंत्री राजेश धर्माणी, पावर स्टेशन का दौरा किया, ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "YVoJ3sqL32c",
+      "title": "NTPC Koldam vlog|Hydro power project Koldam",
+      "channel": "Himachali Karishma",
+      "published_at": "2022-10-03T13:42:10Z",
+      "description": "NTPC Koldam vlog|Hydro power project Koldam Location:- The Koldam Hydropower Station commonly known as Koldam, is an ...",
+      "comment_count": 9,
+      "comments": [
+        {
+          "comment_id": "UgwlTGrKqmlaW-8ySz14AaABAg",
+          "author": "@himachlitoofansmriti7256",
+          "text": "😍😍😍😍",
+          "like_count": 2,
+          "published_at": "2022-10-03T14:07:17Z"
+        },
+        {
+          "comment_id": "UgwjzGywIqThU_FhwEt4AaABAg",
+          "author": "@queenop3493",
+          "text": "🥳🥳🤙🤙",
+          "like_count": 0,
+          "published_at": "2022-10-03T14:38:26Z"
+        },
+        {
+          "comment_id": "Ugx5QXx6BNJZpZSUJuN4AaABAg",
+          "author": "@himachalivlogger2461",
+          "text": "Continue vlog kiya karo ap bohat ache vlog bana Lete ho aap🙏👌",
+          "like_count": 3,
+          "published_at": "2022-10-03T13:54:31Z"
+        },
+        {
+          "comment_id": "UgzcmyGo59VY1nIS_3h4AaABAg",
+          "author": "@kalpanachoudhary9205",
+          "text": "🥰👌",
+          "like_count": 0,
+          "published_at": "2022-10-20T16:07:41Z"
+        },
+        {
+          "comment_id": "Ugz6_r6My2D2oWlMbht4AaABAg",
+          "author": "@kusumlata6445",
+          "text": "Khoob mehnat karo🥰🥰🥰nice vilog",
+          "like_count": 0,
+          "published_at": "2022-10-03T15:03:50Z"
+        },
+        {
+          "comment_id": "Ugw36OXqKhcIqVeA3uF4AaABAg",
+          "author": "@kanchanbala8422",
+          "text": "Nice vlog",
+          "like_count": 0,
+          "published_at": "2022-10-04T10:17:11Z"
+        },
+        {
+          "comment_id": "UgyYqaQ2GP0ZgDRkaF54AaABAg",
+          "author": "@shekharrajput3317",
+          "text": "Chkya kaam ghumi jaa koldam",
+          "like_count": 0,
+          "published_at": "2022-12-28T17:54:20Z"
+        },
+        {
+          "comment_id": "UgwuGeF5iDFoovpscPR4AaABAg",
+          "author": "@himachalivlogger2461",
+          "text": "Talab 😂😂😂",
+          "like_count": 2,
+          "published_at": "2022-10-03T13:58:30Z"
+        },
+        {
+          "comment_id": "UgxSEMkdjOShnfnI0Mp4AaABAg",
+          "author": "@anuradhabehera6995",
+          "text": "Aapki mamma beautiful hei. Isliye turanth lift bi mil gaya. 😀😀😍😍😍",
+          "like_count": 0,
+          "published_at": "2022-10-05T11:05:43Z"
+        }
+      ]
+    },
+    {
+      "videoId": "um_aGmxG5nw",
+      "title": "NTPC Koldam View❤️🌊🏞️ #ntpc #viral #trending #himachal #shorts",
+      "channel": "Hashtag Vlogger_03",
+      "published_at": "2023-04-17T17:35:00Z",
+      "description": "NTPC Koldam View❤️  🏞️ #ntpc #viral #trending #himachal #shorts.",
+      "comment_count": 1,
+      "comments": [
+        {
+          "comment_id": "UgxYDeDbLpdC2c3rOPd4AaABAg",
+          "author": "@AnilKumar-oy8rc",
+          "text": "Koldam HP ❤",
+          "like_count": 0,
+          "published_at": "2023-04-19T07:52:12Z"
+        }
+      ]
+    }
+  ],
+  "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
+}

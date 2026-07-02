@@ -1,0 +1,65 @@
+{
+  "updated_at": "2026-07-02T11:24:22.758Z",
+  "project_id": "IIT-MANDI",
+  "press": {
+    "n": 20,
+    "positive": 9,
+    "neutral": 9,
+    "concern": 2,
+    "avg_score": 0.14,
+    "avg_magnitude": 0.27
+  },
+  "youtube": {
+    "n": 23,
+    "positive": 16,
+    "neutral": 5,
+    "concern": 2,
+    "avg_score": 0.3,
+    "avg_magnitude": 0.504
+  },
+  "overall": {
+    "n": 43,
+    "positive": 25,
+    "neutral": 14,
+    "concern": 4,
+    "avg_score": 0.226,
+    "avg_magnitude": 0.395
+  },
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Best iit campus in my opinion..iit Guwahati and roorkee",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "What a place",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "IIT GUWAHATI and ROORKE campus best❤",
+      "score": 0.7
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "A Trojan horse has breached the IITs - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNlhzWHR2bjluQm1sdmY2X2J1R1JBVlFlb05SUDB1Tm8xMmJzU001bVZRR0txWkQ5cUNWRm5vUmhuY3VxdVVnUkttcmYydFRSMHNnSndpNlBMMU5KUEk0OGRfOU9OOUVKSTZ1cGFIejJkdmd0TWM2bkRkTHRZSXRUckt2TXdNSmFPNEtPMmsxSDJlUS1rS0NIcDdTSdIBogFBVV95cUxNcEdacFlJMXVvVHR5c3IyY2pyVVFpMzNDdzcxbHRiV1NoeWh5N1JLR0x0ZHVrVExzSjkyUV9iV2lDWGQteFRBajQ4ODRfZDJKakN6LXZxdFRHYkV4MERXQVZyekNtRWtEWXQ3Vjk4Sk53bko5N0g0SG9BV1dfcWFaOWRubGdrd0VfZFFGNEdORmE1NVVSRW54YXktYS1lWlFhLUE?oc=5",
+      "score": -0.6
+    },
+    {
+      "source": "youtube",
+      "title": "Why experience 😢",
+      "score": -0.5
+    },
+    {
+      "source": "press",
+      "title": "UPTET 2026: Yogi Adityanath directs foolproof arrangements; says fairness cannot be compromised - Careers360",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeWtBaFE0aDc4ZVdxanVCSThkT2ZBWFVzR1dOcm45T1UxWGREZzd3TmhubTA2MlA0VUFKWDlwVFlvb0ZDcUV5SGN4ZkUxRjBQeXdOZ1daNHd1QUZORlNpUmRYcm9PaVRpMTF4dFU0YTZBRkpkeVljc2lvcUtXZ2RYazZ2V1ZFSm03T3NOa0VRR1RTR3FZQUxpNXNFYzhuZFlGYmx6d0gtVy1oNGRsa0FDU3pNc0tGSGhFemRtaUd30gHDAUFVX3lxTE56ZFUwandIajNzU1oxUlNoMFF0eEptbmxnTm00ZWpqaEhBYnk4Z3RwWUNvUERocTJNYzhQdUJWQ0E0TVpKcnZuVWNVUFU3Qlh0MnBuRjU4aEhEMlpHQ3N5OURvSDUzc29taWxlVkhpYzFFamtoWDlmMHlmc3VjUGZ3ZUpTZHlOdGYzeTlOWFlKSUxuZFNfcHpkRHRGSEllSDI2VmtzV0hLX2xkc3dkcmFORG1pX2M4bWxpVzBmS25mLWRFRQ?oc=5",
+      "score": -0.4
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

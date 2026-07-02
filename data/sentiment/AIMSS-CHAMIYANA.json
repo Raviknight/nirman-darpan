@@ -1,0 +1,45 @@
+{
+  "updated_at": "2026-07-02T11:24:44.174Z",
+  "project_id": "AIMSS-CHAMIYANA",
+  "press": {
+    "n": 1,
+    "positive": 0,
+    "neutral": 1,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
+  },
+  "youtube": {
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
+  },
+  "overall": {
+    "n": 1,
+    "positive": 0,
+    "neutral": 1,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
+  },
+  "top_positive": [
+    {
+      "source": "press",
+      "title": "Shimla: Video of dog carrying human foot near Chamiyana hospital goes viral - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEV4ZTFOWTE3MFl6VjdrYl9Lb1pJMVp3MHdVdHRUUUs3WlR1c2pRWnhQc3ZlVFBHSWVNNGxwN1hELU5RNnZiX1NPbkdxUXR2UGVVcVhWVlkteTFUbXVZNGM4SHJ4Um1sZW12Rkw4WHdKQVluWGNGb1hhRlBMVk5fRWp0cGMycHMtd3pzRXU1S1VBeDVQY3o4SzBMbVh5d1VpYWJWNlBkcHV0MzE4MV8xMA?oc=5",
+      "score": 0
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "Shimla: Video of dog carrying human foot near Chamiyana hospital goes viral - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEV4ZTFOWTE3MFl6VjdrYl9Lb1pJMVp3MHdVdHRUUUs3WlR1c2pRWnhQc3ZlVFBHSWVNNGxwN1hELU5RNnZiX1NPbkdxUXR2UGVVcVhWVlkteTFUbXVZNGM4SHJ4Um1sZW12Rkw4WHdKQVluWGNGb1hhRlBMVk5fRWp0cGMycHMtd3pzRXU1S1VBeDVQY3o4SzBMbVh5d1VpYWJWNlBkcHV0MzE4MV8xMA?oc=5",
+      "score": 0
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

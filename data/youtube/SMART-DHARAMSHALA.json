@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-07-02T11:23:47.749Z",
+  "project_id": "SMART-DHARAMSHALA",
+  "query": "\"Dharamshala Smart City Mission\" Himachal",
+  "counts": {
+    "videos": 1,
+    "comments": 0
+  },
+  "videos": [
+    {
+      "videoId": "ALEu7cmX_9U",
+      "title": "33 करोड़ की CCTV परियोजना अधर में, जिम्मेदार कौन ? | KHLive Himachal",
+      "channel": "KhabarHaat Himachal",
+      "published_at": "2026-06-03T02:30:06Z",
+      "description": "33 Crore CCTV Project Stalled! Silence of Officials Raises Questions in Dharamshala Smart City Project** The ambitious ₹33 ...",
+      "comment_count": 0,
+      "comments": []
+    }
+  ],
+  "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
+}

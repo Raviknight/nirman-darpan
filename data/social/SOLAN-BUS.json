@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-29T20:48:13.998Z",
+  "updated_at": "2026-07-02T11:23:31.002Z",
   "project_id": "SOLAN-BUS",
   "counts": {
-    "press": 6,
+    "press": 5,
     "gov": 0,
     "en": 3,
-    "hi": 3,
-    "total": 6
+    "hi": 2,
+    "total": 5
   },
   "mentions": [
     {
@@ -37,16 +37,6 @@
       "date": "2025-10-10T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Solan bus stand"
-    },
-    {
-      "title": "Solan: बस स्टैंड नालागढ़ 3 दिन से अंधेरे में, यात्री परेशान - Punjab Kesari",
-      "source": "Punjab Kesari",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0dQcDVFYUpMeEN5c3VINVlMelVMcjFtdUdXdGVtUGNDdm9WMjljeEt2c2twUVhDUTRBdkR2c3J2WTlzNUF6c0VXSUZrZzcyZXdfZDJ1NHpsUWh3UWRzajZELUw3RWdIOTF2bkxZZDFNTjFpUW5qbEM0aU11d0lOTEU4UWJSVWxJRW93VTFHeGxPd2xRMFHSAZ4BQVVfeXFMTnpBR3VzVGtMZ2M0blNSQjBsNy04RFNGVFN3ZU52SkJPSlo2Zjc0RklzR3JrUkk1eXMtN3NzUnpoLV9ucU5pLXZEVThxeXhuejg4dTJuTUNqRHowVk1BQ0c3OVphVWZKbDlQQmpWQTR6ZU9Fb2xrby14MlduR1p1YzVjUzE4ejROM2xQbEI4V1NxVWVURk1PbWpwMUNFLWc?oc=5",
-      "date": "2025-04-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Solan bus stand"
     },
     {

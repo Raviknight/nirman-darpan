@@ -1,0 +1,53 @@
+{
+  "updated_at": "2026-07-02T11:24:47.166Z",
+  "project_id": "BAJOLI-HOLI-HEP",
+  "press": {
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
+  },
+  "youtube": {
+    "n": 2,
+    "positive": 2,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0.65,
+    "avg_magnitude": 0.65
+  },
+  "overall": {
+    "n": 2,
+    "positive": 2,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0.65,
+    "avg_magnitude": 0.65
+  },
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Aapke channl sasbcribe krne ko varsha jariyal danser ne bola h.good job",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "😊😊😊❤❤❤❤",
+      "score": 0.4
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "youtube",
+      "title": "😊😊😊❤❤❤❤",
+      "score": 0.4
+    },
+    {
+      "source": "youtube",
+      "title": "Aapke channl sasbcribe krne ko varsha jariyal danser ne bola h.good job",
+      "score": 0.9
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

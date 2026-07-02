@@ -1,0 +1,64 @@
+{
+  "updated_at": "2026-07-02T11:24:42.760Z",
+  "project_id": "SHINKULA-TUNL",
+  "press": {
+    "n": 9,
+    "positive": 2,
+    "neutral": 6,
+    "concern": 1,
+    "avg_score": 0,
+    "avg_magnitude": 0.156
+  },
+  "youtube": {
+    "n": 7,
+    "positive": 5,
+    "neutral": 1,
+    "concern": 1,
+    "avg_score": 0.314,
+    "avg_magnitude": 0.543
+  },
+  "overall": {
+    "n": 16,
+    "positive": 7,
+    "neutral": 7,
+    "concern": 2,
+    "avg_score": 0.138,
+    "avg_magnitude": 0.325
+  },
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Very good video",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Great ❤",
+      "score": 0.8
+    },
+    {
+      "source": "youtube",
+      "title": "संबंधित चित्र और वीडियो ही डालिए।इधर उधर के चित्र व्यर्थ होते है।",
+      "score": 0.6
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Ambani addani orchards mint millions and people are still poor in Shimla.",
+      "score": -0.8
+    },
+    {
+      "source": "press",
+      "title": "India is building world’s highest tunnel on China border at Rs 1,681 crore – Here’s why it’s certainly a bad news for Beijing - Zee News",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaG1oQ1JaZEY0WWdoSUVtQnBFbzJVWDd4OUo1SmY0SVpPdV9NNDFrbG0tbGFmV3VidkNHUUVHUDFKUHVnSTNuYWM1dmh0Mnl0bVRSNXVNSlpzMXEzV2RxMi1IUjJ1NDJtYVlyQTl4U2czVi10bFplVXhmR3ZDYmRoZDVpSHNHaHBIbmVQQ0p0eXlPdnVlRTlMWDhvZVFsRllZV3p6R3FaSldIRFNtX2JEX0VlSFAxcm14TGxqUTNEb2Z3SElVTkoyOUtDbERfdnVNVkx0QV8xc1FFMnFpWlVtUlJDZVV3OTNTSGVtNUdMTm1Zek5DU1A0UFdRNNIBgAJBVV95cUxQTHoxbnBrMnFYWU5sUzBhZWVDTGNjRVhIamVNanM1N2dKR3ZxdF84SUltanlqRy1VZ2xTQmNhUmFONXVJNzEtSjBJeWJkLVFEdmR3ZWE0ZG9ob3dwREFjU0FVRW42VC1lbll0ZmlkSjh4bm01NmZkZzM0RnBfQkNOMk8zRnJDQVVfZ2VsbzVIN3ZpZVlOYzhkQ1RaUDRRaTZWUEdvaXZQZGxfaHJCM29aTThpLUdiU1RiZVhmVEU2V1JyUXZhY3hiYTJUMWpZZW1xbG5CRzl5YXc5b1I3cDJZbEdnaEFxeWRLVzJacVktTElyOTlXczNQQ0NNVHhVNjVs?oc=5",
+      "score": -0.7
+    },
+    {
+      "source": "youtube",
+      "title": "Which month did u travel?",
+      "score": 0
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

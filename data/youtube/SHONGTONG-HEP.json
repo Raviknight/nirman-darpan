@@ -1,0 +1,69 @@
+{
+  "updated_at": "2026-07-02T11:23:49.837Z",
+  "project_id": "SHONGTONG-HEP",
+  "query": "\"Shongtong Karcham Hydroelectric Project\" Himachal",
+  "counts": {
+    "videos": 3,
+    "comments": 4
+  },
+  "videos": [
+    {
+      "videoId": "Q2KfTl94ApI",
+      "title": "Shongtong Karcham Hydroelectric Project Explained | Powering Himachal Pradesh",
+      "channel": "The Law Consortium(TLC)",
+      "published_at": "2025-07-04T17:00:38Z",
+      "description": "Shongtong Karcham Hydroelectric Project Explained | Powering Himachal Pradesh . The Shongtong Karcham Hydroelectric ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "1CV1hUQWAc8",
+      "title": "Shongtong Karcham Hydroelectric Project #currentaffairs #parchamclasses",
+      "channel": "Parcham Classes",
+      "published_at": "2025-06-18T11:30:01Z",
+      "description": "Shongtong Karcham Hydroelectric Project #currentaffairs #parchamclasses.",
+      "comment_count": 2,
+      "comments": [
+        {
+          "comment_id": "Ugznwz7zXnTsG9dRend4AaABAg",
+          "author": "@Shiv0248",
+          "text": "Amazing fact 👍",
+          "like_count": 0,
+          "published_at": "2025-06-18T14:05:10Z"
+        },
+        {
+          "comment_id": "UgwmDAQX8B6j4HZrLRh4AaABAg",
+          "author": "@smartINDIA1950",
+          "text": "Thank you sir",
+          "like_count": 0,
+          "published_at": "2025-07-09T18:05:25Z"
+        }
+      ]
+    },
+    {
+      "videoId": "-YCs067cyMU",
+      "title": "Shongtong Karcham Hydroelectric Project | A GeoEngineering Marvel | Geological Survey of India",
+      "channel": "Geological Survey of India Central Headquaters",
+      "published_at": "2021-06-04T04:30:13Z",
+      "description": "Shongtong Karcham Hydroelectric Project, a run of the river scheme, envisages the construction of a barrage across the Satluj ...",
+      "comment_count": 2,
+      "comments": [
+        {
+          "comment_id": "UgykZU3N4M7nmbv2RkJ4AaABAg",
+          "author": "@Peace9303",
+          "text": "👍",
+          "like_count": 0,
+          "published_at": "2021-06-04T05:00:55Z"
+        },
+        {
+          "comment_id": "Ugw3oZwqApElRHGaSLF4AaABAg",
+          "author": "@geostar_68",
+          "text": "Excited for video 😍",
+          "like_count": 0,
+          "published_at": "2021-06-04T04:02:26Z"
+        }
+      ]
+    }
+  ],
+  "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
+}

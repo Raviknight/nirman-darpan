@@ -1,0 +1,67 @@
+{
+  "updated_at": "2026-07-02T11:24:40.726Z",
+  "project_id": "NH154-PKT-MND",
+  "press": {
+    "n": 12,
+    "positive": 4,
+    "neutral": 5,
+    "concern": 3,
+    "avg_score": 0.025,
+    "avg_magnitude": 0.275
+  },
+  "youtube": {
+    "n": 7,
+    "positive": 4,
+    "neutral": 2,
+    "concern": 1,
+    "avg_score": 0.243,
+    "avg_magnitude": 0.371
+  },
+  "overall": {
+    "n": 19,
+    "positive": 8,
+    "neutral": 7,
+    "concern": 4,
+    "avg_score": 0.105,
+    "avg_magnitude": 0.311
+  },
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Good information 👍",
+      "score": 0.9
+    },
+    {
+      "source": "press",
+      "title": "फिर से सवालों के घेरे में पठानकोट-मंडी फोरलेन परियोजना - Jogindernagar.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fcTVRUnZDVldCWXVfSnhPS0FVdDRrR3N5T2Q0eUZUY2JJVGhjZzlua2VwQzJmWTF4aDNzSHM4MERmV0ttdy1OM0V2MkpoZDlCcE9CNHhPZkhDcEdpOTFqNW9SM2xrX1ltS19FX2pLN2M?oc=5",
+      "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "Himachal: राजोल-ठानपुरी पैच को नई उम्मीद, केंद्रीय राज्य मंत्री ने कही जल्द डीपीआर पूरी होने की बात - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUmV1dzRGV05NTDZhUU9pQkpVQm1wRkVYVnJkLUxVeDdQeHhkZ1VLTGRNcDBLdjhNV1JlWkxMY3RxOGNTaC1YcFdVdjJWUG5fQTA3NWZZdmdtN1A1ei1IZ1IyUG0ycnJnZkowODFBNGVGVllmWmhzUzljYS1PcGt2bnE2azlHanBDVFlhMlM3TGNKeUhqY2dzSWpaTGNIaUVZZkpBRThPWU10cXI1amVHLTliMlZhSXkwc3NrZUhST1dHUkNFdy1TU3I3cGVtQUdNQkJaNU5mT1B3R1RBVE51MGU1eF9SSkpKdFHSAe8BQVVfeXFMT1B4VTdiakc3TjhqbUh2X0VzWUlpYUVLQlllbGt6NUhab2ZUd1NzWUlFb3lkckxKNlBlZURqYll5dDR3TUxtYWR2Z050QUNxczVmZnhEdDhNZGIzaThTU1BGRTktT2g5dktqaWNFa1daeUlibFpsTjJJTS1TUVA1N0lKQlBPb2lQSlhFakZwT0c5TXRiREd3NUhzYXdvWHJDakk2TXlGU1RVMFR3Z1NUVDlWdWRQcjlTeTFKVXNjSnR4QURHM2tXREdMQ19CcWVmOUR5bUdYby03VU1BZ05DQl8ybDNjZGpuQkNnbTRQdm8?oc=5",
+      "score": 0.5
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "No DPR in absence of consultant, work on Palampur-Padhar road stretch delayed - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenFQeG4zSmxZcVJsVVpYOV9MZEh2Z1lzWFo1SUFiS1NPX1VzeVp5am9LOG00MzF1d1RNbnhGRzJibEp4ajB2anVVR2ZBU2hwTlphcUVSWG1GSE9jTnpwRmNCNVBObk9PVGVsemNRd0NSTkxBaHNyeUN6LWJ3aWNYYmVkZU05MEZwUHNWMmdhS3gzcU5PQnR6LUNJWnJ1Wk1ZTkprOEFjT0FqalBLTWpfWmtremdjREZId3QwZNIBwAFBVV95cUxQdWZqeEY1RGFIckY1aERqdVpHUzVocWk1MGJvYm1KVTFwT3Q3QzdCOUwwVVlWLWJRT3dUOEZOM1dWTmNQM3JlZ0tGSl9yeWdXNWRvYTFzOWQ1NEZSTUJzZFFqMElDM1dMaW5Xb0xlbzhvdVFnZVNnWTd4b0N2REx6S0F4VlVPb19qakZqSjFwZXVTSmFwQUVNdk1aUGY1Vm5PR2tUTFJGbU5idDkxRHpZcHBYX19YWXF2SmtwTnowR2E?oc=5",
+      "score": -0.6
+    },
+    {
+      "source": "press",
+      "title": "Traffic jams at Malan on Pathankot-Mandi highway inconvenience commuters - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjhoczdjQUJIYk9rY0hKRmNWQTlvT2NrZGFIcmppZVJEcUR3VmIyVTlOSDdVSzNOX2ZaZ2w5UGlXMWtVdlQyWklpcmFhQkJVRDNlWVpIcDBJTEVESW14dlgzQVdJYlNGY29LMHNfU2ZNQVFIVnNqNWx6M0tRR1ZfYnZicGJCQUVMQ0toTlQ1LThBeHFHNzk3Mnl6VFA4bUsyd1V0VWRvci04S0g4TkUyadIBtAFBVV95cUxNNXFwQ3I2RGFqeDhvRTdIRXZ2Rkh0dzY0RExtUVEyT0FnWmFvUGJtSnk5d1VVTWhSR2xPMVlLOG1QRzY4TlZfa25TMG1mZ0g1WU9fZ2NMYXViUTN4YXJWOURJNndxWU5VclZzTjQyWWhFRnBjazl0THZCSlNjOHVENUZmNTJ0QXZ1dHBYVFJPR3g2YndyNjZ6c3JqWnFkaXlFNy1QYUR6SWtiaDdsSTRYaHBYRk4?oc=5",
+      "score": -0.6
+    },
+    {
+      "source": "youtube",
+      "title": "Sadak k dono side ped lgaye jaye ❤❤❤ bhut khubsurat lgega",
+      "score": -0.2
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}

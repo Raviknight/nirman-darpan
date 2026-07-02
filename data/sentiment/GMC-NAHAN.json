@@ -1,0 +1,45 @@
+{
+  "updated_at": "2026-07-02T11:24:50.641Z",
+  "project_id": "GMC-NAHAN",
+  "press": {
+    "n": 1,
+    "positive": 1,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0.3,
+    "avg_magnitude": 0.3
+  },
+  "youtube": {
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
+  },
+  "overall": {
+    "n": 1,
+    "positive": 1,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0.3,
+    "avg_magnitude": 0.3
+  },
+  "top_positive": [
+    {
+      "source": "press",
+      "title": "नाहन मेडिकल कॉलेज में मंडी की महिला के लिए देवदूत बने धर्मेंद्र, किया दुर्लभ AB नेगेटिव रक्तदान - hillspost.com",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOZlFBcGVsdnFVU1BlY1ZlZ0R3Y3l4bW93aXJyNXE5a1picGpmWTFXcnhKaXc2NWF0VmU3NEFGT2RuaUtpN3ZIMWlDWk1tNGZBY1VpMmo1RkRsc3ZqdzBmR3lxUWFVWmdoWVdCSTJhRHJNUFRoUXVDSjZwVXlwVHBDc1Z1WXhKazlPVGFWMkhMUW1uQjdRY0llRTRjVVJjSzlMMVJISTJEUDNsdnpQWHZOVnF3dmg1LXFfeDNsOWp6WU5zaFNfY205UFlMVkh3LTZxMjItRFhvN19VZ1ZQa3BucE92N0cyQzJrNkpsMnZzVkFVOFI1S1R5dE90X29qczlGRDIzVFlLYnl6bGN6YTZfQUIwdXBhbmtMMlc4QW4zaERwekZobEdSMmE4b3lKVTd6dDFoTHhna0QyM19UZnppanBfV2I?oc=5",
+      "score": 0.3
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "नाहन मेडिकल कॉलेज में मंडी की महिला के लिए देवदूत बने धर्मेंद्र, किया दुर्लभ AB नेगेटिव रक्तदान - hillspost.com",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOZlFBcGVsdnFVU1BlY1ZlZ0R3Y3l4bW93aXJyNXE5a1picGpmWTFXcnhKaXc2NWF0VmU3NEFGT2RuaUtpN3ZIMWlDWk1tNGZBY1VpMmo1RkRsc3ZqdzBmR3lxUWFVWmdoWVdCSTJhRHJNUFRoUXVDSjZwVXlwVHBDc1Z1WXhKazlPVGFWMkhMUW1uQjdRY0llRTRjVVJjSzlMMVJISTJEUDNsdnpQWHZOVnF3dmg1LXFfeDNsOWp6WU5zaFNfY205UFlMVkh3LTZxMjItRFhvN19VZ1ZQa3BucE92N0cyQzJrNkpsMnZzVkFVOFI1S1R5dE90X29qczlGRDIzVFlLYnl6bGN6YTZfQUIwdXBhbmtMMlc4QW4zaERwekZobEdSMmE4b3lKVTd6dDFoTHhna0QyM19UZnppanBfV2I?oc=5",
+      "score": 0.3
+    }
+  ],
+  "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
+}
