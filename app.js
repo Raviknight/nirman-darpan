@@ -2039,6 +2039,9 @@ function wireOnce(){
     e.preventDefault();
     openSuggestProjectForm();
   });
+  document.getElementById('suggest-project-btn')?.addEventListener('click', () => {
+    openSuggestProjectForm();
+  });
   document.getElementById('level').addEventListener('change', (e) => {
     state.level = e.target.value; renderGrid();
   });

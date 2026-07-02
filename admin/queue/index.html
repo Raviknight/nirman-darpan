@@ -113,13 +113,17 @@
     return;
   }
 
-  // Email allowlist — primary editor + future moderators. Switches to
-  // Appwrite teams.get('moderators').list() when the team exists.
+  // Authorization: membership of the Appwrite 'moderators' team is checked
+  // first (managed entirely from the Appwrite Console — Auth → Teams). The
+  // email allowlist below remains as a fallback so the primary editor can
+  // never be locked out (e.g. if the team is deleted by accident).
   const ALLOWLIST = ['ravikntsh@gmail.com'];
+  const MODERATOR_TEAM_ID = 'moderators';
 
   const esc = (s) => String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
   const client = new Appwrite.Client().setEndpoint(cfg.endpoint).setProject(cfg.projectId);
   const account = new Appwrite.Account(client);
+  const teams = new Appwrite.Teams(client);
   const databases = new Appwrite.Databases(client);
   const { Query, ID, Permission, Role } = Appwrite;
 
@@ -171,10 +175,18 @@
     });
     return;
   }
-  if (!ALLOWLIST.includes((user.email || '').toLowerCase())) {
+  // Team membership first (managed in Appwrite Console), allowlist fallback.
+  let isModerator = ALLOWLIST.includes((user.email || '').toLowerCase());
+  if (!isModerator) {
+    try {
+      const tl = await teams.list();
+      isModerator = (tl.teams || []).some(t => t.$id === MODERATOR_TEAM_ID);
+    } catch (_) { /* Teams API unavailable → allowlist verdict stands */ }
+  }
+  if (!isModerator) {
     root.innerHTML = `<div class="auth-block">
       <h2>Not authorized</h2>
-      <p>You are signed in as <b>${esc(user.email)}</b> but not on the editor allowlist. Ask the project owner to add you.</p>
+      <p>You are signed in as <b>${esc(user.email)}</b> but you are not a moderator. Ask the project owner to add you to the <code>moderators</code> team.</p>
       <a href="../../">← Back to the public tracker</a>
     </div>`;
     return;
