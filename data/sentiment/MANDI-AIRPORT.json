@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:15:47.222Z",
+  "updated_at": "2026-07-06T20:49:23.602Z",
   "project_id": "MANDI-AIRPORT",
   "press": {
     "n": 8,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.2
   },
   "youtube": {
-    "n": 0,
+    "n": 2,
     "positive": 0,
-    "neutral": 0,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.05,
+    "avg_magnitude": 0.05
   },
   "overall": {
-    "n": 8,
+    "n": 10,
     "positive": 3,
-    "neutral": 4,
+    "neutral": 6,
     "concern": 1,
-    "avg_score": 0.025,
-    "avg_magnitude": 0.2
+    "avg_score": 0.03,
+    "avg_magnitude": 0.17
   },
   "top_positive": [
     {
@@ -53,15 +53,14 @@
       "score": -0.7
     },
     {
-      "source": "press",
-      "title": "Who is Suman K Bery? - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oLXBTQ3hjbWYwRmZ0Y3BNME9TSlNCYVpTWkhSVDhsalZTSWF2a25EV1dHdDVQd3BtMEFBMHpKQzEzTDFMeWdNd3hpTHFmeXg2eTJoelpNN1BYWlEzQWllSXJfNVVIc05vLWg0?oc=5",
+      "source": "youtube",
+      "title": "Jb joia ram ki double engine srkar thi tbh kya kia",
       "score": 0
     },
     {
       "source": "press",
-      "title": "DPR preparation underway for Balh Valley airport project in Himachal Pradesh - Projects Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjdpV3p6VS1QdFlVbkhnN09IdmRTd0FNZEl3R0oyZ2cySGRwWFFsU2k3YUUzU01zWkxibmpCaDZRODJZUkplZEU1MVFzYlRaeHZNVkNXV2xfZGk1Mkw4b0JyUFpSaklFNVJlQlh4R0pLaXZMQkZlRW40dkVLaVU4ZmdiZ0FDNy05UkdJNy1LV2phbzNLVGtsdEdUbnFvVnVHQ1BQamlYS0RHalNKZmZZ?oc=5",
+      "title": "Who is Suman K Bery? - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oLXBTQ3hjbWYwRmZ0Y3BNME9TSlNCYVpTWkhSVDhsalZTSWF2a25EV1dHdDVQd3BtMEFBMHpKQzEzTDFMeWdNd3hpTHFmeXg2eTJoelpNN1BYWlEzQWllSXJfNVVIc05vLWg0?oc=5",
       "score": 0
     }
   ],

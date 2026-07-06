@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-07-02T20:15:20.246Z",
+  "updated_at": "2026-07-06T20:48:27.750Z",
   "project_id": "AIMSS-CHAMIYANA",
   "counts": {
-    "press": 93,
+    "press": 91,
     "gov": 0,
-    "en": 37,
+    "en": 35,
     "hi": 56,
-    "total": 93
+    "total": 91
   },
   "mentions": [
-    {
-      "title": "Shimla News: चमियाना अस्पताल में मल्टीपल स्केलेरोसिस रोग पर हुआ संवाद - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVV1YWVrdzlYTzVuSWFLalR1bVZtLUlvMndzSmhnTWpqNjVzeTZzajZBclh1RjljeFFHcnpSQy1HeFhNc2xjSS1vVW9KYTd2QjFfOThVQ25XdEZtTWt2VDFVNTJ2WC1kREtfNXd6MGRrQWpXQVpqX0d5UVQxYUN3RDI1NjAzc3lYOTRCYk81ZGxMUGJTTk9DVzNrMXZYQlRFVDBzRlpaQzNqcERuRmE5dHBWM0pKdno4VUxTNVhqQ1h3amdRNTRsSFNyYXl2dnl20gHWAUFVX3lxTFBRem5jQTBkN2NvTWh3WVllS012dUhTcml5Z2kyeDl0N0hXekdhMHFrR3A1aUp4TnNlM183cW9rU0NoLXc3ZGJKMll3RWs0WkdjRVVhc3BEQlVxZERnZWtHV1BsUy1jcG5fQVhpbkdBakdjenlFT3Nib0JNSUlYT3pZWktFWGNsZ3FpS2I5UEdSalNWbHFKVDR2akhXMkEtWjdfTlYzNkw1b3VfOGg5eDFNYkdadnh1aS01Wm5EMzNZU3k5cnJEWXRrQ2ZpejRmNklhdXRKM2c?oc=5",
-      "date": "2026-06-20T18:29:03.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
     {
       "title": "Shimla News: चमियाना अस्पताल में एमआरआई मशीन इंस्टाल, 22 से होंगे ट्रायल - Amar Ujala",
       "source": "Amar Ujala",
@@ -170,16 +160,6 @@
       "match": "Chamiyana hospital"
     },
     {
-      "title": "Anurag Dobhal: ‘शायद कभी चल न पाऊं…’ अस्पताल से अनुराग डोभाल का दर्दनाक व्लॉग, अब भी... - TV9 Bharatvarsh",
-      "source": "TV9 Bharatvarsh",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZlFHa2czOG1OYks4OHRtbTdiNU1KMmtnNFUtX0VVbUg4eERUbTZ6Nm40Y3B0U1dGal9CeWl2WUhadmdBeENXUEJfd3ZLa2c0V2pxaUxqQlVLMGlFbzdUTjF1aENKRlhicFdMOXRfdm13VUJJbkFrN2U4Ry1uaXNBemtSbFNhUmdyM2c5VFI4cVYzeTVmcmhKdVBKUXdVTTBkRkp0T3d2WW1mUkxYcEZWR3A4TWVYMF81T0ZrR2w2aDRDeS0tT25icEFXWFhqZ9IB0wFBVV95cUxORmVoVWFTaE1zZ2k4cEJqX05WVzJ3REhiVWtxSC04b01XdG9fSWdiYU91VUNFMncyTE5pOGVjM0xOU3BIRlBaNjhLdFhpVG82WldlcUFiQmMtR1F3YURnUlBOdWRLRnRORk5LLWVOWWhYdDFhT2hfUTF0dWgzSld0cGV3cUc0Y0J0aDI3TUdwNVhFWmVhZ2pzdjFRZkRCdHB0WnNYWlB2YXMtQ1FOUkFvSG4zRzJ2eHYwQlBabDVhQkp5STNpdEc1emlkcEJEY1A1YnVj?oc=5",
-      "date": "2026-03-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
       "title": "AIMSS Shimla issues show-cause notices after stray dog found with amputated limb outside facility - CNBC TV18",
       "source": "CNBC TV18",
       "source_id": "google-news-en",
@@ -190,23 +170,43 @@
       "match": "Chamiyana hospital"
     },
     {
-      "title": "चमियाना अस्पताल: न कुत्ता पकड़ा गया, न टांग मिली... सुरक्षा पर उठे सवाल - Punjab Kesari",
-      "source": "Punjab Kesari",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmE3bndESXFRYVBSWWdvTklQZmZiU1YyQVQzWDJodDFIT0lFM2t0dHZpUnR0U3lIcUhRYzh3M1NoQ1c0TlQwd0VMcjNHaDN4ckpRUEFnT3pTcTdqeUtJWlpxa3M4ajNaSmYyMXRVUjJkY280THNpTU5NbmFoeVdkeDdaV3F5NnVGYmVhNkZ3aktsOEVsZ0RTbUVEVTNYY3h0UVVpTWhpM21YVERYeUtlbllMXy1VVHU2TlZOZmJzaEhZaWZBSEZHT3NVWlkyQQ?oc=5",
-      "date": "2026-02-26T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
       "title": "Shimla: Video of dog carrying human foot near Chamiyana hospital goes viral - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEV4ZTFOWTE3MFl6VjdrYl9Lb1pJMVp3MHdVdHRUUUs3WlR1c2pRWnhQc3ZlVFBHSWVNNGxwN1hELU5RNnZiX1NPbkdxUXR2UGVVcVhWVlkteTFUbXVZNGM4SHJ4Um1sZW12Rkw4WHdKQVluWGNGb1hhRlBMVk5fRWp0cGMycHMtd3pzRXU1S1VBeDVQY3o4SzBMbVh5d1VpYWJWNlBkcHV0MzE4MV8xMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEV4ZTFOWTE3MFl6VjdrYl9Lb1pJMVp3MHdVdHRUUUs3WlR1c2pRWnhQc3ZlVFBHSWVNNGxwN1hELU5RNnZiX1NPbkdxUXR2UGVVcVhWVlkteTFUbXVZNGM4SHJ4Um1sZW12Rkw4WHdKQVluWGNGb1hhRlBMVk5fRWp0cGMycHMtd3pzRXU1S1VBeDVQY3o4SzBMbVh5d1VpYWJWNlBkcHV0MzE4MV8xMNIBtAFBVV95cUxNYlU0eDRqRl9hVEs5ak5OYzF6TTRVckFpc1lFaFh5aUttQ05reFhIZzRwbWpPZFlXYm5TeEVSdnRtckdMQzJUUy1oTENVT0lwYkJnN19LaEVqeHlzV0tQNVlZaW1malVsbG9qY0xzS3ZWOVVWWXRUdEx5MEVvbzhGN1AyNkhqOWx5T3A0U3gtWElZYkt3Q0djTEF3TVdPWnl1dGl5QU5EZ3BlRmZmM19GWEwwRHA?oc=5",
       "date": "2026-02-25T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "शिमला में अस्पताल परिसर में इंसान की टांग मुंह में लेकर घूमता रहा कुत्ता, अब हुआ बड़ा खुलासा - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOW53TDluM2N4aGtPUFZiZGdCT3BNVkdxdDRBYUNtaWQycFVya2xLWm1UbGloZ2tDSUlnNGM2d0stZ29IbDNneHJLNllBQTc5bWVyZDhTdjlaMHdxR3hldU43S0dzeHlLa29JNTZpUmo0MkY1WWo4cEVqZzdJY1JVS3NuTmhzVGM0cWRadzY0WWVLV3paVTRYNWNtTFpycjdqemxwSUZqVGZEVGFkLXY4d19MalEyTUxuQlZHTHpmTHhwa1AzLWdfY2Q5T3FOZHNDTUtF0gHYAUFVX3lxTFBwSDFYbk4zVFpKdEY3T18zbmktTDlXOTJFZkVwOWVrSUhVMkRkTDhUOVE2NWtfMGo4Njk4NkhtajZYcVZkMmVzSXctaDJjMlZLc3otQWl1MHh4R1RBcjM5NlRpeXJPaFROUVBkbUJhLXVGZ2NqcnAwZTA2UzV3cnRnUXlERk50ZFVaOGJCSXNFQTBfekFzdXlkdU9leDRRb19QekpnTGpBSkt1ZnRncGh0LXFJbTJkdG52RG55NkpzNWVJb3hNQW9hV0xidTAzRWczQWRwZEVyTA?oc=5",
+      "date": "2026-02-24T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIMSS Chamiyana"
+    },
+    {
+      "title": "Two Notorious Chitta Smugglers, David and Sandy in HP Police Net - HimbuMail",
+      "source": "HimbuMail",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NQTdTMzJMWktET2lGZjBkOUpCVXZIUDU0TFR1VHgzMy1zaHdDU3hqa0E4cUN5NENTWkVpNTZDal9ZUkVoR04wSVJwQnVnak9kMFlYR0JTU1ZpVEhUbWx4RzZB?oc=5",
+      "date": "2026-02-24T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "super specialty Shimla"
+    },
+    {
+      "title": "शिमला अस्पताल में इंसान की टांग मुंह में लेकर घूमते दिखा कुत्ता, कमेटी की रिपोर्ट वायरल वीडियो का सच लाई सामने - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaHZxN3FQaWVWT1RRQUh5MFRoZlp2MFVUM1ZFT2poSUJzMlhxUjdjdXBGbndtMVZ1VGZpSUVyRnZySTRON19rRVNuMFc1dWt0U3l4SzJSU2xHTGxJeXFPVWp5WmNUQzJZa3hkVmxJcXNrQTV3MGZBZVB2Z1ZlY2RoUF9aZG1ucUhHVFVXMXJKU3ZLMlROR1oxdldvV3RXVUZ6M080NlBiTm1DMnkxaTZCbHNzRXFRb19f?oc=5",
+      "date": "2026-02-24T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Chamiyana hospital"
     }
   ],

@@ -1,48 +1,46 @@
 {
-  "updated_at": "2026-07-02T20:15:50.642Z",
+  "updated_at": "2026-07-06T20:49:30.896Z",
   "project_id": "NH154-PKT-MND",
   "press": {
     "n": 20,
-    "positive": 7,
-    "neutral": 5,
-    "concern": 8,
+    "positive": 6,
+    "neutral": 7,
+    "concern": 7,
     "avg_score": -0.03,
-    "avg_magnitude": 0.31
+    "avg_magnitude": 0.27
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 9,
+    "positive": 6,
+    "neutral": 2,
+    "concern": 1,
+    "avg_score": 0.311,
+    "avg_magnitude": 0.411
   },
   "overall": {
-    "n": 20,
-    "positive": 7,
-    "neutral": 5,
+    "n": 29,
+    "positive": 12,
+    "neutral": 9,
     "concern": 8,
-    "avg_score": -0.03,
-    "avg_magnitude": 0.31
+    "avg_score": 0.076,
+    "avg_magnitude": 0.314
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Good information 👍",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Great video👍",
+      "score": 0.9
+    },
     {
       "source": "press",
       "title": "फिर से सवालों के घेरे में पठानकोट-मंडी फोरलेन परियोजना - Jogindernagar.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fcTVRUnZDVldCWXVfSnhPS0FVdDRrR3N5T2Q0eUZUY2JJVGhjZzlua2VwQzJmWTF4aDNzSHM4MERmV0ttdy1OM0V2MkpoZDlCcE9CNHhPZkhDcEdpOTFqNW9SM2xrX1ltS19FX2pLN2M?oc=5",
       "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "Himachal: राजोल-ठानपुरी पैच को नई उम्मीद, केंद्रीय राज्य मंत्री ने कही जल्द डीपीआर पूरी होने की बात - Divya Himachal",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUmV1dzRGV05NTDZhUU9pQkpVQm1wRkVYVnJkLUxVeDdQeHhkZ1VLTGRNcDBLdjhNV1JlWkxMY3RxOGNTaC1YcFdVdjJWUG5fQTA3NWZZdmdtN1A1ei1IZ1IyUG0ycnJnZkowODFBNGVGVllmWmhzUzljYS1PcGt2bnE2azlHanBDVFlhMlM3TGNKeUhqY2dzSWpaTGNIaUVZZkpBRThPWU10cXI1amVHLTliMlZhSXkwc3NrZUhST1dHUkNFdy1TU3I3cGVtQUdNQkJaNU5mT1B3R1RBVE51MGU1eF9SSkpKdFHSAe8BQVVfeXFMT1B4VTdiakc3TjhqbUh2X0VzWUlpYUVLQlllbGt6NUhab2ZUd1NzWUlFb3lkckxKNlBlZURqYll5dDR3TUxtYWR2Z050QUNxczVmZnhEdDhNZGIzaThTU1BGRTktT2g5dktqaWNFa1daeUlibFpsTjJJTS1TUVA1N0lKQlBPb2lQSlhFakZwT0c5TXRiREd3NUhzYXdvWHJDakk2TXlGU1RVMFR3Z1NUVDlWdWRQcjlTeTFKVXNjSnR4QURHM2tXREdMQ19CcWVmOUR5bUdYby03VU1BZ05DQl8ybDNjZGpuQkNnbTRQdm8?oc=5",
-      "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "फोरलेन अपडेट- परौर से पद्धर फोरलेन की डीपीआर तैयार करने का कार्य हुआ शुरू - Jogindernagar.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbVdVbnMyN0hGcjNMdmVONmVnUGRsTEw4YVpYaG52LUl1Z0Z2aXVmX1VteGl1bDZkYnVRYzIza2ZvTDBPRURBU3dsSDNwcXpFOTBBQXlFSnoyZlNlUlhWRDdQbW1welVoaWRncHAtVmVFT09KNFZmamJmQnk3YWRJOHRPNVA5RUowT2NEWjQ1LXJKSzg?oc=5",
-      "score": 0.4
     }
   ],
   "top_concern": [

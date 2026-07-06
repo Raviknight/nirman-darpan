@@ -1,34 +1,14 @@
 {
-  "updated_at": "2026-07-02T20:15:08.048Z",
+  "updated_at": "2026-07-06T20:48:14.485Z",
   "project_id": "DHAULASIDH-HEP",
   "counts": {
-    "press": 30,
+    "press": 25,
     "gov": 0,
-    "en": 21,
-    "hi": 9,
-    "total": 30
+    "en": 19,
+    "hi": 6,
+    "total": 25
   },
   "mentions": [
-    {
-      "title": "Himachal CM Sukhu orders takeover of Sunni, Luhri, and Dhaulasidh hydro projects from SJVNL - Big News Network.com",
-      "source": "Big News Network.com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSHZkenFmN3pGdXRwUjg5TXNuNTczb09Pd3VKS1ZNOV9DdkFpMXhkdWhXaW5aaXN5dDFZNm9OZmNjYU9RaG1kSmFqa1k4dlZjeTdocnhmNXQ3Z2drXzBVWXk1WHRvdllkZ2JEd2VuemFKOTNKS2tzOHNqeGZzeHJxMXZfMVpYaDlpbXdsa2RFSVVVd05RaG42c0pJQkUzYkdYZW9Xay04MmU5bGp3WjEtd2wzV0FlcVRWS3lEQnVtbUNxTnRpVXRoeXNueWpMV1Jp?oc=5",
-      "date": "2026-07-02T18:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "सुक्खू सरकार का बड़ा फैसला, तीन जलविद्युत परियोजनाएं होंगी वापस - himachaldastak.com",
-      "source": "himachaldastak.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaU00YjhuMGFZbDFlNVhaVGQtTGFkcW9UYm9XTEY3dkYzNERldm1POXVjUnUtcVZzOGVnbHNRekg5NTBQelp0QnMwZjRUa1lseHR1MmMtMFFkRkNpUjhWWmZTazQ3cUI1b1p2eFIyamRiYjV1dzd4Nk1UZE9WLTJRWmV1VHlyQjl3amp2Y3I0Q3l5dE9BdjNWRkRLekRvQQ?oc=5",
-      "date": "2026-07-02T17:15:17.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dhaulasidh"
-    },
     {
       "title": "HP to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - News Arena India",
       "source": "News Arena India",
@@ -40,11 +20,11 @@
       "match": "Dhaulasidh"
     },
     {
-      "title": "सुक्खू सरकार का बड़ा फैसला : सुन्नी, लुहरी और धौलासिद्ध परियोजनाओं को वापस लेने की प्रक्रिया शुरू - himachaldastak.com",
-      "source": "himachaldastak.com",
+      "title": "CM सुक्खू ने सुन्नी, लुहरी और धौलासिद्ध परियोजनाओं को वापस लेने की प्रक्रिया शुरू करने के दिए निर्देश - Divya Himachal",
+      "source": "Divya Himachal",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkRkN1ZVblNpQXd5emZ4RXpSbGFJb1pHODNfc2hTT3FBQnI5QWZUUkxMU09sbzAyNUFIYnpjWGtXQlVlcnVfNy03cGRzZzFzS2NEb1BJdnh5OEFNVHVqSWt5eVVLeVJoWVdCamROVlRwZ2RMa1ZTSmEtZEpTQUJ4MF9FbFJ6d20tTE9UQ2IwNnZvSG50VVE?oc=5",
-      "date": "2026-07-02T14:34:41.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX1k1YlNlT1hPMThxWmdWc05JanJtNjlZZ3pXRVdNZ2NFelZQTElxVmpwbDVHTE5LWDYtTldWalpTZ0FCVlBoM3BLU1FObmpyVlZkbmVtNmVmUkZ4WDZ0cEVJSVFsaUFqMHJsWDlXREtlZ2JtVGpDeTNYVVRua2cxSG54VWxlVEYtajNnb2VnazhObEhGVDY0QkRIM2ZKSmx3eUhkY0VXQzQ2OVc4TlZNMnVCSHY4dktnc2tQQ2JselJhc05jNklwdmZkLTk2dzZ0dDR5QTB4YldQWEJXVG9KYlNELUHSAeoBQVVfeXFMTnF0bzJJVEYySS01VWZ1alJxNllvWWx4ZkI3RGNjNGNzTjVVbG9PaldiQTZUX1NQemZlYjk2dE9WSGh6Ym9reVVEU09ZOE9pQnhZTkZrNzBGdE10bnBXLXlQRTMwRkZvV0ZkQ3pjUnpYMC10SlFfT2RCTENLTG96X1YwM3F0MFU3OGR2SWxxcmdxUThRc3huNklMeDh1UUVuZ3lRRjN6aTJkU09GRy0yNHg2eTRHS3FWci10UHNnRGRrMjNhMzlrOHhmVmM5dlNCcnlpVXBRVjVpeGtEdkJhb09HQll1SUZTdURB?oc=5",
+      "date": "2026-07-02T14:17:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Dhaulasidh"
@@ -53,20 +33,10 @@
       "title": "CM directs initiation of process to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS0E3eEwydkk3emc3ek5LdmFhTTctXzROT09zSVlUX3pEN3pDUzZPRktXcUZHMFp6N29YMlpwbmRUbm9XZFd0OWhVUmpsSGw0VldTaFdwNXV4VjB0Xzg4dGxjRklQVUdsVkprVnJ1NC1MNlV4SDRid0twbV8yUGVEZUdwSWFTVFhXYmJ2ZFlJZFh2ajIwNFNIRnlLbFdSVERQM1R6bmpUakY0QWxDMHV6a3EtajRhcUpPQTVXRzZaWGRLVFJBaXJFcUNuLTV3SHpuSGdyN0Z30gHWAUFVX3lxTE5LQTd4TDJ2STd6Zzd6Tkt2YWFNNy1fNE5PT3NJWVRfekQ3ekNTNk9GS1dxRkcwWno3b1gyWnBuZFRub1dkV3Q5aFVSamxIbDRWV1NoV3A1dXhWMHRfODh0bGNGSVBVR2xWSmtWcnU0LUw2VXhINGJ3S3BtXzJQZURlR3BJYVNUWFdiYnZkWUlkWHZqMjA0U0hGeUtsV1JURFAzVHpualRqRjRBbEMwdXprcS1qNGFxSk9BNVdHNlpYZEtUUkFpckVxQ24tNXdIem5IZ3I3Rnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYTBwTXE2clNIbl9KeTNjeVY3TF96NHhhZWF4MlRONGY4dkppbGx2QWVHUTdCZko2TGJoeDdDMGMyRDJwc2hTQXlCRTAzOHlvbWNBRi1HMGNFNHo0SlRwSEhLOUc4aG41cGZtdTc5ZzdSclRralBkT2ZodURzTEZaMFY5ZXNqd0ZETThDUzFuMmstUkp5c3l4NDRSa3BoSmxwRndrLVN4U1Y1X0tncUpnMm01Vnd0NjZtaGw0Y041R2hsclJZVU9kMU1tbUFrZkJVOWfSAdYBQVVfeXFMTktBN3hMMnZJN3pnN3pOS3ZhYU03LV80Tk9Pc0lZVF96RDd6Q1M2T0ZLV3FGRzBaejdvWDJacG5kVG5vV2RXdDloVVJqbEhsNFZXU2hXcDV1eFYwdF84OHRsY0ZJUFVHbFZKa1ZydTQtTDZVeEg0YndLcG1fMlBlRGVHcElhU1RYV2JidmRZSWRYdmoyMDRTSEZ5S2xXUlREUDNUem5qVGpGNEFsQzB1emtxLWo0YXFKT0E1V0c2WlhkS1RSQWlyRXFDbi01d0h6bkhncjdGdw?oc=5",
       "date": "2026-07-02T14:08:27.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "SJVN का बड़ा कदम: गुजरात की कंपनी के साथ 661 MW हाइड्रो PPA साइन, निवेशक ध्यान दें! - Whalesbook",
-      "source": "Whalesbook",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjAwQnNLcE9xb3FFdU9aOTNHM0tmbGZLR3N5aHlzcWs2YVV6YkRoVW5jLWFqbXJyN2YybVM1TjVXOUdyTk81VUhYTVpSdW1jUjBlWkpJQmNMNkZVRUVFT19LS0N4NEJkQi1yN2g1Z3N2Y04zcWd3MmFaV1luTHcwTGVTTXlRNlcxZjFpTm9HLWZWVGI4cVNIMlo3UkdkaFN4SHNidjBFR1Q5MEkzSi1lT1Z3U3d2UXh1Wmc?oc=5",
-      "date": "2026-06-29T13:18:02.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Dhaulasidh"
     },
     {
@@ -114,16 +84,6 @@
       "source": "The News Himachal",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpwYTBLZjhyYlF5N2EyYWpVMWRSNmFjYVM3ZGpzZWh4Vk5tUWkwbmxGWGw2NlNLcFcwZTNzdmtTem9sS2JwT2tPV2tXTHBCYzhGM1Nka29acmpudlh4ZzNqQVFLMUtIbm44QWRaS0pwcHJfcGFzOGhFQ0dKejB1ZzhHOEFMRWNNbVFvZENuM24yT2NJVE1tZHlJd3ZuNXFIcmJ5NQ?oc=5",
-      "date": "2023-01-29T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "N.L Sharma, CMD, SJVN commences Dam Concreting of Dhaulasidh Hydro Project - HIMACHAL HEADLINES",
-      "source": "HIMACHAL HEADLINES",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzhIY0JDS3hVazk1cV9hMFAxME1xSElWTHVqdGQ5SVR2ZTZTY0NlT2pxdDYzYy1BLWo1Mm82cVduMVdwOVhDRU45b3pMNW1vNmZfUFRyS29QQkRiS08xdld1YWhqYnJuYkdmV0FFWDVpYTI4VG95cGVkVy13YmNRdVQ3aEJDak1IVkhHdVE4Z1QtREZUZHpPYkVJak9YY0JCcHJxNHFuN2Q5Qkg4?oc=5",
       "date": "2023-01-29T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -205,6 +165,46 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemtybmVGMnJpWkxYa3FOMnlXdV81WmowR01xNzFIcEdTb2ttdlRHeWtRNHQ4T0V0eTRFTjhaOU4yZGloczBJSHhjTFRSYlRJUVRUTlVaaEMya1FpNmNSVG5Yc2swa2FkbGZ2ZnFZN2F2cy1GUGEyaGFUaDNqd2xNYnQyVDVHWll0WFpjb0JidlVMMDZsRmJ4eEpMUGJ6TXN1TjJR0gGwAUFVX3lxTE9pRm4tVlRVUFR2RnExOHVwRHV4NlA1WjI4ZG9rQVIydldJamFwQkphSGpPeGpRci12NXdfaWMzNDBTTUQtazBGZ0ZvUVpKb2FkcERXak1LbWtfNGtBeU1Xa0puWUdDb2NaRm5UYnNzcXQwMW9FNUh2MVV0VVBZTTFxYmdvWEU3SjlRZ1lsNGNySHhkejFoUDd5Tk5UbWlzdDNHbzJBV3JpdkxaZFNyRmYy?oc=5",
       "date": "2022-04-18T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "SJVN CMD inaugurates river diversion of 66-MW Dhaulasidh Hydro Power Project - ET EnergyWorld",
+      "source": "ET EnergyWorld",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkFoU0FqbXcxRHpvbXlZRzlnUGJJdmF5R0tWNUxwQXo5NHJEVVFPTDY5SWFXV211elpOc3EwTkFIeDF0aEh2b3Itak5KbjhnMDJ5QmFRYTJ6emtPVVVmS3RkbWtpQ01UTkwzMzZ4ZEpMc0RmYm1NZWdQck51YlY1OVhHU21pQjZxV290M2ZHaHdMMUZ4dkw3c2ZZcjRxSjNTVDFpcVV6MHp2bXAydHJJeEI4anEzQy1VUnRVLVlrRmxwR29NWjItaHdDVkw5X0VZWXJFQll4UdIB3AFBVV95cUxNdFNVT2huQmZnc3VBb1l0MU8zVEE0V2ZWdnNjb0xTRFJ3eEVldnNyWGgzYldQQnlIeVpWTkMwbmxURnBRRkJmV0tkYlM2VHR2Y1dyNTRYdUZmaEJXWnQzbHhtTmFucWxBUVJBYlN4RFBpNFh3bGhQNTFzVWU4eGU5aFR6aVNRTFhNZEZWZWlSeE5oZlV4eDJUSk56bWptajNOM2Yzbm9TWTJIX1JlVDJWR1V6YUFCWW9lbEpzVkxOX3FJZXEwWEZRZkFMOXRiVTVPQmdIbmpRU0JtQkZC?oc=5",
+      "date": "2022-02-16T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "River diversion works for Dhaulasidh hydropower project inaugurated - T&D India",
+      "source": "T&D India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUNQenNPanZSSk1nUlBBVmQ3VkRENm1sMkdfdnY1THRWUWNQbmNzREg3MXNFQjM1bjRKMXNaMDRlMGhITW43M0VPWkhtNFB1eXUwTV9KbWFCQk04Tzk2VURLeEF0S01mUnNGUlBXdmw5cW5uaEJKbG14cmNLNEo3ODhoZVdEeGpaWWlZZ3BTcjhCY2czTTRleNIBngFBVV95cUxOZWlFTno3SlVzMlhncjVVd1V0RlNaTGVaX3BLdWJMRTNucFZjREVBY0cyX1F3bTlYM0RZSmZ5WXh4T05tSExLLVNyZERsbUkyT210VTdiT1YtUExGZVJxc3ZhYUE5Z2hfS0xHOW5RSTdzaFJmcTVackVQNGhZeVQ0VXN4ZmRYZUw2akw3eXNPNEFZWDF0ZllWc1FIdHVzdw?oc=5",
+      "date": "2022-02-16T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "SJVN Signs Electro Mechanical Works Contract with Voith for 66MW Dhaulasidh Project - Energetica India Magazine",
+      "source": "Energetica India Magazine",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0JIcV9JMjBvMHdpdXlNZVVCNnRKZE55UmRpUHF6ZDZjNVdxNUJ6N3RkYnZIaVNTTk1oY0JUYnBnUlgzR1pYVjBMYkVmWDBiN0xZakR5bkRhNnV0SmtseWo3SkI3cHNJUXA4aDdVc1lxNTRja0syeFRlVF9hSFBqWTdDU3hOZWtiNU5GTHNRbUVidC1wd0FPQlpJWWRaMzNiY3FLVUxnMkRvR21EY1pad2NPRnFQUXNXRTR5TVR3?oc=5",
+      "date": "2022-02-14T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "Dhaulasidh hydro project: SJVN signs contract for electromechanical works - T&D India",
+      "source": "T&D India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlqd3NYNE1Vb2hMcTRCU1ljZ2FrZG5OR042VGN4cU91ejdkWEhXUDh4SWdlbjNyTHVWTmh0UXRHRW1kUUEwREFPWGMtYWtXX0xqUExleUNoTWMxZ3doMDcwQ19NWGIxOU8ydXNqOHVseUt1czlYZWpabzhpd2JTVXdsa0VJQkZuZFRvdjBxU2hyd182SERaaDFtTTZqcGvSAaQBQVVfeXFMTlZuMFhoT0ZZa1pSaDJzNlFtVUdsV3ZtUUthby1RTzcxLUpjSjBla3paS0hSLTZ2T29WRGkxQ291V3otRXJTaFhkQUk3dkRvTlk2NkdOUy1xazhLcDR0aDRXVFNhQnBXZFhuSk1fanJtM09VNHF0Y3dwZ2o0OE8yb1N3cDk3ejJVQVF0bFFXcEFqRlFlUGVudGpLZE95V2hMeTc4ZjM?oc=5",
+      "date": "2022-02-14T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dhaulasidh"

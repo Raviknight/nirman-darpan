@@ -1,11 +1,111 @@
 {
-  "updated_at": "2026-07-02T20:15:46.157Z",
+  "updated_at": "2026-07-06T20:49:07.421Z",
   "project_id": "NH105-PNJ-NLG",
   "query": "\"Pinjore–Baddi–Nalagarh 4-Lane\" Himachal",
   "counts": {
-    "videos": 0,
-    "comments": 0
+    "videos": 3,
+    "comments": 10
   },
-  "videos": [],
+  "videos": [
+    {
+      "videoId": "NBPnIfW8JTU",
+      "title": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal",
+      "channel": "Viral GOGI",
+      "published_at": "2023-05-20T00:50:53Z",
+      "description": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal #news #fourlane #baddi #nitingadkari.",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "x9uBN12M2FQ",
+      "title": "Sukhomajri Pinjore Baddi Bypass",
+      "channel": "Sandeep Pannu Vlogs",
+      "published_at": "2021-07-05T09:28:53Z",
+      "description": "Little Information about the New bypass which connects NH5 Shimla Highway, it's 7.70km long with 8 small bridges and one ...",
+      "comment_count": 8,
+      "comments": [
+        {
+          "comment_id": "Ugx6rClbKjct4HV5isd4AaABAg",
+          "author": "@mohitsahnisahni9612",
+          "text": "Beautiful view",
+          "like_count": 0,
+          "published_at": "2022-04-03T08:46:54Z"
+        },
+        {
+          "comment_id": "UgxtqoAZqu1PpDp1V8R4AaABAg",
+          "author": "@satishvspu",
+          "text": "Thanks for video. I get updates on this and moreover virtually tour to the route 👍Keep posting the updates on this bypass.",
+          "like_count": 0,
+          "published_at": "2021-08-24T17:29:31Z"
+        },
+        {
+          "comment_id": "Ugwn8hXsOXs78SNm32B4AaABAg",
+          "author": "@OpGAMING34567",
+          "text": "New bye pass ke vidio jaldi bhejna",
+          "like_count": 1,
+          "published_at": "2022-02-26T06:43:47Z"
+        },
+        {
+          "comment_id": "UgzNg0c17WUV-Oh8dBp4AaABAg",
+          "author": "@poachingwallah8260",
+          "text": "Modi ji zindabad",
+          "like_count": 1,
+          "published_at": "2022-01-14T15:35:33Z"
+        },
+        {
+          "comment_id": "UgyZ1xul0x2Kxqlw4394AaABAg",
+          "author": "@ravinderbansal6894",
+          "text": "Very sorry about 7km road takes 7 years",
+          "like_count": 0,
+          "published_at": "2021-11-20T08:05:19Z"
+        },
+        {
+          "comment_id": "UgxJoaNvh9Xg8NPQxBt4AaABAg",
+          "author": "@anantyadav7043",
+          "text": "Pinjore to baddi kb bnega",
+          "like_count": 0,
+          "published_at": "2021-08-13T16:18:51Z"
+        },
+        {
+          "comment_id": "UgxDMUT6Qn7bRWbhzCR4AaABAg",
+          "author": "@shivalirawat3633",
+          "text": "ek saal baad bhi yehi haal hai. Sab changa si. Hindu khatre main hai..Na sadk, na rozgar but blame covid, russia and nehru",
+          "like_count": 0,
+          "published_at": "2022-07-14T05:12:17Z"
+        },
+        {
+          "comment_id": "UgyZgzrWC3qhZ9GPMOZ4AaABAg",
+          "author": "@ajaybhardwaj3065",
+          "text": "Ye road aj b vaisa hi hai .Cost badti ja Rahi hai .Thekedar and mantri sab khush hai.Yadi aisa hi raha to ye India ka abandoned bypass road declare ho jana chahiye .Ek railway under bridge inse ni ban pa raha hai .Center or state mai BJP govt hai tab bhi.Shame on both railways and NHAI.",
+          "like_count": 0,
+          "published_at": "2023-12-09T04:39:53Z"
+        }
+      ]
+    },
+    {
+      "videoId": "lHeY3HtTToE",
+      "title": "Pinjore Baddi Nalagarh fourlane Expressway Solan Himachal #NH105 #hpnews #viral",
+      "channel": "Viral GOGI",
+      "published_at": "2023-04-20T01:10:03Z",
+      "description": "Pinjore Baddi Nalagarh fourlane Expressway Solan Himachal #NH105 #hpnews #viral baddi Nalagarh Fourlane pinjore Fourlane ...",
+      "comment_count": 2,
+      "comments": [
+        {
+          "comment_id": "UgxabhiUKkRU3iE32Jt4AaABAg",
+          "author": "@manojSharma-pc5no",
+          "text": "Bhai pehli baat to ye four lane nahi hai. Matlab kuch bhi utha ke daal dena hai",
+          "like_count": 0,
+          "published_at": "2023-04-23T06:55:28Z"
+        },
+        {
+          "comment_id": "UgyD2C2htIkL-L-eZR94AaABAg",
+          "author": "@SardarG-z1s",
+          "text": "Bhai \nBhud barrier se lay kar kishanpura Tak ka full video bna kar upload kro",
+          "like_count": 0,
+          "published_at": "2024-02-20T16:09:42Z"
+        }
+      ]
+    }
+  ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

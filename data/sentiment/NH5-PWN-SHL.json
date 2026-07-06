@@ -1,36 +1,35 @@
 {
-  "updated_at": "2026-07-02T20:15:47.209Z",
+  "updated_at": "2026-07-06T20:49:17.984Z",
   "project_id": "NH5-PWN-SHL",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 9,
+    "positive": 9,
+    "neutral": 8,
     "concern": 3,
-    "avg_score": 0.075,
-    "avg_magnitude": 0.245
+    "avg_score": 0.09,
+    "avg_magnitude": 0.25
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
+    "n": 2,
+    "positive": 2,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.45,
+    "avg_magnitude": 0.6
   },
   "overall": {
-    "n": 20,
-    "positive": 8,
-    "neutral": 9,
+    "n": 22,
+    "positive": 11,
+    "neutral": 8,
     "concern": 3,
-    "avg_score": 0.075,
-    "avg_magnitude": 0.245
+    "avg_score": 0.123,
+    "avg_magnitude": 0.282
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "पूर्व रेलवे की तरफ से आई बुरी खबर, बिहार जाने वाली कई ट्रेन कैंसिल, महाकुंभ जा रहे यात्री भी होंगे प्रभावित - Jansatta",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVU4zel9yOG5Mc1NKcTAxejBiQ3psTTRwTlNVd3g2R0UxTzFRalpocmg4X3lISmQtT0s1Q0lPWUF6RDBjbUJfem5OQ3VlYTkyNVpsblB1eE9ITVZYRWxvdzI5ZmVBN1h1UldkM0ZIa0MxdW5JV1F6ZnpPYUlXMGRFUG5ZYkNic1BBUzZmQWtqMnUtWnZUQlNPTVNJU0dPdGp3eWdNa2c2X05iZzZwVVoxT3paYnhrczIzV0tDZFR3NzBqci1ZWUc0c2NaNFo4aXR2TkdnVXZzbHplakVCdWNVStIB5wFBVV95cUxPcDExbENNc0RHU1VzNEtBM3VybmY4QVF4bHpYQ2Fka0Y4OXN5dEYxRERMdWVHZE1raFBSMjZWbUF1SGdzOV9McnhJOEZPb0JIVl9EQWFCVFM5UzRxREJyV2otZGNkLTFtTzc1NzVUTmFodmdQcnNZRTV2Z1JiYVZPUF9hMmh5WWtvM2Z2Y2c2b0xobHRnUEdKU180RVZMVkYtQmhaUXhvQzYzMnRSMGpzMEwyeVZWYVJYQkQtVmRIQV9ka0xVMjNZSDJCU3FSTmMzYUFZTnZQaFJYeEwtT1p0Y19UN3BxSzA?oc=5",
-      "score": 0.4
+      "source": "youtube",
+      "title": "Sir Big fan",
+      "score": 0.6
     },
     {
       "source": "press",

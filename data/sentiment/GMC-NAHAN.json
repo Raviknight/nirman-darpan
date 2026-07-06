@@ -1,31 +1,36 @@
 {
-  "updated_at": "2026-07-02T20:15:51.013Z",
+  "updated_at": "2026-07-06T20:49:42.536Z",
   "project_id": "GMC-NAHAN",
   "press": {
     "n": 20,
     "positive": 11,
     "neutral": 8,
     "concern": 1,
-    "avg_score": 0.195,
-    "avg_magnitude": 0.31
+    "avg_score": 0.2,
+    "avg_magnitude": 0.33
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 7,
+    "positive": 2,
+    "neutral": 2,
+    "concern": 3,
+    "avg_score": -0.029,
+    "avg_magnitude": 1.886
   },
   "overall": {
-    "n": 20,
-    "positive": 11,
-    "neutral": 8,
-    "concern": 1,
-    "avg_score": 0.195,
-    "avg_magnitude": 0.31
+    "n": 27,
+    "positive": 13,
+    "neutral": 10,
+    "concern": 4,
+    "avg_score": 0.141,
+    "avg_magnitude": 0.733
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Good information sir",
+      "score": 0.8
+    },
     {
       "source": "press",
       "title": "गुरुग्राम में सेक्टर-85 की ओरिस एस्टर सोसाइटी की दीवार ढही, 35 पेड़ गिरे - Amar Ujala",
@@ -37,15 +42,14 @@
       "title": "जिगर कॉलोनी में फटी पानी की पाइपलाइन - Amar Ujala",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFZuU1FsZ0JsQk5MWUlPUE90azZ6di01a1lBZFhOci11enFuTV96QWh2ZDM4VklrLUdTZkxDcU5xX1dHaElmOHlURTV0VE5NenNjLWR1VjdLQ3dOWkE2c2E3N2JmUFl6S1p0V0dJOXFocjNISTFmbGVTVVdlb2NyOGM3UGpJNzlaUkdRNmhubFNqN2RiX2ZtTkV4dGp2dkU2SWc3RE1EWHZOb1hrV3lJ0gG0AUFVX3lxTE9qVnl0Q0VRaEVqVWRncDY3YU56WUNtUk1pN21HZ1NHa19lZmVfdFV6RVh6d2JQcTN3TzZVajhxQjJSRU1rc2dMOXJIRkNPaTZ5dG9fek9sOFJQUFNoZG9haVpMNzBrMmttSlU0QjEwVzVYQ1VZUEpXcVFNWU1nZDg5OGdTYzhnc2RfQ0xJcVFnTjBlOUktOElWYVF5Zlp5ZGw0cnJWMUhfVG95b2ZnLWt2MWZ5Rw?oc=5",
       "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "Gold Jewellery Cleaning: सुनार भी रह जाएगा दंग! घर की इस 1 सस्ती चीज से 1 मिनट में नए जैसे चमक उठेंगे - ABP News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXNGRG5LQkktd2RpVEhLSzdQT2J2WHBJQ0NpZWFXSFFtMk9qcmRkckdUU0ZHajRVM1EtQU5XSno5VDNmMXhsZG5YQlVJRmVpd2p6S19uV1Z0dXVfZTVaRnhWOHBsTDg1SllOdE8xVmlpbkFDTEJodFBiN016UTdBbkpJZGdFcFp2VFpBRUhUSlRuSmpJLXRmSkVVNHB0Z1U5RGpsWS05VVlLdlhNZF9Nby16N1ZOemd3VlJFd3dwYzBkOU4zZDA4UXJCOTczbVHSAdQBQVVfeXFMUHJJNWRHeHU2clF0OUN3NE42OGJGTVRMUjNkbW5qclp4Nnl5MFdkcGFQZGVGeUJiVTBFRFZiT3pxMm4zMHM4S0toaUlFdV94LTRvX3B3MTRBRjRDSDNvUTF5OUV1b2hjR1prM1JWSmp5YWFUOVVPT19JYThxSUdhYVNobDk2VFk2ZlVzU0QxamZGV1dERmJmVFEySHR4S1A1TDh3SVJPa241dmpHeG1ycjZSQUpkeWNLU0QwYTdFSUg1RV9vSlRpcE9JVG5vUlA4c3loc0I?oc=5",
-      "score": 0.5
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "this is not for ug candidates ???????",
+      "score": -0.7
+    },
     {
       "source": "press",
       "title": "हिमाचल में हर 2 मौत में एक को डाक्टर तक नसीब नहीं, शहरी क्षेत्रों की स्थिति ज्यादा खराब; रिपोर्ट में सामने आई बात - himachal deaths half lack medical aid urban worse than rural - Jagran",
@@ -53,16 +57,9 @@
       "score": -0.5
     },
     {
-      "source": "press",
-      "title": "मुसलमानों के लिए खुशी नहीं, गम का त्योहार मोहर्रम - ndtv.in",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORllQOFpOM1lwblhOUm9QamFtZlY1YTNkN2paMDZDakJQLXllUTFvMENZNXZBU0VybDFMaHF5Tm90Vk1sWEFJYXRlZnFGaEFEVmpmYnVneXY3VDRpYU9qRHBpTGI4Z21wQnhaTWlOOVV2YlQ1VVozRjF5WE5KVVpheFR0Wk01UjFXdjQ4TnExc0t2dzJoN09DcmE4cTl4NjRBb1g0SXRMd0U?oc=5",
-      "score": -0.1
-    },
-    {
-      "source": "press",
-      "title": "नाहन: पब्लिसिटी स्टंट बनकर रह गया विधायक का मेडिकल कॉलेज दौरा, भावन शर्मा - hillspost.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxORVNaWk9XczE5aEF3Tk42bjVNcUNuZnR3UjUydC16cXA2ZkdvUG5QaWpnZHBtRnRzbnRBNlEzZWRlZmZPUmd2SE03cXF3N2pUOGxJUjZtejU5NzNrem9iMjRVaXNsLWNQaHpRRjE1REJTYmJKZGF1V0F3NkVwNlJoVVYwbjFGV1Vyd1kyTmQ2eTJSSFVuN0Vta3hmMXlPT2R1blk0cktiTHNLZTczeGtSTUs2TjRKN0lUWFpTOUl2emVCazNEZFdTUkU5UlJpX0hDc3EzOGNzUHRfeWlaVTZoVGR6RXBTZHVxdkhTQzBCYUZOOVNDNm1mVC03eXNQeDcyUUJXSERRd081aWVkaUhrWUdCanEtUUpMR3FTTDM3bmU0aFZreC16VWFDSDhJMk85aWdmYUdwZkpsYjVsR3Z3Q1prSQ?oc=5",
-      "score": 0
+      "source": "youtube",
+      "title": "Pls sir mujhe en parents ka mobile number chahie tha yonki main en dautar lena chahti hun apna bnane ke lie",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

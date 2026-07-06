@@ -1,17 +1,31 @@
 {
-  "updated_at": "2026-07-02T20:15:44.838Z",
+  "updated_at": "2026-07-06T20:48:55.377Z",
   "project_id": "ATAL-TUNNEL",
   "count": 4,
   "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-06T20:48:55.376Z",
+      "title": "10 riders, 2 motorcycles, 1 record bid inside Atal Tunnel | Tap to know more | Inshorts - Inshorts",
+      "summary": "Auto-detected from press: \"10 riders, 2 motorcycles, 1 record bid inside Atal Tunnel | Tap to know more | Inshorts - Inshorts\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzV4WktMV3JGNENEVjNDRHdnMElvMWRYNzNzamE5dnF2MlhnbWpDM0tGV1JtNG1oZUdTOFlDbmJ5NF9KWjRMejh3Wk55WnNNbmQteGZ6TzR2WEluSGlJaGtLOWJLUWdCTXRLSU9LZkZ0MzZwamNNZVNYanVnNGhpaDI5UFZ0dHA5MzVEOVBwVjJHNU81aGt4YU83UjF6d1Ita1ZTQlU3ONIBpwFBVV95cUxQNzV4WktMV3JGNENEVjNDRHdnMElvMWRYNzNzamE5dnF2MlhnbWpDM0tGV1JtNG1oZUdTOFlDbmJ5NF9KWjRMejh3Wk55WnNNbmQteGZ6TzR2WEluSGlJaGtLOWJLUWdCTXRLSU9LZkZ0MzZwamNNZVNYanVnNGhpaDI5UFZ0dHA5MzVEOVBwVjJHNU81aGt4YU83UjF6d1Ita1ZTQlU3OA?oc=5",
+      "source_name": "Inshorts",
+      "lang": "en",
+      "date": "2026-07-03T00:42:08.000Z",
+      "matched_term": "sho"
+    },
     {
       "category": "incident",
       "severity": "high",
       "kind": "issue",
       "duplicate_of": null,
-      "first_seen": "2026-07-02T20:15:44.838Z",
+      "first_seen": "2026-07-06T20:48:55.376Z",
       "title": "Tourist Died as Scorpio SUV Crashes Near Atal Tunnel in Himachal - The Morning Voice",
       "summary": "Auto-detected from press: \"Tourist Died as Scorpio SUV Crashes Near Atal Tunnel in Himachal - The Morning Voice\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3ZsU3AxYXhXNjFKaVRKT291N1VkVlR4OGtWeW5JOEdQWmpBY1F0T3FhRGVJS0FIblRQNEVVc1VoQ2dxdGhIU3lpNkVEYU1rNjJDeGNNZ3o2LUNMeDhVX1FwS0NXNklobjNtdENFYjRSZHA1WWZDUGxrQWU5OVJpQ1Jld2dCVjk2dVNYbFJQVkp1RHJjRWprMU9uSFZ3b3dfVjVFM2R3?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWhEWU4yeTgwendYRWpIcDZTdVpPQXRCdGFvb0VINEZsMDkzbU5DV1U3SC1tMDBYeTF2bnByUHN5OHJ5QklvNmI1Q203bDdxeHNmWVdHX0tFelJiTWhXalhXMmwzSmd1NGtpUnFNNkZpX0pNcG1PM0hUTjZXM3NDZkhPTktyc2V0ZWpUdHFfTkJJRkJ6U1htTzNOWDNIY0FsVVZOQzdWRHpNZkU?oc=5",
       "source_name": "The Morning Voice",
       "lang": "en",
       "date": "2026-07-02T18:53:26.000Z",
@@ -44,20 +58,6 @@
       "lang": "en",
       "date": "2026-07-02T12:32:13.000Z",
       "matched_term": "injured"
-    },
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-02T13:28:24.739Z",
-      "title": "Dramatic video of SUV crash near Atal Tunnel surfaces: Vehicle lands on steel rods, 1 killed - WION",
-      "summary": "Auto-detected from press: \"Dramatic video of SUV crash near Atal Tunnel surfaces: Vehicle lands on steel rods, 1 killed - WION\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSmF0anNFcEx4WElQaHp4ZURkUWozTG1TaXByMlNwSjFvY0VaczVqMjlwY1REeS1pak5naGtwcUt0NzZ4YzdNNXZsb0ZrQ3doNWsyOG1QYVotanNtNXg4cjdLVHJVN0tEZ2h4Wl9pRjdTMTVrRXZYaUd5c2llYV9sZ092Nk9GeW8zcjRHbEg5dC1fNi1HcjdEQ01MaGVOQmRTM3pnZFpmU0VsbWNSX05sSXdjeU5WTWpUTzZra21ZeXZRQXhLQlB3UUl1Q2dIdWhrVHB0X1lB0gHbAUFVX3lxTFBGWFl6RzVUODR1MGZOVkk5NWxuWEt0eGk2MFdneUhObi1LRzF1UUloNUJReFJkdlRjUTdubmhWN01uUHQ4Ni1sZ2FwUG1Ycm5UaUZqUlpNR3VjUHlxVnQ4Nld3U3I1aWxYNmNEcndyOFlUdW1UZW14NU9hb0FYeFp3cmwtT2NzanZ5YXYtc2tGYkpRVlN2d2k1c3ZKS2RESDNwSFFlVm92b0diQlY5V0dxN0pUZWRodHBoUUd3WnNEVE92Y2ZyZlFzUFZ6ZTdvdDlHVXZDWmowelEwQQ?oc=5",
-      "source_name": "WION",
-      "lang": "en",
-      "date": "2026-07-02T09:15:00.000Z",
-      "matched_term": "killed"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

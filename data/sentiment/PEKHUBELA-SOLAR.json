@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:15:51.011Z",
+  "updated_at": "2026-07-06T20:49:38.424Z",
   "project_id": "PEKHUBELA-SOLAR",
   "press": {
     "n": 20,
@@ -10,22 +10,27 @@
     "avg_magnitude": 0.25
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
+    "n": 4,
+    "positive": 4,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.4,
+    "avg_magnitude": 0.4
   },
   "overall": {
-    "n": 20,
-    "positive": 8,
+    "n": 24,
+    "positive": 12,
     "neutral": 10,
     "concern": 2,
-    "avg_score": 0.11,
-    "avg_magnitude": 0.25
+    "avg_score": 0.158,
+    "avg_magnitude": 0.275
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Very informative and nicely explained 👏 👍",
+      "score": 0.9
+    },
     {
       "source": "press",
       "title": "बीकानेर में बनेगा दुनिया का सबसे बड़ा सोलर पार्क, पीएम मोदी ने किया था जयपुर में शिलान्यास - ETV Bharat",
@@ -36,12 +41,6 @@
       "source": "press",
       "title": "Una News: मुख्यमंत्री ने 32 मेगावाट की पेखूबेला सौर ऊर्जा परियोजना की समर्पित - Amar Ujala",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb1lVZzNNQnJwR2pOc0pxcktpaWpFVEdhSnE3b1BfNlZaek1OU0ZxbkVQT0p4SnVBeG1TR0RfeVNCeHJpOXVNZ3NkTk4wNUtUUkY5d0FMcUlXVXBQYXV6OXZTSFpyVUZHUWZabWg2SEZYOHNxcVJSaUFzdGFyb29LQVBYUVBXS0MtWndleFRTWXBUaTlncGdncktvSUlGVzhIdWs3bU14bkEtbWZmVkJlc01lekd0MFdIMzZBZWNQazJic0pYR05jMGVUeVVZZ3MxNUF6YlFwVnZzMG9BNTFnUk56MNIB6AFBVV95cUxQMmF2T1FCNV9vdUNzV0g0dWRZazhSSXZEamZ3NVowejVpSFhYNGZBRllQTlJEZUlaaVlIYW9ydlVScFEzZE1KMmlzQ1k1dE9xYjRYTEU5RXluNGdKWVZSRnlaOTdRX21qWGtZZm1xaW1SWXQxWWh2NzhjWkdqbERZb1VPYV9zTlhHTUpYTDJqal8zQlhtbkktTzBFd2gwdXpndGJOVjVBanZtejRyU0dLQkZmZHhHWEhsUXNDdnpaNGNuaExzd1hnX0NvWE04N1ZZTkhNMTFrNFFkVFg5cEwxUE9mOXRWMGNt?oc=5",
-      "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "4790 हेक्टेयर पर लगेंगे 2450 मेगावाट के तीन सोलर पार्क - Patrika News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVhTVURLMUdOaGFEVGFRdHlpa1lVZ2tpYTYtOHhienJOQzB0Q3M0emVzQURUWWlCOWRGb0staklicGRHTTQyNk1QWUlZR3BCUnIza3hBbmthS1lSQXA5YzF2YkY0QWk3dFZmWlFJSTRqOU8yaW9HZ00tbldURnBrQ1dhNFFNZVY3bmRNMGFIXzVSZmJEX3F5R3JxaGtNTzRaQkdVMi1RNmhyd9IBrwFBVV95cUxPeU9tU211MjY1VnlxUjQyUExMNW1aUGpBLTgzejlXenY5M0hXcnFQQlFJSzVMSzRCRG15alZSN1dnaWV3QnRBOFVDNXA1aExsWDNGY0tyMzU0bXQ2MVI1QS10SUFOMXhGU0ZweS1KMjRFT1dXSllWRGcxQmZJSEZyODhkaS1WRHpMNlZPdGhkUEVWc2tEN084TC1yQWlDLUgxcUhnZ1BPVEcyXy1fMXpR?oc=5",
       "score": 0.5
     }
   ],

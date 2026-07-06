@@ -1,11 +1,39 @@
 {
-  "updated_at": "2026-07-02T20:15:46.391Z",
+  "updated_at": "2026-07-06T20:49:10.047Z",
   "project_id": "AIMSS-CHAMIYANA",
   "query": "\"Atal Institute of Medical Super-Specialities, Chamiyana\" Himachal",
   "counts": {
-    "videos": 0,
+    "videos": 3,
     "comments": 0
   },
-  "videos": [],
+  "videos": [
+    {
+      "videoId": "XDEc23Xhl-s",
+      "title": "ATAL INSTITUTE OF MEDICAL  SUPER  SPECIALITIES (AIMSS  SHIMLA)",
+      "channel": "kavvi vlogs",
+      "published_at": "2023-08-08T16:59:46Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "k-ETAXG91qg",
+      "title": "Atal Super- Speciality  Medical Institute at Chamiyana ( Shimla)@politics4270 #hppolitics #shimla",
+      "channel": "Politics ",
+      "published_at": "2024-08-07T17:47:00Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "HAfUcXx-YQs",
+      "title": "Chamiyana ATAL INSTITUTE OF MEDICAL SUPER-Specialities, SHIMLA. Himachal Pradesh...",
+      "channel": "Rajat Negi",
+      "published_at": "2025-07-25T07:22:51Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
+    }
+  ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

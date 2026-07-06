@@ -1,31 +1,36 @@
 {
-  "updated_at": "2026-07-02T20:15:47.221Z",
+  "updated_at": "2026-07-06T20:49:23.527Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
     "positive": 5,
-    "neutral": 12,
-    "concern": 3,
-    "avg_score": 0.045,
-    "avg_magnitude": 0.23
+    "neutral": 13,
+    "concern": 2,
+    "avg_score": 0.075,
+    "avg_magnitude": 0.2
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
+    "n": 19,
+    "positive": 13,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.258,
+    "avg_magnitude": 0.442
   },
   "overall": {
-    "n": 20,
-    "positive": 5,
-    "neutral": 12,
-    "concern": 3,
-    "avg_score": 0.045,
-    "avg_magnitude": 0.23
+    "n": 39,
+    "positive": 18,
+    "neutral": 19,
+    "concern": 2,
+    "avg_score": 0.164,
+    "avg_magnitude": 0.318
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Love from Assam ❤️",
+      "score": 0.9
+    },
     {
       "source": "press",
       "title": "कांगड़ा एयरपोर्ट विस्तार के मुद्दे पर पक्ष-विपक्ष में तीखी नोकझोंक, सीएम सुक्खू ने किया बड़ा ऐलान - Punjab Kesari",
@@ -37,12 +42,6 @@
       "title": "गगल एयरपोर्ट विस्तारीकरण : 10 दिन में पूरा होगा भू-अर्जन का कार्य - Amar Ujala",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObEtkQ0RpM0VTdnYxTENDY0o1Tm1NRFJYMDVvQ1BsY1FJTkJxNVUydG5lMGVLRzdSdlhyOG0zVEwzbmtucDlFb0dsY2xOeGJ5UVUzbXBKQ0hhazVFR0tGa3NDWmpuRGlZdVIzaUE2Tjk2SjJBSXltNWdQTHc2SDYxVjYyenl2ZHpmM04yYmtpOVVkZTZCeWFYNXlYRHFydWx0cXEwdk9RMTRWWmV2RjBZWUJ3WEQyZUdmWWEtYzlxVThvcDJEckhnalh3TnlBaXZaSXgtTVN6c0k2YUNXbVJZWko4WFJuNlZlSzdQc19CZ2tXUXpoaTVubW5GQWl2UdIBgwJBVV95cUxQdkFLZWRWUHdxd0xuUlNubUtabkVvNTNoMVpnQnJ2Vl84QkJTd3Z3a2lJOVBxV29DSUdFd3QtazFEZnVlREVmNEp1RG5wY2tMZDlSUFRhcHR1SnpnYnJHYmFBbTZpbjFuWlp1N195RWdiUFVmZ1hqdlFvdG1OSW9CR0hycjFMa09nZDVFbTVZSWhPS053dHVzTDJrTmxIckNDc2ZDdHBuRG5zdlluRkJEa1V5VTJST25uYmtvY1FkQjh0bU1CVTU1MGt4NzE3N0ZNOGI1c3FvMGQwal9laUtKcUtWODY3c3ZYN0VqQ3Y4dC1DUUdFT0ZlYVRYaW9JXy1ETE1j?oc=5",
       "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "कांगड़ा में गग्गल एयरपोर्ट के विस्तार का मामला, हाईकोर्ट ने ताजा स्टेटस रिपोर्ट दाखिल करने के दिए आदेश, 24 दिसंबर को होगी सुनवाई - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT2Z0c2Zrby1iZU1KemxPdk9SNmNWcnRtdU44eXNhMWlpMnA3c2w1VnJrd25HdWkzUHIxTzBKNEJEZW1uQVRIRGFNRmFIYmZ1M3drVnhhZTh4Q0w5M3hUTEtNYk9hUnRPUndIMl8wRUx4OWx1SDJGdnlUYU1rdDhobjRMZUgtMHhEbjBGNzFWQ2xueGk1NkZRdHdvaGNYSEVReTlvUFhlUFVTUXpOYk1MYnJIMXl5aWlnZzgwb3FFMUVJcE1NV0lKYll4dk_SAdIBQVVfeXFMT2NqMDBkMjBrU0xvVDlrZkI4dWdMbjNpZFhkZWZpVGxTakVDc3psUEp2aHVidFA5NU1XRGp0V0VmVnhOOTdKU2lnWmNTNDFndU5tWTlUUGVNWGppOGdRdXhFNnI2cDFyU0hOeVZ2ZGZZVGhSS18wU29FVjVxV3pTZVhXSWNCUVVISTBxUG9OM3NpaF9Nbk5UbC1yYTVuNXNUQ21zakMxUDZsc0w2OEhjNnA0RVVsQV9rYncxRFlsalZNZno5R3Itam1zSW1ZRVZCek9n?oc=5",
-      "score": 0.4
     }
   ],
   "top_concern": [
@@ -54,15 +53,14 @@
     },
     {
       "source": "press",
-      "title": "Gaggal villagers worried over possible realignment of Pathankot-Mandi road - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTZDNEF1OUQzUE8zT1M4MjBpQzJYOEpoZ3BfQy1YQXVzQzBDenRoYS1SSy1uUkNFb2ozcV9SRjAzUjE5UDh4S2M0SUlhQ1NYZ3hLeEl4ZGpIYXVLNl9ZN1YycHhMSjljM1JEZFM0ODRlc1hlQUJuTVBGVmU3X3JCQm9BU2lhVUVldjE0NHBLV0I0bzhWREZlVTJrNG10RjVxNE1FeFVmdGMxNlFKaWVZTnp3MWRjbDhfd3fSAb4BQVVfeXFMTzJIRmJjdl8tWnpmTTR6N1NpWlQyRVhJVE5tMkVoMWNUamlDOFduMnJQX0p1WU5UbGxqbks0cDNyWXJlV2N4Z3AxbDF2Qm8xeDg4YllJdEhodzIxR0EyTlQyOTNsWXY5MWpXSkNyYW1qYWVTMjNNMW1HUDFuQThVX1pYXzlhclVCU0dyNEdoUnNjNlhaU1ZXYlZQMlZJODdua0VJeUoxdVVJX1dyZEI1N1lFM3VLTFRwWjZNNC1yZw?oc=5",
-      "score": -0.5
+      "title": "Gaggal Airport Expansion: Evacuation Orders Issued in Rachiyalu, Families Paid ₹37 Lakh Served Notices - The Newz Radar",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeWtNOTRQMFZGWU1TU2gtN2NmeTlWUllRNVNWSW5JNk4wRWYyRDBNWFphQWNQS05iYjVjMzQwUmx5LTNuMlZRbUFWT3ZrcnhVdExTWEk3QzgwQUd4NHBrVE5tRlloSDZiYmRzQWRuNy1mNUlMNjFkUWp3bDl5Y1VZaXI2cGhwX0RLZExVZ3hadWpFclQzYU9CVnNweVFtVTVEVUJjdE1KYjFocV9WNzc1Wk0zbnliRXp1T3VKaExLdTJSX09TY1NTOW55c2hfbWRFZkNhT1czM0hYVmhhaGpYYVU1OTFTZw?oc=5",
+      "score": -0.2
     },
     {
-      "source": "press",
-      "title": "HP govt yet to give land for Kangra airport expansion: Union min - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQlpRckxoUk00dVR4QU1zd0xzcTVXaDI3Vk1VNlBJeWNZeWdPb3o3bmtZSFNPUHJncVFpM2xpdUlidlhDNFh0TzZvek11STZRS252Sm9qeVRBVHpXT3pOMFVXMlZ3c0lqbEtzaFI3U2hkc2E3bXMxWV91MjZKVmRPd0drbk90QTlRb0tPRkFmQzlPZDFpNTZZSmxxa19BMFV0WmtoQTZYRGZTeGcwcVF3WkpVVU9IM3ZfVmRGNDU4OUZOdTAxbnpSYWxQaVNfaVVKMHpCU09rclFocnhvcDdIbVpjUkNvQXdZ0gHuAUFVX3lxTE9vSi1fWjVyLVJybWRhZ3lNWFNVWjFXSlhWbjRpdUp5SWZpRXNqMmdrdUNkM0hTekRsRy1Kb3JvV2Q4aHFlN0dzUU83WFdmUURONXA5MFZxNG5pOFF3MnhYVnJiZFh2eDdIS0lxN1h3Z01vckp3VTJpYnVFMmlNTU9DMV9hSUhXWUtXb2pQaDRmV1Nza1F6VmEzcWNmaDVGWkstaVVhQXkxemVCakRJYUhBRU9QeWhPTHhrd2tndjRER0pxUkF6X3ZXSXE5N213SGhlb21ldFlSYnVGRWM3ZHFfUC1za3VnbjlyTEtDQXc?oc=5",
-      "score": -0.3
+      "source": "youtube",
+      "title": "Oye Hoye missing 😂😂😂",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

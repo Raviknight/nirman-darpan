@@ -1,67 +1,64 @@
 {
-  "updated_at": "2026-07-02T20:15:47.219Z",
+  "updated_at": "2026-07-06T20:49:21.520Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
-    "positive": 6,
-    "neutral": 14,
-    "concern": 0,
-    "avg_score": 0.095,
-    "avg_magnitude": 0.12
+    "positive": 4,
+    "neutral": 15,
+    "concern": 1,
+    "avg_score": 0.065,
+    "avg_magnitude": 0.115
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 7,
+    "positive": 5,
+    "neutral": 1,
+    "concern": 1,
+    "avg_score": 0.229,
+    "avg_magnitude": 0.343
   },
   "overall": {
-    "n": 20,
-    "positive": 6,
-    "neutral": 14,
-    "concern": 0,
-    "avg_score": 0.095,
-    "avg_magnitude": 0.12
+    "n": 27,
+    "positive": 9,
+    "neutral": 16,
+    "concern": 2,
+    "avg_score": 0.107,
+    "avg_magnitude": 0.174
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "सुक्खू सरकार का बड़ा फैसला : सुन्नी, लुहरी और धौलासिद्ध परियोजनाओं को वापस लेने की प्रक्रिया शुरू - himachaldastak.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkRkN1ZVblNpQXd5emZ4RXpSbGFJb1pHODNfc2hTT3FBQnI5QWZUUkxMU09sbzAyNUFIYnpjWGtXQlVlcnVfNy03cGRzZzFzS2NEb1BJdnh5OEFNVHVqSWt5eVVLeVJoWVdCamROVlRwZ2RMa1ZTSmEtZEpTQUJ4MF9FbFJ6d20tTE9UQ2IwNnZvSG50VVE?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Great sir👍👍👍",
+      "score": 0.9
     },
     {
       "source": "press",
-      "title": "SJVN का बड़ा कदम: गुजरात की कंपनी के साथ 661 MW हाइड्रो PPA साइन, निवेशक ध्यान दें! - Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjAwQnNLcE9xb3FFdU9aOTNHM0tmbGZLR3N5aHlzcWs2YVV6YkRoVW5jLWFqbXJyN2YybVM1TjVXOUdyTk81VUhYTVpSdW1jUjBlWkpJQmNMNkZVRUVFT19LS0N4NEJkQi1yN2g1Z3N2Y04zcWd3MmFaV1luTHcwTGVTTXlRNlcxZjFpTm9HLWZWVGI4cVNIMlo3UkdkaFN4SHNidjBFR1Q5MEkzSi1lT1Z3U3d2UXh1Wmc?oc=5",
-      "score": 0.2
+      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - The Economic Times Hindi",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hOTTcxQXVwRXRWQWFMOGpvRnRzNGdETDBlckNfTzBpSng3WnluaGtzdVlGaU5xdWRnZko5cUNPd1EyQWwzTl9vbkJMVFBORmFlZ0toenpkamJjVk9ZNDZqU3JveHdPSHRYQjdwaFpnT1BUbkJxbWp6YWJHZl91MUhDMlR3enBxZkZtQVlmY20zR2NUNWRIdG83NFFIMlVIRWlndDlGUm1lbmFqbnFnZUxnU2o3ZUlxZlE1RXllU0N6Mnk1MGp5QlBPWVHSAdIBQVVfeXFMT0MxRGd6UXIyRVFGdjBZcmdRY3c5VEhrWTdhZHV2elkxRlF6emJ6eDFvVnZIdFR4WXAwUWdiTEhJaHBoeWpQdlJPcy1xS1JVTGt3SmpSaVNNdzE1aGVtd241SVdTdWEzb1F2S0lLRk5lMWs1dFJZR2RGMzRtYVRVRTAwcFM1M0VlUUNhRmF5X2h0RFNtbnRlZEdzU0RkNTMzQkUxS1pndk1FVHNIdkc1dmVaZGVoLVB0S2otMXZtakJZb01oc2ZJMk9mNmt3V3MwVVln?oc=5",
+      "score": 0.8
     },
     {
       "source": "press",
-      "title": "​लुहरी हाइड्रो प्रोजेक्ट प्रभावित किसानों का हल्ला बोल, समझौते लागू न होने पर फूटा गुस्सा - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkJZamNfUmVEWm9hOUR1cERjWnd1aFI3SXdSOGRKc2cxSzh1N0lDU0x6SHJxX0ZJbjdkVlF0Tk5lMTJxbmZBTWthMElSQ3BjLVVjUWxDczRhU0ZHZ0sxRC1kY0lNaWJRZHp3QkFVRGtDelp3VXhkczZvalFia0J6UmJ5S2xJM1oxX1hGa2h6UXQwN21OODl3T0lveDlZRThiM3pkRTB5QnJSSU4ySTY4Y211a9IBuAFBVV95cUxNZlhRRUM0cXZZUnNNVzlaOXg3ZlltTVViSlF1ZWUtYkdsZkY4ZjktdkVaZnRwVUZsRXlzWXN1MW83SnRob2FNc3d3anFwM1FodVlsRXR4YmFNeTBpdDBBNXYtMjdGOXRwZVJOMlVpYTdlNW5qNGZfYnEtVVRMRXNLTWdUc0xRQXB4TWhtQmh3dWUyTE5sZmdGTldXdXV5SXJNY0ZUdThqS2ZzOThLSVVzbGxkQTdXYTha?oc=5",
-      "score": 0.2
+      "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
-      "source": "press",
-      "title": "PM Modi Inaugurated & Laid Foundation Stone of Rs 11,000 crore Worth Hydropower Projects in Mandi, Himachal Pradesh - AffairsCloud.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWxnOFZuUHBqT3VVV1RCRm1HTnBwcnlGYzFxMF9fNzdsRFdxMnVKVTNPa0huNk50M2Z5RjU0X2JDTVIwalpubjNGN0dmSjl1cG9DMUZQck1mWFlvR0twTVh4Rl9GSzMzYmJpTUstM3dDSFA1dXR6QndhZXpCTFNjU1dMUkEzQXE1UDdHTXhIdHBmY3AzMGgyRC02VVJIZkJBMTBGV0F0VnVLd0tlcUFLVnBuVUVCdlFJekZxUFRyOWFEV2M4SG5tQTFpYkY5TzFUQkk0?oc=5",
-      "score": 0
+      "source": "youtube",
+      "title": "Stage-1 not 3",
+      "score": -0.4
     },
     {
       "source": "press",
-      "title": "Luhri Stage-I Hydroelectric Project, Himachal Pradesh, India - Power Technology",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0MwLWxqcy1zN1ltS2hMZDVtX3JuekNnT2FvS0hfLXlJbzdneUkzRl9zemhHaHItUjBQdE83NjRVRngtbEhJd19HRnhPTHU5SVdpZnZJcHpEMVBhUkc3UWdaY3o1Rk1uSFZxRldtV2FId0YyVFVWRGs2aFZLUGNpV2xNaXFqRVVieWVGNHNINXhpLWdmRmpkNTFzcEd6NW0yOTJV?oc=5",
-      "score": 0
+      "title": "Financial hurdles loom over Himachal’s bid to retake Hydropower Projects from SJVNL - himachalguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSi10VTE1OVlqOUhvUXZYcXpQVndpRGkxdXNVdTAwOGh6ZFVPTzF6RTRDalU3ZmVTdmJPeWQ1T0JDSTRMajhCRVE2dTQ1dTdtS2Z0d1RZeWh1OHlvM0c5OTJTWUdQVzJVUXAwcXV4WC1mUHg2dWdYZXJIdWlCWndNVG9lbnVweTVOTDBUSVFRcGRsTTNqcWZnUDlHU1BOZmFaLTFVMXhJcmVOa1VaMFlPZG1lRTdGbnU4aTk5RQ?oc=5",
+      "score": -0.4
     },
     {
-      "source": "press",
-      "title": "SJVN’s Luhri-1 Hydro Electric Project enters advanced stage of construction - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVDZuNmU2MDhnaVU5MmwxZlVtcUNxWHFCLWNkekp3WjA2ck95YUpXaVVXd3dCeDNmT2R6dXdwaDhoTnd5WG9IaTRZU0h1T0pVbjNaWUhUTWhTbWtFNU5haDJHd2ZVRFU0aU4wdkM5ZmFGNjZIaTFHcDVhVk5mN0l4Y3NyRG5lSVJwNFFqMzI5VVpyX1FhcGtRYmp5MTM1TXctY1B1emxkMnB6RnFTQ3fSAbsBQVVfeXFMTVNEbHhqR2d5Zk01S0JidGtNV0VZTkRYRkNrYXpRMU9XQkx2b0tuVnhFMWp4bmx3M2NPQTBGcHBxWTNDN3lERHJucUpiV1FfVlMzSW1QcEdGMW42dDNIN3hMSy11Z0RYdXRob3NaTUV4V3l5OXpVbWFoSHdHbVprcFBoLXJ6LWZqejNsSjRPV0xHT2l5MFVhekxyUkRpTDk0aEZBVVlzajU4cXA0QTdFUU9NZkJYNm1OTG9zMA?oc=5",
+      "source": "youtube",
+      "title": "Kb hoga suru",
       "score": 0
     }
   ],

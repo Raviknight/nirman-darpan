@@ -1,14 +1,54 @@
 {
-  "updated_at": "2026-07-02T20:15:38.556Z",
+  "updated_at": "2026-07-06T20:48:48.422Z",
   "project_id": "GMC-NAHAN",
   "counts": {
-    "press": 100,
+    "press": 117,
     "gov": 0,
-    "en": 20,
-    "hi": 80,
-    "total": 100
+    "en": 21,
+    "hi": 96,
+    "total": 117
   },
   "mentions": [
+    {
+      "title": "नाहन मेडिकल कॉलेज का डिजिटल सिस्टम ‘राम भरोसे’, वेबसाइट 2 महीने से ठप्प - hillspost.com",
+      "source": "hillspost.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNNVpYbGl3SldJUEg5RC1fWmdPaXZ6bDFoUUxUMTJZbWJHSHFyTW1HVWhoRjIwTlFXT0sxbUY3ZzJxWDJMa3dPaFFWVF80aU50V3h2UEN1bGNsV2VzbDJMdnlHVHIwalN1ODZjeFRFTnA4WVd0NkJOS2hZUGxlb1p6NFZYc1JlSkh1MnppcHRTaXNNN0Z2RjVVLXItM0NuU3BnOHZ0OW1GYno0MzNWZmJSd3Y1bXd6THFsVVFWNVFHaU5ZOVBvTVlnajJBTHo1enIxOUE0SGc5OVBqdk8xZXBLaHJ5V1Nrc0J5TEFSSllzek84REMxRDN0SGFTVFYtWHBmTjdVYVJGOHhsTkZ6U1VMMkxQX1dKREtfakxJVWJGQjNvNGZ1WmxjWHFYZHctd0R2b0kzWFc2NEFtU0RiQjNWRld3Y2Y?oc=5",
+      "date": "2026-07-06T11:03:40.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "MP में बदल गई डीआरपी नीति, अब भोपाल से नहीं, मेडिकल कॉलेज के डीन तय करेंगे डॉक्टरों की पोस्टिंग - Nai Dunia",
+      "source": "Nai Dunia",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM1h1MmF3OWxfYmZ4dHo1X3hDRTdKa2xROW5yODl3TDhJX19kQi1pTVFNcGN2d09EZmdCQjZfMVdwaDV5UjN3dTkyWm5HRWozLWF2dERmdDN6VmE5NTZNSm9SUTFLa3l0R3EzZzNRaUlxV0VWN2xxYUc5eWZBTHF3M1I3YTVSQnhDZmxYZnNObWpzS2ZYQVNHNjlWRFhZSHpHRW9ZTEQyWnd6OXlMVUtvSmdJeDAtM2JCdFRsQmw2cG1nbm9pclVXbV9jWUVPeW5VRHRPZGhNWWZ4QzZ6?oc=5",
+      "date": "2026-07-05T05:08:18.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "क्रोएशिया को हराने के बाद मैदान पर क्यों फूट-फूटकर रो पड़े क्रिस्टियानो रोनाल्डो? जानिए खुशी नहीं, गम के आंसुओं की वजह​​​​​​​ - Samacharnama",
+      "source": "Samacharnama",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYm1WLWszSnRDMmVTdXVaaEltbDU0YjhoVm5jNmpnWjhZbHZIbkVOamRlRHUwQzJPV3IzcGlJajNhYVVzUk1zSnpsZHBHNFA1VHgwMGdua3BRemJrODJzN25IeEtkelFNdU05ZTFTYUZoNkxDWDg3V0hWMUZrR3g0RVlVMktLUVNlcnIzSXR2S24zZHdKOWNUbHZFRnQwRjQyV1VIa3E1SW5aTm9zMHQ2OXZWSQ?oc=5",
+      "date": "2026-07-03T07:46:35.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan GMC"
+    },
+    {
+      "title": "FIFA World Cup 2026: क्रोएशिया को हराने के बाद मैदान पर क्यों रो पड़े रोनाल्डो, खुशी नहीं गम के आंसुओं में डूबा महान खिलाड़ी - republicbharat.com",
+      "source": "republicbharat.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3ZEaXIyMmxPZk0zY09rYkRLdHlyVHkxMTlBZjZYNHlRYjBnZWVwZkNlUmx5dnRvU3V2WUZKaXN2b2M1Skg2QW5CR2VIQlZYTHFZeGE2QkhJWjFYUUx0SUJHWHVIMHlLTzczUDkyNG9DU0U1dXcxYzJKdFdVZmJTeDdEYkNYU3hIWEltaEplS0NZaXRMOThHZUJlZks4YjZqTnZwMjZiaVdKQU93ZUNodHRnMFc2VlNYay1nUnE4dzB6MUt4LU9Sbl9jNDhleEc4ak04NlZR0gHbAUFVX3lxTFBwRHJQSG9aM0JDbDNNdVdBM3pnRWlqb2k1eC0zNDdPQkk3b2pqSXhGUmtjeGxZbTZlX2hVRTA5dnBFNTZaX0g5ODd4c1RTWFBxS09yek1CbWtqaFIycjc4T29sUGQwZTNvTHpsckZkYkNJdThoVExuZWVzemxUVnRxbTAwdG9tT05TcDVHV0hPNFY0TWhBT2ZPY0ExS0MxNk90d2ZldzA1QUU3Qm1lajkzSVJJZXZrY0FCOEc0ai1za09panZ2OVRwTVVaS0I0eVJ4OVFGbDVpNmdtcw?oc=5",
+      "date": "2026-07-03T05:32:27.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan GMC"
+    },
     {
       "title": "नाहन मेडिकल कॉलेज में मंडी की महिला के लिए देवदूत बने धर्मेंद्र, किया दुर्लभ AB नेगेटिव रक्तदान - hillspost.com",
       "source": "hillspost.com",
@@ -73,7 +113,7 @@
       "title": "Sirmour: डॉक्टर्स डे पर नाहन मेडिकल कॉलेज के चिकित्सक सम्मानित, इन्नरव्हील क्लब ने जताया आभार - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX3RPRllhdHpVSDFpUkxtb2lScnBNeXozQmlmTlJ6cTdEcGkwclRjdnBiWHg5VGJOaUdIeDVTb0tWa3VqaGJmWTZqN2Z2RmVuTG1qRGYxZEZtUFJZUVhiNmFDVFVJakFaaFJRVVBBTWp0VjIwdWR3ZDJSQTdrOVE2QUhZY0hCRW03R2hRTVBPZm94aERwd2hQZ3BpcTc4ZDZkM0FWZlEzb2p1NHdJQzAxNjhaaFg5LURKWC1UMkZRTVlleXFMTVotYkZacXlJakFBUGk5SklfOETSAd4BQVVfeXFMTlNLN3Z2Q1d1S1BjdkJfNi1RcHpDZnpCejJlYURraDRELWxIdW5ZVmhvYWxUUDIxeDR1NmhNZXN1b1ZlZDE4QlZfeGZqVEpIYWlCRVg1b3g1Sk9nUzdXTHZOQ0ZldTUyMmJfeHMzLVBROU5HWE0tNzU4Sm9CeXpCbEtCQzFJZWxyOWkxVlNraXV5TnljZTdKMnJYeDlaXzJZT2JKMTNRWG9kTmFIODFHdHhLbXlXMTE3QkdrcGh3OXRZNGdiQS1rc0VwUHBSX2VKYXZiOGE3VVc2MlBWdmFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX3RPRllhdHpVSDFpUkxtb2lScnBNeXozQmlmTlJ6cTdEcGkwclRjdnBiWHg5VGJOaUdIeDVTb0tWa3VqaGJmWTZqN2Z2RmVuTG1qRGYxZEZtUFJZUVhiNmFDVFVJakFaaFJRVVBBTWp0VjIwdWR3ZDJSQTdrOVE2QUhZY0hCRW03R2hRTVBPZm94aERwd2hQZ3BpcTc4ZDZkM0FWZlEzb2p1NHdJQzAxNjhaaFg5LURKWC1UMkZRTVlleXFMTVotYkZacXlJakFBUGk5SklfOEQ?oc=5",
       "date": "2026-07-01T06:45:06.000Z",
       "kind": "press",
       "lang": "hi",
@@ -110,8 +150,8 @@
       "match": "Nahan GMC"
     },
     {
-      "title": "मुसलमानों के लिए खुशी नहीं, गम का त्योहार मोहर्रम - ndtv.in",
-      "source": "ndtv.in",
+      "title": "मुसलमानों के लिए खुशी नहीं, गम का त्योहार मोहर्रम - NDTV Khabar",
+      "source": "NDTV Khabar",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORllQOFpOM1lwblhOUm9QamFtZlY1YTNkN2paMDZDakJQLXllUTFvMENZNXZBU0VybDFMaHF5Tm90Vk1sWEFJYXRlZnFGaEFEVmpmYnVneXY3VDRpYU9qRHBpTGI4Z21wQnhaTWlOOVV2YlQ1VVozRjF5WE5KVVpheFR0Wk01UjFXdjQ4TnExc0t2dzJoN09DcmE4cTl4NjRBb1g0SXRMd0U?oc=5",
       "date": "2026-06-26T06:06:11.000Z",
@@ -120,14 +160,14 @@
       "match": "Nahan GMC"
     },
     {
-      "title": "सिरमौर: मेडिकल कॉलेज नाहन में नशे के दुष्प्रभावों पर मरीजों और तीमारदारों को बांटा ज्ञान - Amar Ujala",
+      "title": "Sirmour: निर्जला एकादशी पर नाहन में लगाई मीठे पानी की छबीलें - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWEZoOTVyM08tWDBxbHlYcFNDbjMyTHNQd1lidUZHR1NRNDE3Z3BBbmNXQmRtZktsdHVLRjM4TG1ISzR0bE03VE5qOFpKLVJtanVQR0VySzRxU0pQZGVFeXcwNEF1eE9YQnJMZDh1MlNuWUVXU3NQZkZPcU1rRU41S09xSFNIUW1ZalpockdQV09fN2h1ZjVTMEJ6MUVfYTFOc0o2bEJUbVJxNHF6aExYYUpxTVNqUU9uTUw0SXU0MU1qLVo2VjdWUW5qbWk2QmU5elpjY0lod1cwT0ZrMVRqOU01Q3ZIa2hyVFlvZzhXS2hNWFV3V21RU1NjMURlX2NROXFQWWRwSXp1a2lGTmFQeEhpSkFjUdIBmwJBVV95cUxPNWlWNUtiLWVTRHJGT0RZYU1ObzFzTzFQX1J1cnhENEdmUmNRajlIbVZ1X2xkV1RieDZGOWdhOXdpUnZ5Q2tZNHhHWEZ0cW1FV2lWY2p4YVF3NjQwS1N3Z1ByUnplTUQxOVFvVV94VEMydWIxT25PS2RzT3VQNmZQVTVPdlRYXzlZX0dMN21jZFBDVkk2ekNLQUtGbGF5YXRIbkhHSXQ4NFRkUzV1emYwaTljZm5CZDA5VzhFQ2ZLUmJ1UUYtZDNFNVZmeFEwVUgybGY5bWJ3MF9WNGxVdDZRdUV1WWpCQll2TEhxRE51dnBOb21NRXhWM2Y5TWRYdTZTNWJZZTRUOFlOOGp5XzBVOFlRSXFwY2NkZEJ3?oc=5",
-      "date": "2026-06-22T13:54:52.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR00yYUU0djJjM3h0NEhyNXlSSUI2M21IY2ladHRoSV80RmpON09ybnpXRXYyeXpOdEUxV2ZZLUFjMzV3NXFjVjVEM2xESXRoUUJhLS1FbUVJUjhhMGRVUGM2MkxlS25YeWpka1IySUdxWjRkbTVZcnIxUHR4XzRjRlZMV2xxbVFPLTJtWTkwY01sanIzbW14R3VDSUFEUWJZbEp0VVJWOEE4dGlLTnhlRExJdV9YTWlBOGc4dHNLRkZ4M1lXNmdBa3g4X0k1UmJVVnfSAdcBQVVfeXFMTjg2NENUMWZBOVZ1aW8ydnpfRU0wS2tGNVpBc2VOOEJCUzFNM3pKbGtXa3JPX1VsdmMxQ2VMcktNMkZSRUZnUzhvZmZQb2ZwRW9WcjJqc2NjbDdNSlR0U3h1VWItLW9wMGpxSjFDaFVNQ1BzMGtIMWkzUjYwci11bWFEVGVuSEU2eWhEclduU1RRYThkN1ZwUnVWbE5nMlducTV6c1hYMnRQR1Q5T0M4Q3VMT0ZlWWJpbUVNYmtmQlAtaWgyTHJQV0U1VkFzck9xV2hGZDJKVWc?oc=5",
+      "date": "2026-06-25T09:48:04.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Sirmaur medical college"
+      "match": "Nahan medical college"
     },
     {
       "title": "Sirmour News: मेडिकल कॉलेज में स्वास्थ्य व्यवस्थाओं पर डॉ. बिंदल ने उठाए सवाल - Amar Ujala",
@@ -150,16 +190,6 @@
       "match": "Nahan medical college"
     },
     {
-      "title": "Lucknow News: ‘मरीज का इलाज जरूरी, मजहबी बहस नहीं’, मेडिकल कॉलेजों पर मौलाना खालिद रशीद का बड़ा बयान - Patrika News",
-      "source": "Patrika News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNkxOWDk0NmZMdEtRNjlERmtKRmk1dTBDXzg2dVZ6TUxCSFpLNUhCc29JVXRwNkt2cmlzSGFTelBUUndIVTJoUTlBdUNadC1uS3Z1SVctZ3RaaE0yOS1ibnRFNG9uWUxyU3QzbGNaZWdJSWF2alZ5LVROS2UzOV9hZ0NYc3d5RnlFNWU3S1d3ZzVBWDMxSlRhSXF5N3hHSFdJdnRFUHk3UEJuLWRrMzQxdVNfcXMtOFo1Y01GZTlXdF9iN1I4b3JMS1dqSHQtTnBGNkHSAdcBQVVfeXFMTkloZnpDU3Rvd0stSmhYS0VySVU0bDltdVBQWXV6QzZaWkM5THNFd2ZrbS02eEpkMFhYUE02QXM0ZHJuNmFodF90Z0xhWGFLVTlUSF95aURTQkx0UFVqSmozNk5LNjZ6Rk5tdTZnZTdRNWV5TlpfWkdGUlJ4Z0l4eEYwRk5mTDZ3cUpiWUlfVzBSZTRvcXlhM2ZreXVzcEJtMVAxR28zMzZJOTNWcGZyM3FVR1lWNTZFVkQxblR5ZEF6V3YzNlE5cjc0VEdxei1YWXVYT3c1VFU?oc=5",
-      "date": "2026-06-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
       "title": "नाहन में अब होगा दिल की बीमारियों का इलाज, मेडिकल कॉलेज में 17 स्पेशलिस्ट पद स्वीकृत - hillspost.com",
       "source": "hillspost.com",
       "source_id": "google-news-hi",
@@ -175,36 +205,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYWp1dFVocUotZFloMzVZc0RwRVVObUpsTU1YRk1DMEdZTTYtYmFRUzZtM0JlYTNBaEkwTWl2NDY5Y1BmcjVHVnM1YzMxSjAtQXFSS0FoaHB5cnRFc0l5Smd1Vy1IbWtLMUc3RTd4MVA1a0xqX2lVMERkZXBVeU1IeW43ZkxPQWtEbDFJS2d6NU9mRWwtYTM4eWhNaFdhQ3d3aXQyMUhQeE1EY05KOFRzZWRmU1RsX3VaNno1VzBrTk1XOWp2clFsRHp6WnVHSWZ6aUp3bl9FOUVJVGF4M3lhWWtaT1FHWjQyMUJ3ajZQc3hGS3BjdkdnbjNoa2xTQ29pTEJkZmlGenN3aDEx0gGSAkFVX3lxTE1kN3YzeDJ6NWgzaTNrSDZ6OVNiVU5uU2lqVHM5R2p4SHI0TVV0Uy1hUVZ6dTRiamFJNlBobkxTME9zRmlOQ1VvbEZCbndtdWdXd0gwc21nWVpWTnNacE9nOXhJekc2Rjl3REJjMGpqMHpCV3hhTUtZQWpQQ01rVlByS1JTdFcxT3RLQzhEZktKWFA3WVE1SGN3cW9vbTN1ZW85dGhMbmtud2dhRE5JM1RMRHJmOERrVWg5cXNkZ05XN1pSdW9NTjQ4X2Q3d0QyMlVEVWFxYzFyNUJUNXFSOG9OajZ2aDVaZUZJNmFjZzM4dkRzbVA4MmZYOVBfRloycXVoMEUxVlQtSHVzQ0t2eTNobGc?oc=5",
       "date": "2026-06-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "सिरमौर: नाहन मेडिकल कॉलेज में पीएमआर विशेषज्ञ डॉ. चाहत बंसल ने संभाली जिम्मेदारी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcXR5dWZudVYzX3NhYkhyWlVNUE9TeG56MEVzSkx2S1hpeTEya1UxbDNTVnJfNWNmdkszSkFjSVpmNnhDRFNnNGZLOUJ6V3hmNXJrdUQ2bjNPZWNCTk9ibkRNV2lTTmRPRXYxREprRElJX0g2RER0NkZrR3ZRaFNXdkw2LWpVbVJmMUZ6UXM4Zy1zOEpCOGZvXzhWYng0UnlLYzBMMTZIaEE4Qk5vVXJ1Z2lNa0NTSDJWNGxaZmxYLURlTDJqcHVFQ2M0dEhmOHV4blVGMm44QkNhYmplOGU4NWpSRjJjd9IB6wFBVV95cUxPVnB0NXc3N3I2eEtGd1o3LUFaWmxFbDBPRUswSVpTZ0x5NExJZVZLQzBzc29YZU1yWm01d3JqX2dwanNleFVwTHdSTVZRREtPTk50eGVSTFh2YWVYUUh3T2l1UzBFR2ZvUl81aC16cjQ2ZF9ONUEzVjg0TzNqZVRqWmVfd3F1Z01Td2FJMjkzSFYtTzV2QnVOb3p1Y2gxQ1lZRmJQNkx3aTFzV3hZYXR6UHdXNzI0TGZ2cWVyOGRtWHJPUlhnRWhMbXF5LWlCZ0kyVjFoZjlLcjA4dERRRXdvczNrUC1VNXFCbFdR?oc=5",
-      "date": "2026-06-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "नाहन मेडिकल कॉलेज में PMR सेवाएं शुरू, नसों व जोड़ों के दर्द से परेशान मरीजों को मिलेगी बड़ी राहत - hillspost.com",
-      "source": "hillspost.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQM05TT3Bwd3B2X1h6TDNGa2lCaGFQd1Z0SmpFSENMaDM4U2l4SWpOSFVqRjV0OTJkV0ZiVGlSMVdQVVNfR1VXcUVmdVpxa1JtMUtHbXJXS2hYT3lPUFp2UW5sY2VuQlEwdkhjMmk5MldfcS00TC1TbUFMWjVianloZlRaWV8yRUsxaXBRMjdlNXI0aDhTRVR1dkV1SWVMZlliYlV5SEowelQtdXprbHlybmlseEdVYVgydXNJNmlsYjZqY1NnYWVvV29ZOXRBY01jeFJINGYwREhocTg3alJCNktzVm9VZWRkVXFZYnV5NDZWX20zdW1qdjh4WnpiZnhXTV93VWszX0J1ZjZMbko0OHVNUllOWGRzaXAtOUxMSU40RmJqSmc5ZFBhbHY5TThuVVNFUXVTTUdIOTE0NV9ZLU1BMkxtc2NuNEE?oc=5",
-      "date": "2026-06-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "नाहन: पब्लिसिटी स्टंट बनकर रह गया विधायक का मेडिकल कॉलेज दौरा, भावन शर्मा - hillspost.com",
-      "source": "hillspost.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxORVNaWk9XczE5aEF3Tk42bjVNcUNuZnR3UjUydC16cXA2ZkdvUG5QaWpnZHBtRnRzbnRBNlEzZWRlZmZPUmd2SE03cXF3N2pUOGxJUjZtejU5NzNrem9iMjRVaXNsLWNQaHpRRjE1REJTYmJKZGF1V0F3NkVwNlJoVVYwbjFGV1Vyd1kyTmQ2eTJSSFVuN0Vta3hmMXlPT2R1blk0cktiTHNLZTczeGtSTUs2TjRKN0lUWFpTOUl2emVCazNEZFdTUkU5UlJpX0hDc3EzOGNzUHRfeWlaVTZoVGR6RXBTZHVxdkhTQzBCYUZOOVNDNm1mVC03eXNQeDcyUUJXSERRd081aWVkaUhrWUdCanEtUUpMR3FTTDM3bmU0aFZreC16VWFDSDhJMk85aWdmYUdwZkpsYjVsR3Z3Q1prSQ?oc=5",
-      "date": "2026-06-09T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Nahan medical college"

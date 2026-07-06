@@ -1,51 +1,53 @@
 {
-  "updated_at": "2026-07-02T20:15:50.643Z",
+  "updated_at": "2026-07-06T20:49:31.169Z",
   "project_id": "SHINKULA-TUNL",
   "press": {
     "n": 20,
     "positive": 5,
     "neutral": 13,
     "concern": 2,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.18
+    "avg_score": 0.045,
+    "avg_magnitude": 0.175
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 20,
+    "positive": 14,
+    "neutral": 3,
+    "concern": 3,
+    "avg_score": 0.41,
+    "avg_magnitude": 0.685
   },
   "overall": {
-    "n": 20,
-    "positive": 5,
-    "neutral": 13,
-    "concern": 2,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.18
+    "n": 40,
+    "positive": 19,
+    "neutral": 16,
+    "concern": 5,
+    "avg_score": 0.228,
+    "avg_magnitude": 0.43
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "BRO ने 16500 फीट ऊंचे शिंकू ला पास को फिर से खोला, मनाली से जुड़ी जांस्कर घाटी; लेह की राह भी हुई आसान - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMTQwUzJMVnQzd3ZITTJhd0lpZHo1SzZrZDB2Zk56V1dkMERwcnlKSzQ2UnAtNmtsWjdKdm1aT1lMZlA1X29ib05LZnpYRHlNQ1NZRk14Vml3MmxKQW0yMHQzNkkxZGN2c1dZZWxrUVVHb2lZX2JaZzFQbHFsTm1IUGFDaHc2QVpuWmJ6TU9UZWppNnpGanJuZjlTUk5PSHJndFVleS1PNlNLb1FtZWM0T29tWDdBYUpDYUNqcWdXeDNiZVpuVjRwQUJTaDVfa29rMC1MZEltN2Q1MFVHeEE?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Love to visit once complete. Incredible India..",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "15800 फीट की ऊंचाई, खर्चा ₹16810000000...भारत में बन रही दुनिया की सबसे ऊंची सुरंग, चीन के माथे से टपकने लगा पसीना - Zee News",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcDVvQlQwcWZjalpHZW1qUkZGLXhYQzNaZ0lpZzAxM193eUtPSWlGLW10WHAyZGYtQUZ5Yno3R29LSGp5d0FZOVhJdHZTc1RuVGx0ZXlJV2NUaVFnYXR0c1NYekhXZ0VneUIxTFFrbG5veFFlQjl3bnpheHBVbGViOG55Tk1xUDUwcU1jQ3BVQXBQYWxUZXBEcWxpRFZ4TFZWVG5nODV6Z2s0Nmo3SU9uX2RxQ0IwYTRyOW1LT0ZYQk1pZG1WLVlFSVp0TnlUQmxlb2s0bElEd1o1XzhkZEc2cVlBVmZxUnBlenNr?oc=5",
-      "score": 0.4
+      "source": "youtube",
+      "title": "Amazing \nMy all tym fvrt.animated videos by Study Iq ..n Adarsh sir u are describe whole things in better to better way\ud83e",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "Shinku La Tunnel: Full-fledged construction of world’s highest tunnel to begin soon; BRO accelerates work on all-weather route to Leh - financialexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMGVwZGVKZU1FSVpaY3NVYTlxWjhwajYzUDRiYmVWZEVfcDNBRkJqby04dmFWakhrVjJubjZDOS1tSkEtYmlGWTlaWVA3NTVHQUg3U1dyM2hiNEtITFhPQUJ4TTM3YzJQSk52anVxWnlEazdmVm5fdS1iZl9XSTRGRWxkaGpIOUJ6QVhGRHF2T1ZlcTdzdnloSElxRVhGdmFSSUtEVnREOC1xVmJHT2dDSjJaQU04R05kVndCa0JmbDI2UkJpYzdoQ2RKTXZwZzlvLVNwYWtYejhmZEs5cEFESEcyRTN0dFJoRjV4M0hYeU42M2lESFk5LTZzdUt2Q29ISmlUVFZTV252VFA5eG1iN0NmQzhJek5ZWUHSAaACQVVfeXFMTWYxME9TV2U1MkFyeDdycXYwQ3R5anlLbzBLVjFkM2lmSzYwNjZPMWtQcUdkOVA2eHpheklIMHVUdklneExoN2lkV1I0VmJzMXdTQmUxc3lVWjA2SXoyc0JETEdITlJ3S0M4MXBkVGJjZ3VfOWdGQkxLMjVnRGNFRXV6OHAtV3NVRWpLZ25yVU9adWZaTXl1cXprSlRiakVWb1NiaDg3U3BSbHNKdy1QZ2MtdzFvekhrOV95Q1ltMFE1U2dIYzFSZ0IwOXhyUVlGYUdXUm9od3JtS2c5azV0Q2wybTlmcTJoTkNtUTloeWRaZHN4OUpZSFBVc3JfYVBfT0NoeklmeXFxZ3ZVSUlieGJfNElobjhoZGdQYl9pRURh?oc=5",
-      "score": 0.4
+      "source": "youtube",
+      "title": "Sir you are my favourite sir in online classes ☺️  keep teaching and keep shining 🌟🙏",
+      "score": 0.9
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Ambani addani orchards mint millions and people are still poor in Shimla.",
+      "score": -0.8
+    },
     {
       "source": "press",
       "title": "India is building world’s highest tunnel on China border at Rs 1,681 crore – Here’s why it’s certainly a bad news for Beijing - Zee News",
@@ -53,16 +55,9 @@
       "score": -0.7
     },
     {
-      "source": "press",
-      "title": "Rs 16810000000: India to build world's highest road tunnel at 16000 feet in..., China in fear due to... - news24online.com",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWjNhMGM2TEZxUnhrZG5feFZQZHltQjhPZTNxTHFvTDUzNlBYdWs3SzJuTGRNeFRBN3NiZHh0MHhDY0Q0U1k2YU52N2w2dm4tQU1feVE3RDZPQlFnWGh0ZGJFWjVCcEZLUTVTczZFaHhsV0RNM3N2TzRGNVBWRzI1OFRLOGhzamRtV1FDb1lUa3ZTVnpmVC1kQmxqMUVzZ0FyN0JQbVV3Yno5Y0NmZHZsZE43c3ZPbEFVWGZXTGlWQjk3ZTV1ejJ0bUdWbmprbEZNQWtvTWZ6ek9aQU5iT2I1X1FwNkZLSWZxOWt6aTVBM3VHMjhNSEhYMVFQVHRrMFNpanZxMWU3aUZWSGhOcklZZWF3UmJTdlhqb2VSYQ?oc=5",
-      "score": -0.4
-    },
-    {
-      "source": "press",
-      "title": "Over 1250 km road length constructed by BRO along Indo-China border in Ladakh - Daily Excelsior",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEVNT0xvenhneVVTRnZWbzZPRWhhR2VTTnNEWlFfUF84WTM2ZUJPMU5UcjM2d1BsMXYxUjROeXpMWlRCbWh0c2Z0TkJRRmZQNEY0aTJSck9Ta0MxQTBlSVBNNVp2SXZGdDVib2pBNFlGQWdPcGxVVjA2UFQweVoyWWt3SFotbDlON2U1cVNSbEJiRkdnTFB6UnFwYlBaUGRUSjZwXzMzaG5pSFJNeXfSAbIBQVVfeXFMTVhmZzZudmlrcUN4YWQwMEpFc0tsUnhPSHJjcWxYRkY2dkVERWltemVkOWc1aVVQcXZKd0NOcFZXLXpkVl9zZy01N3JPYk5BcjBCVzFZaWdRRXNEcEF6NlRtclhhSHlkOVduX3Fldlk4X0pYUW10SXhLczRWVnJ6TzdUTlBhNnhCTnVVckEzMkdLS1J0dDVielR3dXpqN1BTSmpsbWt2blJ5UkxDMk94cHRjdw?oc=5",
-      "score": 0
+      "source": "youtube",
+      "title": "Bahut khatarnak jaga h kabhi mat jana oxygen bilkul nhi h",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

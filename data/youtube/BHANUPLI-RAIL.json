@@ -1,11 +1,104 @@
 {
-  "updated_at": "2026-07-02T20:15:45.351Z",
+  "updated_at": "2026-07-06T20:48:57.847Z",
   "project_id": "BHANUPLI-RAIL",
   "query": "\"Bhanupli–Bilaspur–Beri Broad Gauge Rail\" Himachal",
   "counts": {
-    "videos": 0,
-    "comments": 0
+    "videos": 3,
+    "comments": 9
   },
-  "videos": [],
+  "videos": [
+    {
+      "videoId": "g-IJ_v3BRY0",
+      "title": "Bhanupalı-Bılaspur-Berı Rail Project | 63 KM Rail Line | Punjab, Himachal Pradesh connectivity ",
+      "channel": "2M. Information",
+      "published_at": "2025-10-13T12:29:04Z",
+      "description": "Bhanupalı-Bılaspur-Berı Rail Project | 63 KM Rail Line | Punjab, Himachal Pradesh connectivity #railproject ...",
+      "comment_count": 8,
+      "comments": [
+        {
+          "comment_id": "UgyBj_9wBjMkAuFGGe14AaABAg",
+          "author": "@rakeshkhanna9186",
+          "text": "Vande Bharat",
+          "like_count": 0,
+          "published_at": "2026-05-03T12:25:23Z"
+        },
+        {
+          "comment_id": "UgxbBBUJxOWpTyWapE54AaABAg",
+          "author": "@AtulVinayak",
+          "text": "Great visionary job execution. \nJai Hind Jai Bharat 🌹🌹🙏🙏",
+          "like_count": 1,
+          "published_at": "2025-12-11T20:38:45Z"
+        },
+        {
+          "comment_id": "Ugxx2ziO_YysPH-2cQR4AaABAg",
+          "author": "@loveindia123ful",
+          "text": "अच्छा वीडियो है।",
+          "like_count": 0,
+          "published_at": "2025-12-30T08:02:27Z"
+        },
+        {
+          "comment_id": "UgyXeFGzoERwt2Q_-LB4AaABAg",
+          "author": "@neerajkumar-sk2gh",
+          "text": "Make video on badhi chandigarh railway line update",
+          "like_count": 0,
+          "published_at": "2025-11-10T01:01:57Z"
+        },
+        {
+          "comment_id": "UgwQFNOTL2PERruBtbh4AaABAg",
+          "author": "@kartikupadhyay3228",
+          "text": "Kullu kb pohnchni yeh",
+          "like_count": 0,
+          "published_at": "2025-11-22T05:07:17Z"
+        },
+        {
+          "comment_id": "UgzOxKZI_XQVj8dFgMh4AaABAg",
+          "author": "@arunvalecha1247",
+          "text": "IT WILL CONNECT KULLU NEAR TO DELHI. DELHI TO BILASPUR VANDE BHARAT WILL SOON COME",
+          "like_count": 0,
+          "published_at": "2025-10-15T10:10:55Z"
+        },
+        {
+          "comment_id": "UgwCbKHCkSx3dDu9Kn54AaABAg",
+          "author": "@rakeshkhanna9186",
+          "text": "Tell me Further status of this project when will it Complete to Travel LEH by Train so I can easily go to LEH by Train",
+          "like_count": 0,
+          "published_at": "2026-05-03T12:30:08Z"
+        },
+        {
+          "comment_id": "UgxaeyC4zvvDCP_kzSx4AaABAg",
+          "author": "@Er._Rohit_Thakur",
+          "text": "Ye 2027 tak paharpur pahunchegi 😂\nSo bilaspur 2035 m 😂",
+          "like_count": 0,
+          "published_at": "2025-10-21T01:43:57Z"
+        }
+      ]
+    },
+    {
+      "videoId": "TWZHrucUHgU",
+      "title": "himachal ke liye yaha se nikli railways project bhanupali to bilaspur,#shorts #viral #trending",
+      "channel": "truckbuslover9571",
+      "published_at": "2022-11-29T17:13:17Z",
+      "description": "truckRider9571 himachal ke liye yaha se nikli railways project bhanupali to bilaspur,#shorts #viral #trending.",
+      "comment_count": 1,
+      "comments": [
+        {
+          "comment_id": "Ugy1VskcjI4DNU-s9kd4AaABAg",
+          "author": "@ankitachandel7036",
+          "text": "Nice",
+          "like_count": 0,
+          "published_at": "2022-12-01T10:23:32Z"
+        }
+      ]
+    },
+    {
+      "videoId": "47fZD-j4XrA",
+      "title": "Bhanupali Beri Railway Project latest Work Update Near Bilaspur Himachal Pradesh",
+      "channel": "ROAMING LIFE",
+      "published_at": "2024-09-16T16:25:04Z",
+      "description": "The Bhanupli–Leh line is an under-construction electrified railway track connecting Bhanupli, Punjab, to Leh, Ladakh.",
+      "comment_count": 0,
+      "comments": []
+    }
+  ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

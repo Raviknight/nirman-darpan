@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:15:51.009Z",
+  "updated_at": "2026-07-06T20:49:37.128Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -10,22 +10,54 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 20,
+    "positive": 13,
+    "neutral": 6,
+    "concern": 1,
+    "avg_score": 0.27,
+    "avg_magnitude": 0.31
   },
   "overall": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 20,
+    "positive": 13,
+    "neutral": 6,
+    "concern": 1,
+    "avg_score": 0.27,
+    "avg_magnitude": 0.31
   },
-  "top_positive": [],
-  "top_concern": [],
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Good",
+      "score": 0.8
+    },
+    {
+      "source": "youtube",
+      "title": "मनुष्य को कितना भी सुख दे दो इच्छा और बढ़ जाती है ये सब मन का वहम है......",
+      "score": 0.7
+    },
+    {
+      "source": "youtube",
+      "title": "आपने इस विडियो मे अपने निजी अनुभवों को साझा किया है वह लोगों के लिए बहुत ही उपयोगी साबित हो सकता है।",
+      "score": 0.6
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Without search ke ye video kis kis ko mila hai.😂",
+      "score": -0.4
+    },
+    {
+      "source": "youtube",
+      "title": "I search accountancy bills of exchange and what I saw 🙄😂",
+      "score": 0
+    },
+    {
+      "source": "youtube",
+      "title": "Khan sir ki video dekh raha tha yaha kaha aa gaya 😂😂😂",
+      "score": 0
+    }
+  ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

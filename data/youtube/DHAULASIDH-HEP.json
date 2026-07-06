@@ -1,11 +1,39 @@
 {
-  "updated_at": "2026-07-02T20:15:46.050Z",
+  "updated_at": "2026-07-06T20:49:05.757Z",
   "project_id": "DHAULASIDH-HEP",
   "query": "\"Dhaulasidh Hydroelectric Project\" Himachal",
   "counts": {
-    "videos": 0,
+    "videos": 3,
     "comments": 0
   },
-  "videos": [],
+  "videos": [
+    {
+      "videoId": "ctIihv2qpFo",
+      "title": "66 MW Dhaulasidh HEP - Civil &amp; Hydro-Mechanical Works | निर्माण और तकनीकी कार्यों पर एक नज़र",
+      "channel": "Rithwik Projects Private Limited",
+      "published_at": "2025-11-19T10:22:18Z",
+      "description": "A quick look at the ongoing progress of the 66 MW Dhaulasidh Hydroelectric Project in Himachal Pradesh, where Rithwik Projects ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "tjuxmd33cAo",
+      "title": "👉Himachal Sarkar Ki Badi Taiyari! |Kaunsi Bimari Ka Khatra? |#shorts #hpas #patwari #currentaffairs",
+      "channel": "HP COMPETITIVE EXAMS",
+      "published_at": "2026-05-31T12:45:21Z",
+      "description": "Himachal Sarkar Ki Badi Taiyari! |Kaunsi Bimari Ka Khatra? |#shorts #hpas #patwari #currentaffairs Dr. Yashwant Singh Parmar ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "APULXP8Pry0",
+      "title": "80 ton sany crane .  Dhaulasidh hydroelectric project  Hamirpur",
+      "channel": "@CraneWorld",
+      "published_at": "2026-03-23T15:38:50Z",
+      "description": "80 ton sany crane . Dhaulasidh hydroelectric project Hamirpur #construction #interiordesign #home #homedecor.",
+      "comment_count": 0,
+      "comments": []
+    }
+  ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

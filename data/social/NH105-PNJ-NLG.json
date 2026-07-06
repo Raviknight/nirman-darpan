@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-02T20:15:12.071Z",
+  "updated_at": "2026-07-06T20:48:18.802Z",
   "project_id": "NH105-PNJ-NLG",
   "counts": {
-    "press": 26,
+    "press": 31,
     "gov": 0,
-    "en": 11,
-    "hi": 15,
-    "total": 26
+    "en": 13,
+    "hi": 18,
+    "total": 31
   },
   "mentions": [
     {
@@ -50,6 +50,16 @@
       "match": "Pinjore Nalagarh"
     },
     {
+      "title": "17वीं बार स्थगित पिंजौर–नालागढ़ फोरलेन टेंडर अब 24 अप्रैल को खुलेगा - Dainik Tribune",
+      "source": "Dainik Tribune",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVNlVDJXQnB3RE5vT0F4TlVxVmdNZzNZbF9LQ3V3RFY5ZXdHM2xfeDN1bnRtRDNRbC1TWXVFY0l2YzllT1NHQ2MzZmFTNlFmN0pSZXVqa0pnVU1jS0JtLXQ4bFVUUnAtZmxiLW9ibXlzbC1HYkFtX2tvYldFRElXa3hTNGhyVGZUZllCN2JfTEVmYzRtd1ZpTkFEeFJDWF9LcXhlekJqUUtnYW82a2FjcmhhYVR1YjlKMjhFNDVLT3QtU3NUNlduWlZJY09PVk1DNi1ZUdIB2AFBVV95cUxPY2ctUzlOT1ZoaXgxQm1jOWJJV3R4REVEc0hMVlh1Q2g3cTh4UlNqSjI3eU5lYzB6UkdSN3hWdFhqOTd1Rmc0dVJYbGFidTZOcjFHZzdiajNneUJldHA3U0ljWEs3cmhNY25uTEJ3Ukk4UlhVRkNkU2FRT19vQ1lJWXZmOVFIbHBaZUYxc2FsbW9IMzE3ZUhWanlKaUJZT0pfRjc1b0xIaXN1TWowN1hKWFEyZEZsZy1jeGV6WEJvQVVxSVRrNUhfNlFGeUpLd0RxVUJTNGhDcjc?oc=5",
+      "date": "2026-03-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pinjore Nalagarh"
+    },
+    {
       "title": "NHAI widening work delays derail Pinjore-Nalagarh traffic - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -67,6 +77,16 @@
       "date": "2025-12-13T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "नहीं खुला पिंजौर-नालागढ़ फोरलेन का टेंडर - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeG9McTZWWFZ4VlJVa29tQ3FRbWRJTElQX0pZNWpjaVllZ3NSVWVYTHRUaElrVlBiRC01Z3VwMWl3aFpFWVN1SFR1VGV1blRIcXV4SkdKaEVWMm1GTXV5d1dqTUVqcTlRU0VxdlloVUotZS16QVRadVdGbUFtMlQ2SFVvdWJjdFV4X0FERFZMVk7SAZYBQVVfeXFMTVBHblEtYUlYOVZGZXRfX0tVbExqQUtpNFpFd011cDQyMld5V0dneEpSdjVLc0xUSDBLWFlEeEhVNlhsRFBqeE41ZTVpdm5PZFRsY21PRlNjSXZST2ZmSTRSa3hhcnY4REd6VEZDeWpWWXktT0tTSjNIdDFCUDlYZW9xakNSRTFSR0pJVm5sbnFadDlGX2Jn?oc=5",
+      "date": "2025-12-13T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Pinjore Nalagarh"
     },
     {
@@ -120,20 +140,20 @@
       "match": "Pinjore Nalagarh"
     },
     {
-      "title": "कछुआ चाल से चल रहा पिंजौर-बद्दी-नालागढ़ फोरलेन का निर्माण - Dainik Tribune",
-      "source": "Dainik Tribune",
+      "title": "Panchkula News: पिंजौर नालागढ़ हाईवे का अब तक सिर्फ 38.60 प्रतिशत निर्माण, कीरतपुर पुल मार्च तक होगा पूरा - Amar Ujala",
+      "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGo5ZnYwM2dvX1dWSG4zcVV6THZ1TnRNdG4tS2VQWFFsdUZacGFsaGFqcXhoYjJIbTVaQ0J3TU16d3F5UVZQck1GWDZ0bFNWYTYteU5uVWQyVXBwTEtkWThrWF9TbGhSRDlwdHNKaHdqc3JqczZvbkhVSHg1X0xMT3g1NGNiSzF6N0c0Y2RzWnpOUnNqZDE3M3VfYXZaNEJ3a2h2bHBrSnhZRlZCd19tZlZ0OEUwaWtCaGZVZElBVVNJSHlUNnBEZE4wQlNRQdIB0gFBVV95cUxNM29uSHVLMEJaUk02NHpaUThKZlNuVlpsZlJsRG1hS0xFZmVKY3VJdUJSZEs0bXlIeWptRkV3NTNkT3pCdENITFRsZXdWcElSUkNsNEdzWjA3ZmNwM3ZyMjVtVDdhUGg4NzRQNEljSjlKYTIyODc0YmI2emY0R1NuU0VWQ1UybHU3V3g4SVA4Z3owb19tc1hZZUkyLUNXZWdzUzZHMFFIeGJ5eHZ4bXhEdERRWGtqNk1kYU5OalQ0TFYySWdaaUpmRlFtbkhfc0lKYkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYS1ycXJtVFRfRUhuNTZ4aXVueXU5V0hIX3hGaU9jOFN2eDZZLXg1emRMS05RLTlyQm5nVE9xcHJiNDI1VTE5NTVSeklRLVJPWGtudjNKWTlqUC1ITFgyQThReElrdTZuT1FxSmpNUkVPNkVlaU84WV83OUhzbmVzWkM1T3pOd0lqT0pFZ1AtWVZTOXYxQ3ZQcVdiajhQZ01QSmhMUGVnS2xIaWdaRUNWcUtfcmFFR3lJU0ZQSVNRTHJVaVNDc01LQmNzcndsZUcwd052dkkzeWs5U2FrbUpFUzNPSUNxRUNYRG5XR3llVXN3aUxUcjVMcjU5NXplel9BY1BPQU9vNVFfLXRNeld6X3NtWXU0aXRhampPaExwQjdxQlZyMEt30gGsAkFVX3lxTE0wOXJ6Z3dZbzhvZk1xZlRuNGtsMGVlS2FaSGkxOE9acVE1bW9UZWxYVlIwUWdjN2NkRmZ0MW1LU1ZWOGlkSmR5X2g5YkpLSGlSU3dGcV9VcG9qVldxN2dKQTNaUzV4Y0FhZl9fOWl0MTNSMW0wRjBna3ZCaU9rNl80Y3B4NjFrUWY0cjBadXJ1LUZsUGtEQjRYRGhpM3ZLZ1NibkwydmFSMnhhdllJbUZVVnRlaGhnYndYYWZVOTA4dWFOcUYxOWFIaHZRaGtGMVExUEhyOEViS2N0WHZiREwxQnZwSnIyeGxUMFVmb2pGMmJpdDczcXRZS0x6bnRiLUEwMlg2V0hKQ3ZPUkZVdlh4bVk1dlpxQVI3WmZBNXJGUFp0V21FdnBwaE5lNQ?oc=5",
       "date": "2025-01-10T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Pinjore Nalagarh"
     },
     {
-      "title": "Panchkula News: पिंजौर नालागढ़ हाईवे का अब तक सिर्फ 38.60 प्रतिशत निर्माण, कीरतपुर पुल मार्च तक होगा पूरा - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "कछुआ चाल से चल रहा पिंजौर-बद्दी-नालागढ़ फोरलेन का निर्माण - Dainik Tribune",
+      "source": "Dainik Tribune",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYS1ycXJtVFRfRUhuNTZ4aXVueXU5V0hIX3hGaU9jOFN2eDZZLXg1emRMS05RLTlyQm5nVE9xcHJiNDI1VTE5NTVSeklRLVJPWGtudjNKWTlqUC1ITFgyQThReElrdTZuT1FxSmpNUkVPNkVlaU84WV83OUhzbmVzWkM1T3pOd0lqT0pFZ1AtWVZTOXYxQ3ZQcVdiajhQZ01QSmhMUGVnS2xIaWdaRUNWcUtfcmFFR3lJU0ZQSVNRTHJVaVNDc01LQmNzcndsZUcwd052dkkzeWs5U2FrbUpFUzNPSUNxRUNYRG5XR3llVXN3aUxUcjVMcjU5NXplel9BY1BPQU9vNVFfLXRNeld6X3NtWXU0aXRhampPaExwQjdxQlZyMEt30gGsAkFVX3lxTE0wOXJ6Z3dZbzhvZk1xZlRuNGtsMGVlS2FaSGkxOE9acVE1bW9UZWxYVlIwUWdjN2NkRmZ0MW1LU1ZWOGlkSmR5X2g5YkpLSGlSU3dGcV9VcG9qVldxN2dKQTNaUzV4Y0FhZl9fOWl0MTNSMW0wRjBna3ZCaU9rNl80Y3B4NjFrUWY0cjBadXJ1LUZsUGtEQjRYRGhpM3ZLZ1NibkwydmFSMnhhdllJbUZVVnRlaGhnYndYYWZVOTA4dWFOcUYxOWFIaHZRaGtGMVExUEhyOEViS2N0WHZiREwxQnZwSnIyeGxUMFVmb2pGMmJpdDczcXRZS0x6bnRiLUEwMlg2V0hKQ3ZPUkZVdlh4bVk1dlpxQVI3WmZBNXJGUFp0V21FdnBwaE5lNQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGo5ZnYwM2dvX1dWSG4zcVV6THZ1TnRNdG4tS2VQWFFsdUZacGFsaGFqcXhoYjJIbTVaQ0J3TU16d3F5UVZQck1GWDZ0bFNWYTYteU5uVWQyVXBwTEtkWThrWF9TbGhSRDlwdHNKaHdqc3JqczZvbkhVSHg1X0xMT3g1NGNiSzF6N0c0Y2RzWnpOUnNqZDE3M3VfYXZaNEJ3a2h2bHBrSnhZRlZCd19tZlZ0OEUwaWtCaGZVZElBVVNJSHlUNnBEZE4wQlNRQdIB0gFBVV95cUxNM29uSHVLMEJaUk02NHpaUThKZlNuVlpsZlJsRG1hS0xFZmVKY3VJdUJSZEs0bXlIeWptRkV3NTNkT3pCdENITFRsZXdWcElSUkNsNEdzWjA3ZmNwM3ZyMjVtVDdhUGg4NzRQNEljSjlKYTIyODc0YmI2emY0R1NuU0VWQ1UybHU3V3g4SVA4Z3owb19tc1hZZUkyLUNXZWdzUzZHMFFIeGJ5eHZ4bXhEdERRWGtqNk1kYU5OalQ0TFYySWdaaUpmRlFtbkhfc0lKYkE?oc=5",
       "date": "2025-01-10T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -147,6 +167,16 @@
       "date": "2024-12-15T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "Solan News: पिंजौर-नालागढ़ एनएच पर दो पुलों का किया उद्घाटन - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOE9OWVBIenItaHhPZ2Z4SXhzUnZ1WlRSeThYYzF0SnRCN2RCcTFoYTU0WWpGUTRBQlgzc3FHWVVpQW1ENG0wZ3QwM01EeVVFektteTZ3U3VmTEw4akhRUGlQVUVWdkl2NGxCOWY2a2RMM0t4S00wNFQwZkdTZ2FudnZXNFY0OUtBUUZQWEJwTlhjQW1OUEprM2dKUGxpbnhuWHp3M1NWRGZlZVItS0RUR3NzZVBQU2kzS0gxQlZOUWdPSjVoQzlVUWEybnhvTmJNd1FrUTZCVTXSAd4BQVVfeXFMTjhaSlM5YzdSZ0RCaVBpN19HekZ1YmFQRkFTWERQR1BuSUxscENhVjJDaXJsSG9FUTlhakV3aXhDWlMxVk0xMXhKZmhKaVlQSWpRSTRxSUwtUmMwLTNEQWF4dnVHRmFxM3VUR3AyUWpIVXhyTFdNanU5eEVQNkFfdWQ5QUUwU282a3VuUVRnN0hWRVNHQTk3NFF1V2JiU1hyd3VpWXNuNkVRclF0WlM5RVRXbllQRmVaQTNtNDlLanJFZTladjRORW9RQWR2RGYtSWNicVB0OEJhVUlJS2l3?oc=5",
+      "date": "2024-10-25T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Pinjore Nalagarh"
     },
     {
@@ -178,36 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Pinjore Nalagarh"
-    },
-    {
-      "title": "पिंजौर-नालागढ़ फोरलेन का काम हुआ तेज: करीब 732 करोड़ हो रहे खर्च, 104 पुलिया, 16 छोटे व 5 बड़े पुल बनेंगे - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpOd1ZIcUs2MG5BVlozc3RTS0hTQVlsdzN2YXQzc0toX09qYk8wZGJCaUtuVklpM19jV3pVclpXcU9IMjY4UWRPY01lVGZvMDdIUFNqaEw4T25qVmJFeWZSRlZFWUJuUXpzMzlUN2g2WWhlbE9PcXRTUTlQeWNVZC1pSXRVRHBPZmxUR3hiTmo5M3Z2eGdISGtGTExxeTlUVkRtanBGRlZQMEZJMFk4d19ZR2tFQmFm0gG-AUFVX3lxTFBsanRUdzZaLWg3LUVSOVAtNEZQem1wLW84eE4xMTdGamF4clB6a0FMM3dqOFF1YjNUWTZGNlN3Ry14TVNveVUzZVFUMVg4N0x1ZU12N0NWMkg4MWJIUEVyRnZxNm1yclV6RVhNQkhReGdXNHVNNkltTm9mX2l0RDY0WlY1Zm5UUFpHemxIMjdzeV80U0VYdG1hTHM1QWNfbHVXd2w0ajZXUHRfN2xoTkN1RkpKMmFoX1Y0ajdiaWc?oc=5",
-      "date": "2022-11-03T07:33:36.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pinjore Nalagarh"
-    },
-    {
-      "title": "Pinjore Nalagarh Four Lane: 25 मिनट में तय होगा 90 मिनट का सफर, 30 माह में पूरा होगा निर्माण कार्य - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT201dUxfeGM0SG5ZWVIxVXZrNkNtTG80bFZfdGVqVGV1cXdYRFNINEc0OWhVaHpFMEt6QWdkSnM4dXRiQlAyMXVrTUJQWWFxODQtT1htNlo2eVJhNmZZNE5Hb2tGckZqcVJ2S1pLT25qSjNnZEJvUGYxeVpxVHZGM2M3VWNkc0ZpelBCT1ZOeXFORnF6Um5sVmxDZTdGNkxQc2JWZHEtTGJrNlJqa0EzS295T3dvSXg3TmFLaWhPNE9WdThqQVExUUFOR2Y5WmQ3NVBjanBOMVJLZkFQ?oc=5",
-      "date": "2022-10-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pinjore Nalagarh"
-    },
-    {
-      "title": "Nalagarh-Baddi Four Lane: नालागढ़-बद्दी फोरलेन निर्माण को रोडमैप तैयार - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWQyU2dFelVBQV92Q1kzRFNwbUh6NDhSaW5IWmZuREVWNWNpY2VQZmgwaVppRlR6NmVPSDV5dVlfYjlwRU1PNENqOW4wcHYzRTVtNGZ6a0ExZEhnckZaTlphMFVlQmZMbmYzbGVHc3F5a3hpVC12UmF2V280Xzl4UzNhSVpzdnozQXpzVndUSnRKbDhmNHltUU52V2pfSFJUY0xCam9tcmg5b2Z1QTMtek92Zm5aZGxkdUxtTDQ0NNIBxAFBVV95cUxPSGF2UUZfcG95WXRlWVNPZmVUWGVQOTZsdlFhMHpVWXJyY3k1U29pMWlHUzNPZnI5bzc4LUtmUUlsNEV6TnRHZW5ZUUdacEJOZGxPdTVlOVl4a2tqckpyMkFYSGdzdmIzOFZvZkFiTnFGbjR1bFBVajI0R00tMVFoNHFVUjFyNGhUS2pFeU1FY2w1bWxRQXJXMklFTnl0MGFJQjZ0NXgtSzBQRXV0ZzRySWNtTDMwZEpPVTRFMFdwcENCRFRv?oc=5",
-      "date": "2022-03-31T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Baddi four lane"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

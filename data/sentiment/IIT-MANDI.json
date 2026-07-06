@@ -1,68 +1,63 @@
 {
-  "updated_at": "2026-07-02T20:15:48.631Z",
+  "updated_at": "2026-07-06T20:49:27.583Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
-    "positive": 6,
+    "positive": 7,
     "neutral": 12,
-    "concern": 2,
-    "avg_score": 0.08,
-    "avg_magnitude": 0.21
+    "concern": 1,
+    "avg_score": 0.13,
+    "avg_magnitude": 0.2
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 31,
+    "positive": 21,
+    "neutral": 7,
+    "concern": 3,
+    "avg_score": 0.281,
+    "avg_magnitude": 0.581
   },
   "overall": {
-    "n": 20,
-    "positive": 6,
-    "neutral": 12,
-    "concern": 2,
-    "avg_score": 0.08,
-    "avg_magnitude": 0.21
+    "n": 51,
+    "positive": 28,
+    "neutral": 19,
+    "concern": 4,
+    "avg_score": 0.222,
+    "avg_magnitude": 0.431
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "पौधों की रिसर्च में IIT मंडी के साइंटिस्ट को बड़ी कामयाबी, पौधों में बेहोशी की अवस्था के कोशिकीय संकेतों की पहचान - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPb1UzUFZ5ZGRsVll0cERoRnlGYnhSRE5RLXJuZmxtc1Z4bGhtXzNORFRWbXdMVzRySGpHUVRMUEYzRjdTVGk4U2FYWjVXVl9YbXd6OFlIRENCcWtBMHNPRG1RVjRrcG5MVF9BckZpY3p1Z0NuLU1URkZMcmc5Z2djaHNYLU4xaXFfZkdJVEtYbnJZZEI0cVY2aXhLYjZibXBCazlyalMwMFhtU1pPaDNnNEc5T0JxX25Zd1EwS0JOOHRrUk91cGUzMlo3c2ZPTGV5NGNYenpMOXhZNFQyOFZtdThlVlBub0Q3U0tDdzBFeFBJTi1XSjV3ekpB0gH_AUFVX3lxTE5vSUlBUTRMLVFRbDJ6Z0puYzFhTmhUNjJXYV9UaVZkanhrRGZISjg1NW5DdE5vZkhHcFEwTjFIWDZ6N1hiejdNbjFpR1JxNVR0OHkwMnJzNmtRNGVnRUpUUjhqTnM0ZW42eko3ZmJDYlFTcENPT0F5UXRCVC14c042d2VUbndpUUw4emR0ZGZjNUxIanBmS1NocHlTSkdadGU4MzA5SGlvekRzUEZBYmF0dXI1VXlQd01HSmhyOFh3dUdJNllTbFpsWEhfbllad1p0aTYtVGVudmdTRU1BYnFDU2VZdlZkelJ1bzYyQmZOM0FGc0g4ZDl6U21ZU2stYw?oc=5",
-      "score": 0.6
+      "source": "youtube",
+      "title": "Best iit campus in my opinion..iit Guwahati and roorkee",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "IIT Mandi Research: बेहोशी की दवा के पाैधों में भी दिखा इंसानों जैसा असर, आईआईटी मंडी के शोध में खुलासा - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemgzWEk5dEZHdllsWXNVRlJJbTAxWFQ1WEx3T3RnQ3ZvS04ycXFqd3FqeDAtbl92anB0bi1UTXhGZTlaTll2Rk5KaDgyT1FMRkQ4LVdoUC1oYzI3eDhfVkRja0RlUEt6d2RVQmk5Wk9tMU01SDlwQjdiRXNRN0Z3TW9YV1l3aTFCMlJNNnhvNk90SGJUd0pRQ1pkNEIzcDBNVDViVWRackxYZWEzek1URi13LXZicXIyMGNzTjVYTmNSbU1w0gHKAUFVX3lxTE1aVXRuZHFablMyY3pGeGktdXFwdHliNXFaYl9HUzhBaEZpUmpNcDZISHJnZ1NIaGxGcjNYdWhYR3JtTjRldndzQ040SXY4N0FGZHFWQlU0S3daS0FPWDlxNkR0MUxLTHdhUGZKR0VFQUlXV2ZxakRDR1Z5VXZ2WE1ZSmRsYmFMQXdKMDF4R3B0MDhXM2F4YWd5RTZxajN0SEFXQURhci1fNE5hM3BudFVwaFZZZWNpS3JWS3RZcm00eFhBeXBkMENoRmc?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "What a place",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "चेतना सिर्फ दिमाग में नहीं होती, कोशिकाओं में भी होती है, IIT Mandi की खोज - AajTak",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPekw2bzZEZ3pvTjF2NW16c0xhalpFOVEyV0ZSOWdURHB2OFRpLV9NczFrUnZPakZCVkw2M1NyckJGY214ai1sVnprSE9QcG5mTEl3bE1EbVhtdUVOTHdwamNPbUYwcG5Fbi1Ha1dSZzhuU21FN3k5WGJka04wNHlyWnNqV2xydS0zVDBLZmJOaEN6ZF9mLTJUbWxPYmZhZGlubzc4VHN5U3EtNjNNdm9ZOHEzNWpPeHNsMDhoZElfbWTSAcYBQVVfeXFMT2VMaE5ONGpHejE4WFhQNU42Q0Z2TU9SdzZld2VETUpHb3RHcGRPODZwS29zZW1WSEZKRmozNVdzSWlHWWI0Qzd1dXpGYzZLc0R4NHIwdExfTm1QX3JSRVFIN0Y5OGYzM2llNlA2OGRvR0FIc3VpbUZoWGoxTTlYRVRLU1BrQ2Z4UWoyalFEa1F4SkJiWS02dXRFUk1kXzJaek8xM0pKWXM3YUxQRTl5R0ZmTkZLOVptdjZrZkhlc2Jidms2RW9B?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "I start my jee journey every day by seeing this video at dawn. \nThank you so much for giving us the ultimate motivation ",
+      "score": 0.9
     }
   ],
   "top_concern": [
     {
-      "source": "press",
-      "title": "A Trojan horse has breached the IITs - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNlhzWHR2bjluQm1sdmY2X2J1R1JBVlFlb05SUDB1Tm8xMmJzU001bVZRR0txWkQ5cUNWRm5vUmhuY3VxdVVnUkttcmYydFRSMHNnSndpNlBMMU5KUEk0OGRfOU9OOUVKSTZ1cGFIejJkdmd0TWM2bkRkTHRZSXRUckt2TXdNSmFPNEtPMmsxSDJlUS1rS0NIcDdTSdIBogFBVV95cUxNcEdacFlJMXVvVHR5c3IyY2pyVVFpMzNDdzcxbHRiV1NoeWh5N1JLR0x0ZHVrVExzSjkyUV9iV2lDWGQteFRBajQ4ODRfZDJKakN6LXZxdFRHYkV4MERXQVZyekNtRWtEWXQ3Vjk4Sk53bko5N0g0SG9BV1dfcWFaOWRubGdrd0VfZFFGNEdORmE1NVVSRW54YXktYS1lWlFhLUE?oc=5",
-      "score": -0.6
+      "source": "youtube",
+      "title": "worst college, no facilities, very tough life. dont go please",
+      "score": -0.8
+    },
+    {
+      "source": "youtube",
+      "title": "Why experience 😢",
+      "score": -0.5
     },
     {
       "source": "press",
       "title": "‘Profound injustice’: IIT Mandi on news coverage of mind, brain and consciousness conference - Careers360",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcGMzX1hNdzFVdzlxUUNCMzRSZmNVRjEydTR4TUg2MW1Pb1BvMDB1b1lSN2VNaVZvSUhZRDc4OV9mNHphU2RyMGEzWUY3b1k2M0g0RVdjQVJiLXFuZ2wyVEpRMF91STFobFdOM01lQkVOQXppNlBmbU5uREJBTDZoZi1WdXphdlBnTzJsVkJWT0dLMXNfTkZTVEVCemFsUm5OQnQ3VEsyak5WNUF3MzZVazV0cGZ3VjlyOWZlWtIBvAFBVV95cUxQcGMzX1hNdzFVdzlxUUNCMzRSZmNVRjEydTR4TUg2MW1Pb1BvMDB1b1lSN2VNaVZvSUhZRDc4OV9mNHphU2RyMGEzWUY3b1k2M0g0RVdjQVJiLXFuZ2wyVEpRMF91STFobFdOM01lQkVOQXppNlBmbU5uREJBTDZoZi1WdXphdlBnTzJsVkJWT0dLMXNfTkZTVEVCemFsUm5OQnQ3VEsyak5WNUF3MzZVazV0cGZ3VjlyOWZlWg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSFZDOFAtQkJHWmdXWkZpWklYZzVzWGNjc1h2SnNkUUg3RVo2dm1SLVBpVGVHY0pJaDl4dVF6S3Y4S0VMVlVqT2YzOHV2NndqVzZrRzIzQWREWERtZ052THluRzB6VHZJU0h5alZ3TTBOTWhkYVBvMm5xVjVYUUREUkFPOGJQcV9XVjBqeFY2NFJGZ3N5UEdwWU80djZBUUswREUwZEFvN2RLbWtBNVRJUUJ5WXA2UEk?oc=5",
       "score": -0.4
-    },
-    {
-      "source": "press",
-      "title": "Can plants be conscious? IIT study finds they 'switch off' under anaesthesia - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2JseGpVOVZtaTdHblhDRmhzbW9PTzRjOG1tMUVCQjNLdTR6QXNfZXdYR3R3NDlSMFNULUxoSVVEaEwwckxPQWR0V2x2NW52OGd4bTYzd1NPcFAwVWVfZm9kdF9HcHhNazdJTFhpMVRYN2wxTjZuTFpfSkg1cmZwLTg2ak1MVUF4VUl3cEFfU0xET2RleWdZYzVlR2pKUmphODFvY2VMWHp5cVNKSnNaa1JQaEI5UmRiMWZ6bjg1NnpvM0FheHN0ck1hMDdLVkx1RmZ3ZVFoSjlEQUtpaWZpaGZzY3IwZ9IB6wFBVV95cUxPNzVRYTMyX3loR19NUU1VdjloTURqRURmWnF4VjBmU3lEc1RMbEdldDI0X1RsRFB2MFk5TkZma3RZbUFwQjZRTHR6ejBMaldtbF9HZGNnT2o3UkRPRmZkNDRjbTVPY2cyVGs1RnlHMHliU0lRbEd1d2wwSE5wRF9XRXlnY2plUzdUZmhvSXNTVTR5LWk2cE10SVF6b3A5TDFGUTBCNTc4Q1pLWWIxSVBtVWVITHhLaHlYT2dJR0VPZFpSUWZOWGlrMXFlb3VvVEZkQVdIU3NDY2t5NTdjYXRFQkQ5ZXptaExuSDhj?oc=5",
-      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

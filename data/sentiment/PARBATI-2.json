@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-02T20:15:49.263Z",
+  "updated_at": "2026-07-06T20:49:29.171Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
-    "positive": 13,
-    "neutral": 7,
+    "positive": 14,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0.29,
-    "avg_magnitude": 0.345
+    "avg_score": 0.295,
+    "avg_magnitude": 0.365
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 4,
+    "positive": 2,
+    "neutral": 1,
+    "concern": 1,
+    "avg_score": 0.15,
+    "avg_magnitude": 0.3
   },
   "overall": {
-    "n": 20,
-    "positive": 13,
+    "n": 24,
+    "positive": 16,
     "neutral": 7,
-    "concern": 0,
-    "avg_score": 0.29,
-    "avg_magnitude": 0.345
+    "concern": 1,
+    "avg_score": 0.271,
+    "avg_magnitude": 0.354
   },
   "top_positive": [
     {
@@ -47,21 +47,19 @@
   ],
   "top_concern": [
     {
+      "source": "youtube",
+      "title": "Make this type of projects by using \nmoney of temple devotional money\nby giving them small interest over it\nAlso money o",
+      "score": -0.3
+    },
+    {
+      "source": "youtube",
+      "title": "Turn the water of himalayan rivers to the deserts of Rajasthan",
+      "score": 0
+    },
+    {
       "source": "press",
       "title": "Gangaur ki kahani: गणगौर व्रत आज, मां पार्वती और भगवान शिव का आशीर्वाद पाने के लिए पढ़ें ये व्रत कथा - livemint.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFhWc3VfZm54T1drREszQkJLWjVJcXhfajc3YmE3M3lYVVB1amp0WG9CR2h5MmtKWDBobTJIVVdwSExaYUM4aGZVdXJQUVlZckJ4ZnRqN1NPYVJaNWROMGlUWDQxTjhzWFpVREUxbTc2d180RUlfOEFXYnNXcmJmN0dTU0xDZkp4dkZiN1hXb0lPX3RIVFUyM1k0SXl1RjdTWGkzc0xGQ2NUbDdHTlNnTVEyYzZ3OHBPbkgxUThjcjVUQzVhd2lNdjZ30gHPAUFVX3lxTE41U09HaW51WnIycmQ1dldmZ0ZONTQ3UUd2V2NWeVpxZEpkRVh5N2hTVFdRWmpOelA4cUxpUnBRWXhmZTdoTDJIVWhsMjNWTHlxSmIteFQyZ2dzLW1NeEhqbkktTWlWd3hoekxUeUI5SThKVkRfcGFTZ2tRWFc5M2FTeTgwVXVFaFZQZUIyUEdodUdpNHlpR01TTldYYkRBX2NNbTAzZHVNU3ZTVDZ1WHJENTRzY3F0czJxNGR3YXJIRmtfS3l3RENLaHZvSWRoZw?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Video: कुल्लू में स्वास्थ्य रक्षा-एक चुनौती विषय पर प्रबुद्ध जन संगोष्ठी शुरू - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZ2xyZTNjbWtvMEN6MjFJWjM0X3NTNGZiUXpwSl9UUVFBdnN6S01tLTFOMUFZT3JOV2xjNmhIelE2bzF3MXZDX2NWMXB5MWFDd2hIZ3BoV3AxX1JxQjZjWm1TQTFhcVB4aHM4XzdUMndwNjdRam10YjRoQ1JsNldaWEVsclBoNldpNjlycG8xMUlrVjFKaEtyejIwRl9ybElrbzBPSnJ1UDZyY21IMkNhOW5hVGN0a0U5RkxKWEpzOVNGYkVmRlRXb2tiMDJVRVVZY3QweG5qQ053WENPYXZXdEJKZXNMY0IzbWs0etIB8gFBVV95cUxOQlh0aUZKSGw4ZW9neDY0dUYzVjJYOUpwTl9ZSkFmU2o2RzN1ZjlZMkxRNzA1OHZpdlczckJDdXVVZHRkZzl4d1RBUjhIczlxckdFSGFnWlY0RndES0F5Q3Bzb2txQ1N0QXJuYzlzRFV2VHFDX0NzZVl3Q3k2OWdXNWQwRS1FRExpMHAzM25iYlFjN1NLRjZ3UzZ5WE40Z1ZLY294MjZSSmFFbkl4X1NVTkliNjZ2TThDS2hlYzBsZ2FsVHpzcjhKQ1o2SWVqbVBSNmt2cFJtNnpsS0dLZVFfcWQ2VUxtTDlYa2F6VjZDNzBydw?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Masik Shivratri 2026: मासिक शिवरात्रि पर करें भगवान शिव और माता पार्वती की पूजा, मिलेगा सुख-समृद्धि का आशीर्वाद | When is Monthly Shivratri—June 13 or 14? Note the correct date, auspicious timing, and worship ritual. - bhaskarhindi.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVF1WHRnN1QxMzhqRUs4eHR4UWlTMExfOFRxTDQ2UGVJdWRpVFM5Q041YTl1X3dfUHAzenpfWXByTXBqeEt0RmhzOXNJbjlKYmxsLUlkSHJPMmZxT3c4c0RhMXg5VmpibTd5SVF2d2wwdHdPdjRtTjdCbGhia09xRzdnT0tWUS05WEp1bE53bzJTU1lPbVQ2eDFCaDd4NU9CTlM1Vnk0SngwSWtC?oc=5",
       "score": 0
     }
   ],

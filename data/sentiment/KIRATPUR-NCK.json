@@ -1,48 +1,46 @@
 {
-  "updated_at": "2026-07-02T20:15:47.216Z",
+  "updated_at": "2026-07-06T20:49:18.633Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 20,
-    "positive": 5,
+    "positive": 4,
     "neutral": 8,
-    "concern": 7,
-    "avg_score": -0.05,
-    "avg_magnitude": 0.325
+    "concern": 8,
+    "avg_score": -0.09,
+    "avg_magnitude": 0.36
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
+    "n": 6,
+    "positive": 6,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.533,
+    "avg_magnitude": 0.533
   },
   "overall": {
-    "n": 20,
-    "positive": 5,
+    "n": 26,
+    "positive": 10,
     "neutral": 8,
-    "concern": 7,
-    "avg_score": -0.05,
-    "avg_magnitude": 0.325
+    "concern": 8,
+    "avg_score": 0.054,
+    "avg_magnitude": 0.4
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Wow",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Wao very nice 😍",
+      "score": 0.8
+    },
     {
       "source": "press",
       "title": "हिमाचल में टूरिस्ट सीजन में चंडीगढ़ मनाली हाईवे पर भीषण ट्रैफिक जाम - AajTak",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSUt1N2QweFViNlRwZVRZa3hNVTktakJHZDk3VjZRMUQxZkFQb1lNYmtId05NbW90OVRvekU1Yi1FWjhBN01jZFpnYW50cHJUaW9TdjF4MGxlMm83UDJuYklKb2JnczVNZ3lyQmpHeXpYVXBRM0FlbnFXdjlLengtTC1rS2xvNFoxNE1rcVRjc05kWEtMS3ZSX2w2RFRhbE1Bem1tcGU4ZlM5cVJxaUNKRzRZZGtmQWtnZFZhdEVYNldoc0hqU1ZxQUpYSDZNeXZmX25IeVJR0gHbAUFVX3lxTE51azhWMWM3Q1RBYkVCUU1ZRFZFTHhjMHJ1dDUwc21ta3VVZHRrZXZNZmNORVVBSUpNTzJjWkJON2k4LVZzbHNNazFhWFhlalJvMTFIMWFjM3BpOElaWXAwTnpLMGoxUHY1QTQza0p1QzlSeVp1OF84ZGU4VVBfQUxvb3EyWWd0amtUZWV4d2dURlFEU25zX3ZKRnM4b09LWXZjV3FmUXVmMTJmY3M4ZWJZSWhGckVhNjF6Uy1YRW5RdTdMLUlTWXZhazVZRThHWVJPVHgzeXlPZGthbw?oc=5",
       "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "‘1.5 किमी के लिए डेढ़ घंटे’, हिमाचल में महाजाम! मनाली में सैलानियों की बाढ़, पंडोह के पास 17KM लंबा जाम, सड... - News18 Hindi",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOelJBZ2cwM2VRbVl3Qzl4NnZySWNpbFU0bks3eVUxWFNKc1lBVllTU3Y4aTd1WnkwRTRJcHpFaXRCSS1vODZfYTIxZkpZQkNVanAwVjJjbHFCYWM1dnRDakhBdkpPTzBNMjRlMTZ5Y1lpNl9vMWpoQzhqSDZreVc4X1ZqWi1MVkdOOEhHQXh2aFRUTnUyRmRkdFQwUjhmN0ZXVmFLZTdvaXlIZ0pnZldZTFIwdXpwT3JTQjV1ZGNnUEZ1VzhVM2NXYzZ0N0Z1aFF6dnZFV0hjYXY0b1c3Z0ZZd3JFTWtkZkJVOG9zVXd1Ump4LWFrVXZlazY5c2JnN3IxNG1hTzJVT3Jwd9IBjwJBVV95cUxQNHJueUpxbEtRN2V5Um1fVXVFaUdBQXhULVFFeWY4cUJveW1jMGt4dWdDS1laRlFxOVA1enNndW1xSlltdEU3NTc4bXByY1pjeXNSZ0ZpNVV3cmdnRlVON3RXWU05T2RzNGVUQVFERWoyeTVsbDhmWGxtd0s0MjJRMkFyQ0FfdDJMM1dsSUFwMmtHV01mT2puQXhFZERNenNua0lzUkpPajhhZ2stSnpVSWk0dVloamhNd3pjSklGR3lzdXlDcmtpSEdncFg2MDBpSmdlWmNMVmc2akd1dVNGQ3U0SHlydmIwYW9mN2NjZ1VTandERzdlc3RJYUZiMlZKZ2xXNDFUVU9rTXNhMWtV?oc=5",
-      "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "हिमाचल के पंडोह में चंडीगढ़-मनाली हाईवे पर निजी बस-कार में भीषण टक्कर, युवक और युवती की मौत, दो सवार घायल - News18 Hindi",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVlZUa3FKSDVZaXA3V3M3bW9UckNjR19FVUx6cmswUkFkVHBGV0pRSnFuMnVBdHhuNnNJN0JYSmZuUlJsVVZWLUcxLUdfQlRTYVU2TFhvblpuNWotQ3dKUmZ3eXhfVlYtLWFvbGppV2I2Y1BnNnJSVURQWElnVWxDNXFlZENaQUh6NlMwanZkZ1FGV3VlWnRFSjlrcFpTeW5rQlRyMEFhZ2czZ2tTMkZiR1pGOUt4N2RoanN0UUNhbVh1OHFCdm55QXY2TDJyT3UzS0hWNDNmQm5PejZ2YW9wd3ZWVXNYd1lyUWlHcGlya3Z4WVZ3QVkyeU5R0gH_AUFVX3lxTE5pRGRveEpDaWUwNVZrS09wUXVUbEV4c0JDT2gwVGlNMGZBYS1kSzY3Sl9DSjVRUmR6VVFKc0xtbW93UXFqV3p4TWRrbldGOTE1MUZuOThHa0lWRTB2aWcxZ0FCSUR6eTZ5Q01fS3ZoTUdndkl5VEdYeDBWSmNxOG03WmJWNmZBT0hEMlVWRUh4MW5LaUU4LUhzWVJtZUdJOE13RGZaMHlGdEluVG1CdVhlOW45UFRXcDN0SV81WlBScDNXZ2FGOFJDa2FDd2twcU5zbDFnMTh2UW9ObGJlYVdReDl4WHV3NUxybFc1MTFFZUV6NVowMTJuTHM0NlhMSQ?oc=5",
-      "score": 0.4
     }
   ],
   "top_concern": [

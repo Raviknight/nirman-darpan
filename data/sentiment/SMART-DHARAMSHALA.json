@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-02T20:15:50.647Z",
+  "updated_at": "2026-07-06T20:49:31.903Z",
   "project_id": "SMART-DHARAMSHALA",
   "press": {
     "n": 20,
-    "positive": 12,
-    "neutral": 7,
+    "positive": 11,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.3
+    "avg_score": 0.145,
+    "avg_magnitude": 0.295
   },
   "youtube": {
     "n": 0,
@@ -19,17 +19,17 @@
   },
   "overall": {
     "n": 20,
-    "positive": 12,
-    "neutral": 7,
+    "positive": 11,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.3
+    "avg_score": 0.145,
+    "avg_magnitude": 0.295
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "स्मार्ट सिटी धर्मशाला में फव्वारा चौक का नया अंदाज - Divya Himachal",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRjFfSjJQYTlGVHl2NXJPUjNna05LX201NDRSMU5UVlZxdmRwWDQ0QW5hQmNqd2JGZkVOTjhvdVV1Ykh0eDlEQ180Xzlmd3V2ZHfSAZ8BQVVfeXFMUFdZR3pxNV9jOHBtZms1Y0dnYzFKOUJmYXo1QXhILWVRMldMZVl1WWZOWnA3RUhMREZKUGp0eUZCbno2WFhiQVpxQmw3ckxWWEYtcG11cXQ4ckRsTjhiNDhPSDZMeTN0WDlzbTdsbW5YYi1HTVBoMUhETjRURVY5X1ZrYzlXcjhYVDVFSVVQVTc4OGRZSUdOb1ZEemxwVG9r?oc=5",
+      "title": "स्मार्ट सिटी धर्मशाला में फव्वारा चौक का नया अंदाज - Janta Se Rishta",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFRmM3cxZHRzc2NFajV2ZkxUeHdpazB3b0JUVmVNc05PemtpNGk2ZE1Zck9BeGF2TlRKRFYyN3B0aW9QWS01RUkyOWNuX05JZjUxMzRnUmliTFNIOTF6aGRmM3BUM2YtMW85a0QzQWM0bnc5S1dIYkEybmgtd0NfYkJqYkhkQXI1bk5pdTBEb09JLWlhcEhLT0tkdmVtVGvSAaQBQVVfeXFMTUZhek1XVnFzemZMUlh1Y1k1MDVyZWs1aHZOYlpwZkszZGwyR3hhMFFhVGdveHpPSmJpMkFvRjBJbzk1eGJnUmRCSzlfTTRNTkJhMklDSjVfQkxBWVRiVjNRd2YyUEtHWi1zZ3ZyQ0MtSlUwajc4QVlyMWgtektGWVhTR1daN3o2Y1ptd1NTTkp5MGMwa3VXQWpZM25zV2h6UTZVa3k?oc=5",
       "score": 0.4
     },
     {
@@ -54,14 +54,14 @@
     },
     {
       "source": "press",
-      "title": "10 Deputy Commissioners,19 IAS, and 6 HPAS officers reshuffled in Himachal Pradesh - HIMACHAL HEADLINES",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXBMWWdraG1yY3JYX2pER3JkX3JCTUF6RWVVRjdmemVma0hkekFuVlBDLTROYnFnSWlRSlVKOFBYZmhEd1ZjeF9RQUF4VGtGenI2Z2dWQW5kVGtUek9Ua25zMENRb25xMjh0d0UzaU5Lc3pwaVpmZldoRzRkdURiWTkxZ1Z3aXRsSko5SE5STkFxS0lSRkY3UGxMQ3lXeHludFZfMDdhNmdBWDVienc?oc=5",
+      "title": "Penny stock under ₹5 declares Capex expansion after closure of rights issue worth ₹149.22 crore - livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdGFScTA5MTlpazBiaFZRNHZPeUxsUG1rRTdrSlotckJUNlgxSk94WW4xT2NXNnVOZTRGSGh6MEZhM3VvQnk3eWRzNFlaV0VlZXI5MHJsbTgteTJkWFN0NHBaWTNsendSb3E0V2JmS0tWbzRaNUtKU2VPS1R2X3hWOFNrY2pXc3FwWWgwVUxwT2xVS1R6cWRxLTVzQ1hvVkxJRmRHS2R1dF9wV2hSM3o1ODN1VFVTZGhMZEEzU1V2VmhkUTJBdUxBdVcteHlyLU5ma0h2cFZPWjNjTWU4SU5CN25nQWZyR3ZTMlY1LTRvX24tUzU1aVkyek9rcEdSRlJOTE1VVk1GWU40WnhINUtKZ3habm5aUdIBmwJBVV95cUxQZ0VKanBxUm9rdmVEMUJHZ20tUmZIVGRMbmZySjYzM1VTNml1bWZ3SGdwdzF2OEpzbDNhMGZHVEZfTDNIbHExQVBXTW0tYWNCbEF2ZFVCcVJsWGJ1VzhYT1VBekt6bWlOQWs2X0ZULU4xaEZ3ZHY1WE1ENTRPV0NlLVJObWlhdEdpLUp3WDUwMmFOcV9oRWI4cXRySDd5bDJCYVRPWlV3VWdfVjNrVzJVcDRFV2tPWVp2emNjYVhubHQ5WkdnYWdDa29fNGctNnRYTDFUcF9qLVY0eHNXZFRxajdzM09PaXhVSUJwLTYtZDl1T2tjdXdUQU1JV1pTdDQyR3RQMlAxaXQtcmdmV19DemxoR1J2blpsaHhr?oc=5",
       "score": 0
     },
     {
       "source": "press",
-      "title": "Penny stock under ₹5 declares Capex expansion after closure of rights issue worth ₹149.22 crore - livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdGFScTA5MTlpazBiaFZRNHZPeUxsUG1rRTdrSlotckJUNlgxSk94WW4xT2NXNnVOZTRGSGh6MEZhM3VvQnk3eWRzNFlaV0VlZXI5MHJsbTgteTJkWFN0NHBaWTNsendSb3E0V2JmS0tWbzRaNUtKU2VPS1R2X3hWOFNrY2pXc3FwWWgwVUxwT2xVS1R6cWRxLTVzQ1hvVkxJRmRHS2R1dF9wV2hSM3o1ODN1VFVTZGhMZEEzU1V2VmhkUTJBdUxBdVcteHlyLU5ma0h2cFZPWjNjTWU4SU5CN25nQWZyR3ZTMlY1LTRvX24tUzU1aVkyek9rcEdSRlJOTE1VVk1GWU40WnhINUtKZ3habm5aUdIBmwJBVV95cUxQZ0VKanBxUm9rdmVEMUJHZ20tUmZIVGRMbmZySjYzM1VTNml1bWZ3SGdwdzF2OEpzbDNhMGZHVEZfTDNIbHExQVBXTW0tYWNCbEF2ZFVCcVJsWGJ1VzhYT1VBekt6bWlOQWs2X0ZULU4xaEZ3ZHY1WE1ENTRPV0NlLVJObWlhdEdpLUp3WDUwMmFOcV9oRWI4cXRySDd5bDJCYVRPWlV3VWdfVjNrVzJVcDRFV2tPWVp2emNjYVhubHQ5WkdnYWdDa29fNGctNnRYTDFUcF9qLVY0eHNXZFRxajdzM09PaXhVSUJwLTYtZDl1T2tjdXdUQU1JV1pTdDQyR3RQMlAxaXQtcmdmV19DemxoR1J2blpsaHhr?oc=5",
+      "title": "Dripping Springs Community Library hits the road - Community Impact",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BxMVFOMlJQRzlYOGJ0dk5CaDk5NGEzQ3pSQ3V6enpmdnJ2eGJrdXBwNG9sV3VhdFA4WVFsQW9KbkdORUowcU1oaDZqcmZhT3VUZ1pNX0V4dW0yN1dXeENtTDFGZjg3QnVSQ05MSmFaS1I2Zlp5clBhREhrbTdpSzIyNGhYMXU0SzE3SWtxREkweUNNVjNVbEhRb3F4MXFQcGFTYjg1MFV4SlNMa05OUTNuMC04T2VHYkdSVDNB?oc=5",
       "score": 0
     }
   ],

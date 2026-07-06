@@ -1,11 +1,39 @@
 {
-  "updated_at": "2026-07-02T20:15:46.339Z",
+  "updated_at": "2026-07-06T20:49:09.354Z",
   "project_id": "JALORI-TUNL",
   "query": "\"Jalori Jot Tunnel\" Himachal",
   "counts": {
-    "videos": 0,
+    "videos": 3,
     "comments": 0
   },
-  "videos": [],
+  "videos": [
+    {
+      "videoId": "3LZBWzq9CjY",
+      "title": "Himachal News | Jalori Tunnel से पर्यटन को नई पहचान, Jai Ram Thakur का आभार | News18 JKLHH",
+      "channel": "News18 J&K",
+      "published_at": "2024-12-28T17:42:36Z",
+      "description": "Himachal News | Jalori Tunnel से पर्यटन को नई पहचान, Jai Ram Thakur का आभार | News18 JKLHH Former ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "bWlgNRBcIOw",
+      "title": "PM Modi | Kullu | Lahul-Spiti",
+      "channel": "Himachal Abhi Abhi",
+      "published_at": "2024-06-10T14:21:25Z",
+      "description": "BJP #NarendraModi #Shimla #BJPworkers #CTOShimla #himachalabhiabhi #analpatrwal #JairamThakur #bjp4himachal ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "kgJvBWX1ITs",
+      "title": "Jalori Jot Tunnel to Boost Tourism in Himachal@himachal_tonite",
+      "channel": "Himachal Tonite",
+      "published_at": "2024-12-28T11:30:30Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
+    }
+  ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

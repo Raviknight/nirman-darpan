@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:15:50.314Z",
+  "updated_at": "2026-07-06T20:49:30.895Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 20,
@@ -10,22 +10,27 @@
     "avg_magnitude": 0.255
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 10,
+    "positive": 3,
+    "neutral": 5,
+    "concern": 2,
+    "avg_score": 0.02,
+    "avg_magnitude": 0.56
   },
   "overall": {
-    "n": 20,
-    "positive": 8,
-    "neutral": 6,
-    "concern": 6,
-    "avg_score": 0.005,
-    "avg_magnitude": 0.255
+    "n": 30,
+    "positive": 11,
+    "neutral": 11,
+    "concern": 8,
+    "avg_score": 0.01,
+    "avg_magnitude": 0.357
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Beautiful view",
+      "score": 0.9
+    },
     {
       "source": "press",
       "title": "कछुआ चाल से चल रहा पिंजौर-बद्दी-नालागढ़ फोरलेन का निर्माण - Dainik Tribune",
@@ -33,19 +38,17 @@
       "score": 0.6
     },
     {
-      "source": "press",
-      "title": "पिंजौर-नालागढ़ हाईवे के फाटक पर तीन दिन तक सुबह 10 से लेकर शाम 6 बजे तक बंद रहेगा ट्रैफिक - Dainik Bhaskar",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZ0pyTVFCSEdUdHlrZ2V5TGlac1A4TUxnemszcWZnd1dsZFFUelFNeEtIZS1EUElSR2ExOFp2NGxaN083R01fM21NMjVzZ3MyMW9OUjVNbTBad2pDd252Z09jVmtYR0NUYkxMckdOR2k3QWJtX25HdnNpTkk0OGlGUDI5YWtxdWZOYUdsU0IzbUtXNFdpUmdhZzhIamNEamNJeXNwN0VOdTJOZFFCcXl1X1NmMGx0TXgxcjhpdGNFLWstUlZFQ3JfNlUwMnZHbTNlZVR2X0trQ3g0eXNXV0pyQy1ldGNWV01XRmNxM1pjSWdBQnFMY2lyR2liVURUTTdMSjBzeERGMNIBjAJBVV95cUxNQ1FPMU9XTk9nR0s1SlJWQnZTUmR5Y0pWZjJRRjJWdlp3MlNtblZXUUw5UGRWdGNDbDkwbXpneDFRUzlLWGtWZUVlQ0hoODRPWHI5TFNrWlh5dThBWUJidmthbWdCbjFMY29keER1OXFuazJqS3duVHdOUUowNG5sNHZGSlBzcER2S09OeUtSVGw2MlM4bXg0NWNhQ2FMWXpNd0VjNzNQc1NFRzJaN3duaWtPQVI4RU1wTF9LV0VWZUgwQmhrWTVGLU5xeW1GeUo4UWFJMWdkd3h4QlhQS055dzNwRHhSX1BDSU9QcEpqRGhFUkxrYlJHN2dpcll4MXpmemxJNXUtdldPZGxa?oc=5",
-      "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "Pinjore Nalagarh Four Lane: 25 मिनट में तय होगा 90 मिनट का सफर, 30 माह में पूरा होगा निर्माण कार्य - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT201dUxfeGM0SG5ZWVIxVXZrNkNtTG80bFZfdGVqVGV1cXdYRFNINEc0OWhVaHpFMEt6QWdkSnM4dXRiQlAyMXVrTUJQWWFxODQtT1htNlo2eVJhNmZZNE5Hb2tGckZqcVJ2S1pLT25qSjNnZEJvUGYxeVpxVHZGM2M3VWNkc0ZpelBCT1ZOeXFORnF6Um5sVmxDZTdGNkxQc2JWZHEtTGJrNlJqa0EzS295T3dvSXg3TmFLaWhPNE9WdThqQVExUUFOR2Y5WmQ3NVBjanBOMVJLZkFQ?oc=5",
-      "score": 0.4
+      "source": "youtube",
+      "title": "Thanks for video. I get updates on this and moreover virtually tour to the route 👍Keep posting the updates on this bypa",
+      "score": 0.5
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Very sorry about 7km road takes 7 years",
+      "score": -0.8
+    },
     {
       "source": "press",
       "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - ET Infra",
@@ -53,16 +56,9 @@
       "score": -0.7
     },
     {
-      "source": "press",
-      "title": "Delayed Pinjore highway project causing daily traffic chaos, accidents - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOVhsVUNFMUlzT0ZJNy1vTDNNYkI2WW5nb01wQmQtbEZzYWRsbTgxVE1GemJhQU1RUDJFUkZWSWJFZEQ2T1VCREFKQldOeHprR0FLZ3EyLXU5RWZlbk5McTNmQUt2R3B1aXI5SUJzdWR5d1FCTXQxQ21SUFktTEpaNVZIMWlKZm5hb1hDVEtvdEJsSWdjcFdrWXVmaVRZVHJteVEwdzJrRjQycmZGaXhmQ2NkNVZ5cnRiYXNsZmJCS2M3MGJyVlRwYk4xbElMTkVMQVNlYUFLSHJFcFROWTBGetIB5gFBVV95cUxONFNnSVNSOUNGeERvV3VKRW4taEh6Q2pHNzl6US1NNTZLWVNTYlZYQmNkbG5mMUNncG9iQnlQbjFESEhTNFpSUUpVWlJNaDl0TmpnNnlQWHNTaTZRTWNfeGt6d2JIdW9NWWJkWDZqMmI2VWZfYWIxLUhNTGVwc2dwbVhhcHgxOW1adXFKSE90SGprUGI3VlI4SV9GdnJfb2N6UG9UbGRsUnRiNUhBZ095aXdCemJMNmtaWXByd090NG5HbTZ5empwbnlYTjVjdEpzVE45elp3TmZWbzN0dzhtMmVBT01qQQ?oc=5",
-      "score": -0.5
-    },
-    {
-      "source": "press",
-      "title": "18 years of wait over: Pinjore bypass opens to public - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2E4SzRhMk84ek1ZRnBaUkRQQktGMVNuQm9YRGVON0l5UVdNYUZTajBuQXRPZG9lZ3VISXhZYzY5YkE4VDVCX1pnTlR1aFhUV3N6VU10S2FsUFBiMUlRaGpSYTVaZlE5aEdBeUthWUhmU21KYkxpZXVSSlZZU0wxYUlrNjFMakhlVWtJbEl3Smt5b3JnaGxLM2hvcmhhdm9Sd1F5Vmd4b0FpdjJvZWQtR2Z5VUs2X29maHp3Z09oaUVENmJDTVlMQk130gHPAUFVX3lxTE5TY01PejdSTVZXakZsbEk1dy02b21YTTJKb3VFNDJJMDdjNlVrMmlhcXFtTDhiNUY3SUdtLUctY2thOHNsRFFuUmRiT1JiN052bGpxUWVkMXJjTUowM0pjNVdyVG1OdUdMejdVQU52MWE2OWNwTzVjSVhGZVBKT2FuSjYydFltQnhaZmNBb0FkVWtMb2dvRXNKSGFvV3NJN3VRM19HeXNYY2pYbEFHY1c1clpfdEdaMEVuMW9SbTA2eDgxRnNCVllieUF2MFZXSQ?oc=5",
-      "score": -0.5
+      "source": "youtube",
+      "title": "Ye road aj b vaisa hi hai .Cost badti ja Rahi hai .Thekedar and mantri sab khush hai.Yadi aisa hi raha to ye India ka ab",
+      "score": -0.6
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

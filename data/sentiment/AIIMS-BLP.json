@@ -1,68 +1,63 @@
 {
-  "updated_at": "2026-07-02T20:15:48.630Z",
+  "updated_at": "2026-07-06T20:49:26.236Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 10,
+    "positive": 8,
+    "neutral": 11,
     "concern": 1,
-    "avg_score": 0.135,
-    "avg_magnitude": 0.175
+    "avg_score": 0.14,
+    "avg_magnitude": 0.18
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 41,
+    "positive": 23,
+    "neutral": 14,
+    "concern": 4,
+    "avg_score": 0.254,
+    "avg_magnitude": 0.341
   },
   "overall": {
-    "n": 20,
-    "positive": 9,
-    "neutral": 10,
-    "concern": 1,
-    "avg_score": 0.135,
-    "avg_magnitude": 0.175
+    "n": 61,
+    "positive": 31,
+    "neutral": 25,
+    "concern": 5,
+    "avg_score": 0.216,
+    "avg_magnitude": 0.289
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "एम्स बिलासपुर में जूनियर रेजिडेंट के 41 पदों पर नौकरी का अवसर, 22 जून तक करें आवेदन - IANS LIVE",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVEtbE5nM0YwZ2JlREZ6ZFVTaTBKaEYxVXd5enBTMDM0OWRpR2UweU1qUWJQNFdSREh6MXp5NWtsVVFUamIyajVScFNfWktsakN5bVdpbVozZHlyS2NHOFEwOXlyc3NlQ2luN19QeG1UUF9lbTAwUVg1TVQwQVQwVGFtTDBnbm5QZTJwNkRTc3F6MndxdENwWEdYdVBiX213emkwN2VocU80MklNWTZ4YzNPcnFJUHdUai1tbzlOT0RNZ1hwOWdnSWZVeDU?oc=5",
-      "score": 0.6
+      "source": "youtube",
+      "title": "AIIMS Rishikesh & Bilaspur offers amazing scenic beauty.",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "हिमाचल के बिलासपुर में बंदरों का आतंक, मंदिर सो लौट रहे बुजुर्ग पर किया हमला; एम्स में तोड़ा दम - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPc0dUbVhRU05rMmRXVjhEUVZfeXVzaUY4aTY3N1JIRVVxZTFCY1FnVV9XZEJ2SmU4UFBqWmNfYXBDYTBIOWN4dmR5RVpSVVM2aG04U1kyM1BGSWpybnRKZ0FXczhoMmxyaURFSFlNb0lTanU2Yl9majlCY2tjMHA3Sk8yN0pmMFJreTE1SEFOOG5wcmxOUUFzWE8tUGpEYm1BWE9ocldQTjU3VDVwSHh4djVNekJGc2U3SU9RRncwdWVYbnd0cWZselNmWEZQY29CQ2M0MGxXUWcwc2ZpZ0RNMWE4dDZSUUpvTGVDRE9n?oc=5",
-      "score": 0.4
+      "source": "youtube",
+      "title": "❤❤❤ so beautiful Bilaspur",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "एम्स बिलासपुर में प्रोफेसर सहित 75 पदों पर भर्ती के लिए तुरंत करें आवेदन, 20 जून है अंतिम तिथि - IANS LIVE",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa24yTUpBOXZBUjNrRW1zWVNjUTZnT3BQNTNwQ3psRV9iMF9QNVh5b0g1WkN5RFhlakxRTlFHWkNCMk9qa0RweXRMM1BCSDlIbkdjQ1VaNnhyY3Y1SmRGc25iQi1Zc25lUnBidGJScWpYWTdXMlRYTFlXeWlyRTZxRTlHR1JMa2RZYzVxcFpHYnliZ2s3WHVjLUY3WHVwMm9jaW1PeWx5THU0dklyRDRyQ2k3MEhmN3FpR3JhMy04cG9NdVI4RzBVZG4wMXBrUQ?oc=5",
-      "score": 0.4
+      "source": "youtube",
+      "title": "Big fan sir \nGive me a red heart",
+      "score": 0.9
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Kash govt esa room iit main bhi de .iit rooms quality is so poor",
+      "score": -0.7
+    },
+    {
+      "source": "youtube",
+      "title": "Dii mess fees kitna lagta hai aiims rishikesh mai",
+      "score": -0.4
+    },
     {
       "source": "press",
       "title": "Manikaran road mishap toll rises to 3 after injured youth succumbs at AIIMS-Bilaspur - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcm1NUWlYdFVua3Y0SDNjYWE1WXZscm54T2tzaEdvN2N4TkMwZ1czTUs0c3gzRVVJUEFzZ3N6c1B3Rzl1OWpPZlAtQkhzczRDaU9PQTFhQXhMWDZCT0dGOEJUWWg5YlBLNDZOb2JCbmNqVWh0aTR0UnM4c1BQYTBORkg3ZWxWX1NxMmlsUGJaSmFHVjdiTUVEcHFFNWM5aDRwNGJFN0lIZWEwdVlGQlJxTHV2X3M4b29zUktWNHRDTElaX0kweldB0gHLAUFVX3lxTE1Xd2ZSLUNwZUVPaW9udTdqU1dPWWhtUjk5MjZxOFd4RWlmYnJJV1VuZXl6UFZ1bXNvQW4wNGNPblJkTktvOUlDTFpDalFMLVRYODFLU2J3bjBoak0wa3pvUmRrN2k1SG5pQXUzWFFzcEFqbHBUUU5iQVFUT2taWU04VHZKUHVDbS1PUWQwWF95cmJSS243YWNVREhOb0g5SEtZc3YzZWRLdDcwd081MWJ3X1VjcHdWYzJCTFZuMU9ndUdnY0psdTNObVNr?oc=5",
       "score": -0.3
-    },
-    {
-      "source": "press",
-      "title": "AIIMS Faculty Recruitment 2026 Out for 321 Posts, Eligibility, Salary, Selection Process - Adda247",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02UlRIZFV4eC1ldUJYNERFazdmV28xcTVjbHc1eWlRZzlmV2Z3NTJ3QXIxa243V1NhQUY3bG05dEFqUE5oV3VrQUhPWW9rMTZJb1FBbk5nUGFpMHRGMGxJdnhQS291S3dnWllBUWl1aXhvYnZPNmRlN0VYZ1NfQ1U?oc=5",
-      "score": -0.1
-    },
-    {
-      "source": "press",
-      "title": "Himachal News: एम्स बिलासपुर में जल्द शुरू होगी पेल्विस सर्जरी सुविधा, गंभीर ट्रॉमा मरीजों को मिलेगा बड़ा लाभ - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQjFnaEU3RmZqNnNxSnozMVh5bXVtQ1hoNy1aWXhiQlI2Ty1TV255ci1iTGtlMHBvbWtieXVRbEdDZzJ2Q2FZOGdGZ2RtRTJOX1oySHNnSXZtMWhBNWF3akxuQnQ1dmxGTUpwNG13NmNzT21qejJNajdfc2tKQmhMcHRPLXB0VEkzN3d1TF9aYnFjbV9QSlpCLVJVanBvVkFFOGN2bTc2UEU2V2RDTVlDTVJ6Y1dPdHN6QTNndEZReWJYOURKajdZTmFzendKNXpSc29ESHNndlN3alnSAeABQVVfeXFMTnVqSjN3dno1ajIwUjJ0OWVSSnpHSnBSRFhsbHZOTlNWdjkzVXB6Zl9EdzFxRWZ6MGRyX0xUYThDZU4tTTdiRk1pcGo1WWIxX0JCWksxaEZrN0ZkbEhwYnd1enN3MkhTUHNLYkVya2NrWjA0N2k0SnNwQ1VPbkUxRTNlZ1F1b25BZ2doeDhYWEhwcmMxSFhPSGZudEVnVzVpcFhLWU1KUldFSU5VeXpGdTMxU3M2RWg3bUhuOVJHNXF3Rk9YRmQteXpmVlV4Ujl5cE1PLWg4ZnB4Vk1pYUZFSVo?oc=5",
-      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

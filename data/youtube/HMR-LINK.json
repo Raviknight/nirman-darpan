@@ -1,11 +1,21 @@
 {
-  "updated_at": "2026-07-02T20:15:47.160Z",
+  "updated_at": "2026-07-06T20:49:17.932Z",
   "project_id": "HMR-LINK",
   "query": "\"PMGSY-III Hamirpur Link Roads Cluster\" Himachal",
   "counts": {
-    "videos": 0,
+    "videos": 1,
     "comments": 0
   },
-  "videos": [],
+  "videos": [
+    {
+      "videoId": "j9Uy_9sfmog",
+      "title": "Himachal Pradesh CA 12 DEC for HPAS, HAS, Allied, JBT, TET, NT &amp; Patwari Exams #shorts #hasexam",
+      "channel": "HP COMPETITIVE EXAMS",
+      "published_at": "2025-12-13T12:31:10Z",
+      "description": "Himachal Pradesh CA 12 DEC 2025 for HPAS, HAS, Allied, JBT, TET, NT & Patwari Exams #shorts #hasexam PLAYLIST LINK ...",
+      "comment_count": 0,
+      "comments": []
+    }
+  ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }
