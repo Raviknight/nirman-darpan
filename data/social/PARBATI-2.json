@@ -1,23 +1,63 @@
 {
-  "updated_at": "2026-07-06T20:48:12.541Z",
+  "updated_at": "2026-07-09T20:43:09.420Z",
   "project_id": "PARBATI-2",
   "counts": {
-    "press": 133,
+    "press": 136,
     "gov": 0,
-    "en": 48,
-    "hi": 85,
-    "total": 133
+    "en": 53,
+    "hi": 83,
+    "total": 136
   },
   "mentions": [
     {
-      "title": "Kullu News: आयुष अस्पताल और एनएचपीसी पिरयोजना के बीच एमओयू साइन - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVmt2N0tvVHdEMW9YUFFWdTY2Mnp3WlFNUFk1TmhoRkF3emxKQkw1emZ5TFplX1g1WHhuT0xzczA1RWlpU01zVHV5YzBKX050ZDFlNWw5X0djaEFJLU9xV2FKU083b056elMzSFNYcVJrTGFPZGFFemdqWEJ1a2FBcmVnME9ValIyN2NaWmQ3MDkxUlB0NTNmS2ZGNmphcmhsQTIwUHc0UWZOMnhPS20yYTJTMGt3cXVRQ1dGZjFZVGVqODJxaVUxMGxSaXdNdnZkaklNM1ZsZnQ2dlct0gHiAUFVX3lxTFA0NXA1RW5CdUozNU1mc3BUT1FRTnhGN1hiQkc5b21ReWpYRjh0MVBrM25nVm1zblRnUjAtSXpWdGtRNG5YLW9yNXZGUFR2Z1Q4dDk1WFNNUjhZSFlwZTVTT2RoY2duVHl4UWpJdXRWNGo4cXUtNkFFbGhCLTE3d05IaEVfa240cThER3JvNjcxeTFCNklhVGFiOHFFTUFPYlZWRHhPOGNURS1td0RsUmVSaVVjdllGWHA5bmhTNlZzSDBFWnM0MFhURkpMVlZKbGc1Y2ZNaWQ0Slc1Rk9GMHhvbWc?oc=5",
-      "date": "2026-07-04T18:01:01.000Z",
+      "title": "NHPC to release additional water from Parbati-II Dam, public advised to stay away from riverbanks - India's News.Net",
+      "source": "India's News.Net",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQend6X0JncDBaOEJaWElpVlZDd2JiTDFaNnktbERlMVZIR2VFQlNXeGRvbGp0YmpRZnpEQnVYMk1FNmhkZVR3X015cmNHMzVBRlh3aERzcjgxTGRVVExkblVzMXZIU3RUeV9zcmxDblhPRWg3S2wwdDg2ekxUUWVsbWlTbmpwVXRacmFnT2JpS0x2S1pGM3JFRU1jOUJTS1NCOU1pR3BaMkFaRmR4Vnh4UWdVWTFzX1BKR2xBOFlWMThOaEF3YWFlMVBoc0VrY1VBSm1yYQ?oc=5",
+      "date": "2026-07-08T09:28:00.000Z",
       "kind": "press",
-      "lang": "hi",
-      "match": "NHPC Parbati"
+      "lang": "en",
+      "match": "Parbati II"
+    },
+    {
+      "title": "NHPC issues advisory for Kullu as Parbati River water level rises - Asianet Newsable",
+      "source": "Asianet Newsable",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTW9oVGpUNUZNVG93X0J4djUwNjJkcXJzb0N3WXNHSHg0R0Q5enlvRFZRaURFaGhwNWk4dzdaTW9ublZoLVgtREdYWkhleGNlb0xwd25OZUVJZmlpNzBSU042UHhYYUpVSllBRV9FbHhFUFRabkY3elVucWFkTUpXU3pGT0V2MVdkeXFkOHM5MnlqdEdjTUtPVDlJc3dZYnc2c3BFdi1NQjJNYlh6MTlkNXF2MUpmNXE3WllnNlVSbldnUdIBxwFBVV95cUxNN19adTJ0cXJERWJXWDZXV3R5eGJuZERneTloeG9vVHVXRjdVd0pmSmlOWFhBUVUzVEZiel9heFNWVndTVUh0ckVFU1NUVjExRHJwX2xTc0FuTWp2RmxnRkpYUUxaOTVEMTJEeTZ1OGtRY0xybUJVVk0wWnJEQUo2b1VGeU9uNkYxWHlPdl9JOUh4ZDBzbGQ5TmY5R25fd1k3eFdFVmlIa1FSUlprU3V4UGl6ckE0aGJaZkVmUGFXQ0NsbnY1RVBV?oc=5",
+      "date": "2026-07-08T03:30:53.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parbati hydroelectric"
+    },
+    {
+      "title": "India News - LatestLY",
+      "source": "LatestLY",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQ3E2NlNycnE3ZUJRLU1yeU91VzBqNXZ0SzlVOTRBM1cxaTExT196WnE1V3E2UF9MdzRLVjN5dFd3Z3BQZmE3M0VrU05wQUtTaXdHZmNfcmtJMFRuYlVCLWQ5eDZ1VUNoZGtNQkVyQlpZQTg2Y0JvTDVrTVJ1WXNuWjRGdjN6V2daZFRYS2dNNTk1RGx6bzJDTjBRM0QyY2xWOHFZWUxaak9pbzBVOG8tSW9CcDNXOC1Pd29XSnFzNHBfR2p0NkJqeVJIT3BhQVhjMmxoQXNlSFNNM0kwbzZjZUZ4aU1wVEdVV194MXJZSXhRSEXSAfMBQVVfeXFMUENxNjZTcnJxN2VCUS1NcnlPdVcwajV2dEs5VTk0QTNXMWkxMU9felpxNVdxNlBfTHc0S1YzeXRXd2dwUGZhNzNFa1NOcEFLU2l3R2ZjX3JrSTBUbmJVQi1kOXg2dVVDaGRrTUJFckJaWUE4NmNCb0w1a01SdVlzblo0RnYzeldnWmRUWEtnTTU5NURsem8yQ04wUTNEMmNsVjhxWVlMWmpPaW8wVThvLUlvQnAzVzgtT3dvV0pxczRwX0dqdDZCanlSSE9wYUFYYzJsaEFzZUhTTTNJMG82Y2VGeGlNcFRHVVdfeDFyWUl4UUhF?oc=5",
+      "date": "2026-07-08T03:02:22.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parbati II"
+    },
+    {
+      "title": "NHPC releases extra water from Parbati-II Dam in Kullu district - The News Mill",
+      "source": "The News Mill",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHo2YzZaaDVZTmNXOW9JUlhFZnUyTXU5Q0ZOVWR2NkpUZldJQVFjcEQ2Qi0xUzJCczdhLXlENTAyUlZkUk1raUZaNzRQZUlpZ1UwOVlRZHRoaDZrQ2xRY0gyamFzbkVtLWdiZjRFQWYxUWdvUmJfZG5PWkZtTkxidi0zUmQ4RVM0bFZpWUxOYjdOS3h5TVNVUHdBVEdmb09JZExrbVRGRFNDaktLU182aHB3?oc=5",
+      "date": "2026-07-08T02:52:11.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parbati II"
+    },
+    {
+      "title": "NHPC SIGNS 40 YEAR POWER PURCHASE AGREEMENT WITH NDMC - IndianMandarins",
+      "source": "IndianMandarins",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ1dqaG41RHJwbjJKeTB6a05sRnF1UDNZeUNnVFNIQXNNQlRwVXhOZjZoWWRfMVdQWndkeHdKNWFzS1h4STNmTmZydVZZdVBCc2VGaGNhVWN3ME5uY0x4dVI2alhvZmdTX1pid0ZERlYzOUtwY0NNRFpnSHhHODV3eXZXZXhDbEVkck5LSDF4czI3WEQ4RGs3OU1ORmM?oc=5",
+      "date": "2026-06-29T10:07:08.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parbati II"
     },
     {
       "title": "Masik Shivratri 2026: मासिक शिवरात्रि पर करें भगवान शिव और माता पार्वती की पूजा, मिलेगा सुख-समृद्धि का आशीर्वाद | When is Monthly Shivratri—June 13 or 14? Note the correct date, auspicious timing, and worship ritual. - bhaskarhindi.com",
@@ -80,16 +120,6 @@
       "match": "Parbati II"
     },
     {
-      "title": "जामताड़ा : गांधी मैदान दुर्गा मंदिर में मां पार्वती की प्रतिमा क्षतिग्रस्त, लोगों में आक्रोश - Lagatar News",
-      "source": "Lagatar News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGtKUXhaTERpRTN4ek1uUzZ3WTRUMTFFNDkzcDFjT1JISUZyUjktTldWcVN1MnRnd0RNYkZlSEctbkVKVnF5VGtYbFBWUHlLTk5uQ2lkSXozUUlNUXJMcUlKc2d4bmNmS0ZjODVEWlc1a0EzcEFaMkFNTUFTcmF0MzR4eTdUY1hRM1ZWdHhLYzhlaGk3NzdDV2xCUnpHZXljUFZid2hIckxWT1o3NGc?oc=5",
-      "date": "2026-05-17T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
       "title": "Parbati Hydropower Project Tunnel Leak Fixed After 19 Years; Power Generation Resumes In Kullu - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-en",
@@ -100,20 +130,10 @@
       "match": "Parbati hydroelectric"
     },
     {
-      "title": "Kullu: बेटियां करती हैं माता पार्वती की विशेष पूजा, समृद्ध परंपराओं के साथ मिलता है आशीर्वाद - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNd0dfYzFOMFhQNGZRWU8ybWxEMjhjSFZjRkVwbHNNeWVZc1VsTGd6dEs2aFJ0VHRtT1I3a0VnWXZqczcxR0ZPZWtXNVlJVVhYTEZDNE5hbmdGNlhpNzVxNWM2S3JXelZROUxmZ3FNcURuSmlJeTIzOEVkb1RhbWE2Z2g5b1FUcll0R25FTnNlc29jbGFMOWxqQlFyejNpMkk2N2dCcWNieXl0NjQ1THNEX1lCazhJRlNuQktNa0hPUjRONjlFWG1RWFBiNXdzaXBhR0F0NzZ2UXZteHZPU1VqbUxKaFNVU3NRRjAyWUxzRHVtcG1ERVJGTGFVbHFrQ1A3MmfSAYcCQVVfeXFMT3oyQ05qcUhqdlpkZFdkanppdVJ6MGZkSDdaaVBPdlRfSVYxTFZXZmY5em0ycmkyX3M4UGZ2ZHctUWUwdnhQU2hXTTV5Um9wOWVDWjd3UlMyNkVlc19LTUd2S0pWY09rV0NSNmpHblR5TlV1d3AyTHhPQU1HWVRES21IaEhBSG5XeTl4ZjNpTWRubmhDekRyd0RJUjZUTXlMTThrR2ZlVGE2WEdkYnNuaHFrVDlDVVN1NWlXSzBjbmdfTHlsRFdHQ09fUzdMTlpEd0VoN0Z2RHFhajk1ckVyY0NyWGhDTTcxeUhKVzgwTTJsdVRzUjZST1U1eWR1X0N1LWRzbTFYRkU?oc=5",
-      "date": "2026-04-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
       "title": "Ram Navami Special : गिरिराज पर्वत पर 131 फीट ऊंची हनुमानजी की मूर्ति, विश्व पर्यटन के नक्शे पर फिर उभरा राजसमंद - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaTN0TGpBRl96RDhnbG5HOGZmOTdzYldlb1pSb0I2bXRRV3ZqSFNraW1FSU11MWcybTdCS1h2S2MtbmF3UVNTZzJ4TU1Ga2pmSFNSbGdxU3JUbkMyV3ZxUTFSVGh5TTZsOE15YWI3aVE0UDVqTlZpcHpLbGdESTZhdXdjejY0RVhwLWVhQkpWV3hkOFdRa0NHZ0JIWWlYSlVQcFpaSHA3NnNQNlF6S2Q1X05zdGhlT2lHYXluUGRxY1Y4WVdKaGtyaXhZOTVobEFSOVNITzVPdnJtSXdk0gHiAUFVX3lxTE5Xd3I5TWxMeGRkS3p2cjNzX3VScHpJMlZKSFBJbWJ4X0ZDT0VhOGFqcUd1X1l2RTVaU3ZfYk1iWVZETGdLekNxdUlxM2xMc293MVNKMmI5TGxIanI3RlpjMTJnUFFBVlRleV9tT0J2WEFKbkZGdy1zcEEyVDZwUldtdDdXcFBsaS1pcU5jN0RObWxreDhWMW5qN0R3OXJMY1FCYWMtb1FnQ3hKRzNuNUxxTjBlMjdKQzlqX1JjUkJTU1RKMWV5bnVEX1h5Zm1FcEhGbm9oUlVnV0RYdlZ3Z3RmMHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaTN0TGpBRl96RDhnbG5HOGZmOTdzYldlb1pSb0I2bXRRV3ZqSFNraW1FSU11MWcybTdCS1h2S2MtbmF3UVNTZzJ4TU1Ga2pmSFNSbGdxU3JUbkMyV3ZxUTFSVGh5TTZsOE15YWI3aVE0UDVqTlZpcHpLbGdESTZhdXdjejY0RVhwLWVhQkpWV3hkOFdRa0NHZ0JIWWlYSlVQcFpaSHA3NnNQNlF6S2Q1X05zdGhlT2lHYXluUGRxY1Y4WVdKaGtyaXhZOTVobEFSOVNITzVPdnJtSXdk?oc=5",
       "date": "2026-03-26T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -173,38 +193,18 @@
       "title": "उत्तराखंड में शिव-पार्वती स्वरूप में योगेंद्र और शिवानी की हुई शादी, चर्चाओं में अनोखा विवाह - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWG1taVNkNGhRX1BJeERsVE5lYmZab3hYZ3ZhbkpCTE11c3dwR3B3cXp4SF9CMk5nbDNZM1JZaWZDdk5jRUlwMEo2UnVHWXRhMzViV25tOHJrMV9ab0wxQWxidDVTb1ZMVlhYcjdHSWs0b3VwT1V4UmpWNTNsUE94NER2MWlRWGZnT1lFZ3B6R2ozMXpNM05kcGswb0tNMm82ank5eDVjR2RIZk9IVTlPNjhkazIyQUtGeXlRT05yNlZRLTZzM1lsbngyMkRqdXlBcGJvSVcwNnRMWkdPV0FhZjM0Xy1hSUxQME1uRHllRjNTOUhn0gH6AUFVX3lxTE5POUIzT29lZEFkdjBfVTJNVlFDc2VvWVRBbk5zcHBwN1pkalM5amE1c3J6eFE4Uk1ER0VLNFllcjhUakoxU0RXcmQ0Nk1FRlpNR1dET3B2WkVQYnllRWFkLTRaQ3JLc1dlNmRPWFF0R3JwdUs5UmtUenpDOXV6VnJrTm1xVjl1NHFwdWpKNWc5cVVoUjRwb1ktRVM5U3l4bHdybjJkWFFRcWY4RHBXbXJJWXJPcFlEaVh0UmQ5SzRWaXBrT1JKOXJ5OVBqVU9OQkM4R2pJUkxMWnR5VVphTlNDV1dySG5aTmU3bW16eWMyN1VJaV9qbkktd1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWG1taVNkNGhRX1BJeERsVE5lYmZab3hYZ3ZhbkpCTE11c3dwR3B3cXp4SF9CMk5nbDNZM1JZaWZDdk5jRUlwMEo2UnVHWXRhMzViV25tOHJrMV9ab0wxQWxidDVTb1ZMVlhYcjdHSWs0b3VwT1V4UmpWNTNsUE94NER2MWlRWGZnT1lFZ3B6R2ozMXpNM05kcGswb0tNMm82ank5eDVjR2RIZk9IVTlPNjhkazIyQUtGeXlRT05yNlZRLTZzM1lsbngyMkRqdXlBcGJvSVcwNnRMWkdPV0FhZjM0Xy1hSUxQME1uRHllRjNTOUhn?oc=5",
       "date": "2026-02-18T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
     },
     {
-      "title": "Maha Shivratri 2026: महाशिवरात्रि पर मां पार्वती की पूजा से मजबूत होगा रिश्ता, जानें खास उपाय - NDTV Khabar",
-      "source": "NDTV Khabar",
+      "title": "Maha Shivratri 2026: महाशिवरात्रि पर मां पार्वती की पूजा से मजबूत होगा रिश्ता, जानें खास उपाय - ndtv.in",
+      "source": "ndtv.in",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORmpFR1o5blA5YkpGODkyX3dyS003NHlPaE5kYkhhU2lIeEtUVm1uc1ZUMUZzZEJVYzJvZHYza1ZWUEFyaWJFT2s0Ylc4dUVhSE4tWklUYTdYemV2d3NrNi1Fa2JvcWh5MmUtVW4yZHJyeVRUZkFYdEJFVkdxRlpmZnNGWXJ2dzFocDFVUU5paXJzVU5lOENpYUpjM1JOODZrQmktLUlMUlY1OEs4bDBoQW50dGpidE83S3NFRW1QNS1SZnJQbUxuRWVxcDhPRW5jdTIwOUpQRmpUQmNCdHpQV3JaN2YtZw?oc=5",
       "date": "2026-02-12T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "Mahashivratri 2026: मां पार्वती ने लिया 108 बार जन्म, अंतिम जन्म में बनीं भगवान शिव की अर्धांगिनी - TV9 Bharatvarsh",
-      "source": "TV9 Bharatvarsh",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOODNWa3J1b1AyUTl0Qy1iQXl2ZElTLVJvanBHYmI1Q2lTSHhHNGhqVWVMb01oYU1QX01RU0VOM0Z0STVvTUtJZENaekFSMXJyNi1YSTdScXVfdlZkM2liUXk2STNFNHdXTGx3RUtzY3c4SFJyQnRmSE5zVTNuSVVjWUYwbDVjaTA2MGhjakw2ZXVtb2E4NTJqNzRRMlAxUHJkLUFheVcxV1RPd01FYzRYZ3JHclV3bjNUNEJ6QlVzeC00RHFNQzlKdFpIdkYyRkpiUU9WcHo0QUFVYlNrU2tsUktsQ0VRd05RZUZheVhSV2RxRTZoLUU2b040OWFDdEZP0gGGAkFVX3lxTE5BOTBFRXd0RWZMX1F1d3YyVnAycEI3UkN6bjJ0RzBMTHBzemdxS2JFU2Rhcl9FRkMtWlJlOU1pdTFRSVBVSVhHRXI0SGE1Sk1XREdKTFh2ZkhnZF9qTnpSTGQ5LS1tRlZkaHVrOFhKSGlTUG9fSFlzV3RUQ3diTHlNa0h3VUdlMlJoY1ZnM2s2bHhMUmg5NUlYY0V4dkpFa3NHR3dJRE96b1FWV08yVFlPd3haZkNoa1FLQThKNGpDZEhZR0tjX1FRcFJoUHJ5TmxETzMxcWNlMmZkb1Fxb2V6OU1fSlZQajVPVWVkbGdLNEQ1emx1eDhVTXYtY2ZZVFR1ekVrbnc?oc=5",
-      "date": "2026-02-06T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "Mahashivratri 2026: महाशिवरात्रि क्यों मनाई जाती है? जानें शिव-पार्वती विवाह की पौराणिक कथा - Prabhat Khabar",
-      "source": "Prabhat Khabar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd2JwNlgtQkQ3Y1lZVGpQaTZuei1mWENHclFUTFBiMU9vd0xxTzByTFVzNHJ4UDgzczZWNEZDbDcxaEdHOEhsWlVPSFZTdlk0ZGdDM051NlREdlVFRlFBVGRzMHVhbDQ3ZjBzRURyaWMya1QyV1ZYOVAxNktkdWoxQTlFM0YyOTlMS2twUzIwaTBmblhQTHhsTWlDSEVPbDlCVVppbE9xeHFXaWpXZng2WUYwWlFSNjY0enNKN3l0d05kUVNmb2MtUkpqXzRhS1FldnE0N29IQWZKVG1sQ3BkWGlTYUpnTEdQc1HSAe8BQVVfeXFMTlVmODBtODdYdG9GWjMwamhBaENSVmRVN2o3ampBM3VfZEk5UEhxckI1Z2xYa0I2VHZ6THBfTVV5cGcxaUd3VzlENzhLNzRQaFJjbXhueGlJVmVhYU9vTERHLXZSZXdtY3MwckdxOXZ1UGRqYzBOd3FFcGNGMnhoMVVvRGNsMVZwYllfN1ltczNXeHhpdFJNbXcxaktCelZETlJxTDI0TlFUeUl5aE51aEEzeXFsQV8tQ2VmaHduV2tVYVZFMDNwT1AzTHF2dzBxUU5TbjY2V2tHUFhnNUY4cHptclltM3hIR2FqTGhMclU?oc=5",
-      "date": "2026-02-03T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"

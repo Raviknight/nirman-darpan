@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-06T20:48:46.032Z",
+  "updated_at": "2026-07-09T20:43:42.788Z",
   "project_id": "GMC-HAMIRPUR",
   "counts": {
-    "press": 94,
+    "press": 91,
     "gov": 0,
     "en": 48,
-    "hi": 46,
-    "total": 94
+    "hi": 43,
+    "total": 91
   },
   "mentions": [
     {
@@ -24,7 +24,7 @@
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWxvZ2F5S1ZXbjQ5cnE2bFRNTFJkUXdpcXFQa1VxYmpPRmxKTVRJeldkRFlXazF2YTVsZzNrWUZfRFRnbEI2OWtON3VibHBoemxxVXgxNWlVT3ktS3lVMzN1ZUVMMFhPSWhUV00wVHAwcGxBSkdsZk5nYnBNYnl3bC1MYmpZcWVXUzlSNlF3MGY5RlpOUlNwd3Nhd1pTd0YxQUpjbllpY1VsTk1RakgxbXlnd1NUSGx1ZVFUZHBlMGxGZUhZb3pfcGEteHJrREdIRVluNmt6SFJVMFVzNmktSVJUS0RWeTFPNjBlOFdOLVV0akoyN2ozUzZKcENWTWVfQmh2dNIBigJBVV95cUxONlJhWXdNLWJyVkx4UXhFQmtEYTJPXzVDY01VcFFhYlcxMjNmWGhiQ04yT2tNUkJZZGJkOXBYMWRhaXV2MGIyeGZzMndLcGNaSEV2dDd2bFB0VEpWWk1jRDFfUjJ0NEphenp1Z0NncWV4WDBnck56c1pWeFJXMHo2dWQ5LWJhdHlmSjFEdF83ZjBqRmt3NVVBZEpZMGdwNjlQV2lxczh0N2w3MG84NEhVTDBQX0JJWXk5bGl1Y1B3VU9IWnZtYWdTV2dSaXk2eVFtMjhEck5UQ25uVllqSWp4ZVd3RklmU1JacklGVi1Nc09jVlFqbVN0R3pGcDE5WWNEaUdFeDk5OEhEQQ?oc=5",
-      "date": "2026-06-28T09:22:33.000Z",
+      "date": "2026-06-28T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Hamirpur medical college"
@@ -87,6 +87,16 @@
       "date": "2026-06-21T18:31:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Hamirpur medical college to shift to new campus at Jol Sappar from next month - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0NwM3hyYmpnRUV5YVpXZmh1RFZ1M1paMl9SM2k5RVdzNDNUcDJpRUdGS1ZNVkxZQmpJN0kyZm9IeFdLY1FTa0YwLWNTd2VEODExcWVrWE05YWduWjZWaDF3LUhiQzJyTnktZkpoU3UxQzVTRmpwdjBwSENicGhPZGtyQmRHalVHdHM3MXUzdlJsNC1hak9CZVlLY21JRDJlVEFOWEZQYS1EcFc1STlTSHhMSGlfX1d3NDhwWWd30gHCAUFVX3lxTE5ONUdsMGNJU3hzR1ljQzNfdFVaZGtRMjd4LWtLNVBXTGE2N19fMUdFY1ZZS2NNTUdtMWtqbHY4X0x0U2ZmT3Y3TGdTSElxaVowdkMzYkVFWHpyeFozSWlRTXZtRWRxOW5kVmw2NHh2SXRLRUhhSVo1ekVnbDVoMjhsdHV0aWR6SlBodUZjRDcyVy1ydWxCc01hVm56OHQ1NFRrcV9IQU83eGNOWlBnazYzN3VFM3drV3dPY2h1UnZLLWZ3?oc=5",
+      "date": "2026-06-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Hamirpur medical college"
     },
     {
@@ -197,16 +207,6 @@
       "date": "2026-03-20T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "हमीरपुर के सीताराम की देह मेडिकल कॉलेज को डोनेट, परिवार ने बैंड-बाजों के साथ रवाना की एंबुलेंस - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHl4dU9GS3ktNVdibGg3T3c3Q0hmQ2wwbUNCU295MjZTUWFuUTk3UGp2OW10dnppX0VJQWZUeWRndmRkTG03b1B4c2M1bDRzZGw0eE10Q19XN3RWdGxQcVp2ek9nb0ZNNWxOaGE4bXJZSTRZQTBzVjlMNmthWHZ4VzN6QWtadTdjUXR4ZHh0TVNaUzRzOUxyN19PdTh6TnZVQnVYQ3hXMTN1eTFfSXNLNUxsc0hPVlV0TFM1MlJ2cjdzWlJzQml3aUc0WVkzSDlhYXJFLVhqTFRNOW5BRW82T2p1dW80dXPSAewBQVVfeXFMTWxqMWpnRWNGMF96Y1RtazdIVndoSTREaE5OS2RBUlNheUdqMFNfYzUySmp3UUFDNVViMkVKM2tYdzBibFJoblRSNFMySnU5NWRRYm9ma2FLN3FPYXJYMmpRQ3BoYThiSEZjNDlQSXVNb0h4TzdwRTFlNFdxdmJhdGxnbDUxVFVtd1VPRFotOHdCa1g5X0E1akJRNXlUeVBwZXpLdE9qSEhKRXk3eFNfWWZhVU14NHEzczhTTEtFMnhFS0hEQi1Fejc0d3h3QmtwaWlPVWprY1ZZUjJsdUlyejZHcThVUnREdE5pUHk?oc=5",
-      "date": "2026-03-06T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Hamirpur medical college"
     }
   ],

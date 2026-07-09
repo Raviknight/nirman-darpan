@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-07-06T20:48:55.378Z",
+  "updated_at": "2026-07-09T20:43:51.927Z",
   "project_id": "AIIMS-BLP",
-  "count": 1,
-  "suggestions": [
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-02T13:28:24.740Z",
-      "title": "Manikaran road mishap toll rises to 3 after injured youth succumbs at AIIMS-Bilaspur - The Tribune",
-      "summary": "Auto-detected from press: \"Manikaran road mishap toll rises to 3 after injured youth succumbs at AIIMS-Bilaspur - The Tribune\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcm1NUWlYdFVua3Y0SDNjYWE1WXZscm54T2tzaEdvN2N4TkMwZ1czTUs0c3gzRVVJUEFzZ3N6c1B3Rzl1OWpPZlAtQkhzczRDaU9PQTFhQXhMWDZCT0dGOEJUWWg5YlBLNDZOb2JCbmNqVWh0aTR0UnM4c1BQYTBORkg3ZWxWX1NxMmlsUGJaSmFHVjdiTUVEcHFFNWM5aDRwNGJFN0lIZWEwdVlGQlJxTHV2X3M4b29zUktWNHRDTElaX0kweldB0gHLAUFVX3lxTE1Xd2ZSLUNwZUVPaW9udTdqU1dPWWhtUjk5MjZxOFd4RWlmYnJJV1VuZXl6UFZ1bXNvQW4wNGNPblJkTktvOUlDTFpDalFMLVRYODFLU2J3bjBoak0wa3pvUmRrN2k1SG5pQXUzWFFzcEFqbHBUUU5iQVFUT2taWU04VHZKUHVDbS1PUWQwWF95cmJSS243YWNVREhOb0g5SEtZc3YzZWRLdDcwd081MWJ3X1VjcHdWYzJCTFZuMU9ndUdnY0psdTNObVNr?oc=5",
-      "source_name": "The Tribune",
-      "lang": "en",
-      "date": "2026-06-14T07:00:00.000Z",
-      "matched_term": "injured"
-    }
-  ],
+  "count": 0,
+  "suggestions": [],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

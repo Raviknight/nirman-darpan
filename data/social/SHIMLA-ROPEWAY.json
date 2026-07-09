@@ -1,19 +1,29 @@
 {
-  "updated_at": "2026-07-06T20:48:50.823Z",
+  "updated_at": "2026-07-09T20:43:47.527Z",
   "project_id": "SHIMLA-ROPEWAY",
   "counts": {
-    "press": 99,
+    "press": 103,
     "gov": 0,
-    "en": 59,
-    "hi": 40,
-    "total": 99
+    "en": 64,
+    "hi": 39,
+    "total": 103
   },
   "mentions": [
     {
-      "title": "Shimla News: बालूगंज में बस खराब होने से लगा जाम - Amar Ujala",
+      "title": "HC seeks comprehensive parking plan for Shimla ropeway project - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQemtOTGNFUndKVC1wSDJ0Q1NzWmhVcTB4Z1FWVmtUeXd3YlhtS1AzaGw4Q1pyaUNxY3FLVVRtODJVd2pHMkU3THhBR3B0Xzg1TkhyR3pWc0g2N1FQYU5UZ1FWSm1NVWVpQk5tRThOZnp1ZS1hR0JCaW5CWFlhZV9iYUlRSk90dHVBcTN0cGluaHduLWRvNDQzRHVmQUtvY0pnRDNXR2ljM1I1SjhOb1BvQkRpVkxkLWRSaTVacWdvRFR2YWpNUzBXTlQtV29tN1dHbkR3UVEyWkVvbFJa0gHcAUFVX3lxTFB6a05MY0VSd0pULXBIMnRDU3NaaFVxMHhnUVZWa1R5d3diWG1LUDNobDhDWnJpQ3FjcUtVVG04MlV3akcyRTdMeEFHcHRfODVOSHJHelZzSDY3UVBhTlRnUVZKbU1VZWlCTm1FOE5menVlLWFHQkJpbkJYWWFlX2JhSVFKT3R0dUFxM3RwaW5od24tZG80NDNEdWZBS29jSmdEM1dHaWMzUjVKOE5vUG9CRGlWTGQtZFJpNVpxZ29EVHZhak1TMFdOVC1Xb203V0duRHdRUTJaRW9sUlo?oc=5",
+      "date": "2026-07-09T18:06:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla ropeway"
+    },
+    {
+      "title": "Shimla News: एचपीयू में छात्र बसों की कमी से परेशान - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSUtuQ19KcmMxcjF4VlhWS08zQ2xuWmM4cXhxZnlGUXFGZWhuX09POE96bnI0RzlyZ3hwWW03MXc4SFliTkh1dGc3cmhZSEtrcmJVUk1lWVhJeE5FSGlPYTJPTWtLVXpOYkRQZHh5TTlGM3o1dWtKellKRzU0WTEyc0E3aExqZzBIX0pjTktqb3V6RGxWUk92dGJGSVlCZDRjbnY1aUhsek9rNGZjc1AtMVFRZUtSVVhVRGRac2pHQmRSd9IBxwFBVV95cUxPZXFxVFZPbHQtdHg5X3ZlRVRyV2twTmNVZEIySUNuUndGNW1wM2IycmxVTWJvbzJkUEEtSmRXa3lBcU9iaWZYZ21kNU40UHVvLTM2UkdORTVlbWl3SWtmVXNUcU1iNFl0V3RPT05XSkpmSmlLbmR4eE9QdXhpRnhDbzVHeGxHMm51TjhONHAxSG1MYVUxMjU2b0ZYaEp0WjIxZ1FWNHBmdHhzanhlLVFkTXphLVF2UE5DZER4Y3FGVTd6eHEzTHp3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTTFlQnF3VmprZ1N2S0k1ZjhfRE1PNWI0eTB2MmNQM3lBbldPMDJiVG9zeUkyWFI2Z29rQUMwVWdYMjk0QTY2UWRhNGR2OVk1R0liaHh0MDF0d1A1Wk5UeFVOcXoyemxtVTd4a0JRSGw0Q0lzcThaZnM5R3Y0QUtibkVNOGM4UTAwWUtidkw2MzdseXZ0M2pNMUlJbndBdkVMbHNVQ3p1R2tzSndqazd4Z1V4TllNbVlobmU1bk930gHDAUFVX3lxTE9FUzc1RTlISHc4T1pIcUdXY0FtdUQwaE53d3RVaExRT3hFSzZkVlZtUTg2MFhreWV3T3hwN0FnVUFhMkJmN2lVdkZzWjdFU0NMakhLRzlrUFJTTUMtcjNhTjFlQmpOY1NiczNGYUhDU1NGT2hlYVpIQWFwNEhnRlQ4eGxEcnVVT3cyNjAxVVVjMHRUakNkQzZzUnBTcnV1ZzVRdmNHd2V4WFhSNGx6NzhFcy0wbTJWMUJSLWZWTXd5eXd5NA?oc=5",
       "date": "2026-06-29T18:29:02.000Z",
       "kind": "press",
       "lang": "hi",
@@ -24,20 +34,10 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbGg1SG8yVk85MkNPZXFmS3RXUFcyeHIyQzkzRVFPellYaWtZZEIzTVRCMHBQeWV1dm5RRkU0Rmx6bFMwQkI1R2ZrMFNMY2Z2TXFDWUhFN2E3eWVsbkN5YVpIbzVNdW80b2hJRnVUejNhLUVsNl80LVFEVDBkN2NEVnpWQjZqNWVUZ050elE2OG80Vlc0STdRSG11SjU2TFIxMkI5OFNYY1lkN25MTFVFeFAtQkE3RHNUV3VpVWhZSnY4aW9Cd25COVpn0gHPAUFVX3lxTE9QLVlLV0ZQbklWbDVwTndDa2Z3Sy1xcmNUNURKMkttdzlFQTFLS05Bb3Qzdm15Y1g5dEF3SXFGcUxvdlFZa2ozRm1FWS1nYVBXU0ZRNWZOMTBSc3h5T09XLW9ncThDY3pLaUhrcUh6Q0VVQnVUei1FNW5uUU5falUxMU01czF4eW1sbzJFMndnSTRfcUdsWEJ4Y19mSVJKRnpfdGNTRUluOGlidGoxSjN1bVRURW1IQXZBZVRaZS1zTDdKd3VXeGFBN0dNaURHRQ?oc=5",
-      "date": "2026-06-29T18:28:02.000Z",
+      "date": "2026-06-29T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "RTDC Shimla"
-    },
-    {
-      "title": "अब पीपीपी मोड पर बनेगी तारादेवी-शिमला रोपवे परियोजना, बढ़ती लागत के चलते लिया फैसला - the taradevishimla ropeway project will now be built on a publicprivate partnership ppp basis a decision taken due to rising costs - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQdkJnY0ltT1Nva3dmbUs0eWMwaWwxekpTMzk2WDB6OEpFVldITVdySU1aZXBfSkU1YXlEQnZmUm1NT0ZaNGo3N1BiMGxDME5sN2w4dHRUNXNZYTBfRFE5Uk5ha25Rd0tvSHNJT0JmUE1tUk0yQWdkcG1tOFlwc2hCSGpwTHZtRGR6eWN6c0ZBSDBNU0dPMjhtcnRVQXBzaHV6NjRzUi03cWRIVEZ6VFpWbmZsMmpKN2dnZkRTRFRhR0xwQWdJYkEwWXFHXzROYmtqYkdLdm5MamRQUThmdFh2QjF6RDhJYXhpWGhvb1dvYjhDVXQ3OFh0dl93eGNqTmh5VmNtWTBjb1ljcnU5WEF2Tm5jb3AzM25WdUw0?oc=5",
-      "date": "2026-05-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla ropeway"
     },
     {
       "title": "Shimla ropeway left hanging as Himachal Pradesh Govt scraps tender after cost surges by Rs 1,200 crore - The Tribune",
@@ -90,8 +90,8 @@
       "match": "Shimla ropeway"
     },
     {
-      "title": "शिमला रोपवे प्रोजेक्ट: 13 स्टेशनों के साथ बनेगा एशिया का सबसे बड़ा नेटवर्क, मगर बजट ने बढ़ाई सरकार की टेंशन - Live Hindustan",
-      "source": "Live Hindustan",
+      "title": "शिमला रोपवे प्रोजेक्ट: 13 स्टेशनों के साथ बनेगा एशिया का सबसे बड़ा नेटवर्क, मगर बजट ने बढ़ाई सरकार की टेंशन - Hindustan",
+      "source": "Hindustan",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY0tGLVFaUGtjd1NDbUo5cTdwRm1ub0FjbXAtaTNnWEk3WjV6Q1FwUVo5bGVnQ29PQUpGSEc4RTd6TndPWjNSbmJIR0xvSUpoRHNCTGpMQ3ZvT3Y4WDhRRXljNC1wVUJraG40UUhrb0RPc2FZdDQ5REZmbkZlZXBhTlRxaU5xWVEzcjFoOFlOWjFnUDdZVlNHZ0tiUzVFeWUweTd3Q3dPY2xxSElYWFVxTG9UVEY1a2lsUkhfRFVxVFpnU29tMHVyVHFld3hFMEV4bVYyamp5cHZfcDhYaTVYck9sWjBhSTRzZXVCVGJ30gHzAUFVX3lxTFBwcGJ1VFB6bE5keElwLVNvbXVTR1ZWTmhIdUo4S1FrSkVqWVZqNGhMLVQtMHdBbG1NclkteVMzb0hWN0N6djBnaWVFQnUxN1hlSWstSnNxV2xfWmh5aFJNcjFNSHdPREFoc3NmRjFDNHloWHZBWldESDZmUGV3SVJxOHc3UGZtczJQMWVseUg2LVhyYXpJZGpoa3otWktlSW5Zb1VoWDdQWl9DTGJITmZlOEE5R2xGTVhPZU1MaXo3Tmc5Y3VYUWlKQXFmLWx4Sm9pRVAwTzRLem9JUW41T0o2Z0hfV0FFRGliZklFLXctRk5vYw?oc=5",
       "date": "2026-04-26T07:00:00.000Z",
@@ -120,11 +120,11 @@
       "match": "Shimla ropeway"
     },
     {
-      "title": "देश के सबसे लंबे परवाणू-शिमला रोपवे की बाधा दूर, सरकार का टेंडर शर्तों में बड़ा बदलाव; पर्यटकों को मिलेगी सुविधा - parwanooshimla ropeway indias longest project gets boost - Jagran",
+      "title": "आज होगी हिमाचल कैबिनेट की बैठक, लिए जाएंगे कई अहम फैसले; रोपवे परियोजनाओं पर होगी चर्चा - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzBQNEJpdFRReEM0d2lLU3RMbjRJdThvdWJLN2U3aXhxRjZDZVZoenRraV9UQjQ5TWxzc1dJb3Q0R3U3Uzl5UXBqdm4zbUFTVGVPc3hfNVByZjl5TEM5bktvbG5ZanNTM0VvTVZFUi11ejN6aV9neVozbEtEc1VBTkdBdWlCUnBzWG5fT1JjVDVIN3FzVThUdTZKZmNmWkI0Tzl1QjN1ZTYteUNhQndVT1hlcHd5Zk1O?oc=5",
-      "date": "2026-03-23T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONS1CUEotOVZXb0lFclN4ZmJXMXNKME1QVnVES1g2SV9ZQkt2QzNlSWhWVng2ODdIVnJMLTJqYTlQUlprSHNQSWRySkRwZEZ0U3V3SGZURzBhZ2F3VnJJSmlJQmNtUzlpWTJYLW5rdXdvNlNJSHI5MUtUZFN6b2hXZENybElXMkFidWxJMFhKVFNMU2c1VkZnaXZyMDNpeHkyLVpoel9faVdYN3RXUDRsSlhzZmFOdXVBV01FU1JzbENZMXdyUmpSZ3JGZEstU3pKdnV2clJ1OE10NWROZkVaTmtZbjRXQjY0YVB4TGhyNk9nSHJsczlGdTlCcE9KSDM5d25DWUx3?oc=5",
+      "date": "2026-03-07T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla ropeway"
@@ -140,8 +140,8 @@
       "match": "RTDC Shimla"
     },
     {
-      "title": "Amid Shimla Ropeway Facing Cost Rise Over Five-Year Delay, Himachal Pushes Air Links, Clears Asia’s Longest Adventure Zipline - Swarajya",
-      "source": "Swarajya",
+      "title": "Amid Shimla Ropeway Facing Cost Rise Over Five-Year Delay, Himachal Pushes Air Links, Clears Asia’s Longest Adventure Zipline - Swarajyamag",
+      "source": "Swarajyamag",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ3pmXzF2eExEc1V3WGN3RWsxM28yRF9zd0pUOW9mWEFodVpjMG1wUDdwZW85Qm9LX3RVcmFoNzU0YlMtTFF3dGN4bWYwQ1pZTmt5ZUJad1Vid2kzcWdYakJORnZ1elptNGN5S0wzSFJORHpWTHh4SmhtT09jeTAyNFk3S0dtcGNiOVdmdG9rbkJka0NCemVaUDA2UFJLNzRUQjdRYnVUQ0FRdGQtNTdpRGZyMjNlRWNOOVlzTGlHY3JDRW1fSDZEcnVzMlZWM2NMRWtEQkh6c1FEU0dDM2N4Qm5mT0NTUFRLZ1pLUWlR0gH-AUFVX3lxTE5TcVNiYkxVS09SZTJlM0JSbzlLdW1TejNzcll2QnhsZXFxTXhxV0RuaEdKa1JkeFRJbzRxUG9pWFBIaHV3MDJnUjBnaEdRWnRETUVjU1ZucWRYSjNVRnUyY2FRUm5OSmNWd3RvTXRDdk5MQWtsTFoxMHBGWHZQQ3Yxc21XM0VuRHpxblpZbDdZNGxMY0NhTmJOaG91aHpJdEdOSEp6TWllZzVPVzBuSEc4ZE5WMHNtaTRtUTg5MVhVVW8zd1Y4OXZmVmYyS0I1clJXY0lLVHpCdG5JbEpMcVVyS015SnRxUk9Yekl4bXdTZjBlWG1DS0ZkcGVud01B?oc=5",
       "date": "2026-01-22T08:00:00.000Z",
@@ -200,8 +200,8 @@
       "match": "Shimla ropeway"
     },
     {
-      "title": "Major Push For Rs 1,743 Crore Shimla Ropeway Project As Himachal Government Moves To Transfer Key Land Parcels To RTDC - Swarajya",
-      "source": "Swarajya",
+      "title": "Major Push For Rs 1,743 Crore Shimla Ropeway Project As Himachal Government Moves To Transfer Key Land Parcels To RTDC - Swarajyamag",
+      "source": "Swarajyamag",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMEJVUW9SSGdyWVUtWm9tY0w0RlJwSnJ5SjRZa3haeW9CS1Rpekh4cmx1MWF5WGVXNVZGWE9KQlB5cnJxbWI5djE4Vk12ZG5MeGRxVDg3dnlSWTU3b3ZrYjZyVENGNUVKUkRPaXJ6SERxcDhueTV0M3RCTVhYSkFDdG9SeFU1Qm8zempaZFV0eEhfZkM5WWdfTmtrQVJRdE5tRnZ6VnRBZENYRjlST0duZFE2S09STXZWLVM1Z25RX3Bta3p0OVhOV3pNaVpWQlVJTFQxOUZ1Z3Z5dk5YU1gybDdWQ2lpRDjSAfcBQVVfeXFMTXhMR20yZENMal9kVmM2bzQtb3JSUVFEUnVjNDhETU5zWnhVajJMWjVLc3drZkhtcjIxLWZ1MjFQUlAxQkFCaHdvSlR5TmJGSnU0QkNKemk5dTdUcDNrR0NTck1CaXg2N3c0dFJQdHBIcnlXbWcxNENWU1FMN1R3bjN6Mk96MlQzdkxvWDc3YkRaMTVCeXVrSHBfMDFMU2ZkcllQTWc5YkZsWk9LeHlOZVoybmVWc3Nlb0s5WlJMcHpXWm5uMXF4enctZXdWWjFVTWpMRUF5anRyZ0hqcW9xMEIydzRhVUU4QlVoN1dyT2ZYOTB6bDRlMA?oc=5",
       "date": "2025-11-18T08:00:00.000Z",

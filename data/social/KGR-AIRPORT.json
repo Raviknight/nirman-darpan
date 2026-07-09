@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-06T20:47:54.836Z",
+  "updated_at": "2026-07-09T20:42:51.909Z",
   "project_id": "KGR-AIRPORT",
   "counts": {
-    "press": 64,
+    "press": 60,
     "gov": 0,
-    "en": 48,
-    "hi": 16,
-    "total": 64
+    "en": 45,
+    "hi": 15,
+    "total": 60
   },
   "mentions": [
     {
@@ -14,7 +14,7 @@
       "source": "MSN",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2JfQ01CZFZBN1hxM0ZLZHp4RzVGTzNLdTdKRUhMRGZpLVVoS2tqbURIdFdBVU81Wi0tSHNoQ2tHeHE0TzBMdWxUV1JtREtmeTVLeHFQNXl1TFdxek5LSndYQVdKcVY5dUtIelEwaTdvVmlWSHFzNXBGaS1sUDhtRjJhYnVnN3AyVjNIWnV2M1dPNXNrYnY3UGFaQjJDR0gtVXF5V0xoWklfNnA1ZGszanh6TlpWTXF2QWI0SnNB?oc=5",
-      "date": "2026-07-03T22:51:12.000Z",
+      "date": "2026-07-06T22:22:31.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Gaggal airport expansion"
@@ -60,16 +60,6 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "The Himachal Pradesh government has cleared financial assistance of Rs 16.76 crore for 113 families running shops and other businesses on government land affected by the expansion of Gaggal Airport in Kangra district. - News Arena India",
-      "source": "News Arena India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjVTaEdRUGgybldINGVFdV9PYUc1Z2ZaY1lnS3hZWnU2RDBJZWlWVjZrbDFoa3RELUV2al95Q1B5Q004YnBMaW5WaDdiWWlWSnhVNVRJNE5seU9qc01ScTdkbVNXaUtoa1I2SGJvc1FsY3FwaGZMd1FJMk5ZTXlZbmNlUk5Nc3BnS2otRXVLOEYzWjBjWlVvc0RJclFfUVE?oc=5",
-      "date": "2026-06-10T12:51:57.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Gaggal airport expansion"
-    },
-    {
       "title": "Himachal approves Rs 16.76 cr aid for business owners hit by Gaggal airport expansion - newsdrum.in",
       "source": "newsdrum.in",
       "source_id": "google-news-en",
@@ -80,20 +70,20 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "Himachal Pradesh Assembly discusses Gaggal Airport expansion - The News Mill",
-      "source": "The News Mill",
+      "title": "The Himachal Pradesh government has cleared financial assistance of Rs 16.76 crore for 113 families running shops and other businesses on government land affected by the expansion of Gaggal Airport in Kangra district. - News Arena India",
+      "source": "News Arena India",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajRKejVoaDQ3QUpfamdIaW5CR01lVFpMcDZiMy1TeU9LdExGVm1uWEkzQ3BRXzcyR3lVTmx5cWoxeWd4X1AxeGtURTdpX2NZNHQ1VnNoaXdXNmpIaVZialQ5NXJMbzlCRW1lVVh0NXBlc2swRWYtTEkxN0htTU9icFhDM0dYRnpxdzFyXzVUZE9WV0p1N05pcU9lYUpmUnFHSDdGODU3SEVlWHJBOFlyN1k3Zno?oc=5",
-      "date": "2026-04-02T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjVTaEdRUGgybldINGVFdV9PYUc1Z2ZaY1lnS3hZWnU2RDBJZWlWVjZrbDFoa3RELUV2al95Q1B5Q004YnBMaW5WaDdiWWlWSnhVNVRJNE5seU9qc01ScTdkbVNXaUtoa1I2SGJvc1FsY3FwaGZMd1FJMk5ZTXlZbmNlUk5Nc3BnS2otRXVLOEYzWjBjWlVvc0RJclFfUVE?oc=5",
+      "date": "2026-06-10T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "Gaggal Airport: HP Assembly debates ₹3,500 crore expansion plan - Asianet Newsable",
-      "source": "Asianet Newsable",
+      "title": "Himachal Pradesh Assembly discusses Gaggal Airport expansion - The News Mill",
+      "source": "The News Mill",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdHBHVEVTQWswa1BYa3NVSGZibTBCQVJOdzJSc29GRWNFX3NoLTRTc0s4b1NYYTRpbExPM0luT2JoSTFoWXJSNFVwQk1yRkRXZ3JiVm9CYzBTM2N6LWVOb0lrRC13N3NhUC1PclJuQ0M5R1hEZ0JNWTZ2Y2pWQ1dGakwtTG5HdE9hZkJ4WEZwYUQ5YXh1bmowcXZ3c1ozdTI1VzRnZ3ZZSVJwZGZaWTJQcll0UDh3c3ZXd2VB0gHAAUFVX3lxTE5iQV9pSVVOSW1NNmg5OUtTNDQzb3BXY3NXSlA3YmtFbkdkbVdoV254UEdYXzBUM19ibWtzNGFtQzRUa0V1ZXM1aFVCS3duelFRdU9Camp2TkZPM2hsU3YwbU5aWXJQVHhJLUZiVFc1UW9pZU5tMEZGamVGa2pNT0ZtT0dLTkpiRktTTjBQdnBHcGI4el82MG9BaTMwamtQT0NKeWN2b0xEZGhTbU1xaW91c1R2bURvRVJNeUFKS1VyWg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajRKejVoaDQ3QUpfamdIaW5CR01lVFpMcDZiMy1TeU9LdExGVm1uWEkzQ3BRXzcyR3lVTmx5cWoxeWd4X1AxeGtURTdpX2NZNHQ1VnNoaXdXNmpIaVZialQ5NXJMbzlCRW1lVVh0NXBlc2swRWYtTEkxN0htTU9icFhDM0dYRnpxdzFyXzVUZE9WV0p1N05pcU9lYUpmUnFHSDdGODU3SEVlWHJBOFlyN1k3Zno?oc=5",
       "date": "2026-04-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -198,6 +188,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala airport expansion"
+    },
+    {
+      "title": "Market complex to come up near Gaggal airport for displaced traders - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGpIZC1hLUI5bTBaSGtoMGF0NnRfNUtDZ1F2U19zcnpDS2ZRcnlYSVdjSFNXMGxqMGdZcEZzeWpqc0s0WjZ0RU5ZVzZiSWtiVG5lQm1ZdjNBRW0ydTNLeDNSelFoemxqOWZ3dzEtQkFWa25heG41MGxZemg5SXUtRURIWnlPdUFBaHg5TF9YODctTk5xU3NFelNPQlgtaHNvWnRZYTY4UHJacDZxSmtqedIBtAFBVV95cUxNZTVILVczYmVfSTU5MklDaVpGVTBxdTdEcHUtMmpET19Rd24tSVhJeU9LTlZIWXJOOUY0NHhabXBiMklKYWtYRlVYTnVzM0trX3FPalBzcW8wVy16SWhTZXVYeUVicXhlclN1bGoteTZrREtvamhNVnhhRkVVTGJWY1Y4SmNDSjh4ZlhRbm9YZFZkMl9tS0lyUDNPekYtdDJSWVhySk5kZl9sMDdqeldhWndLRlI?oc=5",
+      "date": "2025-02-21T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Gaggal airport expansion"
     },
     {
       "title": "Airport expansion: Rs 298 cr disbursed among landowners - The Tribune",

@@ -1,14 +1,64 @@
 {
-  "updated_at": "2026-07-06T20:48:01.938Z",
+  "updated_at": "2026-07-09T20:42:59.040Z",
   "project_id": "AIIMS-BLP",
   "counts": {
-    "press": 201,
+    "press": 202,
     "gov": 0,
     "en": 98,
-    "hi": 103,
-    "total": 201
+    "hi": 104,
+    "total": 202
   },
   "mentions": [
+    {
+      "title": "मंडी-रिवालसर हाईवे पर कार-बाइक की टक्कर: 3 युवक गंभीर घायल, बिलासपुर एम्स रेफर किए, पुलिस ने वाहनों को कब्ज... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYkR2SlBqZFI5dUNFTGo2M1J2bUVPc3BBS1BmVTlKb3NIaGZpNERWdzF4U3Y2Ym42TTVEMDhvUVExb21LRklyMDhDbTVlQUQzY3BJTGxkMzRiRE5mR2k0Y01mMjVwZlpKRzNaa1FyQzJnQUl1bWhCR1p5dFBDbGozRlo3X2Q3LTFCeERTb0VEOV9NMmhrT05rMDJRSjl0bkRndTNnTHNzWW5KcUdxWG1IWUtPVVBNTUM3QTRManp0dFRwV0JuZ3BXSkc1TTRDdVpCMmxSQtIB2gFBVV95cUxNVk5GQWlwS3ZiY0RaQl9IVVh1aTNhUUR1VVl1em5qRlJPZHk2VHNZa2oxZkRVc3h3QjF1UUdtNkVfajJHaU9qb0x2aDBhcmFjVXlMMGQyVkhQU1RwTmgtNDZoNGtNc05LMU5vNW9FeUV4R2RENl9FaW5ISjVfUjZTTEluVTJTeVFQZUM3eGx0NzUtd2F2RFlua3FQOWZCZFQtdFljM0ZScTMzbWhmZjJUSW0tSGxpN2d1NGEwR0x3c0RRcGdHTWxkZUJvVDhmYW1OWTZCbHhQTXl3UQ?oc=5",
+      "date": "2026-07-09T13:26:38.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "बिलासपुर में व्यक्ति पर कुल्हाड़ी से हमला: चंडीगढ़-मनाली फोरलेन पर पड़ा मिला, एम्स में कराया गया भर्ती, पुलि... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTFPOUNaT2VqWGJ5bldpUXcyRm5VUEtnaXpRajFLeUswWHI1ME1BeUZvVE1lYXBvLUtGbVhZSDhPMnhwWDU4cU9taEtFSEF3SklZM3VBeGhHWDlxOE5tUmRKdFdhRXVXT1pneGpSbUMwSVozQ0ZjSDhJOEZhZkJJcm9JMTlPaXZncUpPeDRHc1FMQUtraVBmUU1OMHFYaXRjakg2NHVJdUxJblVzUUptOTVVX1lhMHZxSDY4M1UtVkpfamxFeWRV0gHMAUFVX3lxTFBldU40NXBibWxKUnljTkJZaVBhWTNzV1FMbmg4VE9LZlo4aTJhR09nZ2pmZmZjQ2FQUjBjODQyV0VXcWs5S044cC1GbzhNaTB0RGRWT0RmYUxpZHBTWFd5RkpBTXFpTm8zc0E5SW9xUjFzYlRaME9jOVlBdDlhdS0xNmVqVlFib2dQc09xcUFHQlVqMkRfekVQelNxY0xLLUdlbF9QNUZXSHo1eUZpLTJ5TVFkTU5DblVMSE5sa1JGQzAydkVIcFprazhGNQ?oc=5",
+      "date": "2026-07-09T07:42:24.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "Bilaspur News: एम्स के गेस्ट हाउस में आउटसोर्स आधार पर सात पदों पर होगी भर्ती - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOclNicTl4UlROa0NlUkVtNDBGUHFOSS1iOVZwWi1vaEJ6cWFfZURSUlBTdGxCR09RN29MbFNxQzFhYU1BbS0zdU43LXB6QlRFcUdMYjh4dG9FcUR0ajduZDA1R1pfWm1rUHlVMUp4UVZ4N2FIYzE4QVVCeWVUWnU3dlNkdjVOQ1VVNU9OQUdnVlJtN2F2ZnBwMTBQbUVvTUlCX1hVdjFzRU5LaUdiU1FNbFZmd2FsQkJ1c2p1WmZUTkxvc0Y2bENQbVlCNTdKaDlpMG5lVzR6VzViNXZnVkppaS1pV2tLTUtBN3lSUG8yeDFWY1Z5NU5RU0ExbDR1aVB6ck9hRGJLaW9ZNk43UWx2ZEZsa09iVUVuRllXQ2RoWk5tNnfSAagCQVVfeXFMTjNYUFJZc3FEOFEwdXNHM2tuOGlmOGRGNEVsYnNlY2p1ZldEQ05pMlJzMXN0WVNkRHFuQVhrZ2JXbVNrcEFRdFNFVEwtVzNoM25hcEFYbkJZVEhqZWNrSFJPNElrc3hRQXY5NC1ZWm02UUQ5eGhGVUU1UjFiX1BfRUZJUExGV2k4U2JSX1RrRmxiRDNrQnA5U2drZTE3eGpOY0pIWTRxbVJuaGo1Mjg4T09kM1luaVZOWnZEZ2h1NnRRWXZkTWZEdHEzaXg2Qk5wa3JVUmNvSUxrUUhRV2gyNWNVZm5Ydmwyd21SSUMyempLcm82aExRNXNsN1hzcGtpbGh2ejk3c0R0Y2VKYU9NTzlSZUpORDJXMkpoSU42Q195N1otNkZFQlg?oc=5",
+      "date": "2026-07-07T18:08:33.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "AIIMS BSc Nursing 2026 College-wise Cutoff: AIIMS Qualifying Cut Off OUT - Careers360",
+      "source": "Careers360",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcF8yOVdxdFlFSGpLU3loczhpeEFHN3NPYnhsN3NkcElSVTJFNjBRUTJudklwSWhYRDVySWQxSmxjX1NIVlNtRnNRRld0ZENfUGVuV3F6cHNOX2dlMTlvYTVpLU1jUmp4WVktX0pXSTg1ZG16UG5SWkk0a2hLNHk2RVkzWHVCcVBIMGlz?oc=5",
+      "date": "2026-07-07T10:55:12.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "AIIMS CRE 5 Exam Date 2026 Out, Check Exam Pattern And Key Details - Adda247",
+      "source": "Adda247",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45Z0VHck9aOV8zTDE0VGstMERUa05iMEhURjNFQTlxX3ZxUGdEalMxYUEzck5pZ1NrTmpFRVliMWdhQk9CWHlBQVBINDhhSDBseUh3UG9vMGdmdE4tQWNTMzJnRnRxZWFwbGt0bVJzWklJLWFrRFE?oc=5",
+      "date": "2026-07-06T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "AIIMS Bilaspur"
+    },
     {
       "title": "Himachal News: एम्स बिलासपुर में बढ़ेंगे 960 नए बेड, पीजीआई और दिल्ली के अस्पतालों पर घटेगा मरीजों का दबाव - Amar Ujala",
       "source": "Amar Ujala",
@@ -25,16 +75,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbE9majRNV2dwVEFHV1M2NDB5UW02Z1M5bzJmNTRxU1VGNTliMlVidFEwY3hoblJtR3lnSTBPdnhISTZSVDlnT0ZCWlc1cmNLbjdpQ21IVzRJUGZYQXpyaDE5MkRXTFhIT0syTGtzVHFiblRIM1VibU1QMGhJRG1vYWI0N3FVd244VHU2b2pSSU43RVZFM0F2TEJjXzNTMzJHaUVfa2pSQ1dRTVZpdGNJ?oc=5",
       "date": "2026-07-04T07:42:12.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "AIIMS BSc Nursing 2026 College-wise Cutoff: AIIMS Qualifying Cut Off OUT - Careers360",
-      "source": "Careers360",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcF8yOVdxdFlFSGpLU3loczhpeEFHN3NPYnhsN3NkcElSVTJFNjBRUTJudklwSWhYRDVySWQxSmxjX1NIVlNtRnNRRld0ZENfUGVuV3F6cHNOX2dlMTlvYTVpLU1jUmp4WVktX0pXSTg1ZG16UG5SWkk0a2hLNHk2RVkzWHVCcVBIMGlz?oc=5",
-      "date": "2026-07-04T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "AIIMS Bilaspur"
@@ -90,8 +130,8 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "मरीज से पहले AIIMS पहुंच जाएगी उसकी फाइल, OT से लेकर स्पेशलिस्ट डॉक्टर की टीम तक, सबकुछ मिलेगा तैयार - NDTV Khabar",
-      "source": "NDTV Khabar",
+      "title": "मरीज से पहले AIIMS पहुंच जाएगी उसकी फाइल, OT से लेकर स्पेशलिस्ट डॉक्टर की टीम तक, सबकुछ मिलेगा तैयार - ndtv.in",
+      "source": "ndtv.in",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUdrZWJVWGlIeHRyemdtNWRhQzJjSUNKQ0RLM1k4LXh2SzZYeFlvSzEzTVgycndzMm05V1lFMXZJNXhaY09XUzAxY0VnczFXVGszN09ubHZUczN5SnlZTGZRd0F4NUs0R1E0WXp2aUUxNXhrM0Q3bXo4Y01kWUtjeHhENk1ZREtBVmhJNUoySFlzbzJNWTFuWXJIWHY5RllEU21rbkZfTFF6WjBIaHZEQzk0VDdDNENCU19FOXZ3WUZQdmpBT2cyczln?oc=5",
       "date": "2026-07-01T10:01:25.000Z",
@@ -134,7 +174,7 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdVFQY2RMWjhkVkdnZFh1Ylh0Z1YzT0REMXk2S2liV25FZVFvTGJnLUhiNmowTVQ1eVpwQkhGTWhhUV91UVNSTzFwUk1TbDdGaTYtY0F6TlFCSWxxa2FZREl0ZEZfdzYydmNxLWNtQThIRE50WXB1Z0JOYlJYQlhJUU1xYTU0d0lTc3g5NWZZSll0bll4LWRhRF9mbFhWUExMeU9MWUpZNXRuWDlhaVR3VGhOSTFLdEt5aGUtMDNNbWlBRDVDYnc4T2JjNDVVOFBtZWNzTnJUUk8wcFRqc3FvM3k4clFoY3Z5VEtpRFFrdmlqcFRMY3Rzb0FyX2JSVXh4aXk00gGIAkFVX3lxTE1PcXJ3aVd2SngxbnZrdHo1eTZrNS11ZTBJbk9WSnBFcXAxaC1EX1gtTUFDc3NSRjFodVlwRW95TFVHZWluLUdEYnpNZ0FGM0F5ZV94Z2hpZDVxZDA5WkZrWnY0d0FfTGhkaVdwLTlneEVxV3pFejF4RnNwaUtsckxEY2lJWTdZMmUyNDdvRzM0ZjZLRGljZnJUbkJYbGdVWGFfYnhkcy11d25vTnIwcEJMVk8yMTR5Q3lCTDF2d3p6OGRxRHB0WmNVSC1UaUp6bUR4UE1oLTlQbkhqWkQ4YWxZNkhUazR5WjMtTTZnUzZSc3cwTFRnWjlacDYwZXJZYTJjOHc5bzBIeg?oc=5",
-      "date": "2026-06-27T18:13:02.000Z",
+      "date": "2026-06-27T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"
@@ -167,46 +207,6 @@
       "date": "2026-06-19T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "एम्स बिलासपुर में प्रोफेसर सहित 75 पदों पर भर्ती के लिए तुरंत करें आवेदन, 20 जून है अंतिम तिथि - IANS LIVE",
-      "source": "IANS LIVE",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa24yTUpBOXZBUjNrRW1zWVNjUTZnT3BQNTNwQ3psRV9iMF9QNVh5b0g1WkN5RFhlakxRTlFHWkNCMk9qa0RweXRMM1BCSDlIbkdjQ1VaNnhyY3Y1SmRGc25iQi1Zc25lUnBidGJScWpYWTdXMlRYTFlXeWlyRTZxRTlHR1JMa2RZYzVxcFpHYnliZ2s3WHVjLUY3WHVwMm9jaW1PeWx5THU0dklyRDRyQ2k3MEhmN3FpR3JhMy04cG9NdVI4RzBVZG4wMXBrUQ?oc=5",
-      "date": "2026-06-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "एम्स बिलासपुर में जूनियर रेजिडेंट के 41 पदों पर नौकरी का अवसर, 22 जून तक करें आवेदन - IANS LIVE",
-      "source": "IANS LIVE",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVEtbE5nM0YwZ2JlREZ6ZFVTaTBKaEYxVXd5enBTMDM0OWRpR2UweU1qUWJQNFdSREh6MXp5NWtsVVFUamIyajVScFNfWktsakN5bVdpbVozZHlyS2NHOFEwOXlyc3NlQ2luN19QeG1UUF9lbTAwUVg1TVQwQVQwVGFtTDBnbm5QZTJwNkRTc3F6MndxdENwWEdYdVBiX213emkwN2VocU80MklNWTZ4YzNPcnFJUHdUai1tbzlOT0RNZ1hwOWdnSWZVeDU?oc=5",
-      "date": "2026-06-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Manikaran road mishap toll rises to 3 after injured youth succumbs at AIIMS-Bilaspur - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcm1NUWlYdFVua3Y0SDNjYWE1WXZscm54T2tzaEdvN2N4TkMwZ1czTUs0c3gzRVVJUEFzZ3N6c1B3Rzl1OWpPZlAtQkhzczRDaU9PQTFhQXhMWDZCT0dGOEJUWWg5YlBLNDZOb2JCbmNqVWh0aTR0UnM4c1BQYTBORkg3ZWxWX1NxMmlsUGJaSmFHVjdiTUVEcHFFNWM5aDRwNGJFN0lIZWEwdVlGQlJxTHV2X3M4b29zUktWNHRDTElaX0kweldB0gHLAUFVX3lxTE1Xd2ZSLUNwZUVPaW9udTdqU1dPWWhtUjk5MjZxOFd4RWlmYnJJV1VuZXl6UFZ1bXNvQW4wNGNPblJkTktvOUlDTFpDalFMLVRYODFLU2J3bjBoak0wa3pvUmRrN2k1SG5pQXUzWFFzcEFqbHBUUU5iQVFUT2taWU04VHZKUHVDbS1PUWQwWF95cmJSS243YWNVREhOb0g5SEtZc3YzZWRLdDcwd081MWJ3X1VjcHdWYzJCTFZuMU9ndUdnY0psdTNObVNr?oc=5",
-      "date": "2026-06-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "AIIMS CRE 5 Exam Date 2026 Out, Check Exam Pattern And Key Details - Adda247",
-      "source": "Adda247",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45Z0VHck9aOV8zTDE0VGstMERUa05iMEhURjNFQTlxX3ZxUGdEalMxYUEzck5pZ1NrTmpFRVliMWdhQk9CWHlBQVBINDhhSDBseUh3UG9vMGdmdE4tQWNTMzJnRnRxZWFwbGt0bVJzWklJLWFrRFE?oc=5",
-      "date": "2026-06-12T19:19:45.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "AIIMS Bilaspur"
     }
   ],

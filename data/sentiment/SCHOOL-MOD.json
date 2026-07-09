@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T20:49:37.128Z",
+  "updated_at": "2026-07-09T20:44:34.826Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -11,26 +11,21 @@
   },
   "youtube": {
     "n": 20,
-    "positive": 13,
-    "neutral": 6,
+    "positive": 14,
+    "neutral": 5,
     "concern": 1,
-    "avg_score": 0.27,
-    "avg_magnitude": 0.31
+    "avg_score": 0.235,
+    "avg_magnitude": 0.275
   },
   "overall": {
     "n": 20,
-    "positive": 13,
-    "neutral": 6,
+    "positive": 14,
+    "neutral": 5,
     "concern": 1,
-    "avg_score": 0.27,
-    "avg_magnitude": 0.31
+    "avg_score": 0.235,
+    "avg_magnitude": 0.275
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Good",
-      "score": 0.8
-    },
     {
       "source": "youtube",
       "title": "मनुष्य को कितना भी सुख दे दो इच्छा और बढ़ जाती है ये सब मन का वहम है......",
@@ -38,8 +33,13 @@
     },
     {
       "source": "youtube",
-      "title": "आपने इस विडियो मे अपने निजी अनुभवों को साझा किया है वह लोगों के लिए बहुत ही उपयोगी साबित हो सकता है।",
-      "score": 0.6
+      "title": "अच्छा भला पढ़ाई की वीडियो देख रहा था 😂 विवश होकर वीडियो देखनी पड़ी 😂😂😂",
+      "score": 0.4
+    },
+    {
+      "source": "youtube",
+      "title": "हे पार्थ 😂\nये रथ अचानक से कहा आ गया 😂",
+      "score": 0.4
     }
   ],
   "top_concern": [
@@ -55,7 +55,7 @@
     },
     {
       "source": "youtube",
-      "title": "Khan sir ki video dekh raha tha yaha kaha aa gaya 😂😂😂",
+      "title": "Thorium search kar raha tha 😂😂 ye me kaha aagaya",
       "score": 0
     }
   ],

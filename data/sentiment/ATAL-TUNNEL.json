@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-06T20:49:24.830Z",
+  "updated_at": "2026-07-09T20:44:22.793Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
     "n": 20,
-    "positive": 10,
-    "neutral": 9,
-    "concern": 1,
-    "avg_score": 0.155,
-    "avg_magnitude": 0.295
+    "positive": 8,
+    "neutral": 10,
+    "concern": 2,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.29
   },
   "youtube": {
     "n": 27,
-    "positive": 13,
-    "neutral": 14,
-    "concern": 0,
-    "avg_score": 0.219,
-    "avg_magnitude": 0.378
+    "positive": 15,
+    "neutral": 9,
+    "concern": 3,
+    "avg_score": 0.174,
+    "avg_magnitude": 0.37
   },
   "overall": {
     "n": 47,
     "positive": 23,
-    "neutral": 23,
-    "concern": 1,
-    "avg_score": 0.191,
-    "avg_magnitude": 0.343
+    "neutral": 19,
+    "concern": 5,
+    "avg_score": 0.143,
+    "avg_magnitude": 0.336
   },
   "top_positive": [
     {
@@ -33,16 +33,21 @@
     },
     {
       "source": "youtube",
-      "title": "Make more videos like this on zozila and rest of the tunnels and bridges like chenab and all❤",
-      "score": 0.8
+      "title": "Great development 🎉",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Very super 👍👍👍",
-      "score": 0.8
+      "title": "That Atan talan moment@ the beginning only bro super op😂😂😂😂😂🤣🤣🤣🤣",
+      "score": 0.6
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Imagine that the tyre of your car gets puncture in middle of the tunnel 💀",
+      "score": -0.7
+    },
     {
       "source": "press",
       "title": "Tourist dies after SUV crashes into under-construction bridge near Himachal's Atal Tunnel - IBTimes India",
@@ -50,14 +55,10 @@
       "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "Morbi to navlakhi grinfild highway rout batao please",
-      "score": -0.1
-    },
-    {
-      "source": "youtube",
-      "title": "Ye Defence and Locals k liye primarily banaya gaya tha...lakin ab ye maximum tourist he use kartey hai",
-      "score": -0.1
+      "source": "press",
+      "title": "Reckless tourist driving claims another life nr Atal Tunnel, raises questions over road safety - - Himachal Scape",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbEtoMHhCR3d3VmRSM0dQRkwydmI2RDdMTXRza0FpT1RNR25rWGhpMk1zYTdkUTV4TDR6U1lncnBiRW9YUmRRVnpTU3NvQmhkN3BiSTlUb3J3cXUtMkhnMHJxRkJrVjU5TXFlSm9uSmRacVpuZFliZDBQUzVSUmFhTlJDWUU3c21BRkxFZTFZdnVNZmp3aXktMXZiSEhhWk1kNEZuWVZrVGR5SlBwRkFhYTNERjhHTnoxWkVudA?oc=5",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-07-06T20:49:30.896Z",
+  "updated_at": "2026-07-09T20:44:32.549Z",
   "project_id": "NH154-PKT-MND",
   "press": {
     "n": 20,
     "positive": 6,
-    "neutral": 7,
-    "concern": 7,
-    "avg_score": -0.03,
-    "avg_magnitude": 0.27
+    "neutral": 6,
+    "concern": 8,
+    "avg_score": -0.05,
+    "avg_magnitude": 0.29
   },
   "youtube": {
-    "n": 9,
-    "positive": 6,
-    "neutral": 2,
-    "concern": 1,
-    "avg_score": 0.311,
-    "avg_magnitude": 0.411
+    "n": 17,
+    "positive": 8,
+    "neutral": 7,
+    "concern": 2,
+    "avg_score": 0.176,
+    "avg_magnitude": 0.335
   },
   "overall": {
-    "n": 29,
-    "positive": 12,
-    "neutral": 9,
-    "concern": 8,
-    "avg_score": 0.076,
-    "avg_magnitude": 0.314
+    "n": 37,
+    "positive": 14,
+    "neutral": 13,
+    "concern": 10,
+    "avg_score": 0.054,
+    "avg_magnitude": 0.311
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Good information 👍",
+      "title": "nice",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Great video👍",
-      "score": 0.9
+      "title": "Nice video bhai ji 🎉 thoda lamba video bna is roade da",
+      "score": 0.8
     },
     {
       "source": "press",

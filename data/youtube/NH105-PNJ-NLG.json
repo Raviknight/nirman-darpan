@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-06T20:49:07.421Z",
+  "updated_at": "2026-07-09T20:44:05.016Z",
   "project_id": "NH105-PNJ-NLG",
   "query": "\"Pinjore–Baddi–Nalagarh 4-Lane\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 10
+    "comments": 8
   },
   "videos": [
     {
-      "videoId": "NBPnIfW8JTU",
-      "title": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal",
-      "channel": "Viral GOGI",
-      "published_at": "2023-05-20T00:50:53Z",
-      "description": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal #news #fourlane #baddi #nitingadkari.",
+      "videoId": "AC0p4iVIr5w",
+      "title": "Fourlane Nalagarh Baddi Pinjore",
+      "channel": "Gaurav Kumar BilaspuRiya",
+      "published_at": "2022-11-05T02:56:22Z",
+      "description": "",
       "comment_count": 0,
       "comments": []
     },
@@ -46,13 +46,6 @@
           "published_at": "2022-02-26T06:43:47Z"
         },
         {
-          "comment_id": "UgzNg0c17WUV-Oh8dBp4AaABAg",
-          "author": "@poachingwallah8260",
-          "text": "Modi ji zindabad",
-          "like_count": 1,
-          "published_at": "2022-01-14T15:35:33Z"
-        },
-        {
           "comment_id": "UgyZ1xul0x2Kxqlw4394AaABAg",
           "author": "@ravinderbansal6894",
           "text": "Very sorry about 7km road takes 7 years",
@@ -65,6 +58,13 @@
           "text": "Pinjore to baddi kb bnega",
           "like_count": 0,
           "published_at": "2021-08-13T16:18:51Z"
+        },
+        {
+          "comment_id": "UgzNg0c17WUV-Oh8dBp4AaABAg",
+          "author": "@poachingwallah8260",
+          "text": "Modi ji zindabad",
+          "like_count": 1,
+          "published_at": "2022-01-14T15:35:33Z"
         },
         {
           "comment_id": "UgxDMUT6Qn7bRWbhzCR4AaABAg",
@@ -83,28 +83,13 @@
       ]
     },
     {
-      "videoId": "lHeY3HtTToE",
-      "title": "Pinjore Baddi Nalagarh fourlane Expressway Solan Himachal #NH105 #hpnews #viral",
+      "videoId": "NBPnIfW8JTU",
+      "title": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal",
       "channel": "Viral GOGI",
-      "published_at": "2023-04-20T01:10:03Z",
-      "description": "Pinjore Baddi Nalagarh fourlane Expressway Solan Himachal #NH105 #hpnews #viral baddi Nalagarh Fourlane pinjore Fourlane ...",
-      "comment_count": 2,
-      "comments": [
-        {
-          "comment_id": "UgxabhiUKkRU3iE32Jt4AaABAg",
-          "author": "@manojSharma-pc5no",
-          "text": "Bhai pehli baat to ye four lane nahi hai. Matlab kuch bhi utha ke daal dena hai",
-          "like_count": 0,
-          "published_at": "2023-04-23T06:55:28Z"
-        },
-        {
-          "comment_id": "UgyD2C2htIkL-L-eZR94AaABAg",
-          "author": "@SardarG-z1s",
-          "text": "Bhai \nBhud barrier se lay kar kishanpura Tak ka full video bna kar upload kro",
-          "like_count": 0,
-          "published_at": "2024-02-20T16:09:42Z"
-        }
-      ]
+      "published_at": "2023-05-20T00:50:53Z",
+      "description": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal #news #fourlane #baddi #nitingadkari.",
+      "comment_count": 0,
+      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-06T20:49:20.289Z",
+  "updated_at": "2026-07-09T20:44:19.139Z",
   "project_id": "RENUKA-DAM",
   "press": {
     "n": 20,
-    "positive": 4,
-    "neutral": 14,
+    "positive": 3,
+    "neutral": 15,
     "concern": 2,
-    "avg_score": 0.03,
-    "avg_magnitude": 0.13
+    "avg_score": 0.025,
+    "avg_magnitude": 0.105
   },
   "youtube": {
     "n": 7,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 27,
-    "positive": 8,
-    "neutral": 14,
+    "positive": 7,
+    "neutral": 15,
     "concern": 5,
-    "avg_score": 0.056,
-    "avg_magnitude": 0.333
+    "avg_score": 0.052,
+    "avg_magnitude": 0.315
   },
   "top_positive": [
     {
@@ -45,12 +45,12 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Lakhwar is 300 mw project not 927 mw",
+      "title": "WE SHOULD COMPLETE LAKHWAR DAM ON MISSION MODE IF WE WANT TO BE SUPER POWER UP TO 2047.....",
       "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "WE SHOULD COMPLETE LAKHWAR DAM ON MISSION MODE IF WE WANT TO BE SUPER POWER UP TO 2047.....",
+      "title": "Lakhwar is 300 mw project not 927 mw",
       "score": -0.5
     },
     {

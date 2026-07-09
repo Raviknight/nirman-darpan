@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-06T20:49:27.583Z",
+  "updated_at": "2026-07-09T20:44:28.757Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
-    "positive": 7,
-    "neutral": 12,
-    "concern": 1,
-    "avg_score": 0.13,
-    "avg_magnitude": 0.2
+    "positive": 5,
+    "neutral": 15,
+    "concern": 0,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.11
   },
   "youtube": {
-    "n": 31,
-    "positive": 21,
+    "n": 34,
+    "positive": 25,
     "neutral": 7,
-    "concern": 3,
-    "avg_score": 0.281,
-    "avg_magnitude": 0.581
+    "concern": 2,
+    "avg_score": 0.329,
+    "avg_magnitude": 0.479
   },
   "overall": {
-    "n": 51,
-    "positive": 28,
-    "neutral": 19,
-    "concern": 4,
-    "avg_score": 0.222,
-    "avg_magnitude": 0.431
+    "n": 54,
+    "positive": 30,
+    "neutral": 22,
+    "concern": 2,
+    "avg_score": 0.244,
+    "avg_magnitude": 0.343
   },
   "top_positive": [
     {
@@ -37,27 +37,27 @@
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "I start my jee journey every day by seeing this video at dawn. \nThank you so much for giving us the ultimate motivation ",
-      "score": 0.9
+      "source": "press",
+      "title": "आईआईटी मंडी ने हिमालयी क्षेत्र के लिए विकसित की भूस्खलन पूर्व चेतावनी प्रणाली - ThePrint Hindi",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ3pYdW04VzZxVVhhT1I0LXkxLVdPQ0lBaTVjQ3ZmVTRHMThKNDJBSnlPalBMMndzOENaaEZzdXR2WnBpamFkR2pjOUFJcjNQcGJUdDJLNXRpdHJTNHI4VHlLT3IxS1Z2TnIyd2N1NHN3Sk91dmJxdlpRa0QyR3ktZmMtZ215RU5tV0l6SDNZS0pBaUU5eVlqZTUyQXFVdlMwRlhDZWxXemRzQzAxeVA0UVhIRWxEMmc3NVHSAboBQVVfeXFMTkN6WHVtOFc2cVVYYU9SNC15MS1XT0NJQWk1Y0N2ZlU0RzE4SjQyQUp5T2pQTDJ3czhDWmhGc3V0dlpwaWphZEdqYzlBSXIzUHBiVHQySzV0aXRyUzRyOFR5S09yMUtWdk5yMndjdTRzd0pPdXZicXZaUWtEMkd5LWZjLWdteUVObVdJekgzWUtKQWlFOXlZamU1MkFxVXZTMEZYQ2VsV3pkc0MwMXlQNFFYSEVsRDJnNzVR?oc=5",
+      "score": 0.8
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "worst college, no facilities, very tough life. dont go please",
-      "score": -0.8
-    },
     {
       "source": "youtube",
       "title": "Why experience 😢",
       "score": -0.5
     },
     {
-      "source": "press",
-      "title": "‘Profound injustice’: IIT Mandi on news coverage of mind, brain and consciousness conference - Careers360",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSFZDOFAtQkJHWmdXWkZpWklYZzVzWGNjc1h2SnNkUUg3RVo2dm1SLVBpVGVHY0pJaDl4dVF6S3Y4S0VMVlVqT2YzOHV2NndqVzZrRzIzQWREWERtZ052THluRzB6VHZJU0h5alZ3TTBOTWhkYVBvMm5xVjVYUUREUkFPOGJQcV9XVjBqeFY2NFJGZ3N5UEdwWU80djZBUUswREUwZEFvN2RLbWtBNVRJUUJ5WXA2UEk?oc=5",
-      "score": -0.4
+      "source": "youtube",
+      "title": "Exp unke hand me h",
+      "score": -0.3
+    },
+    {
+      "source": "youtube",
+      "title": "Bro what about landslide",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

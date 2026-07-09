@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T20:49:35.268Z",
+  "updated_at": "2026-07-09T20:44:34.511Z",
   "project_id": "MANDI-FLOOD",
   "press": {
     "n": 0,
@@ -10,53 +10,33 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 3,
-    "positive": 0,
-    "neutral": 2,
-    "concern": 1,
-    "avg_score": -0.1,
-    "avg_magnitude": 0.167
+    "n": 1,
+    "positive": 1,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0.4,
+    "avg_magnitude": 0.4
   },
   "overall": {
-    "n": 3,
-    "positive": 0,
-    "neutral": 2,
-    "concern": 1,
-    "avg_score": -0.1,
-    "avg_magnitude": 0.167
+    "n": 1,
+    "positive": 1,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0.4,
+    "avg_magnitude": 0.4
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Send choppers",
-      "score": 0.1
-    },
-    {
-      "source": "youtube",
-      "title": "Gadkari USA roads",
-      "score": 0
-    },
-    {
-      "source": "youtube",
-      "title": "Where is the government of himachal pradesh??",
-      "score": -0.4
+      "title": "ਬਾਰ ਬਾਰ ਕੋਈ ਰਲੈਕਸ ਬੈਠੇ ਹੋਏ ਨੂੰ ਪ੍ਰੇਸ਼ਾਨ ਕਰੇਗਾ ਅਗਲੇ ਨੂੰ ਗੁੱਸਾ ਤੇ ਆਉਂਦਾ ਹੀ ਹੈ",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Where is the government of himachal pradesh??",
-      "score": -0.4
-    },
-    {
-      "source": "youtube",
-      "title": "Gadkari USA roads",
-      "score": 0
-    },
-    {
-      "source": "youtube",
-      "title": "Send choppers",
-      "score": 0.1
+      "title": "ਬਾਰ ਬਾਰ ਕੋਈ ਰਲੈਕਸ ਬੈਠੇ ਹੋਏ ਨੂੰ ਪ੍ਰੇਸ਼ਾਨ ਕਰੇਗਾ ਅਗਲੇ ਨੂੰ ਗੁੱਸਾ ਤੇ ਆਉਂਦਾ ਹੀ ਹੈ",
+      "score": 0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

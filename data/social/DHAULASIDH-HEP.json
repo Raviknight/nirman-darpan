@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-07-06T20:48:14.485Z",
+  "updated_at": "2026-07-09T20:43:11.327Z",
   "project_id": "DHAULASIDH-HEP",
   "counts": {
-    "press": 25,
+    "press": 23,
     "gov": 0,
-    "en": 19,
+    "en": 17,
     "hi": 6,
-    "total": 25
+    "total": 23
   },
   "mentions": [
     {
-      "title": "HP to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - News Arena India",
-      "source": "News Arena India",
+      "title": "Himachal CM Sukhu orders takeover of Sunni, Luhri, and Dhaulasidh hydro projects from SJVNL - ANI News",
+      "source": "ANI News",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFRvMnh4enBWOXN3U0ZnRjdwbjBtclJtb09iTkR0WGUyQUo3Mlg2d0kzMnZMSFY5QS1xMXJsYW5XZDhzcURjbnNoeVl4MjB3OHdILXZZVHhUalBvYVRoVFc3TldyWWxqX29lUWtUU0pwNllHSERHSTgyel8ySGgwa2pVMnZCc2JaRDB5N3dHcVJPTnVPV3A5ZzNhWGZKUGpZSFYwbA?oc=5",
-      "date": "2026-07-02T16:22:19.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTY2Z3FTOWo3dDZLQXBZZ1RhVWVLUDJoNnZRc0xZTGJLUFQxc1FzbnRsUE1PXy16dkxNbVBHRXpYM29jVkEwcGJLUXltWFZEbXhDWWZpUlFhcksyU0VHMVZZU1VVdW1hN3R1R3FjS21PdDdyMzhBTGE4a245X0IxMExHN3pKaVk0aTBRRmxDdWlXcWZtS3FrT3ZzQ3lmVUhDem42WWF1LXVXbGI0T1NDVXVmeUE0UldtSlJGU0psbW5MQXpTdDBGd3k1UndNVVVWdk52NUNEWGVTOXl1Tkt5dTFEWHJyc3JG?oc=5",
+      "date": "2026-07-02T15:05:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dhaulasidh"
@@ -190,16 +190,6 @@
       "match": "Dhaulasidh"
     },
     {
-      "title": "SJVN Signs Electro Mechanical Works Contract with Voith for 66MW Dhaulasidh Project - Energetica India Magazine",
-      "source": "Energetica India Magazine",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0JIcV9JMjBvMHdpdXlNZVVCNnRKZE55UmRpUHF6ZDZjNVdxNUJ6N3RkYnZIaVNTTk1oY0JUYnBnUlgzR1pYVjBMYkVmWDBiN0xZakR5bkRhNnV0SmtseWo3SkI3cHNJUXA4aDdVc1lxNTRja0syeFRlVF9hSFBqWTdDU3hOZWtiNU5GTHNRbUVidC1wd0FPQlpJWWRaMzNiY3FLVUxnMkRvR21EY1pad2NPRnFQUXNXRTR5TVR3?oc=5",
-      "date": "2022-02-14T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
       "title": "Dhaulasidh hydro project: SJVN signs contract for electromechanical works - T&D India",
       "source": "T&D India",
       "source_id": "google-news-en",
@@ -207,6 +197,16 @@
       "date": "2022-02-14T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "कांगड़ा और हमीरपुर के सैकड़ों गांव की प्यास बुझाएगा धौलासिद्ध पावर प्रोजेक्ट - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHV1d0Q0NmhVVUhZcHVaOGFXdm5rcTZFSlM1SXNZY1NlTjY1ampENXBFdnNISDJYMWNRd3VkbzQwVGIyWm1yMFpSbFprSVBCcmNZb2dKalI4V1Y4Vk00ZXNyWl9ENkEtR0Z1OFY3dXJxT25ucUlSa1E2dWZBSGNDZkZTSFBXMU1hcHlF0gGQAUFVX3lxTE9SbGo3NlBhOUlJZkFmNlF3YmhBRlpFZVdZNFVZUGdaR09ic045TmdKamxDZlllUDVfTGhIZlRtOUNfYnZTMlNFZ1dEeFktNVNEV2NDLTB5ejNGWkZXYmU0TEtkLVdCUFp1NUdtOUdielY0dVpRSnF6bXpvRnphc1lKTy12Zm1rZnFNb1M1SFJPaA?oc=5",
+      "date": "2021-08-12T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Dhaulasidh"
     }
   ],

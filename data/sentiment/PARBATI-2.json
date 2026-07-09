@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-06T20:49:29.171Z",
+  "updated_at": "2026-07-09T20:44:30.605Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
-    "positive": 14,
-    "neutral": 6,
-    "concern": 0,
-    "avg_score": 0.295,
-    "avg_magnitude": 0.365
+    "positive": 11,
+    "neutral": 8,
+    "concern": 1,
+    "avg_score": 0.23,
+    "avg_magnitude": 0.335
   },
   "youtube": {
     "n": 4,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 24,
-    "positive": 16,
-    "neutral": 7,
-    "concern": 1,
-    "avg_score": 0.271,
-    "avg_magnitude": 0.354
+    "positive": 13,
+    "neutral": 9,
+    "concern": 2,
+    "avg_score": 0.217,
+    "avg_magnitude": 0.329
   },
   "top_positive": [
     {
@@ -47,6 +47,12 @@
   ],
   "top_concern": [
     {
+      "source": "press",
+      "title": "NHPC to release additional water from Parbati-II Dam, public advised to stay away from riverbanks - India's News.Net",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQend6X0JncDBaOEJaWElpVlZDd2JiTDFaNnktbERlMVZIR2VFQlNXeGRvbGp0YmpRZnpEQnVYMk1FNmhkZVR3X015cmNHMzVBRlh3aERzcjgxTGRVVExkblVzMXZIU3RUeV9zcmxDblhPRWg3S2wwdDg2ekxUUWVsbWlTbmpwVXRacmFnT2JpS0x2S1pGM3JFRU1jOUJTS1NCOU1pR3BaMkFaRmR4Vnh4UWdVWTFzX1BKR2xBOFlWMThOaEF3YWFlMVBoc0VrY1VBSm1yYQ?oc=5",
+      "score": -0.5
+    },
+    {
       "source": "youtube",
       "title": "Make this type of projects by using \nmoney of temple devotional money\nby giving them small interest over it\nAlso money o",
       "score": -0.3
@@ -54,12 +60,6 @@
     {
       "source": "youtube",
       "title": "Turn the water of himalayan rivers to the deserts of Rajasthan",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Gangaur ki kahani: गणगौर व्रत आज, मां पार्वती और भगवान शिव का आशीर्वाद पाने के लिए पढ़ें ये व्रत कथा - livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFhWc3VfZm54T1drREszQkJLWjVJcXhfajc3YmE3M3lYVVB1amp0WG9CR2h5MmtKWDBobTJIVVdwSExaYUM4aGZVdXJQUVlZckJ4ZnRqN1NPYVJaNWROMGlUWDQxTjhzWFpVREUxbTc2d180RUlfOEFXYnNXcmJmN0dTU0xDZkp4dkZiN1hXb0lPX3RIVFUyM1k0SXl1RjdTWGkzc0xGQ2NUbDdHTlNnTVEyYzZ3OHBPbkgxUThjcjVUQzVhd2lNdjZ30gHPAUFVX3lxTE41U09HaW51WnIycmQ1dldmZ0ZONTQ3UUd2V2NWeVpxZEpkRVh5N2hTVFdRWmpOelA4cUxpUnBRWXhmZTdoTDJIVWhsMjNWTHlxSmIteFQyZ2dzLW1NeEhqbkktTWlWd3hoekxUeUI5SThKVkRfcGFTZ2tRWFc5M2FTeTgwVXVFaFZQZUIyUEdodUdpNHlpR01TTldYYkRBX2NNbTAzZHVNU3ZTVDZ1WHJENTRzY3F0czJxNGR3YXJIRmtfS3l3RENLaHZvSWRoZw?oc=5",
       "score": 0
     }
   ],

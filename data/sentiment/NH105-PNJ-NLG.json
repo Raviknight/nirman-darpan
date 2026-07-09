@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T20:49:30.895Z",
+  "updated_at": "2026-07-09T20:44:31.295Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 20,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.255
   },
   "youtube": {
-    "n": 10,
+    "n": 8,
     "positive": 3,
-    "neutral": 5,
+    "neutral": 3,
     "concern": 2,
-    "avg_score": 0.02,
-    "avg_magnitude": 0.56
+    "avg_score": 0.037,
+    "avg_magnitude": 0.562
   },
   "overall": {
-    "n": 30,
+    "n": 28,
     "positive": 11,
-    "neutral": 11,
+    "neutral": 9,
     "concern": 8,
-    "avg_score": 0.01,
-    "avg_magnitude": 0.357
+    "avg_score": 0.014,
+    "avg_magnitude": 0.343
   },
   "top_positive": [
     {
@@ -51,8 +51,8 @@
     },
     {
       "source": "press",
-      "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - ET Infra",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWmd2LXRfOWgyYlZUUW43aUdJT21XcklWaEg5a0h2S2hpNmJYazN5QjZZekdrRFlZdGZVMXRUZzZzWlpfaUl4cjAxdjZjZUx4RzNyR3lDR3BMeUdTZ2dwbG95MmF1aXJLQTVOTVI3eE9scFpuOXA3dEJpalF6RGZ3cjBHT2c5MkR3MVRvTWFoekN4LXd6Z0VPeXM0TmNGTjN3U2g3Q3pwQXNIeVdmcU4zdDhBTU1hTXBLWlZiM05KeXdoX1dncEFmZ0Nob2tMZFhROVlFRl9IOWt3TWpGeWgwWHJveU1FdDBHRWZNcQ?oc=5",
+      "title": "Bridge delay triggers accidents, traffic jams on Kiratpur highway - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZlJpbHcwaEhDOVdrSjBVUko5VmFmWXhjMEVDcHRvR3FESVpFek40Ni00TjdxaS1Qa2RDc2ZzOUNXMl9jU2E5Y05LRWJ1bG51aHFBU1ozdXQ3RUQxSDd5aVNVWkRqSTE5RDc4cElZZk05cWVXSlBVYVF6MWJRZWZ0VUlfb1BUT0dPYnBqVm1iQV9BZ1g2U1JvM1dpUkZaUDkybHF0VllDR0p2YUVtalA3Q2JFSnBnc1I3ZXNkY1RiclpVa0dLcXNVcFdMdDZkcXNCeWlEenZSalY3Z9IB3wFBVV95cUxQX3VRVHBCeEVrajMxbzJWS2VoSlNhSURsdUF3emtmcFYtMHl2RFRsR0xYdEJLWnVua2IySlR5VTY2NUxEX3BzNXd1cFR6dkhXR01BVnEwZmN2NGU5LUZxY3J0VGt4ekJKYTNsZ3dBdlpQUDFicDRCVGs3OUk1T1hrdndfZmJxU3NMU2Q0YjVsOFBjLVJVWGt3dndLeE15N2JOS1BtQkhXajJoZ3VyVU1Hd2d4cWJnR1lKbHBoTWNBeVdXbEpvT2d6bVV2Rk1xa1lpQV8tQU10RHBWQUJaRVJz?oc=5",
       "score": -0.7
     },
     {

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-06T20:49:21.520Z",
+  "updated_at": "2026-07-09T20:44:19.512Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
-    "positive": 4,
-    "neutral": 15,
-    "concern": 1,
-    "avg_score": 0.065,
-    "avg_magnitude": 0.115
+    "positive": 6,
+    "neutral": 14,
+    "concern": 0,
+    "avg_score": 0.12,
+    "avg_magnitude": 0.13
   },
   "youtube": {
     "n": 7,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 27,
-    "positive": 9,
-    "neutral": 16,
-    "concern": 2,
-    "avg_score": 0.107,
-    "avg_magnitude": 0.174
+    "positive": 11,
+    "neutral": 15,
+    "concern": 1,
+    "avg_score": 0.148,
+    "avg_magnitude": 0.185
   },
   "top_positive": [
     {
@@ -51,14 +51,14 @@
       "score": -0.4
     },
     {
-      "source": "press",
-      "title": "Financial hurdles loom over Himachal’s bid to retake Hydropower Projects from SJVNL - himachalguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSi10VTE1OVlqOUhvUXZYcXpQVndpRGkxdXNVdTAwOGh6ZFVPTzF6RTRDalU3ZmVTdmJPeWQ1T0JDSTRMajhCRVE2dTQ1dTdtS2Z0d1RZeWh1OHlvM0c5OTJTWUdQVzJVUXAwcXV4WC1mUHg2dWdYZXJIdWlCWndNVG9lbnVweTVOTDBUSVFRcGRsTTNqcWZnUDlHU1BOZmFaLTFVMXhJcmVOa1VaMFlPZG1lRTdGbnU4aTk5RQ?oc=5",
-      "score": -0.4
-    },
-    {
       "source": "youtube",
       "title": "Kb hoga suru",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "SJVN’s Luhri-1 Hydro Electric Project enters advanced stage of construction - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVDZuNmU2MDhnaVU5MmwxZlVtcUNxWHFCLWNkekp3WjA2ck95YUpXaVVXd3dCeDNmT2R6dXdwaDhoTnd5WG9IaTRZU0h1T0pVbjNaWUhUTWhTbWtFNU5haDJHd2ZVRFU0aU4wdkM5ZmFGNjZIaTFHcDVhVk5mN0l4Y3NyRG5lSVJwNFFqMzI5VVpyX1FhcGtRYmp5MTM1TXctY1B1emxkMnB6RnFTQ3fSAbsBQVVfeXFMTVNEbHhqR2d5Zk01S0JidGtNV0VZTkRYRkNrYXpRMU9XQkx2b0tuVnhFMWp4bmx3M2NPQTBGcHBxWTNDN3lERHJucUpiV1FfVlMzSW1QcEdGMW42dDNIN3hMSy11Z0RYdXRob3NaTUV4V3l5OXpVbWFoSHdHbVprcFBoLXJ6LWZqejNsSjRPV0xHT2l5MFVhekxyUkRpTDk0aEZBVVlzajU4cXA0QTdFUU9NZkJYNm1OTG9zMA?oc=5",
       "score": 0
     }
   ],

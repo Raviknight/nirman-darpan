@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-07-06T20:48:55.379Z",
+  "updated_at": "2026-07-09T20:43:51.928Z",
   "project_id": "IIT-MANDI",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "grievance",
+      "severity": "low",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-09T20:43:51.928Z",
+      "title": "IIT Closing Rank 2026 Analysis: CSE and AI in Demand, Admission Becomes Easier in Core BTech Branches - Careers360",
+      "summary": "Auto-detected from press: \"IIT Closing Rank 2026 Analysis: CSE and AI in Demand, Admission Becomes Easier in Core BTech Branches - Careers360\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ1VoZ2p0Mks5eFFrbkY5VTJXLWNGZVZrajhhWU5WUXRRcnpRODQtNTM0a1ZXSkJmaXNJVU90NXhXaDNvdVJ0NnpfRG1aZTl1OWM1SHZtUkpFSEg1WG0wZmZWZlpHQTVYYml3TWo2WUpoSEJXbEhGOGVPeDlGN25RM2JpSU5SbGd0eW91ZmM0bGxzVTVsdlk3QVYxak1wMmhvNjZlbWdXclhzMjdSeFZkbm9JRzZzc2UwcUFSaUM1ZDg5UUlxcjgySlA1aWtwMXYxT0FLTzNSNHFOZjFJQm1UOUJiZw?oc=5",
+      "source_name": "Careers360",
+      "lang": "en",
+      "date": "2026-07-09T09:54:54.000Z",
+      "matched_term": "demand"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

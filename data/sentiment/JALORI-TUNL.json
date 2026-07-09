@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-06T20:49:31.170Z",
+  "updated_at": "2026-07-09T20:44:33.165Z",
   "project_id": "JALORI-TUNL",
   "press": {
     "n": 20,
-    "positive": 12,
-    "neutral": 8,
+    "positive": 13,
+    "neutral": 7,
     "concern": 0,
-    "avg_score": 0.245,
-    "avg_magnitude": 0.29
+    "avg_score": 0.265,
+    "avg_magnitude": 0.31
   },
   "youtube": {
     "n": 0,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 20,
-    "positive": 12,
-    "neutral": 8,
+    "positive": 13,
+    "neutral": 7,
     "concern": 0,
-    "avg_score": 0.245,
-    "avg_magnitude": 0.29
+    "avg_score": 0.265,
+    "avg_magnitude": 0.31
   },
   "top_positive": [
     {
@@ -48,21 +48,21 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "Jalori Jot tunnel to see light of the day - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVmViYlBLU0tBNWwzbVVsWjdqV0ZqWlhFYWw3NlRJckhvWTJvUGtDOGJFQkdYQ1BXSGZQZ1NPT0M2SkE2Z1lGMlQzYXdsLXcxOEVTMkVfM2pBMDdIeFphdlhHekQxVlhJSDVJX1piZGk2d1dMLU92VkMtTksyUUNYcl92d0Z3RWZNMlNmRkFQNkhteXJQZjA1VkgyS0FHTUpnZDlDeGdsTG9xNUxkZEh5VVc2d3pQS2N0Qmw4LTZlckktUzM5MVc1UFZRNHNhbjRqUFRFYWI3Mm3SAd4BQVVfeXFMTWhXR2h5NnA0WTBCRFdFaU1pTVRXNmN5dndRWWlQTkF3MFJPVENFQ0wzcmVNWlA2QUVyUndxWFJ4UXZtV0F3UWczQ3pxb0JXX0xnUTVCTnBRQnRkVUdzeDJ6OFYxckFGNDNoN1NmckV5QmdMQ2xMbnFXY28zTVRkNlhESVBRNXdQRnE4X1gzMEk5TFpDNTB4ald4QnFVal9ZTjN3Q0QwOXNHcjlZMkotSGxydW9KY1pVMmhha2tGQnYxZWQ1VGZ4d3dGdlI2djJmS0VUUUNVNTJ6Y21DTUVn?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
       "title": "Jalori Tunnel Project gets green light: Reducing travel time and winter hardships in Himachal Pradesh; will... - Bhaskar English",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ1dKUWtsaUY0U0QwV2F3ZGRXbUVhWXN6azZOUFlHTFRPMmNvWnFERFFPQXZ6RzBXdTJVMkNTVXR5c0ZUd3JLQUp6M0Z3Zl9HZlQzTE5JVDNMLUdpR2Q3VEpaTTVlYWwxVExNTWxnN3VaYmZIdDlHaU1fTHRuVEN5V3JhWFFrYl9Qczh6bnhZeEppUVh2X2JmNFFCdng1UFJPNDJwMlNhR0xMelE5Y01DdE5HdVdGT2VnRkpMOEk3NTk0YXJWVk12STRjV0dxV0hKNndETUlwdGdVUdIB3wFBVV95cUxOYkdxdFAwTTNFZzRQRDlwanBCb3Q4Qk1PZFQwVlE2cWdTNWhiREd0T0Fhc2I1eEtENEM4NFA2NFl4Sm5vWFhsZi0xc0hsdHhUbEdjOEJYaW9SNEZfMmRIR0plY3lIbkxraHZOSllwUGJNYkxtUU5pdXJQVndXLUZlckdzeWdkOHlWeG9lamM5YXE4cU5XbzNwaWtKT0JZYXZ2VjB1LUNyNURPVnpabGNNLWtaTFpPTTFMSXV2MVBjRkpCcjZaNFlXSmFKa2VjZElWVldFMmJGMnFYMnFXZ2dB?oc=5",
       "score": 0
     },
     {
       "source": "press",
-      "title": "Centre Clears Rs 3,667 Crore Plan To Upgrade Himachal’s Road Connectivity, Tunnel To Come Up Beneath Kullu's Jalori Jot Pass - Swarajya",
+      "title": "Centre Clears Rs 3,667 Crore Plan To Upgrade Himachal’s Road Connectivity, Tunnel To Come Up Beneath Kullu's Jalori Jot Pass - Swarajyamag",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTS1ncjRYYnROaXlTMlJaWTExdC0zZFJVN0hjU1hYZ1Q2TTFTbDlEX0hXUXR6NUlheU5GVGxTQU8yTVdXTGVieno3QVRBQ292Q1NOTGkxX1JvZmpIWlNoTXNIXzB1QThMQnhPdUhiX2N1MGRJbVpma0tOOE9zNUJOWmNsbnhGUlNZUTFlUkVXQzZ5SUNESFFuUFpiRHZ4S1FBdlotMDFmblZ0SWtpellYX3hlUW50RjAtSWNkZFBFS2wxUzQ0c2tWV25lQ2Zsdi0yUlNKR3dRN2dmcko5eEJpTENfNk5GeEdDbTZn0gH7AUFVX3lxTE93NG04YThHYzVvWkRlTXFVOHpVeU5XMzRQYl9PczM2YWxnMkV1dFRiV0pNME9nMGlaTmhvMGtNX2dlMUVTTlJpTVdwS0lqTFpJU0ZqVmVfeU91RWY5TXRlLXJodFIwMDJYeG00dXRtLTBudElMbE9ocXBPUUtIRlhKYmJxTHZRcVhmS2NOd1VxRjdFeVJxME5xVWdreDdBNmNhc3RaZklmdWRCN0JYXzMzeUNDbG9aZkZiMUZwa3BCcWY4TTlLM0dPNkhzVVcxQ3NCdjloTUgwVkItVmhkckIyNnczZFlLTVp2NFZoQUNrZF8zVEZwdVhFalow?oc=5",
       "score": 0
+    },
+    {
+      "source": "press",
+      "title": "Jalodi Jot Tunnel – Ministry of Road Transport and Highways set on tunnel alignment - Himtimes",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzRENTVJZDdidHJRLVE3LWxNNjFEYTVndlZlemFkYTVPMGQtd3RGa2xVUDJmUWFnN19UMV80eGZUQ0E5czcySkc4bjRIQUEta2NwLXZHcFVfZVhpeWFXVVExemE2a1ZsM1RKNHphVlpVVFlUREh0UnNybzNSQ0pFRUFiVTdLbW9NeUZmeG0yLTVnVlp6NEZrYndIcnVNZUl6Y2ZXRnp3?oc=5",
+      "score": 0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,7 +1,36 @@
 {
-  "updated_at": "2026-07-06T20:48:55.394Z",
+  "updated_at": "2026-07-09T20:43:51.951Z",
   "project_id": "PEKHUBELA-SOLAR",
-  "count": 0,
-  "suggestions": [],
+  "count": 2,
+  "suggestions": [
+    {
+      "category": "audit",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-09T20:43:51.951Z",
+      "title": "Vimal Negi case: CBI chargesheet flags irregularities in Pekhubela solar power project - The Tribune",
+      "summary": "Auto-detected from press: \"Vimal Negi case: CBI chargesheet flags irregularities in Pekhubela solar power project - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSllNdVlacHIzTG1zY1pUOGRvZ1VrTVZ3Vy13VDE2UnZ1VmRZV2ZEeGluQ1lYOWNwS19ETkgtUHNmaWV1eExaak9fb1pRTExRa18xdXBPdGQzaE00YzMxZzRLSUk5cjd5TmYwZjJFVE1vVnE5TmVxZzR4VTJoaVJjUmpwUXB3Q3AxVk9hMzVVckJsOGFId2xXTnhCSWlPdDRyUGlJZU9vTWJacXR6ZGhRZENuamx3eEo5UjZORUk0M0NGTlFXRjRULdIBzAFBVV95cUxQWXVLa0ZJbjJwNVVJTkV0blRhOGRXbUlHMmlBYmtTZjNuMWViLXVWaFFXbXU0dU9oTURJZWlhbnk2d1lnUkZDZmJNNU1uS0FuMGJZZXdwTDFLNmpSRWhsdjFucUVpSnozV3RtLWhmNDd1WFgzM0R5Z2ZIMkhMVEFNNU55d3IxOXhZV2RobFZGd0UxdFE1ckl4ei11RnRoZUVJNTdEbFlYN3V2SjA0TkVoZEhWN3lnWkVzUzVfeFJCekNnVHRyM3ROazFtanM?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2026-06-10T07:00:00.000Z",
+      "matched_term": "irregularities"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-09T20:43:51.951Z",
+      "title": "Pekhubela solar power project may hold key to death: Una MLA - The Tribune",
+      "summary": "Auto-detected from press: \"Pekhubela solar power project may hold key to death: Una MLA - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHlyaTZMZGdubHBKVzVQSDdRclRPYkpQczBUZG1Ob1YtSXF4c3VEdTZLR1p1ZFZXNzhXS2NCSTBvUUhXUXMtZVJWX1p3dndMTV9xaVo0LUFmUG5jbURPSEJlMWFmR05wOXdtaTN3LWVISkJTd0ZIVE5aTXpGaWtOZWxTOE40LUhuZG9DLXpfM1B6WWtMbWRNRC0zZVFNb2J2Rm9WZVVB0gGqAUFVX3lxTE9CdnlTS0thMFBERlNNMHJPX2dSQmFyT1VKUmFXR2stOVRudUpTLXVpSU54bG9CM1RtclJsUXlHRmNLeFBMQkcyVWxjbHlqVS1HRG5Ib0xielJMUW04aVN5R05Fa0hfbkRVemNsUFp6TksyWGpQWFZkV3h2b2VLUllLa2RYNHBTSHNNV05fVkxKUC1pRUgwc0ZpS2tfeWViSzhXVi1qeXF0MWd3?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2025-05-26T07:00:00.000Z",
+      "matched_term": "death"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

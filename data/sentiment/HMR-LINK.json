@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-06T20:49:44.524Z",
+  "updated_at": "2026-07-09T20:44:38.985Z",
   "project_id": "HMR-LINK",
   "press": {
-    "n": 9,
-    "positive": 8,
-    "neutral": 1,
+    "n": 6,
+    "positive": 6,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.378,
-    "avg_magnitude": 0.378
+    "avg_score": 0.383,
+    "avg_magnitude": 0.383
   },
   "youtube": {
     "n": 0,
@@ -18,24 +18,18 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 9,
-    "positive": 8,
-    "neutral": 1,
+    "n": 6,
+    "positive": 6,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.378,
-    "avg_magnitude": 0.378
+    "avg_score": 0.383,
+    "avg_magnitude": 0.383
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "संघर्ष समिति-UPPCL ने एक-दूसरे को बताया घाटे का जिम्मेदार, महंगी बिजली खरीद-निजीकरण पर बढ़ी तकरार - Navbharat Times",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOUHZibGFmUDI1VkZ5UnJhclppUUR2R3JGV1NTam9oTjJ0ckRfTTM3cXk4ZW42eGpsU05zSmNLbzZEZUFvNDAxZGdYTE5jYVlSaFktcWlWZl8tcXpjazFBQlczTjg0eU1BQlc3cUk3N3phekc2ejU0UUlaUGNWQlJlaGtUNVFVODhINnRBN3FrTGFlSnZkekc3dEl4TzdyclB4MHI1QnJVSXRPdEVfLTE1alhkWkpYeEZpQ2E2a1l6T0dvblJUT2Nwa2lvUUhGMUxjWlVpdVoxek5qbWk0a1FfWTFDOUx4bjh4TU9qcTdfU0ZjYzZ3UXRuZGRzbGwwSFFzY0JsOVBGMkNsRlpnVHlRY2k3eHdRRHo5c0FR0gGgAkFVX3lxTE5nM0FVamtURTdpUmVaVjZCdTNXa3pxMUJ5ak90ZHBvUTYwYU5ubEU1dlVxdzd4VEJINTE3TUlOZmNsWVh4S2NETTZKRjg5Rnp5TWgxQnBLanhvY2w1aUpEdzhQUlBpT19naGhybHg5RlJ3V0lsVDFSVW11bjNBWXVXZzlUcmFieE1GSTN2aHYydVdPNWVTX0NVNjZaUTdYNUN3bm16bmRHUkJzNDdteWpOSmRFODFma1BLOXlkMHB3RFBaQ1YzLVpTQkR1cFVwX1JwSC1WaG5iaFFRUU1STkNmSGJnMm1McUdlQXBWbklvZ3E1MDcwSnBwTVZMNDRYdm5nUmVfUEtTSlFFS2YwTDVYeXpxWGM4a0ZfMzBkWlA2Wg?oc=5",
-      "score": 0.7
-    },
-    {
-      "source": "press",
       "title": "जोचीणा में ग्रामीण सेवा शिविर: बिजली, राजस्व से संबंधित समस्याओं का हुआ समाधान, SDM ने किया जनसंवाद - Jayal News - Dainik Bhaskar",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0liUHFHWXdSNFpfUUNkdGpQajFXdkNqSzVkV09fRTZHUFZnbVJVZTh2UDVLY3ZZSHZ0QkpHM25UdkN4dWtuQlFZU3J6NHNqSU9BbE92TFRncWlsSUoxR2NNSDMtd0tQdkJnLUp0bV9oZ2RRaWNtNkN1YWxjTC1BbmtOR1pDVnZMb0d6RzZtU2xsQmYzRXJIMWZKY1hBN203NGh3ZG1XdTdvQXd6YzZWT1lZSzh5WkJfNXlla2xIWmkydmY3ck12SmpvVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdTBxb2dHLUV2RTFTMVhBM3ZQRlRuTTRHcTYzcHhpTXJFWkUyZFpocTExNERKVUdzMEdRYkUxZE1WUENISFFNV1hranptMFpkVVFQYng2WFhfWnpQT0dsaDNoOUFsN20yX29RV2tDUU1vSHM3VXE1SEdUQS0wX0Vya3pUMW50dnJsQXF4dTY5U01wYXA1eWdtUEtxbHNxUHlCUUcyUU5fTGQzVHBaSDk3aC1WUEVMeXRtN3VuLQ?oc=5",
       "score": 0.6
     },
     {
@@ -43,15 +37,15 @@
       "title": "स्मार्ट प्रीपेड मीटर लगने के बाद UP में 31.19% बढ़ा बिजली बिल, पूर्वांचल डिस्काम की रिपोर्ट में हुआ खुलासा - Jagran",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTJZRzhVUDVreE5qNWlvSGlySzk5LS00RG04X0NZX29tZ0lSX0hLUnFWZVhCQ2ZsUnpFb0lUdS1wQ2JTXy1qdUhoWlBvM0hNbnVPNmdVQUJ4dnpMZDVVQWR1SGRfdGM5bFJCMFhRd1JLWk5oTlVZSTh1UDFRbFhITVRsNGZvVFlHTGVSQTBXeXNUem54dk96dGhqcVdQVUpjcXFvcGNjVkZXZ2hfdDRGMVNrQUl2dw?oc=5",
       "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "सरकारी कर्मचारियों के लिए जरूरी खबर, बिजली बिल नहीं दिया तो रुक जाएगी दो महीने की सैलरी - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQanpFNG4wX3hzYzdWMmRhQXUzeXQwNklBS3dfTDR5VDgtbElyMUhRQTFvQlVxYThia29HZUszRzZLMTA5RDNCMHJucEwyWEN4UlQ1aHpmSGNXckdWcW9admtwNWg2b0ppT2pXX2J2ZEV5aDhsYmN1NlFuem05S1dlNHNzaDJxSTU3c1dZazJhYVFfcUhsV2taZ0xQMFVyMnZ6eFdGMnNiSWhEMDVacTNfQ1VQa0dIZ0xibnA5d0pOdWtoSnB3TGxOSjFvSk9YTFdoU0VTVWxONA?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
-    {
-      "source": "press",
-      "title": "घटता राजस्व बढ़ाने कलेक्टर आज करेंगे समाधान योजना की समीक्षा, अधिकारियों संग बैठक - स्टार समाचार",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdG9BNWxIbDNKcWxVNk83TmgyV3ljSmVjel9HVkNtdGc5bDZmU2UwbTNNVnZFX3RtVk0tbkQtb25aLW14eU5VWHJuaV93b1o3bEhKNHZkZloxWng4dlRIaEdyQ1RMTUQtRVdWRWp1WXdxMUd2WjF2RFdXUjJ1YjE0c25lMWRudjN1SkpGdVF3bjN1TjUwVDBsc0w4OA?oc=5",
-      "score": 0
-    },
     {
       "source": "press",
       "title": "यूपी: बिजली के निजीकरण के खिलाफ प्रदेश में उतरेंगे किसान,रेलवे और राज्य के कर्मचारी, सीबीआई जांच की मांग - Amar Ujala",
@@ -62,6 +56,12 @@
       "source": "press",
       "title": "गोरखपुर में बिजली राजस्व 5 करोड़ घटा: कम वसूली पर 22 अभियंताओं पर कार्रवाई, बड़े बकायेदारों के कटेंगे कनेक्शन - Dainik Bhaskar",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDZpdV9kOTYwam5uc0RaMEVaV214dldWZFk2V3o0eUgwU0hVQWk3VWh5dndqM3ZKOExwR21UNmItcVlFeGF6TnphYXd5b3pDbTB3b3dieE90R3BqM1hHUzdSTkhLcThkZ2w2N2lnNjMtbDdyRGNTbGVVblA4VTJLUVlKUTZsUG9sLUxJb1lCS1FkYzE5QmRzM3M3LTN1MFlPX3VPelNzU0tyRW41RnFxUEIzWGY0OXg2cWNlQlJaMG9qaUY3T2ZIM0wxTjTSAdIBQVVfeXFMUGFTNmxVRjM3NDF5aUlpZ2wxdV9nUXdKR0Q2VUVORmxrOS10U1VpRzJ4amxvVHJETWY2Qk9MZnlaMkc4bzJhaHA4OGZTbEs5dllqc1NrUHB3bjE3WVVKTTNCa1NybEFKOURLZGs1VU0waXhvS05tN1E2ZGgwWWZUUl85RmwxU1RSRFhzNHhFc3kxMW5YV2ZSVFdFaG5tNlNWU3dYMnRGaGJPZ1hrME81dGc3VmpLSVBZNFBXdzVPMm9VSURQellMenhCU1R0TElKUXpB?oc=5",
+      "score": 0.3
+    },
+    {
+      "source": "press",
+      "title": "वजीरगंज में बिजली राजस्व वसूली अभियान: उपभोक्ताओं को जागरूक कर बिल जमा करने को प्रेरित किया - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOemhSell3cnZINDlDMFZheDJuMURCeHM2WlBSaG9peGlZelY3aGFYTjB6a3Q1RG1uZmhtTXJqU1FLWTlPaXBRd0hMd1psRml6eHpZRllKRUxEc1k1dF9mV0ZqSHI5Ml91dDk2bW1zci1Pcm9xS2VlSzZFZzgxWmhIZ3NvblF2Wk10ZUNOMWlwVDRJQk4zOGlCQlUyRnV1Ry1LenZGcmYzOENJdHAxdW90MnZzbzZySm5Uamp0cGNmS1JrTVd6VFl6bU5lX1dOTDdNalZYdHpvUy1mM0F2Y05BajlzY9IB6AFBVV95cUxNV0oxamIzeVBTOGI0N0R3aXR6ZTZEbTBOam1pTVVvN1dPVWw1SkpFSEhLdV9xNHIzWWc5MTdwcjBJQjdJZHVIbWdHd2ZaRmQ2MGp1amJOQnZycXdkeHJNaGdmb3dBX05MS0VpVXBFN29oaTJ0SHRTdTN2a2xuYkZ4RTBaMnpXMUZOS0ZFU0h3eFVEbHlRcHdMR0JUZUxxSnhNQmhNcGU2dVVUbzVkZFhobmdhalFDajJTQjJPUTJLUG04NU9DRW1zU3puZThGeXZsR09mSTk4Qmswb1JzSG4tLWhSUXRhS3FF?oc=5",
       "score": 0.3
     }
   ],

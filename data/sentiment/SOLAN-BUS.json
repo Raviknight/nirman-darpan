@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T20:49:44.387Z",
+  "updated_at": "2026-07-09T20:44:38.984Z",
   "project_id": "SOLAN-BUS",
   "press": {
     "n": 4,
@@ -10,36 +10,36 @@
     "avg_magnitude": 0.4
   },
   "youtube": {
-    "n": 19,
-    "positive": 10,
-    "neutral": 7,
-    "concern": 2,
-    "avg_score": 0.168,
-    "avg_magnitude": 0.289
+    "n": 39,
+    "positive": 24,
+    "neutral": 10,
+    "concern": 5,
+    "avg_score": 0.305,
+    "avg_magnitude": 0.433
   },
   "overall": {
-    "n": 23,
-    "positive": 12,
-    "neutral": 8,
-    "concern": 3,
-    "avg_score": 0.139,
-    "avg_magnitude": 0.309
+    "n": 43,
+    "positive": 26,
+    "neutral": 11,
+    "concern": 6,
+    "avg_score": 0.277,
+    "avg_magnitude": 0.43
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Bhai job mil jayega",
-      "score": 0.8
+      "title": "Hats off to the driver and the passengers who was in that bus 🙂",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Thanks ❤",
-      "score": 0.7
+      "title": "Salute to HRTC 💕🙏",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Big Fan Tarun Sir . Congratulations for 1st number placement.",
-      "score": 0.4
+      "title": "BEST WORK \nBEST Driver \nIn INDIA",
+      "score": 0.9
     }
   ],
   "top_concern": [
@@ -56,8 +56,8 @@
     },
     {
       "source": "youtube",
-      "title": "भाई यहीं पर तो मैं काम करता है हिमाचल प्रदेश बद्दी यूनिकेम चौक यूनिकेम  limited company",
-      "score": -0.2
+      "title": "Imagine where would be the camera 📸 man standing just to take this vedio",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

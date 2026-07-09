@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-07-06T20:47:59.991Z",
+  "updated_at": "2026-07-09T20:42:56.966Z",
   "project_id": "ATAL-TUNNEL",
   "counts": {
     "press": 398,
     "gov": 0,
-    "en": 200,
-    "hi": 198,
+    "en": 199,
+    "hi": 199,
     "total": 398
   },
   "mentions": [
+    {
+      "title": "Avalanche blocks NH-03 near Atal Tunnel north portal in Lahaul - The News Mill",
+      "source": "The News Mill",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd01HQ0hHUXM1RjFCQlYxSnRNZFJGVVhEZWhtd2o5c0pBXzZweGh1Z0t5WVhhWXdGTktDeGtFeUdkYVZnbTRvUTVxSkxONk95WXpsY0tvcDRQQjBnTloyZERBV1lvX0lpY2V6cU15UC1oZTFXUThGczNmM2xmM1pGRDJrMWN6eWV3enFOVFZxdGVsZ09RYlNzQnJ6WQ?oc=5",
+      "date": "2026-07-08T20:07:11.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "Indian Army’s Corps of Signals Dare Devils set world record at Atal Tunnel - The News Mill",
+      "source": "The News Mill",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlRnYVU0OFdZeVRJcldLRXhLT3BhNHdXbVFGa19wNUhWT2RaMUVKRUdLV1hYdE43d0pUUm5tYmVPSkpmYjFJVUdvcVhJTG1OTDdIR2YzYVZ1Q243Z0lLaDl5Zkc3V3V5SDFXOXlYa3Z6aTlMcU43N2ZXaTRlUDFhRDFWRHdQdG9CUFZOZUcxdHc2Z1RtMlYyeDloMW54WW9UbWNMQU42R0t3Zw?oc=5",
+      "date": "2026-07-08T01:17:07.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
     {
       "title": "अटल टनल के पास एसयूवी कार दुर्घटनाग्रस्त: धोद क्षेत्र के मांडोता गांव निवासी की हुई मौत, तीन साथी घायल - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
@@ -28,16 +48,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Rohtang Tunnel"
-    },
-    {
-      "title": "Indian Army’s Corps of Signals Dare Devils set world record at Atal Tunnel - The News Mill",
-      "source": "The News Mill",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlRnYVU0OFdZeVRJcldLRXhLT3BhNHdXbVFGa19wNUhWT2RaMUVKRUdLV1hYdE43d0pUUm5tYmVPSkpmYjFJVUdvcVhJTG1OTDdIR2YzYVZ1Q243Z0lLaDl5Zkc3V3V5SDFXOXlYa3Z6aTlMcU43N2ZXaTRlUDFhRDFWRHdQdG9CUFZOZUcxdHc2Z1RtMlYyeDloMW54WW9UbWNMQU42R0t3Zw?oc=5",
-      "date": "2026-07-04T16:08:26.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
     },
     {
       "title": "Deadly Atal Tunnel Crash: Speeding Scorpio Plunges Onto Bridge Below - Infomance",
@@ -70,6 +80,16 @@
       "match": "Atal Tunnel"
     },
     {
+      "title": "Reckless tourist driving claims another life nr Atal Tunnel, raises questions over road safety - - Himachal Scape",
+      "source": "Himachal Scape",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbEtoMHhCR3d3VmRSM0dQRkwydmI2RDdMTXRza0FpT1RNR25rWGhpMk1zYTdkUTV4TDR6U1lncnBiRW9YUmRRVnpTU3NvQmhkN3BiSTlUb3J3cXUtMkhnMHJxRkJrVjU5TXFlSm9uSmRacVpuZFliZDBQUzVSUmFhTlJDWUU3c21BRkxFZTFZdnVNZmp3aXktMXZiSEhhWk1kNEZuWVZrVGR5SlBwRkFhYTNERjhHTnoxWkVudA?oc=5",
+      "date": "2026-07-03T02:51:04.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
       "title": "Army Dare Devils Create World Record Inside Atal Tunnel with Thrilling Motorcycle Feat - The Morning Voice",
       "source": "The Morning Voice",
       "source_id": "google-news-en",
@@ -83,8 +103,8 @@
       "title": "10 riders, 2 motorcycles, 1 record bid inside Atal Tunnel | Tap to know more | Inshorts - Inshorts",
       "source": "Inshorts",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzV4WktMV3JGNENEVjNDRHdnMElvMWRYNzNzamE5dnF2MlhnbWpDM0tGV1JtNG1oZUdTOFlDbmJ5NF9KWjRMejh3Wk55WnNNbmQteGZ6TzR2WEluSGlJaGtLOWJLUWdCTXRLSU9LZkZ0MzZwamNNZVNYanVnNGhpaDI5UFZ0dHA5MzVEOVBwVjJHNU81aGt4YU83UjF6d1Ita1ZTQlU3ONIBpwFBVV95cUxQNzV4WktMV3JGNENEVjNDRHdnMElvMWRYNzNzamE5dnF2MlhnbWpDM0tGV1JtNG1oZUdTOFlDbmJ5NF9KWjRMejh3Wk55WnNNbmQteGZ6TzR2WEluSGlJaGtLOWJLUWdCTXRLSU9LZkZ0MzZwamNNZVNYanVnNGhpaDI5UFZ0dHA5MzVEOVBwVjJHNU81aGt4YU83UjF6d1Ita1ZTQlU3OA?oc=5",
-      "date": "2026-07-03T00:42:08.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbktRVlVmdkRtUlBlOWZwZE1qaVBiLTliekt3ZG5BRkZ0T1h3TFJoVkZyNzhhNUFieGpDa0JiLUJrYUQ1X0N2dzAwZ0lSS1JFX3FORzJlSTQtR0MzLXdiZnhnZHZzVHgxaVRGaFljMjFiM3ZVc20xSnFXRnhJMVBMSlJOMloyM1NCS1NyVWlZZ3FnLXpQRkJNeDVRSjYtQnJCLXfSAacBQVVfeXFMUDc1eFpLTFdyRjRDRFYzQ0R3ZzBJbzFkWDczc2phOXZxdjJYZ21qQzNLRldSbTRtaGVHUzhZQ25ieTRfSlo0THo4d1pOeVpzTW5kLXhmek80dlhJbkhpSWhrSzliS1FnQk10S0lPS2ZGdDM2cGpjTWVTWGp1ZzRoaWgyOVBWdHRwOTM1RDlQcFYyRzVPNWhreGFPN1IxendSLWtWU0JVNzg?oc=5",
+      "date": "2026-07-03T00:41:59.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Atal Tunnel"
@@ -130,16 +150,6 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "सेना की ‘डेयर डेविल्स’ टीम का अटल सुरंग में नया विश्व कीर्तिमान बनाने का सफल प्रयास - ThePrint Hindi",
-      "source": "ThePrint Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMTFoZkRyWmdncTgtS2NIaHB1Qkl0ZmdDY2k5dnA5dFo3NFhtNGlrNVg0blNubFkya3Zuck1MRTZMQi1qUHFRTHF3bUMzMHB3b2Y4YXMzeTgzT1lQVERDb1ZuSXVXV0pfb3BZTlRUSVlKclloVV9DaER6U1Mwenk1dkNIUUhkdXJNSEl4aXNKcVcwRlBXeExrZ0V0cUwzSnNqNmVMLXE2UGNOdmsydW4xWHFwZzB5QmpEcGd5V0tGLWVHSVpHVVJ6UE1kN3HSAcwBQVVfeXFMTTExaGZEclpnZ3E4LUtjSGhwdUJJdGZnQ2NpOXZwOXRaNzRYbTRpazVYNG5TbmxZMmt2bnJNTEU2TEItalBxUUxxd21DMzBwd29mOGFzM3k4M09ZUFREQ29Wbkl1V1dKX29wWU5UVElZSnJZaFVfQ2hEelNTMHp5NXZDSFFIZHVyTUhJeGlzSnFXMEZQV3hMa2dFdHFMM0pzajZlTC1xNlBjTnZrMnVuMVhxcGcweUJqRHBneVdLRi1lR0laR1VSelBNZDdx?oc=5",
-      "date": "2026-07-02T15:03:53.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
       "title": "Horror Near Atal Tunnel: SUV Crashes Into Under-Construction Bridge, One Dead - Tehelka",
       "source": "Tehelka",
       "source_id": "google-news-en",
@@ -160,8 +170,8 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "Video | अटल टनल से निकलते ही उड़ी SUV, पिलर के सरियों पर जा लटकी; देखें वीडियो - NDTV Khabar",
-      "source": "NDTV Khabar",
+      "title": "Video | अटल टनल से निकलते ही उड़ी SUV, पिलर के सरियों पर जा लटकी; देखें वीडियो - ndtv.in",
+      "source": "ndtv.in",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2pnekJ4aVBhNG0ySHViaFVfaTZyZzJaMVlDYmVlc3c2VWdQUlR3VDVoXzJCaWprWG5iQkdqRHNhSDdmN3phaUowUU5zVkh5Z2NTUkN2STVheVR4QmVKdGJGUzgzeFdTQjlOdzN2OVdieFZEaXY0ampDSzNubXJiWTlHLUJ0TTRGQUxUdFFwOUFWVXlTNUlJZWZqWWg3cENtRGtaVzVxVl9acGd0aGdBeVN0Z1ZFbXhKTkNpSkwyQ0VUdw?oc=5",
       "date": "2026-07-02T12:58:47.000Z",
@@ -197,16 +207,6 @@
       "date": "2026-07-02T11:37:59.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Indian Army's Corps of Signals Dare Devils attempt new world record at Atal Tunnel - The Economic Times",
-      "source": "The Economic Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV3AzOGxpbjhPNnVkTTZCdTR6OUVhS2s1V0xNWmJNcVpSWUxocnB1d3ZHSWxodDd4Z3ltbXdHVEN6cFBYckVLcEJEWVlSMzIxQjM3Wmo5Y3JLWE1RWTNKX0R1RnhwTXJ0TDVYYVRsRTVPcl80ZXZXQkI1ZUZONmYwSHBEQ0pTcEkxNGQ2blZRb0dKX2RaVUZGNjJhX05JOWdHSmhHY0NFTFVKdm9Udzk5ZW9HZjlBaVI3cTVZdUhJb3VxX1hVWXJFNUdkcWYyclk0SXFkTU5OLWJVLUxVQTFDeU5B0gHnAUFVX3lxTE9zV2xNUkZ5X1lLQ19QY3ZidFpMSE1RX0c2SEt2bThRX1l0MzduSHd6ZGVpRG8wd09jb3libGRKMnBObjdKYU53WEdSMGVBLU5kZ2lWVnFiRHM3dVFfYmpNcTJuaVZhVlBuQWVzLWdfQ2MxR091aWdxYVdaeXE1RkQwLXY3RTJZNUY4UlRwT19rYjJQbFhWc25QQWRQNjJ5cFNhaXNaTUNyTi1FQ0gySkhRSHpsclliV3RVai1YNGNnR2V2UFN2T2pzUm5jemZYQzFpMlY4M0VZRHI4M2NXVk9NXzZ5aHdwUQ?oc=5",
-      "date": "2026-07-02T11:20:49.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Atal Tunnel"
     }
   ],
