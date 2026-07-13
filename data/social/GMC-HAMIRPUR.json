@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-07-09T20:43:42.788Z",
+  "updated_at": "2026-07-13T20:07:56.211Z",
   "project_id": "GMC-HAMIRPUR",
   "counts": {
-    "press": 91,
+    "press": 85,
     "gov": 0,
-    "en": 48,
-    "hi": 43,
-    "total": 91
+    "en": 46,
+    "hi": 39,
+    "total": 85
   },
   "mentions": [
+    {
+      "title": "मेडिकल कालेज हमीरपुर में तीन महीने में एक लाख से ज्यादा मरीजों का इलाज - Janta Se Rishta",
+      "source": "Janta Se Rishta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNajNqaEFSR0pWX21INlozdnY3Z0xVSkJrcUVJRWVuWExIQlNpUlhMSnVxVHF6RlBqMTh3R25xLXBEZVJNMnpwek1acWJRcFVXR2FaTkhOVjgzZzZVMjVWelh4b2J4Mll3cXJaTF9pSGtVaWMxRTZkX2Y0Z21WXzlfRFV5UVk3Zkk0b2RnSzdLMFBoTUZNWG01bUI5Z1ItZG81T1g2X283TFFFOS02cmJRdjVacllKQdIBuwFBVV95cUxQOVRoRmMwTTREeGJEamhQUHNWdUZUZnZVNHJTRW5zRlJTZWROWVBIdVhCVTUtMTlwb1RhSnlqVV9Ed0JJMXk3SDZFNFFiOV85VWVZdkFWQy1hM0plMEttRWNfSURvbDVsRHlNOWl4bGIxTFdNaGwtcklacGltbHNQVkp1c0twMklJNkd1VDF0eGdpZVFTSVJMRVNMU2dPZWRCYzlpYmVBSVlnMEZQX3pOOEFPVXp6Ukk1UTNB?oc=5",
+      "date": "2026-07-10T11:21:26.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
     {
       "title": "Health horizon expands: With Rs 350-cr campus nearing completion, Hamirpur medical college prepares to shift to its permanent home - The Tribune",
       "source": "The Tribune",
@@ -40,16 +50,6 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "IIT-M hands over ultra-light wheelchairs to Army Hospital - Medical Buyer",
-      "source": "Medical Buyer",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGJubjFvXzZIa0hURzV2ZVVBQnRlWTZLMFRIa2tyR1pHTkdiMmJFcHBlZXVIbTQ5YmhEWnFDY2RUcXJfeWlzSUllVkFyZGlCWWp1WkQta3JabDdrRDJENVZiWFBHLW9nMkQ2RWEzRTg4a2VyX3hZc2lMLWNQMnAwQWVQY0tuRV92YnByNE5B?oc=5",
-      "date": "2026-06-24T16:39:13.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dr Radhakrishnan GMC"
-    },
-    {
       "title": "CM Sukhu trying to take credit for Hamirpur Medical College with no contributions: Anurag Thakur - ThePrint",
       "source": "ThePrint",
       "source_id": "google-news-en",
@@ -63,7 +63,7 @@
       "title": "मेडिकल कॉलेज का श्रेय लेने की मची होड़! CM सुखविंदर और सांसद अनुराग ठाकुर आमने-सामने - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTTFwRk9ydG14cVRQZktNd3pPVDllcVdfMmRQbnBFcFlSM3ctaEFfbERsLWs0VGxPdzIySGRsam82TnpfX1dTcEdZRmhjWmFHMW5abTBhaUk1eGtnTmJlNDg4QnI4NzhxWnhsYk5yNmJjRk1Wa1Rjbzl4Qmt5cHgzSlJBZWl4b3V6ckFsOUVQc1RtbXgwRjV5WmtBTVBWb3U4MDdXSkd6ZzcyNElSejBGMXNncWdUVzlNZ1BUQlR0Tk9qaGQ1SzVOSTFSenV1NlXSAdQBQVVfeXFMUEZEXzIwNGljQzBENHF4S09JaGxNQzc3cEh0MXNLRzBsV1E2MEZjd0xvaFBacUtDZmVQUUpjRUdjLVBiRFJRc3FfaG5tdTJzR3owTlVLNWJXcWZsN2staGxvYUlDbFJwTzJsZjBYLVRMcDNHeXNSTHlkWm5TNEpiaDJoY3c5QnFkclJTVlZyUUwxUW5uLUVtaTFYeEhldjFqVUpsaXdFTGZLdE9LSGJwTjhkQW5ZbE9YRVFXSndSalp3RUpJczFHa25ZSHEwU0FMSVVRU0I?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTTFwRk9ydG14cVRQZktNd3pPVDllcVdfMmRQbnBFcFlSM3ctaEFfbERsLWs0VGxPdzIySGRsam82TnpfX1dTcEdZRmhjWmFHMW5abTBhaUk1eGtnTmJlNDg4QnI4NzhxWnhsYk5yNmJjRk1Wa1Rjbzl4Qmt5cHgzSlJBZWl4b3V6ckFsOUVQc1RtbXgwRjV5WmtBTVBWb3U4MDdXSkd6ZzcyNElSejBGMXNncWdUVzlNZ1BUQlR0Tk9qaGQ1SzVOSTFSenV1NlU?oc=5",
       "date": "2026-06-23T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -120,6 +120,26 @@
       "match": "Hamirpur medical college"
     },
     {
+      "title": "Himachal youth killed in US attack to be cremated today: Body brought to native village after eight days - Bhaskar English",
+      "source": "Bhaskar English",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMllkQXROUld0TXJscEVrMTJMQnJ2eWdVbE0wTGM5U3lWY2gzUUtlYTVMZTl0SUE4LVFHZUx1dXZBbWNZQWQ2RkY0M2VCcE5walhjREN1RGxWZmxBVExxZXBLUHN2dzhKR2Via3pmcGtCTHpjUXQ1ejRBQjFfa2lxLUNqY0tWMU9RVHhMdERXSUVWeENNWlVpWndubVV0MElJS2E5dW5ja19udTktZVZKM0VDci16YU5Na000adIBwgFBVV95cUxNaWZqdlBkNEJ0d1B1bXhCaEtldThLbkVERU5yemJjOUc1bnF4dGx5NXBCa0NCMFQ3UEpuV0tHaFVBMXVhNmpsUnRSVUdZQTRpalctTW5oZUVNQ2w5elJDUnB2d0R4SWVTcTJSZVVvLUxFMTVaQ1ZXNkNYNlNleFdUMjh4bVppS0JwdU5wMndXdEVXSm1sdW1BRGdFbkxhNVhreWxwaFVaMmJuVVhBTXR1cC1kYWw4Q3FVQWpGTERFaHRuUQ?oc=5",
+      "date": "2026-06-18T18:18:26.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "मर्चेंट नेवी कैडेट आदित्य शर्मा का आज पैतृक गांव में होगा अंतिम संस्कार, अमेरिकी हमले में गई थी जान - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYmVXNE1vWW9MUXpPcDJwREpkQzgwVjZGcHBuYXpHTDdOa2xOMVhaYmdLLVFGaGlnUzRXQjdUeEdDSXRiV3FkSXpkR25LUjQyRXJnYW9pZWhMV3pUQXFpRll6ckowOUc2QkViSmtJNkhpXzl5WllyRjc4QVV6eGt1b0ZxRjQwWGZTeWNuQ3BmeDNaTF9TeDFtQzZ6cDIwdHVDZmpqaEhRRHlYRHg1YW81Slg1cjNPSWtpU0R6TkNNbk9jc0tqTDRSQndrU3hxWHlDd1A1d05TNWtveHdzX2hz0gHkAUFVX3lxTE5CQlk3WlpQZ1lXZm5wQzVPWjhtdThtNzdvLXJ1ZVhObUY5WHdacEZXSEMxMW5uTFZabTJfemNuOHo0YUlKVnpYTFZJODRWRVJ4M3RGOXF0S2JfU3VEUjRfdUJRWDRSQ0xTRjg0bEozaDNlRnZGWmk4QWVkMXZoTjB6MWRLLVU5UDhzSkVzMFBFbEF1QW1EaGNDV1d0eXpkX1FvX2VIVmFzUGI1RnFsTDB4dE1iYkxVcGFSYURFSW5JTlRVNXBsZENELXowWWlFUEc1bTZ4YVZiYjA5bFBzdFdrNzhtXw?oc=5",
+      "date": "2026-06-18T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
       "title": "Anurag Thakur questions delay in shifting Hamirpur medical college to new campus - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -140,16 +160,6 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "8 साल से अधर में लटका मेडिकल कॉलेज, कांग्रेस सरकार पर बरसे सांसद अनुराग ठाकुर - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNemRETzZxX3JZaDVpOVVUQm9JU285TDYxcUJwT08zR3dqQUM3VDVfUzlNOHFFcTh0WE1OYkpxUHF3Q2Z1SE1OT3o5a0U3VUhXYlgyRm5uM3hFQXY1WEE4a2FkZnlzSGVCYk52ck16VG12WFBCNlVsVGRheUx0V0VfRGVlTkJKdmtCSERoSjRyeGhEb3pnLWp6dWtQM0FOTXd5SDhiVTA5Q3IzbzkwZmtvQVFVaFdyN25j0gG-AUFVX3lxTFBRT2RNWk04UHRqQXRyQnVxRmx6b19lYnZpa29vejhXQmxlZmZCcmNrU1g1NjZqNXNaV0RXVTV6NzYzai00MWJtMzNqSmpYTHh6Y0t6NmRJQmtOT1RHV250cTljVGM2VGlYaUVWS0lKYndXQ1M4WjkydmdrbV83U2p3TUxuVDdMQ09ORTRhaFVMZVU0Vk5WcHVKOU01U1BqRVhKRlZqUTUzZDZZLVRLdDlQaURiak5yMzVURzRXaFE?oc=5",
-      "date": "2026-06-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
       "title": "Himachal News: तबादला आदेश हाथ में, फिर भी मरीजों की सेवा में जुटे रहे डॉक्टर लक्की शर्मा; फिर हटाई नेम प्लेट - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -160,11 +170,11 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "Hamirpur (Himachal) News: मेडिकल कॉलेज हमीरपुर के कैंपस निर्माण में देरी पर जवाब-तलब, अधिकारियों को लगाई फटकार - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "8 साल से अधर में लटका मेडिकल कॉलेज, कांग्रेस सरकार पर बरसे सांसद अनुराग ठाकुर - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPa1p2Mzl2MjM1SnJKbzVubzhsMFlGZ1FNMlFKTEFjNllKb2s4QnVwdDN2bGVmUWZLRWc3NlRGN0VJVlhTLUtlZUZ2Vk9TWDdTWmJkc3F1WWY4ZG1IVTZyT2xrWE9aOWtDMFJxRmJoT0QwdDFycThXYlRYQVhhSGVrcnFvZERzdV9aWWVmbFVjY2ZWeFhuQkRiaEhseVA2SkFTTkw3TUVpSVgwT01HSXp2R2YwVEVwRTA3M2FKbXpkSGRqZGlPQXpYVXNuaW1PUXVYUF9yRTRKLWRXRG9PODNaNFZoYkdjeHEzUjNYQ2RPdmV1NkJONVpaQ09kdGZZZV9tc2ZUblRoOUs0anFxOU1xaGEtYjE0dW0yQUZ5blI3VjZZczJabThkSHJ0OFFNYll1dWhKWXBOUENzOEhFeC1Ib3NR0gHHAkFVX3lxTE1WTXR2c09hc1NCc091UUVNRmY2YmtSbXpONzFzekFxXzNjS0VVclNKUTJlMEowMWlQVjdaTkF4SFZfX2NsUXJwVTUwbUgzRVkyMm1QTHFZdHo2TEh3RHE0bUdxeVNITV9aams4eHlVVTF0MVBaTW51VXBVUEFvWGFId3dHcHNBTGNNSDd4bTk5WExsWmYzWEU5X2d3VERySXNpSUh6dzM2RGt0SlNDbmdDaWVfckxiQ3o2NkJXVnQ3dHFzSmY1MXdhLU5OMlZkcjgtd1N3Zkx6MFZVOXV6dlVSYWktRkhBOUJ6bjBKU3g1bW1FZ2dsTjJKTUp5OWp4UjhBWXRNMEtJTHJVY1pUZlVLVHA5NjQ2Q2ZFYng3QWNmLVBKdFItTkF1Z1VmaDFRemdYdjRJZnhQeGFQTWc4LXp2aDRFU0kzNA?oc=5",
-      "date": "2026-06-09T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNemRETzZxX3JZaDVpOVVUQm9JU285TDYxcUJwT08zR3dqQUM3VDVfUzlNOHFFcTh0WE1OYkpxUHF3Q2Z1SE1OT3o5a0U3VUhXYlgyRm5uM3hFQXY1WEE4a2FkZnlzSGVCYk52ck16VG12WFBCNlVsVGRheUx0V0VfRGVlTkJKdmtCSERoSjRyeGhEb3pnLWp6dWtQM0FOTXd5SDhiVTA5Q3IzbzkwZmtvQVFVaFdyN25j0gG-AUFVX3lxTFBRT2RNWk04UHRqQXRyQnVxRmx6b19lYnZpa29vejhXQmxlZmZCcmNrU1g1NjZqNXNaV0RXVTV6NzYzai00MWJtMzNqSmpYTHh6Y0t6NmRJQmtOT1RHV250cTljVGM2VGlYaUVWS0lKYndXQ1M4WjkydmdrbV83U2p3TUxuVDdMQ09ORTRhaFVMZVU0Vk5WcHVKOU01U1BqRVhKRlZqUTUzZDZZLVRLdDlQaURiak5yMzVURzRXaFE?oc=5",
+      "date": "2026-06-12T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Hamirpur medical college"
@@ -180,13 +190,13 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "Hamirpur: 206 किशोरियों को सर्वाइकल कैंसर से बचाव का टीका, मेडिकल कॉलेज हमीरपुर में उपायुक्त गंधर्वा राठौड़ ने किया शुभारंभ - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQX3V5M1dzSk9NMDF6OURDX0l6Z3NJNmRFYldZUmhfRjI4MWk1T2xnQURlazJaUG5McDBkdnFZN29Zb2pSZUdHQkltSy1OS3lWNUZSakYxUHp0MTRmSndjWG1FWnVLWjRZeVRYcm5TNnplRUFlQWxNN0VVM1VnT09wZE9JR1ZnczJNdkNkckVVOUdiMUlhZUM1ZmFieVJYTkxGYjhRR0ZJZE0yeUJKRGZ3YWlSVGFLRnZ2T3JWT3BLWkxvbzg2RVpaOE1pMGRyNFJWcDBJVUhydWFxZDZjWTY3STJvV1RmbWtXRHNidG1tbnJ3NU1NRXRzODJDUDZyLVE5MjBmNzI3Z2hFbHUwYjQtcE1laW13d1REVWllSHl2MENpMUJaeWdndEVJV0FFUDJBbkFKMzZyOGRIZklqd0cyWHJ3?oc=5",
-      "date": "2026-03-29T07:00:00.000Z",
+      "title": "Mother detained for abandoning newborn at Hamirpur hospital - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZEMyV0Juakw2UjFuOF80WXRua1Fkc3l0b0x3U1g5SGcyWXd5cllGR0dXSENPLWNTbk9sRUh6S1ZKRmdnS05pbTVQdlRQN1JHam8zTlNGMmVhZVR2VEg2blFEb2pRbzZiVFBVSXlZcWRTVTFYVmQ5bWZ2NGJvTm9qaGV3bm4yX1lUN0VkVnIzUnVIbHU2N0tFeXMxWDRBX1NXdWdKMzdFOC0tQlFHQnVMbEM4WS1sVUtkY3Nsb2hhQ3hEU2tHb2NCMndFSDRQZTFBUldV0gHYAUFVX3lxTFBReWdjTS11Vm9fU2VHdjdLQ1g0V1dfTk9JSUh1ZWR0bU9DNF9ncXFVMFV0LVhuVFlLUWoxTFk0N19GWE96M0Y1NUlZYzlTaU1QVTRRZEV0enYwZUlnX0FoNmNQYl9JaHlraFhSc3FpLV96cGV1N3ZmbVU4VFU1RUdVaVhkeTE3LXNkT24wV3ZjRjFzekNuNERDRlBxRW4xV3NWOWdGUjgyOUJGV2lua0JoMGtHRWZoZHlZTEw1dUNJYU4zMEZTNG1odk9idlFIQTk4NlphbTFldw?oc=5",
+      "date": "2026-03-27T07:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Hamirpur medical college"
     },
     {
@@ -197,16 +207,6 @@
       "date": "2026-03-24T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "No PHC will remain without doctors in 6 months, says CM Sukhu - Medical Dialogues",
-      "source": "Medical Dialogues",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWNNM3dHTGVUdENVQ251Tnhqd2xmZGw3TUdfWjdnMENpRU0ybHdJUGw3blJHMHRYWlViV2g3RWc1em40SmNCSmdlcDlTX1F1YVV3anI1dnRkRzhLNGdsVkNGNTBMazJsbkVkdmhKQUpYRnBzRmpYZHRKTklTS2NwOVp6aXFPM2lRWUFLejNjZVowbjcyWF9TNDFUODU2MDhqUURYN2NPQmxSUlRjSk05RU91X0Vtd9IBuwFBVV95cUxOc21LMVI1eldyTkJCcThBc3Y0RGw2Vl9QZGhlNHZTNjJ4WENpTGNvU0Fjc0FjZTNzSGxTTHl0NHozRjhoTDF2R1gzalpSbkJ4SEU3N2R2LVlULTVMeXZOOUlRSG40YXBNd1BpTFZvUllFWlU1Y0RfRmdLOV9yVUNSbnh5dmV4eFJiZjM5d3Q1VjFKdnNiUy15LXBDWXJ1UGtFSWlPbnhPZ1RiZ3ItQ1I3RWJuSmNnVkd2V0pv?oc=5",
-      "date": "2026-03-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Hamirpur medical college"
     }
   ],

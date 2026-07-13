@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-09T20:44:38.984Z",
+  "updated_at": "2026-07-13T20:08:41.690Z",
   "project_id": "SOLAN-BUS",
   "press": {
-    "n": 4,
+    "n": 6,
     "positive": 2,
-    "neutral": 1,
-    "concern": 1,
-    "avg_score": 0,
+    "neutral": 2,
+    "concern": 2,
+    "avg_score": -0.133,
     "avg_magnitude": 0.4
   },
   "youtube": {
-    "n": 39,
-    "positive": 24,
-    "neutral": 10,
-    "concern": 5,
-    "avg_score": 0.305,
-    "avg_magnitude": 0.433
+    "n": 50,
+    "positive": 36,
+    "neutral": 8,
+    "concern": 6,
+    "avg_score": 0.314,
+    "avg_magnitude": 0.436
   },
   "overall": {
-    "n": 43,
-    "positive": 26,
-    "neutral": 11,
-    "concern": 6,
-    "avg_score": 0.277,
-    "avg_magnitude": 0.43
+    "n": 56,
+    "positive": 38,
+    "neutral": 10,
+    "concern": 8,
+    "avg_score": 0.266,
+    "avg_magnitude": 0.432
   },
   "top_positive": [
     {
@@ -44,6 +44,12 @@
   ],
   "top_concern": [
     {
+      "source": "press",
+      "title": "Himachal BJP chief's 80-year-old brother arrested for alleged sexual assault - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0Zmb1RvcnNaM0MwOEE4SWEzcWhyd1RSV3RVODBJYndfNjlLMmJWRlJWZERVT0lPX21wYV9IcFNORDc1c3VUUEFBZWJRdUozemhVVXlFYktsQnppcTRGU2xwV3d3TWJzVTYzUElYU0hNQ0NPOFFNTDNjYzRUUEJlb3haRVJSSEpod3Z4UlhDSFNPSC1wOHJybnFJcDlZaldRRDRCYW1xbWlQOW92dXI0eUN6Zm1fN0RRQUNsLUNTRmxENVc00gHSAUFVX3lxTFBBcFZ0V1VpVFh5WFdsVTRVeTJnUG1KaUJtM0l2akxuaWU5TlludjFLQ3laNGlvQ1p2NGtkeEhHNzQwSzZTZm8yTGFUTGlteDVybWZiUGN1YjR1ZzM3ajRsbnpWZHozb3NJNG9rc0F1eC00SW1ybmlkOHl3b1N0a0l0YXowS0Y3TGJyaVluYVU1azRobEpkd1pOY0xBQ3JqUUR2cGVzVnVqeVlHVUdUc3lSajIyVjhuLWEzaXpnOWNpUVlEa2h2Y2o1Ym93aUpNZFFvdw?oc=5",
+      "score": -0.7
+    },
+    {
       "source": "youtube",
       "title": "Bhai koi job milega kya please help me",
       "score": -0.6
@@ -53,11 +59,6 @@
       "title": "Forensic report backs rape allegations against Dr Bindal: Solan police - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT1ZXSzVXLVI3cVdlRTk4X3hnbENhTFR1cTV5cGZMYktVSDR4V2NxNjE5UEVOWFVEV084bUN3ZHpZakY1NURHVjJmNFl6WV9WaWFDUWxGQXFSNHpTRDNLcUpJOGFJa0JFWkVWeTBHWnRrQnZybkJfNzNTV0lndXAxbGlZWDJwYjdoa25iSHo0eXBCN21UdW03Wnh2LUlNS0JubkdGR1c3Um1PUEUyQ1A0T3RwaTJEdlJfYUV5Z2JwQzFPUjBqZ3dPUVIyeWx2cUdLa0hJSkE5SVJ0bmpuOGZNR9IB5gFBVV95cUxQQmR6cXhGLTRfdmJlTlowVmIwanotYllTSGVJckNQWDZnU2RCb0ZPckVyUmdXbHRWb2JwOExDZzYwdk9KYURKSGFxZk1iRVdFTjJ3Y2VUZ3Zab0tweGMxQWlGcHRqU0dmSVlxOHdQYkNiYWtDeVc3cWFYdFRmaEIySnpEUWo0dU5WMTkzNlZhTjIzcGZzVFFIaVZJVkxpMFRtY09oRloyQkRrNndhOGFucmdsa05sREg5OE5vUFdpOXZQQkc3bmU4aXdjUW1TOWpRMEx1Tm1CczJTVmZ3Rk1XdjltRmJRUQ?oc=5",
       "score": -0.6
-    },
-    {
-      "source": "youtube",
-      "title": "Imagine where would be the camera 📸 man standing just to take this vedio",
-      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

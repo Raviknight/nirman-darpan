@@ -1,51 +1,53 @@
 {
-  "updated_at": "2026-07-09T20:44:19.684Z",
+  "updated_at": "2026-07-13T20:08:29.812Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 13,
-    "concern": 2,
-    "avg_score": 0.07,
-    "avg_magnitude": 0.195
+    "positive": 6,
+    "neutral": 11,
+    "concern": 3,
+    "avg_score": 0.06,
+    "avg_magnitude": 0.245
   },
   "youtube": {
-    "n": 1,
-    "positive": 1,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0.3,
-    "avg_magnitude": 0.7
+    "n": 27,
+    "positive": 19,
+    "neutral": 7,
+    "concern": 1,
+    "avg_score": 0.389,
+    "avg_magnitude": 0.674
   },
   "overall": {
-    "n": 21,
-    "positive": 6,
-    "neutral": 13,
-    "concern": 2,
-    "avg_score": 0.081,
-    "avg_magnitude": 0.219
+    "n": 47,
+    "positive": 25,
+    "neutral": 18,
+    "concern": 4,
+    "avg_score": 0.249,
+    "avg_magnitude": 0.491
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "कांगड़ा एयरपोर्ट विस्तार के मुद्दे पर पक्ष-विपक्ष में तीखी नोकझोंक, सीएम सुक्खू ने किया बड़ा ऐलान - Punjab Kesari",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1NRazUtdmxDRVotSjhtTi0wY09lY3VvMW9OWFp4OFdBX3VZUUFGeHRYNkNqTTVPUDYxbWw1c2Rnc3J2dUFTRHpoQWJRNGE0blB4VV84UlB5TzZOSC1ISU9MVHJqR005VERPVGE2LVZOWV9JZ0o2WlpxSk9KYUlxSVBFMEgtVncwN2dGYXJtUVBhcVZYRmp3d2dKNzFZZnpuZDE5WGJDQXoySldWaWJxczNlczlfVEZ2c1Nya3ZzcEo4N2lXMVZBeXVtcXDSAdQBQVVfeXFMTXByTzRlbDlXcjV4Q294cThmazNCNXZycUZsVzU5bU0zUF9WZ2lMcmVPUFpjUm50dHN1ZnMtdGxpc1JNVFRoRXNhaGpsQ2FydXVZRHhLVWZ5TkpmQkx6emV4Z1dEYVFUVkRLOGMzVmFaRU5VcmRrYldYWFljUjVleVV4SWpSc19ESGNVNkI4bGlXZVkweVpIRzNGaWROTlBsZlc1VmtrZ3B3M29qcTFUMWRPSXFVeE5GZ1RlZXZHUmNtRWlXdmVTaTZ0aW5ZV3d2X0RucGs?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "i like this video, this is my forefather place meclod gunj , dharmshala , kangra valley i see in lahore pakistan",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "गगल एयरपोर्ट विस्तारीकरण : 10 दिन में पूरा होगा भू-अर्जन का कार्य - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObEtkQ0RpM0VTdnYxTENDY0o1Tm1NRFJYMDVvQ1BsY1FJTkJxNVUydG5lMGVLRzdSdlhyOG0zVEwzbmtucDlFb0dsY2xOeGJ5UVUzbXBKQ0hhazVFR0tGa3NDWmpuRGlZdVIzaUE2Tjk2SjJBSXltNWdQTHc2SDYxVjYyenl2ZHpmM04yYmtpOVVkZTZCeWFYNXlYRHFydWx0cXEwdk9RMTRWWmV2RjBZWUJ3WEQyZUdmWWEtYzlxVThvcDJEckhnalh3TnlBaXZaSXgtTVN6c0k2YUNXbVJZWko4WFJuNlZlSzdQc19CZ2tXUXpoaTVubW5GQWl2UdIBgwJBVV95cUxQdkFLZWRWUHdxd0xuUlNubUtabkVvNTNoMVpnQnJ2Vl84QkJTd3Z3a2lJOVBxV29DSUdFd3QtazFEZnVlREVmNEp1RG5wY2tMZDlSUFRhcHR1SnpnYnJHYmFBbTZpbjFuWlp1N195RWdiUFVmZ1hqdlFvdG1OSW9CR0hycjFMa09nZDVFbTVZSWhPS053dHVzTDJrTmxIckNDc2ZDdHBuRG5zdlluRkJEa1V5VTJST25uYmtvY1FkQjh0bU1CVTU1MGt4NzE3N0ZNOGI1c3FvMGQwal9laUtKcUtWODY3c3ZYN0VqQ3Y4dC1DUUdFT0ZlYVRYaW9JXy1ETE1j?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Hope you had an amazing trip to Dharamshala. Lots of love to your furry companion!",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "गग्गल एयरपोर्ट विस्तार से प्रभावित 113 परिवारों को सरकार देगी 16.76 करोड़ रुपये की सहायता - Zee News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeUpXREdzSll5TGd6MWg3STZYTERRb1BOZjR3djdna3Z6RDdsTGdXU1ktZnlpR3MyVXlEMjNlX21WMFNoUDFxVXdSaGtpWkZPVEFxMmpmSUlQUHVHbndjNXRFM0lTX085SmhEWEpPb3hvWTFkREpBanlIT3dKYTBWNDVySkJabFM4aFl3YU9XeERjOU9sU2N3WW9jaEZwYXN3R1hONjlCczJUb2NXc1lEaW9uSTJrXzRVUkZlc0ZyLWgzYWJLTmxCWnBBXzhqbVNMd0pGM3VFZjlPcUXSAeABQVVfeXFMT2ZqbFJWN2tkaVpRb3Z0LWowTXA1alI2d0JtQzVUMmhzaGJZY3NnSW9PUE1NT1VJY3VhZFJOR05EMFJoUjJPUkxZOEYxVlhWMzBKUjJyZE5WZUJNUzlWNmcyOXBwNjkyVjlqZUpxUnNmWUtMNlE1OS1uOTdhSm9lNXZUanpCTzF6TmNhTVJTUl9FTkx5MVFGVFIzSmdwTzB4cW0tSXJEd3pIRHlxR3h0MHloVVVxUFZwS0RRY0pQY2I0TnNEdUZPR3NyNFZudHlPT3Q5dU9iTzQ4c0xwUUQtRUw?oc=5",
-      "score": 0.3
+      "source": "youtube",
+      "title": "It's a great place to enjoy nature",
+      "score": 0.9
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Very sad news",
+      "score": -0.8
+    },
     {
       "source": "press",
       "title": "Lack of clarity on compensation mars land acquisition for Gaggal airport project - The Tribune",
@@ -54,15 +56,9 @@
     },
     {
       "source": "press",
-      "title": "Gaggal Airport Expansion: Evacuation Orders Issued in Rachiyalu, Families Paid ₹37 Lakh Served Notices - The Newz Radar",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeWtNOTRQMFZGWU1TU2gtN2NmeTlWUllRNVNWSW5JNk4wRWYyRDBNWFphQWNQS05iYjVjMzQwUmx5LTNuMlZRbUFWT3ZrcnhVdExTWEk3QzgwQUd4NHBrVE5tRlloSDZiYmRzQWRuNy1mNUlMNjFkUWp3bDl5Y1VZaXI2cGhwX0RLZExVZ3hadWpFclQzYU9CVnNweVFtVTVEVUJjdE1KYjFocV9WNzc1Wk0zbnliRXp1T3VKaExLdTJSX09TY1NTOW55c2hfbWRFZkNhT1czM0hYVmhhaGpYYVU1OTFTZw?oc=5",
-      "score": -0.2
-    },
-    {
-      "source": "press",
-      "title": "Market complex to come up near Gaggal airport for displaced traders - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGpIZC1hLUI5bTBaSGtoMGF0NnRfNUtDZ1F2U19zcnpDS2ZRcnlYSVdjSFNXMGxqMGdZcEZzeWpqc0s0WjZ0RU5ZVzZiSWtiVG5lQm1ZdjNBRW0ydTNLeDNSelFoemxqOWZ3dzEtQkFWa25heG41MGxZemg5SXUtRURIWnlPdUFBaHg5TF9YODctTk5xU3NFelNPQlgtaHNvWnRZYTY4UHJacDZxSmtqedIBtAFBVV95cUxNZTVILVczYmVfSTU5MklDaVpGVTBxdTdEcHUtMmpET19Rd24tSVhJeU9LTlZIWXJOOUY0NHhabXBiMklKYWtYRlVYTnVzM0trX3FPalBzcW8wVy16SWhTZXVYeUVicXhlclN1bGoteTZrREtvamhNVnhhRkVVTGJWY1Y4SmNDSjh4ZlhRbm9YZFZkMl9tS0lyUDNPekYtdDJSWVhySk5kZl9sMDdqeldhWndLRlI?oc=5",
-      "score": 0
+      "title": "Gaggal villagers worried over possible realignment of Pathankot-Mandi road - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTZDNEF1OUQzUE8zT1M4MjBpQzJYOEpoZ3BfQy1YQXVzQzBDenRoYS1SSy1uUkNFb2ozcV9SRjAzUjE5UDh4S2M0SUlhQ1NYZ3hLeEl4ZGpIYXVLNl9ZN1YycHhMSjljM1JEZFM0ODRlc1hlQUJuTVBGVmU3X3JCQm9BU2lhVUVldjE0NHBLV0I0bzhWREZlVTJrNG10RjVxNE1FeFVmdGMxNlFKaWVZTnp3MWRjbDhfd3fSAb4BQVVfeXFMTzJIRmJjdl8tWnpmTTR6N1NpWlQyRVhJVE5tMkVoMWNUamlDOFduMnJQX0p1WU5UbGxqbks0cDNyWXJlV2N4Z3AxbDF2Qm8xeDg4YllJdEhodzIxR0EyTlQyOTNsWXY5MWpXSkNyYW1qYWVTMjNNMW1HUDFuQThVX1pYXzlhclVCU0dyNEdoUnNjNlhaU1ZXYlZQMlZJODdua0VJeUoxdVVJX1dyZEI1N1lFM3VLTFRwWjZNNC1yZw?oc=5",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

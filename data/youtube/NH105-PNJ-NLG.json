@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T20:44:05.016Z",
+  "updated_at": "2026-07-13T20:08:16.399Z",
   "project_id": "NH105-PNJ-NLG",
   "query": "\"Pinjore–Baddi–Nalagarh 4-Lane\" Himachal",
   "counts": {
@@ -13,6 +13,15 @@
       "channel": "Gaurav Kumar BilaspuRiya",
       "published_at": "2022-11-05T02:56:22Z",
       "description": "",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "NBPnIfW8JTU",
+      "title": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal",
+      "channel": "Viral GOGI",
+      "published_at": "2023-05-20T00:50:53Z",
+      "description": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal #news #fourlane #baddi #nitingadkari.",
       "comment_count": 0,
       "comments": []
     },
@@ -46,11 +55,11 @@
           "published_at": "2022-02-26T06:43:47Z"
         },
         {
-          "comment_id": "UgyZ1xul0x2Kxqlw4394AaABAg",
-          "author": "@ravinderbansal6894",
-          "text": "Very sorry about 7km road takes 7 years",
-          "like_count": 0,
-          "published_at": "2021-11-20T08:05:19Z"
+          "comment_id": "UgzNg0c17WUV-Oh8dBp4AaABAg",
+          "author": "@poachingwallah8260",
+          "text": "Modi ji zindabad",
+          "like_count": 1,
+          "published_at": "2022-01-14T15:35:33Z"
         },
         {
           "comment_id": "UgxJoaNvh9Xg8NPQxBt4AaABAg",
@@ -60,11 +69,11 @@
           "published_at": "2021-08-13T16:18:51Z"
         },
         {
-          "comment_id": "UgzNg0c17WUV-Oh8dBp4AaABAg",
-          "author": "@poachingwallah8260",
-          "text": "Modi ji zindabad",
-          "like_count": 1,
-          "published_at": "2022-01-14T15:35:33Z"
+          "comment_id": "UgyZ1xul0x2Kxqlw4394AaABAg",
+          "author": "@ravinderbansal6894",
+          "text": "Very sorry about 7km road takes 7 years",
+          "like_count": 0,
+          "published_at": "2021-11-20T08:05:19Z"
         },
         {
           "comment_id": "UgxDMUT6Qn7bRWbhzCR4AaABAg",
@@ -81,15 +90,6 @@
           "published_at": "2023-12-09T04:39:53Z"
         }
       ]
-    },
-    {
-      "videoId": "NBPnIfW8JTU",
-      "title": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal",
-      "channel": "Viral GOGI",
-      "published_at": "2023-05-20T00:50:53Z",
-      "description": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal #news #fourlane #baddi #nitingadkari.",
-      "comment_count": 0,
-      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

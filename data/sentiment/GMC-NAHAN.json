@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-09T20:44:36.980Z",
+  "updated_at": "2026-07-13T20:08:40.568Z",
   "project_id": "GMC-NAHAN",
   "press": {
     "n": 20,
-    "positive": 11,
-    "neutral": 8,
+    "positive": 12,
+    "neutral": 7,
     "concern": 1,
-    "avg_score": 0.22,
-    "avg_magnitude": 0.37
+    "avg_score": 0.23,
+    "avg_magnitude": 0.405
   },
   "youtube": {
-    "n": 7,
+    "n": 8,
     "positive": 2,
-    "neutral": 2,
+    "neutral": 3,
     "concern": 3,
-    "avg_score": -0.029,
-    "avg_magnitude": 1.886
+    "avg_score": -0.037,
+    "avg_magnitude": 1.663
   },
   "overall": {
-    "n": 27,
-    "positive": 13,
+    "n": 28,
+    "positive": 14,
     "neutral": 10,
     "concern": 4,
-    "avg_score": 0.156,
-    "avg_magnitude": 0.763
+    "avg_score": 0.154,
+    "avg_magnitude": 0.764
   },
   "top_positive": [
     {

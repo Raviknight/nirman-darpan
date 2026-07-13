@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-09T20:44:19.685Z",
+  "updated_at": "2026-07-13T20:08:30.088Z",
   "project_id": "MANDI-AIRPORT",
   "press": {
-    "n": 7,
+    "n": 12,
     "positive": 3,
-    "neutral": 3,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.029,
-    "avg_magnitude": 0.229
+    "avg_score": 0.025,
+    "avg_magnitude": 0.142
   },
   "youtube": {
     "n": 2,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.05
   },
   "overall": {
-    "n": 9,
+    "n": 14,
     "positive": 3,
-    "neutral": 5,
+    "neutral": 10,
     "concern": 1,
-    "avg_score": 0.033,
-    "avg_magnitude": 0.189
+    "avg_score": 0.029,
+    "avg_magnitude": 0.129
   },
   "top_positive": [
     {
@@ -59,8 +59,8 @@
     },
     {
       "source": "press",
-      "title": "Who is Suman K Bery? - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oLXBTQ3hjbWYwRmZ0Y3BNME9TSlNCYVpTWkhSVDhsalZTSWF2a25EV1dHdDVQd3BtMEFBMHpKQzEzTDFMeWdNd3hpTHFmeXg2eTJoelpNN1BYWlEzQWllSXJfNVVIc05vLWg0?oc=5",
+      "title": "Himachal CM calls for expediting Mandi greenfield airport work - ET TravelWorld",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdnZGYXFHc0NvcXlRV3FTb3Mzd1Z4cjA2X1FSazg5RzZNajBOLU5ic2taMC1JU0VQRUV6UkVhWGxOSzh5YjNOMXJUdlBPSjQ1ZnZXemROYlNqY3BXVTl2OVF3R0V5RWhVVmxvbFgtQmFIbFVIMUVlZUlzWEJOQ0NreTlDaWg4RW5tY290SVFTblJCN0VCQVZDM2ljV3ZPTEE1TXV4QjZ5ZWhGQmg1M1lGc01lVnA3bG1jRXdDME1GM2Z2bks0bmNsM3pPSUhHLTlUeVU3cUpPR0gzcTluOVE?oc=5",
       "score": 0
     }
   ],

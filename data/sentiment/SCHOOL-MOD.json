@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T20:44:34.826Z",
+  "updated_at": "2026-07-13T20:08:38.791Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -11,26 +11,21 @@
   },
   "youtube": {
     "n": 20,
-    "positive": 14,
-    "neutral": 5,
-    "concern": 1,
-    "avg_score": 0.235,
-    "avg_magnitude": 0.275
+    "positive": 12,
+    "neutral": 6,
+    "concern": 2,
+    "avg_score": 0.165,
+    "avg_magnitude": 0.255
   },
   "overall": {
     "n": 20,
-    "positive": 14,
-    "neutral": 5,
-    "concern": 1,
-    "avg_score": 0.235,
-    "avg_magnitude": 0.275
+    "positive": 12,
+    "neutral": 6,
+    "concern": 2,
+    "avg_score": 0.165,
+    "avg_magnitude": 0.255
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "मनुष्य को कितना भी सुख दे दो इच्छा और बढ़ जाती है ये सब मन का वहम है......",
-      "score": 0.7
-    },
     {
       "source": "youtube",
       "title": "अच्छा भला पढ़ाई की वीडियो देख रहा था 😂 विवश होकर वीडियो देखनी पड़ी 😂😂😂",
@@ -40,9 +35,19 @@
       "source": "youtube",
       "title": "हे पार्थ 😂\nये रथ अचानक से कहा आ गया 😂",
       "score": 0.4
+    },
+    {
+      "source": "youtube",
+      "title": "अच्छा भला पढ़ाई की वीडियो देख रहा था बिना सर्च करे ये वीडियो सामने आ गया मजबूर होकर देखना पड़ा 😂😂",
+      "score": 0.4
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Arey bc mai toh distact ho gy ht aaj bhi maar di 75 hard challenge kr rh tha pta nhi ye video kahan se feed mei aa gy😢",
+      "score": -0.4
+    },
     {
       "source": "youtube",
       "title": "Without search ke ye video kis kis ko mila hai.😂",
@@ -50,13 +55,8 @@
     },
     {
       "source": "youtube",
-      "title": "I search accountancy bills of exchange and what I saw 🙄😂",
-      "score": 0
-    },
-    {
-      "source": "youtube",
-      "title": "Thorium search kar raha tha 😂😂 ye me kaha aagaya",
-      "score": 0
+      "title": "Maine to Economics Balanced sheet search kara yeh Tope wali video kyu aagyi 🤡",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

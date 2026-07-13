@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-09T20:44:18.821Z",
+  "updated_at": "2026-07-13T20:08:27.793Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 20,
-    "positive": 10,
-    "neutral": 6,
-    "concern": 4,
-    "avg_score": 0.12,
-    "avg_magnitude": 0.355
+    "positive": 9,
+    "neutral": 8,
+    "concern": 3,
+    "avg_score": 0.115,
+    "avg_magnitude": 0.33
   },
   "youtube": {
-    "n": 9,
-    "positive": 8,
-    "neutral": 1,
+    "n": 6,
+    "positive": 6,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.611,
-    "avg_magnitude": 0.633
+    "avg_score": 0.533,
+    "avg_magnitude": 0.533
   },
   "overall": {
-    "n": 29,
-    "positive": 18,
-    "neutral": 7,
-    "concern": 4,
-    "avg_score": 0.272,
-    "avg_magnitude": 0.441
+    "n": 26,
+    "positive": 15,
+    "neutral": 8,
+    "concern": 3,
+    "avg_score": 0.212,
+    "avg_magnitude": 0.377
   },
   "top_positive": [
     {
@@ -33,13 +33,14 @@
     },
     {
       "source": "youtube",
-      "title": "Nice video",
-      "score": 0.9
+      "title": "Wao very nice 😍",
+      "score": 0.8
     },
     {
-      "source": "youtube",
-      "title": "Nice vedio",
-      "score": 0.9
+      "source": "press",
+      "title": "फोरलेन पर कुल्हाड़ी हमला मामले में बड़ा खुलासा, वारदात में इस्तेमाल गाड़ी मालिक गिरफ्तार - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUE92bmdpUHE4NnVlUzdvczViYkU4NGItRVFCTWpwN0pkSFByNGxXeC1uWkJfZ244QzBmM1ZzdGpZUjltUHhvNVgybWthdTRqRzlObHBob25pM09fZ3Z1eXJnbGRQZWdqT01kN0s4TTRSSlA2VFIxWjNRU2tQd2c0TWthZENZZG5nZmNHZ0paeTVMeHJkSjVGeFd3OUNRSFJybGJhb0RMSUI3ZjhMYWtKVW5pUWgyR1ZiQzRyaC1hc2hCMFAySjBTUEtUS2paLUlwM0x1NnRZemd2QnlZc2hwX0Fn0gHnAUFVX3lxTE9wT3c4VDEtV2R0MEdMU3ZRcVkyVVpJbHZwV1Q5MkNhMjAtM1pPdFNaQThjcGlTUUNlcEIxNVh6SEJsZjFrVDdrdTdPVnk1SjNJYU5yWFB4TmZhYzVBZUVpMldaWkE5R25Ra0J6S2VuOElXOHY1MTIwbkh6MjJrdmJsc3VrdllsZk9KZEt6cUNvWnlGWWI0cGIwX2ZLS0UyQ3NfNVV0VVp1SGZ3Z0loVHZyTHcwdXhMQTJ6UDlEVzljcXRUNlVyN3FDSE1iQVRBZm84TTAwdmlFbFVCdnVfTklZQ3d6U0NCaw?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
@@ -51,14 +52,14 @@
     },
     {
       "source": "press",
-      "title": "Chandigarh-Manali NH blocked: Earnings hit, Punjab transporters protest Himachal entry tax - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd0V4UC1HY0ZzbE1samFfU1ZLWVV6bDhETUJMVWhFRURQSGdiclYwWk9DTXJkU2JlVjAtSHNjS2VxWW52YXlkWFB0aXFZVmgxenpuSkMyLUZIVzUyNmNMUXhkc0tFZGpUcmNvbFk0eFBHNnI0ZnVkMGs0c09LUzhROE8tUXQzLXUzR1lldDROTzdmZWU0WUlVT1ZRM2VuS1J2QzdBMnZUT0pOQlBrZmZoOE1lTi1VcTVVdHl5eExIaTJvbXg5NmRNYjl30gHOAUFVX3lxTFBpWkNvbDdYYkF0RjFPQ0lYS0Y2elRJRERRT2o3QlFqZzhSeVNZelpKQ2hTUXZfeU05MTlUWGVrcjJCZlh5R1MyaEhLd0ExR2xRV0ZZazlDWkNTYXlwR2tkRUh1UjR0NXhXZ1RwS2hwdGlTT2hvU0JsbEthWFhCNG5xWmRHdDBCUVlESElLNmR0UDc4NHBZMENtYlp4TVQ3ejIyUFV6WXR3OC0xMnlLV3ZhaTNVaVdOMmg2TXlFQk4teVFGbzc2LTY0dHJZLVpB?oc=5",
+      "title": "Kiratpur-Nerchowk project: HC-ordered audit uncovers over Rs 22cr scam - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeFpCOWFlcDdzdHVNMTMyVmV4YVpseUxTSkJ3aDlpb1Z6VFNxNkJ6ek9RSDFDZGlfaFdLUmJzRVlHM1FseVZyMURLa1Ntb2lKMWp0dUNWTU85NGFBSDBFUE1qUWpaWVF5Tm1VbDdGaEIxRUJkZW5VNkE4Y05UT2lmSUI5YnM5ZFppcnJiY0FQc2t1RDdhRVFWeUFzRjcwWTluLWRUekZCOVRpM3ZneGFRcGJseVdMUHdWTmU2NUlOd2tZNUhrbVd0cFJNSHA3YnNSSXoyaFppNnlPRTNkem5kUdIB5gFBVV95cUxQZ19YakdlMWFPRjNkVzFyQ2dDck5id0dCaDIwMkhoS1JDSzJha2pUeEFCTEtiUG1feTAyN1pxOW93OWlNbkdaTGxWbHlhdXpHaG5vWUFpdHJtLXB1LTdyU3R3cGdUVlhjNWlRNG1PWmxSdmo0SnlZZjJoS29PTjlPSmVYUGpudGFQd3ROdVF0c3oxRjV3dnl2NE9oa3NMWXRlR2JubjJNZUprbFF4Z2RIWmhzQTE3Y2JTbDBFNDRCT0FUR1BkTEVmNXhXdFZlNEhHUE8wdkRSeHNuVXNQMEZxWlA4ZWpDUQ?oc=5",
       "score": -0.2
     },
     {
       "source": "press",
-      "title": "Kiratpur-Nerchowk project: HC-ordered audit uncovers over Rs 22cr scam - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeFpCOWFlcDdzdHVNMTMyVmV4YVpseUxTSkJ3aDlpb1Z6VFNxNkJ6ek9RSDFDZGlfaFdLUmJzRVlHM1FseVZyMURLa1Ntb2lKMWp0dUNWTU85NGFBSDBFUE1qUWpaWVF5Tm1VbDdGaEIxRUJkZW5VNkE4Y05UT2lmSUI5YnM5ZFppcnJiY0FQc2t1RDdhRVFWeUFzRjcwWTluLWRUekZCOVRpM3ZneGFRcGJseVdMUHdWTmU2NUlOd2tZNUhrbVd0cFJNSHA3YnNSSXoyaFppNnlPRTNkem5kUdIB5gFBVV95cUxQZ19YakdlMWFPRjNkVzFyQ2dDck5id0dCaDIwMkhoS1JDSzJha2pUeEFCTEtiUG1feTAyN1pxOW93OWlNbkdaTGxWbHlhdXpHaG5vWUFpdHJtLXB1LTdyU3R3cGdUVlhjNWlRNG1PWmxSdmo0SnlZZjJoS29PTjlPSmVYUGpudGFQd3ROdVF0c3oxRjV3dnl2NE9oa3NMWXRlR2JubjJNZUprbFF4Z2RIWmhzQTE3Y2JTbDBFNDRCT0FUR1BkTEVmNXhXdFZlNEhHUE8wdkRSeHNuVXNQMEZxWlA4ZWpDUQ?oc=5",
+      "title": "Watch: Paraglider crash-lands on busy Chandigarh-Manali highway after wind shift - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWW01alRFTkZnOV9QMFpTUkRlOE5HN0w4LV95cWl5RnRxNUJ6bExYZ2RVWmgyQm02U09oSV9OY095RkRveV9HVVNBYVlqQXNJYXRSV3k0UklfaUN2RTlBd1hOVjVnYmV6UHFLMzFqS0lsVTB4RWFsNE9YZ0tYWjFDQ0RITXE5OUtxVlpDbEF0R29NbXhFOV9XbUw3ZWN3R1F5TGRhLTF5aXV2eFhfendLcmI1Q1l2WG8xZ0k1M2x3MWliNU10NTZJSTVBYzhlUklFQ1pSNmYycXE3MzJBVWNmX1drTFpiaXJr0gHuAUFVX3lxTFB3M1EtNjJlX0lDb1prMXc3YWJGWHpqVzEyMHBGQ1NtOW1mRDU0SlY2VENnempCM0FhOUZySjZJSGtRTDZSWkJFZ3BBOER4QmhHQ1ZhTDc0V3JDSkhVbkxHYmRaRmRwYzlOLXM1RkU1RzhWYWtPZTFJQUJWUFJfNlNrcGhveEhabHI3OTJfMVhqTVZFWE9FTVgtY0FBMWNDTzdoY1poZGZVWmxLazRCMXlmdmlFdFFyZjctdGFqOGJwR3B2QnhKRUI3eWVVWHFZWEd5XzE1amlyZXdReFUyM2Z0ZGV3MGgwZ0I3ejdyU3c?oc=5",
       "score": -0.2
     }
   ],

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-09T20:42:54.060Z",
+  "updated_at": "2026-07-13T20:07:06.590Z",
   "project_id": "MANDI-AIRPORT",
   "counts": {
-    "press": 7,
+    "press": 12,
     "gov": 0,
-    "en": 4,
+    "en": 9,
     "hi": 3,
-    "total": 7
+    "total": 12
   },
   "mentions": [
     {
@@ -40,6 +40,16 @@
       "match": "Mandi greenfield airport"
     },
     {
+      "title": "16th Finance Commission meeting in Himachal: LOP Jairam Thakur advocated for special grant to Himachal Pradesh from the Central Modi government - Nagpur Today",
+      "source": "Nagpur Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRkFvbGtta0lBcF9zQlc2bFZYNl8zLUlhNlF6clRLRjA2NFFmY1hjNHlpZjdiVjlra3lMalh5TUFibkFBak9IUDVvUkNjM0JFYlBIZEY3TjI3bkVBSjBIcThBYjNPd094eTNLOFZaamc4MzFZb2NPUlVfRUdxWUZNZ0EzSjR0d1RRTVFfbHZmeHJ0ZEdzRXZIWWFvOGZVUXNqSkVmbEt0UXRSa296NXYyX2QwLURDeUxjdzVvdGRJTGt0NzRmaWtGamdHU05UTDdZQ0F0REhfRG8zNUxuQkxyRDFybkJvMVlsY2syT1RrS0RNVENhR05ScVV6cUViamc?oc=5",
+      "date": "2024-06-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi greenfield airport"
+    },
+    {
       "title": "Mandi Airport: विमानपत्तन प्राधिकरण ने मंडी हवाई अड्डे की डीपीआर लौटाई, कहा-तकनीकी खामियां करें दूर - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -50,11 +60,41 @@
       "match": "Mandi greenfield airport"
     },
     {
+      "title": "DPR preparation underway for Balh Valley airport project in Himachal Pradesh - Projects Today",
+      "source": "Projects Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUlVJT3ZqUkFxMmNQb1MxbFpvM0xTaTVlUXlDOVJZZEtUclBBTDRwMy1NMk5CRzRpeFVtZVhxcDVDUC1rWTlJd3d6TmQtZGgwWkQ1elNzb2pXVXZZek5zSFJObzVEZmd2N1pmWE83VWVZTTVLcjBkSzZEWjhxQmxmbldrbmkwZmxIYW9sS0ZiZ2czX2dTWUtxNXRkc3JJNXNVbWJ0WFNNRGVlZw?oc=5",
+      "date": "2023-01-05T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Balh valley airport"
+    },
+    {
       "title": "HP CM seeks special assistance from Niti Aayog for Mandi greenfield airport - Business Standard",
       "source": "Business Standard",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNWlpdDRVOXhHM0JLaDdKbVYxbmdSNkc4dTBCRC05ZW9Lc1NQVlBWMkhSMEFNd0JCZURpVXNNOWZWXzlfakNJeTlyTUZBdUhBSTlKckNnTUt4enlwbVloc05hTzkwbVhRV0hIUE5zUHczSE1NbDlKTUNkVHUxZXBKb2RmcGtFbC1nZkxwSlcxUGtEVnZKdm9lTXRDc29PcXZMV01kcGdYdGpFQXExQlY0dGViY3ZsNUo3TFBSalFJd1puTmpacmhRT1diQWwzRmczYmlNMTZUYVNya0VKV0x3Tjg1NndVYzRG0gHuAUFVX3lxTE5nYTg0OXBHeWx5LWlWd0gwLUJZN0FlSWJwazFDYU4yOHNKWVNOWDZKeEU2SlBFakhwUFozTVBua2dna0dYZUpLUm13UHk1bXFpeElfd3NqSEFTakJfZjRKZDBqSjBka3dCWGR1WDg3blg1a2pPeDA0TFl2Z19ydjhWQVFTRm0tcU1oRXhPSmxzZGFEMU1CZDFRRmdmbVkwS3Bfcng2b01FUlVlX1J0czlKLXdUcWUtaVU1cThUUHA5TjBJWjBpaUQxczZscFBWRlAwRnZtZmFQMVk0NmxOT2hMdUU2c3drRUdYQWtab1E?oc=5",
       "date": "2022-07-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi greenfield airport"
+    },
+    {
+      "title": "Outgoing President Ram Nath Kovind to address nation today at 7 pm - Business Standard",
+      "source": "Business Standard",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd3dSTXFJWVgzU1k3bkJEWmpWQlRPcHA0dXRlX3FaMGtKNGlXMmVONGRrZVhVdTdMX0xjc3BObVhPOV9sSjZBTTNUblpxaWxKX0VHSDRVQnE5cm5rWmhDZEhXMVEwS0V5ZnRvaHJrdlpna2JNTll1eWJLVVdyWFVocm0zM0Z6dTNhV18yVVlLYTQtazRhMkNHNkJ0WHZNMHI2YURHYzZzVlNRQXZ5cVpxX0lWck1rV2JnY042aGlIY0hsRDFaYlhIeEtTVVZpVDV4QURaTjExSlluZ0hz0gHiAUFVX3lxTE1nMjBPVDUzVnU4b0h2c29KYTNtZ2NEUk02ZF8tRXlKc1B5QnFBNl8zT1RPZzBsdjh1SFNHa3FjUTRfQVlZNTA5WFN0Zmd5REZHY2VyTFpzOVdBYlluOFg3MHdVX05fNnlNUEJYUlZWVWg1ZV9LUlBYRWZYZUhwaXJaLUdyQUI5cC1iNEZpekpZRGVRRWNXcHhER1o1WXVhdFBFZUJDRFM3NExISy1FRkpiNnR4QlFwT2ZIdG16VVZxUkhmVHk2TkpyUWNEZm1sd0lvajRiU0RFQ0FFeHhRYU1ia2c?oc=5",
+      "date": "2022-07-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi greenfield airport"
+    },
+    {
+      "title": "Page 10249 - The Statesman",
+      "source": "The Statesman",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0Vud3dPTzdFWU5ld1ZySDI3V3U3d1ZVS2dEcEdGSzR6MmFJQ05McFprTnpzaHpxZ3dSajBHUjZ3RXhTT1dXSVh0RUhfRUZqcjdiVEpoN0l4S0JkNVBNaFNvVEZWUFQ3Nmd0aHdqTnFNVUZZQlRQa1UxZ2VBTzZJRVZ4YXl2ZmRSOHN0SHNBcndSTlk1b1daaXJyZGdmMXFYQWhZQWpYZmFBVUJXMXBxTlFSTWxWa212Uzdpd1hYbGJsajc4?oc=5",
+      "date": "2022-04-26T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Mandi greenfield airport"
@@ -78,6 +118,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Balh valley airport"
+    },
+    {
+      "title": "Himachal CM calls for expediting Mandi greenfield airport work - ET TravelWorld",
+      "source": "ET TravelWorld",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdnZGYXFHc0NvcXlRV3FTb3Mzd1Z4cjA2X1FSazg5RzZNajBOLU5ic2taMC1JU0VQRUV6UkVhWGxOSzh5YjNOMXJUdlBPSjQ1ZnZXemROYlNqY3BXVTl2OVF3R0V5RWhVVmxvbFgtQmFIbFVIMUVlZUlzWEJOQ0NreTlDaWg4RW5tY290SVFTblJCN0VCQVZDM2ljV3ZPTEE1TXV4QjZ5ZWhGQmg1M1lGc01lVnA3bG1jRXdDME1GM2Z2bks0bmNsM3pPSUhHLTlUeVU3cUpPR0gzcTluOVE?oc=5",
+      "date": "2021-03-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi greenfield airport"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

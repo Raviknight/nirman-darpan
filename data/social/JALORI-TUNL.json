@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-09T20:43:22.077Z",
+  "updated_at": "2026-07-13T20:07:33.341Z",
   "project_id": "JALORI-TUNL",
   "counts": {
-    "press": 33,
+    "press": 30,
     "gov": 0,
     "en": 14,
-    "hi": 19,
-    "total": 33
+    "hi": 16,
+    "total": 30
   },
   "mentions": [
     {
@@ -20,23 +20,13 @@
       "match": "Jalori Jot"
     },
     {
-      "title": "Jalori Tunnel : डीपीआर की आपत्तियां दूर, अब केंद्र की हां का इंतजार, टनल बनने से आसान होगी पहाड़ की राह - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdUk1RGRkUENvM2RlWjU0Q25EZzJSckJTVUY3Y3NiNHFlZThORTJwQVhWQVd0ODlFNXdfQk9hWUFKS1Q4ME54LUpDVG50VS1JcW94a1Rya19HMjdJMzN5alpBa1lic2lzeVkxckRVMEdyUTliZHlNUW16dzBoRWg5VDRHZHJRTUE3WVp1MWtDa0Rpb2UxdmhnQjZYNHdCZWRDS3AzdlMyZjU1WTFmWmZZcmhybHZDdmVheV9Bd3RnbkQ0QzltWlVOckY1U0h1NFJ0ZmtQMWVTQjNqeEFIMnF2QXdvbkxqd9IB6wFBVV95cUxPZEpGT2dwZDFJMDBYVE1KUGNTcHY4ZENUTVdsdFBNa3NuZF9PMExBeFNwU0ZxcnhtRllEZ29sMzZ4Unl3YzR1MW9UYXN6aW1mZVI1MklOcjlNN3NGcjFPSVEzd1M3QlhNZzhDQkNMTVBudTctNmNLNUhSejFXVk80NWFVbnJ1NWJRT0xEOU05d3ZNUU9QOXd5Y2M3YnNvQVEtMTBnOC00THJmaEhDd1N4NzdYd3l0UGFteTg3YlJZTGJ2OENkY3NGT1F0QmhRbklrcWdfU0VtYjBGUGZEQmFFa1RfVUVBM2U1M3Bv?oc=5",
-      "date": "2026-04-14T07:00:00.000Z",
+      "title": "3 dead, several injured as tourist vehicle plunges into gorge in Himachal’s Kullu - The Indian Express",
+      "source": "The Indian Express",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1J6c2FtWFFYUUtIczFySTNDMFZxbjc5cDVvaHZneHVXa2N5aVhSMXJvd0VBWk1sTkNKZTdCd0x6Sm1yeHFwbEhKRFl1aVJrUjJnNFZzRGF1VHV5RVhvcnpVc1A4QjN0a0NUbnNDVlpvdW5kM2VEaGxIMk1FZUdhaGlDdzM2TFRzSGNiTlpRRzVZaE9zNk1EWEEwQTZNeDJiZHFyTXZuX3oyN3NyQnZNZkFrZmx4NDhMUmVfc290c25adkJ4M0xr0gHOAUFVX3lxTFBRRkRnXzBkV0RQQ3JqQ01wSUZtU3N0S2p3eXFQS3dRSVlqVG93VkNvbGkyeDhiNTN0WmhoXzZrTGgtMzdqbU9HLXFGOWYycm1fcE9ycXpSWWo2SFZIY0lZQkYwWU9vODgtT2h1Vk1rYnNqSTl0S1pfdFlIamNCVjFGX3R0bHFPZnhLSFViZUlTZmpGZVpkSjNhT2t2LVhlYkRrdEt1RjFndXdqU205Q3JOU2liR0pvYkczN1RaZVMyLTlwTFgtMHdEMENGMWRB?oc=5",
+      "date": "2026-04-05T07:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
-      "match": "Jalori tunnel"
-    },
-    {
-      "title": "हिमाचल में भारी बर्फबारी के बीच फंसे 5 सैलानी, वीडियो वायरल - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQzJGLU5YQUZZMGlESWtfYnFjdld0aENxTm90RnhtZkdBNmI1bGxxQzlIYUFYZ1QwUVN0UHJNUVhXTWZldVZvU3V5UzlLYnNDS1ZpeTY1XzB3UEhld3dyak1LVmZIemxrN0tJdHVrZHJSbnZSVFhZc2FCOWdEblJhVERLbjVuZkFVTWFzSDlQRmEtbHJ4X0dEZkFyV2hGOHdxTTdEaUxyeWhFNFkxODJjY2NPS2tUM3phcU9SeTljVFhVOVlwWWl5Y25YU1BvR1l6T0ZhS19iME9BdDFH0gHiAUFVX3lxTFA1WlVCbFRQSUxhNXFwY3o1Z19QcWRpNExDUTd5TVF0Q0tkOXlkYkcwNG5USXdyT0VZYk84elJMMWkzRnFWVjI0QTlnLXhvWHhjaThRMXNuZFhvdHVYczdPa1RjMk5BVEZxOFFEamxNeW1hTWJNbGhwQU5WLXlkTEdzeVg5RkhXbEV5N1NOZ2tIeHNNRGQtR0FPZGIweS02NDBsN2hXT1JtTjl4ZG93a0lJSjNndWMzOHRIdXkxWVBkTjhPdXVEX1NDOWdnSjVucHZtdy12QnI3Zmg4cWFCV2tpU1E?oc=5",
-      "date": "2026-01-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Jalori Jot"
     },
     {
@@ -53,7 +43,7 @@
       "title": "फिर लम्बा हुआ जलोड़ी जोत टनल का इंतजार, केंद्र सरकार ने इस बात पर जताई आपत्ति - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQV3B2eERMbFZfRDI1V29yeFZRdUtEMFAzSmVMYzZqeEtYaFN3MzhtN2VZY2x4bGkxOEVfZE5BcG1EUGNfVTNRRGZ4RXhsVi1LUFVDV0E3bU5QeFdtNXVfTFlOR2lvZFk3U1pSR2V3eEFNUld5VXYtbXVuVnlfZWNrLWtFNzk0eEpKZVB5NzlYWG4wTWZSamlmblEwTmpzTS1EYXowdDU2YU1YaFNRYkNfY295SUthTnJxb00tMFM1UnZoUml4VGhDUEpIM2Z5eDlNMVUzbUJ4emhnWHJ1U0tUSnBUU0pmaS1KVmc4b3BOVzZPdHFjcmxhYXFCLVlZSy1TUmtWTHZydWlNalpMWmctRHV2bm9ab0c4ZFpXUUJHUEtiSHdUdjdqTA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQV3B2eERMbFZfRDI1V29yeFZRdUtEMFAzSmVMYzZqeEtYaFN3MzhtN2VZY2x4bGkxOEVfZE5BcG1EUGNfVTNRRGZ4RXhsVi1LUFVDV0E3bU5QeFdtNXVfTFlOR2lvZFk3U1pSR2V3eEFNUld5VXYtbXVuVnlfZWNrLWtFNzk0eEpKZVB5NzlYWG4wTWZSamlmblEwTmpzTS1EYXowdDU2YU1YaFNRYkNfY295SUthTnJxb00tMFM1UnZoUml4VGhDUEpIM2Z5eDlNMVUzbUJ4emhnWHJ1U0tUSnBUU0pmaS1KVmc4b3BOVzZPdHFjcmxhYXFCLVlZSy1TUmtWTHZydWlNalpMWmctRHV2bm9ab0c4ZFpXUUJHUEtiSHdUdjdqTNIBrgJBVV95cUxQQVB0ZE4tMklwYmFJVmpESUcxTVpGSUQ4VlpMLW9sWlVQSDBnaGZzRHRRZVlqelVSVWFEYVI5dm1pSngwaDFneHVMUVo4ZHJWYmROUFM4d3pveG1iUUs5NEF2a0pSYjgxRFlaaUtSbFV4SXV4NXVub0k5MHNpMXc1NWl4THNPbTlBYjU2emQtNllYZW5vNlgyQnJMRXlhc2w2a1AyR1g3UWdRYUV3d2hUcmIzdHRMMGxMSUpqYmMwVHY0NzVoYlZySndSbkNiampRV2RCdjM4aDE2YUZaOV93VGFTbC16dTJKZWg1TXYxekJtR1h3bkdacksxUVdOTUp5ZHFIaHRQR04xZG5pRkw1T2RCX05SZE5YZGlSM2tSMHhmOTZUeW9mOVROVmRYQQ?oc=5",
       "date": "2025-10-29T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -174,6 +164,16 @@
       "source": "Jagran",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUlTeC1EekFWLUlGMkZ4eWdIUkhzRlJqck00Q1JSYnNBaXJySTN5bEc1TnB0OHRQR3JzNksteUpMRGJTbFZTM0F6bW5HQUVNYThLX0NvREFFQ0Y2UGdiQWRKNnF5eXBYYmdJcDBGU2VIeGc1WlNSOUdvQTMxQXVpZ1RNSy05Vkp0R3RGeGU4YzBtenloOEJZT2Q1TTkxWjNoTWpTWGllVDJFSHd3VFNRaHR1U3hhanRiQV9GX252eVlIZzlWR1VzMEJScElwak1naEV2bWY1MnVZcnJpNHFmcg?oc=5",
+      "date": "2024-12-28T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Jalori Jot"
+    },
+    {
+      "title": "जलोड़ी जोत टनल पर खर्च होंगे इतने करोड़, 4.2 किमी होगी लंबाई - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObVNzZE9UNmYtcDk2RU1nb3JzZW85WElEZEpPQmdFN1JZcS1KWDlvb3pJQkFGTnBaWWFkaG9rdnV1LTNqZmd5akFoU2pCZGh2ckJKTVhFZzlzQ3hhSkpsVXo5QlVZeHR4azJOU0dhY0I2N210a0J1eHNTMHZmTExVa3J6LTYwTlJnZmpOUGVJV2pwT3l1OTFOSGNxRGM5UUpsc1FPblR5d3pocG84WGxxWmFNTXU5azhzbDhvT29zbGdwQ0NONlcwT05LVEhORmFIVFViQnhaMWhpbkVvdS1mYg?oc=5",
       "date": "2024-12-28T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",

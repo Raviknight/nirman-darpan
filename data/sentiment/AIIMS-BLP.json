@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-09T20:44:24.691Z",
+  "updated_at": "2026-07-13T20:08:32.081Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 7,
-    "neutral": 13,
+    "positive": 6,
+    "neutral": 14,
     "concern": 0,
-    "avg_score": 0.12,
-    "avg_magnitude": 0.155
+    "avg_score": 0.1,
+    "avg_magnitude": 0.145
   },
   "youtube": {
-    "n": 50,
-    "positive": 27,
-    "neutral": 20,
-    "concern": 3,
-    "avg_score": 0.278,
-    "avg_magnitude": 0.336
+    "n": 52,
+    "positive": 20,
+    "neutral": 25,
+    "concern": 7,
+    "avg_score": 0.173,
+    "avg_magnitude": 0.29
   },
   "overall": {
-    "n": 70,
-    "positive": 34,
-    "neutral": 33,
-    "concern": 3,
-    "avg_score": 0.233,
-    "avg_magnitude": 0.284
+    "n": 72,
+    "positive": 26,
+    "neutral": 39,
+    "concern": 7,
+    "avg_score": 0.153,
+    "avg_magnitude": 0.25
   },
   "top_positive": [
     {
@@ -50,13 +50,13 @@
     },
     {
       "source": "youtube",
-      "title": "Jannat se kam to nahi hai only about room 🎉🎉😂",
-      "score": -0.2
+      "title": "Bhai video me. Voice nahi he",
+      "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
-      "score": -0.2
+      "title": "Only one study table?😢",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

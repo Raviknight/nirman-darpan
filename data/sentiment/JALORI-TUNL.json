@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-09T20:44:33.165Z",
+  "updated_at": "2026-07-13T20:08:36.264Z",
   "project_id": "JALORI-TUNL",
   "press": {
     "n": 20,
-    "positive": 13,
-    "neutral": 7,
-    "concern": 0,
-    "avg_score": 0.265,
-    "avg_magnitude": 0.31
+    "positive": 11,
+    "neutral": 8,
+    "concern": 1,
+    "avg_score": 0.185,
+    "avg_magnitude": 0.3
   },
   "youtube": {
     "n": 0,
@@ -19,19 +19,13 @@
   },
   "overall": {
     "n": 20,
-    "positive": 13,
-    "neutral": 7,
-    "concern": 0,
-    "avg_score": 0.265,
-    "avg_magnitude": 0.31
+    "positive": 11,
+    "neutral": 8,
+    "concern": 1,
+    "avg_score": 0.185,
+    "avg_magnitude": 0.3
   },
   "top_positive": [
-    {
-      "source": "press",
-      "title": "Jalori Tunnel : डीपीआर की आपत्तियां दूर, अब केंद्र की हां का इंतजार, टनल बनने से आसान होगी पहाड़ की राह - Divya Himachal",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdUk1RGRkUENvM2RlWjU0Q25EZzJSckJTVUY3Y3NiNHFlZThORTJwQVhWQVd0ODlFNXdfQk9hWUFKS1Q4ME54LUpDVG50VS1JcW94a1Rya19HMjdJMzN5alpBa1lic2lzeVkxckRVMEdyUTliZHlNUW16dzBoRWg5VDRHZHJRTUE3WVp1MWtDa0Rpb2UxdmhnQjZYNHdCZWRDS3AzdlMyZjU1WTFmWmZZcmhybHZDdmVheV9Bd3RnbkQ0QzltWlVOckY1U0h1NFJ0ZmtQMWVTQjNqeEFIMnF2QXdvbkxqd9IB6wFBVV95cUxPZEpGT2dwZDFJMDBYVE1KUGNTcHY4ZENUTVdsdFBNa3NuZF9PMExBeFNwU0ZxcnhtRllEZ29sMzZ4Unl3YzR1MW9UYXN6aW1mZVI1MklOcjlNN3NGcjFPSVEzd1M3QlhNZzhDQkNMTVBudTctNmNLNUhSejFXVk80NWFVbnJ1NWJRT0xEOU05d3ZNUU9QOXd5Y2M3YnNvQVEtMTBnOC00THJmaEhDd1N4NzdYd3l0UGFteTg3YlJZTGJ2OENkY3NGT1F0QmhRbklrcWdfU0VtYjBGUGZEQmFFa1RfVUVBM2U1M3Bv?oc=5",
-      "score": 0.6
-    },
     {
       "source": "press",
       "title": "Jalori Tunnel : जलोड़ी टनल से खुलेगा विकास का रास्ता, केंद्र ने मंजूर किए 1452 करोड़ - Divya Himachal",
@@ -43,9 +37,21 @@
       "title": "अरे वाह! पेड़ के ऊपर ही बना दिया घर, एक रात रुकने के लिए देने वाले इतने रुपए - News18 Hindi",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRmlUNDZuVTZrOUJ2dHAwa0ZoUjNlRHJaNFdDUWhCdGluWGMwZTBDS19VNDFkU0ZiSmFUUnlZMjJGX1JWYUVRVkFCOGxpaWdCV2VaMG5ES3ZaekN2SGxKS1VBSHVVOWdCS0ZpNFd2NUQzNWc4bXFNNG5XbHpiOVBxLW82QUZqSkRQcUJ2M0F0VUw2Y01IS2hObk9jT0J6bFIxa2ozcldNR0FReU1mSFFZZHlydWY3Y1N3VHdZSG9QdlcxVFppZEhseGxQWmw0cHZkaG1SbjktVkUyelJCZW9GX9IB5gFBVV95cUxPajczQzBQVDVyVHRtaGtlT3V5clpVX3ZtU29UcXlUdmtmUXV3NG5oQnlTelU2b2RfZDdjVlJoLWdMWmZwMHJIM042MFFOUWgwcDBGSUIxMzFobU5uSHFWWWFkRkhTUXZDSHptYmgzOEczU0E0NDhwSDlsdGxjcjVjSGZDSU1LRXdkdDNWcFNCZ1ZPdURnQ2NXWUxPZ2p4MDR6Y3U1V1U3czVXREE2bnFkNXlobTdBVTFJZHMzY1l1T1QxZkhrZHd0bldHd1BGYTU1b2w1RlJ2NGxaM0p6U0JYYzVOcDljQQ?oc=5",
       "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "फिर लम्बा हुआ जलोड़ी जोत टनल का इंतजार, केंद्र सरकार ने इस बात पर जताई आपत्ति - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQV3B2eERMbFZfRDI1V29yeFZRdUtEMFAzSmVMYzZqeEtYaFN3MzhtN2VZY2x4bGkxOEVfZE5BcG1EUGNfVTNRRGZ4RXhsVi1LUFVDV0E3bU5QeFdtNXVfTFlOR2lvZFk3U1pSR2V3eEFNUld5VXYtbXVuVnlfZWNrLWtFNzk0eEpKZVB5NzlYWG4wTWZSamlmblEwTmpzTS1EYXowdDU2YU1YaFNRYkNfY295SUthTnJxb00tMFM1UnZoUml4VGhDUEpIM2Z5eDlNMVUzbUJ4emhnWHJ1U0tUSnBUU0pmaS1KVmc4b3BOVzZPdHFjcmxhYXFCLVlZSy1TUmtWTHZydWlNalpMWmctRHV2bm9ab0c4ZFpXUUJHUEtiSHdUdjdqTNIBrgJBVV95cUxQQVB0ZE4tMklwYmFJVmpESUcxTVpGSUQ4VlpMLW9sWlVQSDBnaGZzRHRRZVlqelVSVWFEYVI5dm1pSngwaDFneHVMUVo4ZHJWYmROUFM4d3pveG1iUUs5NEF2a0pSYjgxRFlaaUtSbFV4SXV4NXVub0k5MHNpMXc1NWl4THNPbTlBYjU2emQtNllYZW5vNlgyQnJMRXlhc2w2a1AyR1g3UWdRYUV3d2hUcmIzdHRMMGxMSUpqYmMwVHY0NzVoYlZySndSbkNiampRV2RCdjM4aDE2YUZaOV93VGFTbC16dTJKZWg1TXYxekJtR1h3bkdacksxUVdOTUp5ZHFIaHRQR04xZG5pRkw1T2RCX05SZE5YZGlSM2tSMHhmOTZUeW9mOVROVmRYQQ?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
+    {
+      "source": "press",
+      "title": "3 dead, several injured as tourist vehicle plunges into gorge in Himachal’s Kullu - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1J6c2FtWFFYUUtIczFySTNDMFZxbjc5cDVvaHZneHVXa2N5aVhSMXJvd0VBWk1sTkNKZTdCd0x6Sm1yeHFwbEhKRFl1aVJrUjJnNFZzRGF1VHV5RVhvcnpVc1A4QjN0a0NUbnNDVlpvdW5kM2VEaGxIMk1FZUdhaGlDdzM2TFRzSGNiTlpRRzVZaE9zNk1EWEEwQTZNeDJiZHFyTXZuX3oyN3NyQnZNZkFrZmx4NDhMUmVfc290c25adkJ4M0xr0gHOAUFVX3lxTFBRRkRnXzBkV0RQQ3JqQ01wSUZtU3N0S2p3eXFQS3dRSVlqVG93VkNvbGkyeDhiNTN0WmhoXzZrTGgtMzdqbU9HLXFGOWYycm1fcE9ycXpSWWo2SFZIY0lZQkYwWU9vODgtT2h1Vk1rYnNqSTl0S1pfdFlIamNCVjFGX3R0bHFPZnhLSFViZUlTZmpGZVpkSjNhT2t2LVhlYkRrdEt1RjFndXdqU205Q3JOU2liR0pvYkczN1RaZVMyLTlwTFgtMHdEMENGMWRB?oc=5",
+      "score": -0.7
+    },
     {
       "source": "press",
       "title": "Jalori Tunnel Project gets green light: Reducing travel time and winter hardships in Himachal Pradesh; will... - Bhaskar English",
@@ -57,12 +63,6 @@
       "title": "Centre Clears Rs 3,667 Crore Plan To Upgrade Himachal’s Road Connectivity, Tunnel To Come Up Beneath Kullu's Jalori Jot Pass - Swarajyamag",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTS1ncjRYYnROaXlTMlJaWTExdC0zZFJVN0hjU1hYZ1Q2TTFTbDlEX0hXUXR6NUlheU5GVGxTQU8yTVdXTGVieno3QVRBQ292Q1NOTGkxX1JvZmpIWlNoTXNIXzB1QThMQnhPdUhiX2N1MGRJbVpma0tOOE9zNUJOWmNsbnhGUlNZUTFlUkVXQzZ5SUNESFFuUFpiRHZ4S1FBdlotMDFmblZ0SWtpellYX3hlUW50RjAtSWNkZFBFS2wxUzQ0c2tWV25lQ2Zsdi0yUlNKR3dRN2dmcko5eEJpTENfNk5GeEdDbTZn0gH7AUFVX3lxTE93NG04YThHYzVvWkRlTXFVOHpVeU5XMzRQYl9PczM2YWxnMkV1dFRiV0pNME9nMGlaTmhvMGtNX2dlMUVTTlJpTVdwS0lqTFpJU0ZqVmVfeU91RWY5TXRlLXJodFIwMDJYeG00dXRtLTBudElMbE9ocXBPUUtIRlhKYmJxTHZRcVhmS2NOd1VxRjdFeVJxME5xVWdreDdBNmNhc3RaZklmdWRCN0JYXzMzeUNDbG9aZkZiMUZwa3BCcWY4TTlLM0dPNkhzVVcxQ3NCdjloTUgwVkItVmhkckIyNnczZFlLTVp2NFZoQUNrZF8zVEZwdVhFalow?oc=5",
       "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Jalodi Jot Tunnel – Ministry of Road Transport and Highways set on tunnel alignment - Himtimes",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzRENTVJZDdidHJRLVE3LWxNNjFEYTVndlZlemFkYTVPMGQtd3RGa2xVUDJmUWFnN19UMV80eGZUQ0E5czcySkc4bjRIQUEta2NwLXZHcFVfZVhpeWFXVVExemE2a1ZsM1RKNHphVlpVVFlUREh0UnNybzNSQ0pFRUFiVTdLbW9NeUZmeG0yLTVnVlp6NEZrYndIcnVNZUl6Y2ZXRnp3?oc=5",
-      "score": 0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-09T20:43:26.698Z",
+  "updated_at": "2026-07-13T20:07:37.758Z",
   "project_id": "SMART-DHARAMSHALA",
   "counts": {
-    "press": 71,
+    "press": 68,
     "gov": 0,
     "en": 48,
-    "hi": 23,
-    "total": 71
+    "hi": 20,
+    "total": 68
   },
   "mentions": [
     {
@@ -14,19 +14,9 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTHR6c293TFJoV3QzWWEteC1kVmdGMkRiWFRWZjliR2pibTdVb00yWkVGVm5WZFB2TFl1c0w1dDZwcGVzTldteVZiUWFMV3doOFpxZWpuR1o3ckFWdzZpWnhCcnpmeXlUVTJuZzE4d25lbkpZa2Y4MllGX3kyS0Znc1otbTdnU1hsT0d2MTlQUzkzY3NlNDNGQWk1YkpZdHdWVjZLQXNSTGZtMGhpNVdnLXYzb3BWajlrMjB4ck5DTnU0MkNXU3pJX1dTeWNfdlpsS1hJcUJTTWJURW9sRklmU1BDeWE3U2V0enNGODIxWUbSAfYBQVVfeXFMTUdnVHk0QWxYRDhyR2pYWHp6YkowWW5JeUlqSmFURGI4NDdmTFFjeGc5X0JOVXNpaGYxcHllTTRfbktmS05qNnNtWlFFQV93Y2oxRnNfWDRUTmtjSWNtQjRnSFR1SEhNN3o0MkVGRGFPdXpybl9BMmFFckFxajk2R1BhME8yQl9oWU9aQW1YUU1YZ001Nzh5NkhzcUNoOHBoU0NmY1RFNXVHZHJMNDZiYm1neGJKbEVlNV8xd1hkSDVuM3FMekhZWFI2dURIRWdZa2dDbXdObVYtbW4teTRhcEFaTUs2ZS1lLXFRdVdtbkpvNE5KTFBR?oc=5",
-      "date": "2026-07-01T20:22:53.000Z",
+      "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Dharamshala Smart City"
-    },
-    {
-      "title": "CM Sukhu unveils redeveloped Fountain Chowk, E-Bus Depot in Dharamshala - MSN",
-      "source": "MSN",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNcEYwQ1ZaV2xkaFlfSjgxbkNZSklJZ3pVa3podGVwSXlScU1BTG9UY3BWejZHb3FFNjJyZ1BYMG5pNktfUlBWdFl5amc5d1BVd1RSTmkzNk5rRG5qazdSVTI5Y2tPSWkzQ2hpc3k5cGRWMFZsZWRRdE9ua2NITWRtS1BNS0lybk1sZTRfeTZnLURlazI5NkNuTGt1a05nVEQzc1g4VlJRRldlT3pUcklnc0pKRUNLamJYdGthakdRNjZhUVdmdjMtM05UUWpIdVhuOHF0M1g4OWV0aUZ4LUZzdlp4OXlqWjVJc1ZkQmFJcEtJbFYxR2I2Sl8ycDNlcHNlWUdwNzFIUWpTSWtxVFVPSXQ4M25WVk05VzZnakxQaVZuNW9BcXFONENEYndUbnl3NWVwQTFWRjZmaGhMNEtncVpTRi00QUxPSVNkYWEwbGJzZw?oc=5",
-      "date": "2026-06-27T06:26:45.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Dharamshala Smart City"
     },
     {
@@ -40,6 +30,26 @@
       "match": "Dharamshala Smart City"
     },
     {
+      "title": "Himachal CM inaugurates redeveloped Fountain Chowk, E-bus charging depot in Dharamshala - ET Infra",
+      "source": "ET Infra",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ25GUm9vRmpfYjZGNnhXR290TWl1MEtSSXVZV3BMajItb21YZGJiZF93ODRJWXNrUkQwQ1hBdVN0bFZvU2tPSTNsTUY2RmFUbFh1d2loYndIazZKdVZCZEJUQlNZVFJENnQydmh2RDEyQXpQWkd6M0lkUXlORFlwV3JqTTM5Z1NReFJMeVMzVTQyY2ZrMjByY25hUVlGSTNRYUUwU1pFOEVId2Mtc3Jya3ZLY3hHR3hkZ0RQSUtMcW1zZmp5Y0U4ZzRJVFdmcmNNaE1CYWFNV3ZxU0Z1NVNXMVN4STA4Qm4yUlJPUUhKbk1tNzY4M0hrNtIB_gFBVV95cUxPY2FGbkRxU05KTVNmRTFaMWdERldhcm5tUkNhTlg4d1JVeDItMk5jWHNvVllRdmd6am44cUsxTWVncTZfamZwUU90MGRzNHJkZk1vd2UyYmJoMDJ3Um9Zb2tuNWJTUGtYeXJINE1pSHp3ZWRoNFBPbGpsQkc3OUUyZ29iR3NEUnhzb09OdEVrUVkyOWx4NGZJYnp5d2hrbWFVRUliU1ZtSzRHOTJLN2x3cVNrNFhlV2pDTEtZb3JmeXlxaGdCcTh3UHZjamw5cHNocU1sOU1CMUt3OHFtbFo2OGhVLW00OVNGb2dMeGJ6NV9GVUNCYm9hYkh3X0FLZw?oc=5",
+      "date": "2026-06-18T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dharamshala Smart City"
+    },
+    {
+      "title": "Himachal Pradesh Government - himachalpr.gov.in",
+      "source": "himachalpr.gov.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NOHd6QTVQNW5PMm92bE1mR2tadlBpMG5ib0tva2h2RGp3eTZGQ0U5d29hYi00T3BQMjF3cVRoOVhYZWx5eUl4S3BiU19oSEtneE1LNHh3QVJxdWVFMWh0TGpHRkF0T0VwcE94UDhiT3diSGs?oc=5",
+      "date": "2026-06-17T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dharamshala Smart City"
+    },
+    {
       "title": "CM inaugurates redeveloped Fountain Chowk in Dharamshala - The Times of India",
       "source": "The Times of India",
       "source_id": "google-news-en",
@@ -47,16 +57,6 @@
       "date": "2026-06-17T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Dharamshala Smart City"
-    },
-    {
-      "title": "Kangra News: छह बार बढ़ी डेडलाइन, फिर भी अधूरी रही धर्मशाला स्मार्ट सिटी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPd1ZTUTVaLTVIRHV2ck1oTXhDYkZfa1pPVzNvYnQ2LWVRZ3dpVktIX0hiVV9paTYwTEtrWVBFUks3Y1kwRkNyZUhTdjZiMTlWN3diVERyNkVld1dyTHgyc3Q3VkVtRmxuZncwaXZSYWVEUmpvUlV1Q2IwZVc5WjhJaEdWQ2tRQlQ1RDliS19DR1JIVExDRVVRNXJ6VnBMWmZTUXhLNEIyQlFZRld5UkV3TkhyY18taWVJQmlEZ2RacmIzdTJtQmtzWTV6M0RPajJUQ3F0QmNmLXBYU2loVFZSQl9VSjN1cHI0Q2NUcnhKMWFRZmxoUHg3T01LYkw0amx4SDJjeUVFTl9aRmx00gGSAkFVX3lxTFBnM2hKQ21TY05faU01T2o4aFNJeGg0YWlGcUVuZE5JcmRxaXR4M3pZTUFlekRxNWdhS3F4R1ViVVBUcFRFVFlWRE5UUTRFUHc3aGx1TDFlMzlEYjZXTU42ME1qQlczWm9Db0I3UXZ3d09rS3hnZ3k4MGlLSXpHUjIyZWFCaU1GMjFuTkdEdUZjTTh5WllHWUI1RUFaVi1lMU9IOW1RNDRQV05KdHFieFdxc2xCUzdsOGJON09mZkg2NFVySFBOVGtYMUVyNUhMdlkxYlhaSXhOMzU5LXgwUUMzQ0wtRkxIZW5maFRERWxFQ0RaTFhWYnpMVTh6STRDV3I3MHVDVE44V3NUVlN6RHZvdlE?oc=5",
-      "date": "2026-06-17T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Dharamshala Smart City"
     },
     {
@@ -90,6 +90,16 @@
       "match": "Dharamshala Smart City"
     },
     {
+      "title": "GST Exemption on Smart City Water Supply ESCO Projects: Key Takeaways from Dehradun Smart City Limited AAR - TaxCorp AI",
+      "source": "TaxCorp AI",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnVwS2RYVVNXeXM0MnpfZ1BWZ1YyZjJfWUFnUmptdTV0aDUwZEY0UEJYdThjbG1OYnVZQ0ZrRExVNW5lSlRLdUU1d29LRTZfNWp2V3hRLTZOMDRyT2dnaHdhdWFuMXAxRG9mNFMtT3JEU1QxMDZFckxfTkhOeTRYYktxc3hHRXJsLWxiSk03ellsMnF2cGFtZ1d2Yjdod3dtbVJFcmdn?oc=5",
+      "date": "2026-06-16T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
+    },
+    {
       "title": "धर्मशाला स्मार्ट रोड पहली बारिश में धंसी: 18 करोड़ की जगह 25 करोड़ में बनी, प्री मानसून में गड्ढों में तब्द... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
@@ -114,7 +124,7 @@
       "source": "Community Impact",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclpKclpQWmdQRm1ObTB1ZXdRR3FOenZSTVVrelpaZEVSUlEyX1FHUmxKVlNVdVVFTDkzb0wycWJoMUF1VEdzUmtzeGJubFlqMVl4QU41a2kxX2N4M2RVenppdFFGV2RjbTJ1ZEpzTlBoWWk4cDhERzI1TzQxbEhVdmtMVWxVQUlJbmgtM0pFR25zTWtGblU1OTdESng4WlMxSlRfaF9qSHk2RExrby14QUVrUFo5ajRqcUdjRm1JVEN4MGFIZ1djLTl1MHNHQQ?oc=5",
-      "date": "2026-05-19T07:00:00.000Z",
+      "date": "2026-05-20T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "DSCL"
@@ -195,16 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdGFScTA5MTlpazBiaFZRNHZPeUxsUG1rRTdrSlotckJUNlgxSk94WW4xT2NXNnVOZTRGSGh6MEZhM3VvQnk3eWRzNFlaV0VlZXI5MHJsbTgteTJkWFN0NHBaWTNsendSb3E0V2JmS0tWbzRaNUtKU2VPS1R2X3hWOFNrY2pXc3FwWWgwVUxwT2xVS1R6cWRxLTVzQ1hvVkxJRmRHS2R1dF9wV2hSM3o1ODN1VFVTZGhMZEEzU1V2VmhkUTJBdUxBdVcteHlyLU5ma0h2cFZPWjNjTWU4SU5CN25nQWZyR3ZTMlY1LTRvX24tUzU1aVkyek9rcEdSRlJOTE1VVk1GWU40WnhINUtKZ3habm5aUdIBmwJBVV95cUxQZ0VKanBxUm9rdmVEMUJHZ20tUmZIVGRMbmZySjYzM1VTNml1bWZ3SGdwdzF2OEpzbDNhMGZHVEZfTDNIbHExQVBXTW0tYWNCbEF2ZFVCcVJsWGJ1VzhYT1VBekt6bWlOQWs2X0ZULU4xaEZ3ZHY1WE1ENTRPV0NlLVJObWlhdEdpLUp3WDUwMmFOcV9oRWI4cXRySDd5bDJCYVRPWlV3VWdfVjNrVzJVcDRFV2tPWVp2emNjYVhubHQ5WkdnYWdDa29fNGctNnRYTDFUcF9qLVY0eHNXZFRxajdzM09PaXhVSUJwLTYtZDl1T2tjdXdUQU1JV1pTdDQyR3RQMlAxaXQtcmdmV19DemxoR1J2blpsaHhr?oc=5",
       "date": "2025-08-31T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
-    },
-    {
-      "title": "Davangere Sugar Company Announces ₹149 Crore Rights Issue, Hosts Virtual Investor Meeting - scanx.trade",
-      "source": "scanx.trade",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPODRqVHNUTHA3T1gwbEd2Rm1kRV9xT1VIMUZMUF84MmxVcVVIemt2MzRhdk5WVE9oSTA3ZGI3NTJtM1FMR2tCTHphYzJha29Ka3J6MG52cm5YUE8ySGh3Z3FSblZPclVUUjFvN1hMRGVranlkd255STJiLVU1QzJlckhRNEhWOWxGdFNDMDdLVWFLeFBNTzlXU2I3NUNnRk9PVWh6VGI3RGpqS3FFdG1wZGVHVFFISXZHM1dIYnc1STJFZnJFM3RnQU1KdmlMZW5UY1RkYktVM05NWDE2TXFkRU5jdVdaeE0?oc=5",
-      "date": "2025-08-19T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "DSCL"

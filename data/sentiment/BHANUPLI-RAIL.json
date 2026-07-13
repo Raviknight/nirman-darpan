@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-09T20:44:18.822Z",
+  "updated_at": "2026-07-13T20:08:27.794Z",
   "project_id": "BHANUPLI-RAIL",
   "press": {
-    "n": 4,
-    "positive": 3,
+    "n": 3,
+    "positive": 2,
     "neutral": 1,
     "concern": 0,
-    "avg_score": 0.325,
-    "avg_magnitude": 0.325
+    "avg_score": 0.3,
+    "avg_magnitude": 0.3
   },
   "youtube": {
     "n": 9,
@@ -18,11 +18,11 @@
     "avg_magnitude": 0.444
   },
   "overall": {
-    "n": 13,
-    "positive": 9,
+    "n": 12,
+    "positive": 8,
     "neutral": 3,
     "concern": 1,
-    "avg_score": 0.285,
+    "avg_score": 0.275,
     "avg_magnitude": 0.408
   },
   "top_positive": [

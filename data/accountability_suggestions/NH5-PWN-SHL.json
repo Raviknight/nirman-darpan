@@ -1,22 +1,8 @@
 {
-  "updated_at": "2026-07-09T20:43:51.910Z",
+  "updated_at": "2026-07-13T20:08:04.965Z",
   "project_id": "NH5-PWN-SHL",
   "count": 4,
   "suggestions": [
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-09T20:43:51.910Z",
-      "title": "Landslide at Shimla in 2025 an 'act of god', NHAI tells NGT, rejecting compensation claim - The New Indian Express",
-      "summary": "Auto-detected from press: \"Landslide at Shimla in 2025 an 'act of god', NHAI tells NGT, rejecting compensation claim - The New Indian Express\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHo2bDBRdUc1MnV6NkNxZ0JnOVBfX2hvYTFOUlVRa1pGVmlfM3NmYUF4UFlsaUIxbmRId3AwcDlqLUtPZWtteWQ4dUcwaG5UdS00TGU4UW1SbXlycEJYbm5DNHdJQjJKb0FiWEpXSWxLdHN2emNzTFp2dXpYaFdFdVJhWWpvcmt6dTZxNXVyd3VKXzNLZ2pGS2JWOUtpM2Q5LU1jeGpkTzktaUh3TTRXUXNWbVVIMU9uaGtQTWNwT3RVbV9IQjFSUXFuQmY0dWFKZGfSAd8BQVVfeXFMTmd2c0NHT2YyRFl0bHFuRUZXeU5rRGtBdzQ2cDBqeGVZWnBLaEF1V0ZhS0hOdFBPaG12NmVJdlJjeDMza20yOEN5dG91QUpBV19jcWxaOFZjTHpJeDR3U2ZhM29IRlpIcHV6SHMtUjc3UVl0LXA4MmgxZXlpcXhxeUZfemhlVHlyYlFyd05IN2ZxbjVVZUpURFNOZ21FSGQxbV9qMkRYM0F5T3lFQXEwcUo4SGxIeXZXRjNiYXE0Mi1KSTlZaTJoSjVmWGZzLTR1NGVZNVEzUG5RYjFRb2FRVQ?oc=5",
-      "source_name": "The New Indian Express",
-      "lang": "en",
-      "date": "2026-05-22T07:00:00.000Z",
-      "matched_term": "ngt"
-    },
     {
       "category": "litigation",
       "severity": "medium",
@@ -43,6 +29,20 @@
       "source_name": "ETV Bharat",
       "lang": "en",
       "date": "2025-06-30T07:00:00.000Z",
+      "matched_term": "collapse"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-13T20:08:04.964Z",
+      "title": "Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - The Federal",
+      "summary": "Auto-detected from press: \"Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - The Federal\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcW94YnVfR0pHeUVkZUd2WUV3U3VBRUlIc2l2allCMWtRUlNVdnJiLWNJdXVrbVl6UTl2WUllcTd0ZFdheC1ac0RHU2FpV1ZTWlZSNlN5aTRKSE9QSTViZnl0VGJEUVJMN2xpb1hwQnkwWE9Kd3Z5bmg3QktHOXVPZTFzTzZHR3pEOHhZLS1SaHo5ZmJFaVd0c25XMFh1blBSa0xsbFVyc19nWkRCUDMwaTdRdWstUzB3dmJ2UW0xb201cHF5MVJ1T000aEpHYVlmM3pfNzJB?oc=5",
+      "source_name": "The Federal",
+      "lang": "en",
+      "date": "2023-11-22T08:00:00.000Z",
       "matched_term": "collapse"
     },
     {

@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-07-09T20:43:51.939Z",
+  "updated_at": "2026-07-13T20:08:04.986Z",
   "project_id": "JALORI-TUNL",
-  "count": 1,
+  "count": 2,
   "suggestions": [
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-13T20:08:04.986Z",
+      "title": "3 dead, several injured as tourist vehicle plunges into gorge in Himachal’s Kullu - The Indian Express",
+      "summary": "Auto-detected from press: \"3 dead, several injured as tourist vehicle plunges into gorge in Himachal’s Kullu - The Indian Express\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1J6c2FtWFFYUUtIczFySTNDMFZxbjc5cDVvaHZneHVXa2N5aVhSMXJvd0VBWk1sTkNKZTdCd0x6Sm1yeHFwbEhKRFl1aVJrUjJnNFZzRGF1VHV5RVhvcnpVc1A4QjN0a0NUbnNDVlpvdW5kM2VEaGxIMk1FZUdhaGlDdzM2TFRzSGNiTlpRRzVZaE9zNk1EWEEwQTZNeDJiZHFyTXZuX3oyN3NyQnZNZkFrZmx4NDhMUmVfc290c25adkJ4M0xr0gHOAUFVX3lxTFBRRkRnXzBkV0RQQ3JqQ01wSUZtU3N0S2p3eXFQS3dRSVlqVG93VkNvbGkyeDhiNTN0WmhoXzZrTGgtMzdqbU9HLXFGOWYycm1fcE9ycXpSWWo2SFZIY0lZQkYwWU9vODgtT2h1Vk1rYnNqSTl0S1pfdFlIamNCVjFGX3R0bHFPZnhLSFViZUlTZmpGZVpkSjNhT2t2LVhlYkRrdEt1RjFndXdqU205Q3JOU2liR0pvYkczN1RaZVMyLTlwTFgtMHdEMENGMWRB?oc=5",
+      "source_name": "The Indian Express",
+      "lang": "en",
+      "date": "2026-04-05T07:00:00.000Z",
+      "matched_term": "injured"
+    },
     {
       "category": "litigation",
       "severity": "medium",

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-09T20:43:51.913Z",
+  "updated_at": "2026-07-13T20:08:04.967Z",
   "project_id": "KIRATPUR-NCK",
-  "count": 3,
+  "count": 2,
   "suggestions": [
     {
       "category": "audit",
@@ -30,20 +30,6 @@
       "lang": "en",
       "date": "2026-05-28T07:00:00.000Z",
       "matched_term": "accident"
-    },
-    {
-      "category": "grievance",
-      "severity": "low",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-02T13:28:24.731Z",
-      "title": "Chandigarh-Manali NH blocked: Earnings hit, Punjab transporters protest Himachal entry tax - The Tribune",
-      "summary": "Auto-detected from press: \"Chandigarh-Manali NH blocked: Earnings hit, Punjab transporters protest Himachal entry tax - The Tribune\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd0V4UC1HY0ZzbE1samFfU1ZLWVV6bDhETUJMVWhFRURQSGdiclYwWk9DTXJkU2JlVjAtSHNjS2VxWW52YXlkWFB0aXFZVmgxenpuSkMyLUZIVzUyNmNMUXhkc0tFZGpUcmNvbFk0eFBHNnI0ZnVkMGs0c09LUzhROE8tUXQzLXUzR1lldDROTzdmZWU0WUlVT1ZRM2VuS1J2QzdBMnZUT0pOQlBrZmZoOE1lTi1VcTVVdHl5eExIaTJvbXg5NmRNYjl30gHOAUFVX3lxTFBpWkNvbDdYYkF0RjFPQ0lYS0Y2elRJRERRT2o3QlFqZzhSeVNZelpKQ2hTUXZfeU05MTlUWGVrcjJCZlh5R1MyaEhLd0ExR2xRV0ZZazlDWkNTYXlwR2tkRUh1UjR0NXhXZ1RwS2hwdGlTT2hvU0JsbEthWFhCNG5xWmRHdDBCUVlESElLNmR0UDc4NHBZMENtYlp4TVQ3ejIyUFV6WXR3OC0xMnlLV3ZhaTNVaVdOMmg2TXlFQk4teVFGbzc2LTY0dHJZLVpB?oc=5",
-      "source_name": "The Tribune",
-      "lang": "en",
-      "date": "2026-04-04T07:00:00.000Z",
-      "matched_term": "protest"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

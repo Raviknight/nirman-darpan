@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-09T20:43:51.935Z",
+  "updated_at": "2026-07-13T20:08:04.983Z",
   "project_id": "NH105-PNJ-NLG",
-  "count": 4,
+  "count": 3,
   "suggestions": [
     {
       "category": "litigation",
@@ -30,20 +30,6 @@
       "lang": "hi",
       "date": "2026-04-21T07:00:00.000Z",
       "matched_term": "high court"
-    },
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-09T20:43:51.935Z",
-      "title": "Bridge delay triggers accidents, traffic jams on Kiratpur highway - The Times of India",
-      "summary": "Auto-detected from press: \"Bridge delay triggers accidents, traffic jams on Kiratpur highway - The Times of India\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZlJpbHcwaEhDOVdrSjBVUko5VmFmWXhjMEVDcHRvR3FESVpFek40Ni00TjdxaS1Qa2RDc2ZzOUNXMl9jU2E5Y05LRWJ1bG51aHFBU1ozdXQ3RUQxSDd5aVNVWkRqSTE5RDc4cElZZk05cWVXSlBVYVF6MWJRZWZ0VUlfb1BUT0dPYnBqVm1iQV9BZ1g2U1JvM1dpUkZaUDkybHF0VllDR0p2YUVtalA3Q2JFSnBnc1I3ZXNkY1RiclpVa0dLcXNVcFdMdDZkcXNCeWlEenZSalY3Z9IB3wFBVV95cUxQX3VRVHBCeEVrajMxbzJWS2VoSlNhSURsdUF3emtmcFYtMHl2RFRsR0xYdEJLWnVua2IySlR5VTY2NUxEX3BzNXd1cFR6dkhXR01BVnEwZmN2NGU5LUZxY3J0VGt4ekJKYTNsZ3dBdlpQUDFicDRCVGs3OUk1T1hrdndfZmJxU3NMU2Q0YjVsOFBjLVJVWGt3dndLeE15N2JOS1BtQkhXajJoZ3VyVU1Hd2d4cWJnR1lKbHBoTWNBeVdXbEpvT2d6bVV2Rk1xa1lpQV8tQU10RHBWQUJaRVJz?oc=5",
-      "source_name": "The Times of India",
-      "lang": "en",
-      "date": "2025-07-04T07:00:00.000Z",
-      "matched_term": "accident"
     },
     {
       "category": "incident",

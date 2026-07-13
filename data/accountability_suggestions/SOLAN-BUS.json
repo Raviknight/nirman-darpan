@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-07-09T20:43:51.954Z",
+  "updated_at": "2026-07-13T20:08:04.996Z",
   "project_id": "SOLAN-BUS",
-  "count": 1,
+  "count": 2,
   "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-13T20:08:04.996Z",
+      "title": "Himachal BJP chief's 80-year-old brother arrested for alleged sexual assault - The New Indian Express",
+      "summary": "Auto-detected from press: \"Himachal BJP chief's 80-year-old brother arrested for alleged sexual assault - The New Indian Express\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0Zmb1RvcnNaM0MwOEE4SWEzcWhyd1RSV3RVODBJYndfNjlLMmJWRlJWZERVT0lPX21wYV9IcFNORDc1c3VUUEFBZWJRdUozemhVVXlFYktsQnppcTRGU2xwV3d3TWJzVTYzUElYU0hNQ0NPOFFNTDNjYzRUUEJlb3haRVJSSEpod3Z4UlhDSFNPSC1wOHJybnFJcDlZaldRRDRCYW1xbWlQOW92dXI0eUN6Zm1fN0RRQUNsLUNTRmxENVc00gHSAUFVX3lxTFBBcFZ0V1VpVFh5WFdsVTRVeTJnUG1KaUJtM0l2akxuaWU5TlludjFLQ3laNGlvQ1p2NGtkeEhHNzQwSzZTZm8yTGFUTGlteDVybWZiUGN1YjR1ZzM3ajRsbnpWZHozb3NJNG9rc0F1eC00SW1ybmlkOHl3b1N0a0l0YXowS0Y3TGJyaVluYVU1azRobEpkd1pOY0xBQ3JqUUR2cGVzVnVqeVlHVUdUc3lSajIyVjhuLWEzaXpnOWNpUVlEa2h2Y2o1Ym93aUpNZFFvdw?oc=5",
+      "source_name": "The New Indian Express",
+      "lang": "en",
+      "date": "2025-10-10T07:00:00.000Z",
+      "matched_term": "arrested"
+    },
     {
       "category": "grievance",
       "severity": "low",

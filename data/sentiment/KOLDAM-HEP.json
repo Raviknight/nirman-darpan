@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-09T20:44:31.177Z",
+  "updated_at": "2026-07-13T20:08:35.674Z",
   "project_id": "KOLDAM-HEP",
   "press": {
     "n": 20,
-    "positive": 10,
-    "neutral": 9,
+    "positive": 9,
+    "neutral": 10,
     "concern": 1,
-    "avg_score": 0.17,
-    "avg_magnitude": 0.245
+    "avg_score": 0.145,
+    "avg_magnitude": 0.22
   },
   "youtube": {
     "n": 11,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 31,
-    "positive": 21,
-    "neutral": 9,
+    "positive": 20,
+    "neutral": 10,
     "concern": 1,
-    "avg_score": 0.281,
-    "avg_magnitude": 0.361
+    "avg_score": 0.265,
+    "avg_magnitude": 0.345
   },
   "top_positive": [
     {
