@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T20:08:39.655Z",
+  "updated_at": "2026-07-16T19:58:59.041Z",
   "project_id": "PEKHUBELA-SOLAR",
   "press": {
     "n": 20,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.225
   },
   "youtube": {
-    "n": 7,
+    "n": 4,
     "positive": 4,
-    "neutral": 1,
-    "concern": 2,
-    "avg_score": 0.129,
-    "avg_magnitude": 0.386
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0.4,
+    "avg_magnitude": 0.4
   },
   "overall": {
-    "n": 27,
+    "n": 24,
     "positive": 11,
-    "neutral": 12,
-    "concern": 4,
-    "avg_score": 0.096,
-    "avg_magnitude": 0.267
+    "neutral": 11,
+    "concern": 2,
+    "avg_score": 0.138,
+    "avg_magnitude": 0.254
   },
   "top_positive": [
     {
@@ -39,8 +39,8 @@
     },
     {
       "source": "press",
-      "title": "Una News: मुख्यमंत्री ने 32 मेगावाट की पेखूबेला सौर ऊर्जा परियोजना की समर्पित - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb1lVZzNNQnJwR2pOc0pxcktpaWpFVEdhSnE3b1BfNlZaek1OU0ZxbkVQT0p4SnVBeG1TR0RfeVNCeHJpOXVNZ3NkTk4wNUtUUkY5d0FMcUlXVXBQYXV6OXZTSFpyVUZHUWZabWg2SEZYOHNxcVJSaUFzdGFyb29LQVBYUVBXS0MtWndleFRTWXBUaTlncGdncktvSUlGVzhIdWs3bU14bkEtbWZmVkJlc01lekd0MFdIMzZBZWNQazJic0pYR05jMGVUeVVZZ3MxNUF6YlFwVnZzMG9BNTFnUk56MNIB6AFBVV95cUxQMmF2T1FCNV9vdUNzV0g0dWRZazhSSXZEamZ3NVowejVpSFhYNGZBRllQTlJEZUlaaVlIYW9ydlVScFEzZE1KMmlzQ1k1dE9xYjRYTEU5RXluNGdKWVZSRnlaOTdRX21qWGtZZm1xaW1SWXQxWWh2NzhjWkdqbERZb1VPYV9zTlhHTUpYTDJqal8zQlhtbkktTzBFd2gwdXpndGJOVjVBanZtejRyU0dLQkZmZHhHWEhsUXNDdnpaNGNuaExzd1hnX0NvWE04N1ZZTkhNMTFrNFFkVFg5cEwxUE9mOXRWMGNt?oc=5",
+      "title": "4790 हेक्टेयर पर लगेंगे 2450 मेगावाट के तीन सोलर पार्क - Patrika News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVhTVURLMUdOaGFEVGFRdHlpa1lVZ2tpYTYtOHhienJOQzB0Q3M0emVzQURUWWlCOWRGb0staklicGRHTTQyNk1QWUlZR3BCUnIza3hBbmthS1lSQXA5YzF2YkY0QWk3dFZmWlFJSTRqOU8yaW9HZ00tbldURnBrQ1dhNFFNZVY3bmRNMGFIXzVSZmJEX3F5R3JxaGtNTzRaQkdVMi1RNmhyd9IBrwFBVV95cUxPeU9tU211MjY1VnlxUjQyUExMNW1aUGpBLTgzejlXenY5M0hXcnFQQlFJSzVMSzRCRG15alZSN1dnaWV3QnRBOFVDNXA1aExsWDNGY0tyMzU0bXQ2MVI1QS10SUFOMXhGU0ZweS1KMjRFT1dXSllWRGcxQmZJSEZyODhkaS1WRHpMNlZPdGhkUEVWc2tEN084TC1yQWlDLUgxcUhnZ1BPVEcyXy1fMXpR?oc=5",
       "score": 0.5
     }
   ],
@@ -58,9 +58,10 @@
       "score": -0.6
     },
     {
-      "source": "youtube",
-      "title": "Most corrupt and papu cm of himachal. MINNING and forest cutting are on peak.",
-      "score": -0.4
+      "source": "press",
+      "title": "Himachal Pradesh Tenders 9 MW Solar Project with 6.3 MWh Battery Storage - Mercomindia.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmdlTEIxdTg3cVRQMlFMMjQyRm05bnJCUHFFZjNnYUZENl9PSUhfcXRHaldxNFh2V1RfZXFUTUo0R0xrcjZhSnYwMDNDX1VBMVhFNkZuU0wwU1UzTFl6dVVnSFFUbENITFd3Yl9ES0wtVFE5RE9iOXpCU3R2bk9IWlRRa213RjJmM1JjZkNySHVkWTloSlpRai1GdEg?oc=5",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-13T20:08:35.760Z",
+  "updated_at": "2026-07-16T19:58:53.677Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 20,
     "positive": 8,
-    "neutral": 6,
-    "concern": 6,
-    "avg_score": 0.005,
-    "avg_magnitude": 0.255
+    "neutral": 5,
+    "concern": 7,
+    "avg_score": -0.01,
+    "avg_magnitude": 0.27
   },
   "youtube": {
     "n": 8,
@@ -20,10 +20,10 @@
   "overall": {
     "n": 28,
     "positive": 11,
-    "neutral": 9,
-    "concern": 8,
-    "avg_score": 0.014,
-    "avg_magnitude": 0.343
+    "neutral": 8,
+    "concern": 9,
+    "avg_score": 0.004,
+    "avg_magnitude": 0.354
   },
   "top_positive": [
     {
@@ -33,9 +33,9 @@
     },
     {
       "source": "press",
-      "title": "कछुआ चाल से चल रहा पिंजौर-बद्दी-नालागढ़ फोरलेन का निर्माण - Dainik Tribune",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGo5ZnYwM2dvX1dWSG4zcVV6THZ1TnRNdG4tS2VQWFFsdUZacGFsaGFqcXhoYjJIbTVaQ0J3TU16d3F5UVZQck1GWDZ0bFNWYTYteU5uVWQyVXBwTEtkWThrWF9TbGhSRDlwdHNKaHdqc3JqczZvbkhVSHg1X0xMT3g1NGNiSzF6N0c0Y2RzWnpOUnNqZDE3M3VfYXZaNEJ3a2h2bHBrSnhZRlZCd19tZlZ0OEUwaWtCaGZVZElBVVNJSHlUNnBEZE4wQlNRQdIB0gFBVV95cUxNM29uSHVLMEJaUk02NHpaUThKZlNuVlpsZlJsRG1hS0xFZmVKY3VJdUJSZEs0bXlIeWptRkV3NTNkT3pCdENITFRsZXdWcElSUkNsNEdzWjA3ZmNwM3ZyMjVtVDdhUGg4NzRQNEljSjlKYTIyODc0YmI2emY0R1NuU0VWQ1UybHU3V3g4SVA4Z3owb19tc1hZZUkyLUNXZWdzUzZHMFFIeGJ5eHZ4bXhEdERRWGtqNk1kYU5OalQ0TFYySWdaaUpmRlFtbkhfc0lKYkE?oc=5",
-      "score": 0.6
+      "title": "पिंजौर-नालागढ़ रोड़ को पौने 14 करोड़ - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdFJfUVBqZlBRTFVKRDhGaWp1MWFsU0VVT3k3WGpteTRyUC1xQkhGdXZDMVE4b2xWWXhnMUREMzJKdW52TnBudUV5UlZScEJZTFAtXzV2U2NEVTZ2Vkx0MFppbmtsZHhiRWstbDB1VTZFemRVOGdfakVfSW5yS1hVeVNn0gGHAUFVX3lxTE1tUzl2M2JzcUdfcXNDeTlLVDZ6MTFSTWtyQnR6QzVDWE1sNzMtZGhlZ0RsMGNBSzRtdGVDWUlvazdDWFlsUk9Id1lGQzFqd3o5ZkY2TGNzVlhnQWduMGV0X1poeHVIQkZWdFc3MDduY3RZR0hXWFBUUW56b2FCOGpkZ2U2VUs1dw?oc=5",
+      "score": 0.5
     },
     {
       "source": "youtube",

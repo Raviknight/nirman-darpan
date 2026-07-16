@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-13T20:08:30.088Z",
+  "updated_at": "2026-07-16T19:58:49.398Z",
   "project_id": "MANDI-AIRPORT",
   "press": {
     "n": 12,
-    "positive": 3,
+    "positive": 2,
     "neutral": 8,
-    "concern": 1,
-    "avg_score": 0.025,
+    "concern": 2,
+    "avg_score": -0.008,
     "avg_magnitude": 0.142
   },
   "youtube": {
@@ -19,10 +19,10 @@
   },
   "overall": {
     "n": 14,
-    "positive": 3,
+    "positive": 2,
     "neutral": 10,
-    "concern": 1,
-    "avg_score": 0.029,
+    "concern": 2,
+    "avg_score": 0,
     "avg_magnitude": 0.129
   },
   "top_positive": [
@@ -40,9 +40,9 @@
     },
     {
       "source": "press",
-      "title": "HP CM seeks special assistance from Niti Aayog for Mandi greenfield airport - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNWlpdDRVOXhHM0JLaDdKbVYxbmdSNkc4dTBCRC05ZW9Lc1NQVlBWMkhSMEFNd0JCZURpVXNNOWZWXzlfakNJeTlyTUZBdUhBSTlKckNnTUt4enlwbVloc05hTzkwbVhRV0hIUE5zUHczSE1NbDlKTUNkVHUxZXBKb2RmcGtFbC1nZkxwSlcxUGtEVnZKdm9lTXRDc29PcXZMV01kcGdYdGpFQXExQlY0dGViY3ZsNUo3TFBSalFJd1puTmpacmhRT1diQWwzRmczYmlNMTZUYVNya0VKV0x3Tjg1NndVYzRG0gHuAUFVX3lxTE5nYTg0OXBHeWx5LWlWd0gwLUJZN0FlSWJwazFDYU4yOHNKWVNOWDZKeEU2SlBFakhwUFozTVBua2dna0dYZUpLUm13UHk1bXFpeElfd3NqSEFTakJfZjRKZDBqSjBka3dCWGR1WDg3blg1a2pPeDA0TFl2Z19ydjhWQVFTRm0tcU1oRXhPSmxzZGFEMU1CZDFRRmdmbVkwS3Bfcng2b01FUlVlX1J0czlKLXdUcWUtaVU1cThUUHA5TjBJWjBpaUQxczZscFBWRlAwRnZtZmFQMVk0NmxOT2hMdUU2c3drRUdYQWtab1E?oc=5",
-      "score": 0.2
+      "title": "'चुनाव नजदीक आता देख सुक्खू सरकार को आई मंडी ग्रीनफील्ड एयरपोर्ट की याद' - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRFpxVzNzOFVvdXp4NW81RkxFODFLTFN1WTdyUGV2TjJjcXBzZjVQdjFnaEl1UDZyLXFUNnljSFVMekNRRXRBYXBYanhqREkxMnJSUFVMNXk1SDVfeXRCZTQyYlFPMklYOVNyWThkdE1pbnpKVFBmMHlrZWtZeUtnRHBqQlBTLW80S2tRekxSZElJSWdZNlRNQ29mek1aMkZnZWx5VVpXQjRtckUtZ25COWQ0MWlFdnpaOVZJOFpoeVdUaFhsMUw3UmlkT0ZfVE1CcGhmY2ZZc1ljaUF6UmRXb2VraThWT1VHVEVaenhLWHA5WFE3LUkxa040U3pObl9ZVGR0S2lkUmFWQm5FS09YQ044YmpzamPSAZwCQVVfeXFMT3JWaFV2RWtPZ2w0cF9Wa2tYQzUwRTNvbS1FazZ6NXNXRXBiSnZvOVIteEx4enVfdTQ1RjJXY3BQNU1PU2NmTkVzYUdOcHNhS2hyQzlWZ2JGSUNyNDlaX2dDMGNnQnh1dWlsTTlPT1JHT1hhTTlBZjNwYzVoSmVELWZnLUoyUnZham5YNFZnODN0dTNWOHhGbHRHTDFmSmdpeXAyZlFwc2tRUWNhRzY0M2pXTmtsQ2xQMW1ZUHRtSFBBQ3hscWMwRXZmN0RIcHd4bU5OVTBRLVJkNzFoc1F1ZFRiNFV5bG41SGpteXNCNVBZNXdRX24xSjgzVGcwMHFvSkVtUDFWTTYyYlhsRmdFdldaZFNSQW05aEs3c0s?oc=5",
+      "score": 0.1
     }
   ],
   "top_concern": [
@@ -53,14 +53,14 @@
       "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "Jb joia ram ki double engine srkar thi tbh kya kia",
-      "score": 0
+      "source": "press",
+      "title": "Jai Ram demands LIDAR survey for Mandi greenfield airport - The Statesman",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnZSVm9BdTZUS19ibW9UQ0J6UjNvVVRLVWgwQ0hoT0MxU0VsWVl1S2hra3dNTGxwd19LYWJ0X05CRFhjTlhuekFyN3FQakdUSzd2SW5kb0pwNHRCYWswLVBoZnZMckdaUm9zTWUtdEJSS0szT25kd2hDbDFsVVAtNTFrQXZNMFhXc0J2Qm9KdHhjTWd5Wnhwb2FFRVZ0OERoc25wNEV4bTlHSjNZcnR5VWlqeUZLVHfSAbwBQVVfeXFMTklOSWR0Y1NKZnFkRklIcGM2cm5WdWFSMHkxakdlRWY4cHdzTHUyUVMzOEc4em1BZHVqV3Ruclh0dDd0RVNBMU1HZlhaWENzaTVVQUJ4NXhnZzEyNXRwWTNwN0t1WHlOUno1VGp3VHVleU9sWG8zbXAzTTl2ZWVZcE9ZRml3NWZGdXFDTTlVcUZnWTIxdDhDR0ZibDV2RlBIdDVtREhqWWJ3bnhaclh6bzd5bkxud2QtZG9kNVg?oc=5",
+      "score": -0.2
     },
     {
-      "source": "press",
-      "title": "Himachal CM calls for expediting Mandi greenfield airport work - ET TravelWorld",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdnZGYXFHc0NvcXlRV3FTb3Mzd1Z4cjA2X1FSazg5RzZNajBOLU5ic2taMC1JU0VQRUV6UkVhWGxOSzh5YjNOMXJUdlBPSjQ1ZnZXemROYlNqY3BXVTl2OVF3R0V5RWhVVmxvbFgtQmFIbFVIMUVlZUlzWEJOQ0NreTlDaWg4RW5tY290SVFTblJCN0VCQVZDM2ljV3ZPTEE1TXV4QjZ5ZWhGQmg1M1lGc01lVnA3bG1jRXdDME1GM2Z2bks0bmNsM3pPSUhHLTlUeVU3cUpPR0gzcTluOVE?oc=5",
+      "source": "youtube",
+      "title": "Jb joia ram ki double engine srkar thi tbh kya kia",
       "score": 0
     }
   ],

@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-13T20:08:20.444Z",
+  "updated_at": "2026-07-16T19:58:37.779Z",
   "project_id": "MANDI-FLOOD",
   "query": "\"Mandi–Kullu 2023 Flood Road Restoration\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 3
+    "comments": 8
   },
   "videos": [
     {
@@ -48,13 +48,49 @@
       "comments": []
     },
     {
-      "videoId": "GIjVi8wSe34",
-      "title": "Working to restore normalcy in Kullu, waterlogging in Mandi being rectified: Himachal Dy CM",
+      "videoId": "MsdiJb2Cv60",
+      "title": "Himachal Landslides: Mandi-Kullu NH shut after debris fall on JCB; driver safe",
       "channel": "The Tribune",
-      "published_at": "2023-07-11T12:30:13Z",
-      "description": "himachalpradesh #Kullu #waterlogging The Tribune, now published from Chandigarh, started publication on February 2, 1881, ...",
-      "comment_count": 0,
-      "comments": []
+      "published_at": "2023-07-17T18:28:09Z",
+      "description": "shorts #Landslides #Himachal #Mandi #Kullu #JCB The Tribune, now published from Chandigarh, started publication on ...",
+      "comment_count": 5,
+      "comments": [
+        {
+          "comment_id": "UgycReEt2vgsd3XfrEt4AaABAg",
+          "author": "@augustland8952",
+          "text": "This men who work hard for the country no one know who they are,were celebrities who only post on social media praise like God ... please stay safe",
+          "like_count": 6,
+          "published_at": "2023-07-17T19:11:25Z"
+        },
+        {
+          "comment_id": "UgxZtZeQAIFze5NqLEZ4AaABAg",
+          "author": "@kalpanaballal8131",
+          "text": "God bless you Bhai",
+          "like_count": 2,
+          "published_at": "2023-07-18T00:59:46Z"
+        },
+        {
+          "comment_id": "UgwwtpX5kOM7qV-iqpx4AaABAg",
+          "author": "@sriniari5349",
+          "text": "😭😭😭😭😭😭😭",
+          "like_count": 0,
+          "published_at": "2023-07-25T04:48:27Z"
+        },
+        {
+          "comment_id": "Ugw6foNiJn2Kz0rqmGd4AaABAg",
+          "author": "@SandeepKumar-tz4ot",
+          "text": "Said ho jao",
+          "like_count": 0,
+          "published_at": "2023-07-18T07:58:01Z"
+        },
+        {
+          "comment_id": "UgxzgfvTzrczGc2fKWF4AaABAg",
+          "author": "@Amritjot30",
+          "text": "Waheguru ji mehar kro ji 🙏🏻🌹🌹🌹🌹🌹",
+          "like_count": 1,
+          "published_at": "2023-07-17T18:58:42Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

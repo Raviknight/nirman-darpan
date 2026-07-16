@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-13T20:08:30.449Z",
+  "updated_at": "2026-07-16T19:58:49.685Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
     "n": 20,
-    "positive": 7,
-    "neutral": 9,
-    "concern": 4,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.325
+    "positive": 6,
+    "neutral": 11,
+    "concern": 3,
+    "avg_score": 0.07,
+    "avg_magnitude": 0.305
   },
   "youtube": {
     "n": 27,
-    "positive": 14,
-    "neutral": 10,
-    "concern": 3,
-    "avg_score": 0.137,
-    "avg_magnitude": 0.341
+    "positive": 13,
+    "neutral": 14,
+    "concern": 0,
+    "avg_score": 0.219,
+    "avg_magnitude": 0.378
   },
   "overall": {
     "n": 47,
-    "positive": 21,
-    "neutral": 19,
-    "concern": 7,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.334
+    "positive": 19,
+    "neutral": 25,
+    "concern": 3,
+    "avg_score": 0.155,
+    "avg_magnitude": 0.347
   },
   "top_positive": [
     {
@@ -33,22 +33,16 @@
     },
     {
       "source": "youtube",
-      "title": "That Atan talan moment@ the beginning only bro super op😂😂😂😂😂🤣🤣🤣🤣",
-      "score": 0.6
+      "title": "Make more videos like this on zozila and rest of the tunnels and bridges like chenab and all❤",
+      "score": 0.8
     },
     {
-      "source": "press",
-      "title": "दो बाइक, 10 जांबाज और कारगिल को सलाम… सेना की ‘संचार शक्ति’ ने अटल टनल में बनाया विश्व रिकॉर्ड - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVlNwSTVfRnMxWGQ5NnZsRWNNN2FzQ2VsLWoxX3UzajhkVHBzb0tnYXplRnR6SVVtaDRRRHdmdkk4OUs2T0JjdWt6ZnRmV3NrbzVnNUsxUkdnOEpnaW45NVBaN0daMFFhekozWElzSFlLSE9YZjJWV0hXWVJyNkRiSXVoME9LaGkzQXZnaVNpemx5ZHNtUFQtbGlYanhPUGRVYWRqY1BGSzZUUWpJQktlVDlMc1NESDkyVG8wOEt3VVhrWUxydzN4QjdCUXVQanpTZVhqSkZYbWd1dw?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Very super 👍👍👍",
+      "score": 0.8
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Imagine that the tyre of your car gets puncture in middle of the tunnel 💀",
-      "score": -0.7
-    },
     {
       "source": "press",
       "title": "Reckless tourist driving claims another life nr Atal Tunnel, raises questions over road safety - - Himachal Scape",
@@ -56,9 +50,16 @@
       "score": -0.5
     },
     {
-      "source": "youtube",
-      "title": "When you can't differ between speed limit and length of tunnel 😂",
+      "source": "press",
+      "title": "Tourist dies as Scorpio plunges off road, crashes on under-construction bridge near Himachal's Atal Tunnel | Video | India News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeFpiQ21yMVBESzllT2FPNldSVFNsUHNudjViWlpLNEU3NmxuRHV3X2s1WngzbW9VUU5ZMWd1UDk4WGlranptT1NmaENMMXJkTG9wd21ZQzN6aUJ5Nkk3VFJLSjRMYUEzb3lLdUx6WEtfRVdaX0dUUG9fZEtSLW9mZFhMNGQwRU5Yd3BDUFlwNnJ3VmhWTmlYb0RGSnlHRzZZQWdMNWVSVWlHWHRuVGZubG92MmJQRExYcEpzSEo2TmNidzlqZTdXYVpuWjhIbU85eXFsMHZUQV93UkMwdmxEMlBDWFNqOVFFUDJxcjhJcjJEQm9pTzdPUWloMEw1Uk9FeWhtNXlLOV9RN2sw0gGSAkFVX3lxTFAta09ReFFnUlM4NU0zSEpPLVE2clE4X0trU0g0MV9sWl8wQ3V4NDBjVDAzTHBfRUdjRkZVY3lmMDRtUmM2TUFfOGhzNVVvcVRHX2hrMm1tRFdueGhueFZ5blJtNDhRcGhiMjZRWVFmRENJa0pLZ1BIODkwR2E0MkhrZlBlemZZQ0FiV25GNGZCbVRhd1pQdDJ2Wll2WHNENzJlVGoyTjFNZWZhTXZNUWJ6eDRKckw4aUh3ZEkyM3FudnBzdlZESUxRcW5nUk42eE50cWgzdGVEejFUaUx1V3RDV2hsSmRGZG53VmhzbDRtczQzak9QMjJEc0QzNEg1c3pyVmtEZmY2TGpHcnlUei1leXc?oc=5",
       "score": -0.4
+    },
+    {
+      "source": "press",
+      "title": "Man dies after SUV hits barricades, falls onto under-construction bridge near Atal Tunnel - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmFGX3U2Yi1DODFlMDJ0V1N3OENub3pYOFZzUENHNnZraE5WTWRDNnVQWnhpMzZONXVLQU5Vc0dJY0Y1bWpyRS1iaUp5c2VqTGxrczB3TFlEZHdxbno5c3p2ZWZHUHhZd2xVRHlOM3pTZi1EQ2JPWTJDalRYd3MzaG9oa3lyZEw3T0N1dVpUOW1PeEliTXZibXNVand0S3UwODdsU0ZISHhkT1pac0RBTVA5N19QTU9XcVFOY0xmZ1QwQWcxY0dybjVpM2RrOWNpRGtvbFUxbWxOdVZsWHRHZXk4elFWbkc1UkVrbUFIMNIB9AFBVV95cUxPc2ZoMDMyUm4zdTVyX05ldkZzWm1aaEt3YmMxWC14b1dYbG11ejcyZGJzTjYyQXZUN0dsbDlieEJ4aVZlYVA1bUNCek5abS1nOTZYWjdFdDNCR2o4OXJ3Q3VGbG55THN0Qy00OGh3TDlmcUtfUU5rX29iT0t6OERRNXlLUTljTXh1Yjh1ald2LVJQZmhTRTN4QkxvYm0tWmpNTHhCOG9iZ1FXZFdtNW11QnpuU29Cb0dXdHhaUGI0R1BZZG81azA3ZlgyczFGS21xTTRQVi0ydzRfNnpJdTdxVDJWTjdXWl9mVHVKUFRMVlpWZWFl?oc=5",
+      "score": -0.3
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

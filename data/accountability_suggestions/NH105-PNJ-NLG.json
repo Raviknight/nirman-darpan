@@ -1,50 +1,7 @@
 {
-  "updated_at": "2026-07-13T20:08:04.983Z",
+  "updated_at": "2026-07-16T19:58:20.349Z",
   "project_id": "NH105-PNJ-NLG",
-  "count": 3,
-  "suggestions": [
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-09T20:43:51.935Z",
-      "title": "Himachal High Court pulls up NHAI over delays in Pinjore-Baddi four-laning project - The Tribune",
-      "summary": "Auto-detected from press: \"Himachal High Court pulls up NHAI over delays in Pinjore-Baddi four-laning project - The Tribune\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEw5WVVSZUlhLW1wV2pZQ0VFUUgwWXRZcm1ENER3U2xmNVFSTDQybXRKeFBkTFk0ak5Kc3BIWUg0WEtUZ2x2OGV0dzhjYXpMVU1sOFBuMTlFdklwTHRHYl82cFVnbVEycFJfQkNIcGR6Y2NaT2RwbXRhd0FVNy1YOVkxc3RBcFIya0ZpSjBnWlNwU2t0ZW92MGMxV0YwcFdGS3k3ZUJmWTVVTnVLNHJ5MUtGR2NyamQ2amfSAb4BQVVfeXFMUHJYa0E1UDBSRVJYdVl5N19rcl9acWZOajE2amJJd0RZREFXR1VXSmNCRzlBWk5mekpUTlQ3bUFPNFQ1bTdnYy00UEtqUU90TUt1dE52RU54ODYteEttRTZadmRIQjVjbkg3TXp3R0ZvWnA1QldZUVJKUFpheVB1dWp2bUtqVVY1anlUWFM0SjdNcWlvdTNMQl9sWkpQaUYta0VsMk4xb2U3azZ6U3N6TUE3VXB3RjRibUJYZ0IyQQ?oc=5",
-      "source_name": "The Tribune",
-      "lang": "en",
-      "date": "2026-05-22T07:00:00.000Z",
-      "matched_term": "high court"
-    },
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-09T20:43:51.935Z",
-      "title": "पिंजौर-नालागढ़ फोरलेन निर्माण में देरी का मामला पहुंचा हिमाचल हाई कोर्ट, कार्य का 17 बार बढ़ाया जा चुका है टेंडर - pinjore nalagarh fourlane delay issue put in himachal high court - Jagran",
-      "summary": "Auto-detected from press: \"पिंजौर-नालागढ़ फोरलेन निर्माण में देरी का मामला पहुंचा हिमाचल हाई कोर्ट, कार्य का 17 बार बढ़ाया जा चुका है टेंडर - pinjore nalagarh fourlane delay issue put in \" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0h1b1Z1NTdjV0FrcmppR2dGcGtWZkpqQ29QQVFnRC1QellUeV9ETzlPTzhEYWV3RkxabTJydnpRUTByNExRaDYwczQtb1JHOGlFV3Fudm14RVdBeGpWQlpobVJKWlloVjUxRmdXOUFxUUtUSmxaUTluOHg5d2ZnN1VmcEtlVWxtSGducklLeTVmUE1IUHJYTGw0bmUwNURaTTFiSHhEY1RBQ3llMnFvZm1tVUtFZUFrcVRkSkdmN1NhZw?oc=5",
-      "source_name": "Jagran",
-      "lang": "hi",
-      "date": "2026-04-21T07:00:00.000Z",
-      "matched_term": "high court"
-    },
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-09T20:43:51.935Z",
-      "title": "Delayed Pinjore highway project causing daily traffic chaos, accidents - The Times of India",
-      "summary": "Auto-detected from press: \"Delayed Pinjore highway project causing daily traffic chaos, accidents - The Times of India\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOVhsVUNFMUlzT0ZJNy1vTDNNYkI2WW5nb01wQmQtbEZzYWRsbTgxVE1GemJhQU1RUDJFUkZWSWJFZEQ2T1VCREFKQldOeHprR0FLZ3EyLXU5RWZlbk5McTNmQUt2R3B1aXI5SUJzdWR5d1FCTXQxQ21SUFktTEpaNVZIMWlKZm5hb1hDVEtvdEJsSWdjcFdrWXVmaVRZVHJteVEwdzJrRjQycmZGaXhmQ2NkNVZ5cnRiYXNsZmJCS2M3MGJyVlRwYk4xbElMTkVMQVNlYUFLSHJFcFROWTBGetIB5gFBVV95cUxONFNnSVNSOUNGeERvV3VKRW4taEh6Q2pHNzl6US1NNTZLWVNTYlZYQmNkbG5mMUNncG9iQnlQbjFESEhTNFpSUUpVWlJNaDl0TmpnNnlQWHNTaTZRTWNfeGt6d2JIdW9NWWJkWDZqMmI2VWZfYWIxLUhNTGVwc2dwbVhhcHgxOW1adXFKSE90SGprUGI3VlI4SV9GdnJfb2N6UG9UbGRsUnRiNUhBZ095aXdCemJMNmtaWXByd090NG5HbTZ5empwbnlYTjVjdEpzVE45elp3TmZWbzN0dzhtMmVBT01qQQ?oc=5",
-      "source_name": "The Times of India",
-      "lang": "en",
-      "date": "2025-01-15T08:00:00.000Z",
-      "matched_term": "accident"
-    }
-  ],
+  "count": 0,
+  "suggestions": [],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

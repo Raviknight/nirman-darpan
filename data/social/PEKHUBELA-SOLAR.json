@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-13T20:07:50.143Z",
+  "updated_at": "2026-07-16T19:58:09.670Z",
   "project_id": "PEKHUBELA-SOLAR",
   "counts": {
-    "press": 23,
+    "press": 22,
     "gov": 0,
     "en": 13,
-    "hi": 10,
-    "total": 23
+    "hi": 9,
+    "total": 22
   },
   "mentions": [
     {
@@ -170,16 +170,6 @@
       "match": "Pekhubela solar"
     },
     {
-      "title": "Una News: मुख्यमंत्री ने 32 मेगावाट की पेखूबेला सौर ऊर्जा परियोजना की समर्पित - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb1lVZzNNQnJwR2pOc0pxcktpaWpFVEdhSnE3b1BfNlZaek1OU0ZxbkVQT0p4SnVBeG1TR0RfeVNCeHJpOXVNZ3NkTk4wNUtUUkY5d0FMcUlXVXBQYXV6OXZTSFpyVUZHUWZabWg2SEZYOHNxcVJSaUFzdGFyb29LQVBYUVBXS0MtWndleFRTWXBUaTlncGdncktvSUlGVzhIdWs3bU14bkEtbWZmVkJlc01lekd0MFdIMzZBZWNQazJic0pYR05jMGVUeVVZZ3MxNUF6YlFwVnZzMG9BNTFnUk56MNIB6AFBVV95cUxQMmF2T1FCNV9vdUNzV0g0dWRZazhSSXZEamZ3NVowejVpSFhYNGZBRllQTlJEZUlaaVlIYW9ydlVScFEzZE1KMmlzQ1k1dE9xYjRYTEU5RXluNGdKWVZSRnlaOTdRX21qWGtZZm1xaW1SWXQxWWh2NzhjWkdqbERZb1VPYV9zTlhHTUpYTDJqal8zQlhtbkktTzBFd2gwdXpndGJOVjVBanZtejRyU0dLQkZmZHhHWEhsUXNDdnpaNGNuaExzd1hnX0NvWE04N1ZZTkhNMTFrNFFkVFg5cEwxUE9mOXRWMGNt?oc=5",
-      "date": "2024-06-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pekhubela solar"
-    },
-    {
       "title": "Sukhu dedicates 32 MW Pekhubela solar power project in Himachal Pradesh - The Statesman",
       "source": "The Statesman",
       "source_id": "google-news-en",
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Pekhubela solar"
+    },
+    {
+      "title": "4790 हेक्टेयर पर लगेंगे 2450 मेगावाट के तीन सोलर पार्क - Patrika News",
+      "source": "Patrika News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVhTVURLMUdOaGFEVGFRdHlpa1lVZ2tpYTYtOHhienJOQzB0Q3M0emVzQURUWWlCOWRGb0staklicGRHTTQyNk1QWUlZR3BCUnIza3hBbmthS1lSQXA5YzF2YkY0QWk3dFZmWlFJSTRqOU8yaW9HZ00tbldURnBrQ1dhNFFNZVY3bmRNMGFIXzVSZmJEX3F5R3JxaGtNTzRaQkdVMi1RNmhyd9IBrwFBVV95cUxPeU9tU211MjY1VnlxUjQyUExMNW1aUGpBLTgzejlXenY5M0hXcnFQQlFJSzVMSzRCRG15alZSN1dnaWV3QnRBOFVDNXA1aExsWDNGY0tyMzU0bXQ2MVI1QS10SUFOMXhGU0ZweS1KMjRFT1dXSllWRGcxQmZJSEZyODhkaS1WRHpMNlZPdGhkUEVWc2tEN084TC1yQWlDLUgxcUhnZ1BPVEcyXy1fMXpR?oc=5",
+      "date": "2024-06-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Una solar park"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

@@ -1,22 +1,8 @@
 {
-  "updated_at": "2026-07-13T20:08:04.967Z",
+  "updated_at": "2026-07-16T19:58:20.327Z",
   "project_id": "KIRATPUR-NCK",
-  "count": 2,
+  "count": 1,
   "suggestions": [
-    {
-      "category": "audit",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-09T20:43:51.913Z",
-      "title": "Kiratpur-Nerchowk project: HC-ordered audit uncovers over Rs 22cr scam - The Times of India",
-      "summary": "Auto-detected from press: \"Kiratpur-Nerchowk project: HC-ordered audit uncovers over Rs 22cr scam - The Times of India\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeFpCOWFlcDdzdHVNMTMyVmV4YVpseUxTSkJ3aDlpb1Z6VFNxNkJ6ek9RSDFDZGlfaFdLUmJzRVlHM1FseVZyMURLa1Ntb2lKMWp0dUNWTU85NGFBSDBFUE1qUWpaWVF5Tm1VbDdGaEIxRUJkZW5VNkE4Y05UT2lmSUI5YnM5ZFppcnJiY0FQc2t1RDdhRVFWeUFzRjcwWTluLWRUekZCOVRpM3ZneGFRcGJseVdMUHdWTmU2NUlOd2tZNUhrbVd0cFJNSHA3YnNSSXoyaFppNnlPRTNkem5kUdIB5gFBVV95cUxQZ19YakdlMWFPRjNkVzFyQ2dDck5id0dCaDIwMkhoS1JDSzJha2pUeEFCTEtiUG1feTAyN1pxOW93OWlNbkdaTGxWbHlhdXpHaG5vWUFpdHJtLXB1LTdyU3R3cGdUVlhjNWlRNG1PWmxSdmo0SnlZZjJoS29PTjlPSmVYUGpudGFQd3ROdVF0c3oxRjV3dnl2NE9oa3NMWXRlR2JubjJNZUprbFF4Z2RIWmhzQTE3Y2JTbDBFNDRCT0FUR1BkTEVmNXhXdFZlNEhHUE8wdkRSeHNuVXNQMEZxWlA4ZWpDUQ?oc=5",
-      "source_name": "The Times of India",
-      "lang": "en",
-      "date": "2026-06-14T07:00:00.000Z",
-      "matched_term": "audit uncover"
-    },
     {
       "category": "incident",
       "severity": "high",

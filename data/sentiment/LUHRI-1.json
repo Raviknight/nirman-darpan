@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-13T20:08:28.201Z",
+  "updated_at": "2026-07-16T19:58:45.838Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
-    "positive": 7,
-    "neutral": 13,
+    "positive": 6,
+    "neutral": 14,
     "concern": 0,
-    "avg_score": 0.105,
-    "avg_magnitude": 0.115
+    "avg_score": 0.125,
+    "avg_magnitude": 0.135
   },
   "youtube": {
     "n": 7,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 27,
-    "positive": 12,
-    "neutral": 14,
+    "positive": 11,
+    "neutral": 15,
     "concern": 1,
-    "avg_score": 0.137,
-    "avg_magnitude": 0.174
+    "avg_score": 0.152,
+    "avg_magnitude": 0.189
   },
   "top_positive": [
     {
@@ -33,13 +33,14 @@
     },
     {
       "source": "press",
-      "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
-      "score": 0.4
+      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - The Economic Times Hindi",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hOTTcxQXVwRXRWQWFMOGpvRnRzNGdETDBlckNfTzBpSng3WnluaGtzdVlGaU5xdWRnZko5cUNPd1EyQWwzTl9vbkJMVFBORmFlZ0toenpkamJjVk9ZNDZqU3JveHdPSHRYQjdwaFpnT1BUbkJxbWp6YWJHZl91MUhDMlR3enBxZkZtQVlmY20zR2NUNWRIdG83NFFIMlVIRWlndDlGUm1lbmFqbnFnZUxnU2o3ZUlxZlE1RXllU0N6Mnk1MGp5QlBPWVHSAdIBQVVfeXFMT0MxRGd6UXIyRVFGdjBZcmdRY3c5VEhrWTdhZHV2elkxRlF6emJ6eDFvVnZIdFR4WXAwUWdiTEhJaHBoeWpQdlJPcy1xS1JVTGt3SmpSaVNNdzE1aGVtd241SVdTdWEzb1F2S0lLRk5lMWs1dFJZR2RGMzRtYVRVRTAwcFM1M0VlUUNhRmF5X2h0RFNtbnRlZEdzU0RkNTMzQkUxS1pndk1FVHNIdkc1dmVaZGVoLVB0S2otMXZtakJZb01oc2ZJMk9mNmt3V3MwVVln?oc=5",
+      "score": 0.8
     },
     {
-      "source": "youtube",
-      "title": "👍👍👍👍👍👍",
+      "source": "press",
+      "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
       "score": 0.4
     }
   ],
@@ -56,8 +57,8 @@
     },
     {
       "source": "press",
-      "title": "SJVN achieves financial closure for Luhri-1 hydro project & Parasan solar project - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEltZXpyMERJcms5NV9FcFU3ZU44dUtZaWNqRjVkQ2ZDUVYxNHIwWXRlQTFKX1dkanM5VjdYcVBjekJnVnBBYXVocFlaeFdtTUNPNDU0ZVljR3JkSko2MkdSUHA4dGtrUkQwLWlrRHROVm9nZHdrenItSnZ6WmoxNFpEbFl0UEZNeGJjQ0NOTGQzYjNsa2dWNkFLRURGRlZHYWNYZjZMRjNScm9IWHhMWFlybW7SAcIBQVVfeXFMT0dKWVkzMDRXOWhBNl9MS2ZPUTNTN29GZjVuYzFwUUZCTHZnU0NSYzJZd3JKeUdjM0VxazBxaEpHRWY0YjBwNFcya1ZNay1TblBnY3dDUm9ZcTJ6d0NkQURsMGQzZTNtMkRZTF9hRG8tYWhBalRjNWRtVXcySUM3TkxmVld1Y3ZINzJqZHRUZXFuM1daa0dlOWZtM0dxSUdIaUtYQmlHNUhWaXVGWkdaWHNadXdMeEdTUk11dldlNFVIaXc?oc=5",
+      "title": "Luhri Stage-I Hydroelectric Project, Himachal Pradesh, India - Power Technology",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0MwLWxqcy1zN1ltS2hMZDVtX3JuekNnT2FvS0hfLXlJbzdneUkzRl9zemhHaHItUjBQdE83NjRVRngtbEhJd19HRnhPTHU5SVdpZnZJcHpEMVBhUkc3UWdaY3o1Rk1uSFZxRldtV2FId0YyVFVWRGs2aFZLUGNpV2xNaXFqRVVieWVGNHNINXhpLWdmRmpkNTFzcEd6NW0yOTJV?oc=5",
       "score": 0
     }
   ],

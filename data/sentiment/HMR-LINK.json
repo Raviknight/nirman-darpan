@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-07-13T20:08:42.924Z",
+  "updated_at": "2026-07-16T19:59:02.260Z",
   "project_id": "HMR-LINK",
   "press": {
-    "n": 8,
-    "positive": 8,
-    "neutral": 0,
+    "n": 10,
+    "positive": 9,
+    "neutral": 1,
     "concern": 0,
-    "avg_score": 0.413,
-    "avg_magnitude": 0.413
+    "avg_score": 0.39,
+    "avg_magnitude": 0.39
   },
   "youtube": {
-    "n": 19,
-    "positive": 10,
-    "neutral": 6,
-    "concern": 3,
-    "avg_score": 0.126,
-    "avg_magnitude": 0.274
+    "n": 20,
+    "positive": 6,
+    "neutral": 9,
+    "concern": 5,
+    "avg_score": 0.03,
+    "avg_magnitude": 0.23
   },
   "overall": {
-    "n": 27,
-    "positive": 18,
-    "neutral": 6,
-    "concern": 3,
-    "avg_score": 0.211,
-    "avg_magnitude": 0.315
+    "n": 30,
+    "positive": 15,
+    "neutral": 10,
+    "concern": 5,
+    "avg_score": 0.15,
+    "avg_magnitude": 0.283
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Lawyer nice sir ❤👍👍🥰🥰",
-      "score": 0.8
-    },
     {
       "source": "press",
       "title": "संघर्ष समिति-UPPCL ने एक-दूसरे को बताया घाटे का जिम्मेदार, महंगी बिजली खरीद-निजीकरण पर बढ़ी तकरार - Navbharat Times",
@@ -42,6 +37,12 @@
       "title": "जोचीणा में ग्रामीण सेवा शिविर: बिजली, राजस्व से संबंधित समस्याओं का हुआ समाधान, SDM ने किया जनसंवाद - Jayal News - Dainik Bhaskar",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0liUHFHWXdSNFpfUUNkdGpQajFXdkNqSzVkV09fRTZHUFZnbVJVZTh2UDVLY3ZZSHZ0QkpHM25UdkN4dWtuQlFZU3J6NHNqSU9BbE92TFRncWlsSUoxR2NNSDMtd0tQdkJnLUp0bV9oZ2RRaWNtNkN1YWxjTC1BbmtOR1pDVnZMb0d6RzZtU2xsQmYzRXJIMWZKY1hBN203NGh3ZG1XdTdvQXd6YzZWT1lZSzh5WkJfNXlla2xIWmkydmY3ck12SmpvVQ?oc=5",
       "score": 0.6
+    },
+    {
+      "source": "press",
+      "title": "स्मार्ट प्रीपेड मीटर लगने के बाद UP में 31.19% बढ़ा बिजली बिल, पूर्वांचल डिस्काम की रिपोर्ट में हुआ खुलासा - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTJZRzhVUDVreE5qNWlvSGlySzk5LS00RG04X0NZX29tZ0lSX0hLUnFWZVhCQ2ZsUnpFb0lUdS1wQ2JTXy1qdUhoWlBvM0hNbnVPNmdVQUJ4dnpMZDVVQWR1SGRfdGM5bFJCMFhRd1JLWk5oTlVZSTh1UDFRbFhITVRsNGZvVFlHTGVSQTBXeXNUem54dk96dGhqcVdQVUpjcXFvcGNjVkZXZ2hfdDRGMVNrQUl2dw?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
@@ -52,12 +53,12 @@
     },
     {
       "source": "youtube",
-      "title": "Waqf board jameen ka muwaja milta ya nahi",
+      "title": "Sir.jamin khale kar va sakta  h ya nahi",
       "score": -0.3
     },
     {
       "source": "youtube",
-      "title": "Sir.jamin khale kar va sakta  h ya nahi",
+      "title": "Waqf board jameen ka muwaja milta ya nahi",
       "score": -0.3
     }
   ],

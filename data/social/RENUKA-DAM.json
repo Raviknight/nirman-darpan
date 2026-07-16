@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T20:07:00.828Z",
+  "updated_at": "2026-07-16T19:57:21.787Z",
   "project_id": "RENUKA-DAM",
   "counts": {
     "press": 43,
@@ -150,16 +150,6 @@
       "match": "Renukaji Dam"
     },
     {
-      "title": "Big Order News: इस कंपनी को मिला ₹910 करोड़ का बड़ा ऑर्डर, 3 साल में दे चुकी है 105% का रिटर्न - CNBC TV18",
-      "source": "CNBC TV18",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLV9VR3NrbUhsWVExbEpZVkZnbEtuaGdFNklkR3VlVUNtbTl6R3RaazJybTJ4RDNvVHgxYV9nbklNRVZUdHBqVTRHenJDc2ZhSmRvSHlZcFRlcC1pUVI4Mm1GQVZrRXZadjRxZkk3MWxFcWt1Zm5mOE5mczd3VG9vUmJkejhjc3BvMU82X3ktTl96YU5zTk52akVUWDB6V29KY1FDbTNLN2JSLUhjYzh3ZVB4MTRjYjlZMjNNZ1p3QTJaaUVtMkw4QkNXcElSWThwR1hN0gHYAUFVX3lxTE1XdGpTT1FhRjNoOVVqNHlrUTFLSjBaRE1tMHdFWUZ3OTZsYTNWYTVZWjZjWkMyRG1yVUNLc2Z6SFF0c1hFWC1rcWVuMjBHNWltMjJRQk9ybVJMSjFpZE81c1JwODd4TVFHbFM1VUI1RGt3UmQxTEFzTWl1ZENZekJ6cllvX29JZU0xeXJ0NG9pYjQxUy1xWDdZUWUwd282MTcxWW5WdEZKVXpJYUxKRF9xNEl4WU9iNkZGMTc0cUFYM051Q242R2NjTVVRanV2UmhOSTNyQ1JlMQ?oc=5",
-      "date": "2026-02-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Renukaji Dam"
-    },
-    {
       "title": "Delhi spends Rs 231 crore to tap hill rain in Yamuna, but not a drop flows in - The New Indian Express",
       "source": "The New Indian Express",
       "source_id": "google-news-en",
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Giri river dam"
+    },
+    {
+      "title": "Renuka ji Dam Project to play an important role in drinking water supply and hydro power generation - HIMACHAL HEADLINES",
+      "source": "HIMACHAL HEADLINES",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOczVISVhLTHVnc2FkWDVDNlFGeXlvNXJBTzU3M0xRRkV0V3FTa2xuLW05RnNiV1FzTkdndnN1Z1FWb0VQbVFWdkFYMjRwbWtNYTlXeXlIOEJzc01haE9GLThwZzJZU0pZUE9QdHZPOXRfdU15R0IwaEoyNkhlaktpX1NMVFlUNU8yWWJrRHk0enNvTkVZbUY4VGlhUlJlUlZKMHYtUW9hV2ViVWl3bmp0d2ZFaU85QU9fTmRfM080Y1RuYXBJeGFFZ2ZPalNWV1o3?oc=5",
+      "date": "2025-03-26T12:23:52.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Renukaji Dam"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

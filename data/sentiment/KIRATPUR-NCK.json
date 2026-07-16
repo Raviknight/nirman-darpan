@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-13T20:08:27.793Z",
+  "updated_at": "2026-07-16T19:58:45.465Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 8,
+    "positive": 8,
+    "neutral": 9,
     "concern": 3,
-    "avg_score": 0.115,
-    "avg_magnitude": 0.33
+    "avg_score": 0.105,
+    "avg_magnitude": 0.32
   },
   "youtube": {
     "n": 6,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 26,
-    "positive": 15,
-    "neutral": 8,
+    "positive": 14,
+    "neutral": 9,
     "concern": 3,
-    "avg_score": 0.212,
-    "avg_magnitude": 0.377
+    "avg_score": 0.204,
+    "avg_magnitude": 0.369
   },
   "top_positive": [
     {

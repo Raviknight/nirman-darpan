@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-07-13T20:08:04.995Z",
+  "updated_at": "2026-07-16T19:58:20.360Z",
   "project_id": "GMC-NAHAN",
-  "count": 1,
-  "suggestions": [
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-02T13:28:24.754Z",
-      "title": "हिमाचल में हर 2 मौत में एक को डाक्टर तक नसीब नहीं, शहरी क्षेत्रों की स्थिति ज्यादा खराब; रिपोर्ट में सामने आई बात - himachal deaths half lack medical aid urban worse than rural - Jagran",
-      "summary": "Auto-detected from press: \"हिमाचल में हर 2 मौत में एक को डाक्टर तक नसीब नहीं, शहरी क्षेत्रों की स्थिति ज्यादा खराब; रिपोर्ट में सामने आई बात - himachal deaths half lack medical aid urban \" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUFndU5CUXRuT18xWFpyS1cyb1NNV2tDZUk2Y05mRE1JOEdZOVNDQTNmQldKal9HZktVSWNFWEN5WTJueGl4blo4T1JGSVlaTEZxRVY1QVRRTzY5WHVFbGhJTjFFeXdMNXRQTFhzNHZUUlh3cnQ3dWVfNUpKc0Y5bnp3eXZ4b2NVQTFsTmhxaDk3SV9RNk5ueG9nalVPbnlPYkQzV1prbTFqQnVmZ0UweXI4aGNXdEV6WkphTHp3?oc=5",
-      "source_name": "Jagran",
-      "lang": "hi",
-      "date": "2026-06-19T07:00:00.000Z",
-      "matched_term": "death"
-    }
-  ],
+  "count": 0,
+  "suggestions": [],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

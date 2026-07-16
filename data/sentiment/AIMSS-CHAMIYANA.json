@@ -1,48 +1,45 @@
 {
-  "updated_at": "2026-07-13T20:08:37.336Z",
+  "updated_at": "2026-07-16T19:58:56.772Z",
   "project_id": "AIMSS-CHAMIYANA",
   "press": {
     "n": 20,
     "positive": 14,
     "neutral": 5,
     "concern": 1,
-    "avg_score": 0.24,
-    "avg_magnitude": 0.33
+    "avg_score": 0.255,
+    "avg_magnitude": 0.345
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 13,
+    "positive": 9,
+    "neutral": 3,
+    "concern": 1,
+    "avg_score": 0.438,
+    "avg_magnitude": 0.677
   },
   "overall": {
-    "n": 20,
-    "positive": 14,
-    "neutral": 5,
-    "concern": 1,
-    "avg_score": 0.24,
-    "avg_magnitude": 0.33
+    "n": 33,
+    "positive": 23,
+    "neutral": 8,
+    "concern": 2,
+    "avg_score": 0.327,
+    "avg_magnitude": 0.476
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "AIIMS की तर्ज पर विकसित होंगे हिमाचल के मेडिकल कॉलेज, स्वास्थ्य विभाग में तेज होगी भर्ती प्रक्रिया, CM सुक्खू ने दिए निर्देश - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMkxPTnFrQms0OWhIYW9jd0ZSdlBvOS1VN1dBOU1qRVVVOXFhZ0p1SlRyMlNTNmQ5VzdJLU5oWXotM3hpZ245VVhjazJzcjBrZDJQUDFLOGNFWDhpTXFjRUU0NURua0NSeVVRSW1fbThmdzJ0QWh5Z2U1TFF0dE9pdGxCbEFVX2FqbF9pMGd0YTc2cHM3bnJfTWc0NzlTTGNoYjFxRUVSVWJWbE0wbFd1VnVjUkZZdkZqU0NjSWxKWG5Jb01paTRlQ1Fja1U1bHhrWHfSAdcBQVVfeXFMT2ZrZXZVNzRSN01aYzdwSEZXSnRiblJCTHZmVGcySV9oUWhHeVpPM1JBZnRCdGowRkJlTFdHN2VXTnFOWTcyZXo2RFFUT2ZFWTUwR0xHM0toZ1gweTNDQWJQbkdMblE4VGJyUEpFTGw4d3F1QVRvWXdPMXVseHdKQ0MwdmRqNDVZc1JRQ3I4VEl3YnRaMFV6THp1QkdwcUdnbXFmR2RsSEFQOUczUjh5VUZYY3NLLWZoRXhZTGpXMjdlQjlWNlpfS0prNjZUN0M4Z3ZlczhlLUk?oc=5",
-      "score": 0.6
+      "source": "youtube",
+      "title": "Nice vlog , great work ❤❤",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "शिमला में IGMC और चमियाणा अस्पताल में एक साथ छुट्टी पर जाएंगे आधे डॉक्टर, दो बैच में रहेगा हॉलीडे शेड्यूल - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzdtWjFsNGJnckdYbWhPa3lhVms2bkRXZFY3aTZ0QUdwYWV1bFdXRkl3dmhpdUlyRnZ3eW4tbmowd0NLV1IwWFFiaWxycE10dWpZbFNDenpwOEtDYXdqay13aTNmRzZ0cksxMkFVeTA5Mi1BV0M3SzZuenFySmZCb25Ja1hPRTAwR1NubkQ1Rm9aTDMxUVZKSXk3blZaZWZCV1lSdDM1LWtBZEtvVEpvWg?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Very informative thanks for sharing ayush. Great work🎉",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "शिमला में CM सुक्खू ने किया अत्याधुनिक 3-टेस्ला MRI का शुभारंभ, 5 अस्पतालों में बनेंगे - ABP News",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRWs0WWlMM1g5MXhiM3RCTnEzTkczck5ITU9JX0MzQzdzMkZNSkNFVDhxVmcyNjhTZGxQZEZ3R3R2MTc1U0MxdzZ4UDBSZ0w4eEx0N0ktRmlPdzJDTm5HOGdCOFMyZEJvbjJsdXF0MmI2UHF0RDVaUkU1akRNb1JpbkJvd0ZKd21fTEowOE1leHhkWElYd2lMeVItX3RhanpKZV9DWXRCZ0p1VHd1WlBxOGxZM1liSDNHTGdrWkhEd09VQkMxQUdENXRjancyLTBtaDZyRFhNV0vSAdgBQVVfeXFMUEVrNFlpTDNYOTF4YjN0Qk5xM05HM3JOSE1PSV9DM0M3czJGTUpDRVQ4cVZnMjY4U2RsUGRGd0d0djE3NVNDMXc2eFAwUmdMOHhMdDdJLUZpT3cyQ05uRzhnQjhTMmRCb24ybHVxdDJiNlBxdEQ1WlJFNWpETW9SaW5Cb3dGSndtX0xKMDhNZXh4ZFhJWHdpTHlSLV90YWp6SmVfQ1l0QmdKdVR3dVpQcThsWTNZYkgzR0xna1pIRHdPVUJDMUFHRDV0Y2p3Mi0wbWg2ckRYTVdL?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Nice informative vlog 👍",
+      "score": 0.9
     }
   ],
   "top_concern": [
@@ -53,15 +50,13 @@
       "score": -0.5
     },
     {
-      "source": "press",
-      "title": "Shimla News: चमियाना अस्पताल में जल्द शुरू होगी ऑनलाइन बनना - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXJOMVFTTXNjN0FnbGlHVlotbS1GYzg4dzh4TnM2MDQyejBoYzRsdjVTZVVTMmVKN2o2cFFnekZRbFBmTGlQUlZNcF9iOGlZMnNhZ0RWTURvSWxnbU1OcjkxNDV3Vm9zZjJXX2dpRXFLSnhZaEhYcGpOaGtRZHNVdTQtT3I5eHRuUjlqVmpoVVdES012VWV0TGgya0hMbEhYRDFOa2U1RXhUUnNRem5KcGNzRHRmemRXbFdYejFZSVRTQ3czdFhpbkg5ZEhYZ9IB0wFBVV95cUxQNjZMRnlhNDZYdklwWWpVdTFWTzVLcy0taW9HSjJKOGVMN25PbDNGbVNhTHpJQjlidW55VHBsRFBXWnJKQXhtMi1adWtWNGNYaUx4SE1MZnRRZXVrc0FoNF8xWldyXzRhQlhySkhaQlFaQXlvU3JNSzAxcmVObTRpcnFoT0xCTU9LZHZKLVc5aFktcVJDRFFlb1lHOTNQd0swVW1fTDNaUUFOdGF2MDFVY2dlUGs5WURiNmRPVlZteWFaamFsWjN3dWFtVFUwNnkzcEJR?oc=5",
-      "score": 0
+      "source": "youtube",
+      "title": "Sir Chamiyana me parchi banane ka kya system he urologist doctor ke pass dikhana he plz help me",
+      "score": -0.2
     },
     {
-      "source": "press",
-      "title": "Shimla News: चमियाना अस्पताल में मल्टीपल स्केलेरोसिस रोग पर हुआ संवाद - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVV1YWVrdzlYTzVuSWFLalR1bVZtLUlvMndzSmhnTWpqNjVzeTZzajZBclh1RjljeFFHcnpSQy1HeFhNc2xjSS1vVW9KYTd2QjFfOThVQ25XdEZtTWt2VDFVNTJ2WC1kREtfNXd6MGRrQWpXQVpqX0d5UVQxYUN3RDI1NjAzc3lYOTRCYk81ZGxMUGJTTk9DVzNrMXZYQlRFVDBzRlpaQzNqcERuRmE5dHBWM0pKdno4VUxTNVhqQ1h3amdRNTRsSFNyYXl2dnl20gHWAUFVX3lxTFBRem5jQTBkN2NvTWh3WVllS012dUhTcml5Z2kyeDl0N0hXekdhMHFrR3A1aUp4TnNlM183cW9rU0NoLXc3ZGJKMll3RWs0WkdjRVVhc3BEQlVxZERnZWtHV1BsUy1jcG5fQVhpbkdBakdjenlFT3Nib0JNSUlYT3pZWktFWGNsZ3FpS2I5UEdSalNWbHFKVDR2akhXMkEtWjdfTlYzNkw1b3VfOGg5eDFNYkdadnh1aS01Wm5EMzNZU3k5cnJEWXRrQ2ZpejRmNklhdXRKM2c?oc=5",
+      "source": "youtube",
+      "title": "Abhi bhi ye hi timing h kya",
       "score": 0
     }
   ],

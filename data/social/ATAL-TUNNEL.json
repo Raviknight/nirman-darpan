@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-07-13T20:07:09.257Z",
+  "updated_at": "2026-07-16T19:57:30.462Z",
   "project_id": "ATAL-TUNNEL",
   "counts": {
-    "press": 397,
+    "press": 400,
     "gov": 0,
-    "en": 198,
-    "hi": 199,
-    "total": 397
+    "en": 200,
+    "hi": 200,
+    "total": 400
   },
   "mentions": [
+    {
+      "title": "Roads to frontline as crucial as weapons in modern warfare: Rajnath Singh",
+      "source": "The Hindu · National",
+      "source_id": "the-hindu-national",
+      "url": "https://www.thehindu.com/news/national/roads-to-frontline-as-crucial-as-weapons-in-modern-warfare-rajnath-singh/article71230520.ece",
+      "date": "2026-07-16T17:05:28.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
     {
       "title": "दो बाइक, 10 जांबाज और कारगिल को सलाम… सेना की ‘संचार शक्ति’ ने अटल टनल में बनाया विश्व रिकॉर्ड - Jagran",
       "source": "Jagran",
@@ -17,16 +27,6 @@
       "date": "2026-07-11T09:44:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Indian Army’s Corps of Signals Dare Devils set world record at Atal Tunnel - The News Mill",
-      "source": "The News Mill",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlRnYVU0OFdZeVRJcldLRXhLT3BhNHdXbVFGa19wNUhWT2RaMUVKRUdLV1hYdE43d0pUUm5tYmVPSkpmYjFJVUdvcVhJTG1OTDdIR2YzYVZ1Q243Z0lLaDl5Zkc3V3V5SDFXOXlYa3Z6aTlMcU43N2ZXaTRlUDFhRDFWRHdQdG9CUFZOZUcxdHc2Z1RtMlYyeDloMW54WW9UbWNMQU42R0t3Zw?oc=5",
-      "date": "2026-07-09T00:22:10.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Atal Tunnel"
     },
     {
@@ -90,31 +90,31 @@
       "match": "Atal Tunnel"
     },
     {
+      "title": "Army Dare Devils Create World Record Inside Atal Tunnel with Thrilling Motorcycle Feat - The Morning Voice",
+      "source": "The Morning Voice",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOenNSdW03WEVha211NndrNWkyT2NOZU5QMHRlNjVGTDNQcURETkhhRzJjazB6ajFLWHlfM0V5d2U5VnhNU056c3o5R3VQdkw3LVN4UXlCRXZNQmh2eUJTN2tnOE8yR1RKZFJWR3p1QjlJa0M2Nm53czdqQWdhRnVWcnU3UFlyQXRlbnNrZ2ptVWhCdXVWakk3UzJhaVJKdGZmSnJycnBKRVNncjI3VE9XX3o0SVFhSXg2emE2QWJzME94ejQ?oc=5",
+      "date": "2026-07-03T01:04:56.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "10 riders, 2 motorcycles, 1 record bid inside Atal Tunnel | Tap to know more | Inshorts - Inshorts",
+      "source": "Inshorts",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbktRVlVmdkRtUlBlOWZwZE1qaVBiLTliekt3ZG5BRkZ0T1h3TFJoVkZyNzhhNUFieGpDa0JiLUJrYUQ1X0N2dzAwZ0lSS1JFX3FORzJlSTQtR0MzLXdiZnhnZHZzVHgxaVRGaFljMjFiM3ZVc20xSnFXRnhJMVBMSlJOMloyM1NCS1NyVWlZZ3FnLXpQRkJNeDVRSjYtQnJCLXfSAacBQVVfeXFMUDc1eFpLTFdyRjRDRFYzQ0R3ZzBJbzFkWDczc2phOXZxdjJYZ21qQzNLRldSbTRtaGVHUzhZQ25ieTRfSlo0THo4d1pOeVpzTW5kLXhmek80dlhJbkhpSWhrSzliS1FnQk10S0lPS2ZGdDM2cGpjTWVTWGp1ZzRoaWgyOVBWdHRwOTM1RDlQcFYyRzVPNWhreGFPN1IxendSLWtWU0JVNzg?oc=5",
+      "date": "2026-07-03T00:41:59.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
       "title": "10 riders, 2 motorcycles, 1 record bid inside Atal Tunnel - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYV9qNFk0S0tHWnkwZTBDbVdxWW1zd3NPUWx6WThXZUwtMm5TMUdocEJ4dzdab3ZWSDdCYnZZNGtIUXh2TjR0am5sWWprOUNmWW05ZXJ6Tk54T3IzRWJWZDhOTXhaVXEya3pDWU1FYXp4UlU2ZmF2cnBNSDRmUWkteS1ZWDBXb2J1bzhuRGhmbk0teXdXTmpfcTNybmwyRWNk0gGkAUFVX3lxTE4xMWIteU9SUGwtVTB3N1RsZ0hpR1NMNnlwWnQtRXg2cjRvcTJON1E3bFpOWE1iazlzY0szaWIxRS1uTkJLT2dkX1lhbF9NdVMtX2xHZWVidlljVjJadTA1UXZzV01SZDcwdXo2RzNDRjFzdTlSeWV6aVQta3ByM0xCbDVBaHR1aGEyREptNHlpaFFWb2xQeU5maGpIckIzMm5HZEI5?oc=5",
       "date": "2026-07-02T19:43:20.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Tourist Died as Scorpio SUV Crashes Near Atal Tunnel in Himachal - The Morning Voice",
-      "source": "The Morning Voice",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWhEWU4yeTgwendYRWpIcDZTdVpPQXRCdGFvb0VINEZsMDkzbU5DV1U3SC1tMDBYeTF2bnByUHN5OHJ5QklvNmI1Q203bDdxeHNmWVdHX0tFelJiTWhXalhXMmwzSmd1NGtpUnFNNkZpX0pNcG1PM0hUTjZXM3NDZkhPTktyc2V0ZWpUdHFfTkJJRkJ6U1htTzNOWDNIY0FsVVZOQzdWRHpNZkU?oc=5",
-      "date": "2026-07-02T18:53:26.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Tourist Dies After SUV Falls Near Atal Tunnel, Three Injured - GujaratSamachar English",
-      "source": "GujaratSamachar English",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcE1KUk5peXpKSWVUTkM5SjF4cE9nMHJ3Wkw5UVVHU3g2Y2RQNjNhYWlmU2tNX2JyMkFlRExWWF9BRkpuaE1DaC1JaVExSFNQVmgxSlUyQWs5Ym5wbVhvamVSbGNkcEREX3ZpTzY5b3lRNnhEaGpBc1V2WEtuVFdvVHF3Uk9CRnVpNGpVMS00U1JrOEdmTGdZYU5vaVQwX0NrT2RIb2Q0ZjdMaWlBTDZEWG9vRlAybm5TVUhpNzF3?oc=5",
-      "date": "2026-07-02T12:32:13.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Atal Tunnel"
@@ -140,6 +140,16 @@
       "match": "Atal Tunnel"
     },
     {
+      "title": "Corps of Signals attempts world record: 10 soldiers on two motorcycles traverse 9.8 km Atal Tunnel in Himachal - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc0VqcHhOQ05sZmVYMDRXVEhNRlFoaVByMTBGb2pBbW5KdVJOenF2QTI5SmJ0VklJLWgzaTI4OVNPUDhtQ3YtME9CRkhQN2NKS19EWExFTVNoQldObW1ka2t3THljNGZWT2w5STJuNHc4cWZxR21WTHlSdkhmYk9xaWprT3RJeGhNaFhsUWFSdkM0VUJkWk10c0lMV1dIS0htdi04YVllT2VQek1TMjliZ2pqY0RpN2hZTmpEYzhCSmVXX0dRQXB3bWk5QkZMa2xaRmtOLUJCXzRSM3AyX05sYmlKNGxQaknSAesBQVVfeXFMUHU4VVN0blhyUUlZeEgyREJHTS1wUzhncDFKbVNmZDZ4TE16aVh5MVY4NUVmZzF1SFFQTmozM2dyUWI1dEY4NjFPR3hPRTE4S3lsMjNfdnFyajNhTzR5N1BkdnlpVTZCeUhaMVlFQzU3bDlYUFFwQkdiUmNiQ0M4TldWQkVDQXBlUE1nMTlWZ29WSFNYcFFLaUVrM2VkSHh0MlJhR0RKVE9VamdoZTVuMnVFT1R6ZVNkNnNjaVRCdWMtSERHOXZxTk0zOEZpUlh5U0NQVGx4M1VjTHVYaWVOaFJoNzlwN3VGT0RmVQ?oc=5",
+      "date": "2026-07-02T10:55:09.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
       "title": "Dare Devils : 2 बाइक पर 10 जवान... 9.8 km लंबी अटल टनल में डेयर डेविल्स ने 9 मिनट 47 सेकंड में कैसे किया यह चमत्कार? - Dainik Tribune",
       "source": "Dainik Tribune",
       "source_id": "google-news-hi",
@@ -160,20 +170,20 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "Man dies after SUV hits barricades, falls onto under-construction bridge near Atal Tunnel - India Today",
-      "source": "India Today",
+      "title": "Video | Scorpio Falls Into Under-Construction Bridge Near Atal Tunnel, Tourist Killed - NDTV",
+      "source": "NDTV",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmFGX3U2Yi1DODFlMDJ0V1N3OENub3pYOFZzUENHNnZraE5WTWRDNnVQWnhpMzZONXVLQU5Vc0dJY0Y1bWpyRS1iaUp5c2VqTGxrczB3TFlEZHdxbno5c3p2ZWZHUHhZd2xVRHlOM3pTZi1EQ2JPWTJDalRYd3MzaG9oa3lyZEw3T0N1dVpUOW1PeEliTXZibXNVand0S3UwODdsU0ZISHhkT1pac0RBTVA5N19QTU9XcVFOY0xmZ1QwQWcxY0dybjVpM2RrOWNpRGtvbFUxbWxOdVZsWHRHZXk4elFWbkc1UkVrbUFIMNIB9AFBVV95cUxPc2ZoMDMyUm4zdTVyX05ldkZzWm1aaEt3YmMxWC14b1dYbG11ejcyZGJzTjYyQXZUN0dsbDlieEJ4aVZlYVA1bUNCek5abS1nOTZYWjdFdDNCR2o4OXJ3Q3VGbG55THN0Qy00OGh3TDlmcUtfUU5rX29iT0t6OERRNXlLUTljTXh1Yjh1ald2LVJQZmhTRTN4QkxvYm0tWmpNTHhCOG9iZ1FXZFdtNW11QnpuU29Cb0dXdHhaUGI0R1BZZG81azA3ZlgyczFGS21xTTRQVi0ydzRfNnpJdTdxVDJWTjdXWl9mVHVKUFRMVlpWZWFl?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXV2RnJOWE9KZFl6TmtPS3UwVTU2a2N4Z3JtaENRTzZYZnQ2TFRwQm1WRWV4UUp1OG5OcWh0YjBOM0ZadjdiZFk4WHhqM1QwUHhLdnBrVzl4b0FsNkk4N1VOWTIyQVJpc0VkLWQ5b3lNZ0tjRENlb2ZrQno0cVVXZnd1Wi1HNlctMng1YTRGU2kwaFNPVjZKdnZtZFphajVSRnBRN09kYUk0TnJDOFFPMQ?oc=5",
       "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Atal Tunnel"
     },
     {
-      "title": "Freak accident near Atal Tunnel: Scorpio falls onto under-construction bridge, 1 dead - The Times of India",
-      "source": "The Times of India",
+      "title": "Man dies after SUV hits barricades, falls onto under-construction bridge near Atal Tunnel - India Today",
+      "source": "India Today",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelNqNlJFYzlMc3M4VEpuTUhlT1dDZTVYY2ZDWEdETGtSVGtUNERSU1BqSm12TF9ITzhldkVHVHZtdWJJdEd6ME41dzNFZkhfUVgwUDJtenp1TWtSRVZtVTNYSjk1MnpxUldtRXRMNVlPR29EajJ4dVJyLURIMW9mbDQtQnF1bUZwVTUzemNIcHVVMmFfREdHdUFaOVgweEhHcHNPWTdNTEpaN21rbXNsTTRndEtSUHVpd21fQW16WUtmTXPSAcgBQVVfeXFMTVVjSFRVY2x3SVNTRDFSZGZwSTRIMkdYMndIQ1lNNTlhUks1dnFpZlo0RjVYcUVZcFloS1g5UkN1TjF6dnY0Qk1DV1A0MzlWUUZuZUJEUHd6alJsZUpiR09XWGdqWUQxMzJ3dHZZQ3FKWmNnMkgzNnNWeUVnd0IxdWpDZUFwcUxSV0t2M2czSl8wZHhkVVV2OEtYTzVHb2t0aDRlMjR1NVlrMTF4VlBscUo3RnByM25PRXRuMHlpMks5cTZLS2tOSjU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmFGX3U2Yi1DODFlMDJ0V1N3OENub3pYOFZzUENHNnZraE5WTWRDNnVQWnhpMzZONXVLQU5Vc0dJY0Y1bWpyRS1iaUp5c2VqTGxrczB3TFlEZHdxbno5c3p2ZWZHUHhZd2xVRHlOM3pTZi1EQ2JPWTJDalRYd3MzaG9oa3lyZEw3T0N1dVpUOW1PeEliTXZibXNVand0S3UwODdsU0ZISHhkT1pac0RBTVA5N19QTU9XcVFOY0xmZ1QwQWcxY0dybjVpM2RrOWNpRGtvbFUxbWxOdVZsWHRHZXk4elFWbkc1UkVrbUFIMNIB9AFBVV95cUxPc2ZoMDMyUm4zdTVyX05ldkZzWm1aaEt3YmMxWC14b1dYbG11ejcyZGJzTjYyQXZUN0dsbDlieEJ4aVZlYVA1bUNCek5abS1nOTZYWjdFdDNCR2o4OXJ3Q3VGbG55THN0Qy00OGh3TDlmcUtfUU5rX29iT0t6OERRNXlLUTljTXh1Yjh1ald2LVJQZmhTRTN4QkxvYm0tWmpNTHhCOG9iZ1FXZFdtNW11QnpuU29Cb0dXdHhaUGI0R1BZZG81azA3ZlgyczFGS21xTTRQVi0ydzRfNnpJdTdxVDJWTjdXWl9mVHVKUFRMVlpWZWFl?oc=5",
       "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -190,20 +200,10 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "One dead, three injured as SUV veers off road, crashes into under-construction bridge near Atal tunnel | Watch - livemint.com",
-      "source": "livemint.com",
+      "title": "Freak accident near Atal Tunnel: Scorpio falls onto under-construction bridge, 1 dead - The Times of India",
+      "source": "The Times of India",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObmRLQTVJZ2Q4NmNvZm5aUlVFdlZIMVJiYmczMnZrWTVFNU5uaU9kdVhnRmlIblUwZ0JTWUxhaGZhQklmbml6X1pRa0ltRFFncXoyUXZzdldLTThlWHRWV1ZDZmxBM0VtY29tV0tiVlJPU3dFbUlUUkVXdG5mWEY1aHhKUnlrOHpmRUFWaF94YWw5QWZyeDFGTFNlZEVtc04wQUVTTi0tMG9NUkNzRmk0Y3dFdnhtOWF3VjhzX3lVUldPX0VOTlRUR2owbW1McFpWZl9QQ1NFcUg3bnExRFBWbWVjSl9Bd3Vfc09JUmFEQnFVajJw0gH6AUFVX3lxTE5TRG9ONVhRdjJ4akRvNUQ3NlBhWmVmT1pUbjN5MmtxdVd6YlRNZXIyVXdmbFRVN1hFdk5NQUxjNXFFWno4YnI0MlI2THMtMlNodFNiVXM0YjZEWlAxd0o1SEtlM2NjYTlVYzFlSl9fVl84YUFrcEpoNWNVaE5ZenhRYldpLVhQVGZnUGdieV9mRTdXZnhjTzduTHJkaGkwaWp3OWFfLVYxc1hvSmdsaHdkbHVOTzRjTjIxbFE4MlRkT0tCb1JfS3AwUVBOcnBvVjZoOFZ0SldoWE11OFpVVHlvVnEyUnl1c3VhWWZ2TEhMb1Ytb2J6U3UyT2c?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Corps of Signals Dare Devils Attempt New World Record at Atal Tunnel During 'Wheels of Valour: Sanchar Shakti' Expedition - PIB",
-      "source": "PIB",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5semVsUzIxcmhpd0lmclNFZkt2UnZRdmJUOW9Zcm9WTS1ldW9PUkVUMFY2SzJrc3UxQWFzZ2IxY3lfRWFqcW4yTV9WX3lUVk1sNUY5S1J3dW5IWXV4eWlxc1VxZjhQelRE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelNqNlJFYzlMc3M4VEpuTUhlT1dDZTVYY2ZDWEdETGtSVGtUNERSU1BqSm12TF9ITzhldkVHVHZtdWJJdEd6ME41dzNFZkhfUVgwUDJtenp1TWtSRVZtVTNYSjk1MnpxUldtRXRMNVlPR29EajJ4dVJyLURIMW9mbDQtQnF1bUZwVTUzemNIcHVVMmFfREdHdUFaOVgweEhHcHNPWTdNTEpaN21rbXNsTTRndEtSUHVpd21fQW16WUtmTXPSAcgBQVVfeXFMTVVjSFRVY2x3SVNTRDFSZGZwSTRIMkdYMndIQ1lNNTlhUks1dnFpZlo0RjVYcUVZcFloS1g5UkN1TjF6dnY0Qk1DV1A0MzlWUUZuZUJEUHd6alJsZUpiR09XWGdqWUQxMzJ3dHZZQ3FKWmNnMkgzNnNWeUVnd0IxdWpDZUFwcUxSV0t2M2czSl8wZHhkVVV2OEtYTzVHb2t0aDRlMjR1NVlrMTF4VlBscUo3RnByM25PRXRuMHlpMks5cTZLS2tOSjU?oc=5",
       "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",

@@ -1,22 +1,8 @@
 {
-  "updated_at": "2026-07-13T20:08:04.989Z",
+  "updated_at": "2026-07-16T19:58:20.355Z",
   "project_id": "SML-WATER",
-  "count": 4,
+  "count": 1,
   "suggestions": [
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-13T20:08:04.989Z",
-      "title": "Himachal govt agencies fail to pay Rs 5cr environmental fine, NGT told - The Times of India",
-      "summary": "Auto-detected from press: \"Himachal govt agencies fail to pay Rs 5cr environmental fine, NGT told - The Times of India\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYzJNSTVvLTY2QjU5dURoVW8zVFFoUnpxQWdVR0o0bGNPS3VNbXV1cG1hZjhkd0wxMTQ2WTRVc1ZhWlAyWGViYm54M204NWItanZmWExhUXZ5cVBNRWE5Ni02enRIcnFEdWFEcWdiVUE4bk9XbnlLV1lBWFdKVlV2Zy1sa3JPWFBnbDFPSlAwWXZKUnk2eGpsbXN2LVNCd2FXaWtXQUQ5MzFKazZCRUc4WnRhR2VwdDNJRFVneGotZFdSRThjRGFlakgtbGkxVm5lck0tVkx5VnN5N1JPejdTbdIB5gFBVV95cUxOSDNIMmh5ZktzaTZzX0dZeWs2QTI2SlByZmxfWUc5cDd1VEJ3UFlkOElfYUlHRUFSS0dZS3BSNHd3S09KdEpOVTFaTjlxSlpwSzIxN3R6M2IzeWlWYzRvejc5a2FtQjNKd2J4Qm5TZ2JJMW1HMjRsNGVfaG1aRHY5dVdBMDYtS3lmZ2NQa2plMGdqU0ZQNEM4c3lUTEpHak4tSXg3NlZSTDNPOExFbWlELXk1QUlpOVNqcFYtS05TRE1YbU1CTG5sSG9WeUdBcG1xNGN3LXJjbXF6ZE1iOTEwZDR3eWhIZw?oc=5",
-      "source_name": "The Times of India",
-      "lang": "en",
-      "date": "2026-06-19T07:00:00.000Z",
-      "matched_term": "ngt"
-    },
     {
       "category": "litigation",
       "severity": "medium",
@@ -29,34 +15,6 @@
       "source_name": "The Tribune",
       "lang": "en",
       "date": "2026-04-13T07:00:00.000Z",
-      "matched_term": "sho"
-    },
-    {
-      "category": "grievance",
-      "severity": "low",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-09T20:43:51.943Z",
-      "title": "Himachal: SJPNL issues partial water supply disruption advisory to people amid tourist surge - ANI News",
-      "summary": "Auto-detected from press: \"Himachal: SJPNL issues partial water supply disruption advisory to people amid tourist surge - ANI News\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU5GbTZIUlFmZkNHVjMyc2NlSUgyaUtlWkRsX0U5MkhkS3gzQ2RNSWJoZHRES1NwUlF6UGtzdUN2OGQ0Tm9RVWFOM2xwMVFZYXpyZllOTU9zV1ZLRlNvNnhQckxoQkZCSHFOQWxXaXJXQ2JGWlVIYjlTY2FlTjNZaWxqczlYazlySTFvUV9wVDdvVGxoMHQ3NHpPUW9tZ1BtRVVvZi03VmVfeDR1MTd5Mng5WUdSTEZ6NmhERmpXcksyZUxmUTNGTmU2MFFONEdVaXEzdUtwWUlKX3RBdmh3UnFDc29HV3p3akNZ?oc=5",
-      "source_name": "ANI News",
-      "lang": "en",
-      "date": "2025-12-18T08:00:00.000Z",
-      "matched_term": "rti"
-    },
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-09T20:43:51.943Z",
-      "title": "Giri Water Supply Scheme: Shimla to combat water shortage with new tank - The Tribune",
-      "summary": "Auto-detected from press: \"Giri Water Supply Scheme: Shimla to combat water shortage with new tank - The Tribune\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkxHWDYtMUV0bDc3MGN4WS0teWpZd0NsZGw0Szg5SUtDNTc1dDJsNGRGZ3ZHWF9nRjJEaEV1dHRoNFotUVVybUduQm8wbVg2WndZX1ZjRWxWS1ZaVDJYZXhneTN5UkdicERyN2haZFBSMEtjTFpBOVNNblcwNml3cFdJWGR0V0NFc1BRaVdfU3k2ZTFsbnpVZ3ZnUWg4YXQzNmFuUGtZblRfVFR2eUEwcDZwdHfSAbgBQVVfeXFMUFhaRXZTV19GTzdzX05oaFZKV3k5aHEtWTNHT3EyMXlVcTRxTENkV3A0aUdreGR6bU5YaGNxYzdnUGtXYko1a1ZQSVVGYmlNdmxMWDZMUTFYa25BSWtZbk5jOFR0ek1qQ29oUXRzaGMwSERNcnpSYXpiY0t2YkloZUQ3WllXdlh3Vnk5RFJuc0p0SWNMZUtWalExVjZYMFhROUk0RVA2eHc3UHNDRldqMXB4bndwNGdraw?oc=5",
-      "source_name": "The Tribune",
-      "lang": "en",
-      "date": "2024-10-18T07:00:00.000Z",
       "matched_term": "sho"
     }
   ],

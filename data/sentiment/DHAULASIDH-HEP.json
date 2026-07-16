@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-13T20:08:35.130Z",
+  "updated_at": "2026-07-16T19:58:52.596Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
     "n": 20,
     "positive": 6,
-    "neutral": 14,
-    "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.11
+    "neutral": 13,
+    "concern": 1,
+    "avg_score": 0.095,
+    "avg_magnitude": 0.135
   },
   "youtube": {
     "n": 0,
@@ -20,12 +20,18 @@
   "overall": {
     "n": 20,
     "positive": 6,
-    "neutral": 14,
-    "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.11
+    "neutral": 13,
+    "concern": 1,
+    "avg_score": 0.095,
+    "avg_magnitude": 0.135
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "धौलासिद्ध जलविद्युत परियोजना में निवेश का प्रस्ताव मंजूर, 1000 को मिलेगा रोजगार - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUtoWmJISUlyZ0FRZ1ZRSXVKekthd0oxdFpoZEZmZ3VCcUxnSUZJWkVMZnZMNG5MdGV4am10UjdrQ0hLdEUtOVdMY296NmdsWFhzSXlRUWtDNWJjSWRVVjNKUmxrclZWUkU5d1kwVWFoX1dDRlhubjNJR0g3TnQ1LUFsbFFQRkpXdEkyd29yQWJyaWdXcEZSOVp5dWpaYjdPQUNCUTdoQ1laSmpodXZucVhlZlFlNzJhdVE3bFlSWW_SAcYBQVVfeXFMUFQ2QjF5NFZqWGJNOWRHY0dvSWliX2NiVmlGT0tYRmM1Q0pZcEtNX1YzUFpEdzhGam5sVl9WQUd0cTJFTVZySVh5eXQ2NWxhTTFXYk9pVlR1bUsxNWdOTkpGOUZYSmRjeS1ZMEJHZW1MMTN5bHpnbEg1ZDdUUkJ6eFVCNUdWckRwRTNncTBjY0diNkN6SHljNzVRTnVjTmlPLU9mR0xhS0k0bFNkQUlfblFPS3gtd1B1NFdBSVlMM1lhRlptNXd3?oc=5",
+      "score": 0.6
+    },
     {
       "source": "press",
       "title": "Dhaulasiddha project: धौलासिद्ध प्रोजेक्ट के निर्माण से हिमाचल सरकार को 125 करोड़ का होगा नुकसान - Amar Ujala",
@@ -37,31 +43,25 @@
       "title": "कांगड़ा और हमीरपुर के सैकड़ों गांव की प्यास बुझाएगा धौलासिद्ध पावर प्रोजेक्ट - Amar Ujala",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHV1d0Q0NmhVVUhZcHVaOGFXdm5rcTZFSlM1SXNZY1NlTjY1ampENXBFdnNISDJYMWNRd3VkbzQwVGIyWm1yMFpSbFprSVBCcmNZb2dKalI4V1Y4Vk00ZXNyWl9ENkEtR0Z1OFY3dXJxT25ucUlSa1E2dWZBSGNDZkZTSFBXMU1hcHlF0gGQAUFVX3lxTE9SbGo3NlBhOUlJZkFmNlF3YmhBRlpFZVdZNFVZUGdaR09ic045TmdKamxDZlllUDVfTGhIZlRtOUNfYnZTMlNFZ1dEeFktNVNEV2NDLTB5ejNGWkZXYmU0TEtkLVdCUFp1NUdtOUdielY0dVpRSnF6bXpvRnphc1lKTy12Zm1rZnFNb1M1SFJPaA?oc=5",
       "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "VIDEO:हिमाचल प्रदेश के निर्माणाधीन पावर प्रोजेक्ट धौला सिद्ध में घुसा तेंदुआ, 900 मजदूरों में दहशत - News18 Hindi",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSmp6MVRzUW5ZeEphX25TOUVRRzA0Tlgtd0ViYkhOU0dIeFNDUUhsLTZXODF1Q3pibzk4OEtoR1dUcDRtTVhvamRuVUtlRDJHZ0prRU51SDZ1MFRBSEd5ODlxWmZiREVwMXB3a2JkaVNDem1GS2F6MmZjdVpZYWxsaWhONkR5Y3JYUm9uVzY0akhGQkFYMzk3WW5ZWWtkOHVnNG12Sk5iVXJrZUJVRlBOeVRxUGRGT3Z1VWdMVGdUcnQ0bjBTZU5rU3RqWFphdC1za1lYYmJHV05DbW1WT2I1eFpYdHg2MTFlSG8tcTdlYW0wRGY4VVBBdVYyQ2QyNXNqMlhlTEx6dFlVeFlYcnfSAZMCQVVfeXFMTXRSbGoxUUFuZDk5SXB6cWQ3QllVbzMzRXY5N0NZSE5CZi0wS1p5dzNFOUdXTGtGNWJFQkFFOGMxeGdmeWVkbFMzMW03R2FiSkRGTVpuWThVajAxT3Vnb0hxQ3dIdDNzdHE0SDF0bjhFZzhHLVBaMXdfQW5GQ3lCSmwzWFFuUjhKN01SNGp0R0lvRERzTTFqblpWRVV1WWpUandoR3lfU3VmbW5nM1RGOHpURm5zRE1qR2NCeW05OHdPdHZPNXBVSVBfUklibzZ5QTRWUk5tUUhtMl81c0tjcHl5dHB3dlZwVFE0Skl1QTVXOVN6NWp5a3diR014cVBZMWEwLW9Rc2xoYkI4aGNxeVdSOFE?oc=5",
-      "score": 0.3
     }
   ],
   "top_concern": [
     {
       "source": "press",
+      "title": "21 yrs on, Dhaulasidh project yet to see light of day - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVBOQzROTVV0R1RpbzNiemFwcHhteTM5ZmdyVXZRY2dLWG01U0dvN3NCVEt3YmdyOVVKQVFhZ3pGSGhwUTdESUJrUm14N1FpUnJhcXZhYmMwZnNvUVFjWnE1Q29LSTJZbFM5UmdGclJndnlQaEVkV2xvRS1jMWxERTJZZ2VoMkR0aURrT3BkS0tHX05vRUNyY2xnNWFmV3NuYWdDdEw1R2htN296YzBSQlp2ZGlNUmZtVWxn?oc=5",
+      "score": -0.3
+    },
+    {
+      "source": "press",
+      "title": "Govt approves 66-Megawatt Dhaulasidh Hydro Electric Project of SJVN - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFVIQWpWRkFjU2lXYURNcVRtR1BVSlJTRnZ3WnZCMDBCNm5FVmgtczYteFA2VVZMT21qVS1sUExFbzRHYmp2clRrd2hvQ2VsUDE3M1ZkRnh5ZFhnOFFtWjRMQXRZd2MySHlHUWZPaU1DbWNRMlhvaFB1Yldkc2pXT1QtOW9lWTBGajJzWF9EeGlWNi1tRk51RtIBpgFBVV95cUxNdzQtMUJjdXRaV214ckJDZHJwbkR6U0RXcEZ5ZjRMQ3FXV05xLUx2eWpoLWZuOUdENXFBd2p6MWZtNW12MW1Gc0Rlazh4dE9fOXhoYVA4blRHOEZvSFliZHZuWFdlSFRpVUF5ZEY3SkJVckhiaVpZWVNMRVVlOEpzcXZnN2g0a3U2V3otWmlmREc2RUQ2SlpkanhCSW1WWEVkT2k5bE1B?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
       "title": "SJVN awards electro mechanical works of Dhaulasidh project to Voith Hydro - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMTRjZzVOODE0X3dhUURjdmxtTXlZZVYydGZ6SHo5cF9rYkg4Ukw3LXhsQmhYbzRzUVdwbG5pQ1oyY0h1b0RVRS1CTDhESFBkMWVFalVOa0l5X2c4ZVFSQ2J6Q0ZpZWNKeGpPRm5acUh2b3NXWjg1TkZyeFRvZ19oQllzRWMzZnJyazRNT1pwVXU3T3BWVWhJdFA0cGVxUUnSAboBQVVfeXFMTlR4TmVGcGJJdl9lYUpPbXVDY1pFNG1mUFpnbG0yTmJUN1BhLUsyQ0xVRFJrY1lvTXNoSjVUSWRSQzZtanFTTi1Tamw4aEV2eWtNS2NVOE9NUVlHbmgyQXdCWVdSRnhJbVdrWEJoUW9iU3ZjdDlrbGtaS1F3Ry1STmlpSm8tN3h2cVpKbU1UckVVbjdxM0s4c2loVE1iYS0xQ2ZJS2lZSEYyS09ESGZ6Qnd4NlNaYVVMaGtn?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Dhaulasidh hydro project: SJVN signs contract for electromechanical works - T&D India",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlqd3NYNE1Vb2hMcTRCU1ljZ2FrZG5OR042VGN4cU91ejdkWEhXUDh4SWdlbjNyTHVWTmh0UXRHRW1kUUEwREFPWGMtYWtXX0xqUExleUNoTWMxZ3doMDcwQ19NWGIxOU8ydXNqOHVseUt1czlYZWpabzhpd2JTVXdsa0VJQkZuZFRvdjBxU2hyd182SERaaDFtTTZqcGvSAaQBQVVfeXFMTlZuMFhoT0ZZa1pSaDJzNlFtVUdsV3ZtUUthby1RTzcxLUpjSjBla3paS0hSLTZ2T29WRGkxQ291V3otRXJTaFhkQUk3dkRvTlk2NkdOUy1xazhLcDR0aDRXVFNhQnBXZFhuSk1fanJtM09VNHF0Y3dwZ2o0OE8yb1N3cDk3ejJVQVF0bFFXcEFqRlFlUGVudGpLZE95V2hMeTc4ZjM?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "SJVN signs loan agreement of Rs 494 cr for 66 MW Dhaulasidh HEP - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemtybmVGMnJpWkxYa3FOMnlXdV81WmowR01xNzFIcEdTb2ttdlRHeWtRNHQ4T0V0eTRFTjhaOU4yZGloczBJSHhjTFRSYlRJUVRUTlVaaEMya1FpNmNSVG5Yc2swa2FkbGZ2ZnFZN2F2cy1GUGEyaGFUaDNqd2xNYnQyVDVHWll0WFpjb0JidlVMMDZsRmJ4eEpMUGJ6TXN1TjJR0gGwAUFVX3lxTE9pRm4tVlRVUFR2RnExOHVwRHV4NlA1WjI4ZG9rQVIydldJamFwQkphSGpPeGpRci12NXdfaWMzNDBTTUQtazBGZ0ZvUVpKb2FkcERXak1LbWtfNGtBeU1Xa0puWUdDb2NaRm5UYnNzcXQwMW9FNUh2MVV0VVBZTTFxYmdvWEU3SjlRZ1lsNGNySHhkejFoUDd5Tk5UbWlzdDNHbzJBV3JpdkxaZFNyRmYy?oc=5",
       "score": 0
     }
   ],

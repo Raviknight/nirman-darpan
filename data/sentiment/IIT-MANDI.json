@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-13T20:08:33.937Z",
+  "updated_at": "2026-07-16T19:58:51.422Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
-    "positive": 6,
-    "neutral": 14,
+    "positive": 8,
+    "neutral": 12,
     "concern": 0,
-    "avg_score": 0.125,
-    "avg_magnitude": 0.135
+    "avg_score": 0.19,
+    "avg_magnitude": 0.21
   },
   "youtube": {
-    "n": 43,
+    "n": 31,
     "positive": 20,
-    "neutral": 13,
-    "concern": 10,
-    "avg_score": 0.121,
-    "avg_magnitude": 0.426
+    "neutral": 8,
+    "concern": 3,
+    "avg_score": 0.261,
+    "avg_magnitude": 0.561
   },
   "overall": {
-    "n": 63,
-    "positive": 26,
-    "neutral": 27,
-    "concern": 10,
-    "avg_score": 0.122,
-    "avg_magnitude": 0.333
+    "n": 51,
+    "positive": 28,
+    "neutral": 20,
+    "concern": 3,
+    "avg_score": 0.233,
+    "avg_magnitude": 0.424
   },
   "top_positive": [
     {
@@ -37,27 +37,26 @@
       "score": 0.9
     },
     {
-      "source": "press",
-      "title": "आईआईटी मंडी ने हिमालयी क्षेत्र के लिए विकसित की भूस्खलन पूर्व चेतावनी प्रणाली - ThePrint Hindi",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGIwOHF4RHNFWTQ0Ynl6dDFhaFhmRF9zajJPeVlrTVpHa2NRYUhaaXZtSmstaFdrM1R2eEhvTnRXREZhMnplcUpuZzZhREhXb21sQnVoakhEY2dSTE40ZU9xRnhWRmhpbjFWdHNZMmJVY09UNFVyYUhsUFA0aVdZcmt3SENGUHJNc3ZpQ0RmcXNpbS1aY19xZC15c1BLMHRPVXN5c3ZTeGs2SnlFcUFGaGRmSnDSAboBQVVfeXFMTkN6WHVtOFc2cVVYYU9SNC15MS1XT0NJQWk1Y0N2ZlU0RzE4SjQyQUp5T2pQTDJ3czhDWmhGc3V0dlpwaWphZEdqYzlBSXIzUHBiVHQySzV0aXRyUzRyOFR5S09yMUtWdk5yMndjdTRzd0pPdXZicXZaUWtEMkd5LWZjLWdteUVObVdJekgzWUtKQWlFOXlZamU1MkFxVXZTMEZYQ2VsV3pkc0MwMXlQNFFYSEVsRDJnNzVR?oc=5",
-      "score": 0.8
+      "source": "youtube",
+      "title": "I start my jee journey every day by seeing this video at dawn. \nThank you so much for giving us the ultimate motivation ",
+      "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Wtf lol👁️👄👁️i can't 📉",
+      "title": "worst college, no facilities, very tough life. dont go please",
       "score": -0.8
     },
     {
       "source": "youtube",
-      "title": "There is some link to this based on Einstein's pain wave theory---  before jumping into conclusion, it is just a postula",
-      "score": -0.6
+      "title": "Why experience 😢",
+      "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "And they are saying reservation is the problem of India",
-      "score": -0.6
+      "title": "Exp unke hand me h",
+      "score": -0.3
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

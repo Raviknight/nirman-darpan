@@ -1,20 +1,50 @@
 {
-  "updated_at": "2026-07-13T20:07:25.120Z",
+  "updated_at": "2026-07-16T19:57:45.503Z",
   "project_id": "KOLDAM-HEP",
   "counts": {
-    "press": 75,
+    "press": 76,
     "gov": 0,
-    "en": 52,
-    "hi": 23,
-    "total": 75
+    "en": 51,
+    "hi": 25,
+    "total": 76
   },
   "mentions": [
     {
-      "title": "Bilaspur News: बिलासपुर में खिलेगी हरियाली की नई तस्वीर, 50 हजार से अधिक पौधे लगाने की तैयारी - Amar Ujala",
+      "title": "Himachal: NTPC renovates fitness centre in Bilaspur for Rs 33 lakh - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcE45R3BhNlFsWkRBWlF2VW9wdDIxUVhNNHNQNlg4NHlHd0lnbGlCOVI0ckFfTUZETHlZbEVvcVRKd3dJWVNrNnFDcHo2UUI2azRiYXV1RWhEaGtHTlFmdEhsVWEwY0RSN2N6Q3RSQTNOcjg5NF9hVktxOVdlMkotdk0ta2tBa21qNkVDNEFQOEVzUTlLZUxSTk9UalQzNE5ib0lrQWE0RTVRUdIBrgFBVV95cUxQaW5qaFV3ZVlXdlRZQms4WDlMd1VJRFVGUXdYcFp2WFM2a24xcnFmSG41ZmdsN21wNENadXJRLWFIWEhYUEhlRlJWdS1DSU04RkZkQktPOVd0Vzd6bXFhaHhkTzFtUld5Q3p5REhreG82ZXlMZjltQjR5QmRVYklRYTNCYWRSSy0tSFJUWHd1ZWlPU0p2RkhBNV9jUXJLc1dGYlFVaXU3Z3FxRWRzUVE?oc=5",
+      "date": "2026-07-16T19:31:43.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "NTPC Koldam"
+    },
+    {
+      "title": "NTPC कोलडैम में ‘बालिका सशक्तिकरण अभियान-2026’ का शुभारंभ : बेटियों को शिक्षा का मिलेगा प्रशिक्षण - MBM NEWS",
+      "source": "MBM NEWS",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQcXZveURVaFpHUkNpZExseFVLU29ucFNlblItMm9XdUpaQzRBVWpSaUNvNFBVOENtWjE4YTA0ZmtjeHpIbTl5Z21JQXdIOWJSN3JEOHVoOFlESFA4cUpjdE55WllBNVRadzF0Y05STGU0Qk9ZNVRzTFFvMC1Oemo1Vmg2elhhZEplcVZSR1RZemxvUzZRMVVYVm9nTUZGVGFuMGFXVEFfY1JQWkJZa2c1cTVpX3JLTlRnaDVhM2lxS040T2FTck5iMnh6VzBwRW5veVh0TmVwTnBhWjdCZXRSYW8yWEdnSTM3NTZhMGp6Y2hDRVJ4MExiR2NBbGdMQkYzbEdpWlI0Z1otRXRiWTQ0a0JpR0F0NGRJd1JjTjc1VjhoMXBqMzE0cEgzSTlVVERvWi1IeG1JeGxPVHJQUGQxTi0wWXhXWmNDWk9kVVVzZWxuZjl0dmhRb202SQ?oc=5",
+      "date": "2026-07-15T03:36:42.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "NTPC Koldam"
+    },
+    {
+      "title": "Bilaspur News: एनटीपीसी कोलडैम में बालिका सशक्तीकरण अभियान शुरू - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNcFNEZ1NpSkVzNGszcWNiVXZJNnJqQk56TXVTZ2dLdDZOeW8tYW1aX0NjaWM4dkkxYjlDUFJPeDVfRTM1WjhCWE1UVEZoY2hTUW1ZY2JHVjZKTHNKX2k2dHl4UGJSMnNpSFdETXFMSF9wU3JUTVNMQThGTnhBQVNoSkRfUWRJUEF1aW0zT3hVYUR5MHVYemhIdGdWSWFndjRHZUctdDVNN0dwUTN1MlpSOVduM0h4bmgzXzdoemZRZEtUU2FoSXRhS0M0TTRsa1BjMHRRaksyU3k1QnZ6SUp3VDFYMTZPMmliNEJhMHBRWVd0QVJXSk5ZaGY3OWtfREZUcDl6VDVnVE1TVEdyZVJLRVpHT09qYjhGT3UtU0FiQ0IyZmNJ0gGqAkFVX3lxTFB6S1c4ODhObmdscVFmLW4tb3piS3luRkN0WDEtZFp0UERCMFlTWFdFZ1c0bTNyQ3hnNnpWdGRIMjlNcmJscUstZThOSmNQbTI0SzZzcWdZQWVfVHBGSDlrUHVEaUdHN1JGMlVTSVdsSDduTmVVYngwNlpPWGZXTE12ajE0WU1LcU84RVFoOHdXallIWWZtYWh5OFJLT3hheTRoU2hRczlZU3ZUT1ZDYUkyNVRRa1Bhcl9XZTFpMnBqMTQ2X3ZELWNpZUw5a0hsZ0Y5TWh0cGJGd2JLUW01eGpxOTFUZC16UE43cnJJUS1ndkMxWTJhT2ZFVkZUdHItaXlKTVQ1bldlaG5nc29odjFqRnRldkhkaTNlWThtVHNTeHVSZ2VzRXNCWHc?oc=5",
-      "date": "2026-07-12T18:39:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSkd4emhwQW1KUTFlZ1Q1NWNreEtKUG5lem9yV3RodDJXN1NUemZ3SVdndjhWMlM5VWNkTUgwWlQ3ZVlFem9pa0R2VmJXalRhQ1BuSHh3aHRUZDZLN0kwMGRqV3ZnZ2I0eTM1Ymk4UkNUeHFHd3oxVXRNdGhPX2FlMmxQSjhYYktNajFIaElyVDNfWU15N0RwV2kzc1hhcUFKNXZ3ZEVQTEhRdUpEVFdvV0JwOFVsWExYRzBVY3UwWTBYR0tWSndZUFlLS0U5eXE2N0I1YTdyVWNBdVhZUm1hTl8wSWppMDM2Mml1TnZYTdIB7wFBVV95cUxOSkd4emhwQW1KUTFlZ1Q1NWNreEtKUG5lem9yV3RodDJXN1NUemZ3SVdndjhWMlM5VWNkTUgwWlQ3ZVlFem9pa0R2VmJXalRhQ1BuSHh3aHRUZDZLN0kwMGRqV3ZnZ2I0eTM1Ymk4UkNUeHFHd3oxVXRNdGhPX2FlMmxQSjhYYktNajFIaElyVDNfWU15N0RwV2kzc1hhcUFKNXZ3ZEVQTEhRdUpEVFdvV0JwOFVsWExYRzBVY3UwWTBYR0tWSndZUFlLS0U5eXE2N0I1YTdyVWNBdVhZUm1hTl8wSWppMDM2Mml1TnZYTQ?oc=5",
+      "date": "2026-07-14T18:44:34.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
+    },
+    {
+      "title": "Bilaspur News: लुहणू खेल परिसर में आधुनिक फिटनेस सेंटर खिलाड़ियों को समर्पित - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcWh6MFBmZm5jVFJ1dUlqX2pUUFk0aGE3U2hpTm1LVjk3RWF5NzVfaHhRYXFOT1dEaTlkUWVJQVE5RWRXTmRpQ0JoaHNDakVTcUhzalBMcUZDUXpvQ0ljVlAtZ0VvTGhIN2pZRS1faVBwU2JlZVlBM0RkUWVDeVFkWEhKZmg5WFhJQzk4cTBFcXBUOURKYWZ2MFV6RUZGbTQ1dTlZa2htRDZCMWo0Q2gxUEstZTRjTG93NXRFQjVKazZZZXJPRFR6U3RYMU1wUGdXa1JibTl5aWdFeTYtVmxMTTMwV080d2ZORUNMeGZrNHhMUUxvWEFDcmp3ONIBgAJBVV95cUxQRXo0QUdMSFdFVlpaSEk5dENDMXZnUS05cUM0NXdKWHVOT1hYdjlmWUp6dllGXzRpZFhGOERsRzR5TmtCYzcyRnAwQ0xXZ1AxYWhSaUNaTFl0dFU0YVJ2T3dxdlVDMEJjSGVmc0h5U0JMNHRpbHBLdWd1bG0wV3VrOGJOcGpOVXZxTTQzTWh5Z2QxMEZhS3dRQU5LWFIyU2RJUjAxYUtUakNWVldzMU1RNHpIWjlLdG0yb0dIX0VWNEJrY01rZE1yWS1zTmpiTF9RWWpYS2x5WTZyNVhEczhEV2p6SVdDUW1zUDdrekpsdWN5eEpaNkFQV3B3YWtuN29B?oc=5",
+      "date": "2026-07-13T18:32:28.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "NTPC Koldam"
@@ -30,16 +60,6 @@
       "match": "Kol Dam"
     },
     {
-      "title": "Bilaspur News: एनटीपीसी कोलडैम में हिम आयुष केंद्र शुरू - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdTlJQzNkVHZuQWxhdkJmdkNPQUxBcFZFQlQzYWVOTzF2YTlqNXMyTXNlWkxaejJ4VjQ3RXh6N2JIejRTMmFzQ0VvZVRaZ0VZb1dGbDNZSUtpXzhCdURzWFJnYWVzeGZMS0w0cUxCUUIwWFBqUzFrNk5iRmd1U1hfSUJIMFlRV0drY2FBdHhMVklpdlFIbUducVlvWnprUzA1U2p4eGVjNENfUEZfSnJtUURFaEk4WERtdWtKeS02ampkUUg1bldiTklObUJINHh0MWtzM2dob9IB3AFBVV95cUxNWjFmY1pHU0lyd2pUMTd4a2htZ05Nekh2cUhad3dBZTd1aDVFVjYxbTZ5a2lFQ2dzYmJOcUZ3WWxhVTF2RGVqeE5NbDlfakpEc2hOWF9KVXdMR09YbDEzMmUtWU1yaU9mQUY5ZDhlLThESktmSE03ZWF4XzhZTk1UYXQ5LWxIS05WR0JrLTVlZjRJX2lsRElMMVd6YWU5dHVQZFhYeG5Kb0NCZVJSUkcxNXNmRkNoZWNCRXhSRTRNcS00elVUeGhCMUU2cUU3YWZfQ0Q2aGl3TmhzNkVH?oc=5",
-      "date": "2026-07-02T18:16:02.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
-    },
-    {
       "title": "कोलडैम झील में वाटर स्पोर्ट्स और पर्यटन को बढ़ावा दे NTPC: राजेश धर्माणी - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -50,24 +70,14 @@
       "match": "Koldam"
     },
     {
-      "title": "Video: राजेश धर्माणी बोले- कोलडैम झील को बनाया जाए वाटर स्पोर्ट्स और पर्यटन का बड़ा केंद्र - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "एमपी क्रूज हादसे के बाद हिमाचल में अलर्ट, जल गतिविधियों के लिए प्रशासन ने जारी किए सख्त निर्देश - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdmFLNmdVWnl0VktSV0ktaHlQaG5vTkNrejBZS3BkQjJmNVJBckptaGsyNUxMN243QkR2d0pJR3l1VTZJTVRpZ3pxNElNRmhSamlNbERXc0ZnYndiZENrM0dycjFaR25USnU5NnFPMnZ0XzBPWExmRTFUM3ZOR3JqVmZielFsc0lDQ2FoQXZYU2I2eGhQTDlpUlVLa2h0YzlMMkkzQ0lyVnprWmpXY3dyQzJ1bVNpSXhtcjZfeHFXbXhlck1HMWtfbHVxSE56QzVwZGdPamE2QU14TWJmcmdaRlExQWdnb1dJTFJ0RkFJLTNqdmlHbWFKbjhIMDFEamh4LUY00gGIAkFVX3lxTE9yai1GWmMzM1N2TnZLSWJJVVlpN2RYMjVfYjV1SWVmbHNBWU1QQm13YWNqVlFhRGpXNEU0NkNWVGI3alozcTJjR0dLTDBsRVdxTHdDbm14NXNMcVotdlFDSWh0T0pFMDMtN0FCdnIzSkNLSzR3Mk1uMjJaNmpXck5OcE5NSC14X0Y1LUZLY1BEQy1LTUMxY25wanJ3NGpKSVJic0FvWk5mNDExQ3I3WG9qejZMLWVzcEdQbVM4Z0Zhdk1ENi12cVRyZExrMFBnRlkwN1BmdlpxVVJubk1JbWVnSXU5UU4xUE9BeWEtd1JpdDVQNzA0ZldNRVJMbDNQdmVwdFRlWWhKdQ?oc=5",
-      "date": "2026-06-12T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSVBKZEVWWThtdUtMM2JiSVU4OUZOa25GN0xJVW9NX21hYUZlME5pWnlTN2JFN3AxclRGZkZBUkwzOG1kMkM2MGdIQktwdk9LSjRXV0t5QThHZGJINW0tQ1NMQjItLVd5a0d2SzBnWkZyRFJPMFlVZ1E3OTNNUHBuaXItY2hiS0NLWHpJQ24wOXhYMS0yTTJRMFdOR2NfZGFOYnRzOVZvRzVvc0NkTnVTMnlGZF9WU3gxbEtJTEZUc09HZ3FWVlEwSkNBVDVOeFphdHZDWU1pTEdFb1ZyeW8yaWpR0gHnAUFVX3lxTE5zRVRhLXRPSXRKSTJxMlZLSmdxZkFUUkNYTGNDVDM0NFQwanBHcDhlc1k2QXBkSFp5aFVDOFlzX1J6ZzVKd0JMWm9xT3JHSGpBTmNaZXdIZDlyYkpXb000RllrVGFEa0QtZmYyRDZOVGJyOVVOMFZSRUg0blRTb2hsdFhWb2xwVXk5YlR0dXVWd3BLR1Qzc0ZkUkp5RFFqbnRxTVFOQm5kdGI4alZ4d1lQNjFVREhiZUNjclV5ZnktQVVudG9hMXpnVVlrYzZLRlgtUkZfeWhnRk83SHpRc21YNWZ6ZTJsWQ?oc=5",
+      "date": "2026-05-02T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "NTPC Koldam"
-    },
-    {
-      "title": "Bilaspur News: मंत्री धर्माणी का सलापड़ पुल पर किया स्वागत, सौंपा मांगपत्र - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQmN3TUlOZGhwTnFSQ3RhSTRJMEtXNU5RX2M1SXNmdm1SNlFRVnZUSVN5ckxqMHFWQjVaWUtVY2lGYlVNRmQzMXJGV1FIdHE3b2Y2S3lONFh1a0JLeUZYRWNicV81Vkx0em9XWUd4TGVVRXJLTlpvTjZvNUZ3bkJudHJ0bjA5QUlKSzkzNVRpZDRXX0UxdGtNVDVJYnZ2RVpjWVM0YS1qc2ZrWWNNdlJzTGg5YWptNGdXcVZBVEd3THdJZU1MUl9UQ2F2QlRaMDh3dmJidTF5M0dLVVJ4dmtoS1Z6RVg2RVhRZ2Z2WEJGYzJ4bXBDS0hlUVQzQmtrRzJZTkhiY284QdIBjAJBVV95cUxNZGR3czlDM3owLUtXbXRtNzRxV1ZBRzhueVZZWE1IYnVJdlNlYzNuRThqZVYzUkRhYjFlQzhReHFkT0JFcHltY0JOaGt4YjNfTmVZNGRLeHVsTWZNcU83R1lyUmFGOHdXS29ZUEpsbXVXMlRVRnplTjhqVUptVnF5V0s1NTROYnVSUkxEamUtNTctdXVUU1hqUmh3OGcyN3VLcnlNZU9lX0lkZkhWTG44QnZ2aE9fcWxzeUhfaFBpSHhsZ2huMzdGMlpCTTNkRzBid2FTN0lpRVhRa3VqOHZ1c3NFRTJXLUVDOHV5cWI3STdWOW5DLVdiQzZVOC00QnJqTzM0YWJuUExncnV2?oc=5",
-      "date": "2026-06-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "NTPC Koldam"
+      "match": "Kol Dam"
     },
     {
       "title": "Undertake CSR activities for Kol Dam-hit families with DC’s knowledge, NTPC told - The Tribune",
@@ -90,11 +100,11 @@
       "match": "Kol Dam"
     },
     {
-      "title": "Bilaspur: कसाेल के पास कोल डैम में मिला सड़ा-गला शव - Punjab Kesari",
-      "source": "Punjab Kesari",
+      "title": "सतलुज में डूब जाएगा तातापानी! रिपोर्ट ने सरकार को चौंकाया - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTnRYSE5NcHA4UTRxTzlsZzVQck0ydGlvVmIxWkczbWZXYnhmM2hmNXppejVCVG5LTHMzVlRUeWtjZ3gwWmdGc2Vha1NJQlNobmhGQThZaVVfMjFfY1VXMlZNSGZFei1vRzVibnlpQzJGOFhGTWtDUGFDcGFJbHdja2JqTWdZVGRNc3k0R2dfWdIBlwFBVV95cUxPVzFkaWRvSjFVTmdJMGZEby1aSFItazgwbG13MXdBNzBqQUE2aVJseVQ1MlEwQjB5dTBkdE5jSHdSRWFuc0JhV0hBRENsZlJDRjZpRU9KcmRmZTRZMV9sTGk2eW1fdzZ1N0kzU3pkOTVBUHdEemFDYWJDR2h6OGQ3aVJ3OFpXMzRYam1wZC1LcXN3bHFDOGhV?oc=5",
-      "date": "2025-10-24T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb21IZ2l4amxIcklYMGxMNjhfSnBuS1BrSVl6cGktLVQwVTByNDVidEI3NTEzOWthbGQ4OEpLSnJKbTFkcEVUUjg4bDRLeHNQd2dJbTVzQkpyTUtXbnJxR0xqRmdMT2d5dFRYXzRWQXhLSUhuamJpckM3bE1FNnVpSEVwUnNLTnpqUWJzYmdpbWlCLTY3bk9ENkJnc2RNaFctcjk2OXl6dDRwdUVZb1EtYV9oc3o0bG9ZOVR1LVkzRzhOUkt4SXk3M2ZmeUTSAdIBQVVfeXFMTVYyYTN4RlNZR0ZoaHdsak5wMng2Y051bHB0MnN3WEd1bWVDMEJMZU4wam0yOW9UTTAtVENxOWQ2TGc0elZyV053TVdwekh5dmdzQ3h4eTl3TGRDMTU2djFNMEljWHNrSC1fRmdqNXlYWWJrempaU1Q5UUJhOWdVVnQtMkpMR0tVVmN1WlZ4bzJ5MVRYSU8wT2tzU0tPNUxVbnFQN1pyZXNRUGoyODBZVmtlUTF1OUw4TnZQZTBiTzlndXNManBSUnJFSUFrZTRPeU93?oc=5",
+      "date": "2025-12-09T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Kol Dam"
@@ -160,6 +170,16 @@
       "match": "Kol Dam"
     },
     {
+      "title": "सूखी पड़ी थी सतलुज नदी, खेल रहे थे बच्‍चे, सायरन बजाकर डैम से छोड़ दिया पानी और हो गया करोड़ों का नुकसान - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdHpDY2w1MERTRENab28zWG5sR2VqdTQ1SENWNVB3OEdDZlBYYjFHNEdoaEMzWTVvWXNxYVlUMlZ0ajFyc3BtOERnejhEdFNKa1V6TWVnc0duYlNydnF0OFRibVVnRTRmUExSVGVKRWFQUmpKbTBGT0FUQ082Y2o1ck5kd3hVUm5Td2s2M2lJOFRSSDdjNjlraWVzMnJQOEFNQ1cwTDFja3hPV2diSEtMekNxVDdZYnlLT3lqWUliQmxLTGs0RE00WWVTUExmYzE1cjJKZnlyaEhBOVRBTUJwdEIteENDRmJVREJtTmJzU2RnakE3OXRlN0lBcTLSAYICQVVfeXFMT00zb3cwSlN3QmtzZnFpdVBodGtqLWVTcjlZcHNORHJlQXFnRWJSbFJHVnBONEJfeUxGc0hhS2JfRlM3Mm0zTG1PR3lzbHROWlI1bmZfalhfQzJLdUwweUNmUkttWFNJM1I0M2xEOEhQVTlmM2k3eC1fYjREMi1mTDVYOTBOTXI0bTZFUVE3SURFMGZ4UTFBRkxrOTlJV2RtRlZHLV9yQmJIb2ZWX3VJNW9XTFFoNFNYalUzUHpqam1vdWJmdkFQcFBDc3dFN1ZzaVBFVWN4RlZRMEFRNy1nTUd1U3VRcjg4UnE4Z0NqQUN4NUx2eF8ySVNoazFrbFQ3UXdn?oc=5",
+      "date": "2025-05-16T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
+    },
+    {
       "title": "Bilaspur: कोल डैम में अब तैरेगी ''फिश टाइगर'', एंगलिंग टूरिज्म को मिलेगा बढ़ावा - Punjab Kesari",
       "source": "Punjab Kesari",
       "source_id": "google-news-hi",
@@ -170,24 +190,14 @@
       "match": "Kol Dam"
     },
     {
-      "title": "Bilaspur News: गोबिंद सागर के बाद कोल बांध में होंगी जल क्रीड़ाएं - Amar Ujala",
+      "title": "Mini Goa: हिमाचल प्रदेश का मिनी गोवा, पर्यटन सीजन में प्रतिदिन पहुंच रहे 500 पर्यटक; नजारा देखें एक क्लिक में - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY29oUG5FdkU3NkFmOXhtTU5tSTNmNGdKb3VsNGlmVzUxTWt5TkprNVE1ek5tUGpFWGszRmVkZVczaFlKbUJmYkhrSGZVWnlPRy02R2xpb0R0Zzk1eEhzc3NFSGlkQkd0dS1qUm9oQkl5UHcySWd0LWE1TnNnb0gybC15RlFCSUNtU0V0S3luUGJ3Z2x6dWp0VFVvcGhoLWRSM1dYOHFrRVl4akgwUnVadkNRdVBHTFY1eS1lYXc0RGV3d2xYYWVLY0swVFhmUllQYUgzMExfN1FscVB3bmlCZ01nZU10RXFscXVV0gHwAUFVX3lxTE1SMGtZMUpVR3dlaXhmR3NramY3RnR1VGN0SWJZWF9MZGNydEdacllDNkJEaXhvUnBwQnBkMkROTWU4bnFfZ3duNXN2bmlPNFdVQ3RySkZYaTR3QmpaY2NRR1AxTUVfaE1TaGRyMjVrSEtFamlGZ29kc1JBb3J6TmNvNG5FUEQxRFJGUnQzQ1ZfZGxDZkVfellLaEhEc3BKT2pmVnlybEVOeFZ5UHBTSVhzdE95ajBZUzVITVRxejZRd3ozMGdQMV82ZFFjLVVhenFnM0lqZ3FDQ3ZONmljWjNDX2JLY1I3bGswUXFEZFZleQ?oc=5",
-      "date": "2025-04-11T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV3JsTGg5UExZRXJ2bHBRbHdyOTVvX1ZpLTRtUzFDMFF6SlVGWHphbHpGVXlrTVZiQ2toQ05IUUtScXRBd2VuUUh3aHAwVTdPelZmTjN4XzhSM0plM2dYWElkU0d5cDYxQk9RM3hHWWxhUE5FOUxMdkxESmtMa25zRWxsd1Z3Q3Y3UW1zS21haVVHbEExU3VFRkJmZzZWV1JvbjJCUk5WemVPQ2QtQlI2cmVqLVlpWmtkaHVYT3RkOW4zT21xYXRLZ3lDQkVXNGkweXZsLWZ4ZUdlRV9SSHlic1hJONIB6AFBVV95cUxQcG8tT3VvSzUxQXNudFZwLVYyRDA4eERYMUtIS2VtMzRrNjYtckZRUy1TbTNIZHhiak1RUER4S1E0bFhfbTlONUpuMFptdi1zT2kwU1JSWW95d0M2NzdhZmFaWUkxdl9USDl5cDlCSVVJc0N2bVpMN21oaWhnRlV1eC1EN1VCbmxxN3AyTDFYVG9USGpZdVR1VlhXWDliLUdmV2p2MW9ZUXF5NjBRWkVodHhTVmVaUlpWV2dJZk8waDRJazFLejQ1T25KVlBJQ2xiUTlwc3RCRnJyN3VFcE5WOWFrV2ZRY0ZU?oc=5",
+      "date": "2025-02-09T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Kol Dam"
-    },
-    {
-      "title": "Bilaspur: कोल डैम में क्रूज शेप्ड मोटरबोट व शिकारा चलाने पर 7 जनवरी को होगा निर्णय, चौथी बार खुलेंगे टैंडर - Punjab Kesari",
-      "source": "Punjab Kesari",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbFlybWlYSTNFTHVjLXVXSWt5UlFXWVphcFhXYlZKckxPYnpfMGV2ald5TE4zSlNGT1UzZWw2TFQ3YTVnWFQzRXhKXzAyejFmeGJqb2M1bTBMYllIU0NoTlZNZk9ZR1puMzI1Vy1fZnBwUi1ZTEo0dTlwRFVrcGlqdjBGWU9RSVZwNHFDMVJuX0hOQXJrV3dIZVFINTFDWjFzODlZb0ZxRVR6dTRDeUHSAbYBQVVfeXFMTzhySkctUXJkeHBvdmZyYzFKRXdOZld3VjJnTHFlNS1Xdmc5dEwwQS1obG1CY0NWMTdRSThSUEtUa2FZZzFUbFhrNmZjRHlVQTNoUWprOTZyLTU3Xy0xVkdINDYtekZzTzRiR19vWDZZWk9IcE44SVgta0hwazdYbEdvcnVQQU5aaDhDV1lWRjJrLTJYSFZsLW5xbzluRFhlOUI4bHlKZnh4VzJXNDFmYTk4akMwT2c?oc=5",
-      "date": "2025-01-05T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kol Dam"
+      "match": "Koldam"
     },
     {
       "title": "NTPC कोलडैम के परियोजना प्रमुख सुभाष ठाकुर ने एनटीपीसी को लेकर दी अहम जानकारी - Zee News",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Koldam"
-    },
-    {
-      "title": "Himachal Pradesh: Bhohat Kasol all set to become new hotspot for tourism with 20+ activities - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOS0dRV1lTaFNqZmUtZWtncHNBaFhjbEtweV9zbXlZTHdhRFY0U2xLM0JiZnlNQTZCdzUyZkM4QlZ3Y2R6Y3JEdG9FTGZsZlBQbnB3R0dsYmNWa2daRXBTWW1kYjZLVVdxMS04aV9XZVFaRml5c0Q3aVV3Z1NleTBpdE5PZnRBbkZOVUxMVHMxNTVwQVVyMjNLMU9BV1lBMDBBdWR2aUdGOWs5bUxNSy1VVWVvX1JNWlFacmlPd1FlbHpHSFMya3hkX2RUZC1Ud0dlRVRmbUxENFBBU0hkRllxYVYwRWFVUFY3VVJCNjhlU21ESDJBS2N1alZwRmo0REdG0gGGAkFVX3lxTE8zaWtOMnpOV0xsdTFZVkhxdHJBTzR3Zmp4WW9GMDd4ekdIcjRqQ01fN3JzUGtZR2pkeHB1cHM0bzZTdG1mYjZqUW1jYVJpZlNVaWZiMjNySUowQ0JQc1B6bzIzaTU4Y1RoMW5TUzJERGp6Q0dxSEdiejUydmQ3WWxwQ3JHa3ZfYm9ZU0Jjc0N4YzVsWklsb2R6QmJ3NGF4V3dCVmdCRllpNFpLZVpDbDIyUVhPcEYtb0lOVG5oZnloa01DUmlJcjNDOXVLaUs2VjNTVWtFelV6dWttUG9OUWhXUHBBWnpUOVc1ODVBaG5hQ2hnNHJWekNkMVROYjdJT2h3SHkxcXc?oc=5",
-      "date": "2024-07-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kol Dam"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

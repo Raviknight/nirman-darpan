@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-13T20:08:32.081Z",
+  "updated_at": "2026-07-16T19:58:50.634Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 6,
-    "neutral": 14,
+    "positive": 7,
+    "neutral": 13,
     "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.145
+    "avg_score": 0.12,
+    "avg_magnitude": 0.18
   },
   "youtube": {
-    "n": 52,
-    "positive": 20,
-    "neutral": 25,
-    "concern": 7,
-    "avg_score": 0.173,
-    "avg_magnitude": 0.29
+    "n": 51,
+    "positive": 26,
+    "neutral": 20,
+    "concern": 5,
+    "avg_score": 0.257,
+    "avg_magnitude": 0.339
   },
   "overall": {
-    "n": 72,
-    "positive": 26,
-    "neutral": 39,
-    "concern": 7,
-    "avg_score": 0.153,
-    "avg_magnitude": 0.25
+    "n": 71,
+    "positive": 33,
+    "neutral": 33,
+    "concern": 5,
+    "avg_score": 0.218,
+    "avg_magnitude": 0.294
   },
   "top_positive": [
     {
@@ -50,13 +50,13 @@
     },
     {
       "source": "youtube",
-      "title": "Bhai video me. Voice nahi he",
+      "title": "Only one study table?😢",
       "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "Only one study table?😢",
-      "score": -0.4
+      "title": "Didi how did u get double bed didn't aiims bilaspur provide sharing room? Where's ur roommate?",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

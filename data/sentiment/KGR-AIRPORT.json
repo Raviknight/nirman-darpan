@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-07-13T20:08:29.812Z",
+  "updated_at": "2026-07-16T19:58:49.198Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
     "positive": 6,
-    "neutral": 11,
-    "concern": 3,
-    "avg_score": 0.06,
-    "avg_magnitude": 0.245
+    "neutral": 10,
+    "concern": 4,
+    "avg_score": 0.02,
+    "avg_magnitude": 0.255
   },
   "youtube": {
-    "n": 27,
-    "positive": 19,
-    "neutral": 7,
+    "n": 31,
+    "positive": 20,
+    "neutral": 10,
     "concern": 1,
-    "avg_score": 0.389,
-    "avg_magnitude": 0.674
+    "avg_score": 0.332,
+    "avg_magnitude": 0.41
   },
   "overall": {
-    "n": 47,
-    "positive": 25,
-    "neutral": 18,
-    "concern": 4,
-    "avg_score": 0.249,
-    "avg_magnitude": 0.491
+    "n": 51,
+    "positive": 26,
+    "neutral": 20,
+    "concern": 5,
+    "avg_score": 0.21,
+    "avg_magnitude": 0.349
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "i like this video, this is my forefather place meclod gunj , dharmshala , kangra valley i see in lahore pakistan",
+      "title": "Good acha hua",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Hope you had an amazing trip to Dharamshala. Lots of love to your furry companion!",
+      "title": "बहुत अच्छा जानकर्री दी",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "It's a great place to enjoy nature",
+      "title": "बहुत ही अच्छे तरीके से समझाने का धन्यवाद।",
       "score": 0.9
     }
   ],
@@ -56,8 +56,8 @@
     },
     {
       "source": "press",
-      "title": "Gaggal villagers worried over possible realignment of Pathankot-Mandi road - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTZDNEF1OUQzUE8zT1M4MjBpQzJYOEpoZ3BfQy1YQXVzQzBDenRoYS1SSy1uUkNFb2ozcV9SRjAzUjE5UDh4S2M0SUlhQ1NYZ3hLeEl4ZGpIYXVLNl9ZN1YycHhMSjljM1JEZFM0ODRlc1hlQUJuTVBGVmU3X3JCQm9BU2lhVUVldjE0NHBLV0I0bzhWREZlVTJrNG10RjVxNE1FeFVmdGMxNlFKaWVZTnp3MWRjbDhfd3fSAb4BQVVfeXFMTzJIRmJjdl8tWnpmTTR6N1NpWlQyRVhJVE5tMkVoMWNUamlDOFduMnJQX0p1WU5UbGxqbks0cDNyWXJlV2N4Z3AxbDF2Qm8xeDg4YllJdEhodzIxR0EyTlQyOTNsWXY5MWpXSkNyYW1qYWVTMjNNMW1HUDFuQThVX1pYXzlhclVCU0dyNEdoUnNjNlhaU1ZXYlZQMlZJODdua0VJeUoxdVVJX1dyZEI1N1lFM3VLTFRwWjZNNC1yZw?oc=5",
+      "title": "Gaggal airport expansion stalled over pending statutory approvals - - Himachal Scape",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0czS2xFSHMyNWhETDBtTzhLc3B6XzdPOE5ESGJVVmRPdlVjQXkyZFdwWndJTlp6Tkxrb2dZWUFJNUVJSlBqMVd4MV9LcjQ4aWZTNmZPU1lTZGpZT2w3WkxYWW5lUlFkSjV3MXlXcFRvM2lyQTBtVVFGbGk0bzh2QmxDT29mbVFWTUN2Z2gxcnRaaVhCeklR?oc=5",
       "score": -0.5
     }
   ],
