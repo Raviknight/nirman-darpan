@@ -1,48 +1,47 @@
 {
-  "updated_at": "2026-07-16T19:59:02.260Z",
+  "updated_at": "2026-07-20T20:17:52.207Z",
   "project_id": "HMR-LINK",
   "press": {
-    "n": 10,
-    "positive": 9,
+    "n": 11,
+    "positive": 10,
     "neutral": 1,
     "concern": 0,
-    "avg_score": 0.39,
-    "avg_magnitude": 0.39
+    "avg_score": 0.282,
+    "avg_magnitude": 0.327
   },
   "youtube": {
     "n": 20,
-    "positive": 6,
-    "neutral": 9,
-    "concern": 5,
-    "avg_score": 0.03,
-    "avg_magnitude": 0.23
+    "positive": 8,
+    "neutral": 8,
+    "concern": 4,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.26
   },
   "overall": {
-    "n": 30,
-    "positive": 15,
-    "neutral": 10,
-    "concern": 5,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.283
+    "n": 31,
+    "positive": 18,
+    "neutral": 9,
+    "concern": 4,
+    "avg_score": 0.165,
+    "avg_magnitude": 0.284
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "संघर्ष समिति-UPPCL ने एक-दूसरे को बताया घाटे का जिम्मेदार, महंगी बिजली खरीद-निजीकरण पर बढ़ी तकरार - Navbharat Times",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOUHZibGFmUDI1VkZ5UnJhclppUUR2R3JGV1NTam9oTjJ0ckRfTTM3cXk4ZW42eGpsU05zSmNLbzZEZUFvNDAxZGdYTE5jYVlSaFktcWlWZl8tcXpjazFBQlczTjg0eU1BQlc3cUk3N3phekc2ejU0UUlaUGNWQlJlaGtUNVFVODhINnRBN3FrTGFlSnZkekc3dEl4TzdyclB4MHI1QnJVSXRPdEVfLTE1alhkWkpYeEZpQ2E2a1l6T0dvblJUT2Nwa2lvUUhGMUxjWlVpdVoxek5qbWk0a1FfWTFDOUx4bjh4TU9qcTdfU0ZjYzZ3UXRuZGRzbGwwSFFzY0JsOVBGMkNsRlpnVHlRY2k3eHdRRHo5c0FR0gGgAkFVX3lxTE5nM0FVamtURTdpUmVaVjZCdTNXa3pxMUJ5ak90ZHBvUTYwYU5ubEU1dlVxdzd4VEJINTE3TUlOZmNsWVh4S2NETTZKRjg5Rnp5TWgxQnBLanhvY2w1aUpEdzhQUlBpT19naGhybHg5RlJ3V0lsVDFSVW11bjNBWXVXZzlUcmFieE1GSTN2aHYydVdPNWVTX0NVNjZaUTdYNUN3bm16bmRHUkJzNDdteWpOSmRFODFma1BLOXlkMHB3RFBaQ1YzLVpTQkR1cFVwX1JwSC1WaG5iaFFRUU1STkNmSGJnMm1McUdlQXBWbklvZ3E1MDcwSnBwTVZMNDRYdm5nUmVfUEtTSlFFS2YwTDVYeXpxWGM4a0ZfMzBkWlA2Wg?oc=5",
-      "score": 0.7
-    },
-    {
-      "source": "press",
-      "title": "जोचीणा में ग्रामीण सेवा शिविर: बिजली, राजस्व से संबंधित समस्याओं का हुआ समाधान, SDM ने किया जनसंवाद - Jayal News - Dainik Bhaskar",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0liUHFHWXdSNFpfUUNkdGpQajFXdkNqSzVkV09fRTZHUFZnbVJVZTh2UDVLY3ZZSHZ0QkpHM25UdkN4dWtuQlFZU3J6NHNqSU9BbE92TFRncWlsSUoxR2NNSDMtd0tQdkJnLUp0bV9oZ2RRaWNtNkN1YWxjTC1BbmtOR1pDVnZMb0d6RzZtU2xsQmYzRXJIMWZKY1hBN203NGh3ZG1XdTdvQXd6YzZWT1lZSzh5WkJfNXlla2xIWmkydmY3ck12SmpvVQ?oc=5",
-      "score": 0.6
+      "source": "youtube",
+      "title": "Lawyer nice sir ❤👍👍🥰🥰",
+      "score": 0.8
     },
     {
       "source": "press",
       "title": "स्मार्ट प्रीपेड मीटर लगने के बाद UP में 31.19% बढ़ा बिजली बिल, पूर्वांचल डिस्काम की रिपोर्ट में हुआ खुलासा - Jagran",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTJZRzhVUDVreE5qNWlvSGlySzk5LS00RG04X0NZX29tZ0lSX0hLUnFWZVhCQ2ZsUnpFb0lUdS1wQ2JTXy1qdUhoWlBvM0hNbnVPNmdVQUJ4dnpMZDVVQWR1SGRfdGM5bFJCMFhRd1JLWk5oTlVZSTh1UDFRbFhITVRsNGZvVFlHTGVSQTBXeXNUem54dk96dGhqcVdQVUpjcXFvcGNjVkZXZ2hfdDRGMVNrQUl2dw?oc=5",
       "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "बेहतर बिजली आपूर्ति करें और बढ़ायें राजस्व वसूली - inextlive",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVhKWC1PdWFaV0V2d0EyWk9tRHJDa3VhSC12RmcyVG1OT2VfNEZ5VXd0M3Fkek1acWItQk11WUlNalRQak1qcnFqMElCbExWX0N3dmlySnpYM0loeUNRbmRoLWpUbFZqVWI5MlRQUm0zMnk3emlCdVdNMW9adlYwUWJ6YXM2YVBaU2lUZXBXTUJlZXRkZUVZNHRCbWZqVW1Da3M5dWdseUxHSnk5VHNBZ1dnYzNJeXhmeFJOOXVyS3VQMUxPZ1FBaA?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
@@ -53,12 +52,12 @@
     },
     {
       "source": "youtube",
-      "title": "Sir.jamin khale kar va sakta  h ya nahi",
+      "title": "Waqf board jameen ka muwaja milta ya nahi",
       "score": -0.3
     },
     {
       "source": "youtube",
-      "title": "Waqf board jameen ka muwaja milta ya nahi",
+      "title": "Sir.jamin khale kar va sakta  h ya nahi",
       "score": -0.3
     }
   ],

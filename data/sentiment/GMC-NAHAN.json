@@ -1,47 +1,45 @@
 {
-  "updated_at": "2026-07-16T19:59:00.734Z",
+  "updated_at": "2026-07-20T20:17:50.027Z",
   "project_id": "GMC-NAHAN",
   "press": {
     "n": 20,
-    "positive": 14,
-    "neutral": 6,
+    "positive": 13,
+    "neutral": 7,
     "concern": 0,
-    "avg_score": 0.315,
-    "avg_magnitude": 0.475
+    "avg_score": 0.29,
+    "avg_magnitude": 0.45
   },
   "youtube": {
-    "n": 7,
-    "positive": 2,
+    "n": 21,
+    "positive": 17,
     "neutral": 2,
-    "concern": 3,
-    "avg_score": -0.029,
-    "avg_magnitude": 1.886
+    "concern": 2,
+    "avg_score": 0.362,
+    "avg_magnitude": 0.51
   },
   "overall": {
-    "n": 27,
-    "positive": 16,
-    "neutral": 8,
-    "concern": 3,
-    "avg_score": 0.226,
-    "avg_magnitude": 0.841
+    "n": 41,
+    "positive": 30,
+    "neutral": 9,
+    "concern": 2,
+    "avg_score": 0.327,
+    "avg_magnitude": 0.48
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Good information sir",
-      "score": 0.8
+      "title": "Nicee👌 vlog nd keep it up🤩 awsm content 😊",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "MBBS छात्रों के लिए अच्छी खबर! वैष्णो देवी मेडिकल कॉलेज बंद होने के 5 महीने बाद दूसरे कॉलेज में बढ़ीं 50 सीटें - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWFmTUxNVk1VTXRLWVdZQXRreFNyYmZ3cGVzUlJQTndPb0Q3cFUySkpyeWU4SUlNY0JKLWN3Yi12bUp1N01kZW1iczlwU2pYMV9MYmRwazIxcDBHbWUwOGlCcUpPbVlWZXYtZUU0X1p3OV8wQzVOMWFhUG1tTkEtdmxWemctZ0FscTVNWUZWazZEdnV4UW5tUkFiWkpNYTFMbVRBUlRrNWtDSEVWdzNqbWVFUVI?oc=5",
-      "score": 0.6
+      "source": "youtube",
+      "title": "Clicked Faster than speed of light 😍",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "कोढ़ में खाज! नाहन मेडिकल कॉलेज में अल्ट्रासाउंड के बाद अब एक्स-रे भी ठप, मरीज निजी अस्पतालों की ओर मजबूर - Himachal Now News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTVkZkk2b3JQc20tNExBdTJXamF0NGhRS3RmOEJBWERnZ3FCS3ZOaERabnFkMDNNSThOMXg3NVVGaUhmQS1lOHRUbTRHUGZzeWk4QXBLMEhVRWZSaWZZNnhWWEN3ZmVRR0FXWFRvQlhmTkwyNjdMMTdFMUhMMXoyTnlFaDlZUjVUdjRmcjJGWkJubmUxMmlnNUlKM0FEZw?oc=5",
-      "score": 0.6
+      "source": "youtube",
+      "title": "Nice video frnd",
+      "score": 0.9
     }
   ],
   "top_concern": [
@@ -52,13 +50,13 @@
     },
     {
       "source": "youtube",
-      "title": "Pls sir mujhe en parents ka mobile number chahie tha yonki main en dautar lena chahti hun apna bnane ke lie",
+      "title": "Di can you please tell ki hostel me washrooms room ke saath attached hain ya nhi",
       "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "You are highly mistaken sir. You probably were not even allowed to enter the college and that's why you are standing at ",
-      "score": -0.2
+      "title": "Near busstand hai or up down kar sakte hai because I am from paonta",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,45 +1,48 @@
 {
-  "updated_at": "2026-07-16T19:58:53.402Z",
+  "updated_at": "2026-07-20T20:17:47.263Z",
   "project_id": "KOLDAM-HEP",
   "press": {
     "n": 20,
-    "positive": 11,
-    "neutral": 8,
+    "positive": 13,
+    "neutral": 6,
     "concern": 1,
-    "avg_score": 0.175,
-    "avg_magnitude": 0.27
+    "avg_score": 0.2,
+    "avg_magnitude": 0.28
   },
   "youtube": {
-    "n": 11,
-    "positive": 11,
+    "n": 1,
+    "positive": 1,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0.482,
-    "avg_magnitude": 0.573
+    "avg_score": 0.3,
+    "avg_magnitude": 0.3
   },
   "overall": {
-    "n": 31,
-    "positive": 22,
-    "neutral": 8,
+    "n": 21,
+    "positive": 14,
+    "neutral": 6,
     "concern": 1,
-    "avg_score": 0.284,
-    "avg_magnitude": 0.377
+    "avg_score": 0.205,
+    "avg_magnitude": 0.281
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Khoob mehnat karo🥰🥰🥰nice vilog",
-      "score": 0.9
+      "source": "press",
+      "title": "एमपी क्रूज हादसे के बाद हिमाचल में अलर्ट, जल गतिविधियों के लिए प्रशासन ने जारी किए सख्त निर्देश - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSVBKZEVWWThtdUtMM2JiSVU4OUZOa25GN0xJVW9NX21hYUZlME5pWnlTN2JFN3AxclRGZkZBUkwzOG1kMkM2MGdIQktwdk9LSjRXV0t5QThHZGJINW0tQ1NMQjItLVd5a0d2SzBnWkZyRFJPMFlVZ1E3OTNNUHBuaXItY2hiS0NLWHpJQ24wOXhYMS0yTTJRMFdOR2NfZGFOYnRzOVZvRzVvc0NkTnVTMnlGZF9WU3gxbEtJTEZUc09HZ3FWVlEwSkNBVDVOeFphdHZDWU1pTEdFb1ZyeW8yaWpR0gHnAUFVX3lxTE5zRVRhLXRPSXRKSTJxMlZLSmdxZkFUUkNYTGNDVDM0NFQwanBHcDhlc1k2QXBkSFp5aFVDOFlzX1J6ZzVKd0JMWm9xT3JHSGpBTmNaZXdIZDlyYkpXb000RllrVGFEa0QtZmYyRDZOVGJyOVVOMFZSRUg0blRTb2hsdFhWb2xwVXk5YlR0dXVWd3BLR1Qzc0ZkUkp5RFFqbnRxTVFOQm5kdGI4alZ4d1lQNjFVREhiZUNjclV5ZnktQVVudG9hMXpnVVlrYzZLRlgtUkZfeWhnRk83SHpRc21YNWZ6ZTJsWQ?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Nice vlog",
-      "score": 0.9
+      "source": "press",
+      "title": "एनटीपीसी कोलडैम में बालिका सशक्तिकरण अभियान शुरू - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFF2aVd1OExwc19ZT3Bsek8tVm1aejN3WDkydHI1M2luTS1Bdm4yUXRWZ1RWSDI2NGVoemZYTU0wZGFCTzBLRXRGYmw3S295dXd0RjUyQ0dOMTlIbTVVMzFzVXpEb1oyTlRnaDRxR3pzZjFOTUk1UmFtdV8ySHFoVE1kZWo5bjM1WDhwaUNLWnrSAZYBQVVfeXFMT2N3NGpCT2NaTmdyTUc2QUpuX01CLWlJdmFqeGlMNGRUS3l2R21sa2szWmJlQl9GWWJyVG51Sk9vaVp2LU9fREN2VFc4RXdTYmdJd2tWVnZPeFpoZk84SG9IcDNHTTNVT0N4M2xDVFJyNzQ0cGVXaDllbWZhZWNSeFdMYkNyZ0xHVXJFMFZtakduTjJiZG13?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Continue vlog kiya karo ap bohat ache vlog bana Lete ho aap🙏👌",
-      "score": 0.7
+      "source": "press",
+      "title": "Hamirpur 33 लाख से फिटनेस सेंटर का हुआ नवीनीकरण - Janta Se Rishta",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFpGS3NxX1BrLWVMZlBKNGZ5cWhPTnJ0aWhQM09MQlpHU25pcEZJN0d2S1cwQmtSa2dUNy16UUl6anJmNVZ4OXU4R3ozVnRhV2J0TERObG94SlFROXlQaEVwd3owX3NJMjZJbjcwM2psbUZLczhTd2pwaFBXUDZIbWlBUHNIZFBldkQ0Umw1RzJURU00WkdzS29KSnhnVERQamtkY1ZMZnbSAa4BQVVfeXFMTUNGek5Pd3BJNUsxbzFNdndtTEFyOFprbENJaHpaX0VmU19uSTZ6QkpKa1U4T1pVaVJwcjN3LXJTVGtSVjJNNDd2ajIzQ0YtMldtVXJUN3pGbWl3MUZrUTdNNVN2N1JKUVhnTzczclMxTkxqRHVKMlFsYjFtS21OX1dQSkxaWFZXVTJKNnlNbWE0Rm9xby1mUXo1eVp6aGhiSFlxc1lkWEJKWXJJRTBn?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T19:58:45.466Z",
+  "updated_at": "2026-07-20T20:17:38.952Z",
   "project_id": "BHANUPLI-RAIL",
   "press": {
     "n": 3,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 9,
-    "positive": 6,
-    "neutral": 2,
-    "concern": 1,
-    "avg_score": 0.267,
-    "avg_magnitude": 0.444
+    "n": 37,
+    "positive": 17,
+    "neutral": 13,
+    "concern": 7,
+    "avg_score": 0.197,
+    "avg_magnitude": 0.408
   },
   "overall": {
-    "n": 12,
-    "positive": 8,
-    "neutral": 3,
-    "concern": 1,
-    "avg_score": 0.275,
-    "avg_magnitude": 0.408
+    "n": 40,
+    "positive": 19,
+    "neutral": 14,
+    "concern": 7,
+    "avg_score": 0.205,
+    "avg_magnitude": 0.4
   },
   "top_positive": [
     {
@@ -33,31 +33,30 @@
     },
     {
       "source": "youtube",
-      "title": "Great visionary job execution. \nJai Hind Jai Bharat 🌹🌹🙏🙏",
-      "score": 0.6
+      "title": "Good job ji 👍",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "भानुपली बिलासपुर बेरी रेल लाइन की टनल नंबर 6 का उद्घाटन, रेल मार्ग से जुड़ेगा नैणा देवी मंदिर - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTWRGY0ZjMFJvQWlRb0UyTVF5N1VBY3M5UHJ5WDZ0anQtSUw3M0lPbklYdVlvM2tENlZ0QXJwck16aFBmYmpnbFViaWwwYlRWSjczSmxReFVLZzN1RWlyUWY1QUIzY25ITDJoSEg3LTYtNFllQXcwYmc1Y2RMSE9lTDJKMm9aMnhKdnlxLWRFNndOazY0UHltbGZCNVlrOHlOS2xWV3pLQjNWRkd3bjZ5aE51M2k3TUlHMTBKakNieWdRQ3JNYjFvbmNMb1dmMm9DRnhUZlM1WkpzWGVkbDhOY0JkRWRjRjVhRmVJ0gHwAUFVX3lxTE1QYWY3VEdnSTBUYmgzUV9OeXZjTklKRldBaTlPTkx6UTVFaHlqVWxsSXZlTzVJZ0hGQXBnb1FFYzgtUGNTaW44VS12LUZPd1BsQnpMM2tJZ3JTQmZ1MEVKSzNqOHhObm94WEF4RXZZQ0MwT215SzlveW9GWXJaeDlMbXV1MlV2dHc3TjRFVGd4QjloNkRaVlU2SWx2eXVSNzhZajk5TVdDemxLN29SaTEyOUc5cFNCWHhpOHlKQzlBbkM5Sm9EcERMNG5PN2ZQMEdURlBKNjZJQmtyV2FsNEV5NDc4NVVwc2hGZ19ENkZmcQ?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Good information thanks",
+      "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Tell me Further status of this project when will it Complete to Travel LEH by Train so I can easily go to LEH by Train",
+      "title": "Leh wali side se bi shuru hona chaiye kaam nahi toh 30-40 SAAL LAG jayenge isko bi \n\nBahut slow kaam ha",
+      "score": -0.4
+    },
+    {
+      "source": "youtube",
+      "title": "Badhiya update",
+      "score": -0.4
+    },
+    {
+      "source": "youtube",
+      "title": "They should consult engineers from Konkan Railways who also carried out a similarly difficult project in 1990s and today",
       "score": -0.3
-    },
-    {
-      "source": "youtube",
-      "title": "IT WILL CONNECT KULLU NEAR TO DELHI. DELHI TO BILASPUR VANDE BHARAT WILL SOON COME",
-      "score": -0.1
-    },
-    {
-      "source": "youtube",
-      "title": "Make video on badhi chandigarh railway line update",
-      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

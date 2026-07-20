@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-16T19:58:32.937Z",
+  "updated_at": "2026-07-20T20:17:25.621Z",
   "project_id": "NH105-PNJ-NLG",
   "query": "\"Pinjore–Baddi–Nalagarh 4-Lane\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 8
+    "comments": 0
   },
   "videos": [
     {
-      "videoId": "AC0p4iVIr5w",
-      "title": "Fourlane Nalagarh Baddi Pinjore",
-      "channel": "Gaurav Kumar BilaspuRiya",
-      "published_at": "2022-11-05T02:56:22Z",
-      "description": "",
+      "videoId": "oQX9f7GiJHo",
+      "title": "नालागढ़-पिंजौर नेशनल हाईवे फोरलेन में देरी;सांसद सुरेश कश्यप ने प्रदेश सरकार को ठहराया जिम्मेदार",
+      "channel": "Dainik Savera Himachal Pradesh",
+      "published_at": "2026-04-13T13:44:34Z",
+      "description": "नालागढ़-पिंजौर नेशनल हाईवे फोरलेन में देरी;सांसद सुरेश कश्यप ने ...",
       "comment_count": 0,
       "comments": []
     },
@@ -26,70 +26,13 @@
       "comments": []
     },
     {
-      "videoId": "x9uBN12M2FQ",
-      "title": "Sukhomajri Pinjore Baddi Bypass",
-      "channel": "Sandeep Pannu Vlogs",
-      "published_at": "2021-07-05T09:28:53Z",
-      "description": "Little Information about the New bypass which connects NH5 Shimla Highway, it's 7.70km long with 8 small bridges and one ...",
-      "comment_count": 8,
-      "comments": [
-        {
-          "comment_id": "Ugx6rClbKjct4HV5isd4AaABAg",
-          "author": "@mohitsahnisahni9612",
-          "text": "Beautiful view",
-          "like_count": 0,
-          "published_at": "2022-04-03T08:46:54Z"
-        },
-        {
-          "comment_id": "UgxtqoAZqu1PpDp1V8R4AaABAg",
-          "author": "@satishvspu",
-          "text": "Thanks for video. I get updates on this and moreover virtually tour to the route 👍Keep posting the updates on this bypass.",
-          "like_count": 0,
-          "published_at": "2021-08-24T17:29:31Z"
-        },
-        {
-          "comment_id": "Ugwn8hXsOXs78SNm32B4AaABAg",
-          "author": "@OpGAMING34567",
-          "text": "New bye pass ke vidio jaldi bhejna",
-          "like_count": 1,
-          "published_at": "2022-02-26T06:43:47Z"
-        },
-        {
-          "comment_id": "UgyZ1xul0x2Kxqlw4394AaABAg",
-          "author": "@ravinderbansal6894",
-          "text": "Very sorry about 7km road takes 7 years",
-          "like_count": 0,
-          "published_at": "2021-11-20T08:05:19Z"
-        },
-        {
-          "comment_id": "UgxJoaNvh9Xg8NPQxBt4AaABAg",
-          "author": "@anantyadav7043",
-          "text": "Pinjore to baddi kb bnega",
-          "like_count": 0,
-          "published_at": "2021-08-13T16:18:51Z"
-        },
-        {
-          "comment_id": "UgzNg0c17WUV-Oh8dBp4AaABAg",
-          "author": "@poachingwallah8260",
-          "text": "Modi ji zindabad",
-          "like_count": 1,
-          "published_at": "2022-01-14T15:35:33Z"
-        },
-        {
-          "comment_id": "UgxDMUT6Qn7bRWbhzCR4AaABAg",
-          "author": "@shivalirawat3633",
-          "text": "ek saal baad bhi yehi haal hai. Sab changa si. Hindu khatre main hai..Na sadk, na rozgar but blame covid, russia and nehru",
-          "like_count": 0,
-          "published_at": "2022-07-14T05:12:17Z"
-        },
-        {
-          "comment_id": "UgyZgzrWC3qhZ9GPMOZ4AaABAg",
-          "author": "@ajaybhardwaj3065",
-          "text": "Ye road aj b vaisa hi hai .Cost badti ja Rahi hai .Thekedar and mantri sab khush hai.Yadi aisa hi raha to ye India ka abandoned bypass road declare ho jana chahiye .Ek railway under bridge inse ni ban pa raha hai .Center or state mai BJP govt hai tab bhi.Shame on both railways and NHAI.",
-          "like_count": 0,
-          "published_at": "2023-12-09T04:39:53Z"
-        }
-      ]
+      "videoId": "ghDL_XnDaCw",
+      "title": "#pinjore #road #baddi #lights #nalagarh #road",
+      "channel": "Arumahi👌💫",
+      "published_at": "2022-12-13T12:01:06Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

@@ -1,61 +1,62 @@
 {
-  "updated_at": "2026-07-16T19:58:50.634Z",
+  "updated_at": "2026-07-20T20:17:44.389Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
     "positive": 7,
-    "neutral": 13,
-    "concern": 0,
-    "avg_score": 0.12,
-    "avg_magnitude": 0.18
+    "neutral": 12,
+    "concern": 1,
+    "avg_score": 0.115,
+    "avg_magnitude": 0.225
   },
   "youtube": {
-    "n": 51,
-    "positive": 26,
-    "neutral": 20,
-    "concern": 5,
-    "avg_score": 0.257,
-    "avg_magnitude": 0.339
+    "n": 54,
+    "positive": 36,
+    "neutral": 15,
+    "concern": 3,
+    "avg_score": 0.426,
+    "avg_magnitude": 0.509
   },
   "overall": {
-    "n": 71,
-    "positive": 33,
-    "neutral": 33,
-    "concern": 5,
-    "avg_score": 0.218,
-    "avg_magnitude": 0.294
+    "n": 74,
+    "positive": 43,
+    "neutral": 27,
+    "concern": 4,
+    "avg_score": 0.342,
+    "avg_magnitude": 0.432
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "AIIMS Rishikesh & Bilaspur offers amazing scenic beauty.",
+      "title": "My dream college Very beautiful aiims",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "❤❤❤ so beautiful Bilaspur",
+      "title": "Thanks to Narendra modi 🙂 saar also make exams more secure...",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Big fan sir \nGive me a red heart",
+      "title": "Ya Allah help me getting in this institute its my dream to study in such nice college and full fill my dreams.... I want",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
-      "source": "youtube",
-      "title": "Kash govt esa room iit main bhi de .iit rooms quality is so poor",
-      "score": -0.7
+      "source": "press",
+      "title": "AIIMS Bilaspur struggles with vacancies, patients bear the burden - Magzter",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWtKdnhVUndndldoM0JUR2xaSDVZcmhzSExOdUFWaXVrcklEZjZMMjBJU3VETDZtS21ubldReUNhemhqdW5EY2xidnN3X2hzelkxd1BIZ0VYcVpfWnNWMlN5NlhkS3V6MkpQOW83ZTFpQU1FclBNWmVla2RzVzAtZC1EWmlEeFJIdW42UFpEOVcxRHRkMHA1bHFaSDF5UkdTUUZjR0dIQkYyZkZpamU1WnBYTHdWbTFQYXRJXzlSZXJueE9NbkNj?oc=5",
+      "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "Only one study table?😢",
-      "score": -0.4
+      "title": "AIIMS Bilaspur me PG 1 ko hostel milta hai ??\nPatient load kaisa hai",
+      "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "Didi how did u get double bed didn't aiims bilaspur provide sharing room? Where's ur roommate?",
+      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
       "score": -0.2
     }
   ],

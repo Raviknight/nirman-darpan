@@ -1,66 +1,65 @@
 {
-  "updated_at": "2026-07-16T19:58:45.465Z",
+  "updated_at": "2026-07-20T20:17:36.906Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 9,
-    "concern": 3,
-    "avg_score": 0.105,
-    "avg_magnitude": 0.32
+    "positive": 7,
+    "neutral": 8,
+    "concern": 5,
+    "avg_score": 0.015,
+    "avg_magnitude": 0.36
   },
   "youtube": {
-    "n": 6,
+    "n": 12,
     "positive": 6,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0.533,
-    "avg_magnitude": 0.533
+    "neutral": 5,
+    "concern": 1,
+    "avg_score": 0.275,
+    "avg_magnitude": 0.467
   },
   "overall": {
-    "n": 26,
-    "positive": 14,
-    "neutral": 9,
-    "concern": 3,
-    "avg_score": 0.204,
-    "avg_magnitude": 0.369
+    "n": 32,
+    "positive": 13,
+    "neutral": 13,
+    "concern": 6,
+    "avg_score": 0.113,
+    "avg_magnitude": 0.4
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Wow",
+      "title": "Perfect video, thanks for information, please make latest on tunel 1and tunnel 2 .",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Wao very nice 😍",
+      "title": "SUnderNagar Mandi tab bnana bhai kabhi same style mein :-) appriciate your work.",
       "score": 0.8
     },
     {
-      "source": "press",
-      "title": "फोरलेन पर कुल्हाड़ी हमला मामले में बड़ा खुलासा, वारदात में इस्तेमाल गाड़ी मालिक गिरफ्तार - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUE92bmdpUHE4NnVlUzdvczViYkU4NGItRVFCTWpwN0pkSFByNGxXeC1uWkJfZ244QzBmM1ZzdGpZUjltUHhvNVgybWthdTRqRzlObHBob25pM09fZ3Z1eXJnbGRQZWdqT01kN0s4TTRSSlA2VFIxWjNRU2tQd2c0TWthZENZZG5nZmNHZ0paeTVMeHJkSjVGeFd3OUNRSFJybGJhb0RMSUI3ZjhMYWtKVW5pUWgyR1ZiQzRyaC1hc2hCMFAySjBTUEtUS2paLUlwM0x1NnRZemd2QnlZc2hwX0Fn0gHnAUFVX3lxTE9wT3c4VDEtV2R0MEdMU3ZRcVkyVVpJbHZwV1Q5MkNhMjAtM1pPdFNaQThjcGlTUUNlcEIxNVh6SEJsZjFrVDdrdTdPVnk1SjNJYU5yWFB4TmZhYzVBZUVpMldaWkE5R25Ra0J6S2VuOElXOHY1MTIwbkh6MjJrdmJsc3VrdllsZk9KZEt6cUNvWnlGWWI0cGIwX2ZLS0UyQ3NfNVV0VVp1SGZ3Z0loVHZyTHcwdXhMQTJ6UDlEVzljcXRUNlVyN3FDSE1iQVRBZm84TTAwdmlFbFVCdnVfTklZQ3d6U0NCaw?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "very nice Which camera you are using ? Good quality output.",
+      "score": 0.8
     }
   ],
   "top_concern": [
     {
       "source": "press",
+      "title": "Manali tourists stuck in jams as Himachal Pradesh entry tax protests continue - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSEJLMEZ2SUpaajF5eDREclZyNVVVQTNFZy1vSFBzUEk0MU5uLVlVc2p2ZjZUY3NSM0dHYWlBLUhxSTVJNUNYeWs1dk5mZk42MGJqb1BDQ0tmdUQ1b2ZYR3EzYndMMlpveUJBNXNpR281X0VGMkZBVTJ3OGN0ZEJxdlFzYUthQUx0MFVMVDdMZGpPbXptZGNnb1VHeWY1Q040ckVFMlc4M25RMUlKNlA1dXZoVG5IQzVLRWxNZUdDNkpsSWMzd1hLUWp4eVB5V28tYUxQR2J4RkFteUY4clIyX3JkWmI3TTlFQUHSAe8BQVVfeXFMTnk3MjNwSVVmR3RRTVJ4SG5RYjhvX21RdEI5R1pHenNPbU14c19OdUZtZkZrME9qc2hWM2JYX1c1bFdrVHp4Q1lvTDFnWG5iQmx5azNXUjlaYUluQWtfekpHdDlrZVNmNEJDRW9ZR0FYcGxIZGJ6SGNrOVIyUVJ6cmlBNzBDVFJiN0VvRGV4UGlHVmRBU0RqZUdKS0xEaExKS1JWT015TngtSkF3RWlYbW95WTBHdjF4cTVzU01uMVItVUNsUi1kV2ozbjZsNEhobVBPQUFNY0ZYdmZWOHZfZWxlcTVVaEx2YnRmVEtsVzQ?oc=5",
+      "score": -0.7
+    },
+    {
+      "source": "press",
+      "title": "Rollback a ‘lie’: Protests hit HP-Punjab roads; Mann warns of counter-tax - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeXBmcW5rNkR2emp2R3k0T3dvZTY2Z05kSU1GdEN2X0VlT19kaWdfR2RPUG94RHFxSFYtdjIwaE5rYlJLUEktd3ZjWlUtVnZvcUlkUmtKVDVldmZGbEFFZFI3WW5DVDVmbXFaMjRrZXRvcUFvMFlFNVdlLWgxY19nT2RoT0NmQjFlcUZCdEJ6bWVyc2NDSjE2MUFHQnA3ZllPdXdSUlprYU5fN0NKZjdNdjdCN2gwME9iN1J1Z3VMZkd0TTNlOC1JYjJIb3NKRHJqd0o5Z1RUQXBxelQ1bHlfS9IB5gFBVV95cUxPLWRKLUpsUGpuNVl2djZfbmdlLXlCcmxGOHplcDFWdi1JS21vT1NhS3h5T3d6VGxfMHRCYXNQZERPazFMYm9SWE1ZYW9faGdpOHU3UHE3eUdGeEFXNkNSWXlnamY4LXRYbE5SdnBIUlZZSUVlQkVLSjdYanY5eDlJaVRIV0tBN3c3NzhaNVRmaTNUNzUtQ3BBMlZjS3JxNmgyYjIybUEtOTlqY1lyal9jYTdua09kclFsZDU1ckZOWEt1dkdSaHRYVkZPODlONzY3ZUI4WHpSekJ2VTJvYXQ3aGw1SDhyZw?oc=5",
+      "score": -0.6
+    },
+    {
+      "source": "press",
       "title": "Chandigarh-Manali Highway Accident: Five tourists injured as vehicle turns turtle - Babushahi.com",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WUDFFU2czNzJMLXdfT0x4SW5TSGFHRy03Nk9LM2dDU2lJVkVZc254N1VpV1p6WFRLLS0yTmpsa1h2cXFpb05mMUNZQVIzQk5UVHBOUTF3NTN3dDJDRXc?oc=5",
       "score": -0.4
-    },
-    {
-      "source": "press",
-      "title": "Kiratpur-Nerchowk project: HC-ordered audit uncovers over Rs 22cr scam - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeFpCOWFlcDdzdHVNMTMyVmV4YVpseUxTSkJ3aDlpb1Z6VFNxNkJ6ek9RSDFDZGlfaFdLUmJzRVlHM1FseVZyMURLa1Ntb2lKMWp0dUNWTU85NGFBSDBFUE1qUWpaWVF5Tm1VbDdGaEIxRUJkZW5VNkE4Y05UT2lmSUI5YnM5ZFppcnJiY0FQc2t1RDdhRVFWeUFzRjcwWTluLWRUekZCOVRpM3ZneGFRcGJseVdMUHdWTmU2NUlOd2tZNUhrbVd0cFJNSHA3YnNSSXoyaFppNnlPRTNkem5kUdIB5gFBVV95cUxQZ19YakdlMWFPRjNkVzFyQ2dDck5id0dCaDIwMkhoS1JDSzJha2pUeEFCTEtiUG1feTAyN1pxOW93OWlNbkdaTGxWbHlhdXpHaG5vWUFpdHJtLXB1LTdyU3R3cGdUVlhjNWlRNG1PWmxSdmo0SnlZZjJoS29PTjlPSmVYUGpudGFQd3ROdVF0c3oxRjV3dnl2NE9oa3NMWXRlR2JubjJNZUprbFF4Z2RIWmhzQTE3Y2JTbDBFNDRCT0FUR1BkTEVmNXhXdFZlNEhHUE8wdkRSeHNuVXNQMEZxWlA4ZWpDUQ?oc=5",
-      "score": -0.2
-    },
-    {
-      "source": "press",
-      "title": "Watch: Paraglider crash-lands on busy Chandigarh-Manali highway after wind shift - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWW01alRFTkZnOV9QMFpTUkRlOE5HN0w4LV95cWl5RnRxNUJ6bExYZ2RVWmgyQm02U09oSV9OY095RkRveV9HVVNBYVlqQXNJYXRSV3k0UklfaUN2RTlBd1hOVjVnYmV6UHFLMzFqS0lsVTB4RWFsNE9YZ0tYWjFDQ0RITXE5OUtxVlpDbEF0R29NbXhFOV9XbUw3ZWN3R1F5TGRhLTF5aXV2eFhfendLcmI1Q1l2WG8xZ0k1M2x3MWliNU10NTZJSTVBYzhlUklFQ1pSNmYycXE3MzJBVWNmX1drTFpiaXJr0gHuAUFVX3lxTFB3M1EtNjJlX0lDb1prMXc3YWJGWHpqVzEyMHBGQ1NtOW1mRDU0SlY2VENnempCM0FhOUZySjZJSGtRTDZSWkJFZ3BBOER4QmhHQ1ZhTDc0V3JDSkhVbkxHYmRaRmRwYzlOLXM1RkU1RzhWYWtPZTFJQUJWUFJfNlNrcGhveEhabHI3OTJfMVhqTVZFWE9FTVgtY0FBMWNDTzdoY1poZGZVWmxLazRCMXlmdmlFdFFyZjctdGFqOGJwR3B2QnhKRUI3eWVVWHFZWEd5XzE1amlyZXdReFUyM2Z0ZGV3MGgwZ0I3ejdyU3c?oc=5",
-      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

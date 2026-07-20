@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-16T19:57:49.708Z",
+  "updated_at": "2026-07-20T20:16:41.745Z",
   "project_id": "NH154-PKT-MND",
   "counts": {
-    "press": 71,
+    "press": 72,
     "gov": 0,
     "en": 54,
-    "hi": 17,
-    "total": 71
+    "hi": 18,
+    "total": 72
   },
   "mentions": [
     {
@@ -37,6 +37,16 @@
       "date": "2026-06-08T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
+      "title": "पठानकोट-मंडी फोरलेन पर दो महीने से जंग खा रहा पुल का सरिया, भार उठाने से पहले लगा दम तोडऩे - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSEs4cUoyN0hkUlZfZWNIc05kemp4SlduUmpHcjc3M01xc25kR25qM3dhM1huNmpCMHdYSlptLW91MEdkUllhaEJaRl82OHBOZU5aTlozaTdaVkFUQ2RjMUNQNk8wQkYwU0s3cVBwNk1pVFFfb1NvbVRRbWlua0kwaDhLN09qRm16VkFKRzd6QjJnQXhwaFo4RTFpNGdYd0ZKU05jLVVYNk1RNVlZNmk1ZDVCa3NwcVBIUjhOaGFvbFJTT1JKaGJ3bUVjSXE4RGx3WlVZQjV6VE5ZMENPWXp1dVdaakJOZVp6dWtpcWZR0gHzAUFVX3lxTFBJbEtJaGZic0RmUUM3QXJKdlB4RjA2UkFoUld2Z1JEYk9naWRTVHR4VGtkb0EzejJ3UVpJZDFfb3F3LU5kRUlnN1h3eVBBZlh0alNHRTRpZDJOTkdPSTZkSTVWSHFnYVhyQ0xrWDNHY253UFNpMzEzWTVKN0p5UnVLaWpjOUVocDAtU21TS0xfQlhrcjVNbjFKczBrTDRCaHYzM2hZa2JIRDFfRjl4eDBuZU5LME52X3o2VGJBOHQtTlJlbC1FemJTMzRKSGhranFxdjBzMTNma2hKYlZZd0ZGOFVxalN6US1CdlhkNUZhb205cw?oc=5",
+      "date": "2026-06-04T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Pathankot Mandi four lane"
     },
     {
@@ -160,10 +170,10 @@
       "match": "Pathankot Mandi four lane"
     },
     {
-      "title": "Pathankot-Mandi FourLane: पठानकोट-मंडी फोरलेन ने रोका विकास, अधूरे प्रोजेक्ट्स से लोग परेशान - Divya Himachal",
-      "source": "Divya Himachal",
+      "title": "पठानकोट-मंडी फोरलेन के अधूरे प्रोजेक्ट्स से लोग परेशान - Jogindernagar.com",
+      "source": "Jogindernagar.com",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSXFTb2JlYU1wcTctX05Wb0ctdVJKT09RVEFWZWNab3ZWbkdwOWk0RGpaLUxUNXFFYUZuQnFrV2RlOWpFaExuNjJGZWVtTVRnWWxrOHFscTcxVFV6WGFwUHNCMHgwVUFvcXRUVkxIcEtMRlV0VGtneF9ocUV2VTdZdFNQZ2stZ0I1OVpDMmhDYmdrendfSVNETWs0WGVvc1hJaENjWnM2Y05nb21HQWoxZ0xZcjExbE4yUzkycmJDUWtWRlN3Rm1CY1MzdHpwUEFISHNZck5kcHJPcmtEZ0RnVW4yak1GT1MzSHA5cXBDZUFFMXpHM3V6enFVRGXSAYICQVVfeXFMTUUxOFl4MUlGd0R3akQxcy0wR0E2dE9uTTlmWjV4dGhBSV9KV1hfXzEwYnI5RHZzc3RZWTJhNmx5LXpyRHJmcmtvdjRxR3owSC05UnI2eHA0VHZtaXg0RERSZ19VQl9aQUhCQUNFSjhUblVsWVpudThqWHZTeDdmODlpSGlmLVRDVFQ4YWdMMHZLUGl1M2dtVklYaVVZWngtWC1jTk5yZGdTUWd5NUNyVENaNWlpOXhtcmZBZGppdHRmbFZKR2NUcEFUSEt3UzRwNmxMb1U2enpQWWVWcDFDT2gyamUtMmY3MDdySGRfdlJydzljd09SOUpJTW5CNU5RN0Zn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHIxRlR3OXBneFdLeXlkc050R3lOTmsxTXVEZVN6MUg2R2RreWNGdzdMVDkyVjFoVWZqZWRRMnBGOEdnQ0pOWmUzLXB2WXV0SF9FVGdac2lwSklTVnk1N0xBU2xKOWsxZ2ZlUGJuZkFxcFFQR0gwUlptMmFyRTRsb0VnNTFvWWZhZnRHR1hLQjEtbURwLWoxd0MtMTVlWmluLXZJZ2VoQVlXb2hMdkJ4dy1GamJYS250eHc?oc=5",
       "date": "2025-12-19T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -195,16 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenFQeG4zSmxZcVJsVVpYOV9MZEh2Z1lzWFo1SUFiS1NPX1VzeVp5am9LOG00MzF1d1RNbnhGRzJibEp4ajB2anVVR2ZBU2hwTlphcUVSWG1GSE9jTnpwRmNCNVBObk9PVGVsemNRd0NSTkxBaHNyeUN6LWJ3aWNYYmVkZU05MEZwUHNWMmdhS3gzcU5PQnR6LUNJWnJ1Wk1ZTkprOEFjT0FqalBLTWpfWmtremdjREZId3QwZNIBwAFBVV95cUxQdWZqeEY1RGFIckY1aERqdVpHUzVocWk1MGJvYm1KVTFwT3Q3QzdCOUwwVVlWLWJRT3dUOEZOM1dWTmNQM3JlZ0tGSl9yeWdXNWRvYTFzOWQ1NEZSTUJzZFFqMElDM1dMaW5Xb0xlbzhvdVFnZVNnWTd4b0N2REx6S0F4VlVPb19qakZqSjFwZXVTSmFwQUVNdk1aUGY1Vm5PR2tUTFJGbU5idDkxRHpZcHBYX19YWXF2SmtwTnowR2E?oc=5",
       "date": "2025-11-11T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "Construction of twin-tube tunnel near Kotla on Pathankot-Mandi highway under a cloud - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdENud0ZJaV9XUURIeV94WVBYNThsR1NONHU5cUJqNGtDTnZLeFh0bGpyQkppeGFJdUNVRS1FSHp0Yks1cFJGaWpNcVdFOWxtS3A4N3RvMVZLMFRjWDg3NXVVczRQd0ZOdDNsc18wOHUtZ1FFRTJoekw2alVCdm9fa3VnbUNVNVlpSlNZeTFfYUdWaVluU1pndFF2UTR4ZVliT29tR1FhX2FkVjgtWTk5WWpmd1FnY0w0UlZDenNwNTZJNWtCam0w0gHLAUFVX3lxTE43M05abkRSdGFqTENmbS1Fd2NicWg4Z1NxVTZBNjl0ZUx5UllYUVpnVm1aQTl4SnR0c3BjaW5OQTVVWFNvM0g1RzRzM21PWlNaTzBSeHVlcmJuZHBzUXlLeGdiZV9VdG43M0VsLVR4SGNxc3hPTFMycTFEejFmYWF5MjBFRTR5S0NKVkxWdlFOX19wUmtScFZtTXp4Zmdia0tEN2MtNC1GamI2TXU5SUpOR2JTRzRXSVQyUWhWaHFVRVM3aHkzZGpjc0V3?oc=5",
-      "date": "2025-10-23T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pathankot Mandi four lane"

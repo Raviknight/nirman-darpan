@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-07-16T19:57:39.439Z",
+  "updated_at": "2026-07-20T20:16:31.685Z",
   "project_id": "SMART-SHIMLA",
   "counts": {
-    "press": 49,
+    "press": 58,
     "gov": 0,
-    "en": 26,
-    "hi": 23,
-    "total": 49
+    "en": 30,
+    "hi": 28,
+    "total": 58
   },
   "mentions": [
-    {
-      "title": "10 एकड़ में फैले स्कूल के लिए बहन की हत्या: भाई को रोहतक से शिमला ले गई पुलिस; शक न हो, इसलिए दोस्त को सौंप... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGxJZFdMdV9aS29JZVp2WFFQaVB3cEh1UkFZVXItMkp0ZGxncWZiUDFBUXlQMmxwVWhLdDFWVHRBcXRDdFV1SGxIUFpCaW1LZzI4NHk5NENpY0tqd01RN2k3eUpsUWU0VS0xVk81Q1pBQUk1T2xOcG5OaHpha0p5ZG5tWDVjTTNCVU1QVVlWSDJWelcyUFhvZXZjc2xWY0pxTmlvSFY4aW9ZS2tSR2N5cUhXdGJBSlE4NkNVY9IBwgFBVV95cUxNS1dTMFRRLVlmVjZuUl9WRk5NM3B1cUN4NC0zZVdwR2JZcTFoYTZfbkJVYXB4TEtwZkhrX0Zta2Q3NjJkbmh3ajdQQVdQazBvcG1SMDRRU2VCRjNmVHlnak80TDd0YWFVYkdlYUhSN1VsRkdqQnZIRVAycUdwYnQxc2NuMzVSelVDU1g3aExxTmFJSGYtb2JGTElwVWxYTTB3eUptMnB3ckNmb250WEJXU3p3Y3JmZ3BlRFRQZjNiRWNSUQ?oc=5",
-      "date": "2026-06-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
     {
       "title": "मनीषा मर्डर केस-रोहतक के शूटरों ने उगले राज: रोहतक के युवक पर शक, हत्या से दो दिन पहले गायब; शिमला में गोलि... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
@@ -140,6 +130,16 @@
       "match": "Shimla SCL"
     },
     {
+      "title": "शिमला स्कूल संचालिका हत्याकांड: हमलावरों की तलाश में पुलिस की बड़ी कार्रवाई, CCTV और तकनीकी साक्ष्यों से जांच तेज - himachaldastak.com",
+      "source": "himachaldastak.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcldpV1pOWDNFaENTS01fczdwU1VkYXByemNGbmlTUlhUZENTd2lpdUNpeWV4VXhIcE5PVnNBc3luaVo0bVI0clVHNS1aN0hvNXRNQmxwM2w2NkdvQ1lPVzFRR2g2WVdqdXNNSnlSS0p4ZkxZa1pUTHQxM29fNFYyUDJR?oc=5",
+      "date": "2026-06-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
+    {
       "title": "Shimla: स्कूल संचालिका की गोलियां मारकर हत्या, पंजाब नंबर की गाड़ी में आए थे हमलावर - Punjab Kesari",
       "source": "Punjab Kesari",
       "source_id": "google-news-hi",
@@ -180,10 +180,10 @@
       "match": "Shimla Smart City Mission"
     },
     {
-      "title": "शिमला के स्कूलों को बम से उड़ाने की धमकी, ईमेल मिलते ही मचा हड़कंप - Punjab Kesari",
-      "source": "Punjab Kesari",
+      "title": "School Bomb Threat : शिमला के स्कूलों को बम से उड़ाने की धमकी, छात्रों को तुरंत निकाला गया बाहर - Dainik Tribune",
+      "source": "Dainik Tribune",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWh6em1xTWxMTFhSMXlVbmpLWEVFMENGdWo0b2p5c0plYlpYRkhrTFJBNXNNOXdqdF9UZVJ5WjBzWDl2QjJQTmRFMENiOW9VZmJYRGJUS2wxV0FwT1VDMU5mQ3V3UlEwVjBIblk4czFRcnE5MEVRaUhaYnJtcFpXWmF5bzhxZmtjM2lhQXFEbzRRQjZTV0hNWHI2bnZiczBNTkliZ3pB0gGuAUFVX3lxTE9PanN5QTl1WUxCXzdHRlI0aFlXTXJZNmd6U2RaYzR3QWxiWFJGcE1LTXF2MjdZTUpYbGotNnc0U3FEWTlpdU1IVzU5LXpJenVLQUxLa1E0YnZhczZVRXIyUlpUMEs3bEVMOWpSdjB3Y1ZZWEc5bXRGWWNsX1JqX1p1YnlfLVEzbW9TcXptS2xTT2JMZGR2bUxtQnM4cU55NGZ4WFJ0TUdheXh0Z1dXUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTUdfS2FNdWxMT2xxZXhaaHk5eUhvQXBBZGdKS0F0WDdFUEJLZFlFMFpPQkt6cXpYVjRTS29GRzc1TlRjMG5WeG4tbmRpNmNmTjBBb3V5a2VpUDEzTGwwMG5FSHloMV8xVW9CVWxMamVFMGxNYVRMeUN2YlF2aW1lTDNhNXhnWUR2OHgzb2dkdkZaSXRGSUlGZWY0NS1jWVBnRkJvTTc5UzFkMUtsOUVXY3J4eUpHTU9RQTNLdHhDQWkxYkdqTlhFZDI5dEx2UDFEc1ZDbW1B0gHaAUFVX3lxTE9fMm5nQllRWmJKczNUc01vdkpNc0FMcHg5YlpBcHgwc193OWx3aWJncnJ1RG51NFpzR190UTVCc05KQVdOdW1icHo2T0gyVkhqTzQ5WVlOVzNmOXlZdHk5YlByT1JiaDJMT1BJRWNVY3FxdElvdi1oTFRNUUNDcl9XaWgxQnJXUGtwMnd5bFpUVmRlYjR4MkZGUzVzNGw4WWF2MU96V3l6QnVTZmNacDhjWEJUUVJ1UjFnRk1KRXplZ1JMdE14YXlaZVVZc3JtSzBJN2FfRmhDeC13?oc=5",
       "date": "2026-05-04T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -200,11 +200,11 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "शिमला के 3 प्रतिष्ठित स्कूलों को बम से उड़ाने की धमकी, पुलिस को सर्च ऑपरेशन में क्या मिला? - ETV Bharat",
-      "source": "ETV Bharat",
+      "title": "'तुम्हारा बेटा गन प्वाइंट पर है...', शिमला के बिशन कॉटन स्कूल के तीन छात्र लापता, मां को फिरौती के लिए आया कॉल - Missing Children Karnal Boy Angad Kidnapped from Shimla School Ransom Call Received - Jagran",
+      "source": "Jagran",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaU1pZm0xeDlvZ0ZDOGRNOWxKdjl0YmNPajJyeE44ZnYxQmFUbFVXbEVwd1Jfdm1XTTJJVUFTc3hwQXVwX1NfRGo2OHVRRjB5SjROSkpjd3VLVzlWWlNtRmdCSk5nTm1Cd0lYbVE5ZWd6RGljMVJtbXhKc2dTZEtPQkRZSUZQak1xeWNHWEIwRVNrUzYwYVdDMjVrU2Nqd3JfZC0yaktURG5IQWVRdUtBS2ZB0gG3AUFVX3lxTFAzMzJITG1rRk1UMC1MampEckNFaWc1YjVNNkI1aDhkTTZvUmRmZ1JzQ2c3TVdDQlJ3enpCTURGNFRwaHFCNldfc2dCcnRvUElsd1VWRnROcUNUWjVld1ZjMm1QZXByLUVCZDFuTHNTTExZLWVTYnZIOUVrZWdHcnB3WGVFdW5jOXB0eGRFWGJadXQyUDRWSGJwNHJaWHlmeGd6NTA4WHBPVE1maEtlZ3o5NklvMzc3cw?oc=5",
-      "date": "2025-07-23T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSDBvZ0ljM1VJUHMwT0dlTU81MzRMMVFjOUFhMFhsaEpRZ0Rod2NBX2NWUEtlekJjX0JWZFQwSjkxVjkyOHFHNXpPc3J1dGIxSXlmdnhMZnZEUHNUWXc0UFJxSERKZXRkekNfODc1c2thZHhWSnFzM0R1VGhUOVlPWVZYeTUwWDFDTkV6bThwdnQxWElkdlBkRHVta2JYcjZMLXJJN0hFQWJvTEw2YThJT0E1TU1qcDZfNHJvYVJMT1VaQTV5UFNhZVJrNlJfSi1vMmRvLXdVbWtWdWIz?oc=5",
+      "date": "2025-08-10T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"

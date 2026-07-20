@@ -1,62 +1,67 @@
 {
-  "updated_at": "2026-07-16T19:58:56.772Z",
+  "updated_at": "2026-07-20T20:17:47.629Z",
   "project_id": "AIMSS-CHAMIYANA",
   "press": {
     "n": 20,
-    "positive": 14,
+    "positive": 15,
     "neutral": 5,
-    "concern": 1,
-    "avg_score": 0.255,
-    "avg_magnitude": 0.345
+    "concern": 0,
+    "avg_score": 0.275,
+    "avg_magnitude": 0.315
   },
   "youtube": {
-    "n": 13,
-    "positive": 9,
-    "neutral": 3,
-    "concern": 1,
-    "avg_score": 0.438,
-    "avg_magnitude": 0.677
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 33,
-    "positive": 23,
-    "neutral": 8,
-    "concern": 2,
-    "avg_score": 0.327,
-    "avg_magnitude": 0.476
+    "n": 20,
+    "positive": 15,
+    "neutral": 5,
+    "concern": 0,
+    "avg_score": 0.275,
+    "avg_magnitude": 0.315
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Nice vlog , great work ❤❤",
-      "score": 0.9
+      "source": "press",
+      "title": "AIIMS की तर्ज पर विकसित होंगे हिमाचल के मेडिकल कॉलेज, स्वास्थ्य विभाग में तेज होगी भर्ती प्रक्रिया, CM सुक्खू ने दिए निर्देश - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMkxPTnFrQms0OWhIYW9jd0ZSdlBvOS1VN1dBOU1qRVVVOXFhZ0p1SlRyMlNTNmQ5VzdJLU5oWXotM3hpZ245VVhjazJzcjBrZDJQUDFLOGNFWDhpTXFjRUU0NURua0NSeVVRSW1fbThmdzJ0QWh5Z2U1TFF0dE9pdGxCbEFVX2FqbF9pMGd0YTc2cHM3bnJfTWc0NzlTTGNoYjFxRUVSVWJWbE0wbFd1VnVjUkZZdkZqU0NjSWxKWG5Jb01paTRlQ1Fja1U1bHhrWHfSAdcBQVVfeXFMT2ZrZXZVNzRSN01aYzdwSEZXSnRiblJCTHZmVGcySV9oUWhHeVpPM1JBZnRCdGowRkJlTFdHN2VXTnFOWTcyZXo2RFFUT2ZFWTUwR0xHM0toZ1gweTNDQWJQbkdMblE4VGJyUEpFTGw4d3F1QVRvWXdPMXVseHdKQ0MwdmRqNDVZc1JRQ3I4VEl3YnRaMFV6THp1QkdwcUdnbXFmR2RsSEFQOUczUjh5VUZYY3NLLWZoRXhZTGpXMjdlQjlWNlpfS0prNjZUN0M4Z3ZlczhlLUk?oc=5",
+      "score": 0.6
     },
     {
-      "source": "youtube",
-      "title": "Very informative thanks for sharing ayush. Great work🎉",
-      "score": 0.9
+      "source": "press",
+      "title": "शिमला में CM सुक्खू ने किया अत्याधुनिक 3-टेस्ला MRI का शुभारंभ, 5 अस्पतालों में बनेंगे - ABP News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGttWGREbXhvQm85UGV3WUtMZnpPTmRybzdSanZ6bFBFQVhiX2c2THJTTy1nei1ZaDZxbnVtcV84MDY1RC1BT2hVc21CaDNCOVVndmo2M3c2UlprdF9yUXNuVUw3OXQ5NV9OWi1iTnZhSUhxck1qQWpGcnYyaEFlckNBWnkzbG1zbEtBNXFEQUU0X19LcFZ6MERmMFFwdTd5aVl2OFVPZ2lVQ2t3SENNTkpPUF9sN19QS2loSnBNRzUtemdudS1kUW5rOUk5MXl2WGc00gHYAUFVX3lxTFBFazRZaUwzWDkxeGIzdEJOcTNORzNyTkhNT0lfQzNDN3MyRk1KQ0VUOHFWZzI2OFNkbFBkRndHdHYxNzVTQzF3NnhQMFJnTDh4THQ3SS1GaU93MkNObkc4Z0I4UzJkQm9uMmx1cXQyYjZQcXRENVpSRTVqRE1vUmluQm93Rkp3bV9MSjA4TWV4eGRYSVh3aUx5Ui1fdGFqekplX0NZdEJnSnVUd3VaUHE4bFkzWWJIM0dMZ2taSER3T1VCQzFBR0Q1dGNqdzItMG1oNnJEWE1XSw?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Nice informative vlog 👍",
-      "score": 0.9
+      "source": "press",
+      "title": "गुरुग्राम 12 जुलाई को होगा विक्ट्री कप फुटबॉल प्रतियोगिता का आयोजन - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYWQ4Z0xjWTQyNW5haHE0Y0F3MTVaYllYTTVQZ2JUWlBYRWlOT09oMXpHVDZVY3JhUzhjQnVhWTVkdXlSTzY5a0FOMXRncG5DcFh1c190c0hKZkRNd1NVallKZjItNVN2dnluWEk5QTlCYTd0RVZfQVhSanpILTJLdUt4bFV0MkJFMVBCR3dsTTc4OTlqM0pBSHZHNk5haFlvalRfZnE2N3J3dTRFN2dDRUVwekl6REVMcVprTXktQ3Ftdkx20gHKAUFVX3lxTE9BNlJsOUpPZ3VhZjI4Q1hXY1I5RVlqakxrTVRlRm9yMHZremN2cGZRR3VTbDF3ZHBvRWpMbjhCVVY3QloxdEpXOG9hcnZxcV9oUndodmFKZDhHV3luU0JjclZjYUtlOHhyem94VEh0VEZmenVUemc2OG4zTFUyRmxBLTZXbXZqYk5DWFJmZVBBS1FyaC1qNnp4bXJaMVRJYTNJLU03MV90ZDB6Q1g0T1owMFY2aGV5bEZxeHdkMklmRm5rTEItcFVFNlE?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Bhattakufar–Chamiyana Super Specialty Hospital Road in Poor Condition, Causing Hardship to Patients and Staff - HIMACHAL HEADLINES",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0YwTUltZ0ZvTDVON1ZXNVJITk9paGtrR3YwUlpuTVNFeWlJdUVsOXM2R2d3NGxPMWVaNk02VDREdTZKTDRHLVRoMTZqbzZBSE9GZ3RRVG02dU9OYU10VHktdWNiOWFtdzFyRDMwWl9nZWozamJpaEl3Nl9sTzl0RXg4NWZnRnoxT0pvSW1Ta3UxLTdzUzRVSVpuSFBDQmdYdHY4ZjdqMldSamU0TFFmODhjdDJDd0ZKZVRTZklBZW02YVdBTlI2LTQzT1JaX3FsUmRNLTV0dUhtX2NB?oc=5",
-      "score": -0.5
+      "title": "Shimla News: चमियाना अस्पताल में मल्टीपल स्केलेरोसिस रोग पर हुआ संवाद - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVV1YWVrdzlYTzVuSWFLalR1bVZtLUlvMndzSmhnTWpqNjVzeTZzajZBclh1RjljeFFHcnpSQy1HeFhNc2xjSS1vVW9KYTd2QjFfOThVQ25XdEZtTWt2VDFVNTJ2WC1kREtfNXd6MGRrQWpXQVpqX0d5UVQxYUN3RDI1NjAzc3lYOTRCYk81ZGxMUGJTTk9DVzNrMXZYQlRFVDBzRlpaQzNqcERuRmE5dHBWM0pKdno4VUxTNVhqQ1h3amdRNTRsSFNyYXl2dnl20gHWAUFVX3lxTFBRem5jQTBkN2NvTWh3WVllS012dUhTcml5Z2kyeDl0N0hXekdhMHFrR3A1aUp4TnNlM183cW9rU0NoLXc3ZGJKMll3RWs0WkdjRVVhc3BEQlVxZERnZWtHV1BsUy1jcG5fQVhpbkdBakdjenlFT3Nib0JNSUlYT3pZWktFWGNsZ3FpS2I5UEdSalNWbHFKVDR2akhXMkEtWjdfTlYzNkw1b3VfOGg5eDFNYkdadnh1aS01Wm5EMzNZU3k5cnJEWXRrQ2ZpejRmNklhdXRKM2c?oc=5",
+      "score": 0
     },
     {
-      "source": "youtube",
-      "title": "Sir Chamiyana me parchi banane ka kya system he urologist doctor ke pass dikhana he plz help me",
-      "score": -0.2
+      "source": "press",
+      "title": "HP CM Sukhu Dedicates Rs 23 Crore MRI Facility at Atal Institute of Medical Super Specialities Chamiyana in Shimla - HimbuMail",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaWJtbVlyaU1DOERGWUJ2MjlmM1NWZ3JjRmRnbG0yVDFad0xUeFNlMUZjb3VFSENzSmxIUGFDYVdmWmtBRFNYT0tQVmF6M2d2bVZYUWdOSEFtaW1pODJ1OElPTk5ZZXZCZzN6cnlyTWtGOEM5VUJfVHhPeFg0ZThRenljX1hVMk45Y1VJMWE3X0JWR3VOeXZHenVEdXZrX3ZqMVJRR1IydG94S25pMWE2LVQwUUU5LU5ZNUdEZXZBNXI3YjVEM3k5cUJVQmhrNHBjZGc?oc=5",
+      "score": 0
     },
     {
-      "source": "youtube",
-      "title": "Abhi bhi ye hi timing h kya",
+      "source": "press",
+      "title": "AIMSS Chamiyana gets advanced 3-Tesla MRI facility - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeEQwSWpOTWstcVdIZDc3TzNCS1lUcm5YUElNcHc4T0I2Y0drWWdyU0RMYnVJaUVDUTA4SUZSbFJXVk85am1qSlAtdFN1dTBkLUJmZWVnZzZla1l2NlVCcHk1VC12dHlUV01NMzlEY1QtMlIyTUZSNzNyUXZFT0dfRFZIZEluZy1jU0dUeXFadkFuWEh1VTFZcjBNcS1udTJyZ2pTM0xRRGVNMEtlQWs4V2E1T1hYc2FxWncwWUZVWHZDaXVzYUtj0gHMAUFVX3lxTE5WQV9LTlZMZTc5MllIa3pSa3FnMXMxcmdTbWktRzhBNnJuZnEwQURfeUpIQWlsNXlSY2RHZzNCWlgyb0toVHlhVUphdk15N3hjN2pJTGttX1A2OFczZjhZbnNfZG92ZGI2amF5OFhhSzRmUS1uZ05WZmJGRW9HNHVOR0RBUzJDbjVVVDB6Mm1sQUU5WV9kR1N4QmN5ZVMtTjhuZzdjQlB3ZHhpMks1TTV5Nk1HLWl2MEJIRWlSbXcwbXJwdHhkTFZqQXdNVA?oc=5",
       "score": 0
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T19:58:57.984Z",
+  "updated_at": "2026-07-20T20:17:48.101Z",
   "project_id": "MANDI-FLOOD",
   "press": {
     "n": 0,
@@ -10,44 +10,39 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 8,
-    "positive": 3,
-    "neutral": 3,
-    "concern": 2,
-    "avg_score": 0.125,
-    "avg_magnitude": 0.325
+    "n": 3,
+    "positive": 0,
+    "neutral": 2,
+    "concern": 1,
+    "avg_score": -0.1,
+    "avg_magnitude": 0.167
   },
   "overall": {
-    "n": 8,
-    "positive": 3,
-    "neutral": 3,
-    "concern": 2,
-    "avg_score": 0.125,
-    "avg_magnitude": 0.325
+    "n": 3,
+    "positive": 0,
+    "neutral": 2,
+    "concern": 1,
+    "avg_score": -0.1,
+    "avg_magnitude": 0.167
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "God bless you Bhai",
-      "score": 0.9
+      "title": "Send choppers",
+      "score": 0.1
     },
     {
       "source": "youtube",
-      "title": "😭😭😭😭😭😭😭",
-      "score": 0.4
+      "title": "Gadkari USA roads",
+      "score": 0
     },
     {
       "source": "youtube",
-      "title": "Waheguru ji mehar kro ji 🙏🏻🌹🌹🌹🌹🌹",
-      "score": 0.4
+      "title": "Where is the government of himachal pradesh??",
+      "score": -0.4
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "This men who work hard for the country no one know who they are,were celebrities who only post on social media praise li",
-      "score": -0.4
-    },
     {
       "source": "youtube",
       "title": "Where is the government of himachal pradesh??",
@@ -55,8 +50,13 @@
     },
     {
       "source": "youtube",
-      "title": "Said ho jao",
+      "title": "Gadkari USA roads",
       "score": 0
+    },
+    {
+      "source": "youtube",
+      "title": "Send choppers",
+      "score": 0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

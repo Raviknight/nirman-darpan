@@ -1,31 +1,36 @@
 {
-  "updated_at": "2026-07-16T19:58:51.423Z",
+  "updated_at": "2026-07-20T20:17:45.701Z",
   "project_id": "JJM-HP",
   "press": {
-    "n": 3,
+    "n": 2,
     "positive": 0,
-    "neutral": 3,
+    "neutral": 2,
     "concern": 0,
     "avg_score": 0.1,
     "avg_magnitude": 0.1
   },
   "youtube": {
-    "n": 16,
-    "positive": 7,
-    "neutral": 6,
-    "concern": 3,
-    "avg_score": 0.138,
-    "avg_magnitude": 0.487
+    "n": 38,
+    "positive": 11,
+    "neutral": 16,
+    "concern": 11,
+    "avg_score": -0.016,
+    "avg_magnitude": 0.321
   },
   "overall": {
-    "n": 19,
-    "positive": 7,
-    "neutral": 9,
-    "concern": 3,
-    "avg_score": 0.132,
-    "avg_magnitude": 0.426
+    "n": 40,
+    "positive": 11,
+    "neutral": 18,
+    "concern": 11,
+    "avg_score": -0.01,
+    "avg_magnitude": 0.31
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Thanks bro",
+      "score": 0.9
+    },
     {
       "source": "youtube",
       "title": "Excellent achievement",
@@ -33,30 +38,25 @@
     },
     {
       "source": "youtube",
-      "title": "Very nice news about your work jay hind Barat Santan Jay Sri Rama Krishna tks 💖 best wishes BJP halp all India okay 🆗\ud83d",
+      "title": "भाई एक घर के लिए कितना मीटर पाइप मिलता है।",
       "score": 0.7
-    },
-    {
-      "source": "youtube",
-      "title": "बस्ती जिले में जल जीवन मिशन पूर्ण रूप से भ्रष्टाचार का शिकार हो चुका।",
-      "score": 0.5
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "WE NEED BIOGAS OR GREEN HAIDROJEAN FULE 🍏🌳",
-      "score": -0.4
+      "title": "Sir new connection  open  karne par open nahi ho raha",
+      "score": -0.8
     },
     {
       "source": "youtube",
-      "title": "Why congress didnt do this.",
-      "score": -0.4
+      "title": "Wrong",
+      "score": -0.8
     },
     {
       "source": "youtube",
-      "title": "Madam ji bihar ka News lana bhul gayi kya ab bihar ka News nahi lati",
-      "score": -0.3
+      "title": "Depth not proper",
+      "score": -0.8
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

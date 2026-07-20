@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-16T19:57:59.934Z",
+  "updated_at": "2026-07-20T20:16:52.219Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 20,
+    "press": 21,
     "gov": 0,
-    "en": 10,
+    "en": 11,
     "hi": 10,
-    "total": 20
+    "total": 21
   },
   "mentions": [
     {
@@ -40,16 +40,6 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "भारत: जल सुरक्षा रोजगार, विकास और आर्थिक अवसरों को बढ़ावा दे रही है। - World Bank Group",
-      "source": "World Bank Group",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkd5dm0wcXJDMnlpNXVLUzREaHJReThSbzdxTGxBSHlqMXo2TmVOUWRsSkNtaU1zUlAtRmNYV2dXR2lDVnl3d1NZdlVvOV9VaHl1V1Z4R0I0M2dhM3Q4b2tBU2txRlM2c1h6QUlQaWZNTnd4MGphaHZLVHY3eTJKbGNDU29qU0hlOTFjcVdIVUxUUQ?oc=5",
-      "date": "2026-03-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
       "title": "शिमला में गर्मियों में नहीं होगी पानी की कमी, शुरू हुई ये नई पेयजल परियोजना - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -57,16 +47,6 @@
       "date": "2026-03-09T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "Shakroli water supply scheme nears completion for 24x7 drinking water in Shimla - Projects Today",
-      "source": "Projects Today",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY25jSkx2ckpMY2pycnZoaWxyWENWTTBjZWRBOUY2VTRyWFFWdUt6TGl1NWdnM0p4ZGhuaEcyQXpuMDJ5RjBZQ0N5bFRLTnJfUGc3ek5zRl9BYW44Nk01WUx4MDRDcDlNdWxlSkdidjBwYVM1cEp1bmU1cGFldkpoM2EwXzhvcVgzWGpvVm1WV2NpeEF1OGRzWmxNX3RpVjJqZldUaFBKMGl0TG1KZHc?oc=5",
-      "date": "2026-01-09T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Shimla Jal Prabandhan"
     },
     {
@@ -85,6 +65,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNkFGSVlqbXhHdndnTHRkblZRbFd4ZUN4Sk5lc1Z1QzdBX3k0RHh1QkI0TUNqNS1mNTVFUFlIMjlnYnFrZENYZU5BZVl6cUlXaUtEWC1UeTIxeTJZeV9weWg3eGM5bUV4ZXZmVS0tR2xFNzRidlA1aXdOMHZFTzlGU1RUczgxaGxISUNNVHdnd052dXpmeS1ObzE4V2FLa2Mtc0NaRUVlZkVGS1dERVdmenltb21ZZzcwSTNLc2ZyUEZsZkY2dzNtVi1uVWRlMVNOTUZlVVRzdUxoN1VYZjJ1UmF0OEVKdjFVRFl4Zy1ZOGl6Z9IB9wFBVV95cUxOZndpUTJJYjNlSVRUcGxNc1VLaXY3eWw2X1VpSEpPYS1YUklPUFRMRnFrRTVYRVF1djhWbmR0NlJVOUR1ckxsN01TYW5vb0lmc1NBX1FvRnY4RjlrQTlOZENHNi1jUml3S1hFdlFLN00zeVplX1RvTkF5YWs4TlR3NE9CVHNRU3FlSU8tTVdhSzBQWmlHdDM5V1ZTRmh6M2M2OFRQWnZHR05ydkFpZ3hUQkctOVF4bHVDQ3JrVnA2bDRFeGh1WjRLTWFNYVh1MXptYU1qaXNVZGtIRG1xRzA1ZkczV1IxXzBSTmJfdHRFWTFaRXJmYl9V?oc=5",
       "date": "2025-09-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "Shimla Jal Prabandhan Nigam’s Customer Facilitation Centre inaugurated - The News Mill",
+      "source": "The News Mill",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdlNZenA2UlJCT1I1YVBkVzZKMnd2VGRRbXh0cFk5R1piQ3dEakZoRjJsY1BTZHVJV0huV2RPQWVoMmh6UFJMSmFNclAyVUx4OERvRV9wLTA2TnRvdUtmNUpzZFVKZVU5bmtrdHFNZWJWU1RWYUpQeVdvNk1XdjVKUEdCUV9obU9ScW5rSTEyZDJScllfQ3JrYjVPSzl5RHd3VWFpbA?oc=5",
+      "date": "2025-06-18T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shimla Jal Prabandhan"
@@ -180,6 +170,26 @@
       "match": "SJPNL Shimla"
     },
     {
+      "title": "Technical error behind inflated Water Bills: Shimla Jal Prabandhan Nigam accepts - The News Himachal",
+      "source": "The News Himachal",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMF9sTnB5eW02WXFxcHVxYVRiWEpsSW1NY2ViZ2I0MUw2eEYzRjZpRTNWZUxiNlRsT1VpdkVEdU1MamtyekdCMnNFaTR4LW01YlVTaHRkS0plRnJ0WE45bFN2OWRaX2tqOGRQUTl4VEtZeEdPbngxTGx1cTNGOXdid2JFRFdzeHZyYzQzRnlsMGZkVUxlNUNNMDJmQlQ0RnREN3l5OE5vc2hMZ0drWC1NMFJrVGhSSVU?oc=5",
+      "date": "2020-01-15T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "Himachal Pradesh Government - himachalpr.gov.in",
+      "source": "himachalpr.gov.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LTEFHeEZRTi1NanQ3WkF0c1hyQm94U0RlMG5rTEkydmFJOUVhQTJxYW5HdjBQMTlaVkJKQjI5eHRRa0JjZ1JGdUlWYkhNRDlpYzRlMXNWeWFBeXlBVlVnUi1HSVU4R3RKanFMeTJn?oc=5",
+      "date": "2019-07-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
       "title": "पेयजल शिकायतों के लिए शिमला जल प्रबंधन निगम ने जारी किया हेल्पलाइन नंबर - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -197,16 +207,6 @@
       "date": "2019-03-05T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "Himachal Pradesh Government - himachalpr.gov.in",
-      "source": "himachalpr.gov.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yVl9HTEltbUFYc3pRZmRiM2pHLUNDbW40X1RRVFdzOWVScnFKV1V2dl9BTThybWxpbm5tQUpyLUZfWE1pUHAwMGJPbkRVdnR5cnV0dDJMTHlNOVg4bkp0MjB1amZUbTFHNXBRQ3h3?oc=5",
-      "date": "2018-09-18T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Shimla Jal Prabandhan"
     }
   ],

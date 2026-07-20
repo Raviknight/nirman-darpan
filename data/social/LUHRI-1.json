@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-07-16T19:57:23.619Z",
+  "updated_at": "2026-07-20T20:16:13.385Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 29,
+    "press": 31,
     "gov": 0,
     "en": 21,
-    "hi": 8,
-    "total": 29
+    "hi": 10,
+    "total": 31
   },
   "mentions": [
+    {
+      "title": "SJVN Share Price: सरकारी कंपनी पर लगा ₹5.75 लाख का जुर्माना! कहीं ट्रेडिंग सस्पेंड न हो जाए? - Whalesbook",
+      "source": "Whalesbook",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWlRNOWhidXdpSzNiYk5tNFdKcXhMc3pEbHJpZUVGd2pMZTNsMHhvUkJmWDc0SkFDeXFSeXBTSmtYSHdhZTRBa3JvdmFsTlhvd0piNEhHZFlxWl9DeU5DQ0dCV2c4WFNva01aaUkwa1N2M2RFRE11bGY0b01ldVo1eklFYlZvSl9NdC14OFVvXzhHNkV4UDFRMldXbnVXMDBUQXdObFZiS0lyaUs5VENMYlFJWlRFSXppQk5GMnJJaXJ2Vm1TZ0lyVDFKSmtkMXZTVFB0WEtxdw?oc=5",
+      "date": "2026-07-14T11:28:16.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Stage"
+    },
     {
       "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
       "source": "ETV Bharat",
@@ -80,6 +90,16 @@
       "match": "SJVN Sutlej"
     },
     {
+      "title": "Sarkari Naukari: SJVN में असिस्टेंट और वर्कमैन ट्रेनी के पदों पर निकली भर्ती, ऐसे करें आवेदन - sanjeevanisamachar.com",
+      "source": "sanjeevanisamachar.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrbkRRWm5lQzNKZTMtaUNRaHlONU8zdmJDZklVN1VPRFNHWlRhalFUY2RsVUh1MWU2UE90LTdfS0V2RkpVRFlmZ3dNeDNhMWtxdTNUa2FhdVJMRFV4VWhZLUxB?oc=5",
+      "date": "2025-08-22T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJVN Sutlej"
+    },
+    {
       "title": "SJVN signs Power Sale & Power Purchase Agreements with UPPCL, NDMC - Garhwal Post",
       "source": "Garhwal Post",
       "source_id": "google-news-en",
@@ -140,16 +160,6 @@
       "match": "SJVN Sutlej"
     },
     {
-      "title": "Buxar Ground Report: मुआवजे को लेकर शुरू हुआ क‍िसान आंदोलन, अब राजनीति का अखाड़ा बना - Kisan Tak",
-      "source": "Kisan Tak",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRWJ4Rks1T2RqOHdDQ3JTR3RueDBieTlVTVluZzFWcS1vUDZqMDJILUtaX1NaMUhKLWJIejNqb0ZhaXZ3aTROSTJIYWZmQ2dvSUdBUXcyT2huS2hFbnVaX0FHOTRXbmpYUXFTaDduZlVtVTVqaTRJNXQtaTZuUTNVQktJWEF4VV96RHhpakNVVmFMQl9IME5Sb2tuZmJGaGlVdS1NWWx4UWpXLWtuYWFlZ3FTczE3dkJHV2Vfel9ZNG02OHA4cUZqY2gzU0ZCQ214dXRrbEZKcktiY2hSakVTUnNhb2hNeWxiUGg0MjBuUGh1ZHVmaUF2N3pRcFh5QUtVNGg40gGIAkFVX3lxTFBMdmF1aGZ1eUtvczFPQXRGNXlqd1NVUUFFOTRFTnVsUmpjd3VtOHJWem1wWkItTi1jX3dWSF9rUnh3NklzQW1RX092a2tZNVZJWEZTcTFLRk85c0Vfc3lRdXVITDM3QkVhekNXR0ltNjk5Z0hycjNzQ2VPLVJKWlJWRlNvMzB0UFd6SXMza09ZN2JHNjFsSDRWVlpOWUdtbFIyekkydzNDTkhHOFc3QkJoUzlQaHprQk9rN2dBYTBSTTBjYWVKYTB3UU9saVUzTDQxT2xhWjVXYUo2YkpfN2NKMUNCd19MMTdIb2RTbE1KbWRfTEhyanI3Y19EWEdxaU5nMFdLaVV1dA?oc=5",
-      "date": "2023-01-13T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "SJVN Sutlej"
-    },
-    {
       "title": "SJVN awards contract for Luhri HEP transmission line - T&D India",
       "source": "T&D India",
       "source_id": "google-news-en",
@@ -195,16 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0MwLWxqcy1zN1ltS2hMZDVtX3JuekNnT2FvS0hfLXlJbzdneUkzRl9zemhHaHItUjBQdE83NjRVRngtbEhJd19HRnhPTHU5SVdpZnZJcHpEMVBhUkc3UWdaY3o1Rk1uSFZxRldtV2FId0YyVFVWRGs2aFZLUGNpV2xNaXFqRVVieWVGNHNINXhpLWdmRmpkNTFzcEd6NW0yOTJV?oc=5",
       "date": "2022-04-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "Patel Engineering-HES Infra consortium wins major order for Luhri HEP - T&D India",
-      "source": "T&D India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1lEX0NzS0JvcFdwZGxPRFZUTW1TRDI4RzNHWUdqOU5sVHB4ZUtUbWNtZUZNN3FtSjhxSkI1M2NoMzhLeHBLWFJZeFg0YTFCaFZ4ZGN4a1NXTWRDUEdpQUVudEI4eFRqRkh5a0NBVGhkSHFxeGlwaE9BaU5ScmpKbnV6R0ZHampKMmVZMWRoblV5NWd5Sk9GZEkwSdIBoAFBVV95cUxNNlhWRktqSW9oWVIwU203dUduZlRKSm42QlNBQy1PV19JTXNyU1E5SUx4a01qME9BdU41b3B3N1M4RG5mSGt5SU1scnZoTkxqRVFqdVVSVktnbDh2R1pBakNBSERBcjRobzVVTy1aaFRzR3BCM0ZSYjRWb3ktOUpMTDBINEx4RS1UTE1IeGh1WWZoOEtDcTRKS0l0d21EUldH?oc=5",
-      "date": "2021-08-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"

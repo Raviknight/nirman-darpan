@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-16T19:57:16.190Z",
+  "updated_at": "2026-07-20T20:16:05.307Z",
   "project_id": "NH5-PWN-SHL",
   "counts": {
-    "press": 20,
+    "press": 22,
     "gov": 0,
-    "en": 10,
-    "hi": 10,
-    "total": 20
+    "en": 11,
+    "hi": 11,
+    "total": 22
   },
   "mentions": [
     {
@@ -17,6 +17,16 @@
       "date": "2026-05-26T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Kaithlighat Dhalli"
+    },
+    {
+      "title": "Landslide at Shimla in 2025 an 'act of god', NHAI tells NGT, rejecting compensation claim - The New Indian Express",
+      "source": "The New Indian Express",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHo2bDBRdUc1MnV6NkNxZ0JnOVBfX2hvYTFOUlVRa1pGVmlfM3NmYUF4UFlsaUIxbmRId3AwcDlqLUtPZWtteWQ4dUcwaG5UdS00TGU4UW1SbXlycEJYbm5DNHdJQjJKb0FiWEpXSWxLdHN2emNzTFp2dXpYaFdFdVJhWWpvcmt6dTZxNXVyd3VKXzNLZ2pGS2JWOUtpM2Q5LU1jeGpkTzktaUh3TTRXUXNWbVVIMU9uaGtQTWNwT3RVbV9IQjFSUXFuQmY0dWFKZGfSAd8BQVVfeXFMTmd2c0NHT2YyRFl0bHFuRUZXeU5rRGtBdzQ2cDBqeGVZWnBLaEF1V0ZhS0hOdFBPaG12NmVJdlJjeDMza20yOEN5dG91QUpBV19jcWxaOFZjTHpJeDR3U2ZhM29IRlpIcHV6SHMtUjc3UVl0LXA4MmgxZXlpcXhxeUZfemhlVHlyYlFyd05IN2ZxbjVVZUpURFNOZ21FSGQxbV9qMkRYM0F5T3lFQXEwcUo4SGxIeXZXRjNiYXE0Mi1KSTlZaTJoSjVmWGZzLTR1NGVZNVEzUG5RYjFRb2FRVQ?oc=5",
+      "date": "2026-05-22T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Kaithlighat Dhalli"
     },
     {
@@ -47,6 +57,16 @@
       "date": "2026-01-04T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Kaithlighat Dhalli"
+    },
+    {
+      "title": "Firm engaged in Kaithlighat-Dhalli road widening work booked for negligence - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3pkbnpZRWlFN1BwUDI4WER0Yk9TeGkzSlRqN2U3Z01maDhKelNvSGZ0UWZCWGNrdDVGOXF2UGFUaDZrUkdOb1JCTUQ1RHVfSlQ3OGdXdnJLQTNSOUU2ZE5IckpWMUpXd2RRMGhWMjRtV19sSU5XSEZBOXVRdWlQYWFOZnVmMmM4cGEtR01WUXVISXllbkZjb0FtdXlpMWxORGJsLWhlb0h5VE1JcEtrVHdzdXdLZnA1MnZj0gG_AUFVX3lxTFBXdVdmcEQ1TFFvM2lnbGp5MGN4VkVyTjN3WjlXcFNPb1AtN0VIYjdkaFhzaEx4ck1KcV9YbTBXV3VqUXcwSkVZTmM2ME8tZWtBUHZxNDZqWWtBQnIycnB6YmFVQUJtYk5VdWlodDUxRnlrU1lmT3BVdTVmTDIzSXZvZmJ3UUNsUTRCWFdYZmJ5TExTOFFRc0dyUWQyckNjeWtRSU4wQ0FhTzFSeElDeTMwMmZNNkJhWGNXaFN6UmhR?oc=5",
+      "date": "2025-11-24T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Kaithlighat Dhalli"
     },
     {
@@ -87,16 +107,6 @@
       "date": "2024-08-22T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Kaithlighat Dhalli"
-    },
-    {
-      "title": "Distance from Kaithlighat to Shimla to be reduced by 15 km: Officials - MillenniumPost",
-      "source": "MillenniumPost",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMnd0bVdWWllUOXh2UWl5X2JWNFdxTjd0VURmaWxFMnhVNWtLLVV5eGVpdmNuOU9JbjY3ZDZUZzhKaG9BZHNQR0lfSUhZdUNUQWx4UGN4UVdiWXNIcEVsZVE5cDRQU2RtWmtoZUU5UmF3a0hSdjFEVGQzWVo0QXVfczUwYkZ5MzNaTGZpWmVaOVp1NnRibjBHWjUxcmgzdHNZUnYxSTMtXzFLRFZZejMwNlpR0gG3AUFVX3lxTFAyVDA3enFUeWJucVRhdlpOd3ZkRkhpWk0wZm1RSGV0WDlUWXdrZHVnNFA4amxWYzhYM3FGbElNbHh4UVVLdGJpVFIyWEwxMlFpZHdlNDZuVVkwMEpPYVpta0lRTTVjSXN3UUxvUDBOc05yM0wxQmFOanZ3MklYNTN5VXVlME9UZ1hzX2xyb3hmWlFuMlVtT3ZZNUcxMUE1Um1sY0tocWN1eHVRV3ZDdTFDa1JDYUZHZw?oc=5",
-      "date": "2024-08-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Kaithlighat Dhalli"
     },
     {
@@ -197,16 +207,6 @@
       "date": "2022-08-17T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Kaithlighat Dhalli"
-    },
-    {
-      "title": "Tender awarded for four-laning of Kaithlighat-Dhalli section - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3Nfb2lHYXUtbk9Dcko1aVBiZUZ3S2lUT19NN1pzUTBSRUw0RzB3aGdXTktoSUFkTFllOThlYlRVNnRNQmp1LUpRRVRDazVyYTJQNUVmWW9CMkNqX0JHcWQwc0c5TUFmNTFpaGdsWFhqYi1aT18zd2REdXNuY2FyVWxyZWRRYUR2X1FoRUpwa1FLVkZfTjQtbXhGOV9fS1ZCa0F3d09aYnJfU3dHX21tVtIBtAFBVV95cUxOazB2NlhrTWZndS1ORzlRUXktLUhBOHRpbDZpQ0VpLWkyTjY5OGJyRVNQOVJLWjhlejNjaGU3Tk1CeUR1OW0xSl81cWhVRTZDQUVnRUQzTWRyckNaM19nSXc2VG5HckhfMmdXblJNUW1IaWdndXJPZUpKZzRyclNZVGFKZjNUakJYWm9qY2xyR3l2emQzM3ZnUnk1X1VVSUJaM1hRQ1hFUmo2M21iRVh4YXl0UVQ?oc=5",
-      "date": "2022-07-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Kaithlighat Dhalli"
     }
   ],

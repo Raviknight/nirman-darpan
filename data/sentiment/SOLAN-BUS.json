@@ -1,47 +1,45 @@
 {
-  "updated_at": "2026-07-16T19:59:00.921Z",
+  "updated_at": "2026-07-20T20:17:51.754Z",
   "project_id": "SOLAN-BUS",
   "press": {
     "n": 6,
     "positive": 2,
     "neutral": 2,
     "concern": 2,
-    "avg_score": -0.133,
+    "avg_score": -0.1,
     "avg_magnitude": 0.4
   },
   "youtube": {
-    "n": 2,
-    "positive": 1,
-    "neutral": 1,
-    "concern": 0,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.45
+    "n": 37,
+    "positive": 17,
+    "neutral": 16,
+    "concern": 4,
+    "avg_score": 0.151,
+    "avg_magnitude": 0.232
   },
   "overall": {
-    "n": 8,
-    "positive": 3,
-    "neutral": 3,
-    "concern": 2,
-    "avg_score": -0.05,
-    "avg_magnitude": 0.412
+    "n": 43,
+    "positive": 19,
+    "neutral": 18,
+    "concern": 6,
+    "avg_score": 0.116,
+    "avg_magnitude": 0.256
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Big Fan Tarun Sir . Congratulations for 1st number placement.",
-      "score": 0.4
+      "title": "Bhai job mil jayega",
+      "score": 0.8
     },
     {
-      "source": "press",
-      "title": "राज्य में 50 ई-चार्जिंग स्टेशन, इलेक्ट्रिक बसों के संचालन को HRTC ने बढ़ाया कदम - Divya Himachal",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb1dJdXFVM1FMX2RwOERyeVIyTFJpNUJkLU8zWXp0QmhNQ1RXOFdMQXRERTB6VWhPX1ctZG9GU3h1MlpKdkZ6S05keTZjVndlM3RJaXJHY3A3dGRhZmo2cFc4emliSGozMlJoZ0JZT1dqSEtUdFFRWGtwYnRkMVBxZ3FpeXBwR2dRbkozZGVLOGEwLURjZXVPOHBKVGZUS0JVcnNpZEVCWTNWdFEwR2ZHRmptb2tDWXFUT2NTRlFUUUQ5TXFnOHAwaXl3NjdrLXlYbmZYZ2Zld1h5aExSMGxGVTNMUGkwWm9R0gHuAUFVX3lxTFBBTm5RVW1Lb1VfeklqcHI0OEJhajFoZzV2dFk4ZzBvOFFQOWE5Uncwb0hPYU9WeTZvQkNJZjJwTGg4d0dKelduVG9kSmptanBBRERad1Q0d0t0alFDZ1doVUxvWS04d0RJRWZULU1KZnJIT3djem9BRWlaY0RXTlFLU3VxNFRjNThXSWgzVUktOG16c2VwZF9fRFBWQ0ZLUHluNUNUU2JPcUw3SDFQdXBKXzNTMU41bUt4dDVoZnVvWnRHZjlucjlneEJmRGJlRTZfcDJUd25BZ3hwbllZaHlOa09IQjVtakNTQ2VxRkE?oc=5",
-      "score": 0.3
+      "source": "youtube",
+      "title": "Thanks ❤",
+      "score": 0.7
     },
     {
-      "source": "press",
-      "title": "SPECIAL: सोलन के इस ढाबे में डॉ. परमार किया करते थे ब्रेकफास्ट - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNEVvTkV4TGxmUjdJSHdpcmU4Q2ZTVFZQLUhERE5tMFNaTHJTdW9Fc1M2cTJ6UDVobXBpTW9ac3lMNHFDNzV3MndPRFVKbjdWV2NDa0lwOGVWYnhpeng5ank3WnJ1VWF4ZWRJOEx2VE9yUXZFY0QxTjFqSjJGYVdlVXRrYWJHcHRLT21uS3p6a2gycmJZV2k3alZnTmg1bW5DbFd6MlVQUng0Wkc3bjVCTjVHUUdTU2d0OE9pazctQXRRRUdXRmhBTFVFMzdoM0tMNnk4Vy0xb9IB3AFBVV95cUxQVDVtRUprSnRId0FLUUVYWUZQbksyLUJ3dFNQR2ZyWllxMU9UQUhFeGd2S19HVTBpVUI5cVk5dHVZZUlsR1psQXZjS2RadmNaQlNBZDUxUEdZSlkxSWlkQUZ6dkZkZkVidGdZREJsMUNTR2xjR2RBUUdkQlB3T2JZNFMwWEVpRXNDS2FrVzlaV3Y5WmdzQ0tNa2tDVkhxODFsbDZjZ0d0Q3lLRjZWajhadjVMWUVfcVJPZDNKVzNwaTBYc0l5WUtJWXRWWUNlbzdXMmtlOF90MkxaSU8x?oc=5",
-      "score": 0.3
+      "source": "youtube",
+      "title": "Kya abhi available h im interested",
+      "score": 0.5
     }
   ],
   "top_concern": [
@@ -52,16 +50,15 @@
       "score": -0.7
     },
     {
-      "source": "press",
-      "title": "Forensic report backs rape allegations against Dr Bindal: Solan police - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT1ZXSzVXLVI3cVdlRTk4X3hnbENhTFR1cTV5cGZMYktVSDR4V2NxNjE5UEVOWFVEV084bUN3ZHpZakY1NURHVjJmNFl6WV9WaWFDUWxGQXFSNHpTRDNLcUpJOGFJa0JFWkVWeTBHWnRrQnZybkJfNzNTV0lndXAxbGlZWDJwYjdoa25iSHo0eXBCN21UdW03Wnh2LUlNS0JubkdGR1c3Um1PUEUyQ1A0T3RwaTJEdlJfYUV5Z2JwQzFPUjBqZ3dPUVIyeWx2cUdLa0hJSkE5SVJ0bmpuOGZNR9IB5gFBVV95cUxQQmR6cXhGLTRfdmJlTlowVmIwanotYllTSGVJckNQWDZnU2RCb0ZPckVyUmdXbHRWb2JwOExDZzYwdk9KYURKSGFxZk1iRVdFTjJ3Y2VUZ3Zab0tweGMxQWlGcHRqU0dmSVlxOHdQYkNiYWtDeVc3cWFYdFRmaEIySnpEUWo0dU5WMTkzNlZhTjIzcGZzVFFIaVZJVkxpMFRtY09oRloyQkRrNndhOGFucmdsa05sREg5OE5vUFdpOXZQQkc3bmU4aXdjUW1TOWpRMEx1Tm1CczJTVmZ3Rk1XdjltRmJRUQ?oc=5",
+      "source": "youtube",
+      "title": "Bhai koi job milega kya please help me",
       "score": -0.6
     },
     {
       "source": "press",
-      "title": "Solan: बस स्टैंड नालागढ़ 3 दिन से अंधेरे में, यात्री परेशान - Punjab Kesari",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0dQcDVFYUpMeEN5c3VINVlMelVMcjFtdUdXdGVtUGNDdm9WMjljeEt2c2twUVhDUTRBdkR2c3J2WTlzNUF6c0VXSUZrZzcyZXdfZDJ1NHpsUWh3UWRzajZELUw3RWdIOTF2bkxZZDFNTjFpUW5qbEM0aU11d0lOTEU4UWJSVWxJRW93VTFHeGxPd2xRMFHSAZ4BQVVfeXFMTnpBR3VzVGtMZ2M0blNSQjBsNy04RFNGVFN3ZU52SkJPSlo2Zjc0RklzR3JrUkk1eXMtN3NzUnpoLV9ucU5pLXZEVThxeXhuejg4dTJuTUNqRHowVk1BQ0c3OVphVWZKbDlQQmpWQTR6ZU9Fb2xrby14MlduR1p1YzVjUzE4ejROM2xQbEI4V1NxVWVURk1PbWpwMUNFLWc?oc=5",
-      "score": -0.1
+      "title": "Forensic report backs rape allegations against Dr Bindal: Solan police - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT1ZXSzVXLVI3cVdlRTk4X3hnbENhTFR1cTV5cGZMYktVSDR4V2NxNjE5UEVOWFVEV084bUN3ZHpZakY1NURHVjJmNFl6WV9WaWFDUWxGQXFSNHpTRDNLcUpJOGFJa0JFWkVWeTBHWnRrQnZybkJfNzNTV0lndXAxbGlZWDJwYjdoa25iSHo0eXBCN21UdW03Wnh2LUlNS0JubkdGR1c3Um1PUEUyQ1A0T3RwaTJEdlJfYUV5Z2JwQzFPUjBqZ3dPUVIyeWx2cUdLa0hJSkE5SVJ0bmpuOGZNR9IB5gFBVV95cUxQQmR6cXhGLTRfdmJlTlowVmIwanotYllTSGVJckNQWDZnU2RCb0ZPckVyUmdXbHRWb2JwOExDZzYwdk9KYURKSGFxZk1iRVdFTjJ3Y2VUZ3Zab0tweGMxQWlGcHRqU0dmSVlxOHdQYkNiYWtDeVc3cWFYdFRmaEIySnpEUWo0dU5WMTkzNlZhTjIzcGZzVFFIaVZJVkxpMFRtY09oRloyQkRrNndhOGFucmdsa05sREg5OE5vUFdpOXZQQkc3bmU4aXdjUW1TOWpRMEx1Tm1CczJTVmZ3Rk1XdjltRmJRUQ?oc=5",
+      "score": -0.6
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

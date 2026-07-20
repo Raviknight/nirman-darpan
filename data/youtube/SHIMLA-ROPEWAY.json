@@ -1,35 +1,20 @@
 {
-  "updated_at": "2026-07-16T19:58:42.954Z",
+  "updated_at": "2026-07-20T20:17:34.120Z",
   "project_id": "SHIMLA-ROPEWAY",
   "query": "\"Shimla Urban Ropeway\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 4
+    "comments": 6
   },
   "videos": [
     {
-      "videoId": "wTdF0d6Y3JE",
-      "title": "Add Shimla ropeway ride to your Himachal Itinerary! #zostel #shorts #shimla #himachal #ropeway",
-      "channel": "Zostel",
-      "published_at": "2024-01-17T04:00:32Z",
-      "description": "Shimla looks like a lego town from THIS spot!   Jhaku Ropeway is a fun cable car ride that you shouldn't miss on your next ...",
-      "comment_count": 2,
-      "comments": [
-        {
-          "comment_id": "UgzWZrDLEGD3teIxCX94AaABAg",
-          "author": "@sonalkaurkhanduja7912",
-          "text": "Tak HaiUthi Achani Uthi Burani👍",
-          "like_count": 0,
-          "published_at": "2026-04-14T03:11:23Z"
-        },
-        {
-          "comment_id": "UgylV65QkeEkg0zuGsF4AaABAg",
-          "author": "@nationfirst8023",
-          "text": "Awesome",
-          "like_count": 0,
-          "published_at": "2025-05-04T18:45:35Z"
-        }
-      ]
+      "videoId": "1bNUNLxaKfo",
+      "title": "Shimla Rope way Cable car Jakhu temple Himachal #shimla#cablecar#himachal",
+      "channel": "Keerthi's Kitchen",
+      "published_at": "2024-07-22T06:45:52Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
     },
     {
       "videoId": "NnHgRX9VI9g",
@@ -56,13 +41,42 @@
       ]
     },
     {
-      "videoId": "1bNUNLxaKfo",
-      "title": "Shimla Rope way Cable car Jakhu temple Himachal #shimla#cablecar#himachal",
-      "channel": "Keerthi's Kitchen",
-      "published_at": "2024-07-22T06:45:52Z",
+      "videoId": "9XvpGchYr2Q",
+      "title": "Have you been to the Jakhu Ropeway in Shimla town#shimla #shimlalife #shimlagirl #shimlamallroad",
+      "channel": "Travel Genie",
+      "published_at": "2022-06-17T10:20:20Z",
       "description": "",
-      "comment_count": 0,
-      "comments": []
+      "comment_count": 4,
+      "comments": [
+        {
+          "comment_id": "UgyaXWMDQrDjSF6OuZV4AaABAg",
+          "author": "@indersharmatravelfilmmaker",
+          "text": "Jai Shree Ram, Nice Short",
+          "like_count": 0,
+          "published_at": "2026-01-18T06:35:45Z"
+        },
+        {
+          "comment_id": "Ugz_1x7Wg1xudwVzANh4AaABAg",
+          "author": "@rajkumar-dh6qp",
+          "text": "Lovely 👌",
+          "like_count": 0,
+          "published_at": "2022-11-07T09:10:10Z"
+        },
+        {
+          "comment_id": "UgyQOJdcKMv2jF0FjwF4AaABAg",
+          "author": "@rajkumar-dh6qp",
+          "text": "Plz Reply 🙏",
+          "like_count": 0,
+          "published_at": "2022-11-07T07:58:46Z"
+        },
+        {
+          "comment_id": "Ugx5BAJvAspi02Acm654AaABAg",
+          "author": "@rajkumar-dh6qp",
+          "text": "Aap hmar Message  nahi Dahka raha inbox ma or na Reply \nKya bat naraj ho to hm Message nahi kar gya  🙏🙏\n🙏👌🌹👍❤",
+          "like_count": 0,
+          "published_at": "2022-11-07T07:58:12Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

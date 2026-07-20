@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-07-16T19:58:05.678Z",
+  "updated_at": "2026-07-20T20:16:57.936Z",
   "project_id": "SHONGTONG-HEP",
   "counts": {
-    "press": 41,
+    "press": 42,
     "gov": 0,
-    "en": 31,
-    "hi": 10,
-    "total": 41
+    "en": 33,
+    "hi": 9,
+    "total": 42
   },
   "mentions": [
-    {
-      "title": "शोंगटोंग-कड़छम जलविद्युत परियोजना मार्च-अप्रैल 2027 तक होगी शुरू, मुख्यमंत्री ने दिए निर्माण में तेजी के निर्देश - Himachal Now News",
-      "source": "Himachal Now News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZGZvUG9Zd0JJR2NJam1PM3lzV056LUJSR2FaMDJLMVlQc1hrWnhOeGFFSTg2YWVrZWQ4Qy02c19jdFNUa1hLLW1JbWFlQU5kUDh1blN0UEpBWXRtdTJ5c1pERFYyellQRXNqVUIzSm1JNG1OLV9OOVJCeUZDbWFCSEYwc0E1RVRCVGhZX1g4RXFQNG9GOU51SFRqRlRhTi1EQmdZeFhsbzU?oc=5",
-      "date": "2026-07-13T13:37:12.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shongtong Karcham"
-    },
     {
       "title": "Himachal''s Shongtong-Karchham Hydro Project by 2027 - Rediff MoneyWiz",
       "source": "Rediff MoneyWiz",
@@ -27,6 +17,16 @@
       "date": "2026-07-13T13:36:24.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "मार्च-अप्रैल 2027 तक शुरू होगी शोंगटोंग-कड़छम जलविद्युत परियोजना, CM सुक्खू ने दिए निर्देश - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUWlQZWFVd00wd19rMDhKVE9IeVlLT1Q5WExjcC1XX3NjbkZ3ZmlVSnFUbmV0M1VzenJZeTN0ZzM0UHhUUEJvdktsUkpMeVJDbmhDVzZuZnNZdS1hQ1BKZllRaTlwa3poRUE5TmkzX1N2R3lwamJ1RGNiWFJCZHE4N2lxckVET2FGekdMS2ZIZ0s3U0RfT0c3TUM4U0wtcDlob19RM1F1SjZ6V005eEVRWTd2bkFhQ2NjeHhOWk9sRWVFZHBneDFUUUROSDhsTGE3OFlN0gHYAUFVX3lxTFB6SEJVZjBsRmNpUkEwd3k5STJTZmU0ZmxUMWVTdXFoZkRyeW1fN093bkVPZExfUWdhZXVkTElWakl2Z0hCaUk5bDRsRC1MV1N4VGJHQkhXNTZVY3JONU1zSEdsRnUtaC15dnJGTVo4WDVUc0Z0M3h5QzFQaVdyNHNKQnZIOUYxZzg5WTJJUEJ6T1V5OEdIeWtMX1hMd09qS3k0THBVcDVlY25LOU5qakRtRVc1RzRkN1lBVzExVjFKa0RlWk4yYlY0NXpXM0M1RjNJbXFvM3FqUg?oc=5",
+      "date": "2026-07-13T10:53:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Shongtong Karcham"
     },
     {
@@ -45,16 +45,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDF4NFJyTjRpMjgxMVd4WXk3U3ZEcVF3azJ5eDJmQUxPZVFuemRMck84TlE3TkxGV2IxZzl3NmdsVDM5d1hDZXJQcHJ6eHhWZmNuRjdJSUN3TkFpdU9xYk9RV0FhZlg0bVR5NnFDOWpuMGZaZ0JMZUlYWWVEVXFTamR0ajAwQnlrVFU5cA?oc=5",
       "date": "2026-07-13T10:28:29.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shongtong Karcham"
-    },
-    {
-      "title": "हिमाचल: मार्च-अप्रैल 2027 तक शुरू होगा 450 मेगावाट शोंगटोंग-करछम जलविद्युत परियोजना, सीएम सुक्खू के निर्देश - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXg5VDJoaVpteGkxa3RSeU9EUHNfZGY4MURFR0pNZDc0eTBMdk5zQmg2TjJpY2pmRmN0TEo3aWMwdG8wZ0p4TXVzTVF0aXcwcE1zcHp0Qkg0UE5fYldfSUozUklIbUppakptVGpWd1Fwak9KLVFkYW9SWnRlSGhEOGtnMTBnWTZrUzdRbjZlM1FnMnVRUzlRTWd5NVRnWGhrUDVrUlZxX25FSkJXZVhia3M2ZG83YmFZUThMNXF2ckhtQdIBxwFBVV95cUxQWWlYOFdEazRYZHY5M1lHVm9FRGNGeUlaT2RfRml5UHpZMjFFSjFkZnp3T2NDWmNGMExNXzlKb1p2aE5qelVtNUR3a3lyQXdpclZ0YlRqdXhIVG42U2o2Ty10V093ZTEycWNoT2NOZmJJMEdXZmo2eXpOc3NnbU9GaWdRb1Q1U2lhNlAybUlIV05PMG45cTV4aTU5cDEwTm5vRVR2d2hOVnlYT1lRaEIyNlVzWUtwMTJFbWlobTV5UnFBbC02UWI4?oc=5",
-      "date": "2026-07-13T09:07:13.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shongtong Karcham"
@@ -150,6 +140,16 @@
       "match": "Shongtong Karcham"
     },
     {
+      "title": "Shongtong Power Transmission scheme comes up for fresh bidding - T&D India",
+      "source": "T&D India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM21Jb21lbnVLV1VnYzdMSDFoWHExZ1Q4dUJSbnZtajFvU0NkYmJLMUxLMlpnR0lFcXVVYmI1ajZSNUstbDFpUVpJdUNuT3ZxTFhDdVF3bHZRWFBhMFozYk94NTNEWi1XMGtwSGJ5WkEtZjJpTV9hRnBtXzZhUWVud1pTVFBweUY3eFFFYVRLSGEyd9IBlwFBVV95cUxNdW1yMkEzRTlrRVVzVmJXTG9oMXFjSkd3blhEMWJwdDdNd0VYZjRQc2ZEdTQ5SHBzM0oxUnZtTGFKY2JrRl9RbWFVSldOUFdkelNHSjdzWFpnQUdjeklhZ2wxc0JYRWtRZjlBNDcwTDJNeVh0bTJkWjJuZUFDTEVfV2tjYlBIME5FOEstRmdaMEN0dER1Mndr?oc=5",
+      "date": "2025-09-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
       "title": "Fresh bidding opens for Shongtong Power Transmission interstate scheme - Projects Today",
       "source": "Projects Today",
       "source_id": "google-news-en",
@@ -160,11 +160,11 @@
       "match": "Shongtong Karcham"
     },
     {
-      "title": "Shongtong Power Transmission scheme comes up for fresh bidding - T&D India",
-      "source": "T&D India",
+      "title": "Completion of Shongtong-Karcham Hydroelectric Project set for Nov 2026 deadline - Projects Today",
+      "source": "Projects Today",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM21Jb21lbnVLV1VnYzdMSDFoWHExZ1Q4dUJSbnZtajFvU0NkYmJLMUxLMlpnR0lFcXVVYmI1ajZSNUstbDFpUVpJdUNuT3ZxTFhDdVF3bHZRWFBhMFozYk94NTNEWi1XMGtwSGJ5WkEtZjJpTV9hRnBtXzZhUWVud1pTVFBweUY3eFFFYVRLSGEyd9IBlwFBVV95cUxNdW1yMkEzRTlrRVVzVmJXTG9oMXFjSkd3blhEMWJwdDdNd0VYZjRQc2ZEdTQ5SHBzM0oxUnZtTGFKY2JrRl9RbWFVSldOUFdkelNHSjdzWFpnQUdjeklhZ2wxc0JYRWtRZjlBNDcwTDJNeVh0bTJkWjJuZUFDTEVfV2tjYlBIME5FOEstRmdaMEN0dER1Mndr?oc=5",
-      "date": "2025-09-10T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalVaQVNzSFhzbFJYTVVGMzE2eGdzX1Z4cVRPWk93eFdBd1lCaGVOY0JjZkI2VmROSXh3c2YxbFM3QzBnMXFWeFZZNnpPb3ViS1Nna01uNkJhU0JBeUJEXzJneFpWanoxN2xQRXo5emZYNjFxUTI1YXotY252TURVRVpzdkhXY3Y1VzUtY3pjVFpHYWhFUjQxcUxxZnZzTHFhWjFaZlZxcS1OTk9ITVE?oc=5",
+      "date": "2025-06-11T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shongtong Karcham"

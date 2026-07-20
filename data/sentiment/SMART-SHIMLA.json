@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-16T19:58:51.914Z",
+  "updated_at": "2026-07-20T20:17:46.249Z",
   "project_id": "SMART-SHIMLA",
   "press": {
     "n": 20,
     "positive": 14,
     "neutral": 6,
     "concern": 0,
-    "avg_score": 0.215,
-    "avg_magnitude": 0.365
+    "avg_score": 0.22,
+    "avg_magnitude": 0.36
   },
   "youtube": {
-    "n": 25,
-    "positive": 8,
-    "neutral": 14,
-    "concern": 3,
-    "avg_score": 0.036,
-    "avg_magnitude": 0.164
+    "n": 29,
+    "positive": 10,
+    "neutral": 17,
+    "concern": 2,
+    "avg_score": 0.055,
+    "avg_magnitude": 0.162
   },
   "overall": {
-    "n": 45,
-    "positive": 22,
-    "neutral": 20,
-    "concern": 3,
-    "avg_score": 0.116,
-    "avg_magnitude": 0.253
+    "n": 49,
+    "positive": 24,
+    "neutral": 23,
+    "concern": 2,
+    "avg_score": 0.122,
+    "avg_magnitude": 0.243
   },
   "top_positive": [
     {
@@ -39,8 +39,9 @@
       "score": 0.4
     },
     {
-      "source": "youtube",
-      "title": "Jungle me rahne wala Gyan de raha hai🤣🤣",
+      "source": "press",
+      "title": "'तुम्हारा बेटा गन प्वाइंट पर है...', शिमला के बिशन कॉटन स्कूल के तीन छात्र लापता, मां को फिरौती के लिए आया कॉल - Missing Children Karnal Boy Angad Kidnapped from Shimla School Ransom Call Received - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSDBvZ0ljM1VJUHMwT0dlTU81MzRMMVFjOUFhMFhsaEpRZ0Rod2NBX2NWUEtlekJjX0JWZFQwSjkxVjkyOHFHNXpPc3J1dGIxSXlmdnhMZnZEUHNUWXc0UFJxSERKZXRkekNfODc1c2thZHhWSnFzM0R1VGhUOVlPWVZYeTUwWDFDTkV6bThwdnQxWElkdlBkRHVta2JYcjZMLXJJN0hFQWJvTEw2YThJT0E1TU1qcDZfNHJvYVJMT1VaQTV5UFNhZVJrNlJfSi1vMmRvLXdVbWtWdWIz?oc=5",
       "score": 0.4
     }
   ],
@@ -57,8 +58,8 @@
     },
     {
       "source": "youtube",
-      "title": "Bhai july me landslide wagrh to nai hoti starting July me",
-      "score": -0.2
+      "title": "Orr kro prachar pahado ka brbad krwake hi manoge tum log in pahado ka😂😂😂😂😂😂😂",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

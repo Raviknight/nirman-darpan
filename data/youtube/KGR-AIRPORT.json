@@ -1,33 +1,43 @@
 {
-  "updated_at": "2026-07-16T19:58:25.158Z",
+  "updated_at": "2026-07-20T20:17:16.968Z",
   "project_id": "KGR-AIRPORT",
   "query": "\"Kangra\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 31
+    "comments": 28
   },
   "videos": [
+    {
+      "videoId": "gyXNuy7LKQo",
+      "title": "अभी-अभी हिमाचल के लिए बेहद दु:खद खबर || Kangra News || Himachal Breaking News ||",
+      "channel": "Today Himachal",
+      "published_at": "2026-07-19T11:00:08Z",
+      "description": "लुधियाना में रॉन्ग साइड से आए तेज रफ्तार कंटेनर ने साइकिल से काम पर ...",
+      "comment_count": 1,
+      "comments": [
+        {
+          "comment_id": "UgxPRO3oBZ4eQm0Lhg54AaABAg",
+          "author": "@SheikhSahib-s6u",
+          "text": "Very much bad and sad news.",
+          "like_count": 0,
+          "published_at": "2026-07-20T06:55:36Z"
+        }
+      ]
+    },
     {
       "videoId": "ZWjzYfdYSyg",
       "title": "अभी-अभी हिमाचल के कांगड़ा से आई बड़ी खबर सामने || Kangra News || Himachal Breaking News ||",
       "channel": "Today Himachal",
       "published_at": "2026-07-16T06:43:40Z",
       "description": "हिमाचल के कांगड़ा से चौंकाने वाला मामला सामने आया है, जहां पुलिस ने ...",
-      "comment_count": 6,
+      "comment_count": 7,
       "comments": [
         {
           "comment_id": "UgwMqxjpzTC_WTIyX1R4AaABAg",
           "author": "@VijayKumar-ky5fm",
           "text": "mera himachal galte raste per chale pada sad news",
-          "like_count": 1,
+          "like_count": 2,
           "published_at": "2026-07-16T11:27:40Z"
-        },
-        {
-          "comment_id": "Ugyrub2LwVDfXzLZNo94AaABAg",
-          "author": "@MotoWelcomemylife",
-          "text": "Jail mein dalo ....😮",
-          "like_count": 0,
-          "published_at": "2026-07-16T17:41:57Z"
         },
         {
           "comment_id": "UgwkkUCoPcCKKT8PP4Z4AaABAg",
@@ -35,6 +45,13 @@
           "text": "Good action by police 🚔",
           "like_count": 2,
           "published_at": "2026-07-16T09:45:33Z"
+        },
+        {
+          "comment_id": "Ugyrub2LwVDfXzLZNo94AaABAg",
+          "author": "@MotoWelcomemylife",
+          "text": "Jail mein dalo ....😮",
+          "like_count": 1,
+          "published_at": "2026-07-16T17:41:57Z"
         },
         {
           "comment_id": "UgzMO2lsQPXL5HYLrNx4AaABAg",
@@ -51,6 +68,13 @@
           "published_at": "2026-07-16T07:41:35Z"
         },
         {
+          "comment_id": "UgyA9yYmm7yryne_tf54AaABAg",
+          "author": "@RamanRana-e5k3x",
+          "text": "Agniveer thulle hone chahiye the taki guukhor thulle na bne sidhe chappal mar ke bahar",
+          "like_count": 0,
+          "published_at": "2026-07-18T03:49:49Z"
+        },
+        {
           "comment_id": "Ugx6nsmD00GKUHVVort4AaABAg",
           "author": "@Payal-r2e",
           "text": "Good acha hua",
@@ -60,197 +84,152 @@
       ]
     },
     {
-      "videoId": "0CuSaYbXseY",
-      "title": "Plot For Sale at Kangra Valley, Himachal Pradesh #mountains #nature #kangravalley #monsoonvalley",
-      "channel": "Montaira Realtor",
-      "published_at": "2025-08-15T14:00:53Z",
-      "description": "Plot available for Sale. Kangra Valley, Himachal Pradesh. ✓Only for Himachali Agriculturist. ✓Non-Himachali can Buy only for ...",
-      "comment_count": 5,
-      "comments": [
-        {
-          "comment_id": "UgzsBwM7bxMaVvBfb6t4AaABAg",
-          "author": "@AyanshVlogs-123",
-          "text": "Nagrota Bagwan mei kon si jgha h ye plot",
-          "like_count": 0,
-          "published_at": "2026-05-17T15:49:38Z"
-        },
-        {
-          "comment_id": "UgwqatoomBDzjnnxWwV4AaABAg",
-          "author": "@ArunaKumari-e5q",
-          "text": "Staring 100 GJ ketne ka milyga kangra me",
-          "like_count": 0,
-          "published_at": "2026-05-26T08:13:05Z"
-        },
-        {
-          "comment_id": "UgxD5cDRGCFzneZJo-h4AaABAg",
-          "author": "@barnadeb3086",
-          "text": "I am interested",
-          "like_count": 0,
-          "published_at": "2025-08-23T09:53:28Z"
-        },
-        {
-          "comment_id": "Ugw59rrzrYMcj604Qu94AaABAg",
-          "author": "@PrathamKoundal1103",
-          "text": "Price",
-          "like_count": 0,
-          "published_at": "2026-02-18T09:49:04Z"
-        },
-        {
-          "comment_id": "UgzlU-zckgBQOiP1hrt4AaABAg",
-          "author": "@shekharsharma7533",
-          "text": "Location?",
-          "like_count": 0,
-          "published_at": "2026-02-07T03:09:51Z"
-        }
-      ]
-    },
-    {
-      "videoId": "Ixd9De3Jl1U",
-      "title": "कांगड़ा घूमनें जाएं सम्पूर्ण जानकारी | नौ देवी यात्रा Dharmshala Mcleodganj | Kangra Tour MSVlogger",
-      "channel": "MS Vlogger",
-      "published_at": "2023-09-30T05:21:33Z",
-      "description": "कांगड़ा घूमनें जाएं | नौ देवी यात्रा | Dharmshala Mcleodganj | Kangra Tour Budget | Kangra ...",
+      "videoId": "zX3SMIJy-MM",
+      "title": "Beauty of Kangra Valley: A Visual Symphony of Nature #kangra #dhauladhar #dharamshala #himachal",
+      "channel": "Wander Tales",
+      "published_at": "2023-06-05T12:47:21Z",
+      "description": "Embark on a mesmerizing journey through the breathtaking Kangra Valley, nestled in the lap of the majestic Himalayas.",
       "comment_count": 20,
       "comments": [
         {
-          "comment_id": "UgzI0oLuwmxTZ6WObtp4AaABAg",
-          "author": "@ravindergupta8781",
-          "text": "बहुत अच्छी ढंग से समझने के लिए आपका बहुत बहुत धन्यवाद",
-          "like_count": 24,
-          "published_at": "2023-10-01T16:03:25Z"
-        },
-        {
-          "comment_id": "Ugwtk-TzIhtJidp0h014AaABAg",
-          "author": "@shashikantmarge5355",
-          "text": "Har har Mahadev har har Mahadev Jai shree Krishna Jai shree Krishna Jay shree Ram Jai shree ram 🌹💐👏🙏👌👏💐",
-          "like_count": 6,
-          "published_at": "2023-09-30T14:38:39Z"
-        },
-        {
-          "comment_id": "UgxjcK0uyNHmtDLePll4AaABAg",
-          "author": "@gulshannarang7356",
-          "text": "❤Jai maa kangra brejeswari deviji❤❤",
-          "like_count": 7,
-          "published_at": "2024-01-30T05:55:31Z"
-        },
-        {
-          "comment_id": "UgwDF2yck0_6P3GdaZ14AaABAg",
-          "author": "@MRmahesh1252",
-          "text": "Apka videos achha lagta he full information ke sath jo bolte ho",
-          "like_count": 4,
-          "published_at": "2023-09-30T13:34:09Z"
-        },
-        {
-          "comment_id": "Ugwg1rna-uO_qwrEzFV4AaABAg",
-          "author": "@SunilBendkoli-l3v",
-          "text": "बहुत अच्छा जानकर्री दी",
+          "comment_id": "UgzaWKpxSuPwL3L2PBF4AaABAg",
+          "author": "@piggu_67",
+          "text": "I love kangra❤",
           "like_count": 1,
-          "published_at": "2026-06-29T02:56:00Z"
+          "published_at": "2026-05-09T15:03:16Z"
         },
         {
-          "comment_id": "UgxkEzCwvyG-r0pN4_N4AaABAg",
-          "author": "@NARESHSHARMA-ln1qq",
-          "text": "बहुत ही अच्छे तरीके से समझाने का धन्यवाद।",
-          "like_count": 6,
-          "published_at": "2023-09-30T18:10:37Z"
-        },
-        {
-          "comment_id": "Ugx05yCF91NliUFG2IF4AaABAg",
-          "author": "@sandychaudhari9919",
-          "text": "बहुत हि \nबढिया जानकारी \nभैया जी",
+          "comment_id": "UgzC5fQ3gnJu8ZAhq0p4AaABAg",
+          "author": "@ShukhramOraon-i4d",
+          "text": "I❤ kangra ❤",
           "like_count": 5,
-          "published_at": "2024-03-19T00:37:19Z"
+          "published_at": "2025-04-10T15:43:21Z"
         },
         {
-          "comment_id": "UgxWSV--Sy92YzI744d4AaABAg",
-          "author": "@vandanasikka5608",
-          "text": "बाकी वीडियो बहुत अच्छी हैं",
-          "like_count": 6,
-          "published_at": "2023-10-08T14:48:44Z"
-        },
-        {
-          "comment_id": "UgzqrqjgWCH5qtJsdfJ4AaABAg",
-          "author": "@BhavishayRajput-i1y",
-          "text": "Jay Mata ki bhai",
+          "comment_id": "UgypntzSe2TXgK8G3hh4AaABAg",
+          "author": "@TapasDhar-u4d",
+          "text": "I. ❤  Kangra Valley ❤",
           "like_count": 0,
-          "published_at": "2026-06-29T15:55:22Z"
+          "published_at": "2026-01-23T17:50:14Z"
         },
         {
-          "comment_id": "UgxzuHMZpWhKlKx28ft4AaABAg",
-          "author": "@kokilajoshi8317",
-          "text": "Bahut bahut shukriya  aap ka Jai Mata di",
+          "comment_id": "UgwanS8UUSwFBFKCAqh4AaABAg",
+          "author": "@AamishRajpoot-s4f",
+          "text": "my favreit place",
+          "like_count": 0,
+          "published_at": "2026-02-08T03:15:28Z"
+        },
+        {
+          "comment_id": "UgxMUciHByu7LZMszuJ4AaABAg",
+          "author": "@newchamp6513",
+          "text": "which villages  is this?",
+          "like_count": 0,
+          "published_at": "2025-11-03T14:21:19Z"
+        },
+        {
+          "comment_id": "UgyUQl91g5ZAFzDUO0F4AaABAg",
+          "author": "@macjacob8236",
+          "text": "Best month to go there",
+          "like_count": 0,
+          "published_at": "2024-06-20T15:48:03Z"
+        },
+        {
+          "comment_id": "UgyZ9564pA8QATib61N4AaABAg",
+          "author": "@VeenaDevi-x9r5m",
+          "text": "Kangra,l❤❤❤",
+          "like_count": 2,
+          "published_at": "2026-06-01T11:27:57Z"
+        },
+        {
+          "comment_id": "UgxmZdJEQ1yYIPNj6R14AaABAg",
+          "author": "@asagarvermafilm",
+          "text": "location kha ke hai je kangra me",
+          "like_count": 0,
+          "published_at": "2025-10-01T09:30:04Z"
+        },
+        {
+          "comment_id": "Ugzt7FJjEAURKYNw1xt4AaABAg",
+          "author": "@Arjunparbatifamily",
+          "text": "Beautiful view 👌 new friend 👍",
+          "like_count": 0,
+          "published_at": "2026-06-05T18:32:31Z"
+        },
+        {
+          "comment_id": "UgwVJ3vXrdrcvXmyjCd4AaABAg",
+          "author": "@AmanKumar-h6g8w",
+          "text": "Village name",
+          "like_count": 0,
+          "published_at": "2025-12-17T07:03:01Z"
+        },
+        {
+          "comment_id": "UgwuTHTbKABTVLW9-_l4AaABAg",
+          "author": "@arghdhar8777",
+          "text": "Is there any home stay or hotels at this place?",
+          "like_count": 1,
+          "published_at": "2024-05-27T17:23:31Z"
+        },
+        {
+          "comment_id": "Ugxa7nOCmiUepQkna0R4AaABAg",
+          "author": "@dharm7048",
+          "text": "What's village name",
+          "like_count": 1,
+          "published_at": "2024-10-25T10:39:46Z"
+        },
+        {
+          "comment_id": "UgzowjZ5L4jCMQyEm8l4AaABAg",
+          "author": "@TradingAndTravelling",
+          "text": "Exact Location ???",
           "like_count": 4,
-          "published_at": "2024-08-23T11:53:45Z"
+          "published_at": "2024-06-08T16:32:29Z"
         },
         {
-          "comment_id": "UgyvreQp0J1H8nEtrzp4AaABAg",
-          "author": "@krishankumarojha3567",
-          "text": "Dahniyaiwaad bahut auchai tareekai sai bataya hai aapnai",
+          "comment_id": "UgzRbXYXiMoZAHb88yF4AaABAg",
+          "author": "@prince6744",
+          "text": "❤❤❤",
           "like_count": 0,
-          "published_at": "2026-06-06T04:31:11Z"
+          "published_at": "2026-03-15T21:44:38Z"
         },
         {
-          "comment_id": "Ugwv6b4TAhqUHe81_FV4AaABAg",
-          "author": "@JayantaVyas",
-          "text": "बहुत ही सुंदर प्रस्तुति, जानकारी",
-          "like_count": 1,
-          "published_at": "2025-11-07T13:16:29Z"
-        },
-        {
-          "comment_id": "UgzGXY_FX6Rc4hhEMfd4AaABAg",
-          "author": "@RoutesnFoods",
-          "text": "Thank you bhai… aapki video me kaam ki jaankari jaada hai aur faltu ki bakwaas kam. Sab kuchh achhe se samajh aa gya",
-          "like_count": 1,
-          "published_at": "2024-10-29T10:33:15Z"
-        },
-        {
-          "comment_id": "UgzgMqCGoTAw2TOmNx94AaABAg",
-          "author": "@dheerajkeer1584",
-          "text": "Jai mata Di 🌹🙏🙏🇮🇳❤️❤️🇮🇳❤️🙏",
-          "like_count": 2,
-          "published_at": "2023-10-20T09:07:15Z"
-        },
-        {
-          "comment_id": "Ugz6dsgt5oJz0KONBGB4AaABAg",
-          "author": "@RekhaJoshi-l2g",
-          "text": "❤जय माता दी ❤",
+          "comment_id": "Ugz3xGrbrfYQd5Srm7B4AaABAg",
+          "author": "@LalitaDevi-y9y",
+          "text": "❤❤😮",
           "like_count": 0,
-          "published_at": "2026-07-09T13:30:23Z"
+          "published_at": "2024-06-01T03:57:18Z"
         },
         {
-          "comment_id": "UgxC50PV3s9e1hXSng14AaABAg",
-          "author": "@SOUBHIKBISWAS-u9m",
-          "text": "hum Jwalaji darsan karke aayen hain 3rd june ko. 😊",
+          "comment_id": "UgyCzKk4f0ocXv5yV-V4AaABAg",
+          "author": "@AarishRana-i4j",
+          "text": "❤🎉🎉🎉🎉🎉🎉🎉🎉",
           "like_count": 0,
-          "published_at": "2026-07-11T18:21:55Z"
+          "published_at": "2026-07-13T00:54:02Z"
         },
         {
-          "comment_id": "UgzHlHcImT_xKKyIVbt4AaABAg",
-          "author": "@pawanbhati7531",
-          "text": "I like to visit spiritual place",
-          "like_count": 8,
-          "published_at": "2024-01-03T15:49:11Z"
-        },
-        {
-          "comment_id": "UgyRVTnQk-6uQ7NuIMd4AaABAg",
-          "author": "@KritiParmar-s7f",
-          "text": "Aapka samjhana bahut achcha Laga samajh mein a raha hai Jay Shri Krishna Mumbai se",
+          "comment_id": "UgyCkeRfXdSOmvzvOT14AaABAg",
+          "author": "@Jambudeep279",
+          "text": "Fake",
           "like_count": 0,
-          "published_at": "2025-06-26T08:01:24Z"
+          "published_at": "2025-12-02T09:35:47Z"
         },
         {
-          "comment_id": "UgzXa8ctzFtlQe7jtl14AaABAg",
-          "author": "@ishusharma6810",
-          "text": "Jai mata Di..Good information bro..keep it up",
+          "comment_id": "UgwWlrnB91RjpZELxDJ4AaABAg",
+          "author": "@Stranger03-x",
+          "text": "Use to Nepal territory 🇳🇵❤",
           "like_count": 0,
-          "published_at": "2024-02-02T12:51:02Z"
+          "published_at": "2026-05-18T22:11:52Z"
         },
         {
-          "comment_id": "Ugyvcgqv0aCBbFzdIkh4AaABAg",
-          "author": "@govindabhatti1808",
-          "text": "Very nice❤har har mahadev ❤",
-          "like_count": 2,
-          "published_at": "2025-05-20T06:07:05Z"
+          "comment_id": "Ugyag2IvmzS1Ef22yot4AaABAg",
+          "author": "@ArchitChanyan",
+          "text": "Shame on You.",
+          "like_count": 0,
+          "published_at": "2026-01-23T03:57:33Z"
+        },
+        {
+          "comment_id": "UgxKoGULbg-PHlCfUKN4AaABAg",
+          "author": "@Mahakpathania5798",
+          "text": "I ❤Kangra ❤️",
+          "like_count": 0,
+          "published_at": "2026-02-05T04:23:38Z"
         }
       ]
     }

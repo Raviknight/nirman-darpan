@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-16T19:58:54.178Z",
+  "updated_at": "2026-07-20T20:17:47.628Z",
   "project_id": "JALORI-TUNL",
   "press": {
     "n": 20,
-    "positive": 12,
-    "neutral": 7,
+    "positive": 11,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.215,
-    "avg_magnitude": 0.29
+    "avg_score": 0.2,
+    "avg_magnitude": 0.275
   },
   "youtube": {
     "n": 0,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 20,
-    "positive": 12,
-    "neutral": 7,
+    "positive": 11,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.215,
-    "avg_magnitude": 0.29
+    "avg_score": 0.2,
+    "avg_magnitude": 0.275
   },
   "top_positive": [
     {
@@ -54,14 +54,14 @@
     },
     {
       "source": "press",
-      "title": "Jalori Tunnel Project gets green light: Reducing travel time and winter hardships in Himachal Pradesh; will... - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ1dKUWtsaUY0U0QwV2F3ZGRXbUVhWXN6azZOUFlHTFRPMmNvWnFERFFPQXZ6RzBXdTJVMkNTVXR5c0ZUd3JLQUp6M0Z3Zl9HZlQzTE5JVDNMLUdpR2Q3VEpaTTVlYWwxVExNTWxnN3VaYmZIdDlHaU1fTHRuVEN5V3JhWFFrYl9Qczh6bnhZeEppUVh2X2JmNFFCdng1UFJPNDJwMlNhR0xMelE5Y01DdE5HdVdGT2VnRkpMOEk3NTk0YXJWVk12STRjV0dxV0hKNndETUlwdGdVUdIB3wFBVV95cUxOYkdxdFAwTTNFZzRQRDlwanBCb3Q4Qk1PZFQwVlE2cWdTNWhiREd0T0Fhc2I1eEtENEM4NFA2NFl4Sm5vWFhsZi0xc0hsdHhUbEdjOEJYaW9SNEZfMmRIR0plY3lIbkxraHZOSllwUGJNYkxtUU5pdXJQVndXLUZlckdzeWdkOHlWeG9lamM5YXE4cU5XbzNwaWtKT0JZYXZ2VjB1LUNyNURPVnpabGNNLWtaTFpPTTFMSXV2MVBjRkpCcjZaNFlXSmFKa2VjZElWVldFMmJGMnFYMnFXZ2dB?oc=5",
+      "title": "Centre finalises alignment of Jalori tunnel on NH-305 - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkdUSjdOR2I3WHV1dno2WWZ1STRFZjZfb0IwWEUzYW5IQldlOGxKa1p4aFJOT0Q2NjFyQ3lIYjZvSnFtQ3RXNGtpeC1lbDA5YjZuYkhZd3FYRlp1SDBJRGZmTHR4cms4ZmVlZHJwZExZRWRxamlibzdGV3FKQU15RjBiNW9lLTJiNHJNQk81NmNJN3BvMXNscDhJZVZmUdIBogFBVV95cUxNOFpwN2xMSWlzUEZCcWFRdnpMaWlYUEN3REs0RXN1YldlRFZCN3RBWk90UjZDNGxrNDRjb2I3Z0VuTEd1TVRSV1FaX3EyeHRzMTFNeUJUV2R5ZG5JS0FTenI2UXNCalhOTnpWWXFVNlBsM3JJUGlQbWRwbl9pSFlDb2ZTZ2VZbVpSY2t5SG5XTWFnSm1XZEZINGFHLUNJdm5rRXc?oc=5",
       "score": 0
     },
     {
       "source": "press",
-      "title": "Centre Clears Rs 3,667 Crore Plan To Upgrade Himachal’s Road Connectivity, Tunnel To Come Up Beneath Kullu's Jalori Jot Pass - Swarajya",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTS1ncjRYYnROaXlTMlJaWTExdC0zZFJVN0hjU1hYZ1Q2TTFTbDlEX0hXUXR6NUlheU5GVGxTQU8yTVdXTGVieno3QVRBQ292Q1NOTGkxX1JvZmpIWlNoTXNIXzB1QThMQnhPdUhiX2N1MGRJbVpma0tOOE9zNUJOWmNsbnhGUlNZUTFlUkVXQzZ5SUNESFFuUFpiRHZ4S1FBdlotMDFmblZ0SWtpellYX3hlUW50RjAtSWNkZFBFS2wxUzQ0c2tWV25lQ2Zsdi0yUlNKR3dRN2dmcko5eEJpTENfNk5GeEdDbTZn0gH7AUFVX3lxTE93NG04YThHYzVvWkRlTXFVOHpVeU5XMzRQYl9PczM2YWxnMkV1dFRiV0pNME9nMGlaTmhvMGtNX2dlMUVTTlJpTVdwS0lqTFpJU0ZqVmVfeU91RWY5TXRlLXJodFIwMDJYeG00dXRtLTBudElMbE9ocXBPUUtIRlhKYmJxTHZRcVhmS2NOd1VxRjdFeVJxME5xVWdreDdBNmNhc3RaZklmdWRCN0JYXzMzeUNDbG9aZkZiMUZwa3BCcWY4TTlLM0dPNkhzVVcxQ3NCdjloTUgwVkItVmhkckIyNnczZFlLTVp2NFZoQUNrZF8zVEZwdVhFalow?oc=5",
+      "title": "Jalori Tunnel Project gets green light: Reducing travel time and winter hardships in Himachal Pradesh; will... - Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ1dKUWtsaUY0U0QwV2F3ZGRXbUVhWXN6azZOUFlHTFRPMmNvWnFERFFPQXZ6RzBXdTJVMkNTVXR5c0ZUd3JLQUp6M0Z3Zl9HZlQzTE5JVDNMLUdpR2Q3VEpaTTVlYWwxVExNTWxnN3VaYmZIdDlHaU1fTHRuVEN5V3JhWFFrYl9Qczh6bnhZeEppUVh2X2JmNFFCdng1UFJPNDJwMlNhR0xMelE5Y01DdE5HdVdGT2VnRkpMOEk3NTk0YXJWVk12STRjV0dxV0hKNndETUlwdGdVUdIB3wFBVV95cUxOYkdxdFAwTTNFZzRQRDlwanBCb3Q4Qk1PZFQwVlE2cWdTNWhiREd0T0Fhc2I1eEtENEM4NFA2NFl4Sm5vWFhsZi0xc0hsdHhUbEdjOEJYaW9SNEZfMmRIR0plY3lIbkxraHZOSllwUGJNYkxtUU5pdXJQVndXLUZlckdzeWdkOHlWeG9lamM5YXE4cU5XbzNwaWtKT0JZYXZ2VjB1LUNyNURPVnpabGNNLWtaTFpPTTFMSXV2MVBjRkpCcjZaNFlXSmFKa2VjZElWVldFMmJGMnFYMnFXZ2dB?oc=5",
       "score": 0
     }
   ],

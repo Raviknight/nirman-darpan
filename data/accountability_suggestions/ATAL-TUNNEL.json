@@ -1,36 +1,8 @@
 {
-  "updated_at": "2026-07-16T19:58:20.340Z",
+  "updated_at": "2026-07-20T20:17:12.418Z",
   "project_id": "ATAL-TUNNEL",
-  "count": 3,
+  "count": 4,
   "suggestions": [
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-09T20:43:51.925Z",
-      "title": "10 riders, 2 motorcycles, 1 record bid inside Atal Tunnel | Tap to know more | Inshorts - Inshorts",
-      "summary": "Auto-detected from press: \"10 riders, 2 motorcycles, 1 record bid inside Atal Tunnel | Tap to know more | Inshorts - Inshorts\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbktRVlVmdkRtUlBlOWZwZE1qaVBiLTliekt3ZG5BRkZ0T1h3TFJoVkZyNzhhNUFieGpDa0JiLUJrYUQ1X0N2dzAwZ0lSS1JFX3FORzJlSTQtR0MzLXdiZnhnZHZzVHgxaVRGaFljMjFiM3ZVc20xSnFXRnhJMVBMSlJOMloyM1NCS1NyVWlZZ3FnLXpQRkJNeDVRSjYtQnJCLXfSAacBQVVfeXFMUDc1eFpLTFdyRjRDRFYzQ0R3ZzBJbzFkWDczc2phOXZxdjJYZ21qQzNLRldSbTRtaGVHUzhZQ25ieTRfSlo0THo4d1pOeVpzTW5kLXhmek80dlhJbkhpSWhrSzliS1FnQk10S0lPS2ZGdDM2cGpjTWVTWGp1ZzRoaWgyOVBWdHRwOTM1RDlQcFYyRzVPNWhreGFPN1IxendSLWtWU0JVNzg?oc=5",
-      "source_name": "Inshorts",
-      "lang": "en",
-      "date": "2026-07-03T00:41:59.000Z",
-      "matched_term": "sho"
-    },
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-02T13:28:24.739Z",
-      "title": "Video | Scorpio Falls Into Under-Construction Bridge Near Atal Tunnel, Tourist Killed - NDTV",
-      "summary": "Auto-detected from press: \"Video | Scorpio Falls Into Under-Construction Bridge Near Atal Tunnel, Tourist Killed - NDTV\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXV2RnJOWE9KZFl6TmtPS3UwVTU2a2N4Z3JtaENRTzZYZnQ2TFRwQm1WRWV4UUp1OG5OcWh0YjBOM0ZadjdiZFk4WHhqM1QwUHhLdnBrVzl4b0FsNkk4N1VOWTIyQVJpc0VkLWQ5b3lNZ0tjRENlb2ZrQno0cVVXZnd1Wi1HNlctMng1YTRGU2kwaFNPVjZKdnZtZFphajVSRnBRN09kYUk0TnJDOFFPMQ?oc=5",
-      "source_name": "NDTV",
-      "lang": "en",
-      "date": "2026-07-02T07:00:00.000Z",
-      "matched_term": "killed"
-    },
     {
       "category": "incident",
       "severity": "high",
@@ -44,6 +16,48 @@
       "lang": "en",
       "date": "2026-07-02T07:00:00.000Z",
       "matched_term": "accident"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T13:28:24.739Z",
+      "title": "Dramatic video of SUV crash near Atal Tunnel surfaces: Vehicle lands on steel rods, 1 killed - WION",
+      "summary": "Auto-detected from press: \"Dramatic video of SUV crash near Atal Tunnel surfaces: Vehicle lands on steel rods, 1 killed - WION\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSmF0anNFcEx4WElQaHp4ZURkUWozTG1TaXByMlNwSjFvY0VaczVqMjlwY1REeS1pak5naGtwcUt0NzZ4YzdNNXZsb0ZrQ3doNWsyOG1QYVotanNtNXg4cjdLVHJVN0tEZ2h4Wl9pRjdTMTVrRXZYaUd5c2llYV9sZ092Nk9GeW8zcjRHbEg5dC1fNi1HcjdEQ01MaGVOQmRTM3pnZFpmU0VsbWNSX05sSXdjeU5WTWpUTzZra21ZeXZRQXhLQlB3UUl1Q2dIdWhrVHB0X1lB0gHbAUFVX3lxTFBGWFl6RzVUODR1MGZOVkk5NWxuWEt0eGk2MFdneUhObi1LRzF1UUloNUJReFJkdlRjUTdubmhWN01uUHQ4Ni1sZ2FwUG1Ycm5UaUZqUlpNR3VjUHlxVnQ4Nld3U3I1aWxYNmNEcndyOFlUdW1UZW14NU9hb0FYeFp3cmwtT2NzanZ5YXYtc2tGYkpRVlN2d2k1c3ZKS2RESDNwSFFlVm92b0diQlY5V0dxN0pUZWRodHBoUUd3WnNEVE92Y2ZyZlFzUFZ6ZTdvdDlHVXZDWmowelEwQQ?oc=5",
+      "source_name": "WION",
+      "lang": "en",
+      "date": "2026-07-02T07:00:00.000Z",
+      "matched_term": "killed"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-20T20:17:12.418Z",
+      "title": "One Tourist Killed, Three Injured After Car Crashes Near Atal Tunnel In Himachal - News18",
+      "summary": "Auto-detected from press: \"One Tourist Killed, Three Injured After Car Crashes Near Atal Tunnel In Himachal - News18\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjlOeE9QT1lZN3F4a0oyaFNyR1lxaW5LR01xN2hOZnljblpsY0dzNG90TElXWjE4OE1aZkowaHhTaWtIY2Zidmh0eUlHTW56TmUta3ZjTHRfU2hBc2h2UHB1WUZRY3gzVWplNHo1ell5YWlseEFqcFltVU1vdGlXWHRISG8tYXVVRGhXQ0MtbjhxajRFbWtIc2NKWFRCNnR5TU9TMGVxWkllX0ZkUEhMZ3kwNklzOFo2dFhEbzZsSkk5dGdIWWfSAcsBQVVfeXFMUGVrc21HUTFLRE9YU2JQVXZYN2lVWFZJOXE2Zm1BeWt2aUl2Z3M5bWowRlJRUlhZaWNmOHNMSWMyaE1zR2I2ZXlHYzkwdENiWmhYVGtZLXVuMWZUT1poRDZlNGZZbE9QYWZ3RlN3dXlMazRHZUI5N2dwVXhvWi1BUlBtRm8wMkFBeUhIdHB0c3lnZlhGVkp6bDB5Z0lYT3dHR3pEZGx6aXZMVU83LUg4N0tfNVVWT2Q3d2VPSlp4N25aZnJiVVZCVExEVUk?oc=5",
+      "source_name": "News18",
+      "lang": "en",
+      "date": "2026-07-02T07:00:00.000Z",
+      "matched_term": "killed"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-20T20:17:12.418Z",
+      "title": "Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com",
+      "summary": "Auto-detected from press: \"Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlI0LUs3Z2NELUxKYXV0ZXNsSFNUdEZWS0tsX01PdUlCLWZGTHVoVDlFandncVhwOVFrTWozc0M2V2FSb2ZTOTQzWVU4UVNVU3ZVRUltSmxqWDJGRmhWYnpadnNZekp2UGdSQnhKa3g5eDVlZmt4dXJtUldiQkhYdjhqMnRLampQcEN1VE9wYWVUZFlSZFNQR05ZTVBsRlozQU5iRlZrbndFT3QxQm55bWJpeUh4dmRtMzJnT0pFVl9hZFdvbE55aXVSZnpxX0huUGFFZTAwd2lacTZ3dGhWTzB0TjY1d3laZWfSAe8BQVVfeXFMTlBSLWZhMUotdm1RclNxWmZ3b3ZnZTdINkV5VmxQRF9Za3JLb2txeWRVQWFMdUd2VHFvRkFONmhYZkZ6WFVkRV9wV1hYcERxdEY4NjJvSWo1ZU1saDBQd3N3cHRvdUtHRWdwR2dqYW1rVHhTcEExLUFsVlNiOVIzTExQaDhBUWhkU1ZjUFN5MER4ZmttRWV3QzZ6UXZ3eXJRWk1EZ19lUl9jb2p3a05Qb2R0dVBEUG9sVVMwbExzSXRvbGtXNlZldTRKOHhnclE4MFFKVlhTMXVPQ3E3S3VpLU5jOHBwLTFzeExGLWctazA?oc=5",
+      "source_name": "Moneycontrol.com",
+      "lang": "en",
+      "date": "2026-07-02T07:00:00.000Z",
+      "matched_term": "killed"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

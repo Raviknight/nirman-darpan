@@ -1,45 +1,48 @@
 {
-  "updated_at": "2026-07-16T19:58:59.039Z",
+  "updated_at": "2026-07-20T20:17:48.500Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
     "n": 20,
     "positive": 9,
     "neutral": 9,
     "concern": 2,
-    "avg_score": 0.16,
-    "avg_magnitude": 0.31
+    "avg_score": 0.13,
+    "avg_magnitude": 0.22
   },
   "youtube": {
-    "n": 8,
-    "positive": 4,
+    "n": 4,
+    "positive": 0,
     "neutral": 2,
     "concern": 2,
-    "avg_score": 0.275,
-    "avg_magnitude": 0.65
+    "avg_score": -0.225,
+    "avg_magnitude": 0.275
   },
   "overall": {
-    "n": 28,
-    "positive": 13,
+    "n": 24,
+    "positive": 9,
     "neutral": 11,
     "concern": 4,
-    "avg_score": 0.193,
-    "avg_magnitude": 0.407
+    "avg_score": 0.071,
+    "avg_magnitude": 0.229
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Super videos 👌👌👌👌",
-      "score": 0.9
+      "source": "press",
+      "title": "हर ग्राहक को 125 यूनिट फ्री बिजली, होली से पहले इस सरकार ने दिया बड़ा तोहफा - Hindustan",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbXh3MWpIYWJZTmNidVdHWl9jNFRPWXVtdTJXQzBkRTV5MzBsRlBQaFFqSkVxSHFUZFBjZnRuQmprLTJJRGVCdnZiSENhZTNpbWJKdW1vNW5WX0l1TVBZSjBacl94Qm9yV3VkYlk4OFZwX3VwSEllSFdxWGJ2VmxlV1UwTm5lb3BqU0FfNW4xSVZQSFhpTE9aRk9rdVVLMURJd2hlVms1WEVEd2FvdGdhSkRaNDZteW9wQkNUOWpiNDZpVGtoR3NQSGF1Z09EQlNjUGJQYkpKZkQwN3JCLVMwdkdLY9IB6AFBVV95cUxPWS0tTWhJM3lQRGZVaksxTHZTQ2pVRHY5NXZ3M0otRFVrRjhUdGFURFRuSE5KZC1yLWs4NWRZTl9uamxiSUJCdXdabmY5bjBkLVVDMnEzRFJMLW1BY1RJblZrRjR4TUMtaG1RdnhWRTVRU3VYbEk1WFBOTVB4WXI4VzRsM0Joal9VbUI2cGNBem9OLW5oZlVaY1BKanAyRG5CNlRCazFtMVMxb0h1NUdDTEZ1bEhOZFZjeWtka2g0X1VXOUQyckFIX1BLSG0tRGNudl9ZWlhkcmduRFlVSHZQN0ZxV01BU090?oc=5",
+      "score": 0.7
     },
     {
-      "source": "youtube",
-      "title": "Aapke channl sasbcribe krne ko varsha jariyal danser ne bola h.good job",
-      "score": 0.9
+      "source": "press",
+      "title": "बरेली की रामलीला जिसे अंग्रेज भी नहीं रोक पाए, 166 साल से कायम है परंपरा - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWxpYnhSMWIyZ1c1UGJld0VzWkhqczQzSC1RM2pDbUZ5UVhtT0htVW5CeE9SbU45NGhUOE1JTGVwbUlWNGUxRjNYNUcxRDJqRGoyWFIyWW5iT2hJc19OY19yelR5UTY4NGY3Vno4TUNEQXkzbjAxbHdPcGRweDQ1US05dW1GMzctMXJ4SjJzZVUyVVhXUmJoRGx5dEdBTS0zWXZybExaTHI0SUhZX0RrS1JjT3lib0lGdlpiWF9ldmZnSnQ0Y21TVzF2aE1xNU1iYjg0eVFJM0NIa1nSAeABQVVfeXFMTnMzVG9oYXBnVjNhdklCRl9UQlYzbTM2VG9hRFNCMzdOWER4Ylc0YV8xYVdva0pQLVBQVmctVUQ5OENQNUFlWERnQlo2dXpWQTZoNzJhMzlEc1N5R2hkczBsSk9zOGVRbmlqOEdUcWs1T0VpMWxKLUhqTVlTd1F5T015LWFockNVcVJpUWFiekhSRU1NSFRORHBCbGpWcGllbUkzY2t6em04QzM0eldwbzhkWmwxS3lmOVVDeERUMVZUM25tckpwS25PRkFMbjU1VnlMTnJGbXU5LVFEZmtrWTU?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Awesome bhai...  Thank you it helped me alot and opened my views on hydro engineer.",
-      "score": 0.9
+      "source": "press",
+      "title": "180 मेगावाट की बजोली-होली परियोजना का प्रधानमंत्री नहीं करेंगे लोकार्पण - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazNLZzNhZTVacHdaUXctTkFLRXJ1VDk0dXlsd2JhczBqVmsxWWlTV0hUYTJ1UjdNdlR1ajlCZVNfYjcyTktMTjB5VEpibW1vVWwwZktvdjhIMkxxemhCYXdaWXRyWkJNbGhYTVo4c1djazZ0Y0FSaHdmX2JQZU1TOXlwTGMwX00zaXhESWoxa2FLZmVKQ2ViYW9mdGNWZWZBUHRxR0ZBNkN6U1lKalpIS28zMHNJVjd3cE1GWA?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [

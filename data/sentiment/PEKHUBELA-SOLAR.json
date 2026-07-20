@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-16T19:58:59.041Z",
+  "updated_at": "2026-07-20T20:17:48.739Z",
   "project_id": "PEKHUBELA-SOLAR",
   "press": {
     "n": 20,
-    "positive": 7,
-    "neutral": 11,
+    "positive": 8,
+    "neutral": 10,
     "concern": 2,
-    "avg_score": 0.085,
-    "avg_magnitude": 0.225
+    "avg_score": 0.1,
+    "avg_magnitude": 0.24
   },
   "youtube": {
     "n": 4,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 24,
-    "positive": 11,
-    "neutral": 11,
+    "positive": 12,
+    "neutral": 10,
     "concern": 2,
-    "avg_score": 0.138,
-    "avg_magnitude": 0.254
+    "avg_score": 0.15,
+    "avg_magnitude": 0.267
   },
   "top_positive": [
     {
@@ -39,9 +39,9 @@
     },
     {
       "source": "press",
-      "title": "4790 हेक्टेयर पर लगेंगे 2450 मेगावाट के तीन सोलर पार्क - Patrika News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVhTVURLMUdOaGFEVGFRdHlpa1lVZ2tpYTYtOHhienJOQzB0Q3M0emVzQURUWWlCOWRGb0staklicGRHTTQyNk1QWUlZR3BCUnIza3hBbmthS1lSQXA5YzF2YkY0QWk3dFZmWlFJSTRqOU8yaW9HZ00tbldURnBrQ1dhNFFNZVY3bmRNMGFIXzVSZmJEX3F5R3JxaGtNTzRaQkdVMi1RNmhyd9IBrwFBVV95cUxPeU9tU211MjY1VnlxUjQyUExMNW1aUGpBLTgzejlXenY5M0hXcnFQQlFJSzVMSzRCRG15alZSN1dnaWV3QnRBOFVDNXA1aExsWDNGY0tyMzU0bXQ2MVI1QS10SUFOMXhGU0ZweS1KMjRFT1dXSllWRGcxQmZJSEZyODhkaS1WRHpMNlZPdGhkUEVWc2tEN084TC1yQWlDLUgxcUhnZ1BPVEcyXy1fMXpR?oc=5",
-      "score": 0.5
+      "title": "Una News: पेखुबेला सोलर प्लांट में दोबारा शुरू हुआ बिजली उत्पादन - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmZMNjFQMlZpVm45Y3JBbkVVOU4tYUJIUGdGc3ZMRnppeHZwMG04R2FNYVp6ZHRqR2ZnYlBFT1BXdkVUYWpOck5mbUYteXQxOG5hWG4tNEJ0SUxrS05ock8yUkxKSGdISm5oQlNTRHdrbl8wdnFXdDdFdzkzOWdqdE5sTUJxVjd5WXhDd3NXMjJUWWk4ZDYzaTV5X0xPNlV1ZWtFV3g2S3ZwM3lFbnZJcDhZcXU0cTBCZVZMc1Jwd09IYk51d3doVTlXNUFab1NRekpGUjBEQTEyQdIB2gFBVV95cUxNQmZMNjFQMlZpVm45Y3JBbkVVOU4tYUJIUGdGc3ZMRnppeHZwMG04R2FNYVp6ZHRqR2ZnYlBFT1BXdkVUYWpOck5mbUYteXQxOG5hWG4tNEJ0SUxrS05ock8yUkxKSGdISm5oQlNTRHdrbl8wdnFXdDdFdzkzOWdqdE5sTUJxVjd5WXhDd3NXMjJUWWk4ZDYzaTV5X0xPNlV1ZWtFV3g2S3ZwM3lFbnZJcDhZcXU0cTBCZVZMc1Jwd09IYk51d3doVTlXNUFab1NRekpGUjBEQTEyQQ?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [

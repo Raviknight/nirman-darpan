@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-07-16T19:57:45.503Z",
+  "updated_at": "2026-07-20T20:16:37.723Z",
   "project_id": "KOLDAM-HEP",
   "counts": {
-    "press": 76,
+    "press": 84,
     "gov": 0,
-    "en": 51,
-    "hi": 25,
-    "total": 76
+    "en": 56,
+    "hi": 28,
+    "total": 84
   },
   "mentions": [
+    {
+      "title": "Hamirpur 33 लाख से फिटनेस सेंटर का हुआ नवीनीकरण - Janta Se Rishta",
+      "source": "Janta Se Rishta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFpGS3NxX1BrLWVMZlBKNGZ5cWhPTnJ0aWhQM09MQlpHU25pcEZJN0d2S1cwQmtSa2dUNy16UUl6anJmNVZ4OXU4R3ozVnRhV2J0TERObG94SlFROXlQaEVwd3owX3NJMjZJbjcwM2psbUZLczhTd2pwaFBXUDZIbWlBUHNIZFBldkQ0Umw1RzJURU00WkdzS29KSnhnVERQamtkY1ZMZnbSAa4BQVVfeXFMTUNGek5Pd3BJNUsxbzFNdndtTEFyOFprbENJaHpaX0VmU19uSTZ6QkpKa1U4T1pVaVJwcjN3LXJTVGtSVjJNNDd2ajIzQ0YtMldtVXJUN3pGbWl3MUZrUTdNNVN2N1JKUVhnTzczclMxTkxqRHVKMlFsYjFtS21OX1dQSkxaWFZXVTJKNnlNbWE0Rm9xby1mUXo1eVp6aGhiSFlxc1lkWEJKWXJJRTBn?oc=5",
+      "date": "2026-07-17T08:36:51.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "NTPC Koldam"
+    },
     {
       "title": "Himachal: NTPC renovates fitness centre in Bilaspur for Rs 33 lakh - The Tribune",
       "source": "The Tribune",
@@ -33,7 +43,7 @@
       "title": "Bilaspur News: एनटीपीसी कोलडैम में बालिका सशक्तीकरण अभियान शुरू - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSkd4emhwQW1KUTFlZ1Q1NWNreEtKUG5lem9yV3RodDJXN1NUemZ3SVdndjhWMlM5VWNkTUgwWlQ3ZVlFem9pa0R2VmJXalRhQ1BuSHh3aHRUZDZLN0kwMGRqV3ZnZ2I0eTM1Ymk4UkNUeHFHd3oxVXRNdGhPX2FlMmxQSjhYYktNajFIaElyVDNfWU15N0RwV2kzc1hhcUFKNXZ3ZEVQTEhRdUpEVFdvV0JwOFVsWExYRzBVY3UwWTBYR0tWSndZUFlLS0U5eXE2N0I1YTdyVWNBdVhZUm1hTl8wSWppMDM2Mml1TnZYTdIB7wFBVV95cUxOSkd4emhwQW1KUTFlZ1Q1NWNreEtKUG5lem9yV3RodDJXN1NUemZ3SVdndjhWMlM5VWNkTUgwWlQ3ZVlFem9pa0R2VmJXalRhQ1BuSHh3aHRUZDZLN0kwMGRqV3ZnZ2I0eTM1Ymk4UkNUeHFHd3oxVXRNdGhPX2FlMmxQSjhYYktNajFIaElyVDNfWU15N0RwV2kzc1hhcUFKNXZ3ZEVQTEhRdUpEVFdvV0JwOFVsWExYRzBVY3UwWTBYR0tWSndZUFlLS0U5eXE2N0I1YTdyVWNBdVhZUm1hTl8wSWppMDM2Mml1TnZYTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeUJDMHFxZzRRUURmbFhMVnlrM3FaUWZlTEdkZi01NWJYS05XRjctZnUxSDJoN2lydk5MZGNGYjZGUHNYbTFWbTNwVXJFenRMMUVDbEZIWGEwZURPUHJJdjgzSW1maWpGZlFsc1BCMk1qdzJqeE5XUXZmMnREZUxtRDhlRDVUeDJzSW9kQVlaOGlmLXVjeXdLaHRLaDZYODQzM2NhOGcyUEVWelNXbVZKMENzbFBxSVA5YmNjaUFLd3EtMFQ5MnpjUE5ITjgxUS1SZXBCd3E2eFZiWld6VF8xeU1SOXU4aDRKYnfSAe8BQVVfeXFMTkpHeHpocEFtSlExZWdUNTVja3hLSlBuZXpvcld0aHQyVzdTVHpmd0lXZ3Y4VjJTOVVjZE1IMFpUN2VZRXpvaWtEdlZiV2pUYUNQbkh4d2h0VGQ2SzdJMDBkald2Z2diNHkzNWJpOFJDVHhxR3d6MVV0TXRoT19hZTJsUEo4WGJLTWoxSGhJclQzX1lNeTdEcFdpM3NYYXFBSjV2d2RFUExIUXVKRFRXb1dCcDhVbFhMWEcwVWN1MFkwWEdLVkp3WVBZS0tFOXlxNjdCNWE3clVjQXVYWVJtYU5fMElqaTAzNjJpdU52WE0?oc=5",
       "date": "2026-07-14T18:44:34.000Z",
       "kind": "press",
       "lang": "hi",
@@ -54,7 +64,7 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQSEVwZlozaFZRM2J3eHF1QnJCSFh2SWNVUEFtekVBUTVYam9uTFpscnJVeEJ4ZWQ2cnZsUi1KXzAtN2NZbXQ2amozNmk1OWpGU09OTzcxanpJMmRvam0wZ1RhRWlqM0dDWjloMHZpckdob0NPNTdobXNzOFhrOUZPN3QyeENYZUdFNHpRa2o0WVhQU3kyRVIyR0N5Y3Fkcm5WUThYZXc0RzBHX1QtSDcyWmtEdXFYQlhfSW8wdjNORmxXQ0JLWFFMT2tKLW93ZzExandJSnZoeUZhVEZMTXpUSVBtcHhxVUJzX1VMYldDWEgzY1FIbWpNeTd4NnNLWE1FdUlnWWhkRjE3cVBEeklnUEJQWDlWVnNnYzgxWNIBogJBVV95cUxOeTVKS0RJTUFDTDlLNTFDVUFRQkV5WXczOTR5NGFlQ1hkVF9mc2NjQzhWeDN2MGZWcFNkd0Q5eGswLWpXQnk1WE5wR3ZORDh5R1ZjeHF2VFJnS2FEbWtQSGlzT3hicWtJcDJsNTBEUi1BdnFIeUYwelpORVlOOXY2cmJLTWN4X3lLaFRZbWZzUWt6emVvdDYtMmZBR3lfLUZnUG45aTZpTldOLWkyUWhwM2pZMUNvMTUwbTlJNGI0NnpTLVV1Yi05V3lyOUtzMFgxRTQ1TE45QTJIb2VCQVFiTUM4cjY2QUNHeEx6OEY5NzZvQzc4Tm5YNHJ1aEpXSnlqQWR4aGd5MlNjSEI2ZXp4eF8xWkVFTDkxZkhxOHNBc0JuQQ?oc=5",
-      "date": "2026-07-09T19:03:34.000Z",
+      "date": "2026-07-10T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Kol Dam"
@@ -90,13 +100,13 @@
       "match": "Kol Dam"
     },
     {
-      "title": "हिमाचल: कोलडैम पर उपायुक्त शिमला की रिपोर्ट ने चौंकाया, ...तो डूब सकता है पूरा क्षेत्र; 3 जिलों के DC को कार्रवाई का आदेश - himachal pradesh ntpc kol dam shimla dc report silt issue govt revenue minister action - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMWJOdTFGNV83VENvcFpPdXR6OXBqVHhDRFRUX1dzY1VpZW1Yb2V6dDc2aFBkRTE5Z1E3Nm5xZVFBR2d4TWxnQkNrNFJ0Tjdua1RMblF3Qi1jOVlMS0JNeUtfcmpwMFMzSG9SOFcydUxMUk5UWWlQVzdnMm5RSDcyMWl3TjI2cDMxcndabFV0LVNnUkY3ZXJ2QTRESWhZM3cwbmFCYVRKcmhiTENQZ0F3Q1kxeHRPY0pITzZpMHFxY0p6NjNJbFlyY2ZtUVFOTm9YQ0tRS20wWTlqek5HSDJaM1VITUJKa0k?oc=5",
-      "date": "2025-12-09T08:00:00.000Z",
+      "title": "Eyeing Rs 1,800 crore: Cash-strapped HP slaps 2% land cess on hydro projects - The Indian Express",
+      "source": "The Indian Express",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVGFhY1N0cmRrV3VUdDFuSDdoNENYazFaX280OXFCZkJRQVpwbk93S2hVQmQyUTZ2RVNMLXpsNFRVejltOE8tUG5vMlBfMjdJdktCb2Y0MGRBaXQtblVuLUwyMGkwTEJ6S0hjRjdIN0RCenBucFRZb3JEY3NBWnBjcmpGZC1qWmgxWUs4bldDME9wUl80eFFVTHE2Y0PSAaMBQVVfeXFMTXhXNFhsLWpfZFdsaEhmOHZVYnNnWXZrZDI0QkQ3YjNpa0ZfZnRQTWp1X0drZmZnRWZIZ21zcHhUTTlFMFMxTkdWOTZueGRXbkNnM3VfdkVBdEkzR21LRGNqR3RpdWhMYXhFZG9QT0JpcDU1MzBSRVFjXzJWMFVJbU1VTUZMQ3Njd1JRVHFqbXZGVUEwUF9BQ0djWHZSNGlEM2NrOA?oc=5",
+      "date": "2026-02-06T08:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Kol Dam"
     },
     {
@@ -108,6 +118,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Kol Dam"
+    },
+    {
+      "title": "Bilaspur: कोलडैम झील में मिला अज्ञात शव, जांच में जुटी पुलिस - Punjab Kesari",
+      "source": "Punjab Kesari",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkRNd0FJTWJHWUlYcEdWbV9SeEdINkdmcy1ZaDM2cW5yNW5sTWFTRTh0NXF1M0JhanZyN3JTWldPVG83SWZ5bG50QzJuM3M0cnQxNnE1NnNsSUtETHJ5aFJUR3NXam9RbFhYR2Z4UnpnU2NFZ3NwZnIwOTRwbk1YYk94bjRVQzV1eGZaaXJJckNab0NDWENqbzkwQ0NZcldBUUU5dWZER0gzZnh6ZEtmVdIBuAFBVV95cUxNdGIzenFobEhrMEs1aXk5dmpqRGtLZ0xQb255V1paM0xQTW84Vi1XY0RFblNFQnpONG5OSjVVRDVlcE9BMGRXNlgyU2trbXBUNXViRWZTR21BMEZObzV6Rm4zdWdVd0Z1NFNxWS10bzNCejc1U2pQOVU5dEVsSGRhUEp2SVJhQ1pHOW42MVNDMnF6UjB4cDdCbFNWV0E5R3F5WmQ4VmVlQ0c4bV85RmdScjA1d1NUX1Uw?oc=5",
+      "date": "2025-10-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
     },
     {
       "title": "All major dams in Himachal are within safe limits; Pong Dam records highest inflow at 4,933 cumecs: SDMA - ANI News",
@@ -130,10 +150,10 @@
       "match": "Kol Dam"
     },
     {
-      "title": "हिमाचल के 6 जिलों में बारिश का अलर्ट: कोलडैम से छोड़ा पानी, सतलुज का वाटर-लेवल 5 मीटर बढ़ा, पंजाब को सतर्क रह... - Dainik Bhaskar",
+      "title": "हिमाचल के 6 जिलों में बारिश का अलर्ट: कोलडैम से छोड़ा पानी, सतलुज का वाटर-लेवल 5 मीटर बढ़ा, पंजाब को सतर्क रहने की एडवाइजरी - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM2xHY09wejdYc21CVmhyek5VVS1RUS1sSXotQWJ6VWUyLTRJa2I2b1hxRUZ0bFg4RU9EVHRKZU1yeWdjVDdFRUdhY2lNOU94V0d5Q0tzbl9MTEc3SGZGcUZqY25nWGl0T3hUUDlpU0RUODNUS0RqQ0ZkbWtsR3hnamhuZThnT2NURmVuX2RvS1p2bGNCMjd0dk1xaGFpdlE1NXhST2J6a1RHdzZldXpRdG8xU0ZwWXVIc0c1TXUzakEydXJzQmZ3Vm5vWVFHcjl6cjBRQ3k4TWJxV2JvYXJfNHFEeGo2bWVVSUtORnljT2xVNHfSAfgBQVVfeXFMTTdHX2FDcEdQcnk0NTJiSE91ZjN5enI1NVVpUFd6M0ZoajBpT0J5eDJOZ0owcVdwTlFBMHRId0ZENGh6TnFXTHA1T1J2S2dPUS0wUFJvZzdILTNYY0owMEtIOGUwOEdyMUJMdmx5QXdHcURja0g5LWUwMFE0Ykdic2U0aDhQeW1sWTVIcHZWcDRMQVZzWW9VSE9xREs0RFNTcklmZzBXZG5xUUtwOFN2LUxjOTg3SlVzamxsU2JjdXEwaTdxeUxVeE92V2w4Yzl0N0llY0hSUEJiU0VvNF9Kdmt5VWxFS0Z2dF9PZUZldHNPbjVJZjRDejQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM2xHY09wejdYc21CVmhyek5VVS1RUS1sSXotQWJ6VWUyLTRJa2I2b1hxRUZ0bFg4RU9EVHRKZU1yeWdjVDdFRUdhY2lNOU94V0d5Q0tzbl9MTEc3SGZGcUZqY25nWGl0T3hUUDlpU0RUODNUS0RqQ0ZkbWtsR3hnamhuZThnT2NURmVuX2RvS1p2bGNCMjd0dk1xaGFpdlE1NXhST2J6a1RHdzZldXpRdG8xU0ZwWXVIc0c1TXUzakEydXJzQmZ3Vm5vWVFHcjl6cjBRQ3k4TWJxV2JvYXJfNHFEeGo2bWVVSUtORnljT2xVNHc?oc=5",
       "date": "2025-07-24T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -170,41 +190,21 @@
       "match": "Kol Dam"
     },
     {
+      "title": "एनटीपीसी कोलडैम में बालिका सशक्तिकरण अभियान शुरू - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFF2aVd1OExwc19ZT3Bsek8tVm1aejN3WDkydHI1M2luTS1Bdm4yUXRWZ1RWSDI2NGVoemZYTU0wZGFCTzBLRXRGYmw3S295dXd0RjUyQ0dOMTlIbTVVMzFzVXpEb1oyTlRnaDRxR3pzZjFOTUk1UmFtdV8ySHFoVE1kZWo5bjM1WDhwaUNLWnrSAZYBQVVfeXFMT2N3NGpCT2NaTmdyTUc2QUpuX01CLWlJdmFqeGlMNGRUS3l2R21sa2szWmJlQl9GWWJyVG51Sk9vaVp2LU9fREN2VFc4RXdTYmdJd2tWVnZPeFpoZk84SG9IcDNHTTNVT0N4M2xDVFJyNzQ0cGVXaDllbWZhZWNSeFdMYkNyZ0xHVXJFMFZtakduTjJiZG13?oc=5",
+      "date": "2025-07-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
+    },
+    {
       "title": "सूखी पड़ी थी सतलुज नदी, खेल रहे थे बच्‍चे, सायरन बजाकर डैम से छोड़ दिया पानी और हो गया करोड़ों का नुकसान - News18 Hindi",
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdHpDY2w1MERTRENab28zWG5sR2VqdTQ1SENWNVB3OEdDZlBYYjFHNEdoaEMzWTVvWXNxYVlUMlZ0ajFyc3BtOERnejhEdFNKa1V6TWVnc0duYlNydnF0OFRibVVnRTRmUExSVGVKRWFQUmpKbTBGT0FUQ082Y2o1ck5kd3hVUm5Td2s2M2lJOFRSSDdjNjlraWVzMnJQOEFNQ1cwTDFja3hPV2diSEtMekNxVDdZYnlLT3lqWUliQmxLTGs0RE00WWVTUExmYzE1cjJKZnlyaEhBOVRBTUJwdEIteENDRmJVREJtTmJzU2RnakE3OXRlN0lBcTLSAYICQVVfeXFMT00zb3cwSlN3QmtzZnFpdVBodGtqLWVTcjlZcHNORHJlQXFnRWJSbFJHVnBONEJfeUxGc0hhS2JfRlM3Mm0zTG1PR3lzbHROWlI1bmZfalhfQzJLdUwweUNmUkttWFNJM1I0M2xEOEhQVTlmM2k3eC1fYjREMi1mTDVYOTBOTXI0bTZFUVE3SURFMGZ4UTFBRkxrOTlJV2RtRlZHLV9yQmJIb2ZWX3VJNW9XTFFoNFNYalUzUHpqam1vdWJmdkFQcFBDc3dFN1ZzaVBFVWN4RlZRMEFRNy1nTUd1U3VRcjg4UnE4Z0NqQUN4NUx2eF8ySVNoazFrbFQ3UXdn?oc=5",
       "date": "2025-05-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
-    },
-    {
-      "title": "Bilaspur: कोल डैम में अब तैरेगी ''फिश टाइगर'', एंगलिंग टूरिज्म को मिलेगा बढ़ावा - Punjab Kesari",
-      "source": "Punjab Kesari",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUphLTR3M21Fa3dyb3RVbktiMFdMM3ZpcFF2V01Mc2RYOWNHUFZvNktSQWk3VUdYQ0d4YTNLUHFKWjZiQUo3S3luS0VFNWtwU3BKemNjOVdoSWJfdnJuZWFCQVVTT1ZBWlU2UmRydkpvZXJ0VGlVaklKd0RQaTg5TzNFYnBnOFh1SmVSRFJyRF9EMkxZcFR1eFZvS000b1HSAacBQVVfeXFMTXluTk5OUERmYTdmY1VOMUlFYUwzZThmZU9aV2l3Y1czTlZHWWdvR3B1eGhUeWZmWVBta0VtMk1NbmlxVDJHWWpIX2drSm9ET2F6OGlfQkhqaUNPaWVFOHllNUJoR1lISmRHbGF5SWwzbk1kMWRhZi01OUJrOEp0b2VSVjVtOHNjX2RZbnkxUEFJdW8tN2lJVkF5Z2RzVTk2X093R09MZWM?oc=5",
-      "date": "2025-05-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kol Dam"
-    },
-    {
-      "title": "Mini Goa: हिमाचल प्रदेश का मिनी गोवा, पर्यटन सीजन में प्रतिदिन पहुंच रहे 500 पर्यटक; नजारा देखें एक क्लिक में - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV3JsTGg5UExZRXJ2bHBRbHdyOTVvX1ZpLTRtUzFDMFF6SlVGWHphbHpGVXlrTVZiQ2toQ05IUUtScXRBd2VuUUh3aHAwVTdPelZmTjN4XzhSM0plM2dYWElkU0d5cDYxQk9RM3hHWWxhUE5FOUxMdkxESmtMa25zRWxsd1Z3Q3Y3UW1zS21haVVHbEExU3VFRkJmZzZWV1JvbjJCUk5WemVPQ2QtQlI2cmVqLVlpWmtkaHVYT3RkOW4zT21xYXRLZ3lDQkVXNGkweXZsLWZ4ZUdlRV9SSHlic1hJONIB6AFBVV95cUxQcG8tT3VvSzUxQXNudFZwLVYyRDA4eERYMUtIS2VtMzRrNjYtckZRUy1TbTNIZHhiak1RUER4S1E0bFhfbTlONUpuMFptdi1zT2kwU1JSWW95d0M2NzdhZmFaWUkxdl9USDl5cDlCSVVJc0N2bVpMN21oaWhnRlV1eC1EN1VCbmxxN3AyTDFYVG9USGpZdVR1VlhXWDliLUdmV2p2MW9ZUXF5NjBRWkVodHhTVmVaUlpWV2dJZk8waDRJazFLejQ1T25KVlBJQ2xiUTlwc3RCRnJyN3VFcE5WOWFrV2ZRY0ZU?oc=5",
-      "date": "2025-02-09T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
-    },
-    {
-      "title": "NTPC कोलडैम के परियोजना प्रमुख सुभाष ठाकुर ने एनटीपीसी को लेकर दी अहम जानकारी - Zee News",
-      "source": "Zee News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjVSUFpoMWZsTVdBd1dsajRtcUZsQ05ZN0FSRVRiaWhBcFpCWjFYVTJweE5DZG1hMEIwTzVfXzF5WlpiSjhpNHVfTlN5VVpLSThtNm1QSURJRGUxRktERm9KTHJKQnZGVjJKbG1wdWxWU3EtMlpDS21YU0ZtNWNtSms2aFh4VHE5OThud3U0QUxaSmhndmEwdW00aG1ldnRxSXpNZkR4cW5yanFDMUVPZ29lbHdmWUZJOG5aOUVIZDJ4QTdvNHVfVG5ad9IB0AFBVV95cUxOa1IyRE9vbWlJamthYmplWWxWeklBVjlOeUI4X1FldGEwLTQtRXVMWkc0TGdadkhrbnJ2TnJDczl4bnZUbjQxbTdZckE1QUo3ZmY3aGg5amhHQzJsMXpfd082YlhWekVCYjlNcXptVnFtUWJCLXdEU0NzREEtdjJrbFBWNC1sVUlMRGVSR3NCemNBdHZVU2JDSFZJVHVYOE51ZkZZTmRYN0tGaE03LUd3WGYtZkhzdmVabExUOW1NeFpVSEk2YVFPeU5tOFJDZFdR?oc=5",
-      "date": "2024-12-03T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Koldam"

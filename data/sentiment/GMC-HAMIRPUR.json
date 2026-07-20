@@ -1,41 +1,40 @@
 {
-  "updated_at": "2026-07-16T19:58:59.642Z",
+  "updated_at": "2026-07-20T20:17:48.794Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 7,
+    "positive": 8,
+    "neutral": 8,
     "concern": 4,
-    "avg_score": 0.115,
-    "avg_magnitude": 0.295
+    "avg_score": 0.085,
+    "avg_magnitude": 0.265
   },
   "youtube": {
-    "n": 24,
-    "positive": 5,
-    "neutral": 15,
-    "concern": 4,
-    "avg_score": 0.021,
-    "avg_magnitude": 0.242
+    "n": 30,
+    "positive": 8,
+    "neutral": 17,
+    "concern": 5,
+    "avg_score": 0.053,
+    "avg_magnitude": 0.253
   },
   "overall": {
-    "n": 44,
-    "positive": 14,
-    "neutral": 22,
-    "concern": 8,
-    "avg_score": 0.064,
-    "avg_magnitude": 0.266
+    "n": 50,
+    "positive": 16,
+    "neutral": 25,
+    "concern": 9,
+    "avg_score": 0.066,
+    "avg_magnitude": 0.258
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Good going Girl!🎉",
+      "title": "Nice college isi me hi padunga",
       "score": 0.9
     },
     {
-      "source": "press",
-      "title": "मेडिकल कालेज हमीरपुर में तीन महीने में एक लाख से ज्यादा मरीजों का इलाज - Janta Se Rishta",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNajNqaEFSR0pWX21INlozdnY3Z0xVSkJrcUVJRWVuWExIQlNpUlhMSnVxVHF6RlBqMTh3R25xLXBEZVJNMnpwek1acWJRcFVXR2FaTkhOVjgzZzZVMjVWelh4b2J4Mll3cXJaTF9pSGtVaWMxRTZkX2Y0Z21WXzlfRFV5UVk3Zkk0b2RnSzdLMFBoTUZNWG01bUI5Z1ItZG81T1g2X283TFFFOS02cmJRdjVacllKQdIBuwFBVV95cUxQOVRoRmMwTTREeGJEamhQUHNWdUZUZnZVNHJTRW5zRlJTZWROWVBIdVhCVTUtMTlwb1RhSnlqVV9Ed0JJMXk3SDZFNFFiOV85VWVZdkFWQy1hM0plMEttRWNfSURvbDVsRHlNOWl4bGIxTFdNaGwtcklacGltbHNQVkp1c0twMklJNkd1VDF0eGdpZVFTSVJMRVNMU2dPZWRCYzlpYmVBSVlnMEZQX3pOOEFPVXp6Ukk1UTNB?oc=5",
-      "score": 0.6
+      "source": "youtube",
+      "title": "Good going Girl!🎉",
+      "score": 0.9
     },
     {
       "source": "press",
@@ -58,8 +57,8 @@
     },
     {
       "source": "youtube",
-      "title": "Kitni rank tk mil skta h College obc m",
-      "score": -0.3
+      "title": "New batch ko new campus me shift krenge kya",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

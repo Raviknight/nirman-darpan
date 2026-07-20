@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-07-16T19:58:45.022Z",
+  "updated_at": "2026-07-20T20:17:35.847Z",
   "project_id": "NH5-PWN-SHL",
   "press": {
     "n": 20,
     "positive": 8,
-    "neutral": 9,
-    "concern": 3,
-    "avg_score": 0.075,
-    "avg_magnitude": 0.245
+    "neutral": 8,
+    "concern": 4,
+    "avg_score": 0.05,
+    "avg_magnitude": 0.26
   },
   "youtube": {
-    "n": 2,
-    "positive": 2,
+    "n": 0,
+    "positive": 0,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0.45,
-    "avg_magnitude": 0.6
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 22,
-    "positive": 10,
-    "neutral": 9,
-    "concern": 3,
-    "avg_score": 0.109,
-    "avg_magnitude": 0.277
+    "n": 20,
+    "positive": 8,
+    "neutral": 8,
+    "concern": 4,
+    "avg_score": 0.05,
+    "avg_magnitude": 0.26
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Sir Big fan",
-      "score": 0.6
-    },
     {
       "source": "press",
       "title": "पूर्व रेलवे की तरफ से आई बुरी खबर, बिहार जाने वाली कई ट्रेन कैंसिल, महाकुंभ जा रहे यात्री भी होंगे प्रभावित - Jansatta",
@@ -41,6 +36,12 @@
       "source": "press",
       "title": "Kaithlighat-Dhalli Four Lane: 4800 करोड़ रुपये खर्चा, 15KM और 1 घंटे की बचत, कटने से बचेंगे 22500 पेड़ - News18 Hindi",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPV25yR2FDSXJhOUlzTFZxQmpEVEx6NHlnRmd6LUtpOC1SMFZ0c3FrY0twVWloY2tBdDRDN0dIZFRrZGc0ZFhtSmtoOWVzTTUxYnVYVXZCRWdaaWF1Mk9oM1V2VFRWRm1RN3pOeHI0UmY1QndVOER6THdhLThLREIwUG9vaWhXcVd1QWpPMnJFZ1lGZDkyaVpyT2kxRXBKUVRMOEpsaGJzd3pvTjNyYzRuQ1BlUkQ3QWdKb3JqbzlNU3FHak51dlRRZHluZ0dkTFI5aVNGeVNlVWhONEE3dmVOT05zRU8yRDBfV3M0aFZPWENGWExabkVsNVdoeHRZRnhqRWFrWWcwMktTbHk00gGSAkFVX3lxTFBVRTBzc0ZFNFBLazYxbDNCQy05dEI4MEVYTVNSMXJtZDNIZ1FKa3lTTWgzbnFTUHBJQkJHVXgyQ05QZWpZdmJmbnZLNjJKemp0cHNkblJoN0FBRjJrUjU1UHZxdm9qY01uNkN6R003NXg5QkZ5Y09EeEJTajJCRWFxQWJQeWJmZXZxZjBQQ3ZJUjVJenBtNDV0bkZvRktGcmZCb3BjM3RTX25JT2hURDBybzhvejJnMU0yMURDRVQ5Snk5bGtSa3NjOEFKTmNMUUlaRWZYaU84aHc0elQ0WnFWbmJNNE9BMUpZM0o2ek1QTTViQ2xkeEZXTF9tQUgwd3JDTEdJaDI0RHZmMG9JTHVMcnc?oc=5",
+      "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "Kupwara Encounter: कश्मीर में आतंकियों से लोहा लेते हिमाचल का जवान शहीद, 28 साल के दिलवर खान ने दिया सर्वोच... - News18 Hindi",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPYVJ4REMwVm03SGJ3UHIzZ2lzX21UbkJDTTUtc21ZSHktRkRVNklPckZ6emRNQnN5dndOTmkxR3BIYkpudzZLalRJMzZZSVJlVFplejZLWm9hQ1FfeXRLNW5EYk5lTDJJVkNTMnh0eDZ4cm1WYjBaS3NPUXpnajBTQU1zQmdZajRoeVpqUjlEVkNUWU5mbU02dm9XMWM2NkZhcVZyNFk3NG1XcEt2RTRURkp2NnRLSXFrU09TVXB5MjFHbXBYNURzeXd1N20tc3NvLW9TMUo4MzdoT0hlV1l0YlFCWm1EODhqXzVmNHdfY3o3VEtPV19tRlczLUtCMkNFZ0ljVF9uWlhEWjNyQmVBdVFtNnBON0tPWWpXZjg1T2w2Y2pnNUYyWDJJN0VjTWfSAbQCQVVfeXFMTThtOFBHNHpLaFRqeWkyTmg1WW5WcFlrUGZuZFVZWXRzVkpRckVxVVh2NVNGUFY3dVNOLUJ4bkEyaGUzYURPUkc2a0dZZUR3LTk2cVNaNXh4Sk9HaUFULWJRTHQ1UUNBSFBEMWtWb3oxVEg1YkR4ekhrMHFCeTE4SU1MTUwxajNQNXNwckU5aWJfeVhJMUlLN0tGTUNjRTQ3SE5QeTVaRDZCbGdRa2JuN0Rjb0xzM3B1c1gtM1hudW5ScHdrR2RjOTJxUVhrOWhEd1lzaURKckFhTXlWdlhjNzBQbkVyREpGSGV4ME5FdjZWaXZlMXJBdlJiMmt2Z283ckMtRFJlUDJKTHlTLTZxbG5PMFU2bTVvSU9NbjNkRTVBS3gwRlNhdTNNRm5uU0hNTEZaUUM?oc=5",
       "score": 0.4
     }
   ],
@@ -53,15 +54,15 @@
     },
     {
       "source": "press",
-      "title": "Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - The Federal",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcW94YnVfR0pHeUVkZUd2WUV3U3VBRUlIc2l2allCMWtRUlNVdnJiLWNJdXVrbVl6UTl2WUllcTd0ZFdheC1ac0RHU2FpV1ZTWlZSNlN5aTRKSE9QSTViZnl0VGJEUVJMN2xpb1hwQnkwWE9Kd3Z5bmg3QktHOXVPZTFzTzZHR3pEOHhZLS1SaHo5ZmJFaVd0c25XMFh1blBSa0xsbFVyc19nWkRCUDMwaTdRdWstUzB3dmJ2UW0xb201cHF5MVJ1T000aEpHYVlmM3pfNzJB?oc=5",
-      "score": -0.4
+      "title": "Landslide at Shimla in 2025 an 'act of god', NHAI tells NGT, rejecting compensation claim - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHo2bDBRdUc1MnV6NkNxZ0JnOVBfX2hvYTFOUlVRa1pGVmlfM3NmYUF4UFlsaUIxbmRId3AwcDlqLUtPZWtteWQ4dUcwaG5UdS00TGU4UW1SbXlycEJYbm5DNHdJQjJKb0FiWEpXSWxLdHN2emNzTFp2dXpYaFdFdVJhWWpvcmt6dTZxNXVyd3VKXzNLZ2pGS2JWOUtpM2Q5LU1jeGpkTzktaUh3TTRXUXNWbVVIMU9uaGtQTWNwT3RVbV9IQjFSUXFuQmY0dWFKZGfSAd8BQVVfeXFMTmd2c0NHT2YyRFl0bHFuRUZXeU5rRGtBdzQ2cDBqeGVZWnBLaEF1V0ZhS0hOdFBPaG12NmVJdlJjeDMza20yOEN5dG91QUpBV19jcWxaOFZjTHpJeDR3U2ZhM29IRlpIcHV6SHMtUjc3UVl0LXA4MmgxZXlpcXhxeUZfemhlVHlyYlFyd05IN2ZxbjVVZUpURFNOZ21FSGQxbV9qMkRYM0F5T3lFQXEwcUo4SGxIeXZXRjNiYXE0Mi1KSTlZaTJoSjVmWGZzLTR1NGVZNVEzUG5RYjFRb2FRVQ?oc=5",
+      "score": -0.5
     },
     {
       "source": "press",
-      "title": "Shimla landslide that damaged apple orchards was ‘act of God’, NHAI tells National Green Tribunal - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmZzYS1nZ2FOUmxEVjFRUEYxWUMtYl9zcGtPUHh4eWFJcktLX0V0eEVFMXU0bHRUb3BFUFJpTkpCNklVVzlsMEl1NVNDa0ZQdFM4VGpDV002dzdPQWRHZ3lhdnpoTlhIWGFTdlNXbTUtZUFJcTZFVGludmNDcmFneUNLd3dOOG9hRGQyd1NnTU93V0ZnSUpHbFhKWFpNS05xcnJUetIBqwFBVV95cUxNeFI1aU04V0Z5QU5zZTdEMlpWTm8wd3hLQzlHVjhGcjMwTnV1V2VMenNRelZBY3JrQTBLUjlONWltanE2OXViUzBfWU1JU1pMRFluSU4xUWlGUWFPWklXM0R5d2ptTzFzcnBXSG9YWHF1dWlJVGNMQzIzcy0wZHZsZ1lDVjJseWQ3TjVBanpnM0pYYlBoaWRwaGhSaVZmSk92b1RnZkMyaEUyRUk?oc=5",
-      "score": -0.3
+      "title": "Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - The Federal",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcW94YnVfR0pHeUVkZUd2WUV3U3VBRUlIc2l2allCMWtRUlNVdnJiLWNJdXVrbVl6UTl2WUllcTd0ZFdheC1ac0RHU2FpV1ZTWlZSNlN5aTRKSE9QSTViZnl0VGJEUVJMN2xpb1hwQnkwWE9Kd3Z5bmg3QktHOXVPZTFzTzZHR3pEOHhZLS1SaHo5ZmJFaVd0c25XMFh1blBSa0xsbFVyc19nWkRCUDMwaTdRdWstUzB3dmJ2UW0xb201cHF5MVJ1T000aEpHYVlmM3pfNzJB?oc=5",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

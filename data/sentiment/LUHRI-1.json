@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-07-16T19:58:45.838Z",
+  "updated_at": "2026-07-20T20:17:39.488Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
-    "positive": 6,
-    "neutral": 14,
+    "positive": 5,
+    "neutral": 15,
     "concern": 0,
-    "avg_score": 0.125,
-    "avg_magnitude": 0.135
+    "avg_score": 0.115,
+    "avg_magnitude": 0.14
   },
   "youtube": {
-    "n": 7,
-    "positive": 5,
-    "neutral": 1,
-    "concern": 1,
-    "avg_score": 0.229,
-    "avg_magnitude": 0.343
+    "n": 5,
+    "positive": 3,
+    "neutral": 2,
+    "concern": 0,
+    "avg_score": 0.28,
+    "avg_magnitude": 0.32
   },
   "overall": {
-    "n": 27,
-    "positive": 11,
-    "neutral": 15,
-    "concern": 1,
-    "avg_score": 0.152,
-    "avg_magnitude": 0.189
+    "n": 25,
+    "positive": 8,
+    "neutral": 17,
+    "concern": 0,
+    "avg_score": 0.148,
+    "avg_magnitude": 0.176
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Great sir👍👍👍",
-      "score": 0.9
-    },
     {
       "source": "press",
       "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - The Economic Times Hindi",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hOTTcxQXVwRXRWQWFMOGpvRnRzNGdETDBlckNfTzBpSng3WnluaGtzdVlGaU5xdWRnZko5cUNPd1EyQWwzTl9vbkJMVFBORmFlZ0toenpkamJjVk9ZNDZqU3JveHdPSHRYQjdwaFpnT1BUbkJxbWp6YWJHZl91MUhDMlR3enBxZkZtQVlmY20zR2NUNWRIdG83NFFIMlVIRWlndDlGUm1lbmFqbnFnZUxnU2o3ZUlxZlE1RXllU0N6Mnk1MGp5QlBPWVHSAdIBQVVfeXFMT0MxRGd6UXIyRVFGdjBZcmdRY3c5VEhrWTdhZHV2elkxRlF6emJ6eDFvVnZIdFR4WXAwUWdiTEhJaHBoeWpQdlJPcy1xS1JVTGt3SmpSaVNNdzE1aGVtd241SVdTdWEzb1F2S0lLRk5lMWs1dFJZR2RGMzRtYVRVRTAwcFM1M0VlUUNhRmF5X2h0RFNtbnRlZEdzU0RkNTMzQkUxS1pndk1FVHNIdkc1dmVaZGVoLVB0S2otMXZtakJZb01oc2ZJMk9mNmt3V3MwVVln?oc=5",
+      "score": 0.8
+    },
+    {
+      "source": "youtube",
+      "title": "Thank you",
       "score": 0.8
     },
     {
@@ -47,12 +47,12 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Stage-1 not 3",
-      "score": -0.4
+      "title": "Is there any vacancy for Site Engineer?",
+      "score": -0.1
     },
     {
       "source": "youtube",
-      "title": "Kb hoga suru",
+      "title": "sir electrician ki vecancy teni h project pr khali ??",
       "score": 0
     },
     {

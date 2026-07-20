@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-16T19:58:52.312Z",
+  "updated_at": "2026-07-20T20:17:46.640Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 10,
+    "positive": 8,
+    "neutral": 11,
     "concern": 1,
-    "avg_score": 0.175,
-    "avg_magnitude": 0.315
+    "avg_score": 0.13,
+    "avg_magnitude": 0.28
   },
   "youtube": {
     "n": 4,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 24,
-    "positive": 11,
-    "neutral": 11,
+    "positive": 10,
+    "neutral": 12,
     "concern": 2,
-    "avg_score": 0.171,
-    "avg_magnitude": 0.313
+    "avg_score": 0.133,
+    "avg_magnitude": 0.283
   },
   "top_positive": [
     {
@@ -34,22 +34,21 @@
     },
     {
       "source": "press",
-      "title": "मथुरा में ऐतिहासिक क्षण, द्रौपदी मुर्मू गोवर्धन पर्वत की 21 Km परिक्रमा करने वालीं देश की पहली राष्‍ट्रपति - Navbharat Times",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQi1yNkxRa1BLeFp2eDRiV1E1QmllNmN0Rzl5TDc5TTZyNDdGbGVpcHpMV0hPWVhkYjdJMnlmR2JKYkxxa3EwVXR6WFNBcVpobTFndHNvay1IOVhUcWwtU2J5aHNVYW5wWGxjUVV5dFc0REFOaW12bjhQVHBFOUpWTXExRXI5YXIxNmQ2UVF1M2ZQYll1eWxXR0xsMWRneHVrV0d4OWtaZGtJb3JyM2ZkdTlZV01vRjRuaXVLTmlkU3hKT3BjVVlRWWVHdzVCMV9lSHZpaTUzLUJzc0M4MktiNnFKclRaeDFud3JFVFVramRsQXhVZDgzSHItbHlaSTJCRWlHaXZDdFBfVkE3VUZNR0tCbW5GZ0E30gGeAkFVX3lxTE9nNlIzTGtaUTFxNzVHTG42TDBhd25WT3o4RXc5ZXV3MWRJcm1JNURVaDM5YWxlSE00MHZIV200MW9LUEV5bjkxOHJIbGVBMlBYSUFubi1LOWswaTd3TVo4bnZQRXU2cjgxcWY2dFhYUjNpX2NVVzRxeHQtUnh5Z2RaU241ZE1Sak8yVDZDRjBpcFRQTktTR3NkaHkwd1FaMHlMZFN0N1dIeEdzVGVTM3M1dlpQVXh1SGppY096Zld0RGc1VUxtRDdFQ3ZSUzFqM3NEN2plYm5MYkxfbUpWSHhpczkwdFdJU3J4MzRBT3A4b2RvSWRfaE9nR09LT2xMVTdLVlZ0dGR4eUxlaFM2MFk1MUVIVHJoaEpMV2xqWVE?oc=5",
-      "score": 0.6
-    },
-    {
-      "source": "press",
       "title": "जामताड़ा में श्रद्धालुओं की आस्था पर चोट, अराजक तत्वों ने तोड़ी मां पार्वती की मूर्ति; जांच में जुटी पुलिस - Jagran",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0NQMWY0Y1ZVNFhjWWpFX3hJdXY5NkZhX0hfRndRb3VNdEVyelZDZlVBeEZoVTFXVXZzcFpWNnpXVHBnOElHbFdnUmVvNjctT1ZkaHQ4QmN5eUlQTEhuR0htS2Zrckk4T0NBNU5ycDgwMTRubEYyeDFQOTg4TGRZd3VZanV6OXNSTkpOZExrWUI5THhRVEkyQlNab3VSTDdKS2ZyVURGdFFRNWo2cnBUNzRzV2lqWjQ?oc=5",
+      "score": 0.5
+    },
+    {
+      "source": "youtube",
+      "title": "Jai Shri Ram Jai Modiji 🎉❤",
       "score": 0.5
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "NHPC to release additional water from Parbati-II Dam, public advised to stay away from riverbanks - India's News.Net",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQend6X0JncDBaOEJaWElpVlZDd2JiTDFaNnktbERlMVZIR2VFQlNXeGRvbGp0YmpRZnpEQnVYMk1FNmhkZVR3X015cmNHMzVBRlh3aERzcjgxTGRVVExkblVzMXZIU3RUeV9zcmxDblhPRWg3S2wwdDg2ekxUUWVsbWlTbmpwVXRacmFnT2JpS0x2S1pGM3JFRU1jOUJTS1NCOU1pR3BaMkFaRmR4Vnh4UWdVWTFzX1BKR2xBOFlWMThOaEF3YWFlMVBoc0VrY1VBSm1yYQ?oc=5",
+      "title": "NHPC to release additional water from Parbati-II Dam, public advised to stay away from riverbanks - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeXpOTWNaOEMwc3BGWVh5cGxpQ3g0UllWblFFNEFpRUtsa21XQTZQdU1oc3dzMzJodEp1TG5Tek5FNVJwQWJ4aV9wTEROSE5ZakdINXNZZFJwYTFzZDFreklFbFVnQ3ROZWZRd0ZVNXlXYU9XY1BaNXZGX3B5cW1ldm9lM01qZDdXaF85d0VzQWhTX29vT19adHAxYUVxWnR2a053QjRNcFRMS2JjXzNTWllsNUJoam1iVzN2Z25kb2c4WXdGSGR2OGhFMlpucVE3ZDFHQnU5YVZRUy1Tc2hUWkIyTTFnN0RlNFNsN3lrSkszdw?oc=5",
       "score": -0.5
     },
     {
@@ -58,9 +57,10 @@
       "score": -0.3
     },
     {
-      "source": "youtube",
-      "title": "Turn the water of himalayan rivers to the deserts of Rajasthan",
-      "score": 0
+      "source": "press",
+      "title": "NHPC increases water release from Parbati-II Dam; public asked to stay away from river - - Himachal Scape",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjlER0RIQ0x1MzdOVEI4NHowZVBqa3JTaHlxZEg3T01kcmhvZ3o4OWUzblU5MDRUbWJ5cXE5MG51Z2JEdlZZVldzNUE1ckdMWXY3cVU0Z1V2cl9sSDJPalZUTFd0dDYySzY0Q0UyMFo2S1FjS3VMMmRiV05lbHN2ZjVRYmt2WmhpeWpuaGpiSk1IYzZFN3JqOFNJRXRZYWE0ZFY4aDNzNG41T1dPWFFRMkxR0gG6AUFVX3lxTE1oUnVmZW1IWWRNNnRLRUJZcU1iU2JUUVBTMjduZU1RVzBzZzdwclFsNXBCa3hSTW1CdkVXWGw0OVByWDFsVWNLU1JNX3N3Qkx6clVrZ1U3dmVmdDJLSXlwQ2lGMDdrT1NwY01vV0dkb1k4RnZCNk5KTkFIVzdBZW5FeWM4VktNV0t5MmdzSE9ZaW92dENuMlNiTG1NMlJmZEVWaHNUMTh0d0NzQTI1aEdFVFI4SzRMWi1WQQ?oc=5",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

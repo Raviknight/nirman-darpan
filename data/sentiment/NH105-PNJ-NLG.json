@@ -1,35 +1,36 @@
 {
-  "updated_at": "2026-07-16T19:58:53.677Z",
+  "updated_at": "2026-07-20T20:17:47.355Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 5,
-    "concern": 7,
-    "avg_score": -0.01,
-    "avg_magnitude": 0.27
+    "positive": 10,
+    "neutral": 4,
+    "concern": 6,
+    "avg_score": 0.05,
+    "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 8,
-    "positive": 3,
-    "neutral": 3,
-    "concern": 2,
-    "avg_score": 0.037,
-    "avg_magnitude": 0.562
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 28,
-    "positive": 11,
-    "neutral": 8,
-    "concern": 9,
-    "avg_score": 0.004,
-    "avg_magnitude": 0.354
+    "n": 20,
+    "positive": 10,
+    "neutral": 4,
+    "concern": 6,
+    "avg_score": 0.05,
+    "avg_magnitude": 0.3
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Beautiful view",
-      "score": 0.9
+      "source": "press",
+      "title": "नवम्बर में शुरू होगा पिंजौर-नालागढ़ फोरलेन का कार्य, गुजरात की कंपनी करेगी निर्माण - Punjab Kesari",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVEJwX1JNRks5Rkh4WHBYcW9ob1FWZFlBbmxrZzNwSkRmcnFzOGwyM1FDSGFzRkFNM0MtNlpfS01MMk8yUkhPcnBUbnlKdy1Bb3NjR3VfcDZVZ0EzQlV5OWpiSEE1b0FDTzROTUlDNGlYc3g0NkVrZERMMzhIUXF6T2pKR0wxVldxLXdxNzA3aG9kV3FjN3FCUDVmTlFuQmlHNHBMc3RYekk5VGVkaDhXUVpHV3p6MzTSAb8BQVVfeXFMTzJkQUIzVkxibkYwbm5wYUY4aGJoUDk0QVh6STNWMTRKMl9iSjFudmd0MzdIUDEtZnJZVkZHQnQxQUhacUVMbGJlMkJrY01JdWtzcC1aN19nQmhDWnhhc1B4cTdWMTR0WEloZzBYeTgyN2dHY0VjMTZzdUY0U0x1RVp0MzFaaFpHa3RTVFRJV3BybTVLQTBDeXdBdEZLR0hJVjFVVURtVkU0RGo1RjBVSmZrdGxkSGlDSDNwY01wTzA?oc=5",
+      "score": 0.6
     },
     {
       "source": "press",
@@ -38,17 +39,13 @@
       "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Thanks for video. I get updates on this and moreover virtually tour to the route 👍Keep posting the updates on this bypa",
-      "score": 0.5
+      "source": "press",
+      "title": "17वीं बार स्थगित पिंजौर–नालागढ़ फोरलेन टेंडर अब 24 अप्रैल को खुलेगा - Dainik Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVNlVDJXQnB3RE5vT0F4TlVxVmdNZzNZbF9LQ3V3RFY5ZXdHM2xfeDN1bnRtRDNRbC1TWXVFY0l2YzllT1NHQ2MzZmFTNlFmN0pSZXVqa0pnVU1jS0JtLXQ4bFVUUnAtZmxiLW9ibXlzbC1HYkFtX2tvYldFRElXa3hTNGhyVGZUZllCN2JfTEVmYzRtd1ZpTkFEeFJDWF9LcXhlekJqUUtnYW82a2FjcmhhYVR1YjlKMjhFNDVLT3QtU3NUNlduWlZJY09PVk1DNi1ZUdIB2AFBVV95cUxPY2ctUzlOT1ZoaXgxQm1jOWJJV3R4REVEc0hMVlh1Q2g3cTh4UlNqSjI3eU5lYzB6UkdSN3hWdFhqOTd1Rmc0dVJYbGFidTZOcjFHZzdiajNneUJldHA3U0ljWEs3cmhNY25uTEJ3Ukk4UlhVRkNkU2FRT19vQ1lJWXZmOVFIbHBaZUYxc2FsbW9IMzE3ZUhWanlKaUJZT0pfRjc1b0xIaXN1TWowN1hKWFEyZEZsZy1jeGV6WEJvQVVxSVRrNUhfNlFGeUpLd0RxVUJTNGhDcjc?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Very sorry about 7km road takes 7 years",
-      "score": -0.8
-    },
     {
       "source": "press",
       "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - ET Infra",
@@ -56,9 +53,16 @@
       "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "Ye road aj b vaisa hi hai .Cost badti ja Rahi hai .Thekedar and mantri sab khush hai.Yadi aisa hi raha to ye India ka ab",
-      "score": -0.6
+      "source": "press",
+      "title": "Delayed Pinjore highway project causing daily traffic chaos, accidents - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOVhsVUNFMUlzT0ZJNy1vTDNNYkI2WW5nb01wQmQtbEZzYWRsbTgxVE1GemJhQU1RUDJFUkZWSWJFZEQ2T1VCREFKQldOeHprR0FLZ3EyLXU5RWZlbk5McTNmQUt2R3B1aXI5SUJzdWR5d1FCTXQxQ21SUFktTEpaNVZIMWlKZm5hb1hDVEtvdEJsSWdjcFdrWXVmaVRZVHJteVEwdzJrRjQycmZGaXhmQ2NkNVZ5cnRiYXNsZmJCS2M3MGJyVlRwYk4xbElMTkVMQVNlYUFLSHJFcFROWTBGetIB5gFBVV95cUxONFNnSVNSOUNGeERvV3VKRW4taEh6Q2pHNzl6US1NNTZLWVNTYlZYQmNkbG5mMUNncG9iQnlQbjFESEhTNFpSUUpVWlJNaDl0TmpnNnlQWHNTaTZRTWNfeGt6d2JIdW9NWWJkWDZqMmI2VWZfYWIxLUhNTGVwc2dwbVhhcHgxOW1adXFKSE90SGprUGI3VlI4SV9GdnJfb2N6UG9UbGRsUnRiNUhBZ095aXdCemJMNmtaWXByd090NG5HbTZ5empwbnlYTjVjdEpzVE45elp3TmZWbzN0dzhtMmVBT01qQQ?oc=5",
+      "score": -0.5
+    },
+    {
+      "source": "press",
+      "title": "18 years of wait over: Pinjore bypass opens to public - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2E4SzRhMk84ek1ZRnBaUkRQQktGMVNuQm9YRGVON0l5UVdNYUZTajBuQXRPZG9lZ3VISXhZYzY5YkE4VDVCX1pnTlR1aFhUV3N6VU10S2FsUFBiMUlRaGpSYTVaZlE5aEdBeUthWUhmU21KYkxpZXVSSlZZU0wxYUlrNjFMakhlVWtJbEl3Smt5b3JnaGxLM2hvcmhhdm9Sd1F5Vmd4b0FpdjJvZWQtR2Z5VUs2X29maHp3Z09oaUVENmJDTVlMQk130gHPAUFVX3lxTE5TY01PejdSTVZXakZsbEk1dy02b21YTTJKb3VFNDJJMDdjNlVrMmlhcXFtTDhiNUY3SUdtLUctY2thOHNsRFFuUmRiT1JiN052bGpxUWVkMXJjTUowM0pjNVdyVG1OdUdMejdVQU52MWE2OWNwTzVjSVhGZVBKT2FuSjYydFltQnhaZmNBb0FkVWtMb2dvRXNKSGFvV3NJN3VRM19HeXNYY2pYbEFHY1c1clpfdEdaMEVuMW9SbTA2eDgxRnNCVllieUF2MFZXSQ?oc=5",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

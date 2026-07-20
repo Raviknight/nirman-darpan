@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-07-16T19:58:20.331Z",
+  "updated_at": "2026-07-20T20:17:12.409Z",
   "project_id": "LUHRI-1",
-  "count": 1,
-  "suggestions": [
-    {
-      "category": "grievance",
-      "severity": "low",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-16T19:58:20.331Z",
-      "title": "Patel Engineering-HES Infra consortium wins major order for Luhri HEP - T&D India",
-      "summary": "Auto-detected from press: \"Patel Engineering-HES Infra consortium wins major order for Luhri HEP - T&D India\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1lEX0NzS0JvcFdwZGxPRFZUTW1TRDI4RzNHWUdqOU5sVHB4ZUtUbWNtZUZNN3FtSjhxSkI1M2NoMzhLeHBLWFJZeFg0YTFCaFZ4ZGN4a1NXTWRDUEdpQUVudEI4eFRqRkh5a0NBVGhkSHFxeGlwaE9BaU5ScmpKbnV6R0ZHampKMmVZMWRoblV5NWd5Sk9GZEkwSdIBoAFBVV95cUxNNlhWRktqSW9oWVIwU203dUduZlRKSm42QlNBQy1PV19JTXNyU1E5SUx4a01qME9BdU41b3B3N1M4RG5mSGt5SU1scnZoTkxqRVFqdVVSVktnbDh2R1pBakNBSERBcjRobzVVTy1aaFRzR3BCM0ZSYjRWb3ktOUpMTDBINEx4RS1UTE1IeGh1WWZoOEtDcTRKS0l0d21EUldH?oc=5",
-      "source_name": "T&D India",
-      "lang": "en",
-      "date": "2021-08-02T07:00:00.000Z",
-      "matched_term": "rti"
-    }
-  ],
+  "count": 0,
+  "suggestions": [],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }
