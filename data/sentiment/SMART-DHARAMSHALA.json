@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-20T20:17:47.787Z",
+  "updated_at": "2026-07-23T20:09:35.460Z",
   "project_id": "SMART-DHARAMSHALA",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 8,
+    "positive": 10,
+    "neutral": 7,
     "concern": 3,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.26
+    "avg_score": 0.115,
+    "avg_magnitude": 0.29
   },
   "youtube": {
     "n": 0,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 20,
-    "positive": 9,
-    "neutral": 8,
+    "positive": 10,
+    "neutral": 7,
     "concern": 3,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.26
+    "avg_score": 0.115,
+    "avg_magnitude": 0.29
   },
   "top_positive": [
     {

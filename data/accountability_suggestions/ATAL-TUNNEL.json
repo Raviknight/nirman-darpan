@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-20T20:17:12.418Z",
+  "updated_at": "2026-07-23T20:09:01.110Z",
   "project_id": "ATAL-TUNNEL",
-  "count": 4,
+  "count": 5,
   "suggestions": [
     {
       "category": "incident",
@@ -55,6 +55,20 @@
       "summary": "Auto-detected from press: \"Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com\" — review the linked article and edit before promoting.",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlI0LUs3Z2NELUxKYXV0ZXNsSFNUdEZWS0tsX01PdUlCLWZGTHVoVDlFandncVhwOVFrTWozc0M2V2FSb2ZTOTQzWVU4UVNVU3ZVRUltSmxqWDJGRmhWYnpadnNZekp2UGdSQnhKa3g5eDVlZmt4dXJtUldiQkhYdjhqMnRLampQcEN1VE9wYWVUZFlSZFNQR05ZTVBsRlozQU5iRlZrbndFT3QxQm55bWJpeUh4dmRtMzJnT0pFVl9hZFdvbE55aXVSZnpxX0huUGFFZTAwd2lacTZ3dGhWTzB0TjY1d3laZWfSAe8BQVVfeXFMTlBSLWZhMUotdm1RclNxWmZ3b3ZnZTdINkV5VmxQRF9Za3JLb2txeWRVQWFMdUd2VHFvRkFONmhYZkZ6WFVkRV9wV1hYcERxdEY4NjJvSWo1ZU1saDBQd3N3cHRvdUtHRWdwR2dqYW1rVHhTcEExLUFsVlNiOVIzTExQaDhBUWhkU1ZjUFN5MER4ZmttRWV3QzZ6UXZ3eXJRWk1EZ19lUl9jb2p3a05Qb2R0dVBEUG9sVVMwbExzSXRvbGtXNlZldTRKOHhnclE4MFFKVlhTMXVPQ3E3S3VpLU5jOHBwLTFzeExGLWctazA?oc=5",
       "source_name": "Moneycontrol.com",
+      "lang": "en",
+      "date": "2026-07-02T07:00:00.000Z",
+      "matched_term": "killed"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T13:28:24.739Z",
+      "title": "Video | Scorpio Falls Into Under-Construction Bridge Near Atal Tunnel, Tourist Killed - NDTV",
+      "summary": "Auto-detected from press: \"Video | Scorpio Falls Into Under-Construction Bridge Near Atal Tunnel, Tourist Killed - NDTV\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXV2RnJOWE9KZFl6TmtPS3UwVTU2a2N4Z3JtaENRTzZYZnQ2TFRwQm1WRWV4UUp1OG5OcWh0YjBOM0ZadjdiZFk4WHhqM1QwUHhLdnBrVzl4b0FsNkk4N1VOWTIyQVJpc0VkLWQ5b3lNZ0tjRENlb2ZrQno0cVVXZnd1Wi1HNlctMng1YTRGU2kwaFNPVjZKdnZtZFphajVSRnBRN09kYUk0TnJDOFFPMQ?oc=5",
+      "source_name": "NDTV",
       "lang": "en",
       "date": "2026-07-02T07:00:00.000Z",
       "matched_term": "killed"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T20:16:39.680Z",
+  "updated_at": "2026-07-23T20:08:24.158Z",
   "project_id": "NH105-PNJ-NLG",
   "counts": {
     "press": 27,
@@ -75,6 +75,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeHBqSkRkZTRPNk1QTGs5SE92anpNa3l1aUZVdWZmVlE4RmVJRlFrRWxDRllWS3JVa3M4dmROZ2F3b0FmTGhwTmNsRlpvXzdKaDVJVjJuQTZ2ODg5ZFhNUklTQXJGMFoyX3VGWUhNWExpdmdoVDZYalhBVVdMLTJHZzlCdlJUN1BDbTJsdjlKcHpUX2FsLXNTa2FZS3hxa1ZSWjkzcFpB0gGqAUFVX3lxTE1hQ2dLU0hVVU5CZWpGVUo1QmhqXzc3YTlrRG9EcG83WHoxTk04UGM2ZnlFdGpNZVVRMTNjSzRqRmR3RHBUamFYZ0lxUXFlVHZIUjZ4VmdzcmJYdDVrdzZQbXZsR2dPQnZIako2U2k0SUg0UGFZRVBiN2hYaFFZNk96enFXZkFDOXVaZFNoYUdmeEdxLWFKTmo2bm9wTUdMekV3cndxangwRDVn?oc=5",
       "date": "2025-12-13T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "Haryana MP Sharma discusses road-related issues of Panchkula with Union Minister Nitin Gadkari - ET Infra",
+      "source": "ET Infra",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU2xfNWJpMnVFOXV6LUVGRnVwZlI0S0RDTmlwTnJXdVY0Slk2cEVlekNYb2s4VG9QdXNiMGN3cHYtZVZxeWFfc1dKVjZOTGNjUkFHVEdsa05ZZ2dUTjlXRy1PZUVtN3h1dFlkSVFCb0F2bDZodU00cnJsbC1tdXZITUgyanZNMDNxaW5TUlZ4TXlDcDJQbmhhbmM0QnhleDZQd2J5WEh2N0Nsa3M4ZldidWtvZU5ma3QyUURobk1BZE9FT2g1OGdBNjQzVkZ6dm41ZDBxMmdZdlpKaGVvOEVtS0JLQ0HSAeoBQVVfeXFMUFBGMUFLUzBlN09LeXgyYkJzUlptNGZWN3FBbE1yN1BYdVJVRDh3eUpONE5PNnNKUndhSDRaN2NZOU9ZbFVIbXExbWxUYkxhRTV5RGdXazduS05ob1pId2FkVVNaOEU2clNVUjlTeVByRVNJWFJGQkUxV3ZqM0Rsbm9wd3N1dzZFenBpMkw4WWxMcUkyc3NLd0R5cjVXdkt0QzhhSTlRWDZ4aXJBREFqQVlsVER3ZVRBZkFQVjlxLUhPZmM5YmZ0NW1EbnhUd3N0eGxnTnNzdG1oNDk3YkZuOHpYUnBhRTZQcTV3?oc=5",
+      "date": "2025-11-07T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pinjore Nalagarh"
@@ -160,11 +170,11 @@
       "match": "Pinjore Nalagarh"
     },
     {
-      "title": "पिंजौर नालागढ़ पर सर्विस रोड की बुरी हालत, लग रहा जाम - Dainik Bhaskar",
+      "title": "पिंजौर-नालागढ़ रोड पर आरओबी के साथ पुल की हालात खराब, टूटी रेलिंग से हादसे का खतरा - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMWk3eGxaMDhEZGs5SGJsbkJPNFZ5QU0zVWRneGdBcVE0WGVqWkk3SkxpRTRoTTJ2LWdfUkpsREUtaE42M2tlT2h1b3ZHaWtnRXJQVzVnRDdfODZtai1rZEJzSHR2X1Z2c0dBb3pqemRuNXBiNVBZa3pmcHViNVFRTGdYWHhlcG1BX0VwdXcxV2o5d1k1UHA4clR1WU8wcEdPSmMzQUJkNWlOQmpITndRaWJ4VDhjeFJPdmlyR3Rlbk1FV1RlTklMUTNOT1hvUVQ3bkE40gHYAUFVX3lxTE5NQkFLb1lVOGhCZDZBNWFLQ2JZUm5hMFJmeTZkbndGZEtlbnVTZFpCS3ZSRFBNeXBuU0xYaEZEUW9OMG5xdmNFTzlaS1NCbHBnVzBYLXJUSVJwMHlyWnlpMjkxZmlaTXFqTjhtNks4Tmc1akU1VW9rSmsydFNPNU5jbW03YmpzOC11NFptR0EyUlVMSW1UTVY2MXVmR0doMUNjU215NExsQV9GUW5feEtRSHQtdk1Hbjg3b21FVHZTYU5RVGJhTHJibmh6ZHdCeHpQa0dJNHpSYQ?oc=5",
-      "date": "2023-12-01T23:09:20.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPNzFSdDkwUEloNGNmYUVReThmVmFnWXVfV003dEl5aG1vejVMXzQ4SFVtYW1vbUMtaXhJTGFySHFqN1ZhcENZNFJWZXVfREVaY0JYZE9JUktZekVqTndPQ3ZsTUVZY0o0SGZSRGsxTFZMRElRbXRacjV6TjItOENjNnAwd0U2clFvbE5aQ2d1RWk2MGd3S1VkeEFtWG9OX1dYWnZzdFdrc3dnRThjQ29ESmJNOEtCOWRJNW1HMGVGTGhEUmE4NTBweDc4OEhNbEsweThCdHdZQ2ZTZUtTaFd1cDAtV2x4c2RaemMwaE1yamV0U0R2WjNSUHl1QUFMdzNueHMxRGtVQ1BVcWpMOG9pa3QtNFBwSFRtZlA5aC1QLUdWc04tbUNfX1RR0gGvAkFVX3lxTE42VnN5V2xVdTd1VVVzd1ByNXg4UC05NzE0N0I4Z29HRkFzcWp3Q3dpa0RLcktsbGwyR3lQbHQyS25VdFJZZjg4YmUzeC1yTjR3RGZqaDNmcTJNa3FkUkFabE42N0FlRG40bk1xM01PRnB3cW9yVE9PZXdyY09ocFg3VjFwQ3dDLVFCLWM4cUVZbjRDc2twOWlUQ2FhdkY0V3k3d25aTnppSVdrLU5xNVhoeWdxUXhHbTZqWkNXNVBrUWRQcGhqRDd4NEpiR0pWOHJHX2RmbGlGeVRDbGZCRDdhY0lDMHNBQ2pBMkFZc3RDSEFKeElFS2xwLWc3T180amRkbTBLaDNQWVJNZndpT0hNd0V3OUtpTjdWZ3hnencxUkVWcXpEcU1mWS1sbVJabw?oc=5",
+      "date": "2024-04-27T02:31:40.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Pinjore Nalagarh"
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Baddi four lane"
-    },
-    {
-      "title": "नवम्बर में शुरू होगा पिंजौर-नालागढ़ फोरलेन का कार्य, गुजरात की कंपनी करेगी निर्माण - Punjab Kesari",
-      "source": "Punjab Kesari",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVEJwX1JNRks5Rkh4WHBYcW9ob1FWZFlBbmxrZzNwSkRmcnFzOGwyM1FDSGFzRkFNM0MtNlpfS01MMk8yUkhPcnBUbnlKdy1Bb3NjR3VfcDZVZ0EzQlV5OWpiSEE1b0FDTzROTUlDNGlYc3g0NkVrZERMMzhIUXF6T2pKR0wxVldxLXdxNzA3aG9kV3FjN3FCUDVmTlFuQmlHNHBMc3RYekk5VGVkaDhXUVpHV3p6MzTSAb8BQVVfeXFMTzJkQUIzVkxibkYwbm5wYUY4aGJoUDk0QVh6STNWMTRKMl9iSjFudmd0MzdIUDEtZnJZVkZHQnQxQUhacUVMbGJlMkJrY01JdWtzcC1aN19nQmhDWnhhc1B4cTdWMTR0WEloZzBYeTgyN2dHY0VjMTZzdUY0U0x1RVp0MzFaaFpHa3RTVFRJV3BybTVLQTBDeXdBdEZLR0hJVjFVVURtVkU0RGo1RjBVSmZrdGxkSGlDSDNwY01wTzA?oc=5",
-      "date": "2021-10-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pinjore Nalagarh"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-20T20:17:26.991Z",
+  "updated_at": "2026-07-23T20:09:14.729Z",
   "project_id": "SHINKULA-TUNL",
   "query": "\"Shinku La Tunnel\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 18
+    "comments": 21
   },
   "videos": [
     {
@@ -89,18 +89,18 @@
           "published_at": "2023-02-19T06:58:40Z"
         },
         {
+          "comment_id": "UgzVCyOiONUyHlLPaZ14AaABAg",
+          "author": "@editxsoumya9804",
+          "text": "Sir you are my favourite sir in online classes ☺️  keep teaching and keep shining 🌟🙏",
+          "like_count": 6,
+          "published_at": "2023-02-18T16:46:55Z"
+        },
+        {
           "comment_id": "UgzPDsVAIMc2vaOo8JN4AaABAg",
           "author": "@DrawingloverShivanikashyap",
           "text": "Very good video",
           "like_count": 4,
           "published_at": "2023-02-18T16:26:30Z"
-        },
-        {
-          "comment_id": "Ugw5togEZJntGBadwHF4AaABAg",
-          "author": "@radjen5948",
-          "text": "अत्युत्तम!👍",
-          "like_count": 0,
-          "published_at": "2023-02-19T11:48:54Z"
         },
         {
           "comment_id": "UgyCL1Uq5GRvA1TOGDJ4AaABAg",
@@ -110,11 +110,11 @@
           "published_at": "2023-02-25T18:12:10Z"
         },
         {
-          "comment_id": "UgzVCyOiONUyHlLPaZ14AaABAg",
-          "author": "@editxsoumya9804",
-          "text": "Sir you are my favourite sir in online classes ☺️  keep teaching and keep shining 🌟🙏",
-          "like_count": 6,
-          "published_at": "2023-02-18T16:46:55Z"
+          "comment_id": "Ugw5togEZJntGBadwHF4AaABAg",
+          "author": "@radjen5948",
+          "text": "अत्युत्तम!👍",
+          "like_count": 0,
+          "published_at": "2023-02-19T11:48:54Z"
         },
         {
           "comment_id": "UgxYyvkjnbOoboN-RGt4AaABAg",
@@ -154,13 +154,35 @@
       ]
     },
     {
-      "videoId": "rs72z3CKDw4",
-      "title": "शिंकुला टनल को लेकर रवि ठाकुर अहम जानकारी देते हुए",
-      "channel": "Dainik Savera Himachal Pradesh",
-      "published_at": "2026-07-11T08:47:10Z",
-      "description": "Whatsapp Channel link : https://chat.whatsapp.com/HFN5P1Zf9uu... facbook channel link ...",
-      "comment_count": 0,
-      "comments": []
+      "videoId": "c3Dz3KN54xw",
+      "title": "Shinku La Tunnel | World’s Highest Road Tunnel | India-China Border | Connectivity Ladakh Himachal",
+      "channel": "State Mirror Hindi",
+      "published_at": "2026-03-01T12:00:36Z",
+      "description": "ShinkuLaTunnel #Ladakh #BorderRoads #BRO #IndiaInfrastructure #BorderSecurity #StrategicProject #HimalayanRoads ...",
+      "comment_count": 3,
+      "comments": [
+        {
+          "comment_id": "Ugx5zuJ-zce5RnAZ0Ud4AaABAg",
+          "author": "@KunalSharma-ww5us",
+          "text": "Love to visit once complete. Incredible India..",
+          "like_count": 0,
+          "published_at": "2026-06-10T03:50:52Z"
+        },
+        {
+          "comment_id": "Ugxgbq1hBotmLjwh7eF4AaABAg",
+          "author": "@RoshanLal-gt7xl",
+          "text": "मोदी है तो सब मुमकिन है",
+          "like_count": 0,
+          "published_at": "2026-07-02T14:27:47Z"
+        },
+        {
+          "comment_id": "UgxSWhkbbsmpHxC5XfN4AaABAg",
+          "author": "@praveendugar4122",
+          "text": "संबंधित चित्र और वीडियो ही डालिए।इधर उधर के चित्र व्यर्थ होते है।",
+          "like_count": 1,
+          "published_at": "2026-04-25T12:27:37Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

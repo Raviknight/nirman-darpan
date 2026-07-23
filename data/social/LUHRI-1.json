@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-20T20:16:13.385Z",
+  "updated_at": "2026-07-23T20:07:58.410Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 31,
+    "press": 32,
     "gov": 0,
     "en": 21,
-    "hi": 10,
-    "total": 31
+    "hi": 11,
+    "total": 32
   },
   "mentions": [
     {
@@ -67,16 +67,6 @@
       "date": "2026-04-21T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "NCT clears Rs 839.55 crore transmission scheme for Sunni and Luhri HEPs - Power Peak Digest",
-      "source": "Power Peak Digest",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVV6eG5KWW94ZGV0VjV1RUQ0cUJqaC1fdlBjQlp4eHk4ZDVXNm1ZWlA1dU1ZdTM0UXZfOVFabkFrdUUzWjl2MXdfeGJ4a2xZRmRVSnBicXF5SDFlb1E3alBKaTM3SDJ1TGlRVGY4bllZekF6VGpVOWU3RG14Y213Q096TlFMZ01DZFpLUHRHVHphMTFlTHZoN0VscGlZMWR5OGc?oc=5",
-      "date": "2026-03-18T21:51:46.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Luhri Stage"
     },
     {
@@ -205,6 +195,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0MwLWxqcy1zN1ltS2hMZDVtX3JuekNnT2FvS0hfLXlJbzdneUkzRl9zemhHaHItUjBQdE83NjRVRngtbEhJd19HRnhPTHU5SVdpZnZJcHpEMVBhUkc3UWdaY3o1Rk1uSFZxRldtV2FId0YyVFVWRGs2aFZLUGNpV2xNaXFqRVVieWVGNHNINXhpLWdmRmpkNTFzcEd6NW0yOTJV?oc=5",
       "date": "2022-04-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "SJVN awards electromechanical package of Luhri HEP to Voith - T&D India",
+      "source": "T&D India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT05uZXNuRjJ5d1JvZjg0aWFXMlhyZEZfOHh4WmhOVy1OWWpwRWFmZkxvRWl3a0Njd0RsUzM3ZXFzbHZFTjZUbkRnYUVhYkZ3NDVVU0xteDUtNmNkQjNZRG1TNEI5RWRwTEFCa3NqcU9rYlhzdkg1d3ZUaV9hZ2xTXzR2ajBoeUtEVzVDTVBB0gGTAUFVX3lxTE1yN2ZEQ1FtaVc0dEw3d2xxYkhiM1BOdUExSjdXbExuM2lXeHZxNVNTdnlEamREbXpPd2ZBZm84UUVtWUQxbFVMR1pmcDJUbVZFSzVyaW84Z2JCTHBYcEZBV1lhTFZvaU1UeExyOWxwMjlMTHM1bmFscDlNNEhnUkdsTVNtTGQ5SzBUX3VqR3B1NDZlMA?oc=5",
+      "date": "2021-08-13T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"

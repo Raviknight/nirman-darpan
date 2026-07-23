@@ -1,62 +1,66 @@
 {
-  "updated_at": "2026-07-20T20:17:40.831Z",
+  "updated_at": "2026-07-23T20:09:27.261Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
-    "positive": 6,
-    "neutral": 11,
-    "concern": 3,
-    "avg_score": 0.045,
-    "avg_magnitude": 0.23
+    "positive": 5,
+    "neutral": 14,
+    "concern": 1,
+    "avg_score": 0.065,
+    "avg_magnitude": 0.17
   },
   "youtube": {
-    "n": 28,
-    "positive": 18,
-    "neutral": 6,
-    "concern": 4,
-    "avg_score": 0.243,
-    "avg_magnitude": 0.436
+    "n": 2,
+    "positive": 1,
+    "neutral": 1,
+    "concern": 0,
+    "avg_score": 0.25,
+    "avg_magnitude": 0.35
   },
   "overall": {
-    "n": 48,
-    "positive": 24,
-    "neutral": 17,
-    "concern": 7,
-    "avg_score": 0.16,
-    "avg_magnitude": 0.35
+    "n": 22,
+    "positive": 6,
+    "neutral": 15,
+    "concern": 1,
+    "avg_score": 0.082,
+    "avg_magnitude": 0.186
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Good acha hua",
-      "score": 0.9
+      "title": "Omg",
+      "score": 0.6
     },
     {
-      "source": "youtube",
-      "title": "I love kangra❤",
-      "score": 0.9
+      "source": "press",
+      "title": "कांगड़ा एयरपोर्ट विस्तार के मुद्दे पर पक्ष-विपक्ष में तीखी नोकझोंक, सीएम सुक्खू ने किया बड़ा ऐलान - Punjab Kesari",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1NRazUtdmxDRVotSjhtTi0wY09lY3VvMW9OWFp4OFdBX3VZUUFGeHRYNkNqTTVPUDYxbWw1c2Rnc3J2dUFTRHpoQWJRNGE0blB4VV84UlB5TzZOSC1ISU9MVHJqR005VERPVGE2LVZOWV9JZ0o2WlpxSk9KYUlxSVBFMEgtVncwN2dGYXJtUVBhcVZYRmp3d2dKNzFZZnpuZDE5WGJDQXoySldWaWJxczNlczlfVEZ2c1Nya3ZzcEo4N2lXMVZBeXVtcXDSAdQBQVVfeXFMTXByTzRlbDlXcjV4Q294cThmazNCNXZycUZsVzU5bU0zUF9WZ2lMcmVPUFpjUm50dHN1ZnMtdGxpc1JNVFRoRXNhaGpsQ2FydXVZRHhLVWZ5TkpmQkx6emV4Z1dEYVFUVkRLOGMzVmFaRU5VcmRrYldYWFljUjVleVV4SWpSc19ESGNVNkI4bGlXZVkweVpIRzNGaWROTlBsZlc1VmtrZ3B3M29qcTFUMWRPSXFVeE5GZ1RlZXZHUmNtRWlXdmVTaTZ0aW5ZV3d2X0RucGs?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Best month to go there",
-      "score": 0.9
+      "source": "press",
+      "title": "कांगड़ा में गग्गल एयरपोर्ट के विस्तार का मामला, हाईकोर्ट ने ताजा स्टेटस रिपोर्ट दाखिल करने के दिए आदेश, 24 दिसंबर को होगी सुनवाई - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT2Z0c2Zrby1iZU1KemxPdk9SNmNWcnRtdU44eXNhMWlpMnA3c2w1VnJrd25HdWkzUHIxTzBKNEJEZW1uQVRIRGFNRmFIYmZ1M3drVnhhZTh4Q0w5M3hUTEtNYk9hUnRPUndIMl8wRUx4OWx1SDJGdnlUYU1rdDhobjRMZUgtMHhEbjBGNzFWQ2xueGk1NkZRdHdvaGNYSEVReTlvUFhlUFVTUXpOYk1MYnJIMXl5aWlnZzgwb3FFMUVJcE1NV0lKYll4dk_SAdIBQVVfeXFMT2NqMDBkMjBrU0xvVDlrZkI4dWdMbjNpZFhkZWZpVGxTakVDc3psUEp2aHVidFA5NU1XRGp0V0VmVnhOOTdKU2lnWmNTNDFndU5tWTlUUGVNWGppOGdRdXhFNnI2cDFyU0hOeVZ2ZGZZVGhSS18wU29FVjVxV3pTZVhXSWNCUVVISTBxUG9OM3NpaF9Nbk5UbC1yYTVuNXNUQ21zakMxUDZsc0w2OEhjNnA0RVVsQV9rYncxRFlsalZNZno5R3Itam1zSW1ZRVZCek9n?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
-      "source": "youtube",
-      "title": "Fake",
-      "score": -0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Very sad news",
+      "source": "press",
+      "title": "Lack of clarity on compensation mars land acquisition for Gaggal airport project - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaElDYWRGTDlrdWgyMjg0ZUw2RFBNVmVJTXc1eV85VlJjOE5rRExrc1h1OVVDNXExQXdYRlJqNDQwVjRIU1k4TUlNczZxWUxFVkJwZVd3UzlWS3c2MFNTRFVZUlRMTFNzcXFJU2RxYjMtT2hRMDRiQ20zMGtvRnl4SFREUTBwNWRydi1hQWtjemZtcHJXUmJhOUVXR2NNU25GdEJ5anh4Sl9aLXdOVUFxT1lEWnBzb2VaLUFybXI1bjhsd9IBxgFBVV95cUxPS2p4Q0k4a25WVjFKNlBNY2JmMm1adURGcmFUaW90eFZHLV9lQ0xzYjJLYzU1NHBxWWlMMGtOdWM5LTMyaHc1TExMcW9mYUIwMHJSTTJtRmFsdHlHcjViU1c4M1JsSjI5clBZUUMwUmRTRmZrbEFibzgwaV9oNl9MdENEM3NObnVRcnVvQkIzY1VnRThNb0psNlBjSTl0Ym1UbmNlTW5vTXdTNllleGtQbTMyNTBZUXRKUk5ma1N2dm4yZU5uM2c?oc=5",
       "score": -0.8
     },
     {
       "source": "youtube",
-      "title": "Very much bad and sad news.",
-      "score": -0.8
+      "title": "⁰😊😊",
+      "score": -0.1
+    },
+    {
+      "source": "press",
+      "title": "Market complex to come up near Gaggal airport for displaced traders - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGpIZC1hLUI5bTBaSGtoMGF0NnRfNUtDZ1F2U19zcnpDS2ZRcnlYSVdjSFNXMGxqMGdZcEZzeWpqc0s0WjZ0RU5ZVzZiSWtiVG5lQm1ZdjNBRW0ydTNLeDNSelFoemxqOWZ3dzEtQkFWa25heG41MGxZemg5SXUtRURIWnlPdUFBaHg5TF9YODctTk5xU3NFelNPQlgtaHNvWnRZYTY4UHJacDZxSmtqedIBtAFBVV95cUxNZTVILVczYmVfSTU5MklDaVpGVTBxdTdEcHUtMmpET19Rd24tSVhJeU9LTlZIWXJOOUY0NHhabXBiMklKYWtYRlVYTnVzM0trX3FPalBzcW8wVy16SWhTZXVYeUVicXhlclN1bGoteTZrREtvamhNVnhhRkVVTGJWY1Y4SmNDSjh4ZlhRbm9YZFZkMl9tS0lyUDNPekYtdDJSWVhySk5kZl9sMDdqeldhWndLRlI?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

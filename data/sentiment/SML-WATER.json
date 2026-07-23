@@ -1,53 +1,51 @@
 {
-  "updated_at": "2026-07-20T20:17:48.100Z",
+  "updated_at": "2026-07-23T20:09:35.815Z",
   "project_id": "SML-WATER",
   "press": {
     "n": 20,
     "positive": 9,
     "neutral": 7,
     "concern": 4,
-    "avg_score": 0.085,
-    "avg_magnitude": 0.255
+    "avg_score": 0.08,
+    "avg_magnitude": 0.25
   },
   "youtube": {
-    "n": 33,
-    "positive": 14,
-    "neutral": 14,
-    "concern": 5,
-    "avg_score": 0.224,
-    "avg_magnitude": 0.53
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 53,
-    "positive": 23,
-    "neutral": 21,
-    "concern": 9,
-    "avg_score": 0.172,
-    "avg_magnitude": 0.426
+    "n": 20,
+    "positive": 9,
+    "neutral": 7,
+    "concern": 4,
+    "avg_score": 0.08,
+    "avg_magnitude": 0.25
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Thank you God for giving me natural dimple",
-      "score": 0.9
+      "source": "press",
+      "title": "हिमाचल के इस शहर में लगेंगे पानी के नए ऑटोमेटिक मीटर, उपभोक्ताओं को मिलेगा ये फायदा - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0JUVDk3WUdfYy1DblNpZWRzMEhQdnR3UU05TFVVeWpwaEljQk1SWDRmVml1YUtZNnZzTDlTZXBCVGhITTJybE5tZS1KVi15a09JU2RKQnNZQkQ3UlBTRVVfOHNfeHNkVk04RHNCblJKMDJwLVUxcW5hN21CRkRtRm9JcDV6clNyUEo4Nlp5N2w2cFVWVk1hbk50SXlqZU5CNktwZ3pVclJJcHVheVZBU0pkZmlidkpheFJPS09jcTJoUDNEMjBsempQV0pjVHMwRDM1dnNEYUJRYUdsRzU40gHkAUFVX3lxTE5zNldITVl4eXZaRzFIb3FtUzhlMndBa2xSNHdIVnNlYjFyeXBrVnhOT2UyLXJUQW9reUVHc2xhS0xRUUYzRnEyaV9CWmZUV1JvXzBLMUhwWnJJNEI3VWFRYkFDQUxlb0M3czFFRnRnd0d4ZE5kSm9DVTRjbV9NMnE5UVIxTnk5LXBmdVhoUXptU3FwSC1jc19nXzBPdGxrU0c4TDVVbkJNQVhXYlBDZWpwQnFuZnVuekMybGRBU25RczdoX0NzYkNIdVU1aE9TV24xNTZLYkJMeGd6R2llRVBPUTV1OQ?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "I wish I had dimples it’s so cute❤❤",
-      "score": 0.8
+      "source": "press",
+      "title": "शिमला में महंगी होगी पानी की आपूर्ति, SJPNL ने टैरिफ में की 10 प्रतिशत की बढ़ोतरी - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRU1fcUlEMGhyeDZlUEhhcEszOTFUWlFrakluUUlKb0E2NnYyTnV3czFJWE4yN21tSkNZNW1qQndjS2R3SjZGSmlOQkd0UHJzbUplTkxfQ1gtVDZEakVsMHY5T29FMlVoOWdURUQxNVU4ZGs4SmlFYnQ0dmFRcHRjNnJZVXhuZmluRW40NkFZWkpTQ1NlVktNdDlyd1NJTGV3YkNhZVNhdWlsX3dHZXZKWWNSYjJCM0pDYVdORDNOUE90S1VYOW1zdWtBYTg5LW5nc3FtSkNHbGhnN0lIaGdYUVFZc9IB6AFBVV95cUxNR19pYmpwYWJBcUZmd090eW5vS1ZNSFVkeXE0NnQ4b3RjZVV1LTlsbHZPY25ZaXdySG13cUxjWmFJbHJFYjAzdXNqYXlZTDAtRHVhNzVOWnNtZnJtcDR3NXpCVUJvZmFoN2N6Z1RHblF3V2lmSU5KdGRoelFRYkI4Q2I0NF9pemI5cW9jMEd2VEdpUXJfS0RnS1ZHZmNYcDU5aWcteGZDZWREeWtuU2otMnktd2M3U2RqU1dsUElHWGp0MDdyZnk2S1o2T1E3ZzVMaDdQb3JQS3JmYU9nSmFKYi1lc215SHB5?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Thanks to God l have a natural dimple",
-      "score": 0.8
+      "source": "press",
+      "title": "पेयजल शिकायतों के लिए शिमला जल प्रबंधन निगम ने जारी किया हेल्पलाइन नंबर - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iYmVIdnVuaEFlMS1aZUFucDJaYjJ6Yy10ZGZZanV3VlYzZ2FXeXRzanMtTjVFUTFKelhMLUxXVklUYURmam5Odm1oaUpBYTY5T1BsY2pkQ1I0ZXJwTzBnY2pQb01OSDRZU3dB0gFwQVVfeXFMUHJyZThGd0lHQkt3S3dlM180M3FVLTZrb19TRS0tbHp0Ti1TUV96dEd2cVA5TWhEZU9iMGJYMFRtMy1qZHRoVldqS1N3U1p2TmJaTHpDUDJHT3Q3RXBHaTE5c2NhaUkyVG5HQ0tYcnVUVg?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "If people can't help themselves no one can, Drains and Open Nallas can't function as garbage dump stations for the local",
-      "score": -0.8
-    },
     {
       "source": "press",
       "title": "Technical error behind inflated Water Bills: Shimla Jal Prabandhan Nigam accepts - The News Himachal",
@@ -55,9 +53,16 @@
       "score": -0.6
     },
     {
-      "source": "youtube",
-      "title": "Sri Yamunaji is not happy. too much pollution and also sand mafia. Sri Yamuna is worshippable and should be respected",
-      "score": -0.5
+      "source": "press",
+      "title": "Shimla Jal Prabandhan Nigam claiming of providing quality potable water - The News Himachal",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN242WUtqS3hnNTRiSG1rNk1BUHRqSWd1bzFZbjZQSUlVZTNlSUpXVGFnMjlDVmNuVUYwNmZHYUNUWW1sbFNjRUFmbFN3YjBFbXp4YjV5OW1rZzh6bDB3cDhKQlUxVzFBaWFIRF9KbTV0UEhKZ2xYOTgtX0FVbFhKb2gwQVJMQ09iVVpWSHBnOG1UNmxCX005S0Q0V05vNDRQeVdoYk1jclQxb2dj?oc=5",
+      "score": -0.4
+    },
+    {
+      "source": "press",
+      "title": "Govt-run sewage treatment plants fined nearly Rs 3cr for polluting Himachal rivers - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNkFGSVlqbXhHdndnTHRkblZRbFd4ZUN4Sk5lc1Z1QzdBX3k0RHh1QkI0TUNqNS1mNTVFUFlIMjlnYnFrZENYZU5BZVl6cUlXaUtEWC1UeTIxeTJZeV9weWg3eGM5bUV4ZXZmVS0tR2xFNzRidlA1aXdOMHZFTzlGU1RUczgxaGxISUNNVHdnd052dXpmeS1ObzE4V2FLa2Mtc0NaRUVlZkVGS1dERVdmenltb21ZZzcwSTNLc2ZyUEZsZkY2dzNtVi1uVWRlMVNOTUZlVVRzdUxoN1VYZjJ1UmF0OEVKdjFVRFl4Zy1ZOGl6Z9IB9wFBVV95cUxOZndpUTJJYjNlSVRUcGxNc1VLaXY3eWw2X1VpSEpPYS1YUklPUFRMRnFrRTVYRVF1djhWbmR0NlJVOUR1ckxsN01TYW5vb0lmc1NBX1FvRnY4RjlrQTlOZENHNi1jUml3S1hFdlFLN00zeVplX1RvTkF5YWs4TlR3NE9CVHNRU3FlSU8tTVdhSzBQWmlHdDM5V1ZTRmh6M2M2OFRQWnZHR05ydkFpZ3hUQkctOVF4bHVDQ3JrVnA2bDRFeGh1WjRLTWFNYVh1MXptYU1qaXNVZGtIRG1xRzA1ZkczV1IxXzBSTmJfdHRFWTFaRXJmYl9V?oc=5",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

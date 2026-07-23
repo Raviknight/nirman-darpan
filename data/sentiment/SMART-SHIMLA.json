@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-20T20:17:46.249Z",
+  "updated_at": "2026-07-23T20:09:31.053Z",
   "project_id": "SMART-SHIMLA",
   "press": {
     "n": 20,
-    "positive": 14,
-    "neutral": 6,
+    "positive": 13,
+    "neutral": 7,
     "concern": 0,
     "avg_score": 0.22,
     "avg_magnitude": 0.36
   },
   "youtube": {
-    "n": 29,
-    "positive": 10,
-    "neutral": 17,
-    "concern": 2,
-    "avg_score": 0.055,
-    "avg_magnitude": 0.162
+    "n": 25,
+    "positive": 9,
+    "neutral": 13,
+    "concern": 3,
+    "avg_score": 0.052,
+    "avg_magnitude": 0.26
   },
   "overall": {
-    "n": 49,
-    "positive": 24,
-    "neutral": 23,
-    "concern": 2,
-    "avg_score": 0.122,
-    "avg_magnitude": 0.243
+    "n": 45,
+    "positive": 22,
+    "neutral": 20,
+    "concern": 3,
+    "avg_score": 0.127,
+    "avg_magnitude": 0.304
   },
   "top_positive": [
     {
@@ -33,23 +33,22 @@
       "score": 0.5
     },
     {
-      "source": "press",
-      "title": "संजौली स्कूल संचालिका हत्याकांड से दहशत में अभिभावक, बच्चों की सुरक्षा को लेकर प्रशासन ने उठाया बड़ा कदम - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckFrdmd2TC1VU3FZTHliSERqSXJydnc1cmVxbW1FSnc1UjM0NFpxRzFMbjJXTE44NTVEdFFOX0tWVVVXelViVzlSQzVhQ1I2OFF5b3dXcERtS0ZoNWRCNGpOZmNwU1Zmb0JzM2l5aTNLem50M1YtV1B2cy1hRVJ1dzNhWENIMWpNWlI2Y1otbVpRUFhWSl9GZE8yRzlaYjlIR09fQkN4eVVwOTJOalp4YkFn0gG3AUFVX3lxTE42T0RwWTBtVFJja0hNc3hfQ1NsSU9xTUN4QmhRT29qNlhWUWQ5VFRuQk5mSnFUS18yanNTaHlJX3VHdWFCd1B0NDlZMmJrRGk3M0kyVS1zTnk2TlNuV2R2MDlJTzNGTW5GR09HNWVBWjFRUVM1Z2pOc0ZsbWNfXzFld3JINENieHdIU1lWVVYxOHh6QkNSQkFiajc3RjRYOE42RjBCam5GZHlpS01HUlBkcFg2azA3VQ?oc=5",
-      "score": 0.4
+      "source": "youtube",
+      "title": "Look at nava raipur, dholera , gift . They have one of the best urban planning in india, dont just trust pappu😂",
+      "score": 0.5
     },
     {
       "source": "press",
-      "title": "'तुम्हारा बेटा गन प्वाइंट पर है...', शिमला के बिशन कॉटन स्कूल के तीन छात्र लापता, मां को फिरौती के लिए आया कॉल - Missing Children Karnal Boy Angad Kidnapped from Shimla School Ransom Call Received - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSDBvZ0ljM1VJUHMwT0dlTU81MzRMMVFjOUFhMFhsaEpRZ0Rod2NBX2NWUEtlekJjX0JWZFQwSjkxVjkyOHFHNXpPc3J1dGIxSXlmdnhMZnZEUHNUWXc0UFJxSERKZXRkekNfODc1c2thZHhWSnFzM0R1VGhUOVlPWVZYeTUwWDFDTkV6bThwdnQxWElkdlBkRHVta2JYcjZMLXJJN0hFQWJvTEw2YThJT0E1TU1qcDZfNHJvYVJMT1VaQTV5UFNhZVJrNlJfSi1vMmRvLXdVbWtWdWIz?oc=5",
+      "title": "संजौली स्कूल संचालिका हत्याकांड से दहशत में अभिभावक, बच्चों की सुरक्षा को लेकर प्रशासन ने उठाया बड़ा कदम - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckFrdmd2TC1VU3FZTHliSERqSXJydnc1cmVxbW1FSnc1UjM0NFpxRzFMbjJXTE44NTVEdFFOX0tWVVVXelViVzlSQzVhQ1I2OFF5b3dXcERtS0ZoNWRCNGpOZmNwU1Zmb0JzM2l5aTNLem50M1YtV1B2cy1hRVJ1dzNhWENIMWpNWlI2Y1otbVpRUFhWSl9GZE8yRzlaYjlIR09fQkN4eVVwOTJOalp4YkFn0gG3AUFVX3lxTE42T0RwWTBtVFJja0hNc3hfQ1NsSU9xTUN4QmhRT29qNlhWUWQ5VFRuQk5mSnFUS18yanNTaHlJX3VHdWFCd1B0NDlZMmJrRGk3M0kyVS1zTnk2TlNuV2R2MDlJTzNGTW5GR09HNWVBWjFRUVM1Z2pOc0ZsbWNfXzFld3JINENieHdIU1lWVVYxOHh6QkNSQkFiajc3RjRYOE42RjBCam5GZHlpS01HUlBkcFg2azA3VQ?oc=5",
       "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Smart Kitna din bad launch hua tha dikhaiye",
-      "score": -0.5
+      "title": "Kuch bhi?\nWithout informing the Numbers, data and facts about why you think the scheme failed, you'll bark \"SCAM SCAM\"?\n",
+      "score": -0.6
     },
     {
       "source": "youtube",
@@ -58,8 +57,8 @@
     },
     {
       "source": "youtube",
-      "title": "Orr kro prachar pahado ka brbad krwake hi manoge tum log in pahado ka😂😂😂😂😂😂😂",
-      "score": -0.1
+      "title": "Bhai july me landslide wagrh to nai hoti starting July me",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

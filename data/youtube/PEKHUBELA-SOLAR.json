@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-20T20:17:32.171Z",
+  "updated_at": "2026-07-23T20:09:19.335Z",
   "project_id": "PEKHUBELA-SOLAR",
   "query": "\"Pekhubela Solar Power Project\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 7
+    "comments": 10
   },
   "videos": [
     {
@@ -23,18 +23,18 @@
           "published_at": "2025-04-22T15:20:59Z"
         },
         {
+          "comment_id": "Ugwd5KlmtBmOGFp7Rrx4AaABAg",
+          "author": "@kanikamahajan8673",
+          "text": "Very informative and nicely explained 👏 👍",
+          "like_count": 0,
+          "published_at": "2025-04-23T04:40:18Z"
+        },
+        {
           "comment_id": "UgwViEthqcfRv1q1YLx4AaABAg",
           "author": "@upasanarana3988",
           "text": "💯",
           "like_count": 0,
           "published_at": "2025-04-22T15:46:57Z"
-        },
-        {
-          "comment_id": "UgxoiZN9crxp2d3GUsF4AaABAg",
-          "author": "@Aspirants-Achievers",
-          "text": "🎉🎉",
-          "like_count": 0,
-          "published_at": "2025-04-22T11:08:50Z"
         },
         {
           "comment_id": "Ugw11X5-OldA2XtmjiV4AaABAg",
@@ -44,11 +44,11 @@
           "published_at": "2025-04-22T11:58:02Z"
         },
         {
-          "comment_id": "Ugwd5KlmtBmOGFp7Rrx4AaABAg",
-          "author": "@kanikamahajan8673",
-          "text": "Very informative and nicely explained 👏 👍",
+          "comment_id": "UgxoiZN9crxp2d3GUsF4AaABAg",
+          "author": "@Aspirants-Achievers",
+          "text": "🎉🎉",
           "like_count": 0,
-          "published_at": "2025-04-23T04:40:18Z"
+          "published_at": "2025-04-22T11:08:50Z"
         },
         {
           "comment_id": "UgxZ17VsgDZMNd_dvK94AaABAg",
@@ -76,13 +76,35 @@
       "comments": []
     },
     {
-      "videoId": "yhl2JRpInt4",
-      "title": "Heartless, Shameless, and Oblivious | The Reality of Himachal&#39;s Congress Government |",
+      "videoId": "sPqRIm4GPbU",
+      "title": "Protest for wages in Himachal | Solar Power Project | Hungama | Employees  #latestnews #jairamthakur",
       "channel": "Bebaak Himachal",
-      "published_at": "2025-04-15T07:21:53Z",
-      "description": "हिमाचल की कांग्रेस सरकार की नाकामी का संवेदहीन सच्चाई सामने आई है।",
-      "comment_count": 0,
-      "comments": []
+      "published_at": "2025-03-23T03:09:32Z",
+      "description": "हिमाचल प्रदेश के ऊना जिला स्थित पेखूबेला में राज्य के सबसे बड़े सौर ...",
+      "comment_count": 3,
+      "comments": [
+        {
+          "comment_id": "UgyLSU476UyXXj_Rwz94AaABAg",
+          "author": "@Hindu-c3n",
+          "text": "Prozeal Green Energy Ahmedabad based company don't worry Manan Thakar or Shobhit bhai se baat karunga aapke liye",
+          "like_count": 1,
+          "published_at": "2025-03-23T09:59:48Z"
+        },
+        {
+          "comment_id": "Ugyju_NXGyF5uq008_d4AaABAg",
+          "author": "@Dharam-u2g",
+          "text": "Bekaar CM hai",
+          "like_count": 1,
+          "published_at": "2025-03-23T12:01:15Z"
+        },
+        {
+          "comment_id": "UgyOrwISD5tcCs72YzZ4AaABAg",
+          "author": "@navdeepsinghranote2972",
+          "text": "Most corrupt and papu cm of himachal. MINNING and forest cutting are on peak.",
+          "like_count": 0,
+          "published_at": "2025-03-23T08:16:28Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

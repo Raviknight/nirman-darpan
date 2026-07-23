@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-07-20T20:16:37.723Z",
+  "updated_at": "2026-07-23T20:08:22.187Z",
   "project_id": "KOLDAM-HEP",
   "counts": {
-    "press": 84,
+    "press": 86,
     "gov": 0,
-    "en": 56,
-    "hi": 28,
-    "total": 84
+    "en": 59,
+    "hi": 27,
+    "total": 86
   },
   "mentions": [
-    {
-      "title": "Hamirpur 33 लाख से फिटनेस सेंटर का हुआ नवीनीकरण - Janta Se Rishta",
-      "source": "Janta Se Rishta",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFpGS3NxX1BrLWVMZlBKNGZ5cWhPTnJ0aWhQM09MQlpHU25pcEZJN0d2S1cwQmtSa2dUNy16UUl6anJmNVZ4OXU4R3ozVnRhV2J0TERObG94SlFROXlQaEVwd3owX3NJMjZJbjcwM2psbUZLczhTd2pwaFBXUDZIbWlBUHNIZFBldkQ0Umw1RzJURU00WkdzS29KSnhnVERQamtkY1ZMZnbSAa4BQVVfeXFMTUNGek5Pd3BJNUsxbzFNdndtTEFyOFprbENJaHpaX0VmU19uSTZ6QkpKa1U4T1pVaVJwcjN3LXJTVGtSVjJNNDd2ajIzQ0YtMldtVXJUN3pGbWl3MUZrUTdNNVN2N1JKUVhnTzczclMxTkxqRHVKMlFsYjFtS21OX1dQSkxaWFZXVTJKNnlNbWE0Rm9xby1mUXo1eVp6aGhiSFlxc1lkWEJKWXJJRTBn?oc=5",
-      "date": "2026-07-17T08:36:51.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "NTPC Koldam"
-    },
     {
       "title": "Himachal: NTPC renovates fitness centre in Bilaspur for Rs 33 lakh - The Tribune",
       "source": "The Tribune",
@@ -110,6 +100,16 @@
       "match": "Kol Dam"
     },
     {
+      "title": "हिमाचल: कोलडैम पर उपायुक्त शिमला की रिपोर्ट ने चौंकाया, ...तो डूब सकता है पूरा क्षेत्र; 3 जिलों के DC को कार्रवाई का आदेश - himachal pradesh ntpc kol dam shimla dc report silt issue govt revenue minister action - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMWJOdTFGNV83VENvcFpPdXR6OXBqVHhDRFRUX1dzY1VpZW1Yb2V6dDc2aFBkRTE5Z1E3Nm5xZVFBR2d4TWxnQkNrNFJ0Tjdua1RMblF3Qi1jOVlMS0JNeUtfcmpwMFMzSG9SOFcydUxMUk5UWWlQVzdnMm5RSDcyMWl3TjI2cDMxcndabFV0LVNnUkY3ZXJ2QTRESWhZM3cwbmFCYVRKcmhiTENQZ0F3Q1kxeHRPY0pITzZpMHFxY0p6NjNJbFlyY2ZtUVFOTm9YQ0tRS20wWTlqek5HSDJaM1VITUJKa0k?oc=5",
+      "date": "2025-12-09T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kol Dam"
+    },
+    {
       "title": "सतलुज में डूब जाएगा तातापानी! रिपोर्ट ने सरकार को चौंकाया - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -140,20 +140,10 @@
       "match": "Kol Dam"
     },
     {
-      "title": "Stones fell from hills, 5 vehicles damaged in Himachal Pradesh: Chandigarh-Manali highway among 357 roads c... - Bhaskar English",
-      "source": "Bhaskar English",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaFBuNUx0REVCbk5XdlpVdTl6c1pFTlNCcFE1ZkVSRXB4RmVFcTNvSFR3cy0xRU1uR3hVcmVuTDVyd21UbUdpX2Y5TDZHTGMtR2lFZW93TWFnTXdKaWp5YXNxRExWaERhZno0cHJOTjBhZm1MN1RQWmJSSm9BVFVkTTNzaWd3SzRJU0FjVjkyXy1FUHVCRFJpWGptdzBZVGd6cC1qZ2xTZWRQX3RfYlVrYTdwLUN2RVdHRTB2aFVjS0V2bWJidUV1QjJrNHRFODJhQXlZSkVzcEFOMkhFd3hiYnVaYlFYNWMxTThpRnFKRzJGaGZWcUNJTGJfNWppVWFheHhsd0tCUmbSAY4CQVVfeXFMTWdHZUhOQV93b3J0M0d6TVJhRVJTSjZLcUlfNkZlNFUxX2NnZXVTUEw0TXprZGQtMjl1NTdVWFlLdVRBSkpKVGJ3bnlnbkFpNDZycGgySDJvUXpJa1dreFlEWWFsS1liRlZLdHJ2MjBUV2Vxd2ZjaGZLWWwzMldCdUlSY0xpalJlVDZJbHJxX0E1UVJkVDFIU0lPRkdlQ1h5Q3hhMExEZUdqX3E1WTQwNEp5X0hUTE83Tk1IdlNJZXVxV3lUZDU2YWR0MW1GU3B6SndEY0NNZGx3VHpjX2g5N3A5ZnV4WW1qOVJtbDZ0c1ZfZy1KN2JlcHVpUEJxV2JETlZWV0VfM1J2dWZCcFdR?oc=5",
-      "date": "2025-07-30T04:55:12.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kol Dam"
-    },
-    {
-      "title": "हिमाचल के 6 जिलों में बारिश का अलर्ट: कोलडैम से छोड़ा पानी, सतलुज का वाटर-लेवल 5 मीटर बढ़ा, पंजाब को सतर्क रहने की एडवाइजरी - Dainik Bhaskar",
+      "title": "हिमाचल के 6 जिलों में बारिश का अलर्ट: कोलडैम से छोड़ा पानी, सतलुज का वाटर-लेवल 5 मीटर बढ़ा, पंजाब को सतर्क रह... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM2xHY09wejdYc21CVmhyek5VVS1RUS1sSXotQWJ6VWUyLTRJa2I2b1hxRUZ0bFg4RU9EVHRKZU1yeWdjVDdFRUdhY2lNOU94V0d5Q0tzbl9MTEc3SGZGcUZqY25nWGl0T3hUUDlpU0RUODNUS0RqQ0ZkbWtsR3hnamhuZThnT2NURmVuX2RvS1p2bGNCMjd0dk1xaGFpdlE1NXhST2J6a1RHdzZldXpRdG8xU0ZwWXVIc0c1TXUzakEydXJzQmZ3Vm5vWVFHcjl6cjBRQ3k4TWJxV2JvYXJfNHFEeGo2bWVVSUtORnljT2xVNHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM2xHY09wejdYc21CVmhyek5VVS1RUS1sSXotQWJ6VWUyLTRJa2I2b1hxRUZ0bFg4RU9EVHRKZU1yeWdjVDdFRUdhY2lNOU94V0d5Q0tzbl9MTEc3SGZGcUZqY25nWGl0T3hUUDlpU0RUODNUS0RqQ0ZkbWtsR3hnamhuZThnT2NURmVuX2RvS1p2bGNCMjd0dk1xaGFpdlE1NXhST2J6a1RHdzZldXpRdG8xU0ZwWXVIc0c1TXUzakEydXJzQmZ3Vm5vWVFHcjl6cjBRQ3k4TWJxV2JvYXJfNHFEeGo2bWVVSUtORnljT2xVNHfSAfgBQVVfeXFMTTdHX2FDcEdQcnk0NTJiSE91ZjN5enI1NVVpUFd6M0ZoajBpT0J5eDJOZ0owcVdwTlFBMHRId0ZENGh6TnFXTHA1T1J2S2dPUS0wUFJvZzdILTNYY0owMEtIOGUwOEdyMUJMdmx5QXdHcURja0g5LWUwMFE0Ykdic2U0aDhQeW1sWTVIcHZWcDRMQVZzWW9VSE9xREs0RFNTcklmZzBXZG5xUUtwOFN2LUxjOTg3SlVzamxsU2JjdXEwaTdxeUxVeE92V2w4Yzl0N0llY0hSUEJiU0VvNF9Kdmt5VWxFS0Z2dF9PZUZldHNPbjVJZjRDejQ?oc=5",
       "date": "2025-07-24T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -178,6 +168,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Koldam"
+    },
+    {
+      "title": "Stones fell from hills, 5 vehicles damaged in Himachal Pradesh: Chandigarh-Manali highway among 357 roads c... - Bhaskar English",
+      "source": "Bhaskar English",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaFBuNUx0REVCbk5XdlpVdTl6c1pFTlNCcFE1ZkVSRXB4RmVFcTNvSFR3cy0xRU1uR3hVcmVuTDVyd21UbUdpX2Y5TDZHTGMtR2lFZW93TWFnTXdKaWp5YXNxRExWaERhZno0cHJOTjBhZm1MN1RQWmJSSm9BVFVkTTNzaWd3SzRJU0FjVjkyXy1FUHVCRFJpWGptdzBZVGd6cC1qZ2xTZWRQX3RfYlVrYTdwLUN2RVdHRTB2aFVjS0V2bWJidUV1QjJrNHRFODJhQXlZSkVzcEFOMkhFd3hiYnVaYlFYNWMxTThpRnFKRzJGaGZWcUNJTGJfNWppVWFheHhsd0tCUmbSAY4CQVVfeXFMTWdHZUhOQV93b3J0M0d6TVJhRVJTSjZLcUlfNkZlNFUxX2NnZXVTUEw0TXprZGQtMjl1NTdVWFlLdVRBSkpKVGJ3bnlnbkFpNDZycGgySDJvUXpJa1dreFlEWWFsS1liRlZLdHJ2MjBUV2Vxd2ZjaGZLWWwzMldCdUlSY0xpalJlVDZJbHJxX0E1UVJkVDFIU0lPRkdlQ1h5Q3hhMExEZUdqX3E1WTQwNEp5X0hUTE83Tk1IdlNJZXVxV3lUZDU2YWR0MW1GU3B6SndEY0NNZGx3VHpjX2g5N3A5ZnV4WW1qOVJtbDZ0c1ZfZy1KN2JlcHVpUEJxV2JETlZWV0VfM1J2dWZCcFdR?oc=5",
+      "date": "2025-07-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Kol Dam"
     },
     {
       "title": "All Himachal dams are operating within safe limits amid cloudy weather and high inflows: SDMA - ANI News",

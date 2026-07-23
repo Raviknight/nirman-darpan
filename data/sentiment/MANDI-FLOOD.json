@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T20:17:48.101Z",
+  "updated_at": "2026-07-23T20:09:35.816Z",
   "project_id": "MANDI-FLOOD",
   "press": {
     "n": 0,
@@ -10,54 +10,22 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 3,
+    "n": 0,
     "positive": 0,
-    "neutral": 2,
-    "concern": 1,
-    "avg_score": -0.1,
-    "avg_magnitude": 0.167
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 3,
+    "n": 0,
     "positive": 0,
-    "neutral": 2,
-    "concern": 1,
-    "avg_score": -0.1,
-    "avg_magnitude": 0.167
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
-  "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Send choppers",
-      "score": 0.1
-    },
-    {
-      "source": "youtube",
-      "title": "Gadkari USA roads",
-      "score": 0
-    },
-    {
-      "source": "youtube",
-      "title": "Where is the government of himachal pradesh??",
-      "score": -0.4
-    }
-  ],
-  "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Where is the government of himachal pradesh??",
-      "score": -0.4
-    },
-    {
-      "source": "youtube",
-      "title": "Gadkari USA roads",
-      "score": 0
-    },
-    {
-      "source": "youtube",
-      "title": "Send choppers",
-      "score": 0.1
-    }
-  ],
+  "top_positive": [],
+  "top_concern": [],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

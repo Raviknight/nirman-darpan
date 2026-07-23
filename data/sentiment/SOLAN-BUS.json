@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-20T20:17:51.754Z",
+  "updated_at": "2026-07-23T20:09:41.405Z",
   "project_id": "SOLAN-BUS",
   "press": {
-    "n": 6,
+    "n": 5,
     "positive": 2,
-    "neutral": 2,
+    "neutral": 1,
     "concern": 2,
-    "avg_score": -0.1,
-    "avg_magnitude": 0.4
+    "avg_score": -0.14,
+    "avg_magnitude": 0.46
   },
   "youtube": {
     "n": 37,
-    "positive": 17,
-    "neutral": 16,
-    "concern": 4,
-    "avg_score": 0.151,
-    "avg_magnitude": 0.232
+    "positive": 21,
+    "neutral": 9,
+    "concern": 7,
+    "avg_score": 0.162,
+    "avg_magnitude": 0.443
   },
   "overall": {
-    "n": 43,
-    "positive": 19,
-    "neutral": 18,
-    "concern": 6,
-    "avg_score": 0.116,
-    "avg_magnitude": 0.256
+    "n": 42,
+    "positive": 23,
+    "neutral": 10,
+    "concern": 9,
+    "avg_score": 0.126,
+    "avg_magnitude": 0.445
   },
   "top_positive": [
     {
@@ -38,11 +38,16 @@
     },
     {
       "source": "youtube",
-      "title": "Kya abhi available h im interested",
-      "score": 0.5
+      "title": "Staying and waiting for the current to calm down s better than risking.",
+      "score": 0.6
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "This guy is really risking his own life yet quiet brave enough to save this woman.. How on earth can this people go to t",
+      "score": -0.8
+    },
     {
       "source": "press",
       "title": "Himachal BJP chief's 80-year-old brother arrested for alleged sexual assault - The New Indian Express",
@@ -52,12 +57,6 @@
     {
       "source": "youtube",
       "title": "Bhai koi job milega kya please help me",
-      "score": -0.6
-    },
-    {
-      "source": "press",
-      "title": "Forensic report backs rape allegations against Dr Bindal: Solan police - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT1ZXSzVXLVI3cVdlRTk4X3hnbENhTFR1cTV5cGZMYktVSDR4V2NxNjE5UEVOWFVEV084bUN3ZHpZakY1NURHVjJmNFl6WV9WaWFDUWxGQXFSNHpTRDNLcUpJOGFJa0JFWkVWeTBHWnRrQnZybkJfNzNTV0lndXAxbGlZWDJwYjdoa25iSHo0eXBCN21UdW03Wnh2LUlNS0JubkdGR1c3Um1PUEUyQ1A0T3RwaTJEdlJfYUV5Z2JwQzFPUjBqZ3dPUVIyeWx2cUdLa0hJSkE5SVJ0bmpuOGZNR9IB5gFBVV95cUxQQmR6cXhGLTRfdmJlTlowVmIwanotYllTSGVJckNQWDZnU2RCb0ZPckVyUmdXbHRWb2JwOExDZzYwdk9KYURKSGFxZk1iRVdFTjJ3Y2VUZ3Zab0tweGMxQWlGcHRqU0dmSVlxOHdQYkNiYWtDeVc3cWFYdFRmaEIySnpEUWo0dU5WMTkzNlZhTjIzcGZzVFFIaVZJVkxpMFRtY09oRloyQkRrNndhOGFucmdsa05sREg5OE5vUFdpOXZQQkc3bmU4aXdjUW1TOWpRMEx1Tm1CczJTVmZ3Rk1XdjltRmJRUQ?oc=5",
       "score": -0.6
     }
   ],

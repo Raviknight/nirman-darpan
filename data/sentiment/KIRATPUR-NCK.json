@@ -1,45 +1,46 @@
 {
-  "updated_at": "2026-07-20T20:17:36.906Z",
+  "updated_at": "2026-07-23T20:09:23.797Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 20,
     "positive": 7,
-    "neutral": 8,
-    "concern": 5,
-    "avg_score": 0.015,
-    "avg_magnitude": 0.36
+    "neutral": 7,
+    "concern": 6,
+    "avg_score": 0.01,
+    "avg_magnitude": 0.32
   },
   "youtube": {
-    "n": 12,
-    "positive": 6,
-    "neutral": 5,
+    "n": 6,
+    "positive": 3,
+    "neutral": 2,
     "concern": 1,
-    "avg_score": 0.275,
-    "avg_magnitude": 0.467
+    "avg_score": 0.25,
+    "avg_magnitude": 0.483
   },
   "overall": {
-    "n": 32,
-    "positive": 13,
-    "neutral": 13,
-    "concern": 6,
-    "avg_score": 0.113,
-    "avg_magnitude": 0.4
+    "n": 26,
+    "positive": 10,
+    "neutral": 9,
+    "concern": 7,
+    "avg_score": 0.065,
+    "avg_magnitude": 0.358
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Perfect video, thanks for information, please make latest on tunel 1and tunnel 2 .",
+      "title": "wow great news thanks for sharing",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "SUnderNagar Mandi tab bnana bhai kabhi same style mein :-) appriciate your work.",
+      "title": "Men to aj hee aya very good",
       "score": 0.8
     },
     {
-      "source": "youtube",
-      "title": "very nice Which camera you are using ? Good quality output.",
-      "score": 0.8
+      "source": "press",
+      "title": "फोरलेन पर कुल्हाड़ी हमला मामले में बड़ा खुलासा, वारदात में इस्तेमाल गाड़ी मालिक गिरफ्तार - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUE92bmdpUHE4NnVlUzdvczViYkU4NGItRVFCTWpwN0pkSFByNGxXeC1uWkJfZ244QzBmM1ZzdGpZUjltUHhvNVgybWthdTRqRzlObHBob25pM09fZ3Z1eXJnbGRQZWdqT01kN0s4TTRSSlA2VFIxWjNRU2tQd2c0TWthZENZZG5nZmNHZ0paeTVMeHJkSjVGeFd3OUNRSFJybGJhb0RMSUI3ZjhMYWtKVW5pUWgyR1ZiQzRyaC1hc2hCMFAySjBTUEtUS2paLUlwM0x1NnRZemd2QnlZc2hwX0Fn0gHnAUFVX3lxTE9wT3c4VDEtV2R0MEdMU3ZRcVkyVVpJbHZwV1Q5MkNhMjAtM1pPdFNaQThjcGlTUUNlcEIxNVh6SEJsZjFrVDdrdTdPVnk1SjNJYU5yWFB4TmZhYzVBZUVpMldaWkE5R25Ra0J6S2VuOElXOHY1MTIwbkh6MjJrdmJsc3VrdllsZk9KZEt6cUNvWnlGWWI0cGIwX2ZLS0UyQ3NfNVV0VVp1SGZ3Z0loVHZyTHcwdXhMQTJ6UDlEVzljcXRUNlVyN3FDSE1iQVRBZm84TTAwdmlFbFVCdnVfTklZQ3d6U0NCaw?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
@@ -56,10 +57,9 @@
       "score": -0.6
     },
     {
-      "source": "press",
-      "title": "Chandigarh-Manali Highway Accident: Five tourists injured as vehicle turns turtle - Babushahi.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WUDFFU2czNzJMLXdfT0x4SW5TSGFHRy03Nk9LM2dDU2lJVkVZc254N1VpV1p6WFRLLS0yTmpsa1h2cXFpb05mMUNZQVIzQk5UVHBOUTF3NTN3dDJDRXc?oc=5",
-      "score": -0.4
+      "source": "youtube",
+      "title": "Why only one tunnel for fourlane",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

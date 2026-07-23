@@ -1,45 +1,47 @@
 {
-  "updated_at": "2026-07-20T20:17:42.472Z",
+  "updated_at": "2026-07-23T20:09:29.252Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
     "n": 20,
-    "positive": 5,
+    "positive": 6,
     "neutral": 9,
-    "concern": 6,
-    "avg_score": -0.02,
+    "concern": 5,
+    "avg_score": 0,
     "avg_magnitude": 0.28
   },
   "youtube": {
-    "n": 27,
-    "positive": 21,
-    "neutral": 6,
-    "concern": 0,
-    "avg_score": 0.47,
-    "avg_magnitude": 0.978
+    "n": 23,
+    "positive": 6,
+    "neutral": 13,
+    "concern": 4,
+    "avg_score": 0.065,
+    "avg_magnitude": 0.178
   },
   "overall": {
-    "n": 47,
-    "positive": 26,
-    "neutral": 15,
-    "concern": 6,
-    "avg_score": 0.262,
-    "avg_magnitude": 0.681
+    "n": 43,
+    "positive": 12,
+    "neutral": 22,
+    "concern": 9,
+    "avg_score": 0.035,
+    "avg_magnitude": 0.226
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "God bless you and best of luck 🙏🏼🙏🏼😇😇🌻🌻🌷🌷❤❤and thank you dear sir for watching to this most beautiful atal tun",
+      "title": "Wow very beautiful ❤",
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "Very good.\nGod bless you.",
-      "score": 0.9
+      "source": "press",
+      "title": "दो बाइक, 10 जांबाज और कारगिल को सलाम… सेना की ‘संचार शक्ति’ ने अटल टनल में बनाया विश्व रिकॉर्ड - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVlNwSTVfRnMxWGQ5NnZsRWNNN2FzQ2VsLWoxX3UzajhkVHBzb0tnYXplRnR6SVVtaDRRRHdmdkk4OUs2T0JjdWt6ZnRmV3NrbzVnNUsxUkdnOEpnaW45NVBaN0daMFFhekozWElzSFlLSE9YZjJWV0hXWVJyNkRiSXVoME9LaGkzQXZnaVNpemx5ZHNtUFQtbGlYanhPUGRVYWRqY1BGSzZUUWpJQktlVDlMc1NESDkyVG8wOEt3VVhrWUxydzN4QjdCUXVQanpTZVhqSkZYbWd1dw?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "charming. thanks for the description",
-      "score": 0.9
+      "source": "press",
+      "title": "बर्फबारी के बीच रोहतांग सुरंग का कार्य जारी - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjEtSVlBME1NMjlQblRPdF9JYjdydXg4T3ZEZTRnMnk4YTE4UE1kNnhYdWFHemlENVRQbGQ3LUFLVENVMnNjdnBjamVJVVVtNERpUDFvcmlHclVnLXJkeS1xZU13QTVQOEhwb1NUNW0yZFhDdXRRWUYzeVU5NUVtWVNyNFjSAYoBQVVfeXFMTjcycVlNX2Ywdk5Ga0NsTTlsOUlXd0FxSm5jSWxMTHpFSVowRHlOdzhoU19oVHFDRE9KR096YS10STkzenFHd0VVdGltcUM4c2dTMjl6MmZmUmhvakV0VFVXY2Qzc2hvVXFCT3RNaVV6dTR2N2taLVNuSXlFa1ZkZ2M4cFlZLU8tbXR3?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
@@ -57,8 +59,8 @@
     },
     {
       "source": "press",
-      "title": "Dramatic video of SUV crash near Atal Tunnel surfaces: Vehicle lands on steel rods, 1 killed - WION",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSmF0anNFcEx4WElQaHp4ZURkUWozTG1TaXByMlNwSjFvY0VaczVqMjlwY1REeS1pak5naGtwcUt0NzZ4YzdNNXZsb0ZrQ3doNWsyOG1QYVotanNtNXg4cjdLVHJVN0tEZ2h4Wl9pRjdTMTVrRXZYaUd5c2llYV9sZ092Nk9GeW8zcjRHbEg5dC1fNi1HcjdEQ01MaGVOQmRTM3pnZFpmU0VsbWNSX05sSXdjeU5WTWpUTzZra21ZeXZRQXhLQlB3UUl1Q2dIdWhrVHB0X1lB0gHbAUFVX3lxTFBGWFl6RzVUODR1MGZOVkk5NWxuWEt0eGk2MFdneUhObi1LRzF1UUloNUJReFJkdlRjUTdubmhWN01uUHQ4Ni1sZ2FwUG1Ycm5UaUZqUlpNR3VjUHlxVnQ4Nld3U3I1aWxYNmNEcndyOFlUdW1UZW14NU9hb0FYeFp3cmwtT2NzanZ5YXYtc2tGYkpRVlN2d2k1c3ZKS2RESDNwSFFlVm92b0diQlY5V0dxN0pUZWRodHBoUUd3WnNEVE92Y2ZyZlFzUFZ6ZTdvdDlHVXZDWmowelEwQQ?oc=5",
+      "title": "Tourist dies as Scorpio plunges off road, crashes on under-construction bridge near Himachal's Atal Tunnel | Video | India News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeFpiQ21yMVBESzllT2FPNldSVFNsUHNudjViWlpLNEU3NmxuRHV3X2s1WngzbW9VUU5ZMWd1UDk4WGlranptT1NmaENMMXJkTG9wd21ZQzN6aUJ5Nkk3VFJLSjRMYUEzb3lLdUx6WEtfRVdaX0dUUG9fZEtSLW9mZFhMNGQwRU5Yd3BDUFlwNnJ3VmhWTmlYb0RGSnlHRzZZQWdMNWVSVWlHWHRuVGZubG92MmJQRExYcEpzSEo2TmNidzlqZTdXYVpuWjhIbU85eXFsMHZUQV93UkMwdmxEMlBDWFNqOVFFUDJxcjhJcjJEQm9pTzdPUWloMEw1Uk9FeWhtNXlLOV9RN2sw0gGSAkFVX3lxTFAta09ReFFnUlM4NU0zSEpPLVE2clE4X0trU0g0MV9sWl8wQ3V4NDBjVDAzTHBfRUdjRkZVY3lmMDRtUmM2TUFfOGhzNVVvcVRHX2hrMm1tRFdueGhueFZ5blJtNDhRcGhiMjZRWVFmRENJa0pLZ1BIODkwR2E0MkhrZlBlemZZQ0FiV25GNGZCbVRhd1pQdDJ2Wll2WHNENzJlVGoyTjFNZWZhTXZNUWJ6eDRKckw4aUh3ZEkyM3FudnBzdlZESUxRcW5nUk42eE50cWgzdGVEejFUaUx1V3RDV2hsSmRGZG53VmhzbDRtczQzak9QMjJEc0QzNEg1c3pyVmtEZmY2TGpHcnlUei1leXc?oc=5",
       "score": -0.4
     }
   ],

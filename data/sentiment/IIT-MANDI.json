@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-20T20:17:44.730Z",
+  "updated_at": "2026-07-23T20:09:30.941Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
-    "positive": 9,
+    "positive": 6,
     "neutral": 11,
-    "concern": 0,
-    "avg_score": 0.205,
-    "avg_magnitude": 0.225
+    "concern": 3,
+    "avg_score": 0.065,
+    "avg_magnitude": 0.205
   },
   "youtube": {
     "n": 22,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 42,
-    "positive": 23,
+    "positive": 20,
     "neutral": 16,
-    "concern": 3,
-    "avg_score": 0.231,
-    "avg_magnitude": 0.393
+    "concern": 6,
+    "avg_score": 0.164,
+    "avg_magnitude": 0.383
   },
   "top_positive": [
     {
@@ -32,15 +32,15 @@
       "score": 0.9
     },
     {
-      "source": "press",
-      "title": "आईआईटी मंडी ने हिमालयी क्षेत्र के लिए विकसित की भूस्खलन पूर्व चेतावनी प्रणाली - ThePrint Hindi",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGIwOHF4RHNFWTQ0Ynl6dDFhaFhmRF9zajJPeVlrTVpHa2NRYUhaaXZtSmstaFdrM1R2eEhvTnRXREZhMnplcUpuZzZhREhXb21sQnVoakhEY2dSTE40ZU9xRnhWRmhpbjFWdHNZMmJVY09UNFVyYUhsUFA0aVdZcmt3SENGUHJNc3ZpQ0RmcXNpbS1aY19xZC15c1BLMHRPVXN5c3ZTeGs2SnlFcUFGaGRmSnDSAboBQVVfeXFMTkN6WHVtOFc2cVVYYU9SNC15MS1XT0NJQWk1Y0N2ZlU0RzE4SjQyQUp5T2pQTDJ3czhDWmhGc3V0dlpwaWphZEdqYzlBSXIzUHBiVHQySzV0aXRyUzRyOFR5S09yMUtWdk5yMndjdTRzd0pPdXZicXZaUWtEMkd5LWZjLWdteUVObVdJekgzWUtKQWlFOXlZamU1MkFxVXZTMEZYQ2VsV3pkc0MwMXlQNFFYSEVsRDJnNzVR?oc=5",
-      "score": 0.8
-    },
-    {
       "source": "youtube",
       "title": "I see it every day 😂😂😂",
       "score": 0.8
+    },
+    {
+      "source": "press",
+      "title": "लाखों का पैकेज, विदेश की नौकरी छोड़ फौज में जाकर कमाया नाम; अब IIM से MBA कर रहे कैप्टन अमर - Hindustan",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeW9hSDVvUXJGTWVQb2dJQ0Uwa1BIc1B1TExjbVhwYUQ3ZmhnUlRQRXBjdG13dWo1cE9oNjBnVWdJUWdiRi1aWDhnZkdqdWM4dUtSMGJmZWZLbHVqVEpRNGVwYnluRXRhWGllMW5yXzAwamxBbGxOcjA2QUlUWHVmNkoza0ViWmxneUI5Nkd4aUFPNTdWS3ZwMEtHVGNOQnE2MGJkSEVBVFRJdVQtNFFRTnRnVGNSWTRudGtlVDJUSGtVY0REMmc5cE1LemJHcG1H0gHWAUFVX3lxTE1HWmd0U2pXcEJkUGJEdEZsYjJ2d3ZsMHlYNk4yX3NwMFd6RDhscjlmUHZzTTFLOGQ5cWJJbW1IX3JsbENXWTAzN01KM3EwQjNOLUQ2ZGRIS2ZCTm9mU1pPM2pEQklNYXhYd2hGWE11UkJSN01SU2RpSF9DQzZMeURNc2JTSGJ0UXEta2VVcU5Ga0RvYko5X0gwRmFaZFlXaFI3Rmo2MktOak1tQ2hJcUpNaTZqc2RrVFd3NEFiVG1WMkVWNk45QkNRS0toWHo0OS1KbzRFSnc?oc=5",
+      "score": 0.6
     }
   ],
   "top_concern": [
@@ -50,14 +50,16 @@
       "score": -0.8
     },
     {
-      "source": "youtube",
-      "title": "Sir without experience apply kar sktae hai",
-      "score": -0.3
+      "source": "press",
+      "title": "He left an IIT degree and a corporate job in Dubai to wear the Army uniform; now this former Captain has - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNbkVCTjZjU3FJWmdxSnJ0eHZ0TUNoRkdQNWFOZ0xQTmNhQkpUczREZUliaFpuNFRILTFDektLd2VVZFF5Y29NQ0FnV0lYSzlHQTJkX0otU19MSWFwaDFwVXZ2MnJpUmlOTDctYXhFQXBsSlh2OFV2b3Z3X1ozZG9lM2M4b2o3dlVLZjRFWnRMUVQ2MXRVVnNZeUV0Ulp5STBnb3NieEpYblZSVml6dnVZby1veDcwMEFyS01LbUI5VDBpNkNRdFBnSDVLckJtVUF2YUlOSDVhZXpBVTVPWWFPZVNReGFObVhuVW9mNjBVdjc2WGNXQVNUbTlHMDZXNk9nOG5Fa2Z3eUh2dUR5QUxLTlZZaVp4dVlmNWJSZnFaU1VkVTkyVlA00gGsAkFVX3lxTE4xc2VKSmNVVlpxVVRvbkQ0U3FTMlBrWFg2RGJxbG9OS2ZxVU5Sam5nMVYzUUNXMXFiaF8zd0tjQlZXWVIxQWcyYXFXZnk5QUFEVVF0UC1CVTZrWkR0c1JZNmVUS2N6UUdHNWxPZlZLcmxmbE4wTlV5cE5qZ0w1ZnVFN2pVQzF5b04tMHc4cUdFdjVwUW1mMERJR2NYX0ZYSkNVM21vZFR5TDRPY1hQWU1PNl9kOVpJN1VZV1d6SUdEaGs1MjhxUG9GTFdMR2tiTGhDSk1COWVIWmlFalE1akhra2JEVU43aTh3M1YxdEZWNjdVQ3BrZ3VoYnB0cEh3QlNfZ3dPdTJHeWFWZ1daMzdjM0c2QUNaMnpZaGVfSHJoRUp2SElRZG0tSWg0Rw?oc=5",
+      "score": -0.5
     },
     {
-      "source": "youtube",
-      "title": "Syllabus provide krwa do😢",
-      "score": -0.2
+      "source": "press",
+      "title": "Himachal Pradesh on high alert as red alert issued for heavy rains; all schools closed in three districts - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZFZYNS1jTlFzQkJyWTZxOW9xWlBUTzJKTUVRa3cxSnNCVm5DcGdzZG5JdE9Tam9CTzdLSW5KMHRIcFlQdVNscDk1eElHbHd5RjNQTDYzTlNuRGNESjVqYzNLemJNaXVoUUkyZ0I3MzVKS180N0FNYmhibndrMGNmN1RlQUVhMHY5S0Ywbk5IWFhjT1cyOHpFR1pidlhHajd0SjAybFBYVTFXb2JWM1J0Q2VOU3IxMjFwYTA0Vkt1VU43LUcxWWlTck56Zm1nU0c4QjgwcXFKUFlhVF9UbmltWEM3em00UDBHNW9hUXQzUm1wVUxZSm9vNFVicGk1MEFSdERyLWlVX1h4aFAz0gGTAkFVX3lxTE1RemI3bHMzdTBpYTJUUkt5VmFtZ0NVZ3VTY25QQ2s5QkNORXBNRGNPX0g4SEIzM1ZwbHNHY2ZEMlRiUU1sWE0xQkwzUWFNWVRRbHhmVVBvaFdhTHRWTThMMFYxNWl3emZEU2swVjhad25vb2xQZ1hwdzFZSHo2QzMydl9KMHpfQVVrR2dWSWVmckhSckEzbFUydDdDdkpMUHBVcGJGNE1Qb09jbWJFRjVSSXFfemQ3YkJ4QzJTN3FQUGFEdUtXZG5RTVpLRDJCdm9sSkEwWnZLTFVtUjB2aXcxMURzS2p4LVBUaEhFUWdnN0hiZnFXaTJmSmJ4dWhjaVJSYmYybGktcE83ZkpuSDVuUkx3?oc=5",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

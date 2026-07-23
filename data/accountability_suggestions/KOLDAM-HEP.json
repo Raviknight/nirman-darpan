@@ -1,22 +1,8 @@
 {
-  "updated_at": "2026-07-20T20:17:12.426Z",
+  "updated_at": "2026-07-23T20:09:01.116Z",
   "project_id": "KOLDAM-HEP",
   "count": 2,
   "suggestions": [
-    {
-      "category": "defect",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-02T13:28:24.745Z",
-      "title": "Stones fell from hills, 5 vehicles damaged in Himachal Pradesh: Chandigarh-Manali highway among 357 roads c... - Bhaskar English",
-      "summary": "Auto-detected from press: \"Stones fell from hills, 5 vehicles damaged in Himachal Pradesh: Chandigarh-Manali highway among 357 roads c... - Bhaskar English\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaFBuNUx0REVCbk5XdlpVdTl6c1pFTlNCcFE1ZkVSRXB4RmVFcTNvSFR3cy0xRU1uR3hVcmVuTDVyd21UbUdpX2Y5TDZHTGMtR2lFZW93TWFnTXdKaWp5YXNxRExWaERhZno0cHJOTjBhZm1MN1RQWmJSSm9BVFVkTTNzaWd3SzRJU0FjVjkyXy1FUHVCRFJpWGptdzBZVGd6cC1qZ2xTZWRQX3RfYlVrYTdwLUN2RVdHRTB2aFVjS0V2bWJidUV1QjJrNHRFODJhQXlZSkVzcEFOMkhFd3hiYnVaYlFYNWMxTThpRnFKRzJGaGZWcUNJTGJfNWppVWFheHhsd0tCUmbSAY4CQVVfeXFMTWdHZUhOQV93b3J0M0d6TVJhRVJTSjZLcUlfNkZlNFUxX2NnZXVTUEw0TXprZGQtMjl1NTdVWFlLdVRBSkpKVGJ3bnlnbkFpNDZycGgySDJvUXpJa1dreFlEWWFsS1liRlZLdHJ2MjBUV2Vxd2ZjaGZLWWwzMldCdUlSY0xpalJlVDZJbHJxX0E1UVJkVDFIU0lPRkdlQ1h5Q3hhMExEZUdqX3E1WTQwNEp5X0hUTE83Tk1IdlNJZXVxV3lUZDU2YWR0MW1GU3B6SndEY0NNZGx3VHpjX2g5N3A5ZnV4WW1qOVJtbDZ0c1ZfZy1KN2JlcHVpUEJxV2JETlZWV0VfM1J2dWZCcFdR?oc=5",
-      "source_name": "Bhaskar English",
-      "lang": "en",
-      "date": "2025-07-30T04:55:12.000Z",
-      "matched_term": "damaged"
-    },
     {
       "category": "incident",
       "severity": "high",
@@ -30,6 +16,20 @@
       "lang": "en",
       "date": "2025-07-22T05:41:32.000Z",
       "matched_term": "injured"
+    },
+    {
+      "category": "defect",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T13:28:24.745Z",
+      "title": "Stones fell from hills, 5 vehicles damaged in Himachal Pradesh: Chandigarh-Manali highway among 357 roads c... - Bhaskar English",
+      "summary": "Auto-detected from press: \"Stones fell from hills, 5 vehicles damaged in Himachal Pradesh: Chandigarh-Manali highway among 357 roads c... - Bhaskar English\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaFBuNUx0REVCbk5XdlpVdTl6c1pFTlNCcFE1ZkVSRXB4RmVFcTNvSFR3cy0xRU1uR3hVcmVuTDVyd21UbUdpX2Y5TDZHTGMtR2lFZW93TWFnTXdKaWp5YXNxRExWaERhZno0cHJOTjBhZm1MN1RQWmJSSm9BVFVkTTNzaWd3SzRJU0FjVjkyXy1FUHVCRFJpWGptdzBZVGd6cC1qZ2xTZWRQX3RfYlVrYTdwLUN2RVdHRTB2aFVjS0V2bWJidUV1QjJrNHRFODJhQXlZSkVzcEFOMkhFd3hiYnVaYlFYNWMxTThpRnFKRzJGaGZWcUNJTGJfNWppVWFheHhsd0tCUmbSAY4CQVVfeXFMTWdHZUhOQV93b3J0M0d6TVJhRVJTSjZLcUlfNkZlNFUxX2NnZXVTUEw0TXprZGQtMjl1NTdVWFlLdVRBSkpKVGJ3bnlnbkFpNDZycGgySDJvUXpJa1dreFlEWWFsS1liRlZLdHJ2MjBUV2Vxd2ZjaGZLWWwzMldCdUlSY0xpalJlVDZJbHJxX0E1UVJkVDFIU0lPRkdlQ1h5Q3hhMExEZUdqX3E1WTQwNEp5X0hUTE83Tk1IdlNJZXVxV3lUZDU2YWR0MW1GU3B6SndEY0NNZGx3VHpjX2g5N3A5ZnV4WW1qOVJtbDZ0c1ZfZy1KN2JlcHVpUEJxV2JETlZWV0VfM1J2dWZCcFdR?oc=5",
+      "source_name": "Bhaskar English",
+      "lang": "en",
+      "date": "2025-07-21T07:00:00.000Z",
+      "matched_term": "damaged"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

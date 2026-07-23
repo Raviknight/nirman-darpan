@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-07-20T20:17:12.413Z",
+  "updated_at": "2026-07-23T20:09:01.108Z",
   "project_id": "MANDI-AIRPORT",
-  "count": 1,
+  "count": 2,
   "suggestions": [
+    {
+      "category": "grievance",
+      "severity": "low",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-09T20:43:51.923Z",
+      "title": "Himachal Pradesh’s poorly planned Mandi airport risks its limited fertile agricultural land - The Caravan",
+      "summary": "Auto-detected from press: \"Himachal Pradesh’s poorly planned Mandi airport risks its limited fertile agricultural land - The Caravan\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3Z3cEUxbHF5bzFKOEQtWWxicHV2LVJnV25GbzlUYVUxbDc2S2NmZjZYZUV2NFFQZXI1QjkxV3pqcWZpNm1LVDRvLVM5amVEWm5WeWtxLVY1N3F5cjkydnR3UGxsMlVTVFo3UmJaamJsa2M0TFM3TW0xNk8tOGlpc2tlRU9MekI0cEVURTRLZTFmRUFVWUFJNHloZjdFVVlFMHpzVGVrQ2lnaWRsWEFSYUd2b2hOSTZGSlV1ODRGTFd5TVhGd3dmSA?oc=5",
+      "source_name": "The Caravan",
+      "lang": "en",
+      "date": "2021-09-30T07:00:00.000Z",
+      "matched_term": "rti"
+    },
     {
       "category": "grievance",
       "severity": "low",

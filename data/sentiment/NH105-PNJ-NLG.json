@@ -1,37 +1,31 @@
 {
-  "updated_at": "2026-07-20T20:17:47.355Z",
+  "updated_at": "2026-07-23T20:09:32.989Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 20,
-    "positive": 10,
-    "neutral": 4,
+    "positive": 9,
+    "neutral": 5,
     "concern": 6,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.3
+    "avg_score": 0.02,
+    "avg_magnitude": 0.27
   },
   "youtube": {
-    "n": 0,
+    "n": 2,
     "positive": 0,
-    "neutral": 0,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": -0.05,
+    "avg_magnitude": 0.55
   },
   "overall": {
-    "n": 20,
-    "positive": 10,
-    "neutral": 4,
+    "n": 22,
+    "positive": 9,
+    "neutral": 7,
     "concern": 6,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.3
+    "avg_score": 0.014,
+    "avg_magnitude": 0.295
   },
   "top_positive": [
-    {
-      "source": "press",
-      "title": "नवम्बर में शुरू होगा पिंजौर-नालागढ़ फोरलेन का कार्य, गुजरात की कंपनी करेगी निर्माण - Punjab Kesari",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVEJwX1JNRks5Rkh4WHBYcW9ob1FWZFlBbmxrZzNwSkRmcnFzOGwyM1FDSGFzRkFNM0MtNlpfS01MMk8yUkhPcnBUbnlKdy1Bb3NjR3VfcDZVZ0EzQlV5OWpiSEE1b0FDTzROTUlDNGlYc3g0NkVrZERMMzhIUXF6T2pKR0wxVldxLXdxNzA3aG9kV3FjN3FCUDVmTlFuQmlHNHBMc3RYekk5VGVkaDhXUVpHV3p6MzTSAb8BQVVfeXFMTzJkQUIzVkxibkYwbm5wYUY4aGJoUDk0QVh6STNWMTRKMl9iSjFudmd0MzdIUDEtZnJZVkZHQnQxQUhacUVMbGJlMkJrY01JdWtzcC1aN19nQmhDWnhhc1B4cTdWMTR0WEloZzBYeTgyN2dHY0VjMTZzdUY0U0x1RVp0MzFaaFpHa3RTVFRJV3BybTVLQTBDeXdBdEZLR0hJVjFVVURtVkU0RGo1RjBVSmZrdGxkSGlDSDNwY01wTzA?oc=5",
-      "score": 0.6
-    },
     {
       "source": "press",
       "title": "पिंजौर-नालागढ़ रोड़ को पौने 14 करोड़ - Divya Himachal",
@@ -42,6 +36,12 @@
       "source": "press",
       "title": "17वीं बार स्थगित पिंजौर–नालागढ़ फोरलेन टेंडर अब 24 अप्रैल को खुलेगा - Dainik Tribune",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVNlVDJXQnB3RE5vT0F4TlVxVmdNZzNZbF9LQ3V3RFY5ZXdHM2xfeDN1bnRtRDNRbC1TWXVFY0l2YzllT1NHQ2MzZmFTNlFmN0pSZXVqa0pnVU1jS0JtLXQ4bFVUUnAtZmxiLW9ibXlzbC1HYkFtX2tvYldFRElXa3hTNGhyVGZUZllCN2JfTEVmYzRtd1ZpTkFEeFJDWF9LcXhlekJqUUtnYW82a2FjcmhhYVR1YjlKMjhFNDVLT3QtU3NUNlduWlZJY09PVk1DNi1ZUdIB2AFBVV95cUxPY2ctUzlOT1ZoaXgxQm1jOWJJV3R4REVEc0hMVlh1Q2g3cTh4UlNqSjI3eU5lYzB6UkdSN3hWdFhqOTd1Rmc0dVJYbGFidTZOcjFHZzdiajNneUJldHA3U0ljWEs3cmhNY25uTEJ3Ukk4UlhVRkNkU2FRT19vQ1lJWXZmOVFIbHBaZUYxc2FsbW9IMzE3ZUhWanlKaUJZT0pfRjc1b0xIaXN1TWowN1hKWFEyZEZsZy1jeGV6WEJvQVVxSVRrNUhfNlFGeUpLd0RxVUJTNGhDcjc?oc=5",
+      "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "पिंजौर-नालागढ़ हाईवे के फाटक पर तीन दिन तक सुबह 10 से लेकर शाम 6 बजे तक बंद रहेगा ट्रैफिक - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZ0pyTVFCSEdUdHlrZ2V5TGlac1A4TUxnemszcWZnd1dsZFFUelFNeEtIZS1EUElSR2ExOFp2NGxaN083R01fM21NMjVzZ3MyMW9OUjVNbTBad2pDd252Z09jVmtYR0NUYkxMckdOR2k3QWJtX25HdnNpTkk0OGlGUDI5YWtxdWZOYUdsU0IzbUtXNFdpUmdhZzhIamNEamNJeXNwN0VOdTJOZFFCcXl1X1NmMGx0TXgxcjhpdGNFLWstUlZFQ3JfNlUwMnZHbTNlZVR2X0trQ3g0eXNXV0pyQy1ldGNWV01XRmNxM1pjSWdBQnFMY2lyR2liVURUTTdMSjBzeERGMNIBjAJBVV95cUxNQ1FPMU9XTk9nR0s1SlJWQnZTUmR5Y0pWZjJRRjJWdlp3MlNtblZXUUw5UGRWdGNDbDkwbXpneDFRUzlLWGtWZUVlQ0hoODRPWHI5TFNrWlh5dThBWUJidmthbWdCbjFMY29keER1OXFuazJqS3duVHdOUUowNG5sNHZGSlBzcER2S09OeUtSVGw2MlM4bXg0NWNhQ2FMWXpNd0VjNzNQc1NFRzJaN3duaWtPQVI4RU1wTF9LV0VWZUgwQmhrWTVGLU5xeW1GeUo4UWFJMWdkd3h4QlhQS055dzNwRHhSX1BDSU9QcEpqRGhFUkxrYlJHN2dpcll4MXpmemxJNXUtdldPZGxa?oc=5",
       "score": 0.4
     }
   ],

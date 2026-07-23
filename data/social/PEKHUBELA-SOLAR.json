@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-07-20T20:17:01.856Z",
+  "updated_at": "2026-07-23T20:08:48.561Z",
   "project_id": "PEKHUBELA-SOLAR",
   "counts": {
-    "press": 24,
+    "press": 26,
     "gov": 0,
-    "en": 13,
-    "hi": 11,
-    "total": 24
+    "en": 14,
+    "hi": 12,
+    "total": 26
   },
   "mentions": [
     {
       "title": "Una News: पेखुबेला सोलर प्लांट में दोबारा शुरू हुआ बिजली उत्पादन - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmZMNjFQMlZpVm45Y3JBbkVVOU4tYUJIUGdGc3ZMRnppeHZwMG04R2FNYVp6ZHRqR2ZnYlBFT1BXdkVUYWpOck5mbUYteXQxOG5hWG4tNEJ0SUxrS05ock8yUkxKSGdISm5oQlNTRHdrbl8wdnFXdDdFdzkzOWdqdE5sTUJxVjd5WXhDd3NXMjJUWWk4ZDYzaTV5X0xPNlV1ZWtFV3g2S3ZwM3lFbnZJcDhZcXU0cTBCZVZMc1Jwd09IYk51d3doVTlXNUFab1NRekpGUjBEQTEyQdIB2gFBVV95cUxNQmZMNjFQMlZpVm45Y3JBbkVVOU4tYUJIUGdGc3ZMRnppeHZwMG04R2FNYVp6ZHRqR2ZnYlBFT1BXdkVUYWpOck5mbUYteXQxOG5hWG4tNEJ0SUxrS05ock8yUkxKSGdISm5oQlNTRHdrbl8wdnFXdDdFdzkzOWdqdE5sTUJxVjd5WXhDd3NXMjJUWWk4ZDYzaTV5X0xPNlV1ZWtFV3g2S3ZwM3lFbnZJcDhZcXU0cTBCZVZMc1Jwd09IYk51d3doVTlXNUFab1NRekpGUjBEQTEyQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWlp5WExfeWpSSzVyNUZhTlI3OUJnc2xqYmFYN0RJQk9OdGxidDQwTlpyUURqT3J6bzhfOXQwREdRc1JmSWUwMGZFWDBicTB6ZE1fbHZlZmd1bGw0S3pORTV4M2lHSE5ubVFoV0Y2MFJpV0d6b3R4ZXpzcEhXUXdmSC1EYndsYTNlQzRJcDdlQ0RmVzljaDBxek9VMW5IRnVVVEMtWnVROTl1aGVJcDRMdnVsb1Z5UmdORmxuZ0NEX1BtNGc4cHhEbEhrY0o1RlMwQ1lEV9IB2gFBVV95cUxNQmZMNjFQMlZpVm45Y3JBbkVVOU4tYUJIUGdGc3ZMRnppeHZwMG04R2FNYVp6ZHRqR2ZnYlBFT1BXdkVUYWpOck5mbUYteXQxOG5hWG4tNEJ0SUxrS05ock8yUkxKSGdISm5oQlNTRHdrbl8wdnFXdDdFdzkzOWdqdE5sTUJxVjd5WXhDd3NXMjJUWWk4ZDYzaTV5X0xPNlV1ZWtFV3g2S3ZwM3lFbnZJcDhZcXU0cTBCZVZMc1Jwd09IYk51d3doVTlXNUFab1NRekpGUjBEQTEyQQ?oc=5",
       "date": "2026-07-20T19:01:45.000Z",
       "kind": "press",
       "lang": "hi",
@@ -87,6 +87,16 @@
       "date": "2026-01-10T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Pekhubela solar"
+    },
+    {
+      "title": "ऊना के पेखूबेला में भारी बारिश के कारण सौर ऊर्जा परियोजना में जलभराव, 40 दिनों से बिजली उत्पादन ठप - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFJKSkZyeThHVlNhX0dHMmk3QkZBNGwwU0UyQl9wa1dzMHFqVS01X215dEFMVmxNRzgxaTVQc0I5VzNRcWRpaFNxSDlQdUN0TjFyUXZQWmxCUWpoenQ0ZENXaTkxRVo5U1REMnpqMzVTTmVwY2s0cS1rTW4tZkM4cDE5SHk4Snp1SFZrbFd5UGJwUjdSWE1UMFpTSEF4SThoX3lFc2VDbmQyeHYtOGR4ay0ydjlpdXZ5RDltUmdtejBxWXFJc0hNSmgzODV0RUE?oc=5",
+      "date": "2025-09-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Pekhubela solar"
     },
     {
@@ -170,6 +180,16 @@
       "match": "Pekhubela solar"
     },
     {
+      "title": "Tenders for 7 Solar Projects Totalling 72 MW Have Been Invited: Himachal CM - Energetica India Magazine",
+      "source": "Energetica India Magazine",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOU1Dc2hwLWtKb0k3TVI3VzI1TzV2YlBhOGxLOVUzblFfVE1nT1Bpci1ZUENjQnJCZE01VDJfM3BaRHN4QmZzemZyUWtNVHhranFBRE4yOEdsOHZLLUpaeEdpSktLMlJ6RjF6eXVyZDF2RGJqVmI0M2dBS2F6R2ZJdDhLNHk2Qk43Z29GTVMtVC1wcXREd3A2cmNZZjdQVnN3dEVRbnNaYWFJWWVSaFllU2VR?oc=5",
+      "date": "2025-01-14T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pekhubela solar"
+    },
+    {
       "title": "बीकानेर में बनेगा दुनिया का सबसे बड़ा सोलर पार्क, पीएम मोदी ने किया था जयपुर में शिलान्यास - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -185,26 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTF9jV0ZoRm9uWGxDQUdta3VIM2E0OVVjV3I0bDB1ZnZHT3BTWjZHbXhuNkhhc3FzYTJBSmZVTmlsZ1A5QVhUdDR3MGVnWVRwVXZFM0hwcDFxN1dKaThuXzVQcDdhOW1KcUpUM2V0RzNHeDdRZGZpbkhuT0RuVnpwS1B2dGhMeTNjWDNMakpXLWkzQ2U4MXc0?oc=5",
       "date": "2024-07-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pekhubela solar"
-    },
-    {
-      "title": "Sukhu dedicates 32 MW Pekhubela solar power project in Himachal Pradesh - The Statesman",
-      "source": "The Statesman",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcTFVOGh3TmFkanFtOVdhNnA3ZldpWU9YM0ZGS2lWcFE1WDJhU2RZVW1VUFpXcHlqOTJhZEFfVXR2RUR6UWpXdU9CenR0VmplUzFaSjI1ZUtuajZhMlBjbXBveU5XT25aNlVVZ3N5UnJCenU1Zk9Rc0FXaVBhcm52VHRtVkdELVhuZkpQeFJOdGhoVXZvVzRhbDNEUWlWYW1vVWZCeVVhY3hEajMySFBHWHV4dS0zOWFZVXBtbGt2a9IBxAFBVV95cUxOaU9wZFh3X3B6S191Z2FNWWVONGhYRlZJZGJ4dWwxWjllLXNlbFI0aVM1d2wyUVZtWm4wNU9PMGV4ZW15aVhZZC1MWmVFRXNnOV94WnJQUzFlX1hGUWNLdkRqcGhSdlJkMHc4RTJ5UDRBLUI2MDhEaFp3WU1NRFpvZWVaSkNCeUR5VkJqSUNQcjIzbXMzLVVDRW1fYkpZc21yWUlJU3ZUNV9TRjRQdEdZOGZDRTFXR2dJeGxiSzNWdnVSLWdy?oc=5",
-      "date": "2024-06-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pekhubela solar"
-    },
-    {
-      "title": "32 MW Pekhubela Solar Project Goes Live, Boosts Himachal Pradesh’s Power Generation - The News Himachal",
-      "source": "The News Himachal",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekx6aVRZd0paY01RVUFRbldldUpLd2VLbFlLalQ4UjJCVk1hOWVrWVpmYTJwTXU4RFhlUkVOVWtPN0tIZlZSQldZR2hPQ3Y2ZU1IVW5XRk9PY3B2WXN4eWZZMTRwWktCYUN4M3V0VzYtTElHVXV4MW5YN2sxVWs1WDZCdFBOMDFmRHppaVVzVElaazJacFJuV05Gd3hfaGtaNlJtWThKajhzRjQ5TktlRXBFSXVHLXl0UGc?oc=5",
-      "date": "2024-06-20T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pekhubela solar"

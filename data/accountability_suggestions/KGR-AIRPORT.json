@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-07-20T20:17:12.410Z",
+  "updated_at": "2026-07-23T20:09:01.107Z",
   "project_id": "KGR-AIRPORT",
-  "count": 1,
+  "count": 2,
   "suggestions": [
+    {
+      "category": "grievance",
+      "severity": "low",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-23T20:09:01.106Z",
+      "title": "Workers Demand Compensation Amid Gaggal Airport Expansion - The Newz Radar",
+      "summary": "Auto-detected from press: \"Workers Demand Compensation Amid Gaggal Airport Expansion - The Newz Radar\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYWxCbnpxTi01bEljWDZfdWFSeHU0ZUpuamRabUtBaFhXQUMwNllHN3YyV2tCSDdDejJXcG80RnVObm5XTDRfQm16LWlwdU1OaGxvRWI1bklLSFBfQi1lMmF4YkZBaHJDOEM2blBVUjB1UWwtVENtNFJaencwQlFxQVItRjE1a3c1NldRejdaX0FJUDJMamdJdndkVUVkU2ZJN2c?oc=5",
+      "source_name": "The Newz Radar",
+      "lang": "en",
+      "date": "2026-07-21T11:20:26.000Z",
+      "matched_term": "demand"
+    },
     {
       "category": "litigation",
       "severity": "medium",

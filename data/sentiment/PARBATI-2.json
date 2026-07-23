@@ -1,66 +1,64 @@
 {
-  "updated_at": "2026-07-20T20:17:46.640Z",
+  "updated_at": "2026-07-23T20:09:32.383Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 11,
-    "concern": 1,
-    "avg_score": 0.13,
-    "avg_magnitude": 0.28
+    "positive": 9,
+    "neutral": 9,
+    "concern": 2,
+    "avg_score": 0.135,
+    "avg_magnitude": 0.335
   },
   "youtube": {
-    "n": 4,
-    "positive": 2,
+    "n": 8,
+    "positive": 6,
     "neutral": 1,
     "concern": 1,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.3
+    "avg_score": 0.412,
+    "avg_magnitude": 0.663
   },
   "overall": {
-    "n": 24,
-    "positive": 10,
-    "neutral": 12,
-    "concern": 2,
-    "avg_score": 0.133,
-    "avg_magnitude": 0.283
+    "n": 28,
+    "positive": 15,
+    "neutral": 10,
+    "concern": 3,
+    "avg_score": 0.214,
+    "avg_magnitude": 0.429
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "तुलसी ने दिल खोलकर की पार्वती की तारीफ! टीवी की दो आदर्श बहुओं को देख नेटिजंस ने दिए मजेदार रिएक्शन - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTGpvMTAwQ01STlhBS1F1QjJnaC1PcnlPVUJZRHlnaGIzZE50R1dTRmt5bEJ5RUFzOFAzelhoRGJjREdCcVdVZjNUVGgyc3RhOUtmYXFWS2ZSeE42aW5XVnlRNXVIaVFzRXpfaGtHTlU3aVY0YjVGVFEzZDc3aTB5dTBwZnVOZ19UbHREcmx3dEhvVVF4WGU3WUx5ZnhZSXptTXVMYkQzVGg5LUUwVU9PR0YtMTQ5RDJ2Q01sVlZuMU5kRlNLSlRXSF92c3FaNnVqcjhxXzhFWm1uREdxd2lDalNmODZ4QklfakRadEtmUnZpd9IB9wFBVV95cUxNeXJhN05wUU10XzZZU2FKSWpGUnRMWXJpbkZNYVlsUjhiSW02TU8zaVczaXJScy1hRVZOd29aeTRGTnp1bVdlV2w2aXNzR2I3ZTdwOTZXazdlRWVCTll2ZkxFbWc5MUNOVDdwcWRsYjdrRmRxdmpRQ0N1Wl83Z2NNZDNPcmtWeDB3dDhrTjBXS3VraW5oQzEwX2FVakhtLVJ1c3VVS21lZ0RWQXJzRTNPUTNnM2lJUjE4ekdOaHZpdWxsVVJMYTM3aUdZbWYzOEFwTmdFRWhWVWxfOExxWVhEazRtc25DZ3g0aFRXWWFFc0VvTXRZMkQw?oc=5",
-      "score": 0.6
-    },
-    {
-      "source": "press",
-      "title": "जामताड़ा में श्रद्धालुओं की आस्था पर चोट, अराजक तत्वों ने तोड़ी मां पार्वती की मूर्ति; जांच में जुटी पुलिस - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0NQMWY0Y1ZVNFhjWWpFX3hJdXY5NkZhX0hfRndRb3VNdEVyelZDZlVBeEZoVTFXVXZzcFpWNnpXVHBnOElHbFdnUmVvNjctT1ZkaHQ4QmN5eUlQTEhuR0htS2Zrckk4T0NBNU5ycDgwMTRubEYyeDFQOTg4TGRZd3VZanV6OXNSTkpOZExrWUI5THhRVEkyQlNab3VSTDdKS2ZyVURGdFFRNWo2cnBUNzRzV2lqWjQ?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Good work sir.🎉",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Jai Shri Ram Jai Modiji 🎉❤",
-      "score": 0.5
+      "title": "Great explanation, 👍",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Weldone डियर Sudarshan. Keep it up. It's very informative video❤❤❤❤❤❤❤❤❤❤❤❤",
+      "score": 0.7
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "NHPC to release additional water from Parbati-II Dam, public advised to stay away from riverbanks - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeXpOTWNaOEMwc3BGWVh5cGxpQ3g0UllWblFFNEFpRUtsa21XQTZQdU1oc3dzMzJodEp1TG5Tek5FNVJwQWJ4aV9wTEROSE5ZakdINXNZZFJwYTFzZDFreklFbFVnQ3ROZWZRd0ZVNXlXYU9XY1BaNXZGX3B5cW1ldm9lM01qZDdXaF85d0VzQWhTX29vT19adHAxYUVxWnR2a053QjRNcFRMS2JjXzNTWllsNUJoam1iVzN2Z25kb2c4WXdGSGR2OGhFMlpucVE3ZDFHQnU5YVZRUy1Tc2hUWkIyTTFnN0RlNFNsN3lrSkszdw?oc=5",
+      "title": "NHPC to release additional water from Parbati-II Dam, public advised to stay away from riverbanks - Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNTFLT21LTG5PZTQzMURPUUdURWFfU0s0Qlg4ckdVbEd4a3pzWGhtajdjQVBVYVZidW80X2RMV19hckZaLUxVa0pfVTgyVHJtV0hZczd0MUthS2Flb1N0Z184V2kyVklVS25UNFlicnhyTDlTYTZxSUQ5NnViRVd2WXphZUg5TV8zeE1RbVNTTEY3c3hXY01wMTJOZzNKbjFlX290S3NraTJPaGJPcV8zWktuUEhEd1VzaVJWeEVsejNjeHBkdFg3V0JYc2I4Z1lSbnpMdkY1ak9DQQ?oc=5",
+      "score": -0.5
+    },
+    {
+      "source": "press",
+      "title": "Water release raises flood risk along Beas, Parbati rivers - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEh6cFZzX2RlNThGckwtSDZCUDJyWlJTeGw3QVJFQmJTY2FyLUJpS2JreFE0Qk1CczJQRGZ2d1ZhbXNGVUFneG5HYlRxMVo2Y0FuT3VvMkJEOE9xZFdUcUtBNm5MbUhkLTNvRjk0bXpvSWNRWXpQRlpvdzVWZ2JfR1QwV1ZOdFZhSjhzOGhtZTJzek1UT25KX29xbUFzd2dQWDd3YXp0Y9IBpwFBVV95cUxNOEh6cFZzX2RlNThGckwtSDZCUDJyWlJTeGw3QVJFQmJTY2FyLUJpS2JreFE0Qk1CczJQRGZ2d1ZhbXNGVUFneG5HYlRxMVo2Y0FuT3VvMkJEOE9xZFdUcUtBNm5MbUhkLTNvRjk0bXpvSWNRWXpQRlpvdzVWZ2JfR1QwV1ZOdFZhSjhzOGhtZTJzek1UT25KX29xbUFzd2dQWDd3YXp0Yw?oc=5",
       "score": -0.5
     },
     {
       "source": "youtube",
       "title": "Make this type of projects by using \nmoney of temple devotional money\nby giving them small interest over it\nAlso money o",
       "score": -0.3
-    },
-    {
-      "source": "press",
-      "title": "NHPC increases water release from Parbati-II Dam; public asked to stay away from river - - Himachal Scape",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjlER0RIQ0x1MzdOVEI4NHowZVBqa3JTaHlxZEg3T01kcmhvZ3o4OWUzblU5MDRUbWJ5cXE5MG51Z2JEdlZZVldzNUE1ckdMWXY3cVU0Z1V2cl9sSDJPalZUTFd0dDYySzY0Q0UyMFo2S1FjS3VMMmRiV05lbHN2ZjVRYmt2WmhpeWpuaGpiSk1IYzZFN3JqOFNJRXRZYWE0ZFY4aDNzNG41T1dPWFFRMkxR0gG6AUFVX3lxTE1oUnVmZW1IWWRNNnRLRUJZcU1iU2JUUVBTMjduZU1RVzBzZzdwclFsNXBCa3hSTW1CdkVXWGw0OVByWDFsVWNLU1JNX3N3Qkx6clVrZ1U3dmVmdDJLSXlwQ2lGMDdrT1NwY01vV0dkb1k4RnZCNk5KTkFIVzdBZW5FeWM4VktNV0t5MmdzSE9ZaW92dENuMlNiTG1NMlJmZEVWaHNUMTh0d0NzQTI1aEdFVFI4SzRMWi1WQQ?oc=5",
-      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

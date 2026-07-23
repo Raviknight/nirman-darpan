@@ -1,47 +1,11 @@
 {
-  "updated_at": "2026-07-20T20:17:24.797Z",
+  "updated_at": "2026-07-23T20:09:12.627Z",
   "project_id": "KOLDAM-HEP",
   "query": "\"Koldam Hydroelectric Power Station\" Himachal",
   "counts": {
-    "videos": 3,
-    "comments": 1
+    "videos": 0,
+    "comments": 0
   },
-  "videos": [
-    {
-      "videoId": "styrMe2G1yA",
-      "title": "NTPC KOLDAM  Hydro power plant #hydro #powerplant #nature #viral",
-      "channel": "AbhisheK ChandeL",
-      "published_at": "2023-07-02T14:53:11Z",
-      "description": "",
-      "comment_count": 0,
-      "comments": []
-    },
-    {
-      "videoId": "TBO2TtMtUm8",
-      "title": "koldam,koldam project bilaspur, NTPC,NHPC,hydropower,flood, flash flood, dam construction, project",
-      "channel": "Apna Bilaspur",
-      "published_at": "2024-08-31T15:14:07Z",
-      "description": "Koldam Hydropower Station, commonly known as Koldam, is an embankment dam on the Sutlej River upstream of the Dehar ...",
-      "comment_count": 1,
-      "comments": [
-        {
-          "comment_id": "UgzEBAUZ5HpTtJdQFzJ4AaABAg",
-          "author": "@santoshthakur2095",
-          "text": "Batwara",
-          "like_count": 1,
-          "published_at": "2025-01-23T05:25:47Z"
-        }
-      ]
-    },
-    {
-      "videoId": "dYDkCQgw-iE",
-      "title": "KolDam Hydroelectric Project Model Studies",
-      "channel": "National Dam Safety Authority",
-      "published_at": "2026-03-05T15:15:23Z",
-      "description": "This video presents the hydraulic model studies conducted by the Central Water and Power Research Station (CWPRS) for the ...",
-      "comment_count": 0,
-      "comments": []
-    }
-  ],
+  "videos": [],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

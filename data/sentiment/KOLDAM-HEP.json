@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-20T20:17:47.263Z",
+  "updated_at": "2026-07-23T20:09:32.871Z",
   "project_id": "KOLDAM-HEP",
   "press": {
     "n": 20,
-    "positive": 13,
-    "neutral": 6,
+    "positive": 12,
+    "neutral": 7,
     "concern": 1,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.28
+    "avg_score": 0.18,
+    "avg_magnitude": 0.275
   },
   "youtube": {
-    "n": 1,
-    "positive": 1,
+    "n": 0,
+    "positive": 0,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0.3,
-    "avg_magnitude": 0.3
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 21,
-    "positive": 14,
-    "neutral": 6,
+    "n": 20,
+    "positive": 12,
+    "neutral": 7,
     "concern": 1,
-    "avg_score": 0.205,
-    "avg_magnitude": 0.281
+    "avg_score": 0.18,
+    "avg_magnitude": 0.275
   },
   "top_positive": [
     {
@@ -40,9 +40,9 @@
     },
     {
       "source": "press",
-      "title": "Hamirpur 33 लाख से फिटनेस सेंटर का हुआ नवीनीकरण - Janta Se Rishta",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFpGS3NxX1BrLWVMZlBKNGZ5cWhPTnJ0aWhQM09MQlpHU25pcEZJN0d2S1cwQmtSa2dUNy16UUl6anJmNVZ4OXU4R3ozVnRhV2J0TERObG94SlFROXlQaEVwd3owX3NJMjZJbjcwM2psbUZLczhTd2pwaFBXUDZIbWlBUHNIZFBldkQ0Umw1RzJURU00WkdzS29KSnhnVERQamtkY1ZMZnbSAa4BQVVfeXFMTUNGek5Pd3BJNUsxbzFNdndtTEFyOFprbENJaHpaX0VmU19uSTZ6QkpKa1U4T1pVaVJwcjN3LXJTVGtSVjJNNDd2ajIzQ0YtMldtVXJUN3pGbWl3MUZrUTdNNVN2N1JKUVhnTzczclMxTkxqRHVKMlFsYjFtS21OX1dQSkxaWFZXVTJKNnlNbWE0Rm9xby1mUXo1eVp6aGhiSFlxc1lkWEJKWXJJRTBn?oc=5",
-      "score": 0.4
+      "title": "NTPC कोलडैम में ‘बालिका सशक्तिकरण अभियान-2026’ का शुभारंभ : बेटियों को शिक्षा का मिलेगा प्रशिक्षण - MBM NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQcXZveURVaFpHUkNpZExseFVLU29ucFNlblItMm9XdUpaQzRBVWpSaUNvNFBVOENtWjE4YTA0ZmtjeHpIbTl5Z21JQXdIOWJSN3JEOHVoOFlESFA4cUpjdE55WllBNVRadzF0Y05STGU0Qk9ZNVRzTFFvMC1Oemo1Vmg2elhhZEplcVZSR1RZemxvUzZRMVVYVm9nTUZGVGFuMGFXVEFfY1JQWkJZa2c1cTVpX3JLTlRnaDVhM2lxS040T2FTck5iMnh6VzBwRW5veVh0TmVwTnBhWjdCZXRSYW8yWEdnSTM3NTZhMGp6Y2hDRVJ4MExiR2NBbGdMQkYzbEdpWlI0Z1otRXRiWTQ0a0JpR0F0NGRJd1JjTjc1VjhoMXBqMzE0cEgzSTlVVERvWi1IeG1JeGxPVHJQUGQxTi0wWXhXWmNDWk9kVVVzZWxuZjl0dmhRb202SQ?oc=5",
+      "score": 0.3
     }
   ],
   "top_concern": [

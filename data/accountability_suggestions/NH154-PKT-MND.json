@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-07-20T20:17:12.429Z",
+  "updated_at": "2026-07-23T20:09:01.120Z",
   "project_id": "NH154-PKT-MND",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "resolution",
+      "duplicate_of": null,
+      "first_seen": "2026-07-09T20:43:51.936Z",
+      "title": "Malan flyover construction on Pathankot-Mandi highway enters final phase as last pillars completed - The Tribune",
+      "summary": "Auto-detected from press: \"Malan flyover construction on Pathankot-Mandi highway enters final phase as last pillars completed - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdy1oc0htUFh3X2pHZEh4dGJOVzRrLWJ0dFhnUzczTk4xQU5KeXFKTF9fLVZXczZGaVBDeDJlX0l0QzZiUGlCalYzT1JyajQxTVAwSXhiTllVajE2M0x1MjhPRnRwdHpkdHRZcllzb0Y2VkNhVHd6NTJoVHlTOHc1WUdBbkZvSkJLSnF0VjIzSVd2dnRaRHYyN0RSUjZaVmJYTUFnVzltdHA1VXVpcFFFenZ1c29GQlJTcnpwMHlIczh3SU1TcmgxcUNsT2pHQjNrWnREOWllNFFkd9IB3gFBVV95cUxQaGpyMTlZT3dmT21ILU96bDd4WnQyTk5wSHIxLXNKMURsMDEzNjNNVVVfU0hvN3V1Ry1vYTZPMG1fc20xOHliZnhkdlRncjNzTC1vTGtPRmdaWEhNck1hRlpzZGIyZFoySTVySzc1QWVPSkJHTU1DaXJMZWdMbkpxbV9QQWRPRmxfQ05YdkhsejY3ZEpvdENZZVpfZnBXVUsyLXlFelBLMUF3aUI3clktaU9VdDhpSkVvdDJ4WUd0WTE3SHdXcGs5SHk4QzFRZjVlTUhXaUlCWklCb29wYmc?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2026-06-18T07:00:00.000Z",
+      "matched_term": "pil"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

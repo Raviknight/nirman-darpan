@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-07-20T20:17:44.389Z",
+  "updated_at": "2026-07-23T20:09:29.969Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
     "positive": 7,
     "neutral": 12,
     "concern": 1,
-    "avg_score": 0.115,
-    "avg_magnitude": 0.225
+    "avg_score": 0.1,
+    "avg_magnitude": 0.19
   },
   "youtube": {
-    "n": 54,
-    "positive": 36,
-    "neutral": 15,
-    "concern": 3,
-    "avg_score": 0.426,
-    "avg_magnitude": 0.509
+    "n": 52,
+    "positive": 41,
+    "neutral": 9,
+    "concern": 2,
+    "avg_score": 0.46,
+    "avg_magnitude": 0.502
   },
   "overall": {
-    "n": 74,
-    "positive": 43,
-    "neutral": 27,
-    "concern": 4,
-    "avg_score": 0.342,
-    "avg_magnitude": 0.432
+    "n": 72,
+    "positive": 48,
+    "neutral": 21,
+    "concern": 3,
+    "avg_score": 0.36,
+    "avg_magnitude": 0.415
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "My dream college Very beautiful aiims",
+      "title": "Thanks to Narendra modi 🙂 saar also make exams more secure...",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Thanks to Narendra modi 🙂 saar also make exams more secure...",
+      "title": "My dream college Very beautiful aiims",
       "score": 0.9
     },
     {
@@ -51,12 +51,12 @@
     },
     {
       "source": "youtube",
-      "title": "AIIMS Bilaspur me PG 1 ko hostel milta hai ??\nPatient load kaisa hai",
+      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
       "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
+      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
       "score": -0.2
     }
   ],

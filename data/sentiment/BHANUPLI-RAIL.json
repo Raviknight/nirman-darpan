@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T20:17:38.952Z",
+  "updated_at": "2026-07-23T20:09:26.105Z",
   "project_id": "BHANUPLI-RAIL",
   "press": {
     "n": 3,
@@ -11,19 +11,19 @@
   },
   "youtube": {
     "n": 37,
-    "positive": 17,
+    "positive": 15,
     "neutral": 13,
-    "concern": 7,
-    "avg_score": 0.197,
-    "avg_magnitude": 0.408
+    "concern": 9,
+    "avg_score": 0.108,
+    "avg_magnitude": 0.343
   },
   "overall": {
     "n": 40,
-    "positive": 19,
+    "positive": 17,
     "neutral": 14,
-    "concern": 7,
-    "avg_score": 0.205,
-    "avg_magnitude": 0.4
+    "concern": 9,
+    "avg_score": 0.122,
+    "avg_magnitude": 0.34
   },
   "top_positive": [
     {
@@ -33,30 +33,30 @@
     },
     {
       "source": "youtube",
-      "title": "Good job ji 👍",
+      "title": "Very nice Video Information Experiment 🎉\nWeldon 🌹🌹",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Good information thanks",
+      "title": "Very nice Video Information Experiment 😮❤😮",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Leh wali side se bi shuru hona chaiye kaam nahi toh 30-40 SAAL LAG jayenge isko bi \n\nBahut slow kaam ha",
-      "score": -0.4
+      "title": "No one goes from Bilaspur to BhanuPali, it should have been from Chandigarh to Manali , then at least 1/3 of Leh railway",
+      "score": -0.7
     },
     {
       "source": "youtube",
-      "title": "Badhiya update",
-      "score": -0.4
+      "title": "REMOVE THE ANNOYING BACKGROUND MUSIC....😖🤮",
+      "score": -0.7
     },
     {
       "source": "youtube",
-      "title": "They should consult engineers from Konkan Railways who also carried out a similarly difficult project in 1990s and today",
-      "score": -0.3
+      "title": "Chandigarh - Baddi rail line project is progressing very very slowly",
+      "score": -0.6
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

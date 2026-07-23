@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-20T20:17:23.519Z",
+  "updated_at": "2026-07-23T20:09:11.887Z",
   "project_id": "PARBATI-2",
   "query": "\"Parbati-II Hydroelectric Project\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 4
+    "comments": 8
   },
   "videos": [
     {
@@ -55,13 +55,42 @@
       ]
     },
     {
-      "videoId": "i04kd2gLlVg",
-      "title": "Parbati-II Hydroelectric Project, which was seen in news, is located in which state?",
-      "channel": "MPSC Notes (Mizoram PSC)",
-      "published_at": "2025-04-12T12:01:14Z",
-      "description": "This MCQ Shorts video tackles a current events question focusing on the Parbati-II Hydroelectric Project, recently in the news.",
-      "comment_count": 0,
-      "comments": []
+      "videoId": "MpRRzB-1yaY",
+      "title": "Hydropower Projects in Beas River Basin in Himachal Pradesh || Beas River || Tributaries || HP || ",
+      "channel": "All about Himachal ",
+      "published_at": "2026-01-27T05:57:32Z",
+      "description": "Beas River Is an important River in Himachal Pradesh which measurably flows through four Districts of Himachal Pradesh ...",
+      "comment_count": 4,
+      "comments": [
+        {
+          "comment_id": "Ugx7hvvlycU0vKew_6l4AaABAg",
+          "author": "@SandeepKaur-pl9dj",
+          "text": "👍👍",
+          "like_count": 0,
+          "published_at": "2026-01-27T09:44:09Z"
+        },
+        {
+          "comment_id": "Ugzn52GIk9MkuuiTEQ14AaABAg",
+          "author": "@savvyblogss1995",
+          "text": "Weldone डियर Sudarshan. Keep it up. It's very informative video❤❤❤❤❤❤❤❤❤❤❤❤",
+          "like_count": 0,
+          "published_at": "2026-02-02T12:36:41Z"
+        },
+        {
+          "comment_id": "Ugx_fvQNb6jKQjLlYhh4AaABAg",
+          "author": "@minakshithakur2413",
+          "text": "Good work sir.🎉",
+          "like_count": 0,
+          "published_at": "2026-01-27T09:19:00Z"
+        },
+        {
+          "comment_id": "Ugy4JQqmyvBas-LmQGJ4AaABAg",
+          "author": "@msjony729",
+          "text": "Great explanation, 👍",
+          "like_count": 0,
+          "published_at": "2026-01-27T06:55:54Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
