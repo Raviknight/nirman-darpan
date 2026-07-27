@@ -1,62 +1,61 @@
 {
-  "updated_at": "2026-07-23T20:09:29.969Z",
+  "updated_at": "2026-07-27T20:17:02.835Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 7,
+    "positive": 8,
     "neutral": 12,
-    "concern": 1,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.19
+    "concern": 0,
+    "avg_score": 0.12,
+    "avg_magnitude": 0.175
   },
   "youtube": {
-    "n": 52,
-    "positive": 41,
-    "neutral": 9,
-    "concern": 2,
-    "avg_score": 0.46,
-    "avg_magnitude": 0.502
+    "n": 41,
+    "positive": 11,
+    "neutral": 24,
+    "concern": 6,
+    "avg_score": 0.083,
+    "avg_magnitude": 0.212
   },
   "overall": {
-    "n": 72,
-    "positive": 48,
-    "neutral": 21,
-    "concern": 3,
-    "avg_score": 0.36,
-    "avg_magnitude": 0.415
+    "n": 61,
+    "positive": 19,
+    "neutral": 36,
+    "concern": 6,
+    "avg_score": 0.095,
+    "avg_magnitude": 0.2
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Thanks to Narendra modi 🙂 saar also make exams more secure...",
+      "title": "nice video,quite informative.",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "My dream college Very beautiful aiims",
-      "score": 0.9
+      "title": "Simple and asthetic 💗",
+      "score": 0.8
     },
     {
       "source": "youtube",
-      "title": "Ya Allah help me getting in this institute its my dream to study in such nice college and full fill my dreams.... I want",
-      "score": 0.9
+      "title": "Isme padhai nhi nind aati hogi yaar😂😂😂\nYaar itna comfort",
+      "score": 0.7
     }
   ],
   "top_concern": [
     {
-      "source": "press",
-      "title": "AIIMS Bilaspur struggles with vacancies, patients bear the burden - Magzter",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWtKdnhVUndndldoM0JUR2xaSDVZcmhzSExOdUFWaXVrcklEZjZMMjBJU3VETDZtS21ubldReUNhemhqdW5EY2xidnN3X2hzelkxd1BIZ0VYcVpfWnNWMlN5NlhkS3V6MkpQOW83ZTFpQU1FclBNWmVla2RzVzAtZC1EWmlEeFJIdW42UFpEOVcxRHRkMHA1bHFaSDF5UkdTUUZjR0dIQkYyZkZpamU1WnBYTHdWbTFQYXRJXzlSZXJueE9NbkNj?oc=5",
-      "score": -0.5
+      "source": "youtube",
+      "title": "Kash govt esa room iit main bhi de .iit rooms quality is so poor",
+      "score": -0.7
     },
     {
       "source": "youtube",
-      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
-      "score": -0.2
+      "title": "Didi hostel fees kitna hai yaha par mere nursing me selection hua hai and yearly pay karna hota hai for full course",
+      "score": -0.3
     },
     {
       "source": "youtube",
-      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
+      "title": "Md emergency medicine department kab ayega kuch malum hai kya",
       "score": -0.2
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T20:09:13.278Z",
+  "updated_at": "2026-07-27T20:16:42.975Z",
   "project_id": "NH105-PNJ-NLG",
   "query": "\"Pinjore–Baddi–Nalagarh 4-Lane\" Himachal",
   "counts": {
@@ -7,15 +7,6 @@
     "comments": 2
   },
   "videos": [
-    {
-      "videoId": "oQX9f7GiJHo",
-      "title": "नालागढ़-पिंजौर नेशनल हाईवे फोरलेन में देरी;सांसद सुरेश कश्यप ने प्रदेश सरकार को ठहराया जिम्मेदार",
-      "channel": "Dainik Savera Himachal Pradesh",
-      "published_at": "2026-04-13T13:44:34Z",
-      "description": "नालागढ़-पिंजौर नेशनल हाईवे फोरलेन में देरी;सांसद सुरेश कश्यप ने ...",
-      "comment_count": 0,
-      "comments": []
-    },
     {
       "videoId": "ghDL_XnDaCw",
       "title": "#pinjore #road #baddi #lights #nalagarh #road",
@@ -48,6 +39,15 @@
           "published_at": "2023-04-23T06:55:28Z"
         }
       ]
+    },
+    {
+      "videoId": "AC0p4iVIr5w",
+      "title": "Fourlane Nalagarh Baddi Pinjore",
+      "channel": "Gaurav Kumar BilaspuRiya",
+      "published_at": "2022-11-05T02:56:22Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

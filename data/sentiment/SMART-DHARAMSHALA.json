@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-23T20:09:35.460Z",
+  "updated_at": "2026-07-27T20:17:08.959Z",
   "project_id": "SMART-DHARAMSHALA",
   "press": {
     "n": 20,
-    "positive": 10,
+    "positive": 12,
     "neutral": 7,
-    "concern": 3,
-    "avg_score": 0.115,
-    "avg_magnitude": 0.29
+    "concern": 1,
+    "avg_score": 0.21,
+    "avg_magnitude": 0.33
   },
   "youtube": {
     "n": 0,
@@ -19,13 +19,19 @@
   },
   "overall": {
     "n": 20,
-    "positive": 10,
+    "positive": 12,
     "neutral": 7,
-    "concern": 3,
-    "avg_score": 0.115,
-    "avg_magnitude": 0.29
+    "concern": 1,
+    "avg_score": 0.21,
+    "avg_magnitude": 0.33
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "धर्मशाला को 25 करोड़ का समृद्धि भवन देगी सुक्खू सरकार, इस विधानसभा सत्र के दौरान CM करेंगे शुभारंभ - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMlloSXV5cGdKaF9rLWZlbXQ2SmtXS2Q4RDhOLVFuZTA1Z19RUmpFbGhQMG00cmZuNkNYMHlGY0NnWUp6SV9JMTlLVk80UkJLSndFOFR5SlF2OVdWaUpZbmt2R2Y2Uk04MTc3VG43b1Jkdk56ZmJGYmVMNWEzX2k5Tnk3MjNOUU9lNjYyX1J2SVNrX0RmQU1QWjNSX3YybTJReDJ2Y3ZMSllmd08tbXV6WDFOajBXby1pYVJNOE5fdzRqbGhUclVhSEpwUHZNbHhUM3doNDMyYmFGd2FtWldiUTdNdW1UNzhkMkdwbENHRzYxdzRRcENMNGkzb1nSAYICQVVfeXFMTTJ5ZVByNUJGRFRtaDZYWng5LTZ2UXRHMEp2RWpGSTRkOFdaS0lIWGRLSFROLWRaTnRUVVRacDhVOGc2U3Bkc2htb29PakdOSG0wSENHUTJNTkhRSWtRUVphaXZOa18tQ3A4TGJudk9Fc00xZFFQbTVUNmpCZTJZRGNPNTdJQl9qZWNibmFtNWZnMUdWYTJRcUVwVHdlcXRUeFBzMEtlTkRHQTlLTHZwTHMzZk9XdU1lb3pETXlGaGV4QU5fMGozOWM4dHdGcXV5NXlfVFh2N3BDUG13U185UlVOaFRPQ3lmYmZ0dFNIeU5hRFAyY242M0NnUExmODVvaFVB?oc=5",
+      "score": 0.5
+    },
     {
       "source": "press",
       "title": "स्मार्ट सिटी धर्मशाला में फव्वारा चौक का नया अंदाज - Divya Himachal",
@@ -37,21 +43,9 @@
       "title": "हिमाचल के इस शहर में दीवारों पर पोस्टर चिपकाए तो खैर नहीं, होगी FIR - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzVTZTVxZF81bzBNX1V6cjBpak9XTWxVS3lxZnhrdGVmUDlKRzdDZ0NkNWtoSmtUUEpJeGpObkxhYmdScW44REJYdm5ETDEwNVdFMHh4RmMzcGZZdFh6ZzVuM1F1OUJFbExRQXBOWmJaS3lWNUdMQ1ZpV0Qzb0J5V2Y1U0J3bzU2bjdfU0xHUUFvMkZOcHZDSFZNSGlPWFczRG5mclp0VzYtbzZxeWtQU09RZGpCejJwZjlV0gHAAUFVX3lxTE5ELTg0VGpmc2F5Qm1OTW4zX3Q0OTNMSExkSzcwNXozaXVSSUdyRFhNS1RWTXMtYWlISDI2LVRlOFhCUGI2VEpjOUw0Nm1OOEp1Z29SNnp1VVlhcG15eVE5aTRNbEU1a3pnVWozcS1fa2JPLXdBMXd1ZmZ0NGlJMnZ6QnZSZGZSc0RlNzdadkQzbTJhUmpXX2NyNUx3ZTgtUkRxRmdhZHRLeDgwTWs2bEZLZExlLUJuN0htMUZlWVdITA?oc=5",
       "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "धर्मशाला स्मार्ट रोड पहली बारिश में धंसी: 18 करोड़ की जगह 25 करोड़ में बनी, प्री मानसून में गड्ढों में तब्द... - Dainik Bhaskar",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN2VCZ3ZweHFxdUF3VkZlWkRWU0otdEVHdGw4eDZkbXJPejdzdHlNSGxMQjdXT1FqSWVUSVppQjJfYmhzaTlzcmVNbzBnZ21lakNTQXUwQzZ4czRCRl9maUlONk9yUWhlMl9aVHcwNlYzYlRseUNBdnR4SXBqUldkcFVDcVRuYldwX0xVU1JBSFhreEo4NjdUWEE5ckFWblM0TzhLZVpKeDQ1aXNsWU5Xdi1pVFZjWnNmUnNBSXNBN1NmVG1PU2lwUl930gHPAUFVX3lxTFBmck9IMWRZWHBSeE5Ob2VlQndhQk44eUZRaWk3RU92MENKckRERzY4OFhlbjcyZ1Y0T2ZWVWxjN0JCZld2S0hlMG9jTnVOVkpId3dSZlpBb3JyXzg4Ym40ZUtxbC1EendaOTRrZHhwNjJYbFZmRTdKTldNNVlqQWJpTi11V082YnpWYUp2QUE0Tm5HUjg2UjBUTThTeDRpMENRT3FOTlZ0NUJkT2NyRldSZTBkZTZRdDRTcmRIT1hkRHVEYlJNY3JGNlNEZk8zaw?oc=5",
-      "score": 0.3
     }
   ],
   "top_concern": [
-    {
-      "source": "press",
-      "title": "CAG pulls up DSCL for irregularities, mismanagement - Pioneer Edge",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWHpNZ2xtWkt5VS11b3UtN0hsS2trdFpxYVB4TzgxQkhfVWRiMkoweTRjWFpMZjBaSEVrYWxoVlpzdlJUNllDTmZMZkZKbFE2V2FqdVAtYmxQS0xPT184RmlPbGRoNUpvSTktLWdaNzZTN25ZUFFUZ2kxWEItVTQ?oc=5",
-      "score": -0.7
-    },
     {
       "source": "press",
       "title": "CAG plugs irregularities worth Rs 60 crore in Dehradun Smart City Project - The Statesman",
@@ -60,9 +54,15 @@
     },
     {
       "source": "press",
-      "title": "Himachal CM inaugurates redeveloped Fountain Chowk, E-bus charging depot in Dharamshala - ET Infra",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ25GUm9vRmpfYjZGNnhXR290TWl1MEtSSXVZV3BMajItb21YZGJiZF93ODRJWXNrUkQwQ1hBdVN0bFZvU2tPSTNsTUY2RmFUbFh1d2loYndIazZKdVZCZEJUQlNZVFJENnQydmh2RDEyQXpQWkd6M0lkUXlORFlwV3JqTTM5Z1NReFJMeVMzVTQyY2ZrMjByY25hUVlGSTNRYUUwU1pFOEVId2Mtc3Jya3ZLY3hHR3hkZ0RQSUtMcW1zZmp5Y0U4ZzRJVFdmcmNNaE1CYWFNV3ZxU0Z1NVNXMVN4STA4Qm4yUlJPUUhKbk1tNzY4M0hrNtIB_gFBVV95cUxPY2FGbkRxU05KTVNmRTFaMWdERldhcm5tUkNhTlg4d1JVeDItMk5jWHNvVllRdmd6am44cUsxTWVncTZfamZwUU90MGRzNHJkZk1vd2UyYmJoMDJ3Um9Zb2tuNWJTUGtYeXJINE1pSHp3ZWRoNFBPbGpsQkc3OUUyZ29iR3NEUnhzb09OdEVrUVkyOWx4NGZJYnp5d2hrbWFVRUliU1ZtSzRHOTJLN2x3cVNrNFhlV2pDTEtZb3JmeXlxaGdCcTh3UHZjamw5cHNocU1sOU1CMUt3OHFtbFo2OGhVLW00OVNGb2dMeGJ6NV9GVUNCYm9hYkh3X0FLZw?oc=5",
-      "score": -0.2
+      "title": "Dripping Springs Community Library hits the road - Community Impact",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BxMVFOMlJQRzlYOGJ0dk5CaDk5NGEzQ3pSQ3V6enpmdnJ2eGJrdXBwNG9sV3VhdFA4WVFsQW9KbkdORUowcU1oaDZqcmZhT3VUZ1pNX0V4dW0yN1dXeENtTDFGZjg3QnVSQ05MSmFaS1I2Zlp5clBhREhrbTdpSzIyNGhYMXU0SzE3SWtxREkweUNNVjNVbEhRb3F4MXFQcGFTYjg1MFV4SlNMa05OUTNuMC04T2VHYkdSVDNB?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "Dripping Springs Community Library raises funds for new mobile library - Community Impact",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUGN5U0YyaXJ4QW4wMUFJWTA0Ylg3T3hfWUM1Qlk4T0tyZTdKbWdhSlhRWDhiOVhncmNGbDliLXAyUVpwUVV2dXNyZXRVNjRwak44OHBTeHdWelZ6X0FxNXV0M2FzeGFNajh5c0pfUVpWXzV3R19KSm9zYVZBM0xrelF1d0tpNlZsMWk4ZVJEMEpGWWhlTmp2dURHX3VSVEx4SjNMdU1iN0pMclJUNWlOUUROUXhFWjdhcEpFWG9VaVBJWElRZ3dveWZmT3diNkplUm5OdnlObXlMR1B4MVE?oc=5",
+      "score": 0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

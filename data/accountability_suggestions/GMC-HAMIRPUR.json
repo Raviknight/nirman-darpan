@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-07-23T20:09:01.134Z",
+  "updated_at": "2026-07-27T20:16:30.656Z",
   "project_id": "GMC-HAMIRPUR",
-  "count": 1,
+  "count": 2,
   "suggestions": [
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-27T20:16:30.656Z",
+      "title": "Two Pilgrims Dead, Several Injured After Bus Overturns In Himachal Pradesh - ETV Bharat",
+      "summary": "Auto-detected from press: \"Two Pilgrims Dead, Several Injured After Bus Overturns In Himachal Pradesh - ETV Bharat\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeE5PMmgteG5nNVdmSndGTzNvWks3SEZZX0lPNTNyaGtlQ0I1UVZ1MzZHdjBwS2wxMG15UHlzMENmbnYwREU1MHAwck5QVElUbXQzNWZTbEo3UUFvYkxUXy14dWU4X0stYjdqUGk0TXk5RkhfUUJfMFdscXpKak1jLVQtNXpLOVp0VGZ5LWZCbVlhUktDTXhoeHowSWJkRmIzR0VYejVUeEphSkMtZ1RsQzdfcnVEMEJMWlJ2dzR5S3F3Y2NWTlB2ZzVUdHpPZDlydV9jbE81czNfR1VoQmhUbzlRV1Y2LUphUU9nUjVMQlNTT03SAfgBQVVfeXFMUF9BaE15VGZxWDVMQTVaRkEtRWtiN0tJdnIxdlNvWl81UGJ1LU5nRjgzVTB5UVJrT1VPN2VXNzV1M2tEbG1yb1E3YmZnakR4YVJEZHZPWnlvX1ZIb2tWb3pQQ3lxVmRJbHR5clNMcXB1SjJUSnZfb3ZyekVyOEpwdUhXZGwwU0laTXdEcy1Bd3FlSjFZZEQzR2hVWVBzUmlBcTlwcVpvWXJfSC1Gd05KYkgzRk0yd25kSkRNQ0RnZ1Y5Uk9qNlZxdXRIODhHUnhlRHN2aG5uNDkydkFGSVZ3NjlUaU82SmU1bVQ2WjFpVHFfbE1GTVZDc1I?oc=5",
+      "source_name": "ETV Bharat",
+      "lang": "en",
+      "date": "2026-07-27T04:15:06.000Z",
+      "matched_term": "injured"
+    },
     {
       "category": "incident",
       "severity": "high",

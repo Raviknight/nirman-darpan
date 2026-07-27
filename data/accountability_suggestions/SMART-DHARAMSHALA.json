@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-23T20:09:01.125Z",
+  "updated_at": "2026-07-27T20:16:30.650Z",
   "project_id": "SMART-DHARAMSHALA",
-  "count": 2,
+  "count": 1,
   "suggestions": [
     {
       "category": "audit",
@@ -16,20 +16,6 @@
       "lang": "en",
       "date": "2026-03-11T07:00:00.000Z",
       "matched_term": "irregularities"
-    },
-    {
-      "category": "audit",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-02T13:28:24.749Z",
-      "title": "CAG pulls up DSCL for irregularities, mismanagement - Pioneer Edge",
-      "summary": "Auto-detected from press: \"CAG pulls up DSCL for irregularities, mismanagement - Pioneer Edge\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWHpNZ2xtWkt5VS11b3UtN0hsS2trdFpxYVB4TzgxQkhfVWRiMkoweTRjWFpMZjBaSEVrYWxoVlpzdlJUNllDTmZMZkZKbFE2V2FqdVAtYmxQS0xPT184RmlPbGRoNUpvSTktLWdaNzZTN25ZUFFUZ2kxWEItVTQ?oc=5",
-      "source_name": "Pioneer Edge",
-      "lang": "en",
-      "date": "2026-03-10T07:00:00.000Z",
-      "matched_term": "cag pulls up"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-23T20:09:32.383Z",
+  "updated_at": "2026-07-27T20:17:04.573Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
-    "positive": 9,
+    "positive": 10,
     "neutral": 9,
-    "concern": 2,
-    "avg_score": 0.135,
-    "avg_magnitude": 0.335
+    "concern": 1,
+    "avg_score": 0.175,
+    "avg_magnitude": 0.315
   },
   "youtube": {
     "n": 8,
@@ -15,15 +15,15 @@
     "neutral": 1,
     "concern": 1,
     "avg_score": 0.412,
-    "avg_magnitude": 0.663
+    "avg_magnitude": 0.662
   },
   "overall": {
     "n": 28,
-    "positive": 15,
+    "positive": 16,
     "neutral": 10,
-    "concern": 3,
-    "avg_score": 0.214,
-    "avg_magnitude": 0.429
+    "concern": 2,
+    "avg_score": 0.243,
+    "avg_magnitude": 0.414
   },
   "top_positive": [
     {
@@ -45,20 +45,19 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "NHPC to release additional water from Parbati-II Dam, public advised to stay away from riverbanks - Big News Network.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNTFLT21LTG5PZTQzMURPUUdURWFfU0s0Qlg4ckdVbEd4a3pzWGhtajdjQVBVYVZidW80X2RMV19hckZaLUxVa0pfVTgyVHJtV0hZczd0MUthS2Flb1N0Z184V2kyVklVS25UNFlicnhyTDlTYTZxSUQ5NnViRVd2WXphZUg5TV8zeE1RbVNTTEY3c3hXY01wMTJOZzNKbjFlX290S3NraTJPaGJPcV8zWktuUEhEd1VzaVJWeEVsejNjeHBkdFg3V0JYc2I4Z1lSbnpMdkY1ak9DQQ?oc=5",
-      "score": -0.5
-    },
-    {
-      "source": "press",
-      "title": "Water release raises flood risk along Beas, Parbati rivers - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEh6cFZzX2RlNThGckwtSDZCUDJyWlJTeGw3QVJFQmJTY2FyLUJpS2JreFE0Qk1CczJQRGZ2d1ZhbXNGVUFneG5HYlRxMVo2Y0FuT3VvMkJEOE9xZFdUcUtBNm5MbUhkLTNvRjk0bXpvSWNRWXpQRlpvdzVWZ2JfR1QwV1ZOdFZhSjhzOGhtZTJzek1UT25KX29xbUFzd2dQWDd3YXp0Y9IBpwFBVV95cUxNOEh6cFZzX2RlNThGckwtSDZCUDJyWlJTeGw3QVJFQmJTY2FyLUJpS2JreFE0Qk1CczJQRGZ2d1ZhbXNGVUFneG5HYlRxMVo2Y0FuT3VvMkJEOE9xZFdUcUtBNm5MbUhkLTNvRjk0bXpvSWNRWXpQRlpvdzVWZ2JfR1QwV1ZOdFZhSjhzOGhtZTJzek1UT25KX29xbUFzd2dQWDd3YXp0Yw?oc=5",
+      "title": "NHPC to release additional water from Parbati-II Dam, public advised to stay away from riverbanks - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeXpOTWNaOEMwc3BGWVh5cGxpQ3g0UllWblFFNEFpRUtsa21XQTZQdU1oc3dzMzJodEp1TG5Tek5FNVJwQWJ4aV9wTEROSE5ZakdINXNZZFJwYTFzZDFreklFbFVnQ3ROZWZRd0ZVNXlXYU9XY1BaNXZGX3B5cW1ldm9lM01qZDdXaF85d0VzQWhTX29vT19adHAxYUVxWnR2a053QjRNcFRMS2JjXzNTWllsNUJoam1iVzN2Z25kb2c4WXdGSGR2OGhFMlpucVE3ZDFHQnU5YVZRUy1Tc2hUWkIyTTFnN0RlNFNsN3lrSkszdw?oc=5",
       "score": -0.5
     },
     {
       "source": "youtube",
       "title": "Make this type of projects by using \nmoney of temple devotional money\nby giving them small interest over it\nAlso money o",
       "score": -0.3
+    },
+    {
+      "source": "youtube",
+      "title": "Turn the water of himalayan rivers to the deserts of Rajasthan",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

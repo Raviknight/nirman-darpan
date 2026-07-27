@@ -1,50 +1,53 @@
 {
-  "updated_at": "2026-07-23T20:09:27.261Z",
+  "updated_at": "2026-07-27T20:16:57.848Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
     "positive": 5,
-    "neutral": 14,
-    "concern": 1,
-    "avg_score": 0.065,
-    "avg_magnitude": 0.17
+    "neutral": 13,
+    "concern": 2,
+    "avg_score": 0.05,
+    "avg_magnitude": 0.225
   },
   "youtube": {
-    "n": 2,
-    "positive": 1,
-    "neutral": 1,
-    "concern": 0,
-    "avg_score": 0.25,
-    "avg_magnitude": 0.35
+    "n": 40,
+    "positive": 30,
+    "neutral": 8,
+    "concern": 2,
+    "avg_score": 0.333,
+    "avg_magnitude": 0.392
   },
   "overall": {
-    "n": 22,
-    "positive": 6,
-    "neutral": 15,
-    "concern": 1,
-    "avg_score": 0.082,
-    "avg_magnitude": 0.186
+    "n": 60,
+    "positive": 35,
+    "neutral": 21,
+    "concern": 4,
+    "avg_score": 0.238,
+    "avg_magnitude": 0.337
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Omg",
-      "score": 0.6
+      "title": "शुभ प्रभात जय श्रीराम मंडी",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "कांगड़ा एयरपोर्ट विस्तार के मुद्दे पर पक्ष-विपक्ष में तीखी नोकझोंक, सीएम सुक्खू ने किया बड़ा ऐलान - Punjab Kesari",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1NRazUtdmxDRVotSjhtTi0wY09lY3VvMW9OWFp4OFdBX3VZUUFGeHRYNkNqTTVPUDYxbWw1c2Rnc3J2dUFTRHpoQWJRNGE0blB4VV84UlB5TzZOSC1ISU9MVHJqR005VERPVGE2LVZOWV9JZ0o2WlpxSk9KYUlxSVBFMEgtVncwN2dGYXJtUVBhcVZYRmp3d2dKNzFZZnpuZDE5WGJDQXoySldWaWJxczNlczlfVEZ2c1Nya3ZzcEo4N2lXMVZBeXVtcXDSAdQBQVVfeXFMTXByTzRlbDlXcjV4Q294cThmazNCNXZycUZsVzU5bU0zUF9WZ2lMcmVPUFpjUm50dHN1ZnMtdGxpc1JNVFRoRXNhaGpsQ2FydXVZRHhLVWZ5TkpmQkx6emV4Z1dEYVFUVkRLOGMzVmFaRU5VcmRrYldYWFljUjVleVV4SWpSc19ESGNVNkI4bGlXZVkweVpIRzNGaWROTlBsZlc1VmtrZ3B3M29qcTFUMWRPSXFVeE5GZ1RlZXZHUmNtRWlXdmVTaTZ0aW5ZV3d2X0RucGs?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Beautiful view 👌 new friend 👍",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "कांगड़ा में गग्गल एयरपोर्ट के विस्तार का मामला, हाईकोर्ट ने ताजा स्टेटस रिपोर्ट दाखिल करने के दिए आदेश, 24 दिसंबर को होगी सुनवाई - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT2Z0c2Zrby1iZU1KemxPdk9SNmNWcnRtdU44eXNhMWlpMnA3c2w1VnJrd25HdWkzUHIxTzBKNEJEZW1uQVRIRGFNRmFIYmZ1M3drVnhhZTh4Q0w5M3hUTEtNYk9hUnRPUndIMl8wRUx4OWx1SDJGdnlUYU1rdDhobjRMZUgtMHhEbjBGNzFWQ2xueGk1NkZRdHdvaGNYSEVReTlvUFhlUFVTUXpOYk1MYnJIMXl5aWlnZzgwb3FFMUVJcE1NV0lKYll4dk_SAdIBQVVfeXFMT2NqMDBkMjBrU0xvVDlrZkI4dWdMbjNpZFhkZWZpVGxTakVDc3psUEp2aHVidFA5NU1XRGp0V0VmVnhOOTdKU2lnWmNTNDFndU5tWTlUUGVNWGppOGdRdXhFNnI2cDFyU0hOeVZ2ZGZZVGhSS18wU29FVjVxV3pTZVhXSWNCUVVISTBxUG9OM3NpaF9Nbk5UbC1yYTVuNXNUQ21zakMxUDZsc0w2OEhjNnA0RVVsQV9rYncxRFlsalZNZno5R3Itam1zSW1ZRVZCek9n?oc=5",
-      "score": 0.4
+      "source": "youtube",
+      "title": "I love kangra❤",
+      "score": 0.9
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Fake",
+      "score": -0.9
+    },
     {
       "source": "press",
       "title": "Lack of clarity on compensation mars land acquisition for Gaggal airport project - The Tribune",
@@ -52,15 +55,10 @@
       "score": -0.8
     },
     {
-      "source": "youtube",
-      "title": "⁰😊😊",
-      "score": -0.1
-    },
-    {
       "source": "press",
-      "title": "Market complex to come up near Gaggal airport for displaced traders - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGpIZC1hLUI5bTBaSGtoMGF0NnRfNUtDZ1F2U19zcnpDS2ZRcnlYSVdjSFNXMGxqMGdZcEZzeWpqc0s0WjZ0RU5ZVzZiSWtiVG5lQm1ZdjNBRW0ydTNLeDNSelFoemxqOWZ3dzEtQkFWa25heG41MGxZemg5SXUtRURIWnlPdUFBaHg5TF9YODctTk5xU3NFelNPQlgtaHNvWnRZYTY4UHJacDZxSmtqedIBtAFBVV95cUxNZTVILVczYmVfSTU5MklDaVpGVTBxdTdEcHUtMmpET19Rd24tSVhJeU9LTlZIWXJOOUY0NHhabXBiMklKYWtYRlVYTnVzM0trX3FPalBzcW8wVy16SWhTZXVYeUVicXhlclN1bGoteTZrREtvamhNVnhhRkVVTGJWY1Y4SmNDSjh4ZlhRbm9YZFZkMl9tS0lyUDNPekYtdDJSWVhySk5kZl9sMDdqeldhWndLRlI?oc=5",
-      "score": 0
+      "title": "SIT to probe all shady land deals near airport zones: HP CM Sukhu - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVBvMHYyTkFGcnRVZ0xOaXpQMDJ2OTlIaVZlOTRyTUVIUWdwbDU3ZGNaYk5rZ0RpdW5uS0J2TFI0dU5XOGdrZmFvVmQ0QWF5ZEY4SW1pU2NzWk0zZTVwRnltTl9TcWJnTGdReE9hLWxWNEFHZnJOTTh3dFdhYnNFODdQaVBUZ05MeFJ4dXZLbDJsRHlHd0Z1QUh1aXl4MkpFanRuWmdpT1RqRS1p0gGwAUFVX3lxTE9Tdk1hWmxiaXZqYldDdHhSOHpieHBROFE3Zm0zbWJKb1J4WGkzVFdQN1NlXzZkalpzQ0doenktNlZWS2w0ZWM5RXhtUlBQZG5OaWlzc21XVlg4TkJJekdUaWxKa0JLN0QyUGpLVzZZRXVQcC1KQ0lFazVzdU9DYWtkdVczbmw3RUNFSV9BSDZRWnBXSkhLZl9Sa3hnWWszSG9NeXFDY1dXZTRRaElGRzF1?oc=5",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

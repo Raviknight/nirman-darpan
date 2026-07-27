@@ -1,65 +1,64 @@
 {
-  "updated_at": "2026-07-23T20:09:23.797Z",
+  "updated_at": "2026-07-27T20:16:53.810Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 20,
-    "positive": 7,
-    "neutral": 7,
-    "concern": 6,
-    "avg_score": 0.01,
-    "avg_magnitude": 0.32
+    "positive": 8,
+    "neutral": 9,
+    "concern": 3,
+    "avg_score": 0.07,
+    "avg_magnitude": 0.315
   },
   "youtube": {
-    "n": 6,
-    "positive": 3,
-    "neutral": 2,
+    "n": 11,
+    "positive": 5,
+    "neutral": 5,
     "concern": 1,
-    "avg_score": 0.25,
-    "avg_magnitude": 0.483
+    "avg_score": 0.264,
+    "avg_magnitude": 0.473
   },
   "overall": {
-    "n": 26,
-    "positive": 10,
-    "neutral": 9,
-    "concern": 7,
-    "avg_score": 0.065,
-    "avg_magnitude": 0.358
+    "n": 31,
+    "positive": 13,
+    "neutral": 14,
+    "concern": 4,
+    "avg_score": 0.139,
+    "avg_magnitude": 0.371
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "wow great news thanks for sharing",
+      "title": "Perfect video, thanks for information, please make latest on tunel 1and tunnel 2 .",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Men to aj hee aya very good",
+      "title": "very nice Which camera you are using ? Good quality output.",
       "score": 0.8
     },
     {
-      "source": "press",
-      "title": "फोरलेन पर कुल्हाड़ी हमला मामले में बड़ा खुलासा, वारदात में इस्तेमाल गाड़ी मालिक गिरफ्तार - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUE92bmdpUHE4NnVlUzdvczViYkU4NGItRVFCTWpwN0pkSFByNGxXeC1uWkJfZ244QzBmM1ZzdGpZUjltUHhvNVgybWthdTRqRzlObHBob25pM09fZ3Z1eXJnbGRQZWdqT01kN0s4TTRSSlA2VFIxWjNRU2tQd2c0TWthZENZZG5nZmNHZ0paeTVMeHJkSjVGeFd3OUNRSFJybGJhb0RMSUI3ZjhMYWtKVW5pUWgyR1ZiQzRyaC1hc2hCMFAySjBTUEtUS2paLUlwM0x1NnRZemd2QnlZc2hwX0Fn0gHnAUFVX3lxTE9wT3c4VDEtV2R0MEdMU3ZRcVkyVVpJbHZwV1Q5MkNhMjAtM1pPdFNaQThjcGlTUUNlcEIxNVh6SEJsZjFrVDdrdTdPVnk1SjNJYU5yWFB4TmZhYzVBZUVpMldaWkE5R25Ra0J6S2VuOElXOHY1MTIwbkh6MjJrdmJsc3VrdllsZk9KZEt6cUNvWnlGWWI0cGIwX2ZLS0UyQ3NfNVV0VVp1SGZ3Z0loVHZyTHcwdXhMQTJ6UDlEVzljcXRUNlVyN3FDSE1iQVRBZm84TTAwdmlFbFVCdnVfTklZQ3d6U0NCaw?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "SUnderNagar Mandi tab bnana bhai kabhi same style mein :-) appriciate your work.",
+      "score": 0.8
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Manali tourists stuck in jams as Himachal Pradesh entry tax protests continue - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSEJLMEZ2SUpaajF5eDREclZyNVVVQTNFZy1vSFBzUEk0MU5uLVlVc2p2ZjZUY3NSM0dHYWlBLUhxSTVJNUNYeWs1dk5mZk42MGJqb1BDQ0tmdUQ1b2ZYR3EzYndMMlpveUJBNXNpR281X0VGMkZBVTJ3OGN0ZEJxdlFzYUthQUx0MFVMVDdMZGpPbXptZGNnb1VHeWY1Q040ckVFMlc4M25RMUlKNlA1dXZoVG5IQzVLRWxNZUdDNkpsSWMzd1hLUWp4eVB5V28tYUxQR2J4RkFteUY4clIyX3JkWmI3TTlFQUHSAe8BQVVfeXFMTnk3MjNwSVVmR3RRTVJ4SG5RYjhvX21RdEI5R1pHenNPbU14c19OdUZtZkZrME9qc2hWM2JYX1c1bFdrVHp4Q1lvTDFnWG5iQmx5azNXUjlaYUluQWtfekpHdDlrZVNmNEJDRW9ZR0FYcGxIZGJ6SGNrOVIyUVJ6cmlBNzBDVFJiN0VvRGV4UGlHVmRBU0RqZUdKS0xEaExKS1JWT015TngtSkF3RWlYbW95WTBHdjF4cTVzU01uMVItVUNsUi1kV2ozbjZsNEhobVBPQUFNY0ZYdmZWOHZfZWxlcTVVaEx2YnRmVEtsVzQ?oc=5",
-      "score": -0.7
+      "title": "Terrain trouble: Landslides, floods triple cost of key Kiratpur-Manali highway - Himtimes",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzFxSjdEeVVIQ0VFbTBvRDhzVlVhRWxrRF9naHp2TkdhaS1OamtyVmg3dmxMaXpNQ2RmTTlrY0VvYmxkUzVfZ3FNblAwMFBOcG5Ga05hd2VqMmtoS3BEbTI4ZmpmUlA3Y2htZXZYemlJY2JfenNEQ3ZuS2dMaEZjeTBsOWZFWTRSRDJyUDM2ZGN3SkhnUDlxWUtnVDNTMlU?oc=5",
+      "score": -0.8
     },
     {
       "source": "press",
-      "title": "Rollback a ‘lie’: Protests hit HP-Punjab roads; Mann warns of counter-tax - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeXBmcW5rNkR2emp2R3k0T3dvZTY2Z05kSU1GdEN2X0VlT19kaWdfR2RPUG94RHFxSFYtdjIwaE5rYlJLUEktd3ZjWlUtVnZvcUlkUmtKVDVldmZGbEFFZFI3WW5DVDVmbXFaMjRrZXRvcUFvMFlFNVdlLWgxY19nT2RoT0NmQjFlcUZCdEJ6bWVyc2NDSjE2MUFHQnA3ZllPdXdSUlprYU5fN0NKZjdNdjdCN2gwME9iN1J1Z3VMZkd0TTNlOC1JYjJIb3NKRHJqd0o5Z1RUQXBxelQ1bHlfS9IB5gFBVV95cUxPLWRKLUpsUGpuNVl2djZfbmdlLXlCcmxGOHplcDFWdi1JS21vT1NhS3h5T3d6VGxfMHRCYXNQZERPazFMYm9SWE1ZYW9faGdpOHU3UHE3eUdGeEFXNkNSWXlnamY4LXRYbE5SdnBIUlZZSUVlQkVLSjdYanY5eDlJaVRIV0tBN3c3NzhaNVRmaTNUNzUtQ3BBMlZjS3JxNmgyYjIybUEtOTlqY1lyal9jYTdua09kclFsZDU1ckZOWEt1dkdSaHRYVkZPODlONzY3ZUI4WHpSekJ2VTJvYXQ3aGw1SDhyZw?oc=5",
-      "score": -0.6
+      "title": "Chandigarh-Manali Highway Accident: Five tourists injured as vehicle turns turtle - Babushahi.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WUDFFU2czNzJMLXdfT0x4SW5TSGFHRy03Nk9LM2dDU2lJVkVZc254N1VpV1p6WFRLLS0yTmpsa1h2cXFpb05mMUNZQVIzQk5UVHBOUTF3NTN3dDJDRXc?oc=5",
+      "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "Why only one tunnel for fourlane",
-      "score": -0.5
+      "title": "Today i come from ghumarwin to kenchi mor via tunnel. It take 1 hours to kenchi mor from Ghumarwin but lot of work pendi",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

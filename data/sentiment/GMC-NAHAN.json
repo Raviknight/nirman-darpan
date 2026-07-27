@@ -1,45 +1,47 @@
 {
-  "updated_at": "2026-07-23T20:09:37.066Z",
+  "updated_at": "2026-07-27T20:17:13.205Z",
   "project_id": "GMC-NAHAN",
   "press": {
     "n": 20,
-    "positive": 13,
-    "neutral": 7,
+    "positive": 12,
+    "neutral": 8,
     "concern": 0,
-    "avg_score": 0.285,
-    "avg_magnitude": 0.45
+    "avg_score": 0.26,
+    "avg_magnitude": 0.4
   },
   "youtube": {
-    "n": 21,
-    "positive": 17,
-    "neutral": 3,
-    "concern": 1,
-    "avg_score": 0.376,
-    "avg_magnitude": 0.467
+    "n": 7,
+    "positive": 2,
+    "neutral": 2,
+    "concern": 3,
+    "avg_score": -0.029,
+    "avg_magnitude": 1.886
   },
   "overall": {
-    "n": 41,
-    "positive": 30,
+    "n": 27,
+    "positive": 14,
     "neutral": 10,
-    "concern": 1,
-    "avg_score": 0.332,
-    "avg_magnitude": 0.459
+    "concern": 3,
+    "avg_score": 0.185,
+    "avg_magnitude": 0.785
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Nice video frnd",
-      "score": 0.9
+      "title": "Good information sir",
+      "score": 0.8
     },
     {
-      "source": "youtube",
-      "title": "Clicked Faster than speed of light 😍",
-      "score": 0.9
+      "source": "press",
+      "title": "MBBS छात्रों के लिए अच्छी खबर! वैष्णो देवी मेडिकल कॉलेज बंद होने के 5 महीने बाद दूसरे कॉलेज में बढ़ीं 50 सीटें - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWFmTUxNVk1VTXRLWVdZQXRreFNyYmZ3cGVzUlJQTndPb0Q3cFUySkpyeWU4SUlNY0JKLWN3Yi12bUp1N01kZW1iczlwU2pYMV9MYmRwazIxcDBHbWUwOGlCcUpPbVlWZXYtZUU0X1p3OV8wQzVOMWFhUG1tTkEtdmxWemctZ0FscTVNWUZWazZEdnV4UW5tUkFiWkpNYTFMbVRBUlRrNWtDSEVWdzNqbWVFUVI?oc=5",
+      "score": 0.6
     },
     {
-      "source": "youtube",
-      "title": "Nicee👌 vlog nd keep it up🤩 awsm content 😊",
-      "score": 0.9
+      "source": "press",
+      "title": "शतक से चूकने का नहीं गम, लखनऊ की जीत से गदगद मिचेल मार्श, बोले- जीत कर अच्छा लगा - News18 Hindi",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVkhuWHlXSVZhRml4NUZlNkZRSTFsZnNnb2ZiZVptVVR1OHVOSTlfVm9Rc3c1b3YxMWVQQ1JZNE90NHpBa1Q4SWF0Z0UtTEFKTlprVVU2aW9sbE9ZRmtvdWpFREJ6amVLTDk1VUEtTkVDWmpDMDZMQTZhM0NndmZ1My10WGxKY1Jwa3BUSEhycGZpS1JGMl9od09BY25mTTVtQndydDR6aG5MSVNEOW1JMTA3eEQ4NjlHVHBJb0Y5VERPRTJYaVd6VklLa2ZXYk1xc0JLeWxSQU1rUWdjMzU0ZzNtcE1PRkxraENFQUU3a1dPYWo5UkMwUGlWU3ZpXzTSAYQCQVVfeXFMT2JzTkNmbjRDUk5iZ1dvNzJZM2tVdU1NeVpOVWlRZzBiS0h2SkpmYWY5d3NZdm1fWHFUbGhQNlRTNGk1UHBxVHQwaFRleWs3NlVzYmxYcE9ielZXS0dyVUduR3lLNGZzZHhGOGVkM0s1bENoZmR0QzFxSFRKbG13MFBIZ05uaXR1UWxIU25aU1d1c1hxSDMza2J6Tjk0d1hLLUJDUlk4a0VmLXFjTUl1V3ZzcGFrbGdtR1RUaUNIdGJjS2lQN0lMQmwteUx4LWI2cDdNTi1SbEJ6cHJBcExWTWktaG9iSldoeE9DenVlVmU1S3ZJdFEzVG5CanlyWmI4S1lVZTg?oc=5",
+      "score": 0.6
     }
   ],
   "top_concern": [
@@ -50,13 +52,13 @@
     },
     {
       "source": "youtube",
-      "title": "Near busstand hai or up down kar sakte hai because I am from paonta",
-      "score": 0
+      "title": "Pls sir mujhe en parents ka mobile number chahie tha yonki main en dautar lena chahti hun apna bnane ke lie",
+      "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "ug college aur pg college alag alag h kya ???",
-      "score": 0
+      "title": "You are highly mistaken sir. You probably were not even allowed to enter the college and that's why you are standing at ",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

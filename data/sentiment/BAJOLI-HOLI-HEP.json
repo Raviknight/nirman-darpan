@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-23T20:09:35.905Z",
+  "updated_at": "2026-07-27T20:17:12.470Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
     "n": 20,
     "positive": 9,
     "neutral": 9,
     "concern": 2,
-    "avg_score": 0.135,
-    "avg_magnitude": 0.225
+    "avg_score": 0.155,
+    "avg_magnitude": 0.245
   },
   "youtube": {
     "n": 4,
@@ -22,8 +22,8 @@
     "positive": 9,
     "neutral": 11,
     "concern": 4,
-    "avg_score": 0.075,
-    "avg_magnitude": 0.233
+    "avg_score": 0.092,
+    "avg_magnitude": 0.25
   },
   "top_positive": [
     {
@@ -34,15 +34,15 @@
     },
     {
       "source": "press",
-      "title": "बरेली की रामलीला जिसे अंग्रेज भी नहीं रोक पाए, 166 साल से कायम है परंपरा - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWxpYnhSMWIyZ1c1UGJld0VzWkhqczQzSC1RM2pDbUZ5UVhtT0htVW5CeE9SbU45NGhUOE1JTGVwbUlWNGUxRjNYNUcxRDJqRGoyWFIyWW5iT2hJc19OY19yelR5UTY4NGY3Vno4TUNEQXkzbjAxbHdPcGRweDQ1US05dW1GMzctMXJ4SjJzZVUyVVhXUmJoRGx5dEdBTS0zWXZybExaTHI0SUhZX0RrS1JjT3lib0lGdlpiWF9ldmZnSnQ0Y21TVzF2aE1xNU1iYjg0eVFJM0NIa1nSAeABQVVfeXFMTnMzVG9oYXBnVjNhdklCRl9UQlYzbTM2VG9hRFNCMzdOWER4Ylc0YV8xYVdva0pQLVBQVmctVUQ5OENQNUFlWERnQlo2dXpWQTZoNzJhMzlEc1N5R2hkczBsSk9zOGVRbmlqOEdUcWs1T0VpMWxKLUhqTVlTd1F5T015LWFockNVcVJpUWFiekhSRU1NSFRORHBCbGpWcGllbUkzY2t6em04QzM0eldwbzhkWmwxS3lmOVVDeERUMVZUM25tckpwS25PRkFMbjU1VnlMTnJGbXU5LVFEZmtrWTU?oc=5",
-      "score": 0.5
+      "title": "बरेली में होली पर रामलीला, 166 साल की परंपरा; मुस्लिम समुदाय ने किया यात्रा का स्वागत - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1RsU3Z1dEFZOGFrZ1FpdTNrcWh5ZVdsWUNwdmlWaDE3elZSd1J0UktOZFNkNUxzRTBWX2VaTk9kcDM2Ul9kVE1LNDF4Njl1VXlfYVBSVzNrMTg5VGx6d0tRcVpXZ2ttdERRd3NGX3dXNnVfSmJ5MmlfWV9hQmRvODNUMXp2aVRZdHdrcHlPbFJweTZhZjQwaDlOYWtfRXc0TUUtd3JMZ1hDenhwRjhHMHdGcFI3N0JlTTZLN1NaZUFjWEhfbWRENzY0OWg4UlN3NTlib011X2FwMXpLMmNoWEZ3?oc=5",
+      "score": 0.6
     },
     {
       "source": "press",
-      "title": "180 मेगावाट की बजोली-होली परियोजना का प्रधानमंत्री नहीं करेंगे लोकार्पण - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazNLZzNhZTVacHdaUXctTkFLRXJ1VDk0dXlsd2JhczBqVmsxWWlTV0hUYTJ1UjdNdlR1ajlCZVNfYjcyTktMTjB5VEpibW1vVWwwZktvdjhIMkxxemhCYXdaWXRyWkJNbGhYTVo4c1djazZ0Y0FSaHdmX2JQZU1TOXlwTGMwX00zaXhESWoxa2FLZmVKQ2ViYW9mdGNWZWZBUHRxR0ZBNkN6U1lKalpIS28zMHNJVjd3cE1GWA?oc=5",
-      "score": 0.4
+      "title": "बरेली की रामलीला जिसे अंग्रेज भी नहीं रोक पाए, 166 साल से कायम है परंपरा - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWxpYnhSMWIyZ1c1UGJld0VzWkhqczQzSC1RM2pDbUZ5UVhtT0htVW5CeE9SbU45NGhUOE1JTGVwbUlWNGUxRjNYNUcxRDJqRGoyWFIyWW5iT2hJc19OY19yelR5UTY4NGY3Vno4TUNEQXkzbjAxbHdPcGRweDQ1US05dW1GMzctMXJ4SjJzZVUyVVhXUmJoRGx5dEdBTS0zWXZybExaTHI0SUhZX0RrS1JjT3lib0lGdlpiWF9ldmZnSnQ0Y21TVzF2aE1xNU1iYjg0eVFJM0NIa1nSAeABQVVfeXFMTnMzVG9oYXBnVjNhdklCRl9UQlYzbTM2VG9hRFNCMzdOWER4Ylc0YV8xYVdva0pQLVBQVmctVUQ5OENQNUFlWERnQlo2dXpWQTZoNzJhMzlEc1N5R2hkczBsSk9zOGVRbmlqOEdUcWs1T0VpMWxKLUhqTVlTd1F5T015LWFockNVcVJpUWFiekhSRU1NSFRORHBCbGpWcGllbUkzY2t6em04QzM0eldwbzhkWmwxS3lmOVVDeERUMVZUM25tckpwS25PRkFMbjU1VnlMTnJGbXU5LVFEZmtrWTU?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [

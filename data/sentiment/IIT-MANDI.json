@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-23T20:09:30.941Z",
+  "updated_at": "2026-07-27T20:17:03.810Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
-    "positive": 6,
-    "neutral": 11,
+    "positive": 9,
+    "neutral": 8,
     "concern": 3,
-    "avg_score": 0.065,
-    "avg_magnitude": 0.205
+    "avg_score": 0.13,
+    "avg_magnitude": 0.27
   },
   "youtube": {
-    "n": 22,
-    "positive": 14,
-    "neutral": 5,
-    "concern": 3,
-    "avg_score": 0.255,
-    "avg_magnitude": 0.545
+    "n": 38,
+    "positive": 29,
+    "neutral": 7,
+    "concern": 2,
+    "avg_score": 0.347,
+    "avg_magnitude": 0.574
   },
   "overall": {
-    "n": 42,
-    "positive": 20,
-    "neutral": 16,
-    "concern": 6,
-    "avg_score": 0.164,
-    "avg_magnitude": 0.383
+    "n": 58,
+    "positive": 38,
+    "neutral": 15,
+    "concern": 5,
+    "avg_score": 0.272,
+    "avg_magnitude": 0.469
   },
   "top_positive": [
     {
@@ -33,14 +33,13 @@
     },
     {
       "source": "youtube",
-      "title": "I see it every day 😂😂😂",
-      "score": 0.8
+      "title": "Best iit campus in my opinion..iit Guwahati and roorkee",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "लाखों का पैकेज, विदेश की नौकरी छोड़ फौज में जाकर कमाया नाम; अब IIM से MBA कर रहे कैप्टन अमर - Hindustan",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeW9hSDVvUXJGTWVQb2dJQ0Uwa1BIc1B1TExjbVhwYUQ3ZmhnUlRQRXBjdG13dWo1cE9oNjBnVWdJUWdiRi1aWDhnZkdqdWM4dUtSMGJmZWZLbHVqVEpRNGVwYnluRXRhWGllMW5yXzAwamxBbGxOcjA2QUlUWHVmNkoza0ViWmxneUI5Nkd4aUFPNTdWS3ZwMEtHVGNOQnE2MGJkSEVBVFRJdVQtNFFRTnRnVGNSWTRudGtlVDJUSGtVY0REMmc5cE1LemJHcG1H0gHWAUFVX3lxTE1HWmd0U2pXcEJkUGJEdEZsYjJ2d3ZsMHlYNk4yX3NwMFd6RDhscjlmUHZzTTFLOGQ5cWJJbW1IX3JsbENXWTAzN01KM3EwQjNOLUQ2ZGRIS2ZCTm9mU1pPM2pEQklNYXhYd2hGWE11UkJSN01SU2RpSF9DQzZMeURNc2JTSGJ0UXEta2VVcU5Ga0RvYko5X0gwRmFaZFlXaFI3Rmo2MktOak1tQ2hJcUpNaTZqc2RrVFd3NEFiVG1WMkVWNk45QkNRS0toWHo0OS1KbzRFSnc?oc=5",
-      "score": 0.6
+      "source": "youtube",
+      "title": "I see it every day 😂😂😂",
+      "score": 0.8
     }
   ],
   "top_concern": [

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-23T20:09:32.870Z",
+  "updated_at": "2026-07-27T20:17:04.831Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 15,
+    "positive": 4,
+    "neutral": 16,
     "concern": 0,
-    "avg_score": 0.075,
-    "avg_magnitude": 0.085
+    "avg_score": 0.08,
+    "avg_magnitude": 0.09
   },
   "youtube": {
     "n": 0,
@@ -19,24 +19,24 @@
   },
   "overall": {
     "n": 20,
-    "positive": 5,
-    "neutral": 15,
+    "positive": 4,
+    "neutral": 16,
     "concern": 0,
-    "avg_score": 0.075,
-    "avg_magnitude": 0.085
+    "avg_score": 0.08,
+    "avg_magnitude": 0.09
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "सोनम वांगचुक मामले और पेपर लीक के विरोध में धौलासिद्ध में गरजे मजदूर - Janta Se Rishta",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTENyYzFTWlJTMmg5bzVGdC1lalpNWHVtSS1NeVMxMzJ4UnhIOG1YRXhuVTB4eVlvR1lXbkZIbXBuVS1TOURNY2NWQkN4djdiYnZ5dnh3eVRIM2tHemhyVXhybGlmUEExRGhXckpXbUpwMk5EYjVhTE5SYWFVM1NfbjJaWExKYjJkQXJFTVoyTGtxdnRKclN1VmpCZl9hakNVcV80OGdjUEp0Tk5neGt4b2otN2QyY2VEUXhXRFJHdjNQNUZITGl5QUlCX0QySkpGZFF1d295UdIB3AFBVV95cUxPQjl3eU1pTFlQRzJzbC1CMFZ3eWpqSzRpSUh1ZUxVN2JvQy1GZ052RnllUHdaVlR6dXlZdXg0b0E1S3FJT1RwLWRlOUNlU19WTVpWZzM2SEVrM3Y1dVZGX0djb19TLWJud0c4Nm5TdlpUdW81aE9IUmY2UXlnU1FfTXJfcUh0WUNEM20yNXVzNjlVWXE2NjhRUjFsbEJpakRqNFVkXzUxeFBuazRrWHJRZ0R5UlhnS05yck1JUDZMbHpqWnZ0QmtPRlhWaWVhX0JvSElZbGJxR2Vpb1lf?oc=5",
+      "score": 0.4
+    },
     {
       "source": "press",
       "title": "Dhaulasiddha project: धौलासिद्ध प्रोजेक्ट के निर्माण से हिमाचल सरकार को 125 करोड़ का होगा नुकसान - Amar Ujala",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWhqcXplVGxuSmVJalBQMVVJVVRGazE0QXhnOVlGMVdrVzlBQ2gzLUVCZ2FDT3oyN1ZmVm9rT1dMYUNrOEkzT3k5UXY4S3hjNW5Rb2MyZE5ReFUxeVFIMkhxNjgxVTlKaGQ5VkRCSUd3Y2N4dXpIMjI1UTN1UXg1S294bkEzZjZ6S3FFTWs5SE1na0hvalhybDczUmFjZmpOX2hFM0hUbUlRMkNTYjJrVEcyYy1pMjA3Yl9JdUExNnJQTS1fWUHSAcsBQVVfeXFMTjRrcUxhRXhnM3NtTmY5QVBRM1lLeWl4aE4wWVVtdV9UZVpvZ29IQ1hYbUhVMk9ha1ZDTkN4aTFBck9rbkxLVW5PTm1YR0pvRXdjZ3ZEaVlaUjkwcVpVc1BQM0MyMzRkb0t6dlZ1Z0dib0NCbWZReG1xeS00Z2pzVkdYSkphTk1VRm0zd01KUUZHaktXcHpjMjBUb0dzZ0RWS285bDZteHNRR3cxV2VZX2hyMnNDZnlIWnN5bjI4SFQ2aXE4MjB1RmJVeWs?oc=5",
       "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "सोनम वांगचुक मामले और पेपर लीक के विरोध में धौलासिद्ध में गरजे मजदूर, शिक्षा मंत्री का मांगा इस्तीफा - Divya Himachal",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVmRNa2YtSEd2aVNVb2NwTWx4YVhfQnN3X2E2QkhrUjVEOS1kdFFKVWg4RGNIc0RyZmE3eFZnU3ZfaVNoVllYLW9mOVJ5anF2VWpvTjd0ekhsOTNxaUp0dnZVYXFSZ1gwOU93RFh6MTRxNlV6Vm5wYkFhckN3X3JoNzlETnJwZ21MWi14alkzUlptUW1NWWdPRXV2Qm81dzJkbmhmU1BhSHZjc0hRN0RmZTZDa2VIZ1U3OTFwX2ZNa0VfQllobzd4aGV6UFRYNDNwQVJlR3JKSnpQN3VCQk92aXZaOVppek51eVk5QWxyWkRJUzA2U2VJTUtDT25LbjBKWkFn0gGDAkFVX3lxTE1WZE1rZi1IR3ZpU1VvY3BNbHhhWF9Cc3dfYTZCSGtSNUQ5LWR0UUpVaDhEY0hzRHJmYTd4VmdTdl9pU2hWWVgtb2Y5UnlqcXZVam9ON3R6SGw5M3FpSnR2dlVhcVJnWDA5T3dEWHoxNHE2VXpWbnBiQWFyQ3dfcmg3OUROcnBnbUxaLXhqWTNSWm1RbU1ZZ09FdXZCbzV3MmRuaGZTUGFIdmNzSFE3RGZlNkNrZUhnVTc5MXBfZk1rRV9CWWhvN3hoZXpQVFg0M3BBUmVHckpKelA3dUJCT3Zpdlo5Wml6TnV5WTlBbHJaRElTMDZTZUlNS0NPbktuMEpaQWc?oc=5",
-      "score": 0.2
     },
     {
       "source": "press",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T20:07:48.649Z",
+  "updated_at": "2026-07-27T20:15:00.234Z",
   "project_id": "NH5-PWN-SHL",
   "counts": {
     "press": 22,
@@ -9,16 +9,6 @@
     "total": 22
   },
   "mentions": [
-    {
-      "title": "दिल्ली-सहारनपुर वाया टपरी रेलवे लाइन पर रहा मेगा ब्लाक, यह था मामला - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnFPa1lKTEF4MElyWjNJblFPSnZJdTRDR3AwdlRpQWE5WGh1SV8zQmtYRzdiaDh5aDFLaHNlODU2X0FGaE5VUGM3QmFUTDVCM3FNMTZ2U0pFNEZHT0J4a1lIbWY5czlZc04tQ0NiMGVYdS1hOFJBenlQWkMzcUlzTWg1SzBpdnVXVmxDMnVFVkVZdlFJd2ItZF9HendsUGFFSFVtUnl6UVo5eW1LaEo0N2pXczdteXVROXRZ?oc=5",
-      "date": "2026-06-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kaithlighat Dhalli"
-    },
     {
       "title": "यात्री कृपया ध्यान दें: दिल्ली मंडल में कई ट्रेनें आज की जाएंगी डायवर्ट, पावर और ट्रैफिक ब्लॉक के चलते फैसला - Amar Ujala",
       "source": "Amar Ujala",
@@ -90,6 +80,16 @@
       "match": "Kaithlighat Dhalli"
     },
     {
+      "title": "पूर्व रेलवे की तरफ से आई बुरी खबर, बिहार जाने वाली कई ट्रेन कैंसिल, महाकुंभ जा रहे यात्री भी होंगे प्रभावित - Jansatta",
+      "source": "Jansatta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVU4zel9yOG5Mc1NKcTAxejBiQ3psTTRwTlNVd3g2R0UxTzFRalpocmg4X3lISmQtT0s1Q0lPWUF6RDBjbUJfem5OQ3VlYTkyNVpsblB1eE9ITVZYRWxvdzI5ZmVBN1h1UldkM0ZIa0MxdW5JV1F6ZnpPYUlXMGRFUG5ZYkNic1BBUzZmQWtqMnUtWnZUQlNPTVNJU0dPdGp3eWdNa2c2X05iZzZwVVoxT3paYnhrczIzV0tDZFR3NzBqci1ZWUc0c2NaNFo4aXR2TkdnVXZzbHplakVCdWNVStIB5wFBVV95cUxPcDExbENNc0RHU1VzNEtBM3VybmY4QVF4bHpYQ2Fka0Y4OXN5dEYxRERMdWVHZE1raFBSMjZWbUF1SGdzOV9McnhJOEZPb0JIVl9EQWFCVFM5UzRxREJyV2otZGNkLTFtTzc1NzVUTmFodmdQcnNZRTV2Z1JiYVZPUF9hMmh5WWtvM2Z2Y2c2b0xobHRnUEdKU180RVZMVkYtQmhaUXhvQzYzMnRSMGpzMEwyeVZWYVJYQkQtVmRIQV9ka0xVMjNZSDJCU3FSTmMzYUFZTnZQaFJYeEwtT1p0Y19UN3BxSzA?oc=5",
+      "date": "2025-02-19T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kaithlighat Dhalli"
+    },
+    {
       "title": "Kaithlighat-Dhalli Four Lane: 4800 करोड़ रुपये खर्चा, 15KM और 1 घंटे की बचत, कटने से बचेंगे 22500 पेड़ - News18 Hindi",
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
@@ -107,16 +107,6 @@
       "date": "2024-08-21T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Kaithlighat Dhalli"
-    },
-    {
-      "title": "Kupwara Encounter: कश्मीर में आतंकियों से लोहा लेते हिमाचल का जवान शहीद, 28 साल के दिलवर खान ने दिया सर्वोच... - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPYVJ4REMwVm03SGJ3UHIzZ2lzX21UbkJDTTUtc21ZSHktRkRVNklPckZ6emRNQnN5dndOTmkxR3BIYkpudzZLalRJMzZZSVJlVFplejZLWm9hQ1FfeXRLNW5EYk5lTDJJVkNTMnh0eDZ4cm1WYjBaS3NPUXpnajBTQU1zQmdZajRoeVpqUjlEVkNUWU5mbU02dm9XMWM2NkZhcVZyNFk3NG1XcEt2RTRURkp2NnRLSXFrU09TVXB5MjFHbXBYNURzeXd1N20tc3NvLW9TMUo4MzdoT0hlV1l0YlFCWm1EODhqXzVmNHdfY3o3VEtPV19tRlczLUtCMkNFZ0ljVF9uWlhEWjNyQmVBdVFtNnBON0tPWWpXZjg1T2w2Y2pnNUYyWDJJN0VjTWfSAbQCQVVfeXFMTThtOFBHNHpLaFRqeWkyTmg1WW5WcFlrUGZuZFVZWXRzVkpRckVxVVh2NVNGUFY3dVNOLUJ4bkEyaGUzYURPUkc2a0dZZUR3LTk2cVNaNXh4Sk9HaUFULWJRTHQ1UUNBSFBEMWtWb3oxVEg1YkR4ekhrMHFCeTE4SU1MTUwxajNQNXNwckU5aWJfeVhJMUlLN0tGTUNjRTQ3SE5QeTVaRDZCbGdRa2JuN0Rjb0xzM3B1c1gtM1hudW5ScHdrR2RjOTJxUVhrOWhEd1lzaURKckFhTXlWdlhjNzBQbkVyREpGSGV4ME5FdjZWaXZlMXJBdlJiMmt2Z283ckMtRFJlUDJKTHlTLTZxbG5PMFU2bTVvSU9NbjNkRTVBS3gwRlNhdTNNRm5uU0hNTEZaUUM?oc=5",
-      "date": "2024-07-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Kaithlighat Dhalli"
     },
     {
@@ -187,6 +177,16 @@
       "date": "2022-09-22T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Kaithlighat Dhalli"
+    },
+    {
+      "title": "Railways Update : कालका दिल्ली पैसेंजर का संचालन शुरू, रेल यात्रियों को बड़ी राहत - Patrika News",
+      "source": "Patrika News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnE4RnB4QlpyZkhlMmotSlZzdWFkd3k1STBKTl9mc2FuSmNPeXpaR2ZxQWNaWGxMakduZk1oNlg2MkJUdk5DeGM2eEFuM2JZaWxGZ0NSdHYtUHljYTZEMDB2VGNyczdmb09Ib3d0cWlRTENhX1BaSzU0SFZ5WFhPOW82VEhtYXVVM2RmMmNDQk1wVmx0Wm8zZERuWkg2NENPbjZJ0gGoAUFVX3lxTE5YaDR3bnZkUzhZUlpQTURheWJWWVkwSms0NHBvdzVyckxERWhLYUIzaF8tejFsMmswNTJyaG00bXlaQXZzNU9CQ0NocWR2RGlhaHl6bDdsUFY5M01PNHpVaUVkSk5SaGUwb0toNVJLVTlWUkJRVDl1OUVqSjNtYlVpenVJQVhKZjRBMHBZdVNxMzFDbWF3V09oNGhucldvTEFfN3FSbkhMRw?oc=5",
+      "date": "2022-08-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Kaithlighat Dhalli"
     },
     {

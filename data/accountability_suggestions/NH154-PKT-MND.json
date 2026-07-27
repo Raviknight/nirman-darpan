@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-23T20:09:01.120Z",
+  "updated_at": "2026-07-27T20:16:30.645Z",
   "project_id": "NH154-PKT-MND",
-  "count": 1,
+  "count": 2,
   "suggestions": [
     {
       "category": "litigation",
@@ -16,6 +16,20 @@
       "lang": "en",
       "date": "2026-06-18T07:00:00.000Z",
       "matched_term": "pil"
+    },
+    {
+      "category": "defect",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-27T20:16:30.645Z",
+      "title": "Travelling on potholed Kandwal stretch of Pathankot-Mandi NH in Nurpur a nightmare - The Tribune",
+      "summary": "Auto-detected from press: \"Travelling on potholed Kandwal stretch of Pathankot-Mandi NH in Nurpur a nightmare - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTY5U3ktTDZoaWRrcUJRWTA0LUZjcGRmWWFIdFRqYlNVMWtUYWZ0eUpxVDJRSWhQYXB0ckEteEIxS3ZZNzBiUkF5VW40RU1mbmN6U3ZoZUVDRHRWT2ZsU190bk9CQjlERF9SZ2Fmb0FudU0xZi00cUpUR3JqSlktZi1nSmNPcHpjbTQ1cGplb3BDeV9vU1czQ1M0V3dVYWtiYTA0TUVPNWY4amlwaGExVTJxMFh0cFNNYWpDcHZNc2pVS0g40gHIAUFVX3lxTE9BNkpRODZOUkJhTzVVVGJjWFgtdXZ5aG5neVdvb0l3aElQNzVmUmNfcnNncUUtYjR2QXBEcGxvX2piQ0hRcVpMM0hJdGE4MDZYZm1LX3dUelVudU9ZQnJUUUNGdWZleHRWS0ZRdk5HaHNYUkJ2dW0xcHBvaFk2M0d0X3dISDZRbFBYc2R5VU1HM1ExbHI3ajllRVNwLUJxMzNHSFhxS1VOcXZTSXlSQWYtM2pBRmVMZVJIaEd0aHhmdlpFOE12RnNP?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2025-10-22T07:00:00.000Z",
+      "matched_term": "pothole"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

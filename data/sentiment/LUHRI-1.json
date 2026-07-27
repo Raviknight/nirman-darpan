@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-23T20:09:26.642Z",
+  "updated_at": "2026-07-27T20:16:54.548Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 15,
+    "positive": 4,
+    "neutral": 16,
     "concern": 0,
-    "avg_score": 0.115,
-    "avg_magnitude": 0.14
+    "avg_score": 0.075,
+    "avg_magnitude": 0.085
   },
   "youtube": {
     "n": 5,
@@ -19,19 +19,13 @@
   },
   "overall": {
     "n": 25,
-    "positive": 8,
-    "neutral": 17,
+    "positive": 7,
+    "neutral": 18,
     "concern": 0,
-    "avg_score": 0.148,
-    "avg_magnitude": 0.176
+    "avg_score": 0.116,
+    "avg_magnitude": 0.132
   },
   "top_positive": [
-    {
-      "source": "press",
-      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - The Economic Times Hindi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hOTTcxQXVwRXRWQWFMOGpvRnRzNGdETDBlckNfTzBpSng3WnluaGtzdVlGaU5xdWRnZko5cUNPd1EyQWwzTl9vbkJMVFBORmFlZ0toenpkamJjVk9ZNDZqU3JveHdPSHRYQjdwaFpnT1BUbkJxbWp6YWJHZl91MUhDMlR3enBxZkZtQVlmY20zR2NUNWRIdG83NFFIMlVIRWlndDlGUm1lbmFqbnFnZUxnU2o3ZUlxZlE1RXllU0N6Mnk1MGp5QlBPWVHSAdIBQVVfeXFMT0MxRGd6UXIyRVFGdjBZcmdRY3c5VEhrWTdhZHV2elkxRlF6emJ6eDFvVnZIdFR4WXAwUWdiTEhJaHBoeWpQdlJPcy1xS1JVTGt3SmpSaVNNdzE1aGVtd241SVdTdWEzb1F2S0lLRk5lMWs1dFJZR2RGMzRtYVRVRTAwcFM1M0VlUUNhRmF5X2h0RFNtbnRlZEdzU0RkNTMzQkUxS1pndk1FVHNIdkc1dmVaZGVoLVB0S2otMXZtakJZb01oc2ZJMk9mNmt3V3MwVVln?oc=5",
-      "score": 0.8
-    },
     {
       "source": "youtube",
       "title": "Thank you",
@@ -41,6 +35,11 @@
       "source": "press",
       "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
+      "score": 0.4
+    },
+    {
+      "source": "youtube",
+      "title": "💕💕",
       "score": 0.4
     }
   ],
@@ -57,8 +56,8 @@
     },
     {
       "source": "press",
-      "title": "SJVN awards electromechanical package of Luhri HEP to Voith - T&D India",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT05uZXNuRjJ5d1JvZjg0aWFXMlhyZEZfOHh4WmhOVy1OWWpwRWFmZkxvRWl3a0Njd0RsUzM3ZXFzbHZFTjZUbkRnYUVhYkZ3NDVVU0xteDUtNmNkQjNZRG1TNEI5RWRwTEFCa3NqcU9rYlhzdkg1d3ZUaV9hZ2xTXzR2ajBoeUtEVzVDTVBB0gGTAUFVX3lxTE1yN2ZEQ1FtaVc0dEw3d2xxYkhiM1BOdUExSjdXbExuM2lXeHZxNVNTdnlEamREbXpPd2ZBZm84UUVtWUQxbFVMR1pmcDJUbVZFSzVyaW84Z2JCTHBYcEZBV1lhTFZvaU1UeExyOWxwMjlMTHM1bmFscDlNNEhnUkdsTVNtTGQ5SzBUX3VqR3B1NDZlMA?oc=5",
+      "title": "Patel Engineering bags Rs 976 cr order for Luhri hydro electric project - ET EnergyWorld",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkk2ZzlKQ25NTi02VXNuejFtWmI5cVNyc2hFLUZNY2JXSHIzam0tZWs5X2psVmQ0aUxWVmdaOGVXZFJaZGdic0hPSVdpTS12SVNuWUFCNEtlTjY4MFFKTmhjWnRSWlRUdGVIcU5HQmUtakMwX2twaERRUGR6S1JUUFdTUEpPMU1YemZPaTBPNzdsWlRJWGpiUHRnNWhXck9sYl82ZUNnZkVveDZhbGVFc1lRbU9OODduU1RodHg0NlljaWpyR3JtOXNHY1lqb2lv0gHWAUFVX3lxTE9Sa09za0RsVkcxNGM0TmcwSy1TRXcteWtFT25zdzJtMmRwaTA0V0x2MUNPc1I2TGtxbzJzdkRvbEE0b0ZnV19feExOLTBSMkhkNm5PUzk5NnZhS3FxT01keWt1Mmt2bDFHZWxfcHI3QWkwNkVWYVp6LUY5STJmUnN4dGo3REJYV0NHdzJxbXh4Y2J3OHZ1cGJ4S0w4cE5rbDJzVE5zMnhYMjBTelhfQkxzOVJYZXBhNkhVY1hfbm5lSTJoY1gyWk9walJkcU1DWURsd3JlZ3c?oc=5",
       "score": 0
     }
   ],

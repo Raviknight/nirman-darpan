@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-23T20:09:31.053Z",
+  "updated_at": "2026-07-27T20:17:03.890Z",
   "project_id": "SMART-SHIMLA",
   "press": {
     "n": 20,
-    "positive": 13,
-    "neutral": 7,
+    "positive": 12,
+    "neutral": 8,
     "concern": 0,
-    "avg_score": 0.22,
-    "avg_magnitude": 0.36
+    "avg_score": 0.2,
+    "avg_magnitude": 0.34
   },
   "youtube": {
-    "n": 25,
+    "n": 26,
     "positive": 9,
-    "neutral": 13,
+    "neutral": 14,
     "concern": 3,
-    "avg_score": 0.052,
-    "avg_magnitude": 0.26
+    "avg_score": 0.054,
+    "avg_magnitude": 0.196
   },
   "overall": {
-    "n": 45,
-    "positive": 22,
-    "neutral": 20,
+    "n": 46,
+    "positive": 21,
+    "neutral": 22,
     "concern": 3,
-    "avg_score": 0.127,
-    "avg_magnitude": 0.304
+    "avg_score": 0.117,
+    "avg_magnitude": 0.259
   },
   "top_positive": [
     {
@@ -47,8 +47,8 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Kuch bhi?\nWithout informing the Numbers, data and facts about why you think the scheme failed, you'll bark \"SCAM SCAM\"?\n",
-      "score": -0.6
+      "title": "Smart Kitna din bad launch hua tha dikhaiye",
+      "score": -0.5
     },
     {
       "source": "youtube",

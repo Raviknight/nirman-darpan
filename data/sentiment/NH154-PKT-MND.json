@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-23T20:09:34.834Z",
+  "updated_at": "2026-07-27T20:17:08.071Z",
   "project_id": "NH154-PKT-MND",
   "press": {
     "n": 20,
-    "positive": 7,
+    "positive": 6,
     "neutral": 6,
-    "concern": 7,
-    "avg_score": -0.01,
-    "avg_magnitude": 0.29
+    "concern": 8,
+    "avg_score": -0.045,
+    "avg_magnitude": 0.305
   },
   "youtube": {
-    "n": 22,
+    "n": 24,
     "positive": 16,
     "neutral": 4,
-    "concern": 2,
-    "avg_score": 0.309,
-    "avg_magnitude": 0.736
+    "concern": 4,
+    "avg_score": 0.25,
+    "avg_magnitude": 0.708
   },
   "overall": {
-    "n": 42,
-    "positive": 23,
+    "n": 44,
+    "positive": 22,
     "neutral": 10,
-    "concern": 9,
-    "avg_score": 0.157,
-    "avg_magnitude": 0.524
+    "concern": 12,
+    "avg_score": 0.116,
+    "avg_magnitude": 0.525
   },
   "top_positive": [
     {
@@ -50,15 +50,14 @@
       "score": -0.7
     },
     {
-      "source": "press",
-      "title": "No DPR in absence of consultant, work on Palampur-Padhar road stretch delayed - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenFQeG4zSmxZcVJsVVpYOV9MZEh2Z1lzWFo1SUFiS1NPX1VzeVp5am9LOG00MzF1d1RNbnhGRzJibEp4ajB2anVVR2ZBU2hwTlphcUVSWG1GSE9jTnpwRmNCNVBObk9PVGVsemNRd0NSTkxBaHNyeUN6LWJ3aWNYYmVkZU05MEZwUHNWMmdhS3gzcU5PQnR6LUNJWnJ1Wk1ZTkprOEFjT0FqalBLTWpfWmtremdjREZId3QwZNIBwAFBVV95cUxQdWZqeEY1RGFIckY1aERqdVpHUzVocWk1MGJvYm1KVTFwT3Q3QzdCOUwwVVlWLWJRT3dUOEZOM1dWTmNQM3JlZ0tGSl9yeWdXNWRvYTFzOWQ1NEZSTUJzZFFqMElDM1dMaW5Xb0xlbzhvdVFnZVNnWTd4b0N2REx6S0F4VlVPb19qakZqSjFwZXVTSmFwQUVNdk1aUGY1Vm5PR2tUTFJGbU5idDkxRHpZcHBYX19YWXF2SmtwTnowR2E?oc=5",
+      "source": "youtube",
+      "title": "its pathankot not pashakot",
       "score": -0.6
     },
     {
       "source": "press",
-      "title": "Traffic jams at Malan on Pathankot-Mandi highway inconvenience commuters - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjhoczdjQUJIYk9rY0hKRmNWQTlvT2NrZGFIcmppZVJEcUR3VmIyVTlOSDdVSzNOX2ZaZ2w5UGlXMWtVdlQyWklpcmFhQkJVRDNlWVpIcDBJTEVESW14dlgzQVdJYlNGY29LMHNfU2ZNQVFIVnNqNWx6M0tRR1ZfYnZicGJCQUVMQ0toTlQ1LThBeHFHNzk3Mnl6VFA4bUsyd1V0VWRvci04S0g4TkUyadIBtAFBVV95cUxNNXFwQ3I2RGFqeDhvRTdIRXZ2Rkh0dzY0RExtUVEyT0FnWmFvUGJtSnk5d1VVTWhSR2xPMVlLOG1QRzY4TlZfa25TMG1mZ0g1WU9fZ2NMYXViUTN4YXJWOURJNndxWU5VclZzTjQyWWhFRnBjazl0THZCSlNjOHVENUZmNTJ0QXZ1dHBYVFJPR3g2YndyNjZ6c3JqWnFkaXlFNy1QYUR6SWtiaDdsSTRYaHBYRk4?oc=5",
+      "title": "No DPR in absence of consultant, work on Palampur-Padhar road stretch delayed - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenFQeG4zSmxZcVJsVVpYOV9MZEh2Z1lzWFo1SUFiS1NPX1VzeVp5am9LOG00MzF1d1RNbnhGRzJibEp4ajB2anVVR2ZBU2hwTlphcUVSWG1GSE9jTnpwRmNCNVBObk9PVGVsemNRd0NSTkxBaHNyeUN6LWJ3aWNYYmVkZU05MEZwUHNWMmdhS3gzcU5PQnR6LUNJWnJ1Wk1ZTkprOEFjT0FqalBLTWpfWmtremdjREZId3QwZNIBwAFBVV95cUxQdWZqeEY1RGFIckY1aERqdVpHUzVocWk1MGJvYm1KVTFwT3Q3QzdCOUwwVVlWLWJRT3dUOEZOM1dWTmNQM3JlZ0tGSl9yeWdXNWRvYTFzOWQ1NEZSTUJzZFFqMElDM1dMaW5Xb0xlbzhvdVFnZVNnWTd4b0N2REx6S0F4VlVPb19qakZqSjFwZXVTSmFwQUVNdk1aUGY1Vm5PR2tUTFJGbU5idDkxRHpZcHBYX19YWXF2SmtwTnowR2E?oc=5",
       "score": -0.6
     }
   ],

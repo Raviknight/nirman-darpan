@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-23T20:09:39.589Z",
+  "updated_at": "2026-07-27T20:17:13.615Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 8,
+    "positive": 10,
+    "neutral": 7,
     "concern": 3,
-    "avg_score": 0.105,
-    "avg_magnitude": 0.27
+    "avg_score": 0.125,
+    "avg_magnitude": 0.29
   },
   "youtube": {
     "n": 20,
-    "positive": 17,
-    "neutral": 2,
+    "positive": 18,
+    "neutral": 1,
     "concern": 1,
-    "avg_score": 0.52,
-    "avg_magnitude": 0.855
+    "avg_score": 0.515,
+    "avg_magnitude": 0.86
   },
   "overall": {
     "n": 40,
-    "positive": 26,
-    "neutral": 10,
+    "positive": 28,
+    "neutral": 8,
     "concern": 4,
-    "avg_score": 0.313,
-    "avg_magnitude": 0.563
+    "avg_score": 0.32,
+    "avg_magnitude": 0.575
   },
   "top_positive": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "source": "youtube",
-      "title": "Your channel will scale higher, for sure keep up the good work",
+      "title": "nice video , loved the fottage",
       "score": 0.9
     }
   ],

@@ -1,40 +1,30 @@
 {
-  "updated_at": "2026-07-23T20:09:00.812Z",
+  "updated_at": "2026-07-27T20:16:30.427Z",
   "project_id": "HMR-LINK",
   "counts": {
-    "press": 11,
+    "press": 8,
     "gov": 0,
     "en": 0,
-    "hi": 11,
-    "total": 11
+    "hi": 8,
+    "total": 8
   },
   "mentions": [
+    {
+      "title": "बिजली राजस्व संग्रहण के लिए लगेगा शिविर : जेई - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOFk5akstdFZoX0VSblo5VEIxSGVHMVdkQUNvM1o4YnpSZ2ZYc0duTXNyZWFpTjQ1X0ktSWNzLS1mNENweXhzTEY1eHBqOGl3N1BmTlFDQWpiaHc0amlpZHlhNk0yVjFzYzVxMmppNmtRcXpZR0xhOVV6MF9nN2FXSk1BSDNrTUkxMVFvcktlUnBLWDhidkpwOVo0WnhZdDR0d1Q1NmI3cEtWQjlSMk9ORk1YNmpUekxhZG1JQVBRbnJhYWtfZ1hKV2taUURrblHSAdQBQVVfeXFMTkZ0MlpFM2NmRjVIVHVwaHFDTzhxQTE5MkNnYUpSOHlGQTdDcDV0anVTSGJzaEZjX0xZLV9LVDR6d1I3SWJGNERZNHBMUm1QeFNaMnIyeExYc2pKT191Wm9rVms4bDVfSDE2T2Rmb1duaksxb2dLZEg1VWFrUEM0RXg4bTR0VUI3aTJwaTh3clJNWE1KZU93QnhxNmFPdHZGemdUODZHZEFqZmllLVNXc01rYmhZakxLMG5vVmJkNUJaajRTekhUbFdMN1ZTZ2tCTktsMWo?oc=5",
+      "date": "2026-07-22T00:13:47.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Bijhri PMGSY"
+    },
     {
       "title": "बेलक्षी पंचायत में सहयोग शिविर: बिजली, राजस्व से सम्बंधित 47 आवेदनों का मौके पर हुआ निपटारा - Chandi News - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUU96c25fMzRVaHZLbndnTDVpMU9Jck1GRFF5T2E5alBmM1N6MVkzdWtMMUdFNTNEUXVPd0lYQkR3Z2dqV1R1QVBWX0g0TlZIY2dVcloxUFdWVGk2Q3VZQm5sa2FLRF83b1RPajZhNVFQZDZWeGU0T1NpQXpmQ3VpcnVBR3ZrRjYyeGtmMGNvXzVtbnBMcWUtMFpFcDJzek1sc1lJSXl2SXdzNUY2WEMyazVXLVBfY1EtcklaODdIN2NVbmZqTmhRbjViS1AzSkk3ejgyTHVQM2RINkZfUmt6ZEFyTQ?oc=5",
       "date": "2026-07-21T10:17:06.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Bijhri PMGSY"
-    },
-    {
-      "title": "Haryana News: लाखों के बकाएदारों पर सख्त कार्रवाई की तैयारी, पुलिस पूरी तरह मुस्तैद - Prime TV India",
-      "source": "Prime TV India",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVUJ2QnZKMU5EMW1nbFIxaWo3QzFKNlF5YkZVbVVncXZKT0k1aXNVVTEtc1VZXzFyekVVaGI0MV9CLXdKT2dyMTN0aURBWTR4UHZOT2k2VDRIZ0VLRmdEbUNTTHpNT2w0WldSNEQ1QnltVkNmT25IcXhRcGdoSklGcWdxTTV5QXpCeXd4ZjhaZHVIZ1J0VGZLalhZNWJxYVVZSkI1WVRWWjFvX1JmaDg0a3l4dW9kajJuZ08xaTZfZk5nV1FNTzhocDUyN0Y2b09G?oc=5",
-      "date": "2026-07-18T06:26:14.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Bijhri PMGSY"
-    },
-    {
-      "title": "वजीरगंज में बिजली राजस्व वसूली अभियान: उपभोक्ताओं को जागरूक कर बिल जमा करने को प्रेरित किया - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOemhSell3cnZINDlDMFZheDJuMURCeHM2WlBSaG9peGlZelY3aGFYTjB6a3Q1RG1uZmhtTXJqU1FLWTlPaXBRd0hMd1psRml6eHpZRllKRUxEc1k1dF9mV0ZqSHI5Ml91dDk2bW1zci1Pcm9xS2VlSzZFZzgxWmhIZ3NvblF2Wk10ZUNOMWlwVDRJQk4zOGlCQlUyRnV1Ry1LenZGcmYzOENJdHAxdW90MnZzbzZySm5Uamp0cGNmS1JrTVd6VFl6bU5lX1dOTDdNalZYdHpvUy1mM0F2Y05BajlzY9IB6AFBVV95cUxNV0oxamIzeVBTOGI0N0R3aXR6ZTZEbTBOam1pTVVvN1dPVWw1SkpFSEhLdV9xNHIzWWc5MTdwcjBJQjdJZHVIbWdHd2ZaRmQ2MGp1amJOQnZycXdkeHJNaGdmb3dBX05MS0VpVXBFN29oaTJ0SHRTdTN2a2xuYkZ4RTBaMnpXMUZOS0ZFU0h3eFVEbHlRcHdMR0JUZUxxSnhNQmhNcGU2dVVUbzVkZFhobmdhalFDajJTQjJPUTJLUG04NU9DRW1zU3puZThGeXZsR09mSTk4Qmswb1JzSG4tLWhSUXRhS3FF?oc=5",
-      "date": "2026-06-25T12:59:06.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Bijhri PMGSY"
@@ -80,21 +70,11 @@
       "match": "Bijhri PMGSY"
     },
     {
-      "title": "बेहतर बिजली आपूर्ति करें और बढ़ायें राजस्व वसूली - inextlive",
-      "source": "inextlive",
+      "title": "सरकारी कर्मचारियों के लिए जरूरी खबर, बिजली बिल नहीं दिया तो रुक जाएगी दो महीने की सैलरी - Jagran",
+      "source": "Jagran",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVhKWC1PdWFaV0V2d0EyWk9tRHJDa3VhSC12RmcyVG1OT2VfNEZ5VXd0M3Fkek1acWItQk11WUlNalRQak1qcnFqMElCbExWX0N3dmlySnpYM0loeUNRbmRoLWpUbFZqVWI5MlRQUm0zMnk3emlCdVdNMW9adlYwUWJ6YXM2YVBaU2lUZXBXTUJlZXRkZUVZNHRCbWZqVW1Da3M5dWdseUxHSnk5VHNBZ1dnYzNJeXhmeFJOOXVyS3VQMUxPZ1FBaA?oc=5",
-      "date": "2023-08-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Bijhri PMGSY"
-    },
-    {
-      "title": "कोरोना राहत पैकेज: डिस्कॉम्स के 90 हजार करोड़ रुपए से किसे होगा फायदा? - Down to Earth- Hindi",
-      "source": "Down to Earth- Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkwtM1ZWVVozSW1YWWY5Z1pyWm01TGZHdlRDS2t0NFY5bGVUcnhOVmNIUkZScFQ0cUNnTTRpRHIzN1Exa1JqYjBBVUctTFNQNDRWOVNkd2tRRFN1NVlwblZlUzNFOUo5UV9CY0pYQzNRc0dhQUJFbDNkZUZNX0ZtVG9PbXVXdnlrMFZjWHFCNVVXZzN4R3JGaVFLeFVjbExzUUhwRVJVLWo4b3NtNm1qZFByTVZqOG_SAcQBQVVfeXFMUGZjeVZ5bGhVRzRfT1loTkg5VFFBc0lxTE9NTUtWNEJ3aVd2NXRQYk1pQU1pc3lMX3NNNmtYb1JGVy1nMlU4Q3NQb3NWU3BrZXk5Y0dSYl9lbkZNVEJNYW5NWHNFOHFYQ2d3S3l5ZVkwSHk3UlJXenB6Q2huRTJqelYzQXRzbnBvQ05NNV9BZkNMcW4yd1lWelh6LVlfdzhNV1JaU1FDUHgxLTZ3cmgwdG44Wk1SQ0JlMTRKTk5rMXBPcExXMw?oc=5",
-      "date": "2020-05-14T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQanpFNG4wX3hzYzdWMmRhQXUzeXQwNklBS3dfTDR5VDgtbElyMUhRQTFvQlVxYThia29HZUszRzZLMTA5RDNCMHJucEwyWEN4UlQ1aHpmSGNXckdWcW9admtwNWg2b0ppT2pXX2J2ZEV5aDhsYmN1NlFuem05S1dlNHNzaDJxSTU3c1dZazJhYVFfcUhsV2taZ0xQMFVyMnZ6eFdGMnNiSWhEMDVacTNfQ1VQa0dIZ0xibnA5d0pOdWtoSnB3TGxOSjFvSk9YTFdoU0VTVWxONA?oc=5",
+      "date": "2025-01-28T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Bijhri PMGSY"
@@ -105,16 +85,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkb0JfWlZ4ZFUzWnp6eXViNWZ6Z25YNnM1SU04QXNqZkx1ODJtSThkUFBNQ280dWE5ZThIbGdJdXI1Rl9Jc0tRZ29tcUx4TThNbVNfWGM3a3BXUzlMRlF0MjVyNnpLRzdSX2J2N2pFX3AwQmVOWndyUkZLSDZsOTDSAYQBQVVfeXFMTWF1UWFkQVhNZHNmTWhDSjR6bHBjRjRJRlFtZG9IeG1SX2xtM0lrQXVOUmlLWHVvYWxoVUhYTEh2MWttci1ObGxPSkNBMGdTd0dBODROWUJfOGxDVHhiUUo4MWVYeEZhWGVaa2ZNZ3ptZ0JXTGZ1amp1R2JzQTZQNlNfM3ZD?oc=5",
       "date": "2017-07-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Bijhri PMGSY"
-    },
-    {
-      "title": "Budget: औसत प्रति व्यक्ति आय घटी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaTlNRXByb1pDQWlicV92XzU2Mm5XVHlWdzhBNkozcjNoOGRTd0FMNGttMVZ5Q0hjRF9Ed0VwcWJkTXNOUzhKNHgwZl9MWmxoR0lCaGlQeFpoR3RXbVN2ckhOTTFjQk96dVhWTlR3cGkzNFpGaFZ3U2oyQjRsVUZTSEIxZHhYeUXSAYwBQVVfeXFMUHR5R21pSkh3ek00WlRDUXlUbG5IdlU3cUczRDMzMVduNldyTTRLQ0JQNTYwdnBIaE5DYlRULXZ6VzYyZE4zSHVjMVl4cGZNZ3lIVEFkSkt6TWZnTXJseFN1bVJHZ3VPNzVZWWkxUmxNNjBFX3h4T2R0eUcxY0ZzTk4wZVQxVDhFWFRTRVA?oc=5",
-      "date": "2015-03-22T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Bijhri PMGSY"

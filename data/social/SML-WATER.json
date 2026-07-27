@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-23T20:08:37.930Z",
+  "updated_at": "2026-07-27T20:16:08.196Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 20,
+    "press": 22,
     "gov": 0,
-    "en": 10,
-    "hi": 10,
-    "total": 20
+    "en": 11,
+    "hi": 11,
+    "total": 22
   },
   "mentions": [
     {
@@ -110,16 +110,6 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "Himachal News: शिमला जल प्रबंधन निगम लिमिटेड में बदलाव, अब इस नए नाम से जाना जाएगा SJPNL - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlBVZ01DVy1zZktQcHFDVnJ1QVQzd25LR2FnOWxodXpKeUVQUTA1SzhsN1RPdmo4MFJRVnJKNm9WMXdYWHBHNG0tc0hsbWFfWF9pNXNpRnhONW9fdGxORmIwWlQxVWJ6UlZJQmJsSzNtZm9kWkRvNURnM0FXR3RMZEV2T2FSdjBLa2UwUW5vcDRYdkpYV1lETzhYeWxPd1VZeW1DOXlVSTFxeHhwY292UlRaOXZGbm1BYVdNaA?oc=5",
-      "date": "2024-06-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
       "title": "Sirmour News: सिरमौर की श्वेता की कप्तानी में पंजाब विश्वविद्यालय ने जीता रजत - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -150,6 +140,16 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
+      "title": "New Multi-speciality Hospital Shimla to complete by June 2021 - The News Himachal",
+      "source": "The News Himachal",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1lCNnlVVVpHUEFySnNQam1veFQ5Z0wtS1FwZlM3R0kxcG5mb2xQZ2ZXN0x3Vm5rS3VNUWlpUjU4N2tUVTg4Z0dpdHlaNUROYXlzSzNZOWdfUGE3bHB3elQzQk83WkJjZU9lVWZQREt3Z3AxVUVSMEtreUtfTFp5Mk4zZkpYUWRXTFgzQ2F1Zlp1ekdxbGF4VEFqMDRjaGs?oc=5",
+      "date": "2020-11-04T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
       "title": "Transforming the Urban Water and Sanitation Sector in India’s Shimla City - World Bank Group",
       "source": "World Bank Group",
       "source_id": "google-news-en",
@@ -158,6 +158,16 @@
       "kind": "press",
       "lang": "en",
       "match": "SJPNL Shimla"
+    },
+    {
+      "title": "लॉकडाउन: शिमला जल प्रबंधन निगम की वेबसाइट हुई अपडेट, अब घर बैठे जमा करें पानी के बिल - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDgyOEs4ZVJHWTh4bmNtLVd1SnRqM2RTdmk5ek1XTUs2NlRmUGpDRl9iMThVbWFtcW1nWHd1c05Sb2tIcEdOMUJuRldXWElsdFNaaS1YV0h6WUw0ODNiSWt1WHczaF9QR3YtS3dJWXhKbTJxVzV1bkQxM3prRml1OGxYRk8tQjkwN1ZKRzRZam90a0lJazc0OTAzcDBkb3hZRXdiSm9WNlIwbU51WkEtUGhfd9IBuAFBVV95cUxOT2lwdVJOc2lNTEpHVGpZRHdRTWp4d0xvV1hUZk1BeWVCNXZMcUVhdTZsNmVyc1pfdjNsdm15TkFoVXN4M0prSTBoTF9nWEFGZUFTamVjVjdiM1hqWUNIQkQzekFSTEpxVUxoamJjWThpV3ZsZ1V5RXlCS1A4LWh5RVdyMXlvYTFDaVMyZUR6YnhNNFlKT0FhbTZlYkdvc0FEc1RiWUFBTVh3ZDVxTXQ5WHR0QkpTTERf?oc=5",
+      "date": "2020-04-30T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla Jal Prabandhan"
     },
     {
       "title": "Shimla Jal Prabandhan Nigam claiming of providing quality potable water - The News Himachal",
@@ -180,16 +190,6 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "Himachal Pradesh Government - himachalpr.gov.in",
-      "source": "himachalpr.gov.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LTEFHeEZRTi1NanQ3WkF0c1hyQm94U0RlMG5rTEkydmFJOUVhQTJxYW5HdjBQMTlaVkJKQjI5eHRRa0JjZ1JGdUlWYkhNRDlpYzRlMXNWeWFBeXlBVlVnUi1HSVU4R3RKanFMeTJn?oc=5",
-      "date": "2019-07-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
       "title": "पेयजल शिकायतों के लिए शिमला जल प्रबंधन निगम ने जारी किया हेल्पलाइन नंबर - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -200,11 +200,11 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "पानी की बर्बादी रोकने के लिए शिमला जल प्रबंधन निगम देगा शहरवासियों को टिप्स - News18 Hindi",
+      "title": "पानी के बिल न मिलने पर जागा शिमला जल प्रबंधन निगम, ऑनलाइन भी दे सकते हैं बिल - News18 Hindi",
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMkF1Z29uQndiVHNlMEpTNXh1ZkpOb082MHF2RWdYSHRPdzBxN2dPRDIwOF8tMHMwRVNhMmhadHFSdFlvY0prRzFHcmRuWmh4SkpKUTJQanRKNjc5SGx5bTJFSGNyNG5xQlZtbjJqQm00Rzc3SXFoSjJhYV9uYk1KX0I2RW81VlctU1N4M29WcnVfZjU1ZG15eUM0aUQwVENjVUxDS1FnTjVFMTZMU0duelV3RW9nNzhzVGs3S3BRVHh6aUZsa1QzREFsX1ZxS0xXZHZ5VXA5X25wb05xWnlVZ0dyWVVacTZDZmNwOTRjalk3bVJoQjRJUnJYTURFMzZZNk0tcm1ZWFTSAY4CQVVfeXFMTlZPWXItdzJKMjBOSGhXWVlacUFqS0kyeHFrQ3Z1dHZRdTVSVUVHWm9fVXZ6eTMxS09JME83NVR0aWJJUEpTYTdSVHdLWXZhRFNqdmNqc0lzWjZIN2dPSlM2VC1BZTZpQWxKTFdybU1vdHU4bWhiU1BBazNhalZ5aEl1MlVzZGJPVE9DRnJjaGItWkxqbFVhY2RNeEpWaWNtX2dwR3p0dWVqcHNvZlZKbDBmV0xDUkNJSTZmUnhzNVNGRl95M0w2NEJobVhaOFA5VlVGZkFQTkxjQklqdGoxMEZPUG0yR3ZETG9lTVZ2UW5PT1UyMlE0TzN5b0tjWG9sOWNrS0lFOWM3QWRlRk5n?oc=5",
-      "date": "2019-03-05T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1RtVVZJckFBdFBRVU90SmQ5MXR0VjlGb0JBOW5YZlhpV3RtTk9NaHdkU1RySWJ2N1BNRW82ak9XLVRINFp2eWZDWldGS0ItVFVScE1LNEh0cnRNakpRczQwaWlLcTZJZDhyc2s3enllcXJ3Wjl1a3dsX1A1SHNNY1pXTHZxNlhPQ3lkYVJ2cmVqWXBrTGdLTlhFTWhMNUnSAaQBQVVfeXFMUHJ3WWVNTXRwaWFGczVNaUpHbF9heXFxWUdfUTFRYUdRaktkckNuZ0VIVzA3Y0wyZXBpMGVzV2Q2VlY0djExaEQ2aUJQMnAzN29qZDRfRjVTWXJQUzhyekZOanlVai1DdGJBanRRZnE1S3pYdnRkUkpFcG9HUHU5WHFiOFBQQnNhWndWejdiWmdfZVR1X1BfLWN0Z3VjQXRtdUdOVk4?oc=5",
+      "date": "2019-03-15T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla Jal Prabandhan"

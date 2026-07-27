@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-07-23T20:08:33.065Z",
+  "updated_at": "2026-07-27T20:15:56.039Z",
   "project_id": "AIMSS-CHAMIYANA",
   "counts": {
-    "press": 92,
+    "press": 95,
     "gov": 0,
-    "en": 35,
+    "en": 38,
     "hi": 57,
-    "total": 92
+    "total": 95
   },
   "mentions": [
+    {
+      "title": "वांगचुक ने मेदांता भेजे जाने से पहले सफदरजंग में उत्पीड़न का आरोप लगाया, अस्पताल ने दी सफाई | - IBC24 News",
+      "source": "IBC24 News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcUloODlVbVVBR0lsWTRBNWdicVlJZWR1dm5uam5IaWttTU5Zc2dkX0YyaEpLRjZna1NaYmppOE9YbXJxYzZ0U2JwbVZIOUtJa1hQUGR3MFNVUm1UUnFWSXdqQ29nSUc1aENlbnl6QVBDYm0tQ01hamFHWmYzWURRNUU1OTlXbDE2VnU1YUJWby1aQzBrZlJ3M2JDU0RlUnAzNFNJZVZhalJxeGYwUnlaRTJjcFJlbzhIaGJ4NndIVlFMTHdrZlVGTWNubw?oc=5",
+      "date": "2026-07-25T06:33:08.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "Shimla News: चमियाना अस्पताल में टोकन देने का समय बदला, मरीज परेशान - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQmIwb29RVGtDODVTQlB2aW1YOUJwWVZqRS1yMGVuV1E5c1VNck40RjI2aHJDT1c0a3dQZDdSNFAyQ3JsTmt5VGxWZmwzMVVKcGIzMnJJcWVXb1NGQWc4MjhZd3ZvNTVWYk1WcnJwdFFxNmVtd1JyT1RJWFVhNDZkNTBFLUh0Vklicjl1aGdicnpxOUJGRkdZeTVMR3p4eXBkaTE4RFBXdzJRampDYzhFSUlpTmE3ck4zUWdad0poTHkxbExGZ3lESUxBazNVbVVWb1dvcWd2WTdEdFM2Qm8xNElQSDRrZHPSAewBQVVfeXFMT09Cam9HM3lHR2F6N0RpenRHRGo5eHZCX3I0Zk1BeFJ0T3dlamZvc0lJRTgzSEhSZWt6TGFWdHJfRjZxTUdId09hUzkwQTZGVGhPOTBHeFFhakROQnNnTGE1UkM5Wi14ZTdzOXJfQ1hDajZtdTNCZWVnLVRBM0RrUDN0eHlCaHdYcnZMUVNmNUdlUVJiTmpvd0dJRzJlMUt5d0tsNmQ1OHFWd0Z1M1Q3NnJHc1AyOTYzZDZBRDJ1aGZZRTc3TjJXWC1ZMUYwc2NHaDlzclRYanZfbUZmT0lDSDZkdEpTSlIyYWtEdDM?oc=5",
+      "date": "2026-07-24T18:29:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
     {
       "title": "Shimla News: चमियाना अस्पताल मार्ग पर भूस्खलन, यातायात रहा बाधित - Amar Ujala",
       "source": "Amar Ujala",
@@ -100,30 +120,10 @@
       "match": "Chamiyana hospital"
     },
     {
-      "title": "सोनभद्र में जच्चा-बच्चा की मौत के बाद अस्पताल सील, VIDEO - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMVBLMjVOSnZrMHRtNnpNMDM0eXltcFNjNzgtRE03VEVwVnlja2Z6UE1lTk1tTkR3UWwtVEJFSHNpWkptenp4aG1xblpadmhGTFRwbldMX284VVprLVd5QjFuTjA4SXlXZGFTUzF5YjRMVnpuYjFnRDI1MVVmdlgxbHo5NEZ2ZG0yRWpCZ2tuem9iRzJBRi1qV1IxclZ6czFtWm9zQWpEejFILWxsV0ZwV0tCYTBsdHh3cEVBb25Gb0VjME1zcUhHUnJXaGtfd0x2YWhpb3lqTHbSAd4BQVVfeXFMUGNUc1haYW9hSEhkN2lDUTlJQkpYaXpEblpKdjZxWV9FQl95MW5KWEdzMVlQRVZROFdCdFN1czdBQ09oYUNDYnlaN2JIV0dfU0FFTVd4WGFlWEx4Y2xqREt2dTRjdTROVUdZWVZVYVBBd1M5aFp4bGROOWtvak1jSHY0SGFrUUFFcXNEbzA2UFpROGxZYllaMk5tQmVMXzVrbjZ5UTJOcU1LNVNvRjJDR0h3MHNSb1hIZDhlX2d3Wi1HTlVpZGNiNkNwYVctaDBuTENIM1Q5TXNtcUhOU0VB?oc=5",
-      "date": "2026-07-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
       "title": "गुरुग्राम 12 जुलाई को होगा विक्ट्री कप फुटबॉल प्रतियोगिता का आयोजन - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYWQ4Z0xjWTQyNW5haHE0Y0F3MTVaYllYTTVQZ2JUWlBYRWlOT09oMXpHVDZVY3JhUzhjQnVhWTVkdXlSTzY5a0FOMXRncG5DcFh1c190c0hKZkRNd1NVallKZjItNVN2dnluWEk5QTlCYTd0RVZfQVhSanpILTJLdUt4bFV0MkJFMVBCR3dsTTc4OTlqM0pBSHZHNk5haFlvalRfZnE2N3J3dTRFN2dDRUVwekl6REVMcVprTXktQ3Ftdkx20gHKAUFVX3lxTE9BNlJsOUpPZ3VhZjI4Q1hXY1I5RVlqakxrTVRlRm9yMHZremN2cGZRR3VTbDF3ZHBvRWpMbjhCVVY3QloxdEpXOG9hcnZxcV9oUndodmFKZDhHV3luU0JjclZjYUtlOHhyem94VEh0VEZmenVUemc2OG4zTFUyRmxBLTZXbXZqYk5DWFJmZVBBS1FyaC1qNnp4bXJaMVRJYTNJLU03MV90ZDB6Q1g0T1owMFY2aGV5bEZxeHdkMklmRm5rTEItcFVFNlE?oc=5",
-      "date": "2026-07-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "Dehradun: मिजोरम व पुडुचेरी के पूर्व राज्यपाल ले. जनरल एमएम लखेड़ा को दी श्रद्धांजलि - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY1IyVUJKNkhfVVlRejRkV1VQWDdJLVRDMmJEX3I2eG5OVmhEWTZVanROb2J4MVJVOHlOUlhET1pUTU9oMEZzdHNvT3FoNjlFTVRxSjNPWVlheDBNaDdrdnV4YnpTeFZ5aWxwT2xVN3JvVmJzZUlQcEVCcHR4empoSUpUb1pOTEVwZlB4emtKM1NfTjhFSVRJS25IbjJhdlZrZEpLNW8xT2xYYjhGOVVYZGhDenZKNjBQYUNKWXhvMEZWQ3RTSUlKSVR0R1RySXdZYWk3UE4tZEMwZ9IB3wFBVV95cUxQQ2JfUHphbFBDYU5sNmVYa3o2QzFNUXJqaWJXM3JsT19WRlYxcmF0R0NaY2YyTlMxSmhybm5ZcGNOZUNOQS0wVFBvdUJxc3FVMW44RFFRamZlZ1hmLXdfWnBrZUxNcTBBbXJlU1dIZGJhRlc3U0pBc2UzeDUyT2xoMXhZenhqNXlZUDNfUTFlRGNja25PcUpxUTM3ekY4TllNUzhRT3NoeWE3QV92YlVNUl90aU8wZ1d5OFZqQkRwRU5ZclNKTjNIUlRsakNZQzZqR0JES2VnazF1T3JvTU1V?oc=5",
       "date": "2026-07-10T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -160,21 +160,21 @@
       "match": "Chamiyana hospital"
     },
     {
-      "title": "ओंकारेश्वर में फिर हादसा… डूबने से एक श्रद्धालु की मौत, भीड़ के कारण समय पर नहीं पहुंचा पाए अस्पताल - Patrika News",
-      "source": "Patrika News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOV3A1MTV3d3pmcEdFSkJteGdUaFZhSFRjWE9JSXpsY2tjTTkxNXVnSkhyZk03OU9YekVmZjhOUW10TWhOakZSek04RkFKeHJ0TUN5Unk5c3BId2ZXM1JEckFfNm95SXRIMUEtalR5azJRNWFDNjV2VVhtUTQ2T0ROb2poX2p2cWExLTlfUHRnY3E5MzFXNnlSRDUwZjVkXzNYNDdZalV2NXZmWGs1M0I5bDk4TFZxSktqVlhYa2pZTWtsVVRSdWp2ZEw0YXhFcXBzbHRDTmtLdlZXaUR1MFhBYzVzbWp4SWl1LWR4N1ZoUk1nT2lST05tcdIB_gFBVV95cUxQV0NFUjJQakZKR3JmcU1GQ3pJUnFxelFZQXNvbjljdnNPMWZRVUw0Q0l5TFV6NGlmU21GR05MYTY3NWh4MHg4OEI4TDI1N1hEcFE2MVAxQUg1ZFl3eTB2Z3dyb0ZSLWFlNzdRRzBQVjZwLTBiS3hIbkk1OHJ4THU1dkdKOTMzemh2ODdoYVBxdTkyOWdKR3cyam5rZ3UxeGhDaVI3Nkc3YmVUXzBOTmd0NEJ4cHc1MEhCdVhxN0FHTk5mektyV0ZWTjV5TDliU0NJZC1XRnJLRnYwQTc2d2RWaVZ5emRJQlpSV0E4ZnhhZUlPeHFnRHk3WEY3ZzZxQQ?oc=5",
-      "date": "2026-06-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
       "title": "दो मशीनें, मगर एक रेडियोलॉजिस्ट पर टिकी सेवाएं, पानीपत सिविल अस्पताल में अल्ट्रासाउंड के लिए भटक रहे मरीज - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWGRVbFFXck1RY1JybU93MEFLTWptRHdrQmczelFHVU1QVzBuUnJkaFZPSWxDUlV4SExMMXpwaHZVSWpiVnFlUFE2Ym1GV19Odk15MlFnMzhDMGJwTWo1M2Nia1NlYVh6S3haLTllQXNPaXA3U3NscVJXSUY0WEU4bVpYVWxsbW03NDJ4OGtUcFZBcmRHS2dFNFI5cTZScHBfNE5LOVJ2TDlucWlNeVBWM3l1SUo1RjZia3VBeDRXTzU3aEdLMVJUOTJnRTlTcy0wNGhYWWpybmVTTkRwX2x6UVEyU0h0czhpN19Vc1BhWWVYdEJqWDlkSE03aXPSAYICQVVfeXFMTjR2ZnAtbF94S3NFR2FMNW9ZUjJmLUY0Q0hsLUlXQVl3NUxCakxhdmQzS05oVmp2RlloSS0zYmhRTWtrTDhJaEoxaG1tcWg1WTNMS3dFQjZlbDd1eXJSNU4zdnprZkJwMjVrMnRFY0t5WUpITEZXSlY2TUFKaWNIWkJ2OVh1MktidGtRRldBOVUxTjVBanZNcGlwYVJuODJvUVJTS2g3RlFfQ0l5b3laVVE3M0FKeVM5MDhtT1ppNG5RWmhxdFlvNEZBWkNFSV9FMUxWTHBOYTE3QURSX083T1V6dlFwa2M3bkxOaVpfeDZqSkdTdUpmNmttM1VZdC10REZ3?oc=5",
       "date": "2026-06-13T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "Video: चमियाना अस्पताल में मरीजों को बेहतर सुविधाओं को देने पर मंथन, मंत्री की अध्यक्षता में हुई बैठक - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRlJqeFczTTJqMHdtUndrNHRMT2xTSlhjSG5fOGc5N3hkQUMwcy1JUEcyRElEWmIxY1B2dHE3NnhUd2FkYWdVNi1EcnV6UU5Vbnp3UTQ4bW5EZFpWaTVreVVKZmJhOHJkV1dkaldFMnlMNXUyWlJrYUlsai0tYmp4ZHJhWWhyRXBUU2dLRGNxeFVSUEppZTh0SXhmeXVTdTBLR0lhczFNTXl4QnhDenBzNU1hTkNoWEZ3Ul96MVl3cVZBX1E2ZEswemFkOFdXcXp2eWxQOUNn0gHbAUFVX3lxTE9ZX0NSY0xXak1UVE5Jb2JNNnIwUUpXS1RlMktIQS1GT1Z4bi1iZFNxcHR1WDNqN0pGQVhFNHRrZk9fQkU0WHMzNjBlQzhFcFVWNFlkdVJtOFVMVWlmTVk0WmRFNV9UUGt0Q0U3dDNSUFVCaGw3ejlvOHhvbUwzaEhlaUVzeVhaT1ZqLUtTREozdkwzaUlqQkk1dEFHWmZiQnN3X0FyUS05bVVHZGk5TWd3ZkhvampsN2VHS1hGNjNBcjg4LXV2TzdvaFVVaG9BVVo5Xy1LUUcwalZ2RQ?oc=5",
+      "date": "2026-06-11T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chamiyana hospital"
