@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-27T20:17:03.890Z",
+  "updated_at": "2026-07-30T20:13:08.436Z",
   "project_id": "SMART-SHIMLA",
   "press": {
     "n": 20,
-    "positive": 12,
-    "neutral": 8,
+    "positive": 11,
+    "neutral": 9,
     "concern": 0,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.34
+    "avg_score": 0.19,
+    "avg_magnitude": 0.32
   },
   "youtube": {
     "n": 26,
     "positive": 9,
-    "neutral": 14,
-    "concern": 3,
-    "avg_score": 0.054,
-    "avg_magnitude": 0.196
+    "neutral": 13,
+    "concern": 4,
+    "avg_score": 0.031,
+    "avg_magnitude": 0.269
   },
   "overall": {
     "n": 46,
-    "positive": 21,
+    "positive": 20,
     "neutral": 22,
-    "concern": 3,
-    "avg_score": 0.117,
-    "avg_magnitude": 0.259
+    "concern": 4,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.291
   },
   "top_positive": [
     {
@@ -47,6 +47,11 @@
   "top_concern": [
     {
       "source": "youtube",
+      "title": "Kuch bhi?\nWithout informing the Numbers, data and facts about why you think the scheme failed, you'll bark \"SCAM SCAM\"?\n",
+      "score": -0.6
+    },
+    {
+      "source": "youtube",
       "title": "Smart Kitna din bad launch hua tha dikhaiye",
       "score": -0.5
     },
@@ -54,11 +59,6 @@
       "source": "youtube",
       "title": "Ask electricity board ,what they have done till now, people's living 2 days without electricity in capital , why not HT ",
       "score": -0.5
-    },
-    {
-      "source": "youtube",
-      "title": "Bhai july me landslide wagrh to nai hoti starting July me",
-      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

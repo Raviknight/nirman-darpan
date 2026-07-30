@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-07-27T20:16:30.632Z",
+  "updated_at": "2026-07-30T20:12:43.687Z",
   "project_id": "IIT-MANDI",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "grievance",
+      "severity": "low",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-30T20:12:43.687Z",
+      "title": "SKUAST-K flags off first batch of BTech Artificial Intelligence students to IIT Mandi - KNS News",
+      "summary": "Auto-detected from press: \"SKUAST-K flags off first batch of BTech Artificial Intelligence students to IIT Mandi - KNS News\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczdrUWRncW9FekxreTJOLTFzcWRmbWVIUXFCSmlvaUFKV1pHRThtWFFkaWZ4UnJ3MUVFcTJuN0xabWtGdjNjWGl4eXFKaTBCcXRla2dEQ3JWZzZWYjNOeE10ZUx4X3pPTkJaYy15dlNZUU1ZSHZQMnRMdXhiN1VJWjdXWFZsSHRYWGMxMFRUb1I1WE41VFV5S0JXWmFTMDNJcUdudjJMQW9KemtZQXZHUHJKMXgyYkdtNVk0?oc=5",
+      "source_name": "KNS News",
+      "lang": "en",
+      "date": "2026-07-30T13:21:55.000Z",
+      "matched_term": "rti"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

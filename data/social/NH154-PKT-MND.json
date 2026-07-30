@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-27T20:15:49.206Z",
+  "updated_at": "2026-07-30T20:12:06.426Z",
   "project_id": "NH154-PKT-MND",
   "counts": {
-    "press": 71,
+    "press": 70,
     "gov": 0,
-    "en": 57,
-    "hi": 14,
-    "total": 71
+    "en": 55,
+    "hi": 15,
+    "total": 70
   },
   "mentions": [
     {
@@ -27,6 +27,16 @@
       "date": "2026-06-08T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
+      "title": "पठानकोट-मंडी फोरलेन पर दो महीने से जंग खा रहा पुल का सरिया, भार उठाने से पहले लगा दम तोडऩे - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSEs4cUoyN0hkUlZfZWNIc05kemp4SlduUmpHcjc3M01xc25kR25qM3dhM1huNmpCMHdYSlptLW91MEdkUllhaEJaRl82OHBOZU5aTlozaTdaVkFUQ2RjMUNQNk8wQkYwU0s3cVBwNk1pVFFfb1NvbVRRbWlua0kwaDhLN09qRm16VkFKRzd6QjJnQXhwaFo4RTFpNGdYd0ZKU05jLVVYNk1RNVlZNmk1ZDVCa3NwcVBIUjhOaGFvbFJTT1JKaGJ3bUVjSXE4RGx3WlVZQjV6VE5ZMENPWXp1dVdaakJOZVp6dWtpcWZR0gHzAUFVX3lxTFBJbEtJaGZic0RmUUM3QXJKdlB4RjA2UkFoUld2Z1JEYk9naWRTVHR4VGtkb0EzejJ3UVpJZDFfb3F3LU5kRUlnN1h3eVBBZlh0alNHRTRpZDJOTkdPSTZkSTVWSHFnYVhyQ0xrWDNHY253UFNpMzEzWTVKN0p5UnVLaWpjOUVocDAtU21TS0xfQlhrcjVNbjFKczBrTDRCaHYzM2hZa2JIRDFfRjl4eDBuZU5LME52X3o2VGJBOHQtTlJlbC1FemJTMzRKSGhranFxdjBzMTNma2hKYlZZd0ZGOFVxalN6US1CdlhkNUZhb205cw?oc=5",
+      "date": "2026-06-04T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Pathankot Mandi four lane"
     },
     {
@@ -140,10 +150,10 @@
       "match": "Pathankot Mandi four lane"
     },
     {
-      "title": "पठानकोट-मंडी फोरलेन के अधूरे प्रोजेक्ट्स से लोग परेशान - Jogindernagar.com",
-      "source": "Jogindernagar.com",
+      "title": "Pathankot-Mandi FourLane: पठानकोट-मंडी फोरलेन ने रोका विकास, अधूरे प्रोजेक्ट्स से लोग परेशान - Divya Himachal",
+      "source": "Divya Himachal",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHIxRlR3OXBneFdLeXlkc050R3lOTmsxTXVEZVN6MUg2R2RreWNGdzdMVDkyVjFoVWZqZWRRMnBGOEdnQ0pOWmUzLXB2WXV0SF9FVGdac2lwSklTVnk1N0xBU2xKOWsxZ2ZlUGJuZkFxcFFQR0gwUlptMmFyRTRsb0VnNTFvWWZhZnRHR1hLQjEtbURwLWoxd0MtMTVlWmluLXZJZ2VoQVlXb2hMdkJ4dy1GamJYS250eHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSXFTb2JlYU1wcTctX05Wb0ctdVJKT09RVEFWZWNab3ZWbkdwOWk0RGpaLUxUNXFFYUZuQnFrV2RlOWpFaExuNjJGZWVtTVRnWWxrOHFscTcxVFV6WGFwUHNCMHgwVUFvcXRUVkxIcEtMRlV0VGtneF9ocUV2VTdZdFNQZ2stZ0I1OVpDMmhDYmdrendfSVNETWs0WGVvc1hJaENjWnM2Y05nb21HQWoxZ0xZcjExbE4yUzkycmJDUWtWRlN3Rm1CY1MzdHpwUEFISHNZck5kcHJPcmtEZ0RnVW4yak1GT1MzSHA5cXBDZUFFMXpHM3V6enFVRGXSAYICQVVfeXFMTUUxOFl4MUlGd0R3akQxcy0wR0E2dE9uTTlmWjV4dGhBSV9KV1hfXzEwYnI5RHZzc3RZWTJhNmx5LXpyRHJmcmtvdjRxR3owSC05UnI2eHA0VHZtaXg0RERSZ19VQl9aQUhCQUNFSjhUblVsWVpudThqWHZTeDdmODlpSGlmLVRDVFQ4YWdMMHZLUGl1M2dtVklYaVVZWngtWC1jTk5yZGdTUWd5NUNyVENaNWlpOXhtcmZBZGppdHRmbFZKR2NUcEFUSEt3UzRwNmxMb1U2enpQWWVWcDFDT2gyamUtMmY3MDdySGRfdlJydzljd09SOUpJTW5CNU5RN0Zn?oc=5",
       "date": "2025-12-19T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -197,16 +207,6 @@
       "date": "2025-10-22T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "Pathankot-Mandi Fourlane : परौर से आगे फोरलेन का दोबारा होगा टेंडर, NHAI ने की तैयारी - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQRmFJZHREc1ZscjB1cnNaUTVra2oxN2dtRTh4aG9RcldVZDNhaFJyN2txVXNZOUtRX01DLU03bTZ4bDV0TG1QMW9KbG5aU3FYOUN3WUhuNUtULU1rbjNqOXMzaG9SOW52dVQ3UkRLS28tbVl3NjZJWXltZG1yOGhJYURtZy1SUjBjdkdhQmVYdjBGaGdqQkFxSEV3SHFIdjJ1ZTY4RXFfWFR0WDN4U1NCeGpMLTJIOTMySlVuTWFhaDZMU2k1bEpQeFZWRTEwVXN0b0tGZGVOdnEtUGQ4UzBPcnktcmxNNmw4Q2RhdVRCQVFqRHpFZ0RaX1BkbEV2U3YzVVJvd290S0swN21QNGxud0MyN2FLVXpoX0hHX2VnTllfSXFMSkNuVGNhZ0ZmbV9UaklpVEp2cWHSAb4CQVVfeXFMUDkzMmR3cXdacGJ3YjBBVWdnc2RacmxtWngwZlFISHhaRTJFdzBZOFpHd25SM2JqVEEyS3dFRzlieUdkUzlRckFYaU0xLXJqVVBwQnF3OG96YmJMOWloYVdnSmZvcVd4bl9Xa0NIX3gtX25BbmJFNzVZZjRrbnQyY2x3TmtpbmxQV0ZUUFhHTGxyUGhtajl5X0drRXY3eGtjMG9JaXF1MUoteHlZdmNTVklGUURoRGN1b0YwNjRRRS02TV9QRTFaWWhINXhDUWY0MkhqR2NhTVlqa1ZnVVZRNEZiV2dQTnJyS2JCUnJOWWZycFU3MGgwS2RPcjVFWEE0RmVQbWZQTGlnWDVrWGpva2ZsQW5PWDhzMU5DenU1d05SaEJSZXdYMG9wYmxVei1VbjlNR0dTWmhYX2hRTmJB?oc=5",
-      "date": "2025-09-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Pathankot Mandi four lane"
     }
   ],

@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-27T20:15:09.226Z",
+  "updated_at": "2026-07-30T20:11:33.149Z",
   "project_id": "LUHRI-1",
   "counts": {
     "press": 30,
     "gov": 0,
-    "en": 22,
-    "hi": 8,
+    "en": 21,
+    "hi": 9,
     "total": 30
   },
   "mentions": [
@@ -17,6 +17,16 @@
       "date": "2026-07-06T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "HP to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - News Arena India",
+      "source": "News Arena India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFRvMnh4enBWOXN3U0ZnRjdwbjBtclJtb09iTkR0WGUyQUo3Mlg2d0kzMnZMSFY5QS1xMXJsYW5XZDhzcURjbnNoeVl4MjB3OHdILXZZVHhUalBvYVRoVFc3TldyWWxqX29lUWtUU0pwNllHSERHSTgyel8ySGgwa2pVMnZCc2JaRDB5N3dHcVJPTnVPV3A5ZzNhWGZKUGpZSFYwbA?oc=5",
+      "date": "2026-07-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Luhri Stage"
     },
     {
@@ -70,16 +80,6 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "SJVN signs Power Sale & Power Purchase Agreements with UPPCL, NDMC - Garhwal Post",
-      "source": "Garhwal Post",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2NUSmU2a0dDTEY0NDNBcnhEekQ0ODY2SkVWNGVoZzlVVFZ6Wkt2Sm5iXzNMNFEyTGdHRV9xVDhKMVNuN0x2Nk0wa1lCV0hLd1JKek8xb1d4R1B6cmlIaFcyNnBtYU1qWlBCLVlwdWNkbklUdDhHeWlfZmdaOXpEM05CSFdxa1pScVBFWXJyTzE?oc=5",
-      "date": "2025-07-04T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
       "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - PSU Watch",
       "source": "PSU Watch",
       "source_id": "google-news-en",
@@ -120,6 +120,16 @@
       "match": "SJVN Sutlej"
     },
     {
+      "title": "Luhri Stage-I Hydroelectric Project, Himachal Pradesh, India - NS Energy",
+      "source": "NS Energy",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaUhWa0dQOUxsSF9YN3JOWDU2OXFmXzI2T18xZlhsc3lxZWljWUhtcjJ0M2RxTlotRjZBd1h6TjN1Tl9Zb1BlUW9nQjU2MTBBZHRsTWlLa0lsVllKVlZ4QXozWlp6U0ExTWFwR2hPVzNXZVE4YUlHTFRfcEE0ZV96Q1ExV1FOcVFSNTBFRm95cDVremxpNngwVlV6b1pPTUhJM01fXw?oc=5",
+      "date": "2024-01-04T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
       "title": "Punjab to buy 1,200 MW of solar power in ‘biggest such deal in country’ - The Indian Express",
       "source": "The Indian Express",
       "source_id": "google-news-en",
@@ -127,6 +137,16 @@
       "date": "2023-08-17T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "SJVN Sutlej"
+    },
+    {
+      "title": "Buxar Ground Report: मुआवजे को लेकर शुरू हुआ क‍िसान आंदोलन, अब राजनीति का अखाड़ा बना - Kisan Tak",
+      "source": "Kisan Tak",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRWJ4Rks1T2RqOHdDQ3JTR3RueDBieTlVTVluZzFWcS1vUDZqMDJILUtaX1NaMUhKLWJIejNqb0ZhaXZ3aTROSTJIYWZmQ2dvSUdBUXcyT2huS2hFbnVaX0FHOTRXbmpYUXFTaDduZlVtVTVqaTRJNXQtaTZuUTNVQktJWEF4VV96RHhpakNVVmFMQl9IME5Sb2tuZmJGaGlVdS1NWWx4UWpXLWtuYWFlZ3FTczE3dkJHV2Vfel9ZNG02OHA4cUZqY2gzU0ZCQ214dXRrbEZKcktiY2hSakVTUnNhb2hNeWxiUGg0MjBuUGh1ZHVmaUF2N3pRcFh5QUtVNGg40gGIAkFVX3lxTFBMdmF1aGZ1eUtvczFPQXRGNXlqd1NVUUFFOTRFTnVsUmpjd3VtOHJWem1wWkItTi1jX3dWSF9rUnh3NklzQW1RX092a2tZNVZJWEZTcTFLRk85c0Vfc3lRdXVITDM3QkVhekNXR0ltNjk5Z0hycjNzQ2VPLVJKWlJWRlNvMzB0UFd6SXMza09ZN2JHNjFsSDRWVlpOWUdtbFIyekkydzNDTkhHOFc3QkJoUzlQaHprQk9rN2dBYTBSTTBjYWVKYTB3UU9saVUzTDQxT2xhWjVXYUo2YkpfN2NKMUNCd19MMTdIb2RTbE1KbWRfTEhyanI3Y19EWEdxaU5nMFdLaVV1dA?oc=5",
+      "date": "2023-01-13T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "SJVN Sutlej"
     },
     {
@@ -170,8 +190,8 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "Luhri Stage-I Hydroelectric Project, Himachal Pradesh, India - Power Technology",
-      "source": "Power Technology",
+      "title": "Luhri Stage-I Hydroelectric Project, Himachal Pradesh, India - power-technology.com",
+      "source": "power-technology.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0MwLWxqcy1zN1ltS2hMZDVtX3JuekNnT2FvS0hfLXlJbzdneUkzRl9zemhHaHItUjBQdE83NjRVRngtbEhJd19HRnhPTHU5SVdpZnZJcHpEMVBhUkc3UWdaY3o1Rk1uSFZxRldtV2FId0YyVFVWRGs2aFZLUGNpV2xNaXFqRVVieWVGNHNINXhpLWdmRmpkNTFzcEd6NW0yOTJV?oc=5",
       "date": "2022-04-08T07:00:00.000Z",
@@ -188,26 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
-    },
-    {
-      "title": "Patel Engineering-HES Infra consortium wins major order for Luhri HEP - T&D India",
-      "source": "T&D India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1lEX0NzS0JvcFdwZGxPRFZUTW1TRDI4RzNHWUdqOU5sVHB4ZUtUbWNtZUZNN3FtSjhxSkI1M2NoMzhLeHBLWFJZeFg0YTFCaFZ4ZGN4a1NXTWRDUEdpQUVudEI4eFRqRkh5a0NBVGhkSHFxeGlwaE9BaU5ScmpKbnV6R0ZHampKMmVZMWRoblV5NWd5Sk9GZEkwSdIBoAFBVV95cUxNNlhWRktqSW9oWVIwU203dUduZlRKSm42QlNBQy1PV19JTXNyU1E5SUx4a01qME9BdU41b3B3N1M4RG5mSGt5SU1scnZoTkxqRVFqdVVSVktnbDh2R1pBakNBSERBcjRobzVVTy1aaFRzR3BCM0ZSYjRWb3ktOUpMTDBINEx4RS1UTE1IeGh1WWZoOEtDcTRKS0l0d21EUldH?oc=5",
-      "date": "2021-08-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "Patel Engineering bags Rs 976 cr order for Luhri hydro electric project - ET EnergyWorld",
-      "source": "ET EnergyWorld",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkk2ZzlKQ25NTi02VXNuejFtWmI5cVNyc2hFLUZNY2JXSHIzam0tZWs5X2psVmQ0aUxWVmdaOGVXZFJaZGdic0hPSVdpTS12SVNuWUFCNEtlTjY4MFFKTmhjWnRSWlRUdGVIcU5HQmUtakMwX2twaERRUGR6S1JUUFdTUEpPMU1YemZPaTBPNzdsWlRJWGpiUHRnNWhXck9sYl82ZUNnZkVveDZhbGVFc1lRbU9OODduU1RodHg0NlljaWpyR3JtOXNHY1lqb2lv0gHWAUFVX3lxTE9Sa09za0RsVkcxNGM0TmcwSy1TRXcteWtFT25zdzJtMmRwaTA0V0x2MUNPc1I2TGtxbzJzdkRvbEE0b0ZnV19feExOLTBSMkhkNm5PUzk5NnZhS3FxT01keWt1Mmt2bDFHZWxfcHI3QWkwNkVWYVp6LUY5STJmUnN4dGo3REJYV0NHdzJxbXh4Y2J3OHZ1cGJ4S0w4cE5rbDJzVE5zMnhYMjBTelhfQkxzOVJYZXBhNkhVY1hfbm5lSTJoY1gyWk9walJkcU1DWURsd3JlZ3c?oc=5",
-      "date": "2021-08-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Hydroelectric"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

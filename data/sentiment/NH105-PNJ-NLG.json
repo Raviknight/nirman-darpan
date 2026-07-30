@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-27T20:17:07.847Z",
+  "updated_at": "2026-07-30T20:13:11.088Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 20,
-    "positive": 10,
+    "positive": 8,
     "neutral": 4,
-    "concern": 6,
-    "avg_score": 0.04,
-    "avg_magnitude": 0.31
+    "concern": 8,
+    "avg_score": -0.025,
+    "avg_magnitude": 0.305
   },
   "youtube": {
     "n": 2,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 22,
-    "positive": 10,
+    "positive": 8,
     "neutral": 6,
-    "concern": 6,
-    "avg_score": 0.032,
-    "avg_magnitude": 0.332
+    "concern": 8,
+    "avg_score": -0.027,
+    "avg_magnitude": 0.327
   },
   "top_positive": [
     {
@@ -34,22 +34,22 @@
     },
     {
       "source": "press",
-      "title": "17वीं बार स्थगित पिंजौर–नालागढ़ फोरलेन टेंडर अब 24 अप्रैल को खुलेगा - Dainik Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVNlVDJXQnB3RE5vT0F4TlVxVmdNZzNZbF9LQ3V3RFY5ZXdHM2xfeDN1bnRtRDNRbC1TWXVFY0l2YzllT1NHQ2MzZmFTNlFmN0pSZXVqa0pnVU1jS0JtLXQ4bFVUUnAtZmxiLW9ibXlzbC1HYkFtX2tvYldFRElXa3hTNGhyVGZUZllCN2JfTEVmYzRtd1ZpTkFEeFJDWF9LcXhlekJqUUtnYW82a2FjcmhhYVR1YjlKMjhFNDVLT3QtU3NUNlduWlZJY09PVk1DNi1ZUdIB2AFBVV95cUxPY2ctUzlOT1ZoaXgxQm1jOWJJV3R4REVEc0hMVlh1Q2g3cTh4UlNqSjI3eU5lYzB6UkdSN3hWdFhqOTd1Rmc0dVJYbGFidTZOcjFHZzdiajNneUJldHA3U0ljWEs3cmhNY25uTEJ3Ukk4UlhVRkNkU2FRT19vQ1lJWXZmOVFIbHBaZUYxc2FsbW9IMzE3ZUhWanlKaUJZT0pfRjc1b0xIaXN1TWowN1hKWFEyZEZsZy1jeGV6WEJvQVVxSVRrNUhfNlFGeUpLd0RxVUJTNGhDcjc?oc=5",
+      "title": "पिंजौर-नालागढ़ नेशनल हाई-वे पर मरम्मत कार्य शुरू - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZE1tQnl4Y0txVmtKS2VQZGlReUhhbmJDSFFnbjRxeGxNNWhFaXBBcW9HLVJ5eXgwQnBNcHc0RmJZeVljOFJWaV9TM09iNHJ6ZGF1dlI0TzBBcW5VcHNuemdCLVp5aENQRmU2MHctcXhmRXR3LVVIN0E1Z2c5X0hUOTUyVEJfbzQyVUNUUnEtRFhTdHNxOVdiR3d4c9IBoAFBVV95cUxOemNFYVYyRTJHLWt6T1J5ejVjbGlZSGF2U1oyakcteURlUkVqRU41VE1zcnd5Zk9zOU1YSWNtTlBib0piak5TMnBadzRKUW1qMUhldXBzNWR6cXgxQUdRR3EtN1ZKT3hnNnM2UW91ODFWOU9aYmg0Q0VUSXZ5c0hGUENwY0tvV0ttdW5UdlNLQTFhT0s3ajRRZkdOcjdnR0N0?oc=5",
       "score": 0.4
     },
     {
       "source": "press",
-      "title": "पिंजौर-नालागढ़ नेशनल हाई-वे पर मरम्मत कार्य शुरू - Divya Himachal",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZE1tQnl4Y0txVmtKS2VQZGlReUhhbmJDSFFnbjRxeGxNNWhFaXBBcW9HLVJ5eXgwQnBNcHc0RmJZeVljOFJWaV9TM09iNHJ6ZGF1dlI0TzBBcW5VcHNuemdCLVp5aENQRmU2MHctcXhmRXR3LVVIN0E1Z2c5X0hUOTUyVEJfbzQyVUNUUnEtRFhTdHNxOVdiR3d4c9IBoAFBVV95cUxOemNFYVYyRTJHLWt6T1J5ejVjbGlZSGF2U1oyakcteURlUkVqRU41VE1zcnd5Zk9zOU1YSWNtTlBib0piak5TMnBadzRKUW1qMUhldXBzNWR6cXgxQUdRR3EtN1ZKT3hnNnM2UW91ODFWOU9aYmg0Q0VUSXZ5c0hGUENwY0tvV0ttdW5UdlNLQTFhT0s3ajRRZkdOcjdnR0N0?oc=5",
+      "title": "पिंजौर-नालागढ़ हाईवे के फाटक पर तीन दिन तक सुबह 10 से लेकर शाम 6 बजे तक बंद रहेगा ट्रैफिक - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZ0pyTVFCSEdUdHlrZ2V5TGlac1A4TUxnemszcWZnd1dsZFFUelFNeEtIZS1EUElSR2ExOFp2NGxaN083R01fM21NMjVzZ3MyMW9OUjVNbTBad2pDd252Z09jVmtYR0NUYkxMckdOR2k3QWJtX25HdnNpTkk0OGlGUDI5YWtxdWZOYUdsU0IzbUtXNFdpUmdhZzhIamNEamNJeXNwN0VOdTJOZFFCcXl1X1NmMGx0TXgxcjhpdGNFLWstUlZFQ3JfNlUwMnZHbTNlZVR2X0trQ3g0eXNXV0pyQy1ldGNWV01XRmNxM1pjSWdBQnFMY2lyR2liVURUTTdMSjBzeERGMNIBjAJBVV95cUxNQ1FPMU9XTk9nR0s1SlJWQnZTUmR5Y0pWZjJRRjJWdlp3MlNtblZXUUw5UGRWdGNDbDkwbXpneDFRUzlLWGtWZUVlQ0hoODRPWHI5TFNrWlh5dThBWUJidmthbWdCbjFMY29keER1OXFuazJqS3duVHdOUUowNG5sNHZGSlBzcER2S09OeUtSVGw2MlM4bXg0NWNhQ2FMWXpNd0VjNzNQc1NFRzJaN3duaWtPQVI4RU1wTF9LV0VWZUgwQmhrWTVGLU5xeW1GeUo4UWFJMWdkd3h4QlhQS055dzNwRHhSX1BDSU9QcEpqRGhFUkxrYlJHN2dpcll4MXpmemxJNXUtdldPZGxa?oc=5",
       "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Bridge delay triggers accidents, traffic jams on Kiratpur highway - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZlJpbHcwaEhDOVdrSjBVUko5VmFmWXhjMEVDcHRvR3FESVpFek40Ni00TjdxaS1Qa2RDc2ZzOUNXMl9jU2E5Y05LRWJ1bG51aHFBU1ozdXQ3RUQxSDd5aVNVWkRqSTE5RDc4cElZZk05cWVXSlBVYVF6MWJRZWZ0VUlfb1BUT0dPYnBqVm1iQV9BZ1g2U1JvM1dpUkZaUDkybHF0VllDR0p2YUVtalA3Q2JFSnBnc1I3ZXNkY1RiclpVa0dLcXNVcFdMdDZkcXNCeWlEenZSalY3Z9IB3wFBVV95cUxQX3VRVHBCeEVrajMxbzJWS2VoSlNhSURsdUF3emtmcFYtMHl2RFRsR0xYdEJLWnVua2IySlR5VTY2NUxEX3BzNXd1cFR6dkhXR01BVnEwZmN2NGU5LUZxY3J0VGt4ekJKYTNsZ3dBdlpQUDFicDRCVGs3OUk1T1hrdndfZmJxU3NMU2Q0YjVsOFBjLVJVWGt3dndLeE15N2JOS1BtQkhXajJoZ3VyVU1Hd2d4cWJnR1lKbHBoTWNBeVdXbEpvT2d6bVV2Rk1xa1lpQV8tQU10RHBWQUJaRVJz?oc=5",
+      "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWmd2LXRfOWgyYlZUUW43aUdJT21XcklWaEg5a0h2S2hpNmJYazN5QjZZekdrRFlZdGZVMXRUZzZzWlpfaUl4cjAxdjZjZUx4RzNyR3lDR3BMeUdTZ2dwbG95MmF1aXJLQTVOTVI3eE9scFpuOXA3dEJpalF6RGZ3cjBHT2c5MkR3MVRvTWFoekN4LXd6Z0VPeXM0TmNGTjN3U2g3Q3pwQXNIeVdmcU4zdDhBTU1hTXBLWlZiM05KeXdoX1dncEFmZ0Nob2tMZFhROVlFRl9IOWt3TWpGeWgwWHJveU1FdDBHRWZNcQ?oc=5",
       "score": -0.7
     },
     {

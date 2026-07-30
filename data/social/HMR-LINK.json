@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-27T20:16:30.427Z",
+  "updated_at": "2026-07-30T20:12:43.314Z",
   "project_id": "HMR-LINK",
   "counts": {
-    "press": 8,
+    "press": 10,
     "gov": 0,
     "en": 0,
-    "hi": 8,
-    "total": 8
+    "hi": 10,
+    "total": 10
   },
   "mentions": [
     {
@@ -75,6 +75,26 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQanpFNG4wX3hzYzdWMmRhQXUzeXQwNklBS3dfTDR5VDgtbElyMUhRQTFvQlVxYThia29HZUszRzZLMTA5RDNCMHJucEwyWEN4UlQ1aHpmSGNXckdWcW9admtwNWg2b0ppT2pXX2J2ZEV5aDhsYmN1NlFuem05S1dlNHNzaDJxSTU3c1dZazJhYVFfcUhsV2taZ0xQMFVyMnZ6eFdGMnNiSWhEMDVacTNfQ1VQa0dIZ0xibnA5d0pOdWtoSnB3TGxOSjFvSk9YTFdoU0VTVWxONA?oc=5",
       "date": "2025-01-28T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Bijhri PMGSY"
+    },
+    {
+      "title": "बेहतर बिजली आपूर्ति करें और बढ़ायें राजस्व वसूली - inextlive",
+      "source": "inextlive",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVhKWC1PdWFaV0V2d0EyWk9tRHJDa3VhSC12RmcyVG1OT2VfNEZ5VXd0M3Fkek1acWItQk11WUlNalRQak1qcnFqMElCbExWX0N3dmlySnpYM0loeUNRbmRoLWpUbFZqVWI5MlRQUm0zMnk3emlCdVdNMW9adlYwUWJ6YXM2YVBaU2lUZXBXTUJlZXRkZUVZNHRCbWZqVW1Da3M5dWdseUxHSnk5VHNBZ1dnYzNJeXhmeFJOOXVyS3VQMUxPZ1FBaA?oc=5",
+      "date": "2023-08-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Bijhri PMGSY"
+    },
+    {
+      "title": "कोरोना राहत पैकेज: डिस्कॉम्स के 90 हजार करोड़ रुपए से किसे होगा फायदा? - Down to Earth- Hindi",
+      "source": "Down to Earth- Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkwtM1ZWVVozSW1YWWY5Z1pyWm01TGZHdlRDS2t0NFY5bGVUcnhOVmNIUkZScFQ0cUNnTTRpRHIzN1Exa1JqYjBBVUctTFNQNDRWOVNkd2tRRFN1NVlwblZlUzNFOUo5UV9CY0pYQzNRc0dhQUJFbDNkZUZNX0ZtVG9PbXVXdnlrMFZjWHFCNVVXZzN4R3JGaVFLeFVjbExzUUhwRVJVLWo4b3NtNm1qZFByTVZqOG_SAcQBQVVfeXFMUGZjeVZ5bGhVRzRfT1loTkg5VFFBc0lxTE9NTUtWNEJ3aVd2NXRQYk1pQU1pc3lMX3NNNmtYb1JGVy1nMlU4Q3NQb3NWU3BrZXk5Y0dSYl9lbkZNVEJNYW5NWHNFOHFYQ2d3S3l5ZVkwSHk3UlJXenB6Q2huRTJqelYzQXRzbnBvQ05NNV9BZkNMcW4yd1lWelh6LVlfdzhNV1JaU1FDUHgxLTZ3cmgwdG44Wk1SQ0JlMTRKTk5rMXBPcExXMw?oc=5",
+      "date": "2020-05-14T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Bijhri PMGSY"

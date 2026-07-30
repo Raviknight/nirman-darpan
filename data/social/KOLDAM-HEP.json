@@ -1,23 +1,133 @@
 {
-  "updated_at": "2026-07-27T20:15:44.578Z",
+  "updated_at": "2026-07-30T20:12:01.987Z",
   "project_id": "KOLDAM-HEP",
   "counts": {
-    "press": 60,
+    "press": 90,
     "gov": 0,
-    "en": 32,
-    "hi": 28,
-    "total": 60
+    "en": 54,
+    "hi": 36,
+    "total": 90
   },
   "mentions": [
     {
-      "title": "Himachal: NTPC renovates fitness centre in Bilaspur for Rs 33 lakh - The Tribune",
-      "source": "The Tribune",
+      "title": "Bilaspur News: एनटीपीसी कोलडैम की बैठक में परियोजना प्रभावित पंचायतों ने उठाए विकास के मुद्दे - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOQ3B2bFM4V19UZHpkZGsyUnM2a01fSm1XbjR0Z3ZOUXI3R3NMZDl2eGEyemlWcUVoUE9ycm5GZUFEUlFGYmw4RjhreTF4cGVmQ1VZbnl3RWlad01WWXlUZVo3T0RnOTBMYXlDZlotM2pTYUFWT1JMc0JzVEZldVUxa1AzSlRpc01MYlBjcWdyR0dQYUR0b1FBMlZoRXowbWVZUXVLY3hGajVzR3Z6N2RIVjQ1clh0cWIyMFB0VmY2RzJlNUZsQ1pMOGhLT1dBTFNzYmNTVjFSdXhTRk8zSVpzVFVST05PZVVTazBzT19lVDdaWDJYU05DeERjYThKSnBfbjQ2VNIBigJBVV95cUxPQ2Y1Y09SZUY1T0hQRWRtM1NpcTVycExJV3lsRmUydS1yRnJOZXdSY0twamo4UVlPYlhTampEb0hNanB3cV83QkRKYUFoaTZ5WFF3alRCTEJ3YzFEN0s3SVM1WlFjYjM0SWxhT05GaU9QMHZtZjRwM0RYR0F5TnNZTnVKR0dKTDNzVHNYZl90ZFlPaW5NWXRVOVI1M1VHY0toOTg2aTZsRzFORU9RbmV5ZVpiVTl1N0hoNlVOZC1FV3BvdkZmR1BTdVBHRFE2STNJamQ3SWxscXZwV3RiVG9Pd0dXSzA0a2NxblFDTFBsX21ObVJ3T2xjcUp3TWtGMUZya1ItVU1JaEpiQQ?oc=5",
+      "date": "2026-07-30T19:32:35.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
+    },
+    {
+      "title": "NTPC Koldam CSR : हरित ऊर्जा व सामाजिक विकास हमारी प्राथमिकता : एसएस राव - Dainik Tribune",
+      "source": "Dainik Tribune",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd1pDNEt2WWw3cXV1bFI0ZzFvSFBOMU9aX2JkUE52Mlg5R2xXVW9qUU9PWW02TW9CWURhUHVHWmoyMVVrSzZYaGtxekszTjVpYTA0T3BDaDVHWkFPcGVybWhPWVh1Zy15MVNfS085RnRDVzdEWE1tOXBoQVI3VnV5ZktHcFM0bkZ1VnAzb2x4NnFsY0ticjFDaEUteWhmQVFLemVlM2hlQkd3T3BpTFFLVm52QUJJNkE2ZzBRZ1BSQUtkMngtU3c5dNIByAFBVV95cUxPd1pDNEt2WWw3cXV1bFI0ZzFvSFBOMU9aX2JkUE52Mlg5R2xXVW9qUU9PWW02TW9CWURhUHVHWmoyMVVrSzZYaGtxekszTjVpYTA0T3BDaDVHWkFPcGVybWhPWVh1Zy15MVNfS085RnRDVzdEWE1tOXBoQVI3VnV5ZktHcFM0bkZ1VnAzb2x4NnFsY0ticjFDaEUteWhmQVFLemVlM2hlQkd3T3BpTFFLVm52QUJJNkE2ZzBRZ1BSQUtkMngtU3c5dA?oc=5",
+      "date": "2026-07-30T00:46:23.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
+    },
+    {
+      "title": "Mandi News: कोलडैम क्षेत्र में जलवायु परिवर्तन के असर का अध्ययन करेगा आईआईटी बॉम्बे - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZy1tLUVIbXRPUFo1aFdJb3dyOERqbVpNOFBpUDNEVk43NHdvTTlJQVIwTGtNamstS0R6YUdLZHRXbHJfTHhyc183T0RlanhEa0RLT3VLMWR4dEhVZi1qS19fUWc2ckFJalpCN19EMm5ObmV6ZkkweTRBc2ZjdkMySUx5X2N4d1BmN01xMTJoczNiblZjVGRsNHRtSjFMNmdlZC16RFo0VElCY1NKc3BoRTJYZ3cydlNtZlJuV3dKOGdUTTkxWDlicXR3RGJGd29UVkVaSDVBRXlKem9WYjU4dVJrWEM1aWpVUGlSZU5hNmFqd09oWE5EUmxFa1RvUjTSAf8BQVVfeXFMT2ctbS1FSG10T1BaNWhXSW93cjhEam1aTThQaVAzRFZONzR3b005SUFSMExrTWprLUtEemFHS2R0V2xyX0x4cnNfN09EZWp4RGtES091SzFkeHRIVWYtaktfX1FnNnJBSWpaQjdfRDJuTm5lemZJMHk0QXNmY3ZDMklMeV9jeHdQZjdNcTEyaHMzYm5WY1RkbDR0bUoxTDZnZWQtekRaNFRJQmNTSnNwaEUyWGd3MnZTbWZSbld3SjhnVE05MVg5YnF0d0RiRndvVFZFWkg1QUV5SnpvVmI1OHVSa1hDNWlqVVBpUmVOYTZhandPaFhORFJsRWtUb1I0?oc=5",
+      "date": "2026-07-29T18:25:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kol Dam"
+    },
+    {
+      "title": "Himachal News : एनटीपीसी कोलडैम ने रचा इतिहास, 10 साल में पहली बार 3612.82 मिलियन यूनिट बिजली उत्पादन - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOENOOTlHVUVOa0ZoZUxLUFI4Qm12Rjg3LWpWM2hwZFMyY203X2pmd1lKXy01SjEyQnFJNnRMLUphSWFUVHN2QlgyS2FGSVp0SjFVNU5rZVQ2TlQxaDhQcS1LckZJOFhEUkt6MDBXS2FPUEd4SEl6a3VkNEJsLTlMRVB3NW1OQU9hU21SbUJRWUxldERPcEhqWnlLdk9oellkMEJibm0tNDlHcDdBemZjNlBTSVdTTlhCMkE1OUk5SjUxV3Y0TUtnQtIBzgFBVV95cUxPUUNhVEhlUTNGRzZkSnoyWmxZODZNWTNfdzZlRmdIeVI4X09MSTA3a083S3ljYVhxQjlxY0tkVTZpNVJyZzVmbzVBYVRvTFdHaGZkM25UUTRVTWtYU25wZkZWTUV3SnNlZFVqWEdXN0Q3cFN2TWtjTlhKNGM2eXZsbEh6VWlCWW1fOWFiVTdKX3o2eGFDUGZRc2hOQkJjbDNXX3pNeDlWRkFCb21ubHZFUWMxOGxET2F5SlBkLW5yODFOQXFkTUdpNDVUUEY2dw?oc=5",
+      "date": "2026-07-29T11:13:48.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
+    },
+    {
+      "title": "रिन्यूएबल एनर्जी में 'किंग' बनना चाहती है भारत की ये कंपनी, 2047 तक इतने मेगावॉट उत्पादन का लक्ष्य - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQW0tcWVzWC1rSjcybURCR2NOQlNaX21Zb2dCaHNxU19rMFR3ZVhuWHRFcnJSMWRYcGhEc1NnMU9WdTBYZTNvQkRKeFQ0X2Z1WVRtRW93dFh6cHpMTXJTSWt4Nmp0bW9FSUg2NzBWRDl3Y3VpVkhtY29XMFJZSDdNY2w0ZGdaMVppS3RFY0NrNW1jUDZ6Z0xHdEt2QVhWWHFiaTEyRzM3aEhRZWdjcnVaX25RZ0Y5NGVZSW9wVjNR0gHDAUFVX3lxTFBzQW9OMXNiaEpOVTYxTW1mQm8wWUE5SWFYY2xyUDZvTFIyZHlPcjBKSmVzSG93eHBUSk9PTTJCcW1lRG5ZUnVrY0ZUeVhueS1iTVpEaHlHNmVCU1BYSnVxMXktZ3AwQ3dqbEFMeDJKcEdlbGVtTXRBR091Tk15aTFkMnBJV1ZBWTZVS1E4elVYZlBEWG5DTzljdmdZVjlrRVFPVHhWTHZJeHlublR6ZVhxWFVpNTRidk5IcDVKQkg4bEx5SQ?oc=5",
+      "date": "2026-07-29T09:57:14.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
+    },
+    {
+      "title": "रिन्यूएबल एनर्जी में 'किंग' बनना चाहती है भारत की ये कंपनी, 2047 तक इतने मैगावॉट उत्पादन का लक्ष्य - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc0FvTjFzYmhKTlU2MU1tZkJvMFlBOUlhWGNsclA2b0xSMmR5T3IwSkplc0hvd3hwVEpPT00yQnFtZURuWVJ1a2NGVHlYbnktYk1aRGh5RzZlQlNQWEp1cTF5LWdwMEN3amxBTHgySnBHZWxlbU10QUdPdU5NeWkxZDJwSVdWQVk2VUtROHpVWGZQRFhuQ085Y3ZnWVY5a0VRT1R4Vkx2SXh5bm5UemVYcVhVaTU0YnZOSHA1SkJIOGxMeUnSAcMBQVVfeXFMUHNBb04xc2JoSk5VNjFNbWZCbzBZQTlJYVhjbHJQNm9MUjJkeU9yMEpKZXNIb3d4cFRKT09NMkJxbWVEbllSdWtjRlR5WG55LWJNWkRoeUc2ZUJTUFhKdXExeS1ncDBDd2psQUx4MkpwR2VsZW1NdEFHT3VOTXlpMWQycElXVkFZNlVLUTh6VVhmUERYbkNPOWN2Z1lWOWtFUU9UeFZMdkl4eW5uVHplWHFYVWk1NGJ2TkhwNUpCSDhsTHlJ?oc=5",
+      "date": "2026-07-29T09:57:14.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "NTPC Koldam"
+    },
+    {
+      "title": "आपदा व गाद के बीच रिकॉर्ड बिजली उत्पादन की ओर NTPC कोलडैम - MBM NEWS",
+      "source": "MBM NEWS",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOSlRTclBHSkM1THZKT3V1SldWS0ZBQmlwN0EwT1luclNleUZLYkRHMjlRQ0xDcXZCOWQ0QmR2bmYtLTJvVG1NNHdJYXpuaG9Gci0wVVJ6aC1GalJHcTMtclNWZ2lUb3p0Z1NuZFJBYU4wMmlBYTVoTHI2RERmS3VheUs5c3ZpSXg5OHhBa2t1X2JFT19QdTRVTmlscWtSVHVlT3JoSUdTN2V2emJRZVZfZlh6ZEE2eDltVTZHTnNYdFNUNmhxUjN0dllSRkRTdXh5bV9ucHZoWTV5cTJzTmhrSjZkb0pvdkp4UVJiNmpHemdOQXNhR0VKVGVxOWdvU0dwTTNEUjlmRjdnbTlESUJfVjZkRklUR2FkR3NUdnZKOFRpYmJLUzZ0aFJybFVweWw4MWxKUnZaVzJoTHNqeWl2MDdTOEF4ckgwUFlRcGpBRjZRYVF6SWZoRGh1N1ltbDlsbHFZeA?oc=5",
+      "date": "2026-07-29T06:45:39.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "NTPC Koldam"
+    },
+    {
+      "title": "Koldam Hydro Power Project, River, Capacity, Latest News - Vajiram & Ravi",
+      "source": "Vajiram & Ravi",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcE45R3BhNlFsWkRBWlF2VW9wdDIxUVhNNHNQNlg4NHlHd0lnbGlCOVI0ckFfTUZETHlZbEVvcVRKd3dJWVNrNnFDcHo2UUI2azRiYXV1RWhEaGtHTlFmdEhsVWEwY0RSN2N6Q3RSQTNOcjg5NF9hVktxOVdlMkotdk0ta2tBa21qNkVDNEFQOEVzUTlLZUxSTk9UalQzNE5ib0lrQWE0RTVRUdIBrgFBVV95cUxQaW5qaFV3ZVlXdlRZQms4WDlMd1VJRFVGUXdYcFp2WFM2a24xcnFmSG41ZmdsN21wNENadXJRLWFIWEhYUEhlRlJWdS1DSU04RkZkQktPOVd0Vzd6bXFhaHhkTzFtUld5Q3p5REhreG82ZXlMZjltQjR5QmRVYklRYTNCYWRSSy0tSFJUWHd1ZWlPU0p2RkhBNV9jUXJLc1dGYlFVaXU3Z3FxRWRzUVE?oc=5",
-      "date": "2026-07-16T19:31:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxRDBJY2xWNVRSajdfR0kxdTdlS1N6ZGl3Yk5zRWF4bGhsOHVJMkl0ekV4YmN6ZWViaFlXRDdfY2g2cHphM1pGT0NpclZjdHJTOFJsTDZVQTYyc2FqNDF6S1E1XzhNSzQtNHZ0c2tmMXdrdDF4bDNNME53?oc=5",
+      "date": "2026-07-29T06:21:14.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Koldam"
+    },
+    {
+      "title": "Bilaspur News: एनटीपीसी कोलडैम ने बिजली उत्पादन में बनाया नया रिकॉर्ड - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUEpwQnYwdmJETzJjTDItbDZmWXk1N1dmX01mcHlIQ2hVdTZaUlQyZS1fQ0piOFNXek9QcUZXTVhSSjZDV1p3Rm5XTXotY2M3b1hvM0IzUFhxbXM3WDZodUZkbWdWZWExRndHbHRMV3dYMTRoVkJycW1RdWJtRTdnMy1nbFhTajUydGNLZXgtWnd6dHNUWm1iNGtmVW1LZTBlVVFIZmthMXNJN2hldmpuMEs2M1M0bE44LWhabENBdGRCa2ZGMG1weVlYMk5sTW55ZlpaOWt1R0tPRUxpbHMyRk9Fdi3SAeQBQVVfeXFMT1BKcEJ2MHZiRE8yY0wyLWw2Zll5NTdXZl9NZnB5SENoVXU2WlJUMmUtX0NKYjhTV3pPUHFGV01YUko2Q1dad0ZuV016LWNjN29YbzNCM1BYcW1zN1g2aHVGZG1nVmVhMUZ3R2x0TFd3WDE0aFZCcnFtUXVibUU3ZzMtZ2xYU2o1MnRjS2V4LVp3enRzVFptYjRrZlVtS2UwZVVRSGZrYTFzSTdoZXZqbjBLNjNTNGxOOC1oWmxDQXRkQmtmRjBtcHlZWDJObE1ueWZaWjlrdUdLT0VMaWxzMkZPRXYt?oc=5",
+      "date": "2026-07-28T19:28:52.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
+    },
+    {
+      "title": "एनटीपीसी ने पानी, बिजली और शिक्षा पर खर्चे 5.42 करोड़ - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1BZWHI2VHJyRTNpbzdFWWd1bjQ5bGJjU0NpclctUER1MEN3azhzR1FmQUZnVHVxQTQ0N2stS2s0NWJ1MDZST2dtcDhxa2c3RXJOaVU3XzNTcVZ5RnBrRzEzMFVtdTdfRWZ4eVVHUDBaM3RUOEJYWFNmLUhlMmpYOE5hTUdXWWNFZE1MOE9GeUw1RXZ5dlF4MUpGdm5FTVd2MVo1a09xQdIBrAFBVV95cUxObkpiYTh4M0RUTHJuM0xSejFfU2lHeE9udF9xQmU3c0xmVVFSWDJaMzE4SG9hY0FVdnlNcV9jVFpxUGdaYVBzSjBERENTcUp0X1N6YkZIbW11V1lSOXBGWl9ZeU5kek5QU1pCdHVzMml3cXMwTzZ3R0dvaWlJeGZxRUl3UEJWUXBheDgwcVBnZFpDXzJPRHdYLUxQMmgtNEVKbFFiRFV2XzZlZ3Qy?oc=5",
+      "date": "2026-07-28T18:31:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "NTPC Koldam"
+    },
+    {
+      "title": "Koldam NTPC Hydro Project: Record Power Generation FY26 - Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWVmU0tXY3ZCWV9KYjZSWlRTLTdpMi14d1hNRURFTWU1dFRBM2I3UWFsUzdBbXhnSFdwTHFIODhka2NlcFBhMUVNXzhJVkI2LVBZc3pXMmk3M3lQSTNMT3VMQWVNNUh2bHZoeHZjeXBMY2RZVGpndUdpdHZaZ0w1SU1kTWZRNlhMNkx5dDlzWWswU3pBMmxZTFB6bFlDLXNnQXdVQnl5WEx5d9IBrwFBVV95cUxOR01JOG9qSWQzdE5hcFRZbEg1WXZzTF9jLUZFQ0pxT2FLV19BcmltdktmU1hid0d3c09iaVozSlNacEZpd3pmZDVrdzBvSjM3eG9NN05aX2hFMHdSVzlNblhURTJSQzFWTFlPNjBCMkswSFk5QkFyTGpYNTdMOEdjUGhDUzNfOTVuQmd1VUt0MUVoUUROY3pEY05pLXh5RDRnak5EbzlyV1lBWTk5MXc0?oc=5",
+      "date": "2026-07-28T17:07:59.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Koldam"
+    },
+    {
+      "title": "NTPC Koldam expands CSR initiatives in Himachal with focus on education, healthcare and green energy - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONTJ1LTlnYUhtYVAwZEh3VGR4NTZJVGVVeG1SVHZPQk85STdaSzJ4S2JNRHd1LVlFNDFfVGNSSEpHYlFrUGYwVEpkZWlqMmdRU2tIeTBTeFZ2SEtyN2h6NXZqck5sQUJST2p3QWpIS2JMNk5MNzBHMzZGRnQ3VGlBZUlZU1RwMVQ3bkFsZldGSXJjV1F3OHBlOFlEMWx2eUJtOFZNa0JIV0xGUjZ6Nmtpc1hrcEFxd25GSkZoM1dFYmNhak1zd2piam9ad3ZwaEs0MmxUWnFRTlhxbDjSAd8BQVVfeXFMT0JKak85VEpiZzl1WHU4alNEN19NNi1BUUVEOHdKa2dTWEtERVhRcGE5N1RXV2hBMW9VY294d1F2RHBBQjJEX1ZQX3ctYnNSdzRTcUk1c3FnczZTcnZVZ2lPc3lLXzZqNDRIWE44ZnVLVmkxUllyLUxLZUpiNWJmM1BDMG5USW9xZ3RoeFZOMFpIV2twSXFKSzhpSXZlU0JqSjBDd05WcmZha2U5Y1ZZRjhMSWUtUlZzSW14VkJCcGx0d2Jickg2a19Ub0o4Y3RyOEtPZnVFUlE1TFBTN0RRVQ?oc=5",
+      "date": "2026-07-28T14:59:48.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Koldam"
     },
     {
       "title": "NTPC कोलडैम में ‘बालिका सशक्तिकरण अभियान-2026’ का शुभारंभ : बेटियों को शिक्षा का मिलेगा प्रशिक्षण - MBM NEWS",
@@ -40,6 +150,16 @@
       "match": "Koldam"
     },
     {
+      "title": "Bilaspur News: लुहणू खेल परिसर में आधुनिक फिटनेस सेंटर खिलाड़ियों को समर्पित - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcWh6MFBmZm5jVFJ1dUlqX2pUUFk0aGE3U2hpTm1LVjk3RWF5NzVfaHhRYXFOT1dEaTlkUWVJQVE5RWRXTmRpQ0JoaHNDakVTcUhzalBMcUZDUXpvQ0ljVlAtZ0VvTGhIN2pZRS1faVBwU2JlZVlBM0RkUWVDeVFkWEhKZmg5WFhJQzk4cTBFcXBUOURKYWZ2MFV6RUZGbTQ1dTlZa2htRDZCMWo0Q2gxUEstZTRjTG93NXRFQjVKazZZZXJPRFR6U3RYMU1wUGdXa1JibTl5aWdFeTYtVmxMTTMwV080d2ZORUNMeGZrNHhMUUxvWEFDcmp3ONIBgAJBVV95cUxQRXo0QUdMSFdFVlpaSEk5dENDMXZnUS05cUM0NXdKWHVOT1hYdjlmWUp6dllGXzRpZFhGOERsRzR5TmtCYzcyRnAwQ0xXZ1AxYWhSaUNaTFl0dFU0YVJ2T3dxdlVDMEJjSGVmc0h5U0JMNHRpbHBLdWd1bG0wV3VrOGJOcGpOVXZxTTQzTWh5Z2QxMEZhS3dRQU5LWFIyU2RJUjAxYUtUakNWVldzMU1RNHpIWjlLdG0yb0dIX0VWNEJrY01rZE1yWS1zTmpiTF9RWWpYS2x5WTZyNVhEczhEV2p6SVdDUW1zUDdrekpsdWN5eEpaNkFQV3B3YWtuN29B?oc=5",
+      "date": "2026-07-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "NTPC Koldam"
+    },
+    {
       "title": "Bilaspur News: कोल बांध विस्थापितों की समस्याओं पर अब नहीं चलेगी देरी, अधिकारियों की तय हुई जवाबदेही - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -58,26 +178,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Koldam"
-    },
-    {
-      "title": "बिलासपुर में जल गतिविधियों के लिए सख्त सुरक्षा नियम लागू, उल्लंघन पर होगी कड़ी कार्रवाई - Zee News",
-      "source": "Zee News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU0ZBcXpXV0g5NUppUHBKLXYweG1sSkl4YWY5SEl3dnNVVE5DRlJvZVJpQjF4cHlUX2ZZNHlRN08xYlNuNVc4aEJXeUQwamlQTDhlV3o5ejNZUUFrWVBXNE9CbGp6MGQ1bWlfU2d0eTY5NmRIeU85QUl3Q0JWNU9LRWJtdmJEMXlQQjZYMVdxNUNBSVlCOWpncFlwTkNFd09QbHlxdHN1NWFCcGpKVzRoa280TWZINnJXZ3kwYm1kSEVyMFJheklFWWtmQ1bSAdIBQVVfeXFMUGZCUzFydXlXSE1ycGNNdnNPQlY0Smx4Ti1Mc2U3RzRGMkVBVklEQ01QUTR4RDRtVTNUSmZ3UUpWZ2dFR1hSR1ctN3FfSjFxenY2LTZsamRqRl9WQmFWcTIwRWhhVEtHVE9NaEw4ZkJhT2ZnRkFfNkk3d2hVVUhmd3pXRnFKQy1oQU50ZVQxdG84Y3FCUWZ5UXNJQWVmVHNhdkRuSE9lM1czdFotZlVoR2xwY0pzZzk3NHFSWGNUQVZnNlVxU1lhWGc2dFpSUkZqMWV3?oc=5",
-      "date": "2026-05-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kol Dam"
-    },
-    {
-      "title": "एमपी क्रूज हादसे के बाद हिमाचल में अलर्ट, जल गतिविधियों के लिए प्रशासन ने जारी किए सख्त निर्देश - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSVBKZEVWWThtdUtMM2JiSVU4OUZOa25GN0xJVW9NX21hYUZlME5pWnlTN2JFN3AxclRGZkZBUkwzOG1kMkM2MGdIQktwdk9LSjRXV0t5QThHZGJINW0tQ1NMQjItLVd5a0d2SzBnWkZyRFJPMFlVZ1E3OTNNUHBuaXItY2hiS0NLWHpJQ24wOXhYMS0yTTJRMFdOR2NfZGFOYnRzOVZvRzVvc0NkTnVTMnlGZF9WU3gxbEtJTEZUc09HZ3FWVlEwSkNBVDVOeFphdHZDWU1pTEdFb1ZyeW8yaWpR0gHnAUFVX3lxTE5zRVRhLXRPSXRKSTJxMlZLSmdxZkFUUkNYTGNDVDM0NFQwanBHcDhlc1k2QXBkSFp5aFVDOFlzX1J6ZzVKd0JMWm9xT3JHSGpBTmNaZXdIZDlyYkpXb000RllrVGFEa0QtZmYyRDZOVGJyOVVOMFZSRUg0blRTb2hsdFhWb2xwVXk5YlR0dXVWd3BLR1Qzc0ZkUkp5RFFqbnRxTVFOQm5kdGI4alZ4d1lQNjFVREhiZUNjclV5ZnktQVVudG9hMXpnVVlrYzZLRlgtUkZfeWhnRk83SHpRc21YNWZ6ZTJsWQ?oc=5",
-      "date": "2026-05-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kol Dam"
     },
     {
       "title": "हिमाचल: कोलडैम पर उपायुक्त शिमला की रिपोर्ट ने चौंकाया, ...तो डूब सकता है पूरा क्षेत्र; 3 जिलों के DC को कार्रवाई का आदेश - himachal pradesh ntpc kol dam shimla dc report silt issue govt revenue minister action - Jagran",
@@ -108,106 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Koldam"
-    },
-    {
-      "title": "हिमाचल के 6 जिलों में बारिश का अलर्ट: कोलडैम से छोड़ा पानी, सतलुज का वाटर-लेवल 5 मीटर बढ़ा, पंजाब को सतर्क रह... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM2xHY09wejdYc21CVmhyek5VVS1RUS1sSXotQWJ6VWUyLTRJa2I2b1hxRUZ0bFg4RU9EVHRKZU1yeWdjVDdFRUdhY2lNOU94V0d5Q0tzbl9MTEc3SGZGcUZqY25nWGl0T3hUUDlpU0RUODNUS0RqQ0ZkbWtsR3hnamhuZThnT2NURmVuX2RvS1p2bGNCMjd0dk1xaGFpdlE1NXhST2J6a1RHdzZldXpRdG8xU0ZwWXVIc0c1TXUzakEydXJzQmZ3Vm5vWVFHcjl6cjBRQ3k4TWJxV2JvYXJfNHFEeGo2bWVVSUtORnljT2xVNHfSAfgBQVVfeXFMTTdHX2FDcEdQcnk0NTJiSE91ZjN5enI1NVVpUFd6M0ZoajBpT0J5eDJOZ0owcVdwTlFBMHRId0ZENGh6TnFXTHA1T1J2S2dPUS0wUFJvZzdILTNYY0owMEtIOGUwOEdyMUJMdmx5QXdHcURja0g5LWUwMFE0Ykdic2U0aDhQeW1sWTVIcHZWcDRMQVZzWW9VSE9xREs0RFNTcklmZzBXZG5xUUtwOFN2LUxjOTg3SlVzamxsU2JjdXEwaTdxeUxVeE92V2w4Yzl0N0llY0hSUEJiU0VvNF9Kdmt5VWxFS0Z2dF9PZUZldHNPbjVJZjRDejQ?oc=5",
-      "date": "2025-07-24T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
-    },
-    {
-      "title": "शिमला में नेशनल हाईवे पर गिरा पहाड़,VIDEO: किन्नर कैलाश यात्रा दोबारा शुरू, कोलडैम से फिर छोड़ा पानी; सतलुज क... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd2dFR2Q1UjdGd3l1c3lIQXFZeElodWFvNmd6cWVfTzVsM1c3RVBUQTg2ZWU1anpGLTJmM0VoM3BZc3JoQ3IxdGdFU29KZHMxVnRXZHhBS0VDQ3ktNnJUdmpnTVJFV0xVSGxKU2VUb29jckNjeEJDdzdTQzA2ay05VDVvOFI4cTRQSW1nNFZ6amZ4Z2tQVklYcDFhUzVFLXZ6U3lXVnl0YlYtZWc2dDFIVE9aZzZhby1RNWNXdVdGV2o5U3FjbTJqY0x3bHE5SW5hV3VN0gHYAUFVX3lxTE85YkhsbVAyRWhHUDRWNXlzUVlrdm9sd1F2TjFNNE14N1VTUFl2RDZfTHJTRk5ocDU0TVdqWUZoeHo2Y19nMmZDbG4zZUlVM0xpZEs2M3V4SjNrazk1SF85b0ZrZmtfb0hSTG56YzA0U1ZHNjh4VjI0T0g2QmpEM3EtNkd1dzhQZHBHTmdwYmYtWUU5VERGeEFXNWdZUjVYQkJwdmZyTmh4bGszMnZISTNhRFpUaHdWLU9fMDhKUkV6MTlqc1ZVaGFFaGduWEpicVdkeEVMbV9pRg?oc=5",
-      "date": "2025-07-23T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
-    },
-    {
-      "title": "Rock falls on moving vehicle in Himachal, 2 injured: Water released from Jhakri and Koldam; alert issued up... - Bhaskar English",
-      "source": "Bhaskar English",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdGJTSnVlQkZuT3g1RTlXeWlnZlBEOUcyR0wwRlVlczlWM2Z6UTdLYnpWTG8zTlZIQUtrTTdoRERVMzduNTJVbXJDTVJYaGVGZEhlZlp0cW1RRnc4LUlzNnVhSVlKN2w1YmRPY1hjNkJWRExWMUVZMlllN2o3Q3V5YjZ3NF9LUjhMbnBXbTBvQmVCVW41Xy1KeDNVdk15d29qd0tJdjhPbXlfOUpOWnhoc1VEX09KOEc0cWYzSUZZZmtKRFRxM3FXY3dUM1U1aEVYWkFvckJOMjIzNDBwT0tCZWYxUnpmbHkwQkZBVERVVy04eDhtRjhJRUV1T3VkYnhVSEdMU0dzQlJ6dGZvTHVCeUVkaGY0bTRjVUZWZndCWnZBblBHU2JoTmRYS2draUZMaTVOQ3dYYkltOHhpemNNTklyRdIByAJBVV95cUxQRlRjUFdUM1B4QVViVjRNME5KaXBSZjVRRERSZU1iWndySnEzRWtxV3M0bm5kRC1PQk9UMWVUaUdYcG5tOVRUU0xzSmdNLW5Vc25jSzVDbFRGandQMUZVU0x4ZWFpM1hUS2hMSmhYSHFNRFdTUUR4N1FWcF9qaGxvMTZkb0Mwa3B1M3JQZGltZ0t4V2RCLUhseGJTdE5tdEF1OVpTWUVEOWVqSzhnNFFwSUY3UTRWbTI1Um1wbmJtdHZkcm5ZV3BhbHRzRFlrWkJjVzJQMzg1REVrZHR3eGZIMVRGdDRNZnVzNXUwMlBQRHVaN3BvVU1oNy1KcUVhUklLSTlqempIV0lUcHBGVU1qY0VNTkNhelREdzFoM1U5R2RrS0F1N1RXN0wweU5hVFRXV29EcDRITzdQTndabXMydTVkeGM5NVM4?oc=5",
-      "date": "2025-07-22T05:41:32.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Koldam"
-    },
-    {
-      "title": "एनटीपीसी कोलडैम में बालिका सशक्तिकरण अभियान शुरू - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFF2aVd1OExwc19ZT3Bsek8tVm1aejN3WDkydHI1M2luTS1Bdm4yUXRWZ1RWSDI2NGVoemZYTU0wZGFCTzBLRXRGYmw3S295dXd0RjUyQ0dOMTlIbTVVMzFzVXpEb1oyTlRnaDRxR3pzZjFOTUk1UmFtdV8ySHFoVE1kZWo5bjM1WDhwaUNLWnrSAZYBQVVfeXFMT2N3NGpCT2NaTmdyTUc2QUpuX01CLWlJdmFqeGlMNGRUS3l2R21sa2szWmJlQl9GWWJyVG51Sk9vaVp2LU9fREN2VFc4RXdTYmdJd2tWVnZPeFpoZk84SG9IcDNHTTNVT0N4M2xDVFJyNzQ0cGVXaDllbWZhZWNSeFdMYkNyZ0xHVXJFMFZtakduTjJiZG13?oc=5",
-      "date": "2025-07-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
-    },
-    {
-      "title": "सूखी पड़ी थी सतलुज नदी, खेल रहे थे बच्‍चे, सायरन बजाकर डैम से छोड़ दिया पानी और हो गया करोड़ों का नुकसान - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdHpDY2w1MERTRENab28zWG5sR2VqdTQ1SENWNVB3OEdDZlBYYjFHNEdoaEMzWTVvWXNxYVlUMlZ0ajFyc3BtOERnejhEdFNKa1V6TWVnc0duYlNydnF0OFRibVVnRTRmUExSVGVKRWFQUmpKbTBGT0FUQ082Y2o1ck5kd3hVUm5Td2s2M2lJOFRSSDdjNjlraWVzMnJQOEFNQ1cwTDFja3hPV2diSEtMekNxVDdZYnlLT3lqWUliQmxLTGs0RE00WWVTUExmYzE1cjJKZnlyaEhBOVRBTUJwdEIteENDRmJVREJtTmJzU2RnakE3OXRlN0lBcTLSAYICQVVfeXFMT00zb3cwSlN3QmtzZnFpdVBodGtqLWVTcjlZcHNORHJlQXFnRWJSbFJHVnBONEJfeUxGc0hhS2JfRlM3Mm0zTG1PR3lzbHROWlI1bmZfalhfQzJLdUwweUNmUkttWFNJM1I0M2xEOEhQVTlmM2k3eC1fYjREMi1mTDVYOTBOTXI0bTZFUVE3SURFMGZ4UTFBRkxrOTlJV2RtRlZHLV9yQmJIb2ZWX3VJNW9XTFFoNFNYalUzUHpqam1vdWJmdkFQcFBDc3dFN1ZzaVBFVWN4RlZRMEFRNy1nTUd1U3VRcjg4UnE4Z0NqQUN4NUx2eF8ySVNoazFrbFQ3UXdn?oc=5",
-      "date": "2025-05-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
-    },
-    {
-      "title": "सतलुज नदी में बुरी तरह फंस गए थे 2 बच्चे, डैम मैनेजमेंट और गांववालों ने बचाई जान - India TV Hindi",
-      "source": "India TV Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV09VUFFfdG5GT0NBMDNwM01Jek1MbkxBS0x0WGVfU1JLVzVCdHNkWnhXUWQwb0pjZ2ZZY1l1OFQ0WmdGT3pnQXVNdlZnRkpwWjZqZEdsX1l0dHM4cXNOU0UtT3FZM1g2RGJuU0JRN1FQU3VWSVpZREVPVDVJV1d5SHRNX1l4Q3JoSk9nMC16cXctZDBpVWNhencxRFFOM2ZuNVdWaVg4SnBOTV9QT2gyVk51ZlVTd0lHV3RESE44cFR5dFY5Sl9qSFNPWlNuUVhjY0s5VDFOT0NxTlBjR0tmWmJrMGFUTUhGLWdhZ2I4Ulc4T2FpeGfSAfsBQVVfeXFMT3lTakl2UEpyVm4yWm9nMzNOQUZncWZwd0JaVjhqTFpYRnZVTUtEYUNxUmJaSnJCTDNpNEVkVDFLdnZFTHpJR3RBcVNJVl9KaXBUbE0zWW84QzZRa1JtU21DRHZmeEg5Nnk5QWZYUS1XNkhGRUphcElSTDgtMjhPZFM4ZG8xY1hIRzNhVFlHOWtlZnlITzJUQVYya2pfcTdiVFl2NGltdEN5ME5lVUREakI3MmFTTVFRN1JWNV9aMVFtV1lWa0V4MXpqQktFZ1JTV0NLamhxMWpycmZBR2oxWEphMEpmNmVxdFRaN3M0bUVyUDN3WE92YkI5UDg?oc=5",
-      "date": "2025-05-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "NTPC Koldam"
-    },
-    {
-      "title": "Bilaspur: कोल डैम में अब तैरेगी ''फिश टाइगर'', एंगलिंग टूरिज्म को मिलेगा बढ़ावा - Punjab Kesari",
-      "source": "Punjab Kesari",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUphLTR3M21Fa3dyb3RVbktiMFdMM3ZpcFF2V01Mc2RYOWNHUFZvNktSQWk3VUdYQ0d4YTNLUHFKWjZiQUo3S3luS0VFNWtwU3BKemNjOVdoSWJfdnJuZWFCQVVTT1ZBWlU2UmRydkpvZXJ0VGlVaklKd0RQaTg5TzNFYnBnOFh1SmVSRFJyRF9EMkxZcFR1eFZvS000b1HSAacBQVVfeXFMTXluTk5OUERmYTdmY1VOMUlFYUwzZThmZU9aV2l3Y1czTlZHWWdvR3B1eGhUeWZmWVBta0VtMk1NbmlxVDJHWWpIX2drSm9ET2F6OGlfQkhqaUNPaWVFOHllNUJoR1lISmRHbGF5SWwzbk1kMWRhZi01OUJrOEp0b2VSVjVtOHNjX2RZbnkxUEFJdW8tN2lJVkF5Z2RzVTk2X093R09MZWM?oc=5",
-      "date": "2025-05-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kol Dam"
-    },
-    {
-      "title": "Security beefed up at dams in Mandi, Kullu, Bilaspur districts - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQWw5RzV0aUViam5FdW9rRlpYT0lzYlh5YTdoOTBXSktkX1NfU2pfYnB2U1RxUUpDX0NkZDA5VXNxQ0d4RlFERGpyWmlIWGZQeDNOOTBiNF9zZ0RUMHJ2UWdPM0tRbFI0X2l6U3lBYmFzS3NGeF95OHhqcVpYVEpMeFdDU2xNLUxQV01IM0FXWVhGek8tYjRjTTJQR3g1UklrM2oyYUxHUdIBqwFBVV95cUxQMWJxZDU4VzdSRUpCMzh1UkZxZG1XNlZtQW94cDBPSUxxWlFiQmFaQW1QX1dscVA0Z3VlcGR1RnVQRHA4aExPcWRvamFBUlNoRUxNZm0zbkIwZzkzVGNDZnEtTEZyVHlHMHJBNzJPTkEtU08wQ2ZQelk0OF9laS0xYW51YmVZcElUa3g3Z3hUM0wzQkc2SVZMMmZOd0NQeFIyT0FxOTZDR2ZFZ3M?oc=5",
-      "date": "2025-05-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Koldam"
-    },
-    {
-      "title": "Mini Goa: हिमाचल प्रदेश का मिनी गोवा, पर्यटन सीजन में प्रतिदिन पहुंच रहे 500 पर्यटक; नजारा देखें एक क्लिक में - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV3JsTGg5UExZRXJ2bHBRbHdyOTVvX1ZpLTRtUzFDMFF6SlVGWHphbHpGVXlrTVZiQ2toQ05IUUtScXRBd2VuUUh3aHAwVTdPelZmTjN4XzhSM0plM2dYWElkU0d5cDYxQk9RM3hHWWxhUE5FOUxMdkxESmtMa25zRWxsd1Z3Q3Y3UW1zS21haVVHbEExU3VFRkJmZzZWV1JvbjJCUk5WemVPQ2QtQlI2cmVqLVlpWmtkaHVYT3RkOW4zT21xYXRLZ3lDQkVXNGkweXZsLWZ4ZUdlRV9SSHlic1hJONIB6AFBVV95cUxQcG8tT3VvSzUxQXNudFZwLVYyRDA4eERYMUtIS2VtMzRrNjYtckZRUy1TbTNIZHhiak1RUER4S1E0bFhfbTlONUpuMFptdi1zT2kwU1JSWW95d0M2NzdhZmFaWUkxdl9USDl5cDlCSVVJc0N2bVpMN21oaWhnRlV1eC1EN1VCbmxxN3AyTDFYVG9USGpZdVR1VlhXWDliLUdmV2p2MW9ZUXF5NjBRWkVodHhTVmVaUlpWV2dJZk8waDRJazFLejQ1T25KVlBJQ2xiUTlwc3RCRnJyN3VFcE5WOWFrV2ZRY0ZU?oc=5",
-      "date": "2025-02-09T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
-    },
-    {
-      "title": "Bilaspur: कोल डैम में क्रूज शेप्ड मोटरबोट व शिकारा चलाने पर 7 जनवरी को होगा निर्णय, चौथी बार खुलेंगे टैंडर - Punjab Kesari",
-      "source": "Punjab Kesari",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbFlybWlYSTNFTHVjLXVXSWt5UlFXWVphcFhXYlZKckxPYnpfMGV2ald5TE4zSlNGT1UzZWw2TFQ3YTVnWFQzRXhKXzAyejFmeGJqb2M1bTBMYllIU0NoTlZNZk9ZR1puMzI1Vy1fZnBwUi1ZTEo0dTlwRFVrcGlqdjBGWU9RSVZwNHFDMVJuX0hOQXJrV3dIZVFINTFDWjFzODlZb0ZxRVR6dTRDeUHSAbYBQVVfeXFMTzhySkctUXJkeHBvdmZyYzFKRXdOZld3VjJnTHFlNS1Xdmc5dEwwQS1obG1CY0NWMTdRSThSUEtUa2FZZzFUbFhrNmZjRHlVQTNoUWprOTZyLTU3Xy0xVkdINDYtekZzTzRiR19vWDZZWk9IcE44SVgta0hwazdYbEdvcnVQQU5aaDhDV1lWRjJrLTJYSFZsLW5xbzluRFhlOUI4bHlKZnh4VzJXNDFmYTk4akMwT2c?oc=5",
-      "date": "2025-01-05T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kol Dam"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

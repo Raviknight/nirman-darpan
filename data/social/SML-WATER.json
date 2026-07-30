@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-27T20:16:08.196Z",
+  "updated_at": "2026-07-30T20:12:17.983Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 22,
+    "press": 23,
     "gov": 0,
     "en": 11,
-    "hi": 11,
-    "total": 22
+    "hi": 12,
+    "total": 23
   },
   "mentions": [
     {
@@ -50,6 +50,16 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
+      "title": "Shakroli water supply scheme nears completion for 24x7 drinking water in Shimla - Projects Today",
+      "source": "Projects Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY25jSkx2ckpMY2pycnZoaWxyWENWTTBjZWRBOUY2VTRyWFFWdUt6TGl1NWdnM0p4ZGhuaEcyQXpuMDJ5RjBZQ0N5bFRLTnJfUGc3ek5zRl9BYW44Nk01WUx4MDRDcDlNdWxlSkdidjBwYVM1cEp1bmU1cGFldkpoM2EwXzhvcVgzWGpvVm1WV2NpeEF1OGRzWmxNX3RpVjJqZldUaFBKMGl0TG1KZHc?oc=5",
+      "date": "2026-01-09T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
       "title": "Himachal: SJPNL issues partial water supply disruption advisory to people amid tourist surge - ANI News",
       "source": "ANI News",
       "source_id": "google-news-en",
@@ -90,16 +100,6 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "Ex-Dy Mayor seeks shifting of Winter Carnival stage in Shimla - The Statesman",
-      "source": "The Statesman",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTnIwSEFtNGIyeHprcmxpb01TendpZjh6NllKNnlYSEhVenZMeU5yMFlZNFF6eEpkNVJsblBTVmdYRWNxTlBKT1N1TnBFbFA2SkY5MFdVbTFqYlZwWVJQQ28xckt2RmxNeWV0SXRZT29RSnBDWDJFNklfaF9VaUFKVWZvWGNJUFJDUTBKZDFqU0M5SV9CVFY4ckI1dWZKbHNsNExDZjJCREhjUGx3cmlCSTRB0gG3AUFVX3lxTFBZT3pzNHl6ZjFkOFZGaEFpakhlSHJQcERta0lvX1lhMVpNU2VDN0hwMjRhcWhHLVoyZzE4LW1TbllmVjJHUktBVGJGNktoYUk5ZEV4N1A3R2E5QUhnb3pSNkxjRmlWbTV3dE9zeVJWcUlOVDBpZ3l1bnN0MG9oMllMOU1qVFRVNHEtYkZ6S2VsV2wtdnY2ckpxQU1kSHBFZnY2WGRwaHNtT2VjMm94eFp6UVBXNWV0WQ?oc=5",
-      "date": "2024-12-25T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "SJPNL Shimla"
-    },
-    {
       "title": "Giri Water Supply Scheme: Shimla to combat water shortage with new tank - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -108,6 +108,26 @@
       "kind": "press",
       "lang": "en",
       "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "Himachal News: शिमला जल प्रबंधन निगम लिमिटेड में बदलाव, अब इस नए नाम से जाना जाएगा SJPNL - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlBVZ01DVy1zZktQcHFDVnJ1QVQzd25LR2FnOWxodXpKeUVQUTA1SzhsN1RPdmo4MFJRVnJKNm9WMXdYWHBHNG0tc0hsbWFfWF9pNXNpRnhONW9fdGxORmIwWlQxVWJ6UlZJQmJsSzNtZm9kWkRvNURnM0FXR3RMZEV2T2FSdjBLa2UwUW5vcDRYdkpYV1lETzhYeWxPd1VZeW1DOXlVSTFxeHhwY292UlRaOXZGbm1BYVdNaA?oc=5",
+      "date": "2024-06-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "शिमला शहर में बुरे हाल..टैंकर नहीं आया…पानी खरीद लाया - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjFuang2ekNwN1lKbzVEWDRmelJ6YnBwWko5OHJKcTdEcGdTLTloSm4wY2dwYVU5Z1UwNDM3MFN6bGQ3ZmMwSnhWS3BQNTk3VzlPUENYcjJWV0t4Y0VqQ2RsWHNsSU5vWWdMT0dRQWhPejdUeVZsbjVYYlBnMFpsWXQwemhZaG5BbU8tMy1qRdIBlAFBVV95cUxPNnhnXzlDd3h0bHVLTEYwNWVGTFNuMnBqYUFYNnl2WG5qa19oMzBZbXJETVNOQy13SGNaMXl5VmlvNjNCekpyaWpIaVBtUExzYnZSRDU1cERqQXFrdnVqRFVaUEZVUnl5RGd1X1JwNlJxT0MxZDJWenVaMUpMdk9tYVVKcTdVWlRtUC1YNFRXVXktalgz?oc=5",
+      "date": "2023-07-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJPNL Shimla"
     },
     {
       "title": "Sirmour News: सिरमौर की श्वेता की कप्तानी में पंजाब विश्वविद्यालय ने जीता रजत - Amar Ujala",
@@ -120,6 +140,16 @@
       "match": "SJPNL Shimla"
     },
     {
+      "title": "Shimla Water Crisis: हाईकोर्ट पहुंचा शिमला का जलसंकट, हरकत में आई सरकार, अफसरों को लगाई फटकार - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWE1GcGpydkFVUW44SVc2LWdlNTNvTjNQVzVvMnVnRGlfR3ZsQjdoNWUxX2pPT1FnY2ZUOGVrMG1DZnZUeF9ZTWdKX3RGSG9aTmZZVXkzS1pERXBLcmRKN3NkZTBhMnBCM0xkQTJrNlg4YkJKYVAtcE8weUNGQWVPbWNYcy04aTNVbVRyQ05sWXFHcmlnaGNUYnZSX2hOR0owdnBWNTBsV0NXVUQxWFRKSXotTVRyUdIBuwFBVV95cUxQcGpxRlE5WXZfenJfR1hEWUtxbUN2UDhJVXFzLTR1Wmg4bTNXUFJON2ZLU1ZLZVEzcmJ6SDFSOFR3OXRldzVlMFI1RDVPY2Jmd0sycXBaMndoRjlzQzZqMkpfN2J5UkxuVnk4S0ZrQ3lDY1Jyd2d2elZjTkotVFFlTjJ3X0s5UXI0OE1wdGR2VXVyM1BHaEp4VTVFaG00VGVMQU40U1FScjMzYXprUWRBa0tkVmRKdEZGSUxz?oc=5",
+      "date": "2022-06-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
       "title": "शिमला: रिज मैदान के पानी टैंक की सफाई, मेयर सत्या कौंडल ने किया निरीक्षण, दिए ये निर्देश - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -130,18 +160,8 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "शिमला जल प्रबंधन निगम का दावा, 90 फीसदी सही बिल जनरेट कर रही कंपनी - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNjhSNDV5NDdXRHRnUmw0N20wZHJKVFRici15ZWJYLVh4MWNPWW5mWGtHM3J1SkhobkNCTzhTY211S21HbTJ6UVExaDJzNWFpMnFHc0Z1WEpBNm1SaGxvZU5FQWVodlJuSXhaQmI4VllLNzMxa1JWTHl6SldMVWJ6WkI5bDZOR1lUTFlVSGpPSTR4WWhTTWt5am5GY0MtenVOLVNlOHlJTE82QWFtUm0xLXA2YUFVVG5YUWQzS0piR08wdXFYS3lnX2N0OUNCNUtKUkF0dHBXdzh3SGJ4eFZsUTZ5cGFIVUZiT01Zd3pB0gHzAUFVX3lxTE1XNi1TbUZHVHpxUURNMHlVM3lWTmlERzFaUm9idkZqeGs0aU5Udm9vRWg5QUplbXVZYnZNcmVRWnVoNmU2VzZZenA0VVhfUGN4NnJZc1JrU3NXLXl4aFM1NU1ndUFMMXlDX0Z0cmd1dzRCdEpmM2xDRTRQZ1J4N2pnWFdNdEljeGY3c2JEREpGMjZNZEo3eGVRRzJ0OG9sTzhMVWRSWFhETV9BWG9BdWJkYTR2TUFBWlVKYnZ1RkppS0J2U2t4WElHYWhlaGRLX3ZUd1pqOUE5TWQwYmdDNnJLaE1wRGZST3VPSmRqUnZfenFnWQ?oc=5",
-      "date": "2021-12-03T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "New Multi-speciality Hospital Shimla to complete by June 2021 - The News Himachal",
-      "source": "The News Himachal",
+      "title": "New Multi-speciality Hospital Shimla to complete by June 2021 - thenewshimachal.com",
+      "source": "thenewshimachal.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1lCNnlVVVpHUEFySnNQam1veFQ5Z0wtS1FwZlM3R0kxcG5mb2xQZ2ZXN0x3Vm5rS3VNUWlpUjU4N2tUVTg4Z0dpdHlaNUROYXlzSzNZOWdfUGE3bHB3elQzQk83WkJjZU9lVWZQREt3Z3AxVUVSMEtreUtfTFp5Mk4zZkpYUWRXTFgzQ2F1Zlp1ekdxbGF4VEFqMDRjaGs?oc=5",
       "date": "2020-11-04T08:00:00.000Z",
@@ -170,8 +190,8 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "Shimla Jal Prabandhan Nigam claiming of providing quality potable water - The News Himachal",
-      "source": "The News Himachal",
+      "title": "Shimla Jal Prabandhan Nigam claiming of providing quality potable water - thenewshimachal.com",
+      "source": "thenewshimachal.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN242WUtqS3hnNTRiSG1rNk1BUHRqSWd1bzFZbjZQSUlVZTNlSUpXVGFnMjlDVmNuVUYwNmZHYUNUWW1sbFNjRUFmbFN3YjBFbXp4YjV5OW1rZzh6bDB3cDhKQlUxVzFBaWFIRF9KbTV0UEhKZ2xYOTgtX0FVbFhKb2gwQVJMQ09iVVpWSHBnOG1UNmxCX005S0Q0V05vNDRQeVdoYk1jclQxb2dj?oc=5",
       "date": "2020-04-24T07:00:00.000Z",
@@ -180,33 +200,13 @@
       "match": "SJPNL Shimla"
     },
     {
-      "title": "Technical error behind inflated Water Bills: Shimla Jal Prabandhan Nigam accepts - The News Himachal",
-      "source": "The News Himachal",
+      "title": "Technical error behind inflated Water Bills: Shimla Jal Prabandhan Nigam accepts - thenewshimachal.com",
+      "source": "thenewshimachal.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMF9sTnB5eW02WXFxcHVxYVRiWEpsSW1NY2ViZ2I0MUw2eEYzRjZpRTNWZUxiNlRsT1VpdkVEdU1MamtyekdCMnNFaTR4LW01YlVTaHRkS0plRnJ0WE45bFN2OWRaX2tqOGRQUTl4VEtZeEdPbngxTGx1cTNGOXdid2JFRFdzeHZyYzQzRnlsMGZkVUxlNUNNMDJmQlQ0RnREN3l5OE5vc2hMZ0drWC1NMFJrVGhSSVU?oc=5",
       "date": "2020-01-15T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "पेयजल शिकायतों के लिए शिमला जल प्रबंधन निगम ने जारी किया हेल्पलाइन नंबर - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iYmVIdnVuaEFlMS1aZUFucDJaYjJ6Yy10ZGZZanV3VlYzZ2FXeXRzanMtTjVFUTFKelhMLUxXVklUYURmam5Odm1oaUpBYTY5T1BsY2pkQ1I0ZXJwTzBnY2pQb01OSDRZU3dB0gFwQVVfeXFMUHJyZThGd0lHQkt3S3dlM180M3FVLTZrb19TRS0tbHp0Ti1TUV96dEd2cVA5TWhEZU9iMGJYMFRtMy1qZHRoVldqS1N3U1p2TmJaTHpDUDJHT3Q3RXBHaTE5c2NhaUkyVG5HQ0tYcnVUVg?oc=5",
-      "date": "2019-06-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "पानी के बिल न मिलने पर जागा शिमला जल प्रबंधन निगम, ऑनलाइन भी दे सकते हैं बिल - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1RtVVZJckFBdFBRVU90SmQ5MXR0VjlGb0JBOW5YZlhpV3RtTk9NaHdkU1RySWJ2N1BNRW82ak9XLVRINFp2eWZDWldGS0ItVFVScE1LNEh0cnRNakpRczQwaWlLcTZJZDhyc2s3enllcXJ3Wjl1a3dsX1A1SHNNY1pXTHZxNlhPQ3lkYVJ2cmVqWXBrTGdLTlhFTWhMNUnSAaQBQVVfeXFMUHJ3WWVNTXRwaWFGczVNaUpHbF9heXFxWUdfUTFRYUdRaktkckNuZ0VIVzA3Y0wyZXBpMGVzV2Q2VlY0djExaEQ2aUJQMnAzN29qZDRfRjVTWXJQUzhyekZOanlVai1DdGJBanRRZnE1S3pYdnRkUkpFcG9HUHU5WHFiOFBQQnNhWndWejdiWmdfZVR1X1BfLWN0Z3VjQXRtdUdOVk4?oc=5",
-      "date": "2019-03-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Shimla Jal Prabandhan"
     }
   ],

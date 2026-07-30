@@ -1,64 +1,11 @@
 {
-  "updated_at": "2026-07-27T20:16:47.590Z",
+  "updated_at": "2026-07-30T20:13:00.439Z",
   "project_id": "SCHOOL-MOD",
   "query": "\"Govt. School STEM Modernisation Cluster\" Himachal",
   "counts": {
-    "videos": 1,
-    "comments": 6
+    "videos": 0,
+    "comments": 0
   },
-  "videos": [
-    {
-      "videoId": "vPC_V0aqyAU",
-      "title": "A Book of Ghosts 👻📚",
-      "channel": "Storytime Haven",
-      "published_at": "2025-07-26T03:00:57Z",
-      "description": "Welcome to Storytime Haven! In this eerie collection, 'A Book of Ghosts' by S. Baring-Gould unveils tales that will send shivers ...",
-      "comment_count": 6,
-      "comments": [
-        {
-          "comment_id": "UgwFc6tNpwFPkI-YtRJ4AaABAg",
-          "author": "@leonaheraty3760",
-          "text": "Very spooky! Thank you! 👻😊",
-          "like_count": 3,
-          "published_at": "2025-07-26T03:54:45Z"
-        },
-        {
-          "comment_id": "UgwyMS0ZbOl_NEfyh7Z4AaABAg",
-          "author": "@lindacook8819",
-          "text": "Thanks",
-          "like_count": 2,
-          "published_at": "2025-08-01T19:03:37Z"
-        },
-        {
-          "comment_id": "UgxSqUhjtPe6smweMD14AaABAg",
-          "author": "@mariameere5807",
-          "text": "Thank you so much ☺️ I love this type of content! A bit too much maybe 🤔 lol 😂 \n🌟❤♥️❤🌟",
-          "like_count": 1,
-          "published_at": "2025-08-03T21:04:13Z"
-        },
-        {
-          "comment_id": "Ugy7-oWD2H6rEwBGv7F4AaABAg",
-          "author": "@kamaujoseph-y4n",
-          "text": "Beautiful 🤩❤️ tales. But they are too long. I always lose track midway",
-          "like_count": 3,
-          "published_at": "2025-07-29T11:13:50Z"
-        },
-        {
-          "comment_id": "Ugz0eY1mPnkAYwK0YXl4AaABAg",
-          "author": "@robingile4301",
-          "text": "S. Baring-Gould Rocks!",
-          "like_count": 3,
-          "published_at": "2025-07-26T16:48:50Z"
-        },
-        {
-          "comment_id": "UgwFPZjLYu_T3DKckHJ4AaABAg",
-          "author": "@RachelWellborn-h6w",
-          "text": "Very good!🥰 I really like this. I’m gonna subscribe I think. I no I 👍’ed already! Thank you for sharing 💐",
-          "like_count": 4,
-          "published_at": "2025-07-26T17:40:49Z"
-        }
-      ]
-    }
-  ],
+  "videos": [],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

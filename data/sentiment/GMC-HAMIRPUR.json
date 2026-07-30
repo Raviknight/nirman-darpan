@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-07-27T20:17:12.697Z",
+  "updated_at": "2026-07-30T20:13:13.679Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
     "n": 20,
     "positive": 7,
     "neutral": 8,
     "concern": 5,
-    "avg_score": 0.035,
+    "avg_score": 0.025,
     "avg_magnitude": 0.305
   },
   "youtube": {
     "n": 29,
-    "positive": 7,
-    "neutral": 17,
+    "positive": 6,
+    "neutral": 18,
     "concern": 5,
-    "avg_score": 0.055,
-    "avg_magnitude": 0.255
+    "avg_score": 0.041,
+    "avg_magnitude": 0.259
   },
   "overall": {
     "n": 49,
-    "positive": 14,
-    "neutral": 25,
+    "positive": 13,
+    "neutral": 26,
     "concern": 10,
-    "avg_score": 0.047,
-    "avg_magnitude": 0.276
+    "avg_score": 0.035,
+    "avg_magnitude": 0.278
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Nice college isi me hi padunga",
+      "title": "Good going Girl!🎉",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Good going Girl!🎉",
+      "title": "Nice college isi me hi padunga",
       "score": 0.9
     },
     {

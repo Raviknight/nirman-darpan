@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-27T20:15:51.399Z",
+  "updated_at": "2026-07-30T20:12:08.672Z",
   "project_id": "SHINKULA-TUNL",
   "counts": {
     "press": 94,
     "gov": 0,
-    "en": 73,
-    "hi": 21,
+    "en": 72,
+    "hi": 22,
     "total": 94
   },
   "mentions": [
@@ -50,8 +50,8 @@
       "match": "Shinku La tunnel"
     },
     {
-      "title": "15800 फीट की ऊंचाई, खर्चा ₹16810000000...भारत में बन रही दुनिया की सबसे ऊंची सुरंग, चीन के माथे से टपकने लगा पसीना - Zee News",
-      "source": "Zee News",
+      "title": "15800 फीट की ऊंचाई, खर्चा ₹16810000000...भारत में बन रही दुनिया की सबसे ऊंची सुरंग, चीन के माथे से टपकने लगा पसीना - zeenews.india.com",
+      "source": "zeenews.india.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcDVvQlQwcWZjalpHZW1qUkZGLXhYQzNaZ0lpZzAxM193eUtPSWlGLW10WHAyZGYtQUZ5Yno3R29LSGp5d0FZOVhJdHZTc1RuVGx0ZXlJV2NUaVFnYXR0c1NYekhXZ0VneUIxTFFrbG5veFFlQjl3bnpheHBVbGViOG55Tk1xUDUwcU1jQ3BVQXBQYWxUZXBEcWxpRFZ4TFZWVG5nODV6Z2s0Nmo3SU9uX2RxQ0IwYTRyOW1LT0ZYQk1pZG1WLVlFSVp0TnlUQmxlb2s0bElEd1o1XzhkZEc2cVlBVmZxUnBlenNr?oc=5",
       "date": "2026-05-07T07:00:00.000Z",
@@ -98,6 +98,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Shinkun La"
+    },
+    {
+      "title": "High in the Himalayas: Odisha Media Delegation witnesses BRO’s Engineering Marvel - KalingaTV",
+      "source": "KalingaTV",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbVFYeUYyTkd4UG9MZkR6VWZiXzlqOThKRTRTSVFveHBrYXZKb1Y0cWpMdC1VTXpYWnY4ZXZCV0pLVDdYc0ZUSVgzNmFuVUVvNXlwRThPNUl0VWxKcE55ZU1jVzRxODJCOGhpbEVXUlBjTmpYQzM2bm1pMHhUbmN4OVBpVmdFOEZhcVNJSldzUW42cEZLcDBmWmFzVGNBNHlHU0FFeU9KR3o5WHpiTEE?oc=5",
+      "date": "2026-03-25T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shinku La tunnel"
     },
     {
       "title": "Critical road near Line of Actual Control to open this year - Deccan Herald",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Shinkun La"
-    },
-    {
-      "title": "Prime Minister Narendra Modi Inaugurates Shinku La Tunnel Construction - NDTV Profit",
-      "source": "NDTV Profit",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFpNanhPNkVNM2wzTThlQ05yM1lGaHBobVJtQmJlZGQ1Nm42VkVKb2swNHgwZFBoWXZsX0w1d1ZURS1FTGFteXVvSWxPYnhoVVRmYlYydVVEeDM4NUFzeTBVWWJBbjNEdl83YXc2dWY5YVdTRkFIckd1UmgxclRDU3RSbUdxWDh5R2hHMFJXcUQ4SVRka1ZpSnhlQ2o3bDB6TXFTNF81SWN0dktRLVo4b9IBuAFBVV95cUxPVXIwLU9QNHVBazMwUy1Sa2dZZ1Bnd1pLZ0FuR05nbEljcmtxeGJNWmNQOV9neFZpNWFIdU5Oek5TaE4yUjQyOGdkeVFuQklGMlR0TnE0Tm9zUWQ3YjYxUmJYdWd1Y2tjWEVUVjc2amc2WDJPT3RqWnUzYTc0eEtuYVlBbHc4V1djZ2wxYzlWSzJTMk5PRFZZYk5NdjFpZEJCNlVaamZnX05RU2FiZC1rWGRzVXBCWTNm?oc=5",
-      "date": "2024-07-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shinku La tunnel"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

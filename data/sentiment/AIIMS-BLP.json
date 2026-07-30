@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-07-27T20:17:02.835Z",
+  "updated_at": "2026-07-30T20:13:07.785Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 12,
+    "positive": 10,
+    "neutral": 10,
     "concern": 0,
-    "avg_score": 0.12,
-    "avg_magnitude": 0.175
+    "avg_score": 0.145,
+    "avg_magnitude": 0.2
   },
   "youtube": {
-    "n": 41,
-    "positive": 11,
-    "neutral": 24,
-    "concern": 6,
-    "avg_score": 0.083,
-    "avg_magnitude": 0.212
+    "n": 34,
+    "positive": 21,
+    "neutral": 12,
+    "concern": 1,
+    "avg_score": 0.341,
+    "avg_magnitude": 0.379
   },
   "overall": {
-    "n": 61,
-    "positive": 19,
-    "neutral": 36,
-    "concern": 6,
-    "avg_score": 0.095,
-    "avg_magnitude": 0.2
+    "n": 54,
+    "positive": 31,
+    "neutral": 22,
+    "concern": 1,
+    "avg_score": 0.269,
+    "avg_magnitude": 0.313
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "nice video,quite informative.",
+      "title": "AIIMS Rishikesh & Bilaspur offers amazing scenic beauty.",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Simple and asthetic 💗",
-      "score": 0.8
+      "title": "❤❤❤ so beautiful Bilaspur",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Isme padhai nhi nind aati hogi yaar😂😂😂\nYaar itna comfort",
-      "score": 0.7
+      "title": "Big fan sir \nGive me a red heart",
+      "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Kash govt esa room iit main bhi de .iit rooms quality is so poor",
-      "score": -0.7
-    },
-    {
-      "source": "youtube",
-      "title": "Didi hostel fees kitna hai yaha par mere nursing me selection hua hai and yearly pay karna hota hai for full course",
-      "score": -0.3
-    },
-    {
-      "source": "youtube",
-      "title": "Md emergency medicine department kab ayega kuch malum hai kya",
+      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
       "score": -0.2
+    },
+    {
+      "source": "youtube",
+      "title": "Bro how is the department of pediatrics is it worth taking in bilaspur",
+      "score": -0.1
+    },
+    {
+      "source": "youtube",
+      "title": "Pls bhgwan ji 🙌🙌🙌🙌🧿🧿🧿this time 2026 🥹",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
