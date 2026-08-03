@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-07-30T20:11:59.838Z",
+  "updated_at": "2026-08-03T20:21:11.154Z",
   "project_id": "DHAULASIDH-HEP",
   "counts": {
     "press": 28,
     "gov": 0,
-    "en": 19,
-    "hi": 9,
+    "en": 20,
+    "hi": 8,
     "total": 28
   },
   "mentions": [
+    {
+      "title": "SJVN Invites Tender for RCC Blocks at Dhaulasidh Hydro Electric Project - PSU Connect",
+      "source": "PSU Connect",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk96ZHRZaTNvNVZBQ25uUzNDZHYzb2ZCRFp4dE1yYmxtUnJKLVBtdWR1R0FuWXpuUEFZSGVlU0JrMlQzV1lQUGhVaFR4YXNhTUk5VTIxV1FHS25BZnBhd1NOV0NKY1BZaEF2eThTczB6Skd3cnVRY1VyZEdSSlZseUlBOHdEYUFRUXRSU0t5R3l0YmI4TVZlVzVNUWRidVAzbEFCLW9pQ29vdw?oc=5",
+      "date": "2026-08-01T10:27:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
     {
       "title": "सोनम वांगचुक मामले और पेपर लीक के विरोध में धौलासिद्ध में गरजे मजदूर - Janta Se Rishta",
       "source": "Janta Se Rishta",
@@ -24,7 +34,7 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPbnlKNFZEVUJNaEd3V0Zsc2xKTU0tTVJBcEQ0emxaN1F0VnJUU0JkbmN6cWk1RDIwbTRFOEREUFdvanFQc0FVY296akhEY3RQbGsyZ0x3SHBlcERGVzhOZExTWEhFREdsVl9aY2VPQ0Jjb0MzWElCZ0hQQTJZcXQ2YTBCR0N4QW00VkZrNzFhWlVySEVac0xoSnFuVWFUc0VPcDdpVDFWQ005X2ZFa1hHcjNJR1YwcDRZdTBRdGVuOVhGWFBTNGJTZmsxbFREaUZHMG5ieXdNWC04UG9KUGtHekFsMmszVkdCMmFySWV5Z294T0l4b0Y1U0pIT0c0M2U4Vko4OXRYTzdoS2pLQmhOUkV1eUbSAZoCQVVfeXFMUGNwQm9uOXgyX1hDeTIyekRxWVNHZy11OXlKUWlNSWJXNmp5YXkyVFhYN3FGZEtxMzJ6d01jMEl5aEZHNVdxOGR5TWRBVk1aZ2NmOHRfRFJRQU9iaFQ1QjJxSFNNMEplRDFDOVFKdXQ0UnozbUZYZkhGUDJ2ZXExbVZjYUh2dVZjRVpQMkk5M3ltZUlZaU83WDhDdk1kUnZIVTVSRlgtTVFJajFIa0lnZG16Y1lKdmVRei1DYXFqa1pMbTdYMHVVQXhQRDhRRGN2UFRQYUhUWjBjNURzdXJwQ3VhbWk1MGJIX211Qnd3LWxPdU02SVlINVEzRFZhbmV3M2FUeFlSQk9pRmhUM2d6bTNzT3VYeTN4SG9n?oc=5",
-      "date": "2026-07-20T12:31:20.000Z",
+      "date": "2026-07-20T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Dhaulasidh"
@@ -90,8 +100,8 @@
       "match": "Dhaulasidh"
     },
     {
-      "title": "Construction of Dhaulasidh Hydro Project enters an advanced stage - thenewshimachal.com",
-      "source": "thenewshimachal.com",
+      "title": "Construction of Dhaulasidh Hydro Project enters an advanced stage - The News Himachal",
+      "source": "The News Himachal",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpwYTBLZjhyYlF5N2EyYWpVMWRSNmFjYVM3ZGpzZWh4Vk5tUWkwbmxGWGw2NlNLcFcwZTNzdmtTem9sS2JwT2tPV2tXTHBCYzhGM1Nka29acmpudlh4ZzNqQVFLMUtIbm44QWRaS0pwcHJfcGFzOGhFQ0dKejB1ZzhHOEFMRWNNbVFvZENuM24yT2NJVE1tZHlJd3ZuNXFIcmJ5NQ?oc=5",
       "date": "2023-01-29T08:00:00.000Z",
@@ -160,8 +170,8 @@
       "match": "Dhaulasidh"
     },
     {
-      "title": "Rs 688 Crore Dhaulasidh Project Strikes Financial Closure - Hill Post",
-      "source": "Hill Post",
+      "title": "Rs 688 Crore Dhaulasidh Project Strikes Financial Closure - hillpost.in",
+      "source": "hillpost.in",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3ZiUVQ2VnFSYXprZk5YZko2QV9sR0pXUUtocU5aczZ0WXhyZktIcm9oOXRtZkVtZ3BzZUJsV0t4VUpxZjZWTy02R210bHlXajU5ZGRXUV9rbXZSTFVWWXR5ZVl5THc1TlR4LXdENmJ6NHYzbHQ1bjNVRENSb3NwTGpNZ1k3clM3MlhMcmpfM2RoYlNpVE05Ug?oc=5",
       "date": "2022-04-19T07:00:00.000Z",
@@ -195,16 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUNQenNPanZSSk1nUlBBVmQ3VkRENm1sMkdfdnY1THRWUWNQbmNzREg3MXNFQjM1bjRKMXNaMDRlMGhITW43M0VPWkhtNFB1eXUwTV9KbWFCQk04Tzk2VURLeEF0S01mUnNGUlBXdmw5cW5uaEJKbG14cmNLNEo3ODhoZVdEeGpaWWlZZ3BTcjhCY2czTTRleNIBngFBVV95cUxOZWlFTno3SlVzMlhncjVVd1V0RlNaTGVaX3BLdWJMRTNucFZjREVBY0cyX1F3bTlYM0RZSmZ5WXh4T05tSExLLVNyZERsbUkyT210VTdiT1YtUExGZVJxc3ZhYUE5Z2hfS0xHOW5RSTdzaFJmcTVackVQNGhZeVQ0VXN4ZmRYZUw2akw3eXNPNEFZWDF0ZllWc1FIdHVzdw?oc=5",
       "date": "2022-02-16T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "SJVN Signs Electro Mechanical Works Contract with Voith for 66MW Dhaulasidh Project - energetica-india.net",
-      "source": "energetica-india.net",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0JIcV9JMjBvMHdpdXlNZVVCNnRKZE55UmRpUHF6ZDZjNVdxNUJ6N3RkYnZIaVNTTk1oY0JUYnBnUlgzR1pYVjBMYkVmWDBiN0xZakR5bkRhNnV0SmtseWo3SkI3cHNJUXA4aDdVc1lxNTRja0syeFRlVF9hSFBqWTdDU3hOZWtiNU5GTHNRbUVidC1wd0FPQlpJWWRaMzNiY3FLVUxnMkRvR21EY1pad2NPRnFQUXNXRTR5TVR3?oc=5",
-      "date": "2022-02-14T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dhaulasidh"

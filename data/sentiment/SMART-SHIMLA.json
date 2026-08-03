@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T20:13:08.436Z",
+  "updated_at": "2026-08-03T20:22:20.267Z",
   "project_id": "SMART-SHIMLA",
   "press": {
     "n": 20,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.32
   },
   "youtube": {
-    "n": 26,
+    "n": 27,
     "positive": 9,
-    "neutral": 13,
+    "neutral": 14,
     "concern": 4,
-    "avg_score": 0.031,
-    "avg_magnitude": 0.269
+    "avg_score": 0.033,
+    "avg_magnitude": 0.211
   },
   "overall": {
-    "n": 46,
+    "n": 47,
     "positive": 20,
-    "neutral": 22,
+    "neutral": 23,
     "concern": 4,
     "avg_score": 0.1,
-    "avg_magnitude": 0.291
+    "avg_magnitude": 0.257
   },
   "top_positive": [
     {
@@ -47,8 +47,8 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Kuch bhi?\nWithout informing the Numbers, data and facts about why you think the scheme failed, you'll bark \"SCAM SCAM\"?\n",
-      "score": -0.6
+      "title": "We have an overpopulation problem for sure",
+      "score": -0.5
     },
     {
       "source": "youtube",

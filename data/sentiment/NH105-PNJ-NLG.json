@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-30T20:13:11.088Z",
+  "updated_at": "2026-08-03T20:22:22.943Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 4,
-    "concern": 8,
-    "avg_score": -0.025,
-    "avg_magnitude": 0.305
-  },
-  "youtube": {
-    "n": 2,
-    "positive": 0,
-    "neutral": 2,
-    "concern": 0,
-    "avg_score": -0.05,
-    "avg_magnitude": 0.55
-  },
-  "overall": {
-    "n": 22,
-    "positive": 8,
+    "positive": 6,
     "neutral": 6,
     "concern": 8,
-    "avg_score": -0.027,
-    "avg_magnitude": 0.327
+    "avg_score": -0.055,
+    "avg_magnitude": 0.265
+  },
+  "youtube": {
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
+  },
+  "overall": {
+    "n": 20,
+    "positive": 6,
+    "neutral": 6,
+    "concern": 8,
+    "avg_score": -0.055,
+    "avg_magnitude": 0.265
   },
   "top_positive": [
     {
@@ -48,7 +48,7 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - Indiatimes",
+      "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - ET Infra",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWmd2LXRfOWgyYlZUUW43aUdJT21XcklWaEg5a0h2S2hpNmJYazN5QjZZekdrRFlZdGZVMXRUZzZzWlpfaUl4cjAxdjZjZUx4RzNyR3lDR3BMeUdTZ2dwbG95MmF1aXJLQTVOTVI3eE9scFpuOXA3dEJpalF6RGZ3cjBHT2c5MkR3MVRvTWFoekN4LXd6Z0VPeXM0TmNGTjN3U2g3Q3pwQXNIeVdmcU4zdDhBTU1hTXBLWlZiM05KeXdoX1dncEFmZ0Nob2tMZFhROVlFRl9IOWt3TWpGeWgwWHJveU1FdDBHRWZNcQ?oc=5",
       "score": -0.7
     },

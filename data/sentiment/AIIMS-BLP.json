@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-07-30T20:13:07.785Z",
+  "updated_at": "2026-08-03T20:22:19.143Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 10,
-    "neutral": 10,
+    "positive": 8,
+    "neutral": 12,
     "concern": 0,
-    "avg_score": 0.145,
+    "avg_score": 0.14,
     "avg_magnitude": 0.2
   },
   "youtube": {
-    "n": 34,
-    "positive": 21,
-    "neutral": 12,
+    "n": 53,
+    "positive": 41,
+    "neutral": 11,
     "concern": 1,
-    "avg_score": 0.341,
-    "avg_magnitude": 0.379
+    "avg_score": 0.466,
+    "avg_magnitude": 0.513
   },
   "overall": {
-    "n": 54,
-    "positive": 31,
-    "neutral": 22,
+    "n": 73,
+    "positive": 49,
+    "neutral": 23,
     "concern": 1,
-    "avg_score": 0.269,
-    "avg_magnitude": 0.313
+    "avg_score": 0.377,
+    "avg_magnitude": 0.427
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "AIIMS Rishikesh & Bilaspur offers amazing scenic beauty.",
+      "title": "Thanks to Narendra modi 🙂 saar also make exams more secure...",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "❤❤❤ so beautiful Bilaspur",
+      "title": "My dream college Very beautiful aiims",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Big fan sir \nGive me a red heart",
+      "title": "Ya Allah help me getting in this institute its my dream to study in such nice college and full fill my dreams.... I want",
       "score": 0.9
     }
   ],
@@ -50,12 +50,12 @@
     },
     {
       "source": "youtube",
-      "title": "Bro how is the department of pediatrics is it worth taking in bilaspur",
+      "title": "Can you please tell me ki kitni fees hai pure mbbs ki aiims bilaspur mein please",
       "score": -0.1
     },
     {
       "source": "youtube",
-      "title": "Pls bhgwan ji 🙌🙌🙌🙌🧿🧿🧿this time 2026 🥹",
+      "title": "Iam  joining ❤as nursing officer in AIIMS Bilaspur",
       "score": -0.1
     }
   ],

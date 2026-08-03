@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-07-30T20:12:43.692Z",
+  "updated_at": "2026-08-03T20:21:52.326Z",
   "project_id": "NH105-PNJ-NLG",
-  "count": 3,
+  "count": 4,
   "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-09T20:43:51.935Z",
+      "title": "Himachal High Court pulls up NHAI over delays in Pinjore-Baddi four-laning project - The Tribune",
+      "summary": "Auto-detected from press: \"Himachal High Court pulls up NHAI over delays in Pinjore-Baddi four-laning project - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEw5WVVSZUlhLW1wV2pZQ0VFUUgwWXRZcm1ENER3U2xmNVFSTDQybXRKeFBkTFk0ak5Kc3BIWUg0WEtUZ2x2OGV0dzhjYXpMVU1sOFBuMTlFdklwTHRHYl82cFVnbVEycFJfQkNIcGR6Y2NaT2RwbXRhd0FVNy1YOVkxc3RBcFIya0ZpSjBnWlNwU2t0ZW92MGMxV0YwcFdGS3k3ZUJmWTVVTnVLNHJ5MUtGR2NyamQ2amfSAb4BQVVfeXFMUHJYa0E1UDBSRVJYdVl5N19rcl9acWZOajE2amJJd0RZREFXR1VXSmNCRzlBWk5mekpUTlQ3bUFPNFQ1bTdnYy00UEtqUU90TUt1dE52RU54ODYteEttRTZadmRIQjVjbkg3TXp3R0ZvWnA1QldZUVJKUFpheVB1dWp2bUtqVVY1anlUWFM0SjdNcWlvdTNMQl9sWkpQaUYta0VsMk4xb2U3azZ6U3N6TUE3VXB3RjRibUJYZ0IyQQ?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2026-05-22T07:00:00.000Z",
+      "matched_term": "high court"
+    },
     {
       "category": "litigation",
       "severity": "medium",
@@ -23,10 +37,10 @@
       "kind": "issue",
       "duplicate_of": null,
       "first_seen": "2026-07-30T20:12:43.692Z",
-      "title": "3 ‘involved’ in youth’s murder arrested - The Indian Express",
-      "summary": "Auto-detected from press: \"3 ‘involved’ in youth’s murder arrested - The Indian Express\" — review the linked article and edit before promoting.",
+      "title": "3 ‘involved’ in youth’s murder arrested - indianexpress.com",
+      "summary": "Auto-detected from press: \"3 ‘involved’ in youth’s murder arrested - indianexpress.com\" — review the linked article and edit before promoting.",
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZFdFeF9XY0pCdXdpNnVpeGNfS2dLZFpPSV8wcV9mWmNkUk9SMUpzYmYzN2FUMlhoRi1TRjJ0ODh0THZQRV9FbC1ZLW56UlJnZDBoSjVlTloyTzZqel80SjBkdk5jLUtES2tZTW5CdDN6UndOOWRocGtSeG1wSUhyaTVPTVJQTzMteUM0UTJIa0U5aDFTN0wzSktQdVFVd0nSAaYBQVVfeXFMUExwZFBuVmZ1Y2VVS2lybGgzam9RLXpjOEdWS3dqYXJVeXNHbU92UUktekJwSy1jejlWNXJQcWVJT3RINE5FQkVYMUVPYkNXSDlNb3pQaXpLLU81VEV5UXpCcWh5WF9xM2hrNlM4U1BpNy01YUpqejlfNDdfV01RZGctTU4wNTZRd0puWXlaSE1hUjdadDlEU0R3RzBzMjBCcDZYUy1Gdw?oc=5",
-      "source_name": "The Indian Express",
+      "source_name": "indianexpress.com",
       "lang": "en",
       "date": "2025-08-29T07:00:00.000Z",
       "matched_term": "arrested"

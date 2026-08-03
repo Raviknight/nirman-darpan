@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T20:13:11.247Z",
+  "updated_at": "2026-08-03T20:22:25.415Z",
   "project_id": "NH154-PKT-MND",
   "press": {
     "n": 20,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.285
   },
   "youtube": {
-    "n": 21,
-    "positive": 13,
-    "neutral": 4,
+    "n": 37,
+    "positive": 18,
+    "neutral": 15,
     "concern": 4,
-    "avg_score": 0.195,
-    "avg_magnitude": 0.757
+    "avg_score": 0.192,
+    "avg_magnitude": 0.473
   },
   "overall": {
-    "n": 41,
-    "positive": 18,
-    "neutral": 11,
+    "n": 57,
+    "positive": 23,
+    "neutral": 22,
     "concern": 12,
-    "avg_score": 0.068,
-    "avg_magnitude": 0.527
+    "avg_score": 0.102,
+    "avg_magnitude": 0.407
   },
   "top_positive": [
     {
@@ -33,13 +33,13 @@
     },
     {
       "source": "youtube",
-      "title": "It's good road alinement.. shimla solan jise enginer ne banaya pora bakbaas",
-      "score": 0.6
+      "title": "Great work bro.. 👍",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "बड़ी विडम्बना है जब इलेक्शन नजदीक आते हैं तो बड़े बड़े नेताओं के काफिले हिमाचल पर एड़ियां रगड़ते नज़र आते हैं। परंतु जब ",
-      "score": 0.6
+      "title": "good",
+      "score": 0.8
     }
   ],
   "top_concern": [

@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-30T20:13:13.803Z",
+  "updated_at": "2026-08-03T20:22:30.420Z",
   "project_id": "GMC-NAHAN",
   "press": {
     "n": 20,
-    "positive": 13,
+    "positive": 12,
     "neutral": 7,
-    "concern": 0,
-    "avg_score": 0.26,
-    "avg_magnitude": 0.42
+    "concern": 1,
+    "avg_score": 0.175,
+    "avg_magnitude": 0.39
   },
   "youtube": {
     "n": 21,
-    "positive": 16,
-    "neutral": 3,
+    "positive": 15,
+    "neutral": 4,
     "concern": 2,
-    "avg_score": 0.352,
-    "avg_magnitude": 0.5
+    "avg_score": 0.31,
+    "avg_magnitude": 0.457
   },
   "overall": {
     "n": 41,
-    "positive": 29,
-    "neutral": 10,
-    "concern": 2,
-    "avg_score": 0.307,
-    "avg_magnitude": 0.461
+    "positive": 27,
+    "neutral": 11,
+    "concern": 3,
+    "avg_score": 0.244,
+    "avg_magnitude": 0.424
   },
   "top_positive": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "Nice video frnd",
+      "title": "U both are so beautiful 🥺❤️💋",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Clicked Faster than speed of light 😍",
+      "title": "Nice video frnd",
       "score": 0.9
     }
   ],
@@ -49,14 +49,15 @@
       "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "Di can you please tell ki hostel me washrooms room ke saath attached hain ya nhi",
-      "score": -0.4
+      "source": "press",
+      "title": "Immediately fill vacant doctor posts at Nahan Medical College: BJP state president Bindal - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTlMWW9lTVRTM0xjZ1dRVVpYbzl6cnRzb0NIaVVtVlNvVE82cUNTY2dlcmNSZnZFTzZ2NHVjV2J1NlRTOVFneFpIQVBZTXBHcWEzWlJLeUNCcm1sSVVTUzJZYVZXM3JFU1hLa01nZlFKVVA0TzlpRDFVR1pPN1FSNUxldnJPaVdDdDhZX3dybjhoUFhCNDFTdEN1SldsNXhSVkRsYXNsWU5CbFFuMXljUjJSRkVaaG1aVUxDQXlwa0tqb0FENFB1VEdsQWTSAdABQVVfeXFMTUZLS0dhbE4yci1nM2IxZ216TEJKaFdKSk16bFVPamV1RlZsUGFzX2JvVVlyNG1vWTdxRGUweWZ3bFpkd1hnRko0ZG5oYmpOTE9jaU40dWJPa0w0Ulc3elhnT241cVZKZEtOVVVhYUxILWhiNmRKNFJQY2dKMXo2WTJXQ2FhZ0tQWjFoaUxOQ2RPNENwdHhxYjZaWngyenRmMmM3TDJ0NUpJcHpuTHo5YUhBSTZLUGZ4MVA5d1NjcFZpc3F2cnFvdC10OG5mNHoxOQ?oc=5",
+      "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "ug college aur pg college alag alag h kya ???",
-      "score": 0
+      "title": "Di can you please tell ki hostel me washrooms room ke saath attached hain ya nhi",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

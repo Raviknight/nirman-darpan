@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T20:13:12.719Z",
+  "updated_at": "2026-08-03T20:22:28.315Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -10,22 +10,54 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 20,
+    "positive": 16,
+    "neutral": 3,
+    "concern": 1,
+    "avg_score": 0.445,
+    "avg_magnitude": 0.915
   },
   "overall": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 20,
+    "positive": 16,
+    "neutral": 3,
+    "concern": 1,
+    "avg_score": 0.445,
+    "avg_magnitude": 0.915
   },
-  "top_positive": [],
-  "top_concern": [],
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Gingers are extremely good for our body immune system. Our kitchen are full of those coz my whole family love it",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Your insights are truly valuable; thank you for sharing your perspective!",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Your positive input is like a ray of sunshine. Much appreciated 👍",
+      "score": 0.9
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "youtube",
+      "title": "but why? the one they initially planted looks heavier",
+      "score": -0.2
+    },
+    {
+      "source": "youtube",
+      "title": "வந்து சாப்பிடறவர் entha information னும் குடுக்காம சடனா வந்து பாத்து சாப்பிட சொல்லுங்க",
+      "score": 0
+    },
+    {
+      "source": "youtube",
+      "title": "seeds : 1.5 Ton  & harvesting : 1 Ton 😂😂",
+      "score": 0
+    }
+  ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

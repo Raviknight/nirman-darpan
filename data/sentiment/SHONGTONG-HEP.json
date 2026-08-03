@@ -1,31 +1,36 @@
 {
-  "updated_at": "2026-07-30T20:13:13.194Z",
+  "updated_at": "2026-08-03T20:22:28.384Z",
   "project_id": "SHONGTONG-HEP",
   "press": {
     "n": 20,
     "positive": 7,
     "neutral": 13,
     "concern": 0,
-    "avg_score": 0.17,
-    "avg_magnitude": 0.19
+    "avg_score": 0.165,
+    "avg_magnitude": 0.185
   },
   "youtube": {
     "n": 8,
     "positive": 5,
     "neutral": 3,
     "concern": 0,
-    "avg_score": 0.525,
-    "avg_magnitude": 0.525
+    "avg_score": 0.488,
+    "avg_magnitude": 0.563
   },
   "overall": {
     "n": 28,
     "positive": 12,
     "neutral": 16,
     "concern": 0,
-    "avg_score": 0.271,
-    "avg_magnitude": 0.286
+    "avg_score": 0.257,
+    "avg_magnitude": 0.293
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "भारत माता की जय❤",
+      "score": 0.9
+    },
     {
       "source": "youtube",
       "title": "Amazing fact 👍",
@@ -33,13 +38,8 @@
     },
     {
       "source": "youtube",
-      "title": "Excited for video 😍",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "भारत माता की जय❤",
-      "score": 0.9
+      "title": "Thank you sir",
+      "score": 0.8
     }
   ],
   "top_concern": [

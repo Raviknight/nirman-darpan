@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-30T20:13:13.804Z",
+  "updated_at": "2026-08-03T20:22:30.769Z",
   "project_id": "SOLAN-BUS",
   "press": {
-    "n": 6,
-    "positive": 2,
-    "neutral": 2,
+    "n": 4,
+    "positive": 1,
+    "neutral": 1,
     "concern": 2,
-    "avg_score": -0.1,
-    "avg_magnitude": 0.4
+    "avg_score": -0.25,
+    "avg_magnitude": 0.5
   },
   "youtube": {
-    "n": 18,
-    "positive": 8,
+    "n": 19,
+    "positive": 9,
     "neutral": 7,
     "concern": 3,
-    "avg_score": 0.128,
-    "avg_magnitude": 0.25
+    "avg_score": 0.142,
+    "avg_magnitude": 0.258
   },
   "overall": {
-    "n": 24,
+    "n": 23,
     "positive": 10,
-    "neutral": 9,
+    "neutral": 8,
     "concern": 5,
-    "avg_score": 0.071,
-    "avg_magnitude": 0.288
+    "avg_score": 0.074,
+    "avg_magnitude": 0.3
   },
   "top_positive": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "source": "youtube",
-      "title": "Congress ho yA BJP Baddi ka naam dono nai kharab kiya",
+      "title": "❤❤❤❤❤❤",
       "score": 0.4
     }
   ],

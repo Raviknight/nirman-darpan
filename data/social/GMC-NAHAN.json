@@ -1,14 +1,124 @@
 {
-  "updated_at": "2026-07-30T20:12:35.661Z",
+  "updated_at": "2026-08-03T20:21:45.498Z",
   "project_id": "GMC-NAHAN",
   "counts": {
-    "press": 99,
+    "press": 109,
     "gov": 0,
-    "en": 23,
-    "hi": 76,
-    "total": 99
+    "en": 25,
+    "hi": 84,
+    "total": 109
   },
   "mentions": [
+    {
+      "title": "Shimla: नाहन मेडिकल कॉलेज की स्वास्थ्य सेवाओं पर डॉ. बिंदल का बड़ा आरोप - Janta Se Rishta",
+      "source": "Janta Se Rishta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdEJuTDlUZmwzajVOVVpOTW9DaTFGSENoa0IxZHJVS0NZYkNMcXhkYklCMjZvZWZNMUhfQ25NSF9qVDl3OFhxcmo5TEtyWl9aeW1MaTBKSFBxcUd2NWxzU2pjRWEyQ1llQUR1X1JDT3NONkVrVzNZLWo2azU5bzFHS1IxY2xCRF8xZmNYWEVfQXhGUWVrQnVLV09TYUM0dEg0N0psdU1JNWNGcWxqekdQbkRkVE5UcXcteUhEd3hVMHU0UWczS0QtOThRMWQ1b2tPbXdsY1AyWWtZbDRnUnpJR3Q0ZjdDZmhHanIxVEM0MlVjVzTSAfgBQVVfeXFMTWpmNlpFVGdiV0pOT19uQjVYT1l6dVpITkU1V1FydEd6Mkd2d0xrOGFWM3M3YjVmczl4NjJ4NkRfNDQ1RG9WQjgwTnVfM1dJYjBrN2VXOWNhUl9mdWlacW5nX1hLN1R1QUh1SmdQNUNoc3JaVGZtSjhoRGNub2E0dWlGd20tOUVpcE9OdmEwZmNNVWo5bTZFM1A2VGVXV0ZhUFBPTkxnRGZFSXhTdlJUUW1FbDBZZ1o0SVdLelIzemU4OGpDRlp3c1RjaG9PY2liWWxhclZtQTlqVnFCT01kaXZhaUlXZ0h3OU13SjktVHotelpzY2J2eEo?oc=5",
+      "date": "2026-08-03T04:03:42.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "मेडिकल कॉलेज में सीटी स्कैन, अल्ट्रासाउंड और ऑपरेशन सेवाएं ठप : डॉ. बिंदल - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcHZQMk5iX1NDdmxUcmJ1NktqalZjY2h0X0ZHSW5Kb0UzbkpYaURyTGdmSVVEelJwdU5FZnB6S1lXVUwxaGgtdWI2bURrMmNVbWRzNnRvWFFMX3JBek1YaFFhZmVvUGJFUzNaWEUySy1fTnE3NERZV0UwVDFSMEpROHM2ZDU4d04xWW1udWtHcE9EUHpreUM0dXFlZTUyT2ZnalZYblpqdXlrSVJOelhBQ2NUUm84cm5ja1ZIR3JMaTZ6cmV5a1pEVFhxTVdOMTluVUpoU1cwbGx5eUJfOVJ5dlBNMnpXcUFhakljVE01R1nSAfYBQVVfeXFMT3pacnp3dmVBWEZnYkRJc2JadDhjcG5hT1Y3eUo4SjVJdlVfN2V6Vk1VdDl3TDVrdTNvaHdzckZNM3lWcDRVbWd1T2NQNzRqbFpxYkpjX1NxZGVxazgwVElUcEJ1emRPcmpyalg4VWRuNjZCdWhlN0JKcG9rTFBlUlFRQnRCOHhFZmJ2eFMxaXlqUnRGakNrS0JiWjdOZUJWa3dSbVBUUkwwY3Vtb0NBY0NDa3BXT0wyanZNQTZGTVc4WmZMak9JV0JSTGNNZjBUUm1WWkhsbTRrdnZpQ3o1UkVJbndVRHdjMzh4T2NJT1daaXIyZW1B?oc=5",
+      "date": "2026-08-02T18:28:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "Immediately fill vacant doctor posts at Nahan Medical College: BJP state president Bindal - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTlMWW9lTVRTM0xjZ1dRVVpYbzl6cnRzb0NIaVVtVlNvVE82cUNTY2dlcmNSZnZFTzZ2NHVjV2J1NlRTOVFneFpIQVBZTXBHcWEzWlJLeUNCcm1sSVVTUzJZYVZXM3JFU1hLa01nZlFKVVA0TzlpRDFVR1pPN1FSNUxldnJPaVdDdDhZX3dybjhoUFhCNDFTdEN1SldsNXhSVkRsYXNsWU5CbFFuMXljUjJSRkVaaG1aVUxDQXlwa0tqb0FENFB1VEdsQWTSAdABQVVfeXFMTUZLS0dhbE4yci1nM2IxZ216TEJKaFdKSk16bFVPamV1RlZsUGFzX2JvVVlyNG1vWTdxRGUweWZ3bFpkd1hnRko0ZG5oYmpOTE9jaU40dWJPa0w0Ulc3elhnT241cVZKZEtOVVVhYUxILWhiNmRKNFJQY2dKMXo2WTJXQ2FhZ0tQWjFoaUxOQ2RPNENwdHhxYjZaWngyenRmMmM3TDJ0NUpJcHpuTHo5YUhBSTZLUGZ4MVA5d1NjcFZpc3F2cnFvdC10OG5mNHoxOQ?oc=5",
+      "date": "2026-08-02T15:34:05.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "नाहन मेडिकल कॉलेज में स्वास्थ्य सेवाएं बदहाल, सिटी स्कैन और अल्ट्रासाउंड जैसी आवश्यक सुविधाएं ठप : डॉ. राजीव बिंदल - dainiksaveratimes.com",
+      "source": "dainiksaveratimes.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWlJvTUtKbW1oVTUtODREN2d1T2g1T09EeFZfbV9jb2wtZ09GU1ZneFA5UVlYVTR3UkdXWUhPWkkxVVFpbjNEaVlqSDAzQkNBekdwdmo3ajEtZmdjRVFjTVpha0dDMEJyODJtbk9pU285UHNoSmFxbVBMb1lxUlZqcldDWjh4NF9PaDhfQXF0MWxYaGxJbDJKR3pvMUR0Y2o0S1p0RmdvMzJHRlBEcFc2VzJCZ0o4eVBwYWx2SNIBvAFBVV95cUxQWlJvTUtKbW1oVTUtODREN2d1T2g1T09EeFZfbV9jb2wtZ09GU1ZneFA5UVlYVTR3UkdXWUhPWkkxVVFpbjNEaVlqSDAzQkNBekdwdmo3ajEtZmdjRVFjTVpha0dDMEJyODJtbk9pU285UHNoSmFxbVBMb1lxUlZqcldDWjh4NF9PaDhfQXF0MWxYaGxJbDJKR3pvMUR0Y2o0S1p0RmdvMzJHRlBEcFc2VzJCZ0o4eVBwYWx2SA?oc=5",
+      "date": "2026-08-02T14:40:26.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "Sirmaur News: नाहन मेडिकल कॉलेज में सीटी स्कैन, अल्ट्रासाउंड और ऑपरेशन सेवाएं ठप, भाजपा का सरकार पर हमला - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd05NbUdzRFBiUEgxWHZOamRydm53SVFsMWV6VjBPZHExT1JwTTlKMXJ1NjIzMEZEVGR0YkJINW9ZWExZdVNaQVhUa3BtSFI0M21rZ1lXcGtNaUlkZ0NyMUlqbEpZNVVWdGdfUFRCZkZYTHpvWmd6aHNabC1BTFh6MDFZY2ItWFdsdV9ldGdBTzJCNzdCTm82MDdsczh2bnlkOUUyeW96YTN2NUtIamZTYWhXUG5PWlhjSVo4QnlTUGFLdmszU2stOUpDdTgyNEVVaEZKMXZqdVJaZWPSAeABQVVfeXFMTTk1b1V2RVY0S1NCMkJXU3V2N09hbVphOTF3OEJMa3VwMzRnVzFzY3VCOXFueklUb19XY2JCS1hwSmRXdXNEbDM4eDJHRTlmT3AtQkRTTDZ0clMwNXdJY2pFNUhBclVCMW82am8xbm1QeUZ2MnZ1aS1iQktoWjd6OUZ5a285OHdNcXA4eC1yX1BSTEpDYTJzd01oZGpkanpDalpCN1oyZ0ZNT0ZQS3BwZXA3bURweE1WbGtxNkFnbEVpY1ZSWDR5dk50MHdlcWtBOXoyNllnbmdmYW1zOG9LZGQ?oc=5",
+      "date": "2026-08-02T12:01:38.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "नाहन मेडिकल कॉलेज बदहाली की कगार पर, जन आंदोलन छेड़ेगी भाजपा : डॉ. राजीव बिंदल - Himachal Now News",
+      "source": "Himachal Now News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2NxeWZJbFZTTnV1TV9ISkEzemhCUkFCMFNjbkJIa01YT0lLRGRLT1ZpV0ozenJXcGZPNUJCWC1OVnVFZWdlODFNdUlzZTVzNFl4YjJaamRkelVNYUVDa2xEZjN5el84SENQRHFfMEpBQU9hWVJLNzVOM2VjZFFYMVVrbmlSZDNjaDdaQ3duczJSRWczdE9rTUVVOC1ZQ0dHN3hOUkZn?oc=5",
+      "date": "2026-08-02T11:58:54.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "Sirmour News: ताले में बंद मेडिकल कॉलेज का रेडियोलॉजी विभाग, अल्ट्रासाउंड और सीटी स्कैन सेवाएं ठप - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZGN4bVc2emNCZ0s5a1Jwc3lPdTVqcWFQbG1yRFFOakJGNWRsOHZ1OTdabmFUQ3Q3RWx0UTBzc3liZlRoTE1CUk9JTWdkajRXNndPXzFLUjRPVndRZlVKZkNONWlCSXVibnlqUTRRN29ub0xnZ0lXWUhoamxkS3VVaVBWMm9nbnFFcTB0UmtnUk5NOVRmbEE0eDhCUjlaSzhKaWVlbmRUQ2cta3d5YWhoYUVBYXAzN0FEaWszdG9FU29KRVJhdFZsc3Ayd0NXRXh2b2xLWE52VVZEVkZFVmVz0gHkAUFVX3lxTE5VTlFNN2s5Q0FQbncxbG1ONVczcEVZUXZtX2NXalAwSzJGWW1ocnNmbWVHTE1rbXhqN3dFTXI3RUtobVZGbjNkS1oyTEN3LWdQNUt3VG5ueGQtcTUwaWNxMXlCR2wtZDBBQUdUVktBMWUyUGk2VHhxLTNtdGFXZ0dueVU1UE9OZHBISlI5NkEySGtVTDlPWW1ycHpJZkZqc3RYQ21PR0hTcmo1MnJqc3l1OEdvSnlhWWhPaFFhQzVLQXpCR2ZaQmpXRDJ0MHVEZG5DWEUyeWVaQnpwdjRyeGo1ZEFSdg?oc=5",
+      "date": "2026-08-01T18:28:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "Himachal: Father dies, son injured in road accident near Nahan - ThePrint",
+      "source": "ThePrint",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDF5ZXMya0tJVUZaX2ZyVXRCcVE4WGFBbXUzQVpqbHRidVl0Y3Z0MEt0MzlMUkRHcGxNWUtmR2hBVWwxa2Nzc0RZQ0VFbTNjSkNtcEFycll1R0FGSWNNTF8wUFBBNHBhaGJZSS11VHQ3VHRKOE1TQWFZbFJtSnhRU29pS2NjQ3BfbG9QRHNzTTV4LXJXM3pkeE9Ja9IBoAFBVV95cUxQRVEtRFNIcWFzSjhKeUFZMlphNkZFY1VYQk1IZ0l3MzYzUTc2MTQtWEhjbi1UZzQ4MFRNZ0dxQVV1VWsxcmtabHIyOE51VHlSc1ptOXNvakI4UUVlUFVBdDlPY3doTWd2TXNjdHdEWFBiT1BsVWtNVDZzZHJYM1pwV29mUGFzejhCMmRFNEQxT2hXTGYyLVRpUzBKa3Q1eElf?oc=5",
+      "date": "2026-08-01T12:50:57.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "नाहन मेडिकल कॉलेज में अल्ट्रासाउंड व एक्सरे बंद, रेडियोलॉजी विभाग पर लगा ताला; एकमात्र डॉक्टर रिटायर - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNTdPYkRHYXpWSXRkNlRmTnB0N0RsWGh5MGxselIycmtOUk82V0hjRm9jTUxwc3NQR0FIcTA2cm5JUnBRVUZsaUFnZnh2dDFuMzFicU02eDdUX19DYlkzVnB4LWwxVUc1ZG1hUWMtVEtGTjFrdC1PZnR6dW5HLXQta1ByMzRLcFJCeFlFOXNPSXpWSXZsSzZaTGFCazJWbXVaOXpDcE1IN0kxT3Zsa04xU1BtRURPNVdPbkx5Umxn?oc=5",
+      "date": "2026-08-01T11:42:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "सिरमौर में दर्दनाक हादसा: इलाज के लिए नाहन आ रहे पिता की मौत, बेटा गंभीर रूप से घायल - Himachal Abhi Abhi",
+      "source": "Himachal Abhi Abhi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaEFyLUg1Ui0wMXZfOWhoNWhoRjg5emFMSVZMV1UwTlcybURDQnBESlBiZDdyQldORTRSUVFwLXYtbk8yQWVCTE56SklmMllMSWFuMkJGdVJ1N2ExXzZmS1hYc29sMmNLSEdCSEVrS0Y1UTJRUE8ySjhpWHhsYTNFbC12YjhsWnVGVnczdUJXUTZxbGY0ZThSV2oyNThITk9mcHd2a3kzQnk4YllVdC1mWXhYaU5yS3NlOExaZmxyNE8wUTQzQ0NZU1A5cENmeTVo?oc=5",
+      "date": "2026-08-01T11:19:31.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "मेडिकल कॉलेज नाहन का रेडियोलॉजी विभाग विशेषज्ञ चिकित्सकों से खाली, सभी स्वीकृत पद हुए रिक्त - Himachal Now News",
+      "source": "Himachal Now News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFZXUFNVWjBWLXcxM3h4Y2dQb0FKY2d6ZGwzVHVCNGw1NnpaNDRlQW5NSkVyblVtM3N1UnNZYUI5cWVBZlhXSzBQaDY3Q1h1NldtTzdkMHJPWWxMaHJHczFkR2o3RGljVDY1WnVOekxOQnB6ZEhEUnM0ZHRKZThqSVV6NXZiTm1nRzdzOEFsT3NNS0xsLTV3MWdZS0VyTUJhdGZkYjBJNXZaelk?oc=5",
+      "date": "2026-07-31T11:30:05.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
     {
       "title": "पिता देव आनंद की तरह क्यों नहीं चमक पाया सुनील आनंद का करियर? इन 4 फिल्मों के बाद छोड़ दी इंडस्ट्री - InKhabar",
       "source": "InKhabar",
@@ -60,16 +170,6 @@
       "match": "Nahan GMC"
     },
     {
-      "title": "Exclusive: 'सोशल एमरजेंसी' में मानवता : नाहन मेडिकल कॉलेज की प्राचार्य डॉ. ढिल्लों की संवेदनशील कार्यशैली… - MBM NEWS",
-      "source": "MBM NEWS",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPOWJfS2wxMm5BU2pudUZmSDJKUzZ0b0ZMNE1NYVpfRWZZelJLd0dKZkR0TExqZXl1Wnk3Q0N5c1Y0ZHRreTBoVXhFT1ViYUkxMkpqVXR2eFlzZTFsdGY1b1ZKOV9ydEFGVlMwMjJjM3prc1Z6WHk4QmJCRVRVTWlqX2Q5T1BHNk85bnM4ZURfdlRvZmpnR2xKWmo5d1BJY0c4cnFzX0JyVkg3dHlPQ3AxcWFGSExMc1BOVkxVSzJPdGRYLXZ6NGFsV2hvZ09JelVETHB1NGwxR1RPT05BbW9USm5kNlE2UHlJNmJqNzFmMDdLUDd0Y1ZYTEJkcktyU2ZGZGpsdmVuV2V4MEVyNGhkNGZqR0IyTTRhNWdFQktWVzlnUHY2TEJIaVR0UFRLN2k5ckxUeF9VOHlCbUdEdmFTTktrdlZwdHNDQU9IbzlkejVUNUxmTkE?oc=5",
-      "date": "2026-07-13T15:14:54.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
       "title": "Video: डेंगू से बचाव के लिए नाहन में मेडिकल कॉलेज के डॉक्टरों ने किया जागरूक - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -78,6 +178,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Sirmaur medical college"
+    },
+    {
+      "title": "MP में बदल गई डीआरपी नीति, अब भोपाल से नहीं, मेडिकल कॉलेज के डीन तय करेंगे डॉक्टरों की पोस्टिंग - Nai Dunia",
+      "source": "Nai Dunia",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM1h1MmF3OWxfYmZ4dHo1X3hDRTdKa2xROW5yODl3TDhJX19kQi1pTVFNcGN2d09EZmdCQjZfMVdwaDV5UjN3dTkyWm5HRWozLWF2dERmdDN6VmE5NTZNSm9SUTFLa3l0R3EzZzNRaUlxV0VWN2xxYUc5eWZBTHF3M1I3YTVSQnhDZmxYZnNObWpzS2ZYQVNHNjlWRFhZSHpHRW9ZTEQyWnd6OXlMVUtvSmdJeDAtM2JCdFRsQmw2cG1nbm9pclVXbV9jWUVPeW5VRHRPZGhNWWZ4QzZ6?oc=5",
+      "date": "2026-07-05T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
     },
     {
       "title": "Sirmour: डॉक्टर्स डे पर नाहन मेडिकल कॉलेज के चिकित्सक सम्मानित, इन्नरव्हील क्लब ने जताया आभार - Amar Ujala",
@@ -95,116 +205,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRl91V0NHMHh3NGRfSUZNSnBDRkJVSGxBcmRoNmx3WEdFYUwyOEZXSG92Y2o0Rnl1Y3I2YXF6V2Ftd0VrZjJPZXpsVDZtQklTRUh1T2YyMTRvU3N4eXU3R083clc3blRYRkd5Vlc3UXBDV3NfRVRuNmxtMWZpOFJrRXg1RFJSU2pwZ1BZaHhLR0FkeFdQdUpKRmwxZnlCMTVyVnZIMFhTM2pDZlc4NW1SUVVkSHR3R3JFT1kwemswWG5fdnd6bkNXLTNCZV91cG9TRHYwLWEwRdIB3AFBVV95cUxObWpkZ3ZvRWVxREExcEZpQ2N5QzAycGt5ekFHbkhBY08wR1lwWERiNXBGS3BEQm9nSkNWbnp3OGV1XzhuUnBLdl8zRHhkcDhyZ0xraXRaVm92M19WUGQ5dHgzVVFXY3lYV1VNTG9zNk9QOVpoNDd0TDMyRXFLTFhUMkp0cnltdkZrd3J0Z3paRV9rNkRlNm5YSGNaeEs0VTBTYTVfNjRpZkU0WkRSN2Vxckp3a29kaG9WN182ZnlaaGZWR0tYOXJYWUlscGt3alhuZFFwUjQyUVRhdk9H?oc=5",
       "date": "2026-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "गुरुग्राम में सेक्टर-85 की ओरिस एस्टर सोसाइटी की दीवार ढही, 35 पेड़ गिरे - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX1lPaURsMklMY1ljSDNRdkxnM1E2d1JnckNENHZNRm9hNGdVQ0wzbWZ4WlJOd1RTUUtoT3NEZXBjbjRvYUNIYnZvR3dNeUMya3FHNkRidXNVdm9NeDZGZjM3a1U2YWQyNHVBQlRNbk9sVDNvdGdtZWJhYk1Ga2ZHcDNCVlpqd2JHMmgwVkZfVXFTam52Yk5XbDZjSkJNNk9mMGM3SHE0ZkxnVnBjQmxXWWpfQmtpbmdDVWh3OVRUbk5XUU9oQ2VEVXJueDkza0J1NE92cmxJZTFuLWR00gHiAUFVX3lxTE4yNWFFVVRFY0IxTThBMGNoN2Q5RjdibVIzVXUwVGl3ZU1sYWwybUswRTQwSnBZVENMbG04WDc3aUpDRkhWMDktYzdZaHQ5X2NMaXZvbVFSMEk1SE5jMFpaVWpGakJwWDhYTUFPZE4zdnQ3ZzNkdVFVREc5R2Y3dnpvRVprSEhrdXB4MXEwTzNnZWdSY2VXUjBSNTRuSjd1N0lnNEQ2Tll1QThOTjRNNVdtWFdSaG45aHFBSzBNOVRFdVpnN3ZQMDNEYjJkbmUzYWQyb0tBQ084aWRUTXNwUUluWFE?oc=5",
-      "date": "2026-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "MP Politics: Seoni में CM Mohan Yadav के दौरे से पहले Protest , Keolari MLA Rajneesh Singh गिरफ्तार - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHpsYlVWNXNoNzgzNk1NUHJHREhuRGFVcjRVSnVnckpkYVgxcFgtdXhTS3FjRkVzemJoSnRKVFVTQkgtY0lpMEdEeVQ4SkQzaTBaZ0JwWmxDeGFybEFET2g1TjAwWHhTbmJNUlVSR1NHUFotTk8yZjh3ZWYycThpZnFMS2p1SGkzQkJBWmJXSWkxWmpQa0pQblRqYXpmNVdac3dLTXllZU8tRmM1SXJGZFZfaHhQY1lKdUZCX1hDVU85NkpRalZxNjNKc2pLSXhudkVYUENVOW1TcVBoS3h6LWFvMmtEc0pXS2fSAe8BQVVfeXFMTmRGcDhCNl9aQl9mRFJPcjVyMzcyREQxWGJTNi1tZm90Wmg4dk1MdmR3cDNoUnV3Z01WbUV1TmpyeVAzaEhLdndDOU96OE1CenlWSDB2eFppMUdpbElielRPVzVCb1kyR1pUdHdlUWlqZ2s5cWtvaTNrLS1lSlRPN3ZyMzdkMnh6OFV1OFFNN3NQT3ZKTmtDdG9xdGFDTDU1QjhzaDd6b0RCdk5xUVloNFNvd0ZQRDJDQkpEMHNMVVFPSEo1ZHRCMURKcThpaHA3TVViR19fLTQxU0Nub0ppTkJLd01BcWV6enJxeVQ1bkk?oc=5",
-      "date": "2026-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "सरकार जनता के द्वार : पेयजल, मिनी आंगनबाड़ी से जुड़ी रखी समस्याएं - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOVVERkxoVU5pandNdmhnRkh3QXAxb2JMTmFwLVo5bXZsNldkX0ZjbmtEVzRtN1JacWhzZ1R1bnZucEl5Vmk2NkxEb2JfY3o1MU8zZ3RPZUMxc2gzV1o0NFlUVGkwUWNHVkpSN2hyZzV0UDg2N0ZIMHBPSHpZVEpqRFVITVU4OHdwZENNeW4wQWZxSjVvSlRtMkEwQ3FaMWkydWJPVlRTUm1oRktsdDR5ZXdJZlYzVTI2WHZtM0k4VDZGU2I3emFFak5VVzZENFhJWWdJc3d3VEFXNy1wSVNpTkFSdlItUlRXWFFXSUYxd0Ita3hVeUQzSkFnV0vSAYICQVVfeXFMUHFreTk5dDRDdmtmQkFOVHFCWTBHRC1kVEdhTFhrRlpPTkZqUloyblZBXzEwSWF3ODdLbHFNblh3cEFUSTdheEZxY1QzaWRNdlBiMXc3MjB2a1huWVZSbk5QTXdKTDRCY1N0SldGdkp3RTZJczhaTFJ0U1ZSUW5kU1Zic25IQTNVTDBqODFCTWpNVHhubk5QT0l2aExNMFRNR0s0NW40MHAzTV9kS3ZoVFNUYnRzNzVab3F0N1NDSjNyV3pNU3liVTQyR1ZWc2hJU3ZWQ0pmRlZzcVJiNmdmNjAxZnBURlRCMXRKeDRncmNhT2V0Y0Y5dVM2Mkt3czhGQktn?oc=5",
-      "date": "2026-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "एंबुलेंस में गर्भवती की मौत पर यूकेडी का प्रदर्शन - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOemFtcl9tUXYyZ3AxSTVmTUZHM0RHNld1NkZzNnVESEJRaEp2Y1c3TFZyeFFtRk9FU1hLNEhCcDd6ZDlXLUU1cFRadjlfNlJzc2dua0ZJS2VpeWNrck9TMVJGdDJyNDFMbGU5R1VZYWplRjhxZkoyQXByUHpIUjloUjdSUWNManR3SU1WaU9qUUNaQU0weXZFTzFycUJ2anBtRmw3RVk3ZU5IM041QVZ5NDM2NGF3blpqWmV3VGF30gHDAUFVX3lxTE5ZMVI0UGNTVnZzYkNYcmg3VGx1RzdfQ3ZsSE12ZE9vMTJIQ0RuTlh3alA3TlJqNDh2WHpMbDlvWm5zTF9FelBUeEttRTNTX3dDbll2T29EUTVKQVRTeE1IMU9NcU9JNlY3YzB2cnU2cFhld2NPQVNSbERyOENsLWN4eFdpOGFBMlRRRXNTSE80Q0haeE55NEtCaXd6c0p5c29ZSGtBT05Kd240Rk9jWXpUdFllRTZ6MEtjSVdjczZ0dEMxRQ?oc=5",
-      "date": "2026-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "कसौली: गोयला पंचायत का लाखों का पटवार कार्यालय बारिश से बना दलदल - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUl91dHU5WWdEcDdtamRsR0x0U2hYS3NfU1MtRkR1Q0pIOTlyemR2WVlVcFpRanlzcGVFMWxHaHhVOWFRYXdNQTViaDBYdXRMdVFkVnpiUXdiZ1NiRHJPQUZiLWVPcGxBbkNmcThxTU5iaHZ4VklWdDdOOVVwZUJlTzdGVDZuV29Gb3hRSmJXZHNvZ1BhUG1jRVRPeDZGZlhQZThmSnNiR3l0eWdVcGJ3LW84UURnRGVZTTExQUp2ZWJJc0dhdzlDQTFVS1pGY21HcXgzVW1GR0RpaUpkTktsclBCSjB6MmxFMnM5b9IB8gFBVV95cUxOaGh1aVJZeVdVLXZkenF3alJWNWVTX3NlVHZENTVWdzhBNGZ0N09xRzNRRlhWZE90ZjNKWUlSWEN3T1pUS0JDaGtYV3NRN2ZhZFZmTVA5UlJwZnNqUkpqUk1XVDZOR2p4YzNFM2VwM1Z2b3NJYkFjblU2VTd6WElVWHdjTVdVM3dJNFNCM21nT3BRMjR5NmZWRWN3Z19senZwVU44cnpBclBLMFZ5MTRpODE2OE5YZFVpcmtaLUtSUTlfLVRHV2xCUmNHUkxySU83MUk1aDQ3NFpJNi1MYWd2M2RyUm84ZzcxTVZKcVAxX3ZFUQ?oc=5",
-      "date": "2026-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "फरीदाबाद में आईटीआई में आवेदन की अंतिम तारीख संपन्न हुई - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmMxRWFZams0Tm1jY1dQRU9kVVZTTzFBMWxwdk5xcW96MHl6akwyclEzWEpITEl5Vmg0VzNjSlk4LUMwb1A0SGpPUUdZWldIV1NHOVFTRHZVT0htbk96WDVkbXhWRnRIVXZmTDNYUnNwUGotb0dXVjZHN1dMVU1WLUJyWmpxNXZUWFQwMXRNUXRTemlFN3BkcjlONExOTGNxZmdScmNLR20xTnZ4LXpTM1RTR0k2Q0nSAbwBQVVfeXFMUHVpSkNleUVDcm9kSy1PdG9ONWstaTV3ZTV5MmtlZFZJOTlMbkxjTkFjWmxuamdOWUFpQlFTTnFvTGhkcE1QdFZxZ3d6cW9Wd0RaWXZNMFMwYUFRTWlDMklkZXI2SmdhZjNyOVhyci1DY0tkYzN3cUlzdjlwNzdmay1JR3VJcDItVkpQVWJsZVl3QkhyeHU3NEY4LWZYelpTc3ZVUXdDcWZMeHFWU1ZldXk3RmFkZVYzb21yclM?oc=5",
-      "date": "2026-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "Sirmour: नाहन मेडिकल कॉलेज में मरीजों की भारी भीड़, मेडिसिन और गायनी ओपीडी में लंबी कतारें - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMUZYcWtVMGlhdE5CVV9Cakp5NTJrQzViTVRTT1FDOEUwNExHMjJ6TFY0cGR1emlsVS13VUJyZHdtYkRNakR3T1JSaHdUVzdDQW03LU80clNnekU3aVRLNGR1Ym5UdV82SFhFMTdveW5va0NOcDIya0VVTWdZWUE2M1lqanRVMkhnQkt4TjM0anVPVnd5WjZEbUUycVBmMVJScGlHbXlSRzF4U3g1blJWanRaV1dVWnVQRTVHQ1c5WGlwNWsxMkgyd2hDY3BOYjhG0gHWAUFVX3lxTE1jQU5pb2d2cmNIYTY2c0ZMSUVhWmpsMXI5dFZGY19EZmFjb054a0dDMGMxZjZaNFhpN3FobnVrTGlxY0tMMkNoNnN4dVdVbXdrekVka3lUcGh1SVNXcnRXUnl2RjNNVEFPTUV3ZVNqUERrZ0ZsWUlLZ3BJVW50R21RRkZKUGhQRXNiTmxva01Ja3BTdTc1WExHMENDTTZTSGIzVHQwaHROZWRoRXlvNERZZmFnSm45OTVfdGR6QUd6U3JzcFY0cTVYa0p6TnpWY1MtTnNHSkE?oc=5",
-      "date": "2026-06-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "जिगर कॉलोनी में फटी पानी की पाइपलाइन - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFZuU1FsZ0JsQk5MWUlPUE90azZ6di01a1lBZFhOci11enFuTV96QWh2ZDM4VklrLUdTZkxDcU5xX1dHaElmOHlURTV0VE5NenNjLWR1VjdLQ3dOWkE2c2E3N2JmUFl6S1p0V0dJOXFocjNISTFmbGVTVVdlb2NyOGM3UGpJNzlaUkdRNmhubFNqN2RiX2ZtTkV4dGp2dkU2SWc3RE1EWHZOb1hrV3lJ0gG0AUFVX3lxTE9qVnl0Q0VRaEVqVWRncDY3YU56WUNtUk1pN21HZ1NHa19lZmVfdFV6RVh6d2JQcTN3TzZVajhxQjJSRU1rc2dMOXJIRkNPaTZ5dG9fek9sOFJQUFNoZG9haVpMNzBrMmttSlU0QjEwVzVYQ1VZUEpXcVFNWU1nZDg5OGdTYzhnc2RfQ0xJcVFnTjBlOUktOElWYVF5Zlp5ZGw0cnJWMUhfVG95b2ZnLWt2MWZ5Rw?oc=5",
-      "date": "2026-06-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "Gold Jewellery Cleaning: सुनार भी रह जाएगा दंग! घर की इस 1 सस्ती चीज से 1 मिनट में नए जैसे चमक उठेंगे - ABP News",
-      "source": "ABP News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXNGRG5LQkktd2RpVEhLSzdQT2J2WHBJQ0NpZWFXSFFtMk9qcmRkckdUU0ZHajRVM1EtQU5XSno5VDNmMXhsZG5YQlVJRmVpd2p6S19uV1Z0dXVfZTVaRnhWOHBsTDg1SllOdE8xVmlpbkFDTEJodFBiN016UTdBbkpJZGdFcFp2VFpBRUhUSlRuSmpJLXRmSkVVNHB0Z1U5RGpsWS05VVlLdlhNZF9Nby16N1ZOemd3VlJFd3dwYzBkOU4zZDA4UXJCOTczbVHSAdQBQVVfeXFMUHJJNWRHeHU2clF0OUN3NE42OGJGTVRMUjNkbW5qclp4Nnl5MFdkcGFQZGVGeUJiVTBFRFZiT3pxMm4zMHM4S0toaUlFdV94LTRvX3B3MTRBRjRDSDNvUTF5OUV1b2hjR1prM1JWSmp5YWFUOVVPT19JYThxSUdhYVNobDk2VFk2ZlVzU0QxamZGV1dERmJmVFEySHR4S1A1TDh3SVJPa241dmpHeG1ycjZSQUpkeWNLU0QwYTdFSUg1RV9vSlRpcE9JVG5vUlA4c3loc0I?oc=5",
-      "date": "2026-06-28T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan GMC"
-    },
-    {
-      "title": "सिरमौर: नाहन मेडिकल कॉलेज में पीएमआर विशेषज्ञ डॉ. चाहत बंसल ने संभाली जिम्मेदारी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcXR5dWZudVYzX3NhYkhyWlVNUE9TeG56MEVzSkx2S1hpeTEya1UxbDNTVnJfNWNmdkszSkFjSVpmNnhDRFNnNGZLOUJ6V3hmNXJrdUQ2bjNPZWNCTk9ibkRNV2lTTmRPRXYxREprRElJX0g2RER0NkZrR3ZRaFNXdkw2LWpVbVJmMUZ6UXM4Zy1zOEpCOGZvXzhWYng0UnlLYzBMMTZIaEE4Qk5vVXJ1Z2lNa0NTSDJWNGxaZmxYLURlTDJqcHVFQ2M0dEhmOHV4blVGMm44QkNhYmplOGU4NWpSRjJjd9IB6wFBVV95cUxPVnB0NXc3N3I2eEtGd1o3LUFaWmxFbDBPRUswSVpTZ0x5NExJZVZLQzBzc29YZU1yWm01d3JqX2dwanNleFVwTHdSTVZRREtPTk50eGVSTFh2YWVYUUh3T2l1UzBFR2ZvUl81aC16cjQ2ZF9ONUEzVjg0TzNqZVRqWmVfd3F1Z01Td2FJMjkzSFYtTzV2QnVOb3p1Y2gxQ1lZRmJQNkx3aTFzV3hZYXR6UHdXNzI0TGZ2cWVyOGRtWHJPUlhnRWhMbXF5LWlCZ0kyVjFoZjlLcjA4dERRRXdvczNrUC1VNXFCbFdR?oc=5",
-      "date": "2026-06-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "नाहन में स्कॉर्पियो की टक्कर ने छीना बचपन, मासूम आर्यन की मौत से शहर गमगीन - MBM NEWS",
-      "source": "MBM NEWS",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNdElzVDJiZ1Y0OEtvSXFlTkg2X1dHYU53Ql9KeVdEQ0UySTVsa25Ca2JRTjJqUFdrLTJtZEtjd0sxM3BOSVVMak1uNDF0SzYxZXpJa1ZCYVJDVTZRMENCc1htZm1vN1FrWEJTVFJ3Q3RaSjRZVVgxZUdyZHZoaGxOVnYtbHZBUmhGbGthNTRucVFnbm13SlFJSHJiS0wzblpLMGRxaDdZX090aFBmcHBkYUlJamQxM0VkZXFyMG1KRFhzbFljU0Zzd0xiQURack9PbzlESW05Z0R5VUJfOHVrYzM2TnAxbnRnOHNOQWZpTU1DclBBRE9iSFc3NE1md29BR0t3akpWOFV1RjFLNlhqY3R3elZ4QThoQ1hmbWpyOFFKWkJoMTNNTGdDcWdDV0NLaVA4cjU2MGdKa0xZa2lkRTJfWFA0WHVJa1lNLUNQNjZFQjZOVkNIa1VVUE5CT0t1SlE?oc=5",
-      "date": "2026-05-29T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Nahan medical college"

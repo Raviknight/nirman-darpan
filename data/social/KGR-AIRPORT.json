@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-07-30T20:11:37.853Z",
+  "updated_at": "2026-08-03T20:20:52.488Z",
   "project_id": "KGR-AIRPORT",
   "counts": {
-    "press": 60,
+    "press": 56,
     "gov": 0,
-    "en": 46,
-    "hi": 14,
-    "total": 60
+    "en": 43,
+    "hi": 13,
+    "total": 56
   },
   "mentions": [
+    {
+      "title": "गगल एयरपोर्ट विस्तार : प्रभावितों को अगले सप्ताह मिलेंगे 24 करोड़ रुपये - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelRvSTM4eFkwUXdSY1VqTDhBTHo3V3lkNGdjSnFQNFFqUVpzNzdXbzF6amhKYkltMUNacHNXT2x0Q1NzNWw3WkpVdnVtbnU5WFBkMHhCRjNKVHgtR29xejFpdW0tSmdKUjZxRnV6QnRaNEx3TU9DbkNDemI2UUR6RnhZUXZxMy1UTGFiZG94R3BMdEtrQm8yRkhFZ0tYcm01N0N4TFRjdjAtendoM3JSRXdGd2NFUm4yYU82ZWpBazg3eGhKRWo4ZDhQUDRUUTlXa3NKYk5lWl93SHRDQk5TM2NCSDFGY3pBOW5zb2NkMW5kbzZNZlZzWtIB_gFBVV95cUxPa2IwamJVR1Exb0M4RTFjc1d6eWpwOHZQdm5kV3E4Wk9RTXAyaXhYckhfS0s2a0Ftbmd1b1duWWYyVUhEUXRvQlZtM2lJYUlyWkM0dDhNUjFjc01EZ3BidWNmNlJGenctVkh0V2RhblpWZm4zVmVUaFphUF9iS0tfeFAyNC1fZG9SZTV4d1BRZHljNGk2UzJqenVEQTBwY3lES3FkZWZOYTZsZzVwWUltck9qWlVnNFRZS3IxTGNGU2VaTkRLTzZQV21wZTFGaEFVd3NmdmpmNmZBRTR1TWNnZUhSMnlUQkxnQy1LUHJMTGw4NHBhN3RNMWFfQXNvdw?oc=5",
+      "date": "2026-08-01T03:05:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Gaggal airport expansion"
+    },
     {
       "title": "Three-Wheeler Pickup Drivers Demand Employment or Compensation Amid Gaggal Airport Expansion - The Newz Radar",
       "source": "The Newz Radar",
@@ -24,7 +34,7 @@
       "source": "The Newz Radar",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa0xHRDdHakhHbEJ2d21Pa3Z0OGl2UktybEtlNEhGTURCVjRLUGNXd09CZVZXUXZ0bnpWbVFjVTlTeVRTMVlFZzZNN2Z3QVZKbHNLM0V2OFpiQ052ZWx1bHNDYl9pR0Q5OGg5NkJFZ05lV29KQlBGLXd5MnRwTldCX1doU2dVaklTVUEyNXE2YUw5Y19YQ3l0dUhaQW0ybmlpc3l6Zzk4RUV5c3FoZFhjOXQ4a2Fkc2RmRGwycTYtSTZ1VUdzanBuSXFmSGNEOEJKdmdwUkZRVXFpUkJiV3c?oc=5",
-      "date": "2026-07-22T15:36:18.000Z",
+      "date": "2026-07-22T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Gaggal airport expansion"
@@ -60,21 +70,11 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "गग्गल एयरपोर्ट विस्तार से प्रभावित 113 परिवारों को सरकार देगी 16.76 करोड़ रुपये की सहायता - zeenews.india.com",
-      "source": "zeenews.india.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeUpXREdzSll5TGd6MWg3STZYTERRb1BOZjR3djdna3Z6RDdsTGdXU1ktZnlpR3MyVXlEMjNlX21WMFNoUDFxVXdSaGtpWkZPVEFxMmpmSUlQUHVHbndjNXRFM0lTX085SmhEWEpPb3hvWTFkREpBanlIT3dKYTBWNDVySkJabFM4aFl3YU9XeERjOU9sU2N3WW9jaEZwYXN3R1hONjlCczJUb2NXc1lEaW9uSTJrXzRVUkZlc0ZyLWgzYWJLTmxCWnBBXzhqbVNMd0pGM3VFZjlPcUXSAeABQVVfeXFMT2ZqbFJWN2tkaVpRb3Z0LWowTXA1alI2d0JtQzVUMmhzaGJZY3NnSW9PUE1NT1VJY3VhZFJOR05EMFJoUjJPUkxZOEYxVlhWMzBKUjJyZE5WZUJNUzlWNmcyOXBwNjkyVjlqZUpxUnNmWUtMNlE1OS1uOTdhSm9lNXZUanpCTzF6TmNhTVJTUl9FTkx5MVFGVFIzSmdwTzB4cW0tSXJEd3pIRHlxR3h0MHloVVVxUFZwS0RRY0pQY2I0TnNEdUZPR3NyNFZudHlPT3Q5dU9iTzQ4c0xwUUQtRUw?oc=5",
-      "date": "2026-06-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Gaggal airport expansion"
-    },
-    {
       "title": "The Himachal Pradesh government has cleared financial assistance of Rs 16.76 crore for 113 families running shops and other businesses on government land affected by the expansion of Gaggal Airport in Kangra district. - News Arena India",
       "source": "News Arena India",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjVTaEdRUGgybldINGVFdV9PYUc1Z2ZaY1lnS3hZWnU2RDBJZWlWVjZrbDFoa3RELUV2al95Q1B5Q004YnBMaW5WaDdiWWlWSnhVNVRJNE5seU9qc01ScTdkbVNXaUtoa1I2SGJvc1FsY3FwaGZMd1FJMk5ZTXlZbmNlUk5Nc3BnS2otRXVLOEYzWjBjWlVvc0RJclFfUVE?oc=5",
-      "date": "2026-06-10T12:51:57.000Z",
+      "date": "2026-06-10T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Gaggal airport expansion"
@@ -100,8 +100,8 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "कांगड़ा एयरपोर्ट विस्तार के मुद्दे पर पक्ष-विपक्ष में तीखी नोकझोंक, सीएम सुक्खू ने किया बड़ा ऐलान - Punjab Kesari",
-      "source": "Punjab Kesari",
+      "title": "कांगड़ा एयरपोर्ट विस्तार के मुद्दे पर पक्ष-विपक्ष में तीखी नोकझोंक, सीएम सुक्खू ने किया बड़ा ऐलान - himachal.punjabkesari.in",
+      "source": "himachal.punjabkesari.in",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1NRazUtdmxDRVotSjhtTi0wY09lY3VvMW9OWFp4OFdBX3VZUUFGeHRYNkNqTTVPUDYxbWw1c2Rnc3J2dUFTRHpoQWJRNGE0blB4VV84UlB5TzZOSC1ISU9MVHJqR005VERPVGE2LVZOWV9JZ0o2WlpxSk9KYUlxSVBFMEgtVncwN2dGYXJtUVBhcVZYRmp3d2dKNzFZZnpuZDE5WGJDQXoySldWaWJxczNlczlfVEZ2c1Nya3ZzcEo4N2lXMVZBeXVtcXDSAdQBQVVfeXFMTXByTzRlbDlXcjV4Q294cThmazNCNXZycUZsVzU5bU0zUF9WZ2lMcmVPUFpjUm50dHN1ZnMtdGxpc1JNVFRoRXNhaGpsQ2FydXVZRHhLVWZ5TkpmQkx6emV4Z1dEYVFUVkRLOGMzVmFaRU5VcmRrYldYWFljUjVleVV4SWpSc19ESGNVNkI4bGlXZVkweVpIRzNGaWROTlBsZlc1VmtrZ3B3M29qcTFUMWRPSXFVeE5GZ1RlZXZHUmNtRWlXdmVTaTZ0aW5ZV3d2X0RucGs?oc=5",
       "date": "2026-04-02T07:00:00.000Z",
@@ -130,21 +130,11 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "SIT to probe all shady land deals near airport zones: HP CM Sukhu - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVBvMHYyTkFGcnRVZ0xOaXpQMDJ2OTlIaVZlOTRyTUVIUWdwbDU3ZGNaYk5rZ0RpdW5uS0J2TFI0dU5XOGdrZmFvVmQ0QWF5ZEY4SW1pU2NzWk0zZTVwRnltTl9TcWJnTGdReE9hLWxWNEFHZnJOTTh3dFdhYnNFODdQaVBUZ05MeFJ4dXZLbDJsRHlHd0Z1QUh1aXl4MkpFanRuWmdpT1RqRS1p0gGwAUFVX3lxTE9Tdk1hWmxiaXZqYldDdHhSOHpieHBROFE3Zm0zbWJKb1J4WGkzVFdQN1NlXzZkalpzQ0doenktNlZWS2w0ZWM5RXhtUlBQZG5OaWlzc21XVlg4TkJJekdUaWxKa0JLN0QyUGpLVzZZRXVQcC1KQ0lFazVzdU9DYWtkdVczbmw3RUNFSV9BSDZRWnBXSkhLZl9Sa3hnWWszSG9NeXFDY1dXZTRRaElGRzF1?oc=5",
-      "date": "2026-02-18T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Gaggal airport expansion"
-    },
-    {
-      "title": "गगल एयरपोर्ट विस्तार की मुहिम तेज … इच्छी में बंटेंगे 336 करोड़ - Divya Himachal",
-      "source": "Divya Himachal",
+      "title": "गगल एयरपोर्ट विस्तारीकरण : 10 दिन में पूरा होगा भू-अर्जन का कार्य - Amar Ujala",
+      "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYMW92QjhwUTRYeUM4S3QtRFNDeDhZU1BBblpReElTTS1uWUlYRGJZTllJdHYyR0xOVnRBV3JTOHc0RWV0NXFYMzNqaTVPdXNSWFHSAccBQVVfeXFMTTlTNm41UVVzekVwYTYtOEoxTWExTDc5MzlRMkpVanhJYW1TSThJZDJzNXE4Y0d1NWF2NUs0eFE4aHBuMkpPeFJaLXpnNlZkcHhHdjRTbXRXTXZoYzYtbWU0MlVGdEVwRi00dDdhNldZZU1YWDlNVVhBU2JaYThLaGdMS05xUm9vd2M0SFZxRUg3YzlvQkgwNDcyYzladkpQTWgzUUJhRlQ1RDVzR3ZIeUJmQkJkV2JvZ1hpa1NzakRhbWdsay1iUQ?oc=5",
-      "date": "2026-01-29T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObEtkQ0RpM0VTdnYxTENDY0o1Tm1NRFJYMDVvQ1BsY1FJTkJxNVUydG5lMGVLRzdSdlhyOG0zVEwzbmtucDlFb0dsY2xOeGJ5UVUzbXBKQ0hhazVFR0tGa3NDWmpuRGlZdVIzaUE2Tjk2SjJBSXltNWdQTHc2SDYxVjYyenl2ZHpmM04yYmtpOVVkZTZCeWFYNXlYRHFydWx0cXEwdk9RMTRWWmV2RjBZWUJ3WEQyZUdmWWEtYzlxVThvcDJEckhnalh3TnlBaXZaSXgtTVN6c0k2YUNXbVJZWko4WFJuNlZlSzdQc19CZ2tXUXpoaTVubW5GQWl2UdIBgwJBVV95cUxQdkFLZWRWUHdxd0xuUlNubUtabkVvNTNoMVpnQnJ2Vl84QkJTd3Z3a2lJOVBxV29DSUdFd3QtazFEZnVlREVmNEp1RG5wY2tMZDlSUFRhcHR1SnpnYnJHYmFBbTZpbjFuWlp1N195RWdiUFVmZ1hqdlFvdG1OSW9CR0hycjFMa09nZDVFbTVZSWhPS053dHVzTDJrTmxIckNDc2ZDdHBuRG5zdlluRkJEa1V5VTJST25uYmtvY1FkQjh0bU1CVTU1MGt4NzE3N0ZNOGI1c3FvMGQwal9laUtKcUtWODY3c3ZYN0VqQ3Y4dC1DUUdFT0ZlYVRYaW9JXy1ETE1j?oc=5",
+      "date": "2026-02-20T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Gaggal airport expansion"
@@ -190,7 +180,7 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "Delhi government launches tourism and heritage fellowship to empower youth - ET TravelWorld",
+      "title": "Delhi govt launches Tourism and Heritage Fellowship Programme - ET TravelWorld",
       "source": "ET TravelWorld",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX21RVUtSUVhHQkV2WkwtVmtudU5iYXpOdnJmdmFjRE45Nm5hLVN1OUd3d1drYmZYOE5FamhYbk9WUS16cnduQ2pXUlJVV3VmdVByVXlubDBSRW00eThGVmw2VnZHaTk2NkVXUE0xZ0R0MTN2SWxvWVViOEFiU3N4V3ZYRXM3VmlFbWxHTW1ENy0yR3NuMm9XVzNpMmNMQVlhcXpqSUhyaDNwcFJTNzZRXzFBZFdjXy1RcW5OMUp1cnpnWWkwcktTU1VHc2JRaGVnUEdFVVdER1J1anBRdDZDdHBCS2ROQ0k?oc=5",
@@ -200,14 +190,24 @@
       "match": "Dharamshala airport expansion"
     },
     {
-      "title": "Shimla: एयरपोर्ट विस्तारीकरण को लेकर दूसरा अवार्ड भी तैयार, पैसे की हुई दरकार - Punjab Kesari",
-      "source": "Punjab Kesari",
+      "title": "Shimla: एयरपोर्ट विस्तारीकरण को लेकर दूसरा अवार्ड भी तैयार, पैसे की हुई दरकार - himachal.punjabkesari.in",
+      "source": "himachal.punjabkesari.in",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmpsbnZ3cm9sdVJWTS05UHBhRUtoMUxycmZoQ1BjNmh1TzdMTkVQakw1bWk4Q0pVNjNjbTBwMW9qdE9HdXZJYlhmUkliZzI5NUVqTHZHZ0NYeXMzYzExdi1jeW04YW5qdTVJMEM3WW9xdG5EYkdzdzNVMUp6WGR4Q29HQkRBdWZ4Ml9rWUJxYldPdjQxbnVB0gGfAUFVX3lxTE1ySXgzVk5jNzJEb1NxZjJNU1VtRU1EbjRSeHhNNm80Yk42WmV0b2dfWGZCdS1KNE1VTVdwdHRqR1BFLWpBUUNQRHkzakR3bk1URkN6MEpOcFlYM0hmRnlZZ1h6VENSeDJGclM5NmdweGozOHQ5aFRpWTNvQUpoRE5zYWJUZUdqVnNZTTRZX0RCdjBQMU1NVFZjVk9lZTM4UQ?oc=5",
       "date": "2025-05-04T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala airport expansion"
+    },
+    {
+      "title": "Airport expansion: Rs 298 cr disbursed among landowners - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkNSSE8zTUo5Mnl5dUdzMXB4SGpHdzY0alhrOTl6aERLVVpCTzVzZUJvS2JsdGJ3YnB1TkpEOWItZ2E2dVlYenczTkc3RlZvallVdTlkM0t1UGpaOFZ3djI0Zl9ZS1QwUEZPbXVndlZCOWdnR2twbERFTDRLaktoT0Y1XzQ5SWJ1aVYtWjAxeGVYVGR1TVVxMTZ0MV8xamfSAaMBQVVfeXFMT3p1YjZDTEhhUDRpc0lSV3UyVGVPeTNiZk1KZ19LajR1SEJEam81Ny04MkhoaXpNVVYxeGU3Q09DbDR3MGNQWVNCQVhNSXlwejBtNF9UZnhpZjdlMUE0U2xiLW8ybHdtRlkyck1VRi1WTjBabUZ4bGEwQTBqWUJUWW9lNkR0WHFNaHJienV2NlpUV3ZGckxrUWQ4MWRoR2VZdjdCYw?oc=5",
+      "date": "2025-01-02T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Gaggal airport expansion"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

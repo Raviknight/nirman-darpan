@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-30T20:12:30.746Z",
+  "updated_at": "2026-08-03T20:21:41.021Z",
   "project_id": "PEKHUBELA-SOLAR",
   "counts": {
-    "press": 25,
+    "press": 27,
     "gov": 0,
-    "en": 12,
+    "en": 14,
     "hi": 13,
-    "total": 25
+    "total": 27
   },
   "mentions": [
     {
@@ -24,7 +24,7 @@
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQay1ERkdVY25sb3BkMlJlOUxIXzlFUTJHWDBVa0cwV1U1M3NfUDhJT1JjZTgzR3F4Q2g0cWhzUnRscjBUNFJEN3BMaXNFV1F0VjJZejFNTThrSmJDdnljMGdJVDdJR00xU1NXSFc1V09LWHhfclhTRjdydXJLUWtiMUZBYXRGTkF4c25va3NKUnl3V2VwUVBfLUlyS0ZzeDZsei1RT2RQTktJX1dOLTVIcFlocHVLZnVoUmRPYXIxMlZQZTVBMXRLcmtXTnJIbjhp0gHWAUFVX3lxTE5vREFkU25mMEhoTEdLQ0hHTEhhX05FSWMzSE9oa1JiVVM0YVZhdXFoeFFYV0YwUWh1d3lOdFRWNkF3b3lDVEFmT0ctbnRXdmZZNGE4Y0dxaGVJYnZfQ1JBU095TktXR0ZLc1B2RVRMS1EtQmdoV0x4bzVUSUpVZ25FdDZ6NldTbjlxbWRWMkl5b1JlNEtVeW1BVkNkNlk0RDVRLWo1ZFd2WFB1d0d1a1JBUE40bkNnQ1VsT1pTdTJ6NTRuajJhSi1MT0x5V1dadjlLMTlhUEE?oc=5",
-      "date": "2026-07-29T04:27:42.000Z",
+      "date": "2026-07-29T04:32:04.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "HPPCL solar"
@@ -34,7 +34,7 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWlp5WExfeWpSSzVyNUZhTlI3OUJnc2xqYmFYN0RJQk9OdGxidDQwTlpyUURqT3J6bzhfOXQwREdRc1JmSWUwMGZFWDBicTB6ZE1fbHZlZmd1bGw0S3pORTV4M2lHSE5ubVFoV0Y2MFJpV0d6b3R4ZXpzcEhXUXdmSC1EYndsYTNlQzRJcDdlQ0RmVzljaDBxek9VMW5IRnVVVEMtWnVROTl1aGVJcDRMdnVsb1Z5UmdORmxuZ0NEX1BtNGc4cHhEbEhrY0o1RlMwQ1lEV9IB2gFBVV95cUxNQmZMNjFQMlZpVm45Y3JBbkVVOU4tYUJIUGdGc3ZMRnppeHZwMG04R2FNYVp6ZHRqR2ZnYlBFT1BXdkVUYWpOck5mbUYteXQxOG5hWG4tNEJ0SUxrS05ock8yUkxKSGdISm5oQlNTRHdrbl8wdnFXdDdFdzkzOWdqdE5sTUJxVjd5WXhDd3NXMjJUWWk4ZDYzaTV5X0xPNlV1ZWtFV3g2S3ZwM3lFbnZJcDhZcXU0cTBCZVZMc1Jwd09IYk51d3doVTlXNUFab1NRekpGUjBEQTEyQQ?oc=5",
-      "date": "2026-07-20T19:01:45.000Z",
+      "date": "2026-07-21T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Pekhubela solar"
@@ -70,8 +70,8 @@
       "match": "Pekhubela solar"
     },
     {
-      "title": "Himachal Pradesh Tenders 9 MW Solar Project with 6.3 MWh Battery Storage - mercomindia.com",
-      "source": "mercomindia.com",
+      "title": "Himachal Pradesh Tenders 9 MW Solar Project with 6.3 MWh Battery Storage - Mercomindia.com",
+      "source": "Mercomindia.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmdlTEIxdTg3cVRQMlFMMjQyRm05bnJCUHFFZjNnYUZENl9PSUhfcXRHaldxNFh2V1RfZXFUTUo0R0xrcjZhSnYwMDNDX1VBMVhFNkZuU0wwU1UzTFl6dVVnSFFUbENITFd3Yl9ES0wtVFE5RE9iOXpCU3R2bk9IWlRRa213RjJmM1JjZkNySHVkWTloSlpRai1GdEg?oc=5",
       "date": "2026-05-05T07:00:00.000Z",
@@ -80,8 +80,8 @@
       "match": "HPPCL solar"
     },
     {
-      "title": "Himachal Pradesh Tenders 6 MW Solar, 4.2 MWh Battery Storage Project - mercomindia.com",
-      "source": "mercomindia.com",
+      "title": "Himachal Pradesh Tenders 6 MW Solar, 4.2 MWh Battery Storage Project - Mercomindia.com",
+      "source": "Mercomindia.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNEZfNUZCaWNwRF9OY0JXYWtMUXVIZWJWcEdBNUVEWGRjUVM0MHllS1VxZzhCdmhwWEI1MXNRT2oxRVdyLWNQa3RkaFU2V0oyeG9tVDQ0S0NLMTRJbDJWQnNWcmM0MkRwUENOaWxZYWxwSFVmWGI5LXhrVW1fVGNnSk1CVDg2dTBqN3k4TjdpOHRvcjRSdFE?oc=5",
       "date": "2026-04-17T07:00:00.000Z",
@@ -110,8 +110,8 @@
       "match": "Pekhubela solar"
     },
     {
-      "title": "Pekhubela Solar Project: CM Sukhu says Rs 50 crore forfeited of private company - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Pekhubela Solar Project: CM Sukhu says Rs 50 crore forfeited of private company - indianexpress.com",
+      "source": "indianexpress.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNG5ZN2Y5N3Z3YkhFc2U5V21rN0lJdXFoeUNTMkVyYnhXR3NYLWxNbUYteHR2bllWMXBqQXEwNUwtZ056aHl2VUtyV1ZzMEJjZ0ZMVDlNZzM0TFdwd1BXMjVZRVJHZWVOOU5ta1ZERHVYZ2IyZWJHbl95aE10QjQ4VjdVS1laVFVFZzFpZ1l2ak1qaVJrTjZYSnIydUtWc0xuOHU5bC1YT1k3LXg1Y0xQZF9Jd09NVUJLTmZKRVRLWUtlS1IyUUpn0gHOAUFVX3lxTE1Wd2dsZGJQVEZoeVJzX2VCbk9xaTZ5OE5McExiN0ZqRlNSMW02enJ3ZnVZWHBLUnFNZmNDSi0yM3BBS1Z0N0FMYndWVExzR3BjMWsxazVXQTE0U0o4M3Fkb2EydzM4OHozdkxoaDhIWU1hVFM1WENZeVRyZ1I0Qmx1TmtQRFFGUHJWMmlaN3ZZSTFTeHg1a2hlcHNDZXZid242SnhxWUJLZUlMdXozWnVFY0Q0a2JvNy03WFQwM2FnZ2xsSVpfcEZXWXFmZlF3?oc=5",
       "date": "2025-08-25T07:00:00.000Z",
@@ -200,8 +200,8 @@
       "match": "Una solar park"
     },
     {
-      "title": "Projects to generate 47 MW solar power in Una, Himachal Pradesh - Projects Today",
-      "source": "Projects Today",
+      "title": "Projects to generate 47 MW solar power in Una, Himachal Pradesh - projectstoday.ai",
+      "source": "projectstoday.ai",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTF9jV0ZoRm9uWGxDQUdta3VIM2E0OVVjV3I0bDB1ZnZHT3BTWjZHbXhuNkhhc3FzYTJBSmZVTmlsZ1A5QVhUdDR3MGVnWVRwVXZFM0hwcDFxN1dKaThuXzVQcDdhOW1KcUpUM2V0RzNHeDdRZGZpbkhuT0RuVnpwS1B2dGhMeTNjWDNMakpXLWkzQ2U4MXc0?oc=5",
       "date": "2024-07-12T07:00:00.000Z",

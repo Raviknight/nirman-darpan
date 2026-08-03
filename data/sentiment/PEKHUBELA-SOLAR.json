@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T20:13:13.443Z",
+  "updated_at": "2026-08-03T20:22:28.662Z",
   "project_id": "PEKHUBELA-SOLAR",
   "press": {
     "n": 20,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.295
   },
   "youtube": {
-    "n": 4,
-    "positive": 4,
+    "n": 5,
+    "positive": 5,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0.4,
-    "avg_magnitude": 0.4
+    "avg_score": 0.5,
+    "avg_magnitude": 0.5
   },
   "overall": {
-    "n": 24,
-    "positive": 15,
+    "n": 25,
+    "positive": 16,
     "neutral": 7,
     "concern": 2,
-    "avg_score": 0.196,
-    "avg_magnitude": 0.313
+    "avg_score": 0.224,
+    "avg_magnitude": 0.336
   },
   "top_positive": [
     {
@@ -32,16 +32,15 @@
       "score": 0.9
     },
     {
+      "source": "youtube",
+      "title": "Thanks great content.",
+      "score": 0.9
+    },
+    {
       "source": "press",
       "title": "बीकानेर में बनेगा दुनिया का सबसे बड़ा सोलर पार्क, पीएम मोदी ने किया था जयपुर में शिलान्यास - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1p0RlhGV3B2V0xwSG9VemIzc0cyaXRTYmdPOFVmd2lLRzVmUUdkTGJ3VHFyenEyaGxqc2xqc3FZeEM1dmFvNmp3bG5rVlZWSWw2SHFKSldtQ2QwZTlXWmVhU3NxWEVwTlhlQVhhdUpMVVMzVktOa3lKMmNlMlZuQjBuUEZHS1BpY200M3AxWldfRktDZU9YeDVYMjNoQ1k5RVZSaVNXeWU4Zy1BeVdSVVhFd1RQaUFWeGZQQ2UtWExvSEYxeUczZUFCdmdCZ0d6N01B0gHYAUFVX3lxTE4tOXo2Q2VCcWhkR2JIcVA0alNSZTZGV2JuTldwRzAzNk1JZzdvVjQtTXN2QklhOVFDeWxjNkt4SmZYNUpFR25lNlAzZkhqTU0xdlFXSlRWeU8zeEl0emI1WGhSenZUeDZLWEIyZXRMV2NVZ18tTVR1QTRnVWlmYS10czFHbHRMby1YZ0hnZE1HT0xLNE9pVkdORHdBZlhrYXlxeWJVUGFRRVU2VV9EcGpZMlpOVzZrMnozbUkybG4tN0JlbWRmS096X3FDUXlHZDFxM2JBWnBNeA?oc=5",
       "score": 0.6
-    },
-    {
-      "source": "press",
-      "title": "Una: सतपाल सत्ती का दावा- कांग्रेस सरकार की चार्जशीट तैयार करेगी भाजपा, पेखूबेला सोलर परियोजना भी होगी शामिल - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFVYSzJleENWZW05Y1hzellUeTVwcGhFSDJ6RXN3eGlEa3FFQ3NLeUxUOFNOeFViWGg4dXVsU2RER2FyWFVlOUtIMkdTbjl3TzZ1T19ET2RUOGZQT1VxeHZjclZabVBFUHE5bmNVYVFYU21TUGlRbk1zVTk3Rk9BVEJHSWZfSEtwYjNtMUJSZ3dFY3dhMW9RQnllYmFKV0MtSXBBWWVrdV9GeVNQYURTejh2OG1hLUFpWUJ3aU9QQ1hNcXlLMlo4TkNXQnFzX0Y1aGZPd25oVjlGR2ZVWDBTS0FpYw?oc=5",
-      "score": 0.4
     }
   ],
   "top_concern": [
@@ -59,7 +58,7 @@
     },
     {
       "source": "press",
-      "title": "Himachal Pradesh Tenders 9 MW Solar Project with 6.3 MWh Battery Storage - mercomindia.com",
+      "title": "Himachal Pradesh Tenders 9 MW Solar Project with 6.3 MWh Battery Storage - Mercomindia.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmdlTEIxdTg3cVRQMlFMMjQyRm05bnJCUHFFZjNnYUZENl9PSUhfcXRHaldxNFh2V1RfZXFUTUo0R0xrcjZhSnYwMDNDX1VBMVhFNkZuU0wwU1UzTFl6dVVnSFFUbENITFd3Yl9ES0wtVFE5RE9iOXpCU3R2bk9IWlRRa213RjJmM1JjZkNySHVkWTloSlpRai1GdEg?oc=5",
       "score": -0.1
     }

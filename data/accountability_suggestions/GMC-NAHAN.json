@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-30T20:12:43.703Z",
+  "updated_at": "2026-08-03T20:21:52.345Z",
   "project_id": "GMC-NAHAN",
   "count": 1,
   "suggestions": [
     {
-      "category": "grievance",
-      "severity": "low",
+      "category": "incident",
+      "severity": "high",
       "kind": "issue",
       "duplicate_of": null,
-      "first_seen": "2026-07-27T20:16:30.657Z",
-      "title": "MP Politics: Seoni में CM Mohan Yadav के दौरे से पहले Protest , Keolari MLA Rajneesh Singh गिरफ्तार - Amar Ujala",
-      "summary": "Auto-detected from press: \"MP Politics: Seoni में CM Mohan Yadav के दौरे से पहले Protest , Keolari MLA Rajneesh Singh गिरफ्तार - Amar Ujala\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHpsYlVWNXNoNzgzNk1NUHJHREhuRGFVcjRVSnVnckpkYVgxcFgtdXhTS3FjRkVzemJoSnRKVFVTQkgtY0lpMEdEeVQ4SkQzaTBaZ0JwWmxDeGFybEFET2g1TjAwWHhTbmJNUlVSR1NHUFotTk8yZjh3ZWYycThpZnFMS2p1SGkzQkJBWmJXSWkxWmpQa0pQblRqYXpmNVdac3dLTXllZU8tRmM1SXJGZFZfaHhQY1lKdUZCX1hDVU85NkpRalZxNjNKc2pLSXhudkVYUENVOW1TcVBoS3h6LWFvMmtEc0pXS2fSAe8BQVVfeXFMTmRGcDhCNl9aQl9mRFJPcjVyMzcyREQxWGJTNi1tZm90Wmg4dk1MdmR3cDNoUnV3Z01WbUV1TmpyeVAzaEhLdndDOU96OE1CenlWSDB2eFppMUdpbElielRPVzVCb1kyR1pUdHdlUWlqZ2s5cWtvaTNrLS1lSlRPN3ZyMzdkMnh6OFV1OFFNN3NQT3ZKTmtDdG9xdGFDTDU1QjhzaDd6b0RCdk5xUVloNFNvd0ZQRDJDQkpEMHNMVVFPSEo1ZHRCMURKcThpaHA3TVViR19fLTQxU0Nub0ppTkJLd01BcWV6enJxeVQ1bkk?oc=5",
-      "source_name": "Amar Ujala",
-      "lang": "hi",
-      "date": "2026-07-01T07:00:00.000Z",
-      "matched_term": "protest"
+      "first_seen": "2026-08-03T20:21:52.345Z",
+      "title": "Himachal: Father dies, son injured in road accident near Nahan - ThePrint",
+      "summary": "Auto-detected from press: \"Himachal: Father dies, son injured in road accident near Nahan - ThePrint\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDF5ZXMya0tJVUZaX2ZyVXRCcVE4WGFBbXUzQVpqbHRidVl0Y3Z0MEt0MzlMUkRHcGxNWUtmR2hBVWwxa2Nzc0RZQ0VFbTNjSkNtcEFycll1R0FGSWNNTF8wUFBBNHBhaGJZSS11VHQ3VHRKOE1TQWFZbFJtSnhRU29pS2NjQ3BfbG9QRHNzTTV4LXJXM3pkeE9Ja9IBoAFBVV95cUxQRVEtRFNIcWFzSjhKeUFZMlphNkZFY1VYQk1IZ0l3MzYzUTc2MTQtWEhjbi1UZzQ4MFRNZ0dxQVV1VWsxcmtabHIyOE51VHlSc1ptOXNvakI4UUVlUFVBdDlPY3doTWd2TXNjdHdEWFBiT1BsVWtNVDZzZHJYM1pwV29mUGFzejhCMmRFNEQxT2hXTGYyLVRpUzBKa3Q1eElf?oc=5",
+      "source_name": "ThePrint",
+      "lang": "en",
+      "date": "2026-08-01T12:50:57.000Z",
+      "matched_term": "accident"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

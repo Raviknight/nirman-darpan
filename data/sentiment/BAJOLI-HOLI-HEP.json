@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-30T20:13:13.195Z",
+  "updated_at": "2026-08-03T20:22:28.590Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 9,
+    "positive": 10,
+    "neutral": 8,
     "concern": 2,
-    "avg_score": 0.155,
-    "avg_magnitude": 0.245
+    "avg_score": 0.18,
+    "avg_magnitude": 0.33
   },
   "youtube": {
     "n": 4,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 24,
-    "positive": 9,
-    "neutral": 11,
+    "positive": 10,
+    "neutral": 10,
     "concern": 4,
-    "avg_score": 0.092,
-    "avg_magnitude": 0.25
+    "avg_score": 0.112,
+    "avg_magnitude": 0.321
   },
   "top_positive": [
     {
@@ -41,7 +41,7 @@
     {
       "source": "press",
       "title": "बरेली की रामलीला जिसे अंग्रेज भी नहीं रोक पाए, 166 साल से कायम है परंपरा - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWxpYnhSMWIyZ1c1UGJld0VzWkhqczQzSC1RM2pDbUZ5UVhtT0htVW5CeE9SbU45NGhUOE1JTGVwbUlWNGUxRjNYNUcxRDJqRGoyWFIyWW5iT2hJc19OY19yelR5UTY4NGY3Vno4TUNEQXkzbjAxbHdPcGRweDQ1US05dW1GMzctMXJ4SjJzZVUyVVhXUmJoRGx5dEdBTS0zWXZybExaTHI0SUhZX0RrS1JjT3lib0lGdlpiWF9ldmZnSnQ0Y21TVzF2aE1xNU1iYjg0eVFJM0NIa1nSAeABQVVfeXFMTnMzVG9oYXBnVjNhdklCRl9UQlYzbTM2VG9hRFNCMzdOWER4Ylc0YV8xYVdva0pQLVBQVmctVUQ5OENQNUFlWERnQlo2dXpWQTZoNzJhMzlEc1N5R2hkczBsSk9zOGVRbmlqOEdUcWs1T0VpMWxKLUhqTVlTd1F5T015LWFockNVcVJpUWFiekhSRU1NSFRORHBCbGpWcGllbUkzY2t6em04QzM0eldwbzhkWmwxS3lmOVVDeERUMVZUM25tckpwS25PRkFMbjU1VnlMTnJGbXU5LVFEZmtrWTU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWxpYnhSMWIyZ1c1UGJld0VzWkhqczQzSC1RM2pDbUZ5UVhtT0htVW5CeE9SbU45NGhUOE1JTGVwbUlWNGUxRjNYNUcxRDJqRGoyWFIyWW5iT2hJc19OY19yelR5UTY4NGY3Vno4TUNEQXkzbjAxbHdPcGRweDQ1US05dW1GMzctMXJ4SjJzZVUyVVhXUmJoRGx5dEdBTS0zWXZybExaTHI0SUhZX0RrS1JjT3lib0lGdlpiWF9ldmZnSnQ0Y21TVzF2aE1xNU1iYjg0eVFJM0NIa1k?oc=5",
       "score": 0.5
     }
   ],

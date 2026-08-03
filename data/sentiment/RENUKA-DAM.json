@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-30T20:13:06.898Z",
+  "updated_at": "2026-08-03T20:22:15.760Z",
   "project_id": "RENUKA-DAM",
   "press": {
     "n": 20,
-    "positive": 3,
-    "neutral": 15,
+    "positive": 5,
+    "neutral": 13,
     "concern": 2,
-    "avg_score": 0.025,
-    "avg_magnitude": 0.095
+    "avg_score": 0.065,
+    "avg_magnitude": 0.135
   },
   "youtube": {
     "n": 7,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 27,
-    "positive": 7,
-    "neutral": 15,
+    "positive": 9,
+    "neutral": 13,
     "concern": 5,
-    "avg_score": 0.052,
-    "avg_magnitude": 0.307
+    "avg_score": 0.081,
+    "avg_magnitude": 0.337
   },
   "top_positive": [
     {
@@ -37,20 +37,21 @@
       "score": 0.7
     },
     {
-      "source": "youtube",
-      "title": "Once again very nice and informative lecture.\nApka new lecture YouTube pe na sune to kuch miss kiyà aisa feel aata hai🤗",
+      "source": "press",
+      "title": "Centre’s expert team greenlights tunnel designs for Renukaji Dam - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejBLbGlocWhOZHJ6WGZVXzBMc0drZ1I3WVozcUZqdmlvUmR5UkJJdnRDSUttZTJmcEk1SWFZM0ZjbGJmRkRUa3hHRW5GVEJWRTViWUpOdl9OYkVJeE9EMnhnbjhiV2RMSjJBWTN0T3hBTV9haUdPMHVzYkRpbDFjQkk4b0pYdFg3MUhNY0hXQUdQNFJlUzZ4TDNxLVkwZ2VxNU1VVXhTS2lGTzTSAa8BQVVfeXFMT2hUckVqN0JTRkRnU0VUUkZoUlJOSGhMZkNrR1VHeVJqMUxyazBRSDJBYVF4eHJTUU9ka0xfZno0OV9mQU9EU3d0U2YxSDExbXE3VUEwNENSNEhaRnNiYWprRW02Nk14ZC1QdUthc2tlWk9YR2FGeTVSd3VEWWFXUFlSOWxxcmt6RGZuQnkwMC1tdENCTmxNYktQU21SdVFHWGRSNlJaME1LXzIwaWlhdw?oc=5",
       "score": 0.5
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Lakhwar is 300 mw project not 927 mw",
+      "title": "WE SHOULD COMPLETE LAKHWAR DAM ON MISSION MODE IF WE WANT TO BE SUPER POWER UP TO 2047.....",
       "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "WE SHOULD COMPLETE LAKHWAR DAM ON MISSION MODE IF WE WANT TO BE SUPER POWER UP TO 2047.....",
+      "title": "Lakhwar is 300 mw project not 927 mw",
       "score": -0.5
     },
     {

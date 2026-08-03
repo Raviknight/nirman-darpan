@@ -1,20 +1,30 @@
 {
-  "updated_at": "2026-07-30T20:12:04.131Z",
+  "updated_at": "2026-08-03T20:21:15.531Z",
   "project_id": "NH105-PNJ-NLG",
   "counts": {
-    "press": 31,
+    "press": 34,
     "gov": 0,
-    "en": 14,
+    "en": 17,
     "hi": 17,
-    "total": 31
+    "total": 34
   },
   "mentions": [
     {
       "title": "Stuck Pinjore-Nalagarh highway project back on track - The Times of India",
       "source": "The Times of India",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNmRPcmRSX2hxVXFQYVJqV0tHQkppOHFENTNPV29oLTVCR1FteFp0dFR4Nl8wOEM5MmxTSU9VY1U4cnZ6V3dWZmdZRy1PdG1CR1FVZ0ExaWptb3dzWjgyaWJQajlySVhNS2docG1ySWcyYm96enlMQ1RrdS1WTFU2WUFwNTZVcDJtc1dOX3czbldKM3UtMTRzdElXQU5TbVByYjRfUGdPaDR5SE95dVJVS0pVSVY4aEw5bm1QeVQ5M0s5VGlTeS1TVkc5ZUFXVzTSAc8BQVVfeXFMUDZkT3JkUl9ocVVxUGFSaldLR0JKaThxRDUzT1dvaC01QkdRbXhadHRUeDZfMDhDOTJsU0lPVWNVOHJ2eld3VmZnWUctT3RtQkdRVWdBMWlqbW93c1o4MmliUGo5cklYTUtnaHBtcklnMmJvenp5TENUa3UtVkxVNllBcDU2VXAybXNXTl93M25XSjN1LTE0c3RJV0FOU21QcmI0X1BnT2g0eUhPeXVSVUtKVUlWOGhMOW5tUHlUOTNLOVRpU3ktU1ZHOWVBV1c0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3l5dWpNcVhLa2hEWnU3cEJSeEdFZ3Z0SUkzMXRRVVFqQVZqNmpoYXMxZml5eEhaLWR0RUhTNnBSTzc2cHBwcHgxbkVIV2hlN2J3VGo1N29mS0NkXzlDMXNfRWVNUGkwdGdXV0JOTnByOU1yZ3g4Z3EtQmlTel9nSmhQRWJSWE5aN3Q5WVZCZWc1ckdvbVY0X3c0UTlweUM2SGk4Wl94bU83Vi1PT0JIT0MzVDhoZ05BeXNwWG5WVm1kT2RjNVlVTHRR0gHPAUFVX3lxTFA2ZE9yZFJfaHFVcVBhUmpXS0dCSmk4cUQ1M09Xb2gtNUJHUW14WnR0VHg2XzA4QzkybFNJT1VjVThydnpXd1ZmZ1lHLU90bUJHUVVnQTFpam1vd3NaODJpYlBqOXJJWE1LZ2hwbXJJZzJib3p6eUxDVGt1LVZMVTZZQXA1NlVwMm1zV05fdzNuV0ozdS0xNHN0SVdBTlNtUHJiNF9QZ09oNHlIT3l1UlVLSlVJVjhoTDlubVB5VDkzSzlUaVN5LVNWRzllQVdXNA?oc=5",
       "date": "2026-07-30T18:57:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "Himachal High Court pulls up NHAI over delays in Pinjore-Baddi four-laning project - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEw5WVVSZUlhLW1wV2pZQ0VFUUgwWXRZcm1ENER3U2xmNVFSTDQybXRKeFBkTFk0ak5Kc3BIWUg0WEtUZ2x2OGV0dzhjYXpMVU1sOFBuMTlFdklwTHRHYl82cFVnbVEycFJfQkNIcGR6Y2NaT2RwbXRhd0FVNy1YOVkxc3RBcFIya0ZpSjBnWlNwU2t0ZW92MGMxV0YwcFdGS3k3ZUJmWTVVTnVLNHJ5MUtGR2NyamQ2amfSAb4BQVVfeXFMUHJYa0E1UDBSRVJYdVl5N19rcl9acWZOajE2amJJd0RZREFXR1VXSmNCRzlBWk5mekpUTlQ3bUFPNFQ1bTdnYy00UEtqUU90TUt1dE52RU54ODYteEttRTZadmRIQjVjbkg3TXp3R0ZvWnA1QldZUVJKUFpheVB1dWp2bUtqVVY1anlUWFM0SjdNcWlvdTNMQl9sWkpQaUYta0VsMk4xb2U3azZ6U3N6TUE3VXB3RjRibUJYZ0IyQQ?oc=5",
+      "date": "2026-05-22T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pinjore Nalagarh"
@@ -100,6 +110,16 @@
       "match": "Pinjore Nalagarh"
     },
     {
+      "title": "HMT bldg likely to house bigger, better civil hosp - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHlZZFNhdzN6UkctbXZpZHhlcXdDblRuck9iNzhTYlBjV0xSUktMT05ac2VzZWV5QzZQbWVFZGJYazViSjA1aFlFNC1fUXZNOUpnRFNsbzRMVkxUZGRERXdUWFRKaEc5TDBqRkhxYmZrUy1sZUc3SVRnWTRxcHQ3eHdRZ1RRQVphVDNkYjFMYlpHekpHek5fUVh3U3FyUmdsSkNiMWE1aDZGM0RHNzNIaU5zaEZSeElmeEtoRlp2LUI4RC05WFHSAcsBQVVfeXFMUHg0cl9FT0xhcklRR2trZ0tlcEZRQkZWVVBoeW96V3lDdU9SNndpMUZ2V1BkWW5VX3J3NEtFZTVYMGVhdjNQdXdyZEo4YVhpVlBScThyYW4tSzJFeXdocG1kQWViU0xqMkRPdzdyMTNiMVhPWDBFTE5uODl3djJOUUZxNU1CR1pyVklidzd3U3kxbEVxVDliSnZ0cl9zdnFiZmltRWRxcFhlajNoYUpqSWRxclpwUnVIT2liQnYtQmtPOS1OR2lDNWRiXzA?oc=5",
+      "date": "2025-09-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pinjore Nalagarh"
+    },
+    {
       "title": "पिंजौर-नालागढ़ नेशनल हाई-वे पर मरम्मत कार्य शुरू - Divya Himachal",
       "source": "Divya Himachal",
       "source_id": "google-news-hi",
@@ -110,8 +130,8 @@
       "match": "Pinjore Nalagarh"
     },
     {
-      "title": "3 ‘involved’ in youth’s murder arrested - The Indian Express",
-      "source": "The Indian Express",
+      "title": "3 ‘involved’ in youth’s murder arrested - indianexpress.com",
+      "source": "indianexpress.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZFdFeF9XY0pCdXdpNnVpeGNfS2dLZFpPSV8wcV9mWmNkUk9SMUpzYmYzN2FUMlhoRi1TRjJ0ODh0THZQRV9FbC1ZLW56UlJnZDBoSjVlTloyTzZqel80SjBkdk5jLUtES2tZTW5CdDN6UndOOWRocGtSeG1wSUhyaTVPTVJQTzMteUM0UTJIa0U5aDFTN0wzSktQdVFVd0nSAaYBQVVfeXFMUExwZFBuVmZ1Y2VVS2lybGgzam9RLXpjOEdWS3dqYXJVeXNHbU92UUktekJwSy1jejlWNXJQcWVJT3RINE5FQkVYMUVPYkNXSDlNb3pQaXpLLU81VEV5UXpCcWh5WF9xM2hrNlM4U1BpNy01YUpqejlfNDdfV01RZGctTU4wNTZRd0puWXlaSE1hUjdadDlEU0R3RzBzMjBCcDZYUy1Gdw?oc=5",
       "date": "2025-08-29T07:00:00.000Z",
@@ -120,8 +140,8 @@
       "match": "Pinjore Nalagarh"
     },
     {
-      "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - Indiatimes",
-      "source": "Indiatimes",
+      "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - ET Infra",
+      "source": "ET Infra",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWmd2LXRfOWgyYlZUUW43aUdJT21XcklWaEg5a0h2S2hpNmJYazN5QjZZekdrRFlZdGZVMXRUZzZzWlpfaUl4cjAxdjZjZUx4RzNyR3lDR3BMeUdTZ2dwbG95MmF1aXJLQTVOTVI3eE9scFpuOXA3dEJpalF6RGZ3cjBHT2c5MkR3MVRvTWFoekN4LXd6Z0VPeXM0TmNGTjN3U2g3Q3pwQXNIeVdmcU4zdDhBTU1hTXBLWlZiM05KeXdoX1dncEFmZ0Nob2tMZFhROVlFRl9IOWt3TWpGeWgwWHJveU1FdDBHRWZNcQ?oc=5",
       "date": "2025-07-04T07:00:00.000Z",
@@ -188,26 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Pinjore Nalagarh"
-    },
-    {
-      "title": "पिंजौर-नालागढ़ रोड पर आरओबी के साथ पुल की हालात खराब, टूटी रेलिंग से हादसे का खतरा - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPNzFSdDkwUEloNGNmYUVReThmVmFnWXVfV003dEl5aG1vejVMXzQ4SFVtYW1vbUMtaXhJTGFySHFqN1ZhcENZNFJWZXVfREVaY0JYZE9JUktZekVqTndPQ3ZsTUVZY0o0SGZSRGsxTFZMRElRbXRacjV6TjItOENjNnAwd0U2clFvbE5aQ2d1RWk2MGd3S1VkeEFtWG9OX1dYWnZzdFdrc3dnRThjQ29ESmJNOEtCOWRJNW1HMGVGTGhEUmE4NTBweDc4OEhNbEsweThCdHdZQ2ZTZUtTaFd1cDAtV2x4c2RaemMwaE1yamV0U0R2WjNSUHl1QUFMdzNueHMxRGtVQ1BVcWpMOG9pa3QtNFBwSFRtZlA5aC1QLUdWc04tbUNfX1RR0gGvAkFVX3lxTE42VnN5V2xVdTd1VVVzd1ByNXg4UC05NzE0N0I4Z29HRkFzcWp3Q3dpa0RLcktsbGwyR3lQbHQyS25VdFJZZjg4YmUzeC1yTjR3RGZqaDNmcTJNa3FkUkFabE42N0FlRG40bk1xM01PRnB3cW9yVE9PZXdyY09ocFg3VjFwQ3dDLVFCLWM4cUVZbjRDc2twOWlUQ2FhdkY0V3k3d25aTnppSVdrLU5xNVhoeWdxUXhHbTZqWkNXNVBrUWRQcGhqRDd4NEpiR0pWOHJHX2RmbGlGeVRDbGZCRDdhY0lDMHNBQ2pBMkFZc3RDSEFKeElFS2xwLWc3T180amRkbTBLaDNQWVJNZndpT0hNd0V3OUtpTjdWZ3hnencxUkVWcXpEcU1mWS1sbVJabw?oc=5",
-      "date": "2024-04-27T02:31:40.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pinjore Nalagarh"
-    },
-    {
-      "title": "बीबीएन में आफत की बारिश… बद्दी-हरियाणा का संपर्क टूटा - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1JRcUFLUjdCN3otX1RTUHVtamN3UGJGVHBPNkFJTm0wM1kwTEktM3RBQzV1MDdaLVh4SUcyN0ZaRl9BajhNYm44MTY5YkloSWRMUy1wTkllTWdYUEZsZlo1cDZGOVREWDE4THNPa09XVm9fTkJFcGdlblJwWDNlYXFXbVo2NkpMMEF3Q29hU1NyZHZsLWFB0gGcAUFVX3lxTE5WQVVpMmFxdnBCZy1kX2hGbGFqVDR2TXhkVlhXU1FCTXF6T3pYRVNET0h1eHpLN19GYzVneEEtbUJBbE5qYmJYZGhwMm5TWEJXRnZQbXBEamRVLXBvTU9zQVFJVFk1YW1yYjdZTVRxR0wtNldwZzZPdEJwSmRWamMxQlA2YTZ4MEhyRERlTVNHLWdmcnlWdE5nOVJiTQ?oc=5",
-      "date": "2023-07-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "NH-105 Nalagarh"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

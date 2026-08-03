@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T20:13:06.899Z",
+  "updated_at": "2026-08-03T20:22:15.762Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
@@ -10,27 +10,22 @@
     "avg_magnitude": 0.095
   },
   "youtube": {
-    "n": 5,
-    "positive": 3,
-    "neutral": 2,
+    "n": 4,
+    "positive": 0,
+    "neutral": 4,
     "concern": 0,
-    "avg_score": 0.28,
-    "avg_magnitude": 0.32
+    "avg_score": -0.05,
+    "avg_magnitude": 0.05
   },
   "overall": {
-    "n": 25,
-    "positive": 8,
-    "neutral": 17,
+    "n": 24,
+    "positive": 5,
+    "neutral": 19,
     "concern": 0,
-    "avg_score": 0.124,
-    "avg_magnitude": 0.14
+    "avg_score": 0.063,
+    "avg_magnitude": 0.088
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Thank you",
-      "score": 0.8
-    },
     {
       "source": "press",
       "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
@@ -38,9 +33,16 @@
       "score": 0.4
     },
     {
-      "source": "youtube",
-      "title": "💕💕",
-      "score": 0.4
+      "source": "press",
+      "title": "​लुहरी हाइड्रो प्रोजेक्ट प्रभावित किसानों का हल्ला बोल, समझौते लागू न होने पर फूटा गुस्सा - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkJZamNfUmVEWm9hOUR1cERjWnd1aFI3SXdSOGRKc2cxSzh1N0lDU0x6SHJxX0ZJbjdkVlF0Tk5lMTJxbmZBTWthMElSQ3BjLVVjUWxDczRhU0ZHZ0sxRC1kY0lNaWJRZHp3QkFVRGtDelp3VXhkczZvalFia0J6UmJ5S2xJM1oxX1hGa2h6UXQwN21OODl3T0lveDlZRThiM3pkRTB5QnJSSU4ySTY4Y211a9IBuAFBVV95cUxNZlhRRUM0cXZZUnNNVzlaOXg3ZlltTVViSlF1ZWUtYkdsZkY4ZjktdkVaZnRwVUZsRXlzWXN1MW83SnRob2FNc3d3anFwM1FodVlsRXR4YmFNeTBpdDBBNXYtMjdGOXRwZVJOMlVpYTdlNW5qNGZfYnEtVVRMRXNLTWdUc0xRQXB4TWhtQmh3dWUyTE5sZmdGTldXdXV5SXJNY0ZUdThqS2ZzOThLSVVzbGxkQTdXYTha?oc=5",
+      "score": 0.2
+    },
+    {
+      "source": "press",
+      "title": "केंद्र के अधीन स्थापित होने वाले चार पावर प्रोजेक्ट्स अब होंगे हिमाचल सरकार के, जानिए क्या है नई अपडेट? - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTY3Wng4STVlRjdUNEhNSW9LYjVac082SE5nY01yRVUtT295ckplMlJydUZzTzBCTEVaNDZkOUZaSW5naEJ5VmJwQXB4WFBYdEJkVk1PQnA2TG5EVFJJYjZLdGFHM1JJaGJkLVE3QlpiNTdqNTR5MmpBZVViX0J1UnZwOGtJZXlxUlRqVzMzYzlsVGlMMlBXUkpseUlTZkxZZGlpNDBfeGVLNFhTR01HVFFLalN6ZktrNWdHUGY3NU1TVUhUOXotZlpLaE01R0haMEVMeTVYeDVmZU4wdmfSAeMBQVVfeXFMTmNSTG5KckJmcVk3R0lQdnh1YTdDMWRVT3JqVG91dVNYQTFObjY5UEgwU1Z1azZSbWdKZGtPWnZVUzY5ZXhwTnREWDF5d1ZrcU44RFNmZFNJaUttX2ttNkt6ZXpFT1EwWnNmd3YyQnJncVBfdVNXZVhhYnBSN2t4aXFORjZURV91U3J1Zm1iNVJ4eGhKQ280WTVvbjFxVENZLVE3TGoxYURxNmJkdkxMT21NNXg1bkhPU01RbjVOQnlBUDdEa0Q0emJzMXYwS0NYYXBBbGhXTktESHlJaTJDb1pJN00?oc=5",
+      "score": 0.2
     }
   ],
   "top_concern": [
@@ -51,13 +53,12 @@
     },
     {
       "source": "youtube",
-      "title": "sir electrician ki vecancy teni h project pr khali ??",
-      "score": 0
+      "title": "Please tell me how and when the project layout was developed?!",
+      "score": -0.1
     },
     {
-      "source": "press",
-      "title": "SJVN awards electromechanical package of Luhri HEP to Voith - T&D India",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT05uZXNuRjJ5d1JvZjg0aWFXMlhyZEZfOHh4WmhOVy1OWWpwRWFmZkxvRWl3a0Njd0RsUzM3ZXFzbHZFTjZUbkRnYUVhYkZ3NDVVU0xteDUtNmNkQjNZRG1TNEI5RWRwTEFCa3NqcU9rYlhzdkg1d3ZUaV9hZ2xTXzR2ajBoeUtEVzVDTVBB0gGTAUFVX3lxTE1yN2ZEQ1FtaVc0dEw3d2xxYkhiM1BOdUExSjdXbExuM2lXeHZxNVNTdnlEamREbXpPd2ZBZm84UUVtWUQxbFVMR1pmcDJUbVZFSzVyaW84Z2JCTHBYcEZBV1lhTFZvaU1UeExyOWxwMjlMTHM1bmFscDlNNEhnUkdsTVNtTGQ5SzBUX3VqR3B1NDZlMA?oc=5",
+      "source": "youtube",
+      "title": "Sir ye shuru kb hoga??",
       "score": 0
     }
   ],
