@@ -1,14 +1,74 @@
 {
-  "updated_at": "2026-08-03T20:20:59.342Z",
+  "updated_at": "2026-08-07T00:36:23.527Z",
   "project_id": "AIIMS-BLP",
   "counts": {
-    "press": 202,
+    "press": 204,
     "gov": 0,
-    "en": 98,
-    "hi": 104,
-    "total": 202
+    "en": 99,
+    "hi": 105,
+    "total": 204
   },
   "mentions": [
+    {
+      "title": "AIIMS-Bilaspur trains emergency staff in mass casualty management - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEZkVUxUSGZKYXBWX3RnZ2RycFFvYmdYZC1zVDF3UkZHellQdnZ6LTlvdVkxdVJBVUZiNkpLR0VIZElER2syanM4TzVsUlFiV2cwZUJYYVRGV1FCclhXbWE4cHNpS2tpSkI0UzlpY0JGTGZMYmlCY2pRdHdoLXpYUk90Qk5XVzdidThVUUFoanhhTF9raEdiTzRrdjNXTWNzSzBGRXFMYVNJeDJ3eGxOaGNB0gGyAUFVX3lxTE5oRmRVTFRIZkphcFZfdGdnZHJwUW9iZ1hkLXNUMXdSRkd6WVB2dnotOW91WTF1UkFVRmI2SktHRUhkSURHazJqczhPNWxSUWJXZzBlQlhhVEZXUUJyWFdtYThwc2lLa2lKQjRTOWljQkZMZkxiaUJjalF0d2gtelhST3RCTldXN2J1OFVRQWhqeGFMX2toR2JPNGt2M1dNY3NLMEZFcUxhU0l4Mnd4bE5oY0E?oc=5",
+      "date": "2026-08-06T19:45:48.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "AIIMS Bilaspur: एम्स बिलासपुर में महंगे इम्प्लांट की किल्लत, जटिल ऑर्थोपेडिक सर्जरी प्रभावित - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOclFIRS1hMGdzY3ExazRtQ3JGdk53TEhHMzV1ZkYxS0Z4R0dJMldWS0lXb3VkZVVmWlA0aGtNNkx4YnRMbTBsMkhlNDFDV2hjbE1WdTExazFGZmlySS0waWR1VU5URk9TX1pycHZmYUtZcFNieGZtdU5Qc2RzelZUYmpaUnpzOGVBc0hpSkRGeENZWHBvRFJhdHJxcnoxSF9kZUZ1X3JGUGNjZmRRWE1CdzJJQXAtV3NzZ0tVek1OcjRmMWg3aTR5OEw1QmhSZ0tQVXU2eW1xMXcyQ3RKdlNrWU4yNUJPNTRu0gHuAUFVX3lxTE1heWlsSGIzMmhmUmVLZkNGRHBzRWtIalNPMGIxY29Ua1RNSkhQb29TbWtwN3lxZVZvYmFFVFEtckhBZ01xM21Fd0dpWWxPNGZfUFJYVld6WXNQVXM5TlhfN3h2blJXNWNjYmRFYUZhZmcwUi1abjhmcjFuQlNXWDgtdEtxS0lwcG02TGFUMWtiZnJpZG4xWUREYWpCSlRVd19MVGNkMzN5VkZWU3hrYmpEM0tpM1p6Sm5lMm5yaHJCdk5nSGRtTTdpMGpkMkR2WElkN05XdUVvNVZvSjg2NUtScDloZFRrT1BKTGVUbUE?oc=5",
+      "date": "2026-08-05T03:41:11.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "AIIMS Bilaspur launches 'Aapat Setu' digital platform for emergencies - The News Mill",
+      "source": "The News Mill",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbE9majRNV2dwVEFHV1M2NDB5UW02Z1M5bzJmNTRxU1VGNTliMlVidFEwY3hoblJtR3lnSTBPdnhISTZSVDlnT0ZCWlc1cmNLbjdpQ21IVzRJUGZYQXpyaDE5MkRXTFhIT0syTGtzVHFiblRIM1VibU1QMGhJRG1vYWI0N3FVd244VHU2b2pSSU43RVZFM0F2TEJjXzNTMzJHaUVfa2pSQ1dRTVZpdGNJ?oc=5",
+      "date": "2026-08-05T03:08:33.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "Bilaspur News: झंडूता से एम्स बिलासपुर वाया गेहड़वीं जल्द दौड़ेगी नई बस - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWVV5TlhFTlRSSzhrVDVvbFZabkxkeW9FY01QUXd1X3VOZ011QW9qVWZWUmNJM1dObU5iS0RBemEtcGRMNlVHY1FxRkdHLVUxeGREU1hZcVpKWHYydGozNFY3ZnJjX2tlTV9FSm5jdll0VHZyTkNLOG1FMF9WRFRMVE9Rb3pYNFJ2M2c4Yk9QamlRLWQ1N3ZMUjZPdUtQcE41cHFORUhQQjZEZFp1MHdRMEpMcnlrcXZad2hWeG9Pb19naEc2VHBmb3JjTnRlY29qZFdHQ3FWU1ZSR2p1RGFTLTdyYUxaYjQyNFRNdWdwTlZraS02eVB4dU1KemPSAYICQVVfeXFMT1VaRk1HZHBiNHlTWDdxS09FaEs0OHdNb2pBREhQZ3hWYUNHWkk1bzFiX1d2b0ozRkpPdlBydERxVFZGSnFYOVFpRFNQZFk5Vlc4LWtkRmFZZ2lyMEpmbFdlQ190Y3l0V1RIMFJtd0lrYlBGYU44Y25rcTNVUUdaZGpncFNKYVJLZnoxS2tyVkxHYU5ZN1NzeEpITWxkel9pNmhycml4cGRCSl92bGRBMkd0V3RwOWFTZUs5OXlxbnNsSlNtbVVqTzBlMDBoV2JfSENCY3V0Rlo0cWFtRFY3cTdtMmxVZTE0dHdZZ0dQZDFkMHFEOGFvZ2owQmYtUU01Vk1n?oc=5",
+      "date": "2026-08-04T18:24:31.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "Bilaspur News: एम्स बिलासपुर में पौधरोपण अभियान, हरियाली बढ़ाने का लिया संकल्प - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVXRQdzRaVVJlQ2FTTTk2am9XWXdUdWtXalNvblF4NFIzalVvbnNIWnFlTFNuSzVNUmZsYVMxd290Ymd5Z3J5RWxNbjBoTEdqZGEwSjRaUEJFdlFrMEpYcTNjZi1ybnQzWU52VThORjh0aXhzZm1LQmNJRXFSUXNoaVp1bTRnQVZXWTA3Xzh6V3ZfLUdYTjBvNjI4TUZNWlE5VmNucmRPMUd2TUZwM0FZVEN1VjZ3M0RDX0xNbFhibFVUWWQ4ekI3OHRsN2RRYzBfVUpRRGtUX2NXSmo2cUVUTlc3TFJFTWozNjJucXFoZWVlUjdBNFpaaGpIaG9pcnhoSDBZ0gGIAkFVX3lxTE5RV2EtWkEwMXctVkFFbEQxX2czSldlQ0JjYkc3bjlIS2JRa2VRam5Pb25lMXRlVms4elA0N3RkNTZwQTV0SVM0ME9mY3owUFVySmdodkJhcmpvV19pNllvbFphdHFUQ3FabGxJN08yY1hsWlA0ME15dFU3MmI3SDdvREN4MzAzcXdSNHVtZ2tfTE93SXc2Zl9FRzcxVTluSnF1eTdpY3FmZGFnMFlRbHNxOXgtY0ZqSWVEWXVVMWI2MmRlSEM2ejEwRnFUTGxkS3hfcVg5aV8ybm5MME5Lb1NfZ3VNMXpScHlLa085Mk13XzhnalZqbmhneFBUT1Y0MUZCN0JxS0wzag?oc=5",
+      "date": "2026-08-03T18:12:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "Bilaspur News: एम्स बिलासपुर ने हेपेटाइटिस को लेकर ग्रामीणों को किया जागरूक - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ05pN3FZbDhlZHNZWTNwR2dtdkM4SGZYWEI1M3REdnB1c2pyYlFqVHpoYTZFTE5OZUVadmllZ3htTjBZTTFwbEJRbzlnSEVHVnN6ZWYxSThyaHFQZUs2SWxLWHdRWEUyWk9hZEVZMDBRbURTMDVzTDZKWDFVaEk1WE1XcDhEQURoZnFPbEF3WkZTTmJ5OFJyNG4yMVZQb3JOMjEyc0ExMkxYUmlZeXRaQ0hzWThLRFVTLXV5OUtaS2tuX0pKWU5PUVBNRGJfMDlvWUVwRTgyM040emZBZTZfa2xRQ0M0SHJuOFZNR1VTdC0yc0RSMVHSAfsBQVVfeXFMTjRnay05Nk0tQUVCTE1sZnFjYjJqRHFqaVRXMGhLbDd3ejZnLUZySmdMYmg0Y21CRFVfdG1TdFcxOTEzTDc3b1k3QzhSUlBqaTZEM2Nfd1kxdUJFZ1hJNk5hRjhpQXYxVHZoR3B4N1R2NzhxLUlETXpBRVJQdFBOV1Y4eXM3T3NCUVFVRXVjS1BCR1RMbjlWczI1SFplZHUtTUs2amRveXVTVU94SDdXeExVLVlFcVNrdTBlOUZjS0JnNVBZR012b0NDY091WWpjU19zYTljUEFfQnp1Vm5sTXgzUmhsZzVuTFVOSW8xOG9YLVp4UTcyX0M3ams?oc=5",
+      "date": "2026-08-03T17:56:47.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
     {
       "title": "Bilaspur News: एम्स बिलासपुर में 600 प्रकार की दवाओं की खरीद शुरू - Amar Ujala",
       "source": "Amar Ujala",
@@ -20,31 +80,11 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "AIIMS Bilaspur launches 'Aapat Setu' digital platform for emergencies - The News Mill",
-      "source": "The News Mill",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbE9majRNV2dwVEFHV1M2NDB5UW02Z1M5bzJmNTRxU1VGNTliMlVidFEwY3hoblJtR3lnSTBPdnhISTZSVDlnT0ZCWlc1cmNLbjdpQ21IVzRJUGZYQXpyaDE5MkRXTFhIT0syTGtzVHFiblRIM1VibU1QMGhJRG1vYWI0N3FVd244VHU2b2pSSU43RVZFM0F2TEJjXzNTMzJHaUVfa2pSQ1dRTVZpdGNJ?oc=5",
-      "date": "2026-07-31T14:37:13.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
       "title": "Bilaspur News: एम्स में रोटरी क्लब ने लगाया अन्नपूर्णा लंगर - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQWl4eXZmNkZ1c05lRjBzMEtZeWxxa3ZUQ3NFbFBQVm1CSXp6MHd4NDFZdHVCTjA3ZkVMZGlNaTBfYzRKRURTRF9qb01UUEVod09kSlBNTmVNbjhkem5ocXowd3BRT3RObjY4NW93VHFPLUZUbkhOQXQwQ3BQU2t0TTBtSmJXaV9XY1drSGRLcmRVT2RFRG1CTVFneFZraVdxRDZ0enJlTGxiWTRWTjNsUGtOYVZoLXRESGpVZHc3TmMybU5oME9ETzNQdURZa0JTMXVuU0pELXcxZmhxNzBN0gHkAUFVX3lxTE04d2l6T3p4eGc5bXE3TjdBUTRUakM1U0gzbmd5c3Z3THZwTFp2UXFYT1pQeWZ3Q1REb0k4VldnclA5d3hLS1NQQXAySFJqNHNUd25taHkzcUIyUm0tM1ZCaGhxMzN5bUZ3amtWWktxSjdJOFVwdzBtMzJQOXRhR1V0dGhNenM3ZGdnSDg4ZDRYbnhyTF90ZVV3bTh0OVJmckQ4YkRUV0VfWHR3S0ZFdEh2SmtQa2JkRVREdXhoUFZSOWI2SmpGZWhGcEw4U1FsWGpMTnRWX3RUWmxRamh4UllFVmhlSA?oc=5",
       "date": "2026-07-27T18:53:19.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Himachal Crime: कुल्लू में जलशक्ति विभाग के जेई की हत्या, ऑफिस से कुछ दूर मिले थे बेसुध; पुलिस जांच में जुटी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ1o2cnY5UG1iOHUxS1ZaNTVFbmNEdVJWWUpZY1ZnckNCVHo2TW0tcjRzWHdfWUIxU3RYaHZlS01pMW9EZjRRc2tlOEl4dEJHR1V4RHlKX0ExeXFzVVpnZWhoa2RIT3pjTHlIdDRNWi11S19sZDJ6NVNLLURqYUFTSzFkemdQRHJGSFBDZXBXdEJMVnE1dnFuU3YxNFFxdzhNOHlBdjdZWG9uWFU2T0ExS1hiQXFwQ1VYekFLSkVlVWdQZFV6Z0YtY3hlS0NpZjBsVFJj0gHYAUFVX3lxTE5iWkRtdC1hNDZZWmN3OGRwTlRvS0tLdU5RaDYxZEFDZE5iY1lTbG1fOWlDSk5KY3h4bk5ydHFYV29qZzdWbDJhVllEUjY2MTlYeDEteG50XzZpUWU0LXQ0WUhHd2dMRGQ3NVk2SEhkOGJObWNVMVA4RzUtMUpsQ0RIVjF4dUttVjc0Sy0yX29qM3VBVlZaOTRtVTMyYmpsX1d4cEpHYnMtd3kzaUtaUFl0R1VpZV9CWGh0ZWZ6M2RNcDNnUThCWlg5ZU5XSnF3NnFVMTNiN0ZyZg?oc=5",
-      "date": "2026-07-26T10:22:29.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"
@@ -70,33 +110,23 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "NEET 2026 Cutoff for AIIMS: Expected Marks & Rank for OBC, Gen, SC, ST - Shiksha",
-      "source": "Shiksha",
+      "title": "Bilaspur News: झंडूता से एम्स तक सीधी एचआरटीसी बस चलाने की उठाई मांग - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNVJrUEJUaWNZSGZfLVp2OEI4b3dxQ2xXdUxTYkhkWVhsYVJ0YkEwTFNyNGstMjVta0pvSkNPZzNKRXhlVjd0NWRZRE1TWEI4M3ZBTUg1V055YlRxYmNHMEtzS3ZZNUljckxrZHktdFFDdFlUVVZTSUdKRXJ5aGRKZ2NaSi1Od2g0WG5hZFB2QkZRSHhBQUItTkpMaVRSZFBqUGhETmUwTUsyUF9pNXFkVTlIblB4ODN2Z3pfaFdlb1BqdEVqZnNCd2Q4SXNoNHVJd3ZqODNOanJOOXFFM1hXbTk5NGJUQ2NSQmhuWnhoZFlFQTVDLVF2ZWxB0gH_AUFVX3lxTFBaNGlZZ3gwaG5DOTZGUHBheG5FVFFoTm9XakxzMVFVNmlZRHR2QmtQSW5zZm10V3B0Nkg4YWxleUkxNXZmMVNWMkZJX3NSVG1Jd05NS3dicHNuY0dBdGFVTXltNG9iMFByR29MU2FFTWl6eGMzazBQQzRhSUhQVWllREF4Z3RjM1dxUGNwX1lUSEx6bmZHYnRYclpabl9HS1NzU3NVTGFqa3BNcEx1OVIzSE5lRzZ5M1ByQkNtc3lVVUtHVC1PTkxwOEFvMS1nNjRtLVlIMWpGOXFmZ2pvc3pkUF9HdDhTX2FEZFRtWTdGeEtqQnE3QkdXZW9xRDVyOA?oc=5",
+      "date": "2026-07-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "NEET 2026 Cutoff for AIIMS: Expected Marks & Rank for OBC, Gen, SC, ST - Shiksha.com",
+      "source": "Shiksha.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUWtEUUZYVEZMQWpvYXlQY0lxMU9XTU9LWVppd2d2ZC11Zmp1MV9ZLVNqTGNIN1NoZV9ZZ1owUkU3bVNpS2E1eHZSTmFsbmh3RXRQU281ZkU2dVJTYXlTQVhPcFpzX05TcEphSzNHUENzLVlVRTFSaW5fVHVfT05UZm9EYzRId0hGVjJnMUU0QlZzeEVkVVZ6SjFJTXVIcVE?oc=5",
       "date": "2026-07-14T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "AIIMS launches 'Aapat Setu' to boost emergency care - News Arena India",
-      "source": "News Arena India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTVpSUp2SWQzWm10YjQzSXhMUU5MOTZQbEUzMzRQOTJjaWZYcFVXN1lrbjdNb1VUSF9DMTNHeGJxcXMwQUw1TmQtc0k1U3p4eHFZNE0tbGRLYXF5LWhLbldiUVBQU3J6emppd3ZlcXlBTGhRa0VwVGIwT2tpb0dMQmluVWpseXFHVDAzSWZ5MEMwZGs?oc=5",
-      "date": "2026-07-14T06:04:09.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Himachal News: एम्स बिलासपुर में बड़ा मौका, कम आवेदन, ज्यादा चांस... ₹10,000 महीना स्टाइपेंड भी मिलेगा - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeGphUUNpbURMU3lGeVdZdG9DTkdMNk9HZFNnOEhZWGpBQ2pGYUd4bGxMUUc3Z1g1a2NXZ1ducWJXdWpiTDdfUXk1SUhzUGU3VjlTeUQ4dTNoYWhmZFVFYWNNMGlqWmdDdjdxbm1iSHBtc0lnZmY1NnV6OVg4SDJ0ZTItVkRpUzMwWG1wTU1JV0dyM20wdDRfVEo5T2ItTGREdUI3NEhEZEh6eU40Q2xuWThSNWlIY0FXaF82czVsNjdGbm9WeUMyLWNzZ3BiN2MxOWhWYkgxcGpkWV94UnJ6LXZ1SHl1amZH0gHuAUFVX3lxTE5fN2Rva1QzaDNYdUNONXpEVkR5REQtQ3JUTE1IYUdCR2M0SC1VdjVBeFNLNmpBdkRjaENTRFN0d05TMWtGT0NHaVdXQTdzcDhDa1VfWm5WU2lsakV4VUZKdWNNN1V0c1VSOEwwYVJOU3Q0VmQ2OUhjdGNSc1pITXRhcnRnblZrb1E2LTFlODNNbnVsS3p5MlgxbFloM2FfeXN1ZWlpckFFckE4UG5NMHFkN29jLTNSb2xRa3dlMENhcWFxaVBnNlFKWEI5LTRqSnRTWmhxeklfTW00c2RSZWN3eTg4dmQ4YVhLbFBBWVE?oc=5",
-      "date": "2026-07-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "AIIMS Bilaspur"
     },
     {
@@ -107,6 +137,16 @@
       "date": "2026-07-10T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "Video: केके कौशल बोले- एम्स बिलासपुर में आधुनिक मशीनें और डॉक्टरों के लिए बेहतर सुविधाएं उपलब्ध कराए केंद्र - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPTXFRMXFvZlMtLVFPTjZtR2NacEtibzQwQVNKR2ZUaFJ2RF9IM0Y5OTRGXzZDczd3T0dfZVlpSTUtS2syUUI5QmNwOXptc0tJd0VMaXJOalpVQlE3OEdPTGVYTUZmY05NVXExVERSRmpCOFFQRGMwaktObVhoMDlYMURSTmdNbFc5c1FDRk1TdG5RQWpRdTRXSzRLaVk1OE5nMXlMNUlEUVAzRm1QTVVWQTIyeFNwU0JNZXQ4aHdhZ1hwblBKX0RGai00ZU9majAtdVNkaXZoTnR6NjY0cG1KTmxfWkYxVDF3Y1dHa3NObXZRREp1OG9rSFZBemM1RC1KdU5SbldvZkd1S1UwbGNiczNUVmxkWTJwZXfSAZ8CQVVfeXFMTmhYZ19qWnRQOWxNS3VfZ2F5SE90MGJrZU5BNGczcVlCNzF3cmg0VlJNS3hCc1NIdi12RmhzSGc4b3o0NmJGQVlUaTV3RkhJRXVTZ1F2SVUtRkdsa1UwdmJ5UzgyZmtHREgtbXNfbnMwbWI2QlFSOXZxV3hKQkhMZkZQZGtFNkdjNnh4TDZCMXFFRjAwZ0ZqNHotNVBpdUlqcGdsNU9YX2dESGU1RDFlVXBNY2M0ZVBobTRJMDBJSjRNb0RoUHRmLWhLSUk2X29zUXlIY3U5XzAteFJMd0E4dVh2MkN1a0N3TnJTR0hkYWY2UWpXdXU5U0xBU2N4N0g3V2hEUGwwQk41czI0NjJtcnEyS1FjYXZUb3ZhSnFKQ3M?oc=5",
+      "date": "2026-07-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "AIIMS Bilaspur"
     },
     {
@@ -160,53 +200,13 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "AIIMS Bilaspur launches 'Aapat Setu': 14-year-old's digital emergency platform set to save lives amid natura.. - ET HealthWorld",
-      "source": "ET HealthWorld",
+      "title": "AIIMS launches 'Aapat Setu' to boost emergency care - News Arena India",
+      "source": "News Arena India",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbGhGVHJRSDBfcGFRT2hpZWk1bGFUUXNyR2FqN2FEM3NLampIYjNqQ3FSRnFSeGZJMktPb2RmQWNtUTh0V2JERHJfQ240UFlHbTNVYjBzTVdmU29yMXhBUGgzMFVLMFl1QTdweWswazVSVEpYRjNkNkVZYU5WeXN5QzZQd09fRTd3YVlhUWRELVc0NDZ3MHVfVXhvUl9qelJ2UkJ6amlUVWNiWm9vaXFoamkzSm56d2ZPLUw3bUVtOUlGc3NoelJSM1IyZG1NWC1rYXV4SWtpRHk3V1R5QkNIZDcwZlFpM0xUcEZnYk9pemQ1X2tTN0ZxQ3B1Zjd2Z2hLS04wTy11MUJLa1U5M2VPNtIBlgJBVV95cUxQcjJXRlJxcDV6NkhXYkJRTzRsaURnb1AtanF4QWJENDJPOGJmOFZwbWJ5cXE0UzJJemJuZ2JheEItLWUtbkxYdk5WcVk4Q0huNEppNVhEY1RqLWZkMVpfXzlyMGdGUUVIanIzVWx2LVVoWnJLem53YzhJOFUtVENmNTI3X0pVWUxJUEdzNC1ZY2F3V3BpOUwxNmtLdTVqU242bjdQX0trcFFtYS0yQXJwVkFqeXU4eGJReGVnX0VjYXh6VXVhYWg2RndsQjU1UjlNd1hHQWJ4RHVDTlFrOVR5ODVqUXVqZktWcC1qamllRE9wVGFrS051QjNlQngzYWk0VGwxaWNyTV9xbF9QRU5hTHloYW5BUQ?oc=5",
-      "date": "2026-07-01T10:10:22.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTVpSUp2SWQzWm10YjQzSXhMUU5MOTZQbEUzMzRQOTJjaWZYcFVXN1lrbjdNb1VUSF9DMTNHeGJxcXMwQUw1TmQtc0k1U3p4eHFZNE0tbGRLYXF5LWhLbldiUVBQU3J6emppd3ZlcXlBTGhRa0VwVGIwT2tpb0dMQmluVWpseXFHVDAzSWZ5MEMwZGs?oc=5",
+      "date": "2026-07-01T09:37:11.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "AIIMS Bilaspur unveils 'Aapat Setu': Digital emergency platform designed to save lives - India Today",
-      "source": "India Today",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2Z2YS12RG1abzJKems2dVdaYzBRWVVoY0ozYVNvajJWb1FBZjNwbXBlcDJPT1BGZzFvV1RhMDVXa0Izc2ZyWVlCY3dlLUNzOFo2TXMtNU9JTGF4Tzl2VzV6OUNpTWVXN2lSeVVDai11enFSd2FwR181SGJQMGQtMG5rWVVpUjBZY1lQRlRaTWhWU2ppdzRsaUNMNDhGdmVWRzBzVE80djBXTldMaUVlZmVoX3JZb0RHU3VLRXo5bzhNR1hlVEUtSDJsenVWSGFvOVE?oc=5",
-      "date": "2026-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Revolutionizing Emergency Healthcare: AIIMS Launches 'Aapat Setu' - Devdiscourse",
-      "source": "Devdiscourse",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2VTMm90YmEyaUpReVh4TzBDWS1UTFNNWC0wcHhxM0MwWkNNTFlhSFVCRU9WaGNsbkFBM2dGUlpiWGdubDZjT3lTaXoxRGJxSVVYTXVGdjRuazhLTU5ud1JLd3pQMUFPWk9VdkExRzVnZHk0ZnJ5NERpQXdKSzh4WWdhU0dIbDM1RUMzQmY2ak83cjNldzVRWnFVRFEzUW15amIxbjYwVjhpMjlLbzdNRGN6TWl1OTJX0gG-AUFVX3lxTFBuR0pHTWR2aU9JUUNWUi1haFgxNHZtQ2pTc1JHUFJaU3VMc2djOGY3LWpsYjYxWVFQR3NPdkhBOHhUNzgzaTdiNkczbzNuSHgxVVFHQ3lUaUtZejBpakJESGJGc3I0dHNuNWFMRUxubzdKVWE2NU9iTk1DNXU0VE9kRDYzdUdOaFJXRWYyTUZZUkNHME1FQ1FPNDN0bnJaMlBEVlRtS2lISEN1MF9sWml2ZlNyalVuYWtESUpkY2c?oc=5",
-      "date": "2026-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "मरीज से पहले AIIMS पहुंच जाएगी उसकी फाइल, OT से लेकर स्पेशलिस्ट डॉक्टर की टीम तक, सबकुछ मिलेगा तैयार - ndtv.in",
-      "source": "ndtv.in",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUdrZWJVWGlIeHRyemdtNWRhQzJjSUNKQ0RLM1k4LXh2SzZYeFlvSzEzTVgycndzMm05V1lFMXZJNXhaY09XUzAxY0VnczFXVGszN09ubHZUczN5SnlZTGZRd0F4NUs0R1E0WXp2aUUxNXhrM0Q3bXo4Y01kWUtjeHhENk1ZREtBVmhJNUoySFlzbzJNWTFuWXJIWHY5RllEU21rbkZfTFF6WjBIaHZEQzk0VDdDNENCU19FOXZ3WUZQdmpBT2cyczln?oc=5",
-      "date": "2026-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "हिमाचल के वेल्फेयर ऑफिसर ने परिवार सहित देहदान का संकल्प लिया, रमेश बंसल ने बिलासपुर एम्स में करवाया पंजीकरण - hp officer ramesh bansal family pledge body donation at aiims bilaspur - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR1g0TkMtb2pwdi1SQndlWFFTUVZ4X2pZWHZBTHo1bm9COUp2TUllckxRVTA0LXdsRzNWMGtmVlJUaldSM2Z1RHlXX09jaEhWSjg2eWh6MWpEbXExR001U3MxT2VUbXh6S21IYnIyRlRLMlFpc2FqaUo1QklLZlJvbDZnLURTTjhZZk0tSGcyRmFPYjNTdkFRVnBzTC1qU0FiU2VXV2cxcXg5MVE1YldXQjEzUVBJQjRCcjhXdUlLVWVZbnpsM2VHZWNLZDlodm9wbXc?oc=5",
-      "date": "2026-06-28T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "AIIMS Bilaspur"
     }
   ],

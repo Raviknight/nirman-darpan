@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-03T20:22:21.743Z",
+  "updated_at": "2026-08-07T00:38:00.143Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
     "n": 20,
     "positive": 6,
     "neutral": 14,
     "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.11
+    "avg_score": 0.105,
+    "avg_magnitude": 0.115
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
+    "n": 2,
+    "positive": 2,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.4,
+    "avg_magnitude": 0.4
   },
   "overall": {
-    "n": 20,
-    "positive": 6,
+    "n": 22,
+    "positive": 8,
     "neutral": 14,
     "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.11
+    "avg_score": 0.132,
+    "avg_magnitude": 0.141
   },
   "top_positive": [
     {
@@ -39,29 +39,28 @@
       "score": 0.4
     },
     {
-      "source": "press",
-      "title": "VIDEO: Barabanki: हटाए जाने पर भड़के बिजली विभाग के संविदाकर्मी, जमकर की नारेबाजी - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRG5nRnhaVkhNeVZTTTVJX2JCVy1pbll1ZDNJZy14aHpqaUxzSjJSTkEwRTY5cmFpRXpkTmFia21OUGxFakM5cUdSZ3VVM1NOLVZWTWhGV3FvamRZdmNtMFBtc0ZQVnBFUWdoOFpZZ3lmV2RJZjVyM2VnU0FpT0lHbmthVV9wYUVlNGJid2FCdE9fOWhwNlJ5LTR5c0JFN00zcWJCZmU3bDRJN2F1NnZNNzkxeXpnTTZyQnd5MDJreVdmNldLN3BqdWhveFA0aFo2dUtMTk5IcXJHTWZIbHdCWVpndVM1b3cxV1JsZWFMMFgwdHR1b2NYQtIB_gFBVV95cUxPN0p4ZEw4ZnpabjE1T1BZNzhqV0k3VWtqLXJ6QTJ4SkpLUGQ5RWVtWHMzcnpJSEVrcm5VaWExcUJ3dUFuQV9lWTJ6NG1qY2JvTmY4MlpQSkJreW1nd0UxU0NTSFJPZHhWb3d2MG9LZTF4UEJnVmc2MUhsRWJYMjAyQVpDb0UwdllUeFFOVlJwMmFlQ2dILV9idHlOM1NkWndrVEdvcXJNbFBkSDFhX1NURUViTUhiakM2UllBbVZNWXJIUVo2TnpxNFJLUGxoaXRVNUQtX0lndGdlYmp1WE5FdjZOYmwxZmxkWFZxbkZ4WDZuelc2N01OWFF2ektpdw?oc=5",
-      "score": 0.3
+      "source": "youtube",
+      "title": "👍🏻👍🏻👍🏻",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "press",
+      "title": "SJVN awards electro mechanical works of Dhaulasidh project to Voith Hydro - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMTRjZzVOODE0X3dhUURjdmxtTXlZZVYydGZ6SHo5cF9rYkg4Ukw3LXhsQmhYbzRzUVdwbG5pQ1oyY0h1b0RVRS1CTDhESFBkMWVFalVOa0l5X2c4ZVFSQ2J6Q0ZpZWNKeGpPRm5acUh2b3NXWjg1TkZyeFRvZ19oQllzRWMzZnJyazRNT1pwVXU3T3BWVWhJdFA0cGVxUUnSAboBQVVfeXFMTlR4TmVGcGJJdl9lYUpPbXVDY1pFNG1mUFpnbG0yTmJUN1BhLUsyQ0xVRFJrY1lvTXNoSjVUSWRSQzZtanFTTi1Tamw4aEV2eWtNS2NVOE9NUVlHbmgyQXdCWVdSRnhJbVdrWEJoUW9iU3ZjdDlrbGtaS1F3Ry1STmlpSm8tN3h2cVpKbU1UckVVbjdxM0s4c2loVE1iYS0xQ2ZJS2lZSEYyS09ESGZ6Qnd4NlNaYVVMaGtn?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "Dhaulasidh hydro project: SJVN signs contract for electromechanical works - T&D India",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlqd3NYNE1Vb2hMcTRCU1ljZ2FrZG5OR042VGN4cU91ejdkWEhXUDh4SWdlbjNyTHVWTmh0UXRHRW1kUUEwREFPWGMtYWtXX0xqUExleUNoTWMxZ3doMDcwQ19NWGIxOU8ydXNqOHVseUt1czlYZWpabzhpd2JTVXdsa0VJQkZuZFRvdjBxU2hyd182SERaaDFtTTZqcGvSAaQBQVVfeXFMTlZuMFhoT0ZZa1pSaDJzNlFtVUdsV3ZtUUthby1RTzcxLUpjSjBla3paS0hSLTZ2T29WRGkxQ291V3otRXJTaFhkQUk3dkRvTlk2NkdOUy1xazhLcDR0aDRXVFNhQnBXZFhuSk1fanJtM09VNHF0Y3dwZ2o0OE8yb1N3cDk3ejJVQVF0bFFXcEFqRlFlUGVudGpLZE95V2hMeTc4ZjM?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
       "title": "SJVN signs loan agreement of Rs 494 cr for 66 MW Dhaulasidh HEP - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemtybmVGMnJpWkxYa3FOMnlXdV81WmowR01xNzFIcEdTb2ttdlRHeWtRNHQ4T0V0eTRFTjhaOU4yZGloczBJSHhjTFRSYlRJUVRUTlVaaEMya1FpNmNSVG5Yc2swa2FkbGZ2ZnFZN2F2cy1GUGEyaGFUaDNqd2xNYnQyVDVHWll0WFpjb0JidlVMMDZsRmJ4eEpMUGJ6TXN1TjJR0gGwAUFVX3lxTE9pRm4tVlRVUFR2RnExOHVwRHV4NlA1WjI4ZG9rQVIydldJamFwQkphSGpPeGpRci12NXdfaWMzNDBTTUQtazBGZ0ZvUVpKb2FkcERXak1LbWtfNGtBeU1Xa0puWUdDb2NaRm5UYnNzcXQwMW9FNUh2MVV0VVBZTTFxYmdvWEU3SjlRZ1lsNGNySHhkejFoUDd5Tk5UbWlzdDNHbzJBV3JpdkxaZFNyRmYy?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "SJVN ties up funds for 66-MW hydropower project in Himachal Pradesh - ET EnergyWorld",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORFJaTUNIaDhHb3VwaWsxQVBMNVJLX1N4QkUycHBvVFlSV194b3dtUGNsY3BhdHNaMHVTWkhYczdESTBHQUV4cm1ieW96U3JUdnJLQ1RjcGFmRW4tYlRZWDhvdml6SDlCOWp1dVRtLUpPWG9sSFplcjQ4OEkzbVRYRTUxM1BSeGx2elBiYzVUU3RseHMtcHg3QkRvUjFIV3l3V1YzcWpKX3J0N1kxQWJBemJZUTh5NFdoQ2N1WjZKSkdmQlFUbUVIUXk0dVZqYmZv0gHWAUFVX3lxTE5zVldzQXZCTVRwdzQyQXZnYnhuY1E4SmFDM0xMdEY1endxOGk4cGlvemhsLWVGM21NSXdfUkpVTkxoS3ZqNE5jdFk3ZllNcEJCV090VnktMEpjQm5KVjBDU2NsUkRfOTZoOEdmMS1rZXlhYUFneFhYaWlBTXJEaTRvOG9FNVo2SzJndTYxckpuNUJNZzBZLXhId3l1OE9uWUw4Y0NIZjFXOU8zYlN5M2F0b2JxVk5DdW1IZnpNVjVkcUhmZ1JHZnp5TnZzc3Z1Mnh5aExlRXc?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "SJVN CMD inaugurates upstream Coffer Dam of Dhaulasidh project - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVJmTUt3QjRpMjZLaWRqWE5FaTdkVnFva0lCb05nZkZoZ05fX19yWW1DcXA0UWdYLTJLcU54YnprZVJzWHZpTXRNbGpVODNzd0dWaVh3YklDYXp5Y2Z4QUlFc0x6OThleUJmbE5sclR3YUNydFlLc0NzLUd6TTk5VWVPYVdIU2FKb3pzcGxjRkI0T0VYa1F5TkR30gGnAUFVX3lxTE55Sjd1cW9hR0lwbXE4dTZsMkMxZXJCSU1TLWtRWHQxYml2Qmpsb18wY0FEb3llV1I1Y1UzMTNxbE9QbjYxRDJ4a3hfVWxzTlNVbENtT3pOZzBjOWVwRV9EeDJRR1VZa0lGQlZ1ZURkT3A0N1FlUU9Falp3cFlnLTF6RkRIQzMzVjlFRkM3dW41UUtHTVNUOGNreURSdnZ5Ync1N2p1VjRz?oc=5",
       "score": 0
     }
   ],

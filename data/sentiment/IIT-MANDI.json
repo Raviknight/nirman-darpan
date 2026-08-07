@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-03T20:22:19.986Z",
+  "updated_at": "2026-08-07T00:37:56.501Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 10,
+    "positive": 8,
+    "neutral": 11,
     "concern": 1,
-    "avg_score": 0.16,
-    "avg_magnitude": 0.22
+    "avg_score": 0.14,
+    "avg_magnitude": 0.185
   },
   "youtube": {
     "n": 38,
     "positive": 29,
     "neutral": 7,
     "concern": 2,
-    "avg_score": 0.342,
-    "avg_magnitude": 0.553
+    "avg_score": 0.334,
+    "avg_magnitude": 0.55
   },
   "overall": {
     "n": 58,
-    "positive": 38,
-    "neutral": 17,
+    "positive": 37,
+    "neutral": 18,
     "concern": 3,
-    "avg_score": 0.279,
-    "avg_magnitude": 0.438
+    "avg_score": 0.267,
+    "avg_magnitude": 0.424
   },
   "top_positive": [
     {
@@ -38,8 +38,8 @@
     },
     {
       "source": "youtube",
-      "title": "What a place",
-      "score": 0.9
+      "title": "I see it every day 😂😂😂",
+      "score": 0.8
     }
   ],
   "top_concern": [

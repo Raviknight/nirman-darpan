@@ -1,45 +1,47 @@
 {
-  "updated_at": "2026-08-03T20:22:30.594Z",
+  "updated_at": "2026-08-07T00:38:18.564Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 8,
+    "positive": 9,
+    "neutral": 7,
     "concern": 4,
-    "avg_score": 0.07,
-    "avg_magnitude": 0.26
+    "avg_score": 0.08,
+    "avg_magnitude": 0.285
   },
   "youtube": {
-    "n": 20,
-    "positive": 18,
-    "neutral": 2,
-    "concern": 0,
-    "avg_score": 0.575,
-    "avg_magnitude": 0.84
+    "n": 6,
+    "positive": 4,
+    "neutral": 0,
+    "concern": 2,
+    "avg_score": 0.15,
+    "avg_magnitude": 0.8
   },
   "overall": {
-    "n": 40,
-    "positive": 26,
-    "neutral": 10,
-    "concern": 4,
-    "avg_score": 0.322,
-    "avg_magnitude": 0.55
+    "n": 26,
+    "positive": 13,
+    "neutral": 7,
+    "concern": 6,
+    "avg_score": 0.096,
+    "avg_magnitude": 0.404
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Just to let you know that there’s a significant community who love your vlogs, your wonderful articulation and crisp pre",
+      "title": "Lovely 👌",
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "Thanks for featuring Himachal on your Channel. Absolutely fantastic and professional videos!",
-      "score": 0.9
+      "source": "press",
+      "title": "तारादेवी से शिमला के बीच बनेगा रोपवे, 14 KM होगी लंबाई; केंद्र ने प्रोजेक्ट को दी मंजूरी - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUURXd1B3a2hhUG9BV3V6QmcwTGJVWFJna1NCcW1vcFRLY092ZklkYVNuMWd0Xy1RQzNTdEJ2d0JIRG01UUVpaUZHbE5OclFVdHlCd2szV2hxa1BIMnVjejQzbkhKbGczRHRzMDh1MlVLUzFBWW42ZlNrOTVxb2Y5MW1lX2JkcVYtRVQxQ1FwcklaejRPNFVwNTRaOHg5RnBaZFVtR2VZTnFpQzNWdzFIaDQ0SVRSUQ?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Your channel will scale higher, for sure keep up the good work",
-      "score": 0.9
+      "source": "press",
+      "title": "देश के सबसे लंबे परवाणू-शिमला रोपवे की बाधा दूर, सरकार का टेंडर शर्तों में बड़ा बदलाव; पर्यटकों को मिलेगी सुविधा - parwanooshimla ropeway indias longest project gets boost - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzBQNEJpdFRReEM0d2lLU3RMbjRJdThvdWJLN2U3aXhxRjZDZVZoenRraV9UQjQ5TWxzc1dJb3Q0R3U3Uzl5UXBqdm4zbUFTVGVPc3hfNVByZjl5TEM5bktvbG5ZanNTM0VvTVZFUi11ejN6aV9neVozbEtEc1VBTkdBdWlCUnBzWG5fT1JjVDVIN3FzVThUdTZKZmNmWkI0Tzl1QjN1ZTYteUNhQndVT1hlcHd5Zk1O?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
@@ -50,16 +52,14 @@
       "score": -0.8
     },
     {
-      "source": "press",
-      "title": "Under Shimla Rope way project parking would fall far-short of capacity, HC seeks reply - - Himachal Scape",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFJyN09CUThsMW9IMVZNSzd1OXU4Q3JRaURYeDRyZU5YRjNlWHhST2N0U05JRjJzSGVOTVhEczQyU2M0bFlkVmVEbDVfa1MyY2FzSTJNeEh6anpLcXNDQUt2S0VEOExZbjQxbkc2d2lyeVM3WjdGa1BOcWNJZmhjcjJhZ2g5cnBGMzUtS0lpSVNSaXB5MUdQTXVPZ0EtempKMkEzNko2dm9mT0sxNEg5MXl30gG6AUFVX3lxTFByUUpyWDZyR2l3a1Z5VGdOQzlTRTBFckFZUWlycVpVbmc5UUM2Qk41RDZWOEkxQWxBRVQ3b3hHR0NGYVBXUGVSWk1zSWFHd3lac0lzYTVQZXdEbzQ2Vkc1TVhDR3dtSmlYeVl0TUV5aS1Ed3hyRVFKWUF0bnhwOEN0VEZ5NXcxenBJODUxLW1yLUE2eEpZdERIOTYxb0tJbHVfRlY2cHJ2NGxyMnRIUW5rVjhsLXRhbG8tUQ?oc=5",
-      "score": -0.4
+      "source": "youtube",
+      "title": "Aap hmar Message  nahi Dahka raha inbox ma or na Reply \nKya bat naraj ho to hm Message nahi kar gya  🙏🙏\n🙏👌🌹👍❤",
+      "score": -0.6
     },
     {
-      "source": "press",
-      "title": "Amid Shimla Ropeway Facing Cost Rise Over Five-Year Delay, Himachal Pushes Air Links, Clears Asia’s Longest Adventure Zipline - Swarajya",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ3pmXzF2eExEc1V3WGN3RWsxM28yRF9zd0pUOW9mWEFodVpjMG1wUDdwZW85Qm9LX3RVcmFoNzU0YlMtTFF3dGN4bWYwQ1pZTmt5ZUJad1Vid2kzcWdYakJORnZ1elptNGN5S0wzSFJORHpWTHh4SmhtT09jeTAyNFk3S0dtcGNiOVdmdG9rbkJka0NCemVaUDA2UFJLNzRUQjdRYnVUQ0FRdGQtNTdpRGZyMjNlRWNOOVlzTGlHY3JDRW1fSDZEcnVzMlZWM2NMRWtEQkh6c1FEU0dDM2N4Qm5mT0NTUFRLZ1pLUWlR0gH-AUFVX3lxTE5TcVNiYkxVS09SZTJlM0JSbzlLdW1TejNzcll2QnhsZXFxTXhxV0RuaEdKa1JkeFRJbzRxUG9pWFBIaHV3MDJnUjBnaEdRWnRETUVjU1ZucWRYSjNVRnUyY2FRUm5OSmNWd3RvTXRDdk5MQWtsTFoxMHBGWHZQQ3Yxc21XM0VuRHpxblpZbDdZNGxMY0NhTmJOaG91aHpJdEdOSEp6TWllZzVPVzBuSEc4ZE5WMHNtaTRtUTg5MVhVVW8zd1Y4OXZmVmYyS0I1clJXY0lLVHpCdG5JbEpMcVVyS015SnRxUk9Yekl4bXdTZjBlWG1DS0ZkcGVud01B?oc=5",
-      "score": -0.2
+      "source": "youtube",
+      "title": "I am from Solan. I can tell you this is just a false promise. \nGovt had promised a ropeway project in Shimla more than 5",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

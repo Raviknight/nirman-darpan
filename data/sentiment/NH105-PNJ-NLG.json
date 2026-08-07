@@ -1,48 +1,48 @@
 {
-  "updated_at": "2026-08-03T20:22:22.943Z",
+  "updated_at": "2026-08-07T00:38:02.446Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 20,
     "positive": 6,
     "neutral": 6,
     "concern": 8,
-    "avg_score": -0.055,
-    "avg_magnitude": 0.265
+    "avg_score": -0.06,
+    "avg_magnitude": 0.25
   },
   "youtube": {
-    "n": 0,
+    "n": 2,
     "positive": 0,
-    "neutral": 0,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": -0.05,
+    "avg_magnitude": 0.55
   },
   "overall": {
-    "n": 20,
+    "n": 22,
     "positive": 6,
-    "neutral": 6,
+    "neutral": 8,
     "concern": 8,
-    "avg_score": -0.055,
-    "avg_magnitude": 0.265
+    "avg_score": -0.059,
+    "avg_magnitude": 0.277
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "10वीं बार टला पिंजौर-नालागढ़ फोरलेन का टेंडर - Divya Himachal",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEZnSmxncGNId29jdnBVUXNFUzJVa205Vlh3SWpFOUFPN2E0UU13MjBaYktwR0xSWmlDUWFpTkVDY3Z3M0FlWWdpODBadjJvU0pnVXVHd3B5RmhNMkZEZXo4Q21pSl90S1dmTjd1Z01fZTBkM1hkeTNNYVM2MXBjbTdsZVlKVTg4dTYtRjEyM3E3ZFo3c0paVUgyb3VreTJRTDIxM0Q5a9IBrAFBVV95cUxQMlE2Um5HZVJ6TmhsVUd0SEpPckFyWGJDU214WlZRNXdhRm9wVkVZT1J4TGR6THhtNk9CamtvRVdkS3Q1elpEQnVQYWpkZkxUa3dpSVRrQTEwc1NVTTFQc284QTFQUDVseHRuNWNDUFpRNFhiemR1SmxXN0pKTDFmWTFHdDVSS0IyYkJaVEdWUTFsRXZiVkozR0Q2RHViZ1Y4ZXc4b0l5X0lkaWZj?oc=5",
+      "title": "पिंजौर-बद्दी फोरलेन को 378.48 करोड़, एनएचएआई ने जारी किया लैटर ऑफ एक्सेप्टेंस - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUEF1ajZnTGxLT01FbVMxcWpvYXJRTGlubGlfbEkwcU50OGhoMmFDd3V4eXJkUzZXUEE2bEplb0lJR0lQUTA1MEdXZjZOYXFxWTdjZExNYlVrcWJMUjNBZG9oYkh0aFFpVVB0aTNxbUJFeF8tRE51Z0hFSUozOGRGVW5LUFZVcmE1RWZXWjZGZW9Ob0ZoVC1ZYXN6QXlhSkEwTHhCUGdlYkI0WGRWTU9lTnA2RWVjM0NlbmIxdW0zX1VDbTRwNmhrX24tU1k1QdIBzgFBVV95cUxPUEF1ajZnTGxLT01FbVMxcWpvYXJRTGlubGlfbEkwcU50OGhoMmFDd3V4eXJkUzZXUEE2bEplb0lJR0lQUTA1MEdXZjZOYXFxWTdjZExNYlVrcWJMUjNBZG9oYkh0aFFpVVB0aTNxbUJFeF8tRE51Z0hFSUozOGRGVW5LUFZVcmE1RWZXWjZGZW9Ob0ZoVC1ZYXN6QXlhSkEwTHhCUGdlYkI0WGRWTU9lTnA2RWVjM0NlbmIxdW0zX1VDbTRwNmhrX24tU1k1QQ?oc=5",
       "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "पिंजौर-नालागढ़ नेशनल हाई-वे पर मरम्मत कार्य शुरू - Divya Himachal",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZE1tQnl4Y0txVmtKS2VQZGlReUhhbmJDSFFnbjRxeGxNNWhFaXBBcW9HLVJ5eXgwQnBNcHc0RmJZeVljOFJWaV9TM09iNHJ6ZGF1dlI0TzBBcW5VcHNuemdCLVp5aENQRmU2MHctcXhmRXR3LVVIN0E1Z2c5X0hUOTUyVEJfbzQyVUNUUnEtRFhTdHNxOVdiR3d4c9IBoAFBVV95cUxOemNFYVYyRTJHLWt6T1J5ejVjbGlZSGF2U1oyakcteURlUkVqRU41VE1zcnd5Zk9zOU1YSWNtTlBib0piak5TMnBadzRKUW1qMUhldXBzNWR6cXgxQUdRR3EtN1ZKT3hnNnM2UW91ODFWOU9aYmg0Q0VUSXZ5c0hGUENwY0tvV0ttdW5UdlNLQTFhT0s3ajRRZkdOcjdnR0N0?oc=5",
-      "score": 0.4
     },
     {
       "source": "press",
       "title": "पिंजौर-नालागढ़ हाईवे के फाटक पर तीन दिन तक सुबह 10 से लेकर शाम 6 बजे तक बंद रहेगा ट्रैफिक - Dainik Bhaskar",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZ0pyTVFCSEdUdHlrZ2V5TGlac1A4TUxnemszcWZnd1dsZFFUelFNeEtIZS1EUElSR2ExOFp2NGxaN083R01fM21NMjVzZ3MyMW9OUjVNbTBad2pDd252Z09jVmtYR0NUYkxMckdOR2k3QWJtX25HdnNpTkk0OGlGUDI5YWtxdWZOYUdsU0IzbUtXNFdpUmdhZzhIamNEamNJeXNwN0VOdTJOZFFCcXl1X1NmMGx0TXgxcjhpdGNFLWstUlZFQ3JfNlUwMnZHbTNlZVR2X0trQ3g0eXNXV0pyQy1ldGNWV01XRmNxM1pjSWdBQnFMY2lyR2liVURUTTdMSjBzeERGMNIBjAJBVV95cUxNQ1FPMU9XTk9nR0s1SlJWQnZTUmR5Y0pWZjJRRjJWdlp3MlNtblZXUUw5UGRWdGNDbDkwbXpneDFRUzlLWGtWZUVlQ0hoODRPWHI5TFNrWlh5dThBWUJidmthbWdCbjFMY29keER1OXFuazJqS3duVHdOUUowNG5sNHZGSlBzcER2S09OeUtSVGw2MlM4bXg0NWNhQ2FMWXpNd0VjNzNQc1NFRzJaN3duaWtPQVI4RU1wTF9LV0VWZUgwQmhrWTVGLU5xeW1GeUo4UWFJMWdkd3h4QlhQS055dzNwRHhSX1BDSU9QcEpqRGhFUkxrYlJHN2dpcll4MXpmemxJNXUtdldPZGxa?oc=5",
       "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "पिंजौर-बद्दी फोरलेन को बड़ी सौगात, 378.48 करोड़ से सुहाना होगा सफर - khabargaon.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSW53MDRLeUk4NjFZQlBUNmpwZ0NhZjBpdFRHZFFObm1jcHNKZ2dwT1BJdGEyMkVkNEJOTHc0ZVBWR21FYTBDWkxtUEZfdXlvZEZkVUlQZ00tR3VtemVGRXl5V0luVDhpNzY1ZzhvVWVUazljRTFxdl9NQmd3anBUV1RlZXhhV3VoWjFWR2ZjdDBSMnU3LUxDZHZqVC1jRlM3aFFHcnNMRUhkN2VpcENV0gG7AUFVX3lxTE1aVmVBV2ZJcTVCLW5rU3ZwS09YSURFMmx5Zm1RV1pfeDZFWUphOW5pMEdYc0t6WVFidFNDLTZLRmt6WlNJMkQybzdUTXdiU3V3emhaSU9YY1FFQXA4OWZwNTVXeU9WYjFqVmJqek5VTUhNWldOTTNrdGlzbEo3SDVNdjM4YVRIYkpYRFU4bUc1clBMUllwWVBiclpBV05STXc3Rk5EVWpYY0hKT19YdlVYbE0tUjQxTTJBZHM?oc=5",
+      "score": 0.3
     }
   ],
   "top_concern": [

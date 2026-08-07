@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-08-03T20:22:19.143Z",
+  "updated_at": "2026-08-07T00:37:54.184Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 12,
-    "concern": 0,
-    "avg_score": 0.14,
-    "avg_magnitude": 0.2
+    "positive": 4,
+    "neutral": 15,
+    "concern": 1,
+    "avg_score": 0.075,
+    "avg_magnitude": 0.135
   },
   "youtube": {
-    "n": 53,
+    "n": 52,
     "positive": 41,
-    "neutral": 11,
-    "concern": 1,
-    "avg_score": 0.466,
+    "neutral": 9,
+    "concern": 2,
+    "avg_score": 0.462,
     "avg_magnitude": 0.513
   },
   "overall": {
-    "n": 73,
-    "positive": 49,
-    "neutral": 23,
-    "concern": 1,
-    "avg_score": 0.377,
-    "avg_magnitude": 0.427
+    "n": 72,
+    "positive": 45,
+    "neutral": 24,
+    "concern": 3,
+    "avg_score": 0.354,
+    "avg_magnitude": 0.408
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Thanks to Narendra modi 🙂 saar also make exams more secure...",
+      "title": "My dream college Very beautiful aiims",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "My dream college Very beautiful aiims",
+      "title": "Thanks to Narendra modi 🙂 saar also make exams more secure...",
       "score": 0.9
     },
     {
@@ -50,13 +50,14 @@
     },
     {
       "source": "youtube",
-      "title": "Can you please tell me ki kitni fees hai pure mbbs ki aiims bilaspur mein please",
-      "score": -0.1
+      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
+      "score": -0.2
     },
     {
-      "source": "youtube",
-      "title": "Iam  joining ❤as nursing officer in AIIMS Bilaspur",
-      "score": -0.1
+      "source": "press",
+      "title": "AIIMS-Bilaspur trains emergency staff in mass casualty management - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEZkVUxUSGZKYXBWX3RnZ2RycFFvYmdYZC1zVDF3UkZHellQdnZ6LTlvdVkxdVJBVUZiNkpLR0VIZElER2syanM4TzVsUlFiV2cwZUJYYVRGV1FCclhXbWE4cHNpS2tpSkI0UzlpY0JGTGZMYmlCY2pRdHdoLXpYUk90Qk5XVzdidThVUUFoanhhTF9raEdiTzRrdjNXTWNzSzBGRXFMYVNJeDJ3eGxOaGNB0gGyAUFVX3lxTE5oRmRVTFRIZkphcFZfdGdnZHJwUW9iZ1hkLXNUMXdSRkd6WVB2dnotOW91WTF1UkFVRmI2SktHRUhkSURHazJqczhPNWxSUWJXZzBlQlhhVEZXUUJyWFdtYThwc2lLa2lKQjRTOWljQkZMZkxiaUJjalF0d2gtelhST3RCTldXN2J1OFVRQWhqeGFMX2toR2JPNGt2M1dNY3NLMEZFcUxhU0l4Mnd4bE5oY0E?oc=5",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

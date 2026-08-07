@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-08-03T20:21:17.641Z",
+  "updated_at": "2026-08-07T00:36:41.573Z",
   "project_id": "NH154-PKT-MND",
   "counts": {
-    "press": 68,
+    "press": 62,
     "gov": 0,
-    "en": 53,
-    "hi": 15,
-    "total": 68
+    "en": 52,
+    "hi": 10,
+    "total": 62
   },
   "mentions": [
-    {
-      "title": "Flyover construction leads to traffic jams on Pathankot-Mandi highway at Jassur - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHB4dVgwZVpPVTlzZzAta3NMX05JTVhEYTVhMGRlUDdUSGRXcG1xTWZCaDRITzFHSGljVjF5bVdXeWwzb3dYTzJRdWd0ZUJsVmliTUs5aEhiZ3ZOeXhHRWJRa25MelVDU1Zpcnl0QngwYmVrX2dkRGk0TjFCY0M3NWl1SFNSbGRJclV1WURELUFTYS1LdW56bnJTWm5QTmRJNUFkMmtDcVdISG4yY1hHSWktUk1OREpSZG1vR2xCU1XSAcQBQVVfeXFMT2lIdFJSOE1WbThBcUFFVkk2dWNjdGwyckNqLXJLdU1fQUZCc3BfSDdHemNBWkVOZS1OVnlPV1hqMXFCUEN6TlFadVdpWEtFQmRtZE0tVlBrQzg5anVuYjhIdFcyM2ljVm9nTHJwdHp5cGhTblg0aUptekdfTEFzcHhSX1JpTEpqMHJOTjNlRkc4THFsMVVxOXBJQVAwNjBPdVBOSjF0dFBIR1dTdllaeFMydlBscUhTUHoxMi1aVC1rUTFPTQ?oc=5",
-      "date": "2026-07-02T15:35:38.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
     {
       "title": "Malan flyover construction on Pathankot-Mandi highway enters final phase as last pillars completed - The Tribune",
       "source": "The Tribune",
@@ -30,28 +20,8 @@
       "match": "Pathankot Mandi four lane"
     },
     {
-      "title": "Himachal: Connectivity concerns mount over Nurpur bypass project - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON000cmNsQjZCZWFEWlBMdVV6dExYVWdqdDhUTzdCYUpVWnJsd19zVzBUWS1sNWcyOHp0LXg3X1hPYmFUX0RkMXg1YjFEcW5QWFVSMVFiOUZLRjVMejBxQVZ6QnpGd0ZwVGJTV2Z0cEQ0WDUyV0l4MS1TRzB0TnoyOXdUOXUwdmNXWFN2LS15MFZtUFR4Sng5ZXZHZWtoRGI4TGFqeGVWRzV0dknSAa8BQVVfeXFMT3FubjVaS1V5aF9adG54T29rT1lPb3M0aXdFekxuVkJNM01wTUtoaXd1WVhFeHkwZjFGWGdQNlhBNDRKVmx4QUptQkphdW1VWTRIMFRrU2tmbklEWUdxZ09TWXJEOXFodFVzRVR2OHYycnd6SWlCUGhVRHN1WWFLR2QyQ29iX0FpRlZUSS1TcVM3dUFlbnBBQkVJQmhVSEhqVHJHY19fSjkyTHZ6bmdnTQ?oc=5",
-      "date": "2026-06-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "पठानकोट-मंडी फोरलेन पर दो महीने से जंग खा रहा पुल का सरिया, भार उठाने से पहले लगा दम तोडऩे - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSEs4cUoyN0hkUlZfZWNIc05kemp4SlduUmpHcjc3M01xc25kR25qM3dhM1huNmpCMHdYSlptLW91MEdkUllhaEJaRl82OHBOZU5aTlozaTdaVkFUQ2RjMUNQNk8wQkYwU0s3cVBwNk1pVFFfb1NvbVRRbWlua0kwaDhLN09qRm16VkFKRzd6QjJnQXhwaFo4RTFpNGdYd0ZKU05jLVVYNk1RNVlZNmk1ZDVCa3NwcVBIUjhOaGFvbFJTT1JKaGJ3bUVjSXE4RGx3WlVZQjV6VE5ZMENPWXp1dVdaakJOZVp6dWtpcWZR0gHzAUFVX3lxTFBJbEtJaGZic0RmUUM3QXJKdlB4RjA2UkFoUld2Z1JEYk9naWRTVHR4VGtkb0EzejJ3UVpJZDFfb3F3LU5kRUlnN1h3eVBBZlh0alNHRTRpZDJOTkdPSTZkSTVWSHFnYVhyQ0xrWDNHY253UFNpMzEzWTVKN0p5UnVLaWpjOUVocDAtU21TS0xfQlhrcjVNbjFKczBrTDRCaHYzM2hZa2JIRDFfRjl4eDBuZU5LME52X3o2VGJBOHQtTlJlbC1FemJTMzRKSGhranFxdjBzMTNma2hKYlZZd0ZGOFVxalN6US1CdlhkNUZhb205cw?oc=5",
-      "date": "2026-06-04T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "NHAI appoints new consultant for Pathankot-Mandi four-lane project, reviving Paror-Padhar stretch - projectstoday.ai",
-      "source": "projectstoday.ai",
+      "title": "NHAI appoints new consultant for Pathankot-Mandi four-lane project, reviving Paror-Padhar stretch - Projects Today",
+      "source": "Projects Today",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTm01elJ6WWQxN2FYSUZmcVRScnJBTkd2YW1aZ0gtUl9iVHpCdi0yOEdpYlJrZGdkQzBpVWlXZUwtOGVmOFViZk51TUNvYUU1VjNySlY0VlU2TE1jSm9UQzNiMktrMFczMl8tY29ZRGJ2aVVia3IzOWlvVzhGcjdsTHlRNG1WeU9QM1ZGU3J1T19fMWVUbkhZUUpVd2RrTDdMZDRqLW5QVTNlbWhOdDZickY4V1dJaVhuSFlmeDdEcEZrTUpHOVhGZHY3U21ja0RDaXB4Zzk1MkZKY3F6Z1lrMlp2R25UMjJWMnZ3RGpWeFM?oc=5",
       "date": "2026-04-27T07:00:00.000Z",
@@ -205,6 +175,36 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdENud0ZJaV9XUURIeV94WVBYNThsR1NONHU5cUJqNGtDTnZLeFh0bGpyQkppeGFJdUNVRS1FSHp0Yks1cFJGaWpNcVdFOWxtS3A4N3RvMVZLMFRjWDg3NXVVczRQd0ZOdDNsc18wOHUtZ1FFRTJoekw2alVCdm9fa3VnbUNVNVlpSlNZeTFfYUdWaVluU1pndFF2UTR4ZVliT29tR1FhX2FkVjgtWTk5WWpmd1FnY0w0UlZDenNwNTZJNWtCam0w0gHLAUFVX3lxTE43M05abkRSdGFqTENmbS1Fd2NicWg4Z1NxVTZBNjl0ZUx5UllYUVpnVm1aQTl4SnR0c3BjaW5OQTVVWFNvM0g1RzRzM21PWlNaTzBSeHVlcmJuZHBzUXlLeGdiZV9VdG43M0VsLVR4SGNxc3hPTFMycTFEejFmYWF5MjBFRTR5S0NKVkxWdlFOX19wUmtScFZtTXp4Zmdia0tEN2MtNC1GamI2TXU5SUpOR2JTRzRXSVQyUWhWaHFVRVM3aHkzZGpjc0V3?oc=5",
       "date": "2025-10-23T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
+      "title": "Pathankot-Mandi Fourlane : परौर से आगे फोरलेन का दोबारा होगा टेंडर, NHAI ने की तैयारी - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQRmFJZHREc1ZscjB1cnNaUTVra2oxN2dtRTh4aG9RcldVZDNhaFJyN2txVXNZOUtRX01DLU03bTZ4bDV0TG1QMW9KbG5aU3FYOUN3WUhuNUtULU1rbjNqOXMzaG9SOW52dVQ3UkRLS28tbVl3NjZJWXltZG1yOGhJYURtZy1SUjBjdkdhQmVYdjBGaGdqQkFxSEV3SHFIdjJ1ZTY4RXFfWFR0WDN4U1NCeGpMLTJIOTMySlVuTWFhaDZMU2k1bEpQeFZWRTEwVXN0b0tGZGVOdnEtUGQ4UzBPcnktcmxNNmw4Q2RhdVRCQVFqRHpFZ0RaX1BkbEV2U3YzVVJvd290S0swN21QNGxud0MyN2FLVXpoX0hHX2VnTllfSXFMSkNuVGNhZ0ZmbV9UaklpVEp2cWHSAb4CQVVfeXFMUDkzMmR3cXdacGJ3YjBBVWdnc2RacmxtWngwZlFISHhaRTJFdzBZOFpHd25SM2JqVEEyS3dFRzlieUdkUzlRckFYaU0xLXJqVVBwQnF3OG96YmJMOWloYVdnSmZvcVd4bl9Xa0NIX3gtX25BbmJFNzVZZjRrbnQyY2x3TmtpbmxQV0ZUUFhHTGxyUGhtajl5X0drRXY3eGtjMG9JaXF1MUoteHlZdmNTVklGUURoRGN1b0YwNjRRRS02TV9QRTFaWWhINXhDUWY0MkhqR2NhTVlqa1ZnVVZRNEZiV2dQTnJyS2JCUnJOWWZycFU3MGgwS2RPcjVFWEE0RmVQbWZQTGlnWDVrWGpva2ZsQW5PWDhzMU5DenU1d05SaEJSZXdYMG9wYmxVei1VbjlNR0dTWmhYX2hRTmJB?oc=5",
+      "date": "2025-09-25T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
+      "title": "Pathankot-Mandi four-lane work turns daily commute into ordeal for residents - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkxTeFZDcmhBeUZhQ2lsYXZTQ3ZoQ3FpUjVBZ0diVGZsOXplWVBtZkFlb0F5OHBoRWNHeDlZbHBxeVNmcnhocE1SVFZBTWFFd3BJamdZZG56UkUwU19xdUFjd0cxRnBWNEdqclMzbzVUZkdFT0Q2c0ZTVlR0UEdCSmpRbnBSOFZjenczYTc5QkotaUQ3MDhDVEFDc2VLOTNzMFhSUHNoUmNJek9kUFEycDVJQmc1cmstMzJyb9IBwAFBVV95cUxOdjZMdzktenpVa3lsX0xPXzdub3MzM2NzYlBKQlU2YWFGRWd4UXFzWDF1Z01mQlJtQmNLM0oySHhzdDlxVDZTNnlUcXZMTkd5S2hKMkIzRHZOa0J4VWY0OG1aMWNkWWZSU3ZXRmRhY3dHWkVQbEI3UER1LVRVekQtb3pSX3E0ZG44bzFLSHJmalVCbXRqM19vazBPbEg5UkRCVkxTMUlxNXIzT3JhX2taNlpvcnBqdEdLVkhKRExvbWc?oc=5",
+      "date": "2025-08-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
+      "title": "Crackdown spurs revival of stalled Pathankot–Mandi four-lane project - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2xmQTZQcXZVN05aV3ZHN2dCRGItMXk2UlM2NXFUMjIxMHE5a1hrYjRFRlBxcE41Q2VabEhvRlBwdF9LaWdjNEQtMGVJNXhPaE1Yd18zS3pKQ1hDQkRZOHMwZkVueFhBTE95N2xjWEtYYmZqSlR4ZzZtSE1DanBaYWVYQXdXclJTUERMdDJEMm94QzBZbE9NSF9Md3NwdWZaRGpZTDJQZnNLODFHV2lNY2JB0gG2AUFVX3lxTE1sS3ZQRzFtSGFHVG55d0oxMUM1TUcwQUt1REs2cmpNb2pwUjZrSnkyY3phUGZfS3ZEeG13RnhXMkx2b1UwMmFUQ1F5N2xHUHRDUmttX3IwODZlYjRERlpxRDZ6d0dZVDhfQmZwWTRVb0IwbDNSb05jN0tqQmJPeVdPN2t5ejBfaVQtOEVraW9yT2J5TjRheU1XbHVoWlBtWW4yLWRBQWQxX1hjOWtvQjhLYmpKYUFn?oc=5",
+      "date": "2025-08-19T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pathankot Mandi four lane"

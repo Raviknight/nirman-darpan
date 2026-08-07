@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T20:22:28.315Z",
+  "updated_at": "2026-08-07T00:38:12.632Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -11,19 +11,19 @@
   },
   "youtube": {
     "n": 20,
-    "positive": 16,
-    "neutral": 3,
-    "concern": 1,
-    "avg_score": 0.445,
-    "avg_magnitude": 0.915
+    "positive": 11,
+    "neutral": 6,
+    "concern": 3,
+    "avg_score": 0.3,
+    "avg_magnitude": 0.75
   },
   "overall": {
     "n": 20,
-    "positive": 16,
-    "neutral": 3,
-    "concern": 1,
-    "avg_score": 0.445,
-    "avg_magnitude": 0.915
+    "positive": 11,
+    "neutral": 6,
+    "concern": 3,
+    "avg_score": 0.3,
+    "avg_magnitude": 0.75
   },
   "top_positive": [
     {
@@ -45,18 +45,18 @@
   "top_concern": [
     {
       "source": "youtube",
+      "title": "Is it just me or does this look like mature ginger they are planting? Also the harvest looks smaller than what they plan",
+      "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "This is Pauline Longley ask how do you cook it please let me know it",
+      "score": -0.3
+    },
+    {
+      "source": "youtube",
       "title": "but why? the one they initially planted looks heavier",
       "score": -0.2
-    },
-    {
-      "source": "youtube",
-      "title": "வந்து சாப்பிடறவர் entha information னும் குடுக்காம சடனா வந்து பாத்து சாப்பிட சொல்லுங்க",
-      "score": 0
-    },
-    {
-      "source": "youtube",
-      "title": "seeds : 1.5 Ton  & harvesting : 1 Ton 😂😂",
-      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

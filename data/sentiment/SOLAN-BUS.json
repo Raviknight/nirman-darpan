@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-08-03T20:22:30.769Z",
+  "updated_at": "2026-08-07T00:38:23.771Z",
   "project_id": "SOLAN-BUS",
   "press": {
-    "n": 4,
-    "positive": 1,
+    "n": 5,
+    "positive": 2,
     "neutral": 1,
     "concern": 2,
-    "avg_score": -0.25,
-    "avg_magnitude": 0.5
+    "avg_score": -0.14,
+    "avg_magnitude": 0.46
   },
   "youtube": {
-    "n": 19,
-    "positive": 9,
-    "neutral": 7,
-    "concern": 3,
-    "avg_score": 0.142,
-    "avg_magnitude": 0.258
+    "n": 20,
+    "positive": 17,
+    "neutral": 3,
+    "concern": 0,
+    "avg_score": 0.58,
+    "avg_magnitude": 1.405
   },
   "overall": {
-    "n": 23,
-    "positive": 10,
-    "neutral": 8,
-    "concern": 5,
-    "avg_score": 0.074,
-    "avg_magnitude": 0.3
+    "n": 25,
+    "positive": 19,
+    "neutral": 4,
+    "concern": 2,
+    "avg_score": 0.436,
+    "avg_magnitude": 1.216
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Bhai job mil jayega",
-      "score": 0.8
+      "title": "Wow!! I love Himanchal state!! One of the prettiest states in India!!",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Thanks ❤",
-      "score": 0.7
+      "title": "Very beautiful apple farm. Congratulations for your vocation of being a farmer🎉.\nGod bless you.",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "❤❤❤❤❤❤",
-      "score": 0.4
+      "title": "What a beautiful video, thank you so much for sharing it, Priety Zinta! I was absolutely amazed to see your farm and all",
+      "score": 0.9
     }
   ],
   "top_concern": [
@@ -50,15 +50,15 @@
       "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "Bhai koi job milega kya please help me",
-      "score": -0.6
-    },
-    {
       "source": "press",
       "title": "Forensic report backs rape allegations against Dr Bindal: Solan police - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT1ZXSzVXLVI3cVdlRTk4X3hnbENhTFR1cTV5cGZMYktVSDR4V2NxNjE5UEVOWFVEV084bUN3ZHpZakY1NURHVjJmNFl6WV9WaWFDUWxGQXFSNHpTRDNLcUpJOGFJa0JFWkVWeTBHWnRrQnZybkJfNzNTV0lndXAxbGlZWDJwYjdoa25iSHo0eXBCN21UdW03Wnh2LUlNS0JubkdGR1c3Um1PUEUyQ1A0T3RwaTJEdlJfYUV5Z2JwQzFPUjBqZ3dPUVIyeWx2cUdLa0hJSkE5SVJ0bmpuOGZNR9IB5gFBVV95cUxQQmR6cXhGLTRfdmJlTlowVmIwanotYllTSGVJckNQWDZnU2RCb0ZPckVyUmdXbHRWb2JwOExDZzYwdk9KYURKSGFxZk1iRVdFTjJ3Y2VUZ3Zab0tweGMxQWlGcHRqU0dmSVlxOHdQYkNiYWtDeVc3cWFYdFRmaEIySnpEUWo0dU5WMTkzNlZhTjIzcGZzVFFIaVZJVkxpMFRtY09oRloyQkRrNndhOGFucmdsa05sREg5OE5vUFdpOXZQQkc3bmU4aXdjUW1TOWpRMEx1Tm1CczJTVmZ3Rk1XdjltRmJRUQ?oc=5",
       "score": -0.6
+    },
+    {
+      "source": "youtube",
+      "title": "Ye bagicha ka credit to jo majdur hai jinhone mehenat karke bagicha ugaya unko salute👍👍👍👍👍",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

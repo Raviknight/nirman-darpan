@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-08-03T20:22:28.384Z",
+  "updated_at": "2026-08-07T00:38:14.506Z",
   "project_id": "SHONGTONG-HEP",
   "press": {
     "n": 20,
     "positive": 7,
-    "neutral": 13,
-    "concern": 0,
-    "avg_score": 0.165,
+    "neutral": 12,
+    "concern": 1,
+    "avg_score": 0.135,
     "avg_magnitude": 0.185
   },
   "youtube": {
-    "n": 8,
-    "positive": 5,
-    "neutral": 3,
+    "n": 3,
+    "positive": 3,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.488,
-    "avg_magnitude": 0.563
+    "avg_score": 0.867,
+    "avg_magnitude": 0.867
   },
   "overall": {
-    "n": 28,
-    "positive": 12,
-    "neutral": 16,
-    "concern": 0,
-    "avg_score": 0.257,
-    "avg_magnitude": 0.293
+    "n": 23,
+    "positive": 10,
+    "neutral": 12,
+    "concern": 1,
+    "avg_score": 0.23,
+    "avg_magnitude": 0.274
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "भारत माता की जय❤",
+      "title": "Amazing fact 👍",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Amazing fact 👍",
+      "title": "Excited for video 😍",
       "score": 0.9
     },
     {
@@ -44,9 +44,10 @@
   ],
   "top_concern": [
     {
-      "source": "youtube",
-      "title": "100,% banega\nModi he to mumkin he",
-      "score": 0
+      "source": "press",
+      "title": "RECPDCL Hands Over Bhadla Ramgarh Power Transmission limited to Power Grid Corporation of India Limited and Shongtong Power Transmission Limited to Terralight Solar Energy Tinwari Private Limited - REC LIMITED",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOc0NVcS13OTRkVUVrWG9fVGIxODE1UFNuWmduVEJTWE5SVWpsU0o2eXBUd09mUTJORHNpVjhfd2YwUldlVmFicVNxaW9PUllTSFJXMDhtdEtIdnNyX2M4aDh2eHpCZFZZa0w3YTl0ek95TzM4dUlHUFZfTmhIb0RBalNCT2tlTVlLcDNjZWhOVTFyZ093N0htSHZpQVpYSFRBN1JJaVVHTXROUVcwU3hpbDJPemhEbldBRDc0Z2JQVjAwS0FGTzdQQWlvdGo3U3ZZZUxsTFNDazJnZkJzN1FJNlMtM1c2bFBDdXZtQ2otRHpnMEMyUE0xZHVKWkFlWWtSYTh1TDNn?oc=5",
+      "score": -0.3
     },
     {
       "source": "press",

@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-03T20:22:26.330Z",
+  "updated_at": "2026-08-07T00:38:10.677Z",
   "project_id": "SML-WATER",
   "press": {
     "n": 20,
-    "positive": 9,
+    "positive": 8,
     "neutral": 7,
-    "concern": 4,
-    "avg_score": 0.07,
-    "avg_magnitude": 0.24
+    "concern": 5,
+    "avg_score": 0.045,
+    "avg_magnitude": 0.28
   },
   "youtube": {
-    "n": 33,
-    "positive": 17,
-    "neutral": 11,
-    "concern": 5,
-    "avg_score": 0.27,
-    "avg_magnitude": 0.57
+    "n": 39,
+    "positive": 15,
+    "neutral": 12,
+    "concern": 12,
+    "avg_score": 0.146,
+    "avg_magnitude": 0.531
   },
   "overall": {
-    "n": 53,
-    "positive": 26,
-    "neutral": 18,
-    "concern": 9,
-    "avg_score": 0.194,
-    "avg_magnitude": 0.445
+    "n": 59,
+    "positive": 23,
+    "neutral": 19,
+    "concern": 17,
+    "avg_score": 0.112,
+    "avg_magnitude": 0.446
   },
   "top_positive": [
     {
@@ -38,25 +38,24 @@
     },
     {
       "source": "youtube",
-      "title": "I wish I had dimples it’s so cute❤❤",
-      "score": 0.8
+      "title": "I’m so grateful I have natural dimples",
+      "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "If people can't help themselves no one can, Drains and Open Nallas can't function as garbage dump stations for the local",
-      "score": -0.8
+      "title": "Service CGHS bill claim kase  karte he",
+      "score": -0.6
     },
     {
       "source": "youtube",
-      "title": "Sri Yamunaji is not happy. too much pollution and also sand mafia. Sri Yamuna is worshippable and should be respected",
-      "score": -0.5
+      "title": "Bhai ja k dekho ek bar cashless me apko admit he nahi kiya jaega private hospital me😢😢",
+      "score": -0.6
     },
     {
-      "source": "press",
-      "title": "Shimla citizens getting poorly treated water, Pollution Board cautions - The News Himachal",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTJsd0I4MTN1V2R0VEIxZ2Z1QkNqcVBmNmpleHQzNWI0YWpCN0QyUmVlTkZYa04ySFJaZGZrMzNEWTdRV3dGbjdnM0kxNVVjSnJjajR2dXE2NlUtQzZvTk1ONlB0R19jNUlaaEhua01PQ3RhaFNDMXM2UkJyZFdNQi1UbVF2NlRGcHJkX3pXQUE4eUJfZ3pmMHQxS1UyWWl0YlF6OHMwcDRaQQ?oc=5",
+      "source": "youtube",
+      "title": "Why railway employees can't get this facility😢",
       "score": -0.5
     }
   ],

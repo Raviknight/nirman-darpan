@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-08-03T20:20:44.529Z",
+  "updated_at": "2026-08-07T00:36:09.259Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
-    "press": 255,
+    "press": 253,
     "gov": 0,
-    "en": 142,
-    "hi": 113,
-    "total": 255
+    "en": 138,
+    "hi": 115,
+    "total": 253
   },
   "mentions": [
+    {
+      "title": "चंडीगढ़-मनाली हाईवे पर दो जगह भूस्खलन, पिकअप क्षतिग्रस्त - Himachal Now News",
+      "source": "Himachal Now News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzVxVjZkVWZfcEJnbm05ZDY4bEtxajFUdW9qRUJmQ2dQcGctaXJGLU8tQTBoazBjSzJPQ0c0TU4xUUpSQXB4eW05LURCWncxcGhMWUNqanVLNGVSSGt3dW5IalpHeHdVNVNrbDNFUEVzS0FKNHRVd1Fnb1lwcDF6QUFLbFBDMzg?oc=5",
+      "date": "2026-08-05T12:15:01.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "हिमाचल में अमृतसर की 22 वर्षीय युवती से पकड़ा लाखों रुपए का चिट्टा, बस में ला रही थी खेप - Punjab Kesari",
+      "source": "Punjab Kesari",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWHJ6UkpXbTI5Vl90UjY4T09mU1RTMlQ0NHlibTl3UmJUdjFHX2c3N2h0c2lkVFJEWUlVYTcwTTIxeUpSc2dGdkZzU0tZNFY5TGRkQVowb2NQdk1YRlhrMWtEVXpITVBUWWZ1blF6SmcxWWJ2elZiTEZ1Mm5OOUd1QmQ5RU5DSWlIek9hNG5Gd0QtMGsyT01BeDMzYlp3Z05Yb1dXMTNIc3gtempSV0FiUE9sRHZWWVRsWmhzZEdRWUtYdVFRbnliNVMtc3JjZ3lDUGcwdHZiZkvSAeABQVVfeXFMUEdfN3A3UHlTVUNhSjJ1OHZXZFZXZFJfR3Y3NU9WS29LVEFBSDFnczViYXRILTBYSWc3bU5iLWdkMlY1dHhwNGJjUGVJRzhMUV8xbmZkbk81OGtjTXVJSTNZNldkOUFrMjZhcEItb3ZtR0VwbHBId1hvUGV2bElSM3FhRkdaWnFlbmRFaS1pSWlsVGpjb0ZWODBoS1g5cno3NnBOUWhRNEJpcTZ0SFVQZHFkdnhORFZvTkIyaDVaTEdPRkM3TVd4aUhBTDMxaU5rdWRocTA2bHVFV3RPaWRsYVQ?oc=5",
+      "date": "2026-08-04T11:02:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kiratpur Nerchowk"
+    },
     {
       "title": "कीरतपुर साहिब में चंडीगढ़-मनाली हाईवे पर अज्ञात वाहन की टक्कर से एक की मौत - Amar Ujala",
       "source": "Amar Ujala",
@@ -65,16 +85,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNLWpXdkNVdk5TRVphV1YxT0tFRDQxN3FkMmFySUxpLTVhaTFoYjhzWERVUl94X1pxZmpUa0dxUWQwbmJPbUpselpXczRZQjI0cVpQY2JJUm5WbVJleUdIUmxyXzNkMzdDNW9CeTM0WXUwTF9zdnoxLTdZb2pkWGJUTGRUM3RFdTZiUHktc2FXOURmbGFDaHNuYWZzb3VKaXlyQjlDY1VKakZuN3hOT293NXZYb3lIMUZSenlRMDZ2am8wcVIyY0Fmc2IxeF9LNGRwekR2YlRxY19TX19HOWR2amJGMFhadFdEb1hPQlFuTEtNaEJiazZpNU1TR281Qzg5c2NucU9pUENsNVVvTEgwc25lemVfeWhoQlpIcHh3a0VLeko0R2VPOTV3RE51bEFyZDdNM0VtTEtBWDRESi1hY9IBxgJBVV95cUxOUWZSWW00dTJyVmZwcU10S0F0MXRvb0plcE05YzVCZzVja1hmdkFqeWw1T1haR1JHQVR2ZmV4czA5M1YyWFV0Y01sODNwSzRtdXdsaHA3NS1NU2ZUWWkySktoNV9GYnlueVJtemtGUC1vQ20tb2JDS3Y5d3ZMZnlpcU5COFNTUVBlQWQ0X0lvVFVhMHFzZi1pdWJjcVh2RzFEbmVtNEpLWnNhZDFOVkwydS1Db0xqMXZjTWNhd2RySjJhSEhkd0VEd09qVVRZbXNDZUxuOXhZZHE5ZUdfVndCdjFGcEdnMTVTYm1Xck0xcHNiT3FzaHhRQUk0OXgyeG1Va2VFX3ljbUNBTUxxbHFMWV9URWZmSGlna004dGlPRGpFZzB3WUdteHRhVnR2ZlVFVmE2a0VmMTJ0TW52MmRwQm8zU29nQQ?oc=5",
       "date": "2026-07-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
-      "title": "Bilaspur News: कीरतपुर-नेरचौक फोरलेन मुआवजा अनियमितताओं पर फिर उठे सवाल - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNZ3FWOW1ZMkxOTFNfMzUwWlhLeVhDNXg2QzlBeEZ6RU1NcDRtMnJaMnRQSkZIMS1RNEI0ZWsxSWQ3NFRXT3JjOTFkR0VoX3psdVQ3RE5fa2U3Tmluc3I0WmV6VGd4V3FhVk5tRk5wdXNQRTVtUGszYXNXWG1qdHlxaWx2WXRkaEh4OS1ZaXVmemVMWWg1ZExMZDlsSEtQUk9tLUdOcmZvVnNDSlBxSkc4QXY4N0RsaVJ2M3lZaGsydldBalR6bWN4R3Q3Y1I3NjNZVEh6U1RxcTk3eEtVN21LYzVXamVPRlNUWGRaNDdoMml4X3VhQm13dVNlcy1Xd05IaTJ6YlhrWDB0Zmh1QXY0aHI2VVpFWnU4TnF0TnBlSm85R2R2aDk0b3lBNUbSAbICQVVfeXFMTk1XSnFhRkcwakRuN1o0RWljRXpWc0pUbHBkbE40aUs2cEJWOE1VdnkweFlrWk8xREluUjNMam9iQ0xTWU1RX1JmY1pEWHlXMXlWR1E2SGdoR2lsSlRkcUd1ekhHd0ZXTzZOM1hqZ2ExVnhPQVZ3aWd3WDA4S3Q1VXBMNkRNVnVsQlByOHdaVUJoZkJxNS1HTFlfZEpidTliU2hvRXRUVUEwLWxDMWp3NHBWbG5aSURPX3A4M3ZkRlRKQm1TNFZhX0pnckI1ZnRnV0doWTZsZ3ZsTWpxd1ZaakFIWXhsbm0yekl4bkdyWGVTOXdNSW9OZTNnYUNvV2syX254cGdwbFAyRG9uOUJ6ZjRBRzJPMzl0N0xwZUZYcFZVUjdmcld3b09CZWZGUTFDR1dn?oc=5",
-      "date": "2026-07-11T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Kiratpur Nerchowk"
@@ -150,24 +160,14 @@
       "match": "Kiratpur Nerchowk"
     },
     {
-      "title": "हिमाचल में टूरिस्ट सीजन में चंडीगढ़ मनाली हाईवे पर भीषण ट्रैफिक जाम - AajTak",
-      "source": "AajTak",
+      "title": "हिमाचल में टूरिस्ट सीजन में चंडीगढ़ मनाली हाईवे पर भीषण ट्रैफिक जाम - Aaj Tak News",
+      "source": "Aaj Tak News",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSUt1N2QweFViNlRwZVRZa3hNVTktakJHZDk3VjZRMUQxZkFQb1lNYmtId05NbW90OVRvekU1Yi1FWjhBN01jZFpnYW50cHJUaW9TdjF4MGxlMm83UDJuYklKb2JnczVNZ3lyQmpHeXpYVXBRM0FlbnFXdjlLengtTC1rS2xvNFoxNE1rcVRjc05kWEtMS3ZSX2w2RFRhbE1Bem1tcGU4ZlM5cVJxaUNKRzRZZGtmQWtnZFZhdEVYNldoc0hqU1ZxQUpYSDZNeXZmX25IeVJR0gHbAUFVX3lxTE51azhWMWM3Q1RBYkVCUU1ZRFZFTHhjMHJ1dDUwc21ta3VVZHRrZXZNZmNORVVBSUpNTzJjWkJON2k4LVZzbHNNazFhWFhlalJvMTFIMWFjM3BpOElaWXAwTnpLMGoxUHY1QTQza0p1QzlSeVp1OF84ZGU4VVBfQUxvb3EyWWd0amtUZWV4d2dURlFEU25zX3ZKRnM4b09LWXZjV3FmUXVmMTJmY3M4ZWJZSWhGckVhNjF6Uy1YRW5RdTdMLUlTWXZhazVZRThHWVJPVHgzeXlPZGthbw?oc=5",
       "date": "2026-06-14T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "Bilaspur: कीरतपुर-नेरचौक फोरलेन पर लकड़ी से भरा ट्रक पलटा, दो घायल - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSlBrVHd3eG5kMzhQNEl6Z0VVTUtuTlFZRnBDMjJJeE8zWWJpbEYwN0hEUGtYWi1TcFpKQk94azhHbWJESTNKSVJTQ3gwR0FCbXR4a255U1VBSUp4a1M5eHhMckxPYU0yVjcydmFPTnZ0VURaUVRQUVZfS3JlVnotRmg4cGVGX0pMd0cyU29rQVo3QU1Dc2ZIWi1WMHZ4UmVJVUN6NnVZaldYVGRhWFd5SjJzdnBUM0QyYlBoRUtnUzBSd2dVOU5ER2VRWFZKWW9QNElub1d4Mm9sNWhKSVI2VWxHdmdtUWNvVlNONTlzbVlZbTJXdS1KamtiMNIBgAJBVV95cUxNYml6SlEyWENXd240RUdRVWswWHFCajV2aHBqeVJVQ3hvSldLZkxOLXpXRWtGdEwyUjFrZXh0czU1OUx3RngxcktlOXhMYU5VeE9TaEJkVHF5aTJOalVvVndtMkdjdnV2UnI4VFZER09xNXF2LUFtVmJvZkFQa3ZiVUF1NjJ3QnJmVUpVUTlRbXIzVjhMTUtPM2h2UjczdDNXTFlKMDlHejh5bC0zWWFkTzVtZ1RWNV9TSU0zV2JROGRLRlFBQzZCWl9UU2xhNUJWZXBwOHUzTjY1MGl5MjV1UUJ6MmdEVllPQkwtZkUzbkR6dkRaTGhncTRUUC1kRlc2?oc=5",
-      "date": "2026-06-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kiratpur Nerchowk"
     },
     {
       "title": "Chakka jam at 55 border points on June 1 against HP entry tax - The Times of India",

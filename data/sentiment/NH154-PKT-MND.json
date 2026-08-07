@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-03T20:22:25.415Z",
+  "updated_at": "2026-08-07T00:38:03.412Z",
   "project_id": "NH154-PKT-MND",
   "press": {
     "n": 20,
     "positive": 5,
-    "neutral": 7,
-    "concern": 8,
-    "avg_score": -0.065,
-    "avg_magnitude": 0.285
+    "neutral": 8,
+    "concern": 7,
+    "avg_score": -0.05,
+    "avg_magnitude": 0.27
   },
   "youtube": {
-    "n": 37,
-    "positive": 18,
-    "neutral": 15,
-    "concern": 4,
-    "avg_score": 0.192,
-    "avg_magnitude": 0.473
+    "n": 23,
+    "positive": 14,
+    "neutral": 6,
+    "concern": 3,
+    "avg_score": 0.257,
+    "avg_magnitude": 0.67
   },
   "overall": {
-    "n": 57,
-    "positive": 23,
-    "neutral": 22,
-    "concern": 12,
-    "avg_score": 0.102,
-    "avg_magnitude": 0.407
+    "n": 43,
+    "positive": 19,
+    "neutral": 14,
+    "concern": 10,
+    "avg_score": 0.114,
+    "avg_magnitude": 0.484
   },
   "top_positive": [
     {
@@ -33,13 +33,13 @@
     },
     {
       "source": "youtube",
-      "title": "Great work bro.. 👍",
+      "title": "Good information 👍",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "good",
-      "score": 0.8
+      "title": "Great video👍",
+      "score": 0.9
     }
   ],
   "top_concern": [

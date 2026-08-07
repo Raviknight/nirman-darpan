@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-03T20:21:52.327Z",
+  "updated_at": "2026-08-07T00:37:13.133Z",
   "project_id": "NH154-PKT-MND",
-  "count": 1,
+  "count": 2,
   "suggestions": [
     {
       "category": "litigation",
@@ -16,6 +16,20 @@
       "lang": "en",
       "date": "2026-06-18T07:00:00.000Z",
       "matched_term": "pil"
+    },
+    {
+      "category": "defect",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-08-07T00:37:13.133Z",
+      "title": "Crackdown spurs revival of stalled Pathankot–Mandi four-lane project - The Tribune",
+      "summary": "Auto-detected from press: \"Crackdown spurs revival of stalled Pathankot–Mandi four-lane project - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2xmQTZQcXZVN05aV3ZHN2dCRGItMXk2UlM2NXFUMjIxMHE5a1hrYjRFRlBxcE41Q2VabEhvRlBwdF9LaWdjNEQtMGVJNXhPaE1Yd18zS3pKQ1hDQkRZOHMwZkVueFhBTE95N2xjWEtYYmZqSlR4ZzZtSE1DanBaYWVYQXdXclJTUERMdDJEMm94QzBZbE9NSF9Md3NwdWZaRGpZTDJQZnNLODFHV2lNY2JB0gG2AUFVX3lxTE1sS3ZQRzFtSGFHVG55d0oxMUM1TUcwQUt1REs2cmpNb2pwUjZrSnkyY3phUGZfS3ZEeG13RnhXMkx2b1UwMmFUQ1F5N2xHUHRDUmttX3IwODZlYjRERlpxRDZ6d0dZVDhfQmZwWTRVb0IwbDNSb05jN0tqQmJPeVdPN2t5ejBfaVQtOEVraW9yT2J5TjRheU1XbHVoWlBtWW4yLWRBQWQxX1hjOWtvQjhLYmpKYUFn?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2025-08-19T07:00:00.000Z",
+      "matched_term": "crack"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

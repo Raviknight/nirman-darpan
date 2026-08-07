@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-03T20:20:52.488Z",
+  "updated_at": "2026-08-07T00:36:16.567Z",
   "project_id": "KGR-AIRPORT",
   "counts": {
-    "press": 56,
+    "press": 55,
     "gov": 0,
-    "en": 43,
-    "hi": 13,
-    "total": 56
+    "en": 41,
+    "hi": 14,
+    "total": 55
   },
   "mentions": [
     {
@@ -44,7 +44,7 @@
       "source": "The Newz Radar",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYWxCbnpxTi01bEljWDZfdWFSeHU0ZUpuamRabUtBaFhXQUMwNllHN3YyV2tCSDdDejJXcG80RnVObm5XTDRfQm16LWlwdU1OaGxvRWI1bklLSFBfQi1lMmF4YkZBaHJDOEM2blBVUjB1UWwtVENtNFJaencwQlFxQVItRjE1a3c1NldRejdaX0FJUDJMamdJdndkVUVkU2ZJN2c?oc=5",
-      "date": "2026-07-21T11:20:26.000Z",
+      "date": "2026-07-21T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Gaggal airport expansion"
@@ -67,6 +67,16 @@
       "date": "2026-06-11T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Gaggal airport expansion"
+    },
+    {
+      "title": "गग्गल एयरपोर्ट विस्तार से प्रभावित 113 परिवारों को सरकार देगी 16.76 करोड़ रुपये की सहायता - Zee News",
+      "source": "Zee News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeUpXREdzSll5TGd6MWg3STZYTERRb1BOZjR3djdna3Z6RDdsTGdXU1ktZnlpR3MyVXlEMjNlX21WMFNoUDFxVXdSaGtpWkZPVEFxMmpmSUlQUHVHbndjNXRFM0lTX085SmhEWEpPb3hvWTFkREpBanlIT3dKYTBWNDVySkJabFM4aFl3YU9XeERjOU9sU2N3WW9jaEZwYXN3R1hONjlCczJUb2NXc1lEaW9uSTJrXzRVUkZlc0ZyLWgzYWJLTmxCWnBBXzhqbVNMd0pGM3VFZjlPcUXSAeABQVVfeXFMT2ZqbFJWN2tkaVpRb3Z0LWowTXA1alI2d0JtQzVUMmhzaGJZY3NnSW9PUE1NT1VJY3VhZFJOR05EMFJoUjJPUkxZOEYxVlhWMzBKUjJyZE5WZUJNUzlWNmcyOXBwNjkyVjlqZUpxUnNmWUtMNlE1OS1uOTdhSm9lNXZUanpCTzF6TmNhTVJTUl9FTkx5MVFGVFIzSmdwTzB4cW0tSXJEd3pIRHlxR3h0MHloVVVxUFZwS0RRY0pQY2I0TnNEdUZPR3NyNFZudHlPT3Q5dU9iTzQ4c0xwUUQtRUw?oc=5",
+      "date": "2026-06-11T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Gaggal airport expansion"
     },
     {
@@ -100,8 +110,8 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "कांगड़ा एयरपोर्ट विस्तार के मुद्दे पर पक्ष-विपक्ष में तीखी नोकझोंक, सीएम सुक्खू ने किया बड़ा ऐलान - himachal.punjabkesari.in",
-      "source": "himachal.punjabkesari.in",
+      "title": "कांगड़ा एयरपोर्ट विस्तार के मुद्दे पर पक्ष-विपक्ष में तीखी नोकझोंक, सीएम सुक्खू ने किया बड़ा ऐलान - Punjab Kesari",
+      "source": "Punjab Kesari",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1NRazUtdmxDRVotSjhtTi0wY09lY3VvMW9OWFp4OFdBX3VZUUFGeHRYNkNqTTVPUDYxbWw1c2Rnc3J2dUFTRHpoQWJRNGE0blB4VV84UlB5TzZOSC1ISU9MVHJqR005VERPVGE2LVZOWV9JZ0o2WlpxSk9KYUlxSVBFMEgtVncwN2dGYXJtUVBhcVZYRmp3d2dKNzFZZnpuZDE5WGJDQXoySldWaWJxczNlczlfVEZ2c1Nya3ZzcEo4N2lXMVZBeXVtcXDSAdQBQVVfeXFMTXByTzRlbDlXcjV4Q294cThmazNCNXZycUZsVzU5bU0zUF9WZ2lMcmVPUFpjUm50dHN1ZnMtdGxpc1JNVFRoRXNhaGpsQ2FydXVZRHhLVWZ5TkpmQkx6emV4Z1dEYVFUVkRLOGMzVmFaRU5VcmRrYldYWFljUjVleVV4SWpSc19ESGNVNkI4bGlXZVkweVpIRzNGaWROTlBsZlc1VmtrZ3B3M29qcTFUMWRPSXFVeE5GZ1RlZXZHUmNtRWlXdmVTaTZ0aW5ZV3d2X0RucGs?oc=5",
       "date": "2026-04-02T07:00:00.000Z",
@@ -180,23 +190,13 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "Delhi govt launches Tourism and Heritage Fellowship Programme - ET TravelWorld",
-      "source": "ET TravelWorld",
+      "title": "Delhi govt launches Tourism and Heritage Fellowship Programme - travel.economictimes.indiatimes.com",
+      "source": "travel.economictimes.indiatimes.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX21RVUtSUVhHQkV2WkwtVmtudU5iYXpOdnJmdmFjRE45Nm5hLVN1OUd3d1drYmZYOE5FamhYbk9WUS16cnduQ2pXUlJVV3VmdVByVXlubDBSRW00eThGVmw2VnZHaTk2NkVXUE0xZ0R0MTN2SWxvWVViOEFiU3N4V3ZYRXM3VmlFbWxHTW1ENy0yR3NuMm9XVzNpMmNMQVlhcXpqSUhyaDNwcFJTNzZRXzFBZFdjXy1RcW5OMUp1cnpnWWkwcktTU1VHc2JRaGVnUEdFVVdER1J1anBRdDZDdHBCS2ROQ0k?oc=5",
       "date": "2025-07-16T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Dharamshala airport expansion"
-    },
-    {
-      "title": "Shimla: एयरपोर्ट विस्तारीकरण को लेकर दूसरा अवार्ड भी तैयार, पैसे की हुई दरकार - himachal.punjabkesari.in",
-      "source": "himachal.punjabkesari.in",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmpsbnZ3cm9sdVJWTS05UHBhRUtoMUxycmZoQ1BjNmh1TzdMTkVQakw1bWk4Q0pVNjNjbTBwMW9qdE9HdXZJYlhmUkliZzI5NUVqTHZHZ0NYeXMzYzExdi1jeW04YW5qdTVJMEM3WW9xdG5EYkdzdzNVMUp6WGR4Q29HQkRBdWZ4Ml9rWUJxYldPdjQxbnVB0gGfAUFVX3lxTE1ySXgzVk5jNzJEb1NxZjJNU1VtRU1EbjRSeHhNNm80Yk42WmV0b2dfWGZCdS1KNE1VTVdwdHRqR1BFLWpBUUNQRHkzakR3bk1URkN6MEpOcFlYM0hmRnlZZ1h6VENSeDJGclM5NmdweGozOHQ5aFRpWTNvQUpoRE5zYWJUZUdqVnNZTTRZX0RCdjBQMU1NVFZjVk9lZTM4UQ?oc=5",
-      "date": "2025-05-04T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Dharamshala airport expansion"
     },
     {

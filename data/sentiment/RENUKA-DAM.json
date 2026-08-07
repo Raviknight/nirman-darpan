@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-03T20:22:15.760Z",
+  "updated_at": "2026-08-07T00:37:37.259Z",
   "project_id": "RENUKA-DAM",
   "press": {
     "n": 20,
     "positive": 5,
     "neutral": 13,
     "concern": 2,
-    "avg_score": 0.065,
+    "avg_score": 0.045,
     "avg_magnitude": 0.135
   },
   "youtube": {
@@ -22,7 +22,7 @@
     "positive": 9,
     "neutral": 13,
     "concern": 5,
-    "avg_score": 0.081,
+    "avg_score": 0.067,
     "avg_magnitude": 0.337
   },
   "top_positive": [
@@ -37,21 +37,20 @@
       "score": 0.7
     },
     {
-      "source": "press",
-      "title": "Centre’s expert team greenlights tunnel designs for Renukaji Dam - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejBLbGlocWhOZHJ6WGZVXzBMc0drZ1I3WVozcUZqdmlvUmR5UkJJdnRDSUttZTJmcEk1SWFZM0ZjbGJmRkRUa3hHRW5GVEJWRTViWUpOdl9OYkVJeE9EMnhnbjhiV2RMSjJBWTN0T3hBTV9haUdPMHVzYkRpbDFjQkk4b0pYdFg3MUhNY0hXQUdQNFJlUzZ4TDNxLVkwZ2VxNU1VVXhTS2lGTzTSAa8BQVVfeXFMT2hUckVqN0JTRkRnU0VUUkZoUlJOSGhMZkNrR1VHeVJqMUxyazBRSDJBYVF4eHJTUU9ka0xfZno0OV9mQU9EU3d0U2YxSDExbXE3VUEwNENSNEhaRnNiYWprRW02Nk14ZC1QdUthc2tlWk9YR2FGeTVSd3VEWWFXUFlSOWxxcmt6RGZuQnkwMC1tdENCTmxNYktQU21SdVFHWGRSNlJaME1LXzIwaWlhdw?oc=5",
+      "source": "youtube",
+      "title": "Once again very nice and informative lecture.\nApka new lecture YouTube pe na sune to kuch miss kiyà aisa feel aata hai🤗",
       "score": 0.5
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "WE SHOULD COMPLETE LAKHWAR DAM ON MISSION MODE IF WE WANT TO BE SUPER POWER UP TO 2047.....",
+      "title": "Lakhwar is 300 mw project not 927 mw",
       "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "Lakhwar is 300 mw project not 927 mw",
+      "title": "WE SHOULD COMPLETE LAKHWAR DAM ON MISSION MODE IF WE WANT TO BE SUPER POWER UP TO 2047.....",
       "score": -0.5
     },
     {

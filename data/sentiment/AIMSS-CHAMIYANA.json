@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-03T20:22:26.028Z",
+  "updated_at": "2026-08-07T00:38:04.915Z",
   "project_id": "AIMSS-CHAMIYANA",
   "press": {
     "n": 20,
-    "positive": 17,
-    "neutral": 3,
+    "positive": 14,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0.315,
-    "avg_magnitude": 0.35
+    "avg_score": 0.26,
+    "avg_magnitude": 0.26
   },
   "youtube": {
-    "n": 1,
-    "positive": 1,
+    "n": 0,
+    "positive": 0,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0.3,
-    "avg_magnitude": 0.3
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 21,
-    "positive": 18,
-    "neutral": 3,
+    "n": 20,
+    "positive": 14,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0.314,
-    "avg_magnitude": 0.348
+    "avg_score": 0.26,
+    "avg_magnitude": 0.26
   },
   "top_positive": [
     {
@@ -34,35 +34,35 @@
     },
     {
       "source": "press",
-      "title": "शिमला में IGMC और चमियाणा अस्पताल में एक साथ छुट्टी पर जाएंगे आधे डॉक्टर, दो बैच में रहेगा हॉलीडे शेड्यूल - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzdtWjFsNGJnckdYbWhPa3lhVms2bkRXZFY3aTZ0QUdwYWV1bFdXRkl3dmhpdUlyRnZ3eW4tbmowd0NLV1IwWFFiaWxycE10dWpZbFNDenpwOEtDYXdqay13aTNmRzZ0cksxMkFVeTA5Mi1BV0M3SzZuenFySmZCb25Ja1hPRTAwR1NubkQ1Rm9aTDMxUVZKSXk3blZaZWZCV1lSdDM1LWtBZEtvVEpvWg?oc=5",
+      "title": "शिमला में CM सुक्खू ने किया अत्याधुनिक 3-टेस्ला MRI का शुभारंभ, 5 अस्पतालों में बनेंगे - ABP News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGttWGREbXhvQm85UGV3WUtMZnpPTmRybzdSanZ6bFBFQVhiX2c2THJTTy1nei1ZaDZxbnVtcV84MDY1RC1BT2hVc21CaDNCOVVndmo2M3c2UlprdF9yUXNuVUw3OXQ5NV9OWi1iTnZhSUhxck1qQWpGcnYyaEFlckNBWnkzbG1zbEtBNXFEQUU0X19LcFZ6MERmMFFwdTd5aVl2OFVPZ2lVQ2t3SENNTkpPUF9sN19QS2loSnBNRzUtemdudS1kUW5rOUk5MXl2WGc00gHYAUFVX3lxTFBFazRZaUwzWDkxeGIzdEJOcTNORzNyTkhNT0lfQzNDN3MyRk1KQ0VUOHFWZzI2OFNkbFBkRndHdHYxNzVTQzF3NnhQMFJnTDh4THQ3SS1GaU93MkNObkc4Z0I4UzJkQm9uMmx1cXQyYjZQcXRENVpSRTVqRE1vUmluQm93Rkp3bV9MSjA4TWV4eGRYSVh3aUx5Ui1fdGFqekplX0NZdEJnSnVUd3VaUHE4bFkzWWJIM0dMZ2taSER3T1VCQzFBR0Q1dGNqdzItMG1oNnJEWE1XSw?oc=5",
       "score": 0.5
     },
     {
       "source": "press",
-      "title": "शिमला में CM सुक्खू ने किया अत्याधुनिक 3-टेस्ला MRI का शुभारंभ, 5 अस्पतालों में बनेंगे - ABP News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGttWGREbXhvQm85UGV3WUtMZnpPTmRybzdSanZ6bFBFQVhiX2c2THJTTy1nei1ZaDZxbnVtcV84MDY1RC1BT2hVc21CaDNCOVVndmo2M3c2UlprdF9yUXNuVUw3OXQ5NV9OWi1iTnZhSUhxck1qQWpGcnYyaEFlckNBWnkzbG1zbEtBNXFEQUU0X19LcFZ6MERmMFFwdTd5aVl2OFVPZ2lVQ2t3SENNTkpPUF9sN19QS2loSnBNRzUtemdudS1kUW5rOUk5MXl2WGc00gHYAUFVX3lxTFBFazRZaUwzWDkxeGIzdEJOcTNORzNyTkhNT0lfQzNDN3MyRk1KQ0VUOHFWZzI2OFNkbFBkRndHdHYxNzVTQzF3NnhQMFJnTDh4THQ3SS1GaU93MkNObkc4Z0I4UzJkQm9uMmx1cXQyYjZQcXRENVpSRTVqRE1vUmluQm93Rkp3bV9MSjA4TWV4eGRYSVh3aUx5Ui1fdGFqekplX0NZdEJnSnVUd3VaUHE4bFkzWWJIM0dMZ2taSER3T1VCQzFBR0Q1dGNqdzItMG1oNnJEWE1XSw?oc=5",
-      "score": 0.5
+      "title": "चमियाना अस्पताल सड़क की हालत सुधारें : तंवर - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdVF6RHg2MVFmQng3bjdlSUdLVXJlVTZNTTRsV3VVMFFnRU1aRVlXdDltN2lxUDRVNUMxSjJjcDRaVEZKTjJFX3BKV2xaWnVIUDlnRmpsTWhJel9oT3gyYWs0NHpjbDkyVzVwaDNYRmFKMlpsbzFVY28ycmFNVnZLLVJMNGZNMDNDTzc5b3NtUlJZeEo1cU5yYWN4bkJocmdHbVlRYlVNbzNqRmoxV2YxZnBEUFhfNWJzcVpMYng3amJCUmx1VEZuQ1FUWdIB0AFBVV95cUxQZUNPUWRPN3VXMlVTdGhrV2dWc0ZxWnByZGlzMUg3QUZBNXFzd2lSNGtMT0JnVW1JUjlVT1BEUUFFVWtzUTVlZTVGREV3ajRLY2V2OTk2RDdidjd4Z1VWZmFaTjNjbXJrQll4WFpaV0dxSUdUUGlxMEZTYThqbVE1ZW9LZW9FZ0dhYTJRR1paTmMySVBPMlhEeXNSYVpNbXZRaGZOd0tKWXoxOUhaN1d6TGFmZG9LSTdpYnd3Y3VqT19wNU1nN1k4aUZJeHNyV29l?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Shimla News: चमियाना अस्पताल में टोकन देने का समय बदला, मरीज परेशान - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQmIwb29RVGtDODVTQlB2aW1YOUJwWVZqRS1yMGVuV1E5c1VNck40RjI2aHJDT1c0a3dQZDdSNFAyQ3JsTmt5VGxWZmwzMVVKcGIzMnJJcWVXb1NGQWc4MjhZd3ZvNTVWYk1WcnJwdFFxNmVtd1JyT1RJWFVhNDZkNTBFLUh0Vklicjl1aGdicnpxOUJGRkdZeTVMR3p4eXBkaTE4RFBXdzJRampDYzhFSUlpTmE3ck4zUWdad0poTHkxbExGZ3lESUxBazNVbVVWb1dvcWd2WTdEdFM2Qm8xNElQSDRrZHPSAewBQVVfeXFMT09Cam9HM3lHR2F6N0RpenRHRGo5eHZCX3I0Zk1BeFJ0T3dlamZvc0lJRTgzSEhSZWt6TGFWdHJfRjZxTUdId09hUzkwQTZGVGhPOTBHeFFhakROQnNnTGE1UkM5Wi14ZTdzOXJfQ1hDajZtdTNCZWVnLVRBM0RrUDN0eHlCaHdYcnZMUVNmNUdlUVJiTmpvd0dJRzJlMUt5d0tsNmQ1OHFWd0Z1M1Q3NnJHc1AyOTYzZDZBRDJ1aGZZRTc3TjJXWC1ZMUYwc2NHaDlzclRYanZfbUZmT0lDSDZkdEpTSlIyYWtEdDM?oc=5",
+      "title": "Dialysis facility launched at Chamiyana hospital - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEZGNHFSOUM5SFhBSFdZRnozOFpaSjI4MV85M01PUTJSc00tX3dJaHVOWVJBZ01wYzJUSzFNc1QtanltM2NkVHhfYXVwaDVRSlctVXBWa1ZFbUJpa1ZKNWRjUUZGb1BOYThsRmFPY3d6V0J4V3N2M21uWGdLYXU0bXZnR1pFZFFuQnB4WGNRRlBqUnlRaHlr0gGbAUFVX3lxTFA2eThtRlFKV3RUazZ5cUNIeVJmSGVuVTVkeFpLRDFvb0YtYThTOVN5Z2dNMmRWWkEzZnJDbDlYNm9kZ3laTUtaRWh2R3oyVC1DV3JGNXVsejNXN3RoRzBfTWhuRWNRUlRmeXBaZV96VmdPMlE2SjRaSm5zeEJTbHNEcGRQejlSRy0ybGdGVDJCRnNfbW94YWR4NmdV?oc=5",
       "score": 0
     },
     {
       "source": "press",
-      "title": "अंबाला: फोन पर आया अलर्ट, चली तूफानी हवा - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWdNUGNyT1l3Qm9XQkREbk5WN0ZINzh2LW5VZlFOMVA3Y1VYNmt0YVZIOXpjRy1MSlNoOEJ0UFJvZTZHSzR2Rk5xaWFkQ1NSTGhkNk5rQkRMbkc2aFBFeUN0SmhjRk9hMF9vOW1HSUpJbkppbTBqZE1nWmNqWnVJWTM1cWY4dUo0aFB4SzF2UkhJd9IBlwFBVV95cUxOMkVZT2FGWF9ublVOMFl3blNwVERsdVg5ZVRVQnZQSzdmTmpwT0dPRTFfbGh5QzN1Nlc4SFo3MldHQUZPa3VUVGZJOGpqNVI4TzZQNVJQVW9SNkNDbHRrUGJTUnVVWDdlNlZkWlh2MGxnTDVPWWxrUzdNaVNLQXBmTXdXQ0ZNSkNaQU0tMXZaMXpONEt4VUtz?oc=5",
-      "score": 0.1
+      "title": "AIMSS Chamiyana gets advanced 3-Tesla MRI facility - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeEQwSWpOTWstcVdIZDc3TzNCS1lUcm5YUElNcHc4T0I2Y0drWWdyU0RMYnVJaUVDUTA4SUZSbFJXVk85am1qSlAtdFN1dTBkLUJmZWVnZzZla1l2NlVCcHk1VC12dHlUV01NMzlEY1QtMlIyTUZSNzNyUXZFT0dfRFZIZEluZy1jU0dUeXFadkFuWEh1VTFZcjBNcS1udTJyZ2pTM0xRRGVNMEtlQWs4V2E1T1hYc2FxWncwWUZVWHZDaXVzYUtj0gHMAUFVX3lxTE5WQV9LTlZMZTc5MllIa3pSa3FnMXMxcmdTbWktRzhBNnJuZnEwQURfeUpIQWlsNXlSY2RHZzNCWlgyb0toVHlhVUphdk15N3hjN2pJTGttX1A2OFczZjhZbnNfZG92ZGI2amF5OFhhSzRmUS1uZ05WZmJGRW9HNHVOR0RBUzJDbjVVVDB6Mm1sQUU5WV9kR1N4QmN5ZVMtTjhuZzdjQlB3ZHhpMks1TTV5Nk1HLWl2MEJIRWlSbXcwbXJwdHhkTFZqQXdNVA?oc=5",
+      "score": 0
     },
     {
       "source": "press",
-      "title": "Balaghat District Hospital Video: 'रेफर सिस्टम बंद करो'....प्रसूता को रेफर करने पर भड़की विधायक, निजी अस्पताल से वापस जिला अस्पताल लेकर पहुंचीं, डॉक्टरों की लगा दी क्लास! - IBC24 News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDI4LU01YmpoQTY3ZC0tYzcwcWdBNTVDZ2FRVmtxSC1Fc1dyUEJrVGpTUFkwQmEzQnhlb1F5d1JMQ05hbXk5c3ZyWDZidy1FQXc1UVEzNExTV0xkUmtoWGRGREs2OHVvb1pRdFJkdHdjcE9LZXdBSDQ4VGtfc3pRYndDUnNHdFXSAYwBQVVfeXFMTkZGQ3NTWUNLSVlid2g0V0tKZEtDdlQ4NXRHU2ZpUFNXM1NzTGdEcHJaSms1aXBlMlNqWEZlQ281SUhPX2syQjFNOFY2M296NEFkZ2dnemd3WFJOMy1SNVBlTmlVbkRTSV9QSGE4N1RxWGFCOG55ZFR3RG9uQ01aTWFmeTgtQWtldFRYU3M?oc=5",
-      "score": 0.1
+      "title": "Shimla News: चमियाना अस्पताल मार्ग पर भूस्खलन, यातायात रहा बाधित - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdjk4NDB5S3BrZ1F4T2NNNVo2c2VDY3FPUzlXOG1JR2haV0Y3ek1iWXR4a21wN1dtSjZVSnVVekpCb0o2THlIMUNOdDQ5VmZjU2NHeU9PUFhOOXI5emNIWlRkVXJ6MWoxb1UtVXVZc0Y1c2dwWFlJZ0plRDRxdWk5TnlmNXJRTEtkUmxoVWRCVE1GYzczNmswNkpXRjZjVFI3WWtDX1pVamh3SmxQTzNRZG52V2ZFSHNiN1llQ24wT0VKNnp5Q0haTi1n0gHPAUFVX3lxTE5NSE1PeVlKdnMtZ3Y1QWdjR2xlaXlxbkRhXy1tMmxlX3QzTUVwQU5nZkJhX2ZtYnBMRW5pc0FVX1JSLWJvbVpJSzNaTW1SWXFST19sdTRBWUVKNVJKWDk4OTRNTVgzcmFobHk1dm5SMGVOVXpfRmtqUXpCcnpKQzJuY0w1MU5qS25qcFp4WlB2VElScTRCNmp0R04zQ1c0djFMWXNpT3oxbXZseWo5NWhIeVdGV3Q3Q2c1UXhWcUlZbkhtcEdPMHA5TXVpREl0cw?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

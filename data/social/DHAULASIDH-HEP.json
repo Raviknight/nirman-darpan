@@ -1,40 +1,20 @@
 {
-  "updated_at": "2026-08-03T20:21:11.154Z",
+  "updated_at": "2026-08-07T00:36:35.072Z",
   "project_id": "DHAULASIDH-HEP",
   "counts": {
-    "press": 28,
+    "press": 25,
     "gov": 0,
-    "en": 20,
-    "hi": 8,
-    "total": 28
+    "en": 19,
+    "hi": 6,
+    "total": 25
   },
   "mentions": [
-    {
-      "title": "SJVN Invites Tender for RCC Blocks at Dhaulasidh Hydro Electric Project - PSU Connect",
-      "source": "PSU Connect",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk96ZHRZaTNvNVZBQ25uUzNDZHYzb2ZCRFp4dE1yYmxtUnJKLVBtdWR1R0FuWXpuUEFZSGVlU0JrMlQzV1lQUGhVaFR4YXNhTUk5VTIxV1FHS25BZnBhd1NOV0NKY1BZaEF2eThTczB6Skd3cnVRY1VyZEdSSlZseUlBOHdEYUFRUXRSU0t5R3l0YmI4TVZlVzVNUWRidVAzbEFCLW9pQ29vdw?oc=5",
-      "date": "2026-08-01T10:27:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
     {
       "title": "सोनम वांगचुक मामले और पेपर लीक के विरोध में धौलासिद्ध में गरजे मजदूर - Janta Se Rishta",
       "source": "Janta Se Rishta",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTENyYzFTWlJTMmg5bzVGdC1lalpNWHVtSS1NeVMxMzJ4UnhIOG1YRXhuVTB4eVlvR1lXbkZIbXBuVS1TOURNY2NWQkN4djdiYnZ5dnh3eVRIM2tHemhyVXhybGlmUEExRGhXckpXbUpwMk5EYjVhTE5SYWFVM1NfbjJaWExKYjJkQXJFTVoyTGtxdnRKclN1VmpCZl9hakNVcV80OGdjUEp0Tk5neGt4b2otN2QyY2VEUXhXRFJHdjNQNUZITGl5QUlCX0QySkpGZFF1d295UdIB3AFBVV95cUxPQjl3eU1pTFlQRzJzbC1CMFZ3eWpqSzRpSUh1ZUxVN2JvQy1GZ052RnllUHdaVlR6dXlZdXg0b0E1S3FJT1RwLWRlOUNlU19WTVpWZzM2SEVrM3Y1dVZGX0djb19TLWJud0c4Nm5TdlpUdW81aE9IUmY2UXlnU1FfTXJfcUh0WUNEM20yNXVzNjlVWXE2NjhRUjFsbEJpakRqNFVkXzUxeFBuazRrWHJRZ0R5UlhnS05yck1JUDZMbHpqWnZ0QmtPRlhWaWVhX0JvSElZbGJxR2Vpb1lf?oc=5",
       "date": "2026-07-21T12:01:09.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "Video: शिक्षा मंत्री धर्मेंद्र प्रधान के इस्तीफे की मांग को लेकर धौलासिद्ध में सीटू ने किया प्रदर्शन - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPbnlKNFZEVUJNaEd3V0Zsc2xKTU0tTVJBcEQ0emxaN1F0VnJUU0JkbmN6cWk1RDIwbTRFOEREUFdvanFQc0FVY296akhEY3RQbGsyZ0x3SHBlcERGVzhOZExTWEhFREdsVl9aY2VPQ0Jjb0MzWElCZ0hQQTJZcXQ2YTBCR0N4QW00VkZrNzFhWlVySEVac0xoSnFuVWFUc0VPcDdpVDFWQ005X2ZFa1hHcjNJR1YwcDRZdTBRdGVuOVhGWFBTNGJTZmsxbFREaUZHMG5ieXdNWC04UG9KUGtHekFsMmszVkdCMmFySWV5Z294T0l4b0Y1U0pIT0c0M2U4Vko4OXRYTzdoS2pLQmhOUkV1eUbSAZoCQVVfeXFMUGNwQm9uOXgyX1hDeTIyekRxWVNHZy11OXlKUWlNSWJXNmp5YXkyVFhYN3FGZEtxMzJ6d01jMEl5aEZHNVdxOGR5TWRBVk1aZ2NmOHRfRFJRQU9iaFQ1QjJxSFNNMEplRDFDOVFKdXQ0UnozbUZYZkhGUDJ2ZXExbVZjYUh2dVZjRVpQMkk5M3ltZUlZaU83WDhDdk1kUnZIVTVSRlgtTVFJajFIa0lnZG16Y1lKdmVRei1DYXFqa1pMbTdYMHVVQXhQRDhRRGN2UFRQYUhUWjBjNURzdXJwQ3VhbWk1MGJIX211Qnd3LWxPdU02SVlINVEzRFZhbmV3M2FUeFlSQk9pRmhUM2d6bTNzT3VYeTN4SG9n?oc=5",
-      "date": "2026-07-20T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Dhaulasidh"
@@ -65,16 +45,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTY3Wng4STVlRjdUNEhNSW9LYjVac082SE5nY01yRVUtT295ckplMlJydUZzTzBCTEVaNDZkOUZaSW5naEJ5VmJwQXB4WFBYdEJkVk1PQnA2TG5EVFJJYjZLdGFHM1JJaGJkLVE3QlpiNTdqNTR5MmpBZVViX0J1UnZwOGtJZXlxUlRqVzMzYzlsVGlMMlBXUkpseUlTZkxZZGlpNDBfeGVLNFhTR01HVFFLalN6ZktrNWdHUGY3NU1TVUhUOXotZlpLaE01R0haMEVMeTVYeDVmZU4wdmfSAeMBQVVfeXFMTmNSTG5KckJmcVk3R0lQdnh1YTdDMWRVT3JqVG91dVNYQTFObjY5UEgwU1Z1azZSbWdKZGtPWnZVUzY5ZXhwTnREWDF5d1ZrcU44RFNmZFNJaUttX2ttNkt6ZXpFT1EwWnNmd3YyQnJncVBfdVNXZVhhYnBSN2t4aXFORjZURV91U3J1Zm1iNVJ4eGhKQ280WTVvbjFxVENZLVE3TGoxYURxNmJkdkxMT21NNXg1bkhPU01RbjVOQnlBUDdEa0Q0emJzMXYwS0NYYXBBbGhXTktESHlJaTJDb1pJN00?oc=5",
       "date": "2026-04-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "HP Hydro projects: हिमाचल की शर्तों पर होगा सुन्नी, लुहरी, धौलासिद्ध और डुगर परियोजनाओं में उत्पादन - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXRzcXlnMHI5N0llblYyaFY0OFk1Z3A3Yjl6Nl8tZ2JySkZOQm1BdVJRak9aZDFzYU5ORU1tYjhJVVNhZ3ZORVEzREdFM2FvMFcyV0t5REhuWVF4WnluSXBzYmVUM0NvTjYwcndYWWQ5b3FnRkZyZVQwTlpRVzhxeWlrYzRpVlpzcnBRZUF2Mkk4WUtwMlRlaFRLN2ZjSXpmZ0h1T3AycTkyNDVaNDc1VUFrbDVUWFhXX0x6bVFFRFBlaVdQVkHSAcsBQVVfeXFMTWJCYkJFb2xJZV9RUU9FNDduUnRIUzI1TWtEREx1R0FESnVTVlg0emM3Y1p6VnJaUVpqcF9zalFGekRYbGtnS3RWcFNWeE1VSWd5Q3J6RzZNcklpaWxIeGR2WnZBUTZ5djFmMURIN0k0c0dhQlkyMWhoSXlQNHBjMDdzWTVDYXNZM1FSWkMzWEllZWwzdFJNWmk3bUpWTnJPM0J1X3d0eWY5OW5EMFlkM1Jab2tkUkgtWU5RLTctQV9aWlRFUkhpV0l4LTA?oc=5",
-      "date": "2025-05-24T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Dhaulasidh"
@@ -120,8 +90,8 @@
       "match": "SJVN Dhaulasidh"
     },
     {
-      "title": "KEC International Enters into Agreement with SJVN for Transmission Line for Dhaulasidh HEP Project - Wire & Cable India",
-      "source": "Wire & Cable India",
+      "title": "KEC International Enters into Agreement with SJVN for Transmission Line for Dhaulasidh HEP Project - wirecable.in",
+      "source": "wirecable.in",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Nc1VXOWV5d21sWGVfMUFrNVdHZWdHWHlmdUFoU1BTcXE0VGZ0eGpSbTN3TEhBV1N4TnFsZGtpVFZsVFJ0VW04N3dCQkRCWjc0azduZ01mdFRSQ0piYzlkMm5pYTF1c2k1SlFkbHpDSDlzQQ?oc=5",
       "date": "2022-09-02T07:00:00.000Z",
@@ -170,8 +140,8 @@
       "match": "Dhaulasidh"
     },
     {
-      "title": "Rs 688 Crore Dhaulasidh Project Strikes Financial Closure - hillpost.in",
-      "source": "hillpost.in",
+      "title": "Rs 688 Crore Dhaulasidh Project Strikes Financial Closure - Hill Post",
+      "source": "Hill Post",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3ZiUVQ2VnFSYXprZk5YZko2QV9sR0pXUUtocU5aczZ0WXhyZktIcm9oOXRtZkVtZ3BzZUJsV0t4VUpxZjZWTy02R210bHlXajU5ZGRXUV9rbXZSTFVWWXR5ZVl5THc1TlR4LXdENmJ6NHYzbHQ1bjNVRENSb3NwTGpNZ1k3clM3MlhMcmpfM2RoYlNpVE05Ug?oc=5",
       "date": "2022-04-19T07:00:00.000Z",
@@ -205,6 +175,36 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUNQenNPanZSSk1nUlBBVmQ3VkRENm1sMkdfdnY1THRWUWNQbmNzREg3MXNFQjM1bjRKMXNaMDRlMGhITW43M0VPWkhtNFB1eXUwTV9KbWFCQk04Tzk2VURLeEF0S01mUnNGUlBXdmw5cW5uaEJKbG14cmNLNEo3ODhoZVdEeGpaWWlZZ3BTcjhCY2czTTRleNIBngFBVV95cUxOZWlFTno3SlVzMlhncjVVd1V0RlNaTGVaX3BLdWJMRTNucFZjREVBY0cyX1F3bTlYM0RZSmZ5WXh4T05tSExLLVNyZERsbUkyT210VTdiT1YtUExGZVJxc3ZhYUE5Z2hfS0xHOW5RSTdzaFJmcTVackVQNGhZeVQ0VXN4ZmRYZUw2akw3eXNPNEFZWDF0ZllWc1FIdHVzdw?oc=5",
       "date": "2022-02-16T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "SJVN CMD inaugurates river diversion of 66 MW Dhaulasidh project - PSU Watch",
+      "source": "PSU Watch",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0xjckZIQVFycWltN0tRaFN3MUJzaEtqZFBBY3k4UHNIbmVRQUFLc0NCYXF4ZVhhX05tVVpWeGJUcm1fRUkzQ3FpbHd1TC1TSG9kWWp5bE1TRlpSbGlyU1k1Wk0wWUZyeFRBTW9UNlN4Z3FYaU5UVC1mdHJBRl9SWHJ4RkZ0c1JKWnVFNV9YRkp1UW9RaFdtLVhjdjBYX1Z20gGuAUFVX3lxTE10OVIwdFZXdzlxX3I4UzJqX0RRTjk1S3lqYjZOUXFCZWpRSzk3S0tpOXktVk85UVhZU0ZqUlFFVER2NDBXOXNqZGFPWk9SX184V1VJQzBfR2N5Q0IwZjlta1RSdDNxd1NkVzZ3TFpCWTF4cjlSdnNTVXRvX0JFNWozSHRITC1KMkpPYjJ4SWpRc1RDOEhCZi1vLVRCcVJNQUduVUZGMDBfT1luLWJUQQ?oc=5",
+      "date": "2022-02-15T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "SJVN Dhaulasidh"
+    },
+    {
+      "title": "Dhaulasidh hydro project: SJVN signs contract for electromechanical works - T&D India",
+      "source": "T&D India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlqd3NYNE1Vb2hMcTRCU1ljZ2FrZG5OR042VGN4cU91ejdkWEhXUDh4SWdlbjNyTHVWTmh0UXRHRW1kUUEwREFPWGMtYWtXX0xqUExleUNoTWMxZ3doMDcwQ19NWGIxOU8ydXNqOHVseUt1czlYZWpabzhpd2JTVXdsa0VJQkZuZFRvdjBxU2hyd182SERaaDFtTTZqcGvSAaQBQVVfeXFMTlZuMFhoT0ZZa1pSaDJzNlFtVUdsV3ZtUUthby1RTzcxLUpjSjBla3paS0hSLTZ2T29WRGkxQ291V3otRXJTaFhkQUk3dkRvTlk2NkdOUy1xazhLcDR0aDRXVFNhQnBXZFhuSk1fanJtM09VNHF0Y3dwZ2o0OE8yb1N3cDk3ejJVQVF0bFFXcEFqRlFlUGVudGpLZE95V2hMeTc4ZjM?oc=5",
+      "date": "2022-02-14T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "SJVN awards electro mechanical works of Dhaulasidh project to Voith Hydro - PSU Watch",
+      "source": "PSU Watch",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMTRjZzVOODE0X3dhUURjdmxtTXlZZVYydGZ6SHo5cF9rYkg4Ukw3LXhsQmhYbzRzUVdwbG5pQ1oyY0h1b0RVRS1CTDhESFBkMWVFalVOa0l5X2c4ZVFSQ2J6Q0ZpZWNKeGpPRm5acUh2b3NXWjg1TkZyeFRvZ19oQllzRWMzZnJyazRNT1pwVXU3T3BWVWhJdFA0cGVxUUnSAboBQVVfeXFMTlR4TmVGcGJJdl9lYUpPbXVDY1pFNG1mUFpnbG0yTmJUN1BhLUsyQ0xVRFJrY1lvTXNoSjVUSWRSQzZtanFTTi1Tamw4aEV2eWtNS2NVOE9NUVlHbmgyQXdCWVdSRnhJbVdrWEJoUW9iU3ZjdDlrbGtaS1F3Ry1STmlpSm8tN3h2cVpKbU1UckVVbjdxM0s4c2loVE1iYS0xQ2ZJS2lZSEYyS09ESGZ6Qnd4NlNaYVVMaGtn?oc=5",
+      "date": "2022-02-11T16:34:36.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dhaulasidh"
