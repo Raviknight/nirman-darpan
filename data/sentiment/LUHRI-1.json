@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-07T00:37:37.889Z",
+  "updated_at": "2026-08-10T19:50:18.507Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
-    "positive": 7,
-    "neutral": 13,
+    "positive": 6,
+    "neutral": 14,
     "concern": 0,
-    "avg_score": 0.135,
-    "avg_magnitude": 0.145
+    "avg_score": 0.13,
+    "avg_magnitude": 0.14
   },
   "youtube": {
-    "n": 4,
-    "positive": 2,
-    "neutral": 2,
+    "n": 2,
+    "positive": 1,
+    "neutral": 1,
     "concern": 0,
-    "avg_score": 0.275,
-    "avg_magnitude": 0.325
+    "avg_score": 0.1,
+    "avg_magnitude": 0.2
   },
   "overall": {
-    "n": 24,
-    "positive": 9,
+    "n": 22,
+    "positive": 7,
     "neutral": 15,
     "concern": 0,
-    "avg_score": 0.158,
-    "avg_magnitude": 0.175
+    "avg_score": 0.127,
+    "avg_magnitude": 0.145
   },
   "top_positive": [
     {
@@ -33,15 +33,16 @@
       "score": 0.8
     },
     {
-      "source": "youtube",
-      "title": "Thank you",
-      "score": 0.8
-    },
-    {
       "source": "press",
       "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
       "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "SJVN के मुनाफे में बड़ा अंतर: स्टैंडअलोन ₹1,008 करोड़ पार, लेकिन कंसॉलिडेटेड में गिरावट - whalesbook.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZGNtd3pkZ2VxTlBwQjFpVjZJSlpHeUR4ZXJEMXlZcWktZ3Y1NmhXRU1ybG1ZZU1nandFbTVVVkFjMkpPdk5XU1V2YXFfdWlERGVibnJEekdDTk9wLTFIeW9rNENkX0lvQThjS2tyVXR2ZFVfdk5LSC1EZnkwa1dmX3g5N2U5ajJLVlRyNEMtTngtMjZfdWpCdDJPV09BWFctZWFqZDdHQmc1X2dJNWVWZWF6eEFOVVhhMHRwTlM1Q3hCQ3pWd3VLbndmLXh0aVI4SDFQWTFkNEVjclQ4bm5TVWhkU2dpbzJiWEtuQ21ZUzd3clVl?oc=5",
+      "score": 0.3
     }
   ],
   "top_concern": [
@@ -51,14 +52,15 @@
       "score": -0.1
     },
     {
-      "source": "youtube",
-      "title": "sir electrician ki vecancy teni h project pr khali ??",
+      "source": "press",
+      "title": "Luhri Stage-I Hydroelectric Project, Himachal Pradesh, India - Power Technology",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0MwLWxqcy1zN1ltS2hMZDVtX3JuekNnT2FvS0hfLXlJbzdneUkzRl9zemhHaHItUjBQdE83NjRVRngtbEhJd19HRnhPTHU5SVdpZnZJcHpEMVBhUkc3UWdaY3o1Rk1uSFZxRldtV2FId0YyVFVWRGs2aFZLUGNpV2xNaXFqRVVieWVGNHNINXhpLWdmRmpkNTFzcEd6NW0yOTJV?oc=5",
       "score": 0
     },
     {
       "source": "press",
-      "title": "Luhri Stage-I Hydroelectric Project, Himachal Pradesh, India - Power Technology",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0MwLWxqcy1zN1ltS2hMZDVtX3JuekNnT2FvS0hfLXlJbzdneUkzRl9zemhHaHItUjBQdE83NjRVRngtbEhJd19HRnhPTHU5SVdpZnZJcHpEMVBhUkc3UWdaY3o1Rk1uSFZxRldtV2FId0YyVFVWRGs2aFZLUGNpV2xNaXFqRVVieWVGNHNINXhpLWdmRmpkNTFzcEd6NW0yOTJV?oc=5",
+      "title": "SJVN’s Luhri-1 Hydro Electric Project enters advanced stage of construction - psuwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVDZuNmU2MDhnaVU5MmwxZlVtcUNxWHFCLWNkekp3WjA2ck95YUpXaVVXd3dCeDNmT2R6dXdwaDhoTnd5WG9IaTRZU0h1T0pVbjNaWUhUTWhTbWtFNU5haDJHd2ZVRFU0aU4wdkM5ZmFGNjZIaTFHcDVhVk5mN0l4Y3NyRG5lSVJwNFFqMzI5VVpyX1FhcGtRYmp5MTM1TXctY1B1emxkMnB6RnFTQ3fSAbsBQVVfeXFMTVNEbHhqR2d5Zk01S0JidGtNV0VZTkRYRkNrYXpRMU9XQkx2b0tuVnhFMWp4bmx3M2NPQTBGcHBxWTNDN3lERHJucUpiV1FfVlMzSW1QcEdGMW42dDNIN3hMSy11Z0RYdXRob3NaTUV4V3l5OXpVbWFoSHdHbVprcFBoLXJ6LWZqejNsSjRPV0xHT2l5MFVhekxyUkRpTDk0aEZBVVlzajU4cXA0QTdFUU9NZkJYNm1OTG9zMA?oc=5",
       "score": 0
     }
   ],

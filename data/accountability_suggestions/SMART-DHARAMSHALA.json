@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-07T00:37:13.137Z",
+  "updated_at": "2026-08-10T19:49:46.902Z",
   "project_id": "SMART-DHARAMSHALA",
-  "count": 1,
+  "count": 2,
   "suggestions": [
     {
       "category": "grievance",
@@ -9,13 +9,27 @@
       "kind": "issue",
       "duplicate_of": null,
       "first_seen": "2026-07-30T20:12:43.697Z",
-      "title": "Demanding Lokesh Resignation on Mega DSC, Jagan Loses Plot! - gulte.com",
-      "summary": "Auto-detected from press: \"Demanding Lokesh Resignation on Mega DSC, Jagan Loses Plot! - gulte.com\" — review the linked article and edit before promoting.",
+      "title": "Demanding Lokesh Resignation on Mega DSC, Jagan Loses Plot! - Gulte",
+      "summary": "Auto-detected from press: \"Demanding Lokesh Resignation on Mega DSC, Jagan Loses Plot! - Gulte\" — review the linked article and edit before promoting.",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOODQ2N3RrbjlfVXdHVi0xLTM5R2pzb3FpX3lYSUI1RHFPeUVLVzBlSEJwN0FZb25wWTFMdHJGcS03RDFzNFowald3QzNHQ3BsQTA1Tk5vb3hhTlNRMFM5dDgtVXFkNHZjNmhMTENZTGY2ZXZHSEhLSU1acGVYd3lSMXlMOHNKYmQtQ0JTTXpHTG4wb0l5Y0g4WnhIbDUzczFKWmVUetIBqgFBVV95cUxNTUR5SWdRcUN3YnljVkh2dDIyMWQyYlJjcHQzNEdoTUNERDE3TDdmS29qUW44MkVYVGVzSjd3c2RPaVkzV1Z6M3lucjh4RFZXeDMzY0ZzSEZmOFBETXVUbGR3cUpPWlVmZThtVzc5M2Jyd1VsRnVpZGx6SWFwRm50Q1VTUHZ0ZEZHeFhSY2pJVFpWVFZVZXVQSU9HMmZIUUFMTy1NZnVsd1MyQQ?oc=5",
-      "source_name": "gulte.com",
+      "source_name": "Gulte",
       "lang": "en",
       "date": "2026-07-28T07:00:00.000Z",
       "matched_term": "demand"
+    },
+    {
+      "category": "audit",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-20T20:17:12.433Z",
+      "title": "CAG plugs irregularities worth Rs 60 crore in Dehradun Smart City Project - The Statesman",
+      "summary": "Auto-detected from press: \"CAG plugs irregularities worth Rs 60 crore in Dehradun Smart City Project - The Statesman\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1JzNXVSMGVJX3VIQlVvTzJzTjZGYWd5d2pOVnBodno5dlZEWllJamxOanZyS25mdFRkak9QYjNzUmd0TkpuT08wZ2NZWHVaYmZ3eElmQnZTWUNKbHNGcFk2bHJzbzBoQ2RKdmc4UElJTFU2aGVPQ00wMllEaGU5YzM4VUZUUzRYWnduTkpFeUxwRkR4OTFYakRJaDcwWHgzYmlLMWVMOUJtUEViUnlOdXJNcjlaWjhiUmFHeWFMWkt3UdIBxwFBVV95cUxNcHhWcmJ0MWgxMXVRVDNZVFdza3Z5NWFLck9JdE5CdTdPcFg2d2lKb0JxUThEOElJc0pWQ3RuWWtoLUw3bkwyR0IwTnh1TWQ1TTVNU3diREN1WWNkbG5QdXBld2ZvOTZhTWxicU1hRGw3N1ZuMVU0MUEyZURTRzhwTGlQdFVwUzhLQjVyRHdwUEJWRWNXMFA1ZVBhQ3dzdFNEeWlUcTFxMFhqVExCUW9aQUlCeTNUTkJXOGRBNXJEUXU3OWJDRGFR?oc=5",
+      "source_name": "The Statesman",
+      "lang": "en",
+      "date": "2026-03-11T07:00:00.000Z",
+      "matched_term": "irregularities"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

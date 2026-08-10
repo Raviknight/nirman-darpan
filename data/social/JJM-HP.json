@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-07T00:36:28.390Z",
+  "updated_at": "2026-08-10T19:48:59.087Z",
   "project_id": "JJM-HP",
   "counts": {
-    "press": 3,
+    "press": 4,
     "gov": 0,
     "en": 2,
-    "hi": 1,
-    "total": 3
+    "hi": 2,
+    "total": 4
   },
   "mentions": [
     {
@@ -15,6 +15,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUVhlXzdCcTRlU2pPWk0ydW1lNlliV3pGaWZ0NnhRLTJKT3JTYUtocG1FUjhlSVhVdGlqVU5pcVJLMGxvLUx5RUwtWXoxU1JmZXRkYmlsQS1qMm5KZGtkTkFUNzdyT1dGZjRxZ2ZZeGVydkg0R0F0OEhxVWRmd0xWWXU5R1Z4SS1qaDFEbkU4YmZaZ2F2ZEtLN3pWLVRyWndSa0M3UEU2ajNVWXRoc1FoTTg1eExqUnFXN0FuRFlNOXEtRmcza3ZlNjQ5X2ZIRUJ5UlNxT2pWeVFiRHpXZURfQ2JIN1Y5eDdkbDR4RTNNQW02d9IB9wFBVV95cUxQNkZEYXdVU2VNd2FfZW41b3NJeXZUVkw0cW5kYV9PWFRjaTc3T3FYbDdqdXdaUXBiRmRuekpCYk5WRDNnaWhvNTZBWi11Y0Zab2t6NkdwVFJGTUhoMjNnRXpfczVxRERsbHkzSnBQUjhZYWtKU3UtRVFuVXZ3bGEyNXc4Z2F2S3YxWlFVNGJBOHBjdml5eGFUeVBqQ2dsTVRTeHJVenk5c2VMNWxXR090ZVRfWmRRc2VIUmJsaWdtYVdINksycms5LXVnMjNSRURqc2NfZ2NlWUh3akg4RF8xaWxoWURnTUduVmc1aDJuMVpMdEhlTXVj?oc=5",
       "date": "2026-08-02T09:11:04.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Jal Jeevan Mission Himachal Pradesh"
+    },
+    {
+      "title": "Jal Jeevan Mission: हिमाचल प्रदेश को शर्तें पूरी होने पर ही मिलेगा केंद्र से पैसा, अटके हैं 1227 करोड़ - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRGhnMFhCLXUyWm1hSlBueTlRQjJEWnhBV3RNdllDSWQtT09YQXZfUU1POFRVeDQ0RGkyNTFaXzB5TGJ0WEkxSmRnTEpndGtDeGplN28zeTdDUmw4WEcwSTZ4bGdoaXJzMkYxZnhENksweHFnY3JtWkhkcERVMHJwVUdwZ3EtOHFwaW16TmRZcjRzZDhrd0NreE42ZkFfajdxM0tHVnlUSU9fN3lBSHZPLTJ3WVNnMzNQR0xLcmYwbG1qaGZ6b1Z1ckZ4ZGdTbFc2ZnlfZ21zVS1ZdlBjWjVFS2N3X0RHTXZVT0w1cjdsbGRYeFl6THNfVWx0eV9RQdIBgwJBVV95cUxQb2hhVTQtMFVpRWJ2TEFQNmdpM1BHcmZJelRicW13cmF0Y25CaWEyY21MeWp6aXZrMVRoTW0yeEViUS0zUUtnTjZhMDF4LUUyS3ZZdzhpS3FISnNVbzNLQzNzT04zclYzbkl2MFhZeklZMF9DS1pHM2c0bEJMQzlJektIbnZMNzhmTzV6MjJyWFdQUlZ0VU9PeVRiYjRBUF9uYkE3ZDFzNDNSUjZ1Q1ZtQlFzdGNmV3luQmVVUWVMb2RnaE4tcDZmOUtXYTdGOE1HZ2l4eEcxUDhUclBFaE54Vk1UTHB3QzVMYWdaZUUtanBWTjUtemNaendacjl3bENYU3R3?oc=5",
+      "date": "2026-02-23T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Jal Jeevan Mission Himachal Pradesh"

@@ -1,31 +1,37 @@
 {
-  "updated_at": "2026-08-07T00:37:58.178Z",
+  "updated_at": "2026-08-10T19:50:29.446Z",
   "project_id": "SMART-SHIMLA",
   "press": {
     "n": 20,
-    "positive": 10,
-    "neutral": 10,
+    "positive": 11,
+    "neutral": 9,
     "concern": 0,
-    "avg_score": 0.165,
-    "avg_magnitude": 0.275
+    "avg_score": 0.19,
+    "avg_magnitude": 0.305
   },
   "youtube": {
     "n": 28,
-    "positive": 9,
+    "positive": 10,
     "neutral": 14,
-    "concern": 5,
-    "avg_score": 0.007,
-    "avg_magnitude": 0.271
+    "concern": 4,
+    "avg_score": 0.036,
+    "avg_magnitude": 0.214
   },
   "overall": {
     "n": 48,
-    "positive": 19,
-    "neutral": 24,
-    "concern": 5,
-    "avg_score": 0.073,
-    "avg_magnitude": 0.273
+    "positive": 21,
+    "neutral": 23,
+    "concern": 4,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.252
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "शिमला: स्कूल से लौट रही छात्रा से यूपी के अब्दुल ने की छेड़छाड़, युवती ने फोन का कैमरा ऑन कर जड़े थप्पड़ - himachaldastak.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xTlloU05jMWNSNFNXRXVTalY2TmxoNDNqZVJpS2dOV0ZneGlWcjFLaHN3Y21hQjd6U1VqbDc4ekVDVkdIYjZQTkNXODRXeEFzLW5KOU5KZHVkUE1wTjF5c0FHQUFNMl9Lbkx6SkdmWTA5X0JHR0wxTQ?oc=5",
+      "score": 0.5
+    },
     {
       "source": "youtube",
       "title": "Look at nava raipur, dholera , gift . They have one of the best urban planning in india, dont just trust pappu😂",
@@ -36,20 +42,9 @@
       "title": "शिमला स्कूल मर्डर केसः गेट पर इंतजार, फिर दिखते ही फायरिंग! CCTV ने खोले मनीषा मित्तल हत्याकांड के चौंकाने वाले राज - News18 Hindi",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSnRMeTRtWVBxQ1NIeURiLWdZSWM0S0VDZ1pMa1BuU1hUUmx3c29zT0UydGhmNHlyUXM1SlVjSklRTW50X2piVVdDSkRJQ3ZPd1RpbTlON3RkRTlodGRXMkpiSFhhWDROYmxLYUhsQTB3ZFNRWlFSMXBRaUN5emhUYTVtSWZqMWowZnhpMmlvemJFWHZ5M3VYX0dKcFUzYm9OWnZPdjFGTU91REZ3NlRtT1E2cHkwazEwRG5FXzdoT1N3MXpoNGRINlJwVXJKQWdHV18yR1VCWmZkTzZyT2hhanQ5aWtlQUpmbUVDRUh3UU0?oc=5",
       "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "संजौली स्कूल संचालिका हत्याकांड से दहशत में अभिभावक, बच्चों की सुरक्षा को लेकर प्रशासन ने उठाया बड़ा कदम - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckFrdmd2TC1VU3FZTHliSERqSXJydnc1cmVxbW1FSnc1UjM0NFpxRzFMbjJXTE44NTVEdFFOX0tWVVVXelViVzlSQzVhQ1I2OFF5b3dXcERtS0ZoNWRCNGpOZmNwU1Zmb0JzM2l5aTNLem50M1YtV1B2cy1hRVJ1dzNhWENIMWpNWlI2Y1otbVpRUFhWSl9GZE8yRzlaYjlIR09fQkN4eVVwOTJOalp4YkFn0gG3AUFVX3lxTE42T0RwWTBtVFJja0hNc3hfQ1NsSU9xTUN4QmhRT29qNlhWUWQ5VFRuQk5mSnFUS18yanNTaHlJX3VHdWFCd1B0NDlZMmJrRGk3M0kyVS1zTnk2TlNuV2R2MDlJTzNGTW5GR09HNWVBWjFRUVM1Z2pOc0ZsbWNfXzFld3JINENieHdIU1lWVVYxOHh6QkNSQkFiajc3RjRYOE42RjBCam5GZHlpS01HUlBkcFg2azA3VQ?oc=5",
-      "score": 0.4
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Kuch bhi?\nWithout informing the Numbers, data and facts about why you think the scheme failed, you'll bark \"SCAM SCAM\"?\n",
-      "score": -0.6
-    },
     {
       "source": "youtube",
       "title": "We have an overpopulation problem for sure",
@@ -58,6 +53,11 @@
     {
       "source": "youtube",
       "title": "Smart Kitna din bad launch hua tha dikhaiye",
+      "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "Ask electricity board ,what they have done till now, people's living 2 days without electricity in capital , why not HT ",
       "score": -0.5
     }
   ],

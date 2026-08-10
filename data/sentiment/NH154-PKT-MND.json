@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-07T00:38:03.412Z",
+  "updated_at": "2026-08-10T19:50:35.323Z",
   "project_id": "NH154-PKT-MND",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 8,
-    "concern": 7,
-    "avg_score": -0.05,
-    "avg_magnitude": 0.27
+    "positive": 6,
+    "neutral": 6,
+    "concern": 8,
+    "avg_score": -0.04,
+    "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 23,
-    "positive": 14,
+    "n": 18,
+    "positive": 9,
     "neutral": 6,
     "concern": 3,
-    "avg_score": 0.257,
-    "avg_magnitude": 0.67
+    "avg_score": 0.172,
+    "avg_magnitude": 0.672
   },
   "overall": {
-    "n": 43,
-    "positive": 19,
-    "neutral": 14,
-    "concern": 10,
-    "avg_score": 0.114,
-    "avg_magnitude": 0.484
+    "n": 38,
+    "positive": 15,
+    "neutral": 12,
+    "concern": 11,
+    "avg_score": 0.061,
+    "avg_magnitude": 0.476
   },
   "top_positive": [
     {
@@ -33,13 +33,13 @@
     },
     {
       "source": "youtube",
-      "title": "Good information 👍",
-      "score": 0.9
+      "title": "good",
+      "score": 0.8
     },
     {
       "source": "youtube",
-      "title": "Great video👍",
-      "score": 0.9
+      "title": "It's good road alinement.. shimla solan jise enginer ne banaya pora bakbaas",
+      "score": 0.6
     }
   ],
   "top_concern": [

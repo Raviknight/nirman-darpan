@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-08-07T00:36:09.259Z",
+  "updated_at": "2026-08-10T19:48:38.940Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
-    "press": 253,
+    "press": 252,
     "gov": 0,
-    "en": 138,
-    "hi": 115,
-    "total": 253
+    "en": 141,
+    "hi": 111,
+    "total": 252
   },
   "mentions": [
+    {
+      "title": "फोरलेन पर MRP से ज्यादा रेट पर बेच रहे थे सामान, विभाग ने रेड के दौरान कई दुकानदारों के काटे चालान - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZVFkU2RHRmoxLS1nOWpFWENKUUpNcnRKU0NKeWg1ZjB4OGR3SHFxNnRNc1lXT1V2VllkMTUwZEhORGIteU50b0UyVEdIcGY0aFBiZVpTYlpIUFZ0akNnLUpWMVRyUFNzRGxaMjk0a2U2dTN4eGNkUGtSbW15UTI1MHkxRFptUW5ZZmd2eFlVdkpYcUYwNzd5SV9vWFBDSzFGamxCNmNhU0RtR2pTWnVMbjE3RzdRRVUtZHpJemlNOTdOZ0dUY3BlWG4wOEMzSGU4ZzQ2NlBOTnVLLXNKOHZoUmFn0gHnAUFVX3lxTFA2REhpTXpZNFJzZ2JER2d5azZiQVgwcjV0b2RLR1Q1RFFIN01kbHRHQTVfVHJSLUhyOGFUdTRkY0FJVTYyNVBTT2FtODNJczJMZFZSbFRCTGFFWGJ3aG9nZjJSLUFIN3FFVGNKdUdqN0xkcFJQRXRVUjNpY3FISGttT212MTAwRmpnenQzQXliaVRxOURERXIwT1ZfUnJSSjBYb2YzYnRxSzMxeHFJS0NjU3Q0UXdQZUF5NDBoU1ZwSjBQWktzcEtQRXY4b3JyRkNOQTBScWRUNHI1bUlwWnZ4WGNXLUE4QQ?oc=5",
+      "date": "2026-08-10T06:36:54.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kiratpur Nerchowk"
+    },
+    {
+      "title": "हिमाचल: कीरतपुर-नेरचौक फोरलेन पर लैंडस्लाइड, मैहला के पास पहाड़ी से गिरे पत्थर; यातायात ठप - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM1pEakVFQjRsUG1WUzZfeWNpVWdkdUxtdWJnMlBPalJwQURQLTg2R1RlcnhIVnFKc3FDaDdzRklrZ0dpWFRfSUVqT1IwcFdyYjljbjFxUWxlSFA3MnNsNXlEQUo1M1liaU1jcGJScjRrQU5IWVlfWkgzd1E2Q2I4ZkQwN1JsX2ZFLVdTa19NQ2VLUXpJcEFmZ3lHN3F5LW11VVhsM2RHNmlRcm9XU3ByNk1rOTc2TGR2NEZhemJubWFZdU9EWkQ3d1FSbzVHSGFQT29UY2JuVl9TQ01rR18wbFNfNkd2RFdwUHpEaEVvbmk?oc=5",
+      "date": "2026-08-09T12:07:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kiratpur Nerchowk"
+    },
     {
       "title": "चंडीगढ़-मनाली हाईवे पर दो जगह भूस्खलन, पिकअप क्षतिग्रस्त - Himachal Now News",
       "source": "Himachal Now News",
@@ -44,20 +64,10 @@
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX2pJTy0xYkZfRlhDcFdIOGQ4MXZrVmtVbHNvNEFITm5JRGxnMVJpNXRXZ3hrbmQxYVRyUFR1azNVQ2hOQ1IzUmZXY2p0T3pEWlhud3djWnV0X2p4Z3czaTBKcEJDY1QxU29LY0FITlJWZ2dYanZsS2Q3bkE2SkRsVFFKNGRhN2FuLTgzZC1lcFlnUHdRenNRU2JabGxLSTMwcXd5aVBVU1VPcmNzY1lOUUtGYTl1eXlzaW5UMlNFMkVNMmx5djJFbXJ5U1hCZEd5c0s1Mmx1YWI5TTB3LXJqdi1B0gHnAUFVX3lxTE9pU1VMelhBV21mRlhNYjd4Wkx0cGoybE1tQjE3UzUtM0VaV2Nmd1p5MEF2dFQ3cU1mWDZHX2txdGpMR3RnYjN1b1QzQXFITjRjVkZkdWo3Q2hEeTIweElTalZOVmtPbXE5aVgyMnJpMG1ndXBRMGVqbnZFZHROd0JEajIyZHhsLUVpRU5ZX0ljcVBqVUVlaU80dmRGeTl3YXdPYXpYV1NzeC1HS1pOQ3JRamk0TE90cVlQb1hxMEpmdTd1NFF3cDZhTGRtRkpiUXN3Q0xYODhCSDVBb25HSHZjdDFrU3otZw?oc=5",
-      "date": "2026-07-28T10:23:14.000Z",
+      "date": "2026-07-28T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "Terrain trouble: Landslides, floods triple cost of key Kiratpur-Manali highway - Himtimes",
-      "source": "Himtimes",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzFxSjdEeVVIQ0VFbTBvRDhzVlVhRWxrRF9naHp2TkdhaS1OamtyVmg3dmxMaXpNQ2RmTTlrY0VvYmxkUzVfZ3FNblAwMFBOcG5Ga05hd2VqMmtoS3BEbTI4ZmpmUlA3Y2htZXZYemlJY2JfenNEQ3ZuS2dMaEZjeTBsOWZFWTRSRDJyUDM2ZGN3SkhnUDlxWUtnVDNTMlU?oc=5",
-      "date": "2026-07-26T23:49:48.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kiratpur Nerchowk"
     },
     {
       "title": "किरतपुर नेरचौक फोरलेन पर दो दिन तक बंद रहेगा ये मार्ग, वैकल्पिक रूट जारी - ETV Bharat",
@@ -75,16 +85,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnJBb01nTUV3bXBsSmVuR1hPMkxGWGRUQXlLS1NGWUJYQncySDR2cVdwQng5NTVqS2NXMnpLWDFaMGpDQnVGTUFpbW5OQUpKd3A2bHcwakRGS3BTSkhaaExxdVh0dktuWEVoV3hPMUtyTlloMEF4bElfOHduWVVMdVZQbTR1NzVvRE1zWXBJZ1FUQlRnYXplbmdfRWViSHFyMGlTNUlJZTRQLUVhblhaOWp1SlJ0ZlRSZ3cybFdBLW8wbHVU?oc=5",
       "date": "2026-07-24T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
-      "title": "Bilaspur News: कीरतपुर-नेरचौक फोरलेन में वन भूमि पर लगे आरसीसी पिलरों की होगी संयुक्त जांच - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNLWpXdkNVdk5TRVphV1YxT0tFRDQxN3FkMmFySUxpLTVhaTFoYjhzWERVUl94X1pxZmpUa0dxUWQwbmJPbUpselpXczRZQjI0cVpQY2JJUm5WbVJleUdIUmxyXzNkMzdDNW9CeTM0WXUwTF9zdnoxLTdZb2pkWGJUTGRUM3RFdTZiUHktc2FXOURmbGFDaHNuYWZzb3VKaXlyQjlDY1VKakZuN3hOT293NXZYb3lIMUZSenlRMDZ2am8wcVIyY0Fmc2IxeF9LNGRwekR2YlRxY19TX19HOWR2amJGMFhadFdEb1hPQlFuTEtNaEJiazZpNU1TR281Qzg5c2NucU9pUENsNVVvTEgwc25lemVfeWhoQlpIcHh3a0VLeko0R2VPOTV3RE51bEFyZDdNM0VtTEtBWDRESi1hY9IBxgJBVV95cUxOUWZSWW00dTJyVmZwcU10S0F0MXRvb0plcE05YzVCZzVja1hmdkFqeWw1T1haR1JHQVR2ZmV4czA5M1YyWFV0Y01sODNwSzRtdXdsaHA3NS1NU2ZUWWkySktoNV9GYnlueVJtemtGUC1vQ20tb2JDS3Y5d3ZMZnlpcU5COFNTUVBlQWQ0X0lvVFVhMHFzZi1pdWJjcVh2RzFEbmVtNEpLWnNhZDFOVkwydS1Db0xqMXZjTWNhd2RySjJhSEhkd0VEd09qVVRZbXNDZUxuOXhZZHE5ZUdfVndCdjFGcEdnMTVTYm1Xck0xcHNiT3FzaHhRQUk0OXgyeG1Va2VFX3ljbUNBTUxxbHFMWV9URWZmSGlna004dGlPRGpFZzB3WUdteHRhVnR2ZlVFVmE2a0VmMTJ0TW52MmRwQm8zU29nQQ?oc=5",
-      "date": "2026-07-15T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Kiratpur Nerchowk"
@@ -130,16 +130,6 @@
       "match": "Chandigarh Manali highway"
     },
     {
-      "title": "Bilaspur News: कीरतपुर-नेरचौक फोरलेन अनियमितता मामले में वन विभाग ने कसी नकेल - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUGdQcnVkX0VIUk1oM2habXp5NzdreUM5aDV6T2JEWDV3SnVld0JDQTU0Tl9Za1VmSTZUV3JEdDJKWHJpekJxOEJuNnA5d2c5SlphWEVjYkl5dEdlVTAxVU9uamlNcmw1OS1MbUhvRnN1bWxhMmVjbDRqZFpIamxjVkRjQ2ZxczNlQkJLMnZnNlhGczRESklwdktNeVhrQVZxVmFzYUljX0o3VDhFVTdzdDNIa1VXVHJYdWFoQ3ZuSm85WnF1eDNTOFRfai1TdVp2bnhqXzBmY29hVGhGUlRlZG1sSjFZbGVwN3BHVF9UZ09jNklvNFR2bGI5Vno2X3RRR0lCQUdtempMUldXYkJpX9IBlgJBVV95cUxQVmE1N2xQZXpvTHBMd0NJcWwwNWNkc1JfTzhmamlzNVpmX24tajVTdUh5ZGxfT0tUT1pPTzBXLXlpZ0o0MGRfZERxYV9rOW81SksxcjJ1RGVGMmJuZlhiSHVucm9JSmNGLURsUkZtOFFFT3B6X0lLb1gwV2hDbWlwYmtsMmt6V1ZTRG5PUjZmMzN5N291NFdqVklBTktlUzJpRk53dnI5Z282N0wxbDR2cm5YbTZzOENBd0dEWnJySHlneC1aakQtb0Z0eGlmaG9DZkd1YjJ5UEwtVFVHNHpMdDNwbVpUSldPTWFNRkkzOTZrQTNZbFNzMTQtNl9ULXNHNVhkYVdBMkdwUGsza3QxZFlackZqZw?oc=5",
-      "date": "2026-07-05T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
       "title": "हिमाचल एंट्री टैक्स पर बवाल, 125 रुपये वसूलने पर हंगामा; मनाली हाईवे पर कई KM लंबे जाम में एंबुलेंस भी फंसी - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -160,14 +150,24 @@
       "match": "Kiratpur Nerchowk"
     },
     {
-      "title": "हिमाचल में टूरिस्ट सीजन में चंडीगढ़ मनाली हाईवे पर भीषण ट्रैफिक जाम - Aaj Tak News",
-      "source": "Aaj Tak News",
+      "title": "हिमाचल में टूरिस्ट सीजन में चंडीगढ़ मनाली हाईवे पर भीषण ट्रैफिक जाम - AajTak",
+      "source": "AajTak",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSUt1N2QweFViNlRwZVRZa3hNVTktakJHZDk3VjZRMUQxZkFQb1lNYmtId05NbW90OVRvekU1Yi1FWjhBN01jZFpnYW50cHJUaW9TdjF4MGxlMm83UDJuYklKb2JnczVNZ3lyQmpHeXpYVXBRM0FlbnFXdjlLengtTC1rS2xvNFoxNE1rcVRjc05kWEtMS3ZSX2w2RFRhbE1Bem1tcGU4ZlM5cVJxaUNKRzRZZGtmQWtnZFZhdEVYNldoc0hqU1ZxQUpYSDZNeXZmX25IeVJR0gHbAUFVX3lxTE51azhWMWM3Q1RBYkVCUU1ZRFZFTHhjMHJ1dDUwc21ta3VVZHRrZXZNZmNORVVBSUpNTzJjWkJON2k4LVZzbHNNazFhWFhlalJvMTFIMWFjM3BpOElaWXAwTnpLMGoxUHY1QTQza0p1QzlSeVp1OF84ZGU4VVBfQUxvb3EyWWd0amtUZWV4d2dURlFEU25zX3ZKRnM4b09LWXZjV3FmUXVmMTJmY3M4ZWJZSWhGckVhNjF6Uy1YRW5RdTdMLUlTWXZhazVZRThHWVJPVHgzeXlPZGthbw?oc=5",
       "date": "2026-06-14T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "कीरतपुर-नेरचौक फोरलेन: 28.36 हेक्टेयर वन भूमि की अनुपालना रिपोर्ट लंबित, परियोजना में देरी - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObnNoYThLUkVyRzNfQklNZWkzMThwVDRMREx6TVoxM0ExNXpTTktoem9pWVZKVTFaOGlSZkE4OGJhbXFOM1BhbU5INUhnYXdPdExLd1U2VHBUSUVIVmxsSTc0T1pGTmd2Y2FZSEYwdWxTd19BTm4wNWZvNldSTXJFR0lIUndhbjBBcFVZMVhONkR1ZDV0Vng1bUVOZ0ZiS3hRdEhKT1hVZUowVGR5M0RGLVRCWjZrMVdhWFllbThFckhCdmdDSllFcHdpTGZDSU9YSlROOWV5WEl0VXdxZ3RGZmlLaEhPMER1clZsbWd6Z0lpdFloWHRVRnJDVktfSFlkek51Nm40MDhmX3FrNU56QW42MDI5bEpzTFc0aWVHNU4tX2pKN0ZObE9B0gGvAkFVX3lxTE9YTUdRTHdialR3ZVhMczhDZzVjZDRSSVZXcDNBMHpxUEJxUHFlUTVrXzlFTkNXemhYak5RUHdZMEpGQ21Sb0NlaFVxQ3YxQmx4cXZSbnpkUUU2ZkV6TEp2cE11UHg3MFAtRHNPSURWY2dySUppaHlsdzVCeW1PTmoyYlVickxtUUhtTVd1aEhEZVlBamZldlp6dGVITkRUNWY5MERlTlJEZXBnUm5oUWJ1b19YOE5BcEZyS3B1U0FrQk5ZSnpmNC1kWUF1R3JUTWJRMURCMV9jeEpRNkRmdElvZ3J6am5lR3pMX0tWTWRERzEwWW9OcC10Y1VoWnNySTFpNkpsMEJ3dTBKRlhUZ3dVYlBUZGJXeW92Rkt6MUZvZWJhMW9PT2pqYTVSbkRnUQ?oc=5",
+      "date": "2026-06-12T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kiratpur Nerchowk"
     },
     {
       "title": "Chakka jam at 55 border points on June 1 against HP entry tax - The Times of India",

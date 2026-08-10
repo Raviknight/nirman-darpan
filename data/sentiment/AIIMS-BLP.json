@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-07T00:37:54.184Z",
+  "updated_at": "2026-08-10T19:50:27.240Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 4,
-    "neutral": 15,
+    "positive": 5,
+    "neutral": 14,
     "concern": 1,
-    "avg_score": 0.075,
-    "avg_magnitude": 0.135
+    "avg_score": 0.09,
+    "avg_magnitude": 0.16
   },
   "youtube": {
-    "n": 52,
-    "positive": 41,
-    "neutral": 9,
-    "concern": 2,
-    "avg_score": 0.462,
-    "avg_magnitude": 0.513
+    "n": 38,
+    "positive": 33,
+    "neutral": 4,
+    "concern": 1,
+    "avg_score": 0.532,
+    "avg_magnitude": 0.584
   },
   "overall": {
-    "n": 72,
-    "positive": 45,
-    "neutral": 24,
-    "concern": 3,
-    "avg_score": 0.354,
-    "avg_magnitude": 0.408
+    "n": 58,
+    "positive": 38,
+    "neutral": 18,
+    "concern": 2,
+    "avg_score": 0.379,
+    "avg_magnitude": 0.438
   },
   "top_positive": [
     {
@@ -49,15 +49,15 @@
       "score": -0.2
     },
     {
-      "source": "youtube",
-      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
+      "source": "press",
+      "title": "AIIMS-Bilaspur trains emergency staff in mass casualty management - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM25sN0JNaWdGVVdHQW1tSnRNTTdvWl9kQjdCMEJjdGZieTJJMURuNXJpNlE0Y3U4NmVuVDg1bU80S2xhZDhqU0pZenROMUZTME5mbXFxeHdHVTZFd1BmeXpuNXlpdzNybURTUG5ub0lMdGN3WU1JTmpFQ1g0V092SDNGY1lEaVhRc2dFa3RJc19ZbGE4Rzl1YjRvRHZ1MWhVVU05Um16NjF4V25BS2fSAbIBQVVfeXFMTmhGZFVMVEhmSmFwVl90Z2dkcnBRb2JnWGQtc1Qxd1JGR3pZUHZ2ei05b3VZMXVSQVVGYjZKS0dFSGRJREdrMmpzOE81bFJRYldnMGVCWGFURldRQnJYV21hOHBzaUtraUpCNFM5aWNCRkxmTGJpQmNqUXR3aC16WFJPdEJOV1c3YnU4VVFBaGp4YUxfa2hHYk80a3YzV01jc0swRkVxTGFTSXgyd3hsTmhjQQ?oc=5",
       "score": -0.2
     },
     {
-      "source": "press",
-      "title": "AIIMS-Bilaspur trains emergency staff in mass casualty management - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEZkVUxUSGZKYXBWX3RnZ2RycFFvYmdYZC1zVDF3UkZHellQdnZ6LTlvdVkxdVJBVUZiNkpLR0VIZElER2syanM4TzVsUlFiV2cwZUJYYVRGV1FCclhXbWE4cHNpS2tpSkI0UzlpY0JGTGZMYmlCY2pRdHdoLXpYUk90Qk5XVzdidThVUUFoanhhTF9raEdiTzRrdjNXTWNzSzBGRXFMYVNJeDJ3eGxOaGNB0gGyAUFVX3lxTE5oRmRVTFRIZkphcFZfdGdnZHJwUW9iZ1hkLXNUMXdSRkd6WVB2dnotOW91WTF1UkFVRmI2SktHRUhkSURHazJqczhPNWxSUWJXZzBlQlhhVEZXUUJyWFdtYThwc2lLa2lKQjRTOWljQkZMZkxiaUJjalF0d2gtelhST3RCTldXN2J1OFVRQWhqeGFMX2toR2JPNGt2M1dNY3NLMEZFcUxhU0l4Mnd4bE5oY0E?oc=5",
-      "score": -0.2
+      "source": "youtube",
+      "title": "Can you please tell me ki kitni fees hai pure mbbs ki aiims bilaspur mein please",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

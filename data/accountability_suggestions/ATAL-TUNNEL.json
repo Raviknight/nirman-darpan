@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-08-07T00:37:13.126Z",
+  "updated_at": "2026-08-10T19:49:46.887Z",
   "project_id": "ATAL-TUNNEL",
-  "count": 7,
+  "count": 8,
   "suggestions": [
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-08-07T00:37:13.126Z",
+      "title": "Himachal: One killed, three hurt in car crash near Atal Tunnel - The Tribune",
+      "summary": "Auto-detected from press: \"Himachal: One killed, three hurt in car crash near Atal Tunnel - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2JzVEJzdHJUNXdJSUVROFhmUWtWTlRKVEhSVFd4Mks5aTZyLUVmdG5ncXRiRDhhNXJHNG15TW1ReVB1c0ViWTU0WURWdW1LZFBRRGw2YkI2dUlpZk5feExKeldLV3AtNE9RYUh1b0NiZFFKdG94RS0tZi1RVnFnamJNT1pfaUhHbFNEUHEzQ1pNbUVsalHSAZoBQVVfeXFMUDk0VTVEZ2d3VGFzWWM0bkJEQlFRZE1naWQ4cUhNR1gzWktsaGt2ay1Dalk4QzF4ZkYzMkpMYThVQmF5RlVJMVZBTmJJWnVPd2NmRDJiUExGREFYd0FiQ2JKUERfX0dUUXY0cVlUd1o3UUNNeG1UZXgzWHRLa05MZFlhNlRUV21LMlZ2Y1FlV3FMZjdFZkkxZlRUdw?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2026-07-02T07:00:00.000Z",
+      "matched_term": "killed"
+    },
     {
       "category": "incident",
       "severity": "high",
@@ -50,20 +64,6 @@
       "severity": "high",
       "kind": "issue",
       "duplicate_of": null,
-      "first_seen": "2026-08-07T00:37:13.126Z",
-      "title": "Himachal: One killed, three hurt in car crash near Atal Tunnel - The Tribune",
-      "summary": "Auto-detected from press: \"Himachal: One killed, three hurt in car crash near Atal Tunnel - The Tribune\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2JzVEJzdHJUNXdJSUVROFhmUWtWTlRKVEhSVFd4Mks5aTZyLUVmdG5ncXRiRDhhNXJHNG15TW1ReVB1c0ViWTU0WURWdW1LZFBRRGw2YkI2dUlpZk5feExKeldLV3AtNE9RYUh1b0NiZFFKdG94RS0tZi1RVnFnamJNT1pfaUhHbFNEUHEzQ1pNbUVsalHSAZoBQVVfeXFMUDk0VTVEZ2d3VGFzWWM0bkJEQlFRZE1naWQ4cUhNR1gzWktsaGt2ay1Dalk4QzF4ZkYzMkpMYThVQmF5RlVJMVZBTmJJWnVPd2NmRDJiUExGREFYd0FiQ2JKUERfX0dUUXY0cVlUd1o3UUNNeG1UZXgzWHRLa05MZFlhNlRUV21LMlZ2Y1FlV3FMZjdFZkkxZlRUdw?oc=5",
-      "source_name": "The Tribune",
-      "lang": "en",
-      "date": "2026-07-02T07:00:00.000Z",
-      "matched_term": "killed"
-    },
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
       "first_seen": "2026-07-20T20:17:12.418Z",
       "title": "Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com",
       "summary": "Auto-detected from press: \"Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com\" — review the linked article and edit before promoting.",
@@ -100,6 +100,20 @@
       "lang": "en",
       "date": "2026-07-02T07:00:00.000Z",
       "matched_term": "injured"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T13:28:24.739Z",
+      "title": "Dramatic video of SUV crash near Atal Tunnel surfaces: Vehicle lands on steel rods, 1 killed - WION",
+      "summary": "Auto-detected from press: \"Dramatic video of SUV crash near Atal Tunnel surfaces: Vehicle lands on steel rods, 1 killed - WION\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSmF0anNFcEx4WElQaHp4ZURkUWozTG1TaXByMlNwSjFvY0VaczVqMjlwY1REeS1pak5naGtwcUt0NzZ4YzdNNXZsb0ZrQ3doNWsyOG1QYVotanNtNXg4cjdLVHJVN0tEZ2h4Wl9pRjdTMTVrRXZYaUd5c2llYV9sZ092Nk9GeW8zcjRHbEg5dC1fNi1HcjdEQ01MaGVOQmRTM3pnZFpmU0VsbWNSX05sSXdjeU5WTWpUTzZra21ZeXZRQXhLQlB3UUl1Q2dIdWhrVHB0X1lB0gHbAUFVX3lxTFBGWFl6RzVUODR1MGZOVkk5NWxuWEt0eGk2MFdneUhObi1LRzF1UUloNUJReFJkdlRjUTdubmhWN01uUHQ4Ni1sZ2FwUG1Ycm5UaUZqUlpNR3VjUHlxVnQ4Nld3U3I1aWxYNmNEcndyOFlUdW1UZW14NU9hb0FYeFp3cmwtT2NzanZ5YXYtc2tGYkpRVlN2d2k1c3ZKS2RESDNwSFFlVm92b0diQlY5V0dxN0pUZWRodHBoUUd3WnNEVE92Y2ZyZlFzUFZ6ZTdvdDlHVXZDWmowelEwQQ?oc=5",
+      "source_name": "WION",
+      "lang": "en",
+      "date": "2026-07-02T07:00:00.000Z",
+      "matched_term": "killed"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

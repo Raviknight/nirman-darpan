@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-07T00:37:08.786Z",
+  "updated_at": "2026-08-10T19:49:42.125Z",
   "project_id": "SHIMLA-ROPEWAY",
   "counts": {
-    "press": 111,
+    "press": 112,
     "gov": 0,
-    "en": 60,
-    "hi": 51,
-    "total": 111
+    "en": 63,
+    "hi": 49,
+    "total": 112
   },
   "mentions": [
     {
@@ -70,8 +70,8 @@
       "match": "RTDC Shimla"
     },
     {
-      "title": "Cabinet meeting starts in Himachal Secretariat: Proposal to raise vehicle registration fee likely; talks on... - bhaskarenglish.in",
-      "source": "bhaskarenglish.in",
+      "title": "Cabinet meeting starts in Himachal Secretariat: Proposal to raise vehicle registration fee likely; talks on... - Bhaskar English",
+      "source": "Bhaskar English",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOE0yWEZkVk5CeEY5bDhVS1RodEtBdzZ0azVkRHRxVXhuY1padzNMSTRjU2tVU1RaN3dzLWl1SVd4b1B5Vm9IRzFrUU50N2NBekZyalJTSnZXOUJvbFFrLV9tTm1pb3lUQlFKamphbFkxdUdqOU9kcmRwN2EtVjdveTZnZnB1MWRSMzNUc1FnblBXaXBGVGg3Ykd5T3h1VWxUNjFLQUF3VWYwalVFd2g1Skg2YkQxOC1uWl9yckpGOFdkQTBZcEF1Rnc0d1JNQW1s0gHWAUFVX3lxTFBzR2l0MHVkVFI1MEhRMDFfcmExX045ZFJac1h2MkdvdnZSN1R4SmJBNjVGMC15ZEFhdDV2QWJ0alRKd2cteDdLLU9pdTNkRl9lZ1I3UWdzMjFfT0ItVjFoUU5NSzhpWmNzckw5SW50VXpqWlFMLXNTR1FkSkJiWnljbXYwaFkxZHlZQ05MdExYT2V2MU1IVmh1QWlxeW5tMUdsb3NFdG5Oc3FndWNxbURjVktyQVJNUjd5WXk4Ukk3TEh5aGNKVG92Q1FsUXVJWWRBay1fSHc?oc=5",
       "date": "2026-05-22T15:00:35.000Z",
@@ -108,26 +108,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Shimla ropeway"
-    },
-    {
-      "title": "तारादेवी से शिमला के बीच बनेगा रोपवे, 14 KM होगी लंबाई; केंद्र ने प्रोजेक्ट को दी मंजूरी - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUURXd1B3a2hhUG9BV3V6QmcwTGJVWFJna1NCcW1vcFRLY092ZklkYVNuMWd0Xy1RQzNTdEJ2d0JIRG01UUVpaUZHbE5OclFVdHlCd2szV2hxa1BIMnVjejQzbkhKbGczRHRzMDh1MlVLUzFBWW42ZlNrOTVxb2Y5MW1lX2JkcVYtRVQxQ1FwcklaejRPNFVwNTRaOHg5RnBaZFVtR2VZTnFpQzNWdzFIaDQ0SVRSUQ?oc=5",
-      "date": "2026-04-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla ropeway"
-    },
-    {
-      "title": "हिमाचल के पहाड़ों पर बर्फबारी, मैदानों में बारिश: सेब बगानों को भारी नुकसान, एंटी हेल नेट क्षतिग्रस्त, तापमा... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObXdSbjNkTnJRcWhKd0FaMzdqVERfTGd5dG1INnFJVTc3Rm93d2dqcXJwUGNEenJFNFFRS29POVc5UXROcElScnBqYlZPaHhkZ2NmVXZjRmltdU9kRUZzeHBTaTBLYlJIR29Jb0VOYUtwZ0dDQUZwcGV4aXEydzV2WEYxbXRpek5CRDQ5c2txXzRfZzdWQVpBcmZCWnk4cUJNS1k1elk0c3N4S0dVNVQ2X1BiZTlEOC1rM3NGWGhzRUJUVzlDUTRqSXdnSUt3OHdya2o0bm5GdXVxLWVwUkNBNWFkcnTSAeoBQVVfeXFMUEp4QkRwSmZESEhlZWN4Q0V0TXFzamdrY2RmYVg4b1Y3ZUV2UU12WXJTZ09kMFgzQ2tOdHgxT1lBdlh1UkJZcmt3S1pHSExYa3k0Z2J1bDQ3OWFsSnFPcXVNck9tSHdhUzlyc21rV2MtaFd3UDVIalVGYkM2RXRfWFJpSnc3QzdQY29IOWN6Y3J6bUJCNkttanBtbWpMbHZWb1REWlh6MWVRZGZnZVZqX1pXd01qaHg0M21EMHdhVTZ1Q2ZGM1hYaVJuU0Y5TndmWDBIcmRFTjE0eVppa2ZFQ1hCZk5CcWlKLUhB?oc=5",
-      "date": "2026-04-07T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "RTDC Shimla"
     },
     {
       "title": "HC seeks status on Shimla ropeway, decongestion plan - The Tribune",
@@ -190,6 +170,16 @@
       "match": "Shimla ropeway"
     },
     {
+      "title": "Shimla ropeway project hit by delay, cost soars by Rs 1,000 cr - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1JwN0NEMDdKbl91REFoN2pncTJhamtTMVcwOHNoQ2V4dkNMLXF0N05XbnZyZWRoTVVkeU5Bb09HQTd6YXhmX3RrVDJmajRBUUVwSWdFeXp5YjNFam5MZzdBcEFiaU1fMlcxY083dlJmSF9YcEVRY1dwbV9WaDZDWVlUYmJ5cUVPbnpSeWNZSTA1YS05VWlyb3ByWVVrckUtdUs00gGnAUFVX3lxTE8yY2RrSkRRdWZKQ21mTHlmcUtTTnJkQ0hKTHVLVmJMT2Q5OHctSnc1Z0ZHM3pzMmpJTUljSFZ4S0NTUVpqMEVncUh0QmhrbjhnelBPSjYta1dKWGFtb3AxejQxaGJLNDduZTFfYXp6anpNTllRYVpIQlFGUnppNHA3ZHdtZnlsLVlJRlVBOTBFcGI2SjY0YmlGOVRNSVZZSzJjS3lPMV9Z?oc=5",
+      "date": "2026-01-21T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla ropeway"
+    },
+    {
       "title": "Single-bid system delaying Shimla ropeway project: Himachal Deputy CM - The Indian Express",
       "source": "The Indian Express",
       "source_id": "google-news-en",
@@ -205,6 +195,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSC1oT0t0T25kZzBqZHA1SlYxTjhRUHVwWkVOYzVYU3l2SzJFTWxVWlk3RHBHYlBzVEZhaDZRalRtNUFKelQ5NzlFZTBIcDVJN1d3SUF4eEN4RVk0SmlCbEhnc0YyRkNWRkJNQVJZbTVqMEQzcjRQRklfNjNIRzVJZFFWX3pLUFAwbkVpTU5GTTBOTXc5ZXgtVEZTMWdJWlBkN0pkRVZBR2JET2I4by1heXM5Q21QNG4wZUM4TGRoNldMZEpPeDV6WGh3UDY2WGJzX2lhZl9fWFlsSW9tUWxvUlYtdnRVYl8tU3g4Q0U0eXXSAfYBQVVfeXFMTTUzOGpoR21vdWFDdElVTXZtdm1rZzZmLUJKWjNjbFNWdEtCSndNeDhob0phV3JHbFpDb1ZhSUFxWFdlUGhBUGozcDF4ckYyLXExLWZybTFUYXZkZ1hCVzhMNnJCbjRhc0VoV29nOHJkcndfRWFOU0dtb2dJQWFvVDUzUDBkc2xOaDhwc01LbEg5cWpyM0FMRlViQzRaVTlkd0EzT1hJNEtmN082NXprNnpodmtqcWtzaEVDUnF4OXdZZTQtZWVWdC1lbDRnbS1xNUtOdGIxNE9VMUd1QUtiZ3dFN0RyVUFPd3pwOW53VGFEZktIMmF3?oc=5",
       "date": "2026-01-20T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla ropeway"
+    },
+    {
+      "title": "Himachal Cabinet Meeting: पंचायत चुनाव पर निर्णय लेगा मंत्रिमंडल, धर्मशाला जिपलाइन सहित सरकारी नौकरियों पर भी फैसला संभव - himachal pradesh cabinet meeting agendas panchayat chunav shimla ropeway govt jobs - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVW0zU1dyUVlyUTY0amJRb0pCbVM2dU1aaHJsWXFyUmQtUHNlSkQxdkZPdHpycU1SeU9FUjEyVVBZVE4yb1luSFZwMldFUnp2TFpJVm1CUm9kc1R5TTBKOC01X2ZZSjNaWlViSkFhOFNEVklIOXVMd2N3bEpZUzFyU0Zvdjg3TlpNcWsxeUtQQmxwZVUyMEVSdnZESzlWZWZ1TTJXZDJEYnhiMHBKTnR0MU1MekhiaUZEenBWTFNhbENPdzFINnlwaDFqSjQ3WVdQLVlPaTltRE1xVWs?oc=5",
+      "date": "2026-01-18T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla ropeway"

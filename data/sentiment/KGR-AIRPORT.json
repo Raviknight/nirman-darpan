@@ -1,48 +1,53 @@
 {
-  "updated_at": "2026-08-07T00:37:50.600Z",
+  "updated_at": "2026-08-10T19:50:24.024Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
-    "positive": 6,
+    "positive": 5,
     "neutral": 13,
-    "concern": 1,
-    "avg_score": 0.085,
+    "concern": 2,
+    "avg_score": 0.045,
     "avg_magnitude": 0.19
   },
   "youtube": {
-    "n": 43,
-    "positive": 36,
-    "neutral": 6,
-    "concern": 1,
-    "avg_score": 0.377,
-    "avg_magnitude": 0.414
+    "n": 44,
+    "positive": 34,
+    "neutral": 8,
+    "concern": 2,
+    "avg_score": 0.345,
+    "avg_magnitude": 0.409
   },
   "overall": {
-    "n": 63,
-    "positive": 42,
-    "neutral": 19,
-    "concern": 2,
-    "avg_score": 0.284,
-    "avg_magnitude": 0.343
+    "n": 64,
+    "positive": 39,
+    "neutral": 21,
+    "concern": 4,
+    "avg_score": 0.252,
+    "avg_magnitude": 0.341
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Jai hind sir and very sweet good morning from Bilaspur Himachal Pradesh",
-      "score": 0.8
+      "title": "I love kangra❤",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Good morning 🎉❤Pankaj thakur From Rohru 🎉❤",
-      "score": 0.8
+      "title": "Beautiful view 👌 new friend 👍",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Good morning",
-      "score": 0.8
+      "title": "Best month to go there",
+      "score": 0.9
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Fake",
+      "score": -0.9
+    },
     {
       "source": "press",
       "title": "Lack of clarity on compensation mars land acquisition for Gaggal airport project - The Tribune",
@@ -50,14 +55,10 @@
       "score": -0.8
     },
     {
-      "source": "youtube",
-      "title": "RAM RAM RAM  UNA",
+      "source": "press",
+      "title": "SIT to probe all shady land deals near airport zones: HP CM Sukhu - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVBvMHYyTkFGcnRVZ0xOaXpQMDJ2OTlIaVZlOTRyTUVIUWdwbDU3ZGNaYk5rZ0RpdW5uS0J2TFI0dU5XOGdrZmFvVmQ0QWF5ZEY4SW1pU2NzWk0zZTVwRnltTl9TcWJnTGdReE9hLWxWNEFHZnJOTTh3dFdhYnNFODdQaVBUZ05MeFJ4dXZLbDJsRHlHd0Z1QUh1aXl4MkpFanRuWmdpT1RqRS1p0gGwAUFVX3lxTE9Tdk1hWmxiaXZqYldDdHhSOHpieHBROFE3Zm0zbWJKb1J4WGkzVFdQN1NlXzZkalpzQ0doenktNlZWS2w0ZWM5RXhtUlBQZG5OaWlzc21XVlg4TkJJekdUaWxKa0JLN0QyUGpLVzZZRXVQcC1KQ0lFazVzdU9DYWtkdVczbmw3RUNFSV9BSDZRWnBXSkhLZl9Sa3hnWWszSG9NeXFDY1dXZTRRaElGRzF1?oc=5",
       "score": -0.4
-    },
-    {
-      "source": "youtube",
-      "title": "Map galat hai",
-      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

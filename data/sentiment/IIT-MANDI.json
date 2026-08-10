@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-07T00:37:56.501Z",
+  "updated_at": "2026-08-10T19:50:27.647Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
     "positive": 8,
-    "neutral": 11,
-    "concern": 1,
-    "avg_score": 0.14,
-    "avg_magnitude": 0.185
+    "neutral": 10,
+    "concern": 2,
+    "avg_score": 0.11,
+    "avg_magnitude": 0.215
   },
   "youtube": {
     "n": 38,
-    "positive": 29,
-    "neutral": 7,
+    "positive": 30,
+    "neutral": 6,
     "concern": 2,
-    "avg_score": 0.334,
-    "avg_magnitude": 0.55
+    "avg_score": 0.355,
+    "avg_magnitude": 0.571
   },
   "overall": {
     "n": 58,
-    "positive": 37,
-    "neutral": 18,
-    "concern": 3,
-    "avg_score": 0.267,
-    "avg_magnitude": 0.424
+    "positive": 38,
+    "neutral": 16,
+    "concern": 4,
+    "avg_score": 0.271,
+    "avg_magnitude": 0.448
   },
   "top_positive": [
     {
@@ -38,8 +38,8 @@
     },
     {
       "source": "youtube",
-      "title": "I see it every day 😂😂😂",
-      "score": 0.8
+      "title": "What a place",
+      "score": 0.9
     }
   ],
   "top_concern": [
@@ -49,15 +49,15 @@
       "score": -0.8
     },
     {
+      "source": "press",
+      "title": "Himachal Pradesh on high alert as red alert issued for heavy rains; all schools closed in three districts - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZFZYNS1jTlFzQkJyWTZxOW9xWlBUTzJKTUVRa3cxSnNCVm5DcGdzZG5JdE9Tam9CTzdLSW5KMHRIcFlQdVNscDk1eElHbHd5RjNQTDYzTlNuRGNESjVqYzNLemJNaXVoUUkyZ0I3MzVKS180N0FNYmhibndrMGNmN1RlQUVhMHY5S0Ywbk5IWFhjT1cyOHpFR1pidlhHajd0SjAybFBYVTFXb2JWM1J0Q2VOU3IxMjFwYTA0Vkt1VU43LUcxWWlTck56Zm1nU0c4QjgwcXFKUFlhVF9UbmltWEM3em00UDBHNW9hUXQzUm1wVUxZSm9vNFVicGk1MEFSdERyLWlVX1h4aFAz0gGTAkFVX3lxTE1RemI3bHMzdTBpYTJUUkt5VmFtZ0NVZ3VTY25QQ2s5QkNORXBNRGNPX0g4SEIzM1ZwbHNHY2ZEMlRiUU1sWE0xQkwzUWFNWVRRbHhmVVBvaFdhTHRWTThMMFYxNWl3emZEU2swVjhad25vb2xQZ1hwdzFZSHo2QzMydl9KMHpfQVVrR2dWSWVmckhSckEzbFUydDdDdkpMUHBVcGJGNE1Qb09jbWJFRjVSSXFfemQ3YkJ4QzJTN3FQUGFEdUtXZG5RTVpLRDJCdm9sSkEwWnZLTFVtUjB2aXcxMURzS2p4LVBUaEhFUWdnN0hiZnFXaTJmSmJ4dWhjaVJSYmYybGktcE83ZkpuSDVuUkx3?oc=5",
+      "score": -0.4
+    },
+    {
       "source": "youtube",
       "title": "aa raha hu 1 august ko!!!!",
       "score": -0.3
-    },
-    {
-      "source": "press",
-      "title": "This IIT Mandi alumnus quit his L&T job in Dubai to join Indian Army, now studying MBA at IIM Calcutta - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbUdxYl9tYzEzOXRJX2J4SURtU1dfblhCc1pMdXVyT1VhSHNfUnpzdmxzRkZKMWlvMUNFWmQtd2phQ25jR3duZ1JVOUhCaTFnVl9yWngxMjI0eURqYXZqYTRBVW5NaTNpQ0ppdTFBNi1Reko1VTNHeHJtSEpSN1p0MVJzSTVuQTA4TFNQY2VjTzJ6S0k0QURsZi1FRi0ybnBVajZPZlF4RjZlZEtLX1FkUmZXUnI1TzBrR29pbXdGNzJqeW92NGhTVFBHekNIVWVxLW9tMm9wV2hQUlVocmh2RDlvQ3QwT0lYdzRiS1dyNG1nd9IB9wFBVV95cUxPU2dlUTlTcXpOMXFJVUpyUk5kTFdWLWFGa1hfaUM3ZnZnWVcwM2FfRlBTZDNUUjdxNzFzRGVEaUtqWlJ2cmM2cjZPV3FteWM1VEt6QVJmRDAzQ0o5NjRoS1Z3d0FwWWFHd2FmMHNhcGY0d0FvMGxjSk1Rei1fUmozeEhnWHBLNzhxZW9VME5JOGFTSjV0UC12NWZtSzZVUnhlOERYd1FRV0FESEFvNEdFNXZxNmJueFQ5OUdKU19rUk5oYnVPMkhwWWpBTGJfc1ZZUHFydkVEcjdnVWdESEVsanNMN091MFNub0I4VFMydjJaY2wyblNZ?oc=5",
-      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

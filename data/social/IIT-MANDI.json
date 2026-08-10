@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-08-07T00:36:26.222Z",
+  "updated_at": "2026-08-10T19:48:56.602Z",
   "project_id": "IIT-MANDI",
   "counts": {
-    "press": 256,
+    "press": 257,
     "gov": 0,
-    "en": 140,
-    "hi": 116,
-    "total": 256
+    "en": 143,
+    "hi": 114,
+    "total": 257
   },
   "mentions": [
+    {
+      "title": "Mandi News: आईआईटी मंडी में एंटी चिट्टा जागरूकता अभियान का शुभारंभ - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMURTTmRtVERjNVBtMlhmT0NhQ09jMlJlbWF5SWxfaWlYNmJFSzQ3WTdCU0M2Wi1KLUhmZWpPaHF6dVpuY3BTYVo2VlN1di1wbEs2eUtUVlBqQmFUX2NZbkttTU1pVndlQ3FRR1U2X01icEx4QmhPMzNqV05relQ5cFRCNXFod1RYcGZzemxxc2lJMkVrajU4aWtSYU9WTEVoV2NFbGo4OG5HZmJIYTUyX1k2bkx0R3puQm9vb2dDMldlLTRoR3dNWHgtRVFVeFhLTFByeWJ0cXlYeWhRM1pTMlFxV0NZZ9IB5gFBVV95cUxQMURTTmRtVERjNVBtMlhmT0NhQ09jMlJlbWF5SWxfaWlYNmJFSzQ3WTdCU0M2Wi1KLUhmZWpPaHF6dVpuY3BTYVo2VlN1di1wbEs2eUtUVlBqQmFUX2NZbkttTU1pVndlQ3FRR1U2X01icEx4QmhPMzNqV05relQ5cFRCNXFod1RYcGZzemxxc2lJMkVrajU4aWtSYU9WTEVoV2NFbGo4OG5HZmJIYTUyX1k2bkx0R3puQm9vb2dDMldlLTRoR3dNWHgtRVFVeFhLTFByeWJ0cXlYeWhRM1pTMlFxV0NZZw?oc=5",
+      "date": "2026-08-09T13:25:17.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
     {
       "title": "B.Tech in Quantum Science and Engineering at IIT Mandi: Eligibility, Syllabus, Careers & Salary Guide - College Mentor",
       "source": "College Mentor",
@@ -37,16 +47,6 @@
       "date": "2026-08-05T02:36:33.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "कोटरोपी पहाड़ में फिर दरार, तबाही मचाने को तैयार, मंडी IIT की स्टडी ने चौंकाया, गिर सकता है दाहिना हिस्सा - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTGhTWGZxZ181UHFVQnBfZlE3LXBMQ0tpY3hwYjRucnpYSGRHczBuYUhjNEtkODRQV2RMWE5jcXJ5WWZWbDJXMXo1NVM0bGo2ZTRicFFQWlpuWWJHRWtqeldHZFY2UDFmYWRQS0Y3WU1qSTdrUDlITWV0NnpBQWlWVUNLbFQ2YW02bjQzUTVBRjZyTkFxWXE3X19EZDEzTkw0cFROZXJxTWVXVkpGV0o3WE5FWE0yMUpfTEV3Q2FBOFlJcXZGNFRXVWdDZy1hM1lLT0hndlNvZXMtbjdRZjMwOVRpeGxnalBVeWc4S2RKNVVsalptcHpNWkFJTnZrOVU3RU5rSndrTGkyM0IwWnhQU0NlVdIBmAJBVV95cUxPSl8zVGJraFp4Mmg3dlRGb2Q0TjVLekZSZGVaY3hGLUZhX0haZVhEVXVZNUJDOTl4LW8yVzV3dWxIRDlIdVJCUE14TEJfSlpDR0pITjdJYktoN1U1cnJWYVZ6SjZlc0taOFF6SVdQdUdFOHVyTTg0MHpaa2lPWmpOMktrZUY0M3pSRnFWMjJpVXR1RndfeWs0VHJCMmtNY1hNNTZ1a1lUUlJXazRVQTY1MG1VNHJ6SGZjbWJXSnExSERaNXdqVk02ZnVGZUc4bDNZbGZUSG41NTh1aU5FaXBjemtHQ1B5RnFfckxFSnpQUmR4Z0lPamthUVpiQXppSEhPR0QtRGhQVF9EZXVyTUFSQUdJbzBCczVZ?oc=5",
-      "date": "2026-08-03T18:37:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "IIT Mandi"
     },
     {
@@ -84,7 +84,7 @@
       "source": "The Tribune",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0xHX3RDTmJkc0xTOVZ5NGpRel9iTHlqS3FGb1h0NGhYai1lQTgtSy1IY1l2WExuTUVjYTNuOFg5NExiUWFYRFYxUUdNUm9rLWlfT28zVVBFZEFteXJ5N20yMTZmc2hpZmxMeHFqNk1PSTFDS0ozMkF2SHpSSjJEeGxDQ2R6NUplVWFkRzhPQmFHcEw3UnlENXcyQmhPUVNsZXRFMHE2WVZCaGhzLXkw0gGzAUFVX3lxTFBaYmZQbDQ2X0NuMnhnS2VWT29raTI1bVM4VTdQdy1KRmJ5R210d2ZfMUZpaFBXN3Z1eDRON19qMGFJaDZuYmVyVk9mSnBaTTltVy1yeXB6b0ZuazRuNmNSaGdkTmk5LTZQQVpFX1JZSjNWLWFJOENQOEJfNWZqMzdzbS1Gcm1MYS1uMlItVTR2V1FweFpFUWdCMHltWnAwY2ZDclFZRHpsdk51ZHBwUnlzNjE0?oc=5",
-      "date": "2026-07-31T20:18:21.000Z",
+      "date": "2026-08-01T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "IIT Mandi"
@@ -94,19 +94,9 @@
       "source": "Rising Kashmir",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR3JYaWYzRHMyNW9ZZ0F1N2VBUUZUTjg3ODZwV2VBMjBKcG5jQ0E2SFFwUk1lbHQxWjBRMVRDZENrSHhpTjctelFVNWJLaHhYbmJhb1pwQnBOUXBLUExmOThmRXlJVzdxZjQ4bldQWnRINldET1dpdklxR3VVWkViMGFuMXBnclJFZGo4LVJCRXVvcE9TWmlBTDdWV2JrWUJ1NHR2emk5dF9PVmoxTFFZR0NQb2pWMm9qeWZaT3Z1YzBUUDlibGwzelNR?oc=5",
-      "date": "2026-07-31T03:25:08.000Z",
+      "date": "2026-07-31T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "Mandi News: आईआईटी मंडी में पंचवक्त्र मार्ग का लोकार्पण - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ05SYnh6ajhZSnFCSnlESEZIQjdKdk5iYzJBbnVscmE1UzFDUFhQUF8yQjhqQ2lzU0tQajVKOGRUNGRZSTdGQl9mcmpSdXhNQnNNMlYwdTlmQ1ZSNXFtbEN3UkdJeVdBam1uWVB3YXRSQWxRWUJUVnNqckw4bjJVQ08wTXBqVTZSTkpJZ2w1NFIybXBLQTlmMGxOMWNVektyUUhhU0thaEZrTm4wQkJkR1NNY0RRNGpyMDl0RTR4RmVta2FlYjEwemJLbkZwcmVqWXB4a0ttZVY5ejTSAeABQVVfeXFMUHFGWVlfTlB5TFBSM3FjMmY2UmQyM1o0U0NldjFiM0lxVUFDVzdmblZnTTJPNDc5cnE2cVhzMVFKMnN6SF9ZRy1wVkFWeWN0cmxGWjNNeTNjdl9TdGZlS192bndRWWZoVzlQdzkxcnQ5V3V4LUV0WnpYN2pTc0FZNGRLamt1QkxmTVE4cFFRRUt4T1lna21GRGNvVTdMMUI2ekdWeXBVUkJLSXZnQlBzNXUxSzJSdlN6d1ZpdTRfVFdNRWliWUhjZVNNRFhsZGc0bTdHMHZLUUhjNGQxYllSUHo?oc=5",
-      "date": "2026-07-30T18:33:03.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "IIT Mandi"
     },
     {
@@ -117,6 +107,16 @@
       "date": "2026-07-29T14:55:25.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "List of Top IITs in India 2026: NIRF Ranking, Courses, Seats, Fees & Placement - Shiksha",
+      "source": "Shiksha",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlZTRselFWSzkwU0ZVWkkwODMwc0hnWFVDbHdJN2M0ZW5KdEJJanY3QkwwSGx4R3J1NmZoVVV2T0lZcEUzOVNyMk12WWxjQ01mTldpd0tXa3p3eHVWWWRsVVRRVkdjWWtjaHh3b2NMbTBvVHltaERBWnZMTQ?oc=5",
+      "date": "2026-07-29T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "IIT Mandi"
     },
     {
@@ -134,7 +134,7 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOb3FnYTJvLTFSZDFWcm5rTlRRdlNfdGZ5LXNDdVp1bXFDdGdocnZSVG16WWtLbWhpWm8yS3VIdUNUeElQRlpxXzRnUjBxMEJpUlJKc2ZQSnlvQnh2dG5UOU5XbHB6dC1Bb0dfaU5rYzhEMVRMVkJ2UTJsVHUxdmIydTltU0VyVUU5X3hpU0JMNnFvMDc4SDlBWkZrMXd2SmlRWEN0aDlTZlN0OEM1ZGtoNHhiY1JoZ1dkcEpTUUFaSV9sYzVmc05LME1ReHE0RnNiWUdXdG12Yy1tS3d1N3lhdUtSQ3Z3UVFyYXJhUmM2TkNiTFE3UmY0bWxsZUNqYzBJS1NlNGxlZVPSAY4CQVVfeXFMT1NUaGZvVDNoMGxpTXlrVXpBYWFmMmNhU21zUkV4VnRKNHRjeUZnUlFxYVJKR0MxcUdDUGs2V1NqNXF0S2piV1I1a1dfVjZMcHIwaEk5VlhDZGVpLS1BTV9IdHdRV2E0UlBDVDRlSTRvR2ZwV21xZHByYkwyYTVhUkJLNk1vcWpQSEIyYTdtYzRKYk5Pc3dla2cwYnVQa2o3NlJkX0huOG83Rk1uUkxQZFFHcEJfSEFaTlRncUpiaC1lc3Q5aTAyNEJMWUJVVGpuaHN0eFpFN0RtMFFlaWxUMlZZbWoxUTRGNFNVYm43TTAwdWh4US1VNHg0V3MybVR1Zl9CbDFhc2dKOWRxSTdB?oc=5",
-      "date": "2026-07-25T00:15:03.000Z",
+      "date": "2026-07-25T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "IIT Mandi"
@@ -155,6 +155,26 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcy1RSk5QdkR6YnFaQTYxcFJpUkwyTk1xeXlKMk10R0dCTTkzWHhNeTVmUm82bVdWTklvRXZtMWNTSnNVNVZ4bldUbE1zT29STjliTWZzYklUejhNTlZhUUNlUTBmbDhrWXJDb2RyNHh3Nmhvc3ZWejVOaHZ0TmxxaE12bXphMzlRckMwbEhJNDdubm0zUDB4VWd2WUJLWUZXQXZIaWZnY3h6TjdBMWhwY1JMeWpFQXRzSEc1SnczbHMwNUxJdnp4THg3cjhfdXA0aEdYMWF2aTM1UVlpX1JLYjlBVTVIX1kw0gHuAUFVX3lxTE12eVZtQWZqcDU0bkFjTWxESXdDUGV3YzNzbU9uWUFBUFNVSVlMRks3T1VRMUNPeXZMYlB0THJqWF9jT1Q3Q1B3RkFIRTNUMWVwQXJYUzl2WkVBVDQ4aDJhcnRseEtaZEpCdGFKbGtvV21FaEhOTHFGRmFLQ1R3RER2bEJ1UEtGMmlpeHowM01NZVFvZ1hkeHRJV3BuMjVoM2ZsUXhCRnpZUDJYemV4UFF5djBueUR3NnFjTlZvejNzRzdyTXZUckg2OXp3bDlYbUFBdEsybThSV3Y5bEVXbHA2NVpDb0xTenRTWU5fNVE?oc=5",
       "date": "2026-07-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "Himachal Pradesh on high alert as red alert issued for heavy rains; all schools closed in three districts - The Hindu",
+      "source": "The Hindu",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZFZYNS1jTlFzQkJyWTZxOW9xWlBUTzJKTUVRa3cxSnNCVm5DcGdzZG5JdE9Tam9CTzdLSW5KMHRIcFlQdVNscDk1eElHbHd5RjNQTDYzTlNuRGNESjVqYzNLemJNaXVoUUkyZ0I3MzVKS180N0FNYmhibndrMGNmN1RlQUVhMHY5S0Ywbk5IWFhjT1cyOHpFR1pidlhHajd0SjAybFBYVTFXb2JWM1J0Q2VOU3IxMjFwYTA0Vkt1VU43LUcxWWlTck56Zm1nU0c4QjgwcXFKUFlhVF9UbmltWEM3em00UDBHNW9hUXQzUm1wVUxZSm9vNFVicGk1MEFSdERyLWlVX1h4aFAz0gGTAkFVX3lxTE1RemI3bHMzdTBpYTJUUkt5VmFtZ0NVZ3VTY25QQ2s5QkNORXBNRGNPX0g4SEIzM1ZwbHNHY2ZEMlRiUU1sWE0xQkwzUWFNWVRRbHhmVVBvaFdhTHRWTThMMFYxNWl3emZEU2swVjhad25vb2xQZ1hwdzFZSHo2QzMydl9KMHpfQVVrR2dWSWVmckhSckEzbFUydDdDdkpMUHBVcGJGNE1Qb09jbWJFRjVSSXFfemQ3YkJ4QzJTN3FQUGFEdUtXZG5RTVpLRDJCdm9sSkEwWnZLTFVtUjB2aXcxMURzS2p4LVBUaEhFUWdnN0hiZnFXaTJmSmJ4dWhjaVJSYmYybGktcE83ZkpuSDVuUkx3?oc=5",
+      "date": "2026-07-20T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "आरनी के गर्वित का आईआईटी मंडी में चयन: जेईई एडवांस में ईडब्ल्यूएस रैंक 1295 हासिल, मेहनत का श्रेय माता-पिता... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOam5PUkZ4XzJXX1dzZENJcndzbHczUkR5QWpxalNEQ3lvaTRRS01SbWNIVVlVV21ZT3pnZFJMT2M3TW9zN0pmTzc3a0dZeTBrRWxzR3pEQU02VGtZWXY1VTJyeHlYZHhmWHZGQnJJU3BGaVEwVVlwZnVYRHNpbHdUeWszdno3SzlOanJpN2JZY3RyUGV6LUw0LWxfck5DUl9WX1Yzd2tSZGJiWUdtVXJPMGpscEVqWTNzaHBFSC1Xb3lUUmxIWkN2Sk5WOW0tOXRCNXo0cGVBdmdiRlNhaDdwc1EyY9IB6AFBVV95cUxOSWpkSXNzZGFMSFVOY21rcjk5SWN1OFpDTkRIOUs1TWYwMlFjRGhaeVdOakJyVS0xalltdFMxMTd0UHNkVndCODJYX3d6SnVmdVFhV3BJNUlZQkpYNmFyLTYwZWlqckx2N2U4aGtobnZrcnM2VC1KVmlQZE1kWWlla2tKY0FGTk1Fa09HektyN3Ywdzg2VDhFSDBQWmczZmRjLWNCRjkwYUNHc01ZeTliVGdLaWtpZGwyS05aNmtuMHdVMU80cGhVZU85V05LVDY2aHBLbmhSTlZDOUZWQURlenNWM2ZiNkh4?oc=5",
+      "date": "2026-07-16T13:52:14.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "IIT Mandi"
@@ -185,26 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdEswaUs2VWo5clRsV19wWHhBektIeUdvOUl0NUpjVTY3V3MzX2ZyT1hCV0lFU3I4QjU2alloNml6QmhkbXhwa3Z6eHVQTlRwTmFjdjFFM0tJMFhuN2pyTHBvcXo3Ump6YVo5U0NMX0J4ZXNvd01UOXd1NlMxV0xHaXBRVWxHNm9NcDJRNzViMlJVUm54b2xKdzVTZjd5ZWZxQzRUT0l3VWRQVUxucHVpNXo2eHBoTUhaVWYzYlZMUGw5X3NlR21hSm9TNW9wZ1hTa1MzMS1VcThSNjBkakHSAeMBQVVfeXFMTjVoekg4SXAzWEJqa21oUUJoWDZRR3VwRHNqTTlJdFpCSWJ3RXVUZ2pJQTN1ZmNtOVZrQ25sX1g4QUFRVTVMeUJ6NjBYVmxNSFVnZmpVRHlTcXd2X3ZqU1g2UGx2ZGVrcHRZbHFSUWNVMHliUTNTT3R0YktUY09iNTZmQndkRGhoU2NTQWdvWUdYWE1NWERrdVlqOUpzSm1rUWRPSFhSdjhvUjNUQ1dZZjBJblBJR0YtMUdPYUhINk5XZFB6LVVXYWU3blBrOWNVXzZyTkNNYTgyVVlzSndhNXlVSVk?oc=5",
       "date": "2026-07-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT Mandi develops sattelite based Early Landslide Warning System for the Himalayas - himachalguardian.com",
-      "source": "himachalguardian.com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYU5vNE1KNUZZcWxPZWZLY3M5cUxvemdiSjNMR1dRWjk5NzRaeUJOYUFzN2pqdDdPSHRMSW9kbDYyYTM0SGRpbnZlQzA4bG5pSE9iV2F6b0g5NWlhMGI4TXdudWliZTJKVUJOT3Q4blhyR2pscm1ZZVVCODRZSUI5VTR2djQ0MzdoTnBOaDJpaThLN0sxZmFzb0JlNjFRazRUa2J3UHl4MnI4MjV5OUxzQ05MLUhQb2lCSzZSOXZB?oc=5",
-      "date": "2026-07-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT Mandi builds landslide warning system for Himalayas - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXJzdjVKbDVYTHNhbDlOd1k2NjcyeGVQRl9NYXlxNlNnYV9hcDBQYTI4bnptM1JxZUJzcW1fT1dTRElTeXVSNXUzVG5YVDlZM0tkbnIxa05pNFJBVEpvY21MNHNOaVpPYmFNbWl3SV9yZmRnTGRTLVREbHgySmltSEt1MGxrUThiS3dfWWtqUFNLNG45OHptQUFmamp6bXZoVmg2RERlemRNcnB0cUo3bkJwOG51RUkxcU9PWWduXzJiQTR4c2RkTtIBzgFBVV95cUxOTzBuVHE1bW5pLWhxeGpDLXg2TlVXMjhXVFFfdkxuR2dEVmVueUM1am9DbFY2a290Z2pWcUJ4UFMtTDFQdWF0ZlpTWjYyMFFqYzk3ZWd6dm9ob3JVdXZJZFAxbXYwUnN3Y2tvNm1pRmhUT0tqQkpTOW5tdGNCZXhKQVh6WjhfU2w5c0xhMHNPdlVBbl9yRmotWHhuNHBPV1hLSmRva2Q1dlJEVGxleGtkZy1CZGxpYm01c29lRy1fV0g0WlZRakZsc3A5WXBwUQ?oc=5",
-      "date": "2026-07-08T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "IIT Mandi"

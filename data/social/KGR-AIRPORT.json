@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-07T00:36:16.567Z",
+  "updated_at": "2026-08-10T19:48:46.858Z",
   "project_id": "KGR-AIRPORT",
   "counts": {
-    "press": 55,
+    "press": 54,
     "gov": 0,
-    "en": 41,
-    "hi": 14,
-    "total": 55
+    "en": 42,
+    "hi": 12,
+    "total": 54
   },
   "mentions": [
     {
@@ -14,7 +14,7 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelRvSTM4eFkwUXdSY1VqTDhBTHo3V3lkNGdjSnFQNFFqUVpzNzdXbzF6amhKYkltMUNacHNXT2x0Q1NzNWw3WkpVdnVtbnU5WFBkMHhCRjNKVHgtR29xejFpdW0tSmdKUjZxRnV6QnRaNEx3TU9DbkNDemI2UUR6RnhZUXZxMy1UTGFiZG94R3BMdEtrQm8yRkhFZ0tYcm01N0N4TFRjdjAtendoM3JSRXdGd2NFUm4yYU82ZWpBazg3eGhKRWo4ZDhQUDRUUTlXa3NKYk5lWl93SHRDQk5TM2NCSDFGY3pBOW5zb2NkMW5kbzZNZlZzWtIB_gFBVV95cUxPa2IwamJVR1Exb0M4RTFjc1d6eWpwOHZQdm5kV3E4Wk9RTXAyaXhYckhfS0s2a0Ftbmd1b1duWWYyVUhEUXRvQlZtM2lJYUlyWkM0dDhNUjFjc01EZ3BidWNmNlJGenctVkh0V2RhblpWZm4zVmVUaFphUF9iS0tfeFAyNC1fZG9SZTV4d1BRZHljNGk2UzJqenVEQTBwY3lES3FkZWZOYTZsZzVwWUltck9qWlVnNFRZS3IxTGNGU2VaTkRLTzZQV21wZTFGaEFVd3NmdmpmNmZBRTR1TWNnZUhSMnlUQkxnQy1LUHJMTGw4NHBhN3RNMWFfQXNvdw?oc=5",
-      "date": "2026-08-01T03:05:02.000Z",
+      "date": "2026-08-01T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Gaggal airport expansion"
@@ -24,7 +24,7 @@
       "source": "The Newz Radar",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYWtwVVR0QV9od0o0cnBBVGQ1azBCaThCVXNkRDhXeEdZbmtHUnlqLVNvenZxSG15TlB2LWFWemtIU0lzT0Q1ZFlmVFFmdk1LUENrblBNb0k1akwtZ2VyS0Jodkt3ZTF3UF9QR3ZIYmJUSkE4c1RnOFYzSTQ3dmV6VHJBSDltSVZxeFZWZ3JHUXcxVGtDYzh5WnBwQUJyaU1zQlVFWmFzdkNCbWNNVDdOeHdKNXJqSFVsNjZhQnRDRFk1dWIzMjFUbWRFOXNOd0RI?oc=5",
-      "date": "2026-07-25T12:05:04.000Z",
+      "date": "2026-07-25T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Gaggal airport expansion"
@@ -84,20 +84,10 @@
       "source": "News Arena India",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjVTaEdRUGgybldINGVFdV9PYUc1Z2ZaY1lnS3hZWnU2RDBJZWlWVjZrbDFoa3RELUV2al95Q1B5Q004YnBMaW5WaDdiWWlWSnhVNVRJNE5seU9qc01ScTdkbVNXaUtoa1I2SGJvc1FsY3FwaGZMd1FJMk5ZTXlZbmNlUk5Nc3BnS2otRXVLOEYzWjBjWlVvc0RJclFfUVE?oc=5",
-      "date": "2026-06-10T07:00:00.000Z",
+      "date": "2026-06-10T12:51:57.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Gaggal airport expansion"
-    },
-    {
-      "title": "धर्मशाला में दिख रही विकास की नई रफ्तार : मुख्यमंत्री सुक्खू - himachaldastak.com",
-      "source": "himachaldastak.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PSXRpNHQ1cFRRWHN3aDItUXZKQWJWbU5KQ19qZjJDUmtvdWpXbzE5QlNMYzhpUWYzTWFhM05qWmlabXhUSERIQ1otbVlMS0daeUtNYU1icU9zX291aFNUc3BhYWJGU3pkcEV1TTR3ajc0bFFRY2U1ZERHal8zZTg?oc=5",
-      "date": "2026-05-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dharamshala airport expansion"
     },
     {
       "title": "Himachal Pradesh Assembly discusses Gaggal Airport expansion - The News Mill",
@@ -140,13 +130,13 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "गगल एयरपोर्ट विस्तारीकरण : 10 दिन में पूरा होगा भू-अर्जन का कार्य - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObEtkQ0RpM0VTdnYxTENDY0o1Tm1NRFJYMDVvQ1BsY1FJTkJxNVUydG5lMGVLRzdSdlhyOG0zVEwzbmtucDlFb0dsY2xOeGJ5UVUzbXBKQ0hhazVFR0tGa3NDWmpuRGlZdVIzaUE2Tjk2SjJBSXltNWdQTHc2SDYxVjYyenl2ZHpmM04yYmtpOVVkZTZCeWFYNXlYRHFydWx0cXEwdk9RMTRWWmV2RjBZWUJ3WEQyZUdmWWEtYzlxVThvcDJEckhnalh3TnlBaXZaSXgtTVN6c0k2YUNXbVJZWko4WFJuNlZlSzdQc19CZ2tXUXpoaTVubW5GQWl2UdIBgwJBVV95cUxQdkFLZWRWUHdxd0xuUlNubUtabkVvNTNoMVpnQnJ2Vl84QkJTd3Z3a2lJOVBxV29DSUdFd3QtazFEZnVlREVmNEp1RG5wY2tMZDlSUFRhcHR1SnpnYnJHYmFBbTZpbjFuWlp1N195RWdiUFVmZ1hqdlFvdG1OSW9CR0hycjFMa09nZDVFbTVZSWhPS053dHVzTDJrTmxIckNDc2ZDdHBuRG5zdlluRkJEa1V5VTJST25uYmtvY1FkQjh0bU1CVTU1MGt4NzE3N0ZNOGI1c3FvMGQwal9laUtKcUtWODY3c3ZYN0VqQ3Y4dC1DUUdFT0ZlYVRYaW9JXy1ETE1j?oc=5",
-      "date": "2026-02-20T08:00:00.000Z",
+      "title": "SIT to probe all shady land deals near airport zones: HP CM Sukhu - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVBvMHYyTkFGcnRVZ0xOaXpQMDJ2OTlIaVZlOTRyTUVIUWdwbDU3ZGNaYk5rZ0RpdW5uS0J2TFI0dU5XOGdrZmFvVmQ0QWF5ZEY4SW1pU2NzWk0zZTVwRnltTl9TcWJnTGdReE9hLWxWNEFHZnJOTTh3dFdhYnNFODdQaVBUZ05MeFJ4dXZLbDJsRHlHd0Z1QUh1aXl4MkpFanRuWmdpT1RqRS1p0gGwAUFVX3lxTE9Tdk1hWmxiaXZqYldDdHhSOHpieHBROFE3Zm0zbWJKb1J4WGkzVFdQN1NlXzZkalpzQ0doenktNlZWS2w0ZWM5RXhtUlBQZG5OaWlzc21XVlg4TkJJekdUaWxKa0JLN0QyUGpLVzZZRXVQcC1KQ0lFazVzdU9DYWtkdVczbmw3RUNFSV9BSDZRWnBXSkhLZl9Sa3hnWWszSG9NeXFDY1dXZTRRaElGRzF1?oc=5",
+      "date": "2026-02-18T08:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Gaggal airport expansion"
     },
     {
@@ -190,8 +180,8 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "Delhi govt launches Tourism and Heritage Fellowship Programme - travel.economictimes.indiatimes.com",
-      "source": "travel.economictimes.indiatimes.com",
+      "title": "Delhi govt launches Tourism and Heritage Fellowship Programme - ET TravelWorld",
+      "source": "ET TravelWorld",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX21RVUtSUVhHQkV2WkwtVmtudU5iYXpOdnJmdmFjRE45Nm5hLVN1OUd3d1drYmZYOE5FamhYbk9WUS16cnduQ2pXUlJVV3VmdVByVXlubDBSRW00eThGVmw2VnZHaTk2NkVXUE0xZ0R0MTN2SWxvWVViOEFiU3N4V3ZYRXM3VmlFbWxHTW1ENy0yR3NuMm9XVzNpMmNMQVlhcXpqSUhyaDNwcFJTNzZRXzFBZFdjXy1RcW5OMUp1cnpnWWkwcktTU1VHc2JRaGVnUEdFVVdER1J1anBRdDZDdHBCS2ROQ0k?oc=5",
       "date": "2025-07-16T07:00:00.000Z",
@@ -207,6 +197,16 @@
       "date": "2025-01-02T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Gaggal airport expansion"
+    },
+    {
+      "title": "कांगड़ा में गग्गल एयरपोर्ट के विस्तार का मामला, हाईकोर्ट ने ताजा स्टेटस रिपोर्ट दाखिल करने के दिए आदेश, 24 दिसंबर को होगी सुनवाई - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT2Z0c2Zrby1iZU1KemxPdk9SNmNWcnRtdU44eXNhMWlpMnA3c2w1VnJrd25HdWkzUHIxTzBKNEJEZW1uQVRIRGFNRmFIYmZ1M3drVnhhZTh4Q0w5M3hUTEtNYk9hUnRPUndIMl8wRUx4OWx1SDJGdnlUYU1rdDhobjRMZUgtMHhEbjBGNzFWQ2xueGk1NkZRdHdvaGNYSEVReTlvUFhlUFVTUXpOYk1MYnJIMXl5aWlnZzgwb3FFMUVJcE1NV0lKYll4dk_SAdIBQVVfeXFMT2NqMDBkMjBrU0xvVDlrZkI4dWdMbjNpZFhkZWZpVGxTakVDc3psUEp2aHVidFA5NU1XRGp0V0VmVnhOOTdKU2lnWmNTNDFndU5tWTlUUGVNWGppOGdRdXhFNnI2cDFyU0hOeVZ2ZGZZVGhSS18wU29FVjVxV3pTZVhXSWNCUVVISTBxUG9OM3NpaF9Nbk5UbC1yYTVuNXNUQ21zakMxUDZsc0w2OEhjNnA0RVVsQV9rYncxRFlsalZNZno5R3Itam1zSW1ZRVZCek9n?oc=5",
+      "date": "2024-12-12T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Gaggal airport expansion"
     }
   ],

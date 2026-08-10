@@ -1,63 +1,64 @@
 {
-  "updated_at": "2026-08-07T00:38:00.144Z",
+  "updated_at": "2026-08-10T19:50:34.087Z",
   "project_id": "KOLDAM-HEP",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 10,
-    "concern": 1,
-    "avg_score": 0.17,
-    "avg_magnitude": 0.23
+    "positive": 10,
+    "neutral": 8,
+    "concern": 2,
+    "avg_score": 0.175,
+    "avg_magnitude": 0.245
   },
   "youtube": {
-    "n": 21,
-    "positive": 9,
-    "neutral": 7,
-    "concern": 5,
-    "avg_score": 0.038,
-    "avg_magnitude": 0.419
+    "n": 6,
+    "positive": 4,
+    "neutral": 2,
+    "concern": 0,
+    "avg_score": 0.517,
+    "avg_magnitude": 0.683
   },
   "overall": {
-    "n": 41,
-    "positive": 18,
-    "neutral": 17,
-    "concern": 6,
-    "avg_score": 0.102,
-    "avg_magnitude": 0.327
+    "n": 26,
+    "positive": 14,
+    "neutral": 10,
+    "concern": 2,
+    "avg_score": 0.254,
+    "avg_magnitude": 0.346
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "technology is awesome",
+      "title": "Proud to be associated with this great project of NTPC Ltd for about 10 yrs(in two spells)! Time spent at Koldam has bee",
       "score": 0.9
     },
     {
-      "source": "press",
-      "title": "आपदा व गाद के बीच रिकॉर्ड बिजली उत्पादन की ओर NTPC कोलडैम - MBM NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOSlRTclBHSkM1THZKT3V1SldWS0ZBQmlwN0EwT1luclNleUZLYkRHMjlRQ0xDcXZCOWQ0QmR2bmYtLTJvVG1NNHdJYXpuaG9Gci0wVVJ6aC1GalJHcTMtclNWZ2lUb3p0Z1NuZFJBYU4wMmlBYTVoTHI2RERmS3VheUs5c3ZpSXg5OHhBa2t1X2JFT19QdTRVTmlscWtSVHVlT3JoSUdTN2V2emJRZVZfZlh6ZEE2eDltVTZHTnNYdFNUNmhxUjN0dllSRkRTdXh5bV9ucHZoWTV5cTJzTmhrSjZkb0pvdkp4UVJiNmpHemdOQXNhR0VKVGVxOWdvU0dwTTNEUjlmRjdnbTlESUJfVjZkRklUR2FkR3NUdnZKOFRpYmJLUzZ0aFJybFVweWw4MWxKUnZaVzJoTHNqeWl2MDdTOEF4ckgwUFlRcGpBRjZRYVF6SWZoRGh1N1ltbDlsbHFZeA?oc=5",
-      "score": 0.6
+      "source": "youtube",
+      "title": "Proud to be a part of this project...",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "that shaft is loaded with enough energy to light up a city",
-      "score": 0.6
+      "title": "Very nice 🙂 and",
+      "score": 0.9
     }
   ],
   "top_concern": [
     {
-      "source": "youtube",
-      "title": "Not a single osha inspector in sight",
-      "score": -0.8
+      "source": "press",
+      "title": "Stones fell from hills, 5 vehicles damaged in Himachal Pradesh: Chandigarh-Manali highway among 357 roads c... - Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaFBuNUx0REVCbk5XdlpVdTl6c1pFTlNCcFE1ZkVSRXB4RmVFcTNvSFR3cy0xRU1uR3hVcmVuTDVyd21UbUdpX2Y5TDZHTGMtR2lFZW93TWFnTXdKaWp5YXNxRExWaERhZno0cHJOTjBhZm1MN1RQWmJSSm9BVFVkTTNzaWd3SzRJU0FjVjkyXy1FUHVCRFJpWGptdzBZVGd6cC1qZ2xTZWRQX3RfYlVrYTdwLUN2RVdHRTB2aFVjS0V2bWJidUV1QjJrNHRFODJhQXlZSkVzcEFOMkhFd3hiYnVaYlFYNWMxTThpRnFKRzJGaGZWcUNJTGJfNWppVWFheHhsd0tCUmbSAY4CQVVfeXFMTWdHZUhOQV93b3J0M0d6TVJhRVJTSjZLcUlfNkZlNFUxX2NnZXVTUEw0TXprZGQtMjl1NTdVWFlLdVRBSkpKVGJ3bnlnbkFpNDZycGgySDJvUXpJa1dreFlEWWFsS1liRlZLdHJ2MjBUV2Vxd2ZjaGZLWWwzMldCdUlSY0xpalJlVDZJbHJxX0E1UVJkVDFIU0lPRkdlQ1h5Q3hhMExEZUdqX3E1WTQwNEp5X0hUTE83Tk1IdlNJZXVxV3lUZDU2YWR0MW1GU3B6SndEY0NNZGx3VHpjX2g5N3A5ZnV4WW1qOVJtbDZ0c1ZfZy1KN2JlcHVpUEJxV2JETlZWV0VfM1J2dWZCcFdR?oc=5",
+      "score": -0.2
+    },
+    {
+      "source": "press",
+      "title": "Funerals near Sutlej trigger safety concerns in Himachals Mandi, Bilaspur districts - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlBrQ0lTMjZaak9OWWdQaXlvSEluQU5zb3I3akRVVHJ3R0VMT0d3S2RaZERUdk1DeXdhczhITEJrR3kwWGdKdkx3QkNfajdBQWxTb3doVDdIWHhnRThOa0FjT3NvUGluQVE2clNmVVBmYkx2ZXUyVWhRRDBEbnVnQmlLN2NDN2E3YmVtazc1azQ4aUFTRWd5eTltSTRKa3ZPY0tXVnctNzUyQkk4WGNhWGZTOGZORG1qRzh2T3E3SGxNbGc20gHIAUFVX3lxTE90eWhJQTF5dTJIa1UyRzJkSmFwWEdmSnJqVnRucXNsSHlzb2Nzb2ZPZUZUd0FhYVc0TlVpV3J1YkNYcXFyc1l4eXZTWWJYVEtwZHk3QXlCaVFnSFg5WS1TQXQ4LWVRU0lDc2FFQ1VBQTNBRlc3MzRYdlkyMTVEYzBNY3NyYy1GSk0wdEp4QTNOeU1zTjItYkp0eHJOdDlsVU5Ic1J6VXNnYWF3TlFnYjhLWEpiSHVSQXVOcUF3bHJ2UlpoaGJjUHRF?oc=5",
+      "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "lol he won’t be so relaxed when he gets ripped apart by that shaft. So unsafe",
-      "score": -0.7
-    },
-    {
-      "source": "youtube",
-      "title": "This guy obviously wants to become liquid",
-      "score": -0.7
+      "title": "Hme garv hai ham koldam ke nirman ke sme 2 saal company me kam kiya hai",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

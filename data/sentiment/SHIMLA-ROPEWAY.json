@@ -1,47 +1,45 @@
 {
-  "updated_at": "2026-08-07T00:38:18.564Z",
+  "updated_at": "2026-08-10T19:50:44.834Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 7,
-    "concern": 4,
-    "avg_score": 0.08,
-    "avg_magnitude": 0.285
+    "positive": 7,
+    "neutral": 8,
+    "concern": 5,
+    "avg_score": 0.02,
+    "avg_magnitude": 0.25
   },
   "youtube": {
-    "n": 6,
-    "positive": 4,
-    "neutral": 0,
+    "n": 22,
+    "positive": 18,
+    "neutral": 2,
     "concern": 2,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.8
+    "avg_score": 0.473,
+    "avg_magnitude": 0.9
   },
   "overall": {
-    "n": 26,
-    "positive": 13,
-    "neutral": 7,
-    "concern": 6,
-    "avg_score": 0.096,
-    "avg_magnitude": 0.404
+    "n": 42,
+    "positive": 25,
+    "neutral": 10,
+    "concern": 7,
+    "avg_score": 0.257,
+    "avg_magnitude": 0.59
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Lovely 👌",
+      "title": "Just to let you know that there’s a significant community who love your vlogs, your wonderful articulation and crisp pre",
       "score": 0.9
     },
     {
-      "source": "press",
-      "title": "तारादेवी से शिमला के बीच बनेगा रोपवे, 14 KM होगी लंबाई; केंद्र ने प्रोजेक्ट को दी मंजूरी - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUURXd1B3a2hhUG9BV3V6QmcwTGJVWFJna1NCcW1vcFRLY092ZklkYVNuMWd0Xy1RQzNTdEJ2d0JIRG01UUVpaUZHbE5OclFVdHlCd2szV2hxa1BIMnVjejQzbkhKbGczRHRzMDh1MlVLUzFBWW42ZlNrOTVxb2Y5MW1lX2JkcVYtRVQxQ1FwcklaejRPNFVwNTRaOHg5RnBaZFVtR2VZTnFpQzNWdzFIaDQ0SVRSUQ?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Thanks for featuring Himachal on your Channel. Absolutely fantastic and professional videos!",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "देश के सबसे लंबे परवाणू-शिमला रोपवे की बाधा दूर, सरकार का टेंडर शर्तों में बड़ा बदलाव; पर्यटकों को मिलेगी सुविधा - parwanooshimla ropeway indias longest project gets boost - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzBQNEJpdFRReEM0d2lLU3RMbjRJdThvdWJLN2U3aXhxRjZDZVZoenRraV9UQjQ5TWxzc1dJb3Q0R3U3Uzl5UXBqdm4zbUFTVGVPc3hfNVByZjl5TEM5bktvbG5ZanNTM0VvTVZFUi11ejN6aV9neVozbEtEc1VBTkdBdWlCUnBzWG5fT1JjVDVIN3FzVThUdTZKZmNmWkI0Tzl1QjN1ZTYteUNhQndVT1hlcHd5Zk1O?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Your channel will scale higher, for sure keep up the good work",
+      "score": 0.9
     }
   ],
   "top_concern": [
@@ -53,8 +51,8 @@
     },
     {
       "source": "youtube",
-      "title": "Aap hmar Message  nahi Dahka raha inbox ma or na Reply \nKya bat naraj ho to hm Message nahi kar gya  🙏🙏\n🙏👌🌹👍❤",
-      "score": -0.6
+      "title": "So basically Shimla monorail isn't a thing anymore!",
+      "score": -0.7
     },
     {
       "source": "youtube",

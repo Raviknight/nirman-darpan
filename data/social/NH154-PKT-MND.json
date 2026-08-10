@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-07T00:36:41.573Z",
+  "updated_at": "2026-08-10T19:49:12.919Z",
   "project_id": "NH154-PKT-MND",
   "counts": {
-    "press": 62,
+    "press": 63,
     "gov": 0,
-    "en": 52,
+    "en": 53,
     "hi": 10,
-    "total": 62
+    "total": 63
   },
   "mentions": [
     {
@@ -15,6 +15,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdy1oc0htUFh3X2pHZEh4dGJOVzRrLWJ0dFhnUzczTk4xQU5KeXFKTF9fLVZXczZGaVBDeDJlX0l0QzZiUGlCalYzT1JyajQxTVAwSXhiTllVajE2M0x1MjhPRnRwdHpkdHRZcllzb0Y2VkNhVHd6NTJoVHlTOHc1WUdBbkZvSkJLSnF0VjIzSVd2dnRaRHYyN0RSUjZaVmJYTUFnVzltdHA1VXVpcFFFenZ1c29GQlJTcnpwMHlIczh3SU1TcmgxcUNsT2pHQjNrWnREOWllNFFkd9IB3gFBVV95cUxQaGpyMTlZT3dmT21ILU96bDd4WnQyTk5wSHIxLXNKMURsMDEzNjNNVVVfU0hvN3V1Ry1vYTZPMG1fc20xOHliZnhkdlRncjNzTC1vTGtPRmdaWEhNck1hRlpzZGIyZFoySTVySzc1QWVPSkJHTU1DaXJMZWdMbkpxbV9QQWRPRmxfQ05YdkhsejY3ZEpvdENZZVpfZnBXVUsyLXlFelBLMUF3aUI3clktaU9VdDhpSkVvdDJ4WUd0WTE3SHdXcGs5SHk4QzFRZjVlTUhXaUlCWklCb29wYmc?oc=5",
       "date": "2026-06-18T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
+      "title": "Himachal: Connectivity concerns mount over Nurpur bypass project - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON000cmNsQjZCZWFEWlBMdVV6dExYVWdqdDhUTzdCYUpVWnJsd19zVzBUWS1sNWcyOHp0LXg3X1hPYmFUX0RkMXg1YjFEcW5QWFVSMVFiOUZLRjVMejBxQVZ6QnpGd0ZwVGJTV2Z0cEQ0WDUyV0l4MS1TRzB0TnoyOXdUOXUwdmNXWFN2LS15MFZtUFR4Sng5ZXZHZWtoRGI4TGFqeGVWRzV0dknSAa8BQVVfeXFMT3FubjVaS1V5aF9adG54T29rT1lPb3M0aXdFekxuVkJNM01wTUtoaXd1WVhFeHkwZjFGWGdQNlhBNDRKVmx4QUptQkphdW1VWTRIMFRrU2tmbklEWUdxZ09TWXJEOXFodFVzRVR2OHYycnd6SWlCUGhVRHN1WWFLR2QyQ29iX0FpRlZUSS1TcVM3dUFlbnBBQkVJQmhVSEhqVHJHY19fSjkyTHZ6bmdnTQ?oc=5",
+      "date": "2026-06-08T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pathankot Mandi four lane"
@@ -130,10 +140,10 @@
       "match": "Pathankot Mandi four lane"
     },
     {
-      "title": "Pathankot-Mandi FourLane: पठानकोट-मंडी फोरलेन ने रोका विकास, अधूरे प्रोजेक्ट्स से लोग परेशान - Divya Himachal",
-      "source": "Divya Himachal",
+      "title": "पठानकोट-मंडी फोरलेन के अधूरे प्रोजेक्ट्स से लोग परेशान - Jogindernagar.com",
+      "source": "Jogindernagar.com",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSXFTb2JlYU1wcTctX05Wb0ctdVJKT09RVEFWZWNab3ZWbkdwOWk0RGpaLUxUNXFFYUZuQnFrV2RlOWpFaExuNjJGZWVtTVRnWWxrOHFscTcxVFV6WGFwUHNCMHgwVUFvcXRUVkxIcEtMRlV0VGtneF9ocUV2VTdZdFNQZ2stZ0I1OVpDMmhDYmdrendfSVNETWs0WGVvc1hJaENjWnM2Y05nb21HQWoxZ0xZcjExbE4yUzkycmJDUWtWRlN3Rm1CY1MzdHpwUEFISHNZck5kcHJPcmtEZ0RnVW4yak1GT1MzSHA5cXBDZUFFMXpHM3V6enFVRGXSAYICQVVfeXFMTUUxOFl4MUlGd0R3akQxcy0wR0E2dE9uTTlmWjV4dGhBSV9KV1hfXzEwYnI5RHZzc3RZWTJhNmx5LXpyRHJmcmtvdjRxR3owSC05UnI2eHA0VHZtaXg0RERSZ19VQl9aQUhCQUNFSjhUblVsWVpudThqWHZTeDdmODlpSGlmLVRDVFQ4YWdMMHZLUGl1M2dtVklYaVVZWngtWC1jTk5yZGdTUWd5NUNyVENaNWlpOXhtcmZBZGppdHRmbFZKR2NUcEFUSEt3UzRwNmxMb1U2enpQWWVWcDFDT2gyamUtMmY3MDdySGRfdlJydzljd09SOUpJTW5CNU5RN0Zn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHIxRlR3OXBneFdLeXlkc050R3lOTmsxTXVEZVN6MUg2R2RreWNGdzdMVDkyVjFoVWZqZWRRMnBGOEdnQ0pOWmUzLXB2WXV0SF9FVGdac2lwSklTVnk1N0xBU2xKOWsxZ2ZlUGJuZkFxcFFQR0gwUlptMmFyRTRsb0VnNTFvWWZhZnRHR1hLQjEtbURwLWoxd0MtMTVlWmluLXZJZ2VoQVlXb2hMdkJ4dy1GamJYS250eHc?oc=5",
       "date": "2025-12-19T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -195,16 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkxTeFZDcmhBeUZhQ2lsYXZTQ3ZoQ3FpUjVBZ0diVGZsOXplWVBtZkFlb0F5OHBoRWNHeDlZbHBxeVNmcnhocE1SVFZBTWFFd3BJamdZZG56UkUwU19xdUFjd0cxRnBWNEdqclMzbzVUZkdFT0Q2c0ZTVlR0UEdCSmpRbnBSOFZjenczYTc5QkotaUQ3MDhDVEFDc2VLOTNzMFhSUHNoUmNJek9kUFEycDVJQmc1cmstMzJyb9IBwAFBVV95cUxOdjZMdzktenpVa3lsX0xPXzdub3MzM2NzYlBKQlU2YWFGRWd4UXFzWDF1Z01mQlJtQmNLM0oySHhzdDlxVDZTNnlUcXZMTkd5S2hKMkIzRHZOa0J4VWY0OG1aMWNkWWZSU3ZXRmRhY3dHWkVQbEI3UER1LVRVekQtb3pSX3E0ZG44bzFLSHJmalVCbXRqM19vazBPbEg5UkRCVkxTMUlxNXIzT3JhX2taNlpvcnBqdEdLVkhKRExvbWc?oc=5",
       "date": "2025-08-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "Crackdown spurs revival of stalled Pathankot–Mandi four-lane project - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2xmQTZQcXZVN05aV3ZHN2dCRGItMXk2UlM2NXFUMjIxMHE5a1hrYjRFRlBxcE41Q2VabEhvRlBwdF9LaWdjNEQtMGVJNXhPaE1Yd18zS3pKQ1hDQkRZOHMwZkVueFhBTE95N2xjWEtYYmZqSlR4ZzZtSE1DanBaYWVYQXdXclJTUERMdDJEMm94QzBZbE9NSF9Md3NwdWZaRGpZTDJQZnNLODFHV2lNY2JB0gG2AUFVX3lxTE1sS3ZQRzFtSGFHVG55d0oxMUM1TUcwQUt1REs2cmpNb2pwUjZrSnkyY3phUGZfS3ZEeG13RnhXMkx2b1UwMmFUQ1F5N2xHUHRDUmttX3IwODZlYjRERlpxRDZ6d0dZVDhfQmZwWTRVb0IwbDNSb05jN0tqQmJPeVdPN2t5ejBfaVQtOEVraW9yT2J5TjRheU1XbHVoWlBtWW4yLWRBQWQxX1hjOWtvQjhLYmpKYUFn?oc=5",
-      "date": "2025-08-19T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pathankot Mandi four lane"

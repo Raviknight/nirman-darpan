@@ -1,48 +1,46 @@
 {
-  "updated_at": "2026-08-07T00:37:59.416Z",
+  "updated_at": "2026-08-10T19:50:30.740Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 10,
+    "positive": 8,
+    "neutral": 11,
     "concern": 1,
-    "avg_score": 0.19,
-    "avg_magnitude": 0.305
+    "avg_score": 0.165,
+    "avg_magnitude": 0.26
   },
   "youtube": {
-    "n": 4,
-    "positive": 2,
+    "n": 8,
+    "positive": 6,
     "neutral": 1,
     "concern": 1,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.3
+    "avg_score": 0.412,
+    "avg_magnitude": 0.662
   },
   "overall": {
-    "n": 24,
-    "positive": 11,
-    "neutral": 11,
+    "n": 28,
+    "positive": 14,
+    "neutral": 12,
     "concern": 2,
-    "avg_score": 0.183,
-    "avg_magnitude": 0.304
+    "avg_score": 0.236,
+    "avg_magnitude": 0.375
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Good work sir.🎉",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Great explanation, 👍",
+      "score": 0.9
+    },
     {
       "source": "press",
       "title": "सावन में रचाएं भोलेनाथ और मां पार्वती इंस्पायर्ड मेहंदी, हर किसी की नजरें ठहर जाएंगी - Punjab Kesari",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMUhzWTR6SWV4SEN0TjFlZ3dhT2ZId202SlR6a3lYVXJmaDdZRHZ5dG1aazlsVlhJbF90QzZKaXV5b2RObHJfNWo2eVhHaUlTUjFTR1hqZE5wRGM3dGZJSkJMUy1MUGFUeUFQRzhfTWNpN25WZHQwWF8wSkVFQ1J4ZGxOT3p2Vk93c2dJMjU0TmVtRW5VdVVHQm8yLUJoRFdURVZremV30gGuAUFVX3lxTE80Q0VlMnpHdEtISzI4UUswNG5NR0t5NmQ4eTJDWmV6dkFodlFXSmo0TkJFb1hGMnAwOXRkdU5MZzM0ZkFWV1JFbWtZTDRsd1g4dGNFeURRQ1lQZHFDdlNaRnJpbnQxbnZjQkRyOHM1cEVTd1lPaWY2cjNBMDNyaERhWml6RlIzal9aN2lIVkZIQnh4Qm1YVWhMM29hZWtKRDREYWt1bGh5ZVFqQkhLZw?oc=5",
       "score": 0.8
-    },
-    {
-      "source": "press",
-      "title": "TV की पार्वती ने पूल में उतरकर बढ़ाया तापमान, बेटी के 6 मंथ बर्थडे पर खोला यादों का पिटारा - Times Now Navbharat",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWnlJMHNIOU9Ib2Z0dTBELXFZVHhDd2huMTVGN2I0cUJhMDVBckJlNmxqamdXRmw1RF9Dcms2Q1pJeEJHVzg1NE53eU5sZmhCSTd6Nm1XYmNsM2pXN0NtaW5DaFhwa3VHTVlzbVFqa0RkLVE2RFZ0RG56SnVRakxMMmZVaVBXTWRocWNEMGJVaW1wZHhUQnFYbDR3ZWFpdlMyVjZJWUxpdm9RVGowTlVlRFBKS2w1dFpNelQ0ZnVObTJ5aUg0UXlFM2tjYXJmUUNWZmZ1TzNBaGNqdEdNMk9UN2lQdnlBdUxaX2F0dkN1R0NmS3RNNDRxTERSVDBtYXU0ZzBqdHhtS01zcEhVRnNIQng4Zw?oc=5",
-      "score": 0.6
-    },
-    {
-      "source": "press",
-      "title": "पार्वती की विदाई पर भावुक हुए श्रद्धालु, श्रोताओं के छलके आंसू - Janmanas Shekhawati",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxcHJ6YUo3VWppSVRlWEdOWFVZRmhyTWMyVjBkRU5nU1pzYzc0dFdSN2dxLUtMR3plX1AyTURYNlJLSUZ2cHNmVjlfdk1xZm54WEhlYk1B?oc=5",
-      "score": 0.5
     }
   ],
   "top_concern": [
