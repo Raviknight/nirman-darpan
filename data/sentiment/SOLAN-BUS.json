@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T19:50:44.835Z",
+  "updated_at": "2026-08-13T19:53:31.091Z",
   "project_id": "SOLAN-BUS",
   "press": {
     "n": 5,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.46
   },
   "youtube": {
-    "n": 19,
+    "n": 20,
     "positive": 9,
     "neutral": 7,
-    "concern": 3,
-    "avg_score": 0.142,
-    "avg_magnitude": 0.258
+    "concern": 4,
+    "avg_score": 0.11,
+    "avg_magnitude": 0.27
   },
   "overall": {
-    "n": 24,
+    "n": 25,
     "positive": 11,
     "neutral": 8,
-    "concern": 5,
-    "avg_score": 0.083,
-    "avg_magnitude": 0.3
+    "concern": 6,
+    "avg_score": 0.06,
+    "avg_magnitude": 0.308
   },
   "top_positive": [
     {

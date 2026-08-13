@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-10T19:49:46.896Z",
+  "updated_at": "2026-08-13T19:52:51.567Z",
   "project_id": "NH105-PNJ-NLG",
-  "count": 5,
+  "count": 4,
   "suggestions": [
     {
       "category": "litigation",
@@ -44,20 +44,6 @@
       "lang": "en",
       "date": "2025-08-29T07:00:00.000Z",
       "matched_term": "arrested"
-    },
-    {
-      "category": "defect",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-08-07T00:37:13.132Z",
-      "title": "Pinjore murder case cracked, three held - The Tribune",
-      "summary": "Auto-detected from press: \"Pinjore murder case cracked, three held - The Tribune\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNVBDTVgzWlIxZjJ3QXJ2TEJiTTF3Qk4yRElIclVZTU1jNktEMk92ODMwX0p0LTJiTkhTSHlSSVFXcElyUVhVS3hKODRfMnRKWUE1ZjAxOGFSaDEtOUtlV0RvR1lvNGo5MV9ZLUt0SDdRRHhFY1ktV2doNG9LZzIwZ0NuU3lTZllWV21OetIBkAFBVV95cUxQbFlhVS1rakpEQnZGWHd0OHVYZnM5eTVjYnVDVFNWVVJfTG41OWtsMzAxQUozREpMUThBS0p4X0RiVXpSLTBKRm9nd0ZFRTdHRGIxYnA2V3dPZVRHTE5IdkU5UnAtRktTUVVhb2RWY1hhTXNYMXlMVWlMS09ZTHc5U19scjQtaS1wa19oZEZsRF8?oc=5",
-      "source_name": "The Tribune",
-      "lang": "en",
-      "date": "2025-08-29T07:00:00.000Z",
-      "matched_term": "crack"
     },
     {
       "category": "incident",

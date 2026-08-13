@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-10T19:50:27.240Z",
+  "updated_at": "2026-08-13T19:53:25.245Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 14,
+    "positive": 10,
+    "neutral": 9,
     "concern": 1,
-    "avg_score": 0.09,
-    "avg_magnitude": 0.16
+    "avg_score": 0.17,
+    "avg_magnitude": 0.21
   },
   "youtube": {
-    "n": 38,
-    "positive": 33,
-    "neutral": 4,
-    "concern": 1,
-    "avg_score": 0.532,
-    "avg_magnitude": 0.584
+    "n": 40,
+    "positive": 22,
+    "neutral": 15,
+    "concern": 3,
+    "avg_score": 0.295,
+    "avg_magnitude": 0.413
   },
   "overall": {
-    "n": 58,
-    "positive": 38,
-    "neutral": 18,
-    "concern": 2,
-    "avg_score": 0.379,
-    "avg_magnitude": 0.438
+    "n": 60,
+    "positive": 32,
+    "neutral": 24,
+    "concern": 4,
+    "avg_score": 0.253,
+    "avg_magnitude": 0.345
   },
   "top_positive": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "source": "youtube",
-      "title": "Thanks to Narendra modi 🙂 saar also make exams more secure...",
+      "title": "Nice campus",
       "score": 0.9
     },
     {
@@ -45,19 +45,18 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
-      "score": -0.2
-    },
-    {
-      "source": "press",
-      "title": "AIIMS-Bilaspur trains emergency staff in mass casualty management - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM25sN0JNaWdGVVdHQW1tSnRNTTdvWl9kQjdCMEJjdGZieTJJMURuNXJpNlE0Y3U4NmVuVDg1bU80S2xhZDhqU0pZenROMUZTME5mbXFxeHdHVTZFd1BmeXpuNXlpdzNybURTUG5ub0lMdGN3WU1JTmpFQ1g0V092SDNGY1lEaVhRc2dFa3RJc19ZbGE4Rzl1YjRvRHZ1MWhVVU05Um16NjF4V25BS2fSAbIBQVVfeXFMTmhGZFVMVEhmSmFwVl90Z2dkcnBRb2JnWGQtc1Qxd1JGR3pZUHZ2ei05b3VZMXVSQVVGYjZKS0dFSGRJREdrMmpzOE81bFJRYldnMGVCWGFURldRQnJYV21hOHBzaUtraUpCNFM5aWNCRkxmTGJpQmNqUXR3aC16WFJPdEJOV1c3YnU4VVFBaGp4YUxfa2hHYk80a3YzV01jc0swRkVxTGFTSXgyd3hsTmhjQQ?oc=5",
+      "title": "How is dept of opthalmology",
       "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "Can you please tell me ki kitni fees hai pure mbbs ki aiims bilaspur mein please",
-      "score": -0.1
+      "title": "Is the hostel room have attached bathroom or not ? if not then when we will get attached washroom",
+      "score": -0.2
+    },
+    {
+      "source": "youtube",
+      "title": "Manifesting this as a nursing officer",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

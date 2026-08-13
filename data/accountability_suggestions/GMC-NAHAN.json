@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-10T19:49:46.909Z",
+  "updated_at": "2026-08-13T19:52:51.580Z",
   "project_id": "GMC-NAHAN",
-  "count": 1,
+  "count": 2,
   "suggestions": [
     {
       "category": "incident",
@@ -16,6 +16,20 @@
       "lang": "en",
       "date": "2026-08-01T07:00:00.000Z",
       "matched_term": "accident"
+    },
+    {
+      "category": "grievance",
+      "severity": "low",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-27T20:16:30.657Z",
+      "title": "MP Politics: Seoni में CM Mohan Yadav के दौरे से पहले Protest , Keolari MLA Rajneesh Singh गिरफ्तार - Amar Ujala",
+      "summary": "Auto-detected from press: \"MP Politics: Seoni में CM Mohan Yadav के दौरे से पहले Protest , Keolari MLA Rajneesh Singh गिरफ्तार - Amar Ujala\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHpsYlVWNXNoNzgzNk1NUHJHREhuRGFVcjRVSnVnckpkYVgxcFgtdXhTS3FjRkVzemJoSnRKVFVTQkgtY0lpMEdEeVQ4SkQzaTBaZ0JwWmxDeGFybEFET2g1TjAwWHhTbmJNUlVSR1NHUFotTk8yZjh3ZWYycThpZnFMS2p1SGkzQkJBWmJXSWkxWmpQa0pQblRqYXpmNVdac3dLTXllZU8tRmM1SXJGZFZfaHhQY1lKdUZCX1hDVU85NkpRalZxNjNKc2pLSXhudkVYUENVOW1TcVBoS3h6LWFvMmtEc0pXS2fSAe8BQVVfeXFMTmRGcDhCNl9aQl9mRFJPcjVyMzcyREQxWGJTNi1tZm90Wmg4dk1MdmR3cDNoUnV3Z01WbUV1TmpyeVAzaEhLdndDOU96OE1CenlWSDB2eFppMUdpbElielRPVzVCb1kyR1pUdHdlUWlqZ2s5cWtvaTNrLS1lSlRPN3ZyMzdkMnh6OFV1OFFNN3NQT3ZKTmtDdG9xdGFDTDU1QjhzaDd6b0RCdk5xUVloNFNvd0ZQRDJDQkpEMHNMVVFPSEo1ZHRCMURKcThpaHA3TVViR19fLTQxU0Nub0ppTkJLd01BcWV6enJxeVQ1bkk?oc=5",
+      "source_name": "Amar Ujala",
+      "lang": "hi",
+      "date": "2026-07-01T07:00:00.000Z",
+      "matched_term": "protest"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

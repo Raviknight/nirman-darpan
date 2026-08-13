@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-10T19:50:44.503Z",
+  "updated_at": "2026-08-13T19:53:30.521Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
     "n": 20,
     "positive": 10,
     "neutral": 8,
     "concern": 2,
-    "avg_score": 0.155,
-    "avg_magnitude": 0.26
+    "avg_score": 0.165,
+    "avg_magnitude": 0.345
   },
   "youtube": {
-    "n": 4,
+    "n": 7,
     "positive": 0,
-    "neutral": 2,
-    "concern": 2,
-    "avg_score": -0.225,
-    "avg_magnitude": 0.275
+    "neutral": 4,
+    "concern": 3,
+    "avg_score": -0.186,
+    "avg_magnitude": 0.243
   },
   "overall": {
-    "n": 24,
+    "n": 27,
     "positive": 10,
-    "neutral": 10,
-    "concern": 4,
-    "avg_score": 0.092,
-    "avg_magnitude": 0.263
+    "neutral": 12,
+    "concern": 5,
+    "avg_score": 0.074,
+    "avg_magnitude": 0.319
   },
   "top_positive": [
     {
@@ -48,18 +48,17 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Biggest blunder of Hydro Industry ever",
-      "score": -0.6
+      "title": "Poor management",
+      "score": -0.8
+    },
+    {
+      "source": "youtube",
+      "title": "Security raxa hai isme",
+      "score": -0.3
     },
     {
       "source": "youtube",
       "title": "Chor company hai .. GMR tabhi toh loss mein chali hai..gareebo ka haq maara hai ..tabhi bik rhi hai.. ek din pura group ",
-      "score": -0.2
-    },
-    {
-      "source": "press",
-      "title": "In Chamba, a village cracks under shadow of another hydro tunnel - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlRPSWR3ZmlKRDhabHhkZVd0WHhrZFBTdExCaWc1RGI5eEVtMklKS0JhVzZ6a1dtR3Z6SWlHVG5FZG5wYVl3TXJKU1Z5WVZKRzNrNmRXR3FFNnNIZzgzNlpzYnl1V0p6SE1XU1NPZW52WDJuTVR5VmFFaTdSVmlwZDh3eXFKbnJ3VmUtQUswNkJwTFM3UWs2TUpzVDhmUGtWNmxseFUyZEwtV3RnSzZjWXNOMnItc21WMFFlQkp1cXlnSkRWZ3JTYnZn0gHPAUFVX3lxTE5Yb2ZzUFpnVURtcHhTSDZDTlNxeEVlck1PM0lCaVBxNlBma3dIU3lkVnVDSzhkWi1Wd21RWHZGYnFKTGxBcXU2dkZQblRQSzVKTWZJUTEzQnduRm5YMWI2LWk2LUdOT3pXLWRTaEVYWmg0OVpJYXRoYVloZ000eDQtc21EWHhrWlZRU2F0VE1GZWNJNU91anMyTVRsRUJpYW1reXQ0RUhSeGZjUVdzMmQ0cVM2N2c5RmtqR3g3clBrUE95VmZTbENqWHBVMEJ3Yw?oc=5",
       "score": -0.2
     }
   ],

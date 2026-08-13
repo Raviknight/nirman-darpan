@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-10T19:49:46.880Z",
+  "updated_at": "2026-08-13T19:52:51.549Z",
   "project_id": "KIRATPUR-NCK",
-  "count": 2,
+  "count": 1,
   "suggestions": [
     {
       "category": "audit",
@@ -16,20 +16,6 @@
       "lang": "en",
       "date": "2026-06-14T07:00:00.000Z",
       "matched_term": "audit uncover"
-    },
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-06T20:48:55.369Z",
-      "title": "Chandigarh-Manali Highway Accident: Five tourists injured as vehicle turns turtle - Babushahi.com",
-      "summary": "Auto-detected from press: \"Chandigarh-Manali Highway Accident: Five tourists injured as vehicle turns turtle - Babushahi.com\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WUDFFU2czNzJMLXdfT0x4SW5TSGFHRy03Nk9LM2dDU2lJVkVZc254N1VpV1p6WFRLLS0yTmpsa1h2cXFpb05mMUNZQVIzQk5UVHBOUTF3NTN3dDJDRXc?oc=5",
-      "source_name": "Babushahi.com",
-      "lang": "en",
-      "date": "2026-05-28T07:00:00.000Z",
-      "matched_term": "accident"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

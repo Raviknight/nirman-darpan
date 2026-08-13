@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T19:50:09.336Z",
+  "updated_at": "2026-08-13T19:53:13.960Z",
   "project_id": "SOLAN-BUS",
   "query": "\"Solan Old Bus Stand Redevelopment\" Himachal",
   "counts": {
@@ -12,6 +12,15 @@
       "title": "K NEWS:11.OCT.2014: SOLAN KE RAVON KE SAMEEP SADAK HADSA",
       "channel": "kanwal jit singh",
       "published_at": "2014-10-12T09:45:56Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "KikzUYzTn_4",
+      "title": "A short drive on Shili - Jaunaji Road in Solan",
+      "channel": "Unpopular Explorer",
+      "published_at": "2020-08-31T17:15:42Z",
       "description": "",
       "comment_count": 0,
       "comments": []
@@ -37,6 +46,13 @@
           "text": "❤❤❤❤❤❤",
           "like_count": 0,
           "published_at": "2026-08-03T14:48:59Z"
+        },
+        {
+          "comment_id": "Ugx6g-0tK88MC691LW54AaABAg",
+          "author": "@MedicineKno80",
+          "text": "Rabiprazole DSR khud 3rd party mein banwana hai kya rate doge bana kar",
+          "like_count": 0,
+          "published_at": "2026-08-11T06:48:21Z"
         },
         {
           "comment_id": "UgwrtHvsoeoafYWAnPt4AaABAg",
@@ -74,11 +90,11 @@
           "published_at": "2026-05-26T09:39:46Z"
         },
         {
-          "comment_id": "UgzSg8uidB_7GMBg0xl4AaABAg",
-          "author": "@sitaramhnuman706",
-          "text": "❤😅😮😂",
-          "like_count": 1,
-          "published_at": "2023-04-19T16:16:57Z"
+          "comment_id": "UgyXpzBX0-7CKc2mvZt4AaABAg",
+          "author": "@SanuKumar-t2m",
+          "text": "भाई यहीं पर तो मैं काम करता है हिमाचल प्रदेश बद्दी यूनिकेम चौक यूनिकेम  limited company",
+          "like_count": 2,
+          "published_at": "2026-02-17T12:30:48Z"
         },
         {
           "comment_id": "UgzdZjO2sNWWD18SGql4AaABAg",
@@ -88,11 +104,11 @@
           "published_at": "2025-01-22T04:20:49Z"
         },
         {
-          "comment_id": "UgyXpzBX0-7CKc2mvZt4AaABAg",
-          "author": "@SanuKumar-t2m",
-          "text": "भाई यहीं पर तो मैं काम करता है हिमाचल प्रदेश बद्दी यूनिकेम चौक यूनिकेम  limited company",
-          "like_count": 2,
-          "published_at": "2026-02-17T12:30:48Z"
+          "comment_id": "UgzSg8uidB_7GMBg0xl4AaABAg",
+          "author": "@sitaramhnuman706",
+          "text": "❤😅😮😂",
+          "like_count": 1,
+          "published_at": "2023-04-19T16:16:57Z"
         },
         {
           "comment_id": "UgxpnTUS05AeCb6Eju54AaABAg",
@@ -116,13 +132,6 @@
           "published_at": "2025-09-22T08:38:01Z"
         },
         {
-          "comment_id": "Ugz-tyFYJ6m2piictJN4AaABAg",
-          "author": "@RajakumarRaja-di2np",
-          "text": "Koi job milega kya help me bro",
-          "like_count": 1,
-          "published_at": "2024-09-01T05:01:51Z"
-        },
-        {
           "comment_id": "UgydX1Ju_DGKN8kbqPF4AaABAg",
           "author": "@GovindSingh-cd1ju",
           "text": "Mobai no",
@@ -135,6 +144,13 @@
           "text": "Bhai B pharm kiya hu job mil jayegi kya ?",
           "like_count": 1,
           "published_at": "2026-07-24T13:38:35Z"
+        },
+        {
+          "comment_id": "Ugz-tyFYJ6m2piictJN4AaABAg",
+          "author": "@RajakumarRaja-di2np",
+          "text": "Koi job milega kya help me bro",
+          "like_count": 1,
+          "published_at": "2024-09-01T05:01:51Z"
         },
         {
           "comment_id": "UgzrJUSAyTIc8outaDx4AaABAg",
@@ -156,24 +172,8 @@
           "text": "Congress ho yA BJP Baddi ka naam dono nai kharab kiya",
           "like_count": 0,
           "published_at": "2026-01-07T12:18:39Z"
-        },
-        {
-          "comment_id": "UgwgSv_Um5U5nSf3BrV4AaABAg",
-          "author": "@RajKumar-j5q6j",
-          "text": "Hi",
-          "like_count": 0,
-          "published_at": "2026-02-15T05:22:47Z"
         }
       ]
-    },
-    {
-      "videoId": "KikzUYzTn_4",
-      "title": "A short drive on Shili - Jaunaji Road in Solan",
-      "channel": "Unpopular Explorer",
-      "published_at": "2020-08-31T17:15:42Z",
-      "description": "",
-      "comment_count": 0,
-      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

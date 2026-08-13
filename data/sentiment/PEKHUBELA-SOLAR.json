@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-10T19:50:44.504Z",
+  "updated_at": "2026-08-13T19:53:30.655Z",
   "project_id": "PEKHUBELA-SOLAR",
   "press": {
     "n": 20,
-    "positive": 12,
-    "neutral": 6,
+    "positive": 11,
+    "neutral": 7,
     "concern": 2,
-    "avg_score": 0.165,
-    "avg_magnitude": 0.305
+    "avg_score": 0.16,
+    "avg_magnitude": 0.3
   },
   "youtube": {
     "n": 5,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 25,
-    "positive": 17,
-    "neutral": 6,
+    "positive": 16,
+    "neutral": 7,
     "concern": 2,
-    "avg_score": 0.232,
-    "avg_magnitude": 0.344
+    "avg_score": 0.228,
+    "avg_magnitude": 0.34
   },
   "top_positive": [
     {

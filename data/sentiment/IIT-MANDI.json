@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-10T19:50:27.647Z",
+  "updated_at": "2026-08-13T19:53:26.261Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 10,
-    "concern": 2,
-    "avg_score": 0.11,
-    "avg_magnitude": 0.215
-  },
-  "youtube": {
-    "n": 38,
-    "positive": 30,
+    "positive": 12,
     "neutral": 6,
     "concern": 2,
-    "avg_score": 0.355,
-    "avg_magnitude": 0.571
+    "avg_score": 0.17,
+    "avg_magnitude": 0.26
+  },
+  "youtube": {
+    "n": 22,
+    "positive": 14,
+    "neutral": 5,
+    "concern": 3,
+    "avg_score": 0.255,
+    "avg_magnitude": 0.545
   },
   "overall": {
-    "n": 58,
-    "positive": 38,
-    "neutral": 16,
-    "concern": 4,
-    "avg_score": 0.271,
-    "avg_magnitude": 0.448
+    "n": 42,
+    "positive": 26,
+    "neutral": 11,
+    "concern": 5,
+    "avg_score": 0.214,
+    "avg_magnitude": 0.41
   },
   "top_positive": [
     {
@@ -33,13 +33,14 @@
     },
     {
       "source": "youtube",
-      "title": "Best iit campus in my opinion..iit Guwahati and roorkee",
-      "score": 0.9
+      "title": "I see it every day 😂😂😂",
+      "score": 0.8
     },
     {
-      "source": "youtube",
-      "title": "What a place",
-      "score": 0.9
+      "source": "press",
+      "title": "आईआईटी मंडी में रामगढ़ के अभिजीत का कमाल, बेस्ट कैपस्टोन प्रोजेक्ट पुरस्कार से हुए सम्मानित - Hindustan",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObnh2UmFza2J4d3N4aXhoWWZycTBaS3V2WFhZR3VGRTVyY3hPNnZoTjNsLS0zUEs0WU9FcGVkRUoyMkxWSFVza0xXS3FvODNGaXpMRHdvaW81OUJJbThoWUhuUlRQVkJOdlNSTUtUQXR1QVU2QTVoZng2QXloOWJzU1dsYS1kSi1NUWtOcGw5MEZpSklWNnk4cGd0RTNwZlRScWhIaElNc2t5TG16XzVsU3hmZlowTm15SjY5YTNUaURyWExBdEk5OFN4NDZlZl9hb3k3N1czaS1ZMVFCSDVV0gHkAUFVX3lxTE5Uek5ScTc4cDk0WGU4M29mQ2hqNFFFdFJMVlZadTRsNnlKbDIwWExQbGhkaHZfa3I1eC1pRjQydlo1UVhXc3FSZU9PWkFSRVpQNEhiX0pzZ3FmN0hoaVdjVzBVQ1cxZWxXamJwNnRpekw4ZzM5SzFiTXVqSGJvaGQ2YnNNeUV2QnZiQ0k2T3JWQXVMMnN0OWNoamlqcUNNZjJZZTZVUVcyRUtNaFV4aWhnUGJmaGhCYkNocVZKUjVwN0RrcWRzSnNmcVl2MHcyTGFnVmJnZ2c4WGRrNmJsdENIamhSdA?oc=5",
+      "score": 0.6
     }
   ],
   "top_concern": [
@@ -56,7 +57,7 @@
     },
     {
       "source": "youtube",
-      "title": "aa raha hu 1 august ko!!!!",
+      "title": "Sir without experience apply kar sktae hai",
       "score": -0.3
     }
   ],

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-10T19:49:17.178Z",
+  "updated_at": "2026-08-13T19:52:22.574Z",
   "project_id": "JALORI-TUNL",
   "counts": {
-    "press": 33,
+    "press": 35,
     "gov": 0,
-    "en": 15,
-    "hi": 18,
-    "total": 33
+    "en": 16,
+    "hi": 19,
+    "total": 35
   },
   "mentions": [
     {
@@ -130,13 +130,23 @@
       "match": "Jalori tunnel"
     },
     {
-      "title": "Jalori Jot Tunnel Gets ₹1,452 Crore Nod, Landslide-Prone Brauni Nala to Get New Bridge as Centre Sanctions ₹135 Cr - The News Himachal",
-      "source": "The News Himachal",
+      "title": "Centre Clears Rs 36.67 Bn Road Plan for Himachal - Construction World",
+      "source": "Construction World",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPazJmMzZtYzZiTjVDa0NKUHVyVUU1bi1oeVd3dWVxanVJWENYaFpUSVJZb0txRXcycHNaSEZQUGxXR2JHRHRmT0tVYU9CaDkxYW1pOVkwSFl5UEktRUZlaUt0bGJYdGlocHJsUC1XY0xKQzNUc3BhOGNjLXEzWXBnTmN2R2NkWnNNTTZxdXMtaktSY3FDVWRLdWJXZllFOENBMVk4MWtDcGVWNHN6TTlBbV9hUXllbXVZa3l3QmlaZFEzYk50SVBENlVwLTFHZEoxY3Uxd004Skg3TXRkcUp0WERnMDltN1NkazVxNEFJMVNhWFpoOUpObg?oc=5",
-      "date": "2025-07-01T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMUJFYlJIOGhvbmlNR1ZOSjFyQVA5LUFMdXRyckJCcXRIcFQ3ZzcxMEtkOXk4RWFsT3JIWmd2SU8zU2tYUkxsa0drNnNsV1FWczliU1pVZl9sc1NuMXhQM1g3N3dNY2t2WUFhenViN21fNnpvelVxWW83ZkoxRTlKM1dtc1ZYT0xndDNsY2VSWG9kVjR4VURSd2p3X2M4aU8wZGRWRVFMVF80WGd3eHUzaENGanJ1dmE5amV4WXRBVXEzaFR6WUxyN2RUbDQtLU1sUDRCcmZQUmcwVmFobkFGR0t3?oc=5",
+      "date": "2025-07-03T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Jalori tunnel"
+    },
+    {
+      "title": "Himachal: केंद्र ने जलोड़ी जोत सुरंग के लिए 1,452 करोड़ किए मंजूर, खड्ड पर पुल निर्माण को 135 करोड़ - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQ2FZUHhHbGE1ancwUThBT2J0WGhqNkxkejAwdWdJZDNfY3RodnlWaDYzSENzZ0R0NUx4azNLWjU5LU1aZU04aDVHYUhrV3M0WGRzeUNrai1UMXJVV0pGTmVzV2NfQlc2ZkdJOTNkOWdmRlZNRmhINHdJb2J5RjhyMmhXbm1EQkRCeGw3VV9WbTY2OVVldFNlaGt5bEc3Z2V4amhZLS1BTnVyaV9hNnRFdW90d1RHNVJIM2lMSG4yMlQzNEJUalFxclVmbFYzVVJWVnBCTjhNRTlScHQtWEJWVmdPX3liOFnSAewBQVVfeXFMUHlGNHpuaU43ZXdQTDlCNkJTVlYyZnBWNDEzaXZsZmJpWnlSbVZzb1ZtMTFkeDZrTXNEcW5oVVZuZlc2aTVkRjFEd05LNFRZVmFGZTVYNHdpN19EdmN1RjFUSDlzZGFGcXpKNW9VOUtzaExHT1pZVGdQNW94LVFTc1lXSnMwNEUxRXJpaE56c3poY1gxYkF4c19mV3NRSHlSZ1ZGYmJPYlZSSHJhNVhEWXNVZE1qdkpBZl9leWFBcWdiT2oycFJFTEtQZU5wQ0h5T3ZlSFg2ek03dVlCMm9sRjVrNDJWX1VXQ1IwLVQ?oc=5",
+      "date": "2025-07-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Jalori Jot"
     },
     {
@@ -180,31 +190,21 @@
       "match": "Jalori tunnel"
     },
     {
-      "title": "Jalori Jot tunnel alignment finalised, heeding Shoja villagers’ concerns - The Times of India",
-      "source": "The Times of India",
+      "title": "Centre finalises alignment of Jalori tunnel on NH-305 - The Tribune",
+      "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUlQzOVJFSXlmWHRkbENHaTMzY1lFTXhSbnAzVU5ZM2JvSlEtY2wybHVheHZ2SmJCSF9pamdyUnN1Y0U2bXc5eGtTUFpkUHJOcFQ4N0dKZWxFUDN0OFYtM2NpcEZYTnhaN2o0b3dqTUtkdHo3VHJ0VFBGc2RQdzQ2QTJHY2wwVGp4NTdPb3pnWkxoNWVyZWUybFB6UDF4YWVULUtHd3dEZ3J0elV4SXNUNWRoLWN3VEpGdnRBVVZQNzVPV2Ewd0lwNFRuR2x6ekVRQmctbVMwV1dQTVZhTnJaM29R0gHnAUFVX3lxTE9ONkxCX3E5V2VkRHFCWDU4Tmk3UXZIZjlQeFprYjk1VUZubzJLVW02eXVPMngxdXJDLW1rOG1ZbDI0Um5haDFJdlQyNHgwMFMyMS1RSGt3SlNjTVl3NkxXOXg3Tmt0OVlxYTNneDVHZnVuWnptUHpEclRGTDAzWC1mZEFEcnJYdkNtb2RoV0loRUZSTkREMGtXYkxaa0pXYnlyQ3ZwNXJnMTgwdkttdEhJenhUT3NqYzJ1a21DR2E0alVSQlpaOFlSSDNEaGVZYXZXNERCQmxvdU4zOHZEMXV3LUxqVUlzSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkdUSjdOR2I3WHV1dno2WWZ1STRFZjZfb0IwWEUzYW5IQldlOGxKa1p4aFJOT0Q2NjFyQ3lIYjZvSnFtQ3RXNGtpeC1lbDA5YjZuYkhZd3FYRlp1SDBJRGZmTHR4cms4ZmVlZHJwZExZRWRxamlibzdGV3FKQU15RjBiNW9lLTJiNHJNQk81NmNJN3BvMXNscDhJZVZmUdIBogFBVV95cUxNOFpwN2xMSWlzUEZCcWFRdnpMaWlYUEN3REs0RXN1YldlRFZCN3RBWk90UjZDNGxrNDRjb2I3Z0VuTEd1TVRSV1FaX3EyeHRzMTFNeUJUV2R5ZG5JS0FTenI2UXNCalhOTnpWWXFVNlBsM3JJUGlQbWRwbl9pSFlDb2ZTZ2VZbVpSY2t5SG5XTWFnSm1XZEZINGFHLUNJdm5rRXc?oc=5",
       "date": "2024-12-29T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Jalori tunnel"
     },
     {
-      "title": "ऐसे मिलेगा गुम या चोरी हुआ मोबाइल, बस कर लें ये काम चोर के हाथ में डब्बा बन जाएगा आपका फोन - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcVFncmppSjZyVXlsYWl2dGFtMVZrRWZpbWQ1dUtEYkV2czNwRU03dWdRTUpJXy1QTUV1S003SS1Ybm1LNW8yV1N0OWRncUZyTlVMdzFPRUxHOTQwMURtV0FtMXhCX0lWdV9CdmRMdHM3VzE0Nno0YXd2cHQxQzdwMDJFTEtyN240cmJ4WDBFQU82bjFjNHBhQklnbV90YXdmY0ZwamxtcFY3V0NSN2RySzRWUlRWZVJKUm5yY0NlXzJkNmk5Vjh3dnVfeDdiZkZCaXlGUXZiWGMwRkp2VTVmekR0YUYzYll4UFE2U1RUaXpDem5RM203NFY4OU5sQmFBTkpJQzk5RVbSAY4CQVVfeXFMUHdwYTV4WFFUdlRVRHBaajJ6aHpCNzhwZFljc2tSczQxaTM0c3NkQ0cwZ3VyTEZJR3lkcHhOSVVVdHdPLWpQa3RjandDMml5ZHNpbV82Z2tMSTZwOW5Rc1VLZkZwYVZJQUtWVnVwNm9EemFteW5PTVhHdWU0V2ZoOFU3WjNrOW1XTHA2SUY5eWFEelJRNWk1Ty1wQTI3QUlwZi1TYW96UFJralROcXh5Z2ZmVnFhYmw4Q0s0MkZJOVpZOTBLMFhvVFVRdmJ6el9NVG9Yd0l5ZEwwcHFoUFNYSDctQzBiRHNGMWd1RG9KMXFJb1Bob3hsbGJxdHl5ZC00eGVxNndWNHhhWlgwekRn?oc=5",
-      "date": "2024-12-29T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Jalori tunnel"
-    },
-    {
-      "title": "Centre Clears Final Alignment Of Jalori Tunnel In Himachal, Set To Transform Connectivity And Tourism In Kullu District - Swarajya",
-      "source": "Swarajya",
+      "title": "Jalori Jot tunnel alignment finalised, heeding Shoja villagers’ concerns - The Times of India",
+      "source": "The Times of India",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVFA3V1ZLZUt0c3VSSzFxdkFlU3MtMDJhcEJGcnVPMGdmQ21iMmdsSlNYNjFLUXpUdEFHdDVVQUs5YXFlemRCMHhKMXJPR0dMZWRxU1Ywb2lra3NCZlVncU1ick05NWpuTk9FSURQOWRTTHlhM0cwOUNBRVFaeDlTTTZYX0YzYVVCLVV1QXZTRHpGOGRMUzFlR1pVeHIzYUp2MHFUZ1J4Ym5MeGhnOF9qXzByeHhfQld1bk1zNVd6ZGFlejZvcUwtVkxJZC0xS0tlX0dNY3N2QktvQ1RTNGRTNlhqYVotck9P0gH4AUFVX3lxTE9raVFFSWEzVWNxRjVvcklNdEI2R0VPWk1WS2J0Wjc5T2lxTnZLQlZ6ZVl5S09PQXUxTTNOX3V1c3VoTHo0Z3gwRVl5WmpsMkdTSDRSaTlCMTNBakMyc2FTcXJSMzE4SXBEZFVEY3BNc28tZFR1c09zRzNfZXdzaEpWSHZLTExldTAwUWpveURQZk1iRnE5eW9NVmxwcnBqeW13UXJ0T1ZoX20zTDZiOFNKZHA2U0t0b1VCRFppdEc4YUpJX1NJRUNIaFJURnFTQ3VqbFRoY2ZyTlNMMm5nZlNnSHE2VVZybGhlQVdzX3VoN0lBMWMxOHRT?oc=5",
-      "date": "2024-12-28T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUlQzOVJFSXlmWHRkbENHaTMzY1lFTXhSbnAzVU5ZM2JvSlEtY2wybHVheHZ2SmJCSF9pamdyUnN1Y0U2bXc5eGtTUFpkUHJOcFQ4N0dKZWxFUDN0OFYtM2NpcEZYTnhaN2o0b3dqTUtkdHo3VHJ0VFBGc2RQdzQ2QTJHY2wwVGp4NTdPb3pnWkxoNWVyZWUybFB6UDF4YWVULUtHd3dEZ3J0elV4SXNUNWRoLWN3VEpGdnRBVVZQNzVPV2Ewd0lwNFRuR2x6ekVRQmctbVMwV1dQTVZhTnJaM29R0gHnAUFVX3lxTE9ONkxCX3E5V2VkRHFCWDU4Tmk3UXZIZjlQeFprYjk1VUZubzJLVW02eXVPMngxdXJDLW1rOG1ZbDI0Um5haDFJdlQyNHgwMFMyMS1RSGt3SlNjTVl3NkxXOXg3Tmt0OVlxYTNneDVHZnVuWnptUHpEclRGTDAzWC1mZEFEcnJYdkNtb2RoV0loRUZSTkREMGtXYkxaa0pXYnlyQ3ZwNXJnMTgwdkttdEhJenhUT3NqYzJ1a21DR2E0alVSQlpaOFlSSDNEaGVZYXZXNERCQmxvdU4zOHZEMXV3LUxqVUlzSQ?oc=5",
+      "date": "2024-12-29T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Jalori tunnel"

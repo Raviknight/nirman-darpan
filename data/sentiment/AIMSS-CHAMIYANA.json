@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-10T19:50:37.141Z",
+  "updated_at": "2026-08-13T19:53:28.284Z",
   "project_id": "AIMSS-CHAMIYANA",
   "press": {
     "n": 20,
-    "positive": 16,
-    "neutral": 4,
+    "positive": 17,
+    "neutral": 3,
     "concern": 0,
-    "avg_score": 0.29,
-    "avg_magnitude": 0.31
+    "avg_score": 0.33,
+    "avg_magnitude": 0.35
   },
   "youtube": {
     "n": 0,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 20,
-    "positive": 16,
-    "neutral": 4,
+    "positive": 17,
+    "neutral": 3,
     "concern": 0,
-    "avg_score": 0.29,
-    "avg_magnitude": 0.31
+    "avg_score": 0.33,
+    "avg_magnitude": 0.35
   },
   "top_positive": [
     {
@@ -34,15 +34,15 @@
     },
     {
       "source": "press",
-      "title": "शिमला में CM सुक्खू ने किया अत्याधुनिक 3-टेस्ला MRI का शुभारंभ, 5 अस्पतालों में बनेंगे - ABP News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGttWGREbXhvQm85UGV3WUtMZnpPTmRybzdSanZ6bFBFQVhiX2c2THJTTy1nei1ZaDZxbnVtcV84MDY1RC1BT2hVc21CaDNCOVVndmo2M3c2UlprdF9yUXNuVUw3OXQ5NV9OWi1iTnZhSUhxck1qQWpGcnYyaEFlckNBWnkzbG1zbEtBNXFEQUU0X19LcFZ6MERmMFFwdTd5aVl2OFVPZ2lVQ2t3SENNTkpPUF9sN19QS2loSnBNRzUtemdudS1kUW5rOUk5MXl2WGc00gHYAUFVX3lxTFBFazRZaUwzWDkxeGIzdEJOcTNORzNyTkhNT0lfQzNDN3MyRk1KQ0VUOHFWZzI2OFNkbFBkRndHdHYxNzVTQzF3NnhQMFJnTDh4THQ3SS1GaU93MkNObkc4Z0I4UzJkQm9uMmx1cXQyYjZQcXRENVpSRTVqRE1vUmluQm93Rkp3bV9MSjA4TWV4eGRYSVh3aUx5Ui1fdGFqekplX0NZdEJnSnVUd3VaUHE4bFkzWWJIM0dMZ2taSER3T1VCQzFBR0Q1dGNqdzItMG1oNnJEWE1XSw?oc=5",
+      "title": "शिमला में IGMC और चमियाणा अस्पताल में एक साथ छुट्टी पर जाएंगे आधे डॉक्टर, दो बैच में रहेगा हॉलीडे शेड्यूल - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzdtWjFsNGJnckdYbWhPa3lhVms2bkRXZFY3aTZ0QUdwYWV1bFdXRkl3dmhpdUlyRnZ3eW4tbmowd0NLV1IwWFFiaWxycE10dWpZbFNDenpwOEtDYXdqay13aTNmRzZ0cksxMkFVeTA5Mi1BV0M3SzZuenFySmZCb25Ja1hPRTAwR1NubkQ1Rm9aTDMxUVZKSXk3blZaZWZCV1lSdDM1LWtBZEtvVEpvWg?oc=5",
       "score": 0.5
     },
     {
       "source": "press",
-      "title": "ऑपरेशन के दौरान हिलने लगा अस्पताल, डॉक्टरों ने जान जोखिम में डालकर मरीज को सुरक्षित रख जीता दुनिया का दिल - Janta Se Rishta",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPazNuT0FjNjhfS1dOQlBDWkJyXzZXeVNvRFVrNXQwM1hBUGlQSE8zSDUxUU03R1FheHVrY0RiTEZfU1BicjBnajNSRkhJb1BYaDFZQlY5ZXEyMEZxUmxpVWNQb2ktY2RyZnZQaTRENVROUy1XY3R5dDliSUU0NHE2bXdZYURMM3R5aUVFcno5OXBFZ3ZyRWp0b2hYTDJHQTRUY2o2bS1EWFZ2NE5JeVFrMjdodmp6WE9ZWWZPQzEyc2NibDdKVEt3aFZERk5IdUJ5VHFaWm9ZSjNGMTVWWDVBOHc2M21nNFR0OW1adNIB8gFBVV95cUxQQm1vaWR5RjdlVkVUWG1tMHlFQmh2UHZmSlVYLWJxTmViWTJQYzVKdXAwQlJ4Y1h1OFR1VXUwWmVTYWJxbkI3WEo3MHpTRGdTNXd6bzdYUEVUYnZnNjB1X2lFb3pGTVRnZHFYbExMb1Y2UWxkaFJIWEppRGZPZ0c4a1FmdVdwZU5Ddlh1V1hEcXdubGI3SmhuR2ZSR3JERjhMc0ZCQjJUOU1xaTJQWmRTTzNlVF9oc1FQN1RPRWFmTU1qLTRMZDVNSEVZY2FRTDBNVDhrY2RjbUtJUE1WdDJYNHQyRlg3dThqU2ZPWlZhQTB2dw?oc=5",
-      "score": 0.4
+      "title": "शिमला में CM सुक्खू ने किया अत्याधुनिक 3-टेस्ला MRI का शुभारंभ, 5 अस्पतालों में बनेंगे - ABP News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGttWGREbXhvQm85UGV3WUtMZnpPTmRybzdSanZ6bFBFQVhiX2c2THJTTy1nei1ZaDZxbnVtcV84MDY1RC1BT2hVc21CaDNCOVVndmo2M3c2UlprdF9yUXNuVUw3OXQ5NV9OWi1iTnZhSUhxck1qQWpGcnYyaEFlckNBWnkzbG1zbEtBNXFEQUU0X19LcFZ6MERmMFFwdTd5aVl2OFVPZ2lVQ2t3SENNTkpPUF9sN19QS2loSnBNRzUtemdudS1kUW5rOUk5MXl2WGc00gHYAUFVX3lxTFBFazRZaUwzWDkxeGIzdEJOcTNORzNyTkhNT0lfQzNDN3MyRk1KQ0VUOHFWZzI2OFNkbFBkRndHdHYxNzVTQzF3NnhQMFJnTDh4THQ3SS1GaU93MkNObkc4Z0I4UzJkQm9uMmx1cXQyYjZQcXRENVpSRTVqRE1vUmluQm93Rkp3bV9MSjA4TWV4eGRYSVh3aUx5Ui1fdGFqekplX0NZdEJnSnVUd3VaUHE4bFkzWWJIM0dMZ2taSER3T1VCQzFBR0Q1dGNqdzItMG1oNnJEWE1XSw?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
@@ -54,8 +54,8 @@
     },
     {
       "source": "press",
-      "title": "Shimla News: चमियाना अस्पताल मार्ग पर भूस्खलन, यातायात रहा बाधित - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdjk4NDB5S3BrZ1F4T2NNNVo2c2VDY3FPUzlXOG1JR2haV0Y3ek1iWXR4a21wN1dtSjZVSnVVekpCb0o2THlIMUNOdDQ5VmZjU2NHeU9PUFhOOXI5emNIWlRkVXJ6MWoxb1UtVXVZc0Y1c2dwWFlJZ0plRDRxdWk5TnlmNXJRTEtkUmxoVWRCVE1GYzczNmswNkpXRjZjVFI3WWtDX1pVamh3SmxQTzNRZG52V2ZFSHNiN1llQ24wT0VKNnp5Q0haTi1n0gHPAUFVX3lxTE5NSE1PeVlKdnMtZ3Y1QWdjR2xlaXlxbkRhXy1tMmxlX3QzTUVwQU5nZkJhX2ZtYnBMRW5pc0FVX1JSLWJvbVpJSzNaTW1SWXFST19sdTRBWUVKNVJKWDk4OTRNTVgzcmFobHk1dm5SMGVOVXpfRmtqUXpCcnpKQzJuY0w1MU5qS25qcFp4WlB2VElScTRCNmp0R04zQ1c0djFMWXNpT3oxbXZseWo5NWhIeVdGV3Q3Q2c1UXhWcUlZbkhtcEdPMHA5TXVpREl0cw?oc=5",
+      "title": "Himachal HC seeks govt response on decongesting Sanjauli-AIMSS corridor | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbmRSa1pDdUtjTGk3ZmdSTUVlWnBIOGV2aE5YZnFyR0xmR3locmtXeFA4ZDlyUmVZejF4T2cwNnhQUVdEMnlPMUM5aU9RaWYtSWN2TU1wNFh4d1dvNjBJVkRQNjVLbjhuRGo0OHdxZmhRUmd3MHpxTnF0eTNYc0FQTjN5b01hUFEwV0h4X1RJQ0x4X3ZXM3VnTVdJcmMtV09kUkprSkNNLU5mRmc4by1sMFd4T2VqSFJTMWdxYThmaHFfVVRUVjVJQWVjOFN0NGxqR1hWV0xQbFRQSmRFWDAw0gHkAUFVX3lxTE00MHpidHVmNmpiQUc3enZsNHZfX2pCVWRXbnMzV1lxVGZMTXk1Z2EwN3lqMjVmTkR6N1FkRnpvWDZCbFIzaXFPRXdkRnBiN0FoQjZJSFBBVl9WU2QtS2JoQzFMc0tMMjJTRDVuTURLa3Q4UF8ybEhOMDgzWHAxZVdXc2ZGVWZFRWhncmZwS1Y5VXU2bzV1ZC16UzBhcnZIYnBhcE55UURFNldSSHZwM2NSd2xadFA2ZE1fYzJJek4zaUMzcUJZRktDYjFwN0tCcFpGckhncHVZZDc2dXAzdV93dTM1LQ?oc=5",
       "score": 0
     },
     {

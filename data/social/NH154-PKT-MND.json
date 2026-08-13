@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-08-10T19:49:12.919Z",
+  "updated_at": "2026-08-13T19:52:18.592Z",
   "project_id": "NH154-PKT-MND",
   "counts": {
-    "press": 63,
+    "press": 67,
     "gov": 0,
-    "en": 53,
-    "hi": 10,
-    "total": 63
+    "en": 56,
+    "hi": 11,
+    "total": 67
   },
   "mentions": [
+    {
+      "title": "Flyover construction leads to traffic jams on Pathankot-Mandi highway at Jassur - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHB4dVgwZVpPVTlzZzAta3NMX05JTVhEYTVhMGRlUDdUSGRXcG1xTWZCaDRITzFHSGljVjF5bVdXeWwzb3dYTzJRdWd0ZUJsVmliTUs5aEhiZ3ZOeXhHRWJRa25MelVDU1Zpcnl0QngwYmVrX2dkRGk0TjFCY0M3NWl1SFNSbGRJclV1WURELUFTYS1LdW56bnJTWm5QTmRJNUFkMmtDcVdISG4yY1hHSWktUk1OREpSZG1vR2xCU1XSAcQBQVVfeXFMT2lIdFJSOE1WbThBcUFFVkk2dWNjdGwyckNqLXJLdU1fQUZCc3BfSDdHemNBWkVOZS1OVnlPV1hqMXFCUEN6TlFadVdpWEtFQmRtZE0tVlBrQzg5anVuYjhIdFcyM2ljVm9nTHJwdHp5cGhTblg0aUptekdfTEFzcHhSX1JpTEpqMHJOTjNlRkc4THFsMVVxOXBJQVAwNjBPdVBOSjF0dFBIR1dTdllaeFMydlBscUhTUHoxMi1aVC1rUTFPTQ?oc=5",
+      "date": "2026-07-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pathankot Mandi four lane"
+    },
     {
       "title": "Malan flyover construction on Pathankot-Mandi highway enters final phase as last pillars completed - The Tribune",
       "source": "The Tribune",
@@ -80,8 +90,8 @@
       "match": "Pathankot Mandi four lane"
     },
     {
-      "title": "Land acquisition not yet started, Parour-Padhar road project in limbo for three years - Himtimes",
-      "source": "Himtimes",
+      "title": "Land acquisition not yet started, Parour-Padhar road project in limbo for three years - himtimes.com",
+      "source": "himtimes.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkhuVks3V1J6QU9DTTd0MlZhUDBWQUw4Y1psRmp4eV9QdmUyUkNXSnRZZExKdDdPLW4wVXhqMV9OaDFiRko1US13MUl3eFpESGpYVkFEQnlhZ0R3ZzI3ZWItZDREa21oTHEwTGpxRVFNZVhONVRMWHVsMDdvaElNVEZJNllOZkhpb3VIbllyUkt0eWs5Vkc1YjV4MW1XaEs5YlN1MmlGRXR0dw?oc=5",
       "date": "2026-03-26T07:00:00.000Z",
@@ -197,16 +207,6 @@
       "date": "2025-09-25T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "Pathankot-Mandi four-lane work turns daily commute into ordeal for residents - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkxTeFZDcmhBeUZhQ2lsYXZTQ3ZoQ3FpUjVBZ0diVGZsOXplWVBtZkFlb0F5OHBoRWNHeDlZbHBxeVNmcnhocE1SVFZBTWFFd3BJamdZZG56UkUwU19xdUFjd0cxRnBWNEdqclMzbzVUZkdFT0Q2c0ZTVlR0UEdCSmpRbnBSOFZjenczYTc5QkotaUQ3MDhDVEFDc2VLOTNzMFhSUHNoUmNJek9kUFEycDVJQmc1cmstMzJyb9IBwAFBVV95cUxOdjZMdzktenpVa3lsX0xPXzdub3MzM2NzYlBKQlU2YWFGRWd4UXFzWDF1Z01mQlJtQmNLM0oySHhzdDlxVDZTNnlUcXZMTkd5S2hKMkIzRHZOa0J4VWY0OG1aMWNkWWZSU3ZXRmRhY3dHWkVQbEI3UER1LVRVekQtb3pSX3E0ZG44bzFLSHJmalVCbXRqM19vazBPbEg5UkRCVkxTMUlxNXIzT3JhX2taNlpvcnBqdEdLVkhKRExvbWc?oc=5",
-      "date": "2025-08-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Pathankot Mandi four lane"
     }
   ],

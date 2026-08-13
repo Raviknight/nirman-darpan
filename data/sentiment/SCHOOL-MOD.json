@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T19:50:43.785Z",
+  "updated_at": "2026-08-13T19:53:30.146Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -11,19 +11,19 @@
   },
   "youtube": {
     "n": 20,
-    "positive": 13,
-    "neutral": 4,
-    "concern": 3,
-    "avg_score": 0.365,
-    "avg_magnitude": 0.945
+    "positive": 10,
+    "neutral": 6,
+    "concern": 4,
+    "avg_score": 0.235,
+    "avg_magnitude": 0.63
   },
   "overall": {
     "n": 20,
-    "positive": 13,
-    "neutral": 4,
-    "concern": 3,
-    "avg_score": 0.365,
-    "avg_magnitude": 0.945
+    "positive": 10,
+    "neutral": 6,
+    "concern": 4,
+    "avg_score": 0.235,
+    "avg_magnitude": 0.63
   },
   "top_positive": [
     {
@@ -38,11 +38,16 @@
     },
     {
       "source": "youtube",
-      "title": "Your positive input is like a ray of sunshine. Much appreciated 👍",
+      "title": "I love ginger so much , asides from being very medicinal. I’ll give it a 10/10 when it comes to stew flavor 😊",
       "score": 0.9
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "I don't understand either the economic viability nor the purpose of burying so much ginger in a relatively smaller area,",
+      "score": -0.7
+    },
     {
       "source": "youtube",
       "title": "Is it just me or does this look like mature ginger they are planting? Also the harvest looks smaller than what they plan",
@@ -52,11 +57,6 @@
       "source": "youtube",
       "title": "This is Pauline Longley ask how do you cook it please let me know it",
       "score": -0.3
-    },
-    {
-      "source": "youtube",
-      "title": "but why? the one they initially planted looks heavier",
-      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

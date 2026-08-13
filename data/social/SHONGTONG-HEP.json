@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-08-10T19:49:30.799Z",
+  "updated_at": "2026-08-13T19:52:35.803Z",
   "project_id": "SHONGTONG-HEP",
   "counts": {
-    "press": 35,
+    "press": 36,
     "gov": 0,
-    "en": 25,
+    "en": 26,
     "hi": 10,
-    "total": 35
+    "total": 36
   },
   "mentions": [
-    {
-      "title": "RECPDCL Hands Over Bhadla Ramgarh Power Transmission limited to Power Grid Corporation of India Limited and Shongtong Power Transmission Limited to Terralight Solar Energy Tinwari Private Limited - REC LIMITED",
-      "source": "REC LIMITED",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOc0NVcS13OTRkVUVrWG9fVGIxODE1UFNuWmduVEJTWE5SVWpsU0o2eXBUd09mUTJORHNpVjhfd2YwUldlVmFicVNxaW9PUllTSFJXMDhtdEtIdnNyX2M4aDh2eHpCZFZZa0w3YTl0ek95TzM4dUlHUFZfTmhIb0RBalNCT2tlTVlLcDNjZWhOVTFyZ093N0htSHZpQVpYSFRBN1JJaVVHTXROUVcwU3hpbDJPemhEbldBRDc0Z2JQVjAwS0FGTzdQQWlvdGo3U3ZZZUxsTFNDazJnZkJzN1FJNlMtM1c2bFBDdXZtQ2otRHpnMEMyUE0xZHVKWkFlWWtSYTh1TDNn?oc=5",
-      "date": "2026-07-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shongtong Karcham"
-    },
     {
       "title": "हिमाचल सरकार के खजाने में इस परियोजना से आएंगे 900 करोड़, CM सुक्खू ने अगले साल का दिया टारगेट - ETV Bharat",
       "source": "ETV Bharat",
@@ -27,6 +17,16 @@
       "date": "2026-07-13T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Shongtong Karcham Hydroelectric Project, State, Capacity, Latest News - Vajiram & Ravi",
+      "source": "Vajiram & Ravi",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmN1LWhuckJKSTI2Z08xR1RmQktIRW9GVUQzU0xsTU0wQlI5QWk5UG13Q2FNLXZnMERka3hCQU5yVE1CczBjRFlZTkZtNHl4YTRtb0VONWJBbnNTMFc2SUcyMVVCQ2NMdDlXYlpKbWNWc2o1YTNhaHRvdXAwV2RITllhalN3eUJzT0FB?oc=5",
+      "date": "2026-04-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Shongtong Karcham"
     },
     {
@@ -50,16 +50,6 @@
       "match": "Shongtong Karcham"
     },
     {
-      "title": "CM Sukhu Reviews 450 MW Kinnaur Hydro Project, Pushes Timely Completion - BW Businessworld",
-      "source": "BW Businessworld",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVVxcHpRbERjYWpUUTI3ZzNqWXlkdG1lWGhienJIdWZIS1d3ZEZHRmRuWnlaTUlGVkt0QUVzQmxHczVmWmQwZU1TN01FQkVYVUlSV2otbG9jSzQ5WHBKQVRJTldYY2pWdXdMZkdIR2U3OHcxYVRsbGRJZ0hjVW5YbHlTVC1ZYUd4NmU5dllEenVjY00xYWZpdnA2LWF6OEV6Y0xNYXZPRVZfR0laS3RPbUQ0X2M?oc=5",
-      "date": "2026-04-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kinnaur hydro"
-    },
-    {
       "title": "Himachal CM reviews progress of Shongtong-Karcham hydroelectric project, directs early completion - ANI News",
       "source": "ANI News",
       "source_id": "google-news-en",
@@ -70,8 +60,8 @@
       "match": "Shongtong Karcham"
     },
     {
-      "title": "himachal cm reviews 450 mw shongtong-karcham hydro project progress, orders early completion - The News Mill",
-      "source": "The News Mill",
+      "title": "himachal cm reviews 450 mw shongtong-karcham hydro project progress, orders early completion - thenewsmill.com",
+      "source": "thenewsmill.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSVVMbUw1YTVIWTVkZzdMajFnLWVwNWhidG56OFZHNFpFSW9ZUUQteGpqZ3RtTVY1Qm5TYnFsS1lzZVRNYzRpZk1kS0wtN1YxLTlBaFNld2tHVlB5VEkwdm1fTVRTems4MDQ1Q3dfMk84S29lWjMydmxQY3paRDY3Ujg4cjIteDZWUXdCWDhrZWFLenhReGJQN0did2thTHNnM29ZSTNqSHBpdFZ2X2VaYlZMbXFDRjlOUm5iMDBwdTRhUQ?oc=5",
       "date": "2026-04-14T07:00:00.000Z",
@@ -110,26 +100,6 @@
       "match": "Shongtong Karcham"
     },
     {
-      "title": "सोलर पैनलों से हो रहा है कितना कचरा, नहीं जानती सरकार - Down to Earth- Hindi",
-      "source": "Down to Earth- Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVEdRdVh4VkFtdXgzU0hLbDh4Wk85OTRkcVBsWlprOGhaZXRVWklWdHFpQmh3emJ1Wng2SFZMbk9tcDNpV1l3NDJhY2hfMTMtMkw0eW1ULVIyUWJHQU5tREJqTWEyeXB6ZU1wYXlsVHJIRzlLWVZxTGNaNTkyYldCXzRySTAySHc3aElBbW8wZW9hYzhnbkl3NVlOWU5teXhDWXJRS2JnOUxPUklYOVpnQkRwdlB6aTQ3akxta3VDdmFsMWlPX2Q4dkZaMXdjaldYa0VOU3k0Q29xa3REa2Y1NnZ30gHvAUFVX3lxTFB0aW1YWHdRUVVRejNRcHlxY1k4dHlHdklNNkstRmJFNXVQalRnZ3pWamFuekN6T1BXQk0xVldVZzFpRnBOeWx0Nmh1czdqN2haQmR5ckRmQTYxZUgwUHN4UFVFQnRvMmRaaHNXUUJCZ3RYLWhWa3FSam42RHNLN2tWT3FyeXBIV0xianBQcTAzVVAwd3hOWGxiWlN2UlRoWk5LVnZSZTd2Qm9paGR5Wl9MOTR0S05jbXJBa0dPS3p4bFFPUlJad2l3OUtxOTVHZHh1RFl2LUhPcktiYl8zdk5MVXQtXy1TZHVDTXkxNmEw?oc=5",
-      "date": "2025-07-28T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shongtong Karcham"
-    },
-    {
-      "title": "Shongtong Karcham Hydroelectric Project, State, Capacity, Latest News - Vajiram & Ravi",
-      "source": "Vajiram & Ravi",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmN1LWhuckJKSTI2Z08xR1RmQktIRW9GVUQzU0xsTU0wQlI5QWk5UG13Q2FNLXZnMERka3hCQU5yVE1CczBjRFlZTkZtNHl4YTRtb0VONWJBbnNTMFc2SUcyMVVCQ2NMdDlXYlpKbWNWc2o1YTNhaHRvdXAwV2RITllhalN3eUJzT0FB?oc=5",
-      "date": "2025-06-15T11:44:45.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shongtong Karcham"
-    },
-    {
       "title": "Shongtong-Karcham gets 2026 deadline, HP bets big on hydro - The Times of India",
       "source": "The Times of India",
       "source_id": "google-news-en",
@@ -160,10 +130,20 @@
       "match": "Shongtong Karcham"
     },
     {
-      "title": "Sukhu directs to complete Shongtong-Karcham hydroelectric project by November 2026 - HIMACHAL HEADLINES",
-      "source": "HIMACHAL HEADLINES",
+      "title": "Himachal CM reviews Shongtong-Karcham hydroelectric project, directs completion by November 2026 - thestatesman.com",
+      "source": "thestatesman.com",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3h3WVFJZi15QVVkNy1pTjd4UWw0ZmtlZjBWSXBOd2YycENGTXkzNm1ocG9LWFZrYm5JVWxZTFYta2lYVU1kdDYxeUZ2N28tVFVqcURwTEROcE81Yko5NGNmbEd3R1RSa1liaTFseHZTSXJNbHRfcWNvM1ZXOU5hdXNNb1g5cVNFdDZLMmVUTnhreDZKOFUtY1ZYbWJJdFRldGNiLUswY3dMaE5WYU9HWHhhNDdiMlJwSVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRF96SFdseXZ4ZnBMWjl5OHBaSHNCVHNyRUFuQWpJdm5hQ3RpMXpqWkxTRzhmX0dfRHJleFhnZHdTR2JLVlg2aG0yM3ZwTnVrRzcxUGpPZXZYSi1uckpBUG95cHlHR1FDbnlXRHpVNV9pMHA3UTlvbTJwV1FBZ1pERnI5OUdQMUdfQm8ydFNjM2RZVkZ0cllIdWVrcEpMV3QwM2hJMHctUlNIeUxUSDVIZy1ZTzhOQWpnanBaLXFWS2NNQkpDeDMydWFIN0l1b2dnekhrQTBaVGU1WGgyUTNr0gHkAUFVX3lxTFBVSHd4M2V1YTlyQmxxd1FGbXZiUDd3T0FDRVJKaTBueVVwZ2FLb1o4Z1FRdWw1NWNKdm15ODR5WTBNOGNKS0VOUmk5SkpCVm1iNS05U0RVYmZJUmtrYVlSTDJPSkttVnRfWXNVbEctLUsyVkFxQUJLTFV0aGhyMWdjQUpzckRvUnV3Rm5HYjBwZTYtd1Z3d2dTWHNxT1VKR0JIMXFaY2tRWl9WQW11eVRMeFdxMTFpOHJxVjY4WENPbXJRbXpHbEhnZ1JibVFoZlNpejd0aWRFaWIzZnc4aGdsaTlCdg?oc=5",
+      "date": "2025-06-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Himachal CM Sukhvinder Singh Sukhu Visits Shongtong Karcham Project Site #Gallery - Social News XYZ",
+      "source": "Social News XYZ",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHhUWXdaZG9PV01KYnFES2tsYmhOcXN0bElVQmJBME9qanpZbEptNG42REEzcllGcm45T2N6ZFE4NDc5RThMZE1JQ3pMc1piVjNhUUVSLVQ5dGV5MWluT1B4ZDFKZ2RCeUZJR255SHgyd0x0QTZxc1NNR1FWNWtVWVpqeHJPX003SnRSQkRzV1NNV1cyQkozNTBNWEpiRXJKdk9uZzM3VVB5dUVpWF9iQ0hNR3Nzc3piVlhF0gG7AUFVX3lxTFAweFRZd1pkb09XTUpicURLa2xiaE5xc3RsSVVCYkEwT2pqellsSm00bjZEQTNyWUZybjlPY3pkUTg0NzlFOExkTUlDekxzWmJWM2FRRVItVDl0ZXkxaW5PUHhkMUpnZEJ5RklHbnlIeDJ3THRBNnFzU01HUVY1a1VZWmp4ck9fTTdKdFJCRHNXU01XVzJCSjM1ME1YSmJFckp2T25nMzdVUHl1RWlYX2JDSE1Hc3NzemJWWEU?oc=5",
       "date": "2025-06-09T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -174,6 +154,16 @@
       "source": "ABP News",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3p4alI3N3ZkZUlRWGlIWC1sQVV5TFZxc2laMm5oMlM3dG1vd0d0MjByWnpIX1FrUG1yd1N4UDg2YVcyT0J6ZGZBb3FYYWpLbVE1aG5kelQtdEVOOFVtLUs0emUtNGZlV1ludGZ2V1cwOGwwUnZQV0gwY19sbnAxTE9zUEp6VjgzUExKbVNBM25EaDBzbjBobGM4eGtLUnRfRkxVUjdJaGZGMmp3bDBKM3dVZ0RTa1hjYUpfd1F0dE5iTDhTRXREc0p4NFdxanAxbzBsaHo4SURhWHNyNU1XeHBPeEE0MW5NQUHSAe8BQVVfeXFMT2JJaHdTRHRHRnBTZXctWDVmN1ZyMkZHRzRrYVlGSUdJUDRmZldPRmVnUnpBQVlCRTBnZEc0a0pEM0IwcFhzaDVPaENGbWFqbDZ5SFJIRW9McEpDYWJlTU1ZYU91djJQSDFYZ3NJSVA1WnBFU2x1ZWZ2Zlk1UXROcnkyQktTUHdRSmhQSkliZXFtS2hJTlRtRzQ0M0U4bmdKU2twTVoyQ0dGR0pGdU5sT2JZN2VOdGlNd0F0WEpLYU1KOUtUMnZzUk9vbFVaeHJ6RU5OSjQ5dmRtQms4NEhiVFkyc0pBNFJGQ1gydFhneEk?oc=5",
+      "date": "2025-06-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "उच्च शिक्षा राज्य मंत्री रजनी तिवारी की गाड़ी से टकराई नीलगाय, गाड़ी क्षतिग्रस्त हुई - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPME1nc2I2QmEyWjBXaUdSMzdCYkJrMmlySFd0NloxcnZJaHJrQ0dtSXNsUmFNR2prRXNfZENUMUNHZW1wRl9xUVp5dzZxYktvZVJJeEtpNW83dHVEeEtvT3J3TS1zaklwS21JcEdqMExDVDB2aWhfM29ELWxVM29NekNpNTVRckNsZVpMSlFqRDlHeDlLdEFCT2RpaDVWSkJEeG53Zm9uYWJxYktCdnZOVzYzTkJvNV80dDNRSW43Sk5VTXJiSjZYa0Z1S2IxSUlIN25tdGdWQmNFMlU3UC0xa0xQYmFRNjZuY3h4RDJTTmR0b0VvRFBR0gH8AUFVX3lxTFA5cmlWNy1mcnpPeGpNS3czUFN1TzdDTE1lZXQ3WlFsTzh4SjdBY2JSVlVGSEdnZlpSYl9hN0FGMXlpQ0Y0VUV3TW1wVlNpeE8tODdDQm5jZjZDeUNfY0U3cTkxcTJaSUZYbkQ5MzdWckxCUVdpNGtpOTN3MXAzZFlKVzJpdHVtMzhGVURLamdSUTFxeFNldmdjckdIT1Q2S240a1RQbnlleDhZQUh6cFBFajdSX2dlaU44MThiR2RiNGhyY3h6Q04xdzRqdGlDQUZKR01BUmpzd0ExeWhOaFVEclZNR2RCQU10dU1MdlpNNGRLb1phaTVnRF9kOA?oc=5",
       "date": "2025-06-09T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -194,6 +184,16 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSl96am4zUndxTDJBOTU1cTc2VFRqb19OOEtYQmx1dTBwMTlILVpUcWFxYjEtN01LZm4wSVBucDRJUG95TXY2bkJCYlVoelJEZWF4X25jZUVLT1JpUERfM1NQcHFJVVNxbllCYmlhdjNfb0ZBUXBGWHhXSzNUZlFVZXJYeDhPbVdPT1VRTVBPMUFGamJPR2dNekZhYlZzMzZDRFlxNzA4cDYyX2Q30gGyAUFVX3lxTFAxQ0hGbFJoSG5kNll2SE9JZGFQRm9MQ0J0SDhjU1Q5VGo2aW5fRDVOOU9jenBpV25TUzk0M3JEOEhGWUFVOUlVMU5MYTFfUFJoa3I1TklMLTdiUU5qMnRnN1pUaVFZSEpIMEVUVkhvaHlWaEdaVC1RRGlpdWJZNFdibUswUzhwY1hUVTRCMmZ3QjIwSmRUTVlleTNRbm14YS1fUHNTZzFuWlFXTS1BZTE3aFE?oc=5",
+      "date": "2025-06-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "सोनभद्र में अंग्रेजों के जमाने का डाक बंगला देख रोमांचित हुए डीएम-एसपी, देखें VIDEO - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb2R2SmZfdHoxc3NWR1phWXpNUFdYbVdYUUlvcGExNWEyLVBFUHlCRkxxb3c1dUlFYVgwSDZqVE9wU0ZVMmJHMjA3YzFDR3JwLVFvckdnWXI2a2JXTWZsazhfVFNoT3ZDVEp1OGMtUThsU3VCdUZOMlVvRHNjdlV5R1hEZUFoU2Y4R0Z6eHFWUTRqMU5QS09Ydi11c0J2UGgwSmt1dlp6Q2lKZlp6dE5mcGF1Y0RqR184WkRqYmVEb2M5QnNhWkhITFJZd0cxR3p2UWhNa29uODdMTjR4bnfSAeMBQVVfeXFMUFBrU1g0dXZuWExXaEhUV3hlUURLWl9Gb21CSXEzckh0X1JJOE9MMXk2dXJ3X0hEWVAtMWxYNG91c3pvWmtILUd0NldzMDlOMTNOM0gwUzUwWnM4bUtXOWpPRWVBOWlwbGV0RXptUkdKSXlFT09RTTRreEIxYXdRaXZoY2UtZkttdUlRZGM5RlNXS21fX3ROOFY4SWhOT1FLQmVobUJ5ZTFBcGtVS1hrV3VCSUtWRW9jMnhBZlUzZHJmbmlpVGNabkNvT1loQVZJd01wcUtXTnd0dnhhSWlIZU9uUnc?oc=5",
       "date": "2025-06-09T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",

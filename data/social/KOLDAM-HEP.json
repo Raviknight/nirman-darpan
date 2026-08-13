@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-08-10T19:49:08.587Z",
+  "updated_at": "2026-08-13T19:52:14.181Z",
   "project_id": "KOLDAM-HEP",
   "counts": {
-    "press": 91,
+    "press": 95,
     "gov": 0,
-    "en": 58,
-    "hi": 33,
-    "total": 91
+    "en": 61,
+    "hi": 34,
+    "total": 95
   },
   "mentions": [
+    {
+      "title": "Bilaspur News: एक माह के प्रशिक्षण से बेटियों में बढ़ा आत्मविश्वास - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdXNlYk1OQUF1WlJpXzJpMk95bGpsOG5qby1EQXE2bFIwZ0dvZWxidlZia2tENHo1SlFXUVBaSVlZVWhWazdwdmoxbGJoQ3h4X1lNRW5QdThVSl91TmdkdUdIV25jUEpjeGF2TXB0VlJnVk03N3NhTVRJYm9JYXJ2aUs3NDByN0xRWGpBNTIzdUxfWEtRUm5jcERqY091X1lJaUZXcU5nSDlWWUR5QXdGc1lfdktVSXBiZmdHa18wT090TXpCQlZJdHE5aUZuT09QQXJMMmtGMXhPVUxRTk9ydXQ0emRhZzdBRmFJVm1zR05XTTjSAfgBQVVfeXFMT3FlREJyMkxEclBDaEJHNlk1MmFhdDJoamFzdzFJSk9yMFRVQ1VXUERwZS1MYWp4M1dHZHZ5SU1sMGFlUE03dTlfRVp4bTN2cHJZMlJ6ZXVCTkZCalMtTEtKTjlONXpWb21NdzVXZm9XdVBHS0lhY1lOYzUtcGo1MHVIcnFHcEdjZFpuZDgtOGgwaFJURGhKY0Z3T1czMFVGR19GYVhkRmNpQTVUWjIzcWVxRGlwMUFqYmVZOGo2VzNRd1pOeHZ0bVVwb1ZZYzdQekFaRXFxY3ZNalhpZEY3MnpDQmFoOWN4ek8xakN4LWRoOXR4YmxNUE8?oc=5",
+      "date": "2026-08-11T18:54:10.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "NTPC Koldam"
+    },
     {
       "title": "Funerals near Sutlej trigger safety concerns in Himachals Mandi, Bilaspur districts - The Tribune",
       "source": "The Tribune",
@@ -40,8 +50,8 @@
       "match": "Koldam"
     },
     {
-      "title": "बरमाणा में पानी की किल्लत और बढ़ते नशे के खिलाफ ग्रामीणों की आवाज, मंत्री राजेश धर्माणी को सौंपा ज्ञापन - Zee News",
-      "source": "Zee News",
+      "title": "बरमाणा में पानी की किल्लत और बढ़ते नशे के खिलाफ ग्रामीणों की आवाज, मंत्री राजेश धर्माणी को सौंपा ज्ञापन - zeenews.india.com",
+      "source": "zeenews.india.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXVoOHBjT0VHbG9XbXdOMldnaWpLY3VEVkt6RGxFQW1pRGw1ZWF6ZE0xc3c5ZGtxR0g2T1lyUlFlakJ4amZCRmZaMEFpenFXVnRoMnB1bm5zOFhnLUdjYi0wZDVBOGwyblFHYlBaNnAtTUtQNDR2WXNXNktBQkVBMG0wSHNJVVVVRFM1ZDNwcS1pS0Q0OE5MQWhjUlQ5cWM4c2hyRFJIX2VGUkpiZFdwV2tKcVV1THQ4dG52dDQ2aHo1eEt0ZWNncHNZWdIB0AFBVV95cUxONG0zdXVMdXgxUTlxZ1lVT3BhSlZKb2xwa0ExNW4xaTJKcDZvZU1La2hQaGNJcFhjUzhVXzNRUzNYUFFsTDFqQlNvaGUxWTdZMkE2V21yX3lIbG5wQzNmbnY2NjBDRHlia0ZrMG9haV9XaWFNN2dqOE9yNXA2Z2ZRZjhYXzZjeDJMYnRJRXhFZFFZdmJrUFVfSUtHRl9YZWh2NGV5c1c1N1IwYURGVldkUDc3bjhvdWNLcXh6cVk4N1ZnelVUX21acFZkVXNMT0hn?oc=5",
       "date": "2026-08-07T10:27:51.000Z",
@@ -114,7 +124,7 @@
       "source": "Rediff MoneyWiz",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWVmU0tXY3ZCWV9KYjZSWlRTLTdpMi14d1hNRURFTWU1dFRBM2I3UWFsUzdBbXhnSFdwTHFIODhka2NlcFBhMUVNXzhJVkI2LVBZc3pXMmk3M3lQSTNMT3VMQWVNNUh2bHZoeHZjeXBMY2RZVGpndUdpdHZaZ0w1SU1kTWZRNlhMNkx5dDlzWWswU3pBMmxZTFB6bFlDLXNnQXdVQnl5WEx5d9IBrwFBVV95cUxOR01JOG9qSWQzdE5hcFRZbEg1WXZzTF9jLUZFQ0pxT2FLV19BcmltdktmU1hid0d3c09iaVozSlNacEZpd3pmZDVrdzBvSjM3eG9NN05aX2hFMHdSVzlNblhURTJSQzFWTFlPNjBCMkswSFk5QkFyTGpYNTdMOEdjUGhDUzNfOTVuQmd1VUt0MUVoUUROY3pEY05pLXh5RDRnak5EbzlyV1lBWTk5MXc0?oc=5",
-      "date": "2026-07-28T17:07:59.000Z",
+      "date": "2026-07-28T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Koldam"
@@ -140,16 +150,6 @@
       "match": "NTPC Koldam"
     },
     {
-      "title": "Bilaspur News: लुहणू खेल परिसर में आधुनिक फिटनेस सेंटर खिलाड़ियों को समर्पित - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcWh6MFBmZm5jVFJ1dUlqX2pUUFk0aGE3U2hpTm1LVjk3RWF5NzVfaHhRYXFOT1dEaTlkUWVJQVE5RWRXTmRpQ0JoaHNDakVTcUhzalBMcUZDUXpvQ0ljVlAtZ0VvTGhIN2pZRS1faVBwU2JlZVlBM0RkUWVDeVFkWEhKZmg5WFhJQzk4cTBFcXBUOURKYWZ2MFV6RUZGbTQ1dTlZa2htRDZCMWo0Q2gxUEstZTRjTG93NXRFQjVKazZZZXJPRFR6U3RYMU1wUGdXa1JibTl5aWdFeTYtVmxMTTMwV080d2ZORUNMeGZrNHhMUUxvWEFDcmp3ONIBgAJBVV95cUxQRXo0QUdMSFdFVlpaSEk5dENDMXZnUS05cUM0NXdKWHVOT1hYdjlmWUp6dllGXzRpZFhGOERsRzR5TmtCYzcyRnAwQ0xXZ1AxYWhSaUNaTFl0dFU0YVJ2T3dxdlVDMEJjSGVmc0h5U0JMNHRpbHBLdWd1bG0wV3VrOGJOcGpOVXZxTTQzTWh5Z2QxMEZhS3dRQU5LWFIyU2RJUjAxYUtUakNWVldzMU1RNHpIWjlLdG0yb0dIX0VWNEJrY01rZE1yWS1zTmpiTF9RWWpYS2x5WTZyNVhEczhEV2p6SVdDUW1zUDdrekpsdWN5eEpaNkFQV3B3YWtuN29B?oc=5",
-      "date": "2026-07-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "NTPC Koldam"
-    },
-    {
       "title": "कोलडैम झील में वाटर स्पोर्ट्स और पर्यटन को बढ़ावा दे NTPC: राजेश धर्माणी - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -160,14 +160,24 @@
       "match": "Koldam"
     },
     {
-      "title": "कोलडैम झील को बनाया जाए वाटर स्पोर्ट्स और पर्यटन का बड़ा केंद्र : धर्माणी - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "बिलासपुर में जल गतिविधियों के लिए सख्त सुरक्षा नियम लागू, उल्लंघन पर होगी कड़ी कार्रवाई - zeenews.india.com",
+      "source": "zeenews.india.com",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOemJLbTVScElMZ2w2RWJlb3oxWV9IZml4SHhMU21qdGN3ekY5TzdQNUVQeHpLdDloQ0RCYnYxYTdISnZwUndYU21UX3hYQXpqYUo3UlNYc1Mtb3FlRWxEazNHYTJGYUlrZ1U0bEx2aWQ0TGEzUGtVWFRENVRyWDN3MmZnV3FFSU1SWXJOaWRwcU1SelB1OXFzNkplMUxKdzdhbXd6SmNUakNfakZWWXBuOFAxVHZONUUwalZ1VS1CbEV4YlBvSGNrTTh1QzNiZ19Mc0dKRi1LTGdOSGo4WjE5R0h6QmlHbXBocXpvTHVmbnFvNkRWLTJ0c2xLU2NyQmxBNXBCanhBOGZiajZwQWRyc0NsU0LSAZoCQVVfeXFMTnprbTQtNUpJb2hQTVpnSWxQX0tEaXE4SmtxbE1PRklWWGlOelJsQ0MtTjU2Q0w2dngzY1IxMUtzbXE3U1VpX3hDMUMxT2Npb1A0SnFJeGFiQ1NsMmR5S0E3S19vQVhsZjZZX2thOFY3NDVGNXZRWjNZMlF1cVhITzZ5ZXdVekNoWlBJODFaSmdhZWdjQTBJcno1MnNHMGFhVkRaYTY2ci0xMVcxUm9aWUctajJEYUZvellVUU1tWnF3SHU5aTZaenVMTWpyMjBjQXNEMkx2cFl3TFdZVFVWeF96TEl2SVlBNF9HcERTVU45QU5VcDU3bnpwa0xGUDFDQzdSZUNSSTVZei1LdllMeEtYQXNUUUpldVZn?oc=5",
-      "date": "2026-06-12T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU0ZBcXpXV0g5NUppUHBKLXYweG1sSkl4YWY5SEl3dnNVVE5DRlJvZVJpQjF4cHlUX2ZZNHlRN08xYlNuNVc4aEJXeUQwamlQTDhlV3o5ejNZUUFrWVBXNE9CbGp6MGQ1bWlfU2d0eTY5NmRIeU85QUl3Q0JWNU9LRWJtdmJEMXlQQjZYMVdxNUNBSVlCOWpncFlwTkNFd09QbHlxdHN1NWFCcGpKVzRoa280TWZINnJXZ3kwYm1kSEVyMFJheklFWWtmQ1bSAdIBQVVfeXFMUGZCUzFydXlXSE1ycGNNdnNPQlY0Smx4Ti1Mc2U3RzRGMkVBVklEQ01QUTR4RDRtVTNUSmZ3UUpWZ2dFR1hSR1ctN3FfSjFxenY2LTZsamRqRl9WQmFWcTIwRWhhVEtHVE9NaEw4ZkJhT2ZnRkFfNkk3d2hVVUhmd3pXRnFKQy1oQU50ZVQxdG84Y3FCUWZ5UXNJQWVmVHNhdkRuSE9lM1czdFotZlVoR2xwY0pzZzk3NHFSWGNUQVZnNlVxU1lhWGc2dFpSUkZqMWV3?oc=5",
+      "date": "2026-05-06T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Koldam"
+      "match": "Kol Dam"
+    },
+    {
+      "title": "एमपी क्रूज हादसे के बाद हिमाचल में अलर्ट, जल गतिविधियों के लिए प्रशासन ने जारी किए सख्त निर्देश - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSVBKZEVWWThtdUtMM2JiSVU4OUZOa25GN0xJVW9NX21hYUZlME5pWnlTN2JFN3AxclRGZkZBUkwzOG1kMkM2MGdIQktwdk9LSjRXV0t5QThHZGJINW0tQ1NMQjItLVd5a0d2SzBnWkZyRFJPMFlVZ1E3OTNNUHBuaXItY2hiS0NLWHpJQ24wOXhYMS0yTTJRMFdOR2NfZGFOYnRzOVZvRzVvc0NkTnVTMnlGZF9WU3gxbEtJTEZUc09HZ3FWVlEwSkNBVDVOeFphdHZDWU1pTEdFb1ZyeW8yaWpR0gHnAUFVX3lxTE5zRVRhLXRPSXRKSTJxMlZLSmdxZkFUUkNYTGNDVDM0NFQwanBHcDhlc1k2QXBkSFp5aFVDOFlzX1J6ZzVKd0JMWm9xT3JHSGpBTmNaZXdIZDlyYkpXb000RllrVGFEa0QtZmYyRDZOVGJyOVVOMFZSRUg0blRTb2hsdFhWb2xwVXk5YlR0dXVWd3BLR1Qzc0ZkUkp5RFFqbnRxTVFOQm5kdGI4alZ4d1lQNjFVREhiZUNjclV5ZnktQVVudG9hMXpnVVlrYzZLRlgtUkZfeWhnRk83SHpRc21YNWZ6ZTJsWQ?oc=5",
+      "date": "2026-05-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kol Dam"
     },
     {
       "title": "Undertake CSR activities for Kol Dam-hit families with DC’s knowledge, NTPC told - The Tribune",
@@ -177,16 +187,6 @@
       "date": "2026-03-12T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Kol Dam"
-    },
-    {
-      "title": "हिमाचल: कोलडैम पर उपायुक्त शिमला की रिपोर्ट ने चौंकाया, ...तो डूब सकता है पूरा क्षेत्र; 3 जिलों के DC को कार्रवाई का आदेश - himachal pradesh ntpc kol dam shimla dc report silt issue govt revenue minister action - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMWJOdTFGNV83VENvcFpPdXR6OXBqVHhDRFRUX1dzY1VpZW1Yb2V6dDc2aFBkRTE5Z1E3Nm5xZVFBR2d4TWxnQkNrNFJ0Tjdua1RMblF3Qi1jOVlMS0JNeUtfcmpwMFMzSG9SOFcydUxMUk5UWWlQVzdnMm5RSDcyMWl3TjI2cDMxcndabFV0LVNnUkY3ZXJ2QTRESWhZM3cwbmFCYVRKcmhiTENQZ0F3Q1kxeHRPY0pITzZpMHFxY0p6NjNJbFlyY2ZtUVFOTm9YQ0tRS20wWTlqek5HSDJaM1VITUJKa0k?oc=5",
-      "date": "2025-12-09T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Kol Dam"
     },
     {

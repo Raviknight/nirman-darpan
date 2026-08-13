@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-08-10T19:50:11.354Z",
+  "updated_at": "2026-08-13T19:53:14.820Z",
   "project_id": "NH5-PWN-SHL",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 8,
-    "concern": 4,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.285
+    "positive": 9,
+    "neutral": 9,
+    "concern": 2,
+    "avg_score": 0.11,
+    "avg_magnitude": 0.255
   },
   "youtube": {
-    "n": 2,
+    "n": 3,
     "positive": 2,
-    "neutral": 0,
+    "neutral": 1,
     "concern": 0,
-    "avg_score": 0.25,
-    "avg_magnitude": 0.25
+    "avg_score": 0.167,
+    "avg_magnitude": 0.433
   },
   "overall": {
-    "n": 22,
-    "positive": 10,
-    "neutral": 8,
-    "concern": 4,
-    "avg_score": 0.068,
-    "avg_magnitude": 0.282
+    "n": 23,
+    "positive": 11,
+    "neutral": 10,
+    "concern": 2,
+    "avg_score": 0.117,
+    "avg_magnitude": 0.278
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "पूर्व रेलवे की तरफ से आई बुरी खबर, बिहार जाने वाली कई ट्रेन कैंसिल, महाकुंभ जा रहे यात्री भी होंगे प्रभावित - Jansatta",
+      "title": "पूर्व रेलवे की तरफ से आई बुरी खबर, बिहार जाने वाली कई ट्रेन कैंसिल, महाकुंभ जा रहे यात्री भी होंगे प्रभावित - jansatta.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVU4zel9yOG5Mc1NKcTAxejBiQ3psTTRwTlNVd3g2R0UxTzFRalpocmg4X3lISmQtT0s1Q0lPWUF6RDBjbUJfem5OQ3VlYTkyNVpsblB1eE9ITVZYRWxvdzI5ZmVBN1h1UldkM0ZIa0MxdW5JV1F6ZnpPYUlXMGRFUG5ZYkNic1BBUzZmQWtqMnUtWnZUQlNPTVNJU0dPdGp3eWdNa2c2X05iZzZwVVoxT3paYnhrczIzV0tDZFR3NzBqci1ZWUc0c2NaNFo4aXR2TkdnVXZzbHplakVCdWNVStIB5wFBVV95cUxPcDExbENNc0RHU1VzNEtBM3VybmY4QVF4bHpYQ2Fka0Y4OXN5dEYxRERMdWVHZE1raFBSMjZWbUF1SGdzOV9McnhJOEZPb0JIVl9EQWFCVFM5UzRxREJyV2otZGNkLTFtTzc1NzVUTmFodmdQcnNZRTV2Z1JiYVZPUF9hMmh5WWtvM2Z2Y2c2b0xobHRnUEdKU180RVZMVkYtQmhaUXhvQzYzMnRSMGpzMEwyeVZWYVJYQkQtVmRIQV9ka0xVMjNZSDJCU3FSTmMzYUFZTnZQaFJYeEwtT1p0Y19UN3BxSzA?oc=5",
       "score": 0.4
     },
@@ -48,21 +48,21 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "Shimla landslide: Yet another complaint against NHAI, this time by Himachal forest dept - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVVNwaWJCN0RwcmVLQ0NFaF9hR09XbGNaX2Q1anRXamdFV0VNc2t2WURvWW41TjQyUnJ3TGdoc09tQWc1ZEZ0elZrRTNpYkdwUVMyLU9VdE1yMnpQczVpZzRHbFk3ZzdpTHVvRVMyc2NiNm1EbktydndhdDhJR25tQkQ1dUR2NFNaSGVfNGdHMVFhWm5MQmZMcGJfeG9kNU11TnRqTVYxN0N4X3Y3Q1NLSFROWlNuSUFKaVNHVXR1US14cVlJcndHT21lcWZ1QkJlSVBtQy11X1LSAd8BQVVfeXFMTUtQaU5VTUhycVBfRkN3WXBzQVhyWkhTcjZGM21KZlM4UzhpU0NaN3d3NzRmMVpFODM5N2FBX1EtbEphaDhOa3hzbENHM25SQWZRUE9ZMURHVXJNS080NmRPNFZHWFFCbVYxdzR5UWNfNWNsMVVfa2R2VUxkZEVqU0Z4SVQtRWZ6T0R6clVVNTJraUZaN2hIOXc0UmpoSXhTaXlKcmNvWkxYSFBFY0hsbE96THlCQjhNTGwzR0oySzA1TmVGS2tFV3FJamRSTE82b2hGdERfb25JaDdVQ0Z0TQ?oc=5",
-      "score": -0.5
-    },
-    {
-      "source": "press",
-      "title": "Landslide at Shimla in 2025 an 'act of god', NHAI tells NGT, rejecting compensation claim - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHo2bDBRdUc1MnV6NkNxZ0JnOVBfX2hvYTFOUlVRa1pGVmlfM3NmYUF4UFlsaUIxbmRId3AwcDlqLUtPZWtteWQ4dUcwaG5UdS00TGU4UW1SbXlycEJYbm5DNHdJQjJKb0FiWEpXSWxLdHN2emNzTFp2dXpYaFdFdVJhWWpvcmt6dTZxNXVyd3VKXzNLZ2pGS2JWOUtpM2Q5LU1jeGpkTzktaUh3TTRXUXNWbVVIMU9uaGtQTWNwT3RVbV9IQjFSUXFuQmY0dWFKZGfSAd8BQVVfeXFMTmd2c0NHT2YyRFl0bHFuRUZXeU5rRGtBdzQ2cDBqeGVZWnBLaEF1V0ZhS0hOdFBPaG12NmVJdlJjeDMza20yOEN5dG91QUpBV19jcWxaOFZjTHpJeDR3U2ZhM29IRlpIcHV6SHMtUjc3UVl0LXA4MmgxZXlpcXhxeUZfemhlVHlyYlFyd05IN2ZxbjVVZUpURFNOZ21FSGQxbV9qMkRYM0F5T3lFQXEwcUo4SGxIeXZXRjNiYXE0Mi1KSTlZaTJoSjVmWGZzLTR1NGVZNVEzUG5RYjFRb2FRVQ?oc=5",
-      "score": -0.5
-    },
-    {
-      "source": "press",
       "title": "Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - The Federal",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcW94YnVfR0pHeUVkZUd2WUV3U3VBRUlIc2l2allCMWtRUlNVdnJiLWNJdXVrbVl6UTl2WUllcTd0ZFdheC1ac0RHU2FpV1ZTWlZSNlN5aTRKSE9QSTViZnl0VGJEUVJMN2xpb1hwQnkwWE9Kd3Z5bmg3QktHOXVPZTFzTzZHR3pEOHhZLS1SaHo5ZmJFaVd0c25XMFh1blBSa0xsbFVyc19nWkRCUDMwaTdRdWstUzB3dmJ2UW0xb201cHF5MVJ1T000aEpHYVlmM3pfNzJB?oc=5",
       "score": -0.4
+    },
+    {
+      "source": "press",
+      "title": "Shimla landslide that damaged apple orchards was ‘act of God’, NHAI tells National Green Tribunal - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmZzYS1nZ2FOUmxEVjFRUEYxWUMtYl9zcGtPUHh4eWFJcktLX0V0eEVFMXU0bHRUb3BFUFJpTkpCNklVVzlsMEl1NVNDa0ZQdFM4VGpDV002dzdPQWRHZ3lhdnpoTlhIWGFTdlNXbTUtZUFJcTZFVGludmNDcmFneUNLd3dOOG9hRGQyd1NnTU93V0ZnSUpHbFhKWFpNS05xcnJUetIBqwFBVV95cUxNeFI1aU04V0Z5QU5zZTdEMlpWTm8wd3hLQzlHVjhGcjMwTnV1V2VMenNRelZBY3JrQTBLUjlONWltanE2OXViUzBfWU1JU1pMRFluSU4xUWlGUWFPWklXM0R5d2ptTzFzcnBXSG9YWHF1dWlJVGNMQzIzcy0wZHZsZ1lDVjJseWQ3TjVBanpnM0pYYlBoaWRwaGhSaVZmSk92b1RnZkMyaEUyRUk?oc=5",
+      "score": -0.3
+    },
+    {
+      "source": "press",
+      "title": "Construction of Fourlane National Highway between Kaithlighat-Dhalli Begins After Years of Delay - The News Himachal",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeE45aExMWHJGQVBpY1RVOXlfUWVxTG9WaEgxZGpCdmh4aUxoRnhYSnk3MzBMWVVfV1QxM0RpNlFuWVhCZnIwaHFuX3E2S3E0X2FQUFBIUHNEZkdNN3lZUkxuX2NjUTk5SjdzVUxBellmQ1F2Yl9uNHlBdmdRbF9hYXlCRzUzbWFXeTg4clFDY2RkZEJrVHRhV1VWaWFGbGZIcVhSQThSOV91VTR0Z19MQU5fUTZ3ZC1HX0EySDRuZlhjU3Q0anBrUlU5ZUFoQQ?oc=5",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

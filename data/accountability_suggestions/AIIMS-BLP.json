@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-10T19:49:46.890Z",
+  "updated_at": "2026-08-13T19:52:51.560Z",
   "project_id": "AIIMS-BLP",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-08-13T19:52:51.560Z",
+      "title": "Chief Minister Thakur Sukhvinder Singh Sukhu has assured that the state government will extend full cooperation for the expansion and strengthening of AIIMS Bilaspur and help develop it into a premier",
+      "summary": "Auto-detected from press: \"Chief Minister Thakur Sukhvinder Singh Sukhu has assured that the state government will extend full cooperation for the expansion and strengthening of AIIMS Bil\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVFY1a0p5YWRneUtJWWVjdUpVTXlLRzNRU2E4b2JwN2RCcUR4TmduVUpVbWF5T0E2RWl2X1ZNcUpzaXFJSmg1VThKOTNramJEUEVSMW9yRU1NNWowdFZsUlZUNU5pVFo4RkdpQTRPbDdfek1UYTNoWEZKb19nMXpmRl90N1o3bzV0V3l6bXJJWURzS25IY2dvUlg5cw?oc=5",
+      "source_name": "News Arena India",
+      "lang": "en",
+      "date": "2026-08-12T11:23:15.000Z",
+      "matched_term": "ngt"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-10T19:49:46.883Z",
+  "updated_at": "2026-08-13T19:52:51.553Z",
   "project_id": "LUHRI-1",
   "count": 1,
   "suggestions": [
     {
-      "category": "grievance",
-      "severity": "low",
+      "category": "litigation",
+      "severity": "medium",
       "kind": "issue",
       "duplicate_of": null,
-      "first_seen": "2026-07-16T19:58:20.331Z",
-      "title": "Patel Engineering-HES Infra consortium wins major order for Luhri HEP - T&D India",
-      "summary": "Auto-detected from press: \"Patel Engineering-HES Infra consortium wins major order for Luhri HEP - T&D India\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1lEX0NzS0JvcFdwZGxPRFZUTW1TRDI4RzNHWUdqOU5sVHB4ZUtUbWNtZUZNN3FtSjhxSkI1M2NoMzhLeHBLWFJZeFg0YTFCaFZ4ZGN4a1NXTWRDUEdpQUVudEI4eFRqRkh5a0NBVGhkSHFxeGlwaE9BaU5ScmpKbnV6R0ZHampKMmVZMWRoblV5NWd5Sk9GZEkwSdIBoAFBVV95cUxNNlhWRktqSW9oWVIwU203dUduZlRKSm42QlNBQy1PV19JTXNyU1E5SUx4a01qME9BdU41b3B3N1M4RG5mSGt5SU1scnZoTkxqRVFqdVVSVktnbDh2R1pBakNBSERBcjRobzVVTy1aaFRzR3BCM0ZSYjRWb3ktOUpMTDBINEx4RS1UTE1IeGh1WWZoOEtDcTRKS0l0d21EUldH?oc=5",
-      "source_name": "T&D India",
+      "first_seen": "2026-08-13T19:52:51.553Z",
+      "title": "Chief Minister should appeal to people of Himachal to help flood affected: Shanta Kumar - Cityairnews",
+      "summary": "Auto-detected from press: \"Chief Minister should appeal to people of Himachal to help flood affected: Shanta Kumar - Cityairnews\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk90SkRkb3VjelUwSkpQWXBIY3g2MjNHYzhZMUZHWnYtTk9mWWVIMExOR2JpRF9RSnpkMDNLdHU4XzB4eWpySmU1ZVBTa2pTYVVMRWZrYTNfWmxUTTk3WkRHQllSb2x0QnNlR2hmbDhheEJrS2xYSGNQTXlQRkRkVUJRU1RNdng0cm8yckhFN2xQZWMyZXBmbVJhbkxwSG5zcTNGenEtc3FrRUV3RjBxdXZqUjJ2bjdYN3dDMTZrdw?oc=5",
+      "source_name": "Cityairnews",
       "lang": "en",
-      "date": "2021-08-02T07:00:00.000Z",
-      "matched_term": "rti"
+      "date": "2023-07-14T07:00:00.000Z",
+      "matched_term": "sho"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

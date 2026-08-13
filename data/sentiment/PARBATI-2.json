@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-10T19:50:30.740Z",
+  "updated_at": "2026-08-13T19:53:27.302Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 11,
+    "positive": 12,
+    "neutral": 7,
     "concern": 1,
-    "avg_score": 0.165,
-    "avg_magnitude": 0.26
+    "avg_score": 0.25,
+    "avg_magnitude": 0.37
   },
   "youtube": {
     "n": 8,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 28,
-    "positive": 14,
-    "neutral": 12,
+    "positive": 18,
+    "neutral": 8,
     "concern": 2,
-    "avg_score": 0.236,
-    "avg_magnitude": 0.375
+    "avg_score": 0.296,
+    "avg_magnitude": 0.454
   },
   "top_positive": [
     {

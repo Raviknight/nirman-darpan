@@ -1,19 +1,29 @@
 {
-  "updated_at": "2026-08-10T19:49:21.732Z",
+  "updated_at": "2026-08-13T19:52:27.181Z",
   "project_id": "SMART-DHARAMSHALA",
   "counts": {
-    "press": 66,
+    "press": 70,
     "gov": 0,
-    "en": 40,
-    "hi": 26,
-    "total": 66
+    "en": 43,
+    "hi": 27,
+    "total": 70
   },
   "mentions": [
     {
-      "title": "धर्मशाला के इको पार्क में 542 करोड़ खर्च बर्बाद: उगी पड़ीं बड़ी बड़ी झाडि़यां, जंग खा रहे झूले, मेयर बोले-ब... - Dainik Bhaskar",
+      "title": "DM pulls up Smart City officials over street light failure - Garhwal Post",
+      "source": "Garhwal Post",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzZkRXB5dmhvUDN1b1kwTzVvUHMtcGZjdEotZ2RDdzM3SVJiWnhLX3RNU3p5UDJWTlk1cWNjRG8ydzRscHVGSTNHUDA2bEw1TkFyVWM5STl3NkJOMXFxWFNZSzZadUpSU2pmdWZrRXRoYnk0WTdrbGo0YVVROU1fSlNCUG1sR1lfa1E?oc=5",
+      "date": "2026-08-12T16:14:27.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
+    },
+    {
+      "title": "धर्मशाला के इको पार्क में 542 करोड़ खर्च बर्बाद: उगी पड़ीं बड़ी बड़ी झाडि़यां, जंग खा रहे झूले, मेयर बोले-बजट-स्टाफ की कमी से दिक्कत - Dharamshala News - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSHE4SS0xN2JpVFRBRVAxRlpkTjJCUHZnbmotWGw1eFpUNndnRVcwN0ExcF9yN0dMZmU5bmJXengya0VueFhJaFBTMms2MUEwWkRSMnNqU2taRzBMeEZsS0FMenFvYlEtZElnQ0pjZjNzWGl2MUtVcldlcXN0eGk5bkFwZkxyR0w2QUpRbkt4V2l1cUthck5Jd0ZOVmRaaHlEUFhnV2RuemhrakhMV2xRX3ZCSFhaWWQ5OUVSMXhWRzJpcldwbUhfYUo1bm9LS1HSAdQBQVVfeXFMUGVLR2Q0UElxY0phaUxwSlMtYWZNT0RUSThtN1czYklzcXVFUVVta3kycVc1VVgzWTh0MGV1ZzJXclVsak9rYWRwNWE0WmVMbzJ1NEgwUE9HYkI0d0NoNHhUbFg5cVNtajJDQ0IxQ24zem5UYi1HVndlLXo4alhxTm5zbmh1WUQ4eTNVcjVWQmRSbFRZOWJ1WkRxSTRpU2dHZ3RabTZ0NWtaR1JSVEZGdk1Rc0EtTF9fWXZKa0tEckhkNnE0RHYxUkFNSnVoRzRfaUZDNmQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR09TdGF3T1lMRjJYUGEtb3hCaXdlM2J4ZmlkT1JzYkY5Q1VJNW9ZYkhWeHh1VnJ1TURHUlJKQjZPaGhocGdzUG9ZelEwdUlRUGNjS3pXSGpCRzdnaldXM29YeVJqY1NhUEpYS2tNTTZvdThZenk0NTdDS1hxamNCdTg2WHR4WE52d3pFa0hLanZaUFhTLXZXOUd4cXExSTVVXzZVbXFKcjJvZXlvM0VROXM4aUtqaks1WGYxRTUzUjlGYWJMdEtla2hRX3FIekpBSE55UUh4NHM2Wnc5VG1n?oc=5",
       "date": "2026-08-10T10:42:55.000Z",
       "kind": "press",
       "lang": "hi",
@@ -30,18 +40,8 @@
       "match": "DSCL"
     },
     {
-      "title": "Demanding Lokesh Resignation on Mega DSC, Jagan Loses Plot! - Gulte",
-      "source": "Gulte",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOODQ2N3RrbjlfVXdHVi0xLTM5R2pzb3FpX3lYSUI1RHFPeUVLVzBlSEJwN0FZb25wWTFMdHJGcS03RDFzNFowald3QzNHQ3BsQTA1Tk5vb3hhTlNRMFM5dDgtVXFkNHZjNmhMTENZTGY2ZXZHSEhLSU1acGVYd3lSMXlMOHNKYmQtQ0JTTXpHTG4wb0l5Y0g4WnhIbDUzczFKWmVUetIBqgFBVV95cUxNTUR5SWdRcUN3YnljVkh2dDIyMWQyYlJjcHQzNEdoTUNERDE3TDdmS29qUW44MkVYVGVzSjd3c2RPaVkzV1Z6M3lucjh4RFZXeDMzY0ZzSEZmOFBETXVUbGR3cUpPWlVmZThtVzc5M2Jyd1VsRnVpZGx6SWFwRm50Q1VTUHZ0ZEZHeFhSY2pJVFpWVFZVZXVQSU9HMmZIUUFMTy1NZnVsd1MyQQ?oc=5",
-      "date": "2026-07-28T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
-    },
-    {
-      "title": "Himachal CM inaugurates redeveloped Fountain Chowk, E-bus charging depot in Dharamshala - ET Infra",
-      "source": "ET Infra",
+      "title": "Himachal CM inaugurates redeveloped Fountain Chowk, E-bus charging depot in Dharamshala - infra.economictimes.indiatimes.com",
+      "source": "infra.economictimes.indiatimes.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ25GUm9vRmpfYjZGNnhXR290TWl1MEtSSXVZV3BMajItb21YZGJiZF93ODRJWXNrUkQwQ1hBdVN0bFZvU2tPSTNsTUY2RmFUbFh1d2loYndIazZKdVZCZEJUQlNZVFJENnQydmh2RDEyQXpQWkd6M0lkUXlORFlwV3JqTTM5Z1NReFJMeVMzVTQyY2ZrMjByY25hUVlGSTNRYUUwU1pFOEVId2Mtc3Jya3ZLY3hHR3hkZ0RQSUtMcW1zZmp5Y0U4ZzRJVFdmcmNNaE1CYWFNV3ZxU0Z1NVNXMVN4STA4Qm4yUlJPUUhKbk1tNzY4M0hrNtIB_gFBVV95cUxPY2FGbkRxU05KTVNmRTFaMWdERldhcm5tUkNhTlg4d1JVeDItMk5jWHNvVllRdmd6am44cUsxTWVncTZfamZwUU90MGRzNHJkZk1vd2UyYmJoMDJ3Um9Zb2tuNWJTUGtYeXJINE1pSHp3ZWRoNFBPbGpsQkc3OUUyZ29iR3NEUnhzb09OdEVrUVkyOWx4NGZJYnp5d2hrbWFVRUliU1ZtSzRHOTJLN2x3cVNrNFhlV2pDTEtZb3JmeXlxaGdCcTh3UHZjamw5cHNocU1sOU1CMUt3OHFtbFo2OGhVLW00OVNGb2dMeGJ6NV9GVUNCYm9hYkh3X0FLZw?oc=5",
       "date": "2026-06-18T07:00:00.000Z",
@@ -120,8 +120,8 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "Dripping Springs library celebrates four decades of community - Community Impact",
-      "source": "Community Impact",
+      "title": "Dripping Springs library celebrates four decades of community - communityimpact.com",
+      "source": "communityimpact.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclpKclpQWmdQRm1ObTB1ZXdRR3FOenZSTVVrelpaZEVSUlEyX1FHUmxKVlNVdVVFTDkzb0wycWJoMUF1VEdzUmtzeGJubFlqMVl4QU41a2kxX2N4M2RVenppdFFGV2RjbTJ1ZEpzTlBoWWk4cDhERzI1TzQxbEhVdmtMVWxVQUlJbmgtM0pFR25zTWtGblU1OTdESng4WlMxSlRfaF9qSHk2RExrby14QUVrUFo5ajRqcUdjRm1JVEN4MGFIZ1djLTl1MHNHQQ?oc=5",
       "date": "2026-05-20T07:00:00.000Z",
@@ -130,21 +130,11 @@
       "match": "DSCL"
     },
     {
-      "title": "Dripping Springs Community Library hits the road - Community Impact",
-      "source": "Community Impact",
+      "title": "Dripping Springs Community Library hits the road - communityimpact.com",
+      "source": "communityimpact.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BxMVFOMlJQRzlYOGJ0dk5CaDk5NGEzQ3pSQ3V6enpmdnJ2eGJrdXBwNG9sV3VhdFA4WVFsQW9KbkdORUowcU1oaDZqcmZhT3VUZ1pNX0V4dW0yN1dXeENtTDFGZjg3QnVSQ05MSmFaS1I2Zlp5clBhREhrbTdpSzIyNGhYMXU0SzE3SWtxREkweUNNVjNVbEhRb3F4MXFQcGFTYjg1MFV4SlNMa05OUTNuMC04T2VHYkdSVDNB?oc=5",
       "date": "2026-04-24T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
-    },
-    {
-      "title": "CAG plugs irregularities worth Rs 60 crore in Dehradun Smart City Project - The Statesman",
-      "source": "The Statesman",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1JzNXVSMGVJX3VIQlVvTzJzTjZGYWd5d2pOVnBodno5dlZEWllJamxOanZyS25mdFRkak9QYjNzUmd0TkpuT08wZ2NZWHVaYmZ3eElmQnZTWUNKbHNGcFk2bHJzbzBoQ2RKdmc4UElJTFU2aGVPQ00wMllEaGU5YzM4VUZUUzRYWnduTkpFeUxwRkR4OTFYakRJaDcwWHgzYmlLMWVMOUJtUEViUnlOdXJNcjlaWjhiUmFHeWFMWkt3UdIBxwFBVV95cUxNcHhWcmJ0MWgxMXVRVDNZVFdza3Z5NWFLck9JdE5CdTdPcFg2d2lKb0JxUThEOElJc0pWQ3RuWWtoLUw3bkwyR0IwTnh1TWQ1TTVNU3diREN1WWNkbG5QdXBld2ZvOTZhTWxicU1hRGw3N1ZuMVU0MUEyZURTRzhwTGlQdFVwUzhLQjVyRHdwUEJWRWNXMFA1ZVBhQ3dzdFNEeWlUcTFxMFhqVExCUW9aQUlCeTNUTkJXOGRBNXJEUXU3OWJDRGFR?oc=5",
-      "date": "2026-03-11T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "DSCL"
@@ -190,8 +180,8 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "Dripping Springs Community Library raises funds for new mobile library - Community Impact",
-      "source": "Community Impact",
+      "title": "Dripping Springs Community Library raises funds for new mobile library - communityimpact.com",
+      "source": "communityimpact.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUGN5U0YyaXJ4QW4wMUFJWTA0Ylg3T3hfWUM1Qlk4T0tyZTdKbWdhSlhRWDhiOVhncmNGbDliLXAyUVpwUVV2dXNyZXRVNjRwak44OHBTeHdWelZ6X0FxNXV0M2FzeGFNajh5c0pfUVpWXzV3R19KSm9zYVZBM0xrelF1d0tpNlZsMWk4ZVJEMEpGWWhlTmp2dURHX3VSVEx4SjNMdU1iN0pMclJUNWlOUUROUXhFWjdhcEpFWG9VaVBJWElRZ3dveWZmT3diNkplUm5OdnlObXlMR1B4MVE?oc=5",
       "date": "2025-11-25T08:00:00.000Z",
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala Smart City"
+    },
+    {
+      "title": "Ethanol boost: Davangere Sugar charts ambitious expansion amid India’s biofuel push - ChiniMandi",
+      "source": "ChiniMandi",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdkxHS0hNMS1wZVJva2VLUHhKVDh6VXpyU1NvbUx3cl9HTmxaX3NvZE9Eb0xtWTRVc2xfRlZzT3Q0NnJ6SlBoT3BydVpySnJaZ2tXRUwxWmtib0ZxcGVaSXBuMG1BamVWNWc1NENkX3BINDlmQzgxMmdSQXB4eGlzZGFMSlRGcUppelhCdk9uUURyd3pzZDdTa1VYSjJRclgxNzh4VmdUdjV4ZVJfc2c?oc=5",
+      "date": "2025-09-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

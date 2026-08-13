@@ -1,54 +1,54 @@
 {
-  "updated_at": "2026-08-10T19:50:35.321Z",
+  "updated_at": "2026-08-13T19:53:27.729Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 20,
     "positive": 4,
-    "neutral": 9,
-    "concern": 7,
-    "avg_score": -0.07,
-    "avg_magnitude": 0.22
+    "neutral": 8,
+    "concern": 8,
+    "avg_score": -0.09,
+    "avg_magnitude": 0.23
   },
   "youtube": {
-    "n": 0,
+    "n": 2,
     "positive": 0,
-    "neutral": 0,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": -0.05,
+    "avg_magnitude": 0.55
   },
   "overall": {
-    "n": 20,
+    "n": 22,
     "positive": 4,
-    "neutral": 9,
-    "concern": 7,
-    "avg_score": -0.07,
-    "avg_magnitude": 0.22
+    "neutral": 10,
+    "concern": 8,
+    "avg_score": -0.086,
+    "avg_magnitude": 0.259
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "पिंजौर-बद्दी फोरलेन को 378.48 करोड़, एनएचएआई ने जारी किया लैटर ऑफ एक्सेप्टेंस - Divya Himachal",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFU3NW13OGhTczNoR2ZPc3p6dktETnlWM1lTdE04ZnhiT2hCNnZRblBnTkN0aXdWbkU2cy1NYVhGdTZROHFyZl9RWDVsdzBYS1g2cUNwWTdsd3Z5OGlUaE84cFhJckFYMHk5WG1yVjFCdU0xWHJxSDJfT3Q5M2dxT2Y3TEN3aGQ0RFdPN2JZRFZlRnh5MWktNVFSM21vY3pYZTUzbXdHZkxBbk5TWUE2Vko5THRXQjI1NUdUVG15SnBab3BGbzh3RtIBzgFBVV95cUxPUEF1ajZnTGxLT01FbVMxcWpvYXJRTGlubGlfbEkwcU50OGhoMmFDd3V4eXJkUzZXUEE2bEplb0lJR0lQUTA1MEdXZjZOYXFxWTdjZExNYlVrcWJMUjNBZG9oYkh0aFFpVVB0aTNxbUJFeF8tRE51Z0hFSUozOGRGVW5LUFZVcmE1RWZXWjZGZW9Ob0ZoVC1ZYXN6QXlhSkEwTHhCUGdlYkI0WGRWTU9lTnA2RWVjM0NlbmIxdW0zX1VDbTRwNmhrX24tU1k1QQ?oc=5",
-      "score": 0.5
+      "title": "17वीं बार स्थगित पिंजौर–नालागढ़ फोरलेन टेंडर अब 24 अप्रैल को खुलेगा - Dainik Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVNlVDJXQnB3RE5vT0F4TlVxVmdNZzNZbF9LQ3V3RFY5ZXdHM2xfeDN1bnRtRDNRbC1TWXVFY0l2YzllT1NHQ2MzZmFTNlFmN0pSZXVqa0pnVU1jS0JtLXQ4bFVUUnAtZmxiLW9ibXlzbC1HYkFtX2tvYldFRElXa3hTNGhyVGZUZllCN2JfTEVmYzRtd1ZpTkFEeFJDWF9LcXhlekJqUUtnYW82a2FjcmhhYVR1YjlKMjhFNDVLT3QtU3NUNlduWlZJY09PVk1DNi1ZUdIB2AFBVV95cUxPY2ctUzlOT1ZoaXgxQm1jOWJJV3R4REVEc0hMVlh1Q2g3cTh4UlNqSjI3eU5lYzB6UkdSN3hWdFhqOTd1Rmc0dVJYbGFidTZOcjFHZzdiajNneUJldHA3U0ljWEs3cmhNY25uTEJ3Ukk4UlhVRkNkU2FRT19vQ1lJWXZmOVFIbHBaZUYxc2FsbW9IMzE3ZUhWanlKaUJZT0pfRjc1b0xIaXN1TWowN1hKWFEyZEZsZy1jeGV6WEJvQVVxSVRrNUhfNlFGeUpLd0RxVUJTNGhDcjc?oc=5",
+      "score": 0.4
     },
     {
       "source": "press",
-      "title": "पिंजौर-बद्दी फोरलेन को बड़ी सौगात, 378.48 करोड़ से सुहाना होगा सफर - Khabargaon",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSW53MDRLeUk4NjFZQlBUNmpwZ0NhZjBpdFRHZFFObm1jcHNKZ2dwT1BJdGEyMkVkNEJOTHc0ZVBWR21FYTBDWkxtUEZfdXlvZEZkVUlQZ00tR3VtemVGRXl5V0luVDhpNzY1ZzhvVWVUazljRTFxdl9NQmd3anBUV1RlZXhhV3VoWjFWR2ZjdDBSMnU3LUxDZHZqVC1jRlM3aFFHcnNMRUhkN2VpcENV0gG7AUFVX3lxTE1aVmVBV2ZJcTVCLW5rU3ZwS09YSURFMmx5Zm1RV1pfeDZFWUphOW5pMEdYc0t6WVFidFNDLTZLRmt6WlNJMkQybzdUTXdiU3V3emhaSU9YY1FFQXA4OWZwNTVXeU9WYjFqVmJqek5VTUhNWldOTTNrdGlzbEo3SDVNdjM4YVRIYkpYRFU4bUc1clBMUllwWVBiclpBV05STXc3Rk5EVWpYY0hKT19YdlVYbE0tUjQxTTJBZHM?oc=5",
-      "score": 0.3
+      "title": "पिंजौर-नालागढ़ हाईवे के फाटक पर तीन दिन तक सुबह 10 से लेकर शाम 6 बजे तक बंद रहेगा ट्रैफिक - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZ0pyTVFCSEdUdHlrZ2V5TGlac1A4TUxnemszcWZnd1dsZFFUelFNeEtIZS1EUElSR2ExOFp2NGxaN083R01fM21NMjVzZ3MyMW9OUjVNbTBad2pDd252Z09jVmtYR0NUYkxMckdOR2k3QWJtX25HdnNpTkk0OGlGUDI5YWtxdWZOYUdsU0IzbUtXNFdpUmdhZzhIamNEamNJeXNwN0VOdTJOZFFCcXl1X1NmMGx0TXgxcjhpdGNFLWstUlZFQ3JfNlUwMnZHbTNlZVR2X0trQ3g0eXNXV0pyQy1ldGNWV01XRmNxM1pjSWdBQnFMY2lyR2liVURUTTdMSjBzeERGMNIBjAJBVV95cUxNQ1FPMU9XTk9nR0s1SlJWQnZTUmR5Y0pWZjJRRjJWdlp3MlNtblZXUUw5UGRWdGNDbDkwbXpneDFRUzlLWGtWZUVlQ0hoODRPWHI5TFNrWlh5dThBWUJidmthbWdCbjFMY29keER1OXFuazJqS3duVHdOUUowNG5sNHZGSlBzcER2S09OeUtSVGw2MlM4bXg0NWNhQ2FMWXpNd0VjNzNQc1NFRzJaN3duaWtPQVI4RU1wTF9LV0VWZUgwQmhrWTVGLU5xeW1GeUo4UWFJMWdkd3h4QlhQS055dzNwRHhSX1BDSU9QcEpqRGhFUkxrYlJHN2dpcll4MXpmemxJNXUtdldPZGxa?oc=5",
+      "score": 0.4
     },
     {
       "source": "press",
-      "title": "पिंजौर-बद्दी फोरलेन परियोजना को मिली बड़ी गति, ₹378.48 करोड़ की लागत से बैलेंस कार्य का अवार्ड जारी : हर्ष महाजन - dainiksaveratimes.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2txU29KbkZpVVBYOG1ueURTckpERnpUMzZYd0c4a1dmelpYQlcwUVZqbGw1dHNjRWltZDZaSmhFZGxiTnJIdXppOENXYmtFOHQ0NGpEeWRLeXhGd1UtQVhjT1NWaWVkU3hMNlY4MHF1ZUJ1Wk53aC1jaGVLR3FaaGhNR3N4RVZGNE5oNG9sb2NmWEZnYXFWd3ZqVjhaY1NrSE13QnQwMGJJcnktUWRwdFVpNmfSAbwBQVVfeXFMTWZaS3dYR3dsZWlxS1J6WXppa3c4TzBmcUlWc0VOT3hhRjhCeDhpbGJLaFpTemJRMTN1R1ZjOWJsM2J6UzVJTUlYQXBmeFpJbkl6WUxmWUxSVThOSXpmcTRZcm1yWWtIdTlDRDlXVFlfX2Z0NldGQ2ZVT2hZaV8yWVBvSmVQWk41Wld4NWExOG53Vks2M0ZEV3BkYXZqLW9lMXpYelI3blpCcEhlS0M2RzQ5aHVzcVZxaVBEMW8?oc=5",
+      "title": "Pinjore Nalagarh fourlane Project: आठ साल से अधर में पिंजौर-नालागढ़ फोरलेन, 17 बार टल चुकी है टेंडर प्रक्रिया - Dainik Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPX0dvSll0X29fV2pkaHhhTldaQXE3YlFEYzRwSHNURkRDTlpadlZld0VTbTJMblhMSXBpYWtlVFNSankxTklmcEhGZE5fOVk4WWY3dHgxaWFtVW9qaDlaYkJCc0hIWnRiWHZQQjYyTTRfa0FmQVp4cUhidzhiWVNkV05FZEV6R0lwcF8tY24ybmM3bkZ4RnlYSTZMcW9mR1FDSlZEZl82Y2p3M0lCYTVCUEJVUzVFNUFLT0NsR3otT1lSZjNRaURHaV9UZk4yWUF0VkN4MWZPNEpSdTN0MkR4eFlpRFlJd2ZsX2U5cmpscmwyamhVUUh3R2VNdmJ3ZjlwREZnbWtkLU1SWk15NzJvSDl4Q21PUTJra1ZoQkd2djhRVUxtTlA0Q2h30gGuAkFVX3lxTE56SEphSW9FelMxNUt6Nm5pWjNqNm5RaERkYk9nelFuR3RDQ1BnMDdFTV83U1NYb0hiYkdtWjBfd3BRY2lvQlhLc0xhRUdDanhIdk5QOXRwSEl0di1FRGtua1VxN1d2Y2QyWng0ZmdfWGN3clpkV0hEMENTVThQOE5hM2VFeWF0ZEtWN1c0c1kzLWtlY29fWGdTb3dvUktVSEdFM1hERFNQbURKNXVPVkJscTA2Q29ra2FDVnJ1RjdrTHdHTVpKYmtJVUNJUl9HOUFJWm1HSjl1aTNzbjg0azFaY0doZ0F6d2lzRlRaTm90c1pjQmhsZ3FVSHpXbWo0SGtqSUhHME1lUy1wVzVkOVhqdTRRc0xFMHN1YUwtM0syclRYUllsdHFEeUZheGZB?oc=5",
       "score": 0.2
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - ET Infra",
+      "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - infra.economictimes.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWmd2LXRfOWgyYlZUUW43aUdJT21XcklWaEg5a0h2S2hpNmJYazN5QjZZekdrRFlZdGZVMXRUZzZzWlpfaUl4cjAxdjZjZUx4RzNyR3lDR3BMeUdTZ2dwbG95MmF1aXJLQTVOTVI3eE9scFpuOXA3dEJpalF6RGZ3cjBHT2c5MkR3MVRvTWFoekN4LXd6Z0VPeXM0TmNGTjN3U2g3Q3pwQXNIeVdmcU4zdDhBTU1hTXBLWlZiM05KeXdoX1dncEFmZ0Nob2tMZFhROVlFRl9IOWt3TWpGeWgwWHJveU1FdDBHRWZNcQ?oc=5",
       "score": -0.7
     },

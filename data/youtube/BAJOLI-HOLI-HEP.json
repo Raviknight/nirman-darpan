@@ -1,38 +1,12 @@
 {
-  "updated_at": "2026-08-10T19:50:05.739Z",
+  "updated_at": "2026-08-13T19:53:10.238Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "query": "\"Bajoli Holi Hydroelectric Project\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 4
+    "comments": 7
   },
   "videos": [
-    {
-      "videoId": "dWOW4Ox5iDI",
-      "title": "Bajoli Holi Dam under construction",
-      "channel": "Sunil Tolta",
-      "published_at": "2022-02-08T17:57:34Z",
-      "description": "",
-      "comment_count": 0,
-      "comments": []
-    },
-    {
-      "videoId": "tYgSw-0jjmQ",
-      "title": "Bajoli Holi Hydro Power Project",
-      "channel": "Dr. Ritesh Mahajan",
-      "published_at": "2025-01-06T02:43:30Z",
-      "description": "",
-      "comment_count": 1,
-      "comments": [
-        {
-          "comment_id": "UgzMBFAm7398Zdj6bch4AaABAg",
-          "author": "@kapoor1996",
-          "text": "Biggest blunder of Hydro Industry ever",
-          "like_count": 0,
-          "published_at": "2025-06-07T09:42:59Z"
-        }
-      ]
-    },
     {
       "videoId": "_5vjQqiDu6s",
       "title": "Bajoli Holi Power Project by GMR India",
@@ -61,6 +35,53 @@
           "text": "Chor company hai .. GMR tabhi toh loss mein chali hai..gareebo ka haq maara hai ..tabhi bik rhi hai.. ek din pura group bik jaega",
           "like_count": 0,
           "published_at": "2025-06-02T13:36:31Z"
+        }
+      ]
+    },
+    {
+      "videoId": "dWOW4Ox5iDI",
+      "title": "Bajoli Holi Dam under construction",
+      "channel": "Sunil Tolta",
+      "published_at": "2022-02-08T17:57:34Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "pbjeD2dG2NU",
+      "title": "GMR Bajoli Holi Hydro Power | 180 MW Run-of-The-River Hydroelectric Project at River Ravi, Chamba",
+      "channel": "GMR Group",
+      "published_at": "2024-01-29T04:30:13Z",
+      "description": "Hydroelectric power generation stands as a pivotal focus within GMR's sustainable energy endeavours. Nestled in the scenic ...",
+      "comment_count": 4,
+      "comments": [
+        {
+          "comment_id": "UgydJfYBGyh2fTBCQAZ4AaABAg",
+          "author": "@atulthakur7581",
+          "text": "Security raxa hai isme",
+          "like_count": 0,
+          "published_at": "2025-12-22T18:09:17Z"
+        },
+        {
+          "comment_id": "Ugz8C_ruggmosseLYF14AaABAg",
+          "author": "@atulthakur7581",
+          "text": "Hai vacancy",
+          "like_count": 0,
+          "published_at": "2025-12-22T18:09:28Z"
+        },
+        {
+          "comment_id": "UgyBSZ9XxYbLaV8CoQB4AaABAg",
+          "author": "@Xrpjjj",
+          "text": "Basa kuch Karo aur stock ko 1000-2000 rupees tak le jao",
+          "like_count": 0,
+          "published_at": "2024-02-07T18:55:39Z"
+        },
+        {
+          "comment_id": "UgzC2WDIHO7E-2bnQwh4AaABAg",
+          "author": "@kapoor1996",
+          "text": "Poor management",
+          "like_count": 0,
+          "published_at": "2026-03-22T13:23:47Z"
         }
       ]
     }

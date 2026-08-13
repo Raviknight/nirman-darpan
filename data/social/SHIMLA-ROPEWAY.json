@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-08-10T19:49:42.125Z",
+  "updated_at": "2026-08-13T19:52:46.670Z",
   "project_id": "SHIMLA-ROPEWAY",
   "counts": {
-    "press": 112,
+    "press": 111,
     "gov": 0,
-    "en": 63,
-    "hi": 49,
-    "total": 112
+    "en": 60,
+    "hi": 51,
+    "total": 111
   },
   "mentions": [
-    {
-      "title": "Under Shimla Rope way project parking would fall far-short of capacity, HC seeks reply - - Himachal Scape",
-      "source": "Himachal Scape",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFJyN09CUThsMW9IMVZNSzd1OXU4Q3JRaURYeDRyZU5YRjNlWHhST2N0U05JRjJzSGVOTVhEczQyU2M0bFlkVmVEbDVfa1MyY2FzSTJNeEh6anpLcXNDQUt2S0VEOExZbjQxbkc2d2lyeVM3WjdGa1BOcWNJZmhjcjJhZ2g5cnBGMzUtS0lpSVNSaXB5MUdQTXVPZ0EtempKMkEzNko2dm9mT0sxNEg5MXl30gG6AUFVX3lxTFByUUpyWDZyR2l3a1Z5VGdOQzlTRTBFckFZUWlycVpVbmc5UUM2Qk41RDZWOEkxQWxBRVQ3b3hHR0NGYVBXUGVSWk1zSWFHd3lac0lzYTVQZXdEbzQ2Vkc1TVhDR3dtSmlYeVl0TUV5aS1Ed3hyRVFKWUF0bnhwOEN0VEZ5NXcxenBJODUxLW1yLUE2eEpZdERIOTYxb0tJbHVfRlY2cHJ2NGxyMnRIUW5rVjhsLXRhbG8tUQ?oc=5",
-      "date": "2026-07-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla ropeway"
-    },
     {
       "title": "HC seeks comprehensive parking plan for Shimla ropeway project - The Times of India",
       "source": "The Times of India",
@@ -60,16 +50,6 @@
       "match": "Shimla ropeway"
     },
     {
-      "title": "Himachal: हिंदुस्तान-तिब्बत बॉर्डर मार्ग की दुर्दशा पर पीडब्ल्यूडी को फटकार, अधिकारी तलब - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdUVYbEpoZ3JORkI1Tm93Mlg2X0hxT3NtTGdQSGZIeC1jZWtrNFNkSmM3a01Qa2toMlRkQXNKVFNIeTl4RnFwRV9ZNzJDQ205WlI3ejg5RFVZQi1XMUN2NWx3aVR5OWs2M3prYThCTjBGcm5HeGpvUGloOWlLTkxFdTZBcXo0TWF3VDNWRUlRejdMTzlIbVJSSGVRaVNQbWE4dklMMUd2Y2ZXcm9XUU43ZHNyZ1hoeW1QcFJnVmxZa3VJcUpMalFvdDM5M0otVHEwandtbEV3aXTSAd4BQVVfeXFMUGd6TWE1V2hMaTVKbUxtS0xJbTNCay1PdW1WZi1VSmtKQjJTYjd3NzlNVEhYQUJXVE9MN0xWOTV5OHhNcWliQnE1RnJKLTFhbkJ3M2puTk5QVVRNdGkzcmtNc0c1OUV4dWpKOUtSS25mQTNHWUpXTW9ob0ZoTWIwLUtZdlhrOGN2VlJKOS1jX280UGJBYlFOVmlMNFFDN0tWQWx1ODVxNHZJUjNfd3N1dVd3VHcyYUEyVGt2SWlPV0ktXzlKZHlVWWFsejBGTDd4TXl1YVFWSVFmTkE3OGdn?oc=5",
-      "date": "2026-05-23T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "RTDC Shimla"
-    },
-    {
       "title": "Cabinet meeting starts in Himachal Secretariat: Proposal to raise vehicle registration fee likely; talks on... - Bhaskar English",
       "source": "Bhaskar English",
       "source_id": "google-news-en",
@@ -107,6 +87,16 @@
       "date": "2026-04-20T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Shimla ropeway"
+    },
+    {
+      "title": "तारादेवी से शिमला के बीच बनेगा रोपवे, 14 KM होगी लंबाई; केंद्र ने प्रोजेक्ट को दी मंजूरी - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUURXd1B3a2hhUG9BV3V6QmcwTGJVWFJna1NCcW1vcFRLY092ZklkYVNuMWd0Xy1RQzNTdEJ2d0JIRG01UUVpaUZHbE5OclFVdHlCd2szV2hxa1BIMnVjejQzbkhKbGczRHRzMDh1MlVLUzFBWW42ZlNrOTVxb2Y5MW1lX2JkcVYtRVQxQ1FwcklaejRPNFVwNTRaOHg5RnBaZFVtR2VZTnFpQzNWdzFIaDQ0SVRSUQ?oc=5",
+      "date": "2026-04-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Shimla ropeway"
     },
     {
@@ -205,6 +195,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVW0zU1dyUVlyUTY0amJRb0pCbVM2dU1aaHJsWXFyUmQtUHNlSkQxdkZPdHpycU1SeU9FUjEyVVBZVE4yb1luSFZwMldFUnp2TFpJVm1CUm9kc1R5TTBKOC01X2ZZSjNaWlViSkFhOFNEVklIOXVMd2N3bEpZUzFyU0Zvdjg3TlpNcWsxeUtQQmxwZVUyMEVSdnZESzlWZWZ1TTJXZDJEYnhiMHBKTnR0MU1MekhiaUZEenBWTFNhbENPdzFINnlwaDFqSjQ3WVdQLVlPaTltRE1xVWs?oc=5",
       "date": "2026-01-18T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla ropeway"
+    },
+    {
+      "title": "Shimla Ropeway: शिमला रोपवे में 6.109 हेक्टेयर वन भूमि होगी इस्तेमाल, 13.79 KM होगी लंबाई - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcVp1c3JWTWNqclBMSzdIdmF6aVJYTEgtWEo1SllwRzVVQWtZQzNtbDA2amgyY2VuV3RNQzUzbUpURDlLcHJ2XzNxbFI0WHRwVDJuem0zX2FHSm1HbEttTTdHRGJnQ1VqSV9iTEljOW5YendVMER5aHo1anhTSE81MWdkVTF5R3lTRmF4ZmIwd2VaZDE4a1NMYy11R2lJQXRQdl82TmFkNURvNzduWHJLN1E0Tklvd1hnRW1FYjNrNE1QTDMtRTJzS1ZUNFp1Z9IB0wFBVV95cUxPTkE3R3VxU2liczhydHZtdWFpNGxhMWlSZTgyLXE1LV84dWQtbUhBQTVzdEttYTFFZzc4WlFOb1dIazVEbkxUREJacG1yVmpPdTJsMWxQLWlMZFYtdGgzTXppVlk0MUk0SUdCWnZIUzN1azVTbHFBa0MzRXRraTRzcVFyOV9nRXYtSGNvZ2pFa2pCVGk3UEpRYWZHWHpPS2w4eEdBcVVucEdSdWhqRGpoNVdLOXJRbTBFMVdIUnFmMFhqdm93SWZBaDBoN3NXVXUxWFpF?oc=5",
+      "date": "2025-12-19T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla ropeway"

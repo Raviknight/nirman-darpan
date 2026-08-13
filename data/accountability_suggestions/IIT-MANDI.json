@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-10T19:49:46.891Z",
+  "updated_at": "2026-08-13T19:52:51.561Z",
   "project_id": "IIT-MANDI",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "grievance",
+      "severity": "low",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-08-13T19:52:51.561Z",
+      "title": "SKUAST-K flags off first batch of BTech Artificial Intelligence students to IIT Mandi - Kashmir Convener",
+      "summary": "Auto-detected from press: \"SKUAST-K flags off first batch of BTech Artificial Intelligence students to IIT Mandi - Kashmir Convener\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUy1aWGZVaEdvTlh4M1FnZVpza01EU1h2X0dYYWpMcXg3MUZYZ1dJZVhvVjBMU25DbmVVQUYzR0gwS1JyaUs4YUJJZGMzV3REX1REVThXa2tGODc1Wm5yWDFXcVFXVnhaRzVzRGcybnE0YldjeTZ5Q2xTS2NtYm9fNE1TbUNBeG1nNXVxRllac05rR1g2b20tNnR5VUEyaEgzNTQzZ1poVkN0WW5WclJ6U1dPUVg?oc=5",
+      "source_name": "Kashmir Convener",
+      "lang": "en",
+      "date": "2026-07-30T14:15:07.000Z",
+      "matched_term": "rti"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }
