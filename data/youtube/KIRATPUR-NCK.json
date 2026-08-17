@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T19:52:53.341Z",
+  "updated_at": "2026-08-17T19:22:04.579Z",
   "project_id": "KIRATPUR-NCK",
   "query": "\"Kiratpur–Nerchowk 4-Lane\" Himachal",
   "counts": {
@@ -8,13 +8,21 @@
   },
   "videos": [
     {
-      "videoId": "qmtaiei7j28",
-      "title": "💥Kiratpur-Nerchowk 4-lane🛣️now directly connected to old Chandigarh-Manali NHRailway🛤️flyover💥",
-      "channel": "THE NEWZ RADAR",
-      "published_at": "2023-06-07T14:04:01Z",
+      "videoId": "RJZgVLGFF-Y",
+      "title": "Kiratpur NerChowk 4 Lane      #roadtripvibes",
+      "channel": "Vanshika and Divisha",
+      "published_at": "2023-08-02T13:28:10Z",
       "description": "",
-      "comment_count": 0,
-      "comments": []
+      "comment_count": 1,
+      "comments": [
+        {
+          "comment_id": "Ugww3P5YxHI_m6xXvvx4AaABAg",
+          "author": "@anshikasood6045",
+          "text": "Beautiful ❤❤❤❤❤",
+          "like_count": 0,
+          "published_at": "2026-03-08T08:13:17Z"
+        }
+      ]
     },
     {
       "videoId": "CnNdAYHjWxw",
@@ -53,25 +61,11 @@
           "published_at": "2023-05-13T13:59:41Z"
         },
         {
-          "comment_id": "Ugz3vOD8Mk-iyoj3YHt4AaABAg",
-          "author": "@virenderkumarbhardwaj819",
-          "text": "Today i come from ghumarwin to kenchi mor via tunnel. It take 1 hours to kenchi mor from Ghumarwin but lot of work pending from Zakatkhana to Kenchi mor. May be one more month take to complete for car able road.",
-          "like_count": 1,
-          "published_at": "2023-05-07T11:44:34Z"
-        },
-        {
           "comment_id": "Ugw1cdLxkZhvocvx8aJ4AaABAg",
           "author": "@AnkushSharma-wq5fe",
           "text": "SUnderNagar Mandi tab bnana bhai kabhi same style mein :-) appriciate your work.",
           "like_count": 1,
           "published_at": "2023-05-06T11:02:32Z"
-        },
-        {
-          "comment_id": "UgxtS38AO0TZO6GA27t4AaABAg",
-          "author": "@anshulverma8632",
-          "text": "Sir, your remix Bollywood tracks are great , from which app do you stream them and what do you search to stream them",
-          "like_count": 1,
-          "published_at": "2023-05-06T05:52:17Z"
         },
         {
           "comment_id": "UgwSmDqtb2M6zheJ31N4AaABAg",
@@ -86,6 +80,20 @@
           "text": "Brother jagathana or mehla village wali side ki video",
           "like_count": 1,
           "published_at": "2023-05-06T07:48:20Z"
+        },
+        {
+          "comment_id": "Ugz3vOD8Mk-iyoj3YHt4AaABAg",
+          "author": "@virenderkumarbhardwaj819",
+          "text": "Today i come from ghumarwin to kenchi mor via tunnel. It take 1 hours to kenchi mor from Ghumarwin but lot of work pending from Zakatkhana to Kenchi mor. May be one more month take to complete for car able road.",
+          "like_count": 1,
+          "published_at": "2023-05-07T11:44:34Z"
+        },
+        {
+          "comment_id": "UgxtS38AO0TZO6GA27t4AaABAg",
+          "author": "@anshulverma8632",
+          "text": "Sir, your remix Bollywood tracks are great , from which app do you stream them and what do you search to stream them",
+          "like_count": 1,
+          "published_at": "2023-05-06T05:52:17Z"
         },
         {
           "comment_id": "UgysT77GxvWqO9tyYaJ4AaABAg",
@@ -104,21 +112,13 @@
       ]
     },
     {
-      "videoId": "RJZgVLGFF-Y",
-      "title": "Kiratpur NerChowk 4 Lane      #roadtripvibes",
-      "channel": "Vanshika and Divisha",
-      "published_at": "2023-08-02T13:28:10Z",
-      "description": "",
-      "comment_count": 1,
-      "comments": [
-        {
-          "comment_id": "Ugww3P5YxHI_m6xXvvx4AaABAg",
-          "author": "@anshikasood6045",
-          "text": "Beautiful ❤❤❤❤❤",
-          "like_count": 0,
-          "published_at": "2026-03-08T08:13:17Z"
-        }
-      ]
+      "videoId": "DT5_Jp5fbks",
+      "title": "Fourlane Toll Plaza KIRATPUR TO NERCHOWK",
+      "channel": "Er. Sunil Jaswal",
+      "published_at": "2023-03-26T06:04:52Z",
+      "description": "Toll plaza.",
+      "comment_count": 0,
+      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

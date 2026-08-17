@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-13T19:53:27.732Z",
+  "updated_at": "2026-08-17T19:22:48.062Z",
   "project_id": "SHINKULA-TUNL",
   "press": {
     "n": 20,
-    "positive": 6,
+    "positive": 7,
     "neutral": 12,
-    "concern": 2,
-    "avg_score": 0.045,
-    "avg_magnitude": 0.205
+    "concern": 1,
+    "avg_score": 0.09,
+    "avg_magnitude": 0.21
   },
   "youtube": {
     "n": 18,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 38,
-    "positive": 18,
+    "positive": 19,
     "neutral": 15,
-    "concern": 5,
-    "avg_score": 0.197,
-    "avg_magnitude": 0.403
+    "concern": 4,
+    "avg_score": 0.221,
+    "avg_magnitude": 0.405
   },
   "top_positive": [
     {

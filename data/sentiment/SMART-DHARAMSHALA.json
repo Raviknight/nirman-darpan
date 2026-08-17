@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-13T19:53:28.653Z",
+  "updated_at": "2026-08-17T19:22:49.493Z",
   "project_id": "SMART-DHARAMSHALA",
   "press": {
     "n": 20,
-    "positive": 12,
-    "neutral": 6,
+    "positive": 11,
+    "neutral": 7,
     "concern": 2,
-    "avg_score": 0.16,
-    "avg_magnitude": 0.31
+    "avg_score": 0.14,
+    "avg_magnitude": 0.28
   },
   "youtube": {
     "n": 0,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 20,
-    "positive": 12,
-    "neutral": 6,
+    "positive": 11,
+    "neutral": 7,
     "concern": 2,
-    "avg_score": 0.16,
-    "avg_magnitude": 0.31
+    "avg_score": 0.14,
+    "avg_magnitude": 0.28
   },
   "top_positive": [
     {
@@ -40,28 +40,28 @@
     },
     {
       "source": "press",
-      "title": "धर्मशाला के इको पार्क में 542 करोड़ खर्च बर्बाद: उगी पड़ीं बड़ी बड़ी झाडि़यां, जंग खा रहे झूले, मेयर बोले-बजट-स्टाफ की कमी से दिक्कत - Dharamshala News - Dainik Bhaskar",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR09TdGF3T1lMRjJYUGEtb3hCaXdlM2J4ZmlkT1JzYkY5Q1VJNW9ZYkhWeHh1VnJ1TURHUlJKQjZPaGhocGdzUG9ZelEwdUlRUGNjS3pXSGpCRzdnaldXM29YeVJqY1NhUEpYS2tNTTZvdThZenk0NTdDS1hxamNCdTg2WHR4WE52d3pFa0hLanZaUFhTLXZXOUd4cXExSTVVXzZVbXFKcjJvZXlvM0VROXM4aUtqaks1WGYxRTUzUjlGYWJMdEtla2hRX3FIekpBSE55UUh4NHM2Wnc5VG1n?oc=5",
+      "title": "Dripping Springs library celebrates four decades of community - Community Impact",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclpKclpQWmdQRm1ObTB1ZXdRR3FOenZSTVVrelpaZEVSUlEyX1FHUmxKVlNVdVVFTDkzb0wycWJoMUF1VEdzUmtzeGJubFlqMVl4QU41a2kxX2N4M2RVenppdFFGV2RjbTJ1ZEpzTlBoWWk4cDhERzI1TzQxbEhVdmtMVWxVQUlJbmgtM0pFR25zTWtGblU1OTdESng4WlMxSlRfaF9qSHk2RExrby14QUVrUFo5ajRqcUdjRm1JVEN4MGFIZ1djLTl1MHNHQQ?oc=5",
       "score": 0.3
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "DM pulls up Smart City officials over street light failure - Garhwal Post",
+      "title": "DM pulls up Smart City officials over street light failure - garhwalpost.in",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzZkRXB5dmhvUDN1b1kwTzVvUHMtcGZjdEotZ2RDdzM3SVJiWnhLX3RNU3p5UDJWTlk1cWNjRG8ydzRscHVGSTNHUDA2bEw1TkFyVWM5STl3NkJOMXFxWFNZSzZadUpSU2pmdWZrRXRoYnk0WTdrbGo0YVVROU1fSlNCUG1sR1lfa1E?oc=5",
       "score": -0.5
     },
     {
       "source": "press",
-      "title": "Himachal CM inaugurates redeveloped Fountain Chowk, E-bus charging depot in Dharamshala - infra.economictimes.indiatimes.com",
+      "title": "Himachal CM inaugurates redeveloped Fountain Chowk, E-bus charging depot in Dharamshala - ET Infra",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ25GUm9vRmpfYjZGNnhXR290TWl1MEtSSXVZV3BMajItb21YZGJiZF93ODRJWXNrUkQwQ1hBdVN0bFZvU2tPSTNsTUY2RmFUbFh1d2loYndIazZKdVZCZEJUQlNZVFJENnQydmh2RDEyQXpQWkd6M0lkUXlORFlwV3JqTTM5Z1NReFJMeVMzVTQyY2ZrMjByY25hUVlGSTNRYUUwU1pFOEVId2Mtc3Jya3ZLY3hHR3hkZ0RQSUtMcW1zZmp5Y0U4ZzRJVFdmcmNNaE1CYWFNV3ZxU0Z1NVNXMVN4STA4Qm4yUlJPUUhKbk1tNzY4M0hrNtIB_gFBVV95cUxPY2FGbkRxU05KTVNmRTFaMWdERldhcm5tUkNhTlg4d1JVeDItMk5jWHNvVllRdmd6am44cUsxTWVncTZfamZwUU90MGRzNHJkZk1vd2UyYmJoMDJ3Um9Zb2tuNWJTUGtYeXJINE1pSHp3ZWRoNFBPbGpsQkc3OUUyZ29iR3NEUnhzb09OdEVrUVkyOWx4NGZJYnp5d2hrbWFVRUliU1ZtSzRHOTJLN2x3cVNrNFhlV2pDTEtZb3JmeXlxaGdCcTh3UHZjamw5cHNocU1sOU1CMUt3OHFtbFo2OGhVLW00OVNGb2dMeGJ6NV9GVUNCYm9hYkh3X0FLZw?oc=5",
       "score": -0.2
     },
     {
       "source": "press",
-      "title": "Dripping Springs Community Library hits the road - communityimpact.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BxMVFOMlJQRzlYOGJ0dk5CaDk5NGEzQ3pSQ3V6enpmdnJ2eGJrdXBwNG9sV3VhdFA4WVFsQW9KbkdORUowcU1oaDZqcmZhT3VUZ1pNX0V4dW0yN1dXeENtTDFGZjg3QnVSQ05MSmFaS1I2Zlp5clBhREhrbTdpSzIyNGhYMXU0SzE3SWtxREkweUNNVjNVbEhRb3F4MXFQcGFTYjg1MFV4SlNMa05OUTNuMC04T2VHYkdSVDNB?oc=5",
+      "title": "Penny stock under ₹5 declares Capex expansion after closure of rights issue worth ₹149.22 crore - livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdGFScTA5MTlpazBiaFZRNHZPeUxsUG1rRTdrSlotckJUNlgxSk94WW4xT2NXNnVOZTRGSGh6MEZhM3VvQnk3eWRzNFlaV0VlZXI5MHJsbTgteTJkWFN0NHBaWTNsendSb3E0V2JmS0tWbzRaNUtKU2VPS1R2X3hWOFNrY2pXc3FwWWgwVUxwT2xVS1R6cWRxLTVzQ1hvVkxJRmRHS2R1dF9wV2hSM3o1ODN1VFVTZGhMZEEzU1V2VmhkUTJBdUxBdVcteHlyLU5ma0h2cFZPWjNjTWU4SU5CN25nQWZyR3ZTMlY1LTRvX24tUzU1aVkyek9rcEdSRlJOTE1VVk1GWU40WnhINUtKZ3habm5aUdIBmwJBVV95cUxQZ0VKanBxUm9rdmVEMUJHZ20tUmZIVGRMbmZySjYzM1VTNml1bWZ3SGdwdzF2OEpzbDNhMGZHVEZfTDNIbHExQVBXTW0tYWNCbEF2ZFVCcVJsWGJ1VzhYT1VBekt6bWlOQWs2X0ZULU4xaEZ3ZHY1WE1ENTRPV0NlLVJObWlhdEdpLUp3WDUwMmFOcV9oRWI4cXRySDd5bDJCYVRPWlV3VWdfVjNrVzJVcDRFV2tPWVp2emNjYVhubHQ5WkdnYWdDa29fNGctNnRYTDFUcF9qLVY0eHNXZFRxajdzM09PaXhVSUJwLTYtZDl1T2tjdXdUQU1JV1pTdDQyR3RQMlAxaXQtcmdmV19DemxoR1J2blpsaHhr?oc=5",
       "score": 0
     }
   ],

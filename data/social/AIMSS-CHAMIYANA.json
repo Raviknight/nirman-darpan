@@ -1,14 +1,44 @@
 {
-  "updated_at": "2026-08-13T19:52:24.830Z",
+  "updated_at": "2026-08-17T19:21:35.270Z",
   "project_id": "AIMSS-CHAMIYANA",
   "counts": {
-    "press": 100,
+    "press": 101,
     "gov": 0,
     "en": 41,
-    "hi": 59,
-    "total": 100
+    "hi": 60,
+    "total": 101
   },
   "mentions": [
+    {
+      "title": "Shimla News: चमियाना अस्पताल में क्रिटिकल केयर ब्लॉक में स्थापित होगी ऑटोमेटेड लैब - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNUpxOXI1NmNsQnd1UFB5ZmdUQUk4NGxDQjY5ZUtCNlk5N0tDdUNQdzlTc3ZpMlI0UHJ1QmgzZjNfR3pFZGNhTGs1SnZrMjY0akkwMElaN3R2S0pJdl9KYTItSW4wb3o0cGNhN3drMFVUWmtxV0thVThXX0dtRXBQNV9vQVVVakVFWlZfdkhoenNmM1o2eTVQLWtvMlJBTVJjRnFPVzZIdmlaRDFMYzJVeThZalBNYnpOOXdmdTh2dU00Mk9pMTh5OXhNQkRQZUdqSmg3eFh1MzY2VjNhR09jQlFMYjN1QdIB6wFBVV95cUxPR0xJU1NLQ3dTSURpOG1GbEU4ZU1FRWpvNXBlcVVPVHE0eHBkUVJmRkZNQXNweXdjR0QzV3hlTlYyaHhfMmctTGIwWGZzYU14d2xjN0ROSVBhMFB5RC13UkhkQ3dPYksxYjhoc3lwUnMtRUQxdFZkMlljVjdRanBBdDUzc0xyWlNkUEFFbVVEN1puZldRSm9fdDdJNnpmc2U1ZUduTGJ3bk0wc2JPRGJCXzJoZ0g2cDJXdXJjLU5YcTlvQVZVYUhHVVFSUjRUNDlSSGo2WE8zTlRvLWZYUjVVX3lOb0tZa1ptQVZF?oc=5",
+      "date": "2026-08-17T18:29:03.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "Relief for Hospital Commuters, But Sanjauli Residents Seek Walkable Streets - HIMACHAL HEADLINES",
+      "source": "HIMACHAL HEADLINES",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTDlKaDRhUnpYeFhWM1VzX2tJLUhHTkppaFJoZk1sOFJuRkZveVl2enJkSzBlZ0VEbmxqOGx3bWNNSHpiV1ZZRUc5aUQyQXRMcDB2SG13UVIzSWNpUkhScUVpaXI3MktwTm12MXhhSGN3UzlCQjg1RXN2aS1oZDJXVU5zclc3RHllM05tWHNMX2xTcHVXUFdTc1VKVENyckowQ1drdWdkMUVlYVVHTGdv?oc=5",
+      "date": "2026-08-16T05:32:10.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "CM assures full state support for expansion of AIIMS Bilaspur - :: India News Calling ::",
+      "source": ":: India News Calling ::",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFppSDloSEFxRXJMUTM5MVhmSVgtLXRwZW1SVU1ZRGhFdDhCcWJrWl9HaFhBTi1ZaHBrX01BdkpOb2kyQUxBR0lHQXl1RnV4aXBWb1l0dGJ1UFJNYTJiYmYwUzlUdWt5My02NGJkc083S29lbG9JLVc1SVlBeDU5MG51WXB6MUVxRDVDZ0hmVEhVTUNTdlU1QUdMdUktbmhEdk5nY0R6SmI1UFFkV05jdm04dnpVWVVSUUhz?oc=5",
+      "date": "2026-08-12T08:49:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIMSS Chamiyana"
+    },
     {
       "title": "सर्जरी के दौरान सोनू निगम ने गाना गाया: हॉस्पिटल बेड से शेयर किया वीडियो, श्रेया घोषाल ने की जल्द रिकवरी की... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
@@ -25,16 +55,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2NUSHN1ZnlxRzdCZjBYM0h1Z0RuOVloRjBYNjgtQ3poOEtyMlZhUENFOTNYOVVIUTIwYTJqWS1CUXl3ZjhnTFg0TmgxNUw5d2UzeWFfeFMyUkUwenROZEg3QzE0b2JFMnMtVXhIM1FHOW9EbEFJOXJhWWtYaUZkdUhGNGtmZG1VUlhucGlpcEVmVnF5bXdvSWFTSGZydUhwZWxQYnFzSEFadHpMYzl4eE1PTUNTazFCQlHSAcIBQVVfeXFMT3o4dVFEWWhnaGR6Qzg0UnhRT3YyOTlEb3NvWFJHNHk1MEMtdzZDQ0NCWmI0Q0xXb2YzNVQ5RzAyTG5kcjdwbEpYaW9XTVc5TmRaQXR5NWI1bFpsQ0xkNDFpSmxVLUxHcFZXLVpFUTRiRmQxcEE5bURmbk43SEY2TjdpRUtmYjg0YnNNcllNZE1pbjIxS29pM3hsV2dBTEpWUnItN25vS3NTTUt0Q1ZNODJkcUs5LVNMV2ZnUE5WUGRQM0E?oc=5",
       "date": "2026-08-09T11:25:59.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "चमियाणा अस्पताल में दो महीनों में 345 डायलिसिस - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MMU1makg4NV9CckxaTUlxUmlLZmdkTGpGUmRodzduUlRMTE9zdW50N05oY3NmUm11T1Iwc25teHVSX0hyRTZJSWJ0T3d0MDFmNXfSAaIBQVVfeXFMTXdiSlIwY1J6d3RHdUlVazgzRnhlNGtMc1lac3p4TjRKc3J2azhzd1dQZkJoUW1sQkUtVm9fUDhaNFdFNUpnT0p5SHp0SzJHRWdCSHUwUWNYdXBiQURFT2dSRkxfbkNZMmpkOGYyb0Nod0E1RTJuU2hkM3hIaGlPZ3pzMnZKeVdWNE5tbUQtV1JTYlBoSWxYWi1STXVYZXFoWTJn?oc=5",
-      "date": "2026-08-07T18:31:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chamiyana hospital"
@@ -100,16 +120,6 @@
       "match": "AIMSS Chamiyana"
     },
     {
-      "title": "शिमला में CM सुक्खू ने किया अत्याधुनिक 3-टेस्ला MRI का शुभारंभ, 5 अस्पतालों में बनेंगे - ABP News",
-      "source": "ABP News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGttWGREbXhvQm85UGV3WUtMZnpPTmRybzdSanZ6bFBFQVhiX2c2THJTTy1nei1ZaDZxbnVtcV84MDY1RC1BT2hVc21CaDNCOVVndmo2M3c2UlprdF9yUXNuVUw3OXQ5NV9OWi1iTnZhSUhxck1qQWpGcnYyaEFlckNBWnkzbG1zbEtBNXFEQUU0X19LcFZ6MERmMFFwdTd5aVl2OFVPZ2lVQ2t3SENNTkpPUF9sN19QS2loSnBNRzUtemdudS1kUW5rOUk5MXl2WGc00gHYAUFVX3lxTFBFazRZaUwzWDkxeGIzdEJOcTNORzNyTkhNT0lfQzNDN3MyRk1KQ0VUOHFWZzI2OFNkbFBkRndHdHYxNzVTQzF3NnhQMFJnTDh4THQ3SS1GaU93MkNObkc4Z0I4UzJkQm9uMmx1cXQyYjZQcXRENVpSRTVqRE1vUmluQm93Rkp3bV9MSjA4TWV4eGRYSVh3aUx5Ui1fdGFqekplX0NZdEJnSnVUd3VaUHE4bFkzWWJIM0dMZ2taSER3T1VCQzFBR0Q1dGNqdzItMG1oNnJEWE1XSw?oc=5",
-      "date": "2026-07-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIMSS Chamiyana"
-    },
-    {
       "title": "अस्पताल पहुंचे मरीज का उसी दिन होगा MRI और सीटी स्कैन, CM सुक्खू ने चमियाणा में 3-टेस्ला मशीन का शुभारंभ किया - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -118,16 +128,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Chamiyana hospital"
-    },
-    {
-      "title": "AIIMS की तर्ज पर विकसित होंगे हिमाचल के मेडिकल कॉलेज, स्वास्थ्य विभाग में तेज होगी भर्ती प्रक्रिया, CM सुक्खू ने दिए निर्देश - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMkxPTnFrQms0OWhIYW9jd0ZSdlBvOS1VN1dBOU1qRVVVOXFhZ0p1SlRyMlNTNmQ5VzdJLU5oWXotM3hpZ245VVhjazJzcjBrZDJQUDFLOGNFWDhpTXFjRUU0NURua0NSeVVRSW1fbThmdzJ0QWh5Z2U1TFF0dE9pdGxCbEFVX2FqbF9pMGd0YTc2cHM3bnJfTWc0NzlTTGNoYjFxRUVSVWJWbE0wbFd1VnVjUkZZdkZqU0NjSWxKWG5Jb01paTRlQ1Fja1U1bHhrWHfSAdcBQVVfeXFMT2ZrZXZVNzRSN01aYzdwSEZXSnRiblJCTHZmVGcySV9oUWhHeVpPM1JBZnRCdGowRkJlTFdHN2VXTnFOWTcyZXo2RFFUT2ZFWTUwR0xHM0toZ1gweTNDQWJQbkdMblE4VGJyUEpFTGw4d3F1QVRvWXdPMXVseHdKQ0MwdmRqNDVZc1JRQ3I4VEl3YnRaMFV6THp1QkdwcUdnbXFmR2RsSEFQOUczUjh5VUZYY3NLLWZoRXhZTGpXMjdlQjlWNlpfS0prNjZUN0M4Z3ZlczhlLUk?oc=5",
-      "date": "2026-07-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIMSS Chamiyana"
     },
     {
       "title": "Shimla News: चमियाना अस्पताल रास्ते में भूस्खलन, 15 मिनट तक फंसे रहे मरीज - Amar Ujala",
@@ -160,20 +160,10 @@
       "match": "Chamiyana hospital"
     },
     {
-      "title": "फरीदाबाद: अवैध जींस रंगाई फैक्टरी सील, सीएम फ्लाइंग ने मारा छापा; सामने आया वीडियो - Amar Ujala",
+      "title": "Video: दिल्ली के चिड़ियाघर में शेरों का कुनबा बढ़ा, शेरनी महागौरी ने दिया तीन शावकों को जन्म - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNajl6dUNSSXp2MjNKNHFRaTlnamFudzRmOFpDbk8yTEcxZF81QUN1aGVzU1A2YWo3NjhrcTBqbi1nQlh1NXRWUjFDOU5vcEs0ZUxBZEZtMERvOE9oRllWaHZkMTZfZXkyYWU0c21WU1RCalpaUHdpMUUxd1dmNkRXU2p4VTZWaE1lRkxxYWYxMmFmQ0JIbWc4SUtqdHpZamdkNFU5Tm5wWFVNWVF3aE5JaTNFZXZ6RDdB0gG-AUFVX3lxTE9RRHZrYTJMdkkxYWNTYWlIeXNkSGsxdlhwSHBweXFlYUI1U0k1SC1CMVJSQjFCbUR1WGdqSTFFWll6WWJXMEtnUl9hUlFmNU9YQXo0bElwYzBLem9DNDY0Q2Zmc1hhMHc1SFJ5eHlndkk0c1FzN0JGQ0hOaElucnRqbmlndjJIN0NQVEpkdjFFY0MwQktpU1ZxYnc5c3VCcFdFVmR0M1JzMmI2NU13TDBaQzhWek1tMHZlbUVaU2c?oc=5",
-      "date": "2026-07-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "गुरुग्राम 12 जुलाई को होगा विक्ट्री कप फुटबॉल प्रतियोगिता का आयोजन - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYWQ4Z0xjWTQyNW5haHE0Y0F3MTVaYllYTTVQZ2JUWlBYRWlOT09oMXpHVDZVY3JhUzhjQnVhWTVkdXlSTzY5a0FOMXRncG5DcFh1c190c0hKZkRNd1NVallKZjItNVN2dnluWEk5QTlCYTd0RVZfQVhSanpILTJLdUt4bFV0MkJFMVBCR3dsTTc4OTlqM0pBSHZHNk5haFlvalRfZnE2N3J3dTRFN2dDRUVwekl6REVMcVprTXktQ3Ftdkx20gHKAUFVX3lxTE9BNlJsOUpPZ3VhZjI4Q1hXY1I5RVlqakxrTVRlRm9yMHZremN2cGZRR3VTbDF3ZHBvRWpMbjhCVVY3QloxdEpXOG9hcnZxcV9oUndodmFKZDhHV3luU0JjclZjYUtlOHhyem94VEh0VEZmenVUemc2OG4zTFUyRmxBLTZXbXZqYk5DWFJmZVBBS1FyaC1qNnp4bXJaMVRJYTNJLU03MV90ZDB6Q1g0T1owMFY2aGV5bEZxeHdkMklmRm5rTEItcFVFNlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcTF1MzFhTE5rZ18tRFpqd1VUVkl6Yk11MlRWUFAyYzR4LVRNaGhqcFk0Q2U3OG0yeFpuM0JaSlBHN2FaR0RLWXg1d3FkalNqd2x0VGRiNWdZYjltNEY5bllUeTdISVk4MkY1YVZPaC1CQ3BqUW85MlllLW9VZEZJaGpSNHlvSlhabktPWVpVSUV1QkRlcm9LTDZobHNuQ1VlRmhIV1RveDNSZlE0RzJ1ell0UjDSAboBQVVfeXFMTWRxVW9JS2R1QTBYbDYzMGo0Y2x3cjVkV2dxTHBCV0JLVWhBeVVxQVpqbDlac3htMnhoWmdxX2gwSE9SMWk1djhxeDhEcFVxUTI1dnZOYWRsUEVOQjBSWm9iS1pqOTJmblhnVjRHY2o5eEdLVERtR1hVeDVOYmdQLUlGbHZnb21keTg1anA4aU5xMEo1d3VFNWhZSVhYbzlRdHhQVnpLeWZhZlI5TEVmOWJhbnBqVzRtcVhn?oc=5",
       "date": "2026-07-10T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -190,16 +180,6 @@
       "match": "Chamiyana hospital"
     },
     {
-      "title": "OPD Schedule: शिमला IGMC व चमियाणा में सोमवार को मिलेंगी विशेषज्ञों की सेवाएं, सोलन में ये डॉक्टर मिलेंगे - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZldiSnZ0QmVyYmxmaVRKOWtsbGIxaDhxalRnNnBxME1ob0NrX29la3MxTVI4bmRIMkhWU3Q4dlpuQVhQd3BIbV85NDlnLXpZSUtsZjZZYjZXNDgzYXFwdDZtZ1otY1V6b0EzTkRpaWF3LVNOWEdxd2NOQ01YV0xfVVZQMHZDbHUtUGQwRWZnc2pHbE1UWmFmMFoyaWVnZ2NlVDUwVWhWeE5wT0FFLUdrUmhrN1JHUk1zRkww?oc=5",
-      "date": "2026-06-07T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
       "title": "Shimla Hospital OPD Schedule: चमियाणा और IGMC शिमला में 4 जून को कौन विशेषज्ञ रहेगा उपस्थित, यहां देखिए लिस्ट - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -207,6 +187,26 @@
       "date": "2026-06-03T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "हिमाचल: मेडिकल कॉलेजों समेत चमियाना अस्पताल के सहायक आचार्यों की छुट्टियों में 11 दिन की कटौती - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcjZPRW5RM3F4R0ZjdkNCLVJPcFpSS1Y3S19qY0t4MjFwWHZHaFBjT1Y5SzRtVGU3cW1VNE5TbTNfQ1NCWDg2aXRiTVo2S2NxV3ZBOHdQMHJUS0dTblhycWtxV3NZTGtaXzRYS1JTSmctMXpTd1JoTVo4NVc2SlZLd1prMFRJZVB3V19DVVdDeTFkY0I4RGlaRnBCbW1WWXp1V2wzNUNZc2p4cGo1Sks2MWRCZ0wycmFWM0kwZ1pUVHRDY20yYUJpSnp0cEZzektSbEhLNkJKXzNNUnlLeldYWXJrbmTSAeoBQVVfeXFMT3RSblBWU2ZYMENIU092dFF0cGpwU2VEUlNQTkR3Z01ZbGplZG5HY1o2N1NGd2VseE42TnR0NV9GaWtVMTNnSXM1TVpnZTJuLVFvOW5hOFd0ZXZZUHF5WC1wZ3pqczd0SDQyaUJieEtCWDY2dERsNmxBZE15blVmWmk0V21sT2I5OF9ub2xZZUxCb1N6YTdMY1Y1NVN6WXloa0VJYXk4ZUFra0ROUnhUS3ZFV3kzSTlYN1VTazNCczFDNkFmZk1GNFB3N0VxZF95Z2pZRXhNMHhFZURaUC1pWXBPSHMyb0phaTNn?oc=5",
+      "date": "2026-05-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "Shimla: Expect Chamiyanas Atal institute to be among finest hospitals in 5 yrs - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS3ZJN3lYTU5rY2Q1cFZIM2daSGh5QmEtVHF5bU9KQjlILUJiZERGbGdneF9nV1NMUGwyRC1XVXNEajRBSnduWmdRbGJieXBiVzVyRG02eXZvOG41SDRLQ3QyQkxPTjRtdVFSTE9CRW9xQWJYRUc0bGVPSE1wNHZ1Tk4wbmRKTkhUdnNoSm5MM2s5ZkIzMlJndzlEOE5QNS1Kc0Z3MkFvVktCTFFvcEtESmRxcWxYZFFTeDBkekxsVEtfWmhpLVdDemRRZ1ZaQ0g2WUHSAdYBQVVfeXFMTWpsRFpSQWhwOGZkUDF1UVc4dDZVd1dnWEZsUmlLcVhPMlhPRkVrQ1J1WkdEX0xhX0g3dUptNGN0eEs2T3JrUU4tMlRQSm0yXzBOLVp5eU9ZbFpvVkVYWjFBd1FsNm1pckhYM1N5OVBDV1QwbWR2OEVtQ2ZkUGpVblJpdkZGUkV4ZnljNFJHUzQwdUUzVFRmUzBGN3BSU1pROXNOV2poUzNVZzdQdmlnT2tyYmtYdm5jQTlkZUtKVE42RDRUeTRYRDdMX240OEs1X2NER19kQQ?oc=5",
+      "date": "2026-05-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Chamiyana hospital"
     }
   ],

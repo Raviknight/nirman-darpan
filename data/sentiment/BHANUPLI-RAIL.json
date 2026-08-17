@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T19:53:16.004Z",
+  "updated_at": "2026-08-17T19:22:25.819Z",
   "project_id": "BHANUPLI-RAIL",
   "press": {
     "n": 3,
@@ -14,16 +14,16 @@
     "positive": 25,
     "neutral": 15,
     "concern": 8,
-    "avg_score": 0.208,
-    "avg_magnitude": 0.515
+    "avg_score": 0.231,
+    "avg_magnitude": 0.44
   },
   "overall": {
     "n": 51,
     "positive": 27,
     "neutral": 16,
     "concern": 8,
-    "avg_score": 0.214,
-    "avg_magnitude": 0.502
+    "avg_score": 0.235,
+    "avg_magnitude": 0.431
   },
   "top_positive": [
     {
@@ -45,18 +45,18 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Background music is very irritating",
-      "score": -0.8
-    },
-    {
-      "source": "youtube",
-      "title": "No one goes from Bilaspur to BhanuPali, it should have been from Chandigarh to Manali , then at least 1/3 of Leh railway",
-      "score": -0.7
-    },
-    {
-      "source": "youtube",
       "title": "REMOVE THE ANNOYING BACKGROUND MUSIC....😖🤮",
       "score": -0.7
+    },
+    {
+      "source": "youtube",
+      "title": "Chandigarh - Baddi rail line project is progressing very very slowly",
+      "score": -0.6
+    },
+    {
+      "source": "youtube",
+      "title": "Why don't  indian railways broad gauge the Kangra Valley Railway from narrow gauge?",
+      "score": -0.6
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

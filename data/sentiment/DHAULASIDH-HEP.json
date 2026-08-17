@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-13T19:53:27.567Z",
+  "updated_at": "2026-08-17T19:22:44.102Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
     "n": 20,
-    "positive": 6,
-    "neutral": 14,
+    "positive": 5,
+    "neutral": 15,
     "concern": 0,
-    "avg_score": 0.115,
-    "avg_magnitude": 0.125
+    "avg_score": 0.085,
+    "avg_magnitude": 0.095
   },
   "youtube": {
-    "n": 2,
-    "positive": 2,
+    "n": 0,
+    "positive": 0,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0.4,
-    "avg_magnitude": 0.4
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 22,
-    "positive": 8,
-    "neutral": 14,
+    "n": 20,
+    "positive": 5,
+    "neutral": 15,
     "concern": 0,
-    "avg_score": 0.141,
-    "avg_magnitude": 0.15
+    "avg_score": 0.085,
+    "avg_magnitude": 0.095
   },
   "top_positive": [
     {
@@ -39,9 +39,10 @@
       "score": 0.4
     },
     {
-      "source": "youtube",
-      "title": "👍🏻👍🏻👌🏻👌🏻",
-      "score": 0.4
+      "source": "press",
+      "title": "केंद्र के अधीन स्थापित होने वाले चार पावर प्रोजेक्ट्स अब होंगे हिमाचल सरकार के, जानिए क्या है नई अपडेट? - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTY3Wng4STVlRjdUNEhNSW9LYjVac082SE5nY01yRVUtT295ckplMlJydUZzTzBCTEVaNDZkOUZaSW5naEJ5VmJwQXB4WFBYdEJkVk1PQnA2TG5EVFJJYjZLdGFHM1JJaGJkLVE3QlpiNTdqNTR5MmpBZVViX0J1UnZwOGtJZXlxUlRqVzMzYzlsVGlMMlBXUkpseUlTZkxZZGlpNDBfeGVLNFhTR01HVFFLalN6ZktrNWdHUGY3NU1TVUhUOXotZlpLaE01R0haMEVMeTVYeDVmZU4wdmfSAeMBQVVfeXFMTmNSTG5KckJmcVk3R0lQdnh1YTdDMWRVT3JqVG91dVNYQTFObjY5UEgwU1Z1azZSbWdKZGtPWnZVUzY5ZXhwTnREWDF5d1ZrcU44RFNmZFNJaUttX2ttNkt6ZXpFT1EwWnNmd3YyQnJncVBfdVNXZVhhYnBSN2t4aXFORjZURV91U3J1Zm1iNVJ4eGhKQ280WTVvbjFxVENZLVE3TGoxYURxNmJkdkxMT21NNXg1bkhPU01RbjVOQnlBUDdEa0Q0emJzMXYwS0NYYXBBbGhXTktESHlJaTJDb1pJN00?oc=5",
+      "score": 0.2
     }
   ],
   "top_concern": [
@@ -59,8 +60,8 @@
     },
     {
       "source": "press",
-      "title": "SJVN CMD inaugurates cofferdam of Rs 688-cr Dhaulasidh Hydro Electric Project in Himachal Pradesh - ET EnergyWorld",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONlBLYV9SbHNMNUxiT18teFdVOTlLRUJhMXMyaWd2VEViX3pMblEtbHp4V3d6SmNEa1hNT0tDYnBHTGltUHcxa0hWUm5fOXlVQlBBMzBMd295MlcxTXhPZ1FvY0EzZVNWVEdvb3B6NjhuUklsdkJKZWlDYTljSjMwTjlCQkdWZkh3Yk9YWjdmQ0lfeWZlVlo2d0dYMGZVRnlJdERqeS1rZXVmTVlsRkZHTTF1RTloMkdTeFpDMk9DdVB0Yi1EMlk2WDBvTXkwVkJlUWo5S0NhTEppTGxTVnpoMWplZG1Za3UzeGpoeXZUQ1p3NmfSAfgBQVVfeXFMUElyMkpUWDloQnVNaUFSYm1qN0kxVHQ1RjlOUERtcWxDSS1iWVFPU3B0ZU9JR0hxRy1BZFoxS1NBQ2hNcnlwR3N5WGUzVGpRQ1YyMmtjMTJrSlNFMTZOa1dJM0VDcUVIZ1A1R2o1VkpDYTZQV182NmVNQy0tZEd2OUo2ekxCeXpsc3FpZG9yQlBRQjlFTm1SYzdEcWM2M29CV0hqR2R3eGExdGg1UWtPNlY2WTB4cnpmRDdtajNoNi1abWdqWVZqQmpsUkVUVnZweG80SXRrQVpFVFZPb1hKT0tBOUdrRDJ4c3ZrMUxMVENjSDRCRFZuLVA?oc=5",
+      "title": "SJVN CMD inaugurates upstream Coffer Dam of Dhaulasidh project - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVJmTUt3QjRpMjZLaWRqWE5FaTdkVnFva0lCb05nZkZoZ05fX19yWW1DcXA0UWdYLTJLcU54YnprZVJzWHZpTXRNbGpVODNzd0dWaVh3YklDYXp5Y2Z4QUlFc0x6OThleUJmbE5sclR3YUNydFlLc0NzLUd6TTk5VWVPYVdIU2FKb3pzcGxjRkI0T0VYa1F5TkR30gGnAUFVX3lxTE55Sjd1cW9hR0lwbXE4dTZsMkMxZXJCSU1TLWtRWHQxYml2Qmpsb18wY0FEb3llV1I1Y1UzMTNxbE9QbjYxRDJ4a3hfVWxzTlNVbENtT3pOZzBjOWVwRV9EeDJRR1VZa0lGQlZ1ZURkT3A0N1FlUU9Falp3cFlnLTF6RkRIQzMzVjlFRkM3dW41UUtHTVNUOGNreURSdnZ5Ync1N2p1VjRz?oc=5",
       "score": 0
     }
   ],

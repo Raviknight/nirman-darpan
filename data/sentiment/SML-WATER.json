@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-13T19:53:29.881Z",
+  "updated_at": "2026-08-17T19:22:51.899Z",
   "project_id": "SML-WATER",
   "press": {
     "n": 20,
-    "positive": 9,
+    "positive": 10,
     "neutral": 6,
-    "concern": 5,
-    "avg_score": 0.045,
-    "avg_magnitude": 0.3
+    "concern": 4,
+    "avg_score": 0.085,
+    "avg_magnitude": 0.255
   },
   "youtube": {
-    "n": 59,
-    "positive": 30,
+    "n": 58,
+    "positive": 27,
     "neutral": 18,
-    "concern": 11,
-    "avg_score": 0.264,
-    "avg_magnitude": 0.576
+    "concern": 13,
+    "avg_score": 0.24,
+    "avg_magnitude": 0.586
   },
   "overall": {
-    "n": 79,
-    "positive": 39,
+    "n": 78,
+    "positive": 37,
     "neutral": 24,
-    "concern": 16,
-    "avg_score": 0.209,
-    "avg_magnitude": 0.506
+    "concern": 17,
+    "avg_score": 0.2,
+    "avg_magnitude": 0.501
   },
   "top_positive": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "source": "youtube",
-      "title": "Thank you God for giving me natural dimple",
+      "title": "I like that.",
       "score": 0.9
     }
   ],
@@ -54,10 +54,9 @@
       "score": -0.6
     },
     {
-      "source": "press",
-      "title": "Technical error behind inflated Water Bills: Shimla Jal Prabandhan Nigam accepts - The News Himachal",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMF9sTnB5eW02WXFxcHVxYVRiWEpsSW1NY2ViZ2I0MUw2eEYzRjZpRTNWZUxiNlRsT1VpdkVEdU1MamtyekdCMnNFaTR4LW01YlVTaHRkS0plRnJ0WE45bFN2OWRaX2tqOGRQUTl4VEtZeEdPbngxTGx1cTNGOXdid2JFRFdzeHZyYzQzRnlsMGZkVUxlNUNNMDJmQlQ0RnREN3l5OE5vc2hMZ0drWC1NMFJrVGhSSVU?oc=5",
-      "score": -0.6
+      "source": "youtube",
+      "title": "Why railway employees can't get this facility😢",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

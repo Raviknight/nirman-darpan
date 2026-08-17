@@ -1,44 +1,33 @@
 {
-  "updated_at": "2026-08-13T19:52:52.515Z",
+  "updated_at": "2026-08-17T19:22:03.861Z",
   "project_id": "NH5-PWN-SHL",
   "query": "\"Chandigarh–Shimla 4-Lane Highway\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 3
+    "comments": 4
   },
   "videos": [
-    {
-      "videoId": "drn-5D1tkKA",
-      "title": "NH-5 Chandigarh to Shimla | Tunnels, Flyovers &amp; 4-Lane Highway Project",
-      "channel": "Altrange Private Limited",
-      "published_at": "2026-01-22T11:37:28Z",
-      "description": "The Chandigarh to Shimla Expressway (NH-5) is one of North India's most important highway infrastructure projects, designed to ...",
-      "comment_count": 0,
-      "comments": []
-    },
-    {
-      "videoId": "CUjERxGw0Nw",
-      "title": "Shimla fourlane highway Update #manpreetsinghvlogs",
-      "channel": "Manpreet Singh",
-      "published_at": "2025-10-23T09:01:09Z",
-      "description": "",
-      "comment_count": 0,
-      "comments": []
-    },
     {
       "videoId": "u6eiofRueS8",
       "title": "Parwanoo - Shimla 4 lane 🇮🇳 Phase 2 👌",
       "channel": "Travel with Dimps",
       "published_at": "2025-05-05T05:50:52Z",
       "description": "",
-      "comment_count": 3,
+      "comment_count": 4,
       "comments": [
         {
           "comment_id": "UgxLKybXcbqLO_3Pv2R4AaABAg",
           "author": "@kumarvirender9788",
           "text": "Maza aa ra hr naa....\nJab tandav hoga to sab beh jana ye❤",
-          "like_count": 0,
+          "like_count": 2,
           "published_at": "2026-08-13T13:22:03Z"
+        },
+        {
+          "comment_id": "Ugw_ZUvp9iUJXrWS2oZ4AaABAg",
+          "author": "@nitink2411",
+          "text": "Good 🔥",
+          "like_count": 1,
+          "published_at": "2026-08-14T03:25:55Z"
         },
         {
           "comment_id": "Ugzp4U926UOiSkOx9il4AaABAg",
@@ -55,6 +44,24 @@
           "published_at": "2026-08-07T11:52:25Z"
         }
       ]
+    },
+    {
+      "videoId": "CUjERxGw0Nw",
+      "title": "Shimla fourlane highway Update #manpreetsinghvlogs",
+      "channel": "Manpreet Singh",
+      "published_at": "2025-10-23T09:01:09Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "drn-5D1tkKA",
+      "title": "NH-5 Chandigarh to Shimla | Tunnels, Flyovers &amp; 4-Lane Highway Project",
+      "channel": "Altrange Private Limited",
+      "published_at": "2026-01-22T11:37:28Z",
+      "description": "The Chandigarh to Shimla Expressway (NH-5) is one of North India's most important highway infrastructure projects, designed to ...",
+      "comment_count": 0,
+      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

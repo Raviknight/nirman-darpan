@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-13T19:53:31.092Z",
+  "updated_at": "2026-08-17T19:22:57.984Z",
   "project_id": "HMR-LINK",
   "press": {
-    "n": 9,
-    "positive": 8,
-    "neutral": 1,
+    "n": 7,
+    "positive": 7,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.4,
-    "avg_magnitude": 0.4
+    "avg_score": 0.443,
+    "avg_magnitude": 0.443
   },
   "youtube": {
     "n": 0,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 9,
-    "positive": 8,
-    "neutral": 1,
+    "n": 7,
+    "positive": 7,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.4,
-    "avg_magnitude": 0.4
+    "avg_score": 0.443,
+    "avg_magnitude": 0.443
   },
   "top_positive": [
     {
@@ -35,7 +35,7 @@
     {
       "source": "press",
       "title": "बेलक्षी पंचायत में सहयोग शिविर: बिजली, राजस्व से सम्बंधित 47 आवेदनों का मौके पर हुआ निपटारा - Chandi News - Dainik Bhaskar",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTnUxN1V1cE5ZVWEzTlpWRWxMZHRwN2FSVVVqRXhMbTdsRGZiaExXNnBGc0haYXNmZ0ljUVQxRDdmVmFqQnpUYXlTdFhpc08yeHdVamY5NFM1RlFIYWpvQXpfa09ObFhfYkpzUG1OOVUzWUZMUzhYUUFmX242RThQQ2xMQXRpUlFfd3dEQ1Y5aGIzenNtYXdKSi1qU0RrZUtwOHEwVC1HMkc2UnkzZk5Lbl82SW8wY2JxMThoNnBFd3BwU0I5MmZoWjBwNUJjVnAyUEVfTA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUU96c25fMzRVaHZLbndnTDVpMU9Jck1GRFF5T2E5alBmM1N6MVkzdWtMMUdFNTNEUXVPd0lYQkR3Z2dqV1R1QVBWX0g0TlZIY2dVcloxUFdWVGk2Q3VZQm5sa2FLRF83b1RPajZhNVFQZDZWeGU0T1NpQXpmQ3VpcnVBR3ZrRjYyeGtmMGNvXzVtbnBMcWUtMFpFcDJzek1sc1lJSXl2SXdzNUY2WEMyazVXLVBfY1EtcklaODdIN2NVbmZqTmhRbjViS1AzSkk3ejgyTHVQM2RINkZfUmt6ZEFyTQ?oc=5",
       "score": 0.5
     },
     {
@@ -48,20 +48,20 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "Budget: औसत प्रति व्यक्ति आय घटी - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaTlNRXByb1pDQWlicV92XzU2Mm5XVHlWdzhBNkozcjNoOGRTd0FMNGttMVZ5Q0hjRF9Ed0VwcWJkTXNOUzhKNHgwZl9MWmxoR0lCaGlQeFpoR3RXbVN2ckhOTTFjQk96dVhWTlR3cGkzNFpGaFZ3U2oyQjRsVUZTSEIxZHhYeUXSAYwBQVVfeXFMUHR5R21pSkh3ek00WlRDUXlUbG5IdlU3cUczRDMzMVduNldyTTRLQ0JQNTYwdnBIaE5DYlRULXZ6VzYyZE4zSHVjMVl4cGZNZ3lIVEFkSkt6TWZnTXJseFN1bVJHZ3VPNzVZWWkxUmxNNjBFX3h4T2R0eUcxY0ZzTk4wZVQxVDhFWFRTRVA?oc=5",
-      "score": 0.1
-    },
-    {
-      "source": "press",
       "title": "यूपी: बिजली के निजीकरण के खिलाफ प्रदेश में उतरेंगे किसान,रेलवे और राज्य के कर्मचारी, सीबीआई जांच की मांग - Amar Ujala",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVVo1VmxFQy10TGVMUUliYXVPZUUwaG53TTB6aDhMT2xmc1Y3M05mOTYxQi1nc25ENU1YbjFCRnNOVlgyYWJycmpzc0ZTTmhuak9yaVBYLWZfMjczTGkxdlFRRW1HNVlIc05aOUtUSURBWnNzOXhnMGtPaGtXaWZ4UW5JMS11Q2l6bGlabWNlR2dIcWx0RmxzWkNBdFVnQ3VDcjVMY3A2RzNObFNCT3hSOE94NXllUE9QM1dXRjBaX3hyaXF4TnYzLU1jWm1sSDVFeGllZDlHWUZQTUhhaU4yVnJORW56QdIB6wFBVV95cUxQdnZwUmJCQnAtbXF3Y0R6NVRuTkFsZjJtSGFfWUNOVEM4aUNhUXZJVjlGVWJhTGp2R2dud0ZZd0JMdmxsbC1BLUVIRkZBbnduTzNxVGthNG5zQnhtRUhhenJkUWR2TUpYQkhrblhob2dqYkthZjVFdHhqaFl3eXZYU1dVLVBEVll5TkZEMS1OeGN5MzNnQ2FHcTNVUThZOXU2eUxjallPUGhBdHhVb3Z3MTNZN3U3MlNLa0pqSGpiaHo5SFZFUm0xLXp3YWhFSkZpc0xXbDRkU1ZSSG9LdjBQcUNDV01UdDZXOXN3?oc=5",
       "score": 0.2
     },
     {
       "source": "press",
-      "title": "बरेली में भी खुलेगा बिजली थाना - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkb0JfWlZ4ZFUzWnp6eXViNWZ6Z25YNnM1SU04QXNqZkx1ODJtSThkUFBNQ280dWE5ZThIbGdJdXI1Rl9Jc0tRZ29tcUx4TThNbVNfWGM3a3BXUzlMRlF0MjVyNnpLRzdSX2J2N2pFX3AwQmVOWndyUkZLSDZsOTDSAYQBQVVfeXFMTWF1UWFkQVhNZHNmTWhDSjR6bHBjRjRJRlFtZG9IeG1SX2xtM0lrQXVOUmlLWHVvYWxoVUhYTEh2MWttci1ObGxPSkNBMGdTd0dBODROWUJfOGxDVHhiUUo4MWVYeEZhWGVaa2ZNZ3ptZ0JXTGZ1amp1R2JzQTZQNlNfM3ZD?oc=5",
+      "title": "बेहतर बिजली आपूर्ति करें और बढ़ायें राजस्व वसूली - inextlive",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVhKWC1PdWFaV0V2d0EyWk9tRHJDa3VhSC12RmcyVG1OT2VfNEZ5VXd0M3Fkek1acWItQk11WUlNalRQak1qcnFqMElCbExWX0N3dmlySnpYM0loeUNRbmRoLWpUbFZqVWI5MlRQUm0zMnk3emlCdVdNMW9adlYwUWJ6YXM2YVBaU2lUZXBXTUJlZXRkZUVZNHRCbWZqVW1Da3M5dWdseUxHSnk5VHNBZ1dnYzNJeXhmeFJOOXVyS3VQMUxPZ1FBaA?oc=5",
+      "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "सरकारी कर्मचारियों के लिए जरूरी खबर, बिजली बिल नहीं दिया तो रुक जाएगी दो महीने की सैलरी - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQanpFNG4wX3hzYzdWMmRhQXUzeXQwNklBS3dfTDR5VDgtbElyMUhRQTFvQlVxYThia29HZUszRzZLMTA5RDNCMHJucEwyWEN4UlQ1aHpmSGNXckdWcW9admtwNWg2b0ppT2pXX2J2ZEV5aDhsYmN1NlFuem05S1dlNHNzaDJxSTU3c1dZazJhYVFfcUhsV2taZ0xQMFVyMnZ6eFdGMnNiSWhEMDVacTNfQ1VQa0dIZ0xibnA5d0pOdWtoSnB3TGxOSjFvSk9YTFdoU0VTVWxONA?oc=5",
       "score": 0.4
     }
   ],

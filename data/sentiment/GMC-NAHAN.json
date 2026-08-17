@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-08-13T19:53:30.828Z",
+  "updated_at": "2026-08-17T19:22:57.179Z",
   "project_id": "GMC-NAHAN",
   "press": {
     "n": 20,
     "positive": 13,
     "neutral": 6,
     "concern": 1,
-    "avg_score": 0.205,
-    "avg_magnitude": 0.35
+    "avg_score": 0.22,
+    "avg_magnitude": 0.38
   },
   "youtube": {
     "n": 21,
-    "positive": 16,
-    "neutral": 3,
+    "positive": 14,
+    "neutral": 5,
     "concern": 2,
-    "avg_score": 0.348,
-    "avg_magnitude": 0.476
+    "avg_score": 0.295,
+    "avg_magnitude": 0.452
   },
   "overall": {
     "n": 41,
-    "positive": 29,
-    "neutral": 9,
+    "positive": 27,
+    "neutral": 11,
     "concern": 3,
-    "avg_score": 0.278,
-    "avg_magnitude": 0.415
+    "avg_score": 0.259,
+    "avg_magnitude": 0.417
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Clicked Faster than speed of light 😍",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "Nicee👌 vlog nd keep it up🤩 awsm content 😊",
@@ -38,7 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "Nice video frnd",
+      "title": "Clicked Faster than speed of light 😍",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "U both are so beautiful 🥺❤️💋",
       "score": 0.9
     }
   ],

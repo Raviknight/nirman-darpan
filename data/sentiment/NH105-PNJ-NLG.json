@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-13T19:53:27.729Z",
+  "updated_at": "2026-08-17T19:22:45.946Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 20,
     "positive": 4,
-    "neutral": 8,
-    "concern": 8,
-    "avg_score": -0.09,
+    "neutral": 9,
+    "concern": 7,
+    "avg_score": -0.08,
     "avg_magnitude": 0.23
   },
   "youtube": {
-    "n": 2,
+    "n": 0,
     "positive": 0,
-    "neutral": 2,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": -0.05,
-    "avg_magnitude": 0.55
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 22,
+    "n": 20,
     "positive": 4,
-    "neutral": 10,
-    "concern": 8,
-    "avg_score": -0.086,
-    "avg_magnitude": 0.259
+    "neutral": 9,
+    "concern": 7,
+    "avg_score": -0.08,
+    "avg_magnitude": 0.23
   },
   "top_positive": [
     {
@@ -34,9 +34,9 @@
     },
     {
       "source": "press",
-      "title": "पिंजौर-नालागढ़ हाईवे के फाटक पर तीन दिन तक सुबह 10 से लेकर शाम 6 बजे तक बंद रहेगा ट्रैफिक - Dainik Bhaskar",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZ0pyTVFCSEdUdHlrZ2V5TGlac1A4TUxnemszcWZnd1dsZFFUelFNeEtIZS1EUElSR2ExOFp2NGxaN083R01fM21NMjVzZ3MyMW9OUjVNbTBad2pDd252Z09jVmtYR0NUYkxMckdOR2k3QWJtX25HdnNpTkk0OGlGUDI5YWtxdWZOYUdsU0IzbUtXNFdpUmdhZzhIamNEamNJeXNwN0VOdTJOZFFCcXl1X1NmMGx0TXgxcjhpdGNFLWstUlZFQ3JfNlUwMnZHbTNlZVR2X0trQ3g0eXNXV0pyQy1ldGNWV01XRmNxM1pjSWdBQnFMY2lyR2liVURUTTdMSjBzeERGMNIBjAJBVV95cUxNQ1FPMU9XTk9nR0s1SlJWQnZTUmR5Y0pWZjJRRjJWdlp3MlNtblZXUUw5UGRWdGNDbDkwbXpneDFRUzlLWGtWZUVlQ0hoODRPWHI5TFNrWlh5dThBWUJidmthbWdCbjFMY29keER1OXFuazJqS3duVHdOUUowNG5sNHZGSlBzcER2S09OeUtSVGw2MlM4bXg0NWNhQ2FMWXpNd0VjNzNQc1NFRzJaN3duaWtPQVI4RU1wTF9LV0VWZUgwQmhrWTVGLU5xeW1GeUo4UWFJMWdkd3h4QlhQS055dzNwRHhSX1BDSU9QcEpqRGhFUkxrYlJHN2dpcll4MXpmemxJNXUtdldPZGxa?oc=5",
-      "score": 0.4
+      "title": "पिंजौर-नालागढ़ रोड पर बढ़ा नदी का जलस्तर: पुल न होने से बढ़ी परेशानी, गोरखनाथ मंदिर के पास आवाजाही प्रभावित, ... - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQnBoUDRPcWdVRFVHWGRDS1R5aFVaT1VVMldVSFBZdHlncHNoNVdvRGVuV2hQSWxSN2Nicmo5UWQxYXJqZ01uQ2dja1hnaVRUdWs4ZUdGazJzQUZGdnNISmgtcmxHU1pGX1Q3S2xXXzZjUllicFc0TDRweEdKZnBmU0NkLTMtUHZ6c2EzQU9TTlJsSVNGcmtOQ1ZMczFPX211Q3VGRzRNZEdzTEh4bnZkRlAtc1ZWZnFlVmNib0pxendnUy0tZXAweG94NVh5QXBhV24tb9IB2gFBVV95cUxPQmdlcVpQYWpLTzlKbnVKNjFKZVFwTDA0NWRXV05qOFk5YzJkNC0wVmx2aWktX1lHaktXY2xjdFdQbWtTaVFrOW8xQnc3UU1mM3ZhQmNpWnNYYjFlSEZvbUhST3pDVXZWMFJOaUNIZXdTZHowQWRQUTduMkkzazU5RUZjVU9USGtTSFlJeXg4MjBUTlVjM0trcENzNEd6LUJzZWpudjFFd241S0I2a0pXX3o0NUNfYWxfNm9YT1FqZlM1M1dLd1FlMzhvTU80RU5tY1g3SC1ndjFfQQ?oc=5",
+      "score": 0.3
     },
     {
       "source": "press",
@@ -48,7 +48,7 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - infra.economictimes.indiatimes.com",
+      "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - ET Infra",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWmd2LXRfOWgyYlZUUW43aUdJT21XcklWaEg5a0h2S2hpNmJYazN5QjZZekdrRFlZdGZVMXRUZzZzWlpfaUl4cjAxdjZjZUx4RzNyR3lDR3BMeUdTZ2dwbG95MmF1aXJLQTVOTVI3eE9scFpuOXA3dEJpalF6RGZ3cjBHT2c5MkR3MVRvTWFoekN4LXd6Z0VPeXM0TmNGTjN3U2g3Q3pwQXNIeVdmcU4zdDhBTU1hTXBLWlZiM05KeXdoX1dncEFmZ0Nob2tMZFhROVlFRl9IOWt3TWpGeWgwWHJveU1FdDBHRWZNcQ?oc=5",
       "score": -0.7
     },

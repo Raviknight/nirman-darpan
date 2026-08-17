@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-13T19:53:27.302Z",
+  "updated_at": "2026-08-17T19:22:44.100Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
-    "positive": 12,
+    "positive": 13,
     "neutral": 7,
-    "concern": 1,
-    "avg_score": 0.25,
-    "avg_magnitude": 0.37
+    "concern": 0,
+    "avg_score": 0.3,
+    "avg_magnitude": 0.355
   },
   "youtube": {
     "n": 8,
@@ -19,37 +19,31 @@
   },
   "overall": {
     "n": 28,
-    "positive": 18,
+    "positive": 19,
     "neutral": 8,
-    "concern": 2,
-    "avg_score": 0.296,
-    "avg_magnitude": 0.454
+    "concern": 1,
+    "avg_score": 0.332,
+    "avg_magnitude": 0.443
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Good work sir.🎉",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "Great explanation, 👍",
       "score": 0.9
     },
     {
+      "source": "youtube",
+      "title": "Good work sir.🎉",
+      "score": 0.9
+    },
+    {
       "source": "press",
-      "title": "सावन में रचाएं भोलेनाथ और मां पार्वती इंस्पायर्ड मेहंदी, हर किसी की नजरें ठहर जाएंगी - Punjab Kesari",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMUhzWTR6SWV4SEN0TjFlZ3dhT2ZId202SlR6a3lYVXJmaDdZRHZ5dG1aazlsVlhJbF90QzZKaXV5b2RObHJfNWo2eVhHaUlTUjFTR1hqZE5wRGM3dGZJSkJMUy1MUGFUeUFQRzhfTWNpN25WZHQwWF8wSkVFQ1J4ZGxOT3p2Vk93c2dJMjU0TmVtRW5VdVVHQm8yLUJoRFdURVZremV30gGuAUFVX3lxTE80Q0VlMnpHdEtISzI4UUswNG5NR0t5NmQ4eTJDWmV6dkFodlFXSmo0TkJFb1hGMnAwOXRkdU5MZzM0ZkFWV1JFbWtZTDRsd1g4dGNFeURRQ1lQZHFDdlNaRnJpbnQxbnZjQkRyOHM1cEVTd1lPaWY2cjNBMDNyaERhWml6RlIzal9aN2lIVkZIQnh4Qm1YVWhMM29hZWtKRDREYWt1bGh5ZVFqQkhLZw?oc=5",
+      "title": "आज हरियाली तीज पर शिव-पार्वती की पूजा का विशेष महत्व, जानिए 5 प्रमुख धार्मिक मान्यताएं - State Mirror Hindi",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXRTNDlkbG5PNVJIV1BnNW1yQnNVVXNCUUltZHc2Y3BpMnlyWGhpT0o5RjBOQ3J0NWhIOWNJV1ZnSUYtYXpVUmtKQnU4bDRNaFVpTGhYZFRyT2VGMXJMZnRqN3J3NTVVMWhTeGVyUy1DSnJ6YktJSWxvYkpTTGdoMi0yS2NaT1llNzVFZGxRQWpVU1BIdlpPWHhaNl90NE5HQ2dDRjFmTFVLMHfSAbABQVVfeXFMUHc2ZXJJNGxZQlkxaXZkQWVCYU9iVG02NTZkOHRVdWNFVksyYUkySXhRTDR5RjI4ZGw1dzdyYkk2d0VnM0w0MzVTUkcyNW0yNkpoNVl1aFgzeFJZc3pmOGxTcGVaSkJYRlVJRFMtWmRvMFdlSjlzQXJjVzd3bEx5d1dvV3o4LUpJMnNyZjNRaVJHNjk3aE5OcUIxem5fQXByN0Y2cU12ajk4VVk3TnpMckE?oc=5",
       "score": 0.8
     }
   ],
   "top_concern": [
-    {
-      "source": "press",
-      "title": "NHPC to release additional water from Parbati-II Dam, public advised to stay away from riverbanks - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeXpOTWNaOEMwc3BGWVh5cGxpQ3g0UllWblFFNEFpRUtsa21XQTZQdU1oc3dzMzJodEp1TG5Tek5FNVJwQWJ4aV9wTEROSE5ZakdINXNZZFJwYTFzZDFreklFbFVnQ3ROZWZRd0ZVNXlXYU9XY1BaNXZGX3B5cW1ldm9lM01qZDdXaF85d0VzQWhTX29vT19adHAxYUVxWnR2a053QjRNcFRMS2JjXzNTWllsNUJoam1iVzN2Z25kb2c4WXdGSGR2OGhFMlpucVE3ZDFHQnU5YVZRUy1Tc2hUWkIyTTFnN0RlNFNsN3lrSkszdw?oc=5",
-      "score": -0.5
-    },
     {
       "source": "youtube",
       "title": "Make this type of projects by using \nmoney of temple devotional money\nby giving them small interest over it\nAlso money o",
@@ -58,6 +52,12 @@
     {
       "source": "youtube",
       "title": "Turn the water of himalayan rivers to the deserts of Rajasthan",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "NHPC Sounds People in Downstream Of Parbati River as Pulga Dam Releases 72 Cumecs of Warer in River - HimbuMail",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU2g4WVlFS0hHbWkwWUg4Ym5zUFlkSFhOY25JZktUempMeWl3TnowQ0xCQlJRRmpBa3VmMExsQXpJOE9UekV3S0JPSWR1SmJIazRGV0ZiXzVBWGFpUkViRzE2bUtIcEk3RGhabk95My01bmltWGlwNjc4Rnp0VW5kd0ZSeFpVa2E5dWhGc2xfRFBySHVtSHdBUURCZEFFZFdYNFQ2cFFXVk4xcGE5aWpTQTB1NUZ3enA1WTlNNk0teG8wQQ?oc=5",
       "score": 0
     }
   ],

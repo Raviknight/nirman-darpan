@@ -1,22 +1,8 @@
 {
-  "updated_at": "2026-08-13T19:52:51.559Z",
+  "updated_at": "2026-08-17T19:22:03.146Z",
   "project_id": "ATAL-TUNNEL",
   "count": 7,
   "suggestions": [
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-08-07T00:37:13.126Z",
-      "title": "Himachal: One killed, three hurt in car crash near Atal Tunnel - The Tribune",
-      "summary": "Auto-detected from press: \"Himachal: One killed, three hurt in car crash near Atal Tunnel - The Tribune\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2JzVEJzdHJUNXdJSUVROFhmUWtWTlRKVEhSVFd4Mks5aTZyLUVmdG5ncXRiRDhhNXJHNG15TW1ReVB1c0ViWTU0WURWdW1LZFBRRGw2YkI2dUlpZk5feExKeldLV3AtNE9RYUh1b0NiZFFKdG94RS0tZi1RVnFnamJNT1pfaUhHbFNEUHEzQ1pNbUVsalHSAZoBQVVfeXFMUDk0VTVEZ2d3VGFzWWM0bkJEQlFRZE1naWQ4cUhNR1gzWktsaGt2ay1Dalk4QzF4ZkYzMkpMYThVQmF5RlVJMVZBTmJJWnVPd2NmRDJiUExGREFYd0FiQ2JKUERfX0dUUXY0cVlUd1o3UUNNeG1UZXgzWHRLa05MZFlhNlRUV21LMlZ2Y1FlV3FMZjdFZkkxZlRUdw?oc=5",
-      "source_name": "The Tribune",
-      "lang": "en",
-      "date": "2026-07-02T07:00:00.000Z",
-      "matched_term": "killed"
-    },
     {
       "category": "incident",
       "severity": "high",
@@ -36,25 +22,11 @@
       "severity": "high",
       "kind": "issue",
       "duplicate_of": null,
-      "first_seen": "2026-07-13T20:08:04.975Z",
-      "title": "Freak accident near Atal Tunnel: Scorpio falls onto under-construction bridge, 1 dead - The Times of India",
-      "summary": "Auto-detected from press: \"Freak accident near Atal Tunnel: Scorpio falls onto under-construction bridge, 1 dead - The Times of India\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelNqNlJFYzlMc3M4VEpuTUhlT1dDZTVYY2ZDWEdETGtSVGtUNERSU1BqSm12TF9ITzhldkVHVHZtdWJJdEd6ME41dzNFZkhfUVgwUDJtenp1TWtSRVZtVTNYSjk1MnpxUldtRXRMNVlPR29EajJ4dVJyLURIMW9mbDQtQnF1bUZwVTUzemNIcHVVMmFfREdHdUFaOVgweEhHcHNPWTdNTEpaN21rbXNsTTRndEtSUHVpd21fQW16WUtmTXPSAcgBQVVfeXFMTVVjSFRVY2x3SVNTRDFSZGZwSTRIMkdYMndIQ1lNNTlhUks1dnFpZlo0RjVYcUVZcFloS1g5UkN1TjF6dnY0Qk1DV1A0MzlWUUZuZUJEUHd6alJsZUpiR09XWGdqWUQxMzJ3dHZZQ3FKWmNnMkgzNnNWeUVnd0IxdWpDZUFwcUxSV0t2M2czSl8wZHhkVVV2OEtYTzVHb2t0aDRlMjR1NVlrMTF4VlBscUo3RnByM25PRXRuMHlpMks5cTZLS2tOSjU?oc=5",
-      "source_name": "The Times of India",
-      "lang": "en",
-      "date": "2026-07-02T07:00:00.000Z",
-      "matched_term": "accident"
-    },
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-20T20:17:12.418Z",
-      "title": "One Tourist Killed, Three Injured After Car Crashes Near Atal Tunnel In Himachal - News18",
-      "summary": "Auto-detected from press: \"One Tourist Killed, Three Injured After Car Crashes Near Atal Tunnel In Himachal - News18\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjlOeE9QT1lZN3F4a0oyaFNyR1lxaW5LR01xN2hOZnljblpsY0dzNG90TElXWjE4OE1aZkowaHhTaWtIY2Zidmh0eUlHTW56TmUta3ZjTHRfU2hBc2h2UHB1WUZRY3gzVWplNHo1ell5YWlseEFqcFltVU1vdGlXWHRISG8tYXVVRGhXQ0MtbjhxajRFbWtIc2NKWFRCNnR5TU9TMGVxWkllX0ZkUEhMZ3kwNklzOFo2dFhEbzZsSkk5dGdIWWfSAcsBQVVfeXFMUGVrc21HUTFLRE9YU2JQVXZYN2lVWFZJOXE2Zm1BeWt2aUl2Z3M5bWowRlJRUlhZaWNmOHNMSWMyaE1zR2I2ZXlHYzkwdENiWmhYVGtZLXVuMWZUT1poRDZlNGZZbE9QYWZ3RlN3dXlMazRHZUI5N2dwVXhvWi1BUlBtRm8wMkFBeUhIdHB0c3lnZlhGVkp6bDB5Z0lYT3dHR3pEZGx6aXZMVU83LUg4N0tfNVVWT2Q3d2VPSlp4N25aZnJiVVZCVExEVUk?oc=5",
-      "source_name": "News18",
+      "first_seen": "2026-08-07T00:37:13.126Z",
+      "title": "Himachal: One killed, three hurt in car crash near Atal Tunnel - The Tribune",
+      "summary": "Auto-detected from press: \"Himachal: One killed, three hurt in car crash near Atal Tunnel - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2JzVEJzdHJUNXdJSUVROFhmUWtWTlRKVEhSVFd4Mks5aTZyLUVmdG5ncXRiRDhhNXJHNG15TW1ReVB1c0ViWTU0WURWdW1LZFBRRGw2YkI2dUlpZk5feExKeldLV3AtNE9RYUh1b0NiZFFKdG94RS0tZi1RVnFnamJNT1pfaUhHbFNEUHEzQ1pNbUVsalHSAZoBQVVfeXFMUDk0VTVEZ2d3VGFzWWM0bkJEQlFRZE1naWQ4cUhNR1gzWktsaGt2ay1Dalk4QzF4ZkYzMkpMYThVQmF5RlVJMVZBTmJJWnVPd2NmRDJiUExGREFYd0FiQ2JKUERfX0dUUXY0cVlUd1o3UUNNeG1UZXgzWHRLa05MZFlhNlRUV21LMlZ2Y1FlV3FMZjdFZkkxZlRUdw?oc=5",
+      "source_name": "The Tribune",
       "lang": "en",
       "date": "2026-07-02T07:00:00.000Z",
       "matched_term": "killed"
@@ -72,6 +44,20 @@
       "lang": "en",
       "date": "2026-07-02T07:00:00.000Z",
       "matched_term": "killed"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-13T20:08:04.975Z",
+      "title": "Freak accident near Atal Tunnel: Scorpio falls onto under-construction bridge, 1 dead - The Times of India",
+      "summary": "Auto-detected from press: \"Freak accident near Atal Tunnel: Scorpio falls onto under-construction bridge, 1 dead - The Times of India\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelNqNlJFYzlMc3M4VEpuTUhlT1dDZTVYY2ZDWEdETGtSVGtUNERSU1BqSm12TF9ITzhldkVHVHZtdWJJdEd6ME41dzNFZkhfUVgwUDJtenp1TWtSRVZtVTNYSjk1MnpxUldtRXRMNVlPR29EajJ4dVJyLURIMW9mbDQtQnF1bUZwVTUzemNIcHVVMmFfREdHdUFaOVgweEhHcHNPWTdNTEpaN21rbXNsTTRndEtSUHVpd21fQW16WUtmTXPSAcgBQVVfeXFMTVVjSFRVY2x3SVNTRDFSZGZwSTRIMkdYMndIQ1lNNTlhUks1dnFpZlo0RjVYcUVZcFloS1g5UkN1TjF6dnY0Qk1DV1A0MzlWUUZuZUJEUHd6alJsZUpiR09XWGdqWUQxMzJ3dHZZQ3FKWmNnMkgzNnNWeUVnd0IxdWpDZUFwcUxSV0t2M2czSl8wZHhkVVV2OEtYTzVHb2t0aDRlMjR1NVlrMTF4VlBscUo3RnByM25PRXRuMHlpMks5cTZLS2tOSjU?oc=5",
+      "source_name": "The Times of India",
+      "lang": "en",
+      "date": "2026-07-02T07:00:00.000Z",
+      "matched_term": "accident"
     },
     {
       "category": "incident",
@@ -100,6 +86,20 @@
       "lang": "en",
       "date": "2026-07-02T07:00:00.000Z",
       "matched_term": "injured"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-20T20:17:12.418Z",
+      "title": "One Tourist Killed, Three Injured After Car Crashes Near Atal Tunnel In Himachal - News18",
+      "summary": "Auto-detected from press: \"One Tourist Killed, Three Injured After Car Crashes Near Atal Tunnel In Himachal - News18\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjlOeE9QT1lZN3F4a0oyaFNyR1lxaW5LR01xN2hOZnljblpsY0dzNG90TElXWjE4OE1aZkowaHhTaWtIY2Zidmh0eUlHTW56TmUta3ZjTHRfU2hBc2h2UHB1WUZRY3gzVWplNHo1ell5YWlseEFqcFltVU1vdGlXWHRISG8tYXVVRGhXQ0MtbjhxajRFbWtIc2NKWFRCNnR5TU9TMGVxWkllX0ZkUEhMZ3kwNklzOFo2dFhEbzZsSkk5dGdIWWfSAcsBQVVfeXFMUGVrc21HUTFLRE9YU2JQVXZYN2lVWFZJOXE2Zm1BeWt2aUl2Z3M5bWowRlJRUlhZaWNmOHNMSWMyaE1zR2I2ZXlHYzkwdENiWmhYVGtZLXVuMWZUT1poRDZlNGZZbE9QYWZ3RlN3dXlMazRHZUI5N2dwVXhvWi1BUlBtRm8wMkFBeUhIdHB0c3lnZlhGVkp6bDB5Z0lYT3dHR3pEZGx6aXZMVU83LUg4N0tfNVVWT2Q3d2VPSlp4N25aZnJiVVZCVExEVUk?oc=5",
+      "source_name": "News18",
+      "lang": "en",
+      "date": "2026-07-02T07:00:00.000Z",
+      "matched_term": "killed"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

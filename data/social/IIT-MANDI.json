@@ -1,14 +1,54 @@
 {
-  "updated_at": "2026-08-13T19:52:02.884Z",
+  "updated_at": "2026-08-17T19:21:13.229Z",
   "project_id": "IIT-MANDI",
   "counts": {
-    "press": 256,
+    "press": 259,
     "gov": 0,
-    "en": 143,
-    "hi": 113,
-    "total": 256
+    "en": 145,
+    "hi": 114,
+    "total": 259
   },
   "mentions": [
+    {
+      "title": "IIT Mandi develops sea urchin-inspired coating for bone implants - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTVR3c1piVzdBRy1hcExrelVEcmhDZ3hDZmN1dTBmQzlXQkpya3Etand4Y0V2OURpdFExNlRKR3l4Tkc2RzI1S05nYUpkTWVjdFRjSjk1bm12UEtoOThfVTZ2QUE3bm9tMEtieDRnLUdiTXN0X1FFQUZKV2xDUFpCbERXTjdObWFZdXU3M0h5NXRzSVR3UDlQX1hhclNIRFJTak9qUnNCRGE4MXPSAbABQVVfeXFMTWs5N3NEQkVjUkZaTEl0X1JhaXU2Q1VIXzNOU1UtTWE2Tk1YZURJVzRRenFRWTZ1QXpCWV9INkx5NGpZZFd6UGFnWlRVLW5CYWc3aGVFNWRpYmZCZmwzVGZUNmszR2xmcVVrbzJkYnVBNDdYck5JZnZGaXdJdnB1aDBuVjNadTRBa1FUZ2NBeGZ2X1hQYXBkTUVuT1VtTDhDOVdyVHJEbFQzMjhoUWNEb0g?oc=5",
+      "date": "2026-08-17T10:39:11.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "बिना एंटीबायोटिक रुकेगा इंफेक्शन, IIT मंडी ने विकसित की 3D प्रिंटेड हड्डी ट्रांसप्लांट के लिए खास कोटिंग - iit mandi develops a special coating for 3d printed bone transplants infection halted without antibiotics - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa3lsZjRkV21kcEFqTTJvTl9XZ1ZfTWdBYVJRSG1ITUZxNDl2T0xRbFJ1WmI4QjU5WVpFNnlENGNrQXUtdVRfbUk4YUtWY2tpYndpbzc3UDF5YmN5aXRUbzRpTTdvV29EbnJVQ0Utd0I0eHdsUkZIRWxRRUZuem9nMGxyQkluVXM1Q25tdWUyY1U5V05UZ2xoaldqNTJROHFGR1VWNEhtSDN5UzlRT3czcm1oOGhtc0VrMDhRNkR5SjQ4Zkk3MUJrZlhPeVE0V1lkZENMZmM1dDAtcXpYMDlybWJEdklTNy0xc2FoY2JtV0xYcTFXM0xpRw?oc=5",
+      "date": "2026-08-17T08:41:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "Himachal: पहाड़ों के दरकने से सबक, हिमाचल में बदलेगा सड़कों के लिए कटिंग का तरीका, आईआईटी मंडी ने दिए ये सुझाव - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFdsWnA1cDdUNzZqVHRmQVA5aDZfcVV1M0dUZlNQbW4xLVE2eHR2ZXB2aG51R1A2dHE0YU1Bek9kSkt4X0t2WXpodnAxeE90SFJPNE8taXdKQmItZl96SkVqNU5ZM2ZRWmt4ZGMydkZkMmlEY293NzJYeXNaLW0yOF9sR0RsZ0RBMGNQR0FFQWNrUHpzdlNLRzA5T3JqaGFFdU4wZWV4Qy1vN3l1UnFGR041cEtyUVFDa0c00gHAAUFVX3lxTE9DVjM2VTRaZmYxOVdyZWc1VWo3cUFpa3QtNTAyZ3JtcHpHbWpnMjJwajk1aWRkRHVjalg3d3ZVeVYtbVpGcU05UDRGcUxneVpQWmhwM2JlZG5lWVpldEhocmdpZmRLcFdXZGdvWDNtMlJlV3Q2SkFmX2hua19RZGw1bzJjWGRZakpoN3BXbVBHRG1SZjBuM2dONnBxRmtzRTVNUTE2aVUxcnRDWWllRE5EV0ZIUm0ybDBLa1hDSVNQZA?oc=5",
+      "date": "2026-08-15T05:02:49.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "Himachal: बिना इंटरनेट भी बात सुनेगा रोबोट, खुद तय करेगा काम का क्रम, आईआईटी मंडी ने विकसित की तकनीक - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV2ZsZVRManlCejM1VnBVVTR4SGdVUm95SmNjWmY1aTB0YldkdXAwSGM0c0ZEU1RqZTJVbFBjSFpmbTA4U1FqYlJfQ1lKUEs1cWN2a0U3bXAybE4xRXB2NGM4NXdPWG1hQk9iWnpHcUhYRXEtb0UwS0d1YkU1NXp0cXNIRWhvTDZrQTc2dGhWUV9Nd0ZLNTlVdTB4ckhqNWJsN256dmZJeTZoZU9WdXJzTF85OUZld2F6U2M1LXhENDFZWXhNTzBweW5sbHREOC1NTldkeEpRRmo3NVNibGlUWklERlZyM2tI0gHuAUFVX3lxTE5pNURqaEk5RmNaV0Vyd0pjS3BkX0dqX05NRU1NRUNFV1AyQXRuM0I2bnJqMXdPWlEzdE9RRkxHSGxUQzZvclpkSkpKR2NIV0NoUnFvdmhMRDRhOUxhZXJ4a0J6OGhCUEpCWmowbHZQdW1VTlA0ZjB4NzdWdXU1ZDBiWXdqakRjYjFxR2Z2TlBLTVVFZTZNRXkySWN1aTJvR0RtNTNHbFBEWWlDMWpzMDFTM2xzemxMRlcxZFZIN2NfY3BYbTh2UTBSMXlBN01xVFhwS3NtWjRHTDZiUWNObGFDdXF5RGl4UFlBNG05Wnc?oc=5",
+      "date": "2026-08-13T23:30:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
     {
       "title": "अब सांस छोड़ने से ही पता चल जाएगा आपका ब्लड प्रेशर, IIT मंडी और एम्स बिलासपुर के शोधार्थियों ने बनाया वोकप्रेसनेट - Jagran",
       "source": "Jagran",
@@ -40,8 +80,18 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "IIT Mandi professor Gautam R Desiraju wins Ewald Prize for crystal science - indiatoday.in",
-      "source": "indiatoday.in",
+      "title": "IIT Mandi’s Distinguished Professor Gautam R. Desiraju Receives 14th Ewald Prize - India Education Diary",
+      "source": "India Education Diary",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUS14OV9YQ1RJeEtBUmNHSjBreld5Tm02dEh2SlViMV92STVmTWowYzB0N3A3R2h1enBFWkJlVllMYzRhR0F1RVlkRC1sTGlIbmxvNEh6RndLTEdzUTlXcFg1cHM0OGlrbF9yZHpQRTJ2TUg5d0JPUDVmYVdqb2dBdkJiXzRqQkkyd2ZVSzlrZmZKSjZUcWo5X1dBekVmNUNCdkgxRWN1WllnTTBoQUNF?oc=5",
+      "date": "2026-08-12T10:06:36.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi professor Gautam R Desiraju wins Ewald Prize for crystal science - India Today",
+      "source": "India Today",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZG1Bb1Bma0xOUGVtYzZFTVQweE04NkFZcjVOWGxMSHZ3NmQ0X3MwQ21RZWZiejZ5UGx6R2tnT19zcVJ1U2V1bDhjYlpCOFJjOUc4SkRlSDIwbjUtRHhoNVhCbXRpNU1PaEdNWXdUM3NDYnVNZGdsVXJ6RTllM1kxcFFtYzdyakNDUC1NQnJ4aHlvTGwxcy12R3doRmI2aEprQW15cEZIZFlCamxMaXdXV2pfaWJzTG0wSEg4NlJxVXNhbVEzTkJiM3llX2JQNGhnT3A1bDBaRkFra0ti0gHiAUFVX3lxTE5ZUnc3a19ITjBWeVpnVVl0OGNVc3ZaTVh1bVRJUmJDa1liWkxhS1dsZVNFOThxWXFaSlhGREZESm9fTDdzWjFWempZS3NwWkxLVFZCUmxhc3FuZERUOF9yNl9sRlZzcU9adXBnYmpZNlJCVTlndUlIZ1hKT0gyUU9BZXdCU0p6TkhrWXpmdXRPVUx0VjBQX0czaXBWS09hb29mOXBZYzBHTjhPVzJtNUMwMjVSdlJRZXhzUHdPS2IwLVhjbTJkZ0hvOXdIWm00a2JiR3VqeXEwT2p4YUpvalo4SEE?oc=5",
       "date": "2026-08-12T07:20:21.000Z",
@@ -60,6 +110,16 @@
       "match": "IIT Mandi"
     },
     {
+      "title": "हिमाचल: मंडी के सेरी मंच पर छाई खरगोश की ऊन से बनी शॉल, कीमत 100000 रुपये, मफलर का दाम 30 हजार - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMDBibWo0TWgtN2JBZDRUaDB4WmF3R0stNmlWdGpPTUxqOURUUzAycTlxT1ZWb1paMXlhOVY5cE1hWGJGT0g3QldsV3FVYzJHQVVtWWlWRHM2Y19MWkxmdi1SOXRIRDMxTVRBUXhZbVZaOEszTGREbFBiWkhvbDAySWZmNXVRMTJGMmVtX21SUkFkSEdIcFplSGJXMGRXZlZhaGhhSkQtQVZvc04xMW1KNDhfdThId1U?oc=5",
+      "date": "2026-08-11T03:19:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
       "title": "Mandi News: आईआईटी मंडी में एंटी चिट्टा जागरूकता अभियान का शुभारंभ - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -67,6 +127,16 @@
       "date": "2026-08-09T13:25:17.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "How Rachit Katewa Secured GATE 2026 ME AIR 51 with Consistency and Physics Wallah’s Parakram Batch - PW",
+      "source": "PW",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRW1BZXdCbEJnTzI5X28xa2x0dC1uV1huOVNCVTVGZXMyMXBvTjU3aTQ2MzBCeE9MVGhROUtWblg1VDVoSWRFWm1pVUdlaXNBZGx3ekp2UmNSeVNwcGw2MHhoTHdLOTN0TTNhejVVQmY1WWt3cUxOVzVxdGItNFJnQ3RCZ3RKVGdFalE1ZmNKbHZQOFp5UGM2UWR1d3lSQnpNZE82Z0JoVHJzZ2V2SmpnS0pJa0lGUGdaRHRrUXhkS19nTEgxcDFn?oc=5",
+      "date": "2026-08-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "IIT Mandi"
     },
     {
@@ -85,16 +155,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2JOamY3YkNveHBBQ2RRR0o3SkxtOXJwLVZ1NGJseUZLOUlub2pvQUxsUjc0TERzbmVsdmpJbDI0bVEzbVBqOXpFU3ZiMUZfQ3N2UC03WF9MWjN4dWxIVUxsZVdZSzkyZDV6aS1aWU9YTGlabVdfOW11anloVktEUDlfd2g5XzAxYkYtTGY3ZEtsTFAxMTdVU2gxY05tTFNtTFBLQ2hEcnlhWmRqd2FscWhKcVh1Zw?oc=5",
       "date": "2026-08-03T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "Groundwater Crisis: आईआईटी मंडी की रिसर्च में बड़ा खुलासा, धान की खेती ने पंजाब का भूजल संकट बढ़ाया - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2N3Z2ZTUzQyWVhxaW5EdHM5OVVDTHZIcE82bmp0WXM2M2dkV1dXbG1MWWVEa2ZtVzktbnFteUl1OFFNVWJDbUkzcWV6R0h5dThxb012V25IS3Rhd2NtbEhPSWpCU2pHcUpsRVRiZjZ6Ykk0LWZnMEpBZTg0cWdPQWpoWUJwS2hpYXZIZnp1dTdXeGdjT1JtY2tTM2xTMjdzRjRlNEctVzM3emw3eDNXc1hVWXVKRnJWNUpkZENKU0xGZ9IBxwFBVV95cUxNQkhpaTFGMTBZbmZ4RzkwY0Nkc3prUnVWQXhrZm1YZmxldG41bE0xQ0dvelNsTFg4cjFPTHZ1dnEzaWxrRTJRLXZ1VVo1cGhpd215Y25wblRXWFJNQjc4Q21IOFpURVhyd0hUWkhSOXNaSUxlb3JnakNBVGFQM3VxZGVqZHI2VzRfNUxiUGYtQm5NbUFReExNUUFTZ3lPSHRxcHZQYVJEdjlyYmhUTEJfcDYwWmRmV3lNbnc3SE44N2p4OWNyb2xN?oc=5",
-      "date": "2026-08-02T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "IIT Mandi"
@@ -124,17 +184,17 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ05SYnh6ajhZSnFCSnlESEZIQjdKdk5iYzJBbnVscmE1UzFDUFhQUF8yQjhqQ2lzU0tQajVKOGRUNGRZSTdGQl9mcmpSdXhNQnNNMlYwdTlmQ1ZSNXFtbEN3UkdJeVdBam1uWVB3YXRSQWxRWUJUVnNqckw4bjJVQ08wTXBqVTZSTkpJZ2w1NFIybXBLQTlmMGxOMWNVektyUUhhU0thaEZrTm4wQkJkR1NNY0RRNGpyMDl0RTR4RmVta2FlYjEwemJLbkZwcmVqWXB4a0ttZVY5ejTSAeABQVVfeXFMUHFGWVlfTlB5TFBSM3FjMmY2UmQyM1o0U0NldjFiM0lxVUFDVzdmblZnTTJPNDc5cnE2cVhzMVFKMnN6SF9ZRy1wVkFWeWN0cmxGWjNNeTNjdl9TdGZlS192bndRWWZoVzlQdzkxcnQ5V3V4LUV0WnpYN2pTc0FZNGRLamt1QkxmTVE4cFFRRUt4T1lna21GRGNvVTdMMUI2ekdWeXBVUkJLSXZnQlBzNXUxSzJSdlN6d1ZpdTRfVFdNRWliWUhjZVNNRFhsZGc0bTdHMHZLUUhjNGQxYllSUHo?oc=5",
-      "date": "2026-07-30T18:33:03.000Z",
+      "date": "2026-07-31T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "IIT Mandi"
     },
     {
-      "title": "SKUAST-K flags off first batch of BTech Artificial Intelligence students to IIT Mandi - Kashmir Convener",
-      "source": "Kashmir Convener",
+      "title": "SKUAST-K flags off first batch of BTech Artificial Intelligence students to IIT Mandi - The Kashmir Horizon",
+      "source": "The Kashmir Horizon",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUy1aWGZVaEdvTlh4M1FnZVpza01EU1h2X0dYYWpMcXg3MUZYZ1dJZVhvVjBMU25DbmVVQUYzR0gwS1JyaUs4YUJJZGMzV3REX1REVThXa2tGODc1Wm5yWDFXcVFXVnhaRzVzRGcybnE0YldjeTZ5Q2xTS2NtYm9fNE1TbUNBeG1nNXVxRllac05rR1g2b20tNnR5VUEyaEgzNTQzZ1poVkN0WW5WclJ6U1dPUVg?oc=5",
-      "date": "2026-07-30T14:15:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUlTWE84eTJiUHlXYkRaMDdhRUd3dXdVbTg3dlh0Rlg4S0xlOWRFcDJUNmxfbjVTUURaUG5qQzN3VHBnUkxyWS0wVGlVUFlnV254VmRma2c2TjNMYUg5dXZneG1OX1Y4SGktVFo3ekZqWFJLWUtnYUZoLU9HdHBrcEV6bkhmT1YwdzNlbEZGbnMtRXNGc0toYTI1SDBBTHd5c0VZWURrVWNUN3A0UFBWcjhCRGF6aFE5U3FWcU1EbXFuN18wcUE?oc=5",
+      "date": "2026-07-31T02:04:42.000Z",
       "kind": "press",
       "lang": "en",
       "match": "IIT Mandi"
@@ -145,66 +205,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX2QxNU9LczRmOEFqTGZ5dWM3ekVuUEJZN0dQaVI1alo1TW1jbkVjREFhMlRwRDl0OF9Ld3dIOUhuajYtX1ZjcUdjYTdWVzhFYWQtZDVjV2lSQWFlUWZGUXhfTHFaRDc3TkdaQ2xwUVg4V2VxRzI1WE1YVF95Y1k5ZDQ0V0d1OGwxWGw5cGRRbmphNlV5Zng0WWwydEU3UnZ4SVpGRFhLYVJzNFNzRE14bnpITmpBNXhURm9OZm4yWlRPWEdTajhr0gHMAUFVX3lxTFB0ekxIa3B2UEk4T3R2V2QtV2VmTWR5S1ZwWHZ0aF9ITXlZSVdiNjdkLUVpOXJPQ2ZXODhkaHZ5SzA5YUg1MlRONmhLLXVFZzQ2cEg2a2QzTFZOdUpPSGV6dkNhVFJOcXdQUGxuLVlyUXBpVXhkbVBxYlNScTdTc2xZNnd3T2phSERnaERNTzZiOHA3WjdvNzZmX3NmN0laU2lfNkNucGhzY1g2R2tjbEtvUThXek90Sml1dURhNjZRZ2pmYVBlMGFxT1Fqdg?oc=5",
       "date": "2026-07-29T14:55:25.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT Mandi: अब खून की एक बूंद बताएगी लिवर और किडनी का हाल, आईआईटी मंडी की तकनीक को मिला पेटेंट - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOb3FnYTJvLTFSZDFWcm5rTlRRdlNfdGZ5LXNDdVp1bXFDdGdocnZSVG16WWtLbWhpWm8yS3VIdUNUeElQRlpxXzRnUjBxMEJpUlJKc2ZQSnlvQnh2dG5UOU5XbHB6dC1Bb0dfaU5rYzhEMVRMVkJ2UTJsVHUxdmIydTltU0VyVUU5X3hpU0JMNnFvMDc4SDlBWkZrMXd2SmlRWEN0aDlTZlN0OEM1ZGtoNHhiY1JoZ1dkcEpTUUFaSV9sYzVmc05LME1ReHE0RnNiWUdXdG12Yy1tS3d1N3lhdUtSQ3Z3UVFyYXJhUmM2TkNiTFE3UmY0bWxsZUNqYzBJS1NlNGxlZVPSAY4CQVVfeXFMT1NUaGZvVDNoMGxpTXlrVXpBYWFmMmNhU21zUkV4VnRKNHRjeUZnUlFxYVJKR0MxcUdDUGs2V1NqNXF0S2piV1I1a1dfVjZMcHIwaEk5VlhDZGVpLS1BTV9IdHdRV2E0UlBDVDRlSTRvR2ZwV21xZHByYkwyYTVhUkJLNk1vcWpQSEIyYTdtYzRKYk5Pc3dla2cwYnVQa2o3NlJkX0huOG83Rk1uUkxQZFFHcEJfSEFaTlRncUpiaC1lc3Q5aTAyNEJMWUJVVGpuaHN0eFpFN0RtMFFlaWxUMlZZbWoxUTRGNFNVYm43TTAwdWh4US1VNHg0V3MybVR1Zl9CbDFhc2dKOWRxSTdB?oc=5",
-      "date": "2026-07-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT मंडी ने बनाई इंसानी त्वचा जैसी ई-स्किन, रोबोट अब महसूस कर सकेंगे स्पर्श - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPekpCQ1JuWG1lanhLQnJONGFiUS1mOHk5eXNvblZKQzdDU0xmQWNZQkpDTjF3Z2ZTZVRmUjRVZUNQMHJTQWhSUU1GODJNS2E3bVFXUlYyaHBuMVB1TGUxeVlfTEdjYkRTcDUzMkNWS0dvLTIyVWQxSEtHeVhUbWxxU0JyVTRZWEJma24tU3B3V3FoV0xqaFpCdjg2SERnNWZsa3ZremVTdW1qRFJzeHBnQVlnTlZVRzZDRU1PaUFPY1pNWS1aYWNvdDNLOFpjVnBm?oc=5",
-      "date": "2026-07-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "This IIT Mandi alumnus quit his L&T job in Dubai to join Indian Army, now studying MBA at IIM Calcutta - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbUdxYl9tYzEzOXRJX2J4SURtU1dfblhCc1pMdXVyT1VhSHNfUnpzdmxzRkZKMWlvMUNFWmQtd2phQ25jR3duZ1JVOUhCaTFnVl9yWngxMjI0eURqYXZqYTRBVW5NaTNpQ0ppdTFBNi1Reko1VTNHeHJtSEpSN1p0MVJzSTVuQTA4TFNQY2VjTzJ6S0k0QURsZi1FRi0ybnBVajZPZlF4RjZlZEtLX1FkUmZXUnI1TzBrR29pbXdGNzJqeW92NGhTVFBHekNIVWVxLW9tMm9wV2hQUlVocmh2RDlvQ3QwT0lYdzRiS1dyNG1nd9IB9wFBVV95cUxPU2dlUTlTcXpOMXFJVUpyUk5kTFdWLWFGa1hfaUM3ZnZnWVcwM2FfRlBTZDNUUjdxNzFzRGVEaUtqWlJ2cmM2cjZPV3FteWM1VEt6QVJmRDAzQ0o5NjRoS1Z3d0FwWWFHd2FmMHNhcGY0d0FvMGxjSk1Rei1fUmozeEhnWHBLNzhxZW9VME5JOGFTSjV0UC12NWZtSzZVUnhlOERYd1FRV0FESEFvNEdFNXZxNmJueFQ5OUdKU19rUk5oYnVPMkhwWWpBTGJfc1ZZUHFydkVEcjdnVWdESEVsanNMN091MFNub0I4VFMydjJaY2wyblNZ?oc=5",
-      "date": "2026-07-23T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT Vacancy 2026: आईआईटी मंडी ने निकाली नॉन-टीचिंग पदों पर भर्ती, कौन कर सकता है आवेदन? जानें सभी शर्तें - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcy1RSk5QdkR6YnFaQTYxcFJpUkwyTk1xeXlKMk10R0dCTTkzWHhNeTVmUm82bVdWTklvRXZtMWNTSnNVNVZ4bldUbE1zT29STjliTWZzYklUejhNTlZhUUNlUTBmbDhrWXJDb2RyNHh3Nmhvc3ZWejVOaHZ0TmxxaE12bXphMzlRckMwbEhJNDdubm0zUDB4VWd2WUJLWUZXQXZIaWZnY3h6TjdBMWhwY1JMeWpFQXRzSEc1SnczbHMwNUxJdnp4THg3cjhfdXA0aEdYMWF2aTM1UVlpX1JLYjlBVTVIX1kw0gHuAUFVX3lxTE12eVZtQWZqcDU0bkFjTWxESXdDUGV3YzNzbU9uWUFBUFNVSVlMRks3T1VRMUNPeXZMYlB0THJqWF9jT1Q3Q1B3RkFIRTNUMWVwQXJYUzl2WkVBVDQ4aDJhcnRseEtaZEpCdGFKbGtvV21FaEhOTHFGRmFLQ1R3RER2bEJ1UEtGMmlpeHowM01NZVFvZ1hkeHRJV3BuMjVoM2ZsUXhCRnpZUDJYemV4UFF5djBueUR3NnFjTlZvejNzRzdyTXZUckg2OXp3bDlYbUFBdEsybThSV3Y5bEVXbHA2NVpDb0xTenRTWU5fNVE?oc=5",
-      "date": "2026-07-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "Himachal Pradesh on high alert as red alert issued for heavy rains; all schools closed in three districts - The Hindu",
-      "source": "The Hindu",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZFZYNS1jTlFzQkJyWTZxOW9xWlBUTzJKTUVRa3cxSnNCVm5DcGdzZG5JdE9Tam9CTzdLSW5KMHRIcFlQdVNscDk1eElHbHd5RjNQTDYzTlNuRGNESjVqYzNLemJNaXVoUUkyZ0I3MzVKS180N0FNYmhibndrMGNmN1RlQUVhMHY5S0Ywbk5IWFhjT1cyOHpFR1pidlhHajd0SjAybFBYVTFXb2JWM1J0Q2VOU3IxMjFwYTA0Vkt1VU43LUcxWWlTck56Zm1nU0c4QjgwcXFKUFlhVF9UbmltWEM3em00UDBHNW9hUXQzUm1wVUxZSm9vNFVicGk1MEFSdERyLWlVX1h4aFAz0gGTAkFVX3lxTE1RemI3bHMzdTBpYTJUUkt5VmFtZ0NVZ3VTY25QQ2s5QkNORXBNRGNPX0g4SEIzM1ZwbHNHY2ZEMlRiUU1sWE0xQkwzUWFNWVRRbHhmVVBvaFdhTHRWTThMMFYxNWl3emZEU2swVjhad25vb2xQZ1hwdzFZSHo2QzMydl9KMHpfQVVrR2dWSWVmckhSckEzbFUydDdDdkpMUHBVcGJGNE1Qb09jbWJFRjVSSXFfemQ3YkJ4QzJTN3FQUGFEdUtXZG5RTVpLRDJCdm9sSkEwWnZLTFVtUjB2aXcxMURzS2p4LVBUaEhFUWdnN0hiZnFXaTJmSmJ4dWhjaVJSYmYybGktcE83ZkpuSDVuUkx3?oc=5",
-      "date": "2026-07-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "आरनी के गर्वित का आईआईटी मंडी में चयन: जेईई एडवांस में ईडब्ल्यूएस रैंक 1295 हासिल, मेहनत का श्रेय माता-पिता... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOam5PUkZ4XzJXX1dzZENJcndzbHczUkR5QWpxalNEQ3lvaTRRS01SbWNIVVlVV21ZT3pnZFJMT2M3TW9zN0pmTzc3a0dZeTBrRWxzR3pEQU02VGtZWXY1VTJyeHlYZHhmWHZGQnJJU3BGaVEwVVlwZnVYRHNpbHdUeWszdno3SzlOanJpN2JZY3RyUGV6LUw0LWxfck5DUl9WX1Yzd2tSZGJiWUdtVXJPMGpscEVqWTNzaHBFSC1Xb3lUUmxIWkN2Sk5WOW0tOXRCNXo0cGVBdmdiRlNhaDdwc1EyY9IB6AFBVV95cUxOSWpkSXNzZGFMSFVOY21rcjk5SWN1OFpDTkRIOUs1TWYwMlFjRGhaeVdOakJyVS0xalltdFMxMTd0UHNkVndCODJYX3d6SnVmdVFhV3BJNUlZQkpYNmFyLTYwZWlqckx2N2U4aGtobnZrcnM2VC1KVmlQZE1kWWlla2tKY0FGTk1Fa09HektyN3Ywdzg2VDhFSDBQWmczZmRjLWNCRjkwYUNHc01ZeTliVGdLaWtpZGwyS05aNmtuMHdVMU80cGhVZU85V05LVDY2aHBLbmhSTlZDOUZWQURlenNWM2ZiNkh4?oc=5",
-      "date": "2026-07-16T13:52:14.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "IIT Mandi"

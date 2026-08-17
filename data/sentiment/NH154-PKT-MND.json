@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-13T19:53:27.730Z",
+  "updated_at": "2026-08-17T19:22:47.744Z",
   "project_id": "NH154-PKT-MND",
   "press": {
     "n": 20,
-    "positive": 6,
-    "neutral": 6,
+    "positive": 5,
+    "neutral": 7,
     "concern": 8,
-    "avg_score": -0.045,
-    "avg_magnitude": 0.305
+    "avg_score": -0.07,
+    "avg_magnitude": 0.28
   },
   "youtube": {
-    "n": 18,
-    "positive": 9,
-    "neutral": 6,
-    "concern": 3,
-    "avg_score": 0.172,
-    "avg_magnitude": 0.672
+    "n": 17,
+    "positive": 8,
+    "neutral": 4,
+    "concern": 5,
+    "avg_score": 0.106,
+    "avg_magnitude": 0.824
   },
   "overall": {
-    "n": 38,
-    "positive": 15,
-    "neutral": 12,
-    "concern": 11,
-    "avg_score": 0.058,
-    "avg_magnitude": 0.479
+    "n": 37,
+    "positive": 13,
+    "neutral": 11,
+    "concern": 13,
+    "avg_score": 0.011,
+    "avg_magnitude": 0.53
   },
   "top_positive": [
     {
@@ -33,8 +33,8 @@
     },
     {
       "source": "youtube",
-      "title": "good",
-      "score": 0.8
+      "title": "Bhut he acha kam hua h❤❤",
+      "score": 0.7
     },
     {
       "source": "youtube",
@@ -44,6 +44,11 @@
   ],
   "top_concern": [
     {
+      "source": "youtube",
+      "title": "Fail kaam",
+      "score": -0.8
+    },
+    {
       "source": "press",
       "title": "Slow work on Thanpuri-Paror stretch of Pathankot-Mandi highway matter of concern - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1ZTVXhCZ3JHdHNVQUdoM0hweDVodFdtQ1FqNDNzMXQ1cEM4Z2F3WW9wRmZaOGd0UVgtNDdlT0VHV3lrcG1fcUV2TWE5WXVTaXBjRnlMRVNyT1g4aTc1V1RtQ0IzSHp5bE9QdXQ4ZklJOTJxbGlFVEotZnY3dlQtbFk1eklWY3VXMTBXMUs2SFpvOGNHSDdpdWJua19BblE5UFUzWHc3cnR5czhRck8zMVBpYjFtYTd2djhLeVF1Q245QdIBxgFBVV95cUxQblZldkRYVGYtRE1VYlB3dFh2dWdmMjdROTB2REVzM0RTbEZvUnZMTFdDb0NYbktxODhOcnhmUjRBUlBYSXRGVk5mZi1QdTFVZk1uS2VEbkZHVXg1QjBqV3pwc0hSVEY5SEhEWTNaNE1LX2RueTJ3dENMN1hEaVdlMUM1a0VfNjFBM2VjcEh2U3dGS1V6V0E1UFRCZEFWZHl2a0JPQkRXTGJWaTZJV25aZFB4NmJOdUNoVmlWeXppaUlTRmhkR3c?oc=5",
@@ -52,12 +57,6 @@
     {
       "source": "youtube",
       "title": "its pathankot not pashakot",
-      "score": -0.6
-    },
-    {
-      "source": "press",
-      "title": "No DPR in absence of consultant, work on Palampur-Padhar road stretch delayed - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenFQeG4zSmxZcVJsVVpYOV9MZEh2Z1lzWFo1SUFiS1NPX1VzeVp5am9LOG00MzF1d1RNbnhGRzJibEp4ajB2anVVR2ZBU2hwTlphcUVSWG1GSE9jTnpwRmNCNVBObk9PVGVsemNRd0NSTkxBaHNyeUN6LWJ3aWNYYmVkZU05MEZwUHNWMmdhS3gzcU5PQnR6LUNJWnJ1Wk1ZTkprOEFjT0FqalBLTWpfWmtremdjREZId3QwZNIBwAFBVV95cUxQdWZqeEY1RGFIckY1aERqdVpHUzVocWk1MGJvYm1KVTFwT3Q3QzdCOUwwVVlWLWJRT3dUOEZOM1dWTmNQM3JlZ0tGSl9yeWdXNWRvYTFzOWQ1NEZSTUJzZFFqMElDM1dMaW5Xb0xlbzhvdVFnZVNnWTd4b0N2REx6S0F4VlVPb19qakZqSjFwZXVTSmFwQUVNdk1aUGY1Vm5PR2tUTFJGbU5idDkxRHpZcHBYX19YWXF2SmtwTnowR2E?oc=5",
       "score": -0.6
     }
   ],

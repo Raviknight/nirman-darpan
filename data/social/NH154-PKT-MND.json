@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-08-13T19:52:18.592Z",
+  "updated_at": "2026-08-17T19:21:28.713Z",
   "project_id": "NH154-PKT-MND",
   "counts": {
-    "press": 67,
+    "press": 70,
     "gov": 0,
-    "en": 56,
-    "hi": 11,
-    "total": 67
+    "en": 57,
+    "hi": 13,
+    "total": 70
   },
   "mentions": [
+    {
+      "title": "1.17L saplings planted to offset loss of trees for Pathankot-Mandi four-lane highway project - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFFrN3p2blRLNEswd1FESXU5N2s3N3ZoZ09SeThra3AwT2FpTWJzcHhxWmZTeGFmemo3SXJ5QzNPZHB5NjhrdnBiekpPcGNoUjA4Wk5iNi1mUy0zZi04ZTVxak56QUI5QVU1OXU0YnBmMXA5eDRkY0ltRWJlSGZZTnBHNWV2MDFxUEZLcHF3S0dScUkxSU5qSDNnMFNfUEVkVV9ZY2FEQXRQalUtRUlRQllfb05wbUZnX0FVQjRWY1d1b0h0NmxoTjJqUWZhMkhXZlHSAdYBQVVfeXFMTkcxR1RSVlpkcWkwT01RRjN4Q291Rm5ibkljeXVjX3FOZEpvVDNod2Fid2lCVnh5NHBfSHVpY3A5UWdQUFZoaVB1MlA1UXpvYzlCZDBfLThqVmlTLXgtTGJweGZrYkszaFotRzM5SnNUTnRzZGJ0QWRHb0RYUF9zc1FQcDRydThwdmtvMnRKWmEyUXBmcEJaT1ctelgwWUFJd0VITFpBamxlbnFBQktieGhyLWFZRW9leGNIRHJGa2NDaHJILVdmVGpTM216dlJjc1doVExXdw?oc=5",
+      "date": "2026-08-14T19:30:58.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pathankot Mandi four lane"
+    },
     {
       "title": "Flyover construction leads to traffic jams on Pathankot-Mandi highway at Jassur - The Tribune",
       "source": "The Tribune",
@@ -197,16 +207,6 @@
       "date": "2025-10-23T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "Pathankot-Mandi Fourlane : परौर से आगे फोरलेन का दोबारा होगा टेंडर, NHAI ने की तैयारी - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQRmFJZHREc1ZscjB1cnNaUTVra2oxN2dtRTh4aG9RcldVZDNhaFJyN2txVXNZOUtRX01DLU03bTZ4bDV0TG1QMW9KbG5aU3FYOUN3WUhuNUtULU1rbjNqOXMzaG9SOW52dVQ3UkRLS28tbVl3NjZJWXltZG1yOGhJYURtZy1SUjBjdkdhQmVYdjBGaGdqQkFxSEV3SHFIdjJ1ZTY4RXFfWFR0WDN4U1NCeGpMLTJIOTMySlVuTWFhaDZMU2k1bEpQeFZWRTEwVXN0b0tGZGVOdnEtUGQ4UzBPcnktcmxNNmw4Q2RhdVRCQVFqRHpFZ0RaX1BkbEV2U3YzVVJvd290S0swN21QNGxud0MyN2FLVXpoX0hHX2VnTllfSXFMSkNuVGNhZ0ZmbV9UaklpVEp2cWHSAb4CQVVfeXFMUDkzMmR3cXdacGJ3YjBBVWdnc2RacmxtWngwZlFISHhaRTJFdzBZOFpHd25SM2JqVEEyS3dFRzlieUdkUzlRckFYaU0xLXJqVVBwQnF3OG96YmJMOWloYVdnSmZvcVd4bl9Xa0NIX3gtX25BbmJFNzVZZjRrbnQyY2x3TmtpbmxQV0ZUUFhHTGxyUGhtajl5X0drRXY3eGtjMG9JaXF1MUoteHlZdmNTVklGUURoRGN1b0YwNjRRRS02TV9QRTFaWWhINXhDUWY0MkhqR2NhTVlqa1ZnVVZRNEZiV2dQTnJyS2JCUnJOWWZycFU3MGgwS2RPcjVFWEE0RmVQbWZQTGlnWDVrWGpva2ZsQW5PWDhzMU5DenU1d05SaEJSZXdYMG9wYmxVei1VbjlNR0dTWmhYX2hRTmJB?oc=5",
-      "date": "2025-09-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Pathankot Mandi four lane"
     }
   ],

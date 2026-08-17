@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-13T19:53:26.478Z",
+  "updated_at": "2026-08-17T19:22:41.680Z",
   "project_id": "SMART-SHIMLA",
   "press": {
     "n": 20,
-    "positive": 12,
-    "neutral": 8,
+    "positive": 11,
+    "neutral": 9,
     "concern": 0,
-    "avg_score": 0.215,
-    "avg_magnitude": 0.34
+    "avg_score": 0.205,
+    "avg_magnitude": 0.32
   },
   "youtube": {
     "n": 26,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 46,
-    "positive": 21,
-    "neutral": 22,
+    "positive": 20,
+    "neutral": 23,
     "concern": 3,
-    "avg_score": 0.122,
-    "avg_magnitude": 0.261
+    "avg_score": 0.117,
+    "avg_magnitude": 0.252
   },
   "top_positive": [
     {
@@ -47,12 +47,12 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Smart Kitna din bad launch hua tha dikhaiye",
+      "title": "We have an overpopulation problem for sure",
       "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "We have an overpopulation problem for sure",
+      "title": "Smart Kitna din bad launch hua tha dikhaiye",
       "score": -0.5
     },
     {

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-13T19:51:55.266Z",
+  "updated_at": "2026-08-17T19:21:05.607Z",
   "project_id": "MANDI-AIRPORT",
   "counts": {
-    "press": 9,
+    "press": 12,
     "gov": 0,
-    "en": 6,
+    "en": 9,
     "hi": 3,
-    "total": 9
+    "total": 12
   },
   "mentions": [
     {
@@ -30,8 +30,8 @@
       "match": "Mandi greenfield airport"
     },
     {
-      "title": "16th Finance Commission meeting in Himachal: LOP Jairam Thakur advocated for special grant to Himachal Pradesh from the Central Modi government - nagpurtoday.in",
-      "source": "nagpurtoday.in",
+      "title": "16th Finance Commission meeting in Himachal: LOP Jairam Thakur advocated for special grant to Himachal Pradesh from the Central Modi government - Nagpur Today",
+      "source": "Nagpur Today",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRkFvbGtta0lBcF9zQlc2bFZYNl8zLUlhNlF6clRLRjA2NFFmY1hjNHlpZjdiVjlra3lMalh5TUFibkFBak9IUDVvUkNjM0JFYlBIZEY3TjI3bkVBSjBIcThBYjNPd094eTNLOFZaamc4MzFZb2NPUlVfRUdxWUZNZ0EzSjR0d1RRTVFfbHZmeHJ0ZEdzRXZIWWFvOGZVUXNqSkVmbEt0UXRSa296NXYyX2QwLURDeUxjdzVvdGRJTGt0NzRmaWtGamdHU05UTDdZQ0F0REhfRG8zNUxuQkxyRDFybkJvMVlsY2syT1RrS0RNVENhR05ScVV6cUViamc?oc=5",
       "date": "2024-06-26T07:00:00.000Z",
@@ -50,11 +50,31 @@
       "match": "Mandi greenfield airport"
     },
     {
+      "title": "Outgoing President Ram Nath Kovind to address nation today at 7 pm - Business Standard",
+      "source": "Business Standard",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd3dSTXFJWVgzU1k3bkJEWmpWQlRPcHA0dXRlX3FaMGtKNGlXMmVONGRrZVhVdTdMX0xjc3BObVhPOV9sSjZBTTNUblpxaWxKX0VHSDRVQnE5cm5rWmhDZEhXMVEwS0V5ZnRvaHJrdlpna2JNTll1eWJLVVdyWFVocm0zM0Z6dTNhV18yVVlLYTQtazRhMkNHNkJ0WHZNMHI2YURHYzZzVlNRQXZ5cVpxX0lWck1rV2JnY042aGlIY0hsRDFaYlhIeEtTVVZpVDV4QURaTjExSlluZ0hz0gHiAUFVX3lxTE1nMjBPVDUzVnU4b0h2c29KYTNtZ2NEUk02ZF8tRXlKc1B5QnFBNl8zT1RPZzBsdjh1SFNHa3FjUTRfQVlZNTA5WFN0Zmd5REZHY2VyTFpzOVdBYlluOFg3MHdVX05fNnlNUEJYUlZWVWg1ZV9LUlBYRWZYZUhwaXJaLUdyQUI5cC1iNEZpekpZRGVRRWNXcHhER1o1WXVhdFBFZUJDRFM3NExISy1FRkpiNnR4QlFwT2ZIdG16VVZxUkhmVHk2TkpyUWNEZm1sd0lvajRiU0RFQ0FFeHhRYU1ia2c?oc=5",
+      "date": "2022-07-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi greenfield airport"
+    },
+    {
       "title": "Rajnath Singh to visit Jammu to attend 'Kargil Vijay Diwas' programme today - Business Standard",
       "source": "Business Standard",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZXdBZ2NsWUpaNW83R3pnb2s5MEJpV0hMUkdidmozcUM2WmJ3U01JZGY5aFRueTJ1MTYyM3lZNWhDbWZqQmdNaTBVNTZ6WVRGNldkOERBNkdMTDhvYjJtUmxNcDE3WllHWUFJS0F6ODR6VEJmWUZtUkYyVXBsZWEybUszUDJOTElLak14RFJQQzgwSGxyckVjNGh3VThzMndVUWszNG5oMGlUdHlDalp6d25VUEVRS2NsT09UelNtQ1I4YUdXekhWY1pab3lDZmVRS2VuS1VGXzNUcUY3QVJMZFp1TnJMd9IB6wFBVV95cUxOUUtkWVU4bzdLVFAxYlh2UzhSSzIxQ3FaU1pvdXlpSXZhdEhoUVNzQ0cxSUhpNXBLYng5bzQ5SlBVZ3lxOHVrQXRGZ214UXp4N3haOUNqTWdvY1lXUG0yejJyeHRMQjdoUDR2U1JVd0d1WnFpZGh4bFRFaF8tbmR6U05seE9JbXFGNTJmaXhfS2N5bFFfNmt0TjNJUDlxRGdvcVB3bWYyc2gxUHViSkpwdnB2dkl2dXcwZXplZUZRdmQwQ3dSeHYzWnVacnhVWDRlVUVLemxKajVPWWZxRjgtMTU5REVIR3hsMWxv?oc=5",
       "date": "2022-07-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi greenfield airport"
+    },
+    {
+      "title": "Himachal signs joint venture agreement for Mandi Greenfield airport - The Statesman",
+      "source": "The Statesman",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeFJYdG5EZnE1Q3QxU0ZkT2RwNVBHNFRkOC1CY2Jia29raHBMOFd3eEJSdFk1SndCQ3ZIUms0NlVoQVNDQkV2UnBmVzdNQkQ5SFREUlBmRDBWeDNDLXUtNmtZMmNINmhTSzQ2b2lLWDZmVFVQcnNpNXp4UDVpNFNJZE9WdzRfTjRUNEQzbEhzMGE5Q3V5UThlU2RfQU5ld2VOcUpFZzIwOTItS3R4X1pGOGJvWUw1MjB5TE95ejlYNNIBxAFBVV95cUxNMFBHd1BFYzB3eTZzMl80SWcwa25HcktLSmpIVC13Y2oyVk1TUXYxZnE4MjdRZ1FjMmktamVhM0FvOTU0WGNqSXJaTFNJRnc2UzNWaTdmWHZXMVR3Mmx3MEtMeEpiS3BYN0M2NDhwMTBGQ3AwRERTMlFyU3hnU3ZlM1FmWFJadkt4dTZUZ01mQlk4OWVuR1FidWpnVUFmdUlHMTZlYWJkQ1c1YjkxYXdoVlpSal9JckFpLXRHMmE0M2ZOLWJS?oc=5",
+      "date": "2022-04-26T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Mandi greenfield airport"
@@ -80,8 +100,18 @@
       "match": "Balh valley airport"
     },
     {
-      "title": "Jai Ram demands LIDAR survey for Mandi greenfield airport - thestatesman.com",
-      "source": "thestatesman.com",
+      "title": "Himachal CM calls for expediting Mandi greenfield airport work - ET TravelWorld",
+      "source": "ET TravelWorld",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONnNHN2twRGVlWTQ4Y2VLcEFuN0RhcENYdVFSZG1oOFA5Qnl5SHg2Uk9icVlZWVVEbnBnNy1MRl9BOXFvbldleHRpOXFndnE0MVg2S2lkaTRjX0FqcTNoVzcydG5ZRzVHRVNZNTd0SmhDakdGUTRkM3RKN2F0Qy14U1BpM3BFQ2VGNjNzYlFoS0JHTjctUV9SWE0teEdYN0Vub1FQcmkxb0wtRWg0RXExM0RFc1lKZUdmanhlVWRLdVRPSGtNbW1GeUFqb3dBS3dUbTY4RA?oc=5",
+      "date": "2021-03-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi greenfield airport"
+    },
+    {
+      "title": "Jai Ram demands LIDAR survey for Mandi greenfield airport - The Statesman",
+      "source": "The Statesman",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnZSVm9BdTZUS19ibW9UQ0J6UjNvVVRLVWgwQ0hoT0MxU0VsWVl1S2hra3dNTGxwd19LYWJ0X05CRFhjTlhuekFyN3FQakdUSzd2SW5kb0pwNHRCYWswLVBoZnZMckdaUm9zTWUtdEJSS0szT25kd2hDbDFsVVAtNTFrQXZNMFhXc0J2Qm9KdHhjTWd5Wnhwb2FFRVZ0OERoc25wNEV4bTlHSjNZcnR5VWlqeUZLVHfSAbwBQVVfeXFMTklOSWR0Y1NKZnFkRklIcGM2cm5WdWFSMHkxakdlRWY4cHdzTHUyUVMzOEc4em1BZHVqV3Ruclh0dDd0RVNBMU1HZlhaWENzaTVVQUJ4NXhnZzEyNXRwWTNwN0t1WHlOUno1VGp3VHVleU9sWG8zbXAzTTl2ZWVZcE9ZRml3NWZGdXFDTTlVcUZnWTIxdDhDR0ZibDV2RlBIdDVtREhqWWJ3bnhaclh6bzd5bkxud2QtZG9kNVg?oc=5",
       "date": "2021-03-08T08:00:00.000Z",
@@ -90,8 +120,8 @@
       "match": "Mandi greenfield airport"
     },
     {
-      "title": "Page 12447 - thestatesman.com",
-      "source": "thestatesman.com",
+      "title": "Page 12447 - The Statesman",
+      "source": "The Statesman",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUHpVUWhvWmFFSU9qREliTE1zT28tZFhVUGdqSlJIeGtFTEdyMHgtM0M1aU1ZbFFfc3U5MlBBN1dzV2RubDFoTHMwclNMZGxWNEZ3?oc=5",
       "date": "2021-03-08T08:00:00.000Z",
