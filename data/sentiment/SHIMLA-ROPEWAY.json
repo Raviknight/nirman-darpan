@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-17T19:22:57.181Z",
+  "updated_at": "2026-08-20T19:26:47.839Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
     "n": 20,
     "positive": 7,
     "neutral": 9,
     "concern": 4,
-    "avg_score": 0.055,
-    "avg_magnitude": 0.245
+    "avg_score": 0.04,
+    "avg_magnitude": 0.23
   },
   "youtube": {
     "n": 22,
-    "positive": 19,
+    "positive": 18,
     "neutral": 2,
-    "concern": 1,
-    "avg_score": 0.536,
-    "avg_magnitude": 0.932
+    "concern": 2,
+    "avg_score": 0.482,
+    "avg_magnitude": 0.914
   },
   "overall": {
     "n": 42,
-    "positive": 26,
+    "positive": 25,
     "neutral": 11,
-    "concern": 5,
-    "avg_score": 0.307,
-    "avg_magnitude": 0.605
+    "concern": 6,
+    "avg_score": 0.271,
+    "avg_magnitude": 0.588
   },
   "top_positive": [
     {
@@ -51,14 +51,13 @@
     },
     {
       "source": "youtube",
-      "title": "I am from Solan. I can tell you this is just a false promise. \nGovt had promised a ropeway project in Shimla more than 5",
-      "score": -0.5
+      "title": "So basically Shimla monorail isn't a thing anymore!",
+      "score": -0.7
     },
     {
-      "source": "press",
-      "title": "Shimla ropeway project hit by delay, cost soars by Rs 1,000 cr - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1JwN0NEMDdKbl91REFoN2pncTJhamtTMVcwOHNoQ2V4dkNMLXF0N05XbnZyZWRoTVVkeU5Bb09HQTd6YXhmX3RrVDJmajRBUUVwSWdFeXp5YjNFam5MZzdBcEFiaU1fMlcxY083dlJmSF9YcEVRY1dwbV9WaDZDWVlUYmJ5cUVPbnpSeWNZSTA1YS05VWlyb3ByWVVrckUtdUs00gGnAUFVX3lxTE8yY2RrSkRRdWZKQ21mTHlmcUtTTnJkQ0hKTHVLVmJMT2Q5OHctSnc1Z0ZHM3pzMmpJTUljSFZ4S0NTUVpqMEVncUh0QmhrbjhnelBPSjYta1dKWGFtb3AxejQxaGJLNDduZTFfYXp6anpNTllRYVpIQlFGUnppNHA3ZHdtZnlsLVlJRlVBOTBFcGI2SjY0YmlGOVRNSVZZSzJjS3lPMV9Z?oc=5",
-      "score": -0.4
+      "source": "youtube",
+      "title": "I am from Solan. I can tell you this is just a false promise. \nGovt had promised a ropeway project in Shimla more than 5",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

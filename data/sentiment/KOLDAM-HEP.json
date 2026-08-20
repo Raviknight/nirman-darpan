@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-17T19:22:44.103Z",
+  "updated_at": "2026-08-20T19:26:36.668Z",
   "project_id": "KOLDAM-HEP",
   "press": {
     "n": 20,
-    "positive": 13,
+    "positive": 14,
     "neutral": 6,
-    "concern": 1,
-    "avg_score": 0.225,
-    "avg_magnitude": 0.31
+    "concern": 0,
+    "avg_score": 0.26,
+    "avg_magnitude": 0.27
   },
   "youtube": {
     "n": 6,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 26,
-    "positive": 17,
+    "positive": 18,
     "neutral": 8,
-    "concern": 1,
-    "avg_score": 0.292,
-    "avg_magnitude": 0.396
+    "concern": 0,
+    "avg_score": 0.319,
+    "avg_magnitude": 0.365
   },
   "top_positive": [
     {
@@ -44,20 +44,20 @@
   ],
   "top_concern": [
     {
-      "source": "press",
-      "title": "Stones fell from hills, 5 vehicles damaged in Himachal Pradesh: Chandigarh-Manali highway among 357 roads c... - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaFBuNUx0REVCbk5XdlpVdTl6c1pFTlNCcFE1ZkVSRXB4RmVFcTNvSFR3cy0xRU1uR3hVcmVuTDVyd21UbUdpX2Y5TDZHTGMtR2lFZW93TWFnTXdKaWp5YXNxRExWaERhZno0cHJOTjBhZm1MN1RQWmJSSm9BVFVkTTNzaWd3SzRJU0FjVjkyXy1FUHVCRFJpWGptdzBZVGd6cC1qZ2xTZWRQX3RfYlVrYTdwLUN2RVdHRTB2aFVjS0V2bWJidUV1QjJrNHRFODJhQXlZSkVzcEFOMkhFd3hiYnVaYlFYNWMxTThpRnFKRzJGaGZWcUNJTGJfNWppVWFheHhsd0tCUmbSAY4CQVVfeXFMTWdHZUhOQV93b3J0M0d6TVJhRVJTSjZLcUlfNkZlNFUxX2NnZXVTUEw0TXprZGQtMjl1NTdVWFlLdVRBSkpKVGJ3bnlnbkFpNDZycGgySDJvUXpJa1dreFlEWWFsS1liRlZLdHJ2MjBUV2Vxd2ZjaGZLWWwzMldCdUlSY0xpalJlVDZJbHJxX0E1UVJkVDFIU0lPRkdlQ1h5Q3hhMExEZUdqX3E1WTQwNEp5X0hUTE83Tk1IdlNJZXVxV3lUZDU2YWR0MW1GU3B6SndEY0NNZGx3VHpjX2g5N3A5ZnV4WW1qOVJtbDZ0c1ZfZy1KN2JlcHVpUEJxV2JETlZWV0VfM1J2dWZCcFdR?oc=5",
-      "score": -0.2
-    },
-    {
       "source": "youtube",
       "title": "Hme garv hai ham koldam ke nirman ke sme 2 saal company me kam kiya hai",
       "score": 0
     },
     {
       "source": "press",
-      "title": "Rock falls on moving vehicle in Himachal, 2 injured: Water released from Jhakri and Koldam; alert issued up... - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdGJTSnVlQkZuT3g1RTlXeWlnZlBEOUcyR0wwRlVlczlWM2Z6UTdLYnpWTG8zTlZIQUtrTTdoRERVMzduNTJVbXJDTVJYaGVGZEhlZlp0cW1RRnc4LUlzNnVhSVlKN2w1YmRPY1hjNkJWRExWMUVZMlllN2o3Q3V5YjZ3NF9LUjhMbnBXbTBvQmVCVW41Xy1KeDNVdk15d29qd0tJdjhPbXlfOUpOWnhoc1VEX09KOEc0cWYzSUZZZmtKRFRxM3FXY3dUM1U1aEVYWkFvckJOMjIzNDBwT0tCZWYxUnpmbHkwQkZBVERVVy04eDhtRjhJRUV1T3VkYnhVSEdMU0dzQlJ6dGZvTHVCeUVkaGY0bTRjVUZWZndCWnZBblBHU2JoTmRYS2draUZMaTVOQ3dYYkltOHhpemNNTklyRdIByAJBVV95cUxQRlRjUFdUM1B4QVViVjRNME5KaXBSZjVRRERSZU1iWndySnEzRWtxV3M0bm5kRC1PQk9UMWVUaUdYcG5tOVRUU0xzSmdNLW5Vc25jSzVDbFRGandQMUZVU0x4ZWFpM1hUS2hMSmhYSHFNRFdTUUR4N1FWcF9qaGxvMTZkb0Mwa3B1M3JQZGltZ0t4V2RCLUhseGJTdE5tdEF1OVpTWUVEOWVqSzhnNFFwSUY3UTRWbTI1Um1wbmJtdHZkcm5ZV3BhbHRzRFlrWkJjVzJQMzg1REVrZHR3eGZIMVRGdDRNZnVzNXUwMlBQRHVaN3BvVU1oNy1KcUVhUklLSTlqempIV0lUcHBGVU1qY0VNTkNhelREdzFoM1U5R2RrS0F1N1RXN0wweU5hVFRXV29EcDRITzdQTndabXMydTVkeGM5NVM4?oc=5",
+      "title": "All major dams in Himachal are within safe limits; Pong Dam records highest inflow at 4,933 cumecs: SDMA - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVW1zMW5rSHFWeFlvVWZSNUdwS0VQcWpBZDJMWjNqS2o0VVFZSGZzZE0weWstcktaZ2h0aG03SFNZVHN1LVBhZEhEOTFKSUJycXVSVjdLTkNCM2hCaGt6ZG5zWFNwdDN3VlBvb1lkNFd6enlLVWZqYmYzZEVKOFdfLWNhbVZWaldNU0ptTDYtMUVjU0hoRi1TcHF3ZUNNNWdoSGo4aTBYX2ltUWpDMFRXLUJlQnkwX0Q1QUFnbUFKZDdBU3lxYy1jQ1Fra2RhdGg0eFB0blZPSzBlNGFKRW5JcnB5MmxVaWtxTjhnam9EOVE0ZnY4RlM0RQ?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "Himachal: NTPC renovates fitness centre in Bilaspur for Rs 33 lakh - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcE45R3BhNlFsWkRBWlF2VW9wdDIxUVhNNHNQNlg4NHlHd0lnbGlCOVI0ckFfTUZETHlZbEVvcVRKd3dJWVNrNnFDcHo2UUI2azRiYXV1RWhEaGtHTlFmdEhsVWEwY0RSN2N6Q3RSQTNOcjg5NF9hVktxOVdlMkotdk0ta2tBa21qNkVDNEFQOEVzUTlLZUxSTk9UalQzNE5ib0lrQWE0RTVRUdIBrgFBVV95cUxQaW5qaFV3ZVlXdlRZQms4WDlMd1VJRFVGUXdYcFp2WFM2a24xcnFmSG41ZmdsN21wNENadXJRLWFIWEhYUEhlRlJWdS1DSU04RkZkQktPOVd0Vzd6bXFhaHhkTzFtUld5Q3p5REhreG82ZXlMZjltQjR5QmRVYklRYTNCYWRSSy0tSFJUWHd1ZWlPU0p2RkhBNV9jUXJLc1dGYlFVaXU3Z3FxRWRzUVE?oc=5",
       "score": 0
     }
   ],

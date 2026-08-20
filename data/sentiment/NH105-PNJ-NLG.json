@@ -1,31 +1,37 @@
 {
-  "updated_at": "2026-08-17T19:22:45.946Z",
+  "updated_at": "2026-08-20T19:26:36.669Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 20,
-    "positive": 4,
-    "neutral": 9,
+    "positive": 5,
+    "neutral": 8,
     "concern": 7,
-    "avg_score": -0.08,
-    "avg_magnitude": 0.23
+    "avg_score": -0.055,
+    "avg_magnitude": 0.255
   },
   "youtube": {
-    "n": 0,
+    "n": 2,
     "positive": 0,
-    "neutral": 0,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": -0.05,
+    "avg_magnitude": 0.55
   },
   "overall": {
-    "n": 20,
-    "positive": 4,
-    "neutral": 9,
+    "n": 22,
+    "positive": 5,
+    "neutral": 10,
     "concern": 7,
-    "avg_score": -0.08,
-    "avg_magnitude": 0.23
+    "avg_score": -0.055,
+    "avg_magnitude": 0.282
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "Himachal : पिंजौर-बद्दी फोरलेन को 378.48 करोड़, ईपीसी मोड पर तेजी से होगा निर्माण - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFU3NW13OGhTczNoR2ZPc3p6dktETnlWM1lTdE04ZnhiT2hCNnZRblBnTkN0aXdWbkU2cy1NYVhGdTZROHFyZl9RWDVsdzBYS1g2cUNwWTdsd3Z5OGlUaE84cFhJckFYMHk5WG1yVjFCdU0xWHJxSDJfT3Q5M2dxT2Y3TEN3aGQ0RFdPN2JZRFZlRnh5MWktNVFSM21vY3pYZTUzbXdHZkxBbk5TWUE2Vko5THRXQjI1NUdUVG15SnBab3BGbzh3RtIBzgFBVV95cUxPUEF1ajZnTGxLT01FbVMxcWpvYXJRTGlubGlfbEkwcU50OGhoMmFDd3V4eXJkUzZXUEE2bEplb0lJR0lQUTA1MEdXZjZOYXFxWTdjZExNYlVrcWJMUjNBZG9oYkh0aFFpVVB0aTNxbUJFeF8tRE51Z0hFSUozOGRGVW5LUFZVcmE1RWZXWjZGZW9Ob0ZoVC1ZYXN6QXlhSkEwTHhCUGdlYkI0WGRWTU9lTnA2RWVjM0NlbmIxdW0zX1VDbTRwNmhrX24tU1k1QQ?oc=5",
+      "score": 0.5
+    },
     {
       "source": "press",
       "title": "17वीं बार स्थगित पिंजौर–नालागढ़ फोरलेन टेंडर अब 24 अप्रैल को खुलेगा - Dainik Tribune",
@@ -37,12 +43,6 @@
       "title": "पिंजौर-नालागढ़ रोड पर बढ़ा नदी का जलस्तर: पुल न होने से बढ़ी परेशानी, गोरखनाथ मंदिर के पास आवाजाही प्रभावित, ... - Dainik Bhaskar",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQnBoUDRPcWdVRFVHWGRDS1R5aFVaT1VVMldVSFBZdHlncHNoNVdvRGVuV2hQSWxSN2Nicmo5UWQxYXJqZ01uQ2dja1hnaVRUdWs4ZUdGazJzQUZGdnNISmgtcmxHU1pGX1Q3S2xXXzZjUllicFc0TDRweEdKZnBmU0NkLTMtUHZ6c2EzQU9TTlJsSVNGcmtOQ1ZMczFPX211Q3VGRzRNZEdzTEh4bnZkRlAtc1ZWZnFlVmNib0pxendnUy0tZXAweG94NVh5QXBhV24tb9IB2gFBVV95cUxPQmdlcVpQYWpLTzlKbnVKNjFKZVFwTDA0NWRXV05qOFk5YzJkNC0wVmx2aWktX1lHaktXY2xjdFdQbWtTaVFrOW8xQnc3UU1mM3ZhQmNpWnNYYjFlSEZvbUhST3pDVXZWMFJOaUNIZXdTZHowQWRQUTduMkkzazU5RUZjVU9USGtTSFlJeXg4MjBUTlVjM0trcENzNEd6LUJzZWpudjFFd241S0I2a0pXX3o0NUNfYWxfNm9YT1FqZlM1M1dLd1FlMzhvTU80RU5tY1g3SC1ndjFfQQ?oc=5",
       "score": 0.3
-    },
-    {
-      "source": "press",
-      "title": "Pinjore Nalagarh fourlane Project: आठ साल से अधर में पिंजौर-नालागढ़ फोरलेन, 17 बार टल चुकी है टेंडर प्रक्रिया - Dainik Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPX0dvSll0X29fV2pkaHhhTldaQXE3YlFEYzRwSHNURkRDTlpadlZld0VTbTJMblhMSXBpYWtlVFNSankxTklmcEhGZE5fOVk4WWY3dHgxaWFtVW9qaDlaYkJCc0hIWnRiWHZQQjYyTTRfa0FmQVp4cUhidzhiWVNkV05FZEV6R0lwcF8tY24ybmM3bkZ4RnlYSTZMcW9mR1FDSlZEZl82Y2p3M0lCYTVCUEJVUzVFNUFLT0NsR3otT1lSZjNRaURHaV9UZk4yWUF0VkN4MWZPNEpSdTN0MkR4eFlpRFlJd2ZsX2U5cmpscmwyamhVUUh3R2VNdmJ3ZjlwREZnbWtkLU1SWk15NzJvSDl4Q21PUTJra1ZoQkd2djhRVUxtTlA0Q2h30gGuAkFVX3lxTE56SEphSW9FelMxNUt6Nm5pWjNqNm5RaERkYk9nelFuR3RDQ1BnMDdFTV83U1NYb0hiYkdtWjBfd3BRY2lvQlhLc0xhRUdDanhIdk5QOXRwSEl0di1FRGtua1VxN1d2Y2QyWng0ZmdfWGN3clpkV0hEMENTVThQOE5hM2VFeWF0ZEtWN1c0c1kzLWtlY29fWGdTb3dvUktVSEdFM1hERFNQbURKNXVPVkJscTA2Q29ra2FDVnJ1RjdrTHdHTVpKYmtJVUNJUl9HOUFJWm1HSjl1aTNzbjg0azFaY0doZ0F6d2lzRlRaTm90c1pjQmhsZ3FVSHpXbWo0SGtqSUhHME1lUy1wVzVkOVhqdTRRc0xFMHN1YUwtM0syclRYUllsdHFEeUZheGZB?oc=5",
-      "score": 0.2
     }
   ],
   "top_concern": [

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T19:22:47.744Z",
+  "updated_at": "2026-08-20T19:26:38.072Z",
   "project_id": "NH154-PKT-MND",
   "press": {
     "n": 20,
@@ -10,36 +10,36 @@
     "avg_magnitude": 0.28
   },
   "youtube": {
-    "n": 17,
-    "positive": 8,
-    "neutral": 4,
-    "concern": 5,
-    "avg_score": 0.106,
-    "avg_magnitude": 0.824
+    "n": 9,
+    "positive": 5,
+    "neutral": 2,
+    "concern": 2,
+    "avg_score": 0.267,
+    "avg_magnitude": 0.722
   },
   "overall": {
-    "n": 37,
-    "positive": 13,
-    "neutral": 11,
-    "concern": 13,
-    "avg_score": 0.011,
-    "avg_magnitude": 0.53
+    "n": 29,
+    "positive": 10,
+    "neutral": 9,
+    "concern": 10,
+    "avg_score": 0.034,
+    "avg_magnitude": 0.417
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Very good video... Keep making.. Best wishes...",
+      "title": "Super video bro❤",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Super video 🙏🙏🙏",
       "score": 0.9
     },
     {
       "source": "youtube",
       "title": "Bhut he acha kam hua h❤❤",
       "score": 0.7
-    },
-    {
-      "source": "youtube",
-      "title": "It's good road alinement.. shimla solan jise enginer ne banaya pora bakbaas",
-      "score": 0.6
     }
   ],
   "top_concern": [
@@ -55,8 +55,9 @@
       "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "its pathankot not pashakot",
+      "source": "press",
+      "title": "No DPR in absence of consultant, work on Palampur-Padhar road stretch delayed - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenFQeG4zSmxZcVJsVVpYOV9MZEh2Z1lzWFo1SUFiS1NPX1VzeVp5am9LOG00MzF1d1RNbnhGRzJibEp4ajB2anVVR2ZBU2hwTlphcUVSWG1GSE9jTnpwRmNCNVBObk9PVGVsemNRd0NSTkxBaHNyeUN6LWJ3aWNYYmVkZU05MEZwUHNWMmdhS3gzcU5PQnR6LUNJWnJ1Wk1ZTkprOEFjT0FqalBLTWpfWmtremdjREZId3QwZNIBwAFBVV95cUxQdWZqeEY1RGFIckY1aERqdVpHUzVocWk1MGJvYm1KVTFwT3Q3QzdCOUwwVVlWLWJRT3dUOEZOM1dWTmNQM3JlZ0tGSl9yeWdXNWRvYTFzOWQ1NEZSTUJzZFFqMElDM1dMaW5Xb0xlbzhvdVFnZVNnWTd4b0N2REx6S0F4VlVPb19qakZqSjFwZXVTSmFwQUVNdk1aUGY1Vm5PR2tUTFJGbU5idDkxRHpZcHBYX19YWXF2SmtwTnowR2E?oc=5",
       "score": -0.6
     }
   ],

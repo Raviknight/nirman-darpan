@@ -1,62 +1,61 @@
 {
-  "updated_at": "2026-08-17T19:22:38.034Z",
+  "updated_at": "2026-08-20T19:26:32.423Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 11,
+    "positive": 12,
     "neutral": 8,
-    "concern": 1,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.24
+    "concern": 0,
+    "avg_score": 0.23,
+    "avg_magnitude": 0.25
   },
   "youtube": {
-    "n": 39,
-    "positive": 27,
-    "neutral": 10,
-    "concern": 2,
-    "avg_score": 0.369,
-    "avg_magnitude": 0.456
+    "n": 57,
+    "positive": 47,
+    "neutral": 7,
+    "concern": 3,
+    "avg_score": 0.444,
+    "avg_magnitude": 0.528
   },
   "overall": {
-    "n": 59,
-    "positive": 38,
-    "neutral": 18,
+    "n": 77,
+    "positive": 59,
+    "neutral": 15,
     "concern": 3,
-    "avg_score": 0.312,
-    "avg_magnitude": 0.383
+    "avg_score": 0.388,
+    "avg_magnitude": 0.456
   },
   "top_positive": [
     {
       "source": "youtube",
+      "title": "best youtuber for medical i mean yeah man i will c0me for this 2027 lets go",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "love you boss amazing content 😇😇",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
       "title": "My dream college Very beautiful aiims",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "dream collage  every  neet aspirants🤩😍",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Ya Allah help me getting in this institute its my dream to study in such nice college and full fill my dreams.... I want",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Kash govt esa room iit main bhi de .iit rooms quality is so poor",
-      "score": -0.7
-    },
-    {
-      "source": "youtube",
-      "title": "Jannat se kam to nahi hai only about room 🎉🎉😂",
+      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
       "score": -0.2
     },
     {
-      "source": "press",
-      "title": "AIIMS-Bilaspur trains emergency staff in mass casualty management - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM25sN0JNaWdGVVdHQW1tSnRNTTdvWl9kQjdCMEJjdGZieTJJMURuNXJpNlE0Y3U4NmVuVDg1bU80S2xhZDhqU0pZenROMUZTME5mbXFxeHdHVTZFd1BmeXpuNXlpdzNybURTUG5ub0lMdGN3WU1JTmpFQ1g0V092SDNGY1lEaVhRc2dFa3RJc19ZbGE4Rzl1YjRvRHZ1MWhVVU05Um16NjF4V25BS2fSAbIBQVVfeXFMTmhGZFVMVEhmSmFwVl90Z2dkcnBRb2JnWGQtc1Qxd1JGR3pZUHZ2ei05b3VZMXVSQVVGYjZKS0dFSGRJREdrMmpzOE81bFJRYldnMGVCWGFURldRQnJYV21hOHBzaUtraUpCNFM5aWNCRkxmTGJpQmNqUXR3aC16WFJPdEJOV1c3YnU4VVFBaGp4YUxfa2hHYk80a3YzV01jc0swRkVxTGFTSXgyd3hsTmhjQQ?oc=5",
+      "source": "youtube",
+      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
+      "score": -0.2
+    },
+    {
+      "source": "youtube",
+      "title": "Bhai is saal milte hain\nMay be I'm coming in 2026",
       "score": -0.2
     }
   ],

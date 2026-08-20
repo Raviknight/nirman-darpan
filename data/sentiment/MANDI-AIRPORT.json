@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-17T19:22:32.281Z",
+  "updated_at": "2026-08-20T19:26:25.399Z",
   "project_id": "MANDI-AIRPORT",
   "press": {
-    "n": 12,
+    "n": 11,
     "positive": 2,
     "neutral": 8,
-    "concern": 2,
-    "avg_score": -0.008,
-    "avg_magnitude": 0.142
+    "concern": 1,
+    "avg_score": 0.009,
+    "avg_magnitude": 0.136
   },
   "youtube": {
     "n": 2,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.05
   },
   "overall": {
-    "n": 14,
+    "n": 13,
     "positive": 2,
     "neutral": 10,
-    "concern": 2,
-    "avg_score": 0,
-    "avg_magnitude": 0.129
+    "concern": 1,
+    "avg_score": 0.015,
+    "avg_magnitude": 0.123
   },
   "top_positive": [
     {
@@ -53,14 +53,14 @@
       "score": -0.7
     },
     {
-      "source": "press",
-      "title": "Jai Ram demands LIDAR survey for Mandi greenfield airport - The Statesman",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnZSVm9BdTZUS19ibW9UQ0J6UjNvVVRLVWgwQ0hoT0MxU0VsWVl1S2hra3dNTGxwd19LYWJ0X05CRFhjTlhuekFyN3FQakdUSzd2SW5kb0pwNHRCYWswLVBoZnZMckdaUm9zTWUtdEJSS0szT25kd2hDbDFsVVAtNTFrQXZNMFhXc0J2Qm9KdHhjTWd5Wnhwb2FFRVZ0OERoc25wNEV4bTlHSjNZcnR5VWlqeUZLVHfSAbwBQVVfeXFMTklOSWR0Y1NKZnFkRklIcGM2cm5WdWFSMHkxakdlRWY4cHdzTHUyUVMzOEc4em1BZHVqV3Ruclh0dDd0RVNBMU1HZlhaWENzaTVVQUJ4NXhnZzEyNXRwWTNwN0t1WHlOUno1VGp3VHVleU9sWG8zbXAzTTl2ZWVZcE9ZRml3NWZGdXFDTTlVcUZnWTIxdDhDR0ZibDV2RlBIdDVtREhqWWJ3bnhaclh6bzd5bkxud2QtZG9kNVg?oc=5",
-      "score": -0.2
-    },
-    {
       "source": "youtube",
       "title": "Jb joia ram ki double engine srkar thi tbh kya kia",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "Page 12447 - The Statesman",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUHpVUWhvWmFFSU9qREliTE1zT28tZFhVUGdqSlJIeGtFTEdyMHgtM0M1aU1ZbFFfc3U5MlBBN1dzV2RubDFoTHMwclNMZGxWNEZ3?oc=5",
       "score": 0
     }
   ],

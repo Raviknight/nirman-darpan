@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-08-17T19:22:31.621Z",
+  "updated_at": "2026-08-20T19:26:25.398Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
-    "positive": 6,
+    "positive": 5,
     "neutral": 12,
-    "concern": 2,
-    "avg_score": 0.065,
+    "concern": 3,
+    "avg_score": 0.035,
     "avg_magnitude": 0.21
   },
   "youtube": {
-    "n": 40,
-    "positive": 29,
-    "neutral": 9,
+    "n": 44,
+    "positive": 35,
+    "neutral": 7,
     "concern": 2,
-    "avg_score": 0.302,
-    "avg_magnitude": 0.378
+    "avg_score": 0.43,
+    "avg_magnitude": 0.511
   },
   "overall": {
-    "n": 60,
-    "positive": 35,
-    "neutral": 21,
-    "concern": 4,
-    "avg_score": 0.223,
-    "avg_magnitude": 0.322
+    "n": 64,
+    "positive": 40,
+    "neutral": 19,
+    "concern": 5,
+    "avg_score": 0.306,
+    "avg_magnitude": 0.417
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Beautiful view 👌 new friend 👍",
+      "title": "Very nice story bhai 👍",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "I love kangra❤",
+      "title": "Love you from MP india",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Best month to go there",
+      "title": "Nice story",
       "score": 0.9
     }
   ],

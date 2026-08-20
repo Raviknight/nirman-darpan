@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-08-17T19:22:48.354Z",
+  "updated_at": "2026-08-20T19:26:38.076Z",
   "project_id": "JALORI-TUNL",
   "press": {
     "n": 20,
     "positive": 10,
     "neutral": 9,
     "concern": 1,
-    "avg_score": 0.16,
-    "avg_magnitude": 0.235
+    "avg_score": 0.165,
+    "avg_magnitude": 0.24
   },
   "youtube": {
-    "n": 1,
-    "positive": 1,
+    "n": 0,
+    "positive": 0,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0.9,
-    "avg_magnitude": 0.9
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 21,
-    "positive": 11,
+    "n": 20,
+    "positive": 10,
     "neutral": 9,
     "concern": 1,
-    "avg_score": 0.195,
-    "avg_magnitude": 0.267
+    "avg_score": 0.165,
+    "avg_magnitude": 0.24
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "nice",
-      "score": 0.9
-    },
     {
       "source": "press",
       "title": "Jalori Tunnel : जलोड़ी टनल से खुलेगा विकास का रास्ता, केंद्र ने मंजूर किए 1452 करोड़ - Divya Himachal",
@@ -41,6 +36,12 @@
       "source": "press",
       "title": "दिल्ली से हिमाचल के लिए खुला 'खजाना', नितिन गडकरी से विक्रमादित्य ने रखीं अरबों की सड़क परियोजनाओं की मांग, कई को मिली सैद्धांतिक मंजूरी - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObEYyWXplM1BSYXd4aENUME9PdUxvVDVaYjZUSXhPSmsyZlB2RjZFVDBnUjQwa0lfQ3NocmJYNC1UakQ2cHFZRXZRU19CUjg3dGluVU02b2RGVG1pNFk0bUtvWXg0WUtQbTQ4enJuSFg4VTZHRjNRSVFKcEhkQU9KSlo0NThOalkyOWFFTzhyajZSQnV0WEpNNi03YXgzcmtzTlhiQV9UQWVfZkpBcmpabS1CQlczb2dCWXUwYjhLVGtreHdKM1YwVdIBzgFBVV95cUxOTTJva1BfRWtMZVBOa2k3eUYtcU1wUXhleGZxQjJ2MUdTWHVZTnA0QVA0N1JycVp2WkN4aW9hY3VndWRCcWNrX1BxTGFvUEdPc0VVX2RGRFBETS0talU4dVFYd1RGZk93UEwzNlVGY0Q4NElJZ3A2UURJeUt3cW53WWpxWVNSNWx0anA5T1Rudk9vUkR4cVN2d0xhNE11VHRabnpYeVZjZzBCRUxpc2hvX01IdjctdTVqNktqVF96bG1zc3UtQi1nV2NldVZ2QQ?oc=5",
+      "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "हिमाचल में भारी बर्फबारी के बीच फंसे 5 सैलानी, वीडियो वायरल - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQzJGLU5YQUZZMGlESWtfYnFjdld0aENxTm90RnhtZkdBNmI1bGxxQzlIYUFYZ1QwUVN0UHJNUVhXTWZldVZvU3V5UzlLYnNDS1ZpeTY1XzB3UEhld3dyak1LVmZIemxrN0tJdHVrZHJSbnZSVFhZc2FCOWdEblJhVERLbjVuZkFVTWFzSDlQRmEtbHJ4X0dEZkFyV2hGOHdxTTdEaUxyeWhFNFkxODJjY2NPS2tUM3phcU9SeTljVFhVOVlwWWl5Y25YU1BvR1l6T0ZhS19iME9BdDFH0gHiAUFVX3lxTFA1WlVCbFRQSUxhNXFwY3o1Z19QcWRpNExDUTd5TVF0Q0tkOXlkYkcwNG5USXdyT0VZYk84elJMMWkzRnFWVjI0QTlnLXhvWHhjaThRMXNuZFhvdHVYczdPa1RjMk5BVEZxOFFEamxNeW1hTWJNbGhwQU5WLXlkTEdzeVg5RkhXbEV5N1NOZ2tIeHNNRGQtR0FPZGIweS02NDBsN2hXT1JtTjl4ZG93a0lJSjNndWMzOHRIdXkxWVBkTjhPdXVEX1NDOWdnSjVucHZtdy12QnI3Zmg4cWFCV2tpU1E?oc=5",
       "score": 0.4
     }
   ],

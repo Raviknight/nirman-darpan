@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-17T19:22:48.062Z",
+  "updated_at": "2026-08-20T19:26:38.075Z",
   "project_id": "SHINKULA-TUNL",
   "press": {
     "n": 20,
-    "positive": 7,
-    "neutral": 12,
+    "positive": 6,
+    "neutral": 13,
     "concern": 1,
-    "avg_score": 0.09,
-    "avg_magnitude": 0.21
+    "avg_score": 0.075,
+    "avg_magnitude": 0.195
   },
   "youtube": {
     "n": 18,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 38,
-    "positive": 19,
-    "neutral": 15,
+    "positive": 18,
+    "neutral": 16,
     "concern": 4,
-    "avg_score": 0.221,
-    "avg_magnitude": 0.405
+    "avg_score": 0.213,
+    "avg_magnitude": 0.397
   },
   "top_positive": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "Very good video",
+      "title": "I love indian army .",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "I love indian army .",
+      "title": "Very good video",
       "score": 0.9
     }
   ],

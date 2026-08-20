@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-08-17T19:21:13.229Z",
+  "updated_at": "2026-08-20T19:24:56.591Z",
   "project_id": "IIT-MANDI",
   "counts": {
     "press": 259,
     "gov": 0,
-    "en": 145,
-    "hi": 114,
+    "en": 146,
+    "hi": 113,
     "total": 259
   },
   "mentions": [
     {
+      "title": "IIT Mandi develops sea urchin-style protective coating for implants | Coating could reduce dependence on antibiotics | Inshorts - Inshorts",
+      "source": "Inshorts",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0VIenZWa09ENU9ZYlhFUVd3SEl4M0hoaDN1Z19wQ2haYThPUXhMS0wtdl90UUhKWC1oZmhEeEpFY0dPczRZbUdTeWtibDhKLTlDTFdPTHN1Qk1tenNMS2h4ekt2ak9UWFJsVTlSdm0tNFQxa19nZTNfTTVsODBsakd5d0M1M200Y0pveDgwQ3FEVjNDaXh5d2hkX2l3ZmNYX3QweE9zTUZ3S2d1NTJYNGJGSHjSAbQBQVVfeXFMTUdFSHp2VmtPRDVPWWJYRVFXd0hJeDNIaGgzdWdfcENoWmE4T1F4TEtMLXZfdFFISlgtaGZoRHhKRWNHT3M0WW1HU3lrYmw4Si05Q0xXT0xzdUJNbXpzTEtoeHpLdmpPVFhSbFU5UnZtLTRUMWtfZ2UzX001bDgwbGpHeXdDNTNtNGNKb3g4MENxRFYzQ2l4eXdoZF9pd2ZjWF90MHhPc01Gd0tndTUyWDRiRkh4?oc=5",
+      "date": "2026-08-18T14:42:21.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi develops sea urchin-inspired coating for 3D-printed bone implants - ET HealthWorld",
+      "source": "ET HealthWorld",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQclF5QjQzcUlpYUhnT3dzZ3hGMjBLZGFDVzM1dGxxZFNmVXVJSkpBbDZKMTBHTVdSdnU4cTlEa1ZOTkJZYUdqaC1zWVFvcGpUY0s1ZHRCMHVpZlkwV25FS0RDSmZYR3IwdlFGOTVyakpXVl9YS2lzQzQycWhtNjQzUTUwRWRpUS0wSGY3V2JWOVBmUGNILUFpUC14amRxNXBwaUpEZUFicnY0TjZtai1OTUJ3NlhhdGFNOWVLUURQaDBLQ2xRakl0YWQ4YXlTSWZXZDc0VEozN3Y5bm_SAeABQVVfeXFMTmc0YWVmSzZHbDVkUEZDYXZ0Rm5iOHJrMzA4MUtDOGJLdGlnb0V1bFJzcWdTY084LXJmU2JKVWN4cmdNNWlFMEMyTllOX21ONGJzcVhYcFE3WWhtakdkRHozUnYyM0hFUTBWcUpqZmFZVVczdnpEaWdaN2puRGFkUnMxbk1HOFhJSkJGZVZ5RXNEZ0MzejY1VmpVLXh6dU1MQWptVWFSZTd4dy1zdjJlakpmWEVmYk1hSjhzNVJqWk44blZSTXZzVjJSNEZTaXdNYVdlU19yWXNrTGVETUx2dEE?oc=5",
+      "date": "2026-08-18T09:49:43.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi researchers develop sea-urchin-inspired coating for safer 3D-printed bone implants - Indian Pharma Post",
+      "source": "Indian Pharma Post",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSDVEMjI0cUd1X2JOMnc0ZGVCTGhNWUk2aW10Uno3UWZ4YTU0bmFYZlplRW5rS1ZaU09EYVI2aHp4emtLenY2LTdTWHRWaXZVQ2dCb1h5WXdTbHpSWEk1WGl5TFJnS0JEUWRJTUdLVjJrcURFWjh5RWE5VTVWaTQ2aDVRM0tCVTRZWm1vbVVQb3g2WWU5elo1eFhBVVNfUzZvV1g1SklId0x4a2NHR2ZBVnBqeGFWaVd5TTUwOVM0NTQ4MnozUlAzX3l1U2xEdUtTeHBDeXJ5d29nYjNpMjQw0gHmAUFVX3lxTFBRRFdFcmZxN3dDOTEzNTh0ZHc3YmNjZ01IY01OXzNpa0FnSU16X0V6MUFtVW1lSWl2T29BS29iT2VvdVFyOENLc0FhMjZOUnNtM0p4UFpDR0c1X1pES1JSQ1Z4NTdQbmFVLUtadzZPdU04QUQ3S0htbEY4empjU2lYdDNWVTZkTGNudGdkQlgycGljcXNpSEV2bVN5OTItajhFOE9WY3JYVmJ3YzlZaWRmRG1zWmhWamN0ZU1jcXNKR3pBeWtlSkdJdkNJbldmbE5LMEtwdmxETGxuZlcyM1JIbkE0MExn?oc=5",
+      "date": "2026-08-18T05:42:06.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "Researchers at IIT Mandi have developed a bio-inspired surface coating for 3D-printed bone implan - drugscontrol.org",
+      "source": "drugscontrol.org",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nNGYzQWRacUl1N1kxQlZwaEczWUJFUjluaEw1VllkWjc1OTV1azdrbXNLcWM4a3NwM0Z0TkxYSHFYTDdWM1V4b0g5c2VEeWQ2dVNJaTlWdHB0enpIYkxMVkRzaw?oc=5",
+      "date": "2026-08-18T02:30:40.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
       "title": "IIT Mandi develops sea urchin-inspired coating for bone implants - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTVR3c1piVzdBRy1hcExrelVEcmhDZ3hDZmN1dTBmQzlXQkpya3Etand4Y0V2OURpdFExNlRKR3l4Tkc2RzI1S05nYUpkTWVjdFRjSjk1bm12UEtoOThfVTZ2QUE3bm9tMEtieDRnLUdiTXN0X1FFQUZKV2xDUFpCbERXTjdObWFZdXU3M0h5NXRzSVR3UDlQX1hhclNIRFJTak9qUnNCRGE4MXPSAbABQVVfeXFMTWs5N3NEQkVjUkZaTEl0X1JhaXU2Q1VIXzNOU1UtTWE2Tk1YZURJVzRRenFRWTZ1QXpCWV9INkx5NGpZZFd6UGFnWlRVLW5CYWc3aGVFNWRpYmZCZmwzVGZUNmszR2xmcVVrbzJkYnVBNDdYck5JZnZGaXdJdnB1aDBuVjNadTRBa1FUZ2NBeGZ2X1hQYXBkTUVuT1VtTDhDOVdyVHJEbFQzMjhoUWNEb0g?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb0NrZkxYNzByck04eXRSUkVvUW5KSS1MUlA0N193MzdJLVdIazNxS1Z1NUJ5VU9nUzlBRjVEYTcySzQ1THRQeFN2Mkxuc0M4YlVxZElIdjdBRm5oRzNDVWlIVThtT1VlckV2TjBXaDBGNmxxSXhoY2NuNEdFYy1uWjVTM29ydnFiS2pqbmVZRHAzN0gyWUdmSWVPSTRwZVYzdEJhdjhGWGdlRmxJ0gGwAUFVX3lxTE1rOTdzREJFY1JGWkxJdF9SYWl1NkNVSF8zTlNVLU1hNk5NWGVESVc0UXpxUVk2dUF6QllfSDZMeTRqWWRXelBhZ1pUVS1uQmFnN2hlRTVkaWJmQmZsM1RmVDZrM0dsZnFVa28yZGJ1QTQ3WHJOSWZ2Rml3SXZwdWgwblYzWnU0QWtRVGdjQXhmdl9YUGFwZE1Fbk9VbUw4QzlXclRyRGxUMzI4aFFjRG9I?oc=5",
       "date": "2026-08-17T10:39:11.000Z",
       "kind": "press",
       "lang": "en",
@@ -28,6 +68,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi Placements 2025: Average Package, Highest Package, Top Companies - Shiksha.com",
+      "source": "Shiksha.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXNRcWtUbFVyMTh1RUZ5ajJTMUVRRXVjWVE5elQxNTVobjc4VEFHZFkxekNQRXNtMXhhTzZoSm9vWjdqdFVUTXlvekxVRnRPVlRUWjdTSGI2M1RzYThkMkRHSEhXZ3NPejd3cXBEOGhralY1akxBWVl5ZzUybE5oeWROc3U1dndLZUEyTWNxOU50dw?oc=5",
+      "date": "2026-08-17T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi placement"
     },
     {
       "title": "Himachal: पहाड़ों के दरकने से सबक, हिमाचल में बदलेगा सड़कों के लिए कटिंग का तरीका, आईआईटी मंडी ने दिए ये सुझाव - Amar Ujala",
@@ -70,16 +120,6 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "IIT मंडी के प्रोफेसर देसिराजू को क्रिस्टलोग्राफी का सर्वोच्च एवाल्ड पुरस्कार, अनूठे शोध से बदलेगी दवा की दुनिया - iit mandi professor desiraju wins ewald prize for crystal engineering - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDF6aWQ1Sjl4dDU5clhUM2VpOTRBRkxxTzVfTmhnMGU3ODlUOEJSTklKRjE0d2VzQlRyanJoeVJQTVdmQndmOW5CeVY0RnNjdDJYSm94NHIycERSUmhZd0psam0zdERMXzBCNUJBLVpOY0FzOVlMelI4UnNaOU5JMHBVQ0puM2JLSEtuV2VSNU05b3lpM0JqbkhZX01nTnJvbzRxMDNYcHFBcml4UFpnYW1qTXRtTDVROTRFUWM3bUNraFY4aUhYOQ?oc=5",
-      "date": "2026-08-12T11:08:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "IIT Mandi’s Distinguished Professor Gautam R. Desiraju Receives 14th Ewald Prize - India Education Diary",
       "source": "India Education Diary",
       "source_id": "google-news-en",
@@ -100,6 +140,16 @@
       "match": "IIT Mandi"
     },
     {
+      "title": "IIT मंडी के प्रोफेसर देसिराजू को क्रिस्टलोग्राफी का सर्वोच्च एवाल्ड पुरस्कार, अनूठे शोध से बदलेगी दवा की दुनिया - iit mandi professor desiraju wins ewald prize for crystal engineering - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDF6aWQ1Sjl4dDU5clhUM2VpOTRBRkxxTzVfTmhnMGU3ODlUOEJSTklKRjE0d2VzQlRyanJoeVJQTVdmQndmOW5CeVY0RnNjdDJYSm94NHIycERSUmhZd0psam0zdERMXzBCNUJBLVpOY0FzOVlMelI4UnNaOU5JMHBVQ0puM2JLSEtuV2VSNU05b3lpM0JqbkhZX01nTnJvbzRxMDNYcHFBcml4UFpnYW1qTXRtTDVROTRFUWM3bUNraFY4aUhYOQ?oc=5",
+      "date": "2026-08-12T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
       "title": "IIT Mandi B.Tech in General Engineering: Syllabus, Specialisations, Fees, Careers & Salary - College Mentor",
       "source": "College Mentor",
       "source_id": "google-news-en",
@@ -114,39 +164,9 @@
       "source": "Jagran",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMDBibWo0TWgtN2JBZDRUaDB4WmF3R0stNmlWdGpPTUxqOURUUzAycTlxT1ZWb1paMXlhOVY5cE1hWGJGT0g3QldsV3FVYzJHQVVtWWlWRHM2Y19MWkxmdi1SOXRIRDMxTVRBUXhZbVZaOEszTGREbFBiWkhvbDAySWZmNXVRMTJGMmVtX21SUkFkSEdIcFplSGJXMGRXZlZhaGhhSkQtQVZvc04xMW1KNDhfdThId1U?oc=5",
-      "date": "2026-08-11T03:19:00.000Z",
+      "date": "2026-08-11T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "Mandi News: आईआईटी मंडी में एंटी चिट्टा जागरूकता अभियान का शुभारंभ - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNejN0MGw2LXdHUmQ1M2pBMmIyZjJxWWtMc29XNW5taDFoUXd0b3dTTVVIRkVhemMzaXlyOFJtS0R6XzV3cjk2b0JKYUlaQ2RNckJ3UHNvQnA3SWtRZUplb2U2NmxTbUJSVDBKSU9rR1c2dlZvWW96RXlsWlJrc0hXTFJCMTZ1SmQ2ai1QS2RQWlpkb3psbEZGWEVvMFROdGxYRFBjZlZLX3pJZE1BS01aempHb1RfN3Q4NVZRNVY2Q2hGMHFUcm53M3VidkUxaDRPeUVsRUhtcFBkbEtMSGlnQdIB5gFBVV95cUxQMURTTmRtVERjNVBtMlhmT0NhQ09jMlJlbWF5SWxfaWlYNmJFSzQ3WTdCU0M2Wi1KLUhmZWpPaHF6dVpuY3BTYVo2VlN1di1wbEs2eUtUVlBqQmFUX2NZbkttTU1pVndlQ3FRR1U2X01icEx4QmhPMzNqV05relQ5cFRCNXFod1RYcGZzemxxc2lJMkVrajU4aWtSYU9WTEVoV2NFbGo4OG5HZmJIYTUyX1k2bkx0R3puQm9vb2dDMldlLTRoR3dNWHgtRVFVeFhLTFByeWJ0cXlYeWhRM1pTMlFxV0NZZw?oc=5",
-      "date": "2026-08-09T13:25:17.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "How Rachit Katewa Secured GATE 2026 ME AIR 51 with Consistency and Physics Wallah’s Parakram Batch - PW",
-      "source": "PW",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRW1BZXdCbEJnTzI5X28xa2x0dC1uV1huOVNCVTVGZXMyMXBvTjU3aTQ2MzBCeE9MVGhROUtWblg1VDVoSWRFWm1pVUdlaXNBZGx3ekp2UmNSeVNwcGw2MHhoTHdLOTN0TTNhejVVQmY1WWt3cUxOVzVxdGItNFJnQ3RCZ3RKVGdFalE1ZmNKbHZQOFp5UGM2UWR1d3lSQnpNZE82Z0JoVHJzZ2V2SmpnS0pJa0lGUGdaRHRrUXhkS19nTEgxcDFn?oc=5",
-      "date": "2026-08-07T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT Mandi Study Warns of Fresh Landslide Threat at Kotropi; Slope ‘Critically Unstable’ - The News Himachal",
-      "source": "The News Himachal",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3AySGJhWm9ZWF9IdUwtRnY5al92OGpnTlg0MDMxb214d1BUcVRjQndCeVJIVmRGaHp5d0Jrek5UWUtrNDBjdzZYeWNnaWRnRVo3d1g5UEpMX0pqdlJoSW81M2J3eTRubXZwYm1jU0NmNFI1aUtTYzZ3ZndpdzhGWmppem5maHI4UEc4S2xaX3MtVVVrc1pXRmhfQUF2bWpSLWk1a004N0Z5a0hrRkNuMXhzVjRNNlg0bjBzdzV3?oc=5",
-      "date": "2026-08-05T02:36:33.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "IIT Mandi"
     },
     {
@@ -164,7 +184,7 @@
       "source": "Hindustan",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObnh2UmFza2J4d3N4aXhoWWZycTBaS3V2WFhZR3VGRTVyY3hPNnZoTjNsLS0zUEs0WU9FcGVkRUoyMkxWSFVza0xXS3FvODNGaXpMRHdvaW81OUJJbThoWUhuUlRQVkJOdlNSTUtUQXR1QVU2QTVoZng2QXloOWJzU1dsYS1kSi1NUWtOcGw5MEZpSklWNnk4cGd0RTNwZlRScWhIaElNc2t5TG16XzVsU3hmZlowTm15SjY5YTNUaURyWExBdEk5OFN4NDZlZl9hb3k3N1czaS1ZMVFCSDVV0gHkAUFVX3lxTE5Uek5ScTc4cDk0WGU4M29mQ2hqNFFFdFJMVlZadTRsNnlKbDIwWExQbGhkaHZfa3I1eC1pRjQydlo1UVhXc3FSZU9PWkFSRVpQNEhiX0pzZ3FmN0hoaVdjVzBVQ1cxZWxXamJwNnRpekw4ZzM5SzFiTXVqSGJvaGQ2YnNNeUV2QnZiQ0k2T3JWQXVMMnN0OWNoamlqcUNNZjJZZTZVUVcyRUtNaFV4aWhnUGJmaGhCYkNocVZKUjVwN0RrcWRzSnNmcVl2MHcyTGFnVmJnZ2c4WGRrNmJsdENIamhSdA?oc=5",
-      "date": "2026-08-01T18:34:44.000Z",
+      "date": "2026-08-02T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "IIT Mandi"
@@ -180,16 +200,6 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "Mandi News: आईआईटी मंडी में पंचवक्त्र मार्ग का लोकार्पण - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ05SYnh6ajhZSnFCSnlESEZIQjdKdk5iYzJBbnVscmE1UzFDUFhQUF8yQjhqQ2lzU0tQajVKOGRUNGRZSTdGQl9mcmpSdXhNQnNNMlYwdTlmQ1ZSNXFtbEN3UkdJeVdBam1uWVB3YXRSQWxRWUJUVnNqckw4bjJVQ08wTXBqVTZSTkpJZ2w1NFIybXBLQTlmMGxOMWNVektyUUhhU0thaEZrTm4wQkJkR1NNY0RRNGpyMDl0RTR4RmVta2FlYjEwemJLbkZwcmVqWXB4a0ttZVY5ejTSAeABQVVfeXFMUHFGWVlfTlB5TFBSM3FjMmY2UmQyM1o0U0NldjFiM0lxVUFDVzdmblZnTTJPNDc5cnE2cVhzMVFKMnN6SF9ZRy1wVkFWeWN0cmxGWjNNeTNjdl9TdGZlS192bndRWWZoVzlQdzkxcnQ5V3V4LUV0WnpYN2pTc0FZNGRLamt1QkxmTVE4cFFRRUt4T1lna21GRGNvVTdMMUI2ekdWeXBVUkJLSXZnQlBzNXUxSzJSdlN6d1ZpdTRfVFdNRWliWUhjZVNNRFhsZGc0bTdHMHZLUUhjNGQxYllSUHo?oc=5",
-      "date": "2026-07-31T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "SKUAST-K flags off first batch of BTech Artificial Intelligence students to IIT Mandi - The Kashmir Horizon",
       "source": "The Kashmir Horizon",
       "source_id": "google-news-en",
@@ -197,16 +207,6 @@
       "date": "2026-07-31T02:04:42.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "किसान परिवार के बेटे का IIT मंडी में चयन: जोधपुर के पूर्ण चौधरी ने मेहनत से पाई सफलता - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX2QxNU9LczRmOEFqTGZ5dWM3ekVuUEJZN0dQaVI1alo1TW1jbkVjREFhMlRwRDl0OF9Ld3dIOUhuajYtX1ZjcUdjYTdWVzhFYWQtZDVjV2lSQWFlUWZGUXhfTHFaRDc3TkdaQ2xwUVg4V2VxRzI1WE1YVF95Y1k5ZDQ0V0d1OGwxWGw5cGRRbmphNlV5Zng0WWwydEU3UnZ4SVpGRFhLYVJzNFNzRE14bnpITmpBNXhURm9OZm4yWlRPWEdTajhr0gHMAUFVX3lxTFB0ekxIa3B2UEk4T3R2V2QtV2VmTWR5S1ZwWHZ0aF9ITXlZSVdiNjdkLUVpOXJPQ2ZXODhkaHZ5SzA5YUg1MlRONmhLLXVFZzQ2cEg2a2QzTFZOdUpPSGV6dkNhVFJOcXdQUGxuLVlyUXBpVXhkbVBxYlNScTdTc2xZNnd3T2phSERnaERNTzZiOHA3WjdvNzZmX3NmN0laU2lfNkNucGhzY1g2R2tjbEtvUThXek90Sml1dURhNjZRZ2pmYVBlMGFxT1Fqdg?oc=5",
-      "date": "2026-07-29T14:55:25.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "IIT Mandi"
     }
   ],

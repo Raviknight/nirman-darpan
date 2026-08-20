@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-17T19:22:51.899Z",
+  "updated_at": "2026-08-20T19:26:44.163Z",
   "project_id": "SML-WATER",
   "press": {
     "n": 20,
-    "positive": 10,
+    "positive": 11,
     "neutral": 6,
-    "concern": 4,
-    "avg_score": 0.085,
+    "concern": 3,
+    "avg_score": 0.135,
     "avg_magnitude": 0.255
   },
   "youtube": {
-    "n": 58,
-    "positive": 27,
-    "neutral": 18,
+    "n": 56,
+    "positive": 22,
+    "neutral": 21,
     "concern": 13,
-    "avg_score": 0.24,
-    "avg_magnitude": 0.586
+    "avg_score": 0.196,
+    "avg_magnitude": 0.462
   },
   "overall": {
-    "n": 78,
-    "positive": 37,
-    "neutral": 24,
-    "concern": 17,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.501
+    "n": 76,
+    "positive": 33,
+    "neutral": 27,
+    "concern": 16,
+    "avg_score": 0.18,
+    "avg_magnitude": 0.408
   },
   "top_positive": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "source": "youtube",
-      "title": "I like that.",
+      "title": "Thank you God for giving me natural dimple",
       "score": 0.9
     }
   ],

@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-08-17T19:21:58.562Z",
+  "updated_at": "2026-08-20T19:25:42.294Z",
   "project_id": "SHIMLA-ROPEWAY",
   "counts": {
-    "press": 111,
+    "press": 110,
     "gov": 0,
-    "en": 62,
+    "en": 61,
     "hi": 49,
-    "total": 111
+    "total": 110
   },
   "mentions": [
+    {
+      "title": "हिमाचल में बारिश से PWD को ₹700 करोड़ से ज़्यादा का नुकसान, 138 सड़कें बंद - Janta Se Rishta",
+      "source": "Janta Se Rishta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMlpkREppbjZLMzN5bTExX2d6dmdIM3RSZEFqVEM0elBuaFQ0Q2EyNnpGWFA2SlFMTjFWb0l2S09aUS1KbjFYWXYxWGRlUWZfendBSllRMi1rTFkxTF8wZFlVQjBDWmVlQUpsbGd0b0dVZG5pd1VsVnZtdlNKbkZ4a2lXeThTZldYVXV1WUNfNGRpandwMm1HemFzb0ZvZGVMUk9ONmhDY2pPeVNRNmp5WEtTSDVIbVM0dWFOc3h3clFJQdIBxwFBVV95cUxPRVktSGhFa01tQUo5d3RfY3hscElOS1dWMXZuZDFyRV9mbFY4RUNfTmJfZlBqOUdtRThMRnBqb3JfTVFiM0o1NVFaU2VvY2c3OVV5Tzhvem1UZU9mSG82aTIxSUdfdWdpbFZUSTdGU2FPOWg5b3FwXzRveUotSnRORWRpTDVsTlYwUUxVaTFyS2Y4QjQ0QU11RmpjNEJyMWlxdUVSdlVmVzVxcmFJTVNNYjU1UkFiZUkyRXhwOFpKdEVhcXJsd0k4?oc=5",
+      "date": "2026-08-18T15:28:40.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "RTDC Shimla"
+    },
     {
       "title": "Shimla ropeway project all set for retender, Cabinet nod likely - The Tribune",
       "source": "The Tribune",
@@ -100,16 +110,6 @@
       "match": "Shimla ropeway"
     },
     {
-      "title": "तारादेवी से शिमला के बीच बनेगा रोपवे, 14 KM होगी लंबाई; केंद्र ने प्रोजेक्ट को दी मंजूरी - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUURXd1B3a2hhUG9BV3V6QmcwTGJVWFJna1NCcW1vcFRLY092ZklkYVNuMWd0Xy1RQzNTdEJ2d0JIRG01UUVpaUZHbE5OclFVdHlCd2szV2hxa1BIMnVjejQzbkhKbGczRHRzMDh1MlVLUzFBWW42ZlNrOTVxb2Y5MW1lX2JkcVYtRVQxQ1FwcklaejRPNFVwNTRaOHg5RnBaZFVtR2VZTnFpQzNWdzFIaDQ0SVRSUQ?oc=5",
-      "date": "2026-04-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla ropeway"
-    },
-    {
       "title": "HC seeks status on Shimla ropeway, decongestion plan - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -150,8 +150,18 @@
       "match": "Shimla ropeway"
     },
     {
-      "title": "Amid Shimla Ropeway Facing Cost Rise Over Five-Year Delay, Himachal Pushes Air Links, Clears Asia’s Longest Adventure Zipline - Swarajyamag",
-      "source": "Swarajyamag",
+      "title": "मौसम की दुश्वारियां बरकरार, नहीं लौटा जनजीवन पटरी पर - Dainik Tribune",
+      "source": "Dainik Tribune",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVNzcW4xRTZySEcxMkc3Z01oZC1LSXJkOEppaEV2dms3cW11VWZxcE0tdW1RZi1oYy05eHM2VHZkN0o2NndfSlllaGxkNWJSYnQ5UDNIcVBvak9YNDhaaWwyQ1l0aGhOWHRLbDE2RHFXZFVqWmFGeXdTZVJuakpKMkhJV2RRM0dnYXJzRTZ6VlNxQlFkYXFaenBKOTBHVnct0gGkAUFVX3lxTFBtUW43VVlBSnpQLTVORDNRNU5ZemZWT2dMRDMxWVNhR2pwOXpzUmJodU5kaXZ3bmhBYldHSW5DNl9SSWtVaGtneVZyQjhrM2w4V1NuOXMzdUk0c2tLZVNqMGQwdEY5Q1U2TWRQZ01uQl9fNlFHS3ZvUVd3eUVYcEFHWVIySmx4T25YQ2xTMjZnWUFUVTV2TXFCeVlCMXBGLWZtOVZw?oc=5",
+      "date": "2026-01-26T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "RTDC Shimla"
+    },
+    {
+      "title": "Amid Shimla Ropeway Facing Cost Rise Over Five-Year Delay, Himachal Pushes Air Links, Clears Asia’s Longest Adventure Zipline - Swarajya",
+      "source": "Swarajya",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ3pmXzF2eExEc1V3WGN3RWsxM28yRF9zd0pUOW9mWEFodVpjMG1wUDdwZW85Qm9LX3RVcmFoNzU0YlMtTFF3dGN4bWYwQ1pZTmt5ZUJad1Vid2kzcWdYakJORnZ1elptNGN5S0wzSFJORHpWTHh4SmhtT09jeTAyNFk3S0dtcGNiOVdmdG9rbkJka0NCemVaUDA2UFJLNzRUQjdRYnVUQ0FRdGQtNTdpRGZyMjNlRWNOOVlzTGlHY3JDRW1fSDZEcnVzMlZWM2NMRWtEQkh6c1FEU0dDM2N4Qm5mT0NTUFRLZ1pLUWlR0gH-AUFVX3lxTE5TcVNiYkxVS09SZTJlM0JSbzlLdW1TejNzcll2QnhsZXFxTXhxV0RuaEdKa1JkeFRJbzRxUG9pWFBIaHV3MDJnUjBnaEdRWnRETUVjU1ZucWRYSjNVRnUyY2FRUm5OSmNWd3RvTXRDdk5MQWtsTFoxMHBGWHZQQ3Yxc21XM0VuRHpxblpZbDdZNGxMY0NhTmJOaG91aHpJdEdOSEp6TWllZzVPVzBuSEc4ZE5WMHNtaTRtUTg5MVhVVW8zd1Y4OXZmVmYyS0I1clJXY0lLVHpCdG5JbEpMcVVyS015SnRxUk9Yekl4bXdTZjBlWG1DS0ZkcGVud01B?oc=5",
       "date": "2026-01-22T08:00:00.000Z",
@@ -195,16 +205,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVW0zU1dyUVlyUTY0amJRb0pCbVM2dU1aaHJsWXFyUmQtUHNlSkQxdkZPdHpycU1SeU9FUjEyVVBZVE4yb1luSFZwMldFUnp2TFpJVm1CUm9kc1R5TTBKOC01X2ZZSjNaWlViSkFhOFNEVklIOXVMd2N3bEpZUzFyU0Zvdjg3TlpNcWsxeUtQQmxwZVUyMEVSdnZESzlWZWZ1TTJXZDJEYnhiMHBKTnR0MU1MekhiaUZEenBWTFNhbENPdzFINnlwaDFqSjQ3WVdQLVlPaTltRE1xVWs?oc=5",
       "date": "2026-01-18T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla ropeway"
-    },
-    {
-      "title": "Shimla Ropeway: शिमला रोपवे में 6.109 हेक्टेयर वन भूमि होगी इस्तेमाल, 13.79 KM होगी लंबाई - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcVp1c3JWTWNqclBMSzdIdmF6aVJYTEgtWEo1SllwRzVVQWtZQzNtbDA2amgyY2VuV3RNQzUzbUpURDlLcHJ2XzNxbFI0WHRwVDJuem0zX2FHSm1HbEttTTdHRGJnQ1VqSV9iTEljOW5YendVMER5aHo1anhTSE81MWdkVTF5R3lTRmF4ZmIwd2VaZDE4a1NMYy11R2lJQXRQdl82TmFkNURvNzduWHJLN1E0Tklvd1hnRW1FYjNrNE1QTDMtRTJzS1ZUNFp1Z9IB0wFBVV95cUxPTkE3R3VxU2liczhydHZtdWFpNGxhMWlSZTgyLXE1LV84dWQtbUhBQTVzdEttYTFFZzc4WlFOb1dIazVEbkxUREJacG1yVmpPdTJsMWxQLWlMZFYtdGgzTXppVlk0MUk0SUdCWnZIUzN1azVTbHFBa0MzRXRraTRzcVFyOV9nRXYtSGNvZ2pFa2pCVGk3UEpRYWZHWHpPS2w4eEdBcVVucEdSdWhqRGpoNVdLOXJRbTBFMVdIUnFmMFhqdm93SWZBaDBoN3NXVXUxWFpF?oc=5",
-      "date": "2025-12-19T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla ropeway"

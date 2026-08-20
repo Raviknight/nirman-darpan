@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-17T19:22:03.136Z",
+  "updated_at": "2026-08-20T19:25:49.946Z",
   "project_id": "NH5-PWN-SHL",
-  "count": 2,
+  "count": 1,
   "suggestions": [
     {
       "category": "litigation",
@@ -16,20 +16,6 @@
       "lang": "en",
       "date": "2026-05-21T07:00:00.000Z",
       "matched_term": "national green tribunal"
-    },
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-02T13:28:24.730Z",
-      "title": "Shimla Five-Storey Building Collapses, Landslides Block NH As Rains Pummel Himachal Pradesh - ETV Bharat",
-      "summary": "Auto-detected from press: \"Shimla Five-Storey Building Collapses, Landslides Block NH As Rains Pummel Himachal Pradesh - ETV Bharat\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTWVwR21BcVFKMWpXV3pLejJTWEhWRFg5SXBmSkVnamIzcFlXN2hOWnFBZ20tdWE1dHlOZURtcG9MVG9oc3dGZEFLV0tER2VPejJVeHc0OFFCT2JLVjJuMmt2TTRUYVNOaXVsUEFFdkFlNVBzeFJfa3ZXeDRoM0xORnRMNzF2WHBqQlN4ZzI1UUtBa2FCaVg3TndTeEVqNXZIaG5HR0ctd0NpMlowLXkyUWRtVGw0RDFXeVQzWXVJMG9pd3dPUExaQ255amt4M0pkam0wZ19VbFJWQdIB3wFBVV95cUxQSDF6Vm11VWxWUXhmSGR5ajAwSWE2TEg4VzFLOXN2ZThDMHAtS25fZjhMbjNjWVlMRGhUeEo0N1FfUTRVekx6M0lvNERfQnVuUk9OVmM5NVlSbUV1TW1SMkw2NWZLeGJCYlRuNllHdjluVkRWdVAyc1JJNk51WFM1Y05NOFFUUk1FS0hGcHdiRmQ0eHdxSXVEQjQtYWlRTllIVC1GZWFEM0YzX1p5elU1RmlhVnlDalVyc3BCTUZGMGlKN0lpXzlOeVVhZng4SFdKVGVxNVBxQmMwTU1xYU9j?oc=5",
-      "source_name": "ETV Bharat",
-      "lang": "en",
-      "date": "2025-06-30T07:00:00.000Z",
-      "matched_term": "collapse"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

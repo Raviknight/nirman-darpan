@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-17T19:22:54.954Z",
+  "updated_at": "2026-08-20T19:26:44.516Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
     "n": 20,
-    "positive": 13,
-    "neutral": 6,
-    "concern": 1,
-    "avg_score": 0.21,
-    "avg_magnitude": 0.36
+    "positive": 9,
+    "neutral": 9,
+    "concern": 2,
+    "avg_score": 0.15,
+    "avg_magnitude": 0.285
   },
   "youtube": {
     "n": 4,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 24,
-    "positive": 13,
-    "neutral": 8,
-    "concern": 3,
-    "avg_score": 0.138,
-    "avg_magnitude": 0.346
+    "positive": 9,
+    "neutral": 11,
+    "concern": 4,
+    "avg_score": 0.087,
+    "avg_magnitude": 0.283
   },
   "top_positive": [
     {
@@ -58,8 +58,8 @@
     },
     {
       "source": "press",
-      "title": "GMR Power to sell stake in non-operating, stressed assets; stock zooms 15% - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZzRybXJVcXZmaU1FTi1PVXVULTQzdHlLRUIyUHdOUDN2MDFtVlBDZ1lIblVNc2JibFBuMm9yZlcwN29TdUEyd0FlY0gyVm5tSVdnNElZWlJaM093aXg4a3JNcEUweW05UWVGX2NmUlA4UGVnLXhsTC0zS1hhYXZ0bE9WMFVDQkV2WlRSU1lHRlJKaVB1aFRnOWJHaGU3NDEzYmlwcWRObHNlaFFrdlg1bEJBUktrbTB0ZkRkSmlONUxNZ2JjT0xMNXVEcHNMNjVQa2k1cFk4d9IB3AFBVV95cUxOS0FodzZBbGRPMmVpUWJSTXI5WWZoT1g3ZlFDa20zcVRBWGlXSDAzM2ZRZU1ienB0bXYwS2l4a0dnUXV4YURPUnBVMmx3Zkx3R09ua0pWTFhUUi05MUM3cGNhRFh2M3hBQjYyX2FtQnFwdV9fOVFsSTVmZVhHNkxJZUlTcFoxMTgtbnI4Tk43OEFlRi1LXzBpMjd4SlJibU9PeEVwZ0V6cmQzbXU4eEFSVnFiWkFOYUlNRzZYRVh0WkEzbm5rV2hIOVc0RTFJVUVYdW81R1hURkhCVjBF?oc=5",
+      "title": "In Chamba, a village cracks under shadow of another hydro tunnel - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlRPSWR3ZmlKRDhabHhkZVd0WHhrZFBTdExCaWc1RGI5eEVtMklKS0JhVzZ6a1dtR3Z6SWlHVG5FZG5wYVl3TXJKU1Z5WVZKRzNrNmRXR3FFNnNIZzgzNlpzYnl1V0p6SE1XU1NPZW52WDJuTVR5VmFFaTdSVmlwZDh3eXFKbnJ3VmUtQUswNkJwTFM3UWs2TUpzVDhmUGtWNmxseFUyZEwtV3RnSzZjWXNOMnItc21WMFFlQkp1cXlnSkRWZ3JTYnZn0gHPAUFVX3lxTE5Yb2ZzUFpnVURtcHhTSDZDTlNxeEVlck1PM0lCaVBxNlBma3dIU3lkVnVDSzhkWi1Wd21RWHZGYnFKTGxBcXU2dkZQblRQSzVKTWZJUTEzQnduRm5YMWI2LWk2LUdOT3pXLWRTaEVYWmg0OVpJYXRoYVloZ000eDQtc21EWHhrWlZRU2F0VE1GZWNJNU91anMyTVRsRUJpYW1reXQ0RUhSeGZjUVdzMmQ0cVM2N2c5RmtqR3g3clBrUE95VmZTbENqWHBVMEJ3Yw?oc=5",
       "score": -0.2
     }
   ],

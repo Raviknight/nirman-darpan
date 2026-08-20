@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-17T19:22:41.015Z",
+  "updated_at": "2026-08-20T19:26:34.663Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
     "positive": 11,
     "neutral": 9,
     "concern": 0,
-    "avg_score": 0.205,
-    "avg_magnitude": 0.205
+    "avg_score": 0.2,
+    "avg_magnitude": 0.2
   },
   "youtube": {
-    "n": 22,
-    "positive": 14,
-    "neutral": 5,
-    "concern": 3,
-    "avg_score": 0.255,
-    "avg_magnitude": 0.545
+    "n": 10,
+    "positive": 6,
+    "neutral": 2,
+    "concern": 2,
+    "avg_score": 0.18,
+    "avg_magnitude": 0.96
   },
   "overall": {
-    "n": 42,
-    "positive": 25,
-    "neutral": 14,
-    "concern": 3,
-    "avg_score": 0.231,
-    "avg_magnitude": 0.383
+    "n": 30,
+    "positive": 17,
+    "neutral": 11,
+    "concern": 2,
+    "avg_score": 0.193,
+    "avg_magnitude": 0.453
   },
   "top_positive": [
     {
@@ -32,14 +32,14 @@
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "I see it every day 😂😂😂",
-      "score": 0.8
-    },
-    {
       "source": "press",
       "title": "आईआईटी मंडी में रामगढ़ के अभिजीत का कमाल, बेस्ट कैपस्टोन प्रोजेक्ट पुरस्कार से हुए सम्मानित - Hindustan",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObnh2UmFza2J4d3N4aXhoWWZycTBaS3V2WFhZR3VGRTVyY3hPNnZoTjNsLS0zUEs0WU9FcGVkRUoyMkxWSFVza0xXS3FvODNGaXpMRHdvaW81OUJJbThoWUhuUlRQVkJOdlNSTUtUQXR1QVU2QTVoZng2QXloOWJzU1dsYS1kSi1NUWtOcGw5MEZpSklWNnk4cGd0RTNwZlRScWhIaElNc2t5TG16XzVsU3hmZlowTm15SjY5YTNUaURyWExBdEk5OFN4NDZlZl9hb3k3N1czaS1ZMVFCSDVV0gHkAUFVX3lxTE5Uek5ScTc4cDk0WGU4M29mQ2hqNFFFdFJMVlZadTRsNnlKbDIwWExQbGhkaHZfa3I1eC1pRjQydlo1UVhXc3FSZU9PWkFSRVpQNEhiX0pzZ3FmN0hoaVdjVzBVQ1cxZWxXamJwNnRpekw4ZzM5SzFiTXVqSGJvaGQ2YnNNeUV2QnZiQ0k2T3JWQXVMMnN0OWNoamlqcUNNZjJZZTZVUVcyRUtNaFV4aWhnUGJmaGhCYkNocVZKUjVwN0RrcWRzSnNmcVl2MHcyTGFnVmJnZ2c4WGRrNmJsdENIamhSdA?oc=5",
+      "score": 0.6
+    },
+    {
+      "source": "youtube",
+      "title": "literally whenever i feel like, ugh i should sleep or i should scroll some reels but then i watch this video n it gives ",
       "score": 0.6
     }
   ],
@@ -51,13 +51,13 @@
     },
     {
       "source": "youtube",
-      "title": "Sir without experience apply kar sktae hai",
-      "score": -0.3
+      "title": "exactly DO NOT  go for masters interview physically\n\nthey will later conduct online for people who didnt go there for ph",
+      "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "Syllabus provide krwa do😢",
-      "score": -0.2
+      "title": "I am a dropper i was not studying from 6th month after my jee mains 1st attempt on 31st jan 2024 that's  why i scored 62",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

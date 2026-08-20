@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-17T19:22:25.815Z",
+  "updated_at": "2026-08-20T19:26:12.488Z",
   "project_id": "NH5-PWN-SHL",
   "press": {
     "n": 19,
-    "positive": 8,
-    "neutral": 10,
+    "positive": 9,
+    "neutral": 9,
     "concern": 1,
-    "avg_score": 0.126,
-    "avg_magnitude": 0.247
+    "avg_score": 0.137,
+    "avg_magnitude": 0.232
   },
   "youtube": {
-    "n": 4,
+    "n": 5,
     "positive": 3,
     "neutral": 1,
-    "concern": 0,
-    "avg_score": 0.325,
-    "avg_magnitude": 0.525
+    "concern": 1,
+    "avg_score": 0.12,
+    "avg_magnitude": 0.56
   },
   "overall": {
-    "n": 23,
-    "positive": 11,
-    "neutral": 11,
-    "concern": 1,
-    "avg_score": 0.161,
-    "avg_magnitude": 0.296
+    "n": 24,
+    "positive": 12,
+    "neutral": 10,
+    "concern": 2,
+    "avg_score": 0.133,
+    "avg_magnitude": 0.3
   },
   "top_positive": [
     {
@@ -46,6 +46,11 @@
   ],
   "top_concern": [
     {
+      "source": "youtube",
+      "title": "It's kaithlighat not shalaghat",
+      "score": -0.7
+    },
+    {
       "source": "press",
       "title": "Shimla landslide that damaged apple orchards was ‘act of God’, NHAI tells National Green Tribunal - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmZzYS1nZ2FOUmxEVjFRUEYxWUMtYl9zcGtPUHh4eWFJcktLX0V0eEVFMXU0bHRUb3BFUFJpTkpCNklVVzlsMEl1NVNDa0ZQdFM4VGpDV002dzdPQWRHZ3lhdnpoTlhIWGFTdlNXbTUtZUFJcTZFVGludmNDcmFneUNLd3dOOG9hRGQyd1NnTU93V0ZnSUpHbFhKWFpNS05xcnJUetIBqwFBVV95cUxNeFI1aU04V0Z5QU5zZTdEMlpWTm8wd3hLQzlHVjhGcjMwTnV1V2VMenNRelZBY3JrQTBLUjlONWltanE2OXViUzBfWU1JU1pMRFluSU4xUWlGUWFPWklXM0R5d2ptTzFzcnBXSG9YWHF1dWlJVGNMQzIzcy0wZHZsZ1lDVjJseWQ3TjVBanpnM0pYYlBoaWRwaGhSaVZmSk92b1RnZkMyaEUyRUk?oc=5",
@@ -55,12 +60,6 @@
       "source": "press",
       "title": "Construction of Fourlane National Highway between Kaithlighat-Dhalli Begins After Years of Delay - The News Himachal",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeE45aExMWHJGQVBpY1RVOXlfUWVxTG9WaEgxZGpCdmh4aUxoRnhYSnk3MzBMWVVfV1QxM0RpNlFuWVhCZnIwaHFuX3E2S3E0X2FQUFBIUHNEZkdNN3lZUkxuX2NjUTk5SjdzVUxBellmQ1F2Yl9uNHlBdmdRbF9hYXlCRzUzbWFXeTg4clFDY2RkZEJrVHRhV1VWaWFGbGZIcVhSQThSOV91VTR0Z19MQU5fUTZ3ZC1HX0EySDRuZlhjU3Q0anBrUlU5ZUFoQQ?oc=5",
-      "score": -0.1
-    },
-    {
-      "source": "press",
-      "title": "Distance from Kaithlighat to Shimla to be reduced by 15 km: Officials - MillenniumPost",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMnd0bVdWWllUOXh2UWl5X2JWNFdxTjd0VURmaWxFMnhVNWtLLVV5eGVpdmNuOU9JbjY3ZDZUZzhKaG9BZHNQR0lfSUhZdUNUQWx4UGN4UVdiWXNIcEVsZVE5cDRQU2RtWmtoZUU5UmF3a0hSdjFEVGQzWVo0QXVfczUwYkZ5MzNaTGZpWmVaOVp1NnRibjBHWjUxcmgzdHNZUnYxSTMtXzFLRFZZejMwNlpR0gG3AUFVX3lxTFAyVDA3enFUeWJucVRhdlpOd3ZkRkhpWk0wZm1RSGV0WDlUWXdrZHVnNFA4amxWYzhYM3FGbElNbHh4UVVLdGJpVFIyWEwxMlFpZHdlNDZuVVkwMEpPYVpta0lRTTVjSXN3UUxvUDBOc05yM0wxQmFOanZ3MklYNTN5VXVlME9UZ1hzX2xyb3hmWlFuMlVtT3ZZNUcxMUE1Um1sY0tocWN1eHVRV3ZDdTFDa1JDYUZHZw?oc=5",
       "score": -0.1
     }
   ],

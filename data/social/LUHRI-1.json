@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-08-17T19:21:01.590Z",
+  "updated_at": "2026-08-20T19:24:44.473Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 37,
+    "press": 41,
     "gov": 0,
-    "en": 25,
-    "hi": 12,
-    "total": 37
+    "en": 28,
+    "hi": 13,
+    "total": 41
   },
   "mentions": [
     {
-      "title": "SJVN के मुनाफे में बड़ा अंतर: स्टैंडअलोन ₹1,008 करोड़ पार, लेकिन कंसॉलिडेटेड में गिरावट - Whalesbook",
-      "source": "Whalesbook",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZGNtd3pkZ2VxTlBwQjFpVjZJSlpHeUR4ZXJEMXlZcWktZ3Y1NmhXRU1ybG1ZZU1nandFbTVVVkFjMkpPdk5XU1V2YXFfdWlERGVibnJEekdDTk9wLTFIeW9rNENkX0lvQThjS2tyVXR2ZFVfdk5LSC1EZnkwa1dmX3g5N2U5ajJLVlRyNEMtTngtMjZfdWpCdDJPV09BWFctZWFqZDdHQmc1X2dJNWVWZWF6eEFOVVhhMHRwTlM1Q3hCQ3pWd3VLbndmLXh0aVI4SDFQWTFkNEVjclQ4bm5TVWhkU2dpbzJiWEtuQ21ZUzd3clVl?oc=5",
-      "date": "2026-08-06T09:00:08.000Z",
+      "title": "HP CM Sukhu Orders Takeover of Three Hydropower Projects From SJVN, Setting Stage for a High-Stakes Legal Battle - HimbuMail",
+      "source": "HimbuMail",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1F2SXFDVDNFQjE3emtIWmRsM05UaGZXQ0loTkMzZVlmeVM4X0lrOWtLa0g2eFIteTRBa3lrSGZ4SlJqSGV5aElDeWNFcFVTc2FhTWM1S1BWSnV6UkwwSFM5YUo3ajBHcE1YQ0ZWNUt2U0E1d3dneFZrNzBvSEtlbS1GcTQxRDZCQWJZUk5qT0VtSy1SRUhrUllibTNmcTRmRFFqOHR2aVJaVnVOWjlNZkV2X1ZobXVqMG1GajFvWG5iNHN3MkpnT181bEZJUGIyM0U4MkZZWHEwZ1JXMy0ta0lFM1ZRUHJGdlBB?oc=5",
+      "date": "2026-07-08T14:34:18.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Luhri Stage"
     },
     {
@@ -54,6 +54,16 @@
       "source": "ET EnergyWorld",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYzBKMmFiMmhBNTlyRC1wdWo5eHBGZHBJUDdQTHI3TlhTelh3bzlLYnMydlltSkVBZ0VDMUdJc3ptTk5EbXBnbWozR0M1bXl0RWR2eFh2dkY3c1NISnpoa2J1b1VvV2IycmJMNUExNHdWSXRHTkNlOG4wcUh3WEI1UE52SThCNWE1N0xUMUxtSjAzQm9fd2tpc0ZKRWVpdExBUGdBeGU2OC12bHlUNEg0ek9mMzZmYTY5b3dmM3Y3cEUtVWFfNFpUSkJ0eUhqeFBaWlHSAdcBQVVfeXFMTmtRNDg4TFRXZi1BOEtERWR3X3FyQVRVUnJ6ZkF6U1gwcVZMMUR1Q1RwcG9VNkNHY3JQd2Z2Z0huVF9DNkhCcHpjTlNzNzg1RVplZEZJT0JTYm5oRG40d3Zkc1dvTTNqdFA3RlNsMkNENTF0cTB1eHB6OHd0LThWd3VBekNnWXJZc0FBamVYcUJFUHBUM0VCb0kxQzNRT1VOUTQ0YmJvM3hGend1Qng3ZGVxRWFyWE5OVjJ3dzJBalRyZDFWWkM0TU90R3NWWl8tRVU2b0lHd1E?oc=5",
+      "date": "2026-06-29T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "SJVN Secures PPA With GUVNL For 658 MW Hydro Power Across Three HP Projects - Sahi",
+      "source": "Sahi",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzl4dFF5N1N0a196VGF6Vk50aE5XNUZGX3MwTEktOHg5LU42cWVZZUVXMDd4MHdOb1RDOU42X3VqUW1RZVV2bTduSkpTdGtzbTY4ZVJzV2lTamFCbGVJSjhQcjBVdGhZVnF6c2picHpKeFJtZzQ2Z0IwVW5ONnJ6STFHOVo1S3NJZnlqOFl0eEhaY2dXZnJrRmNmNHlsTTc1b3lqdndjZFFiOTN0RWlKaVoyUGU?oc=5",
       "date": "2026-06-29T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -110,14 +120,44 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - hindi.economictimes.com",
-      "source": "hindi.economictimes.com",
+      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - The Economic Times Hindi",
+      "source": "The Economic Times Hindi",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hOTTcxQXVwRXRWQWFMOGpvRnRzNGdETDBlckNfTzBpSng3WnluaGtzdVlGaU5xdWRnZko5cUNPd1EyQWwzTl9vbkJMVFBORmFlZ0toenpkamJjVk9ZNDZqU3JveHdPSHRYQjdwaFpnT1BUbkJxbWp6YWJHZl91MUhDMlR3enBxZkZtQVlmY20zR2NUNWRIdG83NFFIMlVIRWlndDlGUm1lbmFqbnFnZUxnU2o3ZUlxZlE1RXllU0N6Mnk1MGp5QlBPWVHSAdIBQVVfeXFMT0MxRGd6UXIyRVFGdjBZcmdRY3c5VEhrWTdhZHV2elkxRlF6emJ6eDFvVnZIdFR4WXAwUWdiTEhJaHBoeWpQdlJPcy1xS1JVTGt3SmpSaVNNdzE1aGVtd241SVdTdWEzb1F2S0lLRk5lMWs1dFJZR2RGMzRtYVRVRTAwcFM1M0VlUUNhRmF5X2h0RFNtbnRlZEdzU0RkNTMzQkUxS1pndk1FVHNIdkc1dmVaZGVoLVB0S2otMXZtakJZb01oc2ZJMk9mNmt3V3MwVVln?oc=5",
       "date": "2026-02-06T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "SJVN Sutlej"
+    },
+    {
+      "title": "छोटे भाई की शादी का निमंत्रण देने आए बड़े भाई की सड़क हादसे में मौत - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSjY2djRmU2xXdnBFNmpZdnN4bkd5TWRJRVk2LXcwY1FsTU8wazU0dmdySlM5d0NVVFVMVk0ta1djNUNyVkdFNU12RDFfZk1FQlFyaGg2SHl1b3gxa21ZUDVGX0FQeTNDN1Z2dzdxanFMUmJUMFNDUTZFRlMyRk1mdEVGZlVFUGhKMFUwMHFaOWpBcUVuT1ozX1NPbDJYQXlZZklmLUx1S0J3cVlsUDVaalhrSkhsMzI4VzZIN3NVdlUwaVhtT3FQWGgyeFF4RXRwaUFqcjRHMkJ6Q0JSQ193QnU5TlNSMGs1T1FZSDBzNDlaaG1kY04tRtIB_gFBVV95cUxNM0dRcEN1cEJscThET3AtZ2dSRDlRWjcwLVl4TW5yZHBkRDJ0LUhtVDdoVW9HU3RqS3VRNzBpM18zWU5kQUdpNzN4QWNLM1NqOXBWWFhMbzIxU1kwNGhtSVNFZmRBR1dyMDhsRXpSWWVSVnFjUkxlYk9MdUYxZFI4aFJsMzl3aEVCOFBjTXpXLUpReEFUaFM0V18zTG9IRXFiTkViNDFpMDRyNkFHLU14X1VDU1pDNXFfVnd2RXV1YldLU2VFbVBmLUFNbUNtTjRHUU9id1haeUExc3RIcWNFdVFFVTZaSXlkOGVGbF9jU3Y1dUxrTEdRTXZSZTFjZw?oc=5",
+      "date": "2025-11-23T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Hydroelectric"
+    },
+    {
+      "title": "ट्रैक्टर-ट्रॉली की टक्कर से बाइक सवार मां की मौत, बेटा घायल - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHRrU1dZTk9GUkNyMkNwbi1vU293cjFxaVMyaUpwcndjekZLLTdIXzZsYUtWblBlc0JvZHNQc2l5MkJScVduV29ta1h5d01Ob1ZlRm9OYnVCb3RsYVBTTnZDZkhZbjRsMm5PUXVNOFBsamJ6d2NHeTBJNlNSOUxmVHJzYXdGMFRXdmtDb09uMFU2emo0SDdZd1RCenZOdDNjdU42Y2oxaU1GRGJhVTd2b2R3eE9wWXRSelBqRHJFYjE1cmFKbzBYSHZXYVhWczdnZkNCMW04RdIB3AFBVV95cUxOZ3Y1TnBOSEhfZF9GT2VuaUM5T1R4ZDNoWmRKUl9xb0VVcG1TY3dmMXZ4XzYtWVJ2MGt3Qi1hcXFDNVBGMy0yckZ1N1UxNE9qb1VRWmpiSGwxeFJuZ01Cb1V2dmFCbnY5T1VhMjlYWjZUVTQ3ZjhlWGNiTklQenVfUEVwQmM3dzZYNGdTZlpvQldsOXFidTBfbV9lb0RKYjZMeXNQYU5Gd2JaSnNNSkVzdDBvejZ0emtxendXQUVTTU80czlyc3JTNWlSWndabjFOSFNGaG5YN1NuUmxi?oc=5",
+      "date": "2025-11-23T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Hydroelectric"
+    },
+    {
+      "title": "SJVN signs Power Sale & Power Purchase Agreements with UPPCL, NDMC - Garhwal Post",
+      "source": "Garhwal Post",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2NUSmU2a0dDTEY0NDNBcnhEekQ0ODY2SkVWNGVoZzlVVFZ6Wkt2Sm5iXzNMNFEyTGdHRV9xVDhKMVNuN0x2Nk0wa1lCV0hLd1JKek8xb1d4R1B6cmlIaFcyNnBtYU1qWlBCLVlwdWNkbklUdDhHeWlfZmdaOXpEM05CSFdxa1pScVBFWXJyTzE?oc=5",
+      "date": "2025-07-04T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
     },
     {
       "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - PSU Watch",
@@ -168,46 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "SJVN Sutlej"
-    },
-    {
-      "title": "Chief Minister should appeal to people of Himachal to help flood affected: Shanta Kumar - cityairnews.com",
-      "source": "cityairnews.com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk90SkRkb3VjelUwSkpQWXBIY3g2MjNHYzhZMUZHWnYtTk9mWWVIMExOR2JpRF9RSnpkMDNLdHU4XzB4eWpySmU1ZVBTa2pTYVVMRWZrYTNfWmxUTTk3WkRHQllSb2x0QnNlR2hmbDhheEJrS2xYSGNQTXlQRkRkVUJRU1RNdng0cm8yckhFN2xQZWMyZXBmbVJhbkxwSG5zcTNGenEtc3FrRUV3RjBxdXZqUjJ2bjdYN3dDMTZrdw?oc=5",
-      "date": "2023-07-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "SJVN Sutlej"
-    },
-    {
-      "title": "Buxar Ground Report: मुआवजे को लेकर शुरू हुआ क‍िसान आंदोलन, अब राजनीति का अखाड़ा बना - Kisan Tak",
-      "source": "Kisan Tak",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRWJ4Rks1T2RqOHdDQ3JTR3RueDBieTlVTVluZzFWcS1vUDZqMDJILUtaX1NaMUhKLWJIejNqb0ZhaXZ3aTROSTJIYWZmQ2dvSUdBUXcyT2huS2hFbnVaX0FHOTRXbmpYUXFTaDduZlVtVTVqaTRJNXQtaTZuUTNVQktJWEF4VV96RHhpakNVVmFMQl9IME5Sb2tuZmJGaGlVdS1NWWx4UWpXLWtuYWFlZ3FTczE3dkJHV2Vfel9ZNG02OHA4cUZqY2gzU0ZCQ214dXRrbEZKcktiY2hSakVTUnNhb2hNeWxiUGg0MjBuUGh1ZHVmaUF2N3pRcFh5QUtVNGg40gGIAkFVX3lxTFBMdmF1aGZ1eUtvczFPQXRGNXlqd1NVUUFFOTRFTnVsUmpjd3VtOHJWem1wWkItTi1jX3dWSF9rUnh3NklzQW1RX092a2tZNVZJWEZTcTFLRk85c0Vfc3lRdXVITDM3QkVhekNXR0ltNjk5Z0hycjNzQ2VPLVJKWlJWRlNvMzB0UFd6SXMza09ZN2JHNjFsSDRWVlpOWUdtbFIyekkydzNDTkhHOFc3QkJoUzlQaHprQk9rN2dBYTBSTTBjYWVKYTB3UU9saVUzTDQxT2xhWjVXYUo2YkpfN2NKMUNCd19MMTdIb2RTbE1KbWRfTEhyanI3Y19EWEdxaU5nMFdLaVV1dA?oc=5",
-      "date": "2023-01-13T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "SJVN Sutlej"
-    },
-    {
-      "title": "SJVN awards contract for Luhri HEP transmission line - T&D India",
-      "source": "T&D India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1RmNGMzWG5UelprRnFVaHliUS1UTVhUazR2TkhqMk5BMFJESG1VZG5iVllua19laHhzclZGR0ZHbnV6Z3BBblB2NFh1a2tGQ0dyMmphWHFTOXhMdjJMOTdGbFJuMTNyUUVtQnMxeVZPREFlaFdZdDdjbi1XaUVJdlZrWG_SAYoBQVVfeXFMT1BCOWJXLXZvSHFfWEt4TXhXR0dEV2ZRTk42TmxVc21jYy1SVXpYcWZiQWZvN1hrdHJjamV5Y1FoMnRwejJsTExiV3pKOUpTbkpBN3pFenNkenpRUGhWSFVhVzhuanhnT1BjN1NLUUV2OXFNOURON2pSSGV5cFJ4SERqM2h0OWhrU1J3?oc=5",
-      "date": "2022-08-24T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "River diversion work on Luhri HEP inaugurated - T&D India",
-      "source": "T&D India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtUGM2M1VQRjd5Z1E5TFZESVRDbHBrRkIzM0ZRQVU5S2ZkQkNwN0VCSW9maHJDRWtVdm1Jd0JSeklCYXpyWFE1RnFkdFlhYUI3VWZ6Q0xqdDR4cUJhVjNadkwyRWdwOWNNZ2w1aXUwdTBRZzJ0Wm1BNXk0UdIBgAFBVV95cUxNRTJsY0tQTkdzWm1VSDVyTWt1Ql9ZemZjMjFqTFRHaFcxNV82TTZDWkwtNnpSRE9sT3o0YzlGTVdRVlRWdzVxZmFzT0JOcndRQzh0eVo3X29xYzZnR2F3VzY1dG1kMXp0dWFiaVp1WkdRcFNyQUZfTzcxcnppdncyRQ?oc=5",
-      "date": "2022-06-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

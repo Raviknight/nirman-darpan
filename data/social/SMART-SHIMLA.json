@@ -1,17 +1,37 @@
 {
-  "updated_at": "2026-08-17T19:21:18.115Z",
+  "updated_at": "2026-08-20T19:25:01.477Z",
   "project_id": "SMART-SHIMLA",
   "counts": {
-    "press": 61,
+    "press": 63,
     "gov": 0,
-    "en": 27,
-    "hi": 34,
-    "total": 61
+    "en": 28,
+    "hi": 35,
+    "total": 63
   },
   "mentions": [
     {
-      "title": "छोटा शिमला स्कूल पहुंचे SSP गौरव सिंह, विद्यार्थियों को नशे के खतरों से किया आगाह - MBM NEWS",
-      "source": "MBM NEWS",
+      "title": "शिमला स्कूल में सुरक्षा जागरूकता अभियान - Janta Se Rishta",
+      "source": "Janta Se Rishta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3ZXUm9TWWx1MFpaQnkyVEo2OE83Q3ZkdGpzRk5EY01GajRCUjNEbS1iLVFVMjhTVm1qMk5uRGY2ekxRcXh2WVR3cVNvUUhla01JNzJycEdtNEFOR2xaLWRMRTFwTlR2ZXJjVWpiNFZGY08wLW1kTkJnc3hPNWE1V1ZoRV84MTVmSHJzbVZXWjctQmJDbnNfWUtjMnFoRkZudjdxNFZ30gGmAUFVX3lxTE5vdldSb1NZbHUwWlpCeTJUSjY4TzdDdmR0anNGTkRjTUZqNEJSM0RtLWItUVUyOFNWbWoyTm5EZjZ6TFFxeHZZVHdxU29RSGVrTUk3MnJwR200QU5HbFotZExFMXBOVHZlcmNVamI0VkZjTzAtbWROQmdzeE81YTVXVmhFXzgxNWZIcnNtVldaNy1CYkNuc19ZS2MycWhGRm52N3E0Vnc?oc=5",
+      "date": "2026-08-19T09:17:55.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
+    {
+      "title": "Kaithal News: संसद एससीईआरटी प्रतियोगिता में शिमला स्कूल रहा प्रथम - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ090MnJ4SmE0Y1lzUzRmTF9tWHdOaEtSbWh2UXk0WlhqRDAzWFFyaUN4MnpQVURraExwZmxSb0RIVmRBZ3BkMXBjUjV0VWpwTWpJN1VpQTdndmpEWDVSVXJsalVrTmFuWnNDMW9ERF9NS1dxVWRseklzQk1DTjl1OHFpZ2dDcUJ1M1BHeFNUcFVrbFgwRWZ1c1FZY0YzVDdOOXpDS0hfdFNWQ045aVJxbVJ1d1IxbUQ4VkdjZVBtOVNsRTM1ajg4ZnZ1d29hYnUwSXgwOXBZZjBOZzlkTHFMNE9UX0Z3ME1mdzc4bTk4RdIB7wFBVV95cUxOQ090MnJ4SmE0Y1lzUzRmTF9tWHdOaEtSbWh2UXk0WlhqRDAzWFFyaUN4MnpQVURraExwZmxSb0RIVmRBZ3BkMXBjUjV0VWpwTWpJN1VpQTdndmpEWDVSVXJsalVrTmFuWnNDMW9ERF9NS1dxVWRseklzQk1DTjl1OHFpZ2dDcUJ1M1BHeFNUcFVrbFgwRWZ1c1FZY0YzVDdOOXpDS0hfdFNWQ045aVJxbVJ1d1IxbUQ4VkdjZVBtOVNsRTM1ajg4ZnZ1d29hYnUwSXgwOXBZZjBOZzlkTHFMNE9UX0Z3ME1mdzc4bTk4RQ?oc=5",
+      "date": "2026-08-17T19:18:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
+    {
+      "title": "छोटा शिमला स्कूल पहुंचे SSP गौरव सिंह, विद्यार्थियों को नशे के खतरों से किया आगाह - mbmnewsnetwork.com",
+      "source": "mbmnewsnetwork.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOd0hBU1dPbkE1VFU0dGdtQ0FoSzV2aGRpRVloNUdrVFlncW9kMXJFa1haUXo1Mkt3WXc5d3lrZGotYWlCLVNHNVBZSXA2VFBfTzhUZU9ydWt5TXoybzREZGJ5Y1hpX09PbnpiOVFXMXNCd3MxTGJudy16MDNCS1prZ2I3VUNSd2hmSzhDdFVWY2hNdENlZFlwajE5Yk1XQ1pKNzNFUTBjeWpSb2NlMGROTG5sSm1uQjJuWFl3UHN3aEtLcy1jTlRyUWJUMlBnNGtGY1YyTW52ZVdVZlBrYkdoWkZTMXF2VUl6SFNzYklIVEd2OVVrN1R6TEhQUDhMdThxb000dzBlcjR1WG9tUnI3UElqRG9IdFJ0T0ZUcmZPUTlLWmpUdGJuSnVOLWVrakp3djh6R2xaN0FwejloY2x4T2dweGU1MXpkVnFuZ3U1My1CWE1OdlRyOE5jdVNSd2ZnNEtKTkRKWQ?oc=5",
       "date": "2026-08-13T14:13:52.000Z",
@@ -90,6 +110,16 @@
       "match": "Shimla SCL"
     },
     {
+      "title": "हिमांक बोला- बहन गलत लोगों की संगत में थी: शिमला स्कूल पर कई लोगों की नजर, इन्होंने ही मनीषा मरवाई; सिर में... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcU5DQUR4c0ZFZWZBTy1mWHRQMjh5RHRITmxBaTZxbUdIaE9MY0ctYVM1bHBrZ2JWZHhTUkw5OE93SjBycW1GM2xFc1RkODFTWHBmYS1SSm5wVkszSEdFc1cyS1JaYVo4c1pTV0hWRDFDVGZyWFdUbFdCTzAwbmozTFBIOVlPbjBpWGNJdjFsNGhkVFh0N0d1M0dfU1ZPMy1KaDEzMEF5TjBnVnBVbFo0Tm1xQXBJLWFHcVV4WWhUelFXWXM4MUhMZW45RTBfUnQ2cWFN0gHYAUFVX3lxTE5XVlpsak1pSWd6Wk9hNjJkd21XUG1ZNFllVjhTWTlJczh1NVpJNjJFRldpUlJLOXRnSk5VRG5aVlBwQ25MV2lZTWY5aE9EVmF0U281YzRPNXNmaE1Sa0lORWU0UExfcTdvczU2LWo5XzVnWVpfaTQzMkxtaWFKRS1Wd25fUDJleXhBdm4xTmpMOUtCdGx1UGFyNHozbnkyeWFRa1lhc3RPRlRBTDM0b2RDU05YV05PMTQyUVdZNU4tX3k0bG5DN2ptR2NyQkotNmg5QlVxWFZReg?oc=5",
+      "date": "2026-06-16T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
+    {
       "title": "शिमला स्कूल संचालिका मर्डर केस: चंद घंटों में शूटरों तक पहुंची पुलिस, हरियाणा से दो आरोपी गिरफ्तार - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -120,18 +150,8 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "शिमला स्कूल संचालिका हत्याकांड: हमलावरों की तलाश में पुलिस की बड़ी कार्रवाई, CCTV और तकनीकी साक्ष्यों से जांच तेज - himachaldastak.com",
-      "source": "himachaldastak.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcldpV1pOWDNFaENTS01fczdwU1VkYXByemNGbmlTUlhUZENTd2lpdUNpeWV4VXhIcE5PVnNBc3luaVo0bVI0clVHNS1aN0hvNXRNQmxwM2w2NkdvQ1lPVzFRR2g2WVdqdXNNSnlSS0p4ZkxZa1pUTHQxM29fNFYyUDJR?oc=5",
-      "date": "2026-06-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
-      "title": "Shimla: स्कूल संचालिका की गोलियां मारकर हत्या, पंजाब नंबर की गाड़ी में आए थे हमलावर - himachal.punjabkesari.in",
-      "source": "himachal.punjabkesari.in",
+      "title": "Shimla: स्कूल संचालिका की गोलियां मारकर हत्या, पंजाब नंबर की गाड़ी में आए थे हमलावर - Punjab Kesari",
+      "source": "Punjab Kesari",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1c3MnY2Y0RvUXdmWTJhblRPcElHV1l1eVVlTFNvdmFrTFJ3UERITUpQb2FEMXpvZTdBaGxUTGw2eVdTYVhPMDJhMkxhS3lraWo3cGZCX1VnWk1kZGtfNTk2d3MwUmYtVzVZREZHeGw0TnppSy1Ybml1dThUWkh6T0VWRnhSR1FoSHBaQUt3MFRVVzN6enNLNWU2a24xZ9IBpgFBVV95cUxNZGhmaFA5eU40YkZBMGZTQVNuc3pQZFhZalk1Q2RCQWZOdW9Hb1NHellwdmo2d21Nb1ZkVVJoYlpwZ3NlaWFsaTdkajI1Z3liTHJtWjhjRGpTRzZGOUxsUThqTmRmRXI3RjJnZ1h2VFIxQm9qaWZVbEFxVllxd3JvdFlDQXJsT3BwLTQzU0szMGRVMVlOU1BGS2lzR1NMR0hMdVprU093?oc=5",
       "date": "2026-06-13T07:00:00.000Z",
@@ -160,16 +180,6 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "शिमला: स्कूल से लौट रही छात्रा से यूपी के अब्दुल ने की छेड़छाड़, युवती ने फोन का कैमरा ऑन कर जड़े थप्पड़ - himachaldastak.com",
-      "source": "himachaldastak.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xTlloU05jMWNSNFNXRXVTalY2TmxoNDNqZVJpS2dOV0ZneGlWcjFLaHN3Y21hQjd6U1VqbDc4ekVDVkdIYjZQTkNXODRXeEFzLW5KOU5KZHVkUE1wTjF5c0FHQUFNMl9Lbkx6SkdmWTA5X0JHR0wxTQ?oc=5",
-      "date": "2026-05-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
       "title": "Explore multi-storey parking at Lakkar Bazaar amid rising traffic: HC to Shimla MC - The Times of India",
       "source": "The Times of India",
       "source_id": "google-news-en",
@@ -190,24 +200,14 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "शिमला के 3 प्रतिष्ठित स्कूलों को बम से उड़ाने की धमकी, पुलिस को सर्च ऑपरेशन में क्या मिला? - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaU1pZm0xeDlvZ0ZDOGRNOWxKdjl0YmNPajJyeE44ZnYxQmFUbFVXbEVwd1Jfdm1XTTJJVUFTc3hwQXVwX1NfRGo2OHVRRjB5SjROSkpjd3VLVzlWWlNtRmdCSk5nTm1Cd0lYbVE5ZWd6RGljMVJtbXhKc2dTZEtPQkRZSUZQak1xeWNHWEIwRVNrUzYwYVdDMjVrU2Nqd3JfZC0yaktURG5IQWVRdUtBS2ZB0gG3AUFVX3lxTFAzMzJITG1rRk1UMC1MampEckNFaWc1YjVNNkI1aDhkTTZvUmRmZ1JzQ2c3TVdDQlJ3enpCTURGNFRwaHFCNldfc2dCcnRvUElsd1VWRnROcUNUWjVld1ZjMm1QZXByLUVCZDFuTHNTTExZLWVTYnZIOUVrZWdHcnB3WGVFdW5jOXB0eGRFWGJadXQyUDRWSGJwNHJaWHlmeGd6NTA4WHBPVE1maEtlZ3o5NklvMzc3cw?oc=5",
-      "date": "2025-07-23T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
-      "title": "10 Deputy Commissioners,19 IAS, and 6 HPAS officers reshuffled in Himachal Pradesh - HIMACHAL HEADLINES",
-      "source": "HIMACHAL HEADLINES",
+      "title": "High court seeks report from chief secretary on steps to unclog Shimla traffic - The Times of India",
+      "source": "The Times of India",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXBMWWdraG1yY3JYX2pER3JkX3JCTUF6RWVVRjdmemVma0hkekFuVlBDLTROYnFnSWlRSlVKOFBYZmhEd1ZjeF9RQUF4VGtGenI2Z2dWQW5kVGtUek9Ua25zMENRb25xMjh0d0UzaU5Lc3pwaVpmZldoRzRkdURiWTkxZ1Z3aXRsSko5SE5STkFxS0lSRkY3UGxMQ3lXeHludFZfMDdhNmdBWDVienc?oc=5",
-      "date": "2025-03-26T12:31:05.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQelFXT3FwdmJaTFBpRVZBVVdFckpDSnVqT05JUkV5MGRXTVhiUVA5UEJPZWlEclpGendlc2RyREFiM2N5TUg2LWVobTE3TDY2S2ZPMGdhVlR4Rmh3WE5WZXpTUW1ZT2MyREw0R29nMVg0cUtTalFOVXFINXFVdkFweG5ZT2RwXzZrbmNudjZteUJYajh5SXl2bzNwVHB0Y2owMmFMNE84OFVIc21HZlZUMlBFY1E1RXlwZGpxYXdyWkNPRXJGbV9XQ2FZMDQwR3FHSlNXV2t4RDBlU1BLN2xF0gHkAUFVX3lxTFBTT3poaldUSGp3VWJXV1ByUVVCeWQ0djN2MGVqZVhHVUs5ZGdMejRfb0M3cGc3R1JOaG1Mb3Fkd1hBdDZ1dEMwWW9venhwSU5QMDBteDRfUXNqMENTQ3N1eFBsd0NYaHhlcU9TWTVpVjdoQlhCRUNtbFlwWURWcmFQVGVOTWFJVWJ1LVN2ZVlpOTR1ZWlNbXU1UlBmZllHU3dfcVdtcWh6MnBQYWFoQ1FwYU9uT2hYZUo1dVRuNTQxOXFyQmM2Mnp6UHh0Wk53T3hSb1RoU2h6WTRhMzZBbWNhRlhRSA?oc=5",
+      "date": "2025-12-21T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Shimla Smart City Ltd"
+      "match": "Shimla Smart City project"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

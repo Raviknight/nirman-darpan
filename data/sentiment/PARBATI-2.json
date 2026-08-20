@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-17T19:22:44.100Z",
+  "updated_at": "2026-08-20T19:26:36.057Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
-    "positive": 13,
-    "neutral": 7,
+    "positive": 10,
+    "neutral": 10,
     "concern": 0,
-    "avg_score": 0.3,
-    "avg_magnitude": 0.355
+    "avg_score": 0.235,
+    "avg_magnitude": 0.25
   },
   "youtube": {
     "n": 8,
@@ -19,21 +19,21 @@
   },
   "overall": {
     "n": 28,
-    "positive": 19,
-    "neutral": 8,
+    "positive": 16,
+    "neutral": 11,
     "concern": 1,
-    "avg_score": 0.332,
-    "avg_magnitude": 0.443
+    "avg_score": 0.286,
+    "avg_magnitude": 0.368
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Great explanation, 👍",
+      "title": "Good work sir.🎉",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Good work sir.🎉",
+      "title": "Great explanation, 👍",
       "score": 0.9
     },
     {
@@ -56,8 +56,8 @@
     },
     {
       "source": "press",
-      "title": "NHPC Sounds People in Downstream Of Parbati River as Pulga Dam Releases 72 Cumecs of Warer in River - HimbuMail",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU2g4WVlFS0hHbWkwWUg4Ym5zUFlkSFhOY25JZktUempMeWl3TnowQ0xCQlJRRmpBa3VmMExsQXpJOE9UekV3S0JPSWR1SmJIazRGV0ZiXzVBWGFpUkViRzE2bUtIcEk3RGhabk95My01bmltWGlwNjc4Rnp0VW5kd0ZSeFpVa2E5dWhGc2xfRFBySHVtSHdBUURCZEFFZFdYNFQ2cFFXVk4xcGE5aWpTQTB1NUZ3enA1WTlNNk0teG8wQQ?oc=5",
+      "title": "Water levels in Parbati river set to rise as NHPC starts silt flushing at Pulga dam - The News Mill",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2RybDZPaV9wV3kwTjljeXVxMkJtRzdjNGY0T09KZEk5MlJRVVA4MHhLd29KMENEd2J5LVVOVzkzV3NzR3Z5RWl0aVJvQzN3MlRRRWdfdGFpaS1qTnBCenNpSjFheXR3UlpFbDY3Qmc4TXdHdm56UFZqMFJONGhUREFVVXlUY3BqOUNIX1NSandpSlFFOFQ2R0IzNkVrQzZUd3hhNjNhZEdqbEQ5R29uaHU5QkRXZTQ?oc=5",
       "score": 0
     }
   ],

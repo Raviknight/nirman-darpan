@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-17T19:22:26.150Z",
+  "updated_at": "2026-08-20T19:26:20.430Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
-    "positive": 7,
+    "positive": 8,
     "neutral": 12,
-    "concern": 1,
-    "avg_score": 0.12,
-    "avg_magnitude": 0.15
+    "concern": 0,
+    "avg_score": 0.16,
+    "avg_magnitude": 0.17
   },
   "youtube": {
     "n": 4,
@@ -19,16 +19,16 @@
   },
   "overall": {
     "n": 24,
-    "positive": 9,
+    "positive": 10,
     "neutral": 14,
-    "concern": 1,
-    "avg_score": 0.146,
-    "avg_magnitude": 0.179
+    "concern": 0,
+    "avg_score": 0.179,
+    "avg_magnitude": 0.196
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - hindi.economictimes.com",
+      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - The Economic Times Hindi",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hOTTcxQXVwRXRWQWFMOGpvRnRzNGdETDBlckNfTzBpSng3WnluaGtzdVlGaU5xdWRnZko5cUNPd1EyQWwzTl9vbkJMVFBORmFlZ0toenpkamJjVk9ZNDZqU3JveHdPSHRYQjdwaFpnT1BUbkJxbWp6YWJHZl91MUhDMlR3enBxZkZtQVlmY20zR2NUNWRIdG83NFFIMlVIRWlndDlGUm1lbmFqbnFnZUxnU2o3ZUlxZlE1RXllU0N6Mnk1MGp5QlBPWVHSAdIBQVVfeXFMT0MxRGd6UXIyRVFGdjBZcmdRY3c5VEhrWTdhZHV2elkxRlF6emJ6eDFvVnZIdFR4WXAwUWdiTEhJaHBoeWpQdlJPcy1xS1JVTGt3SmpSaVNNdzE1aGVtd241SVdTdWEzb1F2S0lLRk5lMWs1dFJZR2RGMzRtYVRVRTAwcFM1M0VlUUNhRmF5X2h0RFNtbnRlZEdzU0RkNTMzQkUxS1pndk1FVHNIdkc1dmVaZGVoLVB0S2otMXZtakJZb01oc2ZJMk9mNmt3V3MwVVln?oc=5",
       "score": 0.8
     },
@@ -39,18 +39,12 @@
     },
     {
       "source": "press",
-      "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
-      "score": 0.4
+      "title": "छोटे भाई की शादी का निमंत्रण देने आए बड़े भाई की सड़क हादसे में मौत - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSjY2djRmU2xXdnBFNmpZdnN4bkd5TWRJRVk2LXcwY1FsTU8wazU0dmdySlM5d0NVVFVMVk0ta1djNUNyVkdFNU12RDFfZk1FQlFyaGg2SHl1b3gxa21ZUDVGX0FQeTNDN1Z2dzdxanFMUmJUMFNDUTZFRlMyRk1mdEVGZlVFUGhKMFUwMHFaOWpBcUVuT1ozX1NPbDJYQXlZZklmLUx1S0J3cVlsUDVaalhrSkhsMzI4VzZIN3NVdlUwaVhtT3FQWGgyeFF4RXRwaUFqcjRHMkJ6Q0JSQ193QnU5TlNSMGs1T1FZSDBzNDlaaG1kY04tRtIB_gFBVV95cUxNM0dRcEN1cEJscThET3AtZ2dSRDlRWjcwLVl4TW5yZHBkRDJ0LUhtVDdoVW9HU3RqS3VRNzBpM18zWU5kQUdpNzN4QWNLM1NqOXBWWFhMbzIxU1kwNGhtSVNFZmRBR1dyMDhsRXpSWWVSVnFjUkxlYk9MdUYxZFI4aFJsMzl3aEVCOFBjTXpXLUpReEFUaFM0V18zTG9IRXFiTkViNDFpMDRyNkFHLU14X1VDU1pDNXFfVnd2RXV1YldLU2VFbVBmLUFNbUNtTjRHUU9id1haeUExc3RIcWNFdVFFVTZaSXlkOGVGbF9jU3Y1dUxrTEdRTXZSZTFjZw?oc=5",
+      "score": 0.6
     }
   ],
   "top_concern": [
-    {
-      "source": "press",
-      "title": "Chief Minister should appeal to people of Himachal to help flood affected: Shanta Kumar - cityairnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk90SkRkb3VjelUwSkpQWXBIY3g2MjNHYzhZMUZHWnYtTk9mWWVIMExOR2JpRF9RSnpkMDNLdHU4XzB4eWpySmU1ZVBTa2pTYVVMRWZrYTNfWmxUTTk3WkRHQllSb2x0QnNlR2hmbDhheEJrS2xYSGNQTXlQRkRkVUJRU1RNdng0cm8yckhFN2xQZWMyZXBmbVJhbkxwSG5zcTNGenEtc3FrRUV3RjBxdXZqUjJ2bjdYN3dDMTZrdw?oc=5",
-      "score": -0.2
-    },
     {
       "source": "youtube",
       "title": "Is there any vacancy for Site Engineer?",
@@ -59,6 +53,12 @@
     {
       "source": "youtube",
       "title": "sir electrician ki vecancy teni h project pr khali ??",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "India's claim on the Upper Arun hydropower construction as well - Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkFteHptV3o5VC1WYWtoRjBfYmxMeU9QcFdZbHVEbnBqamxwODgzT1FxSV94b0ZYUjhsaTJtbHBHajdNV2RqLWhzcFc2TlBSMTNPSWMyQ01DY3NVbEZtcU43UWhwSnh4TWthZmNETEdtQm1xWWpwVC1GV1NyUGxQN2RKSGlmSXFIYmZ1QUs3dmpneW53dGhaV1RSdWdaY1ZFM2xtLXRoRUJyeUZUTzdieDdMMWNzLXJqRXc?oc=5",
       "score": 0
     }
   ],

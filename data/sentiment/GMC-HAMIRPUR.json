@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-17T19:22:55.768Z",
+  "updated_at": "2026-08-20T19:26:45.140Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
     "n": 20,
     "positive": 7,
-    "neutral": 9,
-    "concern": 4,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.29
+    "neutral": 10,
+    "concern": 3,
+    "avg_score": 0.07,
+    "avg_magnitude": 0.26
   },
   "youtube": {
-    "n": 12,
-    "positive": 3,
-    "neutral": 7,
-    "concern": 2,
-    "avg_score": 0.075,
-    "avg_magnitude": 0.233
-  },
-  "overall": {
-    "n": 32,
-    "positive": 10,
+    "n": 31,
+    "positive": 9,
     "neutral": 16,
     "concern": 6,
-    "avg_score": 0.059,
-    "avg_magnitude": 0.269
+    "avg_score": 0.055,
+    "avg_magnitude": 0.29
+  },
+  "overall": {
+    "n": 51,
+    "positive": 16,
+    "neutral": 26,
+    "concern": 9,
+    "avg_score": 0.061,
+    "avg_magnitude": 0.278
   },
   "top_positive": [
     {
@@ -32,15 +32,14 @@
       "score": 0.9
     },
     {
-      "source": "press",
-      "title": "'मेडिकल कॉलेज के 60 करोड़ के फर्नीचर टेंडर में गड़बड़ी, एक फर्म को फायदा पहुंचाने के लिए बनाई जा रहीं शर्तें' - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWxvZ2F5S1ZXbjQ5cnE2bFRNTFJkUXdpcXFQa1VxYmpPRmxKTVRJeldkRFlXazF2YTVsZzNrWUZfRFRnbEI2OWtON3VibHBoemxxVXgxNWlVT3ktS3lVMzN1ZUVMMFhPSWhUV00wVHAwcGxBSkdsZk5nYnBNYnl3bC1MYmpZcWVXUzlSNlF3MGY5RlpOUlNwd3Nhd1pTd0YxQUpjbllpY1VsTk1RakgxbXlnd1NUSGx1ZVFUZHBlMGxGZUhZb3pfcGEteHJrREdIRVluNmt6SFJVMFVzNmktSVJUS0RWeTFPNjBlOFdOLVV0akoyN2ozUzZKcENWTWVfQmh2dNIBigJBVV95cUxONlJhWXdNLWJyVkx4UXhFQmtEYTJPXzVDY01VcFFhYlcxMjNmWGhiQ04yT2tNUkJZZGJkOXBYMWRhaXV2MGIyeGZzMndLcGNaSEV2dDd2bFB0VEpWWk1jRDFfUjJ0NEphenp1Z0NncWV4WDBnck56c1pWeFJXMHo2dWQ5LWJhdHlmSjFEdF83ZjBqRmt3NVVBZEpZMGdwNjlQV2lxczh0N2w3MG84NEhVTDBQX0JJWXk5bGl1Y1B3VU9IWnZtYWdTV2dSaXk2eVFtMjhEck5UQ25uVllqSWp4ZVd3RklmU1JacklGVi1Nc09jVlFqbVN0R3pGcDE5WWNEaUdFeDk5OEhEQQ?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Good going Girl!🎉",
+      "score": 0.9
     },
     {
       "source": "press",
-      "title": "मेडिकल कॉलेज का श्रेय लेने की मची होड़! CM सुखविंदर और सांसद अनुराग ठाकुर आमने-सामने - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTTFwRk9ydG14cVRQZktNd3pPVDllcVdfMmRQbnBFcFlSM3ctaEFfbERsLWs0VGxPdzIySGRsam82TnpfX1dTcEdZRmhjWmFHMW5abTBhaUk1eGtnTmJlNDg4QnI4NzhxWnhsYk5yNmJjRk1Wa1Rjbzl4Qmt5cHgzSlJBZWl4b3V6ckFsOUVQc1RtbXgwRjV5WmtBTVBWb3U4MDdXSkd6ZzcyNElSejBGMXNncWdUVzlNZ1BUQlR0Tk9qaGQ1SzVOSTFSenV1NlXSAdQBQVVfeXFMUEZEXzIwNGljQzBENHF4S09JaGxNQzc3cEh0MXNLRzBsV1E2MEZjd0xvaFBacUtDZmVQUUpjRUdjLVBiRFJRc3FfaG5tdTJzR3owTlVLNWJXcWZsN2staGxvYUlDbFJwTzJsZjBYLVRMcDNHeXNSTHlkWm5TNEpiaDJoY3c5QnFkclJTVlZyUUwxUW5uLUVtaTFYeEhldjFqVUpsaXdFTGZLdE9LSGJwTjhkQW5ZbE9YRVFXSndSalp3RUpJczFHa25ZSHEwU0FMSVVRU0I?oc=5",
+      "title": "'मेडिकल कॉलेज के 60 करोड़ के फर्नीचर टेंडर में गड़बड़ी, एक फर्म को फायदा पहुंचाने के लिए बनाई जा रहीं शर्तें' - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWxvZ2F5S1ZXbjQ5cnE2bFRNTFJkUXdpcXFQa1VxYmpPRmxKTVRJeldkRFlXazF2YTVsZzNrWUZfRFRnbEI2OWtON3VibHBoemxxVXgxNWlVT3ktS3lVMzN1ZUVMMFhPSWhUV00wVHAwcGxBSkdsZk5nYnBNYnl3bC1MYmpZcWVXUzlSNlF3MGY5RlpOUlNwd3Nhd1pTd0YxQUpjbllpY1VsTk1RakgxbXlnd1NUSGx1ZVFUZHBlMGxGZUhZb3pfcGEteHJrREdIRVluNmt6SFJVMFVzNmktSVJUS0RWeTFPNjBlOFdOLVV0akoyN2ozUzZKcENWTWVfQmh2dNIBigJBVV95cUxONlJhWXdNLWJyVkx4UXhFQmtEYTJPXzVDY01VcFFhYlcxMjNmWGhiQ04yT2tNUkJZZGJkOXBYMWRhaXV2MGIyeGZzMndLcGNaSEV2dDd2bFB0VEpWWk1jRDFfUjJ0NEphenp1Z0NncWV4WDBnck56c1pWeFJXMHo2dWQ5LWJhdHlmSjFEdF83ZjBqRmt3NVVBZEpZMGdwNjlQV2lxczh0N2w3MG84NEhVTDBQX0JJWXk5bGl1Y1B3VU9IWnZtYWdTV2dSaXk2eVFtMjhEck5UQ25uVllqSWp4ZVd3RklmU1JacklGVi1Nc09jVlFqbVN0R3pGcDE5WWNEaUdFeDk5OEhEQQ?oc=5",
       "score": 0.5
     }
   ],
@@ -58,9 +57,8 @@
       "score": -0.7
     },
     {
-      "source": "press",
-      "title": "Mother detained for abandoning newborn at Hamirpur hospital - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZEMyV0Juakw2UjFuOF80WXRua1Fkc3l0b0x3U1g5SGcyWXd5cllGR0dXSENPLWNTbk9sRUh6S1ZKRmdnS05pbTVQdlRQN1JHam8zTlNGMmVhZVR2VEg2blFEb2pRbzZiVFBVSXlZcWRTVTFYVmQ5bWZ2NGJvTm9qaGV3bm4yX1lUN0VkVnIzUnVIbHU2N0tFeXMxWDRBX1NXdWdKMzdFOC0tQlFHQnVMbEM4WS1sVUtkY3Nsb2hhQ3hEU2tHb2NCMndFSDRQZTFBUldV0gHYAUFVX3lxTFBReWdjTS11Vm9fU2VHdjdLQ1g0V1dfTk9JSUh1ZWR0bU9DNF9ncXFVMFV0LVhuVFlLUWoxTFk0N19GWE96M0Y1NUlZYzlTaU1QVTRRZEV0enYwZUlnX0FoNmNQYl9JaHlraFhSc3FpLV96cGV1N3ZmbVU4VFU1RUdVaVhkeTE3LXNkT24wV3ZjRjFzekNuNERDRlBxRW4xV3NWOWdGUjgyOUJGV2lua0JoMGtHRWZoZHlZTEw1dUNJYU4zMEZTNG1odk9idlFIQTk4NlphbTFldw?oc=5",
+      "source": "youtube",
+      "title": "Dii cut off rank for state quota gen?",
       "score": -0.5
     }
   ],
