@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-20T19:26:44.166Z",
+  "updated_at": "2026-08-24T19:24:34.248Z",
   "project_id": "SHONGTONG-HEP",
   "press": {
     "n": 20,
-    "positive": 6,
-    "neutral": 14,
+    "positive": 5,
+    "neutral": 15,
     "concern": 0,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.17
+    "avg_score": 0.12,
+    "avg_magnitude": 0.14
   },
   "youtube": {
     "n": 3,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 23,
-    "positive": 9,
-    "neutral": 14,
+    "positive": 8,
+    "neutral": 15,
     "concern": 0,
-    "avg_score": 0.243,
-    "avg_magnitude": 0.261
+    "avg_score": 0.217,
+    "avg_magnitude": 0.235
   },
   "top_positive": [
     {
@@ -51,14 +51,14 @@
     },
     {
       "source": "press",
-      "title": "Himachal CM reviews Shongtong-Karcham hydroelectric project, directs completion by November 2026 - The Statesman",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRF96SFdseXZ4ZnBMWjl5OHBaSHNCVHNyRUFuQWpJdm5hQ3RpMXpqWkxTRzhmX0dfRHJleFhnZHdTR2JLVlg2aG0yM3ZwTnVrRzcxUGpPZXZYSi1uckpBUG95cHlHR1FDbnlXRHpVNV9pMHA3UTlvbTJwV1FBZ1pERnI5OUdQMUdfQm8ydFNjM2RZVkZ0cllIdWVrcEpMV3QwM2hJMHctUlNIeUxUSDVIZy1ZTzhOQWpnanBaLXFWS2NNQkpDeDMydWFIN0l1b2dnekhrQTBaVGU1WGgyUTNr0gHkAUFVX3lxTFBVSHd4M2V1YTlyQmxxd1FGbXZiUDd3T0FDRVJKaTBueVVwZ2FLb1o4Z1FRdWw1NWNKdm15ODR5WTBNOGNKS0VOUmk5SkpCVm1iNS05U0RVYmZJUmtrYVlSTDJPSkttVnRfWXNVbEctLUsyVkFxQUJLTFV0aGhyMWdjQUpzckRvUnV3Rm5HYjBwZTYtd1Z3d2dTWHNxT1VKR0JIMXFaY2tRWl9WQW11eVRMeFdxMTFpOHJxVjY4WENPbXJRbXpHbEhnZ1JibVFoZlNpejd0aWRFaWIzZnc4aGdsaTlCdg?oc=5",
+      "title": "झज्जर: ब्लॉक स्तरीय योग प्रतियोगिता का हुआआयोजन - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTk9aZGFUaHhwTDBZQk5qRVBMZnFVdTdKWEZXT09HRkR5aDdiSHFQYnZacXpvWEpBaTBVZ29IV3BQZlV1WHJNa1QtdE5VVVF2ampUX1FBYjJRVUNpWDMxdGluVWZ3aldqX0xyVVFubnYya3N4d2ZDTFdsVEFHMG9NcGhKRWdHLUJPeS10NkVhWC1ZQ2k4Rjk0d2RGODJEM3ptU0k3THFrd2VQRWFNWkJGNDk4aTdKUdIBuwFBVV95cUxOeFFraVdZdXF6WkkwYTJvemNnNjVQVmJyd1k4SWhtY3lWZnIwYy1pVFRSbUpDLWhJdUgxXzNnYUFINDgtWGRGQUE3M3Vsbmkxd1FfU0N6Vzc5UWZlcVR5LXdTNFh1WGl5eHVoRkVqOHNVY2h2WnJySDJyVmNUN0VmSDQ4akttcVdUb2VscURYU2lUcVBEampfcXdHcjBFcjh6QW1ILVNVcVRnT0pKVTA3YXZIRnJDZDQ5c0NN?oc=5",
       "score": 0
     },
     {
       "source": "press",
-      "title": "Shongtong-Karcham hydro project to be commissioned by Nov 2026: Himachal CM Sukhu - Social News XYZ",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObzRJMnJfc3RPd3FoR0g4cDFKOHNScy1SeEpPWXotcVBTcHUwXzFmcWZrRFp2T0ZMWmlUc1JGcHVCdXhHYUxOTDZCaGhFelhhRTd6dUY0RmRFNEx6d3dPb19TT19fa2ZmWFpPc0FDWWdWbE1MYkZWWFFMZWZHd3Q5T2hvOTNCTjY3YmlXN1NhbTlCUXIwRVNQcERNWlB1NUFYRUJITF92V1BBaC1rLTFrdjJxbkhCQUdSa2FJ0gG7AUFVX3lxTE5vNEkycl9zdE93cWhHSDhwMUo4c1JzLVJ4Sk9Zei1xUFNwdTBfMWZxZmtEWnZPRkxaaVRzUkZwdUJ1eEdhTE5MNkJoaEV6WGFFN3p1RjRGZEU0THp3d09vX1NPX19rZmZYWk9zQUNZZ1ZsTUxiRlZYUUxlZkd3dDlPaG85M0JONjdiaVc3U2FtOUJRcjBFU1BwRE1aUHU1QVhFQkhMX3ZXUEFoLWstMWt2MnFuSEJBR1JrYUk?oc=5",
+      "title": "Himachal CM reviews Shongtong-Karcham hydroelectric project, directs completion by November 2026 - The Statesman",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRF96SFdseXZ4ZnBMWjl5OHBaSHNCVHNyRUFuQWpJdm5hQ3RpMXpqWkxTRzhmX0dfRHJleFhnZHdTR2JLVlg2aG0yM3ZwTnVrRzcxUGpPZXZYSi1uckpBUG95cHlHR1FDbnlXRHpVNV9pMHA3UTlvbTJwV1FBZ1pERnI5OUdQMUdfQm8ydFNjM2RZVkZ0cllIdWVrcEpMV3QwM2hJMHctUlNIeUxUSDVIZy1ZTzhOQWpnanBaLXFWS2NNQkpDeDMydWFIN0l1b2dnekhrQTBaVGU1WGgyUTNr0gHkAUFVX3lxTFBVSHd4M2V1YTlyQmxxd1FGbXZiUDd3T0FDRVJKaTBueVVwZ2FLb1o4Z1FRdWw1NWNKdm15ODR5WTBNOGNKS0VOUmk5SkpCVm1iNS05U0RVYmZJUmtrYVlSTDJPSkttVnRfWXNVbEctLUsyVkFxQUJLTFV0aGhyMWdjQUpzckRvUnV3Rm5HYjBwZTYtd1Z3d2dTWHNxT1VKR0JIMXFaY2tRWl9WQW11eVRMeFdxMTFpOHJxVjY4WENPbXJRbXpHbEhnZ1JibVFoZlNpejd0aWRFaWIzZnc4aGdsaTlCdg?oc=5",
       "score": 0
     }
   ],

@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-20T19:26:32.423Z",
+  "updated_at": "2026-08-24T19:24:20.932Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 12,
-    "neutral": 8,
+    "positive": 14,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0.23,
-    "avg_magnitude": 0.25
+    "avg_score": 0.275,
+    "avg_magnitude": 0.275
   },
   "youtube": {
-    "n": 57,
-    "positive": 47,
-    "neutral": 7,
+    "n": 37,
+    "positive": 25,
+    "neutral": 9,
     "concern": 3,
-    "avg_score": 0.444,
-    "avg_magnitude": 0.528
+    "avg_score": 0.354,
+    "avg_magnitude": 0.446
   },
   "overall": {
-    "n": 77,
-    "positive": 59,
+    "n": 57,
+    "positive": 39,
     "neutral": 15,
     "concern": 3,
-    "avg_score": 0.388,
-    "avg_magnitude": 0.456
+    "avg_score": 0.326,
+    "avg_magnitude": 0.386
   },
   "top_positive": [
     {
@@ -38,19 +38,19 @@
     },
     {
       "source": "youtube",
-      "title": "My dream college Very beautiful aiims",
+      "title": "AIIMS Rishikesh & Bilaspur offers amazing scenic beauty.",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
+      "title": "AIIMS Bilaspur me PG 1 ko hostel milta hai ??\nPatient load kaisa hai",
       "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
+      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
       "score": -0.2
     },
     {

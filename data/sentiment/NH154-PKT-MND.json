@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T19:26:38.072Z",
+  "updated_at": "2026-08-24T19:24:26.103Z",
   "project_id": "NH154-PKT-MND",
   "press": {
     "n": 20,
@@ -10,49 +10,50 @@
     "avg_magnitude": 0.28
   },
   "youtube": {
-    "n": 9,
-    "positive": 5,
-    "neutral": 2,
-    "concern": 2,
-    "avg_score": 0.267,
-    "avg_magnitude": 0.722
+    "n": 15,
+    "positive": 7,
+    "neutral": 4,
+    "concern": 4,
+    "avg_score": 0.107,
+    "avg_magnitude": 0.7
   },
   "overall": {
-    "n": 29,
-    "positive": 10,
-    "neutral": 9,
-    "concern": 10,
-    "avg_score": 0.034,
-    "avg_magnitude": 0.417
+    "n": 35,
+    "positive": 12,
+    "neutral": 11,
+    "concern": 12,
+    "avg_score": 0.006,
+    "avg_magnitude": 0.46
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Super video bro❤",
+      "title": "Very good video... Keep making.. Best wishes...",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Super video 🙏🙏🙏",
-      "score": 0.9
+      "title": "It's good road alinement.. shimla solan jise enginer ne banaya pora bakbaas",
+      "score": 0.6
     },
     {
-      "source": "youtube",
-      "title": "Bhut he acha kam hua h❤❤",
-      "score": 0.7
+      "source": "press",
+      "title": "Himachal: राजोल-ठानपुरी पैच को नई उम्मीद, केंद्रीय राज्य मंत्री ने कही जल्द डीपीआर पूरी होने की बात - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUmV1dzRGV05NTDZhUU9pQkpVQm1wRkVYVnJkLUxVeDdQeHhkZ1VLTGRNcDBLdjhNV1JlWkxMY3RxOGNTaC1YcFdVdjJWUG5fQTA3NWZZdmdtN1A1ei1IZ1IyUG0ycnJnZkowODFBNGVGVllmWmhzUzljYS1PcGt2bnE2azlHanBDVFlhMlM3TGNKeUhqY2dzSWpaTGNIaUVZZkpBRThPWU10cXI1amVHLTliMlZhSXkwc3NrZUhST1dHUkNFdy1TU3I3cGVtQUdNQkJaNU5mT1B3R1RBVE51MGU1eF9SSkpKdFHSAe8BQVVfeXFMT1B4VTdiakc3TjhqbUh2X0VzWUlpYUVLQlllbGt6NUhab2ZUd1NzWUlFb3lkckxKNlBlZURqYll5dDR3TUxtYWR2Z050QUNxczVmZnhEdDhNZGIzaThTU1BGRTktT2g5dktqaWNFa1daeUlibFpsTjJJTS1TUVA1N0lKQlBPb2lQSlhFakZwT0c5TXRiREd3NUhzYXdvWHJDakk2TXlGU1RVMFR3Z1NUVDlWdWRQcjlTeTFKVXNjSnR4QURHM2tXREdMQ19CcWVmOUR5bUdYby03VU1BZ05DQl8ybDNjZGpuQkNnbTRQdm8?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Fail kaam",
-      "score": -0.8
-    },
     {
       "source": "press",
       "title": "Slow work on Thanpuri-Paror stretch of Pathankot-Mandi highway matter of concern - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1ZTVXhCZ3JHdHNVQUdoM0hweDVodFdtQ1FqNDNzMXQ1cEM4Z2F3WW9wRmZaOGd0UVgtNDdlT0VHV3lrcG1fcUV2TWE5WXVTaXBjRnlMRVNyT1g4aTc1V1RtQ0IzSHp5bE9QdXQ4ZklJOTJxbGlFVEotZnY3dlQtbFk1eklWY3VXMTBXMUs2SFpvOGNHSDdpdWJua19BblE5UFUzWHc3cnR5czhRck8zMVBpYjFtYTd2djhLeVF1Q245QdIBxgFBVV95cUxQblZldkRYVGYtRE1VYlB3dFh2dWdmMjdROTB2REVzM0RTbEZvUnZMTFdDb0NYbktxODhOcnhmUjRBUlBYSXRGVk5mZi1QdTFVZk1uS2VEbkZHVXg1QjBqV3pwc0hSVEY5SEhEWTNaNE1LX2RueTJ3dENMN1hEaVdlMUM1a0VfNjFBM2VjcEh2U3dGS1V6V0E1UFRCZEFWZHl2a0JPQkRXTGJWaTZJV25aZFB4NmJOdUNoVmlWeXppaUlTRmhkR3c?oc=5",
       "score": -0.7
+    },
+    {
+      "source": "youtube",
+      "title": "its pathankot not pashakot",
+      "score": -0.6
     },
     {
       "source": "press",

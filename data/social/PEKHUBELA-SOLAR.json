@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-20T19:25:35.219Z",
+  "updated_at": "2026-08-24T19:23:27.573Z",
   "project_id": "PEKHUBELA-SOLAR",
   "counts": {
-    "press": 27,
+    "press": 28,
     "gov": 0,
-    "en": 14,
+    "en": 15,
     "hi": 13,
-    "total": 27
+    "total": 28
   },
   "mentions": [
     {
@@ -28,16 +28,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "HPPCL solar"
-    },
-    {
-      "title": "Una News: पेखुबेला सोलर प्लांट में दोबारा शुरू हुआ बिजली उत्पादन - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWlp5WExfeWpSSzVyNUZhTlI3OUJnc2xqYmFYN0RJQk9OdGxidDQwTlpyUURqT3J6bzhfOXQwREdRc1JmSWUwMGZFWDBicTB6ZE1fbHZlZmd1bGw0S3pORTV4M2lHSE5ubVFoV0Y2MFJpV0d6b3R4ZXpzcEhXUXdmSC1EYndsYTNlQzRJcDdlQ0RmVzljaDBxek9VMW5IRnVVVEMtWnVROTl1aGVJcDRMdnVsb1Z5UmdORmxuZ0NEX1BtNGc4cHhEbEhrY0o1RlMwQ1lEV9IB2gFBVV95cUxNQmZMNjFQMlZpVm45Y3JBbkVVOU4tYUJIUGdGc3ZMRnppeHZwMG04R2FNYVp6ZHRqR2ZnYlBFT1BXdkVUYWpOck5mbUYteXQxOG5hWG4tNEJ0SUxrS05ock8yUkxKSGdISm5oQlNTRHdrbl8wdnFXdDdFdzkzOWdqdE5sTUJxVjd5WXhDd3NXMjJUWWk4ZDYzaTV5X0xPNlV1ZWtFV3g2S3ZwM3lFbnZJcDhZcXU0cTBCZVZMc1Jwd09IYk51d3doVTlXNUFab1NRekpGUjBEQTEyQQ?oc=5",
-      "date": "2026-07-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pekhubela solar"
     },
     {
       "title": "Vimal Negi case: CBI chargesheet flags irregularities in Pekhubela solar power project - The Tribune",
@@ -170,11 +160,31 @@
       "match": "Pekhubela solar"
     },
     {
+      "title": "UP Panchayat Election:चुनाव से पहले किसानों को सरकार का तोहफा!सोलर पंप के लिए मिलेगा 90 फीसदी अनुदान - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSUVIdktoTkZ5ZTNYV1dFQUhINTdnTlpDdWdFVkFJWHZybGU3YjlnZHQ1TzczTjFoYlBwX19XOTZxWTVER012ZzVWUzNPU0ZTZnBHQXN5Z3J5T1Q3UldadHJCNEdWVFN3d1BhM3I3NjBtUGRnaWdzN3JlYU1neEttNi12ZGh1S1JpWmtxVlpiT2dXazBwbUV4eklnVEFhUUZWdG9nMHlvaXpReFhMRUo4Y2R2M2h6YktTU0ZEVG1NeFgxdDZJWlNLcUVhVlIyNEJZSVRxWUVvSXdtZzZKbXVyenFwRUpoejJmX2w1OF9vd05mdWVTTUs40gH8AUFVX3lxTE1DTWdYZ2h6R1prVTFmTEdUdlRLU0MtNFhDYXlpdTYwMkVTelpOR1BSZVdlQUU4UU80ejNyZ0JMVVlWaEFfVHNLUndFS3ZQUDZRRFNKTEdWYzNZUlN0ZEZuUjZTajVHZ2tWOEFXYlEya1hwb05ma25EVGthOXlyMXdKSEUxZU5aMHdDdmpBU0hXSmpVOTdpamJCaU16NEI2R0hacmdyM2k4VTdJaVJjaGR4VlNDaUtNQ1V3MlgxeGx0alc1RUhIN2pfblRUWUFUSUJHQXUyeFk3bTlqYWZUZElWeUZ1STBla0Z3LUZIR01Xa0xnSFpxMGhCUEZSTw?oc=5",
+      "date": "2025-07-23T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pekhubela solar"
+    },
+    {
       "title": "Pekhubela solar power project may hold key to death: Una MLA - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHlyaTZMZGdubHBKVzVQSDdRclRPYkpQczBUZG1Ob1YtSXF4c3VEdTZLR1p1ZFZXNzhXS2NCSTBvUUhXUXMtZVJWX1p3dndMTV9xaVo0LUFmUG5jbURPSEJlMWFmR05wOXdtaTN3LWVISkJTd0ZIVE5aTXpGaWtOZWxTOE40LUhuZG9DLXpfM1B6WWtMbWRNRC0zZVFNb2J2Rm9WZVVB0gGqAUFVX3lxTE9CdnlTS0thMFBERlNNMHJPX2dSQmFyT1VKUmFXR2stOVRudUpTLXVpSU54bG9CM1RtclJsUXlHRmNLeFBMQkcyVWxjbHlqVS1HRG5Ib0xielJMUW04aVN5R05Fa0hfbkRVemNsUFp6TksyWGpQWFZkV3h2b2VLUllLa2RYNHBTSHNNV05fVkxKUC1pRUgwc0ZpS2tfeWViSzhXVi1qeXF0MWd3?oc=5",
       "date": "2025-05-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pekhubela solar"
+    },
+    {
+      "title": "Tenders for 7 Solar Projects Totalling 72 MW Have Been Invited: Himachal CM - Energetica India Magazine",
+      "source": "Energetica India Magazine",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOU1Dc2hwLWtKb0k3TVI3VzI1TzV2YlBhOGxLOVUzblFfVE1nT1Bpci1ZUENjQnJCZE01VDJfM3BaRHN4QmZzemZyUWtNVHhranFBRE4yOEdsOHZLLUpaeEdpSktLMlJ6RjF6eXVyZDF2RGJqVmI0M2dBS2F6R2ZJdDhLNHk2Qk43Z29GTVMtVC1wcXREd3A2cmNZZjdQVnN3dEVRbnNaYWFJWWVSaFllU2VR?oc=5",
+      "date": "2025-01-14T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pekhubela solar"
@@ -197,16 +207,6 @@
       "date": "2024-07-12T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Pekhubela solar"
-    },
-    {
-      "title": "Una News: मुख्यमंत्री ने 32 मेगावाट की पेखूबेला सौर ऊर्जा परियोजना की समर्पित - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb1lVZzNNQnJwR2pOc0pxcktpaWpFVEdhSnE3b1BfNlZaek1OU0ZxbkVQT0p4SnVBeG1TR0RfeVNCeHJpOXVNZ3NkTk4wNUtUUkY5d0FMcUlXVXBQYXV6OXZTSFpyVUZHUWZabWg2SEZYOHNxcVJSaUFzdGFyb29LQVBYUVBXS0MtWndleFRTWXBUaTlncGdncktvSUlGVzhIdWs3bU14bkEtbWZmVkJlc01lekd0MFdIMzZBZWNQazJic0pYR05jMGVUeVVZZ3MxNUF6YlFwVnZzMG9BNTFnUk56MNIB6AFBVV95cUxQMmF2T1FCNV9vdUNzV0g0dWRZazhSSXZEamZ3NVowejVpSFhYNGZBRllQTlJEZUlaaVlIYW9ydlVScFEzZE1KMmlzQ1k1dE9xYjRYTEU5RXluNGdKWVZSRnlaOTdRX21qWGtZZm1xaW1SWXQxWWh2NzhjWkdqbERZb1VPYV9zTlhHTUpYTDJqal8zQlhtbkktTzBFd2gwdXpndGJOVjVBanZtejRyU0dLQkZmZHhHWEhsUXNDdnpaNGNuaExzd1hnX0NvWE04N1ZZTkhNMTFrNFFkVFg5cEwxUE9mOXRWMGNt?oc=5",
-      "date": "2024-06-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Pekhubela solar"
     }
   ],

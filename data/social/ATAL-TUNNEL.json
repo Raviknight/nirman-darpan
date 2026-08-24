@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-20T19:24:51.748Z",
+  "updated_at": "2026-08-24T19:22:44.803Z",
   "project_id": "ATAL-TUNNEL",
   "counts": {
-    "press": 403,
+    "press": 356,
     "gov": 0,
     "en": 201,
-    "hi": 202,
-    "total": 403
+    "hi": 155,
+    "total": 356
   },
   "mentions": [
     {
@@ -34,7 +34,7 @@
       "source": "ANI News",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYVFtQUZuWnZEbnlrOXFBQTloLS15RmJwZnZCSmhzRk9nMUN6T0tXTWMxWnBFWmJuTmQwTnVNcGozUFRsTW5GNHdZLXlqd1VYSm9PX0FSV3hnLVQzNGQ5ellGQ3ZlWXJDTHNMZ3luMllmV1hyalUybnpyUnFrRjhhUGMzZ19FRkFQR2djeGctR09RMDg4elQ2NThIdm9sUXJpaHFialV1d3JKVVhHd1FNN3pfejZkclNLWUdsSUdCWG15UVNBSm8wTjIwWTU1dXpiWlp4alNRSW5PdG8wS3M5aXV0QnlrUQ?oc=5",
-      "date": "2026-08-16T13:18:00.000Z",
+      "date": "2026-08-16T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Rohtang Tunnel"
@@ -48,6 +48,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Rohtang Tunnel"
+    },
+    {
+      "title": "From Atal to Zoji La: India’s tunnel revolution post 2014 leaves UPA era behind; Transformed Himalayan infrastructure - organiser.org",
+      "source": "organiser.org",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTlJQVVdDUkl3ZmNremhXNTdIS0xPR1FCSVE1Sm9Hcm8wSjhjdndsU0xPNm12bnhQWjJWcldfZU1pSGFwb0J4NkFENFliVUhOMVBFczFhNDdDbnlEb29qYzdTNWc3R25QREljY0F0QmE1Ukd5N2FsUGNMMUxZdE8xRG5pSjFrWTJCNHdNT2NWMHpSd3ZOREduNzQyaTRWTFJDZmQxZzNsWVdqSXRBenp5Rnp1VGk1a2piUFRhWkRRWk04MzQ1YlpYTGZEZlVMMmV4QTdGY3JXd0dNUHhXUDNfWmJDcUJDZGEybnZfUWgxV0piUHpu0gH6AUFVX3lxTE90SWdVWnRZc21xaDR5b3dOUVRLakhaaS1Wc3ktcVZWdlhFWGY4WXh4QXpuc0g1aVVvZVJfX0FOQkU3b1lLeThUTmlWTDdHekd0MmoyeXNPVmx4QVVFTjA1Uk9ySDM5d1dhb3ZRRlBjTUg0SEtld1VWWm1fXzZwdGVXUTJyQ1JEdWJmeUotQjVQbTZEVnQ4NzJucmtrQlZYSmtNT1BjQWpJSUd2cWxSRUl3NVFwQ1RmNUJoN2hWSTFWalhRaThub1lZUzVoeXRlanV5aUdqY0JQLWloSUlDME01TlpmZ0pYSjJPeFRBMTJjNFNVUVhUeUVmX0E?oc=5",
+      "date": "2026-07-30T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
     },
     {
       "title": "Shepherds seek access through Atal Tunnel during bad weather - The Tribune",
@@ -140,20 +150,20 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com",
-      "source": "Moneycontrol.com",
+      "title": "Video | Scorpio Falls Into Under-Construction Bridge Near Atal Tunnel, Tourist Killed - NDTV",
+      "source": "NDTV",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlI0LUs3Z2NELUxKYXV0ZXNsSFNUdEZWS0tsX01PdUlCLWZGTHVoVDlFandncVhwOVFrTWozc0M2V2FSb2ZTOTQzWVU4UVNVU3ZVRUltSmxqWDJGRmhWYnpadnNZekp2UGdSQnhKa3g5eDVlZmt4dXJtUldiQkhYdjhqMnRLampQcEN1VE9wYWVUZFlSZFNQR05ZTVBsRlozQU5iRlZrbndFT3QxQm55bWJpeUh4dmRtMzJnT0pFVl9hZFdvbE55aXVSZnpxX0huUGFFZTAwd2lacTZ3dGhWTzB0TjY1d3laZWfSAe8BQVVfeXFMTlBSLWZhMUotdm1RclNxWmZ3b3ZnZTdINkV5VmxQRF9Za3JLb2txeWRVQWFMdUd2VHFvRkFONmhYZkZ6WFVkRV9wV1hYcERxdEY4NjJvSWo1ZU1saDBQd3N3cHRvdUtHRWdwR2dqYW1rVHhTcEExLUFsVlNiOVIzTExQaDhBUWhkU1ZjUFN5MER4ZmttRWV3QzZ6UXZ3eXJRWk1EZ19lUl9jb2p3a05Qb2R0dVBEUG9sVVMwbExzSXRvbGtXNlZldTRKOHhnclE4MFFKVlhTMXVPQ3E3S3VpLU5jOHBwLTFzeExGLWctazA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXV2RnJOWE9KZFl6TmtPS3UwVTU2a2N4Z3JtaENRTzZYZnQ2TFRwQm1WRWV4UUp1OG5OcWh0YjBOM0ZadjdiZFk4WHhqM1QwUHhLdnBrVzl4b0FsNkk4N1VOWTIyQVJpc0VkLWQ5b3lNZ0tjRENlb2ZrQno0cVVXZnd1Wi1HNlctMng1YTRGU2kwaFNPVjZKdnZtZFphajVSRnBRN09kYUk0TnJDOFFPMQ?oc=5",
       "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Atal Tunnel"
     },
     {
-      "title": "Video | Scorpio Falls Into Under-Construction Bridge Near Atal Tunnel, Tourist Killed - NDTV",
-      "source": "NDTV",
+      "title": "Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com",
+      "source": "Moneycontrol.com",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXV2RnJOWE9KZFl6TmtPS3UwVTU2a2N4Z3JtaENRTzZYZnQ2TFRwQm1WRWV4UUp1OG5OcWh0YjBOM0ZadjdiZFk4WHhqM1QwUHhLdnBrVzl4b0FsNkk4N1VOWTIyQVJpc0VkLWQ5b3lNZ0tjRENlb2ZrQno0cVVXZnd1Wi1HNlctMng1YTRGU2kwaFNPVjZKdnZtZFphajVSRnBRN09kYUk0TnJDOFFPMQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlI0LUs3Z2NELUxKYXV0ZXNsSFNUdEZWS0tsX01PdUlCLWZGTHVoVDlFandncVhwOVFrTWozc0M2V2FSb2ZTOTQzWVU4UVNVU3ZVRUltSmxqWDJGRmhWYnpadnNZekp2UGdSQnhKa3g5eDVlZmt4dXJtUldiQkhYdjhqMnRLampQcEN1VE9wYWVUZFlSZFNQR05ZTVBsRlozQU5iRlZrbndFT3QxQm55bWJpeUh4dmRtMzJnT0pFVl9hZFdvbE55aXVSZnpxX0huUGFFZTAwd2lacTZ3dGhWTzB0TjY1d3laZWfSAe8BQVVfeXFMTlBSLWZhMUotdm1RclNxWmZ3b3ZnZTdINkV5VmxQRF9Za3JLb2txeWRVQWFMdUd2VHFvRkFONmhYZkZ6WFVkRV9wV1hYcERxdEY4NjJvSWo1ZU1saDBQd3N3cHRvdUtHRWdwR2dqYW1rVHhTcEExLUFsVlNiOVIzTExQaDhBUWhkU1ZjUFN5MER4ZmttRWV3QzZ6UXZ3eXJRWk1EZ19lUl9jb2p3a05Qb2R0dVBEUG9sVVMwbExzSXRvbGtXNlZldTRKOHhnclE4MFFKVlhTMXVPQ3E3S3VpLU5jOHBwLTFzeExGLWctazA?oc=5",
       "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -194,16 +204,6 @@
       "source": "Hindustan Times",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeFpiQ21yMVBESzllT2FPNldSVFNsUHNudjViWlpLNEU3NmxuRHV3X2s1WngzbW9VUU5ZMWd1UDk4WGlranptT1NmaENMMXJkTG9wd21ZQzN6aUJ5Nkk3VFJLSjRMYUEzb3lLdUx6WEtfRVdaX0dUUG9fZEtSLW9mZFhMNGQwRU5Yd3BDUFlwNnJ3VmhWTmlYb0RGSnlHRzZZQWdMNWVSVWlHWHRuVGZubG92MmJQRExYcEpzSEo2TmNidzlqZTdXYVpuWjhIbU85eXFsMHZUQV93UkMwdmxEMlBDWFNqOVFFUDJxcjhJcjJEQm9pTzdPUWloMEw1Uk9FeWhtNXlLOV9RN2sw0gGSAkFVX3lxTFAta09ReFFnUlM4NU0zSEpPLVE2clE4X0trU0g0MV9sWl8wQ3V4NDBjVDAzTHBfRUdjRkZVY3lmMDRtUmM2TUFfOGhzNVVvcVRHX2hrMm1tRFdueGhueFZ5blJtNDhRcGhiMjZRWVFmRENJa0pLZ1BIODkwR2E0MkhrZlBlemZZQ0FiV25GNGZCbVRhd1pQdDJ2Wll2WHNENzJlVGoyTjFNZWZhTXZNUWJ6eDRKckw4aUh3ZEkyM3FudnBzdlZESUxRcW5nUk42eE50cWgzdGVEejFUaUx1V3RDV2hsSmRGZG53VmhzbDRtczQzak9QMjJEc0QzNEg1c3pyVmtEZmY2TGpHcnlUei1leXc?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "One Tourist Killed, Three Injured After Car Crashes Near Atal Tunnel In Himachal - News18",
-      "source": "News18",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjlOeE9QT1lZN3F4a0oyaFNyR1lxaW5LR01xN2hOZnljblpsY0dzNG90TElXWjE4OE1aZkowaHhTaWtIY2Zidmh0eUlHTW56TmUta3ZjTHRfU2hBc2h2UHB1WUZRY3gzVWplNHo1ell5YWlseEFqcFltVU1vdGlXWHRISG8tYXVVRGhXQ0MtbjhxajRFbWtIc2NKWFRCNnR5TU9TMGVxWkllX0ZkUEhMZ3kwNklzOFo2dFhEbzZsSkk5dGdIWWfSAcsBQVVfeXFMUGVrc21HUTFLRE9YU2JQVXZYN2lVWFZJOXE2Zm1BeWt2aUl2Z3M5bWowRlJRUlhZaWNmOHNMSWMyaE1zR2I2ZXlHYzkwdENiWmhYVGtZLXVuMWZUT1poRDZlNGZZbE9QYWZ3RlN3dXlMazRHZUI5N2dwVXhvWi1BUlBtRm8wMkFBeUhIdHB0c3lnZlhGVkp6bDB5Z0lYT3dHR3pEZGx6aXZMVU83LUg4N0tfNVVWT2Q3d2VPSlp4N25aZnJiVVZCVExEVUk?oc=5",
       "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",

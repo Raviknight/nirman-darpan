@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-08-20T19:26:44.163Z",
+  "updated_at": "2026-08-24T19:24:33.871Z",
   "project_id": "SML-WATER",
   "press": {
     "n": 20,
     "positive": 11,
-    "neutral": 6,
-    "concern": 3,
-    "avg_score": 0.135,
-    "avg_magnitude": 0.255
+    "neutral": 5,
+    "concern": 4,
+    "avg_score": 0.095,
+    "avg_magnitude": 0.285
   },
   "youtube": {
-    "n": 56,
-    "positive": 22,
-    "neutral": 21,
-    "concern": 13,
-    "avg_score": 0.196,
-    "avg_magnitude": 0.462
+    "n": 59,
+    "positive": 27,
+    "neutral": 23,
+    "concern": 9,
+    "avg_score": 0.21,
+    "avg_magnitude": 0.392
   },
   "overall": {
-    "n": 76,
-    "positive": 33,
-    "neutral": 27,
-    "concern": 16,
-    "avg_score": 0.18,
-    "avg_magnitude": 0.408
+    "n": 79,
+    "positive": 38,
+    "neutral": 28,
+    "concern": 13,
+    "avg_score": 0.181,
+    "avg_magnitude": 0.365
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "forever grateful i have natural dimples",
+      "title": "Great Information in my life. ❤❤❤❤ Love you sir❤❤❤❤❤",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "I’m so grateful I have natural dimples",
+      "title": "Thank you sir 🙏",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Thank you God for giving me natural dimple",
+      "title": "Very very useful, important information mam🙏🙏👌👌",
       "score": 0.9
     }
   ],
@@ -54,8 +54,9 @@
       "score": -0.6
     },
     {
-      "source": "youtube",
-      "title": "Why railway employees can't get this facility😢",
+      "source": "press",
+      "title": "Shimla citizens getting poorly treated water, Pollution Board cautions - The News Himachal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTJsd0I4MTN1V2R0VEIxZ2Z1QkNqcVBmNmpleHQzNWI0YWpCN0QyUmVlTkZYa04ySFJaZGZrMzNEWTdRV3dGbjdnM0kxNVVjSnJjajR2dXE2NlUtQzZvTk1ONlB0R19jNUlaaEhua01PQ3RhaFNDMXM2UkJyZFdNQi1UbVF2NlRGcHJkX3pXQUE4eUJfZ3pmMHQxS1UyWWl0YlF6OHMwcDRaQQ?oc=5",
       "score": -0.5
     }
   ],

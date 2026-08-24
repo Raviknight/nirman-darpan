@@ -1,48 +1,47 @@
 {
-  "updated_at": "2026-08-20T19:26:38.076Z",
+  "updated_at": "2026-08-24T19:24:30.853Z",
   "project_id": "JALORI-TUNL",
   "press": {
     "n": 20,
-    "positive": 10,
-    "neutral": 9,
-    "concern": 1,
+    "positive": 11,
+    "neutral": 7,
+    "concern": 2,
     "avg_score": 0.165,
-    "avg_magnitude": 0.24
+    "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
+    "n": 1,
+    "positive": 1,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.9,
+    "avg_magnitude": 0.9
   },
   "overall": {
-    "n": 20,
-    "positive": 10,
-    "neutral": 9,
-    "concern": 1,
-    "avg_score": 0.165,
-    "avg_magnitude": 0.24
+    "n": 21,
+    "positive": 12,
+    "neutral": 7,
+    "concern": 2,
+    "avg_score": 0.2,
+    "avg_magnitude": 0.329
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "nice",
+      "score": 0.9
+    },
+    {
+      "source": "press",
+      "title": "Jalori Tunnel : डीपीआर की आपत्तियां दूर, अब केंद्र की हां का इंतजार, टनल बनने से आसान होगी पहाड़ की राह - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdUk1RGRkUENvM2RlWjU0Q25EZzJSckJTVUY3Y3NiNHFlZThORTJwQVhWQVd0ODlFNXdfQk9hWUFKS1Q4ME54LUpDVG50VS1JcW94a1Rya19HMjdJMzN5alpBa1lic2lzeVkxckRVMEdyUTliZHlNUW16dzBoRWg5VDRHZHJRTUE3WVp1MWtDa0Rpb2UxdmhnQjZYNHdCZWRDS3AzdlMyZjU1WTFmWmZZcmhybHZDdmVheV9Bd3RnbkQ0QzltWlVOckY1U0h1NFJ0ZmtQMWVTQjNqeEFIMnF2QXdvbkxqd9IB6wFBVV95cUxPZEpGT2dwZDFJMDBYVE1KUGNTcHY4ZENUTVdsdFBNa3NuZF9PMExBeFNwU0ZxcnhtRllEZ29sMzZ4Unl3YzR1MW9UYXN6aW1mZVI1MklOcjlNN3NGcjFPSVEzd1M3QlhNZzhDQkNMTVBudTctNmNLNUhSejFXVk80NWFVbnJ1NWJRT0xEOU05d3ZNUU9QOXd5Y2M3YnNvQVEtMTBnOC00THJmaEhDd1N4NzdYd3l0UGFteTg3YlJZTGJ2OENkY3NGT1F0QmhRbklrcWdfU0VtYjBGUGZEQmFFa1RfVUVBM2U1M3Bv?oc=5",
+      "score": 0.6
+    },
     {
       "source": "press",
       "title": "Jalori Tunnel : जलोड़ी टनल से खुलेगा विकास का रास्ता, केंद्र ने मंजूर किए 1452 करोड़ - Divya Himachal",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTzI4aWh5WlVqc2FkZHV3VWxiNkpKUjNKZzZpV21Oc0k3dG9KeFpiVkoydFNwdEdjMVBIOFlXSE52cHYyVW5SYkVpYmVrUWFFV0FjV3MxUFZldng1Q21WNUpreHlQU2c3U3BaTGpEQVkzVW9RRGhqUXdnUWw0XzNGZm5JUFI2bWhRRDNEbHJ0Z3h1SDJlR1pXWXFvWDl5aDVMQnRNeEZ0cVJoeDU3LTZpMGVMYjIxOE9DX0Vxb1l1QUdubWJVMW83aDAxbGfSAdIBQVVfeXFMTjBaajhDTkhkbVVoc1RCT2hjc3dsTFBLNXd1alRTWUdwZXJBSzA2Y3I0WTBJYUZXQnF0b1g4ejFZY2x2OERhSXBKaDZsd1ZRTmRWWjRDVDV0UVZhUkxZMkYyRW9zd3FhNDNpRWF3R3JxRDk3WUZHc0VPN21YSzJXV1E4ZkdPNmRYMGNKaVFTMWUwOWtTbDRwMmFBOGJvQ3c2Tko0V3Q0TWFiRjg0SHlSZTJKcWlFNEtmN0w3MUhnZWs3a0JhamkxWEItWkxyYUNNN3NR?oc=5",
       "score": 0.6
-    },
-    {
-      "source": "press",
-      "title": "दिल्ली से हिमाचल के लिए खुला 'खजाना', नितिन गडकरी से विक्रमादित्य ने रखीं अरबों की सड़क परियोजनाओं की मांग, कई को मिली सैद्धांतिक मंजूरी - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObEYyWXplM1BSYXd4aENUME9PdUxvVDVaYjZUSXhPSmsyZlB2RjZFVDBnUjQwa0lfQ3NocmJYNC1UakQ2cHFZRXZRU19CUjg3dGluVU02b2RGVG1pNFk0bUtvWXg0WUtQbTQ4enJuSFg4VTZHRjNRSVFKcEhkQU9KSlo0NThOalkyOWFFTzhyajZSQnV0WEpNNi03YXgzcmtzTlhiQV9UQWVfZkpBcmpabS1CQlczb2dCWXUwYjhLVGtreHdKM1YwVdIBzgFBVV95cUxOTTJva1BfRWtMZVBOa2k3eUYtcU1wUXhleGZxQjJ2MUdTWHVZTnA0QVA0N1JycVp2WkN4aW9hY3VndWRCcWNrX1BxTGFvUEdPc0VVX2RGRFBETS0talU4dVFYd1RGZk93UEwzNlVGY0Q4NElJZ3A2UURJeUt3cW53WWpxWVNSNWx0anA5T1Rudk9vUkR4cVN2d0xhNE11VHRabnpYeVZjZzBCRUxpc2hvX01IdjctdTVqNktqVF96bG1zc3UtQi1nV2NldVZ2QQ?oc=5",
-      "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "हिमाचल में भारी बर्फबारी के बीच फंसे 5 सैलानी, वीडियो वायरल - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQzJGLU5YQUZZMGlESWtfYnFjdld0aENxTm90RnhtZkdBNmI1bGxxQzlIYUFYZ1QwUVN0UHJNUVhXTWZldVZvU3V5UzlLYnNDS1ZpeTY1XzB3UEhld3dyak1LVmZIemxrN0tJdHVrZHJSbnZSVFhZc2FCOWdEblJhVERLbjVuZkFVTWFzSDlQRmEtbHJ4X0dEZkFyV2hGOHdxTTdEaUxyeWhFNFkxODJjY2NPS2tUM3phcU9SeTljVFhVOVlwWWl5Y25YU1BvR1l6T0ZhS19iME9BdDFH0gHiAUFVX3lxTFA1WlVCbFRQSUxhNXFwY3o1Z19QcWRpNExDUTd5TVF0Q0tkOXlkYkcwNG5USXdyT0VZYk84elJMMWkzRnFWVjI0QTlnLXhvWHhjaThRMXNuZFhvdHVYczdPa1RjMk5BVEZxOFFEamxNeW1hTWJNbGhwQU5WLXlkTEdzeVg5RkhXbEV5N1NOZ2tIeHNNRGQtR0FPZGIweS02NDBsN2hXT1JtTjl4ZG93a0lJSjNndWMzOHRIdXkxWVBkTjhPdXVEX1NDOWdnSjVucHZtdy12QnI3Zmg4cWFCV2tpU1E?oc=5",
-      "score": 0.4
     }
   ],
   "top_concern": [
@@ -54,14 +53,14 @@
     },
     {
       "source": "press",
-      "title": "Centre finalises alignment of Jalori tunnel on NH-305 - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkdUSjdOR2I3WHV1dno2WWZ1STRFZjZfb0IwWEUzYW5IQldlOGxKa1p4aFJOT0Q2NjFyQ3lIYjZvSnFtQ3RXNGtpeC1lbDA5YjZuYkhZd3FYRlp1SDBJRGZmTHR4cms4ZmVlZHJwZExZRWRxamlibzdGV3FKQU15RjBiNW9lLTJiNHJNQk81NmNJN3BvMXNscDhJZVZmUdIBogFBVV95cUxNOFpwN2xMSWlzUEZCcWFRdnpMaWlYUEN3REs0RXN1YldlRFZCN3RBWk90UjZDNGxrNDRjb2I3Z0VuTEd1TVRSV1FaX3EyeHRzMTFNeUJUV2R5ZG5JS0FTenI2UXNCalhOTnpWWXFVNlBsM3JJUGlQbWRwbl9pSFlDb2ZTZ2VZbVpSY2t5SG5XTWFnSm1XZEZINGFHLUNJdm5rRXc?oc=5",
-      "score": 0
+      "title": "Flash floods continue to wreak havoc in Himachal Pradesh: Atleast 3 houses razed, schools shut, over 300 - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUUJfWGlhVkgtVGNFOFVaV0FrenVsLWlnTGw4blpnOFVhVEZuRnV6ZFE3eUpfNGJURVBNOUh5UjRHbEJEbUNFbjRHRHFFajFtRzFRSnJvZ2FQYWNJR3RFSkpjYU15Xzh4N3lqZHczSjZoYm84NnI1bzJZMUdnM0w0dHVfUlF6QTQtVWZWY3FYeXA1dzFfZURJM1U5TXZpeWd6Y2hVdVVnQlhNOEdGSElURnFubWF0VDN3eEtVem94bFhYamlrcDYwb2hvaG5PZVpuNjBsTEpmcms5THNv0gHiAUFVX3lxTE1vWHE1U3JxMzBqQWRndkQwaXhxSGxRR3ZUYkZ3eHZnNWZCa1Q0eDg5VzJyOGpaSzQxV0MzZ21DR3ZhWTBlTlpkS0VGTnp5aE51WUhSQlRvdEx1Nk10amtKMEdIMElSSm1qTkVVcF9qNzBsVFk5WS1Rdml5NTlWeGd0WTVHVE1ObEZjSUtESW5ZRkxSdEV1ZHJpMUJGMGFIMlN2VXFXMWp4Uk0zM3czNUc3bDhRUi1EajNTT3hhMHROcExvLTd2SlllMmNyYVJCZG5XRmhBX19UR1ZIS0FXcG5NRGc?oc=5",
+      "score": -0.6
     },
     {
       "source": "press",
-      "title": "Jalori Tunnel Project gets green light: Reducing travel time and winter hardships in Himachal Pradesh; will... - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ1dKUWtsaUY0U0QwV2F3ZGRXbUVhWXN6azZOUFlHTFRPMmNvWnFERFFPQXZ6RzBXdTJVMkNTVXR5c0ZUd3JLQUp6M0Z3Zl9HZlQzTE5JVDNMLUdpR2Q3VEpaTTVlYWwxVExNTWxnN3VaYmZIdDlHaU1fTHRuVEN5V3JhWFFrYl9Qczh6bnhZeEppUVh2X2JmNFFCdng1UFJPNDJwMlNhR0xMelE5Y01DdE5HdVdGT2VnRkpMOEk3NTk0YXJWVk12STRjV0dxV0hKNndETUlwdGdVUdIB3wFBVV95cUxOYkdxdFAwTTNFZzRQRDlwanBCb3Q4Qk1PZFQwVlE2cWdTNWhiREd0T0Fhc2I1eEtENEM4NFA2NFl4Sm5vWFhsZi0xc0hsdHhUbEdjOEJYaW9SNEZfMmRIR0plY3lIbkxraHZOSllwUGJNYkxtUU5pdXJQVndXLUZlckdzeWdkOHlWeG9lamM5YXE4cU5XbzNwaWtKT0JZYXZ2VjB1LUNyNURPVnpabGNNLWtaTFpPTTFMSXV2MVBjRkpCcjZaNFlXSmFKa2VjZElWVldFMmJGMnFYMnFXZ2dB?oc=5",
+      "title": "Centre finalises alignment of Jalori tunnel on NH-305 - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkdUSjdOR2I3WHV1dno2WWZ1STRFZjZfb0IwWEUzYW5IQldlOGxKa1p4aFJOT0Q2NjFyQ3lIYjZvSnFtQ3RXNGtpeC1lbDA5YjZuYkhZd3FYRlp1SDBJRGZmTHR4cms4ZmVlZHJwZExZRWRxamlibzdGV3FKQU15RjBiNW9lLTJiNHJNQk81NmNJN3BvMXNscDhJZVZmUdIBogFBVV95cUxNOFpwN2xMSWlzUEZCcWFRdnpMaWlYUEN3REs0RXN1YldlRFZCN3RBWk90UjZDNGxrNDRjb2I3Z0VuTEd1TVRSV1FaX3EyeHRzMTFNeUJUV2R5ZG5JS0FTenI2UXNCalhOTnpWWXFVNlBsM3JJUGlQbWRwbl9pSFlDb2ZTZ2VZbVpSY2t5SG5XTWFnSm1XZEZINGFHLUNJdm5rRXc?oc=5",
       "score": 0
     }
   ],

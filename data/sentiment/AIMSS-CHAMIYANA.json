@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-20T19:26:38.865Z",
+  "updated_at": "2026-08-24T19:24:30.954Z",
   "project_id": "AIMSS-CHAMIYANA",
   "press": {
     "n": 20,
-    "positive": 15,
-    "neutral": 5,
+    "positive": 14,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0.29,
-    "avg_magnitude": 0.31
+    "avg_score": 0.285,
+    "avg_magnitude": 0.285
   },
   "youtube": {
     "n": 0,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 20,
-    "positive": 15,
-    "neutral": 5,
+    "positive": 14,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0.29,
-    "avg_magnitude": 0.31
+    "avg_score": 0.285,
+    "avg_magnitude": 0.285
   },
   "top_positive": [
     {
@@ -34,18 +34,24 @@
     },
     {
       "source": "press",
-      "title": "पति का शव पाने के लिए दर-दर भटक रही पत्नी, आलम हॉस्पिटल के बाहर दो दिनों से भूखे-प्यासे बैठे चार मासूम - Ganadesh.com",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQb2QzckJfdkZHYjViUXR2N0dydHlpR3g1SG1kV0JNR1M3TXd1QzFuQUtsc0Y4MnhQdDRLY09FRENDY3hTZG51eTVpWmJURnVzenByNjlBWFNuSWtIZC13QW1nTmNIcmUzTXhHUU80c0RSOXRTV1h5UElZU1NXSTUxWG1rNk55V1lpY3ZWTXRZaFUxRk1MeTJBWHRtdEFiMmJWbUZzV0N2TmpuM2I1d3ByMUhyVHF5S2xIU0hmUEIzN3Fvd3FBNm05YmMxMFFJR1BtOWxKakxzbjBrbFo2Zm9vV1FZTU9nWGx5Tk4tMjNWdVoyaWdwb3lMTTJSTDlfREk?oc=5",
+      "title": "शिमला में IGMC और चमियाणा अस्पताल में एक साथ छुट्टी पर जाएंगे आधे डॉक्टर, दो बैच में रहेगा हॉलीडे शेड्यूल - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzdtWjFsNGJnckdYbWhPa3lhVms2bkRXZFY3aTZ0QUdwYWV1bFdXRkl3dmhpdUlyRnZ3eW4tbmowd0NLV1IwWFFiaWxycE10dWpZbFNDenpwOEtDYXdqay13aTNmRzZ0cksxMkFVeTA5Mi1BV0M3SzZuenFySmZCb25Ja1hPRTAwR1NubkQ1Rm9aTDMxUVZKSXk3blZaZWZCV1lSdDM1LWtBZEtvVEpvWg?oc=5",
       "score": 0.5
     },
     {
       "source": "press",
-      "title": "शिमला में IGMC और चमियाणा अस्पताल में एक साथ छुट्टी पर जाएंगे आधे डॉक्टर, दो बैच में रहेगा हॉलीडे शेड्यूल - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzdtWjFsNGJnckdYbWhPa3lhVms2bkRXZFY3aTZ0QUdwYWV1bFdXRkl3dmhpdUlyRnZ3eW4tbmowd0NLV1IwWFFiaWxycE10dWpZbFNDenpwOEtDYXdqay13aTNmRzZ0cksxMkFVeTA5Mi1BV0M3SzZuenFySmZCb25Ja1hPRTAwR1NubkQ1Rm9aTDMxUVZKSXk3blZaZWZCV1lSdDM1LWtBZEtvVEpvWg?oc=5",
+      "title": "शिमला में CM सुक्खू ने किया अत्याधुनिक 3-टेस्ला MRI का शुभारंभ, 5 अस्पतालों में बनेंगे - ABP News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGttWGREbXhvQm85UGV3WUtMZnpPTmRybzdSanZ6bFBFQVhiX2c2THJTTy1nei1ZaDZxbnVtcV84MDY1RC1BT2hVc21CaDNCOVVndmo2M3c2UlprdF9yUXNuVUw3OXQ5NV9OWi1iTnZhSUhxck1qQWpGcnYyaEFlckNBWnkzbG1zbEtBNXFEQUU0X19LcFZ6MERmMFFwdTd5aVl2OFVPZ2lVQ2t3SENNTkpPUF9sN19QS2loSnBNRzUtemdudS1kUW5rOUk5MXl2WGc00gHYAUFVX3lxTFBFazRZaUwzWDkxeGIzdEJOcTNORzNyTkhNT0lfQzNDN3MyRk1KQ0VUOHFWZzI2OFNkbFBkRndHdHYxNzVTQzF3NnhQMFJnTDh4THQ3SS1GaU93MkNObkc4Z0I4UzJkQm9uMmx1cXQyYjZQcXRENVpSRTVqRE1vUmluQm93Rkp3bV9MSjA4TWV4eGRYSVh3aUx5Ui1fdGFqekplX0NZdEJnSnVUd3VaUHE4bFkzWWJIM0dMZ2taSER3T1VCQzFBR0Q1dGNqdzItMG1oNnJEWE1XSw?oc=5",
       "score": 0.5
     }
   ],
   "top_concern": [
+    {
+      "source": "press",
+      "title": "Dialysis facility launched at Chamiyana hospital - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEZGNHFSOUM5SFhBSFdZRnozOFpaSjI4MV85M01PUTJSc00tX3dJaHVOWVJBZ01wYzJUSzFNc1QtanltM2NkVHhfYXVwaDVRSlctVXBWa1ZFbUJpa1ZKNWRjUUZGb1BOYThsRmFPY3d6V0J4V3N2M21uWGdLYXU0bXZnR1pFZFFuQnB4WGNRRlBqUnlRaHlr0gGbAUFVX3lxTFA2eThtRlFKV3RUazZ5cUNIeVJmSGVuVTVkeFpLRDFvb0YtYThTOVN5Z2dNMmRWWkEzZnJDbDlYNm9kZ3laTUtaRWh2R3oyVC1DV3JGNXVsejNXN3RoRzBfTWhuRWNRUlRmeXBaZV96VmdPMlE2SjRaSm5zeEJTbHNEcGRQejlSRy0ybGdGVDJCRnNfbW94YWR4NmdV?oc=5",
+      "score": 0
+    },
     {
       "source": "press",
       "title": "AIMSS Chamiyana gets advanced 3-Tesla MRI facility - The Times of India",
@@ -56,12 +62,6 @@
       "source": "press",
       "title": "Himachal HC seeks govt response on decongesting Sanjauli-AIMSS corridor | Hindustan Times - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbmRSa1pDdUtjTGk3ZmdSTUVlWnBIOGV2aE5YZnFyR0xmR3locmtXeFA4ZDlyUmVZejF4T2cwNnhQUVdEMnlPMUM5aU9RaWYtSWN2TU1wNFh4d1dvNjBJVkRQNjVLbjhuRGo0OHdxZmhRUmd3MHpxTnF0eTNYc0FQTjN5b01hUFEwV0h4X1RJQ0x4X3ZXM3VnTVdJcmMtV09kUkprSkNNLU5mRmc4by1sMFd4T2VqSFJTMWdxYThmaHFfVVRUVjVJQWVjOFN0NGxqR1hWV0xQbFRQSmRFWDAw0gHkAUFVX3lxTE00MHpidHVmNmpiQUc3enZsNHZfX2pCVWRXbnMzV1lxVGZMTXk1Z2EwN3lqMjVmTkR6N1FkRnpvWDZCbFIzaXFPRXdkRnBiN0FoQjZJSFBBVl9WU2QtS2JoQzFMc0tMMjJTRDVuTURLa3Q4UF8ybEhOMDgzWHAxZVdXc2ZGVWZFRWhncmZwS1Y5VXU2bzV1ZC16UzBhcnZIYnBhcE55UURFNldSSHZwM2NSd2xadFA2ZE1fYzJJek4zaUMzcUJZRktDYjFwN0tCcFpGckhncHVZZDc2dXAzdV93dTM1LQ?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Shimla News: चमियाना अस्पताल में टोकन देने का समय बदला, मरीज परेशान - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQmIwb29RVGtDODVTQlB2aW1YOUJwWVZqRS1yMGVuV1E5c1VNck40RjI2aHJDT1c0a3dQZDdSNFAyQ3JsTmt5VGxWZmwzMVVKcGIzMnJJcWVXb1NGQWc4MjhZd3ZvNTVWYk1WcnJwdFFxNmVtd1JyT1RJWFVhNDZkNTBFLUh0Vklicjl1aGdicnpxOUJGRkdZeTVMR3p4eXBkaTE4RFBXdzJRampDYzhFSUlpTmE3ck4zUWdad0poTHkxbExGZ3lESUxBazNVbVVWb1dvcWd2WTdEdFM2Qm8xNElQSDRrZHPSAewBQVVfeXFMT09Cam9HM3lHR2F6N0RpenRHRGo5eHZCX3I0Zk1BeFJ0T3dlamZvc0lJRTgzSEhSZWt6TGFWdHJfRjZxTUdId09hUzkwQTZGVGhPOTBHeFFhakROQnNnTGE1UkM5Wi14ZTdzOXJfQ1hDajZtdTNCZWVnLVRBM0RrUDN0eHlCaHdYcnZMUVNmNUdlUVJiTmpvd0dJRzJlMUt5d0tsNmQ1OHFWd0Z1M1Q3NnJHc1AyOTYzZDZBRDJ1aGZZRTc3TjJXWC1ZMUYwc2NHaDlzclRYanZfbUZmT0lDSDZkdEpTSlIyYWtEdDM?oc=5",
       "score": 0
     }
   ],

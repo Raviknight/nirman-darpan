@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-20T19:26:20.430Z",
+  "updated_at": "2026-08-24T19:24:11.043Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 12,
+    "positive": 5,
+    "neutral": 15,
     "concern": 0,
-    "avg_score": 0.16,
-    "avg_magnitude": 0.17
+    "avg_score": 0.105,
+    "avg_magnitude": 0.135
   },
   "youtube": {
     "n": 4,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 24,
-    "positive": 10,
-    "neutral": 14,
+    "positive": 7,
+    "neutral": 17,
     "concern": 0,
-    "avg_score": 0.179,
-    "avg_magnitude": 0.196
+    "avg_score": 0.133,
+    "avg_magnitude": 0.167
   },
   "top_positive": [
     {
@@ -39,9 +39,9 @@
     },
     {
       "source": "press",
-      "title": "छोटे भाई की शादी का निमंत्रण देने आए बड़े भाई की सड़क हादसे में मौत - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSjY2djRmU2xXdnBFNmpZdnN4bkd5TWRJRVk2LXcwY1FsTU8wazU0dmdySlM5d0NVVFVMVk0ta1djNUNyVkdFNU12RDFfZk1FQlFyaGg2SHl1b3gxa21ZUDVGX0FQeTNDN1Z2dzdxanFMUmJUMFNDUTZFRlMyRk1mdEVGZlVFUGhKMFUwMHFaOWpBcUVuT1ozX1NPbDJYQXlZZklmLUx1S0J3cVlsUDVaalhrSkhsMzI4VzZIN3NVdlUwaVhtT3FQWGgyeFF4RXRwaUFqcjRHMkJ6Q0JSQ193QnU5TlNSMGs1T1FZSDBzNDlaaG1kY04tRtIB_gFBVV95cUxNM0dRcEN1cEJscThET3AtZ2dSRDlRWjcwLVl4TW5yZHBkRDJ0LUhtVDdoVW9HU3RqS3VRNzBpM18zWU5kQUdpNzN4QWNLM1NqOXBWWFhMbzIxU1kwNGhtSVNFZmRBR1dyMDhsRXpSWWVSVnFjUkxlYk9MdUYxZFI4aFJsMzl3aEVCOFBjTXpXLUpReEFUaFM0V18zTG9IRXFiTkViNDFpMDRyNkFHLU14X1VDU1pDNXFfVnd2RXV1YldLU2VFbVBmLUFNbUNtTjRHUU9id1haeUExc3RIcWNFdVFFVTZaSXlkOGVGbF9jU3Y1dUxrTEdRTXZSZTFjZw?oc=5",
-      "score": 0.6
+      "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
@@ -51,15 +51,16 @@
       "score": -0.1
     },
     {
-      "source": "youtube",
-      "title": "sir electrician ki vecancy teni h project pr khali ??",
-      "score": 0
+      "source": "press",
+      "title": "RECPDCL HANDS OVER LUHRI POWER TRANSMISSION LTD TO TSETPL - IndianMandarins",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVpiMks5dUxHb21ScFlfaEhOazBJT0JQQVJFWG9kNlh2VFc3TUVEaWJ1cGJkNWFqakE4SXRya3gyVFVmeXFOak9pLWxhdDhHb2p2UEw4MFlBem5aVFlBR3UxVUJyandHVmxSX3V0bmRHMG5DNUtxNzd6bHREUmN4aG80ZlpVcWNYMU56OUtPTGFBeF9jRV8xelFmSVdCLW1LdlE?oc=5",
+      "score": -0.1
     },
     {
       "source": "press",
-      "title": "India's claim on the Upper Arun hydropower construction as well - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkFteHptV3o5VC1WYWtoRjBfYmxMeU9QcFdZbHVEbnBqamxwODgzT1FxSV94b0ZYUjhsaTJtbHBHajdNV2RqLWhzcFc2TlBSMTNPSWMyQ01DY3NVbEZtcU43UWhwSnh4TWthZmNETEdtQm1xWWpwVC1GV1NyUGxQN2RKSGlmSXFIYmZ1QUs3dmpneW53dGhaV1RSdWdaY1ZFM2xtLXRoRUJyeUZUTzdieDdMMWNzLXJqRXc?oc=5",
-      "score": 0
+      "title": "RECPDCL transfers Luhri transmission scheme SPV to EnerGrid - T&D India",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXpXSXlEV2VOUHp1Q3JFUDBNbl9CcWdnanlzVU1TY2laeXdwZ1hJZXEzLW9yVjd2Q2w5R08xb0Y4d0ZqWnM0aHRmb2FPYmxQaGxxdzNxQ0paaEZTTmNCRlRUUGN6WEJOMExOM2YtUWZQQUdHNHJPWC1JZGNaODZtVlA4b3lqV0Z1U2FfcNIBkgFBVV95cUxPMFdPdGZrSUJnNzViTV9oODRNazFTTHRtNWptUUZPYy1ZUjJzajVMdF9QSDFwY3J1cVNMRExNLWVBcHFTV3BOUU1yV2FpYlJDZ3BQcVZ4ZEY5c1ZBTm5saEVkR1VrYmJFWHJOYURjRWFpTmR5NVI4MkJZWWFyRjV0OGZWcFBCdTNWM09pZDNQNnZxQQ?oc=5",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

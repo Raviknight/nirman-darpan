@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-08-20T19:26:25.398Z",
+  "updated_at": "2026-08-24T19:24:17.474Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
-    "positive": 5,
+    "positive": 4,
     "neutral": 12,
-    "concern": 3,
-    "avg_score": 0.035,
-    "avg_magnitude": 0.21
+    "concern": 4,
+    "avg_score": 0.005,
+    "avg_magnitude": 0.2
   },
   "youtube": {
-    "n": 44,
-    "positive": 35,
+    "n": 45,
+    "positive": 34,
     "neutral": 7,
-    "concern": 2,
-    "avg_score": 0.43,
-    "avg_magnitude": 0.511
+    "concern": 4,
+    "avg_score": 0.3,
+    "avg_magnitude": 0.404
   },
   "overall": {
-    "n": 64,
-    "positive": 40,
+    "n": 65,
+    "positive": 38,
     "neutral": 19,
-    "concern": 5,
-    "avg_score": 0.306,
-    "avg_magnitude": 0.417
+    "concern": 8,
+    "avg_score": 0.209,
+    "avg_magnitude": 0.342
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Very nice story bhai 👍",
+      "title": "Good morning everyone 🎉",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Love you from MP india",
+      "title": "I love kangra❤",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Nice story",
+      "title": "Beautiful view 👌 new friend 👍",
       "score": 0.9
     }
   ],
@@ -55,10 +55,9 @@
       "score": -0.8
     },
     {
-      "source": "press",
-      "title": "SIT to probe all shady land deals near airport zones: HP CM Sukhu - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVBvMHYyTkFGcnRVZ0xOaXpQMDJ2OTlIaVZlOTRyTUVIUWdwbDU3ZGNaYk5rZ0RpdW5uS0J2TFI0dU5XOGdrZmFvVmQ0QWF5ZEY4SW1pU2NzWk0zZTVwRnltTl9TcWJnTGdReE9hLWxWNEFHZnJOTTh3dFdhYnNFODdQaVBUZ05MeFJ4dXZLbDJsRHlHd0Z1QUh1aXl4MkpFanRuWmdpT1RqRS1p0gGwAUFVX3lxTE9Tdk1hWmxiaXZqYldDdHhSOHpieHBROFE3Zm0zbWJKb1J4WGkzVFdQN1NlXzZkalpzQ0doenktNlZWS2w0ZWM5RXhtUlBQZG5OaWlzc21XVlg4TkJJekdUaWxKa0JLN0QyUGpLVzZZRXVQcC1KQ0lFazVzdU9DYWtkdVczbmw3RUNFSV9BSDZRWnBXSkhLZl9Sa3hnWWszSG9NeXFDY1dXZTRRaElGRzF1?oc=5",
-      "score": -0.4
+      "source": "youtube",
+      "title": "Ap ne immediately reply Kiya.Thanks",
+      "score": -0.6
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

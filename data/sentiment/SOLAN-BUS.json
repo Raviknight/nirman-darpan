@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-20T19:26:49.400Z",
+  "updated_at": "2026-08-24T19:24:38.966Z",
   "project_id": "SOLAN-BUS",
   "press": {
     "n": 7,
-    "positive": 2,
-    "neutral": 3,
+    "positive": 3,
+    "neutral": 2,
     "concern": 2,
-    "avg_score": -0.086,
-    "avg_magnitude": 0.343
+    "avg_score": -0.057,
+    "avg_magnitude": 0.371
   },
   "youtube": {
     "n": 23,
@@ -19,21 +19,21 @@
   },
   "overall": {
     "n": 30,
-    "positive": 14,
-    "neutral": 10,
+    "positive": 15,
+    "neutral": 9,
     "concern": 6,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.307
+    "avg_score": 0.107,
+    "avg_magnitude": 0.313
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Good",
+      "title": "Bhai job mil jayega",
       "score": 0.8
     },
     {
       "source": "youtube",
-      "title": "Bhai job mil jayega",
+      "title": "Good",
       "score": 0.8
     },
     {

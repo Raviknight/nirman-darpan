@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T19:26:44.165Z",
+  "updated_at": "2026-08-24T19:24:33.874Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -11,29 +11,29 @@
   },
   "youtube": {
     "n": 20,
-    "positive": 11,
+    "positive": 13,
     "neutral": 5,
-    "concern": 4,
-    "avg_score": 0.28,
-    "avg_magnitude": 0.82
+    "concern": 2,
+    "avg_score": 0.41,
+    "avg_magnitude": 0.77
   },
   "overall": {
     "n": 20,
-    "positive": 11,
+    "positive": 13,
     "neutral": 5,
-    "concern": 4,
-    "avg_score": 0.28,
-    "avg_magnitude": 0.82
+    "concern": 2,
+    "avg_score": 0.41,
+    "avg_magnitude": 0.77
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Your insights are truly valuable; thank you for sharing your perspective!",
+      "title": "Gingers are extremely good for our body immune system. Our kitchen are full of those coz my whole family love it",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Gingers are extremely good for our body immune system. Our kitchen are full of those coz my whole family love it",
+      "title": "Your insights are truly valuable; thank you for sharing your perspective!",
       "score": 0.9
     },
     {
@@ -45,18 +45,18 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Why is the Ginger harvested when it has not yet reproduce?",
-      "score": -0.7
+      "title": "Please send complete video",
+      "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "Is it just me or does this look like mature ginger they are planting? Also the harvest looks smaller than what they plan",
-      "score": -0.5
+      "title": "but why? the one they initially planted looks heavier",
+      "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "Why is the Ginger harvested, when it has not yet reproduced ?",
-      "score": -0.5
+      "title": "How long?",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

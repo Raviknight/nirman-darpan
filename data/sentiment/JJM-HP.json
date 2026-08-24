@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-08-20T19:26:34.664Z",
+  "updated_at": "2026-08-24T19:24:21.904Z",
   "project_id": "JJM-HP",
   "press": {
-    "n": 2,
-    "positive": 1,
-    "neutral": 1,
+    "n": 4,
+    "positive": 2,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.2
+    "avg_score": 0.25,
+    "avg_magnitude": 0.25
   },
   "youtube": {
-    "n": 27,
-    "positive": 10,
-    "neutral": 10,
-    "concern": 7,
-    "avg_score": 0.07,
-    "avg_magnitude": 0.359
+    "n": 38,
+    "positive": 11,
+    "neutral": 16,
+    "concern": 11,
+    "avg_score": -0.016,
+    "avg_magnitude": 0.321
   },
   "overall": {
-    "n": 29,
-    "positive": 11,
-    "neutral": 11,
-    "concern": 7,
-    "avg_score": 0.079,
-    "avg_magnitude": 0.348
+    "n": 42,
+    "positive": 13,
+    "neutral": 18,
+    "concern": 11,
+    "avg_score": 0.01,
+    "avg_magnitude": 0.314
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Thanks bro",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "Excellent achievement",
@@ -38,25 +33,30 @@
     },
     {
       "source": "youtube",
-      "title": "Great initiative by himachal 👍",
+      "title": "Thanks bro",
       "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "भाई एक घर के लिए कितना मीटर पाइप मिलता है।",
+      "score": 0.7
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Sir new connection  open  karne par open nahi ho raha",
+      "title": "Wrong",
       "score": -0.8
     },
     {
       "source": "youtube",
-      "title": "Connection band marane hetu kya kar sakte hai Or kha jma karna h",
-      "score": -0.5
+      "title": "Depth not proper",
+      "score": -0.8
     },
     {
       "source": "youtube",
-      "title": "Bhai send feedback bala option nahi aa rah hai",
-      "score": -0.5
+      "title": "Sir new connection  open  karne par open nahi ho raha",
+      "score": -0.8
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

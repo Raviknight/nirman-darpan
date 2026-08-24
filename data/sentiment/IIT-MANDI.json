@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-20T19:26:34.663Z",
+  "updated_at": "2026-08-24T19:24:21.903Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
-    "positive": 11,
-    "neutral": 9,
+    "positive": 13,
+    "neutral": 7,
     "concern": 0,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.2
+    "avg_score": 0.245,
+    "avg_magnitude": 0.27
   },
   "youtube": {
-    "n": 10,
-    "positive": 6,
-    "neutral": 2,
-    "concern": 2,
-    "avg_score": 0.18,
-    "avg_magnitude": 0.96
+    "n": 18,
+    "positive": 14,
+    "neutral": 3,
+    "concern": 1,
+    "avg_score": 0.339,
+    "avg_magnitude": 0.639
   },
   "overall": {
-    "n": 30,
-    "positive": 17,
-    "neutral": 11,
-    "concern": 2,
-    "avg_score": 0.193,
-    "avg_magnitude": 0.453
+    "n": 38,
+    "positive": 27,
+    "neutral": 10,
+    "concern": 1,
+    "avg_score": 0.289,
+    "avg_magnitude": 0.445
   },
   "top_positive": [
     {
@@ -32,14 +32,14 @@
       "score": 0.9
     },
     {
+      "source": "youtube",
+      "title": "I see it every day 😂😂😂",
+      "score": 0.8
+    },
+    {
       "source": "press",
       "title": "आईआईटी मंडी में रामगढ़ के अभिजीत का कमाल, बेस्ट कैपस्टोन प्रोजेक्ट पुरस्कार से हुए सम्मानित - Hindustan",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObnh2UmFza2J4d3N4aXhoWWZycTBaS3V2WFhZR3VGRTVyY3hPNnZoTjNsLS0zUEs0WU9FcGVkRUoyMkxWSFVza0xXS3FvODNGaXpMRHdvaW81OUJJbThoWUhuUlRQVkJOdlNSTUtUQXR1QVU2QTVoZng2QXloOWJzU1dsYS1kSi1NUWtOcGw5MEZpSklWNnk4cGd0RTNwZlRScWhIaElNc2t5TG16XzVsU3hmZlowTm15SjY5YTNUaURyWExBdEk5OFN4NDZlZl9hb3k3N1czaS1ZMVFCSDVV0gHkAUFVX3lxTE5Uek5ScTc4cDk0WGU4M29mQ2hqNFFFdFJMVlZadTRsNnlKbDIwWExQbGhkaHZfa3I1eC1pRjQydlo1UVhXc3FSZU9PWkFSRVpQNEhiX0pzZ3FmN0hoaVdjVzBVQ1cxZWxXamJwNnRpekw4ZzM5SzFiTXVqSGJvaGQ2YnNNeUV2QnZiQ0k2T3JWQXVMMnN0OWNoamlqcUNNZjJZZTZVUVcyRUtNaFV4aWhnUGJmaGhCYkNocVZKUjVwN0RrcWRzSnNmcVl2MHcyTGFnVmJnZ2c4WGRrNmJsdENIamhSdA?oc=5",
-      "score": 0.6
-    },
-    {
-      "source": "youtube",
-      "title": "literally whenever i feel like, ugh i should sleep or i should scroll some reels but then i watch this video n it gives ",
       "score": 0.6
     }
   ],
@@ -51,13 +51,14 @@
     },
     {
       "source": "youtube",
-      "title": "exactly DO NOT  go for masters interview physically\n\nthey will later conduct online for people who didnt go there for ph",
-      "score": -0.4
+      "title": "Bro what about landslide",
+      "score": -0.1
     },
     {
-      "source": "youtube",
-      "title": "I am a dropper i was not studying from 6th month after my jee mains 1st attempt on 31st jan 2024 that's  why i scored 62",
-      "score": 0
+      "source": "press",
+      "title": "SKUAST-K flags off 1st batch of BTech Artificial Intelligence students to IIT Mandi - Greater Kashmir",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZnFDclpVSmVlRFdqR0dHUGhST01lV0taTTFSODY1MUVSSi1yV1dxNTI3YzBURkJOcWJ1b3JNUUY5U2oxTHh1ZnBrdUtsTFB0UVg5SEhzbDFMQ3A5LV9kN3ZhWUZhMWN0akZSR2E3WGFVRVdRajAtWlFZTHBTWE1na3kzMHlRSWZsQ014M3U2MWw2dU5UNk1vZEluMlVfMUpHV2s2ZEVSazhnMHRoUWlNTW9HaDdPWWhfNW5nU25pNjdWRXU0bkZISWlrdHDSAdIBQVVfeXFMTlJsVFNIdkFxVHJjci13a0tDQ0swWDRhRU1QR01SWnA0UHQ1N2NzSUc0OXlpNG9sQnd2VmFnckZtX090YUpiWWM5Skw2dF9JVVBVT2UwNnJ1S2s4Ym1Eb0FXRVplNjZ1VlVuaGZTQ0tTdmU2NWhDbWtaYWhqOEVJM2lfMW9UNDNwQWd0Y1hpaUtDNmFUM1RuX2ptNVBZeGhsU1lRSi1VbDNORENpV0RmYXJEdU9LbzF1UVdhWDBXdWowSzRmYmU5NTNsV0hHek9ZMmNR?oc=5",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

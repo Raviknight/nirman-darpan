@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-20T19:26:36.057Z",
+  "updated_at": "2026-08-24T19:24:24.797Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
-    "positive": 10,
-    "neutral": 10,
-    "concern": 0,
-    "avg_score": 0.235,
-    "avg_magnitude": 0.25
+    "positive": 15,
+    "neutral": 4,
+    "concern": 1,
+    "avg_score": 0.325,
+    "avg_magnitude": 0.39
   },
   "youtube": {
     "n": 8,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 28,
-    "positive": 16,
-    "neutral": 11,
-    "concern": 1,
-    "avg_score": 0.286,
-    "avg_magnitude": 0.368
+    "positive": 21,
+    "neutral": 5,
+    "concern": 2,
+    "avg_score": 0.35,
+    "avg_magnitude": 0.468
   },
   "top_positive": [
     {
@@ -45,6 +45,12 @@
   ],
   "top_concern": [
     {
+      "source": "press",
+      "title": "Water release raises flood risk along Beas, Parbati rivers - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkduZUl2WV95YTZDX05Kb3N4ZEdqYmllMXBQWmVaYmJqQ2FCSWxyU0RrMWxtVFRWRnIxQko2cGdvTG5GbEE1UldHTFViWEMtaDlxeWZjekhRSzBIRHpIMzVDTTNpRlZLYlo1ZnVTRjg4R215VWQxZ0IyQ2F5OXhRdGRmZ19TUzM1aTBsQnE4TFJJVUVhVmdCWjljbTNub2VGU2RV0gGnAUFVX3lxTE04SHpwVnNfZGU1OEZyTC1INkJQMnJaUlN4bDdBUkVCYlNjYXItQmlLYmt4UTRCTUJzMlBEZnZ3VmFtc0ZVQWd4bkdiVHExWjZjQW5PdW8yQkQ4T3FkV1RxS0E2bkxtSGQtM29GOTRtem9JY1FZelBGWm93NVZnYl9HVDBXVk50VmFKOHM4aG1lMnN6TVRPbkpfb3FtQXN3Z1BYN3dhenRj?oc=5",
+      "score": -0.5
+    },
+    {
       "source": "youtube",
       "title": "Make this type of projects by using \nmoney of temple devotional money\nby giving them small interest over it\nAlso money o",
       "score": -0.3
@@ -52,12 +58,6 @@
     {
       "source": "youtube",
       "title": "Turn the water of himalayan rivers to the deserts of Rajasthan",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Water levels in Parbati river set to rise as NHPC starts silt flushing at Pulga dam - The News Mill",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2RybDZPaV9wV3kwTjljeXVxMkJtRzdjNGY0T09KZEk5MlJRVVA4MHhLd29KMENEd2J5LVVOVzkzV3NzR3Z5RWl0aVJvQzN3MlRRRWdfdGFpaS1qTnBCenNpSjFheXR3UlpFbDY3Qmc4TXdHdm56UFZqMFJONGhUREFVVXlUY3BqOUNIX1NSandpSlFFOFQ2R0IzNkVrQzZUd3hhNjNhZEdqbEQ5R29uaHU5QkRXZTQ?oc=5",
       "score": 0
     }
   ],

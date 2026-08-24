@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-20T19:26:47.403Z",
+  "updated_at": "2026-08-24T19:24:37.715Z",
   "project_id": "GMC-NAHAN",
   "press": {
     "n": 20,
-    "positive": 11,
-    "neutral": 8,
+    "positive": 12,
+    "neutral": 7,
     "concern": 1,
-    "avg_score": 0.185,
-    "avg_magnitude": 0.345
+    "avg_score": 0.205,
+    "avg_magnitude": 0.335
   },
   "youtube": {
     "n": 21,
-    "positive": 15,
-    "neutral": 4,
+    "positive": 14,
+    "neutral": 5,
     "concern": 2,
-    "avg_score": 0.31,
-    "avg_magnitude": 0.457
+    "avg_score": 0.271,
+    "avg_magnitude": 0.419
   },
   "overall": {
     "n": 41,
     "positive": 26,
     "neutral": 12,
     "concern": 3,
-    "avg_score": 0.249,
-    "avg_magnitude": 0.402
+    "avg_score": 0.239,
+    "avg_magnitude": 0.378
   },
   "top_positive": [
     {
@@ -33,13 +33,13 @@
     },
     {
       "source": "youtube",
-      "title": "Nice video frnd",
+      "title": "Clicked Faster than speed of light 😍",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Clicked Faster than speed of light 😍",
-      "score": 0.9
+      "title": "I am a big fan mam 😭😭\nPlz plz ek reply kar do \nI love your videos \nAur mei soti nhi hu bina apki videos dekhe",
+      "score": 0.8
     }
   ],
   "top_concern": [

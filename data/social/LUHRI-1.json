@@ -1,14 +1,104 @@
 {
-  "updated_at": "2026-08-20T19:24:44.473Z",
+  "updated_at": "2026-08-24T19:22:37.788Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 41,
+    "press": 52,
     "gov": 0,
-    "en": 28,
-    "hi": 13,
-    "total": 41
+    "en": 40,
+    "hi": 12,
+    "total": 52
   },
   "mentions": [
+    {
+      "title": "RECPDCL Hands Over INR 839.55 Crore Luhri Transmission SPV to Terralight Solar - Energetica India Magazine",
+      "source": "Energetica India Magazine",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRm94VnV5SmxlQzRCdEFGR1VoYTdIVDA4c2FyaWFtcm92NHNZcGdLemJ1TVFVZnFRR21Wa18zUVlPMnY0WDg3anh2eGNidXU2Y3pYUVREbVBtd2FnWVhZV2N2YUFmU0ZSalN5ZWR2RkdlRDJJNENacnVBRjl5dGJ0cEFMZmtCVlVwU3BPMkZTWkc1dGNpdW92a29BdkRONUkyNkJMZ3pyVFV6c1pJWGNUcGVtMlR2UHM?oc=5",
+      "date": "2026-08-24T05:17:30.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "RECPDCL transfers Luhri transmission scheme SPV to EnerGrid - T&D India",
+      "source": "T&D India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXpXSXlEV2VOUHp1Q3JFUDBNbl9CcWdnanlzVU1TY2laeXdwZ1hJZXEzLW9yVjd2Q2w5R08xb0Y4d0ZqWnM0aHRmb2FPYmxQaGxxdzNxQ0paaEZTTmNCRlRUUGN6WEJOMExOM2YtUWZQQUdHNHJPWC1JZGNaODZtVlA4b3lqV0Z1U2FfcNIBkgFBVV95cUxPMFdPdGZrSUJnNzViTV9oODRNazFTTHRtNWptUUZPYy1ZUjJzajVMdF9QSDFwY3J1cVNMRExNLWVBcHFTV3BOUU1yV2FpYlJDZ3BQcVZ4ZEY5c1ZBTm5saEVkR1VrYmJFWHJOYURjRWFpTmR5NVI4MkJZWWFyRjV0OGZWcFBCdTNWM09pZDNQNnZxQQ?oc=5",
+      "date": "2026-08-22T13:15:37.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "RECPDCL HANDS OVER LUHRI POWER TRANSMISSION LTD TO TSETPL - IndianMandarins",
+      "source": "IndianMandarins",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVpiMks5dUxHb21ScFlfaEhOazBJT0JQQVJFWG9kNlh2VFc3TUVEaWJ1cGJkNWFqakE4SXRya3gyVFVmeXFOak9pLWxhdDhHb2p2UEw4MFlBem5aVFlBR3UxVUJyandHVmxSX3V0bmRHMG5DNUtxNzd6bHREUmN4aG80ZlpVcWNYMU56OUtPTGFBeF9jRV8xelFmSVdCLW1LdlE?oc=5",
+      "date": "2026-08-22T08:26:21.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "REC Transfers Full Ownership Of Luhri Power Transmission To Terralight Solar - Sahi",
+      "source": "Sahi",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZE5hZHotbTZCTk1rcml3d1lhbDgtY0VkM1dkY0xTYXVzYWlTZlFsQ1Z5MW9jXzFtYkF1bDdySm0yNEJDTm5TN0IyZFYtQ0FYWjFabExGTU1IenRUZmd0U3dGNHg2SFA3ZHA1M1ZsTFBMMzBIZWZGaVByQnE3MjhJcjNidEpvODVJWTRTTGgzbEZlUDBvQTVoM040SEJBeGQ4ZWZKSGQ3NWhnakRqbmxYTnFBVHAzUQ?oc=5",
+      "date": "2026-08-21T16:29:11.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "REC arm hands over Rs 839.55 crore Luhri power transmission project SPV to Terralight Solar Energy - PSU Watch",
+      "source": "PSU Watch",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZV9icGNxUmREOEJUQW84eUdiWmZGd2V1dk1PS0E5OTZoQkRWaFhKa3ZjLWNRRm1WaUFLZ05kSGY0dGNzQVI5dEtkQmpEYXVuSllCWVYtZ1AyOW5kcGMwM012WnB1RkljSXp4WElpWUNENzlDcmpILXlEX2xWY3NiVWl6UEdsbHBVcUdLSVVPblR3ZGExNjFBdXc1aVB0OVJMdnZ0WDh4M2R1Y2FmZnJ0b1RGQ3dFZGNzdnVDYjRyM3Jtd2xyb2d5ZFdR0gHXAUFVX3lxTE0zcWl5aTZHaHY0ZS1zQ2VKQklNbFB5WFZrUjA1OG1Ya2lMZTZscmVUX0dlUzM2X2h4VTVZQkh5WlZEZzVfWE9QRnhueXpWbjBJZ0NteUM3anRrc2xLSVNsV3oxVGN1ZGo5MkJ6UWtLY3hfTEU0TU1RY1kxWUUtd3lES1NUaFJvSE9BelRlYTBXUExhYjZPN29ZamY3QjB2cjVheVhyRUJlZzVPQkg4VFdRMk9nU1lReWxuNkZ2S0VzQWVsYklQaUkzTXR2dktOS2ZZVmZ6dUtr?oc=5",
+      "date": "2026-08-21T15:39:42.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "RECPDCL Hands Over Luhri Transmission SPV To Terralight Solar - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDFSdnZGaE8tVnl0MU5KbUdQb2c1RWZaajdGNHRrN3NwdGxUMThaUjhnTXJiTG5zVFJ2OXh4SVlSVmFkVy1aelFxZjVfQ3VRZWR5cmpIYVhCd0NYVno5ekRWMkxzY2Fhbzd3WV9Yc2hRdWZNYmxjU2ZFdkFISWZ3clBzdlo0Z0VQ?oc=5",
+      "date": "2026-08-21T15:11:33.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "Terralight Solar wins bid for Luhri hydro power transmission project - Power Peak Digest",
+      "source": "Power Peak Digest",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWZqZmp0MzRGTVJsTE9OTDFLN1V5VU40akR3UnhEVGxrZnkyeUpNTHFUU05NejViZUhlM2JhSUtna3dBN1FxcU9kelR3VFJHb3JKaVJQQjcyaG1PY1V2clZoVl9nbXZQR01OdGxQdGMya0hYUVA3RFdqYXczSTczeE1Qbw?oc=5",
+      "date": "2026-08-21T14:40:40.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "RECPDCL Hands Over Luhri Power Transmission SPV to Terralight Solar Energy - Kashmir Convener",
+      "source": "Kashmir Convener",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSEdoLUhPV3psX0tpVVNBYW5DOEtVT0xxMVZDaHdKQVd1ZHZ3UGNIOXpMbkxIRHBpcDRBSEVpajh2bVFMZENvaThNcGNuUTE1YkZ5T0FhcDNfTW5YYWhrRjQ4UGRqRjRtTWo2RTRVZTc1SVZxTm1qYVlFYmMwZlhnZWN6azNabWJPVzJsWUh0Q0pyNmI4emJEWUM3dHpsMjBSd0R0VVp3?oc=5",
+      "date": "2026-08-21T14:06:30.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "RECPDCL Hands Over ₹839.55 Crore Luhri Power Transmission SPV to Terralight Solar Energy - Indianmasterminds",
+      "source": "Indianmasterminds",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0tRREtMSFRxdWVmM2szdkVRUnVyQWlaX0xrdHZuQllVWC1wOWJIWm0yajVTN3pmZzlPYUpfRjhTcm1sajBDLTJRQWxUdnRFV3M5UnA0V0xXOTBJbU85MzhZdkdvZTJFZ1FpRDlqOHB3eG5jOXhjcmhHTkVxUllaZVU4ajlacVBBNTRPZnR0Ylc3R2R1cVhLdzU3UjBsaW0wc2NUU2tB?oc=5",
+      "date": "2026-08-21T13:47:21.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
     {
       "title": "HP CM Sukhu Orders Takeover of Three Hydropower Projects From SJVN, Setting Stage for a High-Stakes Legal Battle - HimbuMail",
       "source": "HimbuMail",
@@ -30,21 +120,11 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "Satluj Leaked: 'कोई टेंशन नहीं,' इधर ओटीटी से हटाई गई सतलुज, उधर ऑनलाइन लीक हो गई फिल्म - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWm5xbGQ0VldDMVpDLU5DekNIalI0a21jZzZqLVgwUjlQSHZHNkFGS24xcU54ekp6YW0wV1lrY0l5RWV0M28wRXVPeVRSZDZhaUtrOThDUE0xNTZSelM5WWpjc0h5Zjd0Ri02UU56SG1aWmRaTDh6aWpaX0lVcTNad2JfTnpnQnNKVEtOdGwxcUdEOXNFM2NqczlUalN2UFFmRTNOVHNkbDk1VUJLTDBEcnd6bzVTZ0RIdXFEbjBieTZjZkctRFhOWXgtRkg5bFVpNnZhcA?oc=5",
-      "date": "2026-07-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "SJVN Sutlej"
-    },
-    {
       "title": "HP to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - News Arena India",
       "source": "News Arena India",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFRvMnh4enBWOXN3U0ZnRjdwbjBtclJtb09iTkR0WGUyQUo3Mlg2d0kzMnZMSFY5QS1xMXJsYW5XZDhzcURjbnNoeVl4MjB3OHdILXZZVHhUalBvYVRoVFc3TldyWWxqX29lUWtUU0pwNllHSERHSTgyel8ySGgwa2pVMnZCc2JaRDB5N3dHcVJPTnVPV3A5ZzNhWGZKUGpZSFYwbA?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
+      "date": "2026-07-02T16:22:40.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
@@ -60,20 +140,20 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "SJVN Secures PPA With GUVNL For 658 MW Hydro Power Across Three HP Projects - Sahi",
-      "source": "Sahi",
+      "title": "SJVN signs PPAs with GUVNL for 658 MW green power supply - scanx.trade",
+      "source": "scanx.trade",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzl4dFF5N1N0a196VGF6Vk50aE5XNUZGX3MwTEktOHg5LU42cWVZZUVXMDd4MHdOb1RDOU42X3VqUW1RZVV2bTduSkpTdGtzbTY4ZVJzV2lTamFCbGVJSjhQcjBVdGhZVnF6c2picHpKeFJtZzQ2Z0IwVW5ONnJ6STFHOVo1S3NJZnlqOFl0eEhaY2dXZnJrRmNmNHlsTTc1b3lqdndjZFFiOTN0RWlKaVoyUGU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG5JcDFtRkRQUUJjTVVfZnplaGthempWLXVsaEF4NmlMLWcwc2RLMGFLQzQtbk0ySHBtNzczWTlsaDUxbnMxNGxTcjhxbWxJcVhDbklIX1REZEtFdWYyV3RtZENkZkJEMWxHdVBQSllQS0dyTlB6cDVWTEM5SHpkSG02bVF5NFRlLUJUWHlMWmNMNmNSazJtUXZzM3NlY1RwbHhIbVFWaDdpWG5SeVhQOTlSOWxYR2tqeGY3aw?oc=5",
       "date": "2026-06-29T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
     },
     {
-      "title": "SJVN signs PPAs with GUVNL for 658 MW green power supply - scanx.trade",
-      "source": "scanx.trade",
+      "title": "SJVN Secures PPA With GUVNL For 658 MW Hydro Power Across Three HP Projects - Sahi",
+      "source": "Sahi",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG5JcDFtRkRQUUJjTVVfZnplaGthempWLXVsaEF4NmlMLWcwc2RLMGFLQzQtbk0ySHBtNzczWTlsaDUxbnMxNGxTcjhxbWxJcVhDbklIX1REZEtFdWYyV3RtZENkZkJEMWxHdVBQSllQS0dyTlB6cDVWTEM5SHpkSG02bVF5NFRlLUJUWHlMWmNMNmNSazJtUXZzM3NlY1RwbHhIbVFWaDdpWG5SeVhQOTlSOWxYR2tqeGY3aw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzl4dFF5N1N0a196VGF6Vk50aE5XNUZGX3MwTEktOHg5LU42cWVZZUVXMDd4MHdOb1RDOU42X3VqUW1RZVV2bTduSkpTdGtzbTY4ZVJzV2lTamFCbGVJSjhQcjBVdGhZVnF6c2picHpKeFJtZzQ2Z0IwVW5ONnJ6STFHOVo1S3NJZnlqOFl0eEhaY2dXZnJrRmNmNHlsTTc1b3lqdndjZFFiOTN0RWlKaVoyUGU?oc=5",
       "date": "2026-06-29T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -127,86 +207,6 @@
       "date": "2026-02-06T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "SJVN Sutlej"
-    },
-    {
-      "title": "छोटे भाई की शादी का निमंत्रण देने आए बड़े भाई की सड़क हादसे में मौत - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSjY2djRmU2xXdnBFNmpZdnN4bkd5TWRJRVk2LXcwY1FsTU8wazU0dmdySlM5d0NVVFVMVk0ta1djNUNyVkdFNU12RDFfZk1FQlFyaGg2SHl1b3gxa21ZUDVGX0FQeTNDN1Z2dzdxanFMUmJUMFNDUTZFRlMyRk1mdEVGZlVFUGhKMFUwMHFaOWpBcUVuT1ozX1NPbDJYQXlZZklmLUx1S0J3cVlsUDVaalhrSkhsMzI4VzZIN3NVdlUwaVhtT3FQWGgyeFF4RXRwaUFqcjRHMkJ6Q0JSQ193QnU5TlNSMGs1T1FZSDBzNDlaaG1kY04tRtIB_gFBVV95cUxNM0dRcEN1cEJscThET3AtZ2dSRDlRWjcwLVl4TW5yZHBkRDJ0LUhtVDdoVW9HU3RqS3VRNzBpM18zWU5kQUdpNzN4QWNLM1NqOXBWWFhMbzIxU1kwNGhtSVNFZmRBR1dyMDhsRXpSWWVSVnFjUkxlYk9MdUYxZFI4aFJsMzl3aEVCOFBjTXpXLUpReEFUaFM0V18zTG9IRXFiTkViNDFpMDRyNkFHLU14X1VDU1pDNXFfVnd2RXV1YldLU2VFbVBmLUFNbUNtTjRHUU9id1haeUExc3RIcWNFdVFFVTZaSXlkOGVGbF9jU3Y1dUxrTEdRTXZSZTFjZw?oc=5",
-      "date": "2025-11-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Luhri Hydroelectric"
-    },
-    {
-      "title": "ट्रैक्टर-ट्रॉली की टक्कर से बाइक सवार मां की मौत, बेटा घायल - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHRrU1dZTk9GUkNyMkNwbi1vU293cjFxaVMyaUpwcndjekZLLTdIXzZsYUtWblBlc0JvZHNQc2l5MkJScVduV29ta1h5d01Ob1ZlRm9OYnVCb3RsYVBTTnZDZkhZbjRsMm5PUXVNOFBsamJ6d2NHeTBJNlNSOUxmVHJzYXdGMFRXdmtDb09uMFU2emo0SDdZd1RCenZOdDNjdU42Y2oxaU1GRGJhVTd2b2R3eE9wWXRSelBqRHJFYjE1cmFKbzBYSHZXYVhWczdnZkNCMW04RdIB3AFBVV95cUxOZ3Y1TnBOSEhfZF9GT2VuaUM5T1R4ZDNoWmRKUl9xb0VVcG1TY3dmMXZ4XzYtWVJ2MGt3Qi1hcXFDNVBGMy0yckZ1N1UxNE9qb1VRWmpiSGwxeFJuZ01Cb1V2dmFCbnY5T1VhMjlYWjZUVTQ3ZjhlWGNiTklQenVfUEVwQmM3dzZYNGdTZlpvQldsOXFidTBfbV9lb0RKYjZMeXNQYU5Gd2JaSnNNSkVzdDBvejZ0emtxendXQUVTTU80czlyc3JTNWlSWndabjFOSFNGaG5YN1NuUmxi?oc=5",
-      "date": "2025-11-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Luhri Hydroelectric"
-    },
-    {
-      "title": "SJVN signs Power Sale & Power Purchase Agreements with UPPCL, NDMC - Garhwal Post",
-      "source": "Garhwal Post",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2NUSmU2a0dDTEY0NDNBcnhEekQ0ODY2SkVWNGVoZzlVVFZ6Wkt2Sm5iXzNMNFEyTGdHRV9xVDhKMVNuN0x2Nk0wa1lCV0hLd1JKek8xb1d4R1B6cmlIaFcyNnBtYU1qWlBCLVlwdWNkbklUdDhHeWlfZmdaOXpEM05CSFdxa1pScVBFWXJyTzE?oc=5",
-      "date": "2025-07-04T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - PSU Watch",
-      "source": "PSU Watch",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVU5SzktRVZLeWd3Mkw4UUROMmxKQzJlRDJzS25XNnU3ZmRiendROERhMUpFRlNndDF0X0dsZW4xUy0wa3JOZlVPWDg0S2VwNTlkc3FDS0QwY1MzUXRXVkxzREZFbGNteDB1d0YwalppZFF2QnM1aW1TX2xKOVkxRlVRMkVKRG53bDNJSzh4a0tOWG5YTHZyWWNwblI5cXZrYk9QUEZNd9IBtAFBVV95cUxQMlJ0anZpZnFMb2lpRWMxN3gxejc5SW93VjVvUkY3Y0FJRGVOb3RxVGFzalNWZ0dRcjBZbWJxQWI3NlpuV2JBQ2w5dHBIeG1nX3hrSXp5bXc1VzhoMWlpUzE5UUh3S25pbzAyYTB2LWVPSWRRQ1JrZnZrZVlJZ2hEQk1KMnppRE00YW1rRzRBTlpMTUNodG42c242RmVYcmx0aGs5aXFUUjg4UVB6T2VGclphUUo?oc=5",
-      "date": "2025-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "State-run NHPC appoints Sanjay Kumar Singh as Director of Projects - livemint.com",
-      "source": "livemint.com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOWFtd1ZBaWlpclY2WmIzbHEzWi1vMUlvNlB1ci1vbTdvdG5KMU9CYzh2LW91eENXQV9QSnJLdUV6VXo3X3lJSnhrQ1lPRXlON0pyc0dnbkNoZUd5ZExIUHVycmxmYWMyNW93VWMxa2tLQ2FjQlpzMW1WMjktenZhUmJ4WXEwMG96bUtYbGc3V1g1amtYaUZ6LWNhdlNKdVdDdXpQZFFNZVpxcWE5YTR1c1VWUnB6OUlHanFObUd2UUxqd1hKblHSAcsBQVVfeXFMUGhQSzkxemwwcnBudXFhTVhSVkV2OTZQU2xHd2pfTkF0djVHNjlKMm1kbzVIUnphMFUta21TTG9NSjRsN0Q2dFExcnJTc0Fid0JXTGlxQURocGkySENpU2tLNEdFRTBKZktQLUlyQmU5OS1KZlZFaW52RWR1U1pVcU4wMHhUTTVKdFFtOXc3ejl0V08wQXBORXZCWTJFeXgwWDJvaTc0RFVvZXlwN2ZtNzRqb0J6WTF3azFydDhqRHFrVHo4VTBPYXdVWXc?oc=5",
-      "date": "2024-07-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Hydroelectric"
-    },
-    {
-      "title": "Himachal Pradesh: Damages at Luhri-I HEP Reveals Loopholes in Dam Safety Act - South Asia Network on Dams, Rivers and People",
-      "source": "South Asia Network on Dams, Rivers and People",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmY3ekFrV0xiYVlRS29GWVpOdnNzVURrYmtHQ2toSkFteVZrWWZVZFlaQ01sa0hHZmdIc3U0cHE5dThHbFBkTmZlWTdFY2RQRmpOYmYtbXRCMVhiYWEtM0JMZ1RxdlF1THVxYnNQSEdLYXB2VTJ2U0hJS3dybVoxMWc2NkdxZ3R0NWJqMFl2OTdWSkZTNHBEdUFHQ2lxY2hvRzlJeURBRnk?oc=5",
-      "date": "2024-07-13T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "India's claim on the Upper Arun hydropower construction as well - Ekantipur",
-      "source": "Ekantipur",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkFteHptV3o5VC1WYWtoRjBfYmxMeU9QcFdZbHVEbnBqamxwODgzT1FxSV94b0ZYUjhsaTJtbHBHajdNV2RqLWhzcFc2TlBSMTNPSWMyQ01DY3NVbEZtcU43UWhwSnh4TWthZmNETEdtQm1xWWpwVC1GV1NyUGxQN2RKSGlmSXFIYmZ1QUs3dmpneW53dGhaV1RSdWdaY1ZFM2xtLXRoRUJyeUZUTzdieDdMMWNzLXJqRXc?oc=5",
-      "date": "2024-05-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "SJVN Sutlej"
-    },
-    {
-      "title": "Punjab to buy 1,200 MW of solar power in ‘biggest such deal in country’ - The Indian Express",
-      "source": "The Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTFYdWtMaE5WUUxKVHFkdW5EV0pYajVmSGtaczVPazF1eF8yQXRtdC1VU2dQaEg3MHZTRERQZVl2WjNqZFhJVktIMy12RGRNQzFxUkFUNW5KMmJzWE9wVEJpRlZ0eDFKS3A1NVJvWm5HSHU0b0xnSWF4Si1FMi01djl3azhjOXJjNzlObkNfbURRcC1vcXB2VkdTSHkyUlRuTXFZU0dBekpoUXNVOF9FdVVIMzIwRlZNVTktT3hfWGY3R2pDX2F5Z9IBzwFBVV95cUxNeElENXNXZ0F6Q1MyeEtqb0NZVXJZX2ZWdVBTaTFOQnl6LW9vMUFfOWM4Z0pnLTVDb1piSUlsOG9fTFdTU1pZX2NVV3ppbXFHbXR3WFdBT3hZa19OWFFBSG5URk5iYTg5cHg1MFI5RzM2dE5nUjVDRUlfa2tIZmNpV29HS2dDSFdGaTFCZTE3aVNyTjFaMlRxeWlrM05CbEd2a2hRX0FvSFNDeWpNZGpRcFotTTBxU3hya3ZhUmlZLV93QlNhbjJkSEk5YXJwMEE?oc=5",
-      "date": "2023-08-17T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "SJVN Sutlej"
     }
   ],

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-20T19:25:17.175Z",
+  "updated_at": "2026-08-24T19:23:08.939Z",
   "project_id": "JALORI-TUNL",
   "counts": {
-    "press": 32,
+    "press": 35,
     "gov": 0,
     "en": 16,
-    "hi": 16,
-    "total": 32
+    "hi": 19,
+    "total": 35
   },
   "mentions": [
     {
@@ -20,16 +20,6 @@
       "match": "Jalori tunnel"
     },
     {
-      "title": "दिल्ली से हिमाचल के लिए खुला 'खजाना', नितिन गडकरी से विक्रमादित्य ने रखीं अरबों की सड़क परियोजनाओं की मांग, कई को मिली सैद्धांतिक मंजूरी - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObEYyWXplM1BSYXd4aENUME9PdUxvVDVaYjZUSXhPSmsyZlB2RjZFVDBnUjQwa0lfQ3NocmJYNC1UakQ2cHFZRXZRU19CUjg3dGluVU02b2RGVG1pNFk0bUtvWXg0WUtQbTQ4enJuSFg4VTZHRjNRSVFKcEhkQU9KSlo0NThOalkyOWFFTzhyajZSQnV0WEpNNi03YXgzcmtzTlhiQV9UQWVfZkpBcmpabS1CQlczb2dCWXUwYjhLVGtreHdKM1YwVdIBzgFBVV95cUxOTTJva1BfRWtMZVBOa2k3eUYtcU1wUXhleGZxQjJ2MUdTWHVZTnA0QVA0N1JycVp2WkN4aW9hY3VndWRCcWNrX1BxTGFvUEdPc0VVX2RGRFBETS0talU4dVFYd1RGZk93UEwzNlVGY0Q4NElJZ3A2UURJeUt3cW53WWpxWVNSNWx0anA5T1Rudk9vUkR4cVN2d0xhNE11VHRabnpYeVZjZzBCRUxpc2hvX01IdjctdTVqNktqVF96bG1zc3UtQi1nV2NldVZ2QQ?oc=5",
-      "date": "2026-08-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Jalori tunnel"
-    },
-    {
       "title": "कुल्लू के जलोड़ी जोत में सुरंग निर्माण की बंधी उम्मीद, कालाअंब-पांवटा साहिब फोरलेन कार्य का भी भेजा प्रस्ताव - jalori jot tunnel proposal himachal pradeshs new connectivity hope - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -40,6 +30,16 @@
       "match": "Jalori Jot"
     },
     {
+      "title": "Jalori Tunnel : डीपीआर की आपत्तियां दूर, अब केंद्र की हां का इंतजार, टनल बनने से आसान होगी पहाड़ की राह - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdUk1RGRkUENvM2RlWjU0Q25EZzJSckJTVUY3Y3NiNHFlZThORTJwQVhWQVd0ODlFNXdfQk9hWUFKS1Q4ME54LUpDVG50VS1JcW94a1Rya19HMjdJMzN5alpBa1lic2lzeVkxckRVMEdyUTliZHlNUW16dzBoRWg5VDRHZHJRTUE3WVp1MWtDa0Rpb2UxdmhnQjZYNHdCZWRDS3AzdlMyZjU1WTFmWmZZcmhybHZDdmVheV9Bd3RnbkQ0QzltWlVOckY1U0h1NFJ0ZmtQMWVTQjNqeEFIMnF2QXdvbkxqd9IB6wFBVV95cUxPZEpGT2dwZDFJMDBYVE1KUGNTcHY4ZENUTVdsdFBNa3NuZF9PMExBeFNwU0ZxcnhtRllEZ29sMzZ4Unl3YzR1MW9UYXN6aW1mZVI1MklOcjlNN3NGcjFPSVEzd1M3QlhNZzhDQkNMTVBudTctNmNLNUhSejFXVk80NWFVbnJ1NWJRT0xEOU05d3ZNUU9QOXd5Y2M3YnNvQVEtMTBnOC00THJmaEhDd1N4NzdYd3l0UGFteTg3YlJZTGJ2OENkY3NGT1F0QmhRbklrcWdfU0VtYjBGUGZEQmFFa1RfVUVBM2U1M3Bv?oc=5",
+      "date": "2026-04-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Jalori tunnel"
+    },
+    {
       "title": "3 dead, several injured as tourist vehicle plunges into gorge in Himachal’s Kullu - The Indian Express",
       "source": "The Indian Express",
       "source_id": "google-news-en",
@@ -47,16 +47,6 @@
       "date": "2026-04-05T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Jalori Jot"
-    },
-    {
-      "title": "हिमाचल में भारी बर्फबारी के बीच फंसे 5 सैलानी, वीडियो वायरल - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQzJGLU5YQUZZMGlESWtfYnFjdld0aENxTm90RnhtZkdBNmI1bGxxQzlIYUFYZ1QwUVN0UHJNUVhXTWZldVZvU3V5UzlLYnNDS1ZpeTY1XzB3UEhld3dyak1LVmZIemxrN0tJdHVrZHJSbnZSVFhZc2FCOWdEblJhVERLbjVuZkFVTWFzSDlQRmEtbHJ4X0dEZkFyV2hGOHdxTTdEaUxyeWhFNFkxODJjY2NPS2tUM3phcU9SeTljVFhVOVlwWWl5Y25YU1BvR1l6T0ZhS19iME9BdDFH0gHiAUFVX3lxTFA1WlVCbFRQSUxhNXFwY3o1Z19QcWRpNExDUTd5TVF0Q0tkOXlkYkcwNG5USXdyT0VZYk84elJMMWkzRnFWVjI0QTlnLXhvWHhjaThRMXNuZFhvdHVYczdPa1RjMk5BVEZxOFFEamxNeW1hTWJNbGhwQU5WLXlkTEdzeVg5RkhXbEV5N1NOZ2tIeHNNRGQtR0FPZGIweS02NDBsN2hXT1JtTjl4ZG93a0lJSjNndWMzOHRIdXkxWVBkTjhPdXVEX1NDOWdnSjVucHZtdy12QnI3Zmg4cWFCV2tpU1E?oc=5",
-      "date": "2026-01-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Jalori Jot"
     },
     {
@@ -80,6 +70,16 @@
       "match": "Jalori tunnel"
     },
     {
+      "title": "Flash floods continue to wreak havoc in Himachal Pradesh: Atleast 3 houses razed, schools shut, over 300 - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUUJfWGlhVkgtVGNFOFVaV0FrenVsLWlnTGw4blpnOFVhVEZuRnV6ZFE3eUpfNGJURVBNOUh5UjRHbEJEbUNFbjRHRHFFajFtRzFRSnJvZ2FQYWNJR3RFSkpjYU15Xzh4N3lqZHczSjZoYm84NnI1bzJZMUdnM0w0dHVfUlF6QTQtVWZWY3FYeXA1dzFfZURJM1U5TXZpeWd6Y2hVdVVnQlhNOEdGSElURnFubWF0VDN3eEtVem94bFhYamlrcDYwb2hvaG5PZVpuNjBsTEpmcms5THNv0gHiAUFVX3lxTE1vWHE1U3JxMzBqQWRndkQwaXhxSGxRR3ZUYkZ3eHZnNWZCa1Q0eDg5VzJyOGpaSzQxV0MzZ21DR3ZhWTBlTlpkS0VGTnp5aE51WUhSQlRvdEx1Nk10amtKMEdIMElSSm1qTkVVcF9qNzBsVFk5WS1Rdml5NTlWeGd0WTVHVE1ObEZjSUtESW5ZRkxSdEV1ZHJpMUJGMGFIMlN2VXFXMWp4Uk0zM3czNUc3bDhRUi1EajNTT3hhMHROcExvLTd2SlllMmNyYVJCZG5XRmhBX19UR1ZIS0FXcG5NRGc?oc=5",
+      "date": "2025-08-05T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Jalori Jot"
+    },
+    {
       "title": "Jalori Tunnel : जलोड़ी टनल से खुलेगा विकास का रास्ता, केंद्र ने मंजूर किए 1452 करोड़ - Divya Himachal",
       "source": "Divya Himachal",
       "source_id": "google-news-hi",
@@ -100,24 +100,34 @@
       "match": "Jalori tunnel"
     },
     {
-      "title": "Jalori Jot Tunnel Gets ₹1,452 Crore Nod, Landslide-Prone Brauni Nala to Get New Bridge as Centre Sanctions ₹135 Cr - The News Himachal",
-      "source": "The News Himachal",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPazJmMzZtYzZiTjVDa0NKUHVyVUU1bi1oeVd3dWVxanVJWENYaFpUSVJZb0txRXcycHNaSEZQUGxXR2JHRHRmT0tVYU9CaDkxYW1pOVkwSFl5UEktRUZlaUt0bGJYdGlocHJsUC1XY0xKQzNUc3BhOGNjLXEzWXBnTmN2R2NkWnNNTTZxdXMtaktSY3FDVWRLdWJXZllFOENBMVk4MWtDcGVWNHN6TTlBbV9hUXllbXVZa3l3QmlaZFEzYk50SVBENlVwLTFHZEoxY3Uxd004Skg3TXRkcUp0WERnMDltN1NkazVxNEFJMVNhWFpoOUpObg?oc=5",
-      "date": "2025-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Jalori Jot"
-    },
-    {
-      "title": "Himachal: केंद्र ने जलोड़ी जोत सुरंग के लिए 1,452 करोड़ किए मंजूर, खड्ड पर पुल निर्माण को 135 करोड़ - Amar Ujala",
+      "title": "Himachal News: जलोड़ी टनल निर्माण को लेकर एफसीए आवेदन की प्रकिया शुरू, एलाइनमेंट की होगी फील्ड वेरीफिकेशन - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQ2FZUHhHbGE1ancwUThBT2J0WGhqNkxkejAwdWdJZDNfY3RodnlWaDYzSENzZ0R0NUx4azNLWjU5LU1aZU04aDVHYUhrV3M0WGRzeUNrai1UMXJVV0pGTmVzV2NfQlc2ZkdJOTNkOWdmRlZNRmhINHdJb2J5RjhyMmhXbm1EQkRCeGw3VV9WbTY2OVVldFNlaGt5bEc3Z2V4amhZLS1BTnVyaV9hNnRFdW90d1RHNVJIM2lMSG4yMlQzNEJUalFxclVmbFYzVVJWVnBCTjhNRTlScHQtWEJWVmdPX3liOFnSAewBQVVfeXFMUHlGNHpuaU43ZXdQTDlCNkJTVlYyZnBWNDEzaXZsZmJpWnlSbVZzb1ZtMTFkeDZrTXNEcW5oVVZuZlc2aTVkRjFEd05LNFRZVmFGZTVYNHdpN19EdmN1RjFUSDlzZGFGcXpKNW9VOUtzaExHT1pZVGdQNW94LVFTc1lXSnMwNEUxRXJpaE56c3poY1gxYkF4c19mV3NRSHlSZ1ZGYmJPYlZSSHJhNVhEWXNVZE1qdkpBZl9leWFBcWdiT2oycFJFTEtQZU5wQ0h5T3ZlSFg2ek03dVlCMm9sRjVrNDJWX1VXQ1IwLVQ?oc=5",
-      "date": "2025-07-01T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWY3QS1uVzVOT0YtS2I3Y0VsdGhEelhVUHRzZ3ZvMlMtREVTY0UzNWtkMjFuMWhwSGh1bWxjT1pHTm1FSVpvM1ZFa1drUEg2UGhQRW1uRjIwYkU5aTRRSzJqaEtnVnp1NUJWUHhKa0lZVlU2M2czSi1NbDdEd1FEc1FqOGY5TjBUWmdZTko4OGhOUmd2MEF1YklXV1oyMGg1Q1A2NENoZEUyTXhRZVZ3QVBFVEhjcW9aQWpqZ3hvc0VrVHdLNi000gHMAUFVX3lxTE02elhEc2JsUmhMUDRJUW1IVTZEdDJ0YjF5aGd5b1JZLUh6MVBvT2FRdnZ6VjhOTk1TMTFQR0xlamxsZEcwNXZQY2pNLXdoOGQzMUxHVnZTeUtaYWd3Z3JULWpGMkxwUlJNRHpQcnZTcFF2MlVXZnlZYWUza2g4cm5rY2NiZVFMOW5mUS13M0tQOS1oelU0ODVwajBkbmpVT1drY2NIUVBUOG5JRVNPSDRKQTdtb0ZpaFBsbkNPUWpBaHlFY2l3emFEeklYQQ?oc=5",
+      "date": "2025-07-17T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Jalori Jot"
+      "match": "Jalori tunnel"
+    },
+    {
+      "title": "Centre Clears Rs 36.67 Bn Road Plan for Himachal - Construction World",
+      "source": "Construction World",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMUJFYlJIOGhvbmlNR1ZOSjFyQVA5LUFMdXRyckJCcXRIcFQ3ZzcxMEtkOXk4RWFsT3JIWmd2SU8zU2tYUkxsa0drNnNsV1FWczliU1pVZl9sc1NuMXhQM1g3N3dNY2t2WUFhenViN21fNnpvelVxWW83ZkoxRTlKM1dtc1ZYT0xndDNsY2VSWG9kVjR4VURSd2p3X2M4aU8wZGRWRVFMVF80WGd3eHUzaENGanJ1dmE5amV4WXRBVXEzaFR6WUxyN2RUbDQtLU1sUDRCcmZQUmcwVmFobkFGR0t3?oc=5",
+      "date": "2025-07-03T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Jalori tunnel"
+    },
+    {
+      "title": "Jalori Tunnel के लिए 1452 करोड़ रुपए मंजूर, बंजार और आनी को जोडऩे वाली सुरंग के लिए केंद्र की सौगात - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcjVmRzJBYjU0R1ZIcTJRVGRMRjdNcXk4MWlmWEJEdUpZYXdjVjF4YTM0RFlTN1JvaTkwNGVaa0Y3SV9DdGVuQkZpUnV4dENBVndFZ09mQW1HU01RR2djZm1yZWFYZy10a2ljc0VqVlZuVk54MUNIbjZ3OGVGM1kwM3pZQ3BhWmFWTFhRTjFFdndmT1VWMkRpa1BLOHZTalZQU05mVnFUVmV1Mm5zOUl1cVl2eVZmdy1FOHA0T21OTDJpOXQyVFdvcnBYc1NwRnpsaENZZUV3QVQwQU5FRFk3b2JSd0EwN3JlWVpud094cXnSAfYBQVVfeXFMTTRQcVItU2hSeVA5RXpkdUdyelFHRmd3T0wxOVFYeXRqRE14dXNhSkhoLUt4QXRBTFlZbDNJNjdVN3Q3NlNMWDhCY1luOVJOOV9sX2U3Q0NjcUNtanZwWnVCS1M4eGZ2OWFRV2pMNFFaM3haUzQxck9JWkRJLVB6eWRiS1czN09TLTVGOXYxYzN0SjFsT2FSbjl5Yi1XZW1ldGRlYmUxZVRGOU9VTjhlX1JVR2tDOHphbGtnMEU4MjZEMmtfZUpWWEdENGk2RHozRERxR0c0aUFOeUdiY0hEbXEtSk1jLUJET1VVVDVlTXhiQ0poUG93?oc=5",
+      "date": "2025-07-03T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Jalori tunnel"
     },
     {
       "title": "Centre Clears Rs 3,667 Crore Plan To Upgrade Himachal’s Road Connectivity, Tunnel To Come Up Beneath Kullu's Jalori Jot Pass - Swarajya",
@@ -127,6 +137,16 @@
       "date": "2025-06-30T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Jalori Jot"
+    },
+    {
+      "title": "जलोड़ी जोत टनल की अलाइनमेंट को अप्रूवल, केंद्र सरकार ने डीपीआर के लिए स्वीकृत किए 3000 करोड़ रुपए - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUNwM0hlSm1JSi03X19HdlBzTmxoME0zUFpWYkVYWGE1d0xDa2VBVEdmRVk3QTFyMEVTdnctd2pQUzI3QzhyYTNLdDZnZk9OemE0RzdWMkZ6ZkNGM3ZkQWFobUhKWndYWjExTkJaMDYtdk01TFRmcEJUVERScEs3TjF3RHV1akZBaUd4N3MyVHBzMFNLVnpQVEtmeF9sUERDS0V5STF3ZHNWNFBPTnVEWGlMcnVBbkZzaW5SU1FJOVJzMjdGS3NBZ0V30gHPAUFVX3lxTFA3bFk5cUh4OUJmY0gyNGtnTEFZMmUzenNGbGs5N3lsaEN5bTI4RXNDRkxINXpibU5Fa3NNTU11LWlzUERLNXVKcjVMMld3UUhvZHhlWUJQRmg3UVVnN2xvY3dsbnljN1d1aEdzMVo1aWVkbXVUSU9FT1BpZmVZY2YwbjlVTlZ5UUlsN3dyNHA1Vjh6TnVLNl80eDdrQkdLU0gxWW02QzB5TVVfWGJEV2JvVTBwZ3RxeV9qUDBpN252eWprWktqUXlOYnQ2dmVOZw?oc=5",
+      "date": "2025-05-11T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Jalori Jot"
     },
     {
@@ -140,10 +160,20 @@
       "match": "Jalori tunnel"
     },
     {
-      "title": "Union ministry approved the final alignment of the much-anticipated Jalori Tunnel | Hindustan Times - Hindustan Times",
-      "source": "Hindustan Times",
+      "title": "MoRTH approves alignment for Jalori Tunnel on NH-305 - Projects Today",
+      "source": "Projects Today",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdUQzaDN5N3lzMlZLVE9oSXhPQ1ZmQXV0SzFheDNrVzZBN3dCU2lVbjJ3N0REblY0NHdZNzc1dkNmQ3ZESEN4QUJPSXl1Q3pWTnpEOUl0Q18zaU9aZV9MOHczd2dnZElWdDU4bVdiMkR1SElNRi1uVWROLVZWQkVLY216UW5NMlRpNDBkd2RDYzRzbFlUWDFabXlFX2ppRkVTWmVWRi1WdjNaYjVvQnRHNlZhS0lGY1h5Qk9sTmtIRjFRTG02SHdFd1RCdmxwSmM2cl9VbkhNYm1DQlZOMFRfazBqZW43Qy1lczBjTdIB8gFBVV95cUxNYlk5dElqTFZEbkZTY0Jhcl9HejREX2VsdW9EOTJVLUNKZVZjSFBRWlBHUkwwUjc3MzFZY19TT1hqNlFDNTQ2aUx2bFo1bWdmclJjMXo1RDF2ZXV0eHZQZWdGT3h3M090RVlQTDBNR0JLY1hXbUZlMkxtRDhfTEZYX3R6UklaM3llTXNtbDl6TG5SR2NGUk5ZT2RwRXRwaFU0cFd6S2pnb2RaaTV2QUhKRkxjZDVnX2JCNy1iTG5sa0ZJWXV1QkxSX2hGZWVYeERFRUlhTEM4dkhiQndGUXVwZnlyd3pFSi1OazdfUVc1YktQQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSFZFSTR3SUM2dEhBZ0F4MHEyWkdSTDFicDI4OXJmNkxzWVJwVHBxcWY0NG5RMm1Fc0xWWlpWQWZQSXhuMWloS2x5TktYLU40UDVLSlh2N0JWQ05lUEpWZ1p1clVlY0Excks5VnNhb3FkMTU1Z09zWDVYMEpzS2tRVDlqQUxYeE80cXc?oc=5",
+      "date": "2024-12-30T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Jalori tunnel"
+    },
+    {
+      "title": "Centre finalises alignment of Jalori tunnel on NH-305 - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkdUSjdOR2I3WHV1dno2WWZ1STRFZjZfb0IwWEUzYW5IQldlOGxKa1p4aFJOT0Q2NjFyQ3lIYjZvSnFtQ3RXNGtpeC1lbDA5YjZuYkhZd3FYRlp1SDBJRGZmTHR4cms4ZmVlZHJwZExZRWRxamlibzdGV3FKQU15RjBiNW9lLTJiNHJNQk81NmNJN3BvMXNscDhJZVZmUdIBogFBVV95cUxNOFpwN2xMSWlzUEZCcWFRdnpMaWlYUEN3REs0RXN1YldlRFZCN3RBWk90UjZDNGxrNDRjb2I3Z0VuTEd1TVRSV1FaX3EyeHRzMTFNeUJUV2R5ZG5JS0FTenI2UXNCalhOTnpWWXFVNlBsM3JJUGlQbWRwbl9pSFlDb2ZTZ2VZbVpSY2t5SG5XTWFnSm1XZEZINGFHLUNJdm5rRXc?oc=5",
       "date": "2024-12-29T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -160,13 +190,13 @@
       "match": "Jalori tunnel"
     },
     {
-      "title": "Centre finalises alignment of Jalori tunnel on NH-305 - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkdUSjdOR2I3WHV1dno2WWZ1STRFZjZfb0IwWEUzYW5IQldlOGxKa1p4aFJOT0Q2NjFyQ3lIYjZvSnFtQ3RXNGtpeC1lbDA5YjZuYkhZd3FYRlp1SDBJRGZmTHR4cms4ZmVlZHJwZExZRWRxamlibzdGV3FKQU15RjBiNW9lLTJiNHJNQk81NmNJN3BvMXNscDhJZVZmUdIBogFBVV95cUxNOFpwN2xMSWlzUEZCcWFRdnpMaWlYUEN3REs0RXN1YldlRFZCN3RBWk90UjZDNGxrNDRjb2I3Z0VuTEd1TVRSV1FaX3EyeHRzMTFNeUJUV2R5ZG5JS0FTenI2UXNCalhOTnpWWXFVNlBsM3JJUGlQbWRwbl9pSFlDb2ZTZ2VZbVpSY2t5SG5XTWFnSm1XZEZINGFHLUNJdm5rRXc?oc=5",
+      "title": "जलोड़ी सुरंग की अलाइनमेंट को मिली स्वीकृति, इतने किलोमीटर होगी लंबाई - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEVEbHhPQ0hXQXBEMWU2aEgtcDNhcU5qQ29FM3lLUlJBVloxYXJsaXBQUmljTW53aW44Tk1ELUZfTDR0MHpXQ2RRS2ZjT2lJZzFBYnFpMWZuWVRWbWk4U2w0ZVdiZ2xjdFRPcFUwa1BoVFNmY0tERnc4RE1wZjlIODI4LWFBM3JGc1F1THgyTDNCRHVBLThOaFBBTEtDZnk2enByeGFFbFMydUhRclpjb3NMY9IBuAFBVV95cUxQbkprN3dUNkM0cTViMUpYMnMzMFNGdTZIWGYyTW5YVGNZOG1rY0RZaFlWSExaa1ZuTTlSVy1lSDhwTUVNNzBGVTFEY2FfbWdzb3EtdUJrdEJrTEFjS09mcFVidzVWck9WbUE1ZGx2MlhPS0tMNXE0VEdLdmxBVzJhdm00TlI1WDBjVFprU3pDS2oyQlN6TmtUSlhYVU9XaHRoSWlfQV84MFFZMS10YVJzR1dQTkFwRW9p?oc=5",
       "date": "2024-12-29T08:00:00.000Z",
       "kind": "press",
-      "lang": "en",
+      "lang": "hi",
       "match": "Jalori tunnel"
     },
     {
@@ -178,36 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Jalori tunnel"
-    },
-    {
-      "title": "Centre Clears Final Alignment Of Jalori Tunnel In Himachal, Set To Transform Connectivity And Tourism In Kullu District - Swarajya",
-      "source": "Swarajya",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVFA3V1ZLZUt0c3VSSzFxdkFlU3MtMDJhcEJGcnVPMGdmQ21iMmdsSlNYNjFLUXpUdEFHdDVVQUs5YXFlemRCMHhKMXJPR0dMZWRxU1Ywb2lra3NCZlVncU1ick05NWpuTk9FSURQOWRTTHlhM0cwOUNBRVFaeDlTTTZYX0YzYVVCLVV1QXZTRHpGOGRMUzFlR1pVeHIzYUp2MHFUZ1J4Ym5MeGhnOF9qXzByeHhfQld1bk1zNVd6ZGFlejZvcUwtVkxJZC0xS0tlX0dNY3N2QktvQ1RTNGRTNlhqYVotck9P0gH4AUFVX3lxTE9raVFFSWEzVWNxRjVvcklNdEI2R0VPWk1WS2J0Wjc5T2lxTnZLQlZ6ZVl5S09PQXUxTTNOX3V1c3VoTHo0Z3gwRVl5WmpsMkdTSDRSaTlCMTNBakMyc2FTcXJSMzE4SXBEZFVEY3BNc28tZFR1c09zRzNfZXdzaEpWSHZLTExldTAwUWpveURQZk1iRnE5eW9NVmxwcnBqeW13UXJ0T1ZoX20zTDZiOFNKZHA2U0t0b1VCRFppdEc4YUpJX1NJRUNIaFJURnFTQ3VqbFRoY2ZyTlNMMm5nZlNnSHE2VVZybGhlQVdzX3VoN0lBMWMxOHRT?oc=5",
-      "date": "2024-12-28T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Jalori tunnel"
-    },
-    {
-      "title": "हिमाचल को मिला एक और तोहफा, जलोड़ी जोत सुरंग के अलाइनमेंट को मिली मंजूरी; इतने KM की राह होगी आसान - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUlTeC1EekFWLUlGMkZ4eWdIUkhzRlJqck00Q1JSYnNBaXJySTN5bEc1TnB0OHRQR3JzNksteUpMRGJTbFZTM0F6bW5HQUVNYThLX0NvREFFQ0Y2UGdiQWRKNnF5eXBYYmdJcDBGU2VIeGc1WlNSOUdvQTMxQXVpZ1RNSy05Vkp0R3RGeGU4YzBtenloOEJZT2Q1TTkxWjNoTWpTWGllVDJFSHd3VFNRaHR1U3hhanRiQV9GX252eVlIZzlWR1VzMEJScElwak1naEV2bWY1MnVZcnJpNHFmcg?oc=5",
-      "date": "2024-12-28T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Jalori Jot"
-    },
-    {
-      "title": "जलोड़ी जोत टनल पर खर्च होंगे इतने करोड़, 4.2 किमी होगी लंबाई - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObVNzZE9UNmYtcDk2RU1nb3JzZW85WElEZEpPQmdFN1JZcS1KWDlvb3pJQkFGTnBaWWFkaG9rdnV1LTNqZmd5akFoU2pCZGh2ckJKTVhFZzlzQ3hhSkpsVXo5QlVZeHR4azJOU0dhY0I2N210a0J1eHNTMHZmTExVa3J6LTYwTlJnZmpOUGVJV2pwT3l1OTFOSGNxRGM5UUpsc1FPblR5d3pocG84WGxxWmFNTXU5azhzbDhvT29zbGdwQ0NONlcwT05LVEhORmFIVFViQnhaMWhpbkVvdS1mYtIB5gFBVV95cUxQbXd6YzQzdTU0ZDAzNTJBNlFVNGNxbmRSdnlmQjc5U2JQbWtiRUZPSFdVZmUwZDJUV2NGUmJFN3BNTHNMWWpiS3p2cVJ2TFJ4ZE9mbmxOZkVMZ0FTVVpZRkRqclJGLVQ3Nlp6M21uQzhpRUxwMWdlSDdSaEdxQXRhVmhkcUhRM3JUbWhiT1hyVFRzZ2tjM1FNT09lT05WdDZ2NGZjUWpkOUQ0WFNMYWdZTjhCVlFXa3g3aEJ6NV81OUdmMWpYWkktWEg3ckZTZG1udVdVX3ZUelJWalY0UGF0RFVWM21Sdw?oc=5",
-      "date": "2024-12-28T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Jalori Jot"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
