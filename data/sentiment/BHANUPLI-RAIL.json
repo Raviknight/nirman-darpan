@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T19:24:07.366Z",
+  "updated_at": "2026-08-28T02:25:11.334Z",
   "project_id": "BHANUPLI-RAIL",
   "press": {
     "n": 3,
@@ -10,35 +10,35 @@
     "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 59,
-    "positive": 28,
-    "neutral": 19,
-    "concern": 12,
-    "avg_score": 0.193,
-    "avg_magnitude": 0.514
+    "n": 49,
+    "positive": 20,
+    "neutral": 18,
+    "concern": 11,
+    "avg_score": 0.139,
+    "avg_magnitude": 0.418
   },
   "overall": {
-    "n": 62,
-    "positive": 30,
-    "neutral": 20,
-    "concern": 12,
-    "avg_score": 0.198,
-    "avg_magnitude": 0.503
+    "n": 52,
+    "positive": 22,
+    "neutral": 19,
+    "concern": 11,
+    "avg_score": 0.148,
+    "avg_magnitude": 0.412
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Very nice Video Information Experiment 🎉\nWeldon 🌹🌹",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Very nice Video Information Experiment 😮❤😮",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
       "title": "जय भारत।",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Good job ji 👍",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Good information thanks",
       "score": 0.9
     }
   ],

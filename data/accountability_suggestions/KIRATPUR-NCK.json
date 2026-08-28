@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-08-24T19:23:39.369Z",
+  "updated_at": "2026-08-28T02:24:42.458Z",
   "project_id": "KIRATPUR-NCK",
-  "count": 4,
+  "count": 5,
   "suggestions": [
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-08-28T02:24:42.458Z",
+      "title": "Accident: चंडीगढ़-मनाली हाईवे पर बस-स्कूटी की टक्कर, मंडी के युवक-युवती की मौत - Himachal Now News",
+      "summary": "Auto-detected from press: \"Accident: चंडीगढ़-मनाली हाईवे पर बस-स्कूटी की टक्कर, मंडी के युवक-युवती की मौत - Himachal Now News\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb2tTNlV0djZCczlURjJtYkxodzRqa1YyNTZoTDZsZ2VuSlc3ZTFuMTFPaExZaF9iSEJEVmlnRy1tcXFLVFlPY3ljci0tNm9IN29HeF9iWjVxWUFIdnpONzBTeWtkZEROX2dWWDRkcm1KMzdPOFlZSnk2c3ZfZTYxaGFXYzJkcXBZeVE?oc=5",
+      "source_name": "Himachal Now News",
+      "lang": "hi",
+      "date": "2026-08-26T07:35:16.000Z",
+      "matched_term": "accident"
+    },
     {
       "category": "incident",
       "severity": "high",

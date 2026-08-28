@@ -1,45 +1,47 @@
 {
-  "updated_at": "2026-08-24T19:24:38.305Z",
+  "updated_at": "2026-08-28T02:25:17.131Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
     "n": 20,
     "positive": 8,
-    "neutral": 9,
-    "concern": 3,
-    "avg_score": 0.075,
-    "avg_magnitude": 0.225
+    "neutral": 8,
+    "concern": 4,
+    "avg_score": 0.065,
+    "avg_magnitude": 0.265
   },
   "youtube": {
-    "n": 22,
-    "positive": 18,
-    "neutral": 2,
-    "concern": 2,
-    "avg_score": 0.473,
-    "avg_magnitude": 0.9
+    "n": 6,
+    "positive": 2,
+    "neutral": 1,
+    "concern": 3,
+    "avg_score": 0.083,
+    "avg_magnitude": 0.533
   },
   "overall": {
-    "n": 42,
-    "positive": 26,
-    "neutral": 11,
-    "concern": 5,
-    "avg_score": 0.283,
-    "avg_magnitude": 0.579
+    "n": 26,
+    "positive": 10,
+    "neutral": 9,
+    "concern": 7,
+    "avg_score": 0.069,
+    "avg_magnitude": 0.327
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Just to let you know that there’s a significant community who love your vlogs, your wonderful articulation and crisp pre",
+      "title": "nice video kavya keep it up, you are doing good job thanks for this video for himachal pradesh",
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "Thanks for featuring Himachal on your Channel. Absolutely fantastic and professional videos!",
-      "score": 0.9
+      "source": "press",
+      "title": "देश के सबसे लंबे परवाणू-शिमला रोपवे की बाधा दूर, सरकार का टेंडर शर्तों में बड़ा बदलाव; पर्यटकों को मिलेगी सुविधा - parwanooshimla ropeway indias longest project gets boost - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzBQNEJpdFRReEM0d2lLU3RMbjRJdThvdWJLN2U3aXhxRjZDZVZoenRraV9UQjQ5TWxzc1dJb3Q0R3U3Uzl5UXBqdm4zbUFTVGVPc3hfNVByZjl5TEM5bktvbG5ZanNTM0VvTVZFUi11ejN6aV9neVozbEtEc1VBTkdBdWlCUnBzWG5fT1JjVDVIN3FzVThUdTZKZmNmWkI0Tzl1QjN1ZTYteUNhQndVT1hlcHd5Zk1O?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Your channel will scale higher, for sure keep up the good work",
-      "score": 0.9
+      "source": "press",
+      "title": "शिमला-तारादेवी रोपवे में मंजूरी से ज्यादा अब हिमाचल को हिस्सेदारी की चिंता, परियोजना की लागत बढ़ी - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORkNtUlRYY1FRcVBiak40WDVybENtQ1JWNVd0TUlncnJFT1o0bWJNM2lIcGZ1dXoxck81bTJTc0ZqWUwzczk0SWhjd3BrSEZUYVRTOWpsaGdTTUZhcUV5end5cVBrdjdORWwyRWRnUVdZNmtwdjI1VWliVnNVdEFkLXk3c2pPWEZXMTBzblptXzFzMVJQb0g1aFFDcktxeW5jWmlTSWFMR1hJdVhOZmtMVWJCNnVrVGY3MlE?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
@@ -50,14 +52,15 @@
       "score": -0.8
     },
     {
-      "source": "youtube",
-      "title": "So basically Shimla monorail isn't a thing anymore!",
-      "score": -0.7
+      "source": "press",
+      "title": "Congress govt is hiding multi-crore scam in Shimla ropeway project : Sandipani - HIMACHAL HEADLINES",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFh1U0dtTGJDV3MtZ2pjQmo0UTFsNWFTa1ViZk11RFZaU1p1NmZCZi1QTFVmdENtd3NLaHpWeEdtRThVMDAxWGVFNFpmcHpXSVFvR1UxclRlMWJKX3ZLLW5RMm84d0paRmVPd2xTQmJUU0t2TE1aYm5YLU05VUpUNEJpVjMtUXIyZWhQTTVHN213SkxlMHktN2FET053bEljQ2lfVjZCcHFvcXRvb0FTV0xR?oc=5",
+      "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "I am from Solan. I can tell you this is just a false promise. \nGovt had promised a ropeway project in Shimla more than 5",
-      "score": -0.5
+      "title": "This will be not gona exact future, future will be only destruction",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-24T19:22:37.788Z",
+  "updated_at": "2026-08-28T02:23:37.533Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 52,
+    "press": 48,
     "gov": 0,
-    "en": 40,
-    "hi": 12,
-    "total": 52
+    "en": 37,
+    "hi": 11,
+    "total": 48
   },
   "mentions": [
     {
@@ -45,26 +45,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZE5hZHotbTZCTk1rcml3d1lhbDgtY0VkM1dkY0xTYXVzYWlTZlFsQ1Z5MW9jXzFtYkF1bDdySm0yNEJDTm5TN0IyZFYtQ0FYWjFabExGTU1IenRUZmd0U3dGNHg2SFA3ZHA1M1ZsTFBMMzBIZWZGaVByQnE3MjhJcjNidEpvODVJWTRTTGgzbEZlUDBvQTVoM040SEJBeGQ4ZWZKSGQ3NWhnakRqbmxYTnFBVHAzUQ?oc=5",
       "date": "2026-08-21T16:29:11.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "REC arm hands over Rs 839.55 crore Luhri power transmission project SPV to Terralight Solar Energy - PSU Watch",
-      "source": "PSU Watch",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZV9icGNxUmREOEJUQW84eUdiWmZGd2V1dk1PS0E5OTZoQkRWaFhKa3ZjLWNRRm1WaUFLZ05kSGY0dGNzQVI5dEtkQmpEYXVuSllCWVYtZ1AyOW5kcGMwM012WnB1RkljSXp4WElpWUNENzlDcmpILXlEX2xWY3NiVWl6UEdsbHBVcUdLSVVPblR3ZGExNjFBdXc1aVB0OVJMdnZ0WDh4M2R1Y2FmZnJ0b1RGQ3dFZGNzdnVDYjRyM3Jtd2xyb2d5ZFdR0gHXAUFVX3lxTE0zcWl5aTZHaHY0ZS1zQ2VKQklNbFB5WFZrUjA1OG1Ya2lMZTZscmVUX0dlUzM2X2h4VTVZQkh5WlZEZzVfWE9QRnhueXpWbjBJZ0NteUM3anRrc2xLSVNsV3oxVGN1ZGo5MkJ6UWtLY3hfTEU0TU1RY1kxWUUtd3lES1NUaFJvSE9BelRlYTBXUExhYjZPN29ZamY3QjB2cjVheVhyRUJlZzVPQkg4VFdRMk9nU1lReWxuNkZ2S0VzQWVsYklQaUkzTXR2dktOS2ZZVmZ6dUtr?oc=5",
-      "date": "2026-08-21T15:39:42.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "RECPDCL Hands Over Luhri Transmission SPV To Terralight Solar - Sarkaritel.com",
-      "source": "Sarkaritel.com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDFSdnZGaE8tVnl0MU5KbUdQb2c1RWZaajdGNHRrN3NwdGxUMThaUjhnTXJiTG5zVFJ2OXh4SVlSVmFkVy1aelFxZjVfQ3VRZWR5cmpIYVhCd0NYVno5ekRWMkxzY2Fhbzd3WV9Yc2hRdWZNYmxjU2ZFdkFISWZ3clBzdlo0Z0VQ?oc=5",
-      "date": "2026-08-21T15:11:33.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
@@ -140,16 +120,6 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "SJVN signs PPAs with GUVNL for 658 MW green power supply - scanx.trade",
-      "source": "scanx.trade",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG5JcDFtRkRQUUJjTVVfZnplaGthempWLXVsaEF4NmlMLWcwc2RLMGFLQzQtbk0ySHBtNzczWTlsaDUxbnMxNGxTcjhxbWxJcVhDbklIX1REZEtFdWYyV3RtZENkZkJEMWxHdVBQSllQS0dyTlB6cDVWTEM5SHpkSG02bVF5NFRlLUJUWHlMWmNMNmNSazJtUXZzM3NlY1RwbHhIbVFWaDdpWG5SeVhQOTlSOWxYR2tqeGY3aw?oc=5",
-      "date": "2026-06-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
       "title": "SJVN Secures PPA With GUVNL For 658 MW Hydro Power Across Three HP Projects - Sahi",
       "source": "Sahi",
       "source_id": "google-news-en",
@@ -208,6 +178,36 @@
       "kind": "press",
       "lang": "hi",
       "match": "SJVN Sutlej"
+    },
+    {
+      "title": "ट्रैक्टर-ट्रॉली की टक्कर से बाइक सवार मां की मौत, बेटा घायल - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHRrU1dZTk9GUkNyMkNwbi1vU293cjFxaVMyaUpwcndjekZLLTdIXzZsYUtWblBlc0JvZHNQc2l5MkJScVduV29ta1h5d01Ob1ZlRm9OYnVCb3RsYVBTTnZDZkhZbjRsMm5PUXVNOFBsamJ6d2NHeTBJNlNSOUxmVHJzYXdGMFRXdmtDb09uMFU2emo0SDdZd1RCenZOdDNjdU42Y2oxaU1GRGJhVTd2b2R3eE9wWXRSelBqRHJFYjE1cmFKbzBYSHZXYVhWczdnZkNCMW04RdIB3AFBVV95cUxOZ3Y1TnBOSEhfZF9GT2VuaUM5T1R4ZDNoWmRKUl9xb0VVcG1TY3dmMXZ4XzYtWVJ2MGt3Qi1hcXFDNVBGMy0yckZ1N1UxNE9qb1VRWmpiSGwxeFJuZ01Cb1V2dmFCbnY5T1VhMjlYWjZUVTQ3ZjhlWGNiTklQenVfUEVwQmM3dzZYNGdTZlpvQldsOXFidTBfbV9lb0RKYjZMeXNQYU5Gd2JaSnNNSkVzdDBvejZ0emtxendXQUVTTU80czlyc3JTNWlSWndabjFOSFNGaG5YN1NuUmxi?oc=5",
+      "date": "2025-11-23T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Hydroelectric"
+    },
+    {
+      "title": "SJVN signs Power Sale & Power Purchase Agreements with UPPCL, NDMC - Garhwal Post",
+      "source": "Garhwal Post",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2NUSmU2a0dDTEY0NDNBcnhEekQ0ODY2SkVWNGVoZzlVVFZ6Wkt2Sm5iXzNMNFEyTGdHRV9xVDhKMVNuN0x2Nk0wa1lCV0hLd1JKek8xb1d4R1B6cmlIaFcyNnBtYU1qWlBCLVlwdWNkbklUdDhHeWlfZmdaOXpEM05CSFdxa1pScVBFWXJyTzE?oc=5",
+      "date": "2025-07-04T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - PSU Watch",
+      "source": "PSU Watch",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVU5SzktRVZLeWd3Mkw4UUROMmxKQzJlRDJzS25XNnU3ZmRiendROERhMUpFRlNndDF0X0dsZW4xUy0wa3JOZlVPWDg0S2VwNTlkc3FDS0QwY1MzUXRXVkxzREZFbGNteDB1d0YwalppZFF2QnM1aW1TX2xKOVkxRlVRMkVKRG53bDNJSzh4a0tOWG5YTHZyWWNwblI5cXZrYk9QUEZNd9IBtAFBVV95cUxQMlJ0anZpZnFMb2lpRWMxN3gxejc5SW93VjVvUkY3Y0FJRGVOb3RxVGFzalNWZ0dRcjBZbWJxQWI3NlpuV2JBQ2w5dHBIeG1nX3hrSXp5bXc1VzhoMWlpUzE5UUh3S25pbzAyYTB2LWVPSWRRQ1JrZnZrZVlJZ2hEQk1KMnppRE00YW1rRzRBTlpMTUNodG42c242RmVYcmx0aGs5aXFUUjg4UVB6T2VGclphUUo?oc=5",
+      "date": "2025-07-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

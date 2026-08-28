@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-24T19:23:08.939Z",
+  "updated_at": "2026-08-28T02:24:13.849Z",
   "project_id": "JALORI-TUNL",
   "counts": {
-    "press": 35,
+    "press": 37,
     "gov": 0,
-    "en": 16,
-    "hi": 19,
-    "total": 35
+    "en": 17,
+    "hi": 20,
+    "total": 37
   },
   "mentions": [
     {
@@ -14,9 +14,19 @@
       "source": "The News Himachal",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEdRQXJWTnRCS1paTGh1Z0pJT0NZTDdHSGxkRjF5SzRPNTZ3aTZVMVo3T2UxNVE4SnMtTjVzenV3OG12MFUwNF9BYkk3WFlsT2RaZUxzdEVNNFFyUkpldXpuNF9wdVp3VzgwRXlzdF80V1BFTmFDaWs5RnlGYU9VaExTcUlxanlPTHFHOHVhTjNjM3ROUGZqTEYxZThoM1NZVFpkRDY0TFNHbDAyYnhDM0Q0WE1fNnVKcVphRlpLcV9Pc0pLZkN4NHZZanNVVk40bkNyT2xaaS1razZxUXMtMkd6NVd2eEk?oc=5",
-      "date": "2026-08-06T15:36:24.000Z",
+      "date": "2026-08-06T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Jalori tunnel"
+    },
+    {
+      "title": "Vikramaditya Singh calls on Nitin Gadkari - :: India News Calling ::",
+      "source": ":: India News Calling ::",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamNDSExSakJweWNRSjRBdFJiLW4wdWJMdWFkV1p4LXU0OFh6NjJGOWlBcjMtLXFzQVgwQjBGZkJEQWhZVlZlTF8tSEVpWExqT2J3WjVmSDFPTGhPTThMMDJrSENLWUNCMmpfZDNIc2xCa1BBR25sV1ljOHhfRHp1cXFZc2pONlZ3ZXAyWHN1UVdYQ3NkaWZWLUlsa1hEZFlkSUhz?oc=5",
+      "date": "2026-08-06T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Jalori tunnel"
     },
     {
@@ -47,6 +57,16 @@
       "date": "2026-04-05T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Jalori Jot"
+    },
+    {
+      "title": "हिमाचल में भारी बर्फबारी के बीच फंसे 5 सैलानी, वीडियो वायरल - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQzJGLU5YQUZZMGlESWtfYnFjdld0aENxTm90RnhtZkdBNmI1bGxxQzlIYUFYZ1QwUVN0UHJNUVhXTWZldVZvU3V5UzlLYnNDS1ZpeTY1XzB3UEhld3dyak1LVmZIemxrN0tJdHVrZHJSbnZSVFhZc2FCOWdEblJhVERLbjVuZkFVTWFzSDlQRmEtbHJ4X0dEZkFyV2hGOHdxTTdEaUxyeWhFNFkxODJjY2NPS2tUM3phcU9SeTljVFhVOVlwWWl5Y25YU1BvR1l6T0ZhS19iME9BdDFH0gHiAUFVX3lxTFA1WlVCbFRQSUxhNXFwY3o1Z19QcWRpNExDUTd5TVF0Q0tkOXlkYkcwNG5USXdyT0VZYk84elJMMWkzRnFWVjI0QTlnLXhvWHhjaThRMXNuZFhvdHVYczdPa1RjMk5BVEZxOFFEamxNeW1hTWJNbGhwQU5WLXlkTEdzeVg5RkhXbEV5N1NOZ2tIeHNNRGQtR0FPZGIweS02NDBsN2hXT1JtTjl4ZG93a0lJSjNndWMzOHRIdXkxWVBkTjhPdXVEX1NDOWdnSjVucHZtdy12QnI3Zmg4cWFCV2tpU1E?oc=5",
+      "date": "2026-01-23T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Jalori Jot"
     },
     {
@@ -180,33 +200,13 @@
       "match": "Jalori tunnel"
     },
     {
-      "title": "Jalori Jot tunnel alignment finalised, heeding Shoja villagers’ concerns - The Times of India",
-      "source": "The Times of India",
+      "title": "Union ministry approved the final alignment of the much-anticipated Jalori Tunnel | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUlQzOVJFSXlmWHRkbENHaTMzY1lFTXhSbnAzVU5ZM2JvSlEtY2wybHVheHZ2SmJCSF9pamdyUnN1Y0U2bXc5eGtTUFpkUHJOcFQ4N0dKZWxFUDN0OFYtM2NpcEZYTnhaN2o0b3dqTUtkdHo3VHJ0VFBGc2RQdzQ2QTJHY2wwVGp4NTdPb3pnWkxoNWVyZWUybFB6UDF4YWVULUtHd3dEZ3J0elV4SXNUNWRoLWN3VEpGdnRBVVZQNzVPV2Ewd0lwNFRuR2x6ekVRQmctbVMwV1dQTVZhTnJaM29R0gHnAUFVX3lxTE9ONkxCX3E5V2VkRHFCWDU4Tmk3UXZIZjlQeFprYjk1VUZubzJLVW02eXVPMngxdXJDLW1rOG1ZbDI0Um5haDFJdlQyNHgwMFMyMS1RSGt3SlNjTVl3NkxXOXg3Tmt0OVlxYTNneDVHZnVuWnptUHpEclRGTDAzWC1mZEFEcnJYdkNtb2RoV0loRUZSTkREMGtXYkxaa0pXYnlyQ3ZwNXJnMTgwdkttdEhJenhUT3NqYzJ1a21DR2E0alVSQlpaOFlSSDNEaGVZYXZXNERCQmxvdU4zOHZEMXV3LUxqVUlzSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdUQzaDN5N3lzMlZLVE9oSXhPQ1ZmQXV0SzFheDNrVzZBN3dCU2lVbjJ3N0REblY0NHdZNzc1dkNmQ3ZESEN4QUJPSXl1Q3pWTnpEOUl0Q18zaU9aZV9MOHczd2dnZElWdDU4bVdiMkR1SElNRi1uVWROLVZWQkVLY216UW5NMlRpNDBkd2RDYzRzbFlUWDFabXlFX2ppRkVTWmVWRi1WdjNaYjVvQnRHNlZhS0lGY1h5Qk9sTmtIRjFRTG02SHdFd1RCdmxwSmM2cl9VbkhNYm1DQlZOMFRfazBqZW43Qy1lczBjTdIB8gFBVV95cUxNYlk5dElqTFZEbkZTY0Jhcl9HejREX2VsdW9EOTJVLUNKZVZjSFBRWlBHUkwwUjc3MzFZY19TT1hqNlFDNTQ2aUx2bFo1bWdmclJjMXo1RDF2ZXV0eHZQZWdGT3h3M090RVlQTDBNR0JLY1hXbUZlMkxtRDhfTEZYX3R6UklaM3llTXNtbDl6TG5SR2NGUk5ZT2RwRXRwaFU0cFd6S2pnb2RaaTV2QUhKRkxjZDVnX2JCNy1iTG5sa0ZJWXV1QkxSX2hGZWVYeERFRUlhTEM4dkhiQndGUXVwZnlyd3pFSi1OazdfUVc1YktQQQ?oc=5",
       "date": "2024-12-29T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Jalori tunnel"
-    },
-    {
-      "title": "जलोड़ी सुरंग की अलाइनमेंट को मिली स्वीकृति, इतने किलोमीटर होगी लंबाई - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEVEbHhPQ0hXQXBEMWU2aEgtcDNhcU5qQ29FM3lLUlJBVloxYXJsaXBQUmljTW53aW44Tk1ELUZfTDR0MHpXQ2RRS2ZjT2lJZzFBYnFpMWZuWVRWbWk4U2w0ZVdiZ2xjdFRPcFUwa1BoVFNmY0tERnc4RE1wZjlIODI4LWFBM3JGc1F1THgyTDNCRHVBLThOaFBBTEtDZnk2enByeGFFbFMydUhRclpjb3NMY9IBuAFBVV95cUxQbkprN3dUNkM0cTViMUpYMnMzMFNGdTZIWGYyTW5YVGNZOG1rY0RZaFlWSExaa1ZuTTlSVy1lSDhwTUVNNzBGVTFEY2FfbWdzb3EtdUJrdEJrTEFjS09mcFVidzVWck9WbUE1ZGx2MlhPS0tMNXE0VEdLdmxBVzJhdm00TlI1WDBjVFprU3pDS2oyQlN6TmtUSlhYVU9XaHRoSWlfQV84MFFZMS10YVJzR1dQTkFwRW9p?oc=5",
-      "date": "2024-12-29T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Jalori tunnel"
-    },
-    {
-      "title": "ऐसे मिलेगा गुम या चोरी हुआ मोबाइल, बस कर लें ये काम चोर के हाथ में डब्बा बन जाएगा आपका फोन - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcVFncmppSjZyVXlsYWl2dGFtMVZrRWZpbWQ1dUtEYkV2czNwRU03dWdRTUpJXy1QTUV1S003SS1Ybm1LNW8yV1N0OWRncUZyTlVMdzFPRUxHOTQwMURtV0FtMXhCX0lWdV9CdmRMdHM3VzE0Nno0YXd2cHQxQzdwMDJFTEtyN240cmJ4WDBFQU82bjFjNHBhQklnbV90YXdmY0ZwamxtcFY3V0NSN2RySzRWUlRWZVJKUm5yY0NlXzJkNmk5Vjh3dnVfeDdiZkZCaXlGUXZiWGMwRkp2VTVmekR0YUYzYll4UFE2U1RUaXpDem5RM203NFY4OU5sQmFBTkpJQzk5RVbSAY4CQVVfeXFMUHdwYTV4WFFUdlRVRHBaajJ6aHpCNzhwZFljc2tSczQxaTM0c3NkQ0cwZ3VyTEZJR3lkcHhOSVVVdHdPLWpQa3RjandDMml5ZHNpbV82Z2tMSTZwOW5Rc1VLZkZwYVZJQUtWVnVwNm9EemFteW5PTVhHdWU0V2ZoOFU3WjNrOW1XTHA2SUY5eWFEelJRNWk1Ty1wQTI3QUlwZi1TYW96UFJralROcXh5Z2ZmVnFhYmw4Q0s0MkZJOVpZOTBLMFhvVFVRdmJ6el9NVG9Yd0l5ZEwwcHFoUFNYSDctQzBiRHNGMWd1RG9KMXFJb1Bob3hsbGJxdHl5ZC00eGVxNndWNHhhWlgwekRn?oc=5",
-      "date": "2024-12-29T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Jalori tunnel"
     }
   ],

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-24T19:24:30.853Z",
+  "updated_at": "2026-08-28T02:25:15.096Z",
   "project_id": "JALORI-TUNL",
   "press": {
     "n": 20,
-    "positive": 11,
-    "neutral": 7,
+    "positive": 12,
+    "neutral": 6,
     "concern": 2,
-    "avg_score": 0.165,
-    "avg_magnitude": 0.3
+    "avg_score": 0.155,
+    "avg_magnitude": 0.29
   },
   "youtube": {
     "n": 1,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 21,
-    "positive": 12,
-    "neutral": 7,
+    "positive": 13,
+    "neutral": 6,
     "concern": 2,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.329
+    "avg_score": 0.19,
+    "avg_magnitude": 0.319
   },
   "top_positive": [
     {

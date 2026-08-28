@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-08-24T19:24:33.871Z",
+  "updated_at": "2026-08-28T02:25:15.574Z",
   "project_id": "SML-WATER",
   "press": {
     "n": 20,
     "positive": 11,
-    "neutral": 5,
-    "concern": 4,
-    "avg_score": 0.095,
-    "avg_magnitude": 0.285
+    "neutral": 6,
+    "concern": 3,
+    "avg_score": 0.13,
+    "avg_magnitude": 0.27
   },
   "youtube": {
-    "n": 59,
-    "positive": 27,
-    "neutral": 23,
-    "concern": 9,
-    "avg_score": 0.21,
-    "avg_magnitude": 0.392
+    "n": 31,
+    "positive": 12,
+    "neutral": 13,
+    "concern": 6,
+    "avg_score": 0.171,
+    "avg_magnitude": 0.423
   },
   "overall": {
-    "n": 79,
-    "positive": 38,
-    "neutral": 28,
-    "concern": 13,
-    "avg_score": 0.181,
-    "avg_magnitude": 0.365
+    "n": 51,
+    "positive": 23,
+    "neutral": 19,
+    "concern": 9,
+    "avg_score": 0.155,
+    "avg_magnitude": 0.363
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Great Information in my life. ❤❤❤❤ Love you sir❤❤❤❤❤",
-      "score": 0.9
+      "title": "I am very interested in this business",
+      "score": 0.8
     },
     {
       "source": "youtube",
-      "title": "Thank you sir 🙏",
-      "score": 0.9
+      "title": "I am intrested",
+      "score": 0.8
     },
     {
       "source": "youtube",
-      "title": "Very very useful, important information mam🙏🙏👌👌",
-      "score": 0.9
+      "title": "I am interested",
+      "score": 0.8
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Service CGHS bill claim kase  karte he",
-      "score": -0.6
+      "title": "If people can't help themselves no one can, Drains and Open Nallas can't function as garbage dump stations for the local",
+      "score": -0.8
     },
     {
       "source": "youtube",
-      "title": "Bhai ja k dekho ek bar cashless me apko admit he nahi kiya jaega private hospital me😢😢",
-      "score": -0.6
+      "title": "Sri Yamunaji is not happy. too much pollution and also sand mafia. Sri Yamuna is worshippable and should be respected",
+      "score": -0.5
     },
     {
       "source": "press",

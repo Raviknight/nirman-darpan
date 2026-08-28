@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-24T19:24:34.248Z",
+  "updated_at": "2026-08-28T02:25:15.847Z",
   "project_id": "SHONGTONG-HEP",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 15,
+    "positive": 7,
+    "neutral": 13,
     "concern": 0,
-    "avg_score": 0.12,
-    "avg_magnitude": 0.14
+    "avg_score": 0.145,
+    "avg_magnitude": 0.165
   },
   "youtube": {
     "n": 3,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 23,
-    "positive": 8,
-    "neutral": 15,
+    "positive": 10,
+    "neutral": 13,
     "concern": 0,
-    "avg_score": 0.217,
-    "avg_magnitude": 0.235
+    "avg_score": 0.239,
+    "avg_magnitude": 0.257
   },
   "top_positive": [
     {
@@ -45,14 +45,14 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "उच्च शिक्षा राज्य मंत्री रजनी तिवारी की गाड़ी से टकराई नीलगाय, गाड़ी क्षतिग्रस्त हुई - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPME1nc2I2QmEyWjBXaUdSMzdCYkJrMmlySFd0NloxcnZJaHJrQ0dtSXNsUmFNR2prRXNfZENUMUNHZW1wRl9xUVp5dzZxYktvZVJJeEtpNW83dHVEeEtvT3J3TS1zaklwS21JcEdqMExDVDB2aWhfM29ELWxVM29NekNpNTVRckNsZVpMSlFqRDlHeDlLdEFCT2RpaDVWSkJEeG53Zm9uYWJxYktCdnZOVzYzTkJvNV80dDNRSW43Sk5VTXJiSjZYa0Z1S2IxSUlIN25tdGdWQmNFMlU3UC0xa0xQYmFRNjZuY3h4RDJTTmR0b0VvRFBR0gH8AUFVX3lxTFA5cmlWNy1mcnpPeGpNS3czUFN1TzdDTE1lZXQ3WlFsTzh4SjdBY2JSVlVGSEdnZlpSYl9hN0FGMXlpQ0Y0VUV3TW1wVlNpeE8tODdDQm5jZjZDeUNfY0U3cTkxcTJaSUZYbkQ5MzdWckxCUVdpNGtpOTN3MXAzZFlKVzJpdHVtMzhGVURLamdSUTFxeFNldmdjckdIT1Q2S240a1RQbnlleDhZQUh6cFBFajdSX2dlaU44MThiR2RiNGhyY3h6Q04xdzRqdGlDQUZKR01BUmpzd0ExeWhOaFVEclZNR2RCQU10dU1MdlpNNGRLb1phaTVnRF9kOA?oc=5",
+      "title": "Bidding annulled for hydropower evacuation scheme in Himachal Pradesh - T&D India",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazIxWUllOExUcGhxeTE1R1NENVJJMVpRdzZlcUZvZnJIWU15dU5fY2dQV3hfQWJuTEcxLUgxTUlLOW1GUG05blNON2wza2Qxd3BQTnJNWlBQUlpPbUhUZmlPZTJ6a0J5ZWZDcHkzbHlwUXN5TFdpR2FaX2tXcFZTTXVyenRWTm1OYWNISHJVbVIyRTlzcVJJVU1HSdIBoAFBVV95cUxPU3ZpeTlycG5rNF9PWVZVZEROXzNteVBZcjVNWHNnX25hX1lubmZCVDEyMXhzVFd4SFNDUzliVDhTOUpEeTZta1Z3MnRsODRtZjV3Zm9RZk5FOEVBcGZwakRGQllISGNaZlZoUGxodXFaS3J1Q0V4R1MwN0NfeTJPUlgzU2dQRUlUR0lJRHlfOE1IYmYzcmlZSV9zQTVZa3lU?oc=5",
       "score": 0
     },
     {
       "source": "press",
-      "title": "झज्जर: ब्लॉक स्तरीय योग प्रतियोगिता का हुआआयोजन - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTk9aZGFUaHhwTDBZQk5qRVBMZnFVdTdKWEZXT09HRkR5aDdiSHFQYnZacXpvWEpBaTBVZ29IV3BQZlV1WHJNa1QtdE5VVVF2ampUX1FBYjJRVUNpWDMxdGluVWZ3aldqX0xyVVFubnYya3N4d2ZDTFdsVEFHMG9NcGhKRWdHLUJPeS10NkVhWC1ZQ2k4Rjk0d2RGODJEM3ptU0k3THFrd2VQRWFNWkJGNDk4aTdKUdIBuwFBVV95cUxOeFFraVdZdXF6WkkwYTJvemNnNjVQVmJyd1k4SWhtY3lWZnIwYy1pVFRSbUpDLWhJdUgxXzNnYUFINDgtWGRGQUE3M3Vsbmkxd1FfU0N6Vzc5UWZlcVR5LXdTNFh1WGl5eHVoRkVqOHNVY2h2WnJySDJyVmNUN0VmSDQ4akttcVdUb2VscURYU2lUcVBEampfcXdHcjBFcjh6QW1ILVNVcVRnT0pKVTA3YXZIRnJDZDQ5c0NN?oc=5",
+      "title": "Hydropower evacuation scheme in Himachal may come up for rebidding with revised terms - T&D India",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2E2cWcySU01R3JjOVFjTk8wT0o4c3FmQ216QW9lbkowczBybWplc2xoRDMyV3pRY2FCdkpjWGloSjhXM29QUnVUWTlGRXFaUF83ZW1qdU9kWG5ibldsemFOekYtSjBMcWZ1NW5tZEw5b18wS2VOY0phTVZVR29vUjMxdC1Pa1FjVy1HRW1oNWdKandOUFF5Mm9yQ1VYVE1LZTFjYm92VVZNRnk2eHVDM9IBtgFBVV95cUxPYU1ZcnBJNUlYSFdfQTRoTnE1R1pNWDRldWdydEtna2wyOGZ4eUhCSjJDc0t1eG1Fb1J5R3kzM0dWOG03QTd0eGJMWkowT0I3eTdjMUpkSnBWM1JxOW94YWZ2SXhSTUkxekx2X0JicnNtMGVXTmxtQkl1NjZhOU0tWkJPZ2owbm8zM2VUSEduLU1EejJVd2otUlQtNWZvb3ZmQk5MRmNsRDdYcUpIdGJqdmg4blZaQQ?oc=5",
       "score": 0
     },
     {

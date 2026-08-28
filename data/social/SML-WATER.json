@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-08-24T19:23:16.874Z",
+  "updated_at": "2026-08-28T02:24:20.802Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 23,
+    "press": 24,
     "gov": 0,
     "en": 12,
-    "hi": 11,
-    "total": 23
+    "hi": 12,
+    "total": 24
   },
   "mentions": [
-    {
-      "title": "Shimla to face drinking water shortage as Sutlej Project suffers transformer failure - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0FRaURkdlVEdDh1djBiZlFnN1RCd0p0RUltTmp6N2ZscEZVd3ZyQkx2RXlaZ2Z2WW5ic1RqSGVxT1dZWl85OGZXb3Juakx0ODdzVEZkRU9uVWR5R3RTbVBXN1ZKa2k1UFpibk9pR19XVDNRV05fR25vVzI1WnRtZlFnZDFvclhGMmZ1bVlNQ3JQRzhzenlTVzQtbEZrQlJ0OUl3a1ZwOVVvVWVobFA5dVY2cEtLRk8yZGFYOXVzWW1ERVJ4d1Nr0gHLAUFVX3lxTE84LVlBdi1KcWx1LU9zY0w1Ql9HZDg5WHQ0aVBlZnZHQUgyRzhBZTBmbjF1dW5aN1VzRTdNV0Q2SlE2cHpfMDRfNzNXNnJlVzRQQlNBVzc4X1FDNG5sQUY5RjZ3VUFBaHMwdndWdkJyVE92b25LQWxvM3dMckdFN1ByTkgwbTdGMUU4akRqVzBuYUt6Tmx1U1hHczhjQWJVTFFVeWNjM3lVME8zOFJOR21vcmtZRXVYTkZyQTgzSlEteUtXNnByQ0tKV2lR?oc=5",
-      "date": "2026-07-28T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla Jal Prabandhan"
-    },
     {
       "title": "Shimla News : मानसून में पानी पीने से पहले बरतें सावधानी, शिमला जल प्रबंधन निगम लिमिटेड ने जारी किया अलर्ट - Amar Ujala",
       "source": "Amar Ujala",
@@ -80,6 +70,16 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
+      "title": "Himachal Pradesh: हिमाचल प्रदेश में प्रधानमंत्री आवास योजना के 4,000 मामले अटके, आई ये परेशानी; जानें - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVV0WFFIelJGa3JpSFZRajlNY3JiRHJIcVI4aWJJdEJmUDRHeGdMWjYxbVNvVUk5Qmx6TUx3Sk1QSWpsSVJkcXA0TVRidURuLWtvaDVQZjlkdjhGaklpZ1hESkIwWGRmdE5CR0lhVUhVcmI5TXFHRFdlYk5vX0pDQnAyRjRMRzJnZE5EZ0VtYjFjNXpmNEJvb3ZkaWZCN3VMM2ZQYVFUc2Z5ZHRrdUF0ZjRaX1JHZFNYS0dLStIBwgFBVV95cUxQV3B1V3lxOUpBLVRHUWN1azB0TkJJemZPNHlTTlFLdVZ0Nmg4ZGJkLWVJZTJwbHpKRjNGUzBrMFQzZ2hBNnFTQWkwRDN1TkVJMDdrZm1fSVZzUWtONml4TUFwSEwyUXZBX1pid3JWTnlETjk1Z0NTbUozdDFIRC1ZXzhnMmlHSTlJWTBfalhSUFNmMW5nSkJweWI0QzRteWtTWl9EcUgtT2ZwTWVSaUhvWktmeHB3aElJR21wRC1HUGlwZw?oc=5",
+      "date": "2025-06-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJPNL Shimla"
+    },
+    {
       "title": "शिमला में महंगी होगी पानी की आपूर्ति, SJPNL ने टैरिफ में की 10 प्रतिशत की बढ़ोतरी - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -107,16 +107,6 @@
       "date": "2024-10-18T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "Himachal News: शिमला जल प्रबंधन निगम लिमिटेड में बदलाव, अब इस नए नाम से जाना जाएगा SJPNL - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlBVZ01DVy1zZktQcHFDVnJ1QVQzd25LR2FnOWxodXpKeUVQUTA1SzhsN1RPdmo4MFJRVnJKNm9WMXdYWHBHNG0tc0hsbWFfWF9pNXNpRnhONW9fdGxORmIwWlQxVWJ6UlZJQmJsSzNtZm9kWkRvNURnM0FXR3RMZEV2T2FSdjBLa2UwUW5vcDRYdkpYV1lETzhYeWxPd1VZeW1DOXlVSTFxeHhwY292UlRaOXZGbm1BYVdNaA?oc=5",
-      "date": "2024-06-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Shimla Jal Prabandhan"
     },
     {
@@ -195,6 +185,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ0VwTlFPOGtmcjRQc1ZFTzdkalB0RHo5V2pGZDhzc1VpSV9fdV9rTjZnT3RVeDlIZWR6V3Q4Nm9oSGRyMkVFTlZLdHF5aEhiN0NFZ3FsMDRldkZzNDRwMmdNcDJYTjBRaUxsQ2x3VFhKUWhRUlZ0bFFWNmVoZDZDemtiWkZYclgwbFZuVEowLWpwOXUxOGVRWFN1MWsxU3hFSk93eXlHUEdpOUhkbll0MURxekxpZEMtVGFYM3FFaGdiWVRwSmtRMjJDZGg4WUduUWM2LW9YSVBNRmhNZVM4TjhtcWNKU0c4RV9OZHJn0gHzAUFVX3lxTE1Yd3NnYlk5ZG01a1FxRkFTTE95T1ltOTNnZjVadkNGekhBNDlla0lUeGNRakpqSW56elJ3ZFNwSmFIVWRnbldqcExqQ0pDQTVmM0poZ2Z0Q3JwSVJWc05HREJLZUpQaC1zd2NlM1ZpQ1JKczUxM3JwUHBpVFBEejh5SWZMUllia1ZaQ0ZGQm5DWWk5VzdWcm1uRjZQVGRmX25FZDFpam13UkZSUGVrMFBETnNMZl9JRXg3dDBLSWhueXUxUy1BcHFlajdtaGZqZ0Vxd05ETnpUaWdsNTJXdUNnZ1ItUENRTGJyQ2tEd3A4andlRQ?oc=5",
       "date": "2022-02-17T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "जल निगम को बिल देने में आ रही परेशानी, अब घरों के दरवाजे के बाहर लगेंगे मीटर - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQ01uektRQkd5MjJkYUpod3hyVkZ2YTZydDJvaXhSTUVVaEhSZFRGbnNXb25HVEp3emY3bkdZMjJZcXpKWkcwaUJZaU5ia25GbFI4V0RLSVp6UHpIWDZKWXRiOUpCZVVYbks0c2tRRnBIZnF6U0plTFhjbnI3QVlFZUZxdXJPUlRURE5NQl84OUFnWURPSXlxZHIxVENuWmlnWDJCSDlGY0RXVEs4d2xvbVhZSlEzUms3b0ZXZkxkQ1RUeUR2cnk2dHpDZXZMQnpmcXFPU0twWTJsRjJXdVctNWNIdVkwZkR4RG8tZ1JuQ1N6UTZHalHSAfsBQVVfeXFMUFg2blFXb1o3TG9rR3B4dEhIN0YtVTBIWVJBc3I0ZWZsb0dSM29BZEIzWjZUZ0ZHbngxZ0JxendBRldTdVA3VVlUejB5Wmp3XzVjdF9ZUnhDUXVONWNjd18xRmpieHJsSDdBb3VxbWR4dW5TQ2JBMGhmSm16NWNGQ3VmM3JrR1dKVHJNVEtKSE5IaFVsUklnRGJiRG55RFR5OGUtQThRQTNnS2M0VEFual9RZld3aUJmQ1lTczNzdEp0SDhfUHFyeWZoUEFPUTZjbEpER2t2ZUFqOGV3Yzd2c1JtMnN5MHBrMndRU3BMN0dLTUkzS0Q0bVIwbU0?oc=5",
+      "date": "2021-02-10T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla Jal Prabandhan"

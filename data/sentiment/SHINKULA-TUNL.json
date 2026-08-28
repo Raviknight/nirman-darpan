@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T19:24:29.269Z",
+  "updated_at": "2026-08-28T02:25:14.978Z",
   "project_id": "SHINKULA-TUNL",
   "press": {
     "n": 20,
@@ -10,39 +10,44 @@
     "avg_magnitude": 0.22
   },
   "youtube": {
-    "n": 22,
-    "positive": 19,
-    "neutral": 2,
-    "concern": 1,
-    "avg_score": 0.5,
-    "avg_magnitude": 0.582
+    "n": 17,
+    "positive": 12,
+    "neutral": 3,
+    "concern": 2,
+    "avg_score": 0.253,
+    "avg_magnitude": 0.524
   },
   "overall": {
-    "n": 42,
-    "positive": 26,
-    "neutral": 14,
-    "concern": 2,
-    "avg_score": 0.302,
-    "avg_magnitude": 0.41
+    "n": 37,
+    "positive": 19,
+    "neutral": 15,
+    "concern": 3,
+    "avg_score": 0.162,
+    "avg_magnitude": 0.359
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Amazing \nMy all tym fvrt.animated videos by Study Iq ..n Adarsh sir u are describe whole things in better to better way\ud83e",
+      "title": "Love to visit once complete. Incredible India..",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Sir you are my favourite sir in online classes ☺️  keep teaching and keep shining 🌟🙏",
-      "score": 0.9
+      "title": "Great ❤",
+      "score": 0.8
     },
     {
       "source": "youtube",
-      "title": "I love indian army .",
-      "score": 0.9
+      "title": "सही तरीके से न्यूज़ चैनल दिखाया गया है, जय हिन्द जय भारत देस महान है,,,,",
+      "score": 0.7
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Ambani addani orchards mint millions and people are still poor in Shimla.",
+      "score": -0.8
+    },
     {
       "source": "press",
       "title": "India is building world’s highest tunnel on China border at Rs 1,681 crore – Here’s why it’s certainly a bad news for Beijing - Zee News",
@@ -51,13 +56,8 @@
     },
     {
       "source": "youtube",
-      "title": "be aware of sparrows and honey traps 🇮🇳🙏💌😇",
-      "score": -0.2
-    },
-    {
-      "source": "youtube",
-      "title": "UPSC IAS (Pre + Mains) LIVE Foundation 2024 Hindi Batch 1\nAdmissions closing on 23rd February 2023 | Batch Timing 6:00 P",
-      "score": 0
+      "title": "Bahut khatarnak jaga h kabhi mat jana oxygen bilkul nhi h",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

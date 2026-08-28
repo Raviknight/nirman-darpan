@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-24T19:24:22.497Z",
+  "updated_at": "2026-08-28T02:25:14.068Z",
   "project_id": "SMART-SHIMLA",
   "press": {
     "n": 20,
-    "positive": 10,
-    "neutral": 10,
+    "positive": 9,
+    "neutral": 11,
     "concern": 0,
-    "avg_score": 0.18,
-    "avg_magnitude": 0.305
+    "avg_score": 0.155,
+    "avg_magnitude": 0.28
   },
   "youtube": {
     "n": 26,
@@ -15,15 +15,15 @@
     "neutral": 14,
     "concern": 3,
     "avg_score": 0.05,
-    "avg_magnitude": 0.204
+    "avg_magnitude": 0.2
   },
   "overall": {
     "n": 46,
-    "positive": 19,
-    "neutral": 24,
+    "positive": 18,
+    "neutral": 25,
     "concern": 3,
-    "avg_score": 0.107,
-    "avg_magnitude": 0.248
+    "avg_score": 0.096,
+    "avg_magnitude": 0.235
   },
   "top_positive": [
     {
@@ -33,15 +33,15 @@
       "score": 0.5
     },
     {
-      "source": "press",
-      "title": "Shimla स्कूल में बच्चों, अभिभावकों और शिक्षकों ने कार्निवल का आनंद लिया - Janta Se Rishta",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnpOUVFBTEM0VXdMMEhlUWRYeGtkLVBoR3NqS1d2d1laMTJPNDRDdklBUG80bDVqVTJvclF2dnhVeXN3SC1acVJNeVZLUUVCcDBMc1laazMwYlc4Xy1wcnRRY2hyUl80ZW1JRURxbzkyclZVSDBvYmR2N1FBdXFZQ0xoSVFuMjNSYl9YbV80TTM4b0pRbGEwUXVveVF2SmtaS0M3SkRRRFRjNGE3UC1reHdOWEtObEdYRzBFRG8zd3JKQdIBxwFBVV95cUxPejdwVzlxV0k3U3otNUNYSHF2V3ZzTGJXNmg4bWFWZUVRWTBfR1lpOG53UEJhYS1zN2dFWmw1X2ZyTk9mNmRwQU9MOExtSTRsRlpMc18yd0E4cHQzM3Rtd0IzWXlEenFRNmtuMFNyRlRsaVRiNXR5dXBpay1kYU8wdWo2YVI5N0FQYmVGVVBWSjliOWtwSWxFVFZ1eG01M1JtN1oxMFc2RHllZGR4WDV2SkJXZ2hLLUFHSEx6QjRPaGZ5Ymg0emE4?oc=5",
-      "score": 0.5
-    },
-    {
       "source": "youtube",
       "title": "Look at nava raipur, dholera , gift . They have one of the best urban planning in india, dont just trust pappu😂",
       "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "संजौली स्कूल संचालिका हत्याकांड से दहशत में अभिभावक, बच्चों की सुरक्षा को लेकर प्रशासन ने उठाया बड़ा कदम - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckFrdmd2TC1VU3FZTHliSERqSXJydnc1cmVxbW1FSnc1UjM0NFpxRzFMbjJXTE44NTVEdFFOX0tWVVVXelViVzlSQzVhQ1I2OFF5b3dXcERtS0ZoNWRCNGpOZmNwU1Zmb0JzM2l5aTNLem50M1YtV1B2cy1hRVJ1dzNhWENIMWpNWlI2Y1otbVpRUFhWSl9GZE8yRzlaYjlIR09fQkN4eVVwOTJOalp4YkFn0gG3AUFVX3lxTE42T0RwWTBtVFJja0hNc3hfQ1NsSU9xTUN4QmhRT29qNlhWUWQ5VFRuQk5mSnFUS18yanNTaHlJX3VHdWFCd1B0NDlZMmJrRGk3M0kyVS1zTnk2TlNuV2R2MDlJTzNGTW5GR09HNWVBWjFRUVM1Z2pOc0ZsbWNfXzFld3JINENieHdIU1lWVVYxOHh6QkNSQkFiajc3RjRYOE42RjBCam5GZHlpS01HUlBkcFg2azA3VQ?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [

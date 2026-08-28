@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-24T19:24:31.070Z",
+  "updated_at": "2026-08-28T02:25:15.370Z",
   "project_id": "SMART-DHARAMSHALA",
   "press": {
     "n": 20,
-    "positive": 13,
-    "neutral": 6,
+    "positive": 11,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.195,
-    "avg_magnitude": 0.345
+    "avg_score": 0.18,
+    "avg_magnitude": 0.285
   },
   "youtube": {
     "n": 0,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 20,
-    "positive": 13,
-    "neutral": 6,
+    "positive": 11,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.195,
-    "avg_magnitude": 0.345
+    "avg_score": 0.18,
+    "avg_magnitude": 0.285
   },
   "top_positive": [
     {
@@ -40,8 +40,8 @@
     },
     {
       "source": "press",
-      "title": "Dainik Savera. . धर्मशाला को मिलेगी अत्याधुनिक स्मार्ट वर्कशॉप और ई-बसों की सौगात - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMihgZBVV95cUxNS25jTHhkYnBaQzdRM0RQRzdEMGVZc19vUTJzM0V4c2k1YmVkTURkVDFMZ2dWYlZySzI3V25NUFJSakptaExSOG1wOExnUEYxMGRsY0p5a3BKU1pGUkY5ZUhKSWw1SnpYdmRzQ1ZEOFg4Rkp0c2dtdjNYSU1jNExpcHktbW1Gb1VPR1ZQTHpnWWE3M3VLMDZMRmVBaURxbUV1bENzNUxzT2xCVkhyRE01YVJDVlNDbXRyRlBReFk1S3RENzI2V0VVcnRtc21yQndQb3lEMlhvUVFRb2xtMm9rUUEzaGJkZlN4bHd0LUw5WlZjR1RMWm5EckhXUHRLOVNZZkNNRl8tV093QTNZd2ZtY1FnX21BSlZtR3FtbFRRMFZObXZxNXVRNTNtWWVnWTBqbFowQUQ4VGFPNlJzTjhaMkhwaG5ZUml3UmxtXzJQWjdxYTktRXJ6c01fX1RGekU3UXhfRWpYSnFBWTVyZ3V6UEJqS0s2aDZaYUJDb0dwcFlmLXB3ci1JYnJySXhmWWRLOFNRendsVDlDUGJ5N2ZVN1Z0S25pOGtBdG9xay1zOE95TDFINTVLamcxQTZ0aGlteHZSSTBHM1hJTko3NkNvYUxyV082TWtPQ01VdHhxWmNSRjlYQlJCNGRZNVNVUm9nZDhRSVktZUI4dWZWeHFBSmMxenF5aWJONVFVX09SUk95WEhXQlRIQUpXLTZmMUV0S3pHQTJhek9fdDNjNUFBd3Zoc0RFNzh3cFh6QTdJNnpVQ0lMbTNIUklmY3VpN0FVdTEwOGdpNUlHdmdpbTY3d2NFT2N2NzY5RFpha0V5LU81MjZoNmdYZGNBTEphT2g0VGc5QkVLQUhLVVczS2o0Vk11UkFhaVJna3Jnb3ZyQXBBUHpwOUFwN2l6d1cyN1ZjdExTdlpFdHFMb3ZSeVNVVFVqRWh1WjNlRlhOOVVVbFlwcS1kUTJ5eU9zaG1GRnB0V0t1emMwR0FDcExfRnFuUjB1dkw1WUVvaGRFQzRIRkdsXzVMOFE?oc=5",
+      "title": "पसगवां मेंअजबापुर चीनी मिल ने सड़क पर पानी छिड़का: धूल और गंदगी की समस्या दूर, जीएम ने तत्काल कार्रवाई की - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNDcwaEY0RG51MDJuQXhHeGhGVDc4anNVREZYRkpVYkZWVHJTdm1oalNlVDd2dGFGRTRzcVJDbl9ITEttejltOHJVVjRlQU9SX1NJdmNfRGNVeTR1cUViU2YxbEcyWFozdnE1NGJ5M1VqczhXbXhTNl9PaTgwN3dJb09Obzg3RTlVVTZPUGNJM2JrVFZUdkhoTEJKa3RQVnNGT1ZYeV9OZ1A0N1NDalRwbTBEcEpVazFyanV5azlJXzlZSHdiR2QwaGVDX1pyX2tOQTNMMnJaVEMtejFE0gHiAUFVX3lxTE9BLUZqbVQtYWwzTk11aW9fZVNvUmd5dUg0dzhaR1l5U1Z3ckNXRUxGMnhfUm9haVpCRGRfNVRjYUVGNnV6MXlCa3EyWFdtcU5iN0VJTWFaMFR6NkxRcmRqc2xQTnVISGl5VDNwdklZcS1MQ3N5YllJeEtJVnQ3Z3h3aW1ZUmFNNWlBSUJQaG5VTnl0TU5NeURfeVc5WFNLOTZSa3UwRmZoQ0U5Y2hzaElaRUhmTHVmMmRFM0RwQU04N2V0aUZ2aFdXVGlGRTNLWE0yS3RuZFFuMFp4Q1FxNXlhTEE?oc=5",
       "score": 0.4
     }
   ],
@@ -54,14 +54,14 @@
     },
     {
       "source": "press",
-      "title": "You searched for \" dscl \" - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IelA2Z0p2NzRmMThoU3hZNUdNMkJQbU5uUVNGYmlwc3doR3pRX01mSVFOa1FOVE8tNUNkWDBSbVVWWTJacmRZWUI1eVZMRl83TW1SaldkLXduNjI0?oc=5",
-      "score": -0.1
+      "title": "Penny stock under ₹5 declares Capex expansion after closure of rights issue worth ₹149.22 crore - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdGFScTA5MTlpazBiaFZRNHZPeUxsUG1rRTdrSlotckJUNlgxSk94WW4xT2NXNnVOZTRGSGh6MEZhM3VvQnk3eWRzNFlaV0VlZXI5MHJsbTgteTJkWFN0NHBaWTNsendSb3E0V2JmS0tWbzRaNUtKU2VPS1R2X3hWOFNrY2pXc3FwWWgwVUxwT2xVS1R6cWRxLTVzQ1hvVkxJRmRHS2R1dF9wV2hSM3o1ODN1VFVTZGhMZEEzU1V2VmhkUTJBdUxBdVcteHlyLU5ma0h2cFZPWjNjTWU4SU5CN25nQWZyR3ZTMlY1LTRvX24tUzU1aVkyek9rcEdSRlJOTE1VVk1GWU40WnhINUtKZ3habm5aUdIBmwJBVV95cUxQZ0VKanBxUm9rdmVEMUJHZ20tUmZIVGRMbmZySjYzM1VTNml1bWZ3SGdwdzF2OEpzbDNhMGZHVEZfTDNIbHExQVBXTW0tYWNCbEF2ZFVCcVJsWGJ1VzhYT1VBekt6bWlOQWs2X0ZULU4xaEZ3ZHY1WE1ENTRPV0NlLVJObWlhdEdpLUp3WDUwMmFOcV9oRWI4cXRySDd5bDJCYVRPWlV3VWdfVjNrVzJVcDRFV2tPWVp2emNjYVhubHQ5WkdnYWdDa29fNGctNnRYTDFUcF9qLVY0eHNXZFRxajdzM09PaXhVSUJwLTYtZDl1T2tjdXdUQU1JV1pTdDQyR3RQMlAxaXQtcmdmV19DemxoR1J2blpsaHhr?oc=5",
+      "score": 0
     },
     {
       "source": "press",
-      "title": "Penny stock under ₹5 declares Capex expansion after closure of rights issue worth ₹149.22 crore - livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdGFScTA5MTlpazBiaFZRNHZPeUxsUG1rRTdrSlotckJUNlgxSk94WW4xT2NXNnVOZTRGSGh6MEZhM3VvQnk3eWRzNFlaV0VlZXI5MHJsbTgteTJkWFN0NHBaWTNsendSb3E0V2JmS0tWbzRaNUtKU2VPS1R2X3hWOFNrY2pXc3FwWWgwVUxwT2xVS1R6cWRxLTVzQ1hvVkxJRmRHS2R1dF9wV2hSM3o1ODN1VFVTZGhMZEEzU1V2VmhkUTJBdUxBdVcteHlyLU5ma0h2cFZPWjNjTWU4SU5CN25nQWZyR3ZTMlY1LTRvX24tUzU1aVkyek9rcEdSRlJOTE1VVk1GWU40WnhINUtKZ3habm5aUdIBmwJBVV95cUxQZ0VKanBxUm9rdmVEMUJHZ20tUmZIVGRMbmZySjYzM1VTNml1bWZ3SGdwdzF2OEpzbDNhMGZHVEZfTDNIbHExQVBXTW0tYWNCbEF2ZFVCcVJsWGJ1VzhYT1VBekt6bWlOQWs2X0ZULU4xaEZ3ZHY1WE1ENTRPV0NlLVJObWlhdEdpLUp3WDUwMmFOcV9oRWI4cXRySDd5bDJCYVRPWlV3VWdfVjNrVzJVcDRFV2tPWVp2emNjYVhubHQ5WkdnYWdDa29fNGctNnRYTDFUcF9qLVY0eHNXZFRxajdzM09PaXhVSUJwLTYtZDl1T2tjdXdUQU1JV1pTdDQyR3RQMlAxaXQtcmdmV19DemxoR1J2blpsaHhr?oc=5",
+      "title": "Dripping Springs Community Library hits the road - Community Impact",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BxMVFOMlJQRzlYOGJ0dk5CaDk5NGEzQ3pSQ3V6enpmdnJ2eGJrdXBwNG9sV3VhdFA4WVFsQW9KbkdORUowcU1oaDZqcmZhT3VUZ1pNX0V4dW0yN1dXeENtTDFGZjg3QnVSQ05MSmFaS1I2Zlp5clBhREhrbTdpSzIyNGhYMXU0SzE3SWtxREkweUNNVjNVbEhRb3F4MXFQcGFTYjg1MFV4SlNMa05OUTNuMC04T2VHYkdSVDNB?oc=5",
       "score": 0
     }
   ],

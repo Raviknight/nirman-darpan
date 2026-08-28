@@ -1,46 +1,48 @@
 {
-  "updated_at": "2026-08-24T19:24:24.797Z",
+  "updated_at": "2026-08-28T02:25:14.330Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
-    "positive": 15,
-    "neutral": 4,
+    "positive": 13,
+    "neutral": 6,
     "concern": 1,
-    "avg_score": 0.325,
-    "avg_magnitude": 0.39
+    "avg_score": 0.285,
+    "avg_magnitude": 0.37
   },
   "youtube": {
-    "n": 8,
-    "positive": 6,
+    "n": 4,
+    "positive": 2,
     "neutral": 1,
     "concern": 1,
-    "avg_score": 0.412,
-    "avg_magnitude": 0.662
+    "avg_score": 0.15,
+    "avg_magnitude": 0.3
   },
   "overall": {
-    "n": 28,
-    "positive": 21,
-    "neutral": 5,
+    "n": 24,
+    "positive": 15,
+    "neutral": 7,
     "concern": 2,
-    "avg_score": 0.35,
-    "avg_magnitude": 0.468
+    "avg_score": 0.263,
+    "avg_magnitude": 0.358
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Good work sir.🎉",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Great explanation, 👍",
-      "score": 0.9
-    },
     {
       "source": "press",
       "title": "आज हरियाली तीज पर शिव-पार्वती की पूजा का विशेष महत्व, जानिए 5 प्रमुख धार्मिक मान्यताएं - State Mirror Hindi",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXRTNDlkbG5PNVJIV1BnNW1yQnNVVXNCUUltZHc2Y3BpMnlyWGhpT0o5RjBOQ3J0NWhIOWNJV1ZnSUYtYXpVUmtKQnU4bDRNaFVpTGhYZFRyT2VGMXJMZnRqN3J3NTVVMWhTeGVyUy1DSnJ6YktJSWxvYkpTTGdoMi0yS2NaT1llNzVFZGxRQWpVU1BIdlpPWHhaNl90NE5HQ2dDRjFmTFVLMHfSAbABQVVfeXFMUHc2ZXJJNGxZQlkxaXZkQWVCYU9iVG02NTZkOHRVdWNFVksyYUkySXhRTDR5RjI4ZGw1dzdyYkk2d0VnM0w0MzVTUkcyNW0yNkpoNVl1aFgzeFJZc3pmOGxTcGVaSkJYRlVJRFMtWmRvMFdlSjlzQXJjVzd3bEx5d1dvV3o4LUpJMnNyZjNRaVJHNjk3aE5OcUIxem5fQXByN0Y2cU12ajk4VVk3TnpMckE?oc=5",
       "score": 0.8
+    },
+    {
+      "source": "press",
+      "title": "सैंज में NHPC टनल में रिसाव का मिला स्त्रोत, अब लीकेज ठीक करेगा प्रोजेक्ट प्रबंधन - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbkZXMW5Yc2pFQUJOMTFhSHRfaEFhQ2l2UzVjMmE2blhaUGE3U2JicHlMQ1ZkRkdjdE9MWkhfdVVUOW9rUEdGejZYcVhweDRLVzBacEloSGJTRkRqN1lxUVZ2akJZZlJMRXFtMXR6YjdMRjVTMWRfRW5sNVNfN1pqa0c1N2FUdC1nOGQwQjlPakpBRUNWOXE2eXpwUGJzcFB6Yk5nYzhrbXo5SXppZUUzOUV4VEM4cGNsZlR4RDN6NDBlUjZp0gHEAUFVX3lxTFBuRlcxblhzakVBQk4xMWFIdF9oQWFDaXZTNWMyYTZuWFpQYTdTYmJweUxDVmRGR2N0T0xaSF91VVQ5b2tQR0Z6NlhxWHB4NEtXMFpwSWhIYlNGRGo3WXFRVnZqQllmUkxFcW0xdHpiN0xGNVMxZF9Fbmw1U183WmprRzU3YVR0LWc4ZDBCOU9qSkFFQ1Y5cTZ5enBQYnNwUHpiTmdjOGttejlJemllRTM5RXhUQzhwY2xmVHhEM3o0MGVSNmk?oc=5",
+      "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "Agra News: गंगोत्री से शिव-पार्वती की कांवड़ लेकर बटेश्वर धाम पहुंचे कांवड़िए - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPSDZMYkhoNFAwTXJyOGlRdHZyaG4zSGJSZUNjVnpYRks5djhOU016NHAwVFFVeGUycEhMWGNreDZPOHJsblRxS0VJOVd5dUhONHNyNVFhamtIWTZLX29zbWxCQ0hQNjZMZGlLNXdRZ1ZHc3RCU0xVeEZPV1FzeTNsNjFhVzNscDBBdWtFUUtBNjV2Tk5mRVJac0pGSHZmWU0zWk9IUzRmdk9IUVplS3FMTDRUbTMxYUF3cTV5Y08ySll3UjZvNUFBaXlRZ1BzazVEdEp5VHJwSFdkcERpalJ5X1JvUEJUblV1VW1aV01XWW5LTlYybEplY0RMUThtWDIyRTlVRmdLOUk3TDl5YURCMVowZHlXdHZOTlR4bk15QlZZYWp0YllHc2taLTZZcy15TWVyV1ZwN3BGUU04VHBYSFUzQm55RzNZNURGT1dBUmIxcS1INERxLTBaMm5pamdyREFFdVY5bi1VNkNNcEo3d25aWFFkWjFGdDNGSdIBggNBVV95cUxNcHdMeFJNeFhxSHY1Q2pkTDg0SVhuYmFPc1l5b1N2YldGekFOWUgxTkR2ZklBQ0E0QkVrZTNLOUNiOWhhT2lSanR3bzhRdXhoZGRKejJJTVVVQTlLRmJuZVRfNk1yUWJYSlNjSnZOUG9aRUcyMmE3VVRNa3BjWGxWd2gwcXdlSEY3SlkzTElUWkdaQ09tZm4wSXAtaE95NjZDNU1lUTNGSkZvYVIweWduLU5uVUFmLWV3NjZHcVNJQnZCZUU0Sk1GSzY2dTg5YkpneGdhN0gzSUxtREZIbnZLYjh0enF2UDhZMXVIcWdCWEZEOUN0c0lBakU3SkFfZ3cteDhBWEoyODVvRGlYbG8tN1lvdVl5blBjaU9CWWFpcm5NMktFWE92cGVmd3lWVmVUX2NTSjB2MTFnZGFraTZuQ2lYVUxSY2tTUzVtT2h1U3ZHT3B3dlhxV0N4cWthdGhkS1R6WmpkOFkwV1hTRjZyaHc0Nk1fMVc0akZ6ajNHaEFsUQ?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [

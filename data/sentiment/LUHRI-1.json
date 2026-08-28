@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-24T19:24:11.043Z",
+  "updated_at": "2026-08-28T02:25:11.748Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 15,
+    "positive": 6,
+    "neutral": 14,
     "concern": 0,
-    "avg_score": 0.105,
-    "avg_magnitude": 0.135
+    "avg_score": 0.115,
+    "avg_magnitude": 0.145
   },
   "youtube": {
     "n": 4,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 24,
-    "positive": 7,
-    "neutral": 17,
+    "positive": 8,
+    "neutral": 16,
     "concern": 0,
-    "avg_score": 0.133,
-    "avg_magnitude": 0.167
+    "avg_score": 0.142,
+    "avg_magnitude": 0.175
   },
   "top_positive": [
     {

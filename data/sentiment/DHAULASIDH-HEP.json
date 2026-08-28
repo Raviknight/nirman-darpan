@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-24T19:24:25.099Z",
+  "updated_at": "2026-08-28T02:25:14.331Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
     "n": 20,
-    "positive": 6,
-    "neutral": 14,
+    "positive": 5,
+    "neutral": 15,
     "concern": 0,
-    "avg_score": 0.115,
-    "avg_magnitude": 0.125
+    "avg_score": 0.09,
+    "avg_magnitude": 0.1
   },
   "youtube": {
     "n": 2,
@@ -19,19 +19,13 @@
   },
   "overall": {
     "n": 22,
-    "positive": 8,
-    "neutral": 14,
+    "positive": 7,
+    "neutral": 15,
     "concern": 0,
-    "avg_score": 0.141,
-    "avg_magnitude": 0.15
+    "avg_score": 0.118,
+    "avg_magnitude": 0.127
   },
   "top_positive": [
-    {
-      "source": "press",
-      "title": "सोनम वांगचुक मामले और पेपर लीक के विरोध में धौलासिद्ध में गरजे मजदूर - Janta Se Rishta",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTENyYzFTWlJTMmg5bzVGdC1lalpNWHVtSS1NeVMxMzJ4UnhIOG1YRXhuVTB4eVlvR1lXbkZIbXBuVS1TOURNY2NWQkN4djdiYnZ5dnh3eVRIM2tHemhyVXhybGlmUEExRGhXckpXbUpwMk5EYjVhTE5SYWFVM1NfbjJaWExKYjJkQXJFTVoyTGtxdnRKclN1VmpCZl9hakNVcV80OGdjUEp0Tk5neGt4b2otN2QyY2VEUXhXRFJHdjNQNUZITGl5QUlCX0QySkpGZFF1d295UdIB3AFBVV95cUxPQjl3eU1pTFlQRzJzbC1CMFZ3eWpqSzRpSUh1ZUxVN2JvQy1GZ052RnllUHdaVlR6dXlZdXg0b0E1S3FJT1RwLWRlOUNlU19WTVpWZzM2SEVrM3Y1dVZGX0djb19TLWJud0c4Nm5TdlpUdW81aE9IUmY2UXlnU1FfTXJfcUh0WUNEM20yNXVzNjlVWXE2NjhRUjFsbEJpakRqNFVkXzUxeFBuazRrWHJRZ0R5UlhnS05yck1JUDZMbHpqWnZ0QmtPRlhWaWVhX0JvSElZbGJxR2Vpb1lf?oc=5",
-      "score": 0.4
-    },
     {
       "source": "press",
       "title": "Dhaulasiddha project: धौलासिद्ध प्रोजेक्ट के निर्माण से हिमाचल सरकार को 125 करोड़ का होगा नुकसान - Amar Ujala",
@@ -42,9 +36,20 @@
       "source": "youtube",
       "title": "👍🏻👍🏻👍🏻",
       "score": 0.4
+    },
+    {
+      "source": "youtube",
+      "title": "👍🏻👍🏻👌🏻👌🏻",
+      "score": 0.4
     }
   ],
   "top_concern": [
+    {
+      "source": "press",
+      "title": "SJVN signs loan agreement of Rs 494 cr for 66 MW Dhaulasidh HEP - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemtybmVGMnJpWkxYa3FOMnlXdV81WmowR01xNzFIcEdTb2ttdlRHeWtRNHQ4T0V0eTRFTjhaOU4yZGloczBJSHhjTFRSYlRJUVRUTlVaaEMya1FpNmNSVG5Yc2swa2FkbGZ2ZnFZN2F2cy1GUGEyaGFUaDNqd2xNYnQyVDVHWll0WFpjb0JidlVMMDZsRmJ4eEpMUGJ6TXN1TjJR0gGwAUFVX3lxTE9pRm4tVlRVUFR2RnExOHVwRHV4NlA1WjI4ZG9rQVIydldJamFwQkphSGpPeGpRci12NXdfaWMzNDBTTUQtazBGZ0ZvUVpKb2FkcERXak1LbWtfNGtBeU1Xa0puWUdDb2NaRm5UYnNzcXQwMW9FNUh2MVV0VVBZTTFxYmdvWEU3SjlRZ1lsNGNySHhkejFoUDd5Tk5UbWlzdDNHbzJBV3JpdkxaZFNyRmYy?oc=5",
+      "score": 0
+    },
     {
       "source": "press",
       "title": "SJVN ties up funds for 66-MW hydropower project in Himachal Pradesh - ET EnergyWorld",
@@ -55,12 +60,6 @@
       "source": "press",
       "title": "SJVN CMD inaugurates upstream Coffer Dam of Dhaulasidh project - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVJmTUt3QjRpMjZLaWRqWE5FaTdkVnFva0lCb05nZkZoZ05fX19yWW1DcXA0UWdYLTJLcU54YnprZVJzWHZpTXRNbGpVODNzd0dWaVh3YklDYXp5Y2Z4QUlFc0x6OThleUJmbE5sclR3YUNydFlLc0NzLUd6TTk5VWVPYVdIU2FKb3pzcGxjRkI0T0VYa1F5TkR30gGnAUFVX3lxTE55Sjd1cW9hR0lwbXE4dTZsMkMxZXJCSU1TLWtRWHQxYml2Qmpsb18wY0FEb3llV1I1Y1UzMTNxbE9QbjYxRDJ4a3hfVWxzTlNVbENtT3pOZzBjOWVwRV9EeDJRR1VZa0lGQlZ1ZURkT3A0N1FlUU9Falp3cFlnLTF6RkRIQzMzVjlFRkM3dW41UUtHTVNUOGNreURSdnZ5Ync1N2p1VjRz?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "SJVN CMD inaugurates cofferdam of Rs 688-cr Dhaulasidh Hydro Electric Project in Himachal Pradesh - ET EnergyWorld",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONlBLYV9SbHNMNUxiT18teFdVOTlLRUJhMXMyaWd2VEViX3pMblEtbHp4V3d6SmNEa1hNT0tDYnBHTGltUHcxa0hWUm5fOXlVQlBBMzBMd295MlcxTXhPZ1FvY0EzZVNWVEdvb3B6NjhuUklsdkJKZWlDYTljSjMwTjlCQkdWZkh3Yk9YWjdmQ0lfeWZlVlo2d0dYMGZVRnlJdERqeS1rZXVmTVlsRkZHTTF1RTloMkdTeFpDMk9DdVB0Yi1EMlk2WDBvTXkwVkJlUWo5S0NhTEppTGxTVnpoMWplZG1Za3UzeGpoeXZUQ1p3NmfSAfgBQVVfeXFMUElyMkpUWDloQnVNaUFSYm1qN0kxVHQ1RjlOUERtcWxDSS1iWVFPU3B0ZU9JR0hxRy1BZFoxS1NBQ2hNcnlwR3N5WGUzVGpRQ1YyMmtjMTJrSlNFMTZOa1dJM0VDcUVIZ1A1R2o1VkpDYTZQV182NmVNQy0tZEd2OUo2ekxCeXpsc3FpZG9yQlBRQjlFTm1SYzdEcWM2M29CV0hqR2R3eGExdGg1UWtPNlY2WTB4cnpmRDdtajNoNi1abWdqWVZqQmpsUkVUVnZweG80SXRrQVpFVFZPb1hKT0tBOUdrRDJ4c3ZrMUxMVENjSDRCRFZuLVA?oc=5",
       "score": 0
     }
   ],

@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-08-24T19:24:20.932Z",
+  "updated_at": "2026-08-28T02:25:13.411Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 14,
-    "neutral": 6,
+    "positive": 13,
+    "neutral": 7,
     "concern": 0,
-    "avg_score": 0.275,
-    "avg_magnitude": 0.275
+    "avg_score": 0.25,
+    "avg_magnitude": 0.25
   },
   "youtube": {
     "n": 37,
-    "positive": 25,
-    "neutral": 9,
-    "concern": 3,
-    "avg_score": 0.354,
-    "avg_magnitude": 0.446
+    "positive": 27,
+    "neutral": 8,
+    "concern": 2,
+    "avg_score": 0.378,
+    "avg_magnitude": 0.481
   },
   "overall": {
     "n": 57,
-    "positive": 39,
+    "positive": 40,
     "neutral": 15,
-    "concern": 3,
-    "avg_score": 0.326,
-    "avg_magnitude": 0.386
+    "concern": 2,
+    "avg_score": 0.333,
+    "avg_magnitude": 0.4
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "best youtuber for medical i mean yeah man i will c0me for this 2027 lets go",
+      "title": "love you boss amazing content 😇😇",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "love you boss amazing content 😇😇",
+      "title": "best youtuber for medical i mean yeah man i will c0me for this 2027 lets go",
       "score": 0.9
     },
     {
@@ -45,11 +45,6 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "AIIMS Bilaspur me PG 1 ko hostel milta hai ??\nPatient load kaisa hai",
-      "score": -0.2
-    },
-    {
-      "source": "youtube",
       "title": "Ye aiims ko dekhte hi pyarr ho jata h",
       "score": -0.2
     },
@@ -57,6 +52,11 @@
       "source": "youtube",
       "title": "Bhai is saal milte hain\nMay be I'm coming in 2026",
       "score": -0.2
+    },
+    {
+      "source": "youtube",
+      "title": "Bro what about ragging , and how south Indians are treated ? , please make video 🥹",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

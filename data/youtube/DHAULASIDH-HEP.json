@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T19:23:49.460Z",
+  "updated_at": "2026-08-28T02:24:55.091Z",
   "project_id": "DHAULASIDH-HEP",
   "query": "\"Dhaulasidh Hydroelectric Project\" Himachal",
   "counts": {
@@ -17,6 +17,15 @@
       "comments": []
     },
     {
+      "videoId": "WG_D386AOn4",
+      "title": "ब्यास नदी पर 66 मेगावाट की धौलासिद्ध जल विद्युत परियोजना जोरो पर निर्माण कार्य",
+      "channel": "Punjab Kesari Himachal Pradesh",
+      "published_at": "2024-07-12T09:49:25Z",
+      "description": "ब्यास नदी पर 66 मेगावाट की धौलासिद्ध जल विद्युत परियोजना जोरो पर ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
       "videoId": "iB0CK9MRU6A",
       "title": "Dhaulasidh hydroelectric project-near completion on river Bias hp",
       "channel": "JR Choudhary channel ",
@@ -25,18 +34,18 @@
       "comment_count": 3,
       "comments": [
         {
-          "comment_id": "UgzcecyE0TE4DWWsP1N4AaABAg",
-          "author": "@jrchoudhary2852",
-          "text": "❤",
-          "like_count": 0,
-          "published_at": "2026-08-06T07:06:52Z"
-        },
-        {
           "comment_id": "UgzXPMBJpGI9bWwWkXN4AaABAg",
           "author": "@arushi6876",
           "text": "👍🏻👍🏻👍🏻",
           "like_count": 0,
           "published_at": "2026-08-06T13:03:28Z"
+        },
+        {
+          "comment_id": "UgzcecyE0TE4DWWsP1N4AaABAg",
+          "author": "@jrchoudhary2852",
+          "text": "❤",
+          "like_count": 0,
+          "published_at": "2026-08-06T07:06:52Z"
         },
         {
           "comment_id": "UgzFZMlqzImDjpVcSe94AaABAg",
@@ -46,15 +55,6 @@
           "published_at": "2026-08-06T08:16:34Z"
         }
       ]
-    },
-    {
-      "videoId": "WG_D386AOn4",
-      "title": "ब्यास नदी पर 66 मेगावाट की धौलासिद्ध जल विद्युत परियोजना जोरो पर निर्माण कार्य",
-      "channel": "Punjab Kesari Himachal Pradesh",
-      "published_at": "2024-07-12T09:49:25Z",
-      "description": "ब्यास नदी पर 66 मेगावाट की धौलासिद्ध जल विद्युत परियोजना जोरो पर ...",
-      "comment_count": 0,
-      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

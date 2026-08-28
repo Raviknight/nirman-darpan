@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-24T19:24:21.903Z",
+  "updated_at": "2026-08-28T02:25:13.973Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
-    "positive": 13,
-    "neutral": 7,
+    "positive": 10,
+    "neutral": 10,
     "concern": 0,
-    "avg_score": 0.245,
-    "avg_magnitude": 0.27
+    "avg_score": 0.18,
+    "avg_magnitude": 0.205
   },
   "youtube": {
     "n": 18,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 38,
-    "positive": 27,
-    "neutral": 10,
+    "positive": 24,
+    "neutral": 13,
     "concern": 1,
-    "avg_score": 0.289,
-    "avg_magnitude": 0.445
+    "avg_score": 0.255,
+    "avg_magnitude": 0.411
   },
   "top_positive": [
     {
