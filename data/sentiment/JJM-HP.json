@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-28T02:25:13.974Z",
+  "updated_at": "2026-08-31T23:05:58.937Z",
   "project_id": "JJM-HP",
   "press": {
     "n": 4,
-    "positive": 2,
-    "neutral": 2,
+    "positive": 1,
+    "neutral": 3,
     "concern": 0,
-    "avg_score": 0.25,
-    "avg_magnitude": 0.25
+    "avg_score": 0.2,
+    "avg_magnitude": 0.2
   },
   "youtube": {
-    "n": 38,
-    "positive": 12,
-    "neutral": 15,
-    "concern": 11,
-    "avg_score": -0.011,
-    "avg_magnitude": 0.326
+    "n": 27,
+    "positive": 9,
+    "neutral": 11,
+    "concern": 7,
+    "avg_score": 0.063,
+    "avg_magnitude": 0.352
   },
   "overall": {
-    "n": 42,
-    "positive": 14,
-    "neutral": 17,
-    "concern": 11,
-    "avg_score": 0.014,
-    "avg_magnitude": 0.319
+    "n": 31,
+    "positive": 10,
+    "neutral": 14,
+    "concern": 7,
+    "avg_score": 0.081,
+    "avg_magnitude": 0.332
   },
   "top_positive": [
     {
@@ -38,25 +38,25 @@
     },
     {
       "source": "youtube",
-      "title": "भाई एक घर के लिए कितना मीटर पाइप मिलता है।",
-      "score": 0.7
+      "title": "Great initiative by himachal 👍",
+      "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Wrong",
-      "score": -0.8
-    },
-    {
-      "source": "youtube",
-      "title": "Depth not proper",
-      "score": -0.8
-    },
-    {
-      "source": "youtube",
       "title": "Sir new connection  open  karne par open nahi ho raha",
       "score": -0.8
+    },
+    {
+      "source": "youtube",
+      "title": "Connection band marane hetu kya kar sakte hai Or kha jma karna h",
+      "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "Bhai send feedback bala option nahi aa rah hai",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T02:24:47.097Z",
+  "updated_at": "2026-08-31T23:05:23.573Z",
   "project_id": "LUHRI-1",
   "query": "\"Luhri Stage-I Hydroelectric Project\" Himachal",
   "counts": {
@@ -23,6 +23,15 @@
           "published_at": "2024-09-18T10:59:14Z"
         }
       ]
+    },
+    {
+      "videoId": "y9mMnyvQaLc",
+      "title": "Luhri Hydroelectric Power Project    Stage-1 210MW                         #himachalpradesh#projects",
+      "channel": "pahadi_ Psy",
+      "published_at": "2024-05-21T18:41:47Z",
+      "description": "The Luhri Stage-I hydroelectric project is a 210MW run-of-the-river hydropower project being developed by Satluj Jal Vidyut ...",
+      "comment_count": 0,
+      "comments": []
     },
     {
       "videoId": "npui1phD__I",
@@ -54,15 +63,6 @@
           "published_at": "2021-09-11T15:33:22Z"
         }
       ]
-    },
-    {
-      "videoId": "y9mMnyvQaLc",
-      "title": "Luhri Hydroelectric Power Project    Stage-1 210MW                         #himachalpradesh#projects",
-      "channel": "pahadi_ Psy",
-      "published_at": "2024-05-21T18:41:47Z",
-      "description": "The Luhri Stage-I hydroelectric project is a 210MW run-of-the-river hydropower project being developed by Satluj Jal Vidyut ...",
-      "comment_count": 0,
-      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

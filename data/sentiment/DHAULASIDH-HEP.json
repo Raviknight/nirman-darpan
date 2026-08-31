@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-28T02:25:14.331Z",
+  "updated_at": "2026-08-31T23:06:02.586Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
     "n": 20,
     "positive": 5,
-    "neutral": 15,
-    "concern": 0,
-    "avg_score": 0.09,
-    "avg_magnitude": 0.1
+    "neutral": 14,
+    "concern": 1,
+    "avg_score": 0.095,
+    "avg_magnitude": 0.135
   },
   "youtube": {
     "n": 2,
@@ -20,30 +20,38 @@
   "overall": {
     "n": 22,
     "positive": 7,
-    "neutral": 15,
-    "concern": 0,
-    "avg_score": 0.118,
-    "avg_magnitude": 0.127
+    "neutral": 14,
+    "concern": 1,
+    "avg_score": 0.123,
+    "avg_magnitude": 0.159
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "Dhaulasiddha project: धौलासिद्ध प्रोजेक्ट के निर्माण से हिमाचल सरकार को 125 करोड़ का होगा नुकसान - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWhqcXplVGxuSmVJalBQMVVJVVRGazE0QXhnOVlGMVdrVzlBQ2gzLUVCZ2FDT3oyN1ZmVm9rT1dMYUNrOEkzT3k5UXY4S3hjNW5Rb2MyZE5ReFUxeVFIMkhxNjgxVTlKaGQ5VkRCSUd3Y2N4dXpIMjI1UTN1UXg1S294bkEzZjZ6S3FFTWs5SE1na0hvalhybDczUmFjZmpOX2hFM0hUbUlRMkNTYjJrVEcyYy1pMjA3Yl9JdUExNnJQTS1fWUHSAcsBQVVfeXFMTjRrcUxhRXhnM3NtTmY5QVBRM1lLeWl4aE4wWVVtdV9UZVpvZ29IQ1hYbUhVMk9ha1ZDTkN4aTFBck9rbkxLVW5PTm1YR0pvRXdjZ3ZEaVlaUjkwcVpVc1BQM0MyMzRkb0t6dlZ1Z0dib0NCbWZReG1xeS00Z2pzVkdYSkphTk1VRm0zd01KUUZHaktXcHpjMjBUb0dzZ0RWS285bDZteHNRR3cxV2VZX2hyMnNDZnlIWnN5bjI4SFQ2aXE4MjB1RmJVeWs?oc=5",
-      "score": 0.4
+      "title": "झांसी में हुई दुल्हन की बैलगाड़ी से विदाई: परंपरा निभाने निकले इंजीनियर दूल्हे की अनोखी पहल\" - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRWxBX2Q2aFlLTGR1UDEzTEZ2aGhhTHRfd1BIbC1wREsxRzBKdkhWYW1lenpaZzR0QlVrcEFienFyeW45X1dxUmxOZ1hyNXY2MU5ScVlPV2ZwbDVRcDZEU1FLeDFyaUhNR09DdmphbFhub1pyXzJvY0JuNmdfRDJiSFR6NTRabWgxbmF5R0x0V1BXVHRwMS00dkVNRU4yWkRQWERkSTdUdTRZc0hiQkZzaUtRQ1c3SnptUVNQSkVRZjQwNHlmZW9FUk9pa3JEdmMzUEdWMUNwRmZ6YW1xMGpHQmd1b2tLRE1jS2pkcDdqTDI1TVZmcjhCRVZzY9IBgAJBVV95cUxNSlZrTFc3VThCUlVBenN0OUpGTjV4VGtqUmpjejFDZGtnMWlXdU5aU1Awbmp0SVRjcjI5U09UWnRxSDhpUnRvVVREWmsyYVF6VkthbkpqcTFCZUNYcG5heHlGeEJ3Q29jWmpIZkNzcTB1VWFYaGhBRUhQbDFVN1hoektuYjZ4dnYxT1o0aE1neWp2Nm4teE9NOGI0RElEOWVMVjktLXdaaGR0MmZHTzFrRENjaTZTeHBKU1VYdFppUUVQN3FvRmFFT1RDVTc1SU1mVm1sMnU3RTJfdmFKN3Fjak1WZE1yMWJfSHZLTU96aU9tajBLbnM1MjV5VFUyTHZk?oc=5",
+      "score": 0.6
     },
     {
-      "source": "youtube",
-      "title": "👍🏻👍🏻👍🏻",
-      "score": 0.4
+      "source": "press",
+      "title": "Abhishek Rana PC in Hamirpur: धौलासिद्ध प्रोजेक्ट में प्रभावितों को नहीं मिल रहा रोजगार, बेधड़क तरीके से हो रहा अवैध खननः अभिषेक राणा - etvbharat.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb0xrN1BGQ09DRkhTRDNObkVCeVp3MHpsblFwUGdXeVRUbnp0X1d6MGo1QmFOYXR4WGZKb3NTTFYwU2k5b3hEX3JiV1AzYm56a0N6dWQ3ZENhUHFfZlVIOFp1QTVHLTdRWTRGSlk0UW01dDM1SjEyTDd5Skw4UHZqQ3NnOHg4MWpWTGpFX3oyTmpFdXdkZVRRc25odjBZSkFfTEVxZnR5cG9zQktqdGJaSURaX09HYU9IenV0clo2Q0s4QWxZUnRFS28wQk02QknSAdQBQVVfeXFMTURUNU9qRENJWUU2aVNrTUJkZGVzU3JIVUJDQ09kcktuNjlySDBDUnY1aTdUWkdiY2hkQUVCaER2RDhSR012dUdDX2RDRXlESm9UWUd2ZV90VXkwa1FSbk10OG5HZjBMQ21BWmFDOFE1TFlzbzR3RUIyeXgtVDJjRzllVkotLWdENUpTUEdUdVBjbUpvX29NU1BiRjluVUJYVWtCNEd6aUtDMFRNa2w4bHgxN1c3V0NJSjV1Z1Bob1JCajREV0Y0cjBOVFFwd01MNzBacDE?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "👍🏻👍🏻👌🏻👌🏻",
+      "source": "press",
+      "title": "शिमला ने SJVN धौलासिद्ध को हराया: झाखड़ी में 2 दिवसीय क्रिकेट प्रतियोगिता, 6 टीमों के 90 खिलाड़ी ले रहे भाग - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3RULUNEMVRNQXJyN0RWeTlZcmhXMDFwZHJocUdmOU9EOFVpQV95RWFfVHJpaUsyZE9qQlFsVl91eldBNlQ0M0xiU05zY0VSQjJRUXBYTW9WTWx6em5JZ1IwdHhmOFlCSjF2aG9LWDBOTUV3ZEpSZkloV3pqRkxHanI1QnZRdV94dXQyU2ZLWi1CenRXakpGa2Rqa1FKbmstYl9YcGVUTFFwUlVJdHA4dXJVWk9mdUVuSmcyQXoyWngxNVhOSG96MdIBzgFBVV95cUxNOWZydWdCUFZtbGxCeU9QeVF4enEydVBIZmxWd1I1b19yN2tHZUtmVTZBN3laMS03d29sYXVLYWk1X3RIUEZOMUpjdF80dzJyMHR2M1RFNW9lUk04X0djaERyWDlkbzJhQkM5ZXVvVUpZSDBJNkF3eEx1dWZ0QThRUmtBbGUydFBYZjlZTFR2MmNFMHhMemMtcWxrbEJQajF3Tl9aRmZvbHRzZW5manYySUtZSDNWZmhZcktaRVlUNXdFTXNvWWFHVVoxZ3hkdw?oc=5",
       "score": 0.4
     }
   ],
   "top_concern": [
+    {
+      "source": "press",
+      "title": "Himachal Pradesh: Two workers feared drowned near Dhaulasidh hydel project dam | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMElWTmJTOUVhQVhBd0VUWDlzVjl0Tk5HWmF4MDdTdUo1Ri1nSGxjeVlGc0xEbTFlZFFLT2puT09BWWMtRUwtU0YyYmFpN2VFYlpibk1SZ0gybE9XOTlNNEVMU1cyRndlalhfLTFfTXAyTG1iSkFrc3lEQ0VrdjR0WElYdHJoelJtcjNReHI1N3pKZUFaMEY0U2tfMG5yMnd5Y19xbnhSVkFkYWpPZGZ1M1RCOExYN0laY3p1YXA2eU9XVnZ4Um0zUlNMLUY1LTNwY0FtaUU0QVZMenZsNFZuSWEtWVpoaDDSAewBQVVfeXFMT1B6cm1zYmpqRHQxUHRkUUZUWXRXT0hqSjdjR0lvc1NCSHZYZlktU0hQNWJtSklocVRMdlowVnJyRWhERE9qbzU1RUFPck8xMHhReU52WHNaVDZjaVdDanBoeG5fbE5mSWp0a01tZ3EzYXppV1FIRG9jX0VyUWptSTFfS3NRNG1sYUQ1RVBmQzFWY0JSMEFpRFlXZl9vSE81RXNhUGw2S3JHR0pubEJKNVdTc1BWTnFzdUdjOXFwYkpMSFVZVkdhUm91NGh2MVV0SlJxc0c1bkUzcng0QTlGV1BqVWhjT1M2bW1aNWw?oc=5",
+      "score": -0.3
+    },
     {
       "source": "press",
       "title": "SJVN signs loan agreement of Rs 494 cr for 66 MW Dhaulasidh HEP - PSU Watch",
@@ -54,12 +62,6 @@
       "source": "press",
       "title": "SJVN ties up funds for 66-MW hydropower project in Himachal Pradesh - ET EnergyWorld",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORFJaTUNIaDhHb3VwaWsxQVBMNVJLX1N4QkUycHBvVFlSV194b3dtUGNsY3BhdHNaMHVTWkhYczdESTBHQUV4cm1ieW96U3JUdnJLQ1RjcGFmRW4tYlRZWDhvdml6SDlCOWp1dVRtLUpPWG9sSFplcjQ4OEkzbVRYRTUxM1BSeGx2elBiYzVUU3RseHMtcHg3QkRvUjFIV3l3V1YzcWpKX3J0N1kxQWJBemJZUTh5NFdoQ2N1WjZKSkdmQlFUbUVIUXk0dVZqYmZv0gHWAUFVX3lxTE5zVldzQXZCTVRwdzQyQXZnYnhuY1E4SmFDM0xMdEY1endxOGk4cGlvemhsLWVGM21NSXdfUkpVTkxoS3ZqNE5jdFk3ZllNcEJCV090VnktMEpjQm5KVjBDU2NsUkRfOTZoOEdmMS1rZXlhYUFneFhYaWlBTXJEaTRvOG9FNVo2SzJndTYxckpuNUJNZzBZLXhId3l1OE9uWUw4Y0NIZjFXOU8zYlN5M2F0b2JxVk5DdW1IZnpNVjVkcUhmZ1JHZnp5TnZzc3Z1Mnh5aExlRXc?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "SJVN CMD inaugurates upstream Coffer Dam of Dhaulasidh project - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVJmTUt3QjRpMjZLaWRqWE5FaTdkVnFva0lCb05nZkZoZ05fX19yWW1DcXA0UWdYLTJLcU54YnprZVJzWHZpTXRNbGpVODNzd0dWaVh3YklDYXp5Y2Z4QUlFc0x6OThleUJmbE5sclR3YUNydFlLc0NzLUd6TTk5VWVPYVdIU2FKb3pzcGxjRkI0T0VYa1F5TkR30gGnAUFVX3lxTE55Sjd1cW9hR0lwbXE4dTZsMkMxZXJCSU1TLWtRWHQxYml2Qmpsb18wY0FEb3llV1I1Y1UzMTNxbE9QbjYxRDJ4a3hfVWxzTlNVbENtT3pOZzBjOWVwRV9EeDJRR1VZa0lGQlZ1ZURkT3A0N1FlUU9Falp3cFlnLTF6RkRIQzMzVjlFRkM3dW41UUtHTVNUOGNreURSdnZ5Ync1N2p1VjRz?oc=5",
       "score": 0
     }
   ],

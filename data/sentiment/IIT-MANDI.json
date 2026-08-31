@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-28T02:25:13.973Z",
+  "updated_at": "2026-08-31T23:05:58.934Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
     "positive": 10,
     "neutral": 10,
     "concern": 0,
-    "avg_score": 0.18,
-    "avg_magnitude": 0.205
+    "avg_score": 0.215,
+    "avg_magnitude": 0.24
   },
   "youtube": {
-    "n": 18,
-    "positive": 14,
+    "n": 20,
+    "positive": 15,
     "neutral": 3,
-    "concern": 1,
-    "avg_score": 0.339,
-    "avg_magnitude": 0.639
+    "concern": 2,
+    "avg_score": 0.305,
+    "avg_magnitude": 0.735
   },
   "overall": {
-    "n": 38,
-    "positive": 24,
+    "n": 40,
+    "positive": 25,
     "neutral": 13,
-    "concern": 1,
-    "avg_score": 0.255,
-    "avg_magnitude": 0.411
+    "concern": 2,
+    "avg_score": 0.26,
+    "avg_magnitude": 0.488
   },
   "top_positive": [
     {
@@ -38,9 +38,9 @@
     },
     {
       "source": "press",
-      "title": "आईआईटी मंडी में रामगढ़ के अभिजीत का कमाल, बेस्ट कैपस्टोन प्रोजेक्ट पुरस्कार से हुए सम्मानित - Hindustan",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObnh2UmFza2J4d3N4aXhoWWZycTBaS3V2WFhZR3VGRTVyY3hPNnZoTjNsLS0zUEs0WU9FcGVkRUoyMkxWSFVza0xXS3FvODNGaXpMRHdvaW81OUJJbThoWUhuUlRQVkJOdlNSTUtUQXR1QVU2QTVoZng2QXloOWJzU1dsYS1kSi1NUWtOcGw5MEZpSklWNnk4cGd0RTNwZlRScWhIaElNc2t5TG16XzVsU3hmZlowTm15SjY5YTNUaURyWExBdEk5OFN4NDZlZl9hb3k3N1czaS1ZMVFCSDVV0gHkAUFVX3lxTE5Uek5ScTc4cDk0WGU4M29mQ2hqNFFFdFJMVlZadTRsNnlKbDIwWExQbGhkaHZfa3I1eC1pRjQydlo1UVhXc3FSZU9PWkFSRVpQNEhiX0pzZ3FmN0hoaVdjVzBVQ1cxZWxXamJwNnRpekw4ZzM5SzFiTXVqSGJvaGQ2YnNNeUV2QnZiQ0k2T3JWQXVMMnN0OWNoamlqcUNNZjJZZTZVUVcyRUtNaFV4aWhnUGJmaGhCYkNocVZKUjVwN0RrcWRzSnNmcVl2MHcyTGFnVmJnZ2c4WGRrNmJsdENIamhSdA?oc=5",
-      "score": 0.6
+      "title": "IIT-Mandi’s Palampur campus moves a step closer to reality | Tap to know more | Inshorts - Inshorts",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXhRMmNKdnljS205UDRDWnJXNExUbS1rUVg3SW9LQmlVUW5rZTNQbVhUS2ZmVVVQZU4zNldjNXR0WUh2XzVqeDVGalRDLVc0dGgyRmZRLVd1bWw2czlSeFFxdEJ0WmdqNmlFUGVUdzBsc0NZWWVodFQyek9RdGdxcFNOZnJFX1dScE1kMFBsd1JhdzJkUUxWWkhDNkxrdGlKZ1ZRaV9CaWXSAagBQVVfeXFMT214UTJjSnZ5Y0ttOVA0Q1pyVzRMVG0ta1FYN0lvS0JpVVFua2UzUG1YVEtmZlVVUGVOMzZXYzV0dFlIdl81ang1RmpUQy1XNHRoMkZmUS1XdW1sNnM5UnhRcXRCdFpnajZpRVBlVHcwbHNDWVllaHRUMnpPUXRncXBTTmZyRV9XUnBNZDBQbHdSYXcyZFFMVlpIQzZMa3RpSmdWUWlfQmll?oc=5",
+      "score": 0.7
     }
   ],
   "top_concern": [
@@ -51,13 +51,12 @@
     },
     {
       "source": "youtube",
-      "title": "Bro what about landslide",
-      "score": -0.1
+      "title": "exactly DO NOT  go for masters interview physically\n\nthey will later conduct online for people who didnt go there for ph",
+      "score": -0.4
     },
     {
-      "source": "press",
-      "title": "SKUAST-K flags off 1st batch of BTech Artificial Intelligence students to IIT Mandi - Greater Kashmir",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZnFDclpVSmVlRFdqR0dHUGhST01lV0taTTFSODY1MUVSSi1yV1dxNTI3YzBURkJOcWJ1b3JNUUY5U2oxTHh1ZnBrdUtsTFB0UVg5SEhzbDFMQ3A5LV9kN3ZhWUZhMWN0akZSR2E3WGFVRVdRajAtWlFZTHBTWE1na3kzMHlRSWZsQ014M3U2MWw2dU5UNk1vZEluMlVfMUpHV2s2ZEVSazhnMHRoUWlNTW9HaDdPWWhfNW5nU25pNjdWRXU0bkZISWlrdHDSAdIBQVVfeXFMTlJsVFNIdkFxVHJjci13a0tDQ0swWDRhRU1QR01SWnA0UHQ1N2NzSUc0OXlpNG9sQnd2VmFnckZtX090YUpiWWM5Skw2dF9JVVBVT2UwNnJ1S2s4Ym1Eb0FXRVplNjZ1VlVuaGZTQ0tTdmU2NWhDbWtaYWhqOEVJM2lfMW9UNDNwQWd0Y1hpaUtDNmFUM1RuX2ptNVBZeGhsU1lRSi1VbDNORENpV0RmYXJEdU9LbzF1UVdhWDBXdWowSzRmYmU5NTNsV0hHek9ZMmNR?oc=5",
+      "source": "youtube",
+      "title": "Bro what about landslide",
       "score": -0.1
     }
   ],

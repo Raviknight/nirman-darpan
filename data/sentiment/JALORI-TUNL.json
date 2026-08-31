@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-08-28T02:25:15.096Z",
+  "updated_at": "2026-08-31T23:06:04.664Z",
   "project_id": "JALORI-TUNL",
   "press": {
     "n": 20,
     "positive": 12,
     "neutral": 6,
     "concern": 2,
-    "avg_score": 0.155,
-    "avg_magnitude": 0.29
+    "avg_score": 0.17,
+    "avg_magnitude": 0.305
   },
   "youtube": {
-    "n": 1,
-    "positive": 1,
+    "n": 0,
+    "positive": 0,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0.9,
-    "avg_magnitude": 0.9
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 21,
-    "positive": 13,
+    "n": 20,
+    "positive": 12,
     "neutral": 6,
     "concern": 2,
-    "avg_score": 0.19,
-    "avg_magnitude": 0.319
+    "avg_score": 0.17,
+    "avg_magnitude": 0.305
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "nice",
-      "score": 0.9
-    },
     {
       "source": "press",
       "title": "Jalori Tunnel : डीपीआर की आपत्तियां दूर, अब केंद्र की हां का इंतजार, टनल बनने से आसान होगी पहाड़ की राह - Divya Himachal",
@@ -41,6 +36,12 @@
       "source": "press",
       "title": "Jalori Tunnel : जलोड़ी टनल से खुलेगा विकास का रास्ता, केंद्र ने मंजूर किए 1452 करोड़ - Divya Himachal",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTzI4aWh5WlVqc2FkZHV3VWxiNkpKUjNKZzZpV21Oc0k3dG9KeFpiVkoydFNwdEdjMVBIOFlXSE52cHYyVW5SYkVpYmVrUWFFV0FjV3MxUFZldng1Q21WNUpreHlQU2c3U3BaTGpEQVkzVW9RRGhqUXdnUWw0XzNGZm5JUFI2bWhRRDNEbHJ0Z3h1SDJlR1pXWXFvWDl5aDVMQnRNeEZ0cVJoeDU3LTZpMGVMYjIxOE9DX0Vxb1l1QUdubWJVMW83aDAxbGfSAdIBQVVfeXFMTjBaajhDTkhkbVVoc1RCT2hjc3dsTFBLNXd1alRTWUdwZXJBSzA2Y3I0WTBJYUZXQnF0b1g4ejFZY2x2OERhSXBKaDZsd1ZRTmRWWjRDVDV0UVZhUkxZMkYyRW9zd3FhNDNpRWF3R3JxRDk3WUZHc0VPN21YSzJXV1E4ZkdPNmRYMGNKaVFTMWUwOWtTbDRwMmFBOGJvQ3c2Tko0V3Q0TWFiRjg0SHlSZTJKcWlFNEtmN0w3MUhnZWs3a0JhamkxWEItWkxyYUNNN3NR?oc=5",
+      "score": 0.6
+    },
+    {
+      "source": "press",
+      "title": "जलोड़ी सुरंग की अलाइनमेंट को मिली स्वीकृति, इतने किलोमीटर होगी लंबाई - etvbharat.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEVEbHhPQ0hXQXBEMWU2aEgtcDNhcU5qQ29FM3lLUlJBVloxYXJsaXBQUmljTW53aW44Tk1ELUZfTDR0MHpXQ2RRS2ZjT2lJZzFBYnFpMWZuWVRWbWk4U2w0ZVdiZ2xjdFRPcFUwa1BoVFNmY0tERnc4RE1wZjlIODI4LWFBM3JGc1F1THgyTDNCRHVBLThOaFBBTEtDZnk2enByeGFFbFMydUhRclpjb3NMY9IBuAFBVV95cUxQbkprN3dUNkM0cTViMUpYMnMzMFNGdTZIWGYyTW5YVGNZOG1rY0RZaFlWSExaa1ZuTTlSVy1lSDhwTUVNNzBGVTFEY2FfbWdzb3EtdUJrdEJrTEFjS09mcFVidzVWck9WbUE1ZGx2MlhPS0tMNXE0VEdLdmxBVzJhdm00TlI1WDBjVFprU3pDS2oyQlN6TmtUSlhYVU9XaHRoSWlfQV84MFFZMS10YVJzR1dQTkFwRW9p?oc=5",
       "score": 0.6
     }
   ],

@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-08-28T02:23:29.154Z",
+  "updated_at": "2026-08-31T23:04:14.722Z",
   "project_id": "NH5-PWN-SHL",
   "counts": {
-    "press": 21,
+    "press": 22,
     "gov": 0,
     "en": 11,
-    "hi": 10,
-    "total": 21
+    "hi": 11,
+    "total": 22
   },
   "mentions": [
+    {
+      "title": "हिमाचल प्रदेश: सोलन में शमलेच के पास सड़क पर मिला अज्ञात शव, हादसा या हत्या? पुलिस जांच में जुटी - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHhaeUk4TFBOc01vdE51c0syNC00T19COWthUnpRSHZwRUY5U2ZUV2pUQ25EdzIyTmFvcDFhalJBT1BldHlveVFLLTkxMGhGdUdLZ1hYZy1NUGRDcE1yT0pQeHVEYS1jWnNKbnh3RUdYb3ZzeEhFcGhpMVpuYXE3V3BKNy1rRHBZaWh1OFJTSWlKV3I0c0Mwc29XVXJEdFp1bFphSWo0cWZMWGJxd2lvWmxHTmNhalQy0gG_AUFVX3lxTE9Cay1ZbEswV1ZHU0RzTE8yOUo4RmFNWmlPd2dEWGxmcm44MHNENkNobG1sSTlxYWhoQmJSQ25OWExwcGdoa1FudmJNX2J3UmNNOHpGUzFPUk1hUi15cGJmRzFLRWNxQUtRM001cXVTaVNLVVRuVzhDUEFiTFoyVHBHYjV4alVFUVE0eFJtU2l5Tm90ZWxITUZBek1oQ1NlVnlzLTJNbUJDSlVzeUJfZUlXWFNOODZtNk9OMjZGWTl3?oc=5",
+      "date": "2026-08-31T07:57:55.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parwanoo Shimla NH-5"
+    },
     {
       "title": "अटकलों पर विराम! वंदे भारत में नहीं बदलेगी कालका-दिल्ली शताब्दी ट्रेन - Khabargaon",
       "source": "Khabargaon",
@@ -17,6 +27,26 @@
       "date": "2026-08-14T12:11:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Kaithlighat Dhalli"
+    },
+    {
+      "title": "यात्री कृपया ध्यान दें: दिल्ली मंडल में कई ट्रेनें आज की जाएंगी डायवर्ट, पावर और ट्रैफिक ब्लॉक के चलते फैसला - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWJnSFhiVXRyM01VUUE3WFhQRGZXekpNN2pGQjNzeE1tQ3N6LWdhVlZFTFdfY0M3SnQ2Umhlc1Jlem10TVdEdHAydUVuNjVhbVM3ZlRabzE0cndLNVUtTkJaNDFXMWVBWE9fb2pNLWxmYXZGUzI4SlZmeVRaSXVBN2xWZ2pZQUc1NGxCYTB2V3ZwUE5KemFMRlMtT3J4d1RGOGxBUTg2a0hxenJXaEwzcWFka2txQWVLR29qeVRPaHpKdnkxVUQ2SjVHRGw0YmhqQm1lRURWUzYtNEczYzhVM2diMHpMRVZW0gHuAUFVX3lxTE9EV2thZVBXdlQ5bUFLTThBN05BM1YtNnJ6cjVmcnd2eE1zX0EtWGs4MFMyMzFZbEx0ai05MDRrTVM3Z0ZsX1loMTNoWF84Mlc2UGVmNmtKRm1wa3NhOG1MTmc2Wk9ESnNiWXJtUmJmZUFFYXVMVlczYVB4LWQ0cWZRWk9TNDBNZ3VDeGxDZjVTYVM2RkJxWl9wLXBxVWxFME40cFBINDhnMGJyTVo2M0QyU0w0azhDamI0bGhwUlBpVHlCVDAxSmY1TFVTRnFyZUhid0VreUFrZTMzdDZQdy02SG9hdmh6Z3Z2YjRkWUE?oc=5",
+      "date": "2026-05-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kaithlighat Dhalli"
+    },
+    {
+      "title": "Landslide at Shimla in 2025 an 'act of god', NHAI tells NGT, rejecting compensation claim - The New Indian Express",
+      "source": "The New Indian Express",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHo2bDBRdUc1MnV6NkNxZ0JnOVBfX2hvYTFOUlVRa1pGVmlfM3NmYUF4UFlsaUIxbmRId3AwcDlqLUtPZWtteWQ4dUcwaG5UdS00TGU4UW1SbXlycEJYbm5DNHdJQjJKb0FiWEpXSWxLdHN2emNzTFp2dXpYaFdFdVJhWWpvcmt6dTZxNXVyd3VKXzNLZ2pGS2JWOUtpM2Q5LU1jeGpkTzktaUh3TTRXUXNWbVVIMU9uaGtQTWNwT3RVbV9IQjFSUXFuQmY0dWFKZGfSAd8BQVVfeXFMTmd2c0NHT2YyRFl0bHFuRUZXeU5rRGtBdzQ2cDBqeGVZWnBLaEF1V0ZhS0hOdFBPaG12NmVJdlJjeDMza20yOEN5dG91QUpBV19jcWxaOFZjTHpJeDR3U2ZhM29IRlpIcHV6SHMtUjc3UVl0LXA4MmgxZXlpcXhxeUZfemhlVHlyYlFyd05IN2ZxbjVVZUpURFNOZ21FSGQxbV9qMkRYM0F5T3lFQXEwcUo4SGxIeXZXRjNiYXE0Mi1KSTlZaTJoSjVmWGZzLTR1NGVZNVEzUG5RYjFRb2FRVQ?oc=5",
+      "date": "2026-05-22T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Kaithlighat Dhalli"
     },
     {
@@ -30,16 +60,6 @@
       "match": "Kaithlighat Dhalli"
     },
     {
-      "title": "Ambala News: कालका-दिल्ली एक्सप्रेस में मोबाइल फोन चोरी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWExES1lGRHU0SGJfUmZrelZwVDhOb2VpWmF5ZFVfb2NjdERXSm15OVRwN1BUamVTQjZ2VnlrTUtmc0ZIUjRYcHhzal81Yzg1cmx4c29oVTJGVzdEWk04OU55STExbUI4ZDdwa3pwMGtDdDNNb3ZUNzZ5dEN1eG1Vc1EtXzdkZ3drUzBCY3h5cUZ6Sk5IYWpkRkdlcmtYNVFPTnVVOGx6blRBUWphODZpc3JqcHp4Q2R0QXhKZWw3WUdEcjA4MEhsSnR30gHPAUFVX3lxTFBhOVFwVE5tQ0VtY1NMZEQwWXlZMWhoSUJPeTZ2VmtIdTczLTFpZTY5UE4tQU1sRkVITkhHZVJZZHkxc2ZnU2lTSTBfTVRyNVp1Y2tnVzY3M19meEpHZXVUWHBibWtrNy1JYVM0QWNXdGhnVGZ4SkwxS25yeVVzWVBvNEZVVC1pYjVBV2ZNNG1pTG9rSExuNkxfUkp2azRvLVZZeWVueUtMUXcyaDV1SVoyRlBSUFRQN3N1RlU2dWc1bXRfejZaeU9uQkVfN3V5dw?oc=5",
-      "date": "2026-04-04T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kaithlighat Dhalli"
-    },
-    {
       "title": "On Geological Survey of India team’s advice, Shimla administration lifts ban on Kaithlighat-Dhalli road work - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -50,23 +70,13 @@
       "match": "Kaithlighat Dhalli"
     },
     {
-      "title": "टाइम से पहले दौड़ पड़ी शताब्दी एक्सप्रेस, प्लेटफॉर्म पर धड़ाधड़ गिरे यात्री, मच गई चीख-पुकार - ETV Bharat",
-      "source": "ETV Bharat",
+      "title": "टाइम से पहले दौड़ पड़ी शताब्दी एक्सप्रेस, प्लेटफॉर्म पर धड़ाधड़ गिरे यात्री, मच गई चीख-पुकार - etvbharat.com",
+      "source": "etvbharat.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUlMyV0tkQllKWHFfaC1uTUdpMlpiNFpmcjV1RlIzNEJlWUgyTm1uc0hVaFViZnNxdTg2aGwxelVseGhOeUtQajg3c0dZMEJxdEdvWTZnUzR4TDhHM3RRR1lGbm94WmJBc295YXNVWG1OR3Y1bUFvcG9CRU9YWkNGV1hxZzk0RzFyZjN3dkNoNENBVzBBemNhYUJNWElDLXhrdnNDVURWX1JwMW5SamVobl94b0JHRlR6U0R2cFZDX09JM1ZfVFdyU0dfcjZmTHdZOHR2Z0h1bFVTeEVDVGpNdWI0S0ZUelI3dWtkTlVsYjlobEozN1J5eEhpVkhhd9IBgwJBVV95cUxNMlRHZnZxb2pqX0xHMUl5SzV2aWMzZm9ELWhjQjFlYjYyN1VMZzhaUDBkbUFpbG1UaWJxX3FuSnhvN2t3YkwyQWNXVkZiUDAyUlZqdnhybFBnUkszRzhySDlzd3Bjc0txSmxFS2JpQld0Q3VBaEFsakNfOWdOTlp2OF95eDdCNEpNYjI0OGdYUGdoN2pSR3dCc1lyMzNXeV9ZazNKS0c1RXdCY3ZDN3Z0c0xsbDlxUGNNTkNuYWYtLXlvb0RUS1JWc21yRkE2djh2a1p2QmFrU2NEajJqNk11SjRsU0FueVo3cEZJMUM3bkthOVE5X0ZVZHdyRHg5OC1tdHJn?oc=5",
       "date": "2026-01-04T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Kaithlighat Dhalli"
-    },
-    {
-      "title": "Firm engaged in Kaithlighat-Dhalli road widening work booked for negligence - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3pkbnpZRWlFN1BwUDI4WER0Yk9TeGkzSlRqN2U3Z01maDhKelNvSGZ0UWZCWGNrdDVGOXF2UGFUaDZrUkdOb1JCTUQ1RHVfSlQ3OGdXdnJLQTNSOUU2ZE5IckpWMUpXd2RRMGhWMjRtV19sSU5XSEZBOXVRdWlQYWFOZnVmMmM4cGEtR01WUXVISXllbkZjb0FtdXlpMWxORGJsLWhlb0h5VE1JcEtrVHdzdXdLZnA1MnZj0gG_AUFVX3lxTFBXdVdmcEQ1TFFvM2lnbGp5MGN4VkVyTjN3WjlXcFNPb1AtN0VIYjdkaFhzaEx4ck1KcV9YbTBXV3VqUXcwSkVZTmM2ME8tZWtBUHZxNDZqWWtBQnIycnB6YmFVQUJtYk5VdWlodDUxRnlrU1lmT3BVdTVmTDIzSXZvZmJ3UUNsUTRCWFdYZmJ5TExTOFFRc0dyUWQyckNjeWtRSU4wQ0FhTzFSeElDeTMwMmZNNkJhWGNXaFN6UmhR?oc=5",
-      "date": "2025-11-24T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Kaithlighat Dhalli"
     },
     {
@@ -90,8 +100,8 @@
       "match": "Kaithlighat Dhalli"
     },
     {
-      "title": "पूर्व रेलवे की तरफ से आई बुरी खबर, बिहार जाने वाली कई ट्रेन कैंसिल, महाकुंभ जा रहे यात्री भी होंगे प्रभावित - Jansatta",
-      "source": "Jansatta",
+      "title": "पूर्व रेलवे की तरफ से आई बुरी खबर, बिहार जाने वाली कई ट्रेन कैंसिल, महाकुंभ जा रहे यात्री भी होंगे प्रभावित - jansatta.com",
+      "source": "jansatta.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVU4zel9yOG5Mc1NKcTAxejBiQ3psTTRwTlNVd3g2R0UxTzFRalpocmg4X3lISmQtT0s1Q0lPWUF6RDBjbUJfem5OQ3VlYTkyNVpsblB1eE9ITVZYRWxvdzI5ZmVBN1h1UldkM0ZIa0MxdW5JV1F6ZnpPYUlXMGRFUG5ZYkNic1BBUzZmQWtqMnUtWnZUQlNPTVNJU0dPdGp3eWdNa2c2X05iZzZwVVoxT3paYnhrczIzV0tDZFR3NzBqci1ZWUc0c2NaNFo4aXR2TkdnVXZzbHplakVCdWNVStIB5wFBVV95cUxPcDExbENNc0RHU1VzNEtBM3VybmY4QVF4bHpYQ2Fka0Y4OXN5dEYxRERMdWVHZE1raFBSMjZWbUF1SGdzOV9McnhJOEZPb0JIVl9EQWFCVFM5UzRxREJyV2otZGNkLTFtTzc1NzVUTmFodmdQcnNZRTV2Z1JiYVZPUF9hMmh5WWtvM2Z2Y2c2b0xobHRnUEdKU180RVZMVkYtQmhaUXhvQzYzMnRSMGpzMEwyeVZWYVJYQkQtVmRIQV9ka0xVMjNZSDJCU3FSTmMzYUFZTnZQaFJYeEwtT1p0Y19UN3BxSzA?oc=5",
       "date": "2025-02-19T08:00:00.000Z",
@@ -110,16 +120,6 @@
       "match": "Kaithlighat Dhalli"
     },
     {
-      "title": "Distance from Kaithlighat to Shimla to be reduced by 15 km: Officials - MillenniumPost",
-      "source": "MillenniumPost",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMnd0bVdWWllUOXh2UWl5X2JWNFdxTjd0VURmaWxFMnhVNWtLLVV5eGVpdmNuOU9JbjY3ZDZUZzhKaG9BZHNQR0lfSUhZdUNUQWx4UGN4UVdiWXNIcEVsZVE5cDRQU2RtWmtoZUU5UmF3a0hSdjFEVGQzWVo0QXVfczUwYkZ5MzNaTGZpWmVaOVp1NnRibjBHWjUxcmgzdHNZUnYxSTMtXzFLRFZZejMwNlpR0gG3AUFVX3lxTFAyVDA3enFUeWJucVRhdlpOd3ZkRkhpWk0wZm1RSGV0WDlUWXdrZHVnNFA4amxWYzhYM3FGbElNbHh4UVVLdGJpVFIyWEwxMlFpZHdlNDZuVVkwMEpPYVpta0lRTTVjSXN3UUxvUDBOc05yM0wxQmFOanZ3MklYNTN5VXVlME9UZ1hzX2xyb3hmWlFuMlVtT3ZZNUcxMUE1Um1sY0tocWN1eHVRV3ZDdTFDa1JDYUZHZw?oc=5",
-      "date": "2024-08-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kaithlighat Dhalli"
-    },
-    {
       "title": "Kaithlighat-Dhalli Four Lane: शिमला का सफर और होगा सुहाना, कुतुबमीनार से 3 गुना ऊंचा पिलर, 5000 पेड़ कटने स... - News18 Hindi",
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
@@ -130,24 +130,34 @@
       "match": "Kaithlighat Dhalli"
     },
     {
-      "title": "बालाघाट कलेक्टर ने 4 निजी स्कूलों पर ठोका 2-2 लाख जुर्माना, ज्यादा फीस वसूलें तो इन नंबर पर करें शिकायत - Balaghat Collector fine schools - ETV Bharat",
-      "source": "ETV Bharat",
+      "title": "Himachal Weather: हिमाचल में मौसम की बेरुखी, कांगड़ा और मंडी पर ही मॉनसून की मेहरबानी - News18 Hindi",
+      "source": "News18 Hindi",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcUY5clVrMVpMVTNDcVlsaWlic0R2eWRiUE9vc2hqNWNBbk1oMWhvQjI4c2xFZXBOeFZ1QVJROTNkSEhyQkdQMnZ3TGZFWWtyYU10NjM3NFlQU3NBdFhDN0tRWG0xR3R5dDVjQmNUcjhTLUtVVjdXdHJDY0llVXhRREFNRHlZVFpVb0lqTnRUN01LNkhtQWVhSVJhNWg3S3RFS0ZwTDlTUjk1WUpTTlpvVlZ0SXZZMFdaNlNDYUc4UHhUSVppbDA1clFIUjBrZXhzUk1iVHZaZVZyM2JjVFFzcUpIRDVkZFXSAewBQVVfeXFMT0pzWXRGNXJaejlQRXlVeUsxNzRPRmlaS0YwaVpGbXZ0TnYyMEdLQWZ5MGlpa2ZPZFpzbFFvelV3dDRNZ0NOcFBBZmJ4ZGlqd0lyb0djQ2FqY0tpWkprNWtWMEFLWEZfcEVWRXN5Qkd6WnFIOUtBU3pHX01WcGtnUGI2TFExbnNFQm9lVFNqWC1NVEFIRG05SjJuX01FWTl2WEJpbWRZVFJlamFmaW5DRHRES3V3aGVWMERQUFNqQmZMQjN6Rzh1YlZnMHFfRy1qZWszN2Nmc0RScldHbWl4WlNRMFlTMFRnMWdJbkw?oc=5",
-      "date": "2024-07-03T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOV2J2TVk3TURqR3ZDSEd1S3hZQVlaazB4ZUEyallTazFqbGZDOUcySzVTUG5rbjFjbWVIQjlndDcyRU4yNDQtX28yNDRENWt4VmZqb0o4NmxWaFJvcnNOOUpwcGJNczNCTVZPaTJ1Tm04eXBac2FzdnJVRG1IRHZqMnJ5WXpCejRCRWpuMWRjY0o0aTBLd0JKNktLZHpna04wcmZSSW5zT05vUHNKNFZkSzBJZVVyREJTZHlvMm9JRW9leEZPM052Tmd4aGhEZVA5aGdVQWlTQm9iZ0JrM3NNMVNpeUpSU2JXZ2ZNbFZaUXhVM0pkVU5LUTQ5dkY5MFdaaVItZktleFJVZ3FXbE1WQtIBlgJBVV95cUxPMnowMzV1SGR2cmlBSDEyVUQ4Ujlhdjd3R2NfeDB0M2k3Q2F4eVVXUUMzTFVGYm5pNS02Qlgxd01IWjZrZnhTVU16S0c1bno4V0IxTGNDN001eUVCOFdiNndCZGNmWW9LVnN3SWQ4a0ExZ01Cb1VQM3JDMUViNTBMd3lORzlvZExZd0EwS1M4ZUY5NTZpS3FaZUZUWU9Zc04wU3RZVC05QkRxdm9GLVJhX1pmc1ZJakY2bTl3VWtVMGg1Y21UREk2TEx6aUpaemNlMFpJazFRWkxQT0dTQnB2M0hzc3hHWGZqZDRaT0I2WmRicnQyNC1JT3JjbjZXNGo1R2hSNVBzTW85dGNFSFJydC1qQW80Zw?oc=5",
+      "date": "2024-07-24T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Kaithlighat Dhalli"
     },
     {
-      "title": "Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - The Federal",
-      "source": "The Federal",
+      "title": "Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - thefederal.com",
+      "source": "thefederal.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcW94YnVfR0pHeUVkZUd2WUV3U3VBRUlIc2l2allCMWtRUlNVdnJiLWNJdXVrbVl6UTl2WUllcTd0ZFdheC1ac0RHU2FpV1ZTWlZSNlN5aTRKSE9QSTViZnl0VGJEUVJMN2xpb1hwQnkwWE9Kd3Z5bmg3QktHOXVPZTFzTzZHR3pEOHhZLS1SaHo5ZmJFaVd0c25XMFh1blBSa0xsbFVyc19nWkRCUDMwaTdRdWstUzB3dmJ2UW0xb201cHF5MVJ1T000aEpHYVlmM3pfNzJB?oc=5",
       "date": "2023-11-22T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "NH-5 four laning"
+    },
+    {
+      "title": "Work faster on highway: Shimla DC - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVdmX0VDMUlmTDNJUENpeDAtOE5QbFFEMy0yZHpPRUVlLWNzOUluRXNmVWo3dFRuenlTMS03cVBDazFsWlNLMDN6a29pdTZvVG1vMXc2blRqTi1DeW9aSy1vSHFpdjliUmtJR05ENGxKS2xCaTB4YkdZUWw5N19aT1lDekwyczdJNllPdTlIR0E2VVMwTDhueXVJbGtVVndEZXhyR3hBVHRVZ9IBrwFBVV95cUxNVjBwVzM5WjVCMkpVZlpuRGNRODBXNEQwdUUwNGJYLUxNVmdUVl9aRzdaWnptVU1sWmswbTFBYjNzMHd0ZTFnVUlsVXNBMDVER0I2a0FBVk1VWW9xNWN4VHNFT1NjWTBmS0NFTWpPeTFsRFBqR2s3anJ0UmxlRUYtUHZIU0pMZnhua3lJN2lKQmxBcWZRdXZFMU9zWkNMM3hFenVUTTE5elF4ZF9CMmgw?oc=5",
+      "date": "2023-07-04T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Kaithlighat Dhalli"
     },
     {
       "title": "Construction of Fourlane National Highway between Kaithlighat-Dhalli Begins After Years of Delay - The News Himachal",
@@ -160,14 +170,14 @@
       "match": "Kaithlighat Dhalli"
     },
     {
-      "title": "दिल्ली-कालका-दिल्ली शताब्दी एक्सप्र्रैस में होगी ऑटोमैटिक, यात्रियों को मिलेगी ये खास सुविधा - Punjab Kesari",
-      "source": "Punjab Kesari",
+      "title": "Geeta ka Gyan: भगवान श्री कृष्ण ने इन गुणों को बताया है श्रेष्ठ योगी की पहचान - Jagran",
+      "source": "Jagran",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzNUSVpDSkpseFlXcWI0UnlRMmZ3WXBLRGZ2UmxURk1wYVJkVTJSMHVoZFgxNGt5d1plR2ZPbExweGltbzd3SWZRZW0zM1ZMRWZ5Undad0JLcUpXcU9uTGp1OTV6cGpsVDFIeFhFYXd6WmNUaklsdThyaXhHeHpzSU1fV3FhajZVZ2MtWU5va2F3emZ0b182VHZHdVNzUWFZbGgxQV8yS2U0NG_SAbABQVVfeXFMUHI0Zk5mU1NIU0taRkNud2xaalVpQXd0LVYwdWRqSmlhTHJwZkVfOHZPSTAxMjRGeVJUS016aVk0aUw2dThXOTltNjdqSHg1T2NsZ2s5RnlYRnBTbXJBaWZBTHBBbG96RVBtbzMybDhqUC1DYXBsc1U1X01FTks1RlAyWDNEOUNZa1ZRd1p1SGhYMnN6MS0wQWlXWWhKWjlJWUptUlp6RUF2ajNTY3lDYzU?oc=5",
-      "date": "2022-09-28T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQURFZmY2bThIaHdxdnp2cnpJVlR6aTRXN2ZkZkU1dy1Ya1NzR1hfeDNpWkMxR1A3bWhLSmZGYno1Yl9vZFJlTnZXcTJyMnd3TS0tZTdYbHJBVFJ5ODkxdUkzLTd2a2VDdHhyY3MxX0Y0Uk1rTjRrTDdHSW5xZ3NRU2IyMF9veU9QaVhxT2E0aTJGSmdaY2c1MlpCTWFOQjkzUGlUcC1MOUxNYm1IbWdkVkd2WjcySE1PWEV6YzItR0E3anFmQjRVSHlyUWhaR0dHa2JvdnV4Nmk?oc=5",
+      "date": "2022-11-25T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Kaithlighat Dhalli"
+      "match": "Shoghi viaduct"
     },
     {
       "title": "Extradosed bridge to come up on Kaithlighat-Dhalli stretch - The Tribune",
@@ -197,16 +207,6 @@
       "date": "2022-08-17T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Kaithlighat Dhalli"
-    },
-    {
-      "title": "Tender awarded for four-laning of Kaithlighat-Dhalli section - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3Nfb2lHYXUtbk9Dcko1aVBiZUZ3S2lUT19NN1pzUTBSRUw0RzB3aGdXTktoSUFkTFllOThlYlRVNnRNQmp1LUpRRVRDazVyYTJQNUVmWW9CMkNqX0JHcWQwc0c5TUFmNTFpaGdsWFhqYi1aT18zd2REdXNuY2FyVWxyZWRRYUR2X1FoRUpwa1FLVkZfTjQtbXhGOV9fS1ZCa0F3d09aYnJfU3dHX21tVtIBtAFBVV95cUxOazB2NlhrTWZndS1ORzlRUXktLUhBOHRpbDZpQ0VpLWkyTjY5OGJyRVNQOVJLWjhlejNjaGU3Tk1CeUR1OW0xSl81cWhVRTZDQUVnRUQzTWRyckNaM19nSXc2VG5HckhfMmdXblJNUW1IaWdndXJPZUpKZzRyclNZVGFKZjNUakJYWm9qY2xyR3l2emQzM3ZnUnk1X1VVSUJaM1hRQ1hFUmo2M21iRVh4YXl0UVQ?oc=5",
-      "date": "2022-07-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Kaithlighat Dhalli"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T02:25:15.576Z",
+  "updated_at": "2026-08-31T23:06:05.177Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -11,19 +11,19 @@
   },
   "youtube": {
     "n": 20,
-    "positive": 13,
+    "positive": 14,
     "neutral": 5,
-    "concern": 2,
+    "concern": 1,
     "avg_score": 0.395,
-    "avg_magnitude": 0.755
+    "avg_magnitude": 0.595
   },
   "overall": {
     "n": 20,
-    "positive": 13,
+    "positive": 14,
     "neutral": 5,
-    "concern": 2,
+    "concern": 1,
     "avg_score": 0.395,
-    "avg_magnitude": 0.755
+    "avg_magnitude": 0.595
   },
   "top_positive": [
     {
@@ -45,13 +45,13 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Please send complete video",
+      "title": "but why? the one they initially planted looks heavier",
       "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "but why? the one they initially planted looks heavier",
-      "score": -0.2
+      "title": "I want my younger brother to learn how to farm will I send him to you so that he can learn from you",
+      "score": 0
     },
     {
       "source": "youtube",

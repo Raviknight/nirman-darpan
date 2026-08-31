@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-08-28T02:24:11.892Z",
+  "updated_at": "2026-08-31T23:04:50.283Z",
   "project_id": "SHINKULA-TUNL",
   "counts": {
-    "press": 110,
+    "press": 114,
     "gov": 0,
-    "en": 80,
-    "hi": 30,
-    "total": 110
+    "en": 85,
+    "hi": 29,
+    "total": 114
   },
   "mentions": [
+    {
+      "title": "defence-ministry-clears-the-bro-tunnel-under-shinkun-la-in-ladakh - The Independent Singapore News",
+      "source": "The Independent Singapore News",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNXFJZkZ4XzJ3RzdFSVhDdFJiN1ZDRmJjZmtNQWF3amRRaFpHNHpadU9jbVpZbUhiWVVVYldUWHJrR1RtRk53MnBjZWJIa0JVZnN6UkEtYkoyMU00LS1JVE1nejNpenVOZ25wNzJPQ3dueGpaVmFQejZyVU5ydmhqTHZ5Tlpib2FzRUFoS3RaekpOczFlZVNJ?oc=5",
+      "date": "2026-08-29T17:26:43.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shinkun La"
+    },
     {
       "title": "शिंकुन-ला सुरंग और निम्मू-पदम-दारचा रोड से लद्दाख को मिलेगी सामरिक ताकत - The Bharat Now - Hindi news, हिंदी न्यूज़ , Hindi Samachar, हिंदी समाचार, Latest News in Hindi, Breaking News in Hindi, ताजा ख़बरें - The Bharat Now",
       "source": "The Bharat Now",
@@ -20,11 +30,11 @@
       "match": "Shinkun La"
     },
     {
-      "title": "भारत बना रहा शिंकुन-ला सुरंग, निम्मू-पदम-दारचा रोड से फौरन चीन सीमा पहुंचेगी सेना, ले. जनरल हरपाल सिंह ने किया प्रोजेक्ट योजक का दौरा - Navbharat Times",
-      "source": "Navbharat Times",
+      "title": "भारत बना रहा शिंकुन-ला सुरंग, निम्मू-पदम-दारचा रोड से फौरन चीन सीमा पहुंचेगी सेना, ले. जनरल हरपाल सिंह ने किया प्रोजेक्ट योजक का दौरा - navbharattimes.indiatimes.com",
+      "source": "navbharattimes.indiatimes.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPT1BDWWRlMV9HTnprempoYVl2M2dUbjRVRmRaejQ2VFZ2RWkxcVdzRDRTb3pxWkpMOXNLMVpYelFDZFduRVVWeXFRb0J0bGdfMjgzMjZoNlp1LUpLTXN6OG1WdzN6cy16Q2ZZRUs1Umx3WmVXNnVMcXFKSFRuYlFCaWI5eWpMWTluM0NjNnZURFBLR0Fnczc1cDMxUWJPN01XRlF0LTd2TkIzZ2w0MUZjZGRFWUVGc1o3VkNFOGtWdXNCRmFZZjNFa05kMERBdDZrN3JFaGw0eW9HN2lWeUttMUpxX2xIYmtZNVphX3piVHJnMTV3TkVqdjZjRTVQUndGVFFNck5LVdIBjAJBVV95cUxPZFg4MDNRdE9DejhybmRwMzdwVjk2OEE1WkRxUkEzTHNodE9leGZENi1NVERpSWh4VTNnbnpsb2VIbGQ1aldVaWFjVjZ6TWlubjFpcFFONlV4SEx5RFdoeGNfQThFdUF4bGN2X3JvbVpWR2N2WFU4eW9XUkxsbVduaWM1OEtVN3FCT2J2bEVPWEN0N2lQdEdJS2lYLWV3am9NeGpid1R1X3RLTXd5WEVPcVEzM0IwX2R0MWRkLUdzSmhqVGkxckxZQW1pWFNrSjZLc0NJTWVtSnlzbHllR2VwaVZJMXB3QlU5YVhXTkoyV2xXaVcyQWhLNmJYTVFFc1dfTXVSNUg5SVR0YnRI?oc=5",
-      "date": "2026-08-22T04:03:53.000Z",
+      "date": "2026-08-22T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shinkun La"
@@ -40,8 +50,8 @@
       "match": "Shinkun La"
     },
     {
-      "title": "Lt Gen Harpal Singh Reviews Nimmu-Padam-Darcha Road and Shinkun La Tunnel Progress - SSBCrack",
-      "source": "SSBCrack",
+      "title": "Lt Gen Harpal Singh Reviews Nimmu-Padam-Darcha Road and Shinkun La Tunnel Progress - ssbcrack.com",
+      "source": "ssbcrack.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdE9EbFA5M1Z2bmFHZGcyUWw2eFZCVXdPWkM5Z3BmOEpIOGxadG9GTGNodG5aOXZMYjgxYUlZQ0xWOGV1SlloMVpBMTZfamJwTzZJV2VKSlFHZ2Y3NkVRRzVGbmIzYXRCZ2xUR24wb3BVbXExUXBMSlVqOUxOOS15bWdCV09sTjZZTUpjS1lWWlVQSXpQdW85SVFBSGxkMEF1SUZwVkZDZE1XYnVRVjhIX2JtM09WbmkwLXhJMQ?oc=5",
       "date": "2026-08-21T07:16:45.000Z",
@@ -58,6 +68,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Shinkun La"
+    },
+    {
+      "title": "Rs 16810000000: India to build world's highest road tunnel at 16000 feet in..., China in fear due to... - news24online.com",
+      "source": "news24online.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNOGxlNlRvVWN0WS1KWGZLVWYtSGI2TWpBbVFrMXdydnYwZUctVTRzX0JlXzViSGZpSDljWjlBQmZiczFmUzdHRFZ6cTZ6cmQzUnl3M2tqWUdKakJjWDBrWGk4aWdLUlNGbUYzRzZwV0tSVnZmTHhfcDhXakV2XzRtN2kxUkxQNmlQVS00VG1iX0xIMzMtWW94VTFubHVQVVZYZmlkLUF2MzQ5ODV1bldHMGZDQk1GMlp1bVBZWU94X3VTcHZEbjdDQ0VFTkU1azV4RnY5b1BOLXdKS2FvQW93MTlHS2NLU2hOOEJ4ZjVuRlpZWGlfTmdfSGR5dGxCTmNpejZiZ1lJcTBpd1VpWlVoTS1TN3hmdGdYc3BrdEZ3?oc=5",
+      "date": "2026-05-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shinku La tunnel"
     },
     {
       "title": "चीन सीमा पर भारत का 'मास्टरस्ट्रोक'! ₹1681 करोड़ में बनेगी दुनिया की सबसे ऊंची सुरंग, इसे मिली तैयार करने की जिम्मेदारी - shinku la tunnel highest tunnel in the world at 15800 ft near china border in india - Jagran",
@@ -110,14 +130,34 @@
       "match": "Shinkun La"
     },
     {
-      "title": "$800 Million Shinkun La Tunnel Project, World’s Highest Tunnel Advances at 15,800 ft in India - Construction Review",
-      "source": "Construction Review",
+      "title": "Modi govt's masterstroke on China border; India to build world's highest tunnel in..., project is worth Rs... - news24online.com",
+      "source": "news24online.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNclpqUExrQlFKbHd3dFAyRktVelVYbFRSYzJfdkc1TklSTTVFV2FRdDltX1UwNi1PbDh1SE80MVgzcVBPOUNXYkxNMU05cjRJWE9XcnpkaUUzWFJHbGdYaEEzQVpISlg3VXRjeUdBWVBIZDdWd1RqXzlGS0xPSnA2QmVMMmN2VEkybGM0a19yRWZabXluQ0VOVFVZaFZQNEdoQTRwOTFJX0hQRzdOd3hQSTdvVjJvUEY3S0xRU1BnY0xUVXRWWDlDNXVWa0NQR25UaHpIUFh1aXdzY2tuNzlrWGdQeC0yRUZfNkFWUEQzZk1JRUtYNW5qdnU3TTEyMkJHYVltZDJCMWFsRnB4?oc=5",
+      "date": "2026-05-03T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shinku La tunnel"
+    },
+    {
+      "title": "$800 Million Shinkun La Tunnel Project, World’s Highest Tunnel Advances at 15,800 ft in India - constructionreviewonline.com",
+      "source": "constructionreviewonline.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGJRSXl2Q1lOaE5VUVZBUnN4NGxZS3pSQjVnRm5lQjFMQ3Rqdng5YUJDcDhfdDFPZnZyQWJBUEwzaENCZ2syZUVNNU80ZmNVUmZFNkt1V19WX3c5aWdHRWpqak5oZ2VqcktfVk15enhGOWFXWWRiNW5GM3lQQWhxdDVfUjAyTWVnZ3UxVnVpVmRfUXhnRm1lNzR6eFBneHdqSEZhMG9JMVJFZllvZDdkM0syZmJIcnZfU1p6ZmdZZzhDYmFOWlNiS3NkSmRFV0k3SzFoZzlPV01XWlRQX2tjbTNRZENlQQ?oc=5",
       "date": "2026-04-30T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shinkun La"
+    },
+    {
+      "title": "From 2 to 7: Ladakh LG Announces Creation Of 5 New Districts To Boost Governance - Republic World",
+      "source": "Republic World",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeDVRMEZCenN0S3I1WEgwNEdVRzFISXJfd2NIY0dTaFJyckl3S21hVGNaQWFMOURyTDJmSWxoRS0tNUZkTnpFRm8xLUVqS3Rkaml3Y3c1UG0xMDVMOEJIOE9XUGZRbG1xV09DZVdpM3Z6TzdUd3F4UnJ5T3hpZTJGQnNwb3Z1Q0wzQTlBVTBYRGluck14czM4cDkwZm5RM3RTR25IV1dORDRQX3BMOWx4RdIBtgFBVV95cUxQVFpRdlhab1N5NS16WGk0b0N4b2hfLTN3eU5GMXY2dTFsUjBDRTluU1ZIUzNCdHFaYVQxUXBmQm1EV0RhTDhyelF6ZklRR1ZlYzBtUWo3dER3ZlZCS0RublRTdzNXeGhIUVE0ek5uejhvOEJtdnhodUlCRlJGcmg1NlJUaDJjVGJDVW1WVHpMUDI2TVZWUGZlMTBaT1pYM0dDNjVzRjk3SHB4RzhNeWYyRTVlMjJOQQ?oc=5",
+      "date": "2026-04-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shinku La tunnel"
     },
     {
       "title": "1,196 INR-Crore tunnel sanctioned at Fotu La on NH-1 in Ladakh - Biltrax Media",
@@ -160,16 +200,6 @@
       "match": "Shinku La tunnel"
     },
     {
-      "title": "BRO ने 16500 फीट ऊंचे शिंकू ला पास को फिर से खोला, मनाली से जुड़ी जांस्कर घाटी; लेह की राह भी हुई आसान - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMTQwUzJMVnQzd3ZITTJhd0lpZHo1SzZrZDB2Zk56V1dkMERwcnlKSzQ2UnAtNmtsWjdKdm1aT1lMZlA1X29ib05LZnpYRHlNQ1NZRk14Vml3MmxKQW0yMHQzNkkxZGN2c1dZZWxrUVVHb2lZX2JaZzFQbHFsTm1IUGFDaHc2QVpuWmJ6TU9UZWppNnpGanJuZjlTUk5PSHJndFVleS1PNlNLb1FtZWM0T29tWDdBYUpDYUNqcWdXeDNiZVpuVjRwQUJTaDVfa29rMC1MZEltN2Q1MFVHeEE?oc=5",
-      "date": "2026-02-06T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shinku La tunnel"
-    },
-    {
       "title": "I drove my 2022 Skoda Kodiaq 2.0 TSI AWD to snow-capped mountains - Team-BHP",
       "source": "Team-BHP",
       "source_id": "google-news-en",
@@ -178,36 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Shinkun La"
-    },
-    {
-      "title": "BRO builds world’s highest all-season motorable pass at 19,400 ft in Ladakh - The Assam Tribune",
-      "source": "The Assam Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0FHd3pLZW40Slc2NlByTF92MjE0ZkpraDR6REVUeHRlV3dEempaYzBKLXdTQ2lERFFkVlpEeldnbHNxbFplbzh1WXF3eXFaT2kxX3hSOGpEZHpadHFJNkZnOGdYSUwwcXQ5RHR2bm83XzB0OGNrSjFWcG8zbHZ1NTBKRkc3SVR2MUZweUczd09xTjh2V1lBc2dMUmRaaEhPS193MjZZRXNvUGRIRUNtVWphTE95UdIBuwFBVV95cUxNWURGMkdWZUVBZHFCcnl2TUdTQXlvU2NoN0pRaHgzdVMxU2lYMHRvU0FXYkxjYUxGenRLWWhwcnRud2FvTU4zM0lpX19qUE82Vm1IX2Fmb0IySFJFaG90LXpCUE8zcHdFbUVtaGNkX1RnUVpmbVl5ZUJCS1NsU1RRNkc1YTMwdmpxM05QX3UtYmJLT1F2WHBYczdVOVlCSXg1NWI3Q2pvVEpVQ3Z6RlNkUVVlM3lkSXdzTWhB?oc=5",
-      "date": "2025-08-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shinku La tunnel"
-    },
-    {
-      "title": "Meme Chonjor - The Man Who Built A Road In The Himalayas All By Himself - Team-BHP",
-      "source": "Team-BHP",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOTlHNEFybVdhLTRXOFBUajBBbk1wZjBDWHJHYTdNdlh6cGI1U0xONmkzNFRfWk9zdDF1azZkY1hSUzlGNlVWSHZIcXBITnJMQ2NyMWZWUEpGaG0tUlJsV0VyTElqMHNDRlBuN1V5bDFZc0xKWDd6bG44WHM5anRZMDMySW1tbGN0M0c00gGQAUFVX3lxTFBKb3N6NEQ1d2ZDUGJWZUcwYjQyVkFhYmVDSkswNnBsbEdhQ0VwcnFxaEwxVnAxQzVWcnZJQkZwb0ZGcWxJVDdlTU82QlRuN0xpbmgyYmUzZWhOdDdkMVFJa0VaOENUUE9mYTB0dmxkSTdCejZMMlZCV056TldaU1VfMW9nMUYyMnQtUzVGd2FSZg?oc=5",
-      "date": "2025-06-17T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shinkun La"
-    },
-    {
-      "title": "About Shinkun La Tunnel: - Vajiram & Ravi",
-      "source": "Vajiram & Ravi",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16cldSR3pJV2tjei1ua3BkSWlBS3JyZ2pSYWwySTgzTU8zRDRneWk0TG93dDA3aVlRdWhqekR0dUxwb0RQTy1fd1NDWmJkRkwtUlR5d0NwN1p6NElrUVdjX0E0RGhWU0YxUnhjZVZ3?oc=5",
-      "date": "2025-06-11T11:20:14.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shinku La tunnel"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

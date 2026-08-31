@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-28T02:25:11.747Z",
+  "updated_at": "2026-08-31T23:05:46.017Z",
   "project_id": "RENUKA-DAM",
   "press": {
     "n": 20,
     "positive": 5,
     "neutral": 13,
     "concern": 2,
-    "avg_score": 0.07,
-    "avg_magnitude": 0.15
+    "avg_score": 0.06,
+    "avg_magnitude": 0.165
   },
   "youtube": {
     "n": 7,
@@ -22,8 +22,8 @@
     "positive": 9,
     "neutral": 13,
     "concern": 5,
-    "avg_score": 0.085,
-    "avg_magnitude": 0.348
+    "avg_score": 0.078,
+    "avg_magnitude": 0.359
   },
   "top_positive": [
     {
@@ -37,9 +37,8 @@
       "score": 0.7
     },
     {
-      "source": "press",
-      "title": "रेणुकाजी बांध परियोजना HP को आर्थिक विकास और दिल्ली को जल सुरक्षा का वादा - Janta Se Rishta",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOWR2ZDBmUW5kZEp0UzZLakxJQllGRGFJVDZHM2lLVTNXV2JYdXpPeGJNd1V0VEVwanFiZ1VoWjV2ZDFLcFBNOWFzMnVoeGhIVGJqQXRIVEhPVFVPbDRMQzZMaS1KM0UyeHdUVHVreUllTG5wZkFOdjIyQUxMUDJ1Zkt0RmdJdjYzakZOeEVHRTNVN1hxU1JyZUhSWWtRcjI1TEJYcThIZ2tYdUc2bW41OFI4U1ZBWmh2ajlTU2JTTEFJeTJMR05SZXAwdkV1YXlUc1HSAdcBQVVfeXFMUEVFdnZKR1JRbllFb1RjVjNYVjlNazNUTzBPTVlUWjVILTdwVTlpYWpNYlh0Skl2RWpZclppS2QteDh4SnhNUzUyTldMSTJzRDAyVHZoRndTc2sydmxRRHltVnRKQ3hBTUVhSHZBM05DYmJMeDZzNnNZbDYyM2N2NWdwZVllYW9YOTdzcHhvNGJIMHFNWTFCazhhTkgtUjE1Q1YtWUoxUlJaaUNTTEtrVDBoelhhQ3paZ3M0azJTUlB1U3dBelhkcjNpaTBPall0Z00wVG1Ra1E?oc=5",
+      "source": "youtube",
+      "title": "Once again very nice and informative lecture.\nApka new lecture YouTube pe na sune to kuch miss kiyà aisa feel aata hai🤗",
       "score": 0.5
     }
   ],

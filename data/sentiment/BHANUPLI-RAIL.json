@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T02:25:11.334Z",
+  "updated_at": "2026-08-31T23:05:46.016Z",
   "project_id": "BHANUPLI-RAIL",
   "press": {
     "n": 3,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 49,
-    "positive": 20,
-    "neutral": 18,
-    "concern": 11,
-    "avg_score": 0.139,
-    "avg_magnitude": 0.418
+    "n": 48,
+    "positive": 25,
+    "neutral": 16,
+    "concern": 7,
+    "avg_score": 0.269,
+    "avg_magnitude": 0.496
   },
   "overall": {
-    "n": 52,
-    "positive": 22,
-    "neutral": 19,
-    "concern": 11,
-    "avg_score": 0.148,
-    "avg_magnitude": 0.412
+    "n": 51,
+    "positive": 27,
+    "neutral": 17,
+    "concern": 7,
+    "avg_score": 0.271,
+    "avg_magnitude": 0.484
   },
   "top_positive": [
     {
@@ -45,18 +45,18 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Background music is very irritating",
-      "score": -0.8
+      "title": "Why don't  indian railways broad gauge the Kangra Valley Railway from narrow gauge?",
+      "score": -0.6
     },
     {
       "source": "youtube",
-      "title": "No one goes from Bilaspur to BhanuPali, it should have been from Chandigarh to Manali , then at least 1/3 of Leh railway",
-      "score": -0.7
+      "title": "WE SHOULD COMPLETE LEH RAIL LINE ON MISSION MODE IF WE WANT TO BE SUPER POWER UP TO 2047......",
+      "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "REMOVE THE ANNOYING BACKGROUND MUSIC....😖🤮",
-      "score": -0.7
+      "title": "Badhiya update",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

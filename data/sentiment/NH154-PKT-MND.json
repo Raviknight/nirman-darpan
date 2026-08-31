@@ -1,45 +1,46 @@
 {
-  "updated_at": "2026-08-28T02:25:14.888Z",
+  "updated_at": "2026-08-31T23:06:04.342Z",
   "project_id": "NH154-PKT-MND",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 7,
+    "positive": 6,
+    "neutral": 6,
     "concern": 8,
-    "avg_score": -0.065,
-    "avg_magnitude": 0.275
+    "avg_score": -0.05,
+    "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 17,
-    "positive": 7,
-    "neutral": 5,
-    "concern": 5,
-    "avg_score": 0.076,
-    "avg_magnitude": 0.635
+    "n": 7,
+    "positive": 2,
+    "neutral": 4,
+    "concern": 1,
+    "avg_score": 0.129,
+    "avg_magnitude": 0.214
   },
   "overall": {
-    "n": 37,
-    "positive": 12,
-    "neutral": 12,
-    "concern": 13,
-    "avg_score": 0,
-    "avg_magnitude": 0.441
+    "n": 27,
+    "positive": 8,
+    "neutral": 10,
+    "concern": 9,
+    "avg_score": -0.004,
+    "avg_magnitude": 0.278
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Very good video... Keep making.. Best wishes...",
+      "title": "❤wow so wonderful",
       "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "It's good road alinement.. shimla solan jise enginer ne banaya pora bakbaas",
-      "score": 0.6
     },
     {
       "source": "press",
       "title": "Himachal: राजोल-ठानपुरी पैच को नई उम्मीद, केंद्रीय राज्य मंत्री ने कही जल्द डीपीआर पूरी होने की बात - Divya Himachal",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUmV1dzRGV05NTDZhUU9pQkpVQm1wRkVYVnJkLUxVeDdQeHhkZ1VLTGRNcDBLdjhNV1JlWkxMY3RxOGNTaC1YcFdVdjJWUG5fQTA3NWZZdmdtN1A1ei1IZ1IyUG0ycnJnZkowODFBNGVGVllmWmhzUzljYS1PcGt2bnE2azlHanBDVFlhMlM3TGNKeUhqY2dzSWpaTGNIaUVZZkpBRThPWU10cXI1amVHLTliMlZhSXkwc3NrZUhST1dHUkNFdy1TU3I3cGVtQUdNQkJaNU5mT1B3R1RBVE51MGU1eF9SSkpKdFHSAe8BQVVfeXFMT1B4VTdiakc3TjhqbUh2X0VzWUlpYUVLQlllbGt6NUhab2ZUd1NzWUlFb3lkckxKNlBlZURqYll5dDR3TUxtYWR2Z050QUNxczVmZnhEdDhNZGIzaThTU1BGRTktT2g5dktqaWNFa1daeUlibFpsTjJJTS1TUVA1N0lKQlBPb2lQSlhFakZwT0c5TXRiREd3NUhzYXdvWHJDakk2TXlGU1RVMFR3Z1NUVDlWdWRQcjlTeTFKVXNjSnR4QURHM2tXREdMQ19CcWVmOUR5bUdYby03VU1BZ05DQl8ybDNjZGpuQkNnbTRQdm8?oc=5",
+      "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "Pathankot-Mandi Fourlane : परौर से आगे फोरलेन का दोबारा होगा टेंडर, NHAI ने की तैयारी - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQRmFJZHREc1ZscjB1cnNaUTVra2oxN2dtRTh4aG9RcldVZDNhaFJyN2txVXNZOUtRX01DLU03bTZ4bDV0TG1QMW9KbG5aU3FYOUN3WUhuNUtULU1rbjNqOXMzaG9SOW52dVQ3UkRLS28tbVl3NjZJWXltZG1yOGhJYURtZy1SUjBjdkdhQmVYdjBGaGdqQkFxSEV3SHFIdjJ1ZTY4RXFfWFR0WDN4U1NCeGpMLTJIOTMySlVuTWFhaDZMU2k1bEpQeFZWRTEwVXN0b0tGZGVOdnEtUGQ4UzBPcnktcmxNNmw4Q2RhdVRCQVFqRHpFZ0RaX1BkbEV2U3YzVVJvd290S0swN21QNGxud0MyN2FLVXpoX0hHX2VnTllfSXFMSkNuVGNhZ0ZmbV9UaklpVEp2cWHSAb4CQVVfeXFMUDkzMmR3cXdacGJ3YjBBVWdnc2RacmxtWngwZlFISHhaRTJFdzBZOFpHd25SM2JqVEEyS3dFRzlieUdkUzlRckFYaU0xLXJqVVBwQnF3OG96YmJMOWloYVdnSmZvcVd4bl9Xa0NIX3gtX25BbmJFNzVZZjRrbnQyY2x3TmtpbmxQV0ZUUFhHTGxyUGhtajl5X0drRXY3eGtjMG9JaXF1MUoteHlZdmNTVklGUURoRGN1b0YwNjRRRS02TV9QRTFaWWhINXhDUWY0MkhqR2NhTVlqa1ZnVVZRNEZiV2dQTnJyS2JCUnJOWWZycFU3MGgwS2RPcjVFWEE0RmVQbWZQTGlnWDVrWGpva2ZsQW5PWDhzMU5DenU1d05SaEJSZXdYMG9wYmxVei1VbjlNR0dTWmhYX2hRTmJB?oc=5",
       "score": 0.5
     }
   ],
@@ -51,14 +52,15 @@
       "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "its pathankot not pashakot",
+      "source": "press",
+      "title": "No DPR in absence of consultant, work on Palampur-Padhar road stretch delayed - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenFQeG4zSmxZcVJsVVpYOV9MZEh2Z1lzWFo1SUFiS1NPX1VzeVp5am9LOG00MzF1d1RNbnhGRzJibEp4ajB2anVVR2ZBU2hwTlphcUVSWG1GSE9jTnpwRmNCNVBObk9PVGVsemNRd0NSTkxBaHNyeUN6LWJ3aWNYYmVkZU05MEZwUHNWMmdhS3gzcU5PQnR6LUNJWnJ1Wk1ZTkprOEFjT0FqalBLTWpfWmtremdjREZId3QwZNIBwAFBVV95cUxQdWZqeEY1RGFIckY1aERqdVpHUzVocWk1MGJvYm1KVTFwT3Q3QzdCOUwwVVlWLWJRT3dUOEZOM1dWTmNQM3JlZ0tGSl9yeWdXNWRvYTFzOWQ1NEZSTUJzZFFqMElDM1dMaW5Xb0xlbzhvdVFnZVNnWTd4b0N2REx6S0F4VlVPb19qakZqSjFwZXVTSmFwQUVNdk1aUGY1Vm5PR2tUTFJGbU5idDkxRHpZcHBYX19YWXF2SmtwTnowR2E?oc=5",
       "score": -0.6
     },
     {
       "source": "press",
-      "title": "No DPR in absence of consultant, work on Palampur-Padhar road stretch delayed - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenFQeG4zSmxZcVJsVVpYOV9MZEh2Z1lzWFo1SUFiS1NPX1VzeVp5am9LOG00MzF1d1RNbnhGRzJibEp4ajB2anVVR2ZBU2hwTlphcUVSWG1GSE9jTnpwRmNCNVBObk9PVGVsemNRd0NSTkxBaHNyeUN6LWJ3aWNYYmVkZU05MEZwUHNWMmdhS3gzcU5PQnR6LUNJWnJ1Wk1ZTkprOEFjT0FqalBLTWpfWmtremdjREZId3QwZNIBwAFBVV95cUxQdWZqeEY1RGFIckY1aERqdVpHUzVocWk1MGJvYm1KVTFwT3Q3QzdCOUwwVVlWLWJRT3dUOEZOM1dWTmNQM3JlZ0tGSl9yeWdXNWRvYTFzOWQ1NEZSTUJzZFFqMElDM1dMaW5Xb0xlbzhvdVFnZVNnWTd4b0N2REx6S0F4VlVPb19qakZqSjFwZXVTSmFwQUVNdk1aUGY1Vm5PR2tUTFJGbU5idDkxRHpZcHBYX19YWXF2SmtwTnowR2E?oc=5",
+      "title": "Traffic jams at Malan on Pathankot-Mandi highway inconvenience commuters - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjhoczdjQUJIYk9rY0hKRmNWQTlvT2NrZGFIcmppZVJEcUR3VmIyVTlOSDdVSzNOX2ZaZ2w5UGlXMWtVdlQyWklpcmFhQkJVRDNlWVpIcDBJTEVESW14dlgzQVdJYlNGY29LMHNfU2ZNQVFIVnNqNWx6M0tRR1ZfYnZicGJCQUVMQ0toTlQ1LThBeHFHNzk3Mnl6VFA4bUsyd1V0VWRvci04S0g4TkUyadIBtAFBVV95cUxNNXFwQ3I2RGFqeDhvRTdIRXZ2Rkh0dzY0RExtUVEyT0FnWmFvUGJtSnk5d1VVTWhSR2xPMVlLOG1QRzY4TlZfa25TMG1mZ0g1WU9fZ2NMYXViUTN4YXJWOURJNndxWU5VclZzTjQyWWhFRnBjazl0THZCSlNjOHVENUZmNTJ0QXZ1dHBYVFJPR3g2YndyNjZ6c3JqWnFkaXlFNy1QYUR6SWtiaDdsSTRYaHBYRk4?oc=5",
       "score": -0.6
     }
   ],

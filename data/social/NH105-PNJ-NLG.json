@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-28T02:24:07.513Z",
+  "updated_at": "2026-08-31T23:04:46.258Z",
   "project_id": "NH105-PNJ-NLG",
   "counts": {
-    "press": 36,
+    "press": 35,
     "gov": 0,
-    "en": 13,
-    "hi": 23,
-    "total": 36
+    "en": 11,
+    "hi": 24,
+    "total": 35
   },
   "mentions": [
     {
@@ -120,30 +120,10 @@
       "match": "Pinjore Nalagarh"
     },
     {
-      "title": "Haryana MP Sharma discusses road-related issues of Panchkula with Union Minister Nitin Gadkari - ET Infra",
-      "source": "ET Infra",
+      "title": "Bridge delay triggers accidents, traffic jams on Kiratpur highway - The Times of India",
+      "source": "The Times of India",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU2xfNWJpMnVFOXV6LUVGRnVwZlI0S0RDTmlwTnJXdVY0Slk2cEVlekNYb2s4VG9QdXNiMGN3cHYtZVZxeWFfc1dKVjZOTGNjUkFHVEdsa05ZZ2dUTjlXRy1PZUVtN3h1dFlkSVFCb0F2bDZodU00cnJsbC1tdXZITUgyanZNMDNxaW5TUlZ4TXlDcDJQbmhhbmM0QnhleDZQd2J5WEh2N0Nsa3M4ZldidWtvZU5ma3QyUURobk1BZE9FT2g1OGdBNjQzVkZ6dm41ZDBxMmdZdlpKaGVvOEVtS0JLQ0HSAeoBQVVfeXFMUFBGMUFLUzBlN09LeXgyYkJzUlptNGZWN3FBbE1yN1BYdVJVRDh3eUpONE5PNnNKUndhSDRaN2NZOU9ZbFVIbXExbWxUYkxhRTV5RGdXazduS05ob1pId2FkVVNaOEU2clNVUjlTeVByRVNJWFJGQkUxV3ZqM0Rsbm9wd3N1dzZFenBpMkw4WWxMcUkyc3NLd0R5cjVXdkt0QzhhSTlRWDZ4aXJBREFqQVlsVER3ZVRBZkFQVjlxLUhPZmM5YmZ0NW1EbnhUd3N0eGxnTnNzdG1oNDk3YkZuOHpYUnBhRTZQcTV3?oc=5",
-      "date": "2025-11-07T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pinjore Nalagarh"
-    },
-    {
-      "title": "पिंजौर-नालागढ़ नेशनल हाई-वे पर मरम्मत कार्य शुरू - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZE1tQnl4Y0txVmtKS2VQZGlReUhhbmJDSFFnbjRxeGxNNWhFaXBBcW9HLVJ5eXgwQnBNcHc0RmJZeVljOFJWaV9TM09iNHJ6ZGF1dlI0TzBBcW5VcHNuemdCLVp5aENQRmU2MHctcXhmRXR3LVVIN0E1Z2c5X0hUOTUyVEJfbzQyVUNUUnEtRFhTdHNxOVdiR3d4c9IBoAFBVV95cUxOemNFYVYyRTJHLWt6T1J5ejVjbGlZSGF2U1oyakcteURlUkVqRU41VE1zcnd5Zk9zOU1YSWNtTlBib0piak5TMnBadzRKUW1qMUhldXBzNWR6cXgxQUdRR3EtN1ZKT3hnNnM2UW91ODFWOU9aYmg0Q0VUSXZ5c0hGUENwY0tvV0ttdW5UdlNLQTFhT0s3ajRRZkdOcjdnR0N0?oc=5",
-      "date": "2025-09-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pinjore Nalagarh"
-    },
-    {
-      "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - ET Infra",
-      "source": "ET Infra",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWmd2LXRfOWgyYlZUUW43aUdJT21XcklWaEg5a0h2S2hpNmJYazN5QjZZekdrRFlZdGZVMXRUZzZzWlpfaUl4cjAxdjZjZUx4RzNyR3lDR3BMeUdTZ2dwbG95MmF1aXJLQTVOTVI3eE9scFpuOXA3dEJpalF6RGZ3cjBHT2c5MkR3MVRvTWFoekN4LXd6Z0VPeXM0TmNGTjN3U2g3Q3pwQXNIeVdmcU4zdDhBTU1hTXBLWlZiM05KeXdoX1dncEFmZ0Nob2tMZFhROVlFRl9IOWt3TWpGeWgwWHJveU1FdDBHRWZNcQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZlJpbHcwaEhDOVdrSjBVUko5VmFmWXhjMEVDcHRvR3FESVpFek40Ni00TjdxaS1Qa2RDc2ZzOUNXMl9jU2E5Y05LRWJ1bG51aHFBU1ozdXQ3RUQxSDd5aVNVWkRqSTE5RDc4cElZZk05cWVXSlBVYVF6MWJRZWZ0VUlfb1BUT0dPYnBqVm1iQV9BZ1g2U1JvM1dpUkZaUDkybHF0VllDR0p2YUVtalA3Q2JFSnBnc1I3ZXNkY1RiclpVa0dLcXNVcFdMdDZkcXNCeWlEenZSalY3Z9IB3wFBVV95cUxQX3VRVHBCeEVrajMxbzJWS2VoSlNhSURsdUF3emtmcFYtMHl2RFRsR0xYdEJLWnVua2IySlR5VTY2NUxEX3BzNXd1cFR6dkhXR01BVnEwZmN2NGU5LUZxY3J0VGt4ekJKYTNsZ3dBdlpQUDFicDRCVGs3OUk1T1hrdndfZmJxU3NMU2Q0YjVsOFBjLVJVWGt3dndLeE15N2JOS1BtQkhXajJoZ3VyVU1Hd2d4cWJnR1lKbHBoTWNBeVdXbEpvT2d6bVV2Rk1xa1lpQV8tQU10RHBWQUJaRVJz?oc=5",
       "date": "2025-07-04T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -157,6 +137,16 @@
       "date": "2025-03-27T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "पिंजौर-नालागढ़ हाईवे पर खुदाई से दिक्कत - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaE9BMjR3Z1phU3NKQ1k3M0lUOWRFdDJDOTBhVlhmdWFJRHRqMzB1aFdteVE1NHBfR0VwVkdaTVZ3QWJ4dnhNcEtOSEVaX3lNUXh3WTh2UUhwMDJjNzZ1azRzMjg1dlhHNTdqNW1qQUU1ZkZGTVJJNUlkUDlKSkxrYWFTNNIBiAFBVV95cUxPVHl1X0xtbHlhN3ZCS2dOaWZLci10NFA5UURnVmZLbVg4bDNYSDZGNGVseDg5SlBWek9YUUVBQUdwYlBpSWF4LVJDMDN4REtVM2dqQ1I2YlU5d3pKQV9uVUFkZVlRY08xSHZ0aG9oRGx1MVF0TUFuYzBYRUFoeXBuNW5RSEREeHlx?oc=5",
+      "date": "2025-01-25T22:28:26.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Pinjore Nalagarh"
     },
     {
@@ -190,21 +180,31 @@
       "match": "Pinjore Nalagarh"
     },
     {
-      "title": "Pinjore-Nalagarh road widening moves at a snail’s pace - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWURhXzJFWVZzSzJIbEp4djFrM3dWWFJTckUzbHpTcDRzUHNTUnBORkxNNnZLVnoyU3RMRkVldjZodWlHZlg4TFN3Y1JzTmhldEJaamg5Wm9nVDROa2pBd3V6UHowNVJsMndCWC1HOEZJdVRmTWRMZEQxcWhZV3JpZEx0VlJaQkpmb0pQbjcxc0J2eGlKZlhoT1VtYVdpQdIBogFBVV95cUxPcHE2VHBjOWJaSkg0MmhaYjVRNEttLUI5TzlYeVMyNG5mNl9SejE2T2JDWFJwbzd6Si1ZbmVRZFNNU1NldXp4NTZZbGtQZDVEY2FNeTJPaVZPZUVZeTktUDd3aW15UTBUM25ONVFYZThRNld4S2NFSmpCNWxjUXNKbkJpa3BlSjhDODhYRE9BQmljYVFMc2wyaXkxeXYtMW4zYVE?oc=5",
-      "date": "2024-08-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pinjore Nalagarh"
-    },
-    {
       "title": "पिंजौर-नालागढ़ हाईवे के फाटक पर तीन दिन तक सुबह 10 से लेकर शाम 6 बजे तक बंद रहेगा ट्रैफिक - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZ0pyTVFCSEdUdHlrZ2V5TGlac1A4TUxnemszcWZnd1dsZFFUelFNeEtIZS1EUElSR2ExOFp2NGxaN083R01fM21NMjVzZ3MyMW9OUjVNbTBad2pDd252Z09jVmtYR0NUYkxMckdOR2k3QWJtX25HdnNpTkk0OGlGUDI5YWtxdWZOYUdsU0IzbUtXNFdpUmdhZzhIamNEamNJeXNwN0VOdTJOZFFCcXl1X1NmMGx0TXgxcjhpdGNFLWstUlZFQ3JfNlUwMnZHbTNlZVR2X0trQ3g0eXNXV0pyQy1ldGNWV01XRmNxM1pjSWdBQnFMY2lyR2liVURUTTdMSjBzeERGMNIBjAJBVV95cUxNQ1FPMU9XTk9nR0s1SlJWQnZTUmR5Y0pWZjJRRjJWdlp3MlNtblZXUUw5UGRWdGNDbDkwbXpneDFRUzlLWGtWZUVlQ0hoODRPWHI5TFNrWlh5dThBWUJidmthbWdCbjFMY29keER1OXFuazJqS3duVHdOUUowNG5sNHZGSlBzcER2S09OeUtSVGw2MlM4bXg0NWNhQ2FMWXpNd0VjNzNQc1NFRzJaN3duaWtPQVI4RU1wTF9LV0VWZUgwQmhrWTVGLU5xeW1GeUo4UWFJMWdkd3h4QlhQS055dzNwRHhSX1BDSU9QcEpqRGhFUkxrYlJHN2dpcll4MXpmemxJNXUtdldPZGxa?oc=5",
       "date": "2024-06-02T00:09:29.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "पिंजौर-नालागढ़ रोड पर आरओबी के साथ पुल की हालात खराब, टूटी रेलिंग से हादसे का खतरा - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPNzFSdDkwUEloNGNmYUVReThmVmFnWXVfV003dEl5aG1vejVMXzQ4SFVtYW1vbUMtaXhJTGFySHFqN1ZhcENZNFJWZXVfREVaY0JYZE9JUktZekVqTndPQ3ZsTUVZY0o0SGZSRGsxTFZMRElRbXRacjV6TjItOENjNnAwd0U2clFvbE5aQ2d1RWk2MGd3S1VkeEFtWG9OX1dYWnZzdFdrc3dnRThjQ29ESmJNOEtCOWRJNW1HMGVGTGhEUmE4NTBweDc4OEhNbEsweThCdHdZQ2ZTZUtTaFd1cDAtV2x4c2RaemMwaE1yamV0U0R2WjNSUHl1QUFMdzNueHMxRGtVQ1BVcWpMOG9pa3QtNFBwSFRtZlA5aC1QLUdWc04tbUNfX1RR0gGvAkFVX3lxTE42VnN5V2xVdTd1VVVzd1ByNXg4UC05NzE0N0I4Z29HRkFzcWp3Q3dpa0RLcktsbGwyR3lQbHQyS25VdFJZZjg4YmUzeC1yTjR3RGZqaDNmcTJNa3FkUkFabE42N0FlRG40bk1xM01PRnB3cW9yVE9PZXdyY09ocFg3VjFwQ3dDLVFCLWM4cUVZbjRDc2twOWlUQ2FhdkY0V3k3d25aTnppSVdrLU5xNVhoeWdxUXhHbTZqWkNXNVBrUWRQcGhqRDd4NEpiR0pWOHJHX2RmbGlGeVRDbGZCRDdhY0lDMHNBQ2pBMkFZc3RDSEFKeElFS2xwLWc3T180amRkbTBLaDNQWVJNZndpT0hNd0V3OUtpTjdWZ3hnencxUkVWcXpEcU1mWS1sbVJabw?oc=5",
+      "date": "2024-04-27T02:31:40.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "पिंजौर-नालागढ़ रोड पर फाटक के पास सड़क के गड्‌ढों से वाहनों की आवाजाही प्रभावित - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaTk3TkpuT2F3Q3pEbGxmeWFqdV9YTmIwYmhnZVdDTmsyREd0NjFoTDRLclExXzhDd0VSbWhZNzB5d2c0NjVJR25OQlV2aFlOSEk1OU5JOXJPNkJMNDBtNTM3UDd3Z003azVVNWRlV2ljUlFFd2daRF80TC01dkRNbkZLb241czZqVzBsUXVMd3hncmRUUFg1QmVjUXRVOUZJdEl4cVI5OU5DRGo2RXlGU0ZoYUZCSmo3UnAzeFpfSC1ZbGw2RjZoeE1rMHVSVkpielNVTlJBUERxckVTNkVpNUgtR055QjVGVDUxSTBkMNIB9AFBVV95cUxPOTdQNFRxSlNvSElYS2QyMWJIMUtBVUQ5ZDBUUEhUbnczT1o2RVlqVVJiVHJfVUUtOU55RHFHODJtclhjelFxZ2FkSHRFM1FkdWdXT0RWaXpDaEFaVUhYTkNTTEsyOXM4Zk1aNFpqVEllek5FUFl0WnMzdTktcHpNdmcybjZ0OVVrbXhXdmFxd2ZBbTF1cS1ZQUh0VVBzdF9hRmNfOXhvTk9nT0ZHak1YU0NfQ1JMc3NoaUtYMHNZZER2VWE4X2t0RHk3Y2d6M3pxbGx2RE5HY0lrbzNvYU9ySm8tRWtCQy0yWjhpaDVLU1dqUFlZ?oc=5",
+      "date": "2023-12-14T22:31:15.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Pinjore Nalagarh"

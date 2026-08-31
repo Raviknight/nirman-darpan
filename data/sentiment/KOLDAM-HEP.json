@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-28T02:25:14.600Z",
+  "updated_at": "2026-08-31T23:06:03.341Z",
   "project_id": "KOLDAM-HEP",
   "press": {
     "n": 20,
-    "positive": 13,
-    "neutral": 6,
-    "concern": 1,
-    "avg_score": 0.235,
-    "avg_magnitude": 0.31
+    "positive": 14,
+    "neutral": 4,
+    "concern": 2,
+    "avg_score": 0.24,
+    "avg_magnitude": 0.325
   },
   "youtube": {
     "n": 6,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 26,
-    "positive": 17,
-    "neutral": 8,
-    "concern": 1,
-    "avg_score": 0.3,
-    "avg_magnitude": 0.396
+    "positive": 18,
+    "neutral": 6,
+    "concern": 2,
+    "avg_score": 0.304,
+    "avg_magnitude": 0.408
   },
   "top_positive": [
     {
@@ -50,14 +50,14 @@
       "score": -0.2
     },
     {
-      "source": "youtube",
-      "title": "Hme garv hai ham koldam ke nirman ke sme 2 saal company me kam kiya hai",
-      "score": 0
+      "source": "press",
+      "title": "Rising Silt in Sutlej Puts Sunni Residents on Edge: Shimla Administration Steps In - HIMACHAL HEADLINES",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNnU3QXJWOWM0T2w4OUJXcm9pUm1McElyak9WWVZLWmJDUXM0OWNnYWVEWVRxR0ltN0dRZDZzbVlvY3RfQmpOUXkzWWJjQUlZc1ZUSnM0dVVibVFSUWhYZzNZYTYxTUFlWWYzYm1PXzNOM3FPc0ZpeklZZWdNYVMxLWlTQU9rVTZiUVpQQWZhSXhxWUxPOFFHQ2pIdmhKNV9xcWNSdG03ZFM5czJLQVhKM1FoaVJBOWtH?oc=5",
+      "score": -0.2
     },
     {
-      "source": "press",
-      "title": "All major dams in Himachal are within safe limits; Pong Dam records highest inflow at 4,933 cumecs: SDMA - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVW1zMW5rSHFWeFlvVWZSNUdwS0VQcWpBZDJMWjNqS2o0VVFZSGZzZE0weWstcktaZ2h0aG03SFNZVHN1LVBhZEhEOTFKSUJycXVSVjdLTkNCM2hCaGt6ZG5zWFNwdDN3VlBvb1lkNFd6enlLVWZqYmYzZEVKOFdfLWNhbVZWaldNU0ptTDYtMUVjU0hoRi1TcHF3ZUNNNWdoSGo4aTBYX2ltUWpDMFRXLUJlQnkwX0Q1QUFnbUFKZDdBU3lxYy1jQ1Fra2RhdGg0eFB0blZPSzBlNGFKRW5JcnB5MmxVaWtxTjhnam9EOVE0ZnY4RlM0RQ?oc=5",
+      "source": "youtube",
+      "title": "Hme garv hai ham koldam ke nirman ke sme 2 saal company me kam kiya hai",
       "score": 0
     }
   ],
