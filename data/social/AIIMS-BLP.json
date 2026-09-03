@@ -1,60 +1,30 @@
 {
-  "updated_at": "2026-08-31T23:04:30.919Z",
+  "updated_at": "2026-09-03T21:31:43.288Z",
   "project_id": "AIIMS-BLP",
   "counts": {
-    "press": 203,
+    "press": 197,
     "gov": 0,
-    "en": 99,
-    "hi": 104,
-    "total": 203
+    "en": 95,
+    "hi": 102,
+    "total": 197
   },
   "mentions": [
     {
       "title": "Hamirpur (Himachal) News: अवाहदेवी से एम्स बिलासपुर के लिए बस चलाने की मांग - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUi05Q2phZmFHaDRVWXZrWW42amNIcm5jczVlWFRZc2RzVFNXbFFGNEx3RVJEVFRJRENkbHFoQ29pVlVqLXZIVTQ5alp3WUx4UVJyRG14WFpIcm9IRzQ5MHppYnQ4dElPbDBmQ2xsZ2pvLU9GSjZ2djFMenRfX19rV3dHMmU4WnBRZE5kLVFLa21aWjk1bTl2YjhmUEhwR2hYLXV0Y0xrMmxjLS1OWGpIRHQ2UXRQYmhWcENCaFBlR2VTZlJDR3BYMzcwUW4xcklMbDRjT2p1MFlrODJEN2RYNVRmMGNveXItc2w4UDhMdUlONmJKQWfSAfYBQVVfeXFMTlItOUNqYWZhR2g0VVl2a1luNmpjSHJuY3M1ZVhUWXNkc1RTV2xRRjRMd0VSRFRUSURDZGxxaENvaVZVai12SFU0OWpad1lMeFFSckRteFhaSHJvSEc0OTB6aWJ0OHRJT2wwZkNsbGdqby1PRko2dnYxTHp0X19fa1d3RzJlOFpwUWROZC1RS2ttWlo5NW05dmI4ZlBIcEdoWC11dGNMazJsYy0tTlhqSER0NlF0UGJoVnBDQmhQZUdlU2ZSQ0dwWDM3MFFuMXJJTGw0Y09qdTBZazgyRDdkWDVUZjBjb3lyLXNsOFA4THVJTjZiSkFn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMEVrYnhmNnBRSzJvRnlCeXd4OHZVY2ZkeGJRRXVWemVndVNhOXM1YmNYRTNGQmlNMXBNbHRZUDBMOS1seDUxUUNoWXJhRU5QRTVJb1dwV3BMWDJpTFQ2bE9Ja3dVTUNGbWEySURyVE0tNlotd1pWSnZCeEdpQS1LaGpGbTRLLW1wYVpYSGd5LUF1MG9LWkZZcjlBWUlBcWpKeVlXdl9EQVlRbTVySTNOUEtQY09pdEpNeVlCdkJIRXU1dHlFemlBcW9EQmYteVp0V1RQNlhPeHFwOHMyQ0w1T3lsNkJEUkVubnVFeTF2dXPSAfYBQVVfeXFMTlItOUNqYWZhR2g0VVl2a1luNmpjSHJuY3M1ZVhUWXNkc1RTV2xRRjRMd0VSRFRUSURDZGxxaENvaVZVai12SFU0OWpad1lMeFFSckRteFhaSHJvSEc0OTB6aWJ0OHRJT2wwZkNsbGdqby1PRko2dnYxTHp0X19fa1d3RzJlOFpwUWROZC1RS2ttWlo5NW05dmI4ZlBIcEdoWC11dGNMazJsYy0tTlhqSER0NlF0UGJoVnBDQmhQZUdlU2ZSQ0dwWDM3MFFuMXJJTGw0Y09qdTBZazgyRDdkWDVUZjBjb3lyLXNsOFA4THVJTjZiSkFn?oc=5",
       "date": "2026-08-29T19:50:25.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "Bilaspur News: एम्स बिलासपुर में गेट के बाहर नहीं, कैंपस में बने पार्किंग - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPWGoxS0w4ZGpWei1ITS1hY1hNdkwtTEJaVF9TdTRScmZybk5hM0p6aFU1Zm83SnJHQmYya2dkNVlPdmlOQk5scGF4YWh3c2VJeHJFNDVRQTFicjFxNEVSLWdhU25JbzY1RE5uOFY5V0J0OUx5NnpySmpDU1B3bzFRYldqSXlrcjB4UE1hRHVucWhCcVczQnh2Wk5jN3F1eGduaFlWRUdmbmZ6dTJ3cWFGUTNRenZFcFl1OEZpbWlFcXRvbGxMZnoxdTlkaFF1S1BoOVRIZXp4LXVMWWY0QnJpTk5CbTgzdkxNUjVFSzh4cnBwRm91OW8waGN1Snh6a1h5Tnp1WjljQWRRcTd4NFkzYmR30gGSAkFVX3lxTE9YajFLTDhkalZ6LUhNLWFjWE12TC1MQlpUX1N1NFJyZnJuTmEzSnpoVTVmbzdKckdCZjJrZ2Q1WU92aU5CTmxwYXhhaHdzZUl4ckU0NVFBMWJyMXE0RVItZ2FTbklvNjVETm44VjlXQnQ5THk2enJKakNTUHdvMVFiV2pJeWtyMHhQTWFEdW5xaEJxVzNCeHZaTmM3cXV4Z25oWVZFR2ZuZnp1MndxYUZRM1F6dkVwWXU4RmltaUVxdG9sbExmejF1OWRoUXVLUGg5VEhlengtdUxZZjRCcmlOTkJtODN2TE1SNUVLOHhycHBGb3U5bzBoY3VKeHprWHlOenVaOWNBZFFxN3g0WTNiZHc?oc=5",
-      "date": "2026-08-29T18:16:02.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Bilaspur News: ब्रेन स्टेम डेथ की पहचान और अंगदान पर एम्स में प्रशिक्षण - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVXF2YWtpRUdGZEhLa1RRVVJtNjhNbkJKSlIydnhKU3NlcjFlTFBkcmI0eHBPeGxBNHQwUzBiOHZnTFNWdEZNWTRSbXdpR0JyX3F3TzV2bmQxVWo2djV5ZGhXVHZzVnNOeFRUck10Rlgxd01JM1VuMXpRYVc3bXJwTXJfUW9qWHVhWG9USWgzcjVjMG5PVGN1cVVzZUNUVXotanJWUVlmaFNCSGFjMm9YVExaX3VpZHo0b3NLUFNTWVZ0ZjZKT1NwV1RjanN5QXBUODF2d3MyNDluZlM4VFJqOXRCcTZ0TTNvRHJfci1oXzN2NlVWbmtKalJhTEh3Nzd00gGGAkFVX3lxTE82TjVJUlM4WUVMNUhhWEtBVVltSUpCY0FwTDgyclA1VUlUS3FSanhQR1FEVllNclJvS2RIZ2E2c2s1ckR5dGgtU095TlFad0t0YVQ2cjNhTjAyWnBVVHhacm5uMDNldHR0d0tld2FZaFJUQjJ1bGNhUXBGQnhqMFl4UExFaHlGTzN2YjhpeHNid29Tak9TdFMxUlg4OE9Hem1hSXczaXZMeE9DWmVaUXlHTV9PTXdIbktmeEhqTzhYQzlzOHpLUDVPODR2TjJEUE1GQU4xanRlTEEtNUdteXRzQVdjOHhCMDdlQkhYMk5mZmZ6TUt4MUZxSWxneF9Kd2dIMEY0amc?oc=5",
-      "date": "2026-08-25T18:23:28.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "इस दो दिन एम्स बिलासपुर में बंद रहेंगी OPD, अस्पताल जाने से पहले पढ़ लें ये खबर - etvbharat.com",
-      "source": "etvbharat.com",
+      "title": "इस दो दिन एम्स बिलासपुर में बंद रहेंगी OPD, अस्पताल जाने से पहले पढ़ लें ये खबर - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRkdGay1zVFZBQ1hmN2ZOWnEtN0g3Q0JCMkxRem9HNml3ZUdCNkVEd1c2SHpYeEpobzdEN0tBT1g0dmM5QjZlaHJiTXFfUjZBZGhMX0lNOU91YlFDeEdrWXNVUFphblkxWE9Qc2JGRkRReUg1WGlsQzJ2UFc2WkcteEVBMzhHdlJXZzRLaVZ3bV9FUG5udW1Na2FqTVF6ME9MaWNoeXFBRDZ3SXfSAbABQVVfeXFMUDVCN1F5X01Rc3Q1V2Q5NnhOa1pKeUM4OEFXT19xMzMwOHNqZTU1OWFTQzg0Q3VZLXR2WGZoMktDLThWZDEtWlZZWThpUXZsQjZCLTRmdUh0cG1fRGlzTWh4WnNJdTVSZUIzX2ViWFB5UXlVeF9RWnQxcVhscUlvclY3d3g0emIwbGV0WHBGRGR3bVFramRZM014cVpDT08xelJseThVdTQwNnd3MmtFZy0?oc=5",
-      "date": "2026-08-25T16:14:55.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "हिमाचल प्रदेश :एम्स बिलासपुर में 69 डॉक्टरों की भर्ती, फैकल्टी की कमी वाले विभागों में घटेगा काम का दबाव – Aiims Bilaspur 69 Senior Resident Doctors Recruitment Specialist Services - NewsViewsPost",
-      "source": "NewsViewsPost",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNZF95Y1F3cnlNMUQxTGZsTUtGWEJDS0RqTlVvckpHWlpNSWxwLWZwYzhaZDRrcG1lQUd3UjhodmFIRjFmVm5tdDU3V1laQVZKS0lzQk1Xb05SU0VVbHcwZ1BUM0lqaVg1ZEJmREJUbHNRLXg5NU9vcFA5b2JicE1LbzJFLXVlQ0dxVHFlWVZxejk0Q3M2Tk5xZWZDd2ZhbjA0cXNGeS1NV2tPeFlmeUFMMG55TjdlOHJ6SXlVOHlkSVhDVGx4eW5VS1hsX2J1S1FnTDhHU1ZRNjJQdW96ZnpjNy1xbTlNV1BELTh2NC1LbV9sRk9nc2Z3VWMtanktRHA0TENzbHJHZTZxdGk2Ykh5MmRpbkF3NHJFX3Z1QzFDNWFXdEE1WkxZU2xIZnV6bWdsTE1aVXl3RFlnRmFUUHFhdw?oc=5",
-      "date": "2026-08-25T03:04:01.000Z",
+      "date": "2026-08-25T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"
@@ -70,31 +40,11 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "Bilaspur News: एम्स परिसर के ढाबों में खाद्य सुरक्षा विभाग की दबिश, भोजन के चार सैंपल भरे - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "एम्स-बिलासपुर में 69 सीनियर रेजिडेंट पदों पर नौकरी का मौका, 21 अगस्त को वॉक-इन इंटरव्यू - bhaskarhindi.com",
+      "source": "bhaskarhindi.com",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbVhNZkc4ZTN0ZVV3YV9XQXVkZ2hYNXQ2VVpwX0k3a3huYXpWT2I3aG1nUHdyWTQzUWpZMms1Rll4bWV1T2w2N0Z5Tjhxdl9NbGpKeE9nMVNvRENiY0dzcC0tOE5rOF9HTXlzaE9hTjNRNmJyMXdYQ2xVR3BPY2NTZWVIWE0zMDVSejYyMFp1UU0wRlMzcGxXN1l4bERCR2dfd2hSUUJTRWxfVzEyZFJtWUFuNjZ2YmUtTjdyMi1Ral92Q1p6aXZpM0tfdC1GQ1dwVnJmVFFEMFZXWUo3QWI1bG1ZN29RTDVBTk14Vm1JSzhUekFEaVdEZU5oNlRiZTlhX0FWQ1d2dXRMR3RQVHRoM1FB0gGXAkFVX3lxTFB3d3ViRE5RejE0TFpiY2JibTE0OE1YVWtoWmtQbWc5czRKUmFRTGpORlhqVmlKS3FIQ004UDdIWEJkUzM1OVNUSmVmNjZ2N01pMTMzYXhYdXZJX2RWVngtVk9EQnJNd0lzYWhtdXhUeGlnWWk2T3F3NVpXdlI5WnhMeFhNVksxLTJLMS1TM3c2ekVrdzllQzZOWjR0NU9FZ2tKbWNWYXhQbUNsTU1XckJmZFVpMEVHeVU5eXFXRmF5UEZLcWlHNVRsSlQzNlA2Z2puRjQtWUNQbjdTOWRTRlhScE81Zi0zTGdWcWFSelF0d2dId0Y2ZEN5bGRwZnBoM1EwRmZPQWdaaEdGNHZWX3JDb0ZBY1E1Zw?oc=5",
-      "date": "2026-08-21T18:01:53.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "एम्स-बिलासपुर में फैकल्टी के पदों पर नियुक्ति का सुनहरा अवसर, 31 अगस्त तक करें आवेदन - IANS LIVE",
-      "source": "IANS LIVE",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYVFzbk81Vy1Tc0dFV2FZMERKSmF0LWtyaE42UFZCVFdacUZnX2tpS1ZuNURhYnN0M21wZXlLQzdpR1p0dUpJZEJvTTNEdklIU1g0T3RsQXVGZmZRbDNqTG1vZHE4ZnRKal84YzlGV1gtZTBGZ2tlaHUwdm1UMm1FWWtHSE9PbE85ZWFQemZfenVRS0I4S19TU2tvVzJuY1JhVFJGajlhQkFicURrZ1VWcU5Oa0ttc2Zkd1VXYjNlLUZyM3R4ci1WRmYxVV9LWldJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTFhUWEMzRHdkSk56Uk9xZVpId05JNUc2RDBOeVJmaV9LLTFFSkxrY3pBbTdxN2twQ2RtNjJoaXVJZkJQWFJ1V01vV3dUSzBtZDFvNllBTGUzbzVrNXN5Z252ekdUUUFGVUNKdXBWNmtSUFNqbUtOQm9hQUJwbFNaRmlWZUpZb1pHbm9UNlgyVDlnZXJUcVA3VjB5Sktnb1BZek5INGVSM1VydmxuSnBiUk5sbmFXWXhlSElqT0R4dzJsRGcxUnpZNng2WWN3VUQ3ejkzag?oc=5",
       "date": "2026-08-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Bilaspur News: कैंची मोड़ के पास खड़ी कार से टकराई बाइक, दो घायल एम्स में भर्ती - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNa19DYl9FRUN1SXc4anZja28zMXdPWklCQWZrM20wMlJUNUJ2bXFkRUd2NTFsdmpJRGRYRmVOMmdHRzJaV0R3dGxJZndQaDlDX0ZmRG5FVDhMbjhtbWtmZWpqOGRwNmtPWmg0TWVTZUptay1uYUFDVkVYeFBnai1pZGRhNmFjdVZnZUJzb3pMRjBUWGJlellKOXZDNjhlaTNoYkFnbGZBb3c5RFVTSVZtNWJaVG85R294Qlo0UkVxck0ySnFUdjd2eFBid3FRcjU3R2pycGxJRlZ3akdDZGQwRmZZdmpNaHFOd0M5N1NWU1llLTdWekxDbW9nVjVnb1VHanMxdFZB0gGLAkFVX3lxTE54T0VjUk9xOUdMUG1Nc0ZBOEMtY1kwY1lsc0lvbTZJdFlxNmZyRmU2RmRuZGl1U0hfS3hLdmVrbGhKWjZtLVRrVkIwTFBpMUdxLVFicG5ocVZWZ1NpWGhiMV9QaVV4U3FYRWpPVjM5VW1qU0pETUJJbmJsODNla1NNMHJTV0YwMG93RDE1cEhSSzQ4ak1vTUNhOWl4eGVoYnZ1OU9HZU1VN0dqdW03VjV5SkpoRldTTFlib0tiV0VHVkpZY2Q0U2U2V001ajFYVHNpaWpOSk5KMmRwV2NZRHFyS2Ria3JyYWo3NWVFU01oaWlCR3NzNVRhLW1BdkJCaFRUVXZEcWtrc3RUbw?oc=5",
-      "date": "2026-08-20T19:01:39.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"
@@ -110,33 +60,23 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "एम्स-बिलासपुर में 69 सीनियर रेजिडेंट पदों पर नौकरी का मौका, 21 अगस्त को वॉक-इन इंटरव्यू - IANS LIVE",
-      "source": "IANS LIVE",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQVR3dGZ6QWxGTWpSNTZSN1NURkh2a0RISHBJdTlONVVhWE1hTDBJVThBZ2VlRmZCX3NDUS1qaHJLckp2VkRhdFRycXhsSnpWclFPWHk1VFpab2JjRzBjekJtcHhtQ3dUMWpfZFhHbk9SU3pMbkk4ZUxKTlZMdHpsOHhLc3JuUGFvREZYWHRLbFhUV09qeWV1Z0Fnc2RiWnVhNWJocF83VEZVZlJsWTFwbWF6VUtwZEJrRnNVYm5YMVZhSjNqNWNzVTk4TlFpTGMzWnpB?oc=5",
-      "date": "2026-08-19T14:32:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Bilaspur News: एम्स में 100 फीट ऊंचे ध्वजस्तंभ पर फहराया तिरंगा - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT0pRMjFnc0hXenZyYnFyYjlLUC11MFMybXpCNF9nbUZYT3BrVzBLdkxZNTU4T2xzY0FicXExSmprdVlKd1Nib1JSbk1RUW9LUXpqQnRmU3RiSGdXVFVQUmM0ejVsUm1LTHZTSFRxX0VVSU5peU9NYlZtTGxEdnRpUUlNTDNKcEVwcDh3ZjBoaG9DMkZIREliaGdaRnkyemxkY1NiOHdQcFd2bC1ybWx1OFViN1pWX2V4LUh2MWtOdFZfNjVLcXdwTkE2NG1mWURneUwtdUV0RHBmNjI2RHR2cl85TFNvZXgxdGfSAe8BQVVfeXFMT0hnb0dLTVI0dExTenJTWGtoNC1pX1RycnEwOUo4VE1kZHJrN21RdjJGbFZIYjRuMFhUZFdocjRXaUJWTHhiRFFrZmRKMjVKT1hud3BnblRaRDFLRW1LVC1vdTVYRmZfR1FMM1lOM29DT0pSRnhScDFSRHV3SXVTMzA2Y2FUZzc5N2x4R05Ua3hMT1g2T2xaMlJVdVExZ19lLU5haTJnN0JFQlhZOUtPOHpFNnlJLXJiYXQxZkg2OVYtRWt1MXFURnFyanF6bTBNZmxuODlMZVpsZ2dTamtQbXRrODlXN2NJSW1PN3psSkk?oc=5",
-      "date": "2026-08-16T18:10:02.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "एम्स बिलासपुर में हुई दुर्लभ कैंसर की जटिल सर्जरी, डॉक्टरों ने पेट से 10 सेंटीमीटर का ट्यूमर निकालकर बचाई मरीज की जान - etvbharat.com",
-      "source": "etvbharat.com",
+      "title": "एम्स बिलासपुर में हुई दुर्लभ कैंसर की जटिल सर्जरी, डॉक्टरों ने पेट से 10 सेंटीमीटर का ट्यूमर निकालकर बचाई मरीज की जान - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3hmTTVDN181M2o0QzVUc0o3a0IyOE5uc0l4dTk4bksyVDl4LWd3TTE3OTgzMUx5UU5PNkxya2xxTjRRSTRrcGJDOEhnUU5aM21mWWdFSl9ZalFNS3V6eVl2ZE1ad3JHWFYxY3MyM1FQWTNYUUhkaTZCNVo1YWx3OE5ReVo3cnZ6bThiZ3VjTXdhTjUzdTdXVTROSG5yUHl0LUV6UE5iWWI4Y0FKa0ZGUdIBtgFBVV95cUxPeVl0LU01MDJMYXd2Z0NrRXB1ZzByMkN0cE9FZzVmMTVJYkQ2dGFWMkZOVGlUUURsTTJZQUpMLTIxOElWSk5HdklKcmxCRHVRRmVZNWdyRFNJeHlfdmVsYXAzMVJYZzAyQjRqVzFDdnBDMk5IX0tudDNjaHdWRDhYRFdTZ2tFSVlKQnJlWXV3WHJSS2s5MWM1MloxaGtLU3I0X1dFYTBXaDdHZTFSRS1NRkNBaW5wUQ?oc=5",
       "date": "2026-08-15T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "BILASPUR: HIMACHAL PRADESH CM SUKHVINDER SINGH SUKHU REVIEWS AIIMS BILASPUR FACILITIES, ANNOUNCES REGULAR POSTS FOR SUPER-SPECIALIST DOCTORS - Press Trust of India",
+      "source": "Press Trust of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQRnNfU3FxVGpaNG5Ya281VlRJYjNhb2ltNkduWkpzYkVVNDAtM2ZrTDYwSUI5QUlvXzFaNGNCWjVrcWJSdENMWlBkMW0ya0VRcjE2dnRoZURKel9aYU00bm82aW5LUm4tRUhXZU9mUFdSbWlKeThHeXlEdDY3VW5VY0xWdWllUFpkclJnQllWd0kzNjFhYm5GWHBVNTNiOUZOQ2g5bXFXODU3TnhodVRxV0I0Rks5UDRaMVpqN2Z2UmZJYkRQb1A2T2thdWJJTjNLTTE2VmFMdXkxa25XQXI0UmFNRWg4Y2pWZ2RQem1KSXNvYTNOS2VfbzZoM1hVaWFSUVlYQUhUaG8zcFRhZEFnZA?oc=5",
+      "date": "2026-08-13T11:09:59.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "AIIMS Bilaspur"
     },
     {
@@ -150,61 +90,121 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "अब सांस छोड़ने से ही पता चल जाएगा आपका ब्लड प्रेशर, IIT मंडी और एम्स बिलासपुर के शोधार्थियों ने बनाया वोकप्रेसनेट - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOG9OZ0xEb0ZzN0lsRlhaOXJVWkZOYkh3SnhZSVJoOFVvSXROMWVwakZJQzBOd3hmSU9UTExjZzhLYTl6RVN4Q055SjlvM1BHVjR6SGp2YVZ4eFlfTG9JVV9DbFFlSzRLYVJoS01RTkRvMHJTWGI5dFJldUhPRjY0MUlZUVp6QnpWSS1XbEI5NGhuLVdWdTJ3M2RySW9qY1VlY01FNXRnbzE0VFo4VU40cg?oc=5",
-      "date": "2026-08-13T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "AIIMS-Bilaspur to emerge as top healthcare centre: Himachal CM Sukhu - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0FSdmhka3ZqYlh3ZVNtc3puUWNSM093MlViNUxNU1IxNmxBckNyelg1d1BWOVdIdGt3Zm5Jckg1X1lzZ0dLeWFTSlJmR3RtSmVjc3dPcm5icGY5ZHhhZ2twalNNYjNLT1lKektzNHplSndMdTVJME5oUGVORHRwNzFRM3Nqel9LdnlkQm8zcTd1ckVpanpmeHlHdFFYNEY4Tl9zbVlZLTdBWW1iN1UtTNIBtAFBVV95cUxQZmF0Q2hvZldZX2JnVjBIYUl6LUwwN0RURmZFaHc5UWU1cG42TS1fMWRkR1pCcHE5SUJqaWUwaVhyNXU3RDJLNU5MS20zaWQxVjM0dGF4RWo4aHhhTXpFN0gwVnl1ZW1KS2tRQ2phclBjRTVBSV9xQkUzSk1DcFAzZHBQWDM0SmVPRzFmSW5Rall5akhkaDhPcnJvUzdKMlJLeDl4VmU2R2V0SVp5RURXYS02Q0Q?oc=5",
-      "date": "2026-08-12T19:42:31.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Chief Minister Thakur Sukhvinder Singh Sukhu has assured that the state government will extend full cooperation for the expansion and strengthening of AIIMS Bilaspur and help develop it into a premier healthcare institution so that it can s",
-      "source": "News Arena India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVFY1a0p5YWRneUtJWWVjdUpVTXlLRzNRU2E4b2JwN2RCcUR4TmduVUpVbWF5T0E2RWl2X1ZNcUpzaXFJSmg1VThKOTNramJEUEVSMW9yRU1NNWowdFZsUlZUNU5pVFo4RkdpQTRPbDdfek1UYTNoWEZKb19nMXpmRl90N1o3bzV0V3l6bXJJWURzS25IY2dvUlg5cw?oc=5",
-      "date": "2026-08-12T11:23:43.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "CM assures full state support for expansion of AIIMS Bilaspur - :: India News Calling ::",
-      "source": ":: India News Calling ::",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUxqV195RUg1cG52V1NqbnRuNllWdXZ1QVAyQnJSMlNNd094QlBlR2NfTzAtQlpJZnJ2UDhYZ1k1d0ttUi1lOGJBZlA5MkUzWEVvSjV4b3VMSDRQUTNvbGEwQ25vVGJiTnI0R2U5Q0tZNmk3NWlrVXlIUnc2UHpvY0hZRllCeTRxUUlVdFNWRExxMk5oak9Bc0VWY2FXajQwemptLTY3QmVCSk50Y3RjaA?oc=5",
-      "date": "2026-08-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "एम्स बिलासपुर के विस्तार में सहयोग करेगी हिमाचल सरकार, CM सुक्खू बोले- मेडिकल कॉलेज में पीजी सीटें बढ़ाएंगे - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWRXaWUxZ2xfbVNFbWFIbmRuc2pOZHJYaFVORkhic3lQc0JTNkhvekxhc3BPaUhHdVlhNWFQMzJsODR2RTE3UXVyRFpaNEdqZUxaOFZuTVQydVBILU5OWFhQMW9GSlpabUw5SWlzbk54TEFpck1id3hrNnV1U3NhLUt1UjNxcHRKdWJ1eXJSdHdhdlRyTnJMd3V2RDJhR2xPd1JHRUZEZDdabHlXMFBMZm9hbnpFbXJ4cFRtUjF6UXFydw?oc=5",
-      "date": "2026-08-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Himachal News : खतरनाक सांपों के जहर का असरदार तोड़ खोजेगा एम्स बिलासपुर, एंटीवेनम पर शुरू होगा विशेष शोध - Amar Ujala",
+      "title": "AIIMS Bilaspur: सीएम सुक्खू का बड़ा फैसला, सुपर स्पेशलिस्ट डॉक्टरों को नियमित असिस्टेंट प्रोफेसर लगाएगी सरकार - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcmxPdW44QWoyNGhEY21JTXgxaVg5ZEEtNVR3LW9KeFEzYnduVHkzUHdVSU5YVVlJTll0c24yZ1lLSzdDcW1VZ1EtdVI0YndWQlljV2RRNDhiX0xJTDh0Skt3UHNscGJqRHNTRGlLeDVPcE45RS0xZnJfY2tUMFZvM2c4MlpaZXYxaUNxeDM2Rk5fY25McHAxZ2NHSmU2OVJsWUY1TTVGMlLSAa4BQVVfeXFMUFlRRWJfWDBaVjQ2RXMtRnZwMkk0WHZyUFE1dHJRRkF3YmJPVVh2M2RHd2JfaWZGSWNKVTd3MHFlNFRuZ2RLMXFWQkU1OEZXQV9RdTQxcVloVUZ6RktpVkNKYTZyYmZGcEZhVlhUcmZybDRrMWx1c0F2MXpHRW5oV2JWOHJNTU5oQ0VQZXRCSExEaTJ3UElRRlZDS2xMWEgydTllSGtGeHpsWGcydXVn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLVQ5SVFrbklMVlc4bUhBRjNKV1ZMcmZvQ2JCWHFIZGI1ZWJkQzlTUzZXRUt1enh4eUtpU3ppT29IRnZnLVpUWnNfRkdTWmxsOV84Tmx5MG1lcTdHRU0wdXNLNU52czl4THhBTk5vY3hDX1Z0WXJrQkItNl9EVjVwaXMyNG4taEFSeTJmdHlRUkZlTmtfMkVacDlNVlpBYVFlX3VzUWs4OURqR2tRdkJTdkxvN3k0amNHMjQ2WlRtOGdKSHdfb1pBV0ZDRlM5akRGMGZNeU5B0gHbAUFVX3lxTE14WEFNRlhCblc4cmpJaTVrYnhTUDBVVFlmTnlZRVJULVZtUlFiRFh1Ty1QMzZDRXRvbUg3MGxKRF9XZmhXTUtIS2NLZjVMVXk2X3ZPWHhLUWk0US1nYmhxSHZzc2xNVE5SVzNoU3A0NEE0ajdxSzg0cUd3VUFJRkhGbHUtVWdzVndNRkpmdmFBclhSb0pEa2NLS243YVNLVVF5eWpXSWx0OFBvOUhJWmVESDZMRjBNMm5EdXVHQkNHOTRONExpQWR4VElZSmRCeHh1dXFheEx2dHBLaw?oc=5",
       "date": "2026-08-12T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "चिंतपूर्णी से एम्स बिलासपुर के लिए इलेक्ट्रिक बस सेवा शुरू: विधायक सुदर्शन सिंह बबलू ने बच्चियों से नारियल ... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb3lLUVpJNDl2bHNMcE1TQjRLS2hwRHhDUGZxSG5uUlpvSk5kc1N1MkdDczJfZm5vTERERzFGNFl2TDl6N0dFc19ER0trSXNUMndoR1lIdTZMQVpGeVlVMnh1MnV2YVRiMzZyWDVSaUh0LTZWb3VnazlvQ0JONHFDUFN3LTFmdm56RG5ZWjJrMTJHaGpYeWExNjhNeFpncTlrcnNNYVRzM2hTOUl3QjF6RjRWRzRtai1DTlp6ZUEyWWE3dWtLbGVab2xJUXI3Z9IB0wFBVV95cUxOaG1sMktIX0FkcjhRckRlSkpqZ2xhQ1A2RXl4M0lqY21aeml4WHhLUHVJZXZRcFo4U2MxYnBITHB4dTdFeGZIYmZud2lKRlN5RzNQQzRvVVpwY1RiUFhVT2tjdlIybk84ZHRVQnZoR0ZwbENuQ1RGVDhHUUZ4V1FRZjJUMEVwUEtEX3d4U1RpN3d4amxCeGNlRGNqLTRaWDd0UnVsbVdVY3JUeE1BemFENXRDWEJ6MnBSdWF4Z095Skl6MUUzdm5xcmkxbl9pdUJ6UzY4?oc=5",
+      "date": "2026-08-11T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "दराट से दो हिस्सों में कटा हाथ, AIIMS बिलासपुर के डॉक्टरों ने सात घंटे की जटिल सर्जरी के बाद बचाई व्यक्ति की जान - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmFET0wtSWd6cnRnS2xpWjAtVHNYQktIRThNaHV6bS12T1F3Q0F5MW1uZ3U3bnpjaGt5R2hrN1pXYU9nUmdPSEhaeWlCMWtLYmxRZ1lfVmxGeVNxMDBubUttRW5IeEQ2T3daVWxVZGYyQ1RXMDIwTGdqNXF0S0YtakZqcDhrQk1HQXNCQ2NnWnp2UHpqd3pqQ2g2dUhscnZzTW92elBIM05tbjNTMDBUWG1sbzFtY183akMtVG94V1hKcU5JbXfSAcsBQVVfeXFMUE1pbktnX0ZCZ2t0Ulgwc3ptVko4ZjBhN3NudjZ2Zjk4MTV6Q3plalhJLXllV29xWE1PUU41LUhYbUZoMlVaa3hNaS1EQmNwQTE1YkNXOWg4cVJ0VlYwcGtTOEZwdDNSbndXVl8xanF1UmZGZjdldkVabnRGbktkUjQ0Q0NKVTRwTVdveG5ZajdER2s1Zi1qdDFteHd5LTU1dUlzczg2cGtWZ3NLSmp6WmlkNDVyZDBZWTQ3LU80LVFfVzFPcmxsWW0yXzA?oc=5",
+      "date": "2026-08-11T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "AIIMS-Bilaspur trains emergency staff in mass casualty management - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM25sN0JNaWdGVVdHQW1tSnRNTTdvWl9kQjdCMEJjdGZieTJJMURuNXJpNlE0Y3U4NmVuVDg1bU80S2xhZDhqU0pZenROMUZTME5mbXFxeHdHVTZFd1BmeXpuNXlpdzNybURTUG5ub0lMdGN3WU1JTmpFQ1g0V092SDNGY1lEaVhRc2dFa3RJc19ZbGE4Rzl1YjRvRHZ1MWhVVU05Um16NjF4V25BS2fSAbIBQVVfeXFMTmhGZFVMVEhmSmFwVl90Z2dkcnBRb2JnWGQtc1Qxd1JGR3pZUHZ2ei05b3VZMXVSQVVGYjZKS0dFSGRJREdrMmpzOE81bFJRYldnMGVCWGFURldRQnJYV21hOHBzaUtraUpCNFM5aWNCRkxmTGJpQmNqUXR3aC16WFJPdEJOV1c3YnU4VVFBaGp4YUxfa2hHYk80a3YzV01jc0swRkVxTGFTSXgyd3hsTmhjQQ?oc=5",
+      "date": "2026-08-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "AIIMS CRE Re Exam Date 2026 Out, Check New Exam Schedule Here - Adda247",
+      "source": "Adda247",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45Z0VHck9aOV8zTDE0VGstMERUa05iMEhURjNFQTlxX3ZxUGdEalMxYUEzck5pZ1NrTmpFRVliMWdhQk9CWHlBQVBINDhhSDBseUh3UG9vMGdmdE4tQWNTMzJnRnRxZWFwbGt0bVJzWklJLWFrRFE?oc=5",
+      "date": "2026-08-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "Bilaspur News: एम्स बिलासपुर में पौधरोपण अभियान, हरियाली बढ़ाने का लिया संकल्प - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVXRQdzRaVVJlQ2FTTTk2am9XWXdUdWtXalNvblF4NFIzalVvbnNIWnFlTFNuSzVNUmZsYVMxd290Ymd5Z3J5RWxNbjBoTEdqZGEwSjRaUEJFdlFrMEpYcTNjZi1ybnQzWU52VThORjh0aXhzZm1LQmNJRXFSUXNoaVp1bTRnQVZXWTA3Xzh6V3ZfLUdYTjBvNjI4TUZNWlE5VmNucmRPMUd2TUZwM0FZVEN1VjZ3M0RDX0xNbFhibFVUWWQ4ekI3OHRsN2RRYzBfVUpRRGtUX2NXSmo2cUVUTlc3TFJFTWozNjJucXFoZWVlUjdBNFpaaGpIaG9pcnhoSDBZ0gGIAkFVX3lxTE5RV2EtWkEwMXctVkFFbEQxX2czSldlQ0JjYkc3bjlIS2JRa2VRam5Pb25lMXRlVms4elA0N3RkNTZwQTV0SVM0ME9mY3owUFVySmdodkJhcmpvV19pNllvbFphdHFUQ3FabGxJN08yY1hsWlA0ME15dFU3MmI3SDdvREN4MzAzcXdSNHVtZ2tfTE93SXc2Zl9FRzcxVTluSnF1eTdpY3FmZGFnMFlRbHNxOXgtY0ZqSWVEWXVVMWI2MmRlSEM2ejEwRnFUTGxkS3hfcVg5aV8ybm5MME5Lb1NfZ3VNMXpScHlLa085Mk13XzhnalZqbmhneFBUT1Y0MUZCN0JxS0wzag?oc=5",
+      "date": "2026-08-03T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "कुल्लू में अज्ञात लोगों के हमले से जेई की मौत, बिलासपुर एम्स में इलाज के दौरान तोड़ा दम, परिजनों ने मांगी कार्रवाई - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYW5pM0h5M2JsRkI0RWxXNlFNRTV6aGtlVjQyOHlJMENxLXY4QnNOenVLRkE4WjFHRDNiT0VTV1RwcWR0WVNkNVU2SHljeDVsbkNLaTNwZ1ItbFY3aEJ4ZEg2Y3d4VlNwWE00d0QtV0RQdHFIeS02UVpYOFBJc3FGS1A1NE5wQjNpWGQ2azhuWldYY21fdHVNUmd2Wno4eWJJU2JmVWpqVkc5RGxzU0JZZzdFd3EzZ2o0XzFYZEM1U0YxcXBwVFdqOUV2YjEyQU85bF9fYnFRM18wWHNEZDhqLURpUEg1MWhYa1d0Y2xheE9ZZHdNX0VWSVRTQTPSAYICQVVfeXFMUDJFVFJPbXZ1a0VWdlU0bjRNdTlfSzNqTWxyTURuc1RBNVQ0TWF3X3llQ3NyME1WOUNyS2VJVkM1azJPVWplZm5iclBDSTJhcklqX0hraUxlaGkxeVRTMVR3UUZMUzFrcjR2WVJKNktWUzZYNkdxalo5V2lyQmhrYVJuOGJxTlFzOFlHbFFzV1RzNk82Z0Z5Q3NnUHFqREgwR3lrWGkxcmlzR194SjFWTjBBMGRjSzhrckhoTGlGTUxVUXhUSUtNNnp4dTFlbTZ3eE5FRUZqZWthcy1tdjdDcXF4Y2NJQ014OV9lWlVoS2IybTR5aTVzdkNxaGR1NXE5QVFB?oc=5",
+      "date": "2026-07-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "कुल्लू में जल शक्ति विभाग के जेई के साथ मारपीट! एम्स बिलासपुर में हुई मौत - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWltcHloc1JMdHdUSFFPWW9DanJwRzJwUGxHSmRiNmt1bXo3cXdtV2N6bmlVeDdORk85U1JwNmZDcElRTlc5bUwwWmN0bnNSd0xHeDE3MWY0Vm1FVi1FbGJhamRWbmtVVGZQS0hlekpha2loUE5Nb1V1QXpzeUZhcEt3U211QlN2Y0xDNXNJLURvbEotdXF5RWpxMkVmekotMGJFTXpBeXg0QnIxT2M1a0h5UkcxOTNuNzAta2dkajBlWWhN0gHKAUFVX3lxTE1ISVB1S3ppQnRaN2Ria2oyVkpPemRscHYwUlB1WG1vb2lFUUk2ZGFOamg3a25mQWlHRXZZY3dWbEdZYlMxQ3ZzeXZYM0twRm9SUXlUekVnOXBqWjVxbEtGTGtSVlpscmpNWkdaSUhpOUgta0I2bkVPUFcwRU5mTTB6WDFZWWdjZnFzZDM3Ylp1UEdhR3VqUldYVVBCdmpaNThtN1VfSzlKTWltTkl1VzJobjkyZ3pxNzBJVDY5YWpsTVV1ZXk3dnNYcnc?oc=5",
+      "date": "2026-07-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "AIIMS Bilaspur: एम्स बिलासपुर में भरे जाएंगे सीनियर रेजिडेंट के 70 पद, 21 जुलाई को होगी भर्ती प्रक्रिया - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2RWYV9MczV6TnV2TE90QmYteVpJT1J5WG9nTVJIQ01jZ0M3RVRUbWtXc01jdHN2UEowNWhSSVZJb0hNVVJqNnhKR3REcEZtVFVRaW9Jb2U1LUstNzJ0UDI5TkVvTEo2eDBOTHItRXBxTHp3aGZEbEY1RXBha0loVTFLNmtwS2N3VjBJbU1kLXJlVlJ1SEtLY21JX0tQaXQ1V0V6ejRNeXRuNTdsZkZmWHE0ekJvcjFEYVR5bjU5MnFSNHYzMXM3QUgwMnFsNmJfeDRr0gHYAUFVX3lxTE1BSEpuNGZiQlAzVnpVang2WUtLNnFSbjhzMDB2RjZLbGswcXhBd18zZUZpR3VLVnpUa3pCdW5JUkpaZTVNZWVzZ3cyRjF1alRpRVJjY3dPMXpaWElUNmlKakJSNzdQeHR5d1Y5Tno0eGwxbTBpYmdVY2dLX1FWOW9CdVNQOGo2X3FvYzRvRXpMOHYwWlNlYVBNaE5UVjdiVnBMUXpqYl91RnFLdy1UU0Z1ZDVkTHIzTjV2Wnd0Mm51eGpIdnJwQ2tPMWtfYTNpS0Qzbk9HMzRUVA?oc=5",
+      "date": "2026-07-16T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "Himachal News: एम्स बिलासपुर में बड़ा मौका, कम आवेदन, ज्यादा चांस... ₹10,000 महीना स्टाइपेंड भी मिलेगा - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeGphUUNpbURMU3lGeVdZdG9DTkdMNk9HZFNnOEhZWGpBQ2pGYUd4bGxMUUc3Z1g1a2NXZ1ducWJXdWpiTDdfUXk1SUhzUGU3VjlTeUQ4dTNoYWhmZFVFYWNNMGlqWmdDdjdxbm1iSHBtc0lnZmY1NnV6OVg4SDJ0ZTItVkRpUzMwWG1wTU1JV0dyM20wdDRfVEo5T2ItTGREdUI3NEhEZEh6eU40Q2xuWThSNWlIY0FXaF82czVsNjdGbm9WeUMyLWNzZ3BiN2MxOWhWYkgxcGpkWV94UnJ6LXZ1SHl1amZH0gHuAUFVX3lxTE5fN2Rva1QzaDNYdUNONXpEVkR5REQtQ3JUTE1IYUdCR2M0SC1VdjVBeFNLNmpBdkRjaENTRFN0d05TMWtGT0NHaVdXQTdzcDhDa1VfWm5WU2lsakV4VUZKdWNNN1V0c1VSOEwwYVJOU3Q0VmQ2OUhjdGNSc1pITXRhcnRnblZrb1E2LTFlODNNbnVsS3p5MlgxbFloM2FfeXN1ZWlpckFFckE4UG5NMHFkN29jLTNSb2xRa3dlMENhcWFxaVBnNlFKWEI5LTRqSnRTWmhxeklfTW00c2RSZWN3eTg4dmQ4YVhLbFBBWVE?oc=5",
+      "date": "2026-07-12T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "बिलासपुर में व्यक्ति पर कुल्हाड़ी से हमला: चंडीगढ़-मनाली फोरलेन पर पड़ा मिला, एम्स में कराया गया भर्ती, पुलि... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTFPOUNaT2VqWGJ5bldpUXcyRm5VUEtnaXpRajFLeUswWHI1ME1BeUZvVE1lYXBvLUtGbVhZSDhPMnhwWDU4cU9taEtFSEF3SklZM3VBeGhHWDlxOE5tUmRKdFdhRXVXT1pneGpSbUMwSVozQ0ZjSDhJOEZhZkJJcm9JMTlPaXZncUpPeDRHc1FMQUtraVBmUU1OMHFYaXRjakg2NHVJdUxJblVzUUptOTVVX1lhMHZxSDY4M1UtVkpfamxFeWRV0gHMAUFVX3lxTFBldU40NXBibWxKUnljTkJZaVBhWTNzV1FMbmg4VE9LZlo4aTJhR09nZ2pmZmZjQ2FQUjBjODQyV0VXcWs5S044cC1GbzhNaTB0RGRWT0RmYUxpZHBTWFd5RkpBTXFpTm8zc0E5SW9xUjFzYlRaME9jOVlBdDlhdS0xNmVqVlFib2dQc09xcUFHQlVqMkRfekVQelNxY0xLLUdlbF9QNUZXSHo1eUZpLTJ5TVFkTU5DblVMSE5sa1JGQzAydkVIcFprazhGNQ?oc=5",
+      "date": "2026-07-08T08:57:10.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "मंडी-रिवालसर हाईवे पर कार-बाइक की टक्कर: 3 युवक गंभीर घायल, बिलासपुर एम्स रेफर किए, पुलिस ने वाहनों को कब्ज... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYkR2SlBqZFI5dUNFTGo2M1J2bUVPc3BBS1BmVTlKb3NIaGZpNERWdzF4U3Y2Ym42TTVEMDhvUVExb21LRklyMDhDbTVlQUQzY3BJTGxkMzRiRE5mR2k0Y01mMjVwZlpKRzNaa1FyQzJnQUl1bWhCR1p5dFBDbGozRlo3X2Q3LTFCeERTb0VEOV9NMmhrT05rMDJRSjl0bkRndTNnTHNzWW5KcUdxWG1IWUtPVVBNTUM3QTRManp0dFRwV0JuZ3BXSkc1TTRDdVpCMmxSQtIB2gFBVV95cUxNVk5GQWlwS3ZiY0RaQl9IVVh1aTNhUUR1VVl1em5qRlJPZHk2VHNZa2oxZkRVc3h3QjF1UUdtNkVfajJHaU9qb0x2aDBhcmFjVXlMMGQyVkhQU1RwTmgtNDZoNGtNc05LMU5vNW9FeUV4R2RENl9FaW5ISjVfUjZTTEluVTJTeVFQZUM3eGx0NzUtd2F2RFlua3FQOWZCZFQtdFljM0ZScTMzbWhmZjJUSW0tSGxpN2d1NGEwR0x3c0RRcGdHTWxkZUJvVDhmYW1OWTZCbHhQTXl3UQ?oc=5",
+      "date": "2026-07-07T15:56:11.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"

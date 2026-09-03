@@ -1,55 +1,48 @@
 {
-  "updated_at": "2026-08-31T23:05:58.938Z",
+  "updated_at": "2026-09-03T21:33:16.571Z",
   "project_id": "SMART-SHIMLA",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 11,
+    "positive": 10,
+    "neutral": 10,
     "concern": 0,
     "avg_score": 0.155,
-    "avg_magnitude": 0.28
+    "avg_magnitude": 0.25
   },
   "youtube": {
-    "n": 26,
+    "n": 27,
     "positive": 9,
-    "neutral": 13,
-    "concern": 4,
-    "avg_score": 0.027,
-    "avg_magnitude": 0.273
+    "neutral": 15,
+    "concern": 3,
+    "avg_score": 0.048,
+    "avg_magnitude": 0.2
   },
   "overall": {
-    "n": 46,
-    "positive": 18,
-    "neutral": 24,
-    "concern": 4,
-    "avg_score": 0.083,
-    "avg_magnitude": 0.276
+    "n": 47,
+    "positive": 19,
+    "neutral": 25,
+    "concern": 3,
+    "avg_score": 0.094,
+    "avg_magnitude": 0.221
   },
   "top_positive": [
-    {
-      "source": "press",
-      "title": "जिस भाई की कलाई पर सजाती रही राखी, सम्पत्ति के लालच में उसी ने करवा डाला बहन का मर्डर, मनीषा हत्याकांड में पुलिस से खोले राज - etvbharat.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNlN4bDRWT01ZMEFjMGlIREkxemhudV80UXhBb1BiTWJONTdlVnJCVXhQay1ZOU45Y1Q3ZzZJaVRGYi1lTHhPSmZRNmkyV3BSRVBVQlN6UlJNckRCY3hMZ2d4SDVlZUlIRkgwb0FwNnlPQWhoNEdoZ29SdDVJZVhlVHd3RThPMExKaUVWbEVfbTBUajZocjlDTFkyR083cDhpX1psNzYtMDFNNXlwR3BiOFZUOVZfTmstV1hZaXctTEhkLVJ5RUHSAcsBQVVfeXFMTmhOVV9XMUdPb1p2T3JUel9GS0p0R1JKcGt3bnVSQ25sTE5laVhEQWVzbTdSNzVUaHZSdFZtRUVlNHBtbkx4dzFia0RkRVdfX2ZUWW96MTJoaG9oX0dCbW1VZmFFaXZVZ2FrQVFlbUlNZ0Jsb2xLb0tibllxU0RSb0lJZFlocVV3cnFMa1J6b1RMamZZSXk0c3lBT3pWUGI2QlpmeVVyRWhJQXB4Z0Rsb1dOMzJJQVk2dVdmcy1ESzVhZ29QTmZwSnNvLUU?oc=5",
-      "score": 0.5
-    },
     {
       "source": "youtube",
       "title": "Look at nava raipur, dholera , gift . They have one of the best urban planning in india, dont just trust pappu😂",
       "score": 0.5
     },
     {
-      "source": "press",
-      "title": "संजौली स्कूल संचालिका हत्याकांड से दहशत में अभिभावक, बच्चों की सुरक्षा को लेकर प्रशासन ने उठाया बड़ा कदम - etvbharat.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckFrdmd2TC1VU3FZTHliSERqSXJydnc1cmVxbW1FSnc1UjM0NFpxRzFMbjJXTE44NTVEdFFOX0tWVVVXelViVzlSQzVhQ1I2OFF5b3dXcERtS0ZoNWRCNGpOZmNwU1Zmb0JzM2l5aTNLem50M1YtV1B2cy1hRVJ1dzNhWENIMWpNWlI2Y1otbVpRUFhWSl9GZE8yRzlaYjlIR09fQkN4eVVwOTJOalp4YkFn0gG3AUFVX3lxTE42T0RwWTBtVFJja0hNc3hfQ1NsSU9xTUN4QmhRT29qNlhWUWQ5VFRuQk5mSnFUS18yanNTaHlJX3VHdWFCd1B0NDlZMmJrRGk3M0kyVS1zTnk2TlNuV2R2MDlJTzNGTW5GR09HNWVBWjFRUVM1Z2pOc0ZsbWNfXzFld3JINENieHdIU1lWVVYxOHh6QkNSQkFiajc3RjRYOE42RjBCam5GZHlpS01HUlBkcFg2azA3VQ?oc=5",
+      "source": "youtube",
+      "title": "Jungle me rahne wala Gyan de raha hai🤣🤣",
+      "score": 0.4
+    },
+    {
+      "source": "youtube",
+      "title": "Pappu ka dost😂😂😂",
       "score": 0.4
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Kuch bhi?\nWithout informing the Numbers, data and facts about why you think the scheme failed, you'll bark \"SCAM SCAM\"?\n",
-      "score": -0.6
-    },
     {
       "source": "youtube",
       "title": "Smart Kitna din bad launch hua tha dikhaiye",
@@ -59,6 +52,11 @@
       "source": "youtube",
       "title": "We have an overpopulation problem for sure",
       "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "Bhai july me landslide wagrh to nai hoti starting July me",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

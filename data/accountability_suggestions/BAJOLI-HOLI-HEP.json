@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-08-31T23:05:19.503Z",
+  "updated_at": "2026-09-03T21:32:35.091Z",
   "project_id": "BAJOLI-HOLI-HEP",
-  "count": 2,
+  "count": 4,
   "suggestions": [
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-09-03T21:32:35.091Z",
+      "title": "Himachal Pradesh monsoon havoc: 173 dead, highways shut, dam collapses; IMD warns of more rain - The Times of India",
+      "summary": "Auto-detected from press: \"Himachal Pradesh monsoon havoc: 173 dead, highways shut, dam collapses; IMD warns of more rain - The Times of India\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTlV5SGMyY3RyOVdjaHhLVWlSaDNBTlVPRVc0cnZPaUxxYXFOWW9ocGQ2WGNVWHNuSWk0bkE3MHFkU3I0cUdxTzVMRWFNZ1ROU2xnUTYweEZPdHQwdFRTdHFTSTNfSWEtZXlWeThURWRfUVd3ZDRtVjByTWh0SnAyVFg4andEakZidUtMX19RU1FYTjE4ckdUc0Jsa1ZUdlFqdVA0NWJMQkhfX1E0WjRLbVVBejZPWmRua2JQVjliaGFHektZbzdONnIweGdhbjlaMkFJZTBRTzBQUHVZT3UtY1BXT3EyazVROGN3SlpRRi00bTEzbnZR0gH8AUFVX3lxTE9heGg5b05hVVgtdVZyOGNCMTdRSWpMSnFHa1hnLWI3MXcyYUtvY0JiOGgwZFhYenhRTkVoZjBfQWpUY2lHWmFrb2tFblpuY09wWVFwODN6dkZianR6NXRBRTJGUnZRNDdNTlR3Q2Rta1hna1NPYlhBRWh5RlE2VktYWGVLbVNjVDU5czd2VWZNRDAzOUJ5MnE0YnltbGZOWlM1QUd4eml0NjJPTV8zVU9nOFExVFd0WlY0VlEzSXFvWkpibEdseU5fSERiOTVKUUxhRVFHcWstN1duai1vQ1dnWl9wa09CMjVIWnZBbmRNcFNSWElweVcxdDhkbQ?oc=5",
+      "source_name": "The Times of India",
+      "lang": "en",
+      "date": "2025-08-03T07:00:00.000Z",
+      "matched_term": "collapse"
+    },
     {
       "category": "litigation",
       "severity": "medium",
@@ -16,6 +30,20 @@
       "lang": "en",
       "date": "2025-04-13T07:00:00.000Z",
       "matched_term": "ngt"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-09-03T21:32:35.091Z",
+      "title": "Delhi airport mishap: GMR group that operates IGIA and their key infrastructure projects - The South First",
+      "summary": "Auto-detected from press: \"Delhi airport mishap: GMR group that operates IGIA and their key infrastructure projects - The South First\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUdXcHNoZHJCMW1wY09BN1E5bjVqTXNVQTFuUklaTDRtc0d1MEQ2NWFQbEZCdTBIVW9QWkZZY0JPbHpybDR1X09fX05vSEZmUUtqcHo4Z2w2T0YyTmlhUjRWdWw0OUw3dE1JMm5WcEc4TjNHVnZtNGJFUTlZcGNRSE1RdnJ0N0NfR0h6bE1Id2lFMWlEQzBTRTVGZTktX3BJX2F1bjR3djEwQ250a3Z6SmV4aEFyZFdxY3VR?oc=5",
+      "source_name": "The South First",
+      "lang": "en",
+      "date": "2024-06-28T07:00:00.000Z",
+      "matched_term": "mishap"
     },
     {
       "category": "defect",

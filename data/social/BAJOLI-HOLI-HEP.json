@@ -1,54 +1,14 @@
 {
-  "updated_at": "2026-08-31T23:05:06.218Z",
+  "updated_at": "2026-09-03T21:32:21.571Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "counts": {
-    "press": 29,
+    "press": 25,
     "gov": 0,
-    "en": 19,
+    "en": 15,
     "hi": 10,
-    "total": 29
+    "total": 25
   },
   "mentions": [
-    {
-      "title": "विशेष ट्रेन सेवाओं के साथ शुरू हुआ पूर्णागिरि धाम होली मेला, श्रद्धालु पहुंचने को तैयार - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3FJamtmeldtWUFYci1pVTcxVkRlS3FOOVRxb3B2NjY4UEhJUmUyRjhYX0VSMTFZdVg1RUFjQXg1VXAzMDItQlRuaVFZeG1JbUEyOE5wWVIyY04tX3pVNVFFZHA3QkhjR1h5Y19XdE5tdDE2RnVMR0tjcU9TLUY2Mld0Mi1qTndwWUI2cGd3eVZxZ0IyNlNVU2hkWnUwdEJR0gGmAUFVX3lxTFBRU2RoZG83cDM3ZUlRZElkb1ROT2hreVNBX1VDYnB3aWJTdUwyTGhzQkxjVzB2bFhRV3NORlRwMHBpcFMwSERnN01DNllkTFh3dHhwTmxFZDFUTWh0Wnp3U09fakV0bzAzaEZkRWRCMzJoOExMb1JpQVdGSFVoRWM3SXk3amZCU1RRc1lpQzBfTUxwYVZYSGxHemY5aTFvZElZZi1FSXc?oc=5",
-      "date": "2026-03-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Bajoli Holi"
-    },
-    {
-      "title": "IPS अंशिका वर्मा ने ‘लंदन ठुमका दा’ पर मचाया धमाल तो SSP अनुराग आर्य भी नहीं रहे पीछे, डांस किया - navbharattimes.indiatimes.com",
-      "source": "navbharattimes.indiatimes.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNLW5ieUJjYXJ0cEcyTGtZNWtzOU9TTzA1X0k5MWQ5UjNUOXlUN0lpeU9TMHV0azdma3Iwd2ZmLUIwdXNMcGNPLXdveERmTERfSmFWb2gwdndoZVFuVXJMM1lBWGpscS1BYjRsQ0RqN1J1YThMd0FITm1xcnJIOHZINmZ0RmVtMFJKVW5UYkxlNERUX3h1Y3UzaFhiQ3R1N204MVlmSzVHNThPcEJXWHZjZXczSGNodm1iUWdtZEw4TUE4UHBLUENjdFdzc2o3UFZOYVBwaEpfLTY2TTBua0Q4QWhuUTRtT1VmTGFwUU9xLXV4RzdvcEJTTmFJM1NEVGVsd2RoM3dveXdqc1Rld0hQRElqLWliSjNTbW5nc1Q4VFg0cEFTZThDbkduRmlSMW04V1hiTNIBugJBVV95cUxPbEhxWG5mQ3FQVzhiY1ptMFFLY2JyeTBXWmdTVGRwSXcyTW8yTFFFM2pJZTZSZ3VQNi14cFJtXzB5UEM4dlJFbW40TVU4WWczeU5NOU83ZWRhSnRFV0dZV1A1X20wbk5VcXRjYndYeHFEN3RTUmh6cTZISTVGcjFoT3daaDhMTTNLT0ZKcjJCWnNhaUQ0c3pOU19Dank2aFNhZTVBc1BkVjljdXpDUEg1V0lpeHhTeTFqVG1YaHNqMndScS1PVVdTWGdzUUptUVZjQ1BwVFJMNk40d05ScWd6Q1NwSjRSWGxaUUpacGtTZ096OHVCajI2b2RPZVlvZVFsN2E3cDBweVVIV3JZS3N0R1ZEd0tXeWRXSE9wbVZ3RmVwRWdFRFR3SmYzRXlUY0wzSGxLNXBYeHd0QQ?oc=5",
-      "date": "2026-03-05T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Bajoli Holi"
-    },
-    {
-      "title": "बरेली की रामलीला जिसे अंग्रेज भी नहीं रोक पाए, 166 साल से कायम है परंपरा - etvbharat.com",
-      "source": "etvbharat.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWxpYnhSMWIyZ1c1UGJld0VzWkhqczQzSC1RM2pDbUZ5UVhtT0htVW5CeE9SbU45NGhUOE1JTGVwbUlWNGUxRjNYNUcxRDJqRGoyWFIyWW5iT2hJc19OY19yelR5UTY4NGY3Vno4TUNEQXkzbjAxbHdPcGRweDQ1US05dW1GMzctMXJ4SjJzZVUyVVhXUmJoRGx5dEdBTS0zWXZybExaTHI0SUhZX0RrS1JjT3lib0lGdlpiWF9ldmZnSnQ0Y21TVzF2aE1xNU1iYjg0eVFJM0NIa1nSAeABQVVfeXFMTnMzVG9oYXBnVjNhdklCRl9UQlYzbTM2VG9hRFNCMzdOWER4Ylc0YV8xYVdva0pQLVBQVmctVUQ5OENQNUFlWERnQlo2dXpWQTZoNzJhMzlEc1N5R2hkczBsSk9zOGVRbmlqOEdUcWs1T0VpMWxKLUhqTVlTd1F5T015LWFockNVcVJpUWFiekhSRU1NSFRORHBCbGpWcGllbUkzY2t6em04QzM0eldwbzhkWmwxS3lmOVVDeERUMVZUM25tckpwS25PRkFMbjU1VnlMTnJGbXU5LVFEZmtrWTU?oc=5",
-      "date": "2026-03-02T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Bajoli Holi"
-    },
-    {
-      "title": "बरेली में होली पर रामलीला, 166 साल की परंपरा; मुस्लिम समुदाय ने किया यात्रा का स्वागत - etvbharat.com",
-      "source": "etvbharat.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1RsU3Z1dEFZOGFrZ1FpdTNrcWh5ZVdsWUNwdmlWaDE3elZSd1J0UktOZFNkNUxzRTBWX2VaTk9kcDM2Ul9kVE1LNDF4Njl1VXlfYVBSVzNrMTg5VGx6d0tRcVpXZ2ttdERRd3NGX3dXNnVfSmJ5MmlfWV9hQmRvODNUMXp2aVRZdHdrcHlPbFJweTZhZjQwaDlOYWtfRXc0TUUtd3JMZ1hDenhwRjhHMHdGcFI3N0JlTTZLN1NaZUFjWEhfbWRENzY0OWg4UlN3NTlib011X2FwMXpLMmNoWEZ30gHnAUFVX3lxTE9ZVUpvUnhfcTVyaVFTZDBuQW14RDBvTFBDQzBvdXlDQ1RBLVRWSi10U25zMi1yZlotV3hyY05sRjR0QzVKQnNJNm9wdk1UdGRtMlliVW9ISUFDLTZ2Z1habHRDZkNlVkM4NTBHN3lCY1FhYW5PMm12RnNzSm9KU21TbGJjRTF5Z19jeTZHQU4wVHRfbFBpQkpPSWlrV1ZQRDZrMWRQY3Faa2UyWldoUlZ4QjRlRk5zZjFfUXNEcktjbkY3OXJsaWt1ZzI0RUNacE1yTjFQLWF2cTROVzhzWjVPNHVYOHJkZw?oc=5",
-      "date": "2026-02-26T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Bajoli Holi"
-    },
     {
       "title": "उत्तराखंड में बिजली का झटका: फरवरी में 15 पैसे प्रति यूनिट तक महंगी हुई बिजली; होली पर आएगा बढ़ा बिल, जेब पर... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
@@ -60,16 +20,6 @@
       "match": "Bajoli Holi"
     },
     {
-      "title": "SAM advises GMR Energy on divestment of stake in 3 power plant SPVs - Bar and Bench",
-      "source": "Bar and Bench",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObmh5QXBvck9LaGtkejBpLU40S3ZTOFIzRTlGSXVUa2xNWGhqbTllQ0ZuQ1Z2MENVdXRuY3psS1RieTBiMXM1ODJfc2lJc2JiZm43RGdvS2JCQVNyUG1IZGFwekZrZHJyOHhzcDEzc0dQNVFZV0RtZnczWXRndm9vQTRSUXdsa1Q2Rnk1MnQ2VEpKVUQ1a2NYTDlISWgwb0FpYTE4Y0g4S1A0cTFoeXFHWE41UThaclk?oc=5",
-      "date": "2025-08-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Bajoli Holi"
-    },
-    {
       "title": "SAM advises GMR Energy on Divestment of Stake in three SPVs Operating Power Plants to Synergy Investments - SCC Online",
       "source": "SCC Online",
       "source_id": "google-news-en",
@@ -78,6 +28,16 @@
       "kind": "press",
       "lang": "en",
       "match": "GMR Bajoli Holi"
+    },
+    {
+      "title": "Himachal Pradesh monsoon havoc: 173 dead, highways shut, dam collapses; IMD warns of more rain - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTlV5SGMyY3RyOVdjaHhLVWlSaDNBTlVPRVc0cnZPaUxxYXFOWW9ocGQ2WGNVWHNuSWk0bkE3MHFkU3I0cUdxTzVMRWFNZ1ROU2xnUTYweEZPdHQwdFRTdHFTSTNfSWEtZXlWeThURWRfUVd3ZDRtVjByTWh0SnAyVFg4andEakZidUtMX19RU1FYTjE4ckdUc0Jsa1ZUdlFqdVA0NWJMQkhfX1E0WjRLbVVBejZPWmRua2JQVjliaGFHektZbzdONnIweGdhbjlaMkFJZTBRTzBQUHVZT3UtY1BXT3EyazVROGN3SlpRRi00bTEzbnZR0gH8AUFVX3lxTE9heGg5b05hVVgtdVZyOGNCMTdRSWpMSnFHa1hnLWI3MXcyYUtvY0JiOGgwZFhYenhRTkVoZjBfQWpUY2lHWmFrb2tFblpuY09wWVFwODN6dkZianR6NXRBRTJGUnZRNDdNTlR3Q2Rta1hna1NPYlhBRWh5RlE2VktYWGVLbVNjVDU5czd2VWZNRDAzOUJ5MnE0YnltbGZOWlM1QUd4eml0NjJPTV8zVU9nOFExVFd0WlY0VlEzSXFvWkpibEdseU5fSERiOTVKUUxhRVFHcWstN1duai1vQ1dnWl9wa09CMjVIWnZBbmRNcFNSWElweVcxdDhkbQ?oc=5",
+      "date": "2025-08-03T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Bajoli Holi"
     },
     {
       "title": "GMR Power to sell stake in non-operating, stressed assets; stock zooms 15% - Business Standard",
@@ -120,6 +80,26 @@
       "match": "Bajoli Holi"
     },
     {
+      "title": "होली का हुदड़ंग रोकने गए थे डिप्टी SP, पेट्रोल ले घर पहुंचे बदमाश, सरकारी बंगले का ही कर दिया होलिका दहन! - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcV85UXA5UWUxMW5raFVUWS1LQ2hlWXo0bXZFTTdKRHo1NklpbkZDZGstSFN3cDNXZm9KNmdZQUxoX292dTJHVUFZVm96bFI2YkNLREZrbG5NcmtuZUV1X19wWjlfS0VkamNtVmxmZXBuVVVIc2VwYnNZUzZZbTJfdHBRLWE1ampfbk9pSGtkZnZocko5M0ZJLVR0bDJpTG1XMUE0R0R1NVlOWFpjX3JKVGVSaEhOdnB4cG9DODB1Vm5nWXRJOE9VdGphcXVHcHBjMTVjeEVhZUV5QdIB3wFBVV95cUxPWG9xVnpLa0VyUnpELWlGcmZMdEdIX2ZlWFpKVGdaaFV0S0lyYlhCTWtxM0NBMUNwOVNoRVNQS0tiODZsb3RONzF0NFdjMExwSnZVaElKajR2cTRfTDByRWMtSWdrLTJaOUFReVQ3NzVLbjhqUjdLTThOaEdJRVRabm1YenhPVnd0NzBGeWJXa0xvT2RsN3ZnWHBsRkltY3NTWi1GRFpOa2RNSmY5cUVLRG1DT0xveEpkTXRpc0JkUVpCN210aWZCOUMxOWdlT2FacUZ6UDNqZ005RWZtdFdZ?oc=5",
+      "date": "2025-03-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Bajoli Holi"
+    },
+    {
+      "title": "दीपावली नहीं, यहां होली पर होती है रामलीला! 165 साल पुरानी परंपरा, जब फागुन में जलती है लंका और होता है राव... - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdHFtaldTQTFkNWJXdnp2cjV4a3RNZzRUT0hWU2wyTnNBQVFVN3RNZ09wNVd1NXNvREotSVpVQktBdVVPTEw5bXJiSjJXUGNsdWd2dWQtamlLb01VTVdIVUhwU2cyNTViSG9RMm1ibEdJNkxrYUt4NDd0X0pscHZXTDQ2bmtkdGk3SENhQXlOUmJFSmk5NkRaY0h1VWNHTWZkR1hZWHNmdTlkaGNFcjZEWFJEMHQ4eVBobEMzTkZObjAyajh2NFVJVWczZGtIdE9yUHV1SU5mbFhvQXZua3JjV0x0S0xQc3R6dEhaSFJGb0o1TlhfY041NFZUMkdjUFo2dlAyR2RlMEI0d1k5amhv0gGUAkFVX3lxTFBmcjRVQjNxS291UmtjblVCRXBRUmNGY1VRWGViSmVNWVFpWGpXckhPUE5kZnBKMHE3RWM0c3BmblNxbDV1Zk40cklzWVpld21Zc25iT3pUM2dNejhTdHp3MHlUNEJjd3lrM0U5ZjdwOUppVEt5TC1iM1Z2T3ZLb1QzVENISXk4eFFral83R0FlRC16TDh3YUc2VUtKUzg5ZlVzck05eVBsWUJlQXBPSTl2aU1mYnpRcHVyMWV3NWdqdmlGYUxodEZKSVkxWlZqOG5fcENVR1E5bGZWbk1PYTYzOXpybkVSM2YwSUZ2RXEtMTRwR3JBano1NmpQRDFxTEdtUlZwSnVnS1g3aVUtR1dEX1FweA?oc=5",
+      "date": "2025-03-13T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Bajoli Holi"
+    },
+    {
       "title": "होली के रंग होंगे और भी खास! बरेली में इस दुकान पर मिल रही हैं इंजेक्शन से लेकर हथौड़ा तक कई अनोखी पिचकारिय... - News18 Hindi",
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
@@ -130,21 +110,41 @@
       "match": "Bajoli Holi"
     },
     {
-      "title": "Transmission begins on Bajoli-Holi-Lahal line - The Tribune",
-      "source": "The Tribune",
+      "title": "Delhi airport mishap: GMR group that operates IGIA and their key infrastructure projects - The South First",
+      "source": "The South First",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFA3NHlkZFFuR2F1Q3hNY0ZMWkF0S2c5c3p0Qm42TlBtLUVUVU9rRDViWUlWaHA4enRtZlJyOXhlUnVLdXNmSjJmb3E4WUYyWUNkU1I3SHJMMmFOUGMyQjAxSDFETnlkLW9ESzRQRndqdnJocC05Q19UOExJcXJCMnpSRnpHMGdNN2F6czlaWTl4alXSAZcBQVVfeXFMT3BVQnItUFlPTGY0ZE5JbEVnOEJnYnpGc1hjMWpxelBpdUJ1X0pmcG9kS1dxbDFoU2tqRGtPUDRZamRlRXJOTWlxcURldHVrZEt0ZTBjU1NhbTVrck42ZGZHSEtHeWpQS2xCS1B2UlZzYmRVb0RXN2x3SDRVZ2pPYkN6M2hjWTMzRXVCdHMzbDZKSWxiQnJYRQ?oc=5",
-      "date": "2024-12-24T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUdXcHNoZHJCMW1wY09BN1E5bjVqTXNVQTFuUklaTDRtc0d1MEQ2NWFQbEZCdTBIVW9QWkZZY0JPbHpybDR1X09fX05vSEZmUUtqcHo4Z2w2T0YyTmlhUjRWdWw0OUw3dE1JMm5WcEc4TjNHVnZtNGJFUTlZcGNRSE1RdnJ0N0NfR0h6bE1Id2lFMWlEQzBTRTVGZTktX3BJX2F1bjR3djEwQ250a3Z6SmV4aEFyZFdxY3VR?oc=5",
+      "date": "2024-06-28T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "GMR Bajoli Holi"
+    },
+    {
+      "title": "खुलने से पहले ही ग्रे मार्केट में तहलका मचा रहा IPO, ₹147 प्राइस बैंड, 12 फरवरी से दांव लगाने का मौका - Hindustan",
+      "source": "Hindustan",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNUx1WHZLQVpzcUpFdHFwMXp0ODJ6YkJLSEZleWp2aVFudzRJX2F2N25TbUxYYXhWTTVMR3Z0d2ZTVF9TR2Z2R2J6NXBxWm5oOWNEeE1xSHJpdzM5b3ZJOFMwM2YyMWwxNlc3X2ZVNHVldVY2RXhKQ0YxVFU0bHhqLVlkWktOc19wcDdzT05tSEstVmptWm5nUTJ3UzVHMnhUc1V2cEloSTJrT3dycXNpQ0ZmQURSQTZGc0Nac3FJWGlIcS1KV190LWluRDY0TFQ1QmZ0etIB2gFBVV95cUxOUE9JdEhkaFdBcE5KMmM3cW8tZFdIQzVodWtjbS1nOHJ6eWtyUndLSXUtSG9qbzM5ZVkxQkZ4TnZ2eWpXWWNsbzNlTlhKeEd2SFlJVjZha2ZPT2pZMGgxbllNQ1FjTl80bGlsSXVNSzVWX1ljeEtmbGxPTW41X210M0ZKckJYS2xSb3Z5Z2F0Xy1TZXFxcm8zOFZISDBCTFUwM0NjWjVyMnhNb2J6Z2tYU0Y5R01sR2stM1FYY3hETnJwNFI0eVRRZVNmcjZkbDhOZE8yeS1aM3gtdw?oc=5",
+      "date": "2024-02-07T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Bajoli Holi"
     },
     {
-      "title": "हर ग्राहक को 125 यूनिट फ्री बिजली, होली से पहले इस सरकार ने दिया बड़ा तोहफा - Hindustan",
+      "title": "₹28 तक जा सकता है यह पावर शेयर, खरीदने की मची है लूट, 6 महीने में 215% चढ़ा भाव - Hindustan",
       "source": "Hindustan",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbXh3MWpIYWJZTmNidVdHWl9jNFRPWXVtdTJXQzBkRTV5MzBsRlBQaFFqSkVxSHFUZFBjZnRuQmprLTJJRGVCdnZiSENhZTNpbWJKdW1vNW5WX0l1TVBZSjBacl94Qm9yV3VkYlk4OFZwX3VwSEllSFdxWGJ2VmxlV1UwTm5lb3BqU0FfNW4xSVZQSFhpTE9aRk9rdVVLMURJd2hlVms1WEVEd2FvdGdhSkRaNDZteW9wQkNUOWpiNDZpVGtoR3NQSGF1Z09EQlNjUGJQYkpKZkQwN3JCLVMwdkdLY9IB6AFBVV95cUxPWS0tTWhJM3lQRGZVaksxTHZTQ2pVRHY5NXZ3M0otRFVrRjhUdGFURFRuSE5KZC1yLWs4NWRZTl9uamxiSUJCdXdabmY5bjBkLVVDMnEzRFJMLW1BY1RJblZrRjR4TUMtaG1RdnhWRTVRU3VYbEk1WFBOTVB4WXI4VzRsM0Joal9VbUI2cGNBem9OLW5oZlVaY1BKanAyRG5CNlRCazFtMVMxb0h1NUdDTEZ1bEhOZFZjeWtka2g0X1VXOUQyckFIX1BLSG0tRGNudl9ZWlhkcmduRFlVSHZQN0ZxV01BU090?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTzU0UjBjdHVVMkJzZlQxQjg5T2xjNEtyeUpZTTFBcWFlNjZCMGphZGV6Rm9kdW82OGpMdUdLbWpGcndrX05SQnM2TXRVNW5UZExTZnR0ZE5MYW9CWVdpYVVaQXFLRTN6MXFBbEJxb2xmc3BoX1VPMFRVRllUUWdRc0RlWGtLYnRvOGZJQ0laOE8tMC1fajE4S2p1VjlyZjNrbnJWZVBfWm1sbFVnX0FVS2Q4bVVSdlBUNUVPYkgtbHZHWV9fV2dVeWFnU084OXhOaGc4LUc5M1c5X3Y30gHiAUFVX3lxTE1iQ2tkLWxaOXdSWTZqR253U0VzVkJ0Yks4bnc0WHh3bmg0UjBPR3ktbDBvQkszMG9PZ3FWbGU1QkFQNTRYZ2plTElyaWp3MjlocjhyQm1QNEVIN1RYQlBzSHZVeDRVSUNIanhvMDZqRldiT3QwdnZkajJKazI3ZVVudW1BX2xaZ0V4dWlEUVdMYUNYekJ5amNxVk1PTDZFMXJtcXUxWlF2V3VzV3RXNXV6UUVWUEExZlY1b2o0SjdNNW9UMk5sSG1ZWWhwWHpCNlBSTVBsOHhtS0l4QTZGOUNpd1E?oc=5",
       "date": "2024-02-07T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Bajoli Holi"
+    },
+    {
+      "title": "23 मिनी पावर प्रोजेक्ट देंगे 720 मेगावाट बिजली - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlltQ0tJRUxhclZkbzdnX1JZUUJRZGlNb0JPQzJzSXN4X3ZNUlFxci01b1lPZi11SVA4NHByZFhoMHFlWjNFYUZpWlFGcXBTeTJ2SVJpUWhDeWtXNWFRRkROVDJ0Vm9WQklzekR4V0ZDWEg4N2tSMFJtVkxxb3lfVVUxUTNLVW5qczJiTDRoS2zSAZYBQVVfeXFMT1FMYUdTS2w2bHFkdTVEOC1fN0JZYnpSODNoT2dUTHRJX2I5MDlIc3ZuSmI5bllVQUQyRXl5cGd1YldVTzFCd24zZko1eDUtMlQyVHNHc3JFYklrczNFZldtVWFOODY1dkpHWVBWQTZIQWNpNTJzcXI5Sy1MT05GeDN0b1NIdjlSNXJaY1pTRVhSREt4TU5B?oc=5",
+      "date": "2023-12-06T09:49:43.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Bajoli Holi"
@@ -155,16 +155,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbkktZXV0YlZTck04aE4zUUpBbVppc0YzMmFtb2lBRlV5OXYyVlg2SVRJTWlYNkJBU0VMOGFlQUptMVdpRU40Y2lhb29Obk9IVVR4eWtFdVpPOUFqVy1aVWpMRXNpVU5sV05jRHpBREZBWUg2ME5JZEhPRktieHd1TjBrci1mSGIyY01BM0NIeUl3VHlhZnVFT0ttR0hDNDdDZ1pQOVBPd2JjRXplb2F3bHA5XzlZVnRGYVZPQnVaVDI5eko2Q2wwaWpYMDNlc2lG0gHWAUFVX3lxTE9OYzFkeHVOaFZPakNrM3JWeWE5TkNGQjMwNGVJRWZseGpPcjNjdW1Idkx2REtmLWdxSS16dHE1ZFpJUFhianMtaDN0SzhUVk15aWRSN1BkR1hjdDlybUdPOTBOLUc4dUZsa3F1cWpaMjl6M0FjcjRHQkZFNjhwY3pZX1k5dkZMbzJRQzBXZFFpc3ZlRV93QV9pMVQwX040bjZqSDhVTGlPdlNRU0E5bTllS1NEUzBOUG0tNDk4djE0YTlFV3BhTXhFYkxXYXFpS2FjLVkzSWc?oc=5",
       "date": "2023-03-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Bajoli Holi"
-    },
-    {
-      "title": "After year of seepage in Chamba project tunnel, repair work starts - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObjl1LXVqNXBYNU56T3hsN3VrWWJiZVdvdl90cG9CZXBsQmw5Z1ZkSmhUcG9kUTFkX3IyUEJtUVJ1ZGRKWTB2X2NXWnJiSHFIM1BVa2pURUVwRDBOcThKQ2FCX3l0eHFBSkR6LV8zbE9tcXhKaU5wdks0WG9McEl0RmRFZlJBamhKN2JkLVJRd2J3VnNIa3F4NlU3UWV1SHlnd0dxYjVHeThxZEFhbm5EbHFtMzdPUWw3QmhxWDBGRkxmR05SSGJwOEo1SFB4T0RiczUyMtIB2gFBVV95cUxNaFR2UEwxN2h6cFJQQjVERi1vYTVWWFhxQTFaZ083V1JjdUVCMENMejExbGhkbVpyX05JdWlkZmE3YzNRM0RrSW9GUU1tTzg5bUlDVVpKSmJWVm93Sk94Z01tNF9kVjJaM1JxczBMVUV2OElWaEJSN0xrLUNmYkxjLWtzRTF0bmFnTG5sRWxTRERtaHFzUFZ6ZDFOUkVsNUZwNWdxcTczMGwtQXZfOVNtY3UyZlFqVW5ESFI5NVQ0NUhmam1qbWhsZjJyWUE5UHBHTUdpeEU5S1ZYdw?oc=5",
-      "date": "2023-01-17T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Bajoli Holi"
@@ -190,23 +180,33 @@
       "match": "Bajoli Holi"
     },
     {
-      "title": "GE commissions 180 MW Bajoli hydro project in Himachal Pradesh - GE Vernova",
-      "source": "GE Vernova",
+      "title": "GE Commissions 180-MW Bajoli Holi Hydro Project In Himachal's Chamba Region - Saur Energy",
+      "source": "Saur Energy",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQankzemY4ODE1MGtrLXEzOXFFMU9rZHZZR0hJQTlNalRLY2hfTkppeTg0UlhLN0QzUkVMd0lOc2EyUndEWEIzNkJFLVpBaDl5YVgyQ0xzV2ZGMF9IaGtlT2Y3b18zdUZMa0owLUFyaEgtbm9YaURWU3NJdVZ3S0k4OUdLeEdEVmhmMmdwTXN6S0t2UFRZaktUa1VWV09HSjJpRTh3d3RZN0EtdkFw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1I1YWhiaUNMenFWR1pkdmxTdWJUeEVxd2dYSmZneEppejVwc00wX0Z0Q1phLWtmVG9ONWpkYmNDajR6Smg3N2hVZkItTWVIeFctb3dDbHdra0dTTUhMMGhva3BHZ1FQUm1DLTJLUnhaX3ppWWZlWFdwLVlrdjM5ckVXYTlRNmpRWVZXT2ZBRnhDZVpkanB3blJmeEo3MU5Ubm83U1ZQVDN1SkNTUFk3WjB0TzRILTZERzc4?oc=5",
       "date": "2022-07-06T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Bajoli Holi"
     },
     {
-      "title": "180 MW Bajoli Holi hydro project commissioned in Himachal Pradesh, India - Factor This",
-      "source": "Factor This",
+      "title": "GE Renewable Energy commissions 180-MW Bajoli hydro project in Himachal - Business Standard",
+      "source": "Business Standard",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU05ra0hXS3E2dUlJcFQwQnhfRzJ5cVdVYWkxMmRRMTVTekxIcjkySVJJNGg2M0VLZkdma2dWTk5xbnFlNkJpeU1POFBudTFJbVRhejlIdnEtR1pHLUJRYzAxRWdLbFQyeVlzQUVkMnJBTl94bUF1UUNad05SUmJINUxDWVlzcU80a1loVVRCNEhYWmFfVzJxd2lQZ1JUN1JoSTh6TGFrSkRudDU4RlYyRHpBZnEwYzZKZkZ4alRR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUGEwWHAtYXdaTEZJbGo5WUlkWThHWFl3YWZMZS1BbFZaWFVYWEVleGw1NzhYMWlCSlRjRU55YkYtLXZjek5Gdzc2REswcjRrSms2a2xDdHlGVzNlT01wZEdJNkd6U3F0a09qeHliQnZVWjZ1QUxfVFJqM0pGN3QyeFB0QXZaZ3ozYWZGRXdvN1dVT1hmR3BOWWUxN1E1Zm5QYmQ0NXJINlhFVnFmZVRFaDQ0ZU04bk5manUzX1BLWGxoM2ZIanZoVmFlT0ZxU2dEQ1IxZ1BDeVl2NVHSAeABQVVfeXFMTzhQY2c3YnVMUzlkZG42VVNsWFY5NkhDWm15NERTUWVEQWN6NGYwdmotdXoxcGVIV25jLW5UNzEzQlh6cG1aUGY0Si01Q2ItMTFNRG5YYThqYm5EU1hlMmFMTmNLaFcza2NmZU9vQVJ1a001bm9MNFN5T3JkaW9heGRQeUMyTnctUDU3azFMTHk1aWF1bUV5ZmZYbzVGMWxadzRCRFpBNXRfb3hnMEZZX2pYZ3k3Q2ZUR3VRaUZNX1lta1daYnlIMF9ocm51enJ1S2VYNW1SclkwUkVpLUUtdTU?oc=5",
       "date": "2022-07-06T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Bajoli Holi"
+    },
+    {
+      "title": "हिमाचल में आदिवासियों को उजाड़ती पनबिजली परियोजना - news - Mongabay",
+      "source": "news - Mongabay",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeHZVSXIzbm16Qy1lcWpoNkl0aUV2X1lMTmExRVdUNTdFWFpJRDhUUElxLWRJSkx1WTl6RWFSNUZhdmxQcDVBZjdtMkZ0QVUyRldEUmpxMlQyYmRsbDVwYzJnTENmbTJ1WjhBOU9nQi0tNVdJZGdLLUtxUy1aYl9sSGZFcVM0RUxMeEZwWEFYOXE5YmNiTUJVZXpXckduVHdtbmp4RnMyVHh5Q1lia3M3QXRqWlhvSnphSUpGdENR?oc=5",
+      "date": "2022-03-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Bajoli Holi"
     }
   ],

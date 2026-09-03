@@ -1,31 +1,36 @@
 {
-  "updated_at": "2026-08-31T23:05:51.651Z",
+  "updated_at": "2026-09-03T21:33:10.867Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
     "positive": 7,
-    "neutral": 11,
-    "concern": 2,
-    "avg_score": 0.09,
-    "avg_magnitude": 0.235
+    "neutral": 10,
+    "concern": 3,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.23
   },
   "youtube": {
     "n": 45,
-    "positive": 36,
-    "neutral": 7,
+    "positive": 34,
+    "neutral": 9,
     "concern": 2,
-    "avg_score": 0.349,
-    "avg_magnitude": 0.482
+    "avg_score": 0.322,
+    "avg_magnitude": 0.396
   },
   "overall": {
     "n": 65,
-    "positive": 43,
-    "neutral": 18,
-    "concern": 4,
-    "avg_score": 0.269,
-    "avg_magnitude": 0.406
+    "positive": 41,
+    "neutral": 19,
+    "concern": 5,
+    "avg_score": 0.254,
+    "avg_magnitude": 0.345
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Thank you very much ,your service is very short but communicating everything.I appreciate your this type of service of t",
+      "score": 0.9
+    },
     {
       "source": "youtube",
       "title": "I love kangra❤",
@@ -34,11 +39,6 @@
     {
       "source": "youtube",
       "title": "Best month to go there",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Beautiful view 👌 new friend 👍",
       "score": 0.9
     }
   ],

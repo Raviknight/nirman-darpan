@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-31T23:05:45.550Z",
+  "updated_at": "2026-09-03T21:33:04.217Z",
   "project_id": "NH5-PWN-SHL",
   "press": {
-    "n": 20,
-    "positive": 10,
+    "n": 19,
+    "positive": 7,
     "neutral": 6,
-    "concern": 4,
-    "avg_score": 0.085,
-    "avg_magnitude": 0.305
+    "concern": 6,
+    "avg_score": 0.011,
+    "avg_magnitude": 0.311
   },
   "youtube": {
     "n": 5,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.56
   },
   "overall": {
-    "n": 25,
-    "positive": 13,
+    "n": 24,
+    "positive": 10,
     "neutral": 7,
-    "concern": 5,
-    "avg_score": 0.092,
-    "avg_magnitude": 0.356
+    "concern": 7,
+    "avg_score": 0.033,
+    "avg_magnitude": 0.363
   },
   "top_positive": [
     {
@@ -33,13 +33,13 @@
     },
     {
       "source": "press",
-      "title": "अटकलों पर विराम! वंदे भारत में नहीं बदलेगी कालका-दिल्ली शताब्दी ट्रेन - Khabargaon",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdEVZcWVLVklNLWJCcVRvaXNGd1lJT2JsZUJwRVFKSFVUVHRCNGlEYlhOYTdtaUdsM2NQSlNHUlNIVUw4NHExRnFoWE8xb3VWNDE5d2tyVFhERTdMLVM2eWxvVk9NZWFkam9BNEVuczN1NFFnV1lqLTVqN2o0SHNEa0taZ1g3WERIY3QwVk05U1VMVHg5TlVsUXV2MWdQN1Y1ZkhHcHVsd0gwd0NEd3N0WldsNEpCZ9IBwgFBVV95cUxNbWg5RE11ZWFtUXFoSkhGS1VDODVvX2tBbklwTjN6TW5pRDBneXI0bTB3WTRfbGdTV1lpTk11bDl2R3JnX0hMOFpIcVJGakZGdVRPQjlybllZVkpSNFhFMUk5ME5ZV3F5X09PaFBlN0hsTTRYaVZOdmx0d08wZWMzUTdOYjFNRFRrM1EzcHNqXzUxNW9WRkJEOC1qcVJ3NFY5alU0dDBLd1lLNk1Gek5aM1BTUWd6a3ZCYmNKdkhQR1d2QQ?oc=5",
+      "title": "चंडीगढ़ रेलवे स्टेशन पर 36 दिन का ब्लॉक, 442 ट्रेनें प्रभावित, रूट में भी बदलाव - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc3BtM3lPQms4U1NNWVV0Y0pzalFZbEZ1ZGhEODg4T041VWlpcTFfc1Ruak9SMnh5eVhUUm9wbmNFV2dJRmNEZVgwVVpuRjhWTEsxczJoTGRCM0txZzN4c0tUXy01bDhVenNiN19ia2F0ZkhSTDU0Xzc3MUd0UjR5RzctZXh6ZEFTYWcwT3NTZFRkaGNWdjNvQ0VqT2RQenZ5SUxPbURBTjhHVFpQVWRUc0tYTzJ3LUR4eE80TW1QYjdNQ05NU2dUTFRDbDFKZnppbmZaWDg5R2hnMjgy0gHiAUFVX3lxTFAyM0dySFVpS19KRmQxQ25aSmc4UTVCR21wdm1KQVpEX1pfSm5nOGQ0VWZzUnpBUEUweEN0SVg4NFdfRGJQVjJFTFpYMjFXcU1yMjJnNkRMQllDd0hEeXVSdUF3ek91QmcweTdIc1EwMmgtTmhORlhGSGNjbTFoRkcxMjhveHk4bXlLYXFlYnR0REJ0VFN4UV81RGxTTDl4SGVGSVZhX2YxejR0elFnbGp5dGNYaUFzUWkyTlNaRU5Iakl2RGl2UUpsMERHUFQ0ZXZGM1AxbFNfTHUybWhTa20tWXc?oc=5",
       "score": 0.5
     },
     {
       "source": "press",
-      "title": "पूर्व रेलवे की तरफ से आई बुरी खबर, बिहार जाने वाली कई ट्रेन कैंसिल, महाकुंभ जा रहे यात्री भी होंगे प्रभावित - jansatta.com",
+      "title": "पूर्व रेलवे की तरफ से आई बुरी खबर, बिहार जाने वाली कई ट्रेन कैंसिल, महाकुंभ जा रहे यात्री भी होंगे प्रभावित - Jansatta",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVU4zel9yOG5Mc1NKcTAxejBiQ3psTTRwTlNVd3g2R0UxTzFRalpocmg4X3lISmQtT0s1Q0lPWUF6RDBjbUJfem5OQ3VlYTkyNVpsblB1eE9ITVZYRWxvdzI5ZmVBN1h1UldkM0ZIa0MxdW5JV1F6ZnpPYUlXMGRFUG5ZYkNic1BBUzZmQWtqMnUtWnZUQlNPTVNJU0dPdGp3eWdNa2c2X05iZzZwVVoxT3paYnhrczIzV0tDZFR3NzBqci1ZWUc0c2NaNFo4aXR2TkdnVXZzbHplakVCdWNVStIB5wFBVV95cUxPcDExbENNc0RHU1VzNEtBM3VybmY4QVF4bHpYQ2Fka0Y4OXN5dEYxRERMdWVHZE1raFBSMjZWbUF1SGdzOV9McnhJOEZPb0JIVl9EQWFCVFM5UzRxREJyV2otZGNkLTFtTzc1NzVUTmFodmdQcnNZRTV2Z1JiYVZPUF9hMmh5WWtvM2Z2Y2c2b0xobHRnUEdKU180RVZMVkYtQmhaUXhvQzYzMnRSMGpzMEwyeVZWYVJYQkQtVmRIQV9ka0xVMjNZSDJCU3FSTmMzYUFZTnZQaFJYeEwtT1p0Y19UN3BxSzA?oc=5",
       "score": 0.4
     }
@@ -52,15 +52,15 @@
     },
     {
       "source": "press",
-      "title": "Landslide at Shimla in 2025 an 'act of god', NHAI tells NGT, rejecting compensation claim - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHo2bDBRdUc1MnV6NkNxZ0JnOVBfX2hvYTFOUlVRa1pGVmlfM3NmYUF4UFlsaUIxbmRId3AwcDlqLUtPZWtteWQ4dUcwaG5UdS00TGU4UW1SbXlycEJYbm5DNHdJQjJKb0FiWEpXSWxLdHN2emNzTFp2dXpYaFdFdVJhWWpvcmt6dTZxNXVyd3VKXzNLZ2pGS2JWOUtpM2Q5LU1jeGpkTzktaUh3TTRXUXNWbVVIMU9uaGtQTWNwT3RVbV9IQjFSUXFuQmY0dWFKZGfSAd8BQVVfeXFMTmd2c0NHT2YyRFl0bHFuRUZXeU5rRGtBdzQ2cDBqeGVZWnBLaEF1V0ZhS0hOdFBPaG12NmVJdlJjeDMza20yOEN5dG91QUpBV19jcWxaOFZjTHpJeDR3U2ZhM29IRlpIcHV6SHMtUjc3UVl0LXA4MmgxZXlpcXhxeUZfemhlVHlyYlFyd05IN2ZxbjVVZUpURFNOZ21FSGQxbV9qMkRYM0F5T3lFQXEwcUo4SGxIeXZXRjNiYXE0Mi1KSTlZaTJoSjVmWGZzLTR1NGVZNVEzUG5RYjFRb2FRVQ?oc=5",
-      "score": -0.5
+      "title": "Shimla orchardist suffered Rs 40 lakh loss due to NH-5 four-lane work - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbl9IVWhERldmUnFvTUFXMXpKRDNVcFpWT1Q5RDZjTnRsVHR0bm5feWVqdjl4eWJaQjBzUTlWS3hobWtGN2RKYVV2aFpmYm50YjJEYVR6YWp0aGtFYVA3RnJRaEI5Wm54NEZpRVEyVFZLdkExOXkwcWVFalpsbkxoR3kxYVhUWm50NGNnZE9qS2lVaE5rUzY0Uk1NZ0RKY2ZzMWJaUENFc1hxaTNW0gGzAUFVX3lxTE8wUmlsc2EzRjEzeHVnYXJXN0hfUFV2dmpsbVFid0FvN2ktMHpTRENKWUdEUWVnaTZIakRjcVhjczZGUFFVSmRuYTBPRVp0Y0RoQ3phT1lJNE1iZTByQU9TdWJ1TDJucjZubEpXbXVPeEJzSmVyOVNUM3BRV1l0MDV4cElBNkIxdERFXzR1Yi01cVBkTXlOUkUzTzY4NllsX1Q0cm1PaU5FS0FIM1d1cUFsZWFr?oc=5",
+      "score": -0.6
     },
     {
       "source": "press",
-      "title": "Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - thefederal.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcW94YnVfR0pHeUVkZUd2WUV3U3VBRUlIc2l2allCMWtRUlNVdnJiLWNJdXVrbVl6UTl2WUllcTd0ZFdheC1ac0RHU2FpV1ZTWlZSNlN5aTRKSE9QSTViZnl0VGJEUVJMN2xpb1hwQnkwWE9Kd3Z5bmg3QktHOXVPZTFzTzZHR3pEOHhZLS1SaHo5ZmJFaVd0c25XMFh1blBSa0xsbFVyc19nWkRCUDMwaTdRdWstUzB3dmJ2UW0xb201cHF5MVJ1T000aEpHYVlmM3pfNzJB?oc=5",
-      "score": -0.4
+      "title": "Shimla landslide: Yet another complaint against NHAI, this time by Himachal forest dept - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVVNwaWJCN0RwcmVLQ0NFaF9hR09XbGNaX2Q1anRXamdFV0VNc2t2WURvWW41TjQyUnJ3TGdoc09tQWc1ZEZ0elZrRTNpYkdwUVMyLU9VdE1yMnpQczVpZzRHbFk3ZzdpTHVvRVMyc2NiNm1EbktydndhdDhJR25tQkQ1dUR2NFNaSGVfNGdHMVFhWm5MQmZMcGJfeG9kNU11TnRqTVYxN0N4X3Y3Q1NLSFROWlNuSUFKaVNHVXR1US14cVlJcndHT21lcWZ1QkJlSVBtQy11X1LSAd8BQVVfeXFMTUtQaU5VTUhycVBfRkN3WXBzQVhyWkhTcjZGM21KZlM4UzhpU0NaN3d3NzRmMVpFODM5N2FBX1EtbEphaDhOa3hzbENHM25SQWZRUE9ZMURHVXJNS080NmRPNFZHWFFCbVYxdzR5UWNfNWNsMVVfa2R2VUxkZEVqU0Z4SVQtRWZ6T0R6clVVNTJraUZaN2hIOXc0UmpoSXhTaXlKcmNvWkxYSFBFY0hsbE96THlCQjhNTGwzR0oySzA1TmVGS2tFV3FJamRSTE82b2hGdERfb25JaDdVQ0Z0TQ?oc=5",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

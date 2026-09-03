@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-08-31T23:05:55.097Z",
+  "updated_at": "2026-09-03T21:33:13.597Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 14,
-    "neutral": 6,
-    "concern": 0,
-    "avg_score": 0.265,
-    "avg_magnitude": 0.265
+    "positive": 11,
+    "neutral": 8,
+    "concern": 1,
+    "avg_score": 0.21,
+    "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 52,
-    "positive": 37,
-    "neutral": 12,
+    "n": 53,
+    "positive": 40,
+    "neutral": 10,
     "concern": 3,
-    "avg_score": 0.356,
-    "avg_magnitude": 0.427
+    "avg_score": 0.428,
+    "avg_magnitude": 0.536
   },
   "overall": {
-    "n": 72,
+    "n": 73,
     "positive": 51,
     "neutral": 18,
-    "concern": 3,
-    "avg_score": 0.331,
-    "avg_magnitude": 0.382
+    "concern": 4,
+    "avg_score": 0.368,
+    "avg_magnitude": 0.471
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "love you boss amazing content 😇😇",
+      "title": "the song.....omg it's so nostalgic of 2020 era , every tour had this back ground music......btw the campus is soooo pret",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "best youtuber for medical i mean yeah man i will c0me for this 2027 lets go",
+      "title": "My dream college Very beautiful aiims",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Toooo addicted to this college😍",
+      "title": "dream collage  every  neet aspirants🤩😍",
       "score": 0.9
     }
   ],
@@ -50,12 +50,12 @@
     },
     {
       "source": "youtube",
-      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
+      "title": "Bhai is saal milte hain\nMay be I'm coming in 2026",
       "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "Bhai is saal milte hain\nMay be I'm coming in 2026",
+      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
       "score": -0.2
     }
   ],

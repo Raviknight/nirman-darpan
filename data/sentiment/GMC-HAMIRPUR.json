@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-31T23:06:06.124Z",
+  "updated_at": "2026-09-03T21:33:32.988Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 11,
-    "concern": 4,
-    "avg_score": 0.02,
-    "avg_magnitude": 0.24
+    "positive": 6,
+    "neutral": 12,
+    "concern": 2,
+    "avg_score": 0.09,
+    "avg_magnitude": 0.225
   },
   "youtube": {
     "n": 31,
     "positive": 8,
     "neutral": 17,
     "concern": 6,
-    "avg_score": 0.052,
+    "avg_score": 0.045,
     "avg_magnitude": 0.287
   },
   "overall": {
     "n": 51,
-    "positive": 13,
-    "neutral": 28,
-    "concern": 10,
-    "avg_score": 0.039,
-    "avg_magnitude": 0.269
+    "positive": 14,
+    "neutral": 29,
+    "concern": 8,
+    "avg_score": 0.063,
+    "avg_magnitude": 0.263
   },
   "top_positive": [
     {
@@ -38,9 +38,9 @@
     },
     {
       "source": "press",
-      "title": "'मेडिकल कॉलेज के 60 करोड़ के फर्नीचर टेंडर में गड़बड़ी, एक फर्म को फायदा पहुंचाने के लिए बनाई जा रहीं शर्तें' - etvbharat.com",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWxvZ2F5S1ZXbjQ5cnE2bFRNTFJkUXdpcXFQa1VxYmpPRmxKTVRJeldkRFlXazF2YTVsZzNrWUZfRFRnbEI2OWtON3VibHBoemxxVXgxNWlVT3ktS3lVMzN1ZUVMMFhPSWhUV00wVHAwcGxBSkdsZk5nYnBNYnl3bC1MYmpZcWVXUzlSNlF3MGY5RlpOUlNwd3Nhd1pTd0YxQUpjbllpY1VsTk1RakgxbXlnd1NUSGx1ZVFUZHBlMGxGZUhZb3pfcGEteHJrREdIRVluNmt6SFJVMFVzNmktSVJUS0RWeTFPNjBlOFdOLVV0akoyN2ozUzZKcENWTWVfQmh2dNIBigJBVV95cUxONlJhWXdNLWJyVkx4UXhFQmtEYTJPXzVDY01VcFFhYlcxMjNmWGhiQ04yT2tNUkJZZGJkOXBYMWRhaXV2MGIyeGZzMndLcGNaSEV2dDd2bFB0VEpWWk1jRDFfUjJ0NEphenp1Z0NncWV4WDBnck56c1pWeFJXMHo2dWQ5LWJhdHlmSjFEdF83ZjBqRmt3NVVBZEpZMGdwNjlQV2lxczh0N2w3MG84NEhVTDBQX0JJWXk5bGl1Y1B3VU9IWnZtYWdTV2dSaXk2eVFtMjhEck5UQ25uVllqSWp4ZVd3RklmU1JacklGVi1Nc09jVlFqbVN0R3pGcDE5WWNEaUdFeDk5OEhEQQ?oc=5",
-      "score": 0.5
+      "title": "हमीरपुर के सीताराम की देह मेडिकल कॉलेज को डोनेट, परिवार ने बैंड-बाजों के साथ रवाना की एंबुलेंस - News18 Hindi",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHl4dU9GS3ktNVdibGg3T3c3Q0hmQ2wwbUNCU295MjZTUWFuUTk3UGp2OW10dnppX0VJQWZUeWRndmRkTG03b1B4c2M1bDRzZGw0eE10Q19XN3RWdGxQcVp2ek9nb0ZNNWxOaGE4bXJZSTRZQTBzVjlMNmthWHZ4VzN6QWtadTdjUXR4ZHh0TVNaUzRzOUxyN19PdTh6TnZVQnVYQ3hXMTN1eTFfSXNLNUxsc0hPVlV0TFM1MlJ2cjdzWlJzQml3aUc0WVkzSDlhYXJFLVhqTFRNOW5BRW82T2p1dW80dXPSAewBQVVfeXFMTWxqMWpnRWNGMF96Y1RtazdIVndoSTREaE5OS2RBUlNheUdqMFNfYzUySmp3UUFDNVViMkVKM2tYdzBibFJoblRSNFMySnU5NWRRYm9ma2FLN3FPYXJYMmpRQ3BoYThiSEZjNDlQSXVNb0h4TzdwRTFlNFdxdmJhdGxnbDUxVFVtd1VPRFotOHdCa1g5X0E1akJRNXlUeVBwZXpLdE9qSEhKRXk3eFNfWWZhVU14NHEzczhTTEtFMnhFS0hEQi1Fejc0d3h3QmtwaWlPVWprY1ZZUjJsdUlyejZHcThVUnREdE5pUHk?oc=5",
+      "score": 0.7
     }
   ],
   "top_concern": [
@@ -51,15 +51,14 @@
       "score": -0.7
     },
     {
-      "source": "press",
-      "title": "CM Sukhu trying to take credit for Hamirpur Medical College with no contributions: Anurag Thakur - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzk4Um5nSFI1eFpkQzczTE5qaFVMWVRCSTQ3VktzOFd0cjU4R29UcXVpTTFLUGhQUTVBUlNrTndqdDhXQkdhSjV0TnVVY1BvNDNJZGxVT0ZkU3k4RTY3YVBVOXJ4Z3gzdm1XZkFuY3kwN2ZPWlFtaTh4OGlkeDZfUnBMNlZCR2xQQ19iY2F2dWJCZDJTZDRfangzVWtXQnNfcEFSZURDYXBScGthdTlackE2OU1VSXZuVm5XLVdteTcwdm54c1plaHJR0gHPAUFVX3lxTFAwQUlYZzJHOUNLQV81cjgyaHc5TWJkLUlJMTJfQzFHQ3RwVzhmNURxRjd3RnFpVzRCOXQyR3J4V3Y2VlhTRWc3ZUtwUnlPejMxM0ZtbEg3bzgyaTBnWWZBUjRUNzJ2OW4wczhzbDhiMjVrdWN1UVQ4V0tGV0U1Ty1TdGV1MmJycHByLXBUZHB4X0xseGhmOGZYTnZPYzdNWmIwQV84dlpPUEJWOUk2SGxhWkFvaFJ4bmpMLXpYdGZ6MkdpcW1JNFZyR0hvaU1ETQ?oc=5",
-      "score": -0.7
-    },
-    {
       "source": "youtube",
       "title": "Dii cut off rank for state quota gen?",
       "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "why is it so empty? are you like the first batch ever?",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-31T23:05:46.014Z",
+  "updated_at": "2026-09-03T21:33:06.230Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 20,
-    "positive": 16,
-    "neutral": 2,
-    "concern": 2,
-    "avg_score": 0.24,
-    "avg_magnitude": 0.345
+    "positive": 13,
+    "neutral": 3,
+    "concern": 4,
+    "avg_score": 0.175,
+    "avg_magnitude": 0.405
   },
   "youtube": {
-    "n": 12,
-    "positive": 6,
-    "neutral": 5,
-    "concern": 1,
-    "avg_score": 0.275,
-    "avg_magnitude": 0.467
+    "n": 23,
+    "positive": 11,
+    "neutral": 8,
+    "concern": 4,
+    "avg_score": 0.222,
+    "avg_magnitude": 0.578
   },
   "overall": {
-    "n": 32,
-    "positive": 22,
-    "neutral": 7,
-    "concern": 3,
-    "avg_score": 0.253,
-    "avg_magnitude": 0.391
+    "n": 43,
+    "positive": 24,
+    "neutral": 11,
+    "concern": 8,
+    "avg_score": 0.2,
+    "avg_magnitude": 0.498
   },
   "top_positive": [
     {
@@ -33,32 +33,31 @@
     },
     {
       "source": "youtube",
-      "title": "very nice Which camera you are using ? Good quality output.",
-      "score": 0.8
+      "title": "Nice video",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "SUnderNagar Mandi tab bnana bhai kabhi same style mein :-) appriciate your work.",
+      "title": "very nice Which camera you are using ? Good quality output.",
       "score": 0.8
     }
   ],
   "top_concern": [
     {
+      "source": "youtube",
+      "title": "The highway needs major cleaning, removal of debris, grading and landscaping",
+      "score": -0.7
+    },
+    {
       "source": "press",
       "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0E?oc=5",
       "score": -0.6
     },
     {
       "source": "youtube",
-      "title": "Today i come from ghumarwin to kenchi mor via tunnel. It take 1 hours to kenchi mor from Ghumarwin but lot of work pendi",
-      "score": -0.2
-    },
-    {
-      "source": "press",
-      "title": "Himachal Rain Fury: Chandigarh-Manali highway shut, alternative route also blocked - Babushahi.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrY09vOEV6RU5OV01UUEtZRmxacU5FWWhOdlBqWUxWSlBYcFhReDFQUmg5Sm1NdkhVV2EzZWJkOHM1TGhjZjdlaldGOWVxT1NnZDRUaU9XejJUM1ktSGc?oc=5",
-      "score": -0.2
+      "title": "I think jakatkhana flyover both side flyover work will be completed by 15 Aug. I suggest this should only be opened when",
+      "score": -0.3
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

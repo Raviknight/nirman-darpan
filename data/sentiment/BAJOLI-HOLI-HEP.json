@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-31T23:06:05.508Z",
+  "updated_at": "2026-09-03T21:33:31.148Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
     "n": 20,
     "positive": 8,
-    "neutral": 10,
-    "concern": 2,
-    "avg_score": 0.14,
-    "avg_magnitude": 0.275
+    "neutral": 8,
+    "concern": 4,
+    "avg_score": 0.05,
+    "avg_magnitude": 0.3
   },
   "youtube": {
     "n": 4,
@@ -20,29 +20,29 @@
   "overall": {
     "n": 24,
     "positive": 8,
-    "neutral": 12,
-    "concern": 4,
-    "avg_score": 0.079,
-    "avg_magnitude": 0.275
+    "neutral": 10,
+    "concern": 6,
+    "avg_score": 0.004,
+    "avg_magnitude": 0.296
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "हर ग्राहक को 125 यूनिट फ्री बिजली, होली से पहले इस सरकार ने दिया बड़ा तोहफा - Hindustan",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbXh3MWpIYWJZTmNidVdHWl9jNFRPWXVtdTJXQzBkRTV5MzBsRlBQaFFqSkVxSHFUZFBjZnRuQmprLTJJRGVCdnZiSENhZTNpbWJKdW1vNW5WX0l1TVBZSjBacl94Qm9yV3VkYlk4OFZwX3VwSEllSFdxWGJ2VmxlV1UwTm5lb3BqU0FfNW4xSVZQSFhpTE9aRk9rdVVLMURJd2hlVms1WEVEd2FvdGdhSkRaNDZteW9wQkNUOWpiNDZpVGtoR3NQSGF1Z09EQlNjUGJQYkpKZkQwN3JCLVMwdkdLY9IB6AFBVV95cUxPWS0tTWhJM3lQRGZVaksxTHZTQ2pVRHY5NXZ3M0otRFVrRjhUdGFURFRuSE5KZC1yLWs4NWRZTl9uamxiSUJCdXdabmY5bjBkLVVDMnEzRFJMLW1BY1RJblZrRjR4TUMtaG1RdnhWRTVRU3VYbEk1WFBOTVB4WXI4VzRsM0Joal9VbUI2cGNBem9OLW5oZlVaY1BKanAyRG5CNlRCazFtMVMxb0h1NUdDTEZ1bEhOZFZjeWtka2g0X1VXOUQyckFIX1BLSG0tRGNudl9ZWlhkcmduRFlVSHZQN0ZxV01BU090?oc=5",
-      "score": 0.7
-    },
-    {
-      "source": "press",
-      "title": "बरेली में होली पर रामलीला, 166 साल की परंपरा; मुस्लिम समुदाय ने किया यात्रा का स्वागत - etvbharat.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1RsU3Z1dEFZOGFrZ1FpdTNrcWh5ZVdsWUNwdmlWaDE3elZSd1J0UktOZFNkNUxzRTBWX2VaTk9kcDM2Ul9kVE1LNDF4Njl1VXlfYVBSVzNrMTg5VGx6d0tRcVpXZ2ttdERRd3NGX3dXNnVfSmJ5MmlfWV9hQmRvODNUMXp2aVRZdHdrcHlPbFJweTZhZjQwaDlOYWtfRXc0TUUtd3JMZ1hDenhwRjhHMHdGcFI3N0JlTTZLN1NaZUFjWEhfbWRENzY0OWg4UlN3NTlib011X2FwMXpLMmNoWEZ30gHnAUFVX3lxTE9ZVUpvUnhfcTVyaVFTZDBuQW14RDBvTFBDQzBvdXlDQ1RBLVRWSi10U25zMi1yZlotV3hyY05sRjR0QzVKQnNJNm9wdk1UdGRtMlliVW9ISUFDLTZ2Z1habHRDZkNlVkM4NTBHN3lCY1FhYW5PMm12RnNzSm9KU21TbGJjRTF5Z19jeTZHQU4wVHRfbFBpQkpPSWlrV1ZQRDZrMWRQY3Faa2UyWldoUlZ4QjRlRk5zZjFfUXNEcktjbkY3OXJsaWt1ZzI0RUNacE1yTjFQLWF2cTROVzhzWjVPNHVYOHJkZw?oc=5",
-      "score": 0.6
-    },
-    {
-      "source": "press",
-      "title": "बरेली की रामलीला जिसे अंग्रेज भी नहीं रोक पाए, 166 साल से कायम है परंपरा - etvbharat.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWxpYnhSMWIyZ1c1UGJld0VzWkhqczQzSC1RM2pDbUZ5UVhtT0htVW5CeE9SbU45NGhUOE1JTGVwbUlWNGUxRjNYNUcxRDJqRGoyWFIyWW5iT2hJc19OY19yelR5UTY4NGY3Vno4TUNEQXkzbjAxbHdPcGRweDQ1US05dW1GMzctMXJ4SjJzZVUyVVhXUmJoRGx5dEdBTS0zWXZybExaTHI0SUhZX0RrS1JjT3lib0lGdlpiWF9ldmZnSnQ0Y21TVzF2aE1xNU1iYjg0eVFJM0NIa1nSAeABQVVfeXFMTnMzVG9oYXBnVjNhdklCRl9UQlYzbTM2VG9hRFNCMzdOWER4Ylc0YV8xYVdva0pQLVBQVmctVUQ5OENQNUFlWERnQlo2dXpWQTZoNzJhMzlEc1N5R2hkczBsSk9zOGVRbmlqOEdUcWs1T0VpMWxKLUhqTVlTd1F5T015LWFockNVcVJpUWFiekhSRU1NSFRORHBCbGpWcGllbUkzY2t6em04QzM0eldwbzhkWmwxS3lmOVVDeERUMVZUM25tckpwS25PRkFMbjU1VnlMTnJGbXU5LVFEZmtrWTU?oc=5",
+      "title": "होली के रंग होंगे और भी खास! बरेली में इस दुकान पर मिल रही हैं इंजेक्शन से लेकर हथौड़ा तक कई अनोखी पिचकारिय... - News18 Hindi",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOVFZVRl9tUnB5XzBsOGJrR0tDMWRGV1lUTk8yeDNVQzNmLURvY3BsU0REaGtQYlNnRWxiZ3pMVVRSdW15Vi11Y01PUFlJMDhNRmZ5WkxEZjYxcG56azl6N0dhdTVJdEVwSGhmck9jZFVuM1FrODJ0UXZsU0NCaktKVHIxdGtGOUJ6MWk5UjFxNExoXzhVNEZfVzM1YUNNemJsclQ2Q2tMZTlkcWpmVlJXc1BZRU9ld1ktWl9SaTFMcjIyREdYQmdqem1XRVF6U3MtRWFWOERyVlVNdWQ0cllfQWZLNGJWRnRhWXlhQ21jQVpwTS1GZlBTT2dFRHZCVXN4LUVmSlVsYVA1ckllb2pfNTBaY1pVYlNuOXYwbXNDOURyVU1QUXY0Y291WV9TSGEzT1FYN3poM2JiNmxMVnRzMjVtNlFhQ0ZRbUxNM2NvdUxLelZ3RHdSctIB3gJBVV95cUxNTUZzNklJSUxOZzIwZXVCUFFRYk9lTlM0enptOU5jdTM4Nlg0WGV5MnJuSG5nM0Jwb3BYQWNkMGNyMTA0Z00ybUgwSHcweWY3NUt6ZTMxZm9Ed0RaZ19zVWJFQzFXSGFjOUhwZW13eUxVUXJ1LWJEUy1OU2xhWUlOZl95MjRMaDZzWUlJWFYwOURiTzRULUlSU0sxSHF6dHNXZVlBTWszYlhEUXBWSWRwaC0wbnJhS096blltZGZfam40S1R4cjZpVjk2QjRXV3JDSmdlTmNWWThVUmxpLUh3SEJ5bHo0Y295N1NlV1gwRE9HNDRjUXA5bi1JRVJUTjBqaGdYRXc0Q2ZvSWMwZVdqSmJuQ1p3ZHpoX3UtU3lHQVFhdGFPTGs4S0IxQkhpdU5ESVg5NGhtUlVweU5hLUREWldaMl9kT3pwdzZfTGFMTVk3d3lOd3NCdmRycWNidw?oc=5",
       "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "हिमाचल में आदिवासियों को उजाड़ती पनबिजली परियोजना - news - Mongabay",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeHZVSXIzbm16Qy1lcWpoNkl0aUV2X1lMTmExRVdUNTdFWFpJRDhUUElxLWRJSkx1WTl6RWFSNUZhdmxQcDVBZjdtMkZ0QVUyRldEUmpxMlQyYmRsbDVwYzJnTENmbTJ1WjhBOU9nQi0tNVdJZGdLLUtxUy1aYl9sSGZFcVM0RUxMeEZwWEFYOXE5YmNiTUJVZXpXckduVHdtbmp4RnMyVHh5Q1lia3M3QXRqWlhvSnphSUpGdENR?oc=5",
+      "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "GMR Group’s strategic sale of power assets to reduce debt, strengthen finances - Insolvency Tracker",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkxlOTN0QnU0bWN0Tk9oRFpGR1lZSzBNMW1sWGlPYnR4cVdlUS1Gd2FBTmNrMk9UaHJvSWVtVGRmOTJqeFBnWThRcVdBU1hlb1BRMnUzNGpPLWloR19IWVFHTi1pQXBjNUNlRWpjZUp1R3pxblNLUEF4OUhxUjBmMVpJLWR5dEl0NXNJdWtheWxWTy1TTE1ybmJHNkRONjJEMmVOb1pzQThtX0J3R3NuQ1R6Rk8xdEU1?oc=5",
+      "score": 0.3
     }
   ],
   "top_concern": [
@@ -52,15 +52,16 @@
       "score": -0.6
     },
     {
-      "source": "youtube",
-      "title": "Chor company hai .. GMR tabhi toh loss mein chali hai..gareebo ka haq maara hai ..tabhi bik rhi hai.. ek din pura group ",
-      "score": -0.2
+      "source": "press",
+      "title": "Delhi airport mishap: GMR group that operates IGIA and their key infrastructure projects - The South First",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUdXcHNoZHJCMW1wY09BN1E5bjVqTXNVQTFuUklaTDRtc0d1MEQ2NWFQbEZCdTBIVW9QWkZZY0JPbHpybDR1X09fX05vSEZmUUtqcHo4Z2w2T0YyTmlhUjRWdWw0OUw3dE1JMm5WcEc4TjNHVnZtNGJFUTlZcGNRSE1RdnJ0N0NfR0h6bE1Id2lFMWlEQzBTRTVGZTktX3BJX2F1bjR3djEwQ250a3Z6SmV4aEFyZFdxY3VR?oc=5",
+      "score": -0.4
     },
     {
       "source": "press",
-      "title": "In Chamba, a village cracks under shadow of another hydro tunnel - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlRPSWR3ZmlKRDhabHhkZVd0WHhrZFBTdExCaWc1RGI5eEVtMklKS0JhVzZ6a1dtR3Z6SWlHVG5FZG5wYVl3TXJKU1Z5WVZKRzNrNmRXR3FFNnNIZzgzNlpzYnl1V0p6SE1XU1NPZW52WDJuTVR5VmFFaTdSVmlwZDh3eXFKbnJ3VmUtQUswNkJwTFM3UWs2TUpzVDhmUGtWNmxseFUyZEwtV3RnSzZjWXNOMnItc21WMFFlQkp1cXlnSkRWZ3JTYnZn0gHPAUFVX3lxTE5Yb2ZzUFpnVURtcHhTSDZDTlNxeEVlck1PM0lCaVBxNlBma3dIU3lkVnVDSzhkWi1Wd21RWHZGYnFKTGxBcXU2dkZQblRQSzVKTWZJUTEzQnduRm5YMWI2LWk2LUdOT3pXLWRTaEVYWmg0OVpJYXRoYVloZ000eDQtc21EWHhrWlZRU2F0VE1GZWNJNU91anMyTVRsRUJpYW1reXQ0RUhSeGZjUVdzMmQ0cVM2N2c5RmtqR3g3clBrUE95VmZTbENqWHBVMEJ3Yw?oc=5",
-      "score": -0.2
+      "title": "Himachal Pradesh monsoon havoc: 173 dead, highways shut, dam collapses; IMD warns of more rain - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTlV5SGMyY3RyOVdjaHhLVWlSaDNBTlVPRVc0cnZPaUxxYXFOWW9ocGQ2WGNVWHNuSWk0bkE3MHFkU3I0cUdxTzVMRWFNZ1ROU2xnUTYweEZPdHQwdFRTdHFTSTNfSWEtZXlWeThURWRfUVd3ZDRtVjByTWh0SnAyVFg4andEakZidUtMX19RU1FYTjE4ckdUc0Jsa1ZUdlFqdVA0NWJMQkhfX1E0WjRLbVVBejZPWmRua2JQVjliaGFHektZbzdONnIweGdhbjlaMkFJZTBRTzBQUHVZT3UtY1BXT3EyazVROGN3SlpRRi00bTEzbnZR0gH8AUFVX3lxTE9heGg5b05hVVgtdVZyOGNCMTdRSWpMSnFHa1hnLWI3MXcyYUtvY0JiOGgwZFhYenhRTkVoZjBfQWpUY2lHWmFrb2tFblpuY09wWVFwODN6dkZianR6NXRBRTJGUnZRNDdNTlR3Q2Rta1hna1NPYlhBRWh5RlE2VktYWGVLbVNjVDU5czd2VWZNRDAzOUJ5MnE0YnltbGZOWlM1QUd4eml0NjJPTV8zVU9nOFExVFd0WlY0VlEzSXFvWkpibEdseU5fSERiOTVKUUxhRVFHcWstN1duai1vQ1dnWl9wa09CMjVIWnZBbmRNcFNSWElweVcxdDhkbQ?oc=5",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

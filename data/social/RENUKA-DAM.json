@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-31T23:04:20.724Z",
+  "updated_at": "2026-09-03T21:31:28.270Z",
   "project_id": "RENUKA-DAM",
   "counts": {
-    "press": 46,
+    "press": 31,
     "gov": 0,
-    "en": 35,
-    "hi": 11,
-    "total": 46
+    "en": 21,
+    "hi": 10,
+    "total": 31
   },
   "mentions": [
     {
@@ -14,29 +14,9 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQTWJybVRGaFQ0NHRYcjlqNFg1TXhoMGxzajZnVkIzRWc4bW5VR1RoTDVKbm5Sd0dkYktMcjREWkFwYjVNUDZ1TGQ4VWxMenMzVVc4R1RhZEhBVHJkUE5fMm5xZE15NjBQbm9PQzFNdUQzNmkyTVJjX0NXX3BzdzVHMFFvUkVRZGRFRzRFV1RTM1QxcFpJSS1vNTlBSEtoeXNmZkk4OHloV3l3eUZSVk1LTUVmSlRjcUktUkJlVHVQOWo0TjA3ZU0yb0pKNlVaQ1JQeEowQ096Q2NQLUVxUTk0cngzSHpLak9BUFhNMDZjUTM2VGlRMC1SdmZZVG1wSEs0aVJFbFBKOHVnZkNsdXU3UHl5Um5qMGNQQzA4eE1OSdIBpAJBVV95cUxPOEJxbkFNaFprcWpMcFpvQVlRODNOT3VuSDQ5TUNNejdpWGxUaUR5UGRvdjVBSzFyZGVkdkZVM1lUek04bXdUTk9OVVhOeUhvMHRPdENweHRJS1hMQ2YwNWVLbEI0QU9QeGMwbFVDLW9oRk02WU5TSmlmZW91OXJmZHZNT1RFa1dMcXFlZTZ6MWpJblNlNHhrMDVrRmpUZVZQSlRTME5EWVFJSlhCb0Zta05KRDRjWkZpVGU4YjNHNVAxXzRQUmhaUVQtWWlKMXNjVWN4SkRZc0VBM1NrWGs5WnVuaWpVeGtycVE2RU12SFpBYXo5NjRkdzBaSnBLdXlPZWI2UkloVl9mVmQyREpLeGhzUW5wc3NTOTZTX3FnMHFUSGJ4?oc=5",
-      "date": "2026-08-24T18:20:02.000Z",
+      "date": "2026-08-24T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Renukaji Dam"
-    },
-    {
-      "title": "दिल्ली के लिए बड़ी राहत, भीषण गर्मी में भी नहीं होगी पानी की किल्लत, जानिए क्या है प्लान - ndtv.in",
-      "source": "ndtv.in",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdTdJWTZOemxjMTlpV3JqUDFKODM4ZFU3c24xYlB2QThINVpkcmxna0M2b2RwYUJxT2RYQ3h1dUZ4cTVYQU5HMTBqcHE4b0l1NG9XN25IdVRpSUpkNWwyUEw5N0xyd2EwYmdsSUtVMWFfWFJIQmFiRWJqUm9vWVBRTFZfQjJyWFc0Q25TeXBwd2h1ZzNKb1p2dllmSmF6RDhrNXh0VkFGRXBqVzBKZGpmLW00dS1kZzhhcTZhQ0dUcTNfYmplYkt2Njg2MlNCdjNwVHd5Q1FnZ01ZT1hhZ3ow?oc=5",
-      "date": "2026-06-18T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Renukaji Dam"
-    },
-    {
-      "title": "Lakhwar dam delayed by three years, hits Delhi’s long-term water plan | Latest News Delhi - Hindustan Times",
-      "source": "Hindustan Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTmFRSGFBckk1amlpQ19mTm9CZ3Z6VGJJN0hQNVktdmFBOEJ2YlRKRldHMWVySVdIZXBKd2lKTDVvX2RuYzk2WTUzSFNKTEE1T0tBV0ZaS0Z5WXJDSmRuSklCUFVmNHN4WnZzU2JqS3REWmg0OUdsZW9fdm5QR215R3RBc1doOGlNZkZuMzVsMjhUcC05TG4zeDMydXRXeVJRbXBpOWpXQkhpeHJqUGVwWDBfQ2VmTVM3LS1JZ2NUeGRUSkxIaWV6Sm5QQlJHODJHNDVqedIB2gFBVV95cUxPNXVNMUtvZXBfRWZEWUlfVUV6WmdCRVRVUnhSUWNkbk5pUmxuQjNhRjl5ajRQdjQxSGZrTzV1M0hoXy1scFZOS2FhTTRJbWNEanBEdUljTDloMWp3TGFWY2tCWEdINGZCRHc2WC02UjZwSU5NY1laaUt2RkFwWmx0c01Jclh2a2xlclAyWEE0QjluczRLYVJQbmU4RTZZdDZGQW9PVmhJZFlTWkZRLVJvd1E0Y2hvbmQ2TE5LaGlEaG1Nc3VjOUczQV8yVFVkbXRfOE9adV9jXzVUQQ?oc=5",
-      "date": "2026-05-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Renukaji Dam"
     },
     {
@@ -80,16 +60,6 @@
       "match": "Renukaji Dam"
     },
     {
-      "title": "Patel Engineering Wins L1 Bid for Renukaji Dam Project Package-1. - News on Projects",
-      "source": "News on Projects",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDRLSDltUDBqYkZZclgxZmt1bVVrM1MtLXpLS1BQRE1KYnctZ0hjaG04WDRRZ2xGNzJFMXZWM29fY1hZNkZ3Zzd4T1J6MFd4MnlkZ01ZUEJnT2xLTUxRazJwT0loQVNsVjJEYUJTcTNRTEdUQkJLMXZkc1lzVXlsRVdfYXlnVWRaWTlGWUtCVFdRejU2RG1qYjA1SFcwY1NKcGc?oc=5",
-      "date": "2026-02-24T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Renukaji Dam"
-    },
-    {
       "title": "Vijay Kedia stock in focus after securing ₹910 Cr Renukaji Dam project in Himachal Pradesh - Trade Brains",
       "source": "Trade Brains",
       "source_id": "google-news-en",
@@ -120,8 +90,8 @@
       "match": "Renukaji Dam"
     },
     {
-      "title": "Patel Engineering shares gain on ₹910 crore Himachal dam project win - cnbctv18.com",
-      "source": "cnbctv18.com",
+      "title": "Patel Engineering shares gain on ₹910 crore Himachal dam project win - CNBC TV18",
+      "source": "CNBC TV18",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVVhfU2FudWVZSWtaM0lNZWY0TUdrMnItSnBXM1N3Y0lXaU5ZNFJwRHl6NkFnWXdMc0tYckFuQUJLcWFGam5oNnhQTm1HQVk5aXNnSTVvOHZ1bnVGNGV1SGlzbm15ZW03Z1NDRnRqYUNJZmZqQ2c3TDBvYzg5V2JFQW5PQTE4dERhVGNmWk9xTXhmQ0pSdUpEY1lLYWcyX1R1bUs2dmJuLUlzY1MycldNd2JnVFNOWHhzS0Jyb1dvamhEM0tTbUZmOVA2cm1zRW9DbUNjU9IB2gFBVV95cUxNbnktUENzdjdTMnRhQ21GSGhEak5PN3NSalRRaG5WRlJ0WEZ4QVV1M3cySGY3Nlo0OXA1bVF2eGk1VHNZR21weksxYVVsRS01RS01ZmVzZDNFWEg2RWVZM2s4dHJXa0tvZWNvZG1tMnhvS2xSY1NoSWVWVUdHWEpVRGpsMmhJUTl2RFlqdTNMTlJZazFac0luUGIwWG40V1RNazBDdmFYZnNoVTdHLVh0Q1VYMHR2dDRkQlpRQWt4dkJUcGpNN05KOGFQMU16bERpNjY1djFPb2Z5QQ?oc=5",
       "date": "2026-02-23T08:00:00.000Z",
@@ -150,41 +120,11 @@
       "match": "Renukaji Dam"
     },
     {
-      "title": "Delhi spends Rs 231 crore to tap hill rain in Yamuna, but not a drop flows in - The New Indian Express",
-      "source": "The New Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEp3azA0NzROUUdMcnl6RXF0UUZoN1BSWmpBU05WM1ZrZ3hpNVhqR3Rhdk5zem5OV2h4WTlrcE1pdE9EcExMUFB4Mlo4ZlhEOFV4MURxbC01YW5VTG4xSHN3XzFOVi1KeVhXYzV2cE9nTkZ6SXZzT0ZfSnNxTFVIckhUbDVqVldudFEtWUd3cWs3ZFpkMmczMGdDcHA5MldSLWVqU2N1ZW5zWEFORi12ZUZvdTA3cEF2OWtIZVJ2dzZTazlUWEJ0YWg3NNIB2AFBVV95cUxOdlFWRm5xRUVCd3pmWEVSX2dCLWVIS0ZuSTRIdmRuY3JTSG9uNXI0RmRlbFJETGMxaXdZeHNUX1F3X0RPZlBQbXFZd1FKMzVSNmRJdFIxS3N1cVZwMlMzR1Q2VU1ELVB0YmdvNTVyczhCdGo2ZGk4cVYyM2ZhcGh5aGxieEZpd0tQbWZaY0J0cmtacWZueDlxMUpfSEI4LU9xNFQzWmhrcUNoQkFrcEdMVGY2cTE1cVNZa2dsdVNRMFI3SVRoS3BweFQycEJ1REtNYXR3a1E2NW0?oc=5",
-      "date": "2026-01-19T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Renukaji Dam"
-    },
-    {
-      "title": "Centre revives three long-stalled Yamuna dam projects to shore up Delhi’s water supply - The Economic Times",
-      "source": "The Economic Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeHVxOWlXOFZoSTRtVTdtZlAwd283Vml5clY5WFZwQVlmMm5kazJWMmFTTkI4YkViVEtRdXY0RHhoaHJaTkNsZlRCc3k5bm9Kd3dRZDJoUkVRSk5TV0k2MG9RTG1PbUQ3eUJyMDRhYmRiNDZFQ2w4OHBTRjhQRTAtTzltZWs2aXJUTG1jelBCdTE1VElwbE82WTNOQ1VzTXNOY1Q1NHpWbFZscUtjT1lvVVp0TFF2ZGdhOHlBQmdaYWdONlNqdW1FOEN1cV9vS0pvbVB5WDdWWHp2TklnWC13a2RFRVrSAeoBQVVfeXFMTS13d2k4N0JmakZWd0xhSkZKdGt1cUVlYTBUeUJfazZRV24tanlhanRfT0xNazZqT1EwdHB5aFRyeVFzeEg3SEtkWWhGTzVOV3B2SUZVUlhQd3JWSHA0MDZYRnYzN042SHRLS2ZpUEc2SWpNenpNWnJOQUJ3ZWlfR3pHWExPY0VwZHREejVCdG1ZRG1nZWFHREFOZ181X2ltVXQ4R3EtV3pyeVhyeFQtSjdZZWxMOTJMM0Vnb0NLZkF5OG01R29QSlhSenlWU19QYUNiRWVzUGhxaFdfTE1OLVZybC12NlE3eDdn?oc=5",
-      "date": "2026-01-17T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Renukaji Dam"
-    },
-    {
-      "title": "How these 3 dams may boost Yamuna water flow: Projects to meet Delhi’s drinking water needs for 25 years; - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0ZndWMyUXJPX2JfRDRYWE1OdWxsMTRSSHhQRHFydnBZVVVRUEEzQWJmMXFXWTlEdHE1NjlScUtlM0Y2X1hTcWVuUVBKcGNVbzdyVXNha2xvODk1QWpiVmxIY1RBWDcxMEg0Z3F6dWJiMURHcEpRZFB5NXd6dnhyaTgzVGh4R05XM0VIQzVadTVNdDNta241MXIzLWgzc085dGZqeFpQUVRZeVRJY1ZBLXRobFlCblEyb3JsbUZoUjJQd9IBxwFBVV95cUxOY09MMGFPaXJHam5sYWQ4RmtYMlVtSHZraENNejFQcjczTkctN29PQ0pORnR2U1h5NXdOZG9GcUVMZ2hidXB3bktvZFQ4OFlsZE13eU53bUZJZ1hjSi1fRWtuUkV3empjZG1ETVZFSTVaM0cyUFRPcFN3RWd0MDM3NkJjRlljVFFDel9SZ3NFa3R5ZG1xcjNVdnJRa0xsc25UaU1NaEFFdXpHYzAzMTFvTkhxQTl4RHBwSWEwNC12azlXc1hrQkFZ?oc=5",
-      "date": "2026-01-17T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Renukaji Dam"
-    },
-    {
-      "title": "लखवार से किशाऊ तक, कैसे 3 बांध मिटाएंगे दिल्ली की प्यास? जानें प्रोजेक्ट की पूरी टाइमलाइन? - News18 Hindi",
-      "source": "News18 Hindi",
+      "title": "Shri Renukaji Dam Project : श्रीरेणुकाजी परियोजना को मिली फाइनल क्लियरेंस - Divya Himachal",
+      "source": "Divya Himachal",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczNKRkVhNWdXODdSN1VvbDhyOGl4MDFOajY5ZFFaQ3NWYWVDT3VXaTN6N2hSY0hvYWstZkE1M1FTaTQzRUIzb2R1ZDFoNi1fd1VvRzlPMFNjTWVZRW9wb1JSU2pUMHBZWjhLcDVzTTNQOGIwNE1FNUJ3bVkyTEpKU3NxaGp6dnJIbmduTjhROVpTaC1xSThDank3enlMOFpYUy1EM3hUd2otU0NNRDd0RzVvQmRlSUxFazJFYng3Wm13VknSAcgBQVVfeXFMUHBZVEdCM01qR2FCVXlyQk9VXzI1emFPWjVrY0Z3YUo3cFp4WmxtSW0ydDByZnZ2RWlHX3BkQlpMVGJTVXVTM3l6R2tsNEJuM2lyaUV6NGxCbEhNUE5hTU01b1h0VE9SbHJfUXQ5cnAtd3RMUlFCY2I5ZTlna2w1Z0RweFJvdEhteEJxTzM1QTAtTFA0ekxTVzdRTHBPcndTZVJKVmlhVy1ENTlLNzR1ZExTSDVkQUZ5X1YweFdnZFFjZmpfSjhnZmM?oc=5",
-      "date": "2026-01-17T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa0VWQ1ZSdVExR0x1OE0yT2NZU1BobEt0QUhCYkM2OUs4Xzl2MHVjYUpaSnRneTRrcG9EdENtUzVZeU40cWFzUTU2VU8wdGVPWnVkcmdpSUdLLURhRDdlZnA1N3dyOU0tYTMyaXFPT1RfZWd5T3RtajVvTFpWRU92d2U5elBFYURuZ0NBeVdEOUl1aXFfQ25CSkRKVVZnclBzR1RSUS1uTm04akRCa3NWWFNFdXFFaWo5Ykp4NnNScHlpNDdteFF3V0FQNGtTNW9IQ3JydVRrRnBBZFBj0gHiAUFVX3lxTE1pekNVSExjZEJnTE1ueXRrc2hKcC1yNm8wYVExLXBUeGppbG1BaFJlXy1pNTFkTnYxeWs4Z3BVS1VpYVhmREJ5bjlyOE9ZekU3Q1R5NXIyX0xCLXYzQXJ2akg3eDhIMnRyUjVIdnFZWjVCR2hXMXp4RkMtTUx2SDZmbTlOTUU5cDNFN0lCLWx3cFlTTXJ5Ry1naVJBN2N1VVIzbWZhUEp6T0h1cTVUaGQ2dEpENDdURmp3d1RVeGVTTGlrUXg5bGVJTlBwNVdhdDVyRWoyMDVJZXptWDNXazhqeUE?oc=5",
+      "date": "2026-01-10T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Renukaji Dam"
@@ -207,6 +147,66 @@
       "date": "2025-07-19T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "CWC inspects Renukaji Dam site, set to expedite work - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORXZrX2t1aS00Mm15d3FadUlrckJla2ZlVTFJMEpfNzNYbzhPQkZKcXU3MzFMNFM2eWRYNWFaeDRXekFDUXZWQmdXODlTYTVUMi14c0tUUmdSVDRKYnFGcG5TMjNYWGlMcXRiazlkZUxNR2h6S1AzZ1hlUTBFemRSNGhCNWV2NjRZVDhRNDlBYlRSRG9BdF9QNTVGNNIBnwFBVV95cUxNR0NYZnZuOGNUdE5ZSzdtT2dFOWJfUHZrWXV4bi1oeDhTTHpIRzZTNlZfdWhfdUNXdkZ1bW42c3Y2anAxelpHUnBQd3JBb29SWHdEMHdzTElyTXh2Rmx3VDdUWW9EeEZFRVNIZnltTGdjamVLejJFa2NuUGI2REFkeFpJRVJMVl9QTE94VXpocTNKdDM4a0FEcl9IbkxmdEk?oc=5",
+      "date": "2025-01-05T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "Renukaji dam project promises economic growth to HP, water security to Delhi - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3Ayb3FBTl9vOGhVVFhIY3J6UFlPcXhnZFdoenluemZuWllhUzVwZmRPM0hKcE82aThjaDloUnZ6WmlwWDR5ZjliNUVUZEpfR2ZrR2x2T24yZ1NNaTdjRzNJNmZ1akFkVDJoZm5VV0djeVQzWFgyN3c4S0FxdWhZVnRDRGdURmU4NGJGbGwtbzdYN0V0SHJkNXJ1XzdPbHRVZUs5anBXWHg5eVVUMi1jVkxIVG1jTDhITklB0gG_AUFVX3lxTE1sbkVQeENFUmt4bVZOV2IzcXpuaWlJVzJ3Tmg2TGd3MklRdjlOTWc4eWJFbElrMTRFVENiMUctREpkV0VzNmV5dDVmSVRKOXRQOXNtOTFoa0I2amtEMmNJS0s0T2paaXBOSU1Oc0NkTnFGWGhJSTFuT2diYkF2V2lJZWYzUVE3dUR6LTVzOUFpVkxOSGFyRlhtUXBsaTh5bnFvUGxGY1pWSGN0YkJGZFM5eEpOWVF5OGdBRE1OOUxj?oc=5",
+      "date": "2024-12-28T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "हिमाचल को मिलेगी बिजली, दिल्ली की बुझेगी प्यास, रेणुका जी डैम को लेकर सभी आपत्तियां क्लियर, जल्द शुरू होगा निर्माण - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNnNYdWNqSVFCYkdyenRYcUpTLTQxSjNMb05oZmRvYnVMb1pScVFwUTJQMWhxMEJHUWZ4Sm5SQW8ySk1VdmVqdHYycEFMNm9uRzM4dlotOTVhQTJacTNfd2pwLVdYeHdpNFNfeTB3dFl6clN6OU9LSVhGcHpzdVRTU25VOUpybnFGZnNOa0hMcDBZUXhtQ0hRa3NHeW8tbjF1UjBudk5QSFRaNFNoU3RmMkNaT1NZYTNpdDkwUVVPcVhOdVFzVXlFajJEamcyMFJpY1hjWEE0Sl92d3VwblBSQkcyMG5pbHFrbXd2RUJn0gHzAUFVX3lxTE1qWWg3Z3p1cGp4OHd0N2U1bTNhWGZLUVVuVnZvRmU3ckpCdjFDYkZJVGV3N1lEbno3SVk3Z2pjMFFfY1pFYVk0TzAwbzN3bXdyMkExX2FuQWtsY0hia29WTnJZQVlfVG5MN0tkR1I0SEtzMEVzMDFwNHNfQzdOblVseGdTSnFUaWtUMWZwSnVTNVNzd1ZoaGF4QUdaek9KeWszYWYwbXhZQjRKQ0JMalhXR1NFX2U3N1VlWGZRanhCWWVISmU1RDlZX1luUWhzZFh4T1JKSDZpbG5mVEI5MkhhQ1F4YlRPTGozb3VSMjBKTnB5dw?oc=5",
+      "date": "2024-12-04T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "पुनर्वास के लिए चुनी गई जमीन से नाखुश हैं रेणुकाजी बांध विस्थापित - Janta Se Rishta",
+      "source": "Janta Se Rishta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXFrN3VKb0FWVDBGdVU4cGxnSmk2YVdnZ2w3QWlJU0p2NnY4dDBCamxhSUt4dmp6bGNqUFhWeDFJV2VWamRoc3BLRTB3UURUa3VTcFM5UTFVY0twa0NTWFB5cS13VnF2cDg2bUNSU3lGYVRnT1BlZVhFajJzZDJNMFZvR2syN2RlZ0JGSzhXMUNKcDhZSU1VcnZPTkpOcl8td2I1WERJSmZoNWUtZkpWZi01Wmc3UHNfMlMxYXNB0gHDAUFVX3lxTE1fV2trMFhmaUtwQS1BVFQ5SDhYQWV2ZmREZWgxODNwODdScHdrVThPdElyR3lsNnJUN3lxNEpmc2FRTFlEMkcySkVJQkVnbFAxSUhuQzlRWVhfd3QwZ2xJQzA5Wi1vY1NVZEtGNkh3Sm9Xb0ZPOG85b3ZicmY1QmU3UWpJUG9kdFFJOUZtdk9za0NKbXp1VVdMQ01hVEMxWXRmQUtCZ0F0Mk5keU1tNFk3SWN1Xzh3S3liWWkycERKemFCdw?oc=5",
+      "date": "2024-04-11T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "1,362 families declared affected by Renukaji Dam project in Sirmaur - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTm5ycjFNWlFJOXFpSUZ5T3FWckZjdlZ1cXlfVW5xUER3UGprVzd0Y2NlbVVKMEVFNFpjNGZqS2hyU0JIbW96a3hZbG4zY2ptWC1BRFpEZE44TURvSktEeDJEWTFrOHhLQTdRa05lMDZiVUY4S0dOek5oeTJLQTY5U3laS2NhcGpFdEV3VEduMUxWXzZXVms2VVh6Y3BQY0VtWEZTSkllSFpiUmYwc2RET05QMnJkSHp6bHfSAb4BQVVfeXFMTjJWbjU4dXV0bXdUMXhjeEc4aklnTURFb3gtenJjTG5GckFzRXNkZ0J5WmNKSXA5Q3hyYk04RmNyTXMtTHpnNVZhQ1ZPaGdFNnBMR2d6ZktVOEd3QVRNSmJzUHo5enpoTmpsazFSb19tSGJiYkNBQnFObnNicTVFZjNNcmE5M2k2VnNWeVpFOFZ1SUhveGpMWjVRTnB6VkhrQUVET2RtWlZDMkZIMENLMFJ2ZFctU0p1RGdmYjhpQQ?oc=5",
+      "date": "2023-09-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "Sri Renuka Ji Dam: श्रीरेणुकाजी बांध बनने से हिमाचल को मिलेगी बिजली और दिल्ली को मिलेगा पानी - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNX2R6OV9Jal94cklBX1dBdUtiYmhfdUVUUFd5TTZ5LTZMclkxT1h5aEEtVEZCYTVqM3lfUHp4X0NLZWlzUl9rMkp6bVV5Ump3U0h0VjMxekc3ajdUNjBNQVhMYXgxZUZqdnRGUnNRMm14amlRbU1uVm9RRE5CcWlLR1lsSWFyYXJLa1kyV1pLVldsQ0pyRm5OZVNKc0NISFhsZ2JFUU4zdEdXWVJEa1JWMW9TWGVzbnlGWkt0anpiV1J1NUloN01ZbGVZVTFqeGVEbTFGUnRmQ3dQOEo2UExiNkgtVkRhWDh1bl9VSDlOemJibHA0b2Y1c0pmTWNUa1BGUm9JLWYteDFOMGJOb2w5VWRUOEtESVU?oc=5",
+      "date": "2023-06-03T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Renukaji Dam"
     }
   ],

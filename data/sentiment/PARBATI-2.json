@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-31T23:06:01.010Z",
+  "updated_at": "2026-09-03T21:33:17.805Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
     "positive": 14,
     "neutral": 5,
     "concern": 1,
-    "avg_score": 0.28,
-    "avg_magnitude": 0.365
+    "avg_score": 0.275,
+    "avg_magnitude": 0.325
   },
   "youtube": {
     "n": 4,
@@ -22,10 +22,16 @@
     "positive": 16,
     "neutral": 6,
     "concern": 2,
-    "avg_score": 0.258,
-    "avg_magnitude": 0.354
+    "avg_score": 0.254,
+    "avg_magnitude": 0.321
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "माता पार्वती की वो जिद जिसने देवों को कर दिया था परेशान, ब्लॉकबस्टर ‘हनुमान अंश’ का वायरल भजन - Aaj Tak News",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWHpHUkE3eHVuc1dIUU9SQVVlUnR5ZUtPM3dhSHZ3dVh0WWtpODlGeUlLd2xWd1JLaFc3ajdmLXFoUzBIRjV4OFFObk5BY29OVkRoUXlhUHRhdDBGVUV0REJqem10Mnhpb21HeV9BZ3JyeTRwek5tV2hvYy1ZekR0ZUktRjVDRVFHTEdISHZ5aWUweTZXOWVzM0VlY3ZqSHlQYl9sUUU0em5OWmZ5Y2xFR2pjcGJhQmdaWUEteTFkUmJsY1BqYnp6d3NORV9OVUpsZ3RWamN5TmFDUEN6UHhyUy0zSUhCRDhHa3J5RDVvdkRYZDlzZWhWNGVKaC1SSmh1V3JqblV2TXllWWM?oc=5",
+      "score": 0.6
+    },
     {
       "source": "press",
       "title": "कजरी तीज पर सुहागिनें इस विधि से करें भगवान शिव और माता पार्वती की पूजा, पति को मिलेगी लंबी उम्र - Prabhat Khabar",
@@ -34,22 +40,16 @@
     },
     {
       "source": "press",
-      "title": "गयाजी के गुरुपदगिरि पर्वत पर वज्रपात, एक श्रद्धालु की मौत, कई लोग घायल - FirstBihar",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkx1MG5yYy1WMXUzVzAzSjJrcFh6ZjNfZDJlR3VxLVN3TUFRWW9vWXlLd1VOLXpnLWtpWmtYOVk2TTlIbVhkN0llbUxmQUtsUGVNclJXS1BPNmhFM1EzNnFBMkxneXJDeDJOM3RUa01FSVVlYUh3YnRXdHRNZ0VCdHlObmZITEVxY214QlhPNGt0WXhDV1JaV3NjV0xHbThuQjlyaDduaTVic3I4TXZj0gG0AUFVX3lxTE1VbUw2aVY4QnRKWTNnSFlSY3lRUThVaU92V0pCelhWakNkci00aGE4eGtzLXE1QXdiMnZWLW9kcW05djZiaVVxSHRLZzZzQVV2X1lxMEx1S3VZNU9GamRmWjE4bjV1OTVMdGlFSFY5Tnc1NF9Ya2VUTlVaZVNQRUFPczk3N2RzWkxUVTVGcVM1OGNwWFN3djR4U18zaWRsNzE3Wi16c3JLZU9nMWFaTi1EaVNGZQ?oc=5",
-      "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "सैंज में NHPC टनल में रिसाव का मिला स्त्रोत, अब लीकेज ठीक करेगा प्रोजेक्ट प्रबंधन - etvbharat.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWF9td2FnN1laOFQ4bGsweDBiQ2ZrSjVFU254Skk0UUpsNnFsakdlN09mS2g2X3dMWEtMa1VOb2pWeHRtaWQ2MV8tU09vVFlWRmpKVVRfU3pjRGtOMHZDTGMxb3NCYjUyVmppLVNXTzZyYi1XRWN1cHFDMVVlN242Q21CSEdBZWVfVUpPcVdJbC1CV2ZzMXhFSm9SSmlpSi10cEdQZlk4QXNsNW5PQXFWdTVTR2dlTGZPRHJET29qRdIBxAFBVV95cUxQbkZXMW5Yc2pFQUJOMTFhSHRfaEFhQ2l2UzVjMmE2blhaUGE3U2JicHlMQ1ZkRkdjdE9MWkhfdVVUOW9rUEdGejZYcVhweDRLVzBacEloSGJTRkRqN1lxUVZ2akJZZlJMRXFtMXR6YjdMRjVTMWRfRW5sNVNfN1pqa0c1N2FUdC1nOGQwQjlPakpBRUNWOXE2eXpwUGJzcFB6Yk5nYzhrbXo5SXppZUUzOUV4VEM4cGNsZlR4RDN6NDBlUjZp?oc=5",
+      "title": "Noida News: कजरी तीज पर शिव-पार्वती की पूजा करेंगी सुहागिनें - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRnI0RTd6MVh2aXN3RG5ZTE51ajIxeHVjQ2VOVi1ybWJUZXF0QjNjQ3hUakJQSHp1bmFyV200S21NX3IydEZWRi1yMDYxUGNXRVlJWVIxUjFmZUtfVkQ1UTRUS0tiR0theFBNMHhzS3FKSGhZWXFpVF9kelhXb05WTmpMX2xrUE9RaWV0WlJ6VjMySVNoVUN3VGRNalNXX0t2ZF9nTVE1a3QxTkwtbUpWSzdBRzBaN0pfTFMwWTdKRGFuSmlBVEo0M2xCRDhlRmxjdnRpY0RHek9fc095UWfSAeMBQVVfeXFMUHJjN1pQcHBldnEweURZQzR3cm5uUDUwYnVDX1BjVll4MzNTVlF5QmRRMml4SzNGTGdVUlBwN0xGbTJHbFFtTTJjZkpkeXdHQ0MwdzJhUjNUVU5WTE03cGxNLVBWOHBNbDAwUWZPTGdrQklTa1VvT0ZvTHJVNGdCbjZKZEtab1ZXOXV5X2JteFhGd2xfWERQUjBsV3phUjJwYjZ1Q2REQzIydVBRZldIR3ZoNDg0Nkw0aTJCUEQ4MjZkZ2syNHRqMUNnVXN2djd2WFlmbzV2azI2MGJtMGNhdXlOVVU?oc=5",
       "score": 0.5
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Water release raises flood risk along Beas, Parbati rivers - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkduZUl2WV95YTZDX05Kb3N4ZEdqYmllMXBQWmVaYmJqQ2FCSWxyU0RrMWxtVFRWRnIxQko2cGdvTG5GbEE1UldHTFViWEMtaDlxeWZjekhRSzBIRHpIMzVDTTNpRlZLYlo1ZnVTRjg4R215VWQxZ0IyQ2F5OXhRdGRmZ19TUzM1aTBsQnE4TFJJVUVhVmdCWjljbTNub2VGU2RV0gGnAUFVX3lxTE04SHpwVnNfZGU1OEZyTC1INkJQMnJaUlN4bDdBUkVCYlNjYXItQmlLYmt4UTRCTUJzMlBEZnZ3VmFtc0ZVQWd4bkdiVHExWjZjQW5PdW8yQkQ4T3FkV1RxS0E2bkxtSGQtM29GOTRtem9JY1FZelBGWm93NVZnYl9HVDBXVk50VmFKOHM4aG1lMnN6TVRPbkpfb3FtQXN3Z1BYN3dhenRj?oc=5",
+      "title": "NHPC to release additional water from Parbati-II Dam, public advised to stay away from riverbanks - Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNTFLT21LTG5PZTQzMURPUUdURWFfU0s0Qlg4ckdVbEd4a3pzWGhtajdjQVBVYVZidW80X2RMV19hckZaLUxVa0pfVTgyVHJtV0hZczd0MUthS2Flb1N0Z184V2kyVklVS25UNFlicnhyTDlTYTZxSUQ5NnViRVd2WXphZUg5TV8zeE1RbVNTTEY3c3hXY01wMTJOZzNKbjFlX290S3NraTJPaGJPcV8zWktuUEhEd1VzaVJWeEVsejNjeHBkdFg3V0JYc2I4Z1lSbnpMdkY1ak9DQQ?oc=5",
       "score": -0.5
     },
     {

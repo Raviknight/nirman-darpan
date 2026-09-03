@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T23:05:19.477Z",
+  "updated_at": "2026-09-03T21:32:35.065Z",
   "project_id": "KIRATPUR-NCK",
   "count": 5,
   "suggestions": [
@@ -22,6 +22,20 @@
       "severity": "high",
       "kind": "issue",
       "duplicate_of": null,
+      "first_seen": "2026-09-03T21:32:35.065Z",
+      "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
+      "summary": "Auto-detected from press: \"Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0E?oc=5",
+      "source_name": "Bhaskar English",
+      "lang": "en",
+      "date": "2026-08-20T22:05:21.000Z",
+      "matched_term": "injured"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
       "first_seen": "2026-08-20T19:25:49.948Z",
       "title": "Chandigarh Manali Highway Accident : चंडीगढ़-मनाली हाईवे पर दर्दनाक हादसा, टनल के अंदर दो ट्रकों की भिड़ंत, पंजाब के 4 लोगों की मौत - dailynewsreport.in",
       "summary": "Auto-detected from press: \"Chandigarh Manali Highway Accident : चंडीगढ़-मनाली हाईवे पर दर्दनाक हादसा, टनल के अंदर दो ट्रकों की भिड़ंत, पंजाब के 4 लोगों की मौत - dailynewsreport.in\" — review the linked article and edit before promoting.",
@@ -30,20 +44,6 @@
       "lang": "hi",
       "date": "2026-08-20T14:24:07.000Z",
       "matched_term": "accident"
-    },
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-08-24T19:23:39.368Z",
-      "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
-      "summary": "Auto-detected from press: \"Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
-      "source_name": "Bhaskar English",
-      "lang": "en",
-      "date": "2026-08-20T07:52:23.000Z",
-      "matched_term": "injured"
     },
     {
       "category": "incident",
@@ -60,18 +60,18 @@
       "matched_term": "accident"
     },
     {
-      "category": "incident",
-      "severity": "high",
+      "category": "audit",
+      "severity": "medium",
       "kind": "issue",
       "duplicate_of": null,
-      "first_seen": "2026-08-24T19:23:39.368Z",
-      "title": "HP Road Accident: चंडीगढ़-मनाली हाईवे की टनल में ट्रक-कैंटर की टक्कर; चार की मौत, छह घायल - Amar Ujala",
-      "summary": "Auto-detected from press: \"HP Road Accident: चंडीगढ़-मनाली हाईवे की टनल में ट्रक-कैंटर की टक्कर; चार की मौत, छह घायल - Amar Ujala\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0ltVWUzcEZ6WWpTMUFHemtpUnBGTUVkM2VmazZKNDdSLS1jNk9HVEZTby1PS0pnMmdGQzNCOFg4bzRQd2dpUGIwWGtmdHNwbWR4X3RkQzhpMXFiM2h1cVptSk52V1NsR3VQb1M0ZjFTWjMxZFRvTXJYMk5hWUlSVUNfQUszc1Fxb2lvd3FHOW1YWmtidXgyTDR1YUVsVzFUck5SSzJ1eFVPM2VkRWVDMUphUDhOR2EzdDBGYW5zZUhlSHQtdTNr0gHMAUFVX3lxTE4zc0lVT0F4cUJna01fU2RHZGtYb1hBV09BcEFUODVWZWpFdXJWZWh3REl5azlMdjNFbHdJWjlsVWpCODUyclFGU3JHN2F3YnRHUFJQSnBhZUZFYWJhcTBlbFRERzdBdnE2VThYbHllM2dwNEZHaFV1bnQ0MDdzV0ZEYmdZQ2VRVmp6Vk1qTmVZWTgzb1pYOVRDcU9QMldwZU9vNUJoRnhRSUJ6TVJUQ2FQc2FpWDRFUGtLaVRkSXJTVVZHN0lQS2kwbUJ4TA?oc=5",
-      "source_name": "Amar Ujala",
-      "lang": "hi",
-      "date": "2026-08-20T05:28:50.000Z",
-      "matched_term": "accident"
+      "first_seen": "2026-07-09T20:43:51.913Z",
+      "title": "Kiratpur-Nerchowk project: HC-ordered audit uncovers over Rs 22cr scam - The Times of India",
+      "summary": "Auto-detected from press: \"Kiratpur-Nerchowk project: HC-ordered audit uncovers over Rs 22cr scam - The Times of India\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeFpCOWFlcDdzdHVNMTMyVmV4YVpseUxTSkJ3aDlpb1Z6VFNxNkJ6ek9RSDFDZGlfaFdLUmJzRVlHM1FseVZyMURLa1Ntb2lKMWp0dUNWTU85NGFBSDBFUE1qUWpaWVF5Tm1VbDdGaEIxRUJkZW5VNkE4Y05UT2lmSUI5YnM5ZFppcnJiY0FQc2t1RDdhRVFWeUFzRjcwWTluLWRUekZCOVRpM3ZneGFRcGJseVdMUHdWTmU2NUlOd2tZNUhrbVd0cFJNSHA3YnNSSXoyaFppNnlPRTNkem5kUdIB5gFBVV95cUxQZ19YakdlMWFPRjNkVzFyQ2dDck5id0dCaDIwMkhoS1JDSzJha2pUeEFCTEtiUG1feTAyN1pxOW93OWlNbkdaTGxWbHlhdXpHaG5vWUFpdHJtLXB1LTdyU3R3cGdUVlhjNWlRNG1PWmxSdmo0SnlZZjJoS29PTjlPSmVYUGpudGFQd3ROdVF0c3oxRjV3dnl2NE9oa3NMWXRlR2JubjJNZUprbFF4Z2RIWmhzQTE3Y2JTbDBFNDRCT0FUR1BkTEVmNXhXdFZlNEhHUE8wdkRSeHNuVXNQMEZxWlA4ZWpDUQ?oc=5",
+      "source_name": "The Times of India",
+      "lang": "en",
+      "date": "2026-06-14T07:00:00.000Z",
+      "matched_term": "audit uncover"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

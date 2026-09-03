@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-31T23:05:19.495Z",
+  "updated_at": "2026-09-03T21:32:35.081Z",
   "project_id": "NH154-PKT-MND",
-  "count": 1,
+  "count": 2,
   "suggestions": [
     {
       "category": "litigation",
@@ -16,6 +16,20 @@
       "lang": "en",
       "date": "2026-06-18T07:00:00.000Z",
       "matched_term": "pil"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-09-03T21:32:35.081Z",
+      "title": "NGT takes suo motu cognisance of unsafe widening work on Pathankot-Mandi highway in HP - The Statesman",
+      "summary": "Auto-detected from press: \"NGT takes suo motu cognisance of unsafe widening work on Pathankot-Mandi highway in HP - The Statesman\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdjZ0RzN1b0p5NWJBaTJWLWRidlg1R0RzeHVPVm5YRW96NUdma2d6MWdRNC16NkxmNXNoNm1TT1hHUnZnbEVkanVIMGN0enk3TllVQ3luZHNhZW1EeWo2S000UkxwdFVuM0NTSDZBbGZGV2Q4STRFckNtUGNyXzRCUFk2akFBdFZyX2p1cmNWRWFoTzZQWUpyT3ltdDhLdUZXbUdSX2tWTEpXSG9VNlZaV1dCV0xWYU5zYzlkYkd4R0daUEdrR2xueF9MNW1ORm9Ia09v0gHYAUFVX3lxTE53dVlFbFJFZGxSV0NOeUVKNzJHUnUzMU9abl8xOFVkX2JVYkFRdjRxbllmQ0dIYTRabXNqQkRraEtYeEF1a29xUnh2N1pUMU5lSkg3am8wRVZKUEhwMmoxV1dCeDFyaGhVbU5xZ3F1Y1pobjFrX0tTRVhmSkJEUFNISnlNODNEUmZZWHR6QmZkQWwzLW5IZGxveGgxOU1GWldYMFl5eGtLWHpDS21kMlhnZEkzQnowcm94Y1RJNGlqMGFfcFlqTDhiQWptN0l1MDJtbElQZU1URQ?oc=5",
+      "source_name": "The Statesman",
+      "lang": "en",
+      "date": "2025-08-12T07:00:00.000Z",
+      "matched_term": "ngt"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
