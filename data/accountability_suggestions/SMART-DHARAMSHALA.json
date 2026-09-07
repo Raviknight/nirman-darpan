@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-09-03T21:32:35.085Z",
+  "updated_at": "2026-09-07T21:52:27.666Z",
   "project_id": "SMART-DHARAMSHALA",
-  "count": 1,
-  "suggestions": [
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-09-03T21:32:35.085Z",
-      "title": "Chief Minister Inaugurates Shopping Complex and Entertainment Centre in Dharamshala, Lays Foundation Stone for Integrated AYUSH Hospital - Cityairnews",
-      "summary": "Auto-detected from press: \"Chief Minister Inaugurates Shopping Complex and Entertainment Centre in Dharamshala, Lays Foundation Stone for Integrated AYUSH Hospital - Cityairnews\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMzlRelZDdkpWYUh6YllfeDB0cnNaR1ExOGNFek1BVUk3Z19BSGJKLW9KUkVERVBITFk1N1BSVGRoXzBIendUdlBKVWVJNDF4MjNvd1U1MEpXQXFyM29sVUpiOHlEWTZrX2tCZ2wxWWJkSklmTXZ2QkJPT0VGaEg4WkQ0dGQ1MVhsZ2NPT1d1OTF0YjFLTzhTSFRTNW1MMkJEbURUeGZtZnh3NFpDeDFwcndqYjEyV3lVR2VfeUM5UUNzd3BMd3ROd3N0dHpWd2xvVFA0RE13aC1uVTkxRHh5QnMxWjUzQzV3ZTFraVpfVldqa2sxbFFGek1CaTlwZklv?oc=5",
-      "source_name": "Cityairnews",
-      "lang": "en",
-      "date": "2026-06-18T07:00:00.000Z",
-      "matched_term": "sho"
-    }
-  ],
+  "count": 0,
+  "suggestions": [],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-03T21:33:34.629Z",
+  "updated_at": "2026-09-07T21:53:04.198Z",
   "project_id": "GMC-NAHAN",
   "press": {
     "n": 20,
-    "positive": 12,
-    "neutral": 7,
-    "concern": 1,
-    "avg_score": 0.225,
-    "avg_magnitude": 0.32
+    "positive": 14,
+    "neutral": 6,
+    "concern": 0,
+    "avg_score": 0.255,
+    "avg_magnitude": 0.35
   },
   "youtube": {
-    "n": 27,
-    "positive": 15,
-    "neutral": 7,
-    "concern": 5,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.781
+    "n": 40,
+    "positive": 25,
+    "neutral": 11,
+    "concern": 4,
+    "avg_score": 0.345,
+    "avg_magnitude": 0.47
   },
   "overall": {
-    "n": 47,
-    "positive": 27,
-    "neutral": 14,
-    "concern": 6,
-    "avg_score": 0.211,
-    "avg_magnitude": 0.585
+    "n": 60,
+    "positive": 39,
+    "neutral": 17,
+    "concern": 4,
+    "avg_score": 0.315,
+    "avg_magnitude": 0.43
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Clicked Faster than speed of light 😍",
+      "title": "Good 👍🏻 Keep it up...",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Nice video frnd",
+      "title": "nice talent keep it up bro",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "I am a big fan mam 😭😭\nPlz plz ek reply kar do \nI love your videos \nAur mei soti nhi hu bina apki videos dekhe",
-      "score": 0.8
+      "title": "Very nice bro ❤",
+      "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "this is not for ug candidates ???????",
-      "score": -0.7
+      "title": "I don't know why yt recommended this???",
+      "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "Pls sir mujhe en parents ka mobile number chahie tha yonki main en dautar lena chahti hun apna bnane ke lie",
-      "score": -0.4
+      "title": "Hi sir, i tried to connect with you on instagram, thoda hostel related puchhna tha, internet par kahin bhi nahi mil raha",
+      "score": -0.5
     },
     {
       "source": "youtube",

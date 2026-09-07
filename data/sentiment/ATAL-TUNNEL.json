@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-03T21:33:12.607Z",
+  "updated_at": "2026-09-07T21:52:52.389Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
     "n": 20,
-    "positive": 15,
-    "neutral": 4,
-    "concern": 1,
-    "avg_score": 0.26,
-    "avg_magnitude": 0.445
+    "positive": 5,
+    "neutral": 11,
+    "concern": 4,
+    "avg_score": 0,
+    "avg_magnitude": 0.22
   },
   "youtube": {
     "n": 26,
     "positive": 8,
-    "neutral": 15,
-    "concern": 3,
-    "avg_score": 0.142,
-    "avg_magnitude": 0.269
+    "neutral": 16,
+    "concern": 2,
+    "avg_score": 0.154,
+    "avg_magnitude": 0.265
   },
   "overall": {
     "n": 46,
-    "positive": 23,
-    "neutral": 19,
-    "concern": 4,
-    "avg_score": 0.193,
-    "avg_magnitude": 0.346
+    "positive": 13,
+    "neutral": 27,
+    "concern": 6,
+    "avg_score": 0.087,
+    "avg_magnitude": 0.246
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Wow very beautiful ❤",
+      "title": "बहुत सुंदर भाई 😆",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "बहुत सुंदर भाई 😆",
+      "title": "Gud information",
       "score": 0.9
     },
     {
@@ -44,19 +44,21 @@
   ],
   "top_concern": [
     {
+      "source": "press",
+      "title": "Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlI0LUs3Z2NELUxKYXV0ZXNsSFNUdEZWS0tsX01PdUlCLWZGTHVoVDlFandncVhwOVFrTWozc0M2V2FSb2ZTOTQzWVU4UVNVU3ZVRUltSmxqWDJGRmhWYnpadnNZekp2UGdSQnhKa3g5eDVlZmt4dXJtUldiQkhYdjhqMnRLampQcEN1VE9wYWVUZFlSZFNQR05ZTVBsRlozQU5iRlZrbndFT3QxQm55bWJpeUh4dmRtMzJnT0pFVl9hZFdvbE55aXVSZnpxX0huUGFFZTAwd2lacTZ3dGhWTzB0TjY1d3laZWc?oc=5",
+      "score": -0.7
+    },
+    {
       "source": "youtube",
       "title": "In october there will be no snow in manali in any spot",
       "score": -0.6
     },
     {
-      "source": "youtube",
-      "title": "Dec 9 ko sissu me snow millegi\nAnd bike chla payenge sissu tk without black ice?",
-      "score": -0.3
-    },
-    {
-      "source": "youtube",
-      "title": "Where is the snow now in solang? It's mid December now",
-      "score": -0.2
+      "source": "press",
+      "title": "Himachal: One killed, three hurt in car crash near Atal Tunnel - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2JzVEJzdHJUNXdJSUVROFhmUWtWTlRKVEhSVFd4Mks5aTZyLUVmdG5ncXRiRDhhNXJHNG15TW1ReVB1c0ViWTU0WURWdW1LZFBRRGw2YkI2dUlpZk5feExKeldLV3AtNE9RYUh1b0NiZFFKdG94RS0tZi1RVnFnamJNT1pfaUhHbFNEUHEzQ1pNbUVsalHSAZoBQVVfeXFMUDk0VTVEZ2d3VGFzWWM0bkJEQlFRZE1naWQ4cUhNR1gzWktsaGt2ay1Dalk4QzF4ZkYzMkpMYThVQmF5RlVJMVZBTmJJWnVPd2NmRDJiUExGREFYd0FiQ2JKUERfX0dUUXY0cVlUd1o3UUNNeG1UZXgzWHRLa05MZFlhNlRUV21LMlZ2Y1FlV3FMZjdFZkkxZlRUdw?oc=5",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

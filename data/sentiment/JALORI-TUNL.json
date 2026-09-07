@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-03T21:33:22.993Z",
+  "updated_at": "2026-09-07T21:52:58.636Z",
   "project_id": "JALORI-TUNL",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 9,
-    "concern": 2,
-    "avg_score": 0.13,
-    "avg_magnitude": 0.28
+    "positive": 13,
+    "neutral": 6,
+    "concern": 1,
+    "avg_score": 0.215,
+    "avg_magnitude": 0.29
   },
   "youtube": {
     "n": 0,
@@ -19,17 +19,23 @@
   },
   "overall": {
     "n": 20,
-    "positive": 9,
-    "neutral": 9,
-    "concern": 2,
-    "avg_score": 0.13,
-    "avg_magnitude": 0.28
+    "positive": 13,
+    "neutral": 6,
+    "concern": 1,
+    "avg_score": 0.215,
+    "avg_magnitude": 0.29
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "जलोड़ी सुरंग की अलाइनमेंट को मिली स्वीकृति, इतने किलोमीटर होगी लंबाई - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEVEbHhPQ0hXQXBEMWU2aEgtcDNhcU5qQ29FM3lLUlJBVloxYXJsaXBQUmljTW53aW44Tk1ELUZfTDR0MHpXQ2RRS2ZjT2lJZzFBYnFpMWZuWVRWbWk4U2w0ZVdiZ2xjdFRPcFUwa1BoVFNmY0tERnc4RE1wZjlIODI4LWFBM3JGc1F1THgyTDNCRHVBLThOaFBBTEtDZnk2enByeGFFbFMydUhRclpjb3NMY9IBuAFBVV95cUxQbkprN3dUNkM0cTViMUpYMnMzMFNGdTZIWGYyTW5YVGNZOG1rY0RZaFlWSExaa1ZuTTlSVy1lSDhwTUVNNzBGVTFEY2FfbWdzb3EtdUJrdEJrTEFjS09mcFVidzVWck9WbUE1ZGx2MlhPS0tMNXE0VEdLdmxBVzJhdm00TlI1WDBjVFprU3pDS2oyQlN6TmtUSlhYVU9XaHRoSWlfQV84MFFZMS10YVJzR1dQTkFwRW9p?oc=5",
+      "title": "Jalori Tunnel : डीपीआर की आपत्तियां दूर, अब केंद्र की हां का इंतजार, टनल बनने से आसान होगी पहाड़ की राह - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdUk1RGRkUENvM2RlWjU0Q25EZzJSckJTVUY3Y3NiNHFlZThORTJwQVhWQVd0ODlFNXdfQk9hWUFKS1Q4ME54LUpDVG50VS1JcW94a1Rya19HMjdJMzN5alpBa1lic2lzeVkxckRVMEdyUTliZHlNUW16dzBoRWg5VDRHZHJRTUE3WVp1MWtDa0Rpb2UxdmhnQjZYNHdCZWRDS3AzdlMyZjU1WTFmWmZZcmhybHZDdmVheV9Bd3RnbkQ0QzltWlVOckY1U0h1NFJ0ZmtQMWVTQjNqeEFIMnF2QXdvbkxqd9IB6wFBVV95cUxPZEpGT2dwZDFJMDBYVE1KUGNTcHY4ZENUTVdsdFBNa3NuZF9PMExBeFNwU0ZxcnhtRllEZ29sMzZ4Unl3YzR1MW9UYXN6aW1mZVI1MklOcjlNN3NGcjFPSVEzd1M3QlhNZzhDQkNMTVBudTctNmNLNUhSejFXVk80NWFVbnJ1NWJRT0xEOU05d3ZNUU9QOXd5Y2M3YnNvQVEtMTBnOC00THJmaEhDd1N4NzdYd3l0UGFteTg3YlJZTGJ2OENkY3NGT1F0QmhRbklrcWdfU0VtYjBGUGZEQmFFa1RfVUVBM2U1M3Bv?oc=5",
+      "score": 0.6
+    },
+    {
+      "source": "press",
+      "title": "Jalori Tunnel : जलोड़ी टनल से खुलेगा विकास का रास्ता, केंद्र ने मंजूर किए 1452 करोड़ - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTzI4aWh5WlVqc2FkZHV3VWxiNkpKUjNKZzZpV21Oc0k3dG9KeFpiVkoydFNwdEdjMVBIOFlXSE52cHYyVW5SYkVpYmVrUWFFV0FjV3MxUFZldng1Q21WNUpreHlQU2c3U3BaTGpEQVkzVW9RRGhqUXdnUWw0XzNGZm5JUFI2bWhRRDNEbHJ0Z3h1SDJlR1pXWXFvWDl5aDVMQnRNeEZ0cVJoeDU3LTZpMGVMYjIxOE9DX0Vxb1l1QUdubWJVMW83aDAxbGfSAdIBQVVfeXFMTjBaajhDTkhkbVVoc1RCT2hjc3dsTFBLNXd1alRTWUdwZXJBSzA2Y3I0WTBJYUZXQnF0b1g4ejFZY2x2OERhSXBKaDZsd1ZRTmRWWjRDVDV0UVZhUkxZMkYyRW9zd3FhNDNpRWF3R3JxRDk3WUZHc0VPN21YSzJXV1E4ZkdPNmRYMGNKaVFTMWUwOWtTbDRwMmFBOGJvQ3c2Tko0V3Q0TWFiRjg0SHlSZTJKcWlFNEtmN0w3MUhnZWs3a0JhamkxWEItWkxyYUNNN3NR?oc=5",
       "score": 0.6
     },
     {
@@ -37,32 +43,26 @@
       "title": "जलोड़ी जोत टनल की अलाइनमेंट को अप्रूवल, केंद्र सरकार ने डीपीआर के लिए स्वीकृत किए 3000 करोड़ रुपए - Divya Himachal",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUNwM0hlSm1JSi03X19HdlBzTmxoME0zUFpWYkVYWGE1d0xDa2VBVEdmRVk3QTFyMEVTdnctd2pQUzI3QzhyYTNLdDZnZk9OemE0RzdWMkZ6ZkNGM3ZkQWFobUhKWndYWjExTkJaMDYtdk01TFRmcEJUVERScEs3TjF3RHV1akZBaUd4N3MyVHBzMFNLVnpQVEtmeF9sUERDS0V5STF3ZHNWNFBPTnVEWGlMcnVBbkZzaW5SU1FJOVJzMjdGS3NBZ0V30gHPAUFVX3lxTFA3bFk5cUh4OUJmY0gyNGtnTEFZMmUzenNGbGs5N3lsaEN5bTI4RXNDRkxINXpibU5Fa3NNTU11LWlzUERLNXVKcjVMMld3UUhvZHhlWUJQRmg3UVVnN2xvY3dsbnljN1d1aEdzMVo1aWVkbXVUSU9FT1BpZmVZY2YwbjlVTlZ5UUlsN3dyNHA1Vjh6TnVLNl80eDdrQkdLU0gxWW02QzB5TVVfWGJEV2JvVTBwZ3RxeV9qUDBpN252eWprWktqUXlOYnQ2dmVOZw?oc=5",
       "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "अरे वाह! पेड़ के ऊपर ही बना दिया घर, एक रात रुकने के लिए देने वाले इतने रुपए - News18 Hindi",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRmlUNDZuVTZrOUJ2dHAwa0ZoUjNlRHJaNFdDUWhCdGluWGMwZTBDS19VNDFkU0ZiSmFUUnlZMjJGX1JWYUVRVkFCOGxpaWdCV2VaMG5ES3ZaekN2SGxKS1VBSHVVOWdCS0ZpNFd2NUQzNWc4bXFNNG5XbHpiOVBxLW82QUZqSkRQcUJ2M0F0VUw2Y01IS2hObk9jT0J6bFIxa2ozcldNR0FReU1mSFFZZHlydWY3Y1N3VHdZSG9QdlcxVFppZEhseGxQWmw0cHZkaG1SbjktVkUyelJCZW9GX9IB5gFBVV95cUxPajczQzBQVDVyVHRtaGtlT3V5clpVX3ZtU29UcXlUdmtmUXV3NG5oQnlTelU2b2RfZDdjVlJoLWdMWmZwMHJIM042MFFOUWgwcDBGSUIxMzFobU5uSHFWWWFkRkhTUXZDSHptYmgzOEczU0E0NDhwSDlsdGxjcjVjSGZDSU1LRXdkdDNWcFNCZ1ZPdURnQ2NXWUxPZ2p4MDR6Y3U1V1U3czVXREE2bnFkNXlobTdBVTFJZHMzY1l1T1QxZkhrZHd0bldHd1BGYTU1b2w1RlJ2NGxaM0p6U0JYYzVOcDljQQ?oc=5",
-      "score": 0.5
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Flash floods continue to wreak havoc in Himachal Pradesh: Atleast 3 houses razed, schools shut, over 300 - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUUJfWGlhVkgtVGNFOFVaV0FrenVsLWlnTGw4blpnOFVhVEZuRnV6ZFE3eUpfNGJURVBNOUh5UjRHbEJEbUNFbjRHRHFFajFtRzFRSnJvZ2FQYWNJR3RFSkpjYU15Xzh4N3lqZHczSjZoYm84NnI1bzJZMUdnM0w0dHVfUlF6QTQtVWZWY3FYeXA1dzFfZURJM1U5TXZpeWd6Y2hVdVVnQlhNOEdGSElURnFubWF0VDN3eEtVem94bFhYamlrcDYwb2hvaG5PZVpuNjBsTEpmcms5THNv0gHiAUFVX3lxTE1vWHE1U3JxMzBqQWRndkQwaXhxSGxRR3ZUYkZ3eHZnNWZCa1Q0eDg5VzJyOGpaSzQxV0MzZ21DR3ZhWTBlTlpkS0VGTnp5aE51WUhSQlRvdEx1Nk10amtKMEdIMElSSm1qTkVVcF9qNzBsVFk5WS1Rdml5NTlWeGd0WTVHVE1ObEZjSUtESW5ZRkxSdEV1ZHJpMUJGMGFIMlN2VXFXMWp4Uk0zM3czNUc3bDhRUi1EajNTT3hhMHROcExvLTd2SlllMmNyYVJCZG5XRmhBX19UR1ZIS0FXcG5NRGc?oc=5",
-      "score": -0.6
+      "title": "3 dead, several injured as tourist vehicle plunges into gorge in Himachal’s Kullu - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1J6c2FtWFFYUUtIczFySTNDMFZxbjc5cDVvaHZneHVXa2N5aVhSMXJvd0VBWk1sTkNKZTdCd0x6Sm1yeHFwbEhKRFl1aVJrUjJnNFZzRGF1VHV5RVhvcnpVc1A4QjN0a0NUbnNDVlpvdW5kM2VEaGxIMk1FZUdhaGlDdzM2TFRzSGNiTlpRRzVZaE9zNk1EWEEwQTZNeDJiZHFyTXZuX3oyN3NyQnZNZkFrZmx4NDhMUmVfc290c25adkJ4M0xr0gHOAUFVX3lxTFBRRkRnXzBkV0RQQ3JqQ01wSUZtU3N0S2p3eXFQS3dRSVlqVG93VkNvbGkyeDhiNTN0WmhoXzZrTGgtMzdqbU9HLXFGOWYycm1fcE9ycXpSWWo2SFZIY0lZQkYwWU9vODgtT2h1Vk1rYnNqSTl0S1pfdFlIamNCVjFGX3R0bHFPZnhLSFViZUlTZmpGZVpkSjNhT2t2LVhlYkRrdEt1RjFndXdqU205Q3JOU2liR0pvYkczN1RaZVMyLTlwTFgtMHdEMENGMWRB?oc=5",
+      "score": -0.7
     },
     {
       "source": "press",
-      "title": "Himachal landslides claim 5 lives amid relentless rains - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeWhDSVZOMm5FZWIwQTVYamw4U2F4bTQ2djQ2RC0telBTU1drVG9leTNuX1JVQU5oMGl3OXdoWG9wb1A4VENoTFg5QnVad1BMWkRLZ25tLTd1SE9Xd1FZRXdDVHhramhTRWdQeG5XenY1NXdOZFZ2SjBnV2ZQbWRWaWlHRlJfT3ptWFNfTTdoc19GaHhCcy1FUGE4T0NfNk9nZ0stc3hSaFNWMXdfTHBaby1jbGhCZEVfQXFZMXRCcEtSWGZGcFZlNENSeFAzQdIB0wFBVV95cUxQYl9hWjZQc0ZwXzRkNEhxcHk0aEpCdm9LcGJxOXlmWTctX3BmMjJkbTRmTkVvSTAxU01qMlBSWGpxaWVYLTNNZE81SEw2YXFERjZodzZmb2kwQk1XNnljdDl2OUpubjRvYWF4SEhuSlh0S2c3cTc0QWptRzZpeHU5SGtFWFJLRkROSkxiQi11aDM5NXc5UnJjOEVKRzVzXzJxRXZxbEZnaU1SX0F4UkNjeXZ1elI0YUJ3SnY5b0lPazhoakQzQkRTQ3JhdnlPWkxza01J?oc=5",
-      "score": -0.2
+      "title": "Jalori Tunnel Project gets green light: Reducing travel time and winter hardships in Himachal Pradesh; will... - Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ1dKUWtsaUY0U0QwV2F3ZGRXbUVhWXN6azZOUFlHTFRPMmNvWnFERFFPQXZ6RzBXdTJVMkNTVXR5c0ZUd3JLQUp6M0Z3Zl9HZlQzTE5JVDNMLUdpR2Q3VEpaTTVlYWwxVExNTWxnN3VaYmZIdDlHaU1fTHRuVEN5V3JhWFFrYl9Qczh6bnhZeEppUVh2X2JmNFFCdng1UFJPNDJwMlNhR0xMelE5Y01DdE5HdVdGT2VnRkpMOEk3NTk0YXJWVk12STRjV0dxV0hKNndETUlwdGdVUdIB3wFBVV95cUxOYkdxdFAwTTNFZzRQRDlwanBCb3Q4Qk1PZFQwVlE2cWdTNWhiREd0T0Fhc2I1eEtENEM4NFA2NFl4Sm5vWFhsZi0xc0hsdHhUbEdjOEJYaW9SNEZfMmRIR0plY3lIbkxraHZOSllwUGJNYkxtUU5pdXJQVndXLUZlckdzeWdkOHlWeG9lamM5YXE4cU5XbzNwaWtKT0JZYXZ2VjB1LUNyNURPVnpabGNNLWtaTFpPTTFMSXV2MVBjRkpCcjZaNFlXSmFKa2VjZElWVldFMmJGMnFYMnFXZ2dB?oc=5",
+      "score": 0
     },
     {
       "source": "press",
-      "title": "Machine hits rock, slows down tunnelling at Adyar - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY1JoTGZ0VUdSWS1UWkZibzRxU2w5ZXpJZ2Z1UWlaWnEwM0doVVdTckR4NmRzVG05NU9tY1lDOG1HTG5GM2l6NWdMbjBINTlQWkVINzRnZ3dIWUJoNVVMak9NMnpEWnFQUjRqMzcxOTJTc2FMVFoyOWJKeTFwYzRET3Q3Y2l0YzVyelJHQUh5ZE9yaEJ2RG1yakV4MHVBVzZZMVZpWjFLVmhMVk80YllMcHRoUXJzSmdxTXlNbElwQmvSAcYBQVVfeXFMTmc1NHZKcTRUMU9ScEEwTnFMUzNkLTJKR045X1RXcTNSSVJoLTJoODNfam1IODZFR093eDhmLTlBNlVfYVpGRXlnUlhfTkV4WjhLSTlURVZ1V09oSHpnNW9uc25RRXMtcFpsVFpMV1ZOSEh0ZjEzNUZEeVJkSGIzbkN4WkhHT21EWXRPaGg3NndaWlRFd3BDbTRvWW5YSlkxdFZnek16WDhfMzdFSXlRSVl3U3pVUkR1dFRWX3pxcE1XU19HQV9B?oc=5",
-      "score": -0.1
+      "title": "Centre Clears Rs 3,667 Crore Plan To Upgrade Himachal’s Road Connectivity, Tunnel To Come Up Beneath Kullu's Jalori Jot Pass - Swarajya",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTS1ncjRYYnROaXlTMlJaWTExdC0zZFJVN0hjU1hYZ1Q2TTFTbDlEX0hXUXR6NUlheU5GVGxTQU8yTVdXTGVieno3QVRBQ292Q1NOTGkxX1JvZmpIWlNoTXNIXzB1QThMQnhPdUhiX2N1MGRJbVpma0tOOE9zNUJOWmNsbnhGUlNZUTFlUkVXQzZ5SUNESFFuUFpiRHZ4S1FBdlotMDFmblZ0SWtpellYX3hlUW50RjAtSWNkZFBFS2wxUzQ0c2tWV25lQ2Zsdi0yUlNKR3dRN2dmcko5eEJpTENfNk5GeEdDbTZn0gH7AUFVX3lxTE93NG04YThHYzVvWkRlTXFVOHpVeU5XMzRQYl9PczM2YWxnMkV1dFRiV0pNME9nMGlaTmhvMGtNX2dlMUVTTlJpTVdwS0lqTFpJU0ZqVmVfeU91RWY5TXRlLXJodFIwMDJYeG00dXRtLTBudElMbE9ocXBPUUtIRlhKYmJxTHZRcVhmS2NOd1VxRjdFeVJxME5xVWdreDdBNmNhc3RaZklmdWRCN0JYXzMzeUNDbG9aZkZiMUZwa3BCcWY4TTlLM0dPNkhzVVcxQ3NCdjloTUgwVkItVmhkckIyNnczZFlLTVp2NFZoQUNrZF8zVEZwdVhFalow?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

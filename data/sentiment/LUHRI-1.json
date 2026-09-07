@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-03T21:33:07.158Z",
+  "updated_at": "2026-09-07T21:52:51.078Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
-    "positive": 4,
-    "neutral": 16,
+    "positive": 6,
+    "neutral": 14,
     "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.11
+    "avg_score": 0.12,
+    "avg_magnitude": 0.14
   },
   "youtube": {
-    "n": 5,
-    "positive": 2,
-    "neutral": 3,
+    "n": 2,
+    "positive": 1,
+    "neutral": 1,
     "concern": 0,
-    "avg_score": 0.14,
-    "avg_magnitude": 0.18
+    "avg_score": 0.1,
+    "avg_magnitude": 0.2
   },
   "overall": {
-    "n": 25,
-    "positive": 6,
-    "neutral": 19,
+    "n": 22,
+    "positive": 7,
+    "neutral": 15,
     "concern": 0,
-    "avg_score": 0.108,
-    "avg_magnitude": 0.124
+    "avg_score": 0.118,
+    "avg_magnitude": 0.145
   },
   "top_positive": [
     {
@@ -33,32 +33,34 @@
       "score": 0.8
     },
     {
-      "source": "youtube",
-      "title": "Super dear",
-      "score": 0.5
-    },
-    {
       "source": "press",
       "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
       "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "HP CM Sukhu Orders Takeover of Three Hydropower Projects From SJVN, Setting Stage for a High-Stakes Legal Battle - HimbuMail",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1F2SXFDVDNFQjE3emtIWmRsM05UaGZXQ0loTkMzZVlmeVM4X0lrOWtLa0g2eFIteTRBa3lrSGZ4SlJqSGV5aElDeWNFcFVTc2FhTWM1S1BWSnV6UkwwSFM5YUo3ajBHcE1YQ0ZWNUt2U0E1d3dneFZrNzBvSEtlbS1GcTQxRDZCQWJZUk5qT0VtSy1SRUhrUllibTNmcTRmRFFqOHR2aVJaVnVOWjlNZkV2X1ZobXVqMG1GajFvWG5iNHN3MkpnT181bEZJUGIyM0U4MkZZWHEwZ1JXMy0ta0lFM1ZRUHJGdlBB?oc=5",
+      "score": 0.3
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Please tell me how and when the project layout was developed?!",
+      "title": "Is there any vacancy for Site Engineer?",
       "score": -0.1
     },
     {
       "source": "press",
-      "title": "RECPDCL HANDS OVER LUHRI POWER TRANSMISSION LTD TO TSETPL - IndianMandarins",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVpiMks5dUxHb21ScFlfaEhOazBJT0JQQVJFWG9kNlh2VFc3TUVEaWJ1cGJkNWFqakE4SXRya3gyVFVmeXFOak9pLWxhdDhHb2p2UEw4MFlBem5aVFlBR3UxVUJyandHVmxSX3V0bmRHMG5DNUtxNzd6bHREUmN4aG80ZlpVcWNYMU56OUtPTGFBeF9jRV8xelFmSVdCLW1LdlE?oc=5",
+      "title": "RECPDCL transfers Luhri transmission scheme SPV to EnerGrid - T&D India",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXpXSXlEV2VOUHp1Q3JFUDBNbl9CcWdnanlzVU1TY2laeXdwZ1hJZXEzLW9yVjd2Q2w5R08xb0Y4d0ZqWnM0aHRmb2FPYmxQaGxxdzNxQ0paaEZTTmNCRlRUUGN6WEJOMExOM2YtUWZQQUdHNHJPWC1JZGNaODZtVlA4b3lqV0Z1U2FfcNIBkgFBVV95cUxPMFdPdGZrSUJnNzViTV9oODRNazFTTHRtNWptUUZPYy1ZUjJzajVMdF9QSDFwY3J1cVNMRExNLWVBcHFTV3BOUU1yV2FpYlJDZ3BQcVZ4ZEY5c1ZBTm5saEVkR1VrYmJFWHJOYURjRWFpTmR5NVI4MkJZWWFyRjV0OGZWcFBCdTNWM09pZDNQNnZxQQ?oc=5",
       "score": -0.1
     },
     {
-      "source": "youtube",
-      "title": "Sir ye shuru kb hoga??",
+      "source": "press",
+      "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVU5SzktRVZLeWd3Mkw4UUROMmxKQzJlRDJzS25XNnU3ZmRiendROERhMUpFRlNndDF0X0dsZW4xUy0wa3JOZlVPWDg0S2VwNTlkc3FDS0QwY1MzUXRXVkxzREZFbGNteDB1d0YwalppZFF2QnM1aW1TX2xKOVkxRlVRMkVKRG53bDNJSzh4a0tOWG5YTHZyWWNwblI5cXZrYk9QUEZNd9IBtAFBVV95cUxQMlJ0anZpZnFMb2lpRWMxN3gxejc5SW93VjVvUkY3Y0FJRGVOb3RxVGFzalNWZ0dRcjBZbWJxQWI3NlpuV2JBQ2w5dHBIeG1nX3hrSXp5bXc1VzhoMWlpUzE5UUh3S25pbzAyYTB2LWVPSWRRQ1JrZnZrZVlJZ2hEQk1KMnppRE00YW1rRzRBTlpMTUNodG42c242RmVYcmx0aGs5aXFUUjg4UVB6T2VGclphUUo?oc=5",
       "score": 0
     }
   ],

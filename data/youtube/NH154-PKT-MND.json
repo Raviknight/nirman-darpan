@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-03T21:32:49.469Z",
+  "updated_at": "2026-09-07T21:52:40.236Z",
   "project_id": "NH154-PKT-MND",
   "query": "\"Pathankot–Mandi 4-Lane\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 6
+    "comments": 9
   },
   "videos": [
     {
@@ -46,30 +46,6 @@
       ]
     },
     {
-      "videoId": "_Z0wEy1sSNY",
-      "title": "Mandi Bijni four 4 line Road latest Update | Bijni Tannel | travel vlog | manali 4 lane highway",
-      "channel": "Parashar",
-      "published_at": "2026-09-03T14:52:28Z",
-      "description": "Mandi Pashakot four line Road latest Update | Bijni Tannel | travel vlog pathankot mandi four lane pathankot mandi four lane new ...",
-      "comment_count": 2,
-      "comments": [
-        {
-          "comment_id": "UgxOAOUZk0xXkQ-x3rt4AaABAg",
-          "author": "@rajdhar327",
-          "text": "Policy paralysis",
-          "like_count": 0,
-          "published_at": "2026-09-03T15:31:57Z"
-        },
-        {
-          "comment_id": "UgyDu3tkJwu1vmP4STl4AaABAg",
-          "author": "@MAnOj-yp2qg",
-          "text": "4 lane to dikha nhi",
-          "like_count": 0,
-          "published_at": "2026-09-03T17:56:46Z"
-        }
-      ]
-    },
-    {
       "videoId": "5mOFuP-MeEs",
       "title": "Mandi Pathankot four line Road latest Update | Kotropi Road | travel vlog | Mandi 4 lane highway",
       "channel": "Parashar",
@@ -77,6 +53,51 @@
       "description": "Mandi Pashakot four line Road latest Update | Kotropi Road | travel vlog | Mandi 4 lane highway Mandi Pashakot four line Road ...",
       "comment_count": 0,
       "comments": []
+    },
+    {
+      "videoId": "YE21mcW2x9w",
+      "title": "Pathankot Mandi Fourlane : पठानकोट-मंडी फोरलेन ने रोका विकास, अधूरे प्रोजेक्ट्स से लोग परेशान",
+      "channel": "The Filter Post",
+      "published_at": "2025-12-25T07:26:06Z",
+      "description": "Pathankot Jogindernagar Toy Train : कांगड़ा घाटी में फिर गूंजेगी रेल की छुक-छुक: ...",
+      "comment_count": 5,
+      "comments": [
+        {
+          "comment_id": "Ugxj79ERztIqP0bERqh4AaABAg",
+          "author": "@vijayverma-ln1lf",
+          "text": "Kis vajah se adhura kahi Congress ki vajah se to nahi Congress ka kaam hai aaye pase ko lootna tabhi inhe centre se paisa nahi milta",
+          "like_count": 3,
+          "published_at": "2025-12-27T09:36:10Z"
+        },
+        {
+          "comment_id": "Ugyq-ocqVifa-ptNXmZ4AaABAg",
+          "author": "@SanchitThakur-q4m7n",
+          "text": "Mandi to padhar fourlane ki video banao bhai",
+          "like_count": 1,
+          "published_at": "2025-12-26T18:19:24Z"
+        },
+        {
+          "comment_id": "UgxOb9q1h_80Ac_O5_h4AaABAg",
+          "author": "@Akhildhimanofficial",
+          "text": "Sir gagret amb nadaun fourlane ka bhi update laao",
+          "like_count": 1,
+          "published_at": "2025-12-27T16:04:16Z"
+        },
+        {
+          "comment_id": "UgxkMhRBiLTvd59escB4AaABAg",
+          "author": "@ParambirSingh-fm9om",
+          "text": "Sir una amb to naduan four lane ka keya update hi plz vedio banaye\n\nOur kangra airport ka bhe koye update to bataye.",
+          "like_count": 1,
+          "published_at": "2025-12-27T03:42:55Z"
+        },
+        {
+          "comment_id": "UgyWA3lb0EZkP2kDpzN4AaABAg",
+          "author": "@Indian-ow6xh",
+          "text": "कांग्रेस के कारनामों की देन हिमाचल वासी झेल रहे हैं।",
+          "like_count": 1,
+          "published_at": "2026-02-06T15:32:17Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-03T21:32:35.093Z",
+  "updated_at": "2026-09-07T21:52:27.671Z",
   "project_id": "GMC-HAMIRPUR",
-  "count": 2,
+  "count": 1,
   "suggestions": [
     {
       "category": "incident",
@@ -16,20 +16,6 @@
       "lang": "en",
       "date": "2026-07-27T07:00:00.000Z",
       "matched_term": "injured"
-    },
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-09-03T21:32:35.093Z",
-      "title": "Rs 1,000 crore to be spent for strengthening Hamirpur Medical College: Himachal Pradesh CM - ANI News",
-      "summary": "Auto-detected from press: \"Rs 1,000 crore to be spent for strengthening Hamirpur Medical College: Himachal Pradesh CM - ANI News\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPY1hGdWIwSVdfN2doTUhLeDVqY2J2RnVFR3k2LXh5cGJkaHB3ZzBTZ0V3aVZ6bzR4X3o5dHBxcFQ3YjNxeDEwc09FakI3ckFMTHBMX0VpM0sxMjl2cXRrN0VZb205LU9fWWxWUEVUTlVtdWtDZWVxYkgtdS1mMmVFXzFtbTFSVlRQREtlYUtxNU9rbjFWMUtZckUxTWl1Sy1weHNuSEh0LTRZNnR2X0ZJZVNFckRVTk5maDAxcnNCSFh3NW9OcDFXbEs3TmNVdDRiLXkwZVBENm9CNUVKYVZsZzB5Z3g0eDQ?oc=5",
-      "source_name": "ANI News",
-      "lang": "en",
-      "date": "2026-02-27T08:00:00.000Z",
-      "matched_term": "ngt"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

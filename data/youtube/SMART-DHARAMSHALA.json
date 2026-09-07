@@ -1,27 +1,58 @@
 {
-  "updated_at": "2026-09-03T21:32:52.212Z",
+  "updated_at": "2026-09-07T21:52:42.794Z",
   "project_id": "SMART-DHARAMSHALA",
   "query": "\"Dharamshala Smart City Mission\" Himachal",
   "counts": {
-    "videos": 2,
-    "comments": 0
+    "videos": 3,
+    "comments": 3
   },
   "videos": [
     {
-      "videoId": "ALEu7cmX_9U",
-      "title": "33 करोड़ की CCTV परियोजना अधर में, जिम्मेदार कौन ? | KHLive Himachal",
-      "channel": "KhabarHaat Himachal",
-      "published_at": "2026-06-03T02:30:06Z",
-      "description": "33 Crore CCTV Project Stalled! Silence of Officials Raises Questions in Dharamshala Smart City Project** The ambitious ₹33 ...",
+      "videoId": "TxdS6M_FHLM",
+      "title": "Dharamshala - Smart City Tour Video",
+      "channel": "Vipul Sharma",
+      "published_at": "2017-07-11T14:57:20Z",
+      "description": "Dharamshala ) is the second winter capital of the Indian state of Himachal Pradesh and a municipal corporation in Kangra district ...",
+      "comment_count": 3,
+      "comments": [
+        {
+          "comment_id": "UgyJglujIVaf5FxSM7x4AaABAg",
+          "author": "@sunilchouhan8498",
+          "text": "Beautiful city",
+          "like_count": 1,
+          "published_at": "2020-07-18T08:38:22Z"
+        },
+        {
+          "comment_id": "UgzVhXOZfw7w0FUe6F14AaABAg",
+          "author": "@poojakumaripoojakumariattr6634",
+          "text": "Nice",
+          "like_count": 0,
+          "published_at": "2020-08-20T07:42:47Z"
+        },
+        {
+          "comment_id": "Ugzxz_CEYad7inM3V1F4AaABAg",
+          "author": "@vimalenduthakur3247",
+          "text": "Daalne ki koshish hui😢😮",
+          "like_count": 0,
+          "published_at": "2024-12-20T16:37:17Z"
+        }
+      ]
+    },
+    {
+      "videoId": "J6TvN0Sc8Lg",
+      "title": "DHARAMSHALA SMART CITY 🏔🏔",
+      "channel": "vlog with shubu",
+      "published_at": "2023-10-16T03:36:47Z",
+      "description": "",
       "comment_count": 0,
       "comments": []
     },
     {
-      "videoId": "BJbI8-YSguw",
-      "title": "👉Himachal Pradesh CA 16 AUG 2026 | HPAS,TET #viral #shorts #hpas #patwari #hppsc #currentaffairs",
-      "channel": "HP COMPETITIVE EXAMS",
-      "published_at": "2026-08-17T12:30:21Z",
-      "description": "Himachal Pradesh CA 16 AUG 2026 | HPAS,TET #viral #shorts #hpas #patwari #hppsc #currentaffairs Current Affairs Shorts ...",
+      "videoId": "RK4YZ4uK3ok",
+      "title": "Smart City Dharamshala without Public Toilet | The problems of Dharamshala Smart City #himachalnews",
+      "channel": "Enoxx Himachal News",
+      "published_at": "2025-02-13T06:36:38Z",
+      "description": "Smart City Dharamshala without Public Toilet | The problems of Dharamshala Smart City #himachal #himachalnews ...",
       "comment_count": 0,
       "comments": []
     }

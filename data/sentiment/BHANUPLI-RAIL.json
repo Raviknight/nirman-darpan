@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-03T21:33:06.231Z",
+  "updated_at": "2026-09-07T21:52:50.991Z",
   "project_id": "BHANUPLI-RAIL",
   "press": {
-    "n": 1,
-    "positive": 0,
+    "n": 3,
+    "positive": 2,
     "neutral": 1,
     "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.1
+    "avg_score": 0.3,
+    "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 48,
-    "positive": 25,
-    "neutral": 16,
-    "concern": 7,
-    "avg_score": 0.273,
-    "avg_magnitude": 0.5
+    "n": 31,
+    "positive": 15,
+    "neutral": 13,
+    "concern": 3,
+    "avg_score": 0.252,
+    "avg_magnitude": 0.439
   },
   "overall": {
-    "n": 49,
-    "positive": 25,
-    "neutral": 17,
-    "concern": 7,
-    "avg_score": 0.269,
-    "avg_magnitude": 0.492
+    "n": 34,
+    "positive": 17,
+    "neutral": 14,
+    "concern": 3,
+    "avg_score": 0.256,
+    "avg_magnitude": 0.426
   },
   "top_positive": [
     {
@@ -38,25 +38,25 @@
     },
     {
       "source": "youtube",
-      "title": "Good information thanks",
+      "title": "जय भारत।",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Why don't  indian railways broad gauge the Kangra Valley Railway from narrow gauge?",
-      "score": -0.6
-    },
-    {
-      "source": "youtube",
-      "title": "WE SHOULD COMPLETE LEH RAIL LINE ON MISSION MODE IF WE WANT TO BE SUPER POWER UP TO 2047......",
-      "score": -0.5
+      "title": "Badhiya update",
+      "score": -0.4
     },
     {
       "source": "youtube",
       "title": "Leh wali side se bi shuru hona chaiye kaam nahi toh 30-40 SAAL LAG jayenge isko bi \n\nBahut slow kaam ha",
       "score": -0.4
+    },
+    {
+      "source": "youtube",
+      "title": "Tell me Further status of this project when will it Complete to Travel LEH by Train so I can easily go to LEH by Train",
+      "score": -0.3
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

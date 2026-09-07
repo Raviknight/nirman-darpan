@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-09-03T21:32:35.094Z",
+  "updated_at": "2026-09-07T21:52:27.673Z",
   "project_id": "GMC-NAHAN",
-  "count": 1,
+  "count": 2,
   "suggestions": [
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-09-07T21:52:27.673Z",
+      "title": "4 Killed, 9 Injured As Bolero Camper Falls Into Gorge In Himachal Pradesh - ETV Bharat",
+      "summary": "Auto-detected from press: \"4 Killed, 9 Injured As Bolero Camper Falls Into Gorge In Himachal Pradesh - ETV Bharat\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWFV6VDgzUWJZakFmYUhIWlFEbk9NUERmejZSYUpXUGpoODJXVkFBazFaVHpCSmVQUjBRdC01aEpmLW5BdDhJZkRKZERaUnNMVUJ0a2xmUU96Q1BqOHlCVklhNzhjLTVTd0xFSzR4Q2pTUWVISVpRQVV3MUlxYU83M2hjZGZKRXFxdHlRZnRqSTVEVUVFaFdjVXlFb2R5cC03SmFoUGFQZ1VXU0hha1BzMGtaX3ZhR2NfZEJLWXlqQk91ZF9xUWfSAcsBQVVfeXFMTnhrMEEwSTJ1NFV5RDhheXdOOEhUNjhaOW9OUldad2RWY2hobzVnZXQtNGtJWXVBUm5vQnVqMGo5VTRmeGEwaE9uVlc4a3pPdEVRQllWUTJORl8yVDZVeFNuUU5rb0RwX29MeDBzSGswUDBpNFFPenNWazZPUGdKZmxUNWtBUXNwMVdzWllFekZDeW1QVmV5SExfNzQ3MGoyR1IyVkYtRzdFZXBVZE9URUItajBucDR5bU1vN2RqQWdJTkx6Y3cwY1BxX0k?oc=5",
+      "source_name": "ETV Bharat",
+      "lang": "en",
+      "date": "2026-08-12T07:00:00.000Z",
+      "matched_term": "killed"
+    },
     {
       "category": "incident",
       "severity": "high",

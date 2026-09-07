@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-09-03T21:33:13.597Z",
+  "updated_at": "2026-09-07T21:52:53.967Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 11,
-    "neutral": 8,
-    "concern": 1,
-    "avg_score": 0.21,
+    "positive": 14,
+    "neutral": 6,
+    "concern": 0,
+    "avg_score": 0.28,
     "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 53,
-    "positive": 40,
-    "neutral": 10,
+    "n": 51,
+    "positive": 32,
+    "neutral": 16,
     "concern": 3,
-    "avg_score": 0.428,
-    "avg_magnitude": 0.536
+    "avg_score": 0.349,
+    "avg_magnitude": 0.408
   },
   "overall": {
-    "n": 73,
-    "positive": 51,
-    "neutral": 18,
-    "concern": 4,
-    "avg_score": 0.368,
-    "avg_magnitude": 0.471
+    "n": 71,
+    "positive": 46,
+    "neutral": 22,
+    "concern": 3,
+    "avg_score": 0.33,
+    "avg_magnitude": 0.377
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "the song.....omg it's so nostalgic of 2020 era , every tour had this back ground music......btw the campus is soooo pret",
+      "title": "Toooo addicted to this college😍",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "I have gone here \nVery beautiful place 😍",
       "score": 0.9
     },
     {
       "source": "youtube",
       "title": "My dream college Very beautiful aiims",
       "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "dream collage  every  neet aspirants🤩😍",
-      "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Mess per vdo banao",
-      "score": -0.5
+      "title": "Hii bro maine 2 saal aiims nursing entrance ki preparation ki pr selection nhi hua pr m es baar fir se Krna chati hu \nTo",
+      "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "Bhai is saal milte hain\nMay be I'm coming in 2026",
-      "score": -0.2
+      "title": "Cut off OBC from UP",
+      "score": -0.3
     },
     {
       "source": "youtube",
-      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
+      "title": "Aiims bilaspur march april ka temperature 🌡️ kitna hota hai",
       "score": -0.2
     }
   ],

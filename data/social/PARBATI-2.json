@@ -1,50 +1,70 @@
 {
-  "updated_at": "2026-09-03T21:31:53.230Z",
+  "updated_at": "2026-09-07T21:51:46.615Z",
   "project_id": "PARBATI-2",
   "counts": {
-    "press": 112,
+    "press": 137,
     "gov": 0,
-    "en": 30,
-    "hi": 82,
-    "total": 112
+    "en": 52,
+    "hi": 85,
+    "total": 137
   },
   "mentions": [
     {
-      "title": "माता पार्वती की वो जिद जिसने देवों को कर दिया था परेशान, ब्लॉकबस्टर ‘हनुमान अंश’ का वायरल भजन - Aaj Tak News",
-      "source": "Aaj Tak News",
+      "title": "हरतालिका तीज में बालू की शिव-पार्वती प्रतिमा क्यों बनाई जाती है? जानें परंपरा का रहस्य - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdmFOV25EMlVFSVpTckNObUpwQXI4NDZremF3MmJLdDJnWThMc19kZ2x6dkZ0emdWMlVEN2ppZXpLQmhhVk5tX2h3MHdrdUNWUWtNRHNnanQwYXRRNU8xMktuWUlkR004cUc2WTRDZE00RnVpbEVJSXJ0OEw5T3c5MXNlRjlDUTFyLTBkeDh6TUxIdG15eHlIUUgzWENEMU9oS29XTGxIajJZNEVEYTI2ai1lUTBTYzN3ZWYtUjJmTlVvSzBoMjFjY2dtUTY4dVpCMlN6Q3hILWxLYk5BRWMyM2hnUm5OMjBNTjlGRWpYa2YxVmJJ0gH6AUFVX3lxTFBaSUxySXJWUVIyNkZmMm4zZDhqdnBXVE02dlExRGdhLUVnbVB1U1lfUHZKVjU0ZmlfcjQ0SVNob2twTFlJT21jWi02U0FfVnczcEFVMFRHN002N1FoeUZqMlVOdUotRENMZmhWWl9jRm05Sm5WTUlFTUxWSU9HS1FKb1BVMnhKX0lWa1Y4ZXBfaGNKM2t1bGNJeHUzLVVfdF9FeWNYb3FoNFc5OWtxVktVeTNSamFuTkZ3alNBRFVmaEFmOERIM3R4MW9UZjZ4WUFzN3pNMFFuTWc4cmstT2xnaERTUjJwWkszUFpRRTVkbC14dmVMNnB2MVE?oc=5",
+      "date": "2026-09-07T08:05:12.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "कुल्लू: मायके लौटीं बेटियां, माता पार्वती को चढ़ाई धूप; परिवार की सुख-समृद्धि की मांगी मन्नत - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVkdpOGZMbnZOM21kckVCakpWSU1nSFUzZE5fS3N6dzdLT1RNcTJvSTBtbUYwWmxtMlRsTndkZ2RvYi1SV0VFX3VDM2FUY2tHNUh6WlllVDFoVjJNdXZOWTVTQjdqZFZGRkRxNmRuazlMUFUzN21tRGJDZ1pzWXJCOXJTTmJmV29sTVZQVGk3cTRNaEdGVFVzSm5zaG9XMlJWMzhNTDdJaE5RaFdmRzZvalFLQW5YNlA1dGo5a3JIUXh4X3RiM3BqWFUzZi1VRDZsbVllQXpYSEVNM0llaFHSAeMBQVVfeXFMTW93cGM3Rks4SUFOOHVDQTZuRHhfWVN4V1ZBZmVDVVpGLVhLbGdsZmF1MmJyRGN5UWNoY2hKVnc4SEFmWWpqNHhLQklnTUt5VkVnY0dBLW9PRVdBVl9Cdzd6WFBVaFdCM0VfcE9WbFJ0S3lGODNobmlKQ3NEWWtySmcyVzVwYUE1NlEwUEZqMjlWUUsyNWRENmgxNVZYUWpvMDlfdFVUVnN6Ynhva1pvRGVySktoV2dqTl9yeUJab3RfVmRaVGVRYVJFQ0Z6MXJEa1NxeDlGNTM0NUl2YlNWeDlSOEk?oc=5",
+      "date": "2026-09-07T06:13:40.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "हरतालिका तीज पर इन फूलों से करें शिव-पार्वती का श्रृंगार, इन 3 पुष्पों को चढ़ाने से बचें - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMUg0ZFJsZ2otNWh6VkZZM3dhZFRkLWtIOVdULVkzVWVfU3dqdVBLU0VxcjA2SUc4LTB2cnMtZGwyRExpajJOdVU2NEFZVS01ZVhnQ0FvZVlCWjhYM0lmakZ3THRYcDFDaEVsNF93emlfa0cxUFZpd1N0TEx6Z2ZiQ3BIQ3J5b3M4STlCdnZsMkxGZW1wOGdqQlQ4cDlYQTVlVWRIRkEyMmEyeGxhOXBvLVNyb2dEVnRrdHVUMzgxV2g5Q2Jla2dFYllVeURNWTNMNTdsNk1oT2ZHUHFxYUtFSHlTMWxPUDA?oc=5",
+      "date": "2026-09-06T06:28:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "हनुमान अंश के वायरल गाने 'जिद पर आ गई पार्वती' की कथा कहां से आई, मां गौरा के सामने कौन सी थी जिद, यहां पढ़... - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0pmb3FxN0w0OGxHYk9wS1ZjYm5RY2NySnZvZU9YX2ZIeDllRFJfNUFvSWRQeW5FbVo2LWM4ZHVpRU1BV01iVi1hZVBKejlmaHNnYW1zRG9sSGh0SEpLX3FlNVNLY1hndjR4NndyR21ZV292Mk9xTlU5Tkg2SC1LVk9fTF9GOXFNRUlCVlFGdjBJYXZlTDR5SDg0Mzg3SzZTSXcxYmVNNTRyVGhGYVktYdIBtgFBVV95cUxOQVdKRXRFcU51QlhFVTZpd2dpT0t0a1FlSGpfSENmYVdud0lFekZFQVRFb3E1dlpaZ2dEQXk0VHNpUW16M3VidzhwQmF2ajliQ1JNQ056Y1hwMnlfZnJjbnpBa284QjRMNVozNlUwTWNIUFRmUHo2RjRKYlpxaE4xWGNPMVRNSnZtdVp6em1va09QaTZPUUc2MG00OW5BOXY3TWlIQzk0azBFaXNrSGY5QVlnZEl6QQ?oc=5",
+      "date": "2026-09-03T05:40:26.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "हरतालिका तीज 2026: शिव-पार्वती की मिट्टी की प्रतिमा बनाकर ही क्यों की जाती है पूजा? शिव पुराण में छिपा है रहस्य - hartalika teej 2026 why lord shiva and mata parvati idols are made from clay according to shiva puran - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONjZNTlR2ZzIzeG5QSjAyNWVLR1NyazI3SldVd0hqM1E2LWdhR0U4azFVZUVvQmhobFRQZjRybjFCRnJGR3lYamFuYnpIOEZVVVBtcTNHLU9jWFZhaUFxQmdkUVdvRklLWkRJeTRFSFI5TFhvQjRfcERJbmk0U2FHb1Nfc0NVdGhISVpSY05LQVdMVEJfLV9hTmhqVE54TnpZMnM2WGVnWFVjQWNyQ2JuV2ktWDE0M2poM0xwbG9DMU56Z2tSbnNBME9jazRSMzluWUJxNXR2Vmxza25JQjY5aE9ORkFvSXZKd1F4WEJ3?oc=5",
+      "date": "2026-09-01T14:20:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "माता पार्वती की वो जिद जिसने देवों को कर दिया था परेशान, ब्लॉकबस्टर ‘हनुमान अंश’ का वायरल भजन - AajTak",
+      "source": "AajTak",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWHpHUkE3eHVuc1dIUU9SQVVlUnR5ZUtPM3dhSHZ3dVh0WWtpODlGeUlLd2xWd1JLaFc3ajdmLXFoUzBIRjV4OFFObk5BY29OVkRoUXlhUHRhdDBGVUV0REJqem10Mnhpb21HeV9BZ3JyeTRwek5tV2hvYy1ZekR0ZUktRjVDRVFHTEdISHZ5aWUweTZXOWVzM0VlY3ZqSHlQYl9sUUU0em5OWmZ5Y2xFR2pjcGJhQmdaWUEteTFkUmJsY1BqYnp6d3NORV9OVUpsZ3RWamN5TmFDUEN6UHhyUy0zSUhCRDhHa3J5RDVvdkRYZDlzZWhWNGVKaC1SSmh1V3JqblV2TXllWWM?oc=5",
       "date": "2026-09-01T02:01:09.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "Noida News: कजरी तीज पर शिव-पार्वती की पूजा करेंगी सुहागिनें - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRnI0RTd6MVh2aXN3RG5ZTE51ajIxeHVjQ2VOVi1ybWJUZXF0QjNjQ3hUakJQSHp1bmFyV200S21NX3IydEZWRi1yMDYxUGNXRVlJWVIxUjFmZUtfVkQ1UTRUS0tiR0theFBNMHhzS3FKSGhZWXFpVF9kelhXb05WTmpMX2xrUE9RaWV0WlJ6VjMySVNoVUN3VGRNalNXX0t2ZF9nTVE1a3QxTkwtbUpWSzdBRzBaN0pfTFMwWTdKRGFuSmlBVEo0M2xCRDhlRmxjdnRpY0RHek9fc095UWfSAeMBQVVfeXFMUHJjN1pQcHBldnEweURZQzR3cm5uUDUwYnVDX1BjVll4MzNTVlF5QmRRMml4SzNGTGdVUlBwN0xGbTJHbFFtTTJjZkpkeXdHQ0MwdzJhUjNUVU5WTE03cGxNLVBWOHBNbDAwUWZPTGdrQklTa1VvT0ZvTHJVNGdCbjZKZEtab1ZXOXV5X2JteFhGd2xfWERQUjBsV3phUjJwYjZ1Q2REQzIydVBRZldIR3ZoNDg0Nkw0aTJCUEQ4MjZkZ2syNHRqMUNnVXN2djd2WFlmbzV2azI2MGJtMGNhdXlOVVU?oc=5",
-      "date": "2026-08-30T12:29:17.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "गयाजी के गुरुपदगिरि पर्वत पर वज्रपात, एक श्रद्धालु की मौत, कई लोग घायल - FirstBihar",
-      "source": "FirstBihar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkx1MG5yYy1WMXUzVzAzSjJrcFh6ZjNfZDJlR3VxLVN3TUFRWW9vWXlLd1VOLXpnLWtpWmtYOVk2TTlIbVhkN0llbUxmQUtsUGVNclJXS1BPNmhFM1EzNnFBMkxneXJDeDJOM3RUa01FSVVlYUh3YnRXdHRNZ0VCdHlObmZITEVxY214QlhPNGt0WXhDV1JaV3NjV0xHbThuQjlyaDduaTVic3I4TXZj0gG0AUFVX3lxTE1VbUw2aVY4QnRKWTNnSFlSY3lRUThVaU92V0pCelhWakNkci00aGE4eGtzLXE1QXdiMnZWLW9kcW05djZiaVVxSHRLZzZzQVV2X1lxMEx1S3VZNU9GamRmWjE4bjV1OTVMdGlFSFY5Tnc1NF9Ya2VUTlVaZVNQRUFPczk3N2RzWkxUVTVGcVM1OGNwWFN3djR4U18zaWRsNzE3Wi16c3JLZU9nMWFaTi1EaVNGZQ?oc=5",
-      "date": "2026-08-29T19:19:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "गयाजी के गुरपा पर्वत पर गिरी बिजली, एक श्रद्धालु की मौत; 24 से अधिक लोग घायल - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ01rWkVodWJSZzRhcVRLQ081YmdFdlBjNFVyWmpEMU9mOVhkUXdxZWtNRTV5ZHZsWjdtM0F6SDkweTd4YlJsT3hQSmNfb1hXYmJUSXJmbUVGMEJOd3BKaHpxaGI2SlFyVlFULW5BbjdDMDR0Y3I4UWx4allKX2w1bGNodHdhZkxXanNyWTM3ODR2MWYzSHRIbFpDWU9OcFhkVWZ2MkRBbWRkYVB3OFJNbHBR?oc=5",
-      "date": "2026-08-29T17:08:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
@@ -60,21 +80,31 @@
       "match": "Parbati II"
     },
     {
-      "title": "Bijnor News: माता पार्वती की तपस्या से प्रसन्न हुए भोलेनाथ, कथा में गूंजे जयकारे - Hindustan",
-      "source": "Hindustan",
+      "title": "सैंज में NHPC टनल में रिसाव का मिला स्त्रोत, अब लीकेज ठीक करेगा प्रोजेक्ट प्रबंधन - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPd3A3SjFLNGRnN2s1ZjdyblJQTy0zQ1h1d2h0cmdpUi1TVGczUEV3MTRWSld5UWdNOUdoVGNYaXJQMGJEa2JTU1ZfcGd4MDJjX0w0VU8tS05pbjg4M0pEVDVKdmwtVzc4bkwyN1JTM0lyVEcwNHdOOGxnd2hGUm1yV3dvVkxNOUxUSzFmRXM2T1pRNW94Ri03eU9hRE1jbWdRVXFSbHY1bGkwZHMyaU5VbUFBYjBPc2paa1hNbGs5bHNxMDBuaV85cFQ4NGhPLWxaS2VRY0ttWmhZMlQ1NkFQc2J30gHnAUFVX3lxTE5CYThYWUtVLVFpUHppVVVUT0Npd0g4NkNlNm5NTmNVQXFuVmJnaEU2MnBkV2JveGJCMUVra3l5Y3RsdTdzNWFuUzl5aVQ2ajVGNzhyUmRsbGNrSll4WWg1THZUNUhWbTJlX2trVDNDY2VzVmNiLWVLMEg0bFlUNERrWkNPMDRRaktPZXhOWGpyNUwwQWk2U3h6WmNTYndBaEhlR0hDZ0o3S1BmR0thMkgxdkRKZUdxaHZvUGtQRXVaeTF2cDVSSmtMeEZycGM5SXlCVl9uMWUzVUYzdVRVMzh5UWU0Y3lFVQ?oc=5",
-      "date": "2026-08-22T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWF9td2FnN1laOFQ4bGsweDBiQ2ZrSjVFU254Skk0UUpsNnFsakdlN09mS2g2X3dMWEtMa1VOb2pWeHRtaWQ2MV8tU09vVFlWRmpKVVRfU3pjRGtOMHZDTGMxb3NCYjUyVmppLVNXTzZyYi1XRWN1cHFDMVVlN242Q21CSEdBZWVfVUpPcVdJbC1CV2ZzMXhFSm9SSmlpSi10cEdQZlk4QXNsNW5PQXFWdTVTR2dlTGZPRHJET29qRdIBxAFBVV95cUxQbkZXMW5Yc2pFQUJOMTFhSHRfaEFhQ2l2UzVjMmE2blhaUGE3U2JicHlMQ1ZkRkdjdE9MWkhfdVVUOW9rUEdGejZYcVhweDRLVzBacEloSGJTRkRqN1lxUVZ2akJZZlJMRXFtMXR6YjdMRjVTMWRfRW5sNVNfN1pqa0c1N2FUdC1nOGQwQjlPakpBRUNWOXE2eXpwUGJzcFB6Yk5nYzhrbXo5SXppZUUzOUV4VEM4cGNsZlR4RDN6NDBlUjZp?oc=5",
+      "date": "2026-08-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "NHPC Parbati"
+    },
+    {
+      "title": "Begusarai News : शिव मंदिर में पार्वती की मूर्ति क्षतिग्रस्त, मानसिक रूप से अस्वस्थ व्यक्ति कोपुलिस संरक्षण में लेकर कर रही पूछताछ - Prabhat Khabar",
+      "source": "Prabhat Khabar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHdrNzlmLVpodVBaQXhsblM5R1pndjBOdkxxWXR3X3ZTam8za0t1eDhDdWVSYTZjRlFGZ0MtWjd6YklOSnBTMlJpTnlEcDEtd2hZcVNXZ2dsaV9pZ2Mtd3pLVE9icnp1RWJBejlhd01Jc0d4NWtka2RDLUtObHdrUzBBZ3VQZWFEM053c20tcFNUemozQjVzSHhjSk83WTRV0gGmAUFVX3lxTFAyN1pNbW0wV0JKMWk3OXdDTUI0Rm1yX2d3ZThtUUhZbGJDSktRWm1fSXpmdGNZR09pbE1XUDYyS3RPVWhzUmo1WW1wSjQ1UU9kMl9YejBGZUZId3V0M3ZMaUtOV3pLeW42SWkzOHBfMzYyaEV1S20zVW9UcVJ2YU9GQ2xNY3ZYbHZ3ajhJMEttY1JJOEIwMFpDU1NUZnBWQ0RVMURmMkE?oc=5",
+      "date": "2026-08-21T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
     },
     {
-      "title": "Delhi NCR News: हरियाली तीज आज, महिलाएं शिव-पार्वती की करेंगी पूजा - Amar Ujala",
+      "title": "Hariyali Teej 2026 Vrat Katha:भगवान शिव ने देवी पार्वती को सुनाई थी पूर्वजन्म की कथा, पढ़ें हरियाली तीज कथा - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLU5Nc2JNMWJQSUxyUi1tY0lrSFJjVGU1cFAtQzh0cnZwZVo1SUpDWWstU2M1WU1iREZSUkFvUTMyb2NHTXQxV01ZZGY5bFhPUGVnVXYta1l1aXNjR2JtNWpFMEVfTVY1aDV5b3J3Y0Z1dElBV3RYblVPUEFpbExGQTZGMlhKdkU5akVWYXNZNWJiVk45N2xyQm1pVFUwLTV5Tk5OMlVGWVZ0ZmVkdjZTX0QyaDRYRkxlaEFKd3RGbnhMZ1k5aWZuTGRIOVFzTTRCR0xxaDdvWXdfM1Fl0gHiAUFVX3lxTE9IQ2FKOWE5eWUyb3FLYjZkZDRjSEY1b1FpWDhyR3F1UG9GMU5rOTN6VEdTRV9FOGFKbkMzR3NhbFFpZHNoOVJxMWEwa1YzenhjdzFtTlo2SndQOFV0ZERYbW9VNmJNSnR4QTNpMjlhcTJlQ0kyQTZTdXUzQmNpc2FuZUZYUTl5c3RJcFlHUi1WeDBTRDBQTG5BclNZU3JhSEZtRXhRZDVQa3QwWDZMWnprR0lPRHVKTmgwUmM1SHRKbU9VRk9OelJLZFl6TC1pTkNoWVYxY2EtOFFXUjZMbGlrTVE?oc=5",
-      "date": "2026-08-14T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNXzVZRldtUGtKWVpsaGVYNzZpZ1VlbTdET0liV0M2R1diVnpWTzkxR2lnci1iUDY0Z0FBc19GOGY4cnFDcnZpa24yek1iZW5yajNpZTRYVGRJZVBFU3hyXzNqcl8tWld5VXVrR0d3NUFPUHMzczZ2MmhyNEl1dmxVVTFHNG1LM2g4SXU3QTBhYVZPR2cwS0VGVVJvMTVCZEFmZnhhLTUzekdKczdtYzkwWHZ5cklDek8yMXhzNDZEYThKYWE2UzgtdU1Mcmt3MENPUDAyamc1Y2QxUHI2YWdPbg?oc=5",
+      "date": "2026-08-15T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
@@ -90,31 +120,51 @@
       "match": "Parbati II"
     },
     {
-      "title": "हरियाली तीज: प्रकृति की हरियाली, नारी शक्ति और शिव-पार्वती के प्रेम का उत्सव - Amrit Vichar",
-      "source": "Amrit Vichar",
+      "title": "Delhi NCR News: हरियाली तीज आज, महिलाएं शिव-पार्वती की करेंगी पूजा - Amar Ujala",
+      "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFMwTEJOM0tudmhoZndlN1NCRUdoVk1qZnhUYW9vTnhfZ2gxbU1kQjlKNkltQmd5bnNZTDFxRjZvck1vdzFZWFZPSXFxUTJEbGZES1VMbmk3bjd2czJDb2IySlMxZUt0QmVfVGRzSGs2MmVYR1V1UTNvYkhBNWhqX0FSZnp1UW9KRllJQ0ZMbnVvemsxNmxua3NwYkdWSW8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLU5Nc2JNMWJQSUxyUi1tY0lrSFJjVGU1cFAtQzh0cnZwZVo1SUpDWWstU2M1WU1iREZSUkFvUTMyb2NHTXQxV01ZZGY5bFhPUGVnVXYta1l1aXNjR2JtNWpFMEVfTVY1aDV5b3J3Y0Z1dElBV3RYblVPUEFpbExGQTZGMlhKdkU5akVWYXNZNWJiVk45N2xyQm1pVFUwLTV5Tk5OMlVGWVZ0ZmVkdjZTX0QyaDRYRkxlaEFKd3RGbnhMZ1k5aWZuTGRIOVFzTTRCR0xxaDdvWXdfM1Fl0gHiAUFVX3lxTE9IQ2FKOWE5eWUyb3FLYjZkZDRjSEY1b1FpWDhyR3F1UG9GMU5rOTN6VEdTRV9FOGFKbkMzR3NhbFFpZHNoOVJxMWEwa1YzenhjdzFtTlo2SndQOFV0ZERYbW9VNmJNSnR4QTNpMjlhcTJlQ0kyQTZTdXUzQmNpc2FuZUZYUTl5c3RJcFlHUi1WeDBTRDBQTG5BclNZU3JhSEZtRXhRZDVQa3QwWDZMWnprR0lPRHVKTmgwUmM1SHRKbU9VRk9OelJLZFl6TC1pTkNoWVYxY2EtOFFXUjZMbGlrTVE?oc=5",
       "date": "2026-08-14T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
     },
     {
-      "title": "Meerut: 'शिवोहम' कथक प्रस्तुति में शिव-पार्वती की दिव्य कथाओं ने दर्शकों को किया मंत्रमुग्ध - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "Hariyali Teej 2026: माता पार्वती को आसानी से नहीं मिले शिवजी! हजारों वर्ष की तपस्या के बाद हुआ शिव-पार्वती का - India.com",
+      "source": "India.com",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVFAtNHJEWTFjS1RwRENaQWJwVXZ1LWF0NlJYOEZqeHdRV29vb1lpN3lreEV2UF91TUFlUm9LVnBoNnB0MW5GWGh0VE0xT0VSSkNHaTBXVTEyUjEtU2dnV25JTXl0TWU5NGpEa1pZamR2MmV2QU9rT2VZX2dfQWdoRUpRWkcwc0lZbHhsZE5TMXBrZ2UzZ1lIQ0EwTDZVQkVEdFhTREJXOU1SWjBiQ2dYa2l5ZG1YRldTcC1JMEdvUjFuSVBkWUxrdEZld0hubTdfRk1TeVVZWFc5YmtuVzI1My1GWkp5RDdHVFhqbk51TGRHb3PSAfgBQVVfeXFMTkFZS3ZmdVFnY21QMmlrRGxSQlR0UGJ4Nl9rN3hCN0lrWDNFNVBPeGcwMTQ1aVA2dlZFU3JvRkdwR3pGbm5hRVM1amxiYXkyenhybTJRUkQ4WXlfdXkxR2lTTDh5OUd0Z1l6MDdwTE9KN3B5Q0ZLaGhlLV9rSExiZm5oWUZya09vaVdZQkk3dnZKNzk3UTM3SHoyZ0NvOURwenFHaHBoR0hkTmY4ZVUwYmpxY2hPS0Z4c2NyTjA2bzNKWTBHUllrcTcybE9rMm03dk1HS2lXVGNaMnY1bGlqaFVBVnhlQ1BtcHVnNzFLQXdsd3V5QVlhZDY?oc=5",
-      "date": "2026-08-02T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbzdGakU2Y1hYNlpIS3BWVmNxOXBhRHdQSmRSdzd3SkVaR2JMNlJBWXZ3aFd3OFBsMExjOFk5QU5sdXhrT0FmSjFybkhQcHZfc0FRNWNJWkxZMURqZ19jb1hQUHZoOUR5UFNsd2VPTC11bDc0azB0MmVlN3JoTHZCQUdQZi04Mjc2c1dHSkpGYUJ5WUI5VVZmRnJRZ2NFZ3NMdDRGSmtnSlU2VTQza09ETmo5ZlY2M21XZDFueU1DMDlnRGx1d2JkWk5fNVV0aFNNT3dJV3pOaU1xUdIB3wFBVV95cUxQNExuUm11cTRDNkxxNC1ETDU3OGRCcGEza09jTGcyMzgtY1BCMnV6cHpjSDI4ZGUyc1FSaThTU21BZkFkZnFoWmxjc2lKSkUtUC15V0xrOUNBWDF5WEF3RWlLTzFYdUNsSGFoalQ2ZE9ueUZNRTdJejFxeVItVGFlQllHY2NXd29ScUNxN09OdE1oUEdmMTJUTzhWbXV4VHFOZjA0V1NOWmY2M0x3ZXpOVmNEZ0pROE5ZQWFNWWQ5U2IzMm5PSDlRTTlqM2xDamxENHlSa3FVcEtycFJpVXN3?oc=5",
+      "date": "2026-08-12T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
     },
     {
-      "title": "नीलकंठ महादेव मंदिर में तोड़फोड़, पार्वती प्रतिमा खंडित; नंदी-गणेश की मूर्तियां कुएं में फेंकी / Shivpuri News - Fast Samachar",
-      "source": "Fast Samachar",
+      "title": "Sawan Katha 2026: महादेव ने मगरमच्छ बनकर ली पार्वती की परीक्षा, तप के बदले मांग लिया सबकुछ - Patrika News",
+      "source": "Patrika News",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FZGdyZGZEMkhER3d1eGpqcmo0QUV5RmUxa0Q4ZjVCeXN3bHNZakYwc0c3TGJMdUJkaUdiOS1yek03QlJMSDBIY3RuX2V1MW5aY2xrTGNzV3g?oc=5",
-      "date": "2026-08-02T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSHVhWUVTbERfRU9Mamp3czZEOHlHQ2NHdmFnOE9wQncxVlBucjN6NlVwVHlTN21Qc2tiUGhJM2VjdG5XYnpWYXNiLTJxQ3hlWUNhTllYYnlFMlM1RjF3dmhWcVo0bVc1d1dTLWYwUHg4aUFmQmV3aG55OUdQX3RfWFpNU2Z4M1lEbzVLbmVOYUtreHhyUWRQMl9oY21BUdIBowFBVV95cUxQY3Q3UVBBSmtUaWhBNF93VC10QWc3ZFZ3MzJ1YnN3QVpNNTZQN2g1NVNPdk9TWDBydHFoTVpvX0hiaDZlcWFaT2lzTWVMUGVlbklQWHBGeU10NGRoMTdhZWoweVU1R3ZyeGxqd2hlN2dTbjJhdnByUHJVT1pVazhEX2pFV1ZYbWJiZkRSb3cyYzg2U1FyVVBiNlpTeWlJWFFvSVNn?oc=5",
+      "date": "2026-08-12T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "Gurugram News: कथक के जरिये दिखाई पार्वती की तपस्या - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMHhQZnBEeTdzZkpKVkJYSkFlcmJER25xUmNrOVhpNHhUaGdkWHNZWmJ3OVgzWnB1Zm9qM2R6U0UzS2pZZEdNZmpCeE1UckFUaEpWM0RaT0c1RE1VUHNMaGFRTllVckNGS1RYQTlhNW9jWXFiT2tkWXNmUXBpY1VkY1Foa09IVXBaQnVROUw3SjJRaWhsRE80ZFdxRkVEY3NJN2g1TDctTDMtNkIycklTQ0lidDBWOUd4NG9SR25rcDE2bHlJNEh1c9IBzgFBVV95cUxQdTJLaTY0OW1sTmszTHBCTC1KSEZ5OVI3X2tsRzZTMGs2d2tKU0ROcGpVQzNlMDR1TV9VYkY4ZEVlMWpsRVM4LWRDTUhCVUJxYU9uZWg2TFk4RGQxX2l5VWJWMy1fcGR4R3lFdEgxM056QzFNMk9lNHM3M1RaMlFtbWswQ0lHaUZJeWxJQ2wwS0pzNXVzZHdnWnFpT3M4S1hZS1NoejF1cXN5MjMxMWxvYmk3VWtiX01xRmV0X05RaGNFTGpfM0Jqd0NBVUxvZw?oc=5",
+      "date": "2026-08-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "पार्वती की विदाई पर भावुक हुए श्रद्धालु, श्रोताओं के छलके आंसू - janmanasshekhawati.com",
+      "source": "janmanasshekhawati.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxcHJ6YUo3VWppSVRlWEdOWFVZRmhyTWMyVjBkRU5nU1pzYzc0dFdSN2dxLUtMR3plX1AyTURYNlJLSUZ2cHNmVjlfdk1xZm54WEhlYk1B?oc=5",
+      "date": "2026-08-02T15:28:52.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
@@ -130,8 +180,8 @@
       "match": "Parbati II"
     },
     {
-      "title": "जया पार्वती व्रत में जरूर पढ़ें ये कथा, हर मनोकामना होगी पूर्ण, शिव-पार्वती की बरसेगी विशेष कृपा - indiatv.in",
-      "source": "indiatv.in",
+      "title": "जया पार्वती व्रत में जरूर पढ़ें ये कथा, हर मनोकामना होगी पूर्ण, शिव-पार्वती की बरसेगी विशेष कृपा - India TV Hindi",
+      "source": "India TV Hindi",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOM2Q3ZVN0V1hKdmxtT04wRXZVUjdVdkRrUldiQjJxbjM2ekFrS1drMFU2YWRUNHVSc0ZwelFMTm1BenN1ZnQ2M0pVS0V3WU9kd1RUdExBV1R3UjlRTWxkSl9MQnZHQmh2dWp6bTFpU2VxSkdhUE9uRzJMbGJvcEtqWHVvWXo4eW1nOHFXVVo2TzdlYTNyTDZvY1AxamRES0RmbVN0T1NNaHhjbkRSWGdmeGVYZHBHUFo3dXhlYmNJbEZQbkhGa3ZpaU1rR3h6MWRFMDdOMTZaa0dXc3J3T0pvT1NJRWJ4SVhCZ3JMSE9wOV9PWXhBU2tBV3lPZE5veFBUeXNOSmJlWlNPa0FFNjdjRDV6TdIBmAJBVV95cUxQU0xVUTF4Vm84ZU1JX1dheTB3QXkyVDFiZmJvaERvbHNwQkJvdkpLa0FRS3NZVWFQNW5tODZqVkRUcmVFOVROd1VubGVsb2RzaGUxVXNkY3JJS0djdjlNUUN5V0pfalhJUWdkaDJpdmhOS1VsbDlLUjgyRDQzN3JtSjF0cEM0Tkd4dFgzUHYwYWVsLUZoX3dTdUR0OC1JbktaOEhPR1QxM1pYbWtlRW41U1VkcV9QSFc3aHhYZERfd0liU0ozTk80bDlpNXR5NHA1ZkRVTW1ReHVnMlN5RXRxajVvZ1EzWUNTM2V4Q1J5Z3VJdDcweTBGQjJoMXdqazNrMUo3QVFEX1BQX2dXUjhsMG5ZWURsNnRl?oc=5",
       "date": "2026-07-27T07:00:00.000Z",
@@ -150,61 +200,11 @@
       "match": "Parbati II"
     },
     {
-      "title": "पार्वती जयंती 2026 में कब है, आषाढ़ शुक्ल अष्टमी तिथि क्यों खास है, जानें तारीख और दिनभर के शुभ मुहूर्त - timesnowhindi.com",
-      "source": "timesnowhindi.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPLVh5bzg3QWZqSWhqX09GZUhCSFlyY3Bld1NpVzkyTjhHdUE1VGNfcnM0ZHNnNUttVlg1WG9aZHJ0ejFtTUFjZTMwR1VjVEl3a2ZwNHB4cWVmYm1zWXFuZ1R2RDhxNmxVdkI2RlpIc3F3aWlYVEFKalpZU2N2VTYySDk2VF91MkZsWmNhRWlMZ2lBOXRBNlpKUnI3ZUxtUnlIVW43RlJrZW5NZFNTZ0NhSXZYWU00SXhzcHo1UklOTktGNW1CcGowcU1uajl3TlZENHc5ZlllZ3JYcEtCTVp3aDRXRVRJc1RGcG03U2Y5QzR2bXVpZ1VUT01LUjV4Sm5PT3F2N1VrVdIBjAJBVV95cUxOMENaU0ZZeDNNbUlHemtwRFNCczd1NWhfeEJGU2xheVlJZ2NlRnBkLXdCREtnUk9xVVFyVTZ3NV8zYkxqbFlJb1FHWVVqTi1rZUNjdEtfY2VCaW5vbVJNTkxHU0ozb3Q5Mk1iWnBoaW94S3pxLWhjRGd3NUh4MGVLUGtRUGtFb1pDaDF4Z3Y2T3hYVVQ1MWk4cEdVdVA4eUs5ZVpnUFJiVERha2VQbEVNQ2pHbnRMeU9yR2E5WkdBcE83cGp5VGJqZDNhcTBUZkxTM0I5MGRYTEtBTEZOVVFSMUNfTktjNFpVYm1mSFVyaEdXWGVBRFRtaGQxWDBCSlZrbkRPSDFFaGhNWTZZ?oc=5",
-      "date": "2026-07-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "hariyali teej 2026: जानें पूजा की सही टाइमिंग, शुभ योग और किन राशियों पर होगी माता पार्वती - ABP News",
-      "source": "ABP News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbURJNlFkYnUxVEhZVmU4VVZEeGNtVkRGNUhjVWlVX3U0c3lTZm5MZkZOc3hLbEppa05Jc1N0eU9kMV9ySGFfUTdqSTNXYWlEY1RnOFVNankzNWVmT0t1NmhpQWtrQzZZUk1VaDFrVF9jRzZsOTk3OVBKTV9Demo4dGRnWEQ1M0VVdGU2SGdOcXkwOEZjbzVkNUFrd3MwbEo4ZXM3Tm9lN3A1dXVt0gGyAUFVX3lxTE0yYk1ndUZBbTQ3N1F0a09Bc1RaT19rZWhLN01tZ0puNF9ra25qMDM3MWdaRGd4XzhBYk93VWZORWJleWRDcEdRU3lNSWhWdmxOTUFnN3lOQ2JmYUdFN3dFMTB3cDM0M0F6b3dnWUdnb2JzQnJ1VElta1p3LWo0WnpWbXlSYk1vdHd6OGhPQURLUXNtUEN1Rm9paEhRRlh0UHFhVm01Mm9HR2hwNXMtQWYtNmc?oc=5",
-      "date": "2026-07-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "NHPC Sounds Alert on Water Release from its Parbati-II Dam into the Sainj and Bea River in Kullu and Mandi Districts - HimbuMail",
-      "source": "HimbuMail",
+      "title": "Water release raises flood risk along Beas, Parbati rivers - The Tribune",
+      "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd3NUbzVwRDQ5a2NzNE9xN2tlUUp2b3BTbm5JMllsemx6aF9RT3kyTHZvemNHSnNYRVQtWWtmUGx5dmdiV1JsQXNTMmtpdUd5N3ZScUw4eVVhaWVVT3dtSS1LLVRXZ05EbmxkZS1RSWVmQ2lhbE82ZGpfMlRaSmtUdGJWUmpzSHZTaW9nVnQ1ZkZaMVdUSUtodlpjcXZfdU9tSjJMSGEyS3Z6SF9YWjhMaDhObUI3WUYzamZDVE9qVURvbUo4UVdHTlJnZmRleHBCU2dBZw?oc=5",
-      "date": "2026-07-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Parbati II"
-    },
-    {
-      "title": "HP: Water levels in Parbati river to rise as NHPC begins silt flushing at Pulga Dam; advisory issued - ANI News",
-      "source": "ANI News",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDBDRU1YbFdfNldRVGJXbUlUMU9HcnZXc1lvZ3F2OEVxazFRdFg3OFJpQnNqdHJBdGxIOXNhUjFhZEZiTzRHaHhQc3ZHX1Bfc1hwZkdLMHQ2OWZfZVBVT256NW5zMlhyTm16aGo0OEY5UWc2eHp6S2ZHNjh5U1lPa3hhRkM2NkJheXV1blNBWTRKbVFMMHRFSFFKN2MwVG5UUTVxeC1uVVc2cXdoUmNJU19mV3ROMWZ5MXNFOEY2bE1ad0JRZ2lfRlphdXJUMHl6MlNENVF4bWs1Wk5vTS0xWjJNa21lMTN2RDZaT1VzekZUREpr?oc=5",
-      "date": "2026-07-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "NHPC Parbati"
-    },
-    {
-      "title": "NHPC releases extra water from Parbati-II Dam in Kullu district - The News Mill",
-      "source": "The News Mill",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHo2YzZaaDVZTmNXOW9JUlhFZnUyTXU5Q0ZOVWR2NkpUZldJQVFjcEQ2Qi0xUzJCczdhLXlENTAyUlZkUk1raUZaNzRQZUlpZ1UwOVlRZHRoaDZrQ2xRY0gyamFzbkVtLWdiZjRFQWYxUWdvUmJfZG5PWkZtTkxidi0zUmQ4RVM0bFZpWUxOYjdOS3h5TVNVUHdBVEdmb09JZExrbVRGRFNDaktLU182aHB3?oc=5",
-      "date": "2026-07-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Parbati II"
-    },
-    {
-      "title": "NHPC to release additional water from Parbati-II Dam, public advised to stay away from riverbanks - Big News Network.com",
-      "source": "Big News Network.com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNTFLT21LTG5PZTQzMURPUUdURWFfU0s0Qlg4ckdVbEd4a3pzWGhtajdjQVBVYVZidW80X2RMV19hckZaLUxVa0pfVTgyVHJtV0hZczd0MUthS2Flb1N0Z184V2kyVklVS25UNFlicnhyTDlTYTZxSUQ5NnViRVd2WXphZUg5TV8zeE1RbVNTTEY3c3hXY01wMTJOZzNKbjFlX290S3NraTJPaGJPcV8zWktuUEhEd1VzaVJWeEVsejNjeHBkdFg3V0JYc2I4Z1lSbnpMdkY1ak9DQQ?oc=5",
-      "date": "2026-07-08T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkduZUl2WV95YTZDX05Kb3N4ZEdqYmllMXBQWmVaYmJqQ2FCSWxyU0RrMWxtVFRWRnIxQko2cGdvTG5GbEE1UldHTFViWEMtaDlxeWZjekhRSzBIRHpIMzVDTTNpRlZLYlo1ZnVTRjg4R215VWQxZ0IyQ2F5OXhRdGRmZ19TUzM1aTBsQnE4TFJJVUVhVmdCWjljbTNub2VGU2RV0gGnAUFVX3lxTE04SHpwVnNfZGU1OEZyTC1INkJQMnJaUlN4bDdBUkVCYlNjYXItQmlLYmt4UTRCTUJzMlBEZnZ3VmFtc0ZVQWd4bkdiVHExWjZjQW5PdW8yQkQ4T3FkV1RxS0E2bkxtSGQtM29GOTRtem9JY1FZelBGWm93NVZnYl9HVDBXVk50VmFKOHM4aG1lMnN6TVRPbkpfb3FtQXN3Z1BYN3dhenRj?oc=5",
+      "date": "2026-07-22T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Parbati II"

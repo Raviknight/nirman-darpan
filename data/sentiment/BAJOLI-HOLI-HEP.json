@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-03T21:33:31.148Z",
+  "updated_at": "2026-09-07T21:53:01.656Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
     "n": 20,
     "positive": 8,
-    "neutral": 8,
-    "concern": 4,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.3
+    "neutral": 10,
+    "concern": 2,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.25
   },
   "youtube": {
     "n": 4,
@@ -20,12 +20,18 @@
   "overall": {
     "n": 24,
     "positive": 8,
-    "neutral": 10,
-    "concern": 6,
-    "avg_score": 0.004,
-    "avg_magnitude": 0.296
+    "neutral": 12,
+    "concern": 4,
+    "avg_score": 0.046,
+    "avg_magnitude": 0.254
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "बरेली की रामलीला जिसे अंग्रेज भी नहीं रोक पाए, 166 साल से कायम है परंपरा - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWxpYnhSMWIyZ1c1UGJld0VzWkhqczQzSC1RM2pDbUZ5UVhtT0htVW5CeE9SbU45NGhUOE1JTGVwbUlWNGUxRjNYNUcxRDJqRGoyWFIyWW5iT2hJc19OY19yelR5UTY4NGY3Vno4TUNEQXkzbjAxbHdPcGRweDQ1US05dW1GMzctMXJ4SjJzZVUyVVhXUmJoRGx5dEdBTS0zWXZybExaTHI0SUhZX0RrS1JjT3lib0lGdlpiWF9ldmZnSnQ0Y21TVzF2aE1xNU1iYjg0eVFJM0NIa1nSAeABQVVfeXFMTnMzVG9oYXBnVjNhdklCRl9UQlYzbTM2VG9hRFNCMzdOWER4Ylc0YV8xYVdva0pQLVBQVmctVUQ5OENQNUFlWERnQlo2dXpWQTZoNzJhMzlEc1N5R2hkczBsSk9zOGVRbmlqOEdUcWs1T0VpMWxKLUhqTVlTd1F5T015LWFockNVcVJpUWFiekhSRU1NSFRORHBCbGpWcGllbUkzY2t6em04QzM0eldwbzhkWmwxS3lmOVVDeERUMVZUM25tckpwS25PRkFMbjU1VnlMTnJGbXU5LVFEZmtrWTU?oc=5",
+      "score": 0.5
+    },
     {
       "source": "press",
       "title": "होली के रंग होंगे और भी खास! बरेली में इस दुकान पर मिल रही हैं इंजेक्शन से लेकर हथौड़ा तक कई अनोखी पिचकारिय... - News18 Hindi",
@@ -34,14 +40,8 @@
     },
     {
       "source": "press",
-      "title": "हिमाचल में आदिवासियों को उजाड़ती पनबिजली परियोजना - news - Mongabay",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeHZVSXIzbm16Qy1lcWpoNkl0aUV2X1lMTmExRVdUNTdFWFpJRDhUUElxLWRJSkx1WTl6RWFSNUZhdmxQcDVBZjdtMkZ0QVUyRldEUmpxMlQyYmRsbDVwYzJnTENmbTJ1WjhBOU9nQi0tNVdJZGdLLUtxUy1aYl9sSGZFcVM0RUxMeEZwWEFYOXE5YmNiTUJVZXpXckduVHdtbmp4RnMyVHh5Q1lia3M3QXRqWlhvSnphSUpGdENR?oc=5",
-      "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "GMR Group’s strategic sale of power assets to reduce debt, strengthen finances - Insolvency Tracker",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkxlOTN0QnU0bWN0Tk9oRFpGR1lZSzBNMW1sWGlPYnR4cVdlUS1Gd2FBTmNrMk9UaHJvSWVtVGRmOTJqeFBnWThRcVdBU1hlb1BRMnUzNGpPLWloR19IWVFHTi1pQXBjNUNlRWpjZUp1R3pxblNLUEF4OUhxUjBmMVpJLWR5dEl0NXNJdWtheWxWTy1TTE1ybmJHNkRONjJEMmVOb1pzQThtX0J3R3NuQ1R6Rk8xdEU1?oc=5",
+      "title": "IPS अंशिका वर्मा ने ‘लंदन ठुमका दा’ पर मचाया धमाल तो SSP अनुराग आर्य भी नहीं रहे पीछे, डांस किया - Navbharat Times",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNLW5ieUJjYXJ0cEcyTGtZNWtzOU9TTzA1X0k5MWQ5UjNUOXlUN0lpeU9TMHV0azdma3Iwd2ZmLUIwdXNMcGNPLXdveERmTERfSmFWb2gwdndoZVFuVXJMM1lBWGpscS1BYjRsQ0RqN1J1YThMd0FITm1xcnJIOHZINmZ0RmVtMFJKVW5UYkxlNERUX3h1Y3UzaFhiQ3R1N204MVlmSzVHNThPcEJXWHZjZXczSGNodm1iUWdtZEw4TUE4UHBLUENjdFdzc2o3UFZOYVBwaEpfLTY2TTBua0Q4QWhuUTRtT1VmTGFwUU9xLXV4RzdvcEJTTmFJM1NEVGVsd2RoM3dveXdqc1Rld0hQRElqLWliSjNTbW5nc1Q4VFg0cEFTZThDbkduRmlSMW04V1hiTNIBugJBVV95cUxPbEhxWG5mQ3FQVzhiY1ptMFFLY2JyeTBXWmdTVGRwSXcyTW8yTFFFM2pJZTZSZ3VQNi14cFJtXzB5UEM4dlJFbW40TVU4WWczeU5NOU83ZWRhSnRFV0dZV1A1X20wbk5VcXRjYndYeHFEN3RTUmh6cTZISTVGcjFoT3daaDhMTTNLT0ZKcjJCWnNhaUQ0c3pOU19Dank2aFNhZTVBc1BkVjljdXpDUEg1V0lpeHhTeTFqVG1YaHNqMndScS1PVVdTWGdzUUptUVZjQ1BwVFJMNk40d05ScWd6Q1NwSjRSWGxaUUpacGtTZ096OHVCajI2b2RPZVlvZVFsN2E3cDBweVVIV3JZS3N0R1ZEd0tXeWRXSE9wbVZ3RmVwRWdFRFR3SmYzRXlUY0wzSGxLNXBYeHd0QQ?oc=5",
       "score": 0.3
     }
   ],
@@ -52,16 +52,15 @@
       "score": -0.6
     },
     {
-      "source": "press",
-      "title": "Delhi airport mishap: GMR group that operates IGIA and their key infrastructure projects - The South First",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUdXcHNoZHJCMW1wY09BN1E5bjVqTXNVQTFuUklaTDRtc0d1MEQ2NWFQbEZCdTBIVW9QWkZZY0JPbHpybDR1X09fX05vSEZmUUtqcHo4Z2w2T0YyTmlhUjRWdWw0OUw3dE1JMm5WcEc4TjNHVnZtNGJFUTlZcGNRSE1RdnJ0N0NfR0h6bE1Id2lFMWlEQzBTRTVGZTktX3BJX2F1bjR3djEwQ250a3Z6SmV4aEFyZFdxY3VR?oc=5",
-      "score": -0.4
+      "source": "youtube",
+      "title": "Chor company hai .. GMR tabhi toh loss mein chali hai..gareebo ka haq maara hai ..tabhi bik rhi hai.. ek din pura group ",
+      "score": -0.2
     },
     {
       "source": "press",
-      "title": "Himachal Pradesh monsoon havoc: 173 dead, highways shut, dam collapses; IMD warns of more rain - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTlV5SGMyY3RyOVdjaHhLVWlSaDNBTlVPRVc0cnZPaUxxYXFOWW9ocGQ2WGNVWHNuSWk0bkE3MHFkU3I0cUdxTzVMRWFNZ1ROU2xnUTYweEZPdHQwdFRTdHFTSTNfSWEtZXlWeThURWRfUVd3ZDRtVjByTWh0SnAyVFg4andEakZidUtMX19RU1FYTjE4ckdUc0Jsa1ZUdlFqdVA0NWJMQkhfX1E0WjRLbVVBejZPWmRua2JQVjliaGFHektZbzdONnIweGdhbjlaMkFJZTBRTzBQUHVZT3UtY1BXT3EyazVROGN3SlpRRi00bTEzbnZR0gH8AUFVX3lxTE9heGg5b05hVVgtdVZyOGNCMTdRSWpMSnFHa1hnLWI3MXcyYUtvY0JiOGgwZFhYenhRTkVoZjBfQWpUY2lHWmFrb2tFblpuY09wWVFwODN6dkZianR6NXRBRTJGUnZRNDdNTlR3Q2Rta1hna1NPYlhBRWh5RlE2VktYWGVLbVNjVDU5czd2VWZNRDAzOUJ5MnE0YnltbGZOWlM1QUd4eml0NjJPTV8zVU9nOFExVFd0WlY0VlEzSXFvWkpibEdseU5fSERiOTVKUUxhRVFHcWstN1duai1vQ1dnWl9wa09CMjVIWnZBbmRNcFNSWElweVcxdDhkbQ?oc=5",
-      "score": -0.4
+      "title": "In Chamba, a village cracks under shadow of another hydro tunnel - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlRPSWR3ZmlKRDhabHhkZVd0WHhrZFBTdExCaWc1RGI5eEVtMklKS0JhVzZ6a1dtR3Z6SWlHVG5FZG5wYVl3TXJKU1Z5WVZKRzNrNmRXR3FFNnNIZzgzNlpzYnl1V0p6SE1XU1NPZW52WDJuTVR5VmFFaTdSVmlwZDh3eXFKbnJ3VmUtQUswNkJwTFM3UWs2TUpzVDhmUGtWNmxseFUyZEwtV3RnSzZjWXNOMnItc21WMFFlQkp1cXlnSkRWZ3JTYnZn0gHPAUFVX3lxTE5Yb2ZzUFpnVURtcHhTSDZDTlNxeEVlck1PM0lCaVBxNlBma3dIU3lkVnVDSzhkWi1Wd21RWHZGYnFKTGxBcXU2dkZQblRQSzVKTWZJUTEzQnduRm5YMWI2LWk2LUdOT3pXLWRTaEVYWmg0OVpJYXRoYVloZ000eDQtc21EWHhrWlZRU2F0VE1GZWNJNU91anMyTVRsRUJpYW1reXQ0RUhSeGZjUVdzMmQ0cVM2N2c5RmtqR3g3clBrUE95VmZTbENqWHBVMEJ3Yw?oc=5",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

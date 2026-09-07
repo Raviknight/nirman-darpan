@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-03T21:33:32.988Z",
+  "updated_at": "2026-09-07T21:53:02.666Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
     "n": 20,
-    "positive": 6,
+    "positive": 5,
     "neutral": 12,
-    "concern": 2,
-    "avg_score": 0.09,
-    "avg_magnitude": 0.225
+    "concern": 3,
+    "avg_score": 0.04,
+    "avg_magnitude": 0.22
   },
   "youtube": {
-    "n": 31,
-    "positive": 8,
+    "n": 23,
+    "positive": 4,
     "neutral": 17,
-    "concern": 6,
-    "avg_score": 0.045,
-    "avg_magnitude": 0.287
+    "concern": 2,
+    "avg_score": 0.039,
+    "avg_magnitude": 0.178
   },
   "overall": {
-    "n": 51,
-    "positive": 14,
+    "n": 43,
+    "positive": 9,
     "neutral": 29,
-    "concern": 8,
-    "avg_score": 0.063,
-    "avg_magnitude": 0.263
+    "concern": 5,
+    "avg_score": 0.04,
+    "avg_magnitude": 0.198
   },
   "top_positive": [
     {
@@ -32,15 +32,16 @@
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "Good going Girl!🎉",
-      "score": 0.9
+      "source": "press",
+      "title": "'मेडिकल कॉलेज के 60 करोड़ के फर्नीचर टेंडर में गड़बड़ी, एक फर्म को फायदा पहुंचाने के लिए बनाई जा रहीं शर्तें' - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWxvZ2F5S1ZXbjQ5cnE2bFRNTFJkUXdpcXFQa1VxYmpPRmxKTVRJeldkRFlXazF2YTVsZzNrWUZfRFRnbEI2OWtON3VibHBoemxxVXgxNWlVT3ktS3lVMzN1ZUVMMFhPSWhUV00wVHAwcGxBSkdsZk5nYnBNYnl3bC1MYmpZcWVXUzlSNlF3MGY5RlpOUlNwd3Nhd1pTd0YxQUpjbllpY1VsTk1RakgxbXlnd1NUSGx1ZVFUZHBlMGxGZUhZb3pfcGEteHJrREdIRVluNmt6SFJVMFVzNmktSVJUS0RWeTFPNjBlOFdOLVV0akoyN2ozUzZKcENWTWVfQmh2dNIBigJBVV95cUxONlJhWXdNLWJyVkx4UXhFQmtEYTJPXzVDY01VcFFhYlcxMjNmWGhiQ04yT2tNUkJZZGJkOXBYMWRhaXV2MGIyeGZzMndLcGNaSEV2dDd2bFB0VEpWWk1jRDFfUjJ0NEphenp1Z0NncWV4WDBnck56c1pWeFJXMHo2dWQ5LWJhdHlmSjFEdF83ZjBqRmt3NVVBZEpZMGdwNjlQV2lxczh0N2w3MG84NEhVTDBQX0JJWXk5bGl1Y1B3VU9IWnZtYWdTV2dSaXk2eVFtMjhEck5UQ25uVllqSWp4ZVd3RklmU1JacklGVi1Nc09jVlFqbVN0R3pGcDE5WWNEaUdFeDk5OEhEQQ?oc=5",
+      "score": 0.5
     },
     {
       "source": "press",
-      "title": "हमीरपुर के सीताराम की देह मेडिकल कॉलेज को डोनेट, परिवार ने बैंड-बाजों के साथ रवाना की एंबुलेंस - News18 Hindi",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHl4dU9GS3ktNVdibGg3T3c3Q0hmQ2wwbUNCU295MjZTUWFuUTk3UGp2OW10dnppX0VJQWZUeWRndmRkTG03b1B4c2M1bDRzZGw0eE10Q19XN3RWdGxQcVp2ek9nb0ZNNWxOaGE4bXJZSTRZQTBzVjlMNmthWHZ4VzN6QWtadTdjUXR4ZHh0TVNaUzRzOUxyN19PdTh6TnZVQnVYQ3hXMTN1eTFfSXNLNUxsc0hPVlV0TFM1MlJ2cjdzWlJzQml3aUc0WVkzSDlhYXJFLVhqTFRNOW5BRW82T2p1dW80dXPSAewBQVVfeXFMTWxqMWpnRWNGMF96Y1RtazdIVndoSTREaE5OS2RBUlNheUdqMFNfYzUySmp3UUFDNVViMkVKM2tYdzBibFJoblRSNFMySnU5NWRRYm9ma2FLN3FPYXJYMmpRQ3BoYThiSEZjNDlQSXVNb0h4TzdwRTFlNFdxdmJhdGxnbDUxVFVtd1VPRFotOHdCa1g5X0E1akJRNXlUeVBwZXpLdE9qSEhKRXk3eFNfWWZhVU14NHEzczhTTEtFMnhFS0hEQi1Fejc0d3h3QmtwaWlPVWprY1ZZUjJsdUlyejZHcThVUnREdE5pUHk?oc=5",
-      "score": 0.7
+      "title": "मेडिकल कॉलेज का श्रेय लेने की मची होड़! CM सुखविंदर और सांसद अनुराग ठाकुर आमने-सामने - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTTFwRk9ydG14cVRQZktNd3pPVDllcVdfMmRQbnBFcFlSM3ctaEFfbERsLWs0VGxPdzIySGRsam82TnpfX1dTcEdZRmhjWmFHMW5abTBhaUk1eGtnTmJlNDg4QnI4NzhxWnhsYk5yNmJjRk1Wa1Rjbzl4Qmt5cHgzSlJBZWl4b3V6ckFsOUVQc1RtbXgwRjV5WmtBTVBWb3U4MDdXSkd6ZzcyNElSejBGMXNncWdUVzlNZ1BUQlR0Tk9qaGQ1SzVOSTFSenV1NlXSAdQBQVVfeXFMUEZEXzIwNGljQzBENHF4S09JaGxNQzc3cEh0MXNLRzBsV1E2MEZjd0xvaFBacUtDZmVQUUpjRUdjLVBiRFJRc3FfaG5tdTJzR3owTlVLNWJXcWZsN2staGxvYUlDbFJwTzJsZjBYLVRMcDNHeXNSTHlkWm5TNEpiaDJoY3c5QnFkclJTVlZyUUwxUW5uLUVtaTFYeEhldjFqVUpsaXdFTGZLdE9LSGJwTjhkQW5ZbE9YRVFXSndSalp3RUpJczFHa25ZSHEwU0FMSVVRU0I?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
@@ -51,13 +52,14 @@
       "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "Dii cut off rank for state quota gen?",
+      "source": "press",
+      "title": "Mother detained for abandoning newborn at Hamirpur hospital - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZEMyV0Juakw2UjFuOF80WXRua1Fkc3l0b0x3U1g5SGcyWXd5cllGR0dXSENPLWNTbk9sRUh6S1ZKRmdnS05pbTVQdlRQN1JHam8zTlNGMmVhZVR2VEg2blFEb2pRbzZiVFBVSXlZcWRTVTFYVmQ5bWZ2NGJvTm9qaGV3bm4yX1lUN0VkVnIzUnVIbHU2N0tFeXMxWDRBX1NXdWdKMzdFOC0tQlFHQnVMbEM4WS1sVUtkY3Nsb2hhQ3hEU2tHb2NCMndFSDRQZTFBUldV0gHYAUFVX3lxTFBReWdjTS11Vm9fU2VHdjdLQ1g0V1dfTk9JSUh1ZWR0bU9DNF9ncXFVMFV0LVhuVFlLUWoxTFk0N19GWE96M0Y1NUlZYzlTaU1QVTRRZEV0enYwZUlnX0FoNmNQYl9JaHlraFhSc3FpLV96cGV1N3ZmbVU4VFU1RUdVaVhkeTE3LXNkT24wV3ZjRjFzekNuNERDRlBxRW4xV3NWOWdGUjgyOUJGV2lua0JoMGtHRWZoZHlZTEw1dUNJYU4zMEZTNG1odk9idlFIQTk4NlphbTFldw?oc=5",
       "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "why is it so empty? are you like the first batch ever?",
+      "title": "New batch ko new campus me shift krenge kya",
       "score": -0.4
     }
   ],

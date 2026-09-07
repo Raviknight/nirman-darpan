@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-03T21:33:10.868Z",
+  "updated_at": "2026-09-07T21:52:52.227Z",
   "project_id": "MANDI-AIRPORT",
   "press": {
     "n": 7,
-    "positive": 0,
-    "neutral": 6,
-    "concern": 1,
-    "avg_score": -0.071,
-    "avg_magnitude": 0.129
+    "positive": 1,
+    "neutral": 4,
+    "concern": 2,
+    "avg_score": -0.057,
+    "avg_magnitude": 0.2
   },
   "youtube": {
     "n": 2,
@@ -19,18 +19,18 @@
   },
   "overall": {
     "n": 9,
-    "positive": 0,
-    "neutral": 8,
-    "concern": 1,
-    "avg_score": -0.044,
-    "avg_magnitude": 0.111
+    "positive": 1,
+    "neutral": 6,
+    "concern": 2,
+    "avg_score": -0.033,
+    "avg_magnitude": 0.167
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "'चुनाव नजदीक आता देख सुक्खू सरकार को आई मंडी ग्रीनफील्ड एयरपोर्ट की याद' - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRFpxVzNzOFVvdXp4NW81RkxFODFLTFN1WTdyUGV2TjJjcXBzZjVQdjFnaEl1UDZyLXFUNnljSFVMekNRRXRBYXBYanhqREkxMnJSUFVMNXk1SDVfeXRCZTQyYlFPMklYOVNyWThkdE1pbnpKVFBmMHlrZWtZeUtnRHBqQlBTLW80S2tRekxSZElJSWdZNlRNQ29mek1aMkZnZWx5VVpXQjRtckUtZ25COWQ0MWlFdnpaOVZJOFpoeVdUaFhsMUw3UmlkT0ZfVE1CcGhmY2ZZc1ljaUF6UmRXb2VraThWT1VHVEVaenhLWHA5WFE3LUkxa040U3pObl9ZVGR0S2lkUmFWQm5FS09YQ044YmpzamPSAZwCQVVfeXFMT3JWaFV2RWtPZ2w0cF9Wa2tYQzUwRTNvbS1FazZ6NXNXRXBiSnZvOVIteEx4enVfdTQ1RjJXY3BQNU1PU2NmTkVzYUdOcHNhS2hyQzlWZ2JGSUNyNDlaX2dDMGNnQnh1dWlsTTlPT1JHT1hhTTlBZjNwYzVoSmVELWZnLUoyUnZham5YNFZnODN0dTNWOHhGbHRHTDFmSmdpeXAyZlFwc2tRUWNhRzY0M2pXTmtsQ2xQMW1ZUHRtSFBBQ3hscWMwRXZmN0RIcHd4bU5OVTBRLVJkNzFoc1F1ZFRiNFV5bG41SGpteXNCNVBZNXdRX24xSjgzVGcwMHFvSkVtUDFWTTYyYlhsRmdFdldaZFNSQW05aEs3c0s?oc=5",
-      "score": 0.1
+      "title": "इंटरनेशनल ग्रीन फील्ड एयरपोर्ट, साइट क्लियरेंस की अवधि एक साल बढ़ाने को केंद्र से उठाया मामला - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRFRKZXlzUWRvOVBBcHZBVjZnbjRlNGNtd096RU5jS003MUk3QXhZb1NkQUF3US10X2hZNm5CTHhadldHS0xJeE95Vk43ZEI4N2F0aGs3YmxKSTJmb3g2WDh6bVFrSWk5eTA1WTFyYXQxRzBYSGluamZZbjBXYVltM0xGa2xDYm9WWEVON3VUREtvQUdTV1dRdHdVQm9mbjhzYzJQNFlzb245MWtOSFNSUl9CcTNubGhpNk5SOC0tOUhWSm5mOGF0Y25QRl92bzRWNEdoTXJWS3V5Y1lyRjFvNVpxczhsU05MUnRHU09UMW5nRW5OMno5bXo5dnljcDDSAYQCQVVfeXFMT3BUcnVaVXdiUno1NFFwVUlhWXowWUZqMllHM3lCVmNIZ3ZXaThxWFFDTTFkal9Ya1FpSHpCaEJyM0hmYktyY2FKdUxYN2V1LWkta1BWQmNjRjhuT0hzMlFMVVc1NzkySXlrQS1aeVpJdFlJVXN5TkdXUHd0NUVMRTh2M3lZVkJibHRjNHdxYkI5TFE5TTk1dEdra1FEdlJheWRYVjF3c0M5Q2trbExXTV9MaGZsRUowX2lkTFA3M09OU0FTOVhRSmxDNl9XZU9HdUl4aGR2STB1c015ZFhDQnN3SW5hUE5lWmJYeE5BYjdYdG1MOC1EazRhQUIyclV3bm0wN0k?oc=5",
+      "score": 0.4
     },
     {
       "source": "press",
@@ -52,14 +52,14 @@
       "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "Jb joia ram ki double engine srkar thi tbh kya kia",
-      "score": 0
+      "source": "press",
+      "title": "Jai Ram demands LIDAR survey for Mandi greenfield airport - The Statesman",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnZSVm9BdTZUS19ibW9UQ0J6UjNvVVRLVWgwQ0hoT0MxU0VsWVl1S2hra3dNTGxwd19LYWJ0X05CRFhjTlhuekFyN3FQakdUSzd2SW5kb0pwNHRCYWswLVBoZnZMckdaUm9zTWUtdEJSS0szT25kd2hDbDFsVVAtNTFrQXZNMFhXc0J2Qm9KdHhjTWd5Wnhwb2FFRVZ0OERoc25wNEV4bTlHSjNZcnR5VWlqeUZLVHfSAbwBQVVfeXFMTklOSWR0Y1NKZnFkRklIcGM2cm5WdWFSMHkxakdlRWY4cHdzTHUyUVMzOEc4em1BZHVqV3Ruclh0dDd0RVNBMU1HZlhaWENzaTVVQUJ4NXhnZzEyNXRwWTNwN0t1WHlOUno1VGp3VHVleU9sWG8zbXAzTTl2ZWVZcE9ZRml3NWZGdXFDTTlVcUZnWTIxdDhDR0ZibDV2RlBIdDVtREhqWWJ3bnhaclh6bzd5bkxud2QtZG9kNVg?oc=5",
+      "score": -0.2
     },
     {
-      "source": "press",
-      "title": "Himachal CM calls for expediting Mandi greenfield airport work - ET TravelWorld",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONnNHN2twRGVlWTQ4Y2VLcEFuN0RhcENYdVFSZG1oOFA5Qnl5SHg2Uk9icVlZWVVEbnBnNy1MRl9BOXFvbldleHRpOXFndnE0MVg2S2lkaTRjX0FqcTNoVzcydG5ZRzVHRVNZNTd0SmhDakdGUTRkM3RKN2F0Qy14U1BpM3BFQ2VGNjNzYlFoS0JHTjctUV9SWE0teEdYN0Vub1FQcmkxb0wtRWg0RXExM0RFc1lKZUdmanhlVWRLdVRPSGtNbW1GeUFqb3dBS3dUbTY4RA?oc=5",
+      "source": "youtube",
+      "title": "Jb joia ram ki double engine srkar thi tbh kya kia",
       "score": 0
     }
   ],

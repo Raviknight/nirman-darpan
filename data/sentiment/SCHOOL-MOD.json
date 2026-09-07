@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T21:33:29.397Z",
+  "updated_at": "2026-09-07T21:53:01.209Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -10,53 +10,53 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 20,
-    "positive": 15,
-    "neutral": 4,
-    "concern": 1,
-    "avg_score": 0.425,
-    "avg_magnitude": 0.64
+    "n": 40,
+    "positive": 22,
+    "neutral": 11,
+    "concern": 7,
+    "avg_score": 0.275,
+    "avg_magnitude": 0.69
   },
   "overall": {
-    "n": 20,
-    "positive": 15,
-    "neutral": 4,
-    "concern": 1,
-    "avg_score": 0.425,
-    "avg_magnitude": 0.64
+    "n": 40,
+    "positive": 22,
+    "neutral": 11,
+    "concern": 7,
+    "avg_score": 0.275,
+    "avg_magnitude": 0.69
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Your insights are truly valuable; thank you for sharing your perspective!",
+      "title": "It's so satisfying to see you planting vegetables!",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "As a huge fan of exotic fish, this is one of the most beautiful depictions of migratory behaviors I'vever witnessed.",
       "score": 0.9
     },
     {
       "source": "youtube",
       "title": "Gingers are extremely good for our body immune system. Our kitchen are full of those coz my whole family love it",
       "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Your positive input is like a ray of sunshine. Much appreciated 👍",
-      "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "but why? the one they initially planted looks heavier",
-      "score": -0.2
+      "title": "Why do they grow it so densely?",
+      "score": -0.6
     },
     {
       "source": "youtube",
-      "title": "வந்து சாப்பிடறவர் entha information னும் குடுக்காம சடனா வந்து பாத்து சாப்பிட சொல்லுங்க",
-      "score": 0
+      "title": "She just hopes to be a YouTube star with this silliness.",
+      "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "seeds : 1.5 Ton  & harvesting : 1 Ton 😂😂",
-      "score": 0
+      "title": "Sorry you have to work so hard ,God be with you .❤",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

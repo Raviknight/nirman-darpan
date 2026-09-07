@@ -1,7 +1,36 @@
 {
-  "updated_at": "2026-09-03T21:32:35.082Z",
+  "updated_at": "2026-09-07T21:52:27.663Z",
   "project_id": "SHINKULA-TUNL",
-  "count": 0,
-  "suggestions": [],
+  "count": 2,
+  "suggestions": [
+    {
+      "category": "defect",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-08-24T19:23:39.390Z",
+      "title": "Lieutenant General Harpal Singh Reviews Strategic Infrastructure Development in Himalayan Region - SSBCrack",
+      "summary": "Auto-detected from press: \"Lieutenant General Harpal Singh Reviews Strategic Infrastructure Development in Himalayan Region - SSBCrack\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFNCNkRxWWJ1ZHJvNHpoTk5mZzNhQzFRdHQzRHpSdERsSm5URlZEeGlWSEhGTUNjWFJuaUprXzV5bjA4ei1rbzY4R19yTG5xWGVNZ1VVdjVCMnhfcjJSd2EtT3VTNkdNczFKZFQ0VW0zeERqNXNuYUJDUGhWWlJjT3Z1RGpOVC02UDdtell6a0xVM2hQNVRmX0V0bVRSMkd2b3d3X3FlWXUzdDlXOVVBcmJSejQyVlBoVEZ2NHV2cW4?oc=5",
+      "source_name": "SSBCrack",
+      "lang": "en",
+      "date": "2026-08-21T08:18:57.000Z",
+      "matched_term": "crack"
+    },
+    {
+      "category": "defect",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-08-24T19:23:39.390Z",
+      "title": "Lt Gen Harpal Singh Reviews Nimmu-Padam-Darcha Road and Shinkun La Tunnel Progress - SSBCrack",
+      "summary": "Auto-detected from press: \"Lt Gen Harpal Singh Reviews Nimmu-Padam-Darcha Road and Shinkun La Tunnel Progress - SSBCrack\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdE9EbFA5M1Z2bmFHZGcyUWw2eFZCVXdPWkM5Z3BmOEpIOGxadG9GTGNodG5aOXZMYjgxYUlZQ0xWOGV1SlloMVpBMTZfamJwTzZJV2VKSlFHZ2Y3NkVRRzVGbmIzYXRCZ2xUR24wb3BVbXExUXBMSlVqOUxOOS15bWdCV09sTjZZTUpjS1lWWlVQSXpQdW85SVFBSGxkMEF1SUZwVkZDZE1XYnVRVjhIX2JtM09WbmkwLXhJMQ?oc=5",
+      "source_name": "SSBCrack",
+      "lang": "en",
+      "date": "2026-08-21T07:00:00.000Z",
+      "matched_term": "crack"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

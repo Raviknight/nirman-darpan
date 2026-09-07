@@ -1,31 +1,36 @@
 {
-  "updated_at": "2026-09-03T21:33:25.439Z",
+  "updated_at": "2026-09-07T21:52:59.170Z",
   "project_id": "SMART-DHARAMSHALA",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 11,
+    "positive": 11,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.13,
-    "avg_magnitude": 0.225
+    "avg_score": 0.17,
+    "avg_magnitude": 0.27
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
+    "n": 3,
+    "positive": 2,
+    "neutral": 1,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.4,
+    "avg_magnitude": 0.4
   },
   "overall": {
-    "n": 20,
-    "positive": 8,
-    "neutral": 11,
+    "n": 23,
+    "positive": 13,
+    "neutral": 9,
     "concern": 1,
-    "avg_score": 0.13,
-    "avg_magnitude": 0.225
+    "avg_score": 0.2,
+    "avg_magnitude": 0.287
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Beautiful city",
+      "score": 0.9
+    },
     {
       "source": "press",
       "title": "स्मार्ट सिटी धर्मशाला में फव्वारा चौक का नया अंदाज - Divya Himachal",
@@ -34,34 +39,27 @@
     },
     {
       "source": "press",
-      "title": "Dripping Springs Community Library looks to future - haysfreepress.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXg0bldBSDFHQWpiMFh0aDRYbU9aRUJGWjAzN24wMnRuazYyNWlnNGhzV3dSaTdZTUtDUldyX2l4SHFBLWRhc2pyVjJtTUhjMGNlSDViSjh1bTAwTDJ6Mzg5RnQ5SzZvZkZPbTA3a2hxZkJIa3BiM2x3U3B1d080Ml93SlVfWlJvay1pMmlPRTFzUnE1N1U2WGxn?oc=5",
+      "title": "हिमाचल के इस शहर में दीवारों पर पोस्टर चिपकाए तो खैर नहीं, होगी FIR - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzVTZTVxZF81bzBNX1V6cjBpak9XTWxVS3lxZnhrdGVmUDlKRzdDZ0NkNWtoSmtUUEpJeGpObkxhYmdScW44REJYdm5ETDEwNVdFMHh4RmMzcGZZdFh6ZzVuM1F1OUJFbExRQXBOWmJaS3lWNUdMQ1ZpV0Qzb0J5V2Y1U0J3bzU2bjdfU0xHUUFvMkZOcHZDSFZNSGlPWFczRG5mclp0VzYtbzZxeWtQU09RZGpCejJwZjlV0gHAAUFVX3lxTE5ELTg0VGpmc2F5Qm1OTW4zX3Q0OTNMSExkSzcwNXozaXVSSUdyRFhNS1RWTXMtYWlISDI2LVRlOFhCUGI2VEpjOUw0Nm1OOEp1Z29SNnp1VVlhcG15eVE5aTRNbEU1a3pnVWozcS1fa2JPLXdBMXd1ZmZ0NGlJMnZ6QnZSZGZSc0RlNzdadkQzbTJhUmpXX2NyNUx3ZTgtUkRxRmdhZHRLeDgwTWs2bEZLZExlLUJuN0htMUZlWVdITA?oc=5",
       "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "धर्मशाला स्मार्ट रोड पहली बारिश में धंसी: 18 करोड़ की जगह 25 करोड़ में बनी, प्री मानसून में गड्ढों में तब्द... - Dainik Bhaskar",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN2VCZ3ZweHFxdUF3VkZlWkRWU0otdEVHdGw4eDZkbXJPejdzdHlNSGxMQjdXT1FqSWVUSVppQjJfYmhzaTlzcmVNbzBnZ21lakNTQXUwQzZ4czRCRl9maUlONk9yUWhlMl9aVHcwNlYzYlRseUNBdnR4SXBqUldkcFVDcVRuYldwX0xVU1JBSFhreEo4NjdUWEE5ckFWblM0TzhLZVpKeDQ1aXNsWU5Xdi1pVFZjWnNmUnNBSXNBN1NmVG1PU2lwUl930gHPAUFVX3lxTFBmck9IMWRZWHBSeE5Ob2VlQndhQk44eUZRaWk3RU92MENKckRERzY4OFhlbjcyZ1Y0T2ZWVWxjN0JCZld2S0hlMG9jTnVOVkpId3dSZlpBb3JyXzg4Ym40ZUtxbC1EendaOTRrZHhwNjJYbFZmRTdKTldNNVlqQWJpTi11V082YnpWYUp2QUE0Tm5HUjg2UjBUTThTeDRpMENRT3FOTlZ0NUJkT2NyRldSZTBkZTZRdDRTcmRIT1hkRHVEYlJNY3JGNlNEZk8zaw?oc=5",
-      "score": 0.3
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Ribbon cut on Dripping Springs Library of Wheels - haysfreepress.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1I3cGk1TVhnQmhpaDNhbVF2TXZnUTNiN1hoQ01ma0lzVm1WSzF1ZjFreHRWdmQ4WUptOGFpM1RLVk41Nmcyc2hvUzV3YmNLakRyVXI4cS1LNU85b1ZNUGxsclF1Wk42eDB1Z3F0X3BnemZuUFMxWVJHeGxSQUZxcGFoek1kb08tQS0tUi1FRFN1a0dmaVcw?oc=5",
+      "title": "Himachal CM inaugurates redeveloped Fountain Chowk, E-bus charging depot in Dharamshala - ET Infra",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ25GUm9vRmpfYjZGNnhXR290TWl1MEtSSXVZV3BMajItb21YZGJiZF93ODRJWXNrUkQwQ1hBdVN0bFZvU2tPSTNsTUY2RmFUbFh1d2loYndIazZKdVZCZEJUQlNZVFJENnQydmh2RDEyQXpQWkd6M0lkUXlORFlwV3JqTTM5Z1NReFJMeVMzVTQyY2ZrMjByY25hUVlGSTNRYUUwU1pFOEVId2Mtc3Jya3ZLY3hHR3hkZ0RQSUtMcW1zZmp5Y0U4ZzRJVFdmcmNNaE1CYWFNV3ZxU0Z1NVNXMVN4STA4Qm4yUlJPUUhKbk1tNzY4M0hrNtIB_gFBVV95cUxPY2FGbkRxU05KTVNmRTFaMWdERldhcm5tUkNhTlg4d1JVeDItMk5jWHNvVllRdmd6am44cUsxTWVncTZfamZwUU90MGRzNHJkZk1vd2UyYmJoMDJ3Um9Zb2tuNWJTUGtYeXJINE1pSHp3ZWRoNFBPbGpsQkc3OUUyZ29iR3NEUnhzb09OdEVrUVkyOWx4NGZJYnp5d2hrbWFVRUliU1ZtSzRHOTJLN2x3cVNrNFhlV2pDTEtZb3JmeXlxaGdCcTh3UHZjamw5cHNocU1sOU1CMUt3OHFtbFo2OGhVLW00OVNGb2dMeGJ6NV9GVUNCYm9hYkh3X0FLZw?oc=5",
       "score": -0.2
     },
     {
-      "source": "press",
-      "title": "Smart City Dharamshala Infested With Stray Animals - Hill Post",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWV3dy1WdTlmOFZoQ0xRZUx6d1BGeDE1TkFuc1ZoQWtxLWE1VGtsbTUzNFk1V0ZneWphTFpGZ0tyLWdoLWQ0cWVwZlRQaXg0cnVTdjVmLTcxQVNKWnpmSTdUSHF4cHpFdDNXTUYwYlJRSEFzWFRsU085NWNwTG5fT0xwd1A4bUpjeDFFTzVONA?oc=5",
+      "source": "youtube",
+      "title": "Daalne ki koshish hui😢😮",
       "score": 0
     },
     {
       "source": "press",
-      "title": "Remarks by UN DSCL/RC/HC, Imran Riza at the International Conference in Support of Lebanon’s People and Sovereignty [EN/AR] - ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON1B2TmVuNXdoSmxaaDRETHpzQkg0cEJjV0hfT05mUXMyRWxCV09paG9nTUROWGs2THplY0YwV3lfWmNIWVRvZjcxVUpJdWg4Ml9ZV0VBaW4xTzBUZ2UyNGhZMFFTTG82ajJrNjN6ZDdVaTgtS3dsdTk0MUZOQVkxU05vdGFYLXFKNFcxUXZWQUx4WlFhV1lyd3U0UTlOZUpMLUl6aWJ4Q3RzNS1EVEtsekxWU0xwaXhlU0w3TFlxX3Y0RzVnX3VMcHV2ekpOS011Yk5n?oc=5",
+      "title": "Smart City Dharamshala:'रि-इमेजिन धर्मशाला' आर्ट कैंपेन ने शहर सजाया, संस्कृत और सौंदर्य को मिला बढ़ावा - News18 Hindi",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbEpQXzRtX1FERVdUZXI1T0s2di1vRUdGNmVJR2FualpPQWJnRGZ3cnMzNzhCVGlxLTdZcHJ2N2p1aE5IMlhEQkhjVEpUM2c0NURVeDF4VGpYdDlKVWFfcHM4aVdidlVuR1pySFhzSFIzWlk4UEJVN0RmN05hNk41QnZIRUlvU3Y3T1lrelR4VFNIOU9jdXJtcTFyVFByYmtxVTRYUEZmV1RRRkhxd04yWEM2Mm5oYXNQVHB2QlVNZjA4TEdpQjdBUktGNXNXZEhlb282WW9GdlNoNjFyRUF5bjY0Y01MWE9ZUlU4aFFwWVM1SEtFMGMzZDMzUzEza2NBMWRReTln0gGLAkFVX3lxTE1aUXUxanVyYU1vakstNHdwT0R0UThrNk9nM0hPVmwzblExLUdYVkZTMVZlYkE1SzdZQzRlNU1JTHdKN0twWl9JYWY0M0hJbVRiOWttOTZvVy1lY1B0a2haUThfdmdGeHdWT3VMTG5XWUZMUXlHemZrQ0hxQnBpTFdVMmJPbUdBT3Z0UzN0ZTgzQW5mbnR6UHZ6TEVYRTk0SmRXbnNpMUF6X09iZ00tby1aYkl5elZ0TTZsR29lNEJqSGJhQ2Y1ZWU3SFNFSk5CRFcxclkxR2JNc1YzVUcyY3U3ckppQlFQSTFfWmlSVVRtQlBWTGpqMkNPczFpQnFacWNMN01QalphT2VqUQ?oc=5",
       "score": 0
     }
   ],

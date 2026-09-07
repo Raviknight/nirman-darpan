@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-03T21:33:19.058Z",
+  "updated_at": "2026-09-07T21:52:57.886Z",
   "project_id": "KOLDAM-HEP",
   "press": {
     "n": 20,
     "positive": 13,
     "neutral": 6,
     "concern": 1,
-    "avg_score": 0.175,
-    "avg_magnitude": 0.27
+    "avg_score": 0.215,
+    "avg_magnitude": 0.295
   },
   "youtube": {
     "n": 6,
@@ -22,13 +22,13 @@
     "positive": 17,
     "neutral": 8,
     "concern": 1,
-    "avg_score": 0.254,
-    "avg_magnitude": 0.365
+    "avg_score": 0.285,
+    "avg_magnitude": 0.385
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Proud to be associated with this great project of NTPC Ltd for about 10 yrs(in two spells)! Time spent at Koldam has bee",
+      "title": "Very nice 🙂 and",
       "score": 0.9
     },
     {
@@ -38,26 +38,26 @@
     },
     {
       "source": "youtube",
-      "title": "Very nice 🙂 and",
+      "title": "Proud to be associated with this great project of NTPC Ltd for about 10 yrs(in two spells)! Time spent at Koldam has bee",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Security beefed up at dams in Mandi, Kullu, Bilaspur districts - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQWw5RzV0aUViam5FdW9rRlpYT0lzYlh5YTdoOTBXSktkX1NfU2pfYnB2U1RxUUpDX0NkZDA5VXNxQ0d4RlFERGpyWmlIWGZQeDNOOTBiNF9zZ0RUMHJ2UWdPM0tRbFI0X2l6U3lBYmFzS3NGeF95OHhqcVpYVEpMeFdDU2xNLUxQV01IM0FXWVhGek8tYjRjTTJQR3g1UklrM2oyYUxHUdIBqwFBVV95cUxQMWJxZDU4VzdSRUpCMzh1UkZxZG1XNlZtQW94cDBPSUxxWlFiQmFaQW1QX1dscVA0Z3VlcGR1RnVQRHA4aExPcWRvamFBUlNoRUxNZm0zbkIwZzkzVGNDZnEtTEZyVHlHMHJBNzJPTkEtU08wQ2ZQelk0OF9laS0xYW51YmVZcElUa3g3Z3hUM0wzQkc2SVZMMmZOd0NQeFIyT0FxOTZDR2ZFZ3M?oc=5",
-      "score": -0.3
-    },
-    {
-      "source": "press",
-      "title": "हिमाचल प्रदेश और पंजाब के जलाशयों में वाटर लेवल घटा, किसानों को सिंचाई में होगी परेशानी! - Kisan Tak",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeFpFcnoyRTI2VkhDQThqckp0dmZWenFvOU1hTVBtRXFuTVk3X3JtMTBTOU9KM0lvUFZqeHdzM0NQNkp4WGIyS0VwYW9ocTU0a2dkOG5sZTFNX2JrUVpIa0lpbmxKWXI3WmJGa1JKS0RVclV5VlJkNF9ubWJWS0FmYVRUbE5GZXhsRmFWdkVhWmVVZllHUFNwSHVGS25lVHp3VnA2WDZxcXNKaGhYOVlmNzZESl9hN0R5YkRnbmV6UzczbWI5NWttcTlqZnZNVFI2MFhTTTk2YlZRYm5yazY4M9IB5gFBVV95cUxOd3NxRDM5M1VFWlg5SFlBN0hUNHpqWk5GRUtMcHZxTjZXWHJHblV2TUpWM1JpY2NrQW9rUklQaWZBVlU2SFFodktlSDM4cFhVRTdwZGcxc2dQaDZFdkluUzBmbnpNZUhIMi0wRWZUWWFzU096SWg4S0w0S01WRko0ZGczUXgtU3hXRE9hTURlTkZBQzhubUR1M2diUU5jVHR3TVk0UkhnV1NDdTYteThVelBnLVhDM0FPNWExd1dEekE0V0lqSWtFUGRRZFhBR0hTUFpabjhDY1hpQ1FFU3RaSU5uYUlnQQ?oc=5",
-      "score": -0.1
+      "title": "Stones fell from hills, 5 vehicles damaged in Himachal Pradesh: Chandigarh-Manali highway among 357 roads c... - Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaFBuNUx0REVCbk5XdlpVdTl6c1pFTlNCcFE1ZkVSRXB4RmVFcTNvSFR3cy0xRU1uR3hVcmVuTDVyd21UbUdpX2Y5TDZHTGMtR2lFZW93TWFnTXdKaWp5YXNxRExWaERhZno0cHJOTjBhZm1MN1RQWmJSSm9BVFVkTTNzaWd3SzRJU0FjVjkyXy1FUHVCRFJpWGptdzBZVGd6cC1qZ2xTZWRQX3RfYlVrYTdwLUN2RVdHRTB2aFVjS0V2bWJidUV1QjJrNHRFODJhQXlZSkVzcEFOMkhFd3hiYnVaYlFYNWMxTThpRnFKRzJGaGZWcUNJTGJfNWppVWFheHhsd0tCUmbSAY4CQVVfeXFMTWdHZUhOQV93b3J0M0d6TVJhRVJTSjZLcUlfNkZlNFUxX2NnZXVTUEw0TXprZGQtMjl1NTdVWFlLdVRBSkpKVGJ3bnlnbkFpNDZycGgySDJvUXpJa1dreFlEWWFsS1liRlZLdHJ2MjBUV2Vxd2ZjaGZLWWwzMldCdUlSY0xpalJlVDZJbHJxX0E1UVJkVDFIU0lPRkdlQ1h5Q3hhMExEZUdqX3E1WTQwNEp5X0hUTE83Tk1IdlNJZXVxV3lUZDU2YWR0MW1GU3B6SndEY0NNZGx3VHpjX2g5N3A5ZnV4WW1qOVJtbDZ0c1ZfZy1KN2JlcHVpUEJxV2JETlZWV0VfM1J2dWZCcFdR?oc=5",
+      "score": -0.2
     },
     {
       "source": "youtube",
       "title": "Hme garv hai ham koldam ke nirman ke sme 2 saal company me kam kiya hai",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "All major dams in Himachal are within safe limits; Pong Dam records highest inflow at 4,933 cumecs: SDMA - aninews.in",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVW1zMW5rSHFWeFlvVWZSNUdwS0VQcWpBZDJMWjNqS2o0VVFZSGZzZE0weWstcktaZ2h0aG03SFNZVHN1LVBhZEhEOTFKSUJycXVSVjdLTkNCM2hCaGt6ZG5zWFNwdDN3VlBvb1lkNFd6enlLVWZqYmYzZEVKOFdfLWNhbVZWaldNU0ptTDYtMUVjU0hoRi1TcHF3ZUNNNWdoSGo4aTBYX2ltUWpDMFRXLUJlQnkwX0Q1QUFnbUFKZDdBU3lxYy1jQ1Fra2RhdGg0eFB0blZPSzBlNGFKRW5JcnB5MmxVaWtxTjhnam9EOVE0ZnY4RlM0RQ?oc=5",
       "score": 0
     }
   ],

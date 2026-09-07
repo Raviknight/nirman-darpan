@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-03T21:33:35.607Z",
+  "updated_at": "2026-09-07T21:53:04.359Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 10,
-    "concern": 1,
-    "avg_score": 0.185,
-    "avg_magnitude": 0.225
+    "positive": 8,
+    "neutral": 9,
+    "concern": 3,
+    "avg_score": 0.09,
+    "avg_magnitude": 0.24
   },
   "youtube": {
     "n": 22,
     "positive": 18,
     "neutral": 2,
     "concern": 2,
-    "avg_score": 0.473,
-    "avg_magnitude": 0.9
+    "avg_score": 0.464,
+    "avg_magnitude": 0.923
   },
   "overall": {
     "n": 42,
-    "positive": 27,
-    "neutral": 12,
-    "concern": 3,
-    "avg_score": 0.336,
-    "avg_magnitude": 0.579
+    "positive": 26,
+    "neutral": 11,
+    "concern": 5,
+    "avg_score": 0.286,
+    "avg_magnitude": 0.598
   },
   "top_positive": [
     {
@@ -44,6 +44,12 @@
   ],
   "top_concern": [
     {
+      "source": "press",
+      "title": "Shimla ropeway faces funding hurdle as costs nearly double - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUszVGpCZFIyRzVJbG15Uk5HY3JLTXRiZ2kxcFY4aGRxdmgySGFNZ2ExcUM2ekU5djFrX0hUU25kcjZzQjAyY1pRdEN0c2xHUVBheDRvdG5IMFM3REE5b1NuV2JFZGJFejZfM1N4VFRTZkV5bVFNUVhBYUY5WVdHMC10STdtQmw3LVdiM3pfLWg1cUdtMi00Q2lmc1k0VmxJUElSNtIBqAFBVV95cUxOU25uZE5RdTZQa1ZZcmNMX2VDRVgwQzE0ZDNXSVlVQnJmeDdBcTFPUm9CeDB3a25uNUg2R3NwTktvcjVSbU1McVhIM2ZMS1F5b3JDREtqdjQ5VW9NSU1yQ0R3amdSM3p3MGFnUnU1NzQ4RmFYZXFOUlRIR1FtN3NhQkFSaDl0RjBlNmIzMXN3Wk1BTm9iQnliZ3ZoWVRmZkRfMUJpUmNDckk?oc=5",
+      "score": -0.8
+    },
+    {
       "source": "youtube",
       "title": "So basically Shimla monorail isn't a thing anymore!",
       "score": -0.7
@@ -52,12 +58,6 @@
       "source": "youtube",
       "title": "I am from Solan. I can tell you this is just a false promise. \nGovt had promised a ropeway project in Shimla more than 5",
       "score": -0.5
-    },
-    {
-      "source": "press",
-      "title": "Shimla ropeway left hanging as Himachal Pradesh Govt scraps tender after cost surges by Rs 1,200 crore - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnByNmZrM2NTcEhKYk1kU29mOUtrV1FTbk1Ba1Vfc0YxcHpxVFpFbkl6ajVxeV9aRTlkWUVaQmh0RlVUX3VSZDczclVtSnJ1cmZ3RWNHYWUwYS1yZ2oyYWphaTg0MkpxOUh2aUxSaVZhQ3hhMDBXRWVXVDVwa2RYNGtzdWN6NmRCN3lFT3dkdVpjMkxfZkJwV056UTNkejlDT05lRnMwcGNUZUlUeDBBVnhpcXlHUUh0V1QzbEJOTnBwYnN3VUJ5SjdZYUVxWjV1RkZBM3VXbG5QYVdERFVJ0gHjAUFVX3lxTE9OYmgxNnhkbS1uSVVnVGVrRG4xV1dleWRYQnNJTkhGSFVjakVfaTBSaTNUSzJTcklEeUxzRkxQRFdiYV83Q0YzX3B3RXdDbHZ1aS11ckhHQ3huYXVrTlZOV3RFUzMxUS1wVnM4dkdWaFZ2a1otQk83bEtUa184Q1Y1TUN2dTA2Sm1wS1ZjSGR1aW5ZT0t3bmpPdE1uUndyMG9jSTQzQ1RRWU9FeHBLdWUxNWhTWkRFNjFEYkh3UkNkNkNQZzhrLUlmUDBSN2Z1Z1ZmX3VLa0VqZ0p1OEg5dzFuRWxv?oc=5",
-      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

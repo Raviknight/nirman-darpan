@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-03T21:32:35.063Z",
+  "updated_at": "2026-09-07T21:52:27.643Z",
   "project_id": "NH5-PWN-SHL",
-  "count": 3,
+  "count": 5,
   "suggestions": [
     {
       "category": "litigation",
@@ -22,20 +22,6 @@
       "severity": "medium",
       "kind": "issue",
       "duplicate_of": null,
-      "first_seen": "2026-09-03T21:32:35.062Z",
-      "title": "NHAI tells NGT Shimla landslide was ‘Act of God’, denies liability for compensation - The Federal",
-      "summary": "Auto-detected from press: \"NHAI tells NGT Shimla landslide was ‘Act of God’, denies liability for compensation - The Federal\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWpkRG9fQ2FPTzJKNHd2dTNJRVhMbThLbUwxU1NPN2JYcU5aRm9QVWVZYUluallkbG5TSHpFb1lieWhZZ3hINGdpMW9NUzY2SmlKNDJ2U1I0bTZLeU82YmdGUXFWZDhfcmFGQUVDVU5qMmo2ZGFwYXZSOGVWVzVUcHZORVNFeExJODRoVnFOLUtmLVJmeUUxUXp4LVc5cFBMeExGR19vekNVN3AtWFJtQzhqalkwc3VuWkxhZ1R5elZtZw?oc=5",
-      "source_name": "The Federal",
-      "lang": "en",
-      "date": "2026-05-22T07:00:00.000Z",
-      "matched_term": "ngt"
-    },
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
       "first_seen": "2026-07-09T20:43:51.910Z",
       "title": "Shimla landslide that damaged apple orchards was ‘act of God’, NHAI tells National Green Tribunal - The Indian Express",
       "summary": "Auto-detected from press: \"Shimla landslide that damaged apple orchards was ‘act of God’, NHAI tells National Green Tribunal - The Indian Express\" — review the linked article and edit before promoting.",
@@ -44,6 +30,48 @@
       "lang": "en",
       "date": "2026-05-21T07:00:00.000Z",
       "matched_term": "national green tribunal"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-08-28T02:24:42.455Z",
+      "title": "Parwanoo–Shimla Four-Laning Delay: Himachal High Court Warns NHAI, Continues Toll Ban at Sanwara - The News Himachal",
+      "summary": "Auto-detected from press: \"Parwanoo–Shimla Four-Laning Delay: Himachal High Court Warns NHAI, Continues Toll Ban at Sanwara - The News Himachal\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnU4N0dFVFFuZnJEN0hOc2NEeVhNTWJDamJaUHZsRWFoWEhTb3NCNnRDV0J3eU9XNGREQkdYUnBVSVo3dUFuenN5UUlwMU1oMzFIU1kxTWxuTUp4Q1NYNk5zRTlOay1sMGM4SndkVkdqR3FkamI5cjBCUXAyYWRqZndOYzNJNHdJbVBJcFBwZ0g0RVJhVjJVT283R0VrMmdDVTJvdExxX2hnc2FvaXFubDZMaV91VFRHMUFadnI2N29WMGpQdXJrem82RQ?oc=5",
+      "source_name": "The News Himachal",
+      "lang": "en",
+      "date": "2025-11-06T08:00:00.000Z",
+      "matched_term": "high court"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-13T20:08:04.964Z",
+      "title": "Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - The Federal",
+      "summary": "Auto-detected from press: \"Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - The Federal\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcW94YnVfR0pHeUVkZUd2WUV3U3VBRUlIc2l2allCMWtRUlNVdnJiLWNJdXVrbVl6UTl2WUllcTd0ZFdheC1ac0RHU2FpV1ZTWlZSNlN5aTRKSE9QSTViZnl0VGJEUVJMN2xpb1hwQnkwWE9Kd3Z5bmg3QktHOXVPZTFzTzZHR3pEOHhZLS1SaHo5ZmJFaVd0c25XMFh1blBSa0xsbFVyc19nWkRCUDMwaTdRdWstUzB3dmJ2UW0xb201cHF5MVJ1T000aEpHYVlmM3pfNzJB?oc=5",
+      "source_name": "The Federal",
+      "lang": "en",
+      "date": "2023-11-22T08:00:00.000Z",
+      "matched_term": "collapse"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T13:28:24.730Z",
+      "title": "Geeta ka Gyan: भगवान श्री कृष्ण ने इन गुणों को बताया है श्रेष्ठ योगी की पहचान - Jagran",
+      "summary": "Auto-detected from press: \"Geeta ka Gyan: भगवान श्री कृष्ण ने इन गुणों को बताया है श्रेष्ठ योगी की पहचान - Jagran\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQURFZmY2bThIaHdxdnp2cnpJVlR6aTRXN2ZkZkU1dy1Ya1NzR1hfeDNpWkMxR1A3bWhLSmZGYno1Yl9vZFJlTnZXcTJyMnd3TS0tZTdYbHJBVFJ5ODkxdUkzLTd2a2VDdHhyY3MxX0Y0Uk1rTjRrTDdHSW5xZ3NRU2IyMF9veU9QaVhxT2E0aTJGSmdaY2c1MlpCTWFOQjkzUGlUcC1MOUxNYm1IbWdkVkd2WjcySE1PWEV6YzItR0E3anFmQjRVSHlyUWhaR0dHa2JvdnV4Nmk?oc=5",
+      "source_name": "Jagran",
+      "lang": "hi",
+      "date": "2022-11-25T08:00:00.000Z",
+      "matched_term": "sho"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
