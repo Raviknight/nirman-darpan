@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:53:01.209Z",
+  "updated_at": "2026-09-10T21:20:53.670Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -10,35 +10,35 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 40,
-    "positive": 22,
-    "neutral": 11,
+    "n": 59,
+    "positive": 24,
+    "neutral": 28,
     "concern": 7,
-    "avg_score": 0.275,
-    "avg_magnitude": 0.69
+    "avg_score": 0.161,
+    "avg_magnitude": 0.52
   },
   "overall": {
-    "n": 40,
-    "positive": 22,
-    "neutral": 11,
+    "n": 59,
+    "positive": 24,
+    "neutral": 28,
     "concern": 7,
-    "avg_score": 0.275,
-    "avg_magnitude": 0.69
+    "avg_score": 0.161,
+    "avg_magnitude": 0.52
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "It's so satisfying to see you planting vegetables!",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "As a huge fan of exotic fish, this is one of the most beautiful depictions of migratory behaviors I'vever witnessed.",
+      "title": "cute ❤❤❤",
       "score": 0.9
     },
     {
       "source": "youtube",
       "title": "Gingers are extremely good for our body immune system. Our kitchen are full of those coz my whole family love it",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Your insights are truly valuable; thank you for sharing your perspective!",
       "score": 0.9
     }
   ],
@@ -50,13 +50,13 @@
     },
     {
       "source": "youtube",
-      "title": "She just hopes to be a YouTube star with this silliness.",
+      "title": "Good idea but unfortunately in my school I am not able to use wire",
       "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "Sorry you have to work so hard ,God be with you .❤",
-      "score": -0.4
+      "title": "Please give details.",
+      "score": -0.3
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-07T21:52:27.659Z",
+  "updated_at": "2026-09-10T21:20:11.576Z",
   "project_id": "PARBATI-2",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "defect",
+      "severity": "medium",
+      "kind": "resolution",
+      "duplicate_of": null,
+      "first_seen": "2026-09-10T21:20:11.575Z",
+      "title": "Leakage repairs completed at Kullus 800-MW Parbati-II project - The Tribune",
+      "summary": "Auto-detected from press: \"Leakage repairs completed at Kullus 800-MW Parbati-II project - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObkNzbWJSemg1NmF0RHF2eTc3emJmTERHMTZVT2tXTGlHZEZiUTVCdmxHcFJORTlGTVNFZURBSGN2QXJLaTdWQVRqY2lyM2UyamRaQnlvNW13a0thWDEwVWxzb2k3MW83bmVhZlJKRDlUVmVkVGlseExsRk9aSnhSRWVyaUNnbkpaVm5ZdVc5MzBOcmVlcUtTZjNsWW12LS1iWGVPY3ZNdGPSAawBQVVfeXFMTVpxczROclNwMEtZVjdyMHVOWHhJLWp6YzRGYXBOTjBRdTN6S2x2MVpLMEQtZlJhV1RiaGRRNmlVVV9yTThQYzFrR3FJNUdZclNySGJfbkVWZzdWUUtYVjJuek9BQWo5N09jVjZVck9ZamFqT2pWZFBLVDFhaHYzcVJqRHM4czN4QVk5N3RtbEw3c0dlazlmdlVyci1ZdmNLVXVwdlVVX1BRbUM3Xw?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2026-09-10T20:10:19.000Z",
+      "matched_term": "leakage"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

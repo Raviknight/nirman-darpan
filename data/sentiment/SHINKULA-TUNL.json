@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-07T21:52:58.527Z",
+  "updated_at": "2026-09-10T21:20:49.656Z",
   "project_id": "SHINKULA-TUNL",
   "press": {
     "n": 20,
     "positive": 7,
     "neutral": 12,
     "concern": 1,
-    "avg_score": 0.09,
-    "avg_magnitude": 0.225
+    "avg_score": 0.085,
+    "avg_magnitude": 0.22
   },
   "youtube": {
-    "n": 21,
-    "positive": 15,
+    "n": 18,
+    "positive": 12,
     "neutral": 3,
     "concern": 3,
-    "avg_score": 0.41,
-    "avg_magnitude": 0.671
+    "avg_score": 0.367,
+    "avg_magnitude": 0.622
   },
   "overall": {
-    "n": 41,
-    "positive": 22,
+    "n": 38,
+    "positive": 19,
     "neutral": 15,
     "concern": 4,
-    "avg_score": 0.254,
-    "avg_magnitude": 0.454
+    "avg_score": 0.218,
+    "avg_magnitude": 0.411
   },
   "top_positive": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "Very good video",
+      "title": "I love indian army .",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Sir you are my favourite sir in online classes ☺️  keep teaching and keep shining 🌟🙏",
+      "title": "Very good video",
       "score": 0.9
     }
   ],
@@ -50,7 +50,7 @@
     },
     {
       "source": "press",
-      "title": "India is building world’s highest tunnel on China border at Rs 1,681 crore – Here’s why it’s certainly a bad news for Beijing - Zee News",
+      "title": "India is building world’s highest tunnel on China border at Rs 1,681 crore – Here’s why it’s certainly a bad news for Beijing - India.com",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaG1oQ1JaZEY0WWdoSUVtQnBFbzJVWDd4OUo1SmY0SVpPdV9NNDFrbG0tbGFmV3VidkNHUUVHUDFKUHVnSTNuYWM1dmh0Mnl0bVRSNXVNSlpzMXEzV2RxMi1IUjJ1NDJtYVlyQTl4U2czVi10bFplVXhmR3ZDYmRoZDVpSHNHaHBIbmVQQ0p0eXlPdnVlRTlMWDhvZVFsRllZV3p6R3FaSldIRFNtX2JEX0VlSFAxcm14TGxqUTNEb2Z3SElVTkoyOUtDbERfdnVNVkx0QV8xc1FFMnFpWlVtUlJDZVV3OTNTSGVtNUdMTm1Zek5DU1A0UFdRNNIBgAJBVV95cUxQTHoxbnBrMnFYWU5sUzBhZWVDTGNjRVhIamVNanM1N2dKR3ZxdF84SUltanlqRy1VZ2xTQmNhUmFONXVJNzEtSjBJeWJkLVFEdmR3ZWE0ZG9ob3dwREFjU0FVRW42VC1lbll0ZmlkSjh4bm01NmZkZzM0RnBfQkNOMk8zRnJDQVVfZ2VsbzVIN3ZpZVlOYzhkQ1RaUDRRaTZWUEdvaXZQZGxfaHJCM29aTThpLUdiU1RiZVhmVEU2V1JyUXZhY3hiYTJUMWpZZW1xbG5CRzl5YXc5b1I3cDJZbEdnaEFxeWRLVzJacVktTElyOTlXczNQQ0NNVHhVNjVs?oc=5",
       "score": -0.7
     },

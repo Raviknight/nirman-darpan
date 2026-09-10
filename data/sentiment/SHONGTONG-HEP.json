@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-07T21:53:01.483Z",
+  "updated_at": "2026-09-10T21:20:53.853Z",
   "project_id": "SHONGTONG-HEP",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 14,
+    "positive": 6,
+    "neutral": 13,
     "concern": 1,
-    "avg_score": 0.115,
-    "avg_magnitude": 0.195
+    "avg_score": 0.13,
+    "avg_magnitude": 0.21
   },
   "youtube": {
     "n": 3,
@@ -19,21 +19,21 @@
   },
   "overall": {
     "n": 23,
-    "positive": 8,
-    "neutral": 14,
+    "positive": 9,
+    "neutral": 13,
     "concern": 1,
-    "avg_score": 0.213,
-    "avg_magnitude": 0.283
+    "avg_score": 0.226,
+    "avg_magnitude": 0.296
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Amazing fact 👍",
+      "title": "Excited for video 😍",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Excited for video 😍",
+      "title": "Amazing fact 👍",
       "score": 0.9
     },
     {

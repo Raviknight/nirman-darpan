@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-07T21:52:52.227Z",
+  "updated_at": "2026-09-10T21:20:37.474Z",
   "project_id": "MANDI-AIRPORT",
   "press": {
-    "n": 7,
+    "n": 8,
     "positive": 1,
-    "neutral": 4,
+    "neutral": 5,
     "concern": 2,
-    "avg_score": -0.057,
-    "avg_magnitude": 0.2
+    "avg_score": -0.05,
+    "avg_magnitude": 0.175
   },
   "youtube": {
     "n": 2,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.05
   },
   "overall": {
-    "n": 9,
+    "n": 10,
     "positive": 1,
-    "neutral": 6,
+    "neutral": 7,
     "concern": 2,
-    "avg_score": -0.033,
-    "avg_magnitude": 0.167
+    "avg_score": -0.03,
+    "avg_magnitude": 0.15
   },
   "top_positive": [
     {

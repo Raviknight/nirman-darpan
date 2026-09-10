@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-07T21:51:32.023Z",
+  "updated_at": "2026-09-10T21:19:15.226Z",
   "project_id": "MANDI-AIRPORT",
   "counts": {
-    "press": 7,
+    "press": 8,
     "gov": 0,
-    "en": 6,
+    "en": 7,
     "hi": 1,
-    "total": 7
+    "total": 8
   },
   "mentions": [
     {
@@ -68,6 +68,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Balh valley airport"
+    },
+    {
+      "title": "Himachal CM calls for expediting Mandi greenfield airport work - ET TravelWorld",
+      "source": "ET TravelWorld",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONnNHN2twRGVlWTQ4Y2VLcEFuN0RhcENYdVFSZG1oOFA5Qnl5SHg2Uk9icVlZWVVEbnBnNy1MRl9BOXFvbldleHRpOXFndnE0MVg2S2lkaTRjX0FqcTNoVzcydG5ZRzVHRVNZNTd0SmhDakdGUTRkM3RKN2F0Qy14U1BpM3BFQ2VGNjNzYlFoS0JHTjctUV9SWE0teEdYN0Vub1FQcmkxb0wtRWg0RXExM0RFc1lKZUdmanhlVWRLdVRPSGtNbW1GeUFqb3dBS3dUbTY4RNIB2AFBVV95cUxPWFJjUFFPb0RoRjlNUlNDT3VwLTlRMXcyR1hCQXVqQXI3djdxUk5lRXlieV9QeERCMzJVSGZfLVF5aFhTckNQb0JMelhyUmpLdjZtSHdCS080blZ0ZXBYVmd2bGNwal9LLVlHZGt4cjIzZFdXZlBDQlJzWmF6aUNXc0ROUDY0T1dzQWdCb2F2OERlYWNmNXhwTEExTWpZRVVWT3ZLMjg0ZmJyb1hibkU5MXNIWnVNMVhBd0ZqeWlOUVZ2TUo5SHZ3SDlvN3Vka2h6d3A0QV9QWG0?oc=5",
+      "date": "2021-03-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi greenfield airport"
     },
     {
       "title": "Jai Ram demands LIDAR survey for Mandi greenfield airport - The Statesman",

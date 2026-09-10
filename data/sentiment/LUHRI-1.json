@@ -1,31 +1,36 @@
 {
-  "updated_at": "2026-09-07T21:52:51.078Z",
+  "updated_at": "2026-09-10T21:20:37.115Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
     "positive": 6,
     "neutral": 14,
     "concern": 0,
-    "avg_score": 0.12,
-    "avg_magnitude": 0.14
+    "avg_score": 0.115,
+    "avg_magnitude": 0.135
   },
   "youtube": {
-    "n": 2,
-    "positive": 1,
-    "neutral": 1,
+    "n": 7,
+    "positive": 5,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.2
+    "avg_score": 0.371,
+    "avg_magnitude": 0.4
   },
   "overall": {
-    "n": 22,
-    "positive": 7,
-    "neutral": 15,
+    "n": 27,
+    "positive": 11,
+    "neutral": 16,
     "concern": 0,
-    "avg_score": 0.118,
-    "avg_magnitude": 0.145
+    "avg_score": 0.181,
+    "avg_magnitude": 0.204
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Great sir👍👍👍",
+      "score": 0.9
+    },
     {
       "source": "press",
       "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - The Economic Times Hindi",
@@ -33,16 +38,9 @@
       "score": 0.8
     },
     {
-      "source": "press",
-      "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
-      "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "HP CM Sukhu Orders Takeover of Three Hydropower Projects From SJVN, Setting Stage for a High-Stakes Legal Battle - HimbuMail",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1F2SXFDVDNFQjE3emtIWmRsM05UaGZXQ0loTkMzZVlmeVM4X0lrOWtLa0g2eFIteTRBa3lrSGZ4SlJqSGV5aElDeWNFcFVTc2FhTWM1S1BWSnV6UkwwSFM5YUo3ajBHcE1YQ0ZWNUt2U0E1d3dneFZrNzBvSEtlbS1GcTQxRDZCQWJZUk5qT0VtSy1SRUhrUllibTNmcTRmRFFqOHR2aVJaVnVOWjlNZkV2X1ZobXVqMG1GajFvWG5iNHN3MkpnT181bEZJUGIyM0U4MkZZWHEwZ1JXMy0ta0lFM1ZRUHJGdlBB?oc=5",
-      "score": 0.3
+      "source": "youtube",
+      "title": "Thank you",
+      "score": 0.8
     }
   ],
   "top_concern": [
@@ -58,9 +56,8 @@
       "score": -0.1
     },
     {
-      "source": "press",
-      "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVU5SzktRVZLeWd3Mkw4UUROMmxKQzJlRDJzS25XNnU3ZmRiendROERhMUpFRlNndDF0X0dsZW4xUy0wa3JOZlVPWDg0S2VwNTlkc3FDS0QwY1MzUXRXVkxzREZFbGNteDB1d0YwalppZFF2QnM1aW1TX2xKOVkxRlVRMkVKRG53bDNJSzh4a0tOWG5YTHZyWWNwblI5cXZrYk9QUEZNd9IBtAFBVV95cUxQMlJ0anZpZnFMb2lpRWMxN3gxejc5SW93VjVvUkY3Y0FJRGVOb3RxVGFzalNWZ0dRcjBZbWJxQWI3NlpuV2JBQ2w5dHBIeG1nX3hrSXp5bXc1VzhoMWlpUzE5UUh3S25pbzAyYTB2LWVPSWRRQ1JrZnZrZVlJZ2hEQk1KMnppRE00YW1rRzRBTlpMTUNodG42c242RmVYcmx0aGs5aXFUUjg4UVB6T2VGclphUUo?oc=5",
+      "source": "youtube",
+      "title": "sir electrician ki vecancy teni h project pr khali ??",
       "score": 0
     }
   ],

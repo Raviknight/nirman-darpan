@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-09-07T21:52:53.967Z",
+  "updated_at": "2026-09-10T21:20:38.433Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
-    "positive": 14,
-    "neutral": 6,
+    "positive": 12,
+    "neutral": 8,
     "concern": 0,
-    "avg_score": 0.28,
-    "avg_magnitude": 0.3
+    "avg_score": 0.23,
+    "avg_magnitude": 0.23
   },
   "youtube": {
-    "n": 51,
-    "positive": 32,
-    "neutral": 16,
-    "concern": 3,
-    "avg_score": 0.349,
-    "avg_magnitude": 0.408
+    "n": 34,
+    "positive": 21,
+    "neutral": 12,
+    "concern": 1,
+    "avg_score": 0.321,
+    "avg_magnitude": 0.394
   },
   "overall": {
-    "n": 71,
-    "positive": 46,
-    "neutral": 22,
-    "concern": 3,
-    "avg_score": 0.33,
-    "avg_magnitude": 0.377
+    "n": 54,
+    "positive": 33,
+    "neutral": 20,
+    "concern": 1,
+    "avg_score": 0.287,
+    "avg_magnitude": 0.333
   },
   "top_positive": [
     {
       "source": "youtube",
+      "title": "love you boss amazing content 😇😇",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "best youtuber for medical i mean yeah man i will c0me for this 2027 lets go",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
       "title": "Toooo addicted to this college😍",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "I have gone here \nVery beautiful place 😍",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "My dream college Very beautiful aiims",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Hii bro maine 2 saal aiims nursing entrance ki preparation ki pr selection nhi hua pr m es baar fir se Krna chati hu \nTo",
-      "score": -0.4
-    },
-    {
-      "source": "youtube",
-      "title": "Cut off OBC from UP",
-      "score": -0.3
-    },
-    {
-      "source": "youtube",
-      "title": "Aiims bilaspur march april ka temperature 🌡️ kitna hota hai",
+      "title": "Bhai is saal milte hain\nMay be I'm coming in 2026",
       "score": -0.2
+    },
+    {
+      "source": "youtube",
+      "title": "Bro how is the department of pediatrics is it worth taking in bilaspur",
+      "score": -0.1
+    },
+    {
+      "source": "youtube",
+      "title": "Mein apni jindgi ispe kurbaan kr sun but yeh mujhe kbhi nhi milega , iska cut off clear mein kbhi nhi kr skta",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-07T21:51:34.781Z",
+  "updated_at": "2026-09-10T21:19:18.301Z",
   "project_id": "ATAL-TUNNEL",
   "counts": {
-    "press": 403,
+    "press": 401,
     "gov": 0,
-    "en": 199,
-    "hi": 204,
-    "total": 403
+    "en": 198,
+    "hi": 203,
+    "total": 401
   },
   "mentions": [
     {
@@ -20,8 +20,8 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "Jairam Thakur recalls Atal Bihari Vajpayee's role in Rohtang Tunnel, PM Gram Sadak Yojana - aninews.in",
-      "source": "aninews.in",
+      "title": "Jairam Thakur recalls Atal Bihari Vajpayee's role in Rohtang Tunnel, PM Gram Sadak Yojana - ANI News",
+      "source": "ANI News",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYVFtQUZuWnZEbnlrOXFBQTloLS15RmJwZnZCSmhzRk9nMUN6T0tXTWMxWnBFWmJuTmQwTnVNcGozUFRsTW5GNHdZLXlqd1VYSm9PX0FSV3hnLVQzNGQ5ellGQ3ZlWXJDTHNMZ3luMllmV1hyalUybnpyUnFrRjhhUGMzZ19FRkFQR2djeGctR09RMDg4elQ2NThIdm9sUXJpaHFialV1d3JKVVhHd1FNN3pfejZkclNLWUdsSUdCWG15UVNBSm8wTjIwWTU1dXpiWlp4alNRSW5PdG8wS3M5aXV0QnlrUQ?oc=5",
       "date": "2026-08-16T07:00:00.000Z",
@@ -37,16 +37,6 @@
       "date": "2026-08-16T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Rohtang Tunnel"
-    },
-    {
-      "title": "अटल बिहारी वाजपेयी की पुण्यतिथि पर जयराम ठाकुर ने किया याद, PMGSY और रोहतांग टनल में योगदान को सराहा - Patrika News",
-      "source": "Patrika News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTGdNUFhiMXJpVnhTMHA1d1hRM3JLRFJmdHVNNVI5U3BEZFNiZ0d3aFpEcENLQ1dEUjUwdi1Tc2Q5dDQydlNHWnhZX1FXVE4tSlNVVVVzOThsc3JVWGFmUmNvRkVsV3A4WFM3UndZTk9BWUpiSmZQcUJYblg3X0VvX3BXcHQ1WjljQ3FCalVBU1dkUEtxbFR2Q2dKNkNscGpZX3FrUkt1QmNNS3VaX2NDQTNJVmpwQdIBuwFBVV95cUxQc29MSGV2WWlWVk54NlVvZzJQQlRiMy1NYXFTWWJZSDlJYjRqNG44enhWNXMtSUpvcGo0WTIwN21xVHNwTEl6UmQ4S08tRElZRk1yeXhubVk3YUhLM3ZYQkJMV183NExSXzMzcXdPTzlLTHhYQzI4dVFTTkVTdmxRdFZRTGhTT3pFTUY3VUU0UDJVSXpYZkNMRVJ3eGM1d1ViRHFXbGlERmRTblFreU1WdGJURkNYcEF4YmRN?oc=5",
-      "date": "2026-08-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Rohtang Tunnel"
     },
     {
@@ -150,6 +140,26 @@
       "match": "Atal Tunnel"
     },
     {
+      "title": "Video | Scorpio Falls Into Under-Construction Bridge Near Atal Tunnel, Tourist Killed - NDTV",
+      "source": "NDTV",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXV2RnJOWE9KZFl6TmtPS3UwVTU2a2N4Z3JtaENRTzZYZnQ2TFRwQm1WRWV4UUp1OG5OcWh0YjBOM0ZadjdiZFk4WHhqM1QwUHhLdnBrVzl4b0FsNkk4N1VOWTIyQVJpc0VkLWQ5b3lNZ0tjRENlb2ZrQno0cVVXZnd1Wi1HNlctMng1YTRGU2kwaFNPVjZKdnZtZFphajVSRnBRN09kYUk0TnJDOFFPMQ?oc=5",
+      "date": "2026-07-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "Man dies after SUV hits barricades, falls onto under-construction bridge near Atal Tunnel - India Today",
+      "source": "India Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmFGX3U2Yi1DODFlMDJ0V1N3OENub3pYOFZzUENHNnZraE5WTWRDNnVQWnhpMzZONXVLQU5Vc0dJY0Y1bWpyRS1iaUp5c2VqTGxrczB3TFlEZHdxbno5c3p2ZWZHUHhZd2xVRHlOM3pTZi1EQ2JPWTJDalRYd3MzaG9oa3lyZEw3T0N1dVpUOW1PeEliTXZibXNVand0S3UwODdsU0ZISHhkT1pac0RBTVA5N19QTU9XcVFOY0xmZ1QwQWcxY0dybjVpM2RrOWNpRGtvbFUxbWxOdVZsWHRHZXk4elFWbkc1UkVrbUFIMNIB9AFBVV95cUxPc2ZoMDMyUm4zdTVyX05ldkZzWm1aaEt3YmMxWC14b1dYbG11ejcyZGJzTjYyQXZUN0dsbDlieEJ4aVZlYVA1bUNCek5abS1nOTZYWjdFdDNCR2o4OXJ3Q3VGbG55THN0Qy00OGh3TDlmcUtfUU5rX29iT0t6OERRNXlLUTljTXh1Yjh1ald2LVJQZmhTRTN4QkxvYm0tWmpNTHhCOG9iZ1FXZFdtNW11QnpuU29Cb0dXdHhaUGI0R1BZZG81azA3ZlgyczFGS21xTTRQVi0ydzRfNnpJdTdxVDJWTjdXWl9mVHVKUFRMVlpWZWFl?oc=5",
+      "date": "2026-07-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
       "title": "Himachal: One killed, three hurt in car crash near Atal Tunnel - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -170,20 +180,10 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "Man dies after SUV hits barricades, falls onto under-construction bridge near Atal Tunnel - India Today",
-      "source": "India Today",
+      "title": "Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com",
+      "source": "Moneycontrol.com",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmFGX3U2Yi1DODFlMDJ0V1N3OENub3pYOFZzUENHNnZraE5WTWRDNnVQWnhpMzZONXVLQU5Vc0dJY0Y1bWpyRS1iaUp5c2VqTGxrczB3TFlEZHdxbno5c3p2ZWZHUHhZd2xVRHlOM3pTZi1EQ2JPWTJDalRYd3MzaG9oa3lyZEw3T0N1dVpUOW1PeEliTXZibXNVand0S3UwODdsU0ZISHhkT1pac0RBTVA5N19QTU9XcVFOY0xmZ1QwQWcxY0dybjVpM2RrOWNpRGtvbFUxbWxOdVZsWHRHZXk4elFWbkc1UkVrbUFIMNIB9AFBVV95cUxPc2ZoMDMyUm4zdTVyX05ldkZzWm1aaEt3YmMxWC14b1dYbG11ejcyZGJzTjYyQXZUN0dsbDlieEJ4aVZlYVA1bUNCek5abS1nOTZYWjdFdDNCR2o4OXJ3Q3VGbG55THN0Qy00OGh3TDlmcUtfUU5rX29iT0t6OERRNXlLUTljTXh1Yjh1ald2LVJQZmhTRTN4QkxvYm0tWmpNTHhCOG9iZ1FXZFdtNW11QnpuU29Cb0dXdHhaUGI0R1BZZG81azA3ZlgyczFGS21xTTRQVi0ydzRfNnpJdTdxVDJWTjdXWl9mVHVKUFRMVlpWZWFl?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Video | Scorpio Falls Into Under-Construction Bridge Near Atal Tunnel, Tourist Killed - NDTV",
-      "source": "NDTV",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXV2RnJOWE9KZFl6TmtPS3UwVTU2a2N4Z3JtaENRTzZYZnQ2TFRwQm1WRWV4UUp1OG5OcWh0YjBOM0ZadjdiZFk4WHhqM1QwUHhLdnBrVzl4b0FsNkk4N1VOWTIyQVJpc0VkLWQ5b3lNZ0tjRENlb2ZrQno0cVVXZnd1Wi1HNlctMng1YTRGU2kwaFNPVjZKdnZtZFphajVSRnBRN09kYUk0TnJDOFFPMQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlI0LUs3Z2NELUxKYXV0ZXNsSFNUdEZWS0tsX01PdUlCLWZGTHVoVDlFandncVhwOVFrTWozc0M2V2FSb2ZTOTQzWVU4UVNVU3ZVRUltSmxqWDJGRmhWYnpadnNZekp2UGdSQnhKa3g5eDVlZmt4dXJtUldiQkhYdjhqMnRLampQcEN1VE9wYWVUZFlSZFNQR05ZTVBsRlozQU5iRlZrbndFT3QxQm55bWJpeUh4dmRtMzJnT0pFVl9hZFdvbE55aXVSZnpxX0huUGFFZTAwd2lacTZ3dGhWTzB0TjY1d3laZWc?oc=5",
       "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -200,10 +200,10 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com",
-      "source": "Moneycontrol.com",
+      "title": "Freak accident near Atal Tunnel: Scorpio falls onto under-construction bridge, 1 dead - The Times of India",
+      "source": "The Times of India",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlI0LUs3Z2NELUxKYXV0ZXNsSFNUdEZWS0tsX01PdUlCLWZGTHVoVDlFandncVhwOVFrTWozc0M2V2FSb2ZTOTQzWVU4UVNVU3ZVRUltSmxqWDJGRmhWYnpadnNZekp2UGdSQnhKa3g5eDVlZmt4dXJtUldiQkhYdjhqMnRLampQcEN1VE9wYWVUZFlSZFNQR05ZTVBsRlozQU5iRlZrbndFT3QxQm55bWJpeUh4dmRtMzJnT0pFVl9hZFdvbE55aXVSZnpxX0huUGFFZTAwd2lacTZ3dGhWTzB0TjY1d3laZWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelNqNlJFYzlMc3M4VEpuTUhlT1dDZTVYY2ZDWEdETGtSVGtUNERSU1BqSm12TF9ITzhldkVHVHZtdWJJdEd6ME41dzNFZkhfUVgwUDJtenp1TWtSRVZtVTNYSjk1MnpxUldtRXRMNVlPR29EajJ4dVJyLURIMW9mbDQtQnF1bUZwVTUzemNIcHVVMmFfREdHdUFaOVgweEhHcHNPWTdNTEpaN21rbXNsTTRndEtSUHVpd21fQW16WUtmTXPSAcgBQVVfeXFMTVVjSFRVY2x3SVNTRDFSZGZwSTRIMkdYMndIQ1lNNTlhUks1dnFpZlo0RjVYcUVZcFloS1g5UkN1TjF6dnY0Qk1DV1A0MzlWUUZuZUJEUHd6alJsZUpiR09XWGdqWUQxMzJ3dHZZQ3FKWmNnMkgzNnNWeUVnd0IxdWpDZUFwcUxSV0t2M2czSl8wZHhkVVV2OEtYTzVHb2t0aDRlMjR1NVlrMTF4VlBscUo3RnByM25PRXRuMHlpMks5cTZLS2tOSjU?oc=5",
       "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",

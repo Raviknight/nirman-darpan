@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-07T21:52:57.670Z",
+  "updated_at": "2026-09-10T21:20:49.419Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
     "positive": 16,
     "neutral": 3,
     "concern": 1,
-    "avg_score": 0.315,
-    "avg_magnitude": 0.445
+    "avg_score": 0.33,
+    "avg_magnitude": 0.47
   },
   "youtube": {
     "n": 4,
@@ -22,10 +22,16 @@
     "positive": 18,
     "neutral": 4,
     "concern": 2,
-    "avg_score": 0.288,
-    "avg_magnitude": 0.421
+    "avg_score": 0.3,
+    "avg_magnitude": 0.442
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "हनुमान अंश का वो बुंदेली भजन, जिसमें छिपी है शिव-पार्वती की अनोखी कहानी, एक ही शख्स है इसका राइटर और कंपोजर - ndtv.in",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORmRSUEktVTRUNEVSRlliOGJucDc5OWdJdmQzLVo3VU5oVFBKcUdXbGhMMl82S2ZoQVNaZy1hbDhpMFQ2eFZuT2Y1cmxMamkwdVpTRUNkTC1IVG83YnktR0tpMUVsM3R5ZzNobkxEb3l4Wlc3QmhzdWk5RHZQUWV0SXFMaXpFZjNXR0hnU1otckM5bXdRZ1JpNXEzVElDcmpyNzdhLVRYYjI2R05RRDdzLUdtdXc0MXZaZE9ycmhhN2xWSUd6aU1iZURRWm1EdUpScVkxd2YtUUxZcW01RmVkSVJ3MXFHbHpVSjN6N3dMbWR4VTJaSkI1cXhpQUNMN0NVb29J?oc=5",
+      "score": 0.6
+    },
     {
       "source": "press",
       "title": "माता पार्वती की वो जिद जिसने देवों को कर दिया था परेशान, ब्लॉकबस्टर ‘हनुमान अंश’ का वायरल भजन - AajTak",
@@ -37,12 +43,6 @@
       "title": "कजरी तीज पर सुहागिनें इस विधि से करें भगवान शिव और माता पार्वती की पूजा, पति को मिलेगी लंबी उम्र - Prabhat Khabar",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1A1WE9IWnlRVFUxQ25NTEpvQXdRSHZUb1BkdVBudlRoUmYyMDMza1ktSmVyR1pkVUlvcEtYTjNfQVNra0dfTHR4TVpTb3ladjBSbWwtZklyczJKbF9wOGgyRDU3NXdoajhqTm1IRXBqcGp1UjhhYmJOQ3JfeXRmazQwVTlDVjB5OHFyM01lZXZUd1Rpc2lxYXc1ZzLSAaIBQVVfeXFMT3NjTWx6STJ2V2JvV0JaWnFXODFrM2FpVkJyZVd4dDJ2OWRhLWRObGI0OGpSVzNwRVBiZzZOVkxpcEdfcXlESWs1RlJlUWZsVVBNYzZUamNyOVh2TWV5YmdkaXJDeGFhYVJoVkdjSGpBdVQ4d2l1R0ZPVnc5dDJNMkJBOFZyN2Mwb3ViOWJkWEpxSmZ2UDhsQk5kcUlXUjNoVjBR?oc=5",
       "score": 0.6
-    },
-    {
-      "source": "press",
-      "title": "सैंज में NHPC टनल में रिसाव का मिला स्त्रोत, अब लीकेज ठीक करेगा प्रोजेक्ट प्रबंधन - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWF9td2FnN1laOFQ4bGsweDBiQ2ZrSjVFU254Skk0UUpsNnFsakdlN09mS2g2X3dMWEtMa1VOb2pWeHRtaWQ2MV8tU09vVFlWRmpKVVRfU3pjRGtOMHZDTGMxb3NCYjUyVmppLVNXTzZyYi1XRWN1cHFDMVVlN242Q21CSEdBZWVfVUpPcVdJbC1CV2ZzMXhFSm9SSmlpSi10cEdQZlk4QXNsNW5PQXFWdTVTR2dlTGZPRHJET29qRdIBxAFBVV95cUxQbkZXMW5Yc2pFQUJOMTFhSHRfaEFhQ2l2UzVjMmE2blhaUGE3U2JicHlMQ1ZkRkdjdE9MWkhfdVVUOW9rUEdGejZYcVhweDRLVzBacEloSGJTRkRqN1lxUVZ2akJZZlJMRXFtMXR6YjdMRjVTMWRfRW5sNVNfN1pqa0c1N2FUdC1nOGQwQjlPakpBRUNWOXE2eXpwUGJzcFB6Yk5nYzhrbXo5SXppZUUzOUV4VEM4cGNsZlR4RDN6NDBlUjZp?oc=5",
-      "score": 0.5
     }
   ],
   "top_concern": [

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:52:59.609Z",
+  "updated_at": "2026-09-10T21:20:50.017Z",
   "project_id": "MANDI-FLOOD",
   "press": {
     "n": 0,
@@ -10,54 +10,22 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 17,
-    "positive": 8,
-    "neutral": 3,
-    "concern": 6,
-    "avg_score": 0.065,
-    "avg_magnitude": 0.447
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 17,
-    "positive": 8,
-    "neutral": 3,
-    "concern": 6,
-    "avg_score": 0.065,
-    "avg_magnitude": 0.447
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
-  "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Veri nice prakritik",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Sab thik karna god",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "राधा राधा 🙏",
-      "score": 0.5
-    }
-  ],
-  "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Very risky why u people are going from there",
-      "score": -0.8
-    },
-    {
-      "source": "youtube",
-      "title": "It's terrible ❤❤❤❤❤",
-      "score": -0.7
-    },
-    {
-      "source": "youtube",
-      "title": "Please travel on mumbai goa highway you will comes to know \na story history of NH 17A it was beautiful highway so called",
-      "score": -0.6
-    }
-  ],
+  "top_positive": [],
+  "top_concern": [],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-07T21:53:04.198Z",
+  "updated_at": "2026-09-10T21:20:54.292Z",
   "project_id": "GMC-NAHAN",
   "press": {
     "n": 20,
-    "positive": 14,
+    "positive": 13,
     "neutral": 6,
-    "concern": 0,
-    "avg_score": 0.255,
+    "concern": 1,
+    "avg_score": 0.2,
     "avg_magnitude": 0.35
   },
   "youtube": {
     "n": 40,
-    "positive": 25,
-    "neutral": 11,
-    "concern": 4,
-    "avg_score": 0.345,
-    "avg_magnitude": 0.47
+    "positive": 21,
+    "neutral": 14,
+    "concern": 5,
+    "avg_score": 0.26,
+    "avg_magnitude": 0.41
   },
   "overall": {
     "n": 60,
-    "positive": 39,
-    "neutral": 17,
-    "concern": 4,
-    "avg_score": 0.315,
-    "avg_magnitude": 0.43
+    "positive": 34,
+    "neutral": 20,
+    "concern": 6,
+    "avg_score": 0.24,
+    "avg_magnitude": 0.39
   },
   "top_positive": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "nice talent keep it up bro",
+      "title": "Nice hostel lucky broo",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Very nice bro ❤",
+      "title": "nice talent keep it up bro",
       "score": 0.9
     }
   ],
@@ -54,9 +54,10 @@
       "score": -0.5
     },
     {
-      "source": "youtube",
-      "title": "Di can you please tell ki hostel me washrooms room ke saath attached hain ya nhi",
-      "score": -0.4
+      "source": "press",
+      "title": "Immediately fill vacant doctor posts at Nahan Medical College: BJP state president Bindal - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTlMWW9lTVRTM0xjZ1dRVVpYbzl6cnRzb0NIaVVtVlNvVE82cUNTY2dlcmNSZnZFTzZ2NHVjV2J1NlRTOVFneFpIQVBZTXBHcWEzWlJLeUNCcm1sSVVTUzJZYVZXM3JFU1hLa01nZlFKVVA0TzlpRDFVR1pPN1FSNUxldnJPaVdDdDhZX3dybjhoUFhCNDFTdEN1SldsNXhSVkRsYXNsWU5CbFFuMXljUjJSRkVaaG1aVUxDQXlwa0tqb0FENFB1VEdsQWTSAdABQVVfeXFMTUZLS0dhbE4yci1nM2IxZ216TEJKaFdKSk16bFVPamV1RlZsUGFzX2JvVVlyNG1vWTdxRGUweWZ3bFpkd1hnRko0ZG5oYmpOTE9jaU40dWJPa0w0Ulc3elhnT241cVZKZEtOVVVhYUxILWhiNmRKNFJQY2dKMXo2WTJXQ2FhZ0tQWjFoaUxOQ2RPNENwdHhxYjZaWngyenRmMmM3TDJ0NUpJcHpuTHo5YUhBSTZLUGZ4MVA5d1NjcFZpc3F2cnFvdC10OG5mNHoxOQ?oc=5",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

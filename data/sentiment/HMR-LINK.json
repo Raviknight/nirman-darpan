@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-07T21:53:04.574Z",
+  "updated_at": "2026-09-10T21:20:54.881Z",
   "project_id": "HMR-LINK",
   "press": {
-    "n": 8,
-    "positive": 7,
-    "neutral": 1,
+    "n": 10,
+    "positive": 8,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0.362,
-    "avg_magnitude": 0.362
+    "avg_score": 0.32,
+    "avg_magnitude": 0.32
   },
   "youtube": {
     "n": 0,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 8,
-    "positive": 7,
-    "neutral": 1,
+    "n": 10,
+    "positive": 8,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0.362,
-    "avg_magnitude": 0.362
+    "avg_score": 0.32,
+    "avg_magnitude": 0.32
   },
   "top_positive": [
     {
@@ -54,15 +54,15 @@
     },
     {
       "source": "press",
-      "title": "बिजली चोरी वाले इलाकों में लगाए जा रहे हैं मीटर, बदलेंगे ट्रांसफॉर्मर - Patrika News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzBoYVFVVDJRVzBoUlVZTFJTQk5WYzc0YXN2cDRVTEdIQ3dZYXdZSzMzXzZ2UnFlRVY5RjVvejB2T0tNRGhJVS15N0lpUEZKNHhCS0VIN21xT21OWHU3TmlVRHVZZlB6QVl2QjltcnlvaW5ZOWhkQzk1cDIySURsM3RLR3hZUHR5SVVPZkcycVIyVnlkVzZraFd2cUszVlE1QXBVVDFQSTJ4T0xiV2Nhc0p30gG3AUFVX3lxTFBVeXdtQWptZTM2TUVVVW45Sm8wUDVLRVpEN3dPcTRzekY0dU5lTVpLLWVmTFZhb1RkWUhGT2JuWXZOdWJ5Q01pRHJWbEdINUMtSFNSR1dyN0tQLTVkMjBSVThVT3lwNzYwd2FNOEM2QnlKZEV1ZE52ZWJJb1RucDI1azlDY1Z2ZnUtSk5hWl9TVHFwV1diUmFCYUNsSjFDMUh2ZGtITGI3eTRMc2ZRb2taS0tES3Nvaw?oc=5",
-      "score": 0.2
+      "title": "Dindori News: धान खरीदी और बिजली मुद्दों पर भारतीय किसान संघ का प्रदर्शन, सौंपा ज्ञापन - Khabar Digital",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR0tfYzZ1bzFYcEhJZm84eE1zaEpGWUtRSlJQamtfUzYwQ2hyNUhqQ3M1aFFMRnZvSTMwRWR6b1psTkpMWExjZ1dYck03cy1WSzdteGFEck95YXNRR2d6ZmVycDA0aWtqVkJDODNjNEZSRUpadWxVSjNoUHhSZWo2YlpJazFwMU5FMlBKT2lpdEpRcGVQMzJpX1NnZV83QQ?oc=5",
+      "score": 0
     },
     {
       "source": "press",
-      "title": "महराजगंज में पेयजल, बिजली, राजस्व और जलभराव की शिकायतें पहुंचीं - Dainik Bhaskar",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdGJ2aUlENTgtblVxYm84MGlwNW1iV2RlVGhiRFZzRGszVmNxWjNQNENpenJ6VzQ1ajRBYjBfTTZhNTRtcU10d1B4SEkxUE5keG5iZzNfSDZkSTNFSVdTN1RNdjg2Tmtoc1FjZFB2Zkx2TW5DVEdwdlJydGpseWRnWXowTFJwcFY3T3RkeXpESzBiYmJYWjFDazRCVnAzTVVkRl9wZFVydDJLZi1iVWRQT3ZfU0hUV1F6by0xSDdfT0RCYUs1a2lrSjFHT1pob1JPRjB2eFJBUzV3OElaTlhHdGpEaW4zNDFCYU5EX19fSkhLb2wwa2tLVg?oc=5",
-      "score": 0.3
+      "title": "बिजली चोरी वाले इलाकों में लगाए जा रहे हैं मीटर, बदलेंगे ट्रांसफॉर्मर - patrika.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzBoYVFVVDJRVzBoUlVZTFJTQk5WYzc0YXN2cDRVTEdIQ3dZYXdZSzMzXzZ2UnFlRVY5RjVvejB2T0tNRGhJVS15N0lpUEZKNHhCS0VIN21xT21OWHU3TmlVRHVZZlB6QVl2QjltcnlvaW5ZOWhkQzk1cDIySURsM3RLR3hZUHR5SVVPZkcycVIyVnlkVzZraFd2cUszVlE1QXBVVDFQSTJ4T0xiV2Nhc0p30gG3AUFVX3lxTFBVeXdtQWptZTM2TUVVVW45Sm8wUDVLRVpEN3dPcTRzekY0dU5lTVpLLWVmTFZhb1RkWUhGT2JuWXZOdWJ5Q01pRHJWbEdINUMtSFNSR1dyN0tQLTVkMjBSVThVT3lwNzYwd2FNOEM2QnlKZEV1ZE52ZWJJb1RucDI1azlDY1Z2ZnUtSk5hWl9TVHFwV1diUmFCYUNsSjFDMUh2ZGtITGI3eTRMc2ZRb2taS0tES3Nvaw?oc=5",
+      "score": 0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

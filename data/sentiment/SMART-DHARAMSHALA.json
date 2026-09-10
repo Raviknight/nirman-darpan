@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-07T21:52:59.170Z",
+  "updated_at": "2026-09-10T21:20:50.015Z",
   "project_id": "SMART-DHARAMSHALA",
   "press": {
     "n": 20,
-    "positive": 11,
-    "neutral": 8,
-    "concern": 1,
+    "positive": 13,
+    "neutral": 5,
+    "concern": 2,
     "avg_score": 0.17,
-    "avg_magnitude": 0.27
+    "avg_magnitude": 0.32
   },
   "youtube": {
     "n": 3,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 23,
-    "positive": 13,
-    "neutral": 9,
-    "concern": 1,
+    "positive": 15,
+    "neutral": 6,
+    "concern": 2,
     "avg_score": 0.2,
-    "avg_magnitude": 0.287
+    "avg_magnitude": 0.33
   },
   "top_positive": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "source": "press",
-      "title": "स्मार्ट सिटी धर्मशाला में फव्वारा चौक का नया अंदाज - Divya Himachal",
+      "title": "स्मार्ट सिटी धर्मशाला में फव्वारा चौक का नया अंदाज - divyahimachal.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRjFfSjJQYTlGVHl2NXJPUjNna05LX201NDRSMU5UVlZxdmRwWDQ0QW5hQmNqd2JGZkVOTjhvdVV1Ykh0eDlEQ180Xzlmd3V2ZHfSAZ8BQVVfeXFMUFdZR3pxNV9jOHBtZms1Y0dnYzFKOUJmYXo1QXhILWVRMldMZVl1WWZOWnA3RUhMREZKUGp0eUZCbno2WFhiQVpxQmw3ckxWWEYtcG11cXQ4ckRsTjhiNDhPSDZMeTN0WDlzbTdsbW5YYi1HTVBoMUhETjRURVY5X1ZrYzlXcjhYVDVFSVVQVTc4OGRZSUdOb1ZEemxwVG9r?oc=5",
       "score": 0.4
     },
@@ -47,6 +47,12 @@
   "top_concern": [
     {
       "source": "press",
+      "title": "Ribbon cut on Dripping Springs Library of Wheels - haysfreepress.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1I3cGk1TVhnQmhpaDNhbVF2TXZnUTNiN1hoQ01ma0lzVm1WSzF1ZjFreHRWdmQ4WUptOGFpM1RLVk41Nmcyc2hvUzV3YmNLakRyVXI4cS1LNU85b1ZNUGxsclF1Wk42eDB1Z3F0X3BnemZuUFMxWVJHeGxSQUZxcGFoek1kb08tQS0tUi1FRFN1a0dmaVcw?oc=5",
+      "score": -0.2
+    },
+    {
+      "source": "press",
       "title": "Himachal CM inaugurates redeveloped Fountain Chowk, E-bus charging depot in Dharamshala - ET Infra",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ25GUm9vRmpfYjZGNnhXR290TWl1MEtSSXVZV3BMajItb21YZGJiZF93ODRJWXNrUkQwQ1hBdVN0bFZvU2tPSTNsTUY2RmFUbFh1d2loYndIazZKdVZCZEJUQlNZVFJENnQydmh2RDEyQXpQWkd6M0lkUXlORFlwV3JqTTM5Z1NReFJMeVMzVTQyY2ZrMjByY25hUVlGSTNRYUUwU1pFOEVId2Mtc3Jya3ZLY3hHR3hkZ0RQSUtMcW1zZmp5Y0U4ZzRJVFdmcmNNaE1CYWFNV3ZxU0Z1NVNXMVN4STA4Qm4yUlJPUUhKbk1tNzY4M0hrNtIB_gFBVV95cUxPY2FGbkRxU05KTVNmRTFaMWdERldhcm5tUkNhTlg4d1JVeDItMk5jWHNvVllRdmd6am44cUsxTWVncTZfamZwUU90MGRzNHJkZk1vd2UyYmJoMDJ3Um9Zb2tuNWJTUGtYeXJINE1pSHp3ZWRoNFBPbGpsQkc3OUUyZ29iR3NEUnhzb09OdEVrUVkyOWx4NGZJYnp5d2hrbWFVRUliU1ZtSzRHOTJLN2x3cVNrNFhlV2pDTEtZb3JmeXlxaGdCcTh3UHZjamw5cHNocU1sOU1CMUt3OHFtbFo2OGhVLW00OVNGb2dMeGJ6NV9GVUNCYm9hYkh3X0FLZw?oc=5",
       "score": -0.2
@@ -54,12 +60,6 @@
     {
       "source": "youtube",
       "title": "Daalne ki koshish hui😢😮",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Smart City Dharamshala:'रि-इमेजिन धर्मशाला' आर्ट कैंपेन ने शहर सजाया, संस्कृत और सौंदर्य को मिला बढ़ावा - News18 Hindi",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbEpQXzRtX1FERVdUZXI1T0s2di1vRUdGNmVJR2FualpPQWJnRGZ3cnMzNzhCVGlxLTdZcHJ2N2p1aE5IMlhEQkhjVEpUM2c0NURVeDF4VGpYdDlKVWFfcHM4aVdidlVuR1pySFhzSFIzWlk4UEJVN0RmN05hNk41QnZIRUlvU3Y3T1lrelR4VFNIOU9jdXJtcTFyVFByYmtxVTRYUEZmV1RRRkhxd04yWEM2Mm5oYXNQVHB2QlVNZjA4TEdpQjdBUktGNXNXZEhlb282WW9GdlNoNjFyRUF5bjY0Y01MWE9ZUlU4aFFwWVM1SEtFMGMzZDMzUzEza2NBMWRReTln0gGLAkFVX3lxTE1aUXUxanVyYU1vakstNHdwT0R0UThrNk9nM0hPVmwzblExLUdYVkZTMVZlYkE1SzdZQzRlNU1JTHdKN0twWl9JYWY0M0hJbVRiOWttOTZvVy1lY1B0a2haUThfdmdGeHdWT3VMTG5XWUZMUXlHemZrQ0hxQnBpTFdVMmJPbUdBT3Z0UzN0ZTgzQW5mbnR6UHZ6TEVYRTk0SmRXbnNpMUF6X09iZ00tby1aYkl5elZ0TTZsR29lNEJqSGJhQ2Y1ZWU3SFNFSk5CRFcxclkxR2JNc1YzVUcyY3U3ckppQlFQSTFfWmlSVVRtQlBWTGpqMkNPczFpQnFacWNMN01QalphT2VqUQ?oc=5",
       "score": 0
     }
   ],

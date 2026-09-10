@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-09-07T21:52:05.780Z",
+  "updated_at": "2026-09-10T21:19:50.049Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 23,
+    "press": 24,
     "gov": 0,
-    "en": 11,
-    "hi": 12,
-    "total": 23
+    "en": 13,
+    "hi": 11,
+    "total": 24
   },
   "mentions": [
+    {
+      "title": "Shimla to face drinking water shortage as Sutlej Project suffers transformer failure - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0FRaURkdlVEdDh1djBiZlFnN1RCd0p0RUltTmp6N2ZscEZVd3ZyQkx2RXlaZ2Z2WW5ic1RqSGVxT1dZWl85OGZXb3Juakx0ODdzVEZkRU9uVWR5R3RTbVBXN1ZKa2k1UFpibk9pR19XVDNRV05fR25vVzI1WnRtZlFnZDFvclhGMmZ1bVlNQ3JQRzhzenlTVzQtbEZrQlJ0OUl3a1ZwOVVvVWVobFA5dVY2cEtLRk8yZGFYOXVzWW1ERVJ4d1Nr0gHLAUFVX3lxTE84LVlBdi1KcWx1LU9zY0w1Ql9HZDg5WHQ0aVBlZnZHQUgyRzhBZTBmbjF1dW5aN1VzRTdNV0Q2SlE2cHpfMDRfNzNXNnJlVzRQQlNBVzc4X1FDNG5sQUY5RjZ3VUFBaHMwdndWdkJyVE92b25LQWxvM3dMckdFN1ByTkgwbTdGMUU4akRqVzBuYUt6Tmx1U1hHczhjQWJVTFFVeWNjM3lVME8zOFJOR21vcmtZRXVYTkZyQTgzSlEteUtXNnByQ0tKV2lR?oc=5",
+      "date": "2026-07-28T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
     {
       "title": "Shimla News : मानसून में पानी पीने से पहले बरतें सावधानी, शिमला जल प्रबंधन निगम लिमिटेड ने जारी किया अलर्ट - Amar Ujala",
       "source": "Amar Ujala",
@@ -50,8 +60,8 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "Himachal: SJPNL issues partial water supply disruption advisory to people amid tourist surge - aninews.in",
-      "source": "aninews.in",
+      "title": "Himachal: SJPNL issues partial water supply disruption advisory to people amid tourist surge - ANI News",
+      "source": "ANI News",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU5GbTZIUlFmZkNHVjMyc2NlSUgyaUtlWkRsX0U5MkhkS3gzQ2RNSWJoZHRES1NwUlF6UGtzdUN2OGQ0Tm9RVWFOM2xwMVFZYXpyZllOTU9zV1ZLRlNvNnhQckxoQkZCSHFOQWxXaXJXQ2JGWlVIYjlTY2FlTjNZaWxqczlYazlySTFvUV9wVDdvVGxoMHQ3NHpPUW9tZ1BtRVVvZi03VmVfeDR1MTd5Mng5WUdSTEZ6NmhERmpXcksyZUxmUTNGTmU2MFFONEdVaXEzdUtwWUlKX3RBdmh3UnFDc29HV3p3akNZ?oc=5",
       "date": "2025-12-18T08:00:00.000Z",
@@ -68,16 +78,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "तारों के जंजाल से शिमला शहर को मिलेगी निजात - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYkxmREpBcW5mTnlVeGRsTlVOOWQwX3dpM3lGSmkxQmhZN18zNkRhOE5fODBoLU5UTXp5dVhOSjRtcmNLR293cUd4Vno1TWptbXkwTmgtMUZVNkVIdnpNZWx6MDRVZEdZdHYwODc5RnIyTEgwQ0pHbm96S1RFWGh5R0JyTEtwblZmREdBdDR6NEt4U1YwN0HSAZsBQVVfeXFMTmVndi1yUjBnanI3UjBQM1lGbE9hN1V0VlI5ekNqQ3dheVZKbEhSNnRXU0VEeXBhZkQwN2xNS2dDcnlvVzBEZ2VqcnlpSVRwUEwtMHhYNkdGbXVKNURiRUJocW50U3ZMemlnTEJscl9JYm1sZVdsVU5ZR2hZRFBNV25MbGREYlMwZkdFRFctSGVMQkxRWkxTOUhSNkE?oc=5",
-      "date": "2025-01-31T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "SJPNL Shimla"
     },
     {
       "title": "Ex-Dy Mayor seeks shifting of Winter Carnival stage in Shimla - The Statesman",
@@ -120,8 +120,8 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "ई. वीरेंद्र सिंह ठाकुर शिमला जल प्रबंधन निगम लिमिटेड के नए MD, सरकार ने जारी किए आदेश - Divya Himachal",
-      "source": "Divya Himachal",
+      "title": "ई. वीरेंद्र सिंह ठाकुर शिमला जल प्रबंधन निगम लिमिटेड के नए MD, सरकार ने जारी किए आदेश - divyahimachal.com",
+      "source": "divyahimachal.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUEs0QjhYVDRtRWMtQlhWbmoyOWhDcDRmMkI1MzVmeWxoc29nQ1NfdDcyeUlpaTFwenNWcVctLVVQa1Rhcl9jX0tpdWZOVzNiSUo1aTZQM3FBdWNIQmxrb0Q1Qk9YNjJKQ2ZSeUVxTl93QmtkQmk4M1F0MVBtU3o5bmg0Sm1tSE53RUtyMllid0JYM1JmWFB0Mzhpam5mUVlQN3lGd2ZyZzViMDBXbHAxOUdtT1BGNVNXV1Zhcl96NG4xOUthTkVaV1hYSUJtNVpxeHE5ZjhPUV84QWpPYXFKcXN30gHnAUFVX3lxTE1FeDdXSFRSVUZ6VjhxeE5pLXE0U0JzN0dDLThZZ01ieXNpbS1aNTdjbGpTVGpWWTkyVlNwZ2xhRFZfbmpUdmRidzY3dU5aUFhOQ1AtUkh2S3pUa0R1SmxyaUFDQlltR0FkajBGVDdLaUZvSlZBYXF0b0hLQVpBaDJBN3cxZHlLZEtkSzNtNGstTERwLV9YT1BoYnFHa3JHd2NhdnB6T1ZNVGpGbVFRRWotQm1kdDI2U0RvcHJSQ2FWeEQ5Z3dOdlB2Z3VCYklzYTdXQ2FTRHNYRU9lRjY2ejdxOWR3T196Yw?oc=5",
       "date": "2024-01-06T08:00:00.000Z",

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-07T21:52:58.093Z",
+  "updated_at": "2026-09-10T21:20:49.654Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 6,
+    "positive": 8,
+    "neutral": 7,
     "concern": 5,
-    "avg_score": 0.055,
-    "avg_magnitude": 0.315
+    "avg_score": 0.05,
+    "avg_magnitude": 0.31
   },
   "youtube": {
     "n": 2,
@@ -19,29 +19,29 @@
   },
   "overall": {
     "n": 22,
-    "positive": 9,
-    "neutral": 8,
+    "positive": 8,
+    "neutral": 9,
     "concern": 5,
-    "avg_score": 0.045,
-    "avg_magnitude": 0.336
+    "avg_score": 0.041,
+    "avg_magnitude": 0.332
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "Himachal : पिंजौर-बद्दी फोरलेन को 378.48 करोड़, ईपीसी मोड पर तेजी से होगा निर्माण - Divya Himachal",
+      "title": "कछुआ चाल से चल रहा पिंजौर-बद्दी-नालागढ़ फोरलेन का निर्माण - Dainik Tribune",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGo5ZnYwM2dvX1dWSG4zcVV6THZ1TnRNdG4tS2VQWFFsdUZacGFsaGFqcXhoYjJIbTVaQ0J3TU16d3F5UVZQck1GWDZ0bFNWYTYteU5uVWQyVXBwTEtkWThrWF9TbGhSRDlwdHNKaHdqc3JqczZvbkhVSHg1X0xMT3g1NGNiSzF6N0c0Y2RzWnpOUnNqZDE3M3VfYXZaNEJ3a2h2bHBrSnhZRlZCd19tZlZ0OEUwaWtCaGZVZElBVVNJSHlUNnBEZE4wQlNRQdIB0gFBVV95cUxNM29uSHVLMEJaUk02NHpaUThKZlNuVlpsZlJsRG1hS0xFZmVKY3VJdUJSZEs0bXlIeWptRkV3NTNkT3pCdENITFRsZXdWcElSUkNsNEdzWjA3ZmNwM3ZyMjVtVDdhUGg4NzRQNEljSjlKYTIyODc0YmI2emY0R1NuU0VWQ1UybHU3V3g4SVA4Z3owb19tc1hZZUkyLUNXZWdzUzZHMFFIeGJ5eHZ4bXhEdERRWGtqNk1kYU5OalQ0TFYySWdaaUpmRlFtbkhfc0lKYkE?oc=5",
+      "score": 0.6
+    },
+    {
+      "source": "press",
+      "title": "Himachal : पिंजौर-बद्दी फोरलेन को 378.48 करोड़, ईपीसी मोड पर तेजी से होगा निर्माण - divyahimachal.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFU3NW13OGhTczNoR2ZPc3p6dktETnlWM1lTdE04ZnhiT2hCNnZRblBnTkN0aXdWbkU2cy1NYVhGdTZROHFyZl9RWDVsdzBYS1g2cUNwWTdsd3Z5OGlUaE84cFhJckFYMHk5WG1yVjFCdU0xWHJxSDJfT3Q5M2dxT2Y3TEN3aGQ0RFdPN2JZRFZlRnh5MWktNVFSM21vY3pYZTUzbXdHZkxBbk5TWUE2Vko5THRXQjI1NUdUVG15SnBab3BGbzh3RtIBzgFBVV95cUxPUEF1ajZnTGxLT01FbVMxcWpvYXJRTGlubGlfbEkwcU50OGhoMmFDd3V4eXJkUzZXUEE2bEplb0lJR0lQUTA1MEdXZjZOYXFxWTdjZExNYlVrcWJMUjNBZG9oYkh0aFFpVVB0aTNxbUJFeF8tRE51Z0hFSUozOGRGVW5LUFZVcmE1RWZXWjZGZW9Ob0ZoVC1ZYXN6QXlhSkEwTHhCUGdlYkI0WGRWTU9lTnA2RWVjM0NlbmIxdW0zX1VDbTRwNmhrX24tU1k1QQ?oc=5",
       "score": 0.5
     },
     {
       "source": "press",
-      "title": "10वीं बार टला पिंजौर-नालागढ़ फोरलेन का टेंडर - Divya Himachal",
+      "title": "10वीं बार टला पिंजौर-नालागढ़ फोरलेन का टेंडर - divyahimachal.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEZnSmxncGNId29jdnBVUXNFUzJVa205Vlh3SWpFOUFPN2E0UU13MjBaYktwR0xSWmlDUWFpTkVDY3Z3M0FlWWdpODBadjJvU0pnVXVHd3B5RmhNMkZEZXo4Q21pSl90S1dmTjd1Z01fZTBkM1hkeTNNYVM2MXBjbTdsZVlKVTg4dTYtRjEyM3E3ZFo3c0paVUgyb3VreTJRTDIxM0Q5a9IBrAFBVV95cUxQMlE2Um5HZVJ6TmhsVUd0SEpPckFyWGJDU214WlZRNXdhRm9wVkVZT1J4TGR6THhtNk9CamtvRVdkS3Q1elpEQnVQYWpkZkxUa3dpSVRrQTEwc1NVTTFQc284QTFQUDVseHRuNWNDUFpRNFhiemR1SmxXN0pKTDFmWTFHdDVSS0IyYkJaVEdWUTFsRXZiVkozR0Q2RHViZ1Y4ZXc4b0l5X0lkaWZj?oc=5",
-      "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "नालागढ़, बद्दी के लिए एचएमटी पिंजौर में बनेगा दूसरा बाईपास - Dainik Tribune",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmdpNkFIb1BaOXU5VGtNRUlKLUN1Zk9Va2hDTW84ZzQxcHZoLTBGOGV0eGV3V19VY25NN0RndzBXcGlqZ0QtYzduMUpvdFBURUlHbjJETHV4cUc5TFhLenQzaXlnNzd5ajB3TzdDRVZGRnBrV2I4NlczTmNPMks3RTJqNXZfYWY2aVQ3c2F1US1ORmFIVHh4bU1RLTM1QzlMQ3ZZNzJQVS1tNXc4ZjYzejNfV21LcGpQT1B0RNIBwAFBVV95cUxOTXk5ZWtFUzIwbV8xMEMxanRBMTROUHA1UUp0aGdxam1RQ09IUmdvcjdWcUkxbUlCem1kOUQ3ZEtiTTM4c05lU0ZIalRYaGdaalpkZXhzZk9GYjhnV2dBX2l2WWZJWGZ6QlZhNGtEWVByV2x5MGxXdUd0ZjRsTWZ3NDJvcGJnOVZzUW1JRjMwaDlmSnVBMHFZNFphdUI5VnpERE5zc2Zab3NjVmtrY1drU2gta1lPWnl6ME9rU2RoWXE?oc=5",
       "score": 0.5
     }
   ],

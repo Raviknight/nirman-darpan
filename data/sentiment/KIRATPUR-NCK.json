@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-07T21:52:50.728Z",
+  "updated_at": "2026-09-10T21:20:37.112Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 20,
-    "positive": 16,
+    "positive": 17,
     "neutral": 1,
-    "concern": 3,
-    "avg_score": 0.215,
-    "avg_magnitude": 0.385
+    "concern": 2,
+    "avg_score": 0.275,
+    "avg_magnitude": 0.365
   },
   "youtube": {
     "n": 23,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 43,
-    "positive": 27,
+    "positive": 28,
     "neutral": 9,
-    "concern": 7,
-    "avg_score": 0.219,
-    "avg_magnitude": 0.488
+    "concern": 6,
+    "avg_score": 0.247,
+    "avg_magnitude": 0.479
   },
   "top_positive": [
     {
@@ -38,17 +38,11 @@
     },
     {
       "source": "youtube",
-      "title": "SUnderNagar Mandi tab bnana bhai kabhi same style mein :-) appriciate your work.",
+      "title": "very nice Which camera you are using ? Good quality output.",
       "score": 0.8
     }
   ],
   "top_concern": [
-    {
-      "source": "press",
-      "title": "Terrain trouble: Landslides, floods triple cost of key Kiratpur-Manali highway - Himtimes",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzFxSjdEeVVIQ0VFbTBvRDhzVlVhRWxrRF9naHp2TkdhaS1OamtyVmg3dmxMaXpNQ2RmTTlrY0VvYmxkUzVfZ3FNblAwMFBOcG5Ga05hd2VqMmtoS3BEbTI4ZmpmUlA3Y2htZXZYemlJY2JfenNEQ3ZuS2dMaEZjeTBsOWZFWTRSRDJyUDM2ZGN3SkhnUDlxWUtnVDNTMlU?oc=5",
-      "score": -0.8
-    },
     {
       "source": "youtube",
       "title": "The highway needs major cleaning, removal of debris, grading and landscaping",
@@ -57,8 +51,13 @@
     {
       "source": "press",
       "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
       "score": -0.6
+    },
+    {
+      "source": "youtube",
+      "title": "I think jakatkhana flyover both side flyover work will be completed by 15 Aug. I suggest this should only be opened when",
+      "score": -0.3
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

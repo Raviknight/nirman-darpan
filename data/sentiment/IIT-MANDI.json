@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-07T21:52:56.149Z",
+  "updated_at": "2026-09-10T21:20:43.227Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
-    "positive": 10,
-    "neutral": 6,
+    "positive": 7,
+    "neutral": 9,
     "concern": 4,
-    "avg_score": 0.095,
-    "avg_magnitude": 0.32
+    "avg_score": 0.07,
+    "avg_magnitude": 0.255
   },
   "youtube": {
-    "n": 10,
-    "positive": 6,
-    "neutral": 2,
-    "concern": 2,
-    "avg_score": 0.18,
-    "avg_magnitude": 0.96
+    "n": 22,
+    "positive": 15,
+    "neutral": 4,
+    "concern": 3,
+    "avg_score": 0.245,
+    "avg_magnitude": 0.745
   },
   "overall": {
-    "n": 30,
-    "positive": 16,
-    "neutral": 8,
-    "concern": 6,
-    "avg_score": 0.123,
-    "avg_magnitude": 0.533
+    "n": 42,
+    "positive": 22,
+    "neutral": 13,
+    "concern": 7,
+    "avg_score": 0.162,
+    "avg_magnitude": 0.512
   },
   "top_positive": [
     {
@@ -32,10 +32,9 @@
       "score": 0.9
     },
     {
-      "source": "press",
-      "title": "IIT मंडी में 'शूद्र पोस्टर' पर विवाद, कॉलेज प्रशासन ने दिए जांच के आदेश, भगवद्गीता से जुड़ा है मामला - ndtv.in",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM2F1bkJVa2dod09IU2FYbmF0ME40dlZ3MDhHV3B0ZUJ0RnYwdmFPSDRsUk5SZFRrUEJqa2MzU1FfTGN5cDhjamUzdXRLMTdKT1l4aFdCLVRjVFdQaFhBYkJQTV9KeGJnQjFCa3pVOUlDaG9QaHE3eE41TFpnRE1ieFhJMU80QVpuTFdmQWV4SVNnR19kVHpPSmpnSXc5c201WkJfM1VCWEMtWS1XVkI5VlM1UDhSV0w1RzY4M1A2ZWhCYUk3Mmc?oc=5",
-      "score": 0.6
+      "source": "youtube",
+      "title": "I see it every day 😂😂😂",
+      "score": 0.8
     },
     {
       "source": "youtube",
@@ -46,14 +45,13 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "worst college, no facilities, very tough life. dont go please",
+      "title": "Overhyped .....anyways IIT has lost its charm and is known for creating IT labour for developed economies .... Also manu",
       "score": -0.8
     },
     {
-      "source": "press",
-      "title": "IIT Mandi orders inquiry after poster depicting Shudras as “servants” of higher classes sparks casteism row - Maktoob",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZDJ1aDRoN0hHRGkzMmtFeUNLR2VnYXJ1MEdwU2g3U0x5LWttbHZnWTNEdHpqdWJjR1hUN2NkaTR0Qk9tZ2tiVjllZW4tUExVcmMyMV90OGdxcFV6bjBxOXM4VERUT3FweEZUZTNRLS0xVVNGSGZGVWprNGhXQzRNUGlpQW4tS0NwM0ppeUpPNHd1X1M5cE5MMjdxQUM2Vy1GRklQbWJpb29wM1lpMHFOTGZ4ZnVjdVo3a2UxWVNLUF9fWHBwLUJZRDBPdDJUQUhOY0FPcFFQekFnSm5oRnAxXzJrTFU?oc=5",
-      "score": -0.6
+      "source": "youtube",
+      "title": "worst college, no facilities, very tough life. dont go please",
+      "score": -0.8
     },
     {
       "source": "youtube",

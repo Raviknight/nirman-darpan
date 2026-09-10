@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-09-07T21:52:21.013Z",
+  "updated_at": "2026-09-10T21:20:05.255Z",
   "project_id": "GMC-NAHAN",
   "counts": {
-    "press": 114,
+    "press": 128,
     "gov": 0,
-    "en": 25,
-    "hi": 89,
-    "total": 114
+    "en": 29,
+    "hi": 99,
+    "total": 128
   },
   "mentions": [
+    {
+      "title": "आखिर युवाओं के बीच क्यों नहीं चमक पा रहे हैं भाजपा के राष्ट्रीय अध्यक्ष नितिन नवीन? - Pravakta.Com",
+      "source": "Pravakta.Com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR21rNmRmTkk2cFFXVEltVzM3QlEyNjVoeTJtbTlPWTkwSDhFN2N3NDNrTk5DcEhPTE55SXFKVlJEYmtpOFhUWWJtRGhsZGNiR3FSRFBKLUFXclJ0OGY4bmZ3SXZwVHp5M1ltMWwtYy1tX2Qwa0UtVUNMb1dOTmRXY3pUWERmUHdLQUNuVWZwbFotemNoYVZ5aEZjU2Y3SGtxaE5EanRmZGpEclY0OUFmMHc0bGhRclk?oc=5",
+      "date": "2026-09-10T12:43:29.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan GMC"
+    },
     {
       "title": "Lalitpur News: सीएचसी पर नहीं, मेडिकल कॉलेज में होगा स्वाइन फ्लू के मरीजों का उपचार - Amar Ujala",
       "source": "Amar Ujala",
@@ -38,16 +48,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Nahan medical college"
-    },
-    {
-      "title": "सिरमौर: मेडिकल कॉलेज में लगाया रक्तदान शिविर, 45 यूनिट एकत्रित - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNazRFWTFUa1VZY2c1U05MUFFPWHFndGZXMzN0NTB2bjR0ZXVURXBIWXY4cXRyQUI1b09oSmNVQXNZODBjX2c5cWRhQnM1U2RZYmNIYWJZUDdjU2VmRHRIVU1ZS2tCTGUzMk41T2U2VEVTdEdna2RlYnJXRnVXamFseUNrYmxqTVlMYjlwbGhIVk85cW1UdUNjVkRia2FHbUlOaHJXSkkxU2U1SGU0LVA2ZEJERWx3YjJfbjZ1bF9YMTdZYWV2eFRleDZtX21rdnFXTUlLTllFbF9Bb0V10gHiAUFVX3lxTE1ZWWRXWmxMVXFDNXFveW94U295bFM5NmJnUlFuQzVEdVQweFhSQi1NUUxyVE9XcGxmZmpjMnVMVVN1blVvc1RBNFpoX0dRMlcyN3UxSGJBMmY4Vm1xOElubmhJYl9MQkJ0d2VTc1NjZEZ4LVJtYzFFZ0Y2dklRdk1pZEZJMnctSUFQTWY0Ul8tb3pIOWdMNzRrR2NpUlNPQkJYLVhNUE5PbVMtdkNaWFRJQnQ2MmdxVlJWcV94R3RDd0dWVnllZjlOQ09nUzJvNjZWNWNFbmFSNzJtUnVVcE1sWFE?oc=5",
-      "date": "2026-08-19T11:04:54.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Sirmaur medical college"
     },
     {
       "title": "हिमाचल के इस मेडिकल कॉलेज के रेडियोलॉजी विभाग में डॉक्टर्स के सभी पद खाली, एक माह से मरीज परेशान - ETV Bharat",
@@ -90,16 +90,6 @@
       "match": "Sirmaur medical college"
     },
     {
-      "title": "अज्ञात वाहन के धक्के से साइकिल सवार छात्रा घायल, VIDEO - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNTlMaGpRZVlfVE1NYm5CWGlrX1ZHYjlDeEwweXdvOFdJV0tjY3JJNGtTejFKWG54X2NBVjdYTzVPUWdPdndfdnRMRUJXN3o3ejQ0cjVURm1CTC1aeGhOWG9qNENhNHJZVENkQ2Jucm1rOG5nZUFTSXRqOGtMNG0tbkZHLVZYaG1hTGc5Q1o1RGpaWkVvdXJsTGtGMkRoYWd6aWpFMG5DUWhrY1ZPVVI3b21nb0EyZzc1RDhWT1l4SlZUeElhdkJ5empNYjdHMFJTU09uVtIB2gFBVV95cUxQbmhmUC1iZk5IR2JxT0FZTXJXWEFJT29WYXQ0dTdDaGdXaGJrVXBVZmZMYU1vS2FoQi1yMFlhNHNSdHdHNjNsaGRwWlpwano1RVN6cWRJSHVSZDl6Rm9hMFZNd29XMkVMYVc3aF8tQnVUX1prS1gwTFptNHFQcGVma2x0Skxibk1hU2xoR0VTN2ZVZnBNeXNsY3hiMDFNRjFDNXVyNjNDVE8zWmgtOE5CeG1aUlFrTldjRkV0YWZESjhUcWc3eWI3TUxXUzdNck5lZEs1ZC1VTlI0dw?oc=5",
-      "date": "2026-08-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Sirmaur medical college"
-    },
-    {
       "title": "4 Killed, 9 Injured As Bolero Camper Falls Into Gorge In Himachal Pradesh - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-en",
@@ -108,16 +98,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Nahan medical college"
-    },
-    {
-      "title": "Mainpuri News: मां को बेटी की मौत का नहीं गम, पति को छोड़ प्रेमी का थामा दामन - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcDdMRmNsZUpPZ3JPOWxEUG96MUgxWFB6WlhNRHpUN3N5cVdWajdOMkJQczFEZXExWFMxelEyUzg2VndJMzR3SjBFcVVJV0pLRVAyV0RaUXlGak5vRFJlbDZsTzA4MzZfc25uSEg2Y0dTQm5EWllneTBLR09XdTVjM2h4YUV0cFBrYVlWZFFiMDY5bmp6T0dmSXZLbHMyT1dpdGZYWjYyWjVCUGNqT0FONDdGVmxYSlFmelkzdWlPaGkzc1Zxd0VhOVBHb29oSG82VEFrajRHUjk0c21zNm1FZ19OcTdQdm5kNU9GTG9PalB0MGppbVHSAfsBQVVfeXFMUFozS2lpVkFiZ3paVGlTMDVKZHQ5LTltd1VOWU94b21jSVY4SkNvNWFFQldDSjdld0FlQi1Xei1XSjVuNEpYMDdrRjFYdTFMcE1xem12WERGZmhQYk5UdUgyUk9QUjZWNHNtNGF6WjFFc0F4VFBLbzY3dkxGNDVlcTBqYjMyWk5mY3pkUF8tbFZ4UnRFSXBuNWxiajNWYUdUeVdPdUhHUUstSWNGcHQtOFdIb0tBa19uRkY5UkpCNXpjTkdLa2hzX0JLZ0p2UnQ2R2VoUEE3V25QLWRzWFQ3U1pFY1N1dTM3WW1ZYXI3a3BhRUNBbkh3VUhLN3c?oc=5",
-      "date": "2026-08-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan GMC"
     },
     {
       "title": "पापा उदित नारायण जैसे क्यों नहीं चमक पाए आदित्य नारायण? टैलेंटेड होने के बावजूद - ABP News",
@@ -130,13 +110,13 @@
       "match": "Nahan GMC"
     },
     {
-      "title": "नाहन मेडिकल कॉलेज में स्वास्थ्य सेवाएं बदहाल, सिटी स्कैन और अल्ट्रासाउंड जैसी आवश्यक सुविधाएं ठप : डॉ. राजीव बिंदल - dainiksaveratimes.com",
-      "source": "dainiksaveratimes.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUdtSjRSNE11cmlPaWs2WlpMdlNlclpYTnZHa0VzVlRJMmVUb1lMeEhMdllQNlhTLUdaSDlpRTVIdGV4c2J6YlBLZWF6ZXhkeWRyNEpwR3l5RnoyLWgzLVUyN0dxZ2tqMm5HS3Jzd01XTkpUcnZITTBMc0J0NW9pQ0wxTThQcEpZMG5vSVZraFBPNDhYTnhDR0dmQU54NEdxaDVjenZWMjIzSlJJUF9GWVFPcE7SAbwBQVVfeXFMUFpSb01LSm1taFU1LTg0RDdndU9oNU9PRHhWX21fY29sLWdPRlNWZ3hQOVFZWFU0d1JHV1lIT1pJMVVRaW4zRGlZakgwM0JDQXpHcHZqN2oxLWZnY0VRY01aYWtHQzBCcjgybW5PaVNvOVBzaEphcW1QTG9ZcVJWanJXQ1o4eDRfT2g4X0FxdDFsWGhsSWwySkd6bzFEdGNqNEtadEZnbzMyR0ZQRHBXNlcyQmdKOHlQcGFsdkg?oc=5",
+      "title": "Immediately fill vacant doctor posts at Nahan Medical College: BJP state president Bindal - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTlMWW9lTVRTM0xjZ1dRVVpYbzl6cnRzb0NIaVVtVlNvVE82cUNTY2dlcmNSZnZFTzZ2NHVjV2J1NlRTOVFneFpIQVBZTXBHcWEzWlJLeUNCcm1sSVVTUzJZYVZXM3JFU1hLa01nZlFKVVA0TzlpRDFVR1pPN1FSNUxldnJPaVdDdDhZX3dybjhoUFhCNDFTdEN1SldsNXhSVkRsYXNsWU5CbFFuMXljUjJSRkVaaG1aVUxDQXlwa0tqb0FENFB1VEdsQWTSAdABQVVfeXFMTUZLS0dhbE4yci1nM2IxZ216TEJKaFdKSk16bFVPamV1RlZsUGFzX2JvVVlyNG1vWTdxRGUweWZ3bFpkd1hnRko0ZG5oYmpOTE9jaU40dWJPa0w0Ulc3elhnT241cVZKZEtOVVVhYUxILWhiNmRKNFJQY2dKMXo2WTJXQ2FhZ0tQWjFoaUxOQ2RPNENwdHhxYjZaWngyenRmMmM3TDJ0NUpJcHpuTHo5YUhBSTZLUGZ4MVA5d1NjcFZpc3F2cnFvdC10OG5mNHoxOQ?oc=5",
       "date": "2026-08-02T07:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Nahan medical college"
     },
     {
@@ -160,10 +140,10 @@
       "match": "Nahan medical college"
     },
     {
-      "title": "कुशीनगर जिला अस्पताल में विशेषज्ञ डॉक्टर नहीं: मेडिकल कॉलेज से संबद्ध होने के बाद भी मरीजों को बेहतर इलाज न... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
+      "title": "नाहन मेडिकल कॉलेज एसोसिएट प्रोफेसर डॉ. राघव को पितृ शोक - mbmnewsnetwork.com",
+      "source": "mbmnewsnetwork.com",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeG5mZ00wTlN6djJHak9wU3liMWJ6WVB4VGc0NDBGLUdBdnlYaktrZ1ZTc1NacE5SU2hVRXV4dHRtdzFmZlRKNGpLczM1MkdZejJYOFF4YUkxakFUb09Va2FDRGhfQlUweU1ya0c5c1BnanRwdVlmQURfZkU3VTBkZ0hSc0F5enN3ZDBMbFBEaFlsYTBrMVdjX2FmcHBEOUJ5YXVqOUg2OW1LRnFXSWUtcUQ3NnhoY3NvbjlSUG1sTGxqdVhaeFB6R2tmNmsxUV92N25tYTRzX1VOZ9IB3wFBVV95cUxOWWhkUUxqYUpwX3BoSWhVOWh3cjFtYXc3X3JSSl9iWDhXZ2pKRk1kRUNmTkM1QmpiSW5xd2k0VFRnZ21GdC1UbGZqQm52d1V2dlpneFZIVjdMUXVDVXRhVHRxZXF1blJBUE1FMW50TTB0cUo1REdDdzFfMGhuSEJsajRXc3c5WTBxTHNvaUxxcTZSMmcxRWo1djdsWVdCVWtqbEgtWnZlVEt5cnFuX21TT3lxdWY4X0NGRW5IaVFaYUc4VVRKdHFINzhOOUVNcWpBZDFKVW95a293Y2ZwSjFV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUEU4QXE0bkZzb0ZVRHZDOWZfclZrUWowTU5OZnNmeHduNWdzZFR5QU5NTVhrNFpXb0g3RklWZUpJODg5T3ZFQS1qZjhWc0lZZ2RqeEpVT19VZlJ4RGNVcy1sVVl2MEhvX2diai10dHR3WG0wWGd4M3hpNzAyRERzTU1fbDRUd01pU3ZoZmlpNHluZGlTdDdkaFhEM24zU2ExY0tyTTQwRV85MTZiM2NnenZqMUtfYWVWVkIyYk44aFZXTzczRW9JdQ?oc=5",
       "date": "2026-07-15T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -208,6 +188,26 @@
       "kind": "press",
       "lang": "hi",
       "match": "Nahan GMC"
+    },
+    {
+      "title": "Sirmour: डॉक्टर्स डे पर नाहन मेडिकल कॉलेज के चिकित्सक सम्मानित, इन्नरव्हील क्लब ने जताया आभार - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX3RPRllhdHpVSDFpUkxtb2lScnBNeXozQmlmTlJ6cTdEcGkwclRjdnBiWHg5VGJOaUdIeDVTb0tWa3VqaGJmWTZqN2Z2RmVuTG1qRGYxZEZtUFJZUVhiNmFDVFVJakFaaFJRVVBBTWp0VjIwdWR3ZDJSQTdrOVE2QUhZY0hCRW03R2hRTVBPZm94aERwd2hQZ3BpcTc4ZDZkM0FWZlEzb2p1NHdJQzAxNjhaaFg5LURKWC1UMkZRTVlleXFMTVotYkZacXlJakFBUGk5SklfOETSAd4BQVVfeXFMTlNLN3Z2Q1d1S1BjdkJfNi1RcHpDZnpCejJlYURraDRELWxIdW5ZVmhvYWxUUDIxeDR1NmhNZXN1b1ZlZDE4QlZfeGZqVEpIYWlCRVg1b3g1Sk9nUzdXTHZOQ0ZldTUyMmJfeHMzLVBROU5HWE0tNzU4Sm9CeXpCbEtCQzFJZWxyOWkxVlNraXV5TnljZTdKMnJYeDlaXzJZT2JKMTNRWG9kTmFIODFHdHhLbXlXMTE3QkdrcGh3OXRZNGdiQS1rc0VwUHBSX2VKYXZiOGE3VVc2MlBWdmFB?oc=5",
+      "date": "2026-07-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "बहराइच: झमाझम बारिश ने दी राहत, लेकिन बहराइच पानी-पानी - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT2dGTWUtLTgxVGtpLUhoUmVlRVhmNlRFUWUtMlg1ZnpGNFBTZ1haVnBlU3ZFcHFvWXdwQzNsaUdCdDhXcWRObnZBR0R5cUZFRFBRVi01WTc5azl6UGpkUnNqOHhONnJ3MldBamc2ZTloUDVNZXpOeTIySkZwRzJfSW9qd05jd3FOTVB5dndHeGN0aW5zby0wcUVxaHBmb1N6ZEM0S3lQWEg0TWNkRHFrUEdaTEUxQnJDWkd2VGI0aGoyR0JfMkhITlc0VHoybzBfd2tJ0gHYAUFVX3lxTE5tMFNva3pUUTdpaHlFV1ltUW9fWTdVVFM3elNMaXVXcDc4NWpmS2U3RHBJWVhwVmYyUEhGN25tYWJyalkyNGdMeXhKbF9NcmljYnRPTVcwUklqQ1hFa2Rib1UtaEp6bTRhTlNOWUk2OEhUWGVrMlZLZXY5VU92QzllQWpEcjFRUWI4NE0yVEJVMnVjbjlTQXo4dUYycWh6RVBvSldYWVU3akNFVTkyMl9wRVhQbDUwdk93S3ZtT0tkRDVKdTlkeEtNUHJldDh3LTBHVG1GblVqdw?oc=5",
+      "date": "2026-06-30T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
