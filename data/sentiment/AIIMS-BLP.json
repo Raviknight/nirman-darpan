@@ -1,62 +1,63 @@
 {
-  "updated_at": "2026-09-10T21:20:38.433Z",
+  "updated_at": "2026-09-14T22:14:25.902Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
     "positive": 12,
-    "neutral": 8,
-    "concern": 0,
-    "avg_score": 0.23,
-    "avg_magnitude": 0.23
+    "neutral": 7,
+    "concern": 1,
+    "avg_score": 0.215,
+    "avg_magnitude": 0.255
   },
   "youtube": {
-    "n": 34,
-    "positive": 21,
-    "neutral": 12,
+    "n": 35,
+    "positive": 26,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.321,
-    "avg_magnitude": 0.394
+    "avg_score": 0.471,
+    "avg_magnitude": 0.543
   },
   "overall": {
-    "n": 54,
-    "positive": 33,
-    "neutral": 20,
-    "concern": 1,
-    "avg_score": 0.287,
-    "avg_magnitude": 0.333
+    "n": 55,
+    "positive": 38,
+    "neutral": 15,
+    "concern": 2,
+    "avg_score": 0.378,
+    "avg_magnitude": 0.438
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "love you boss amazing content 😇😇",
+      "title": "the song.....omg it's so nostalgic of 2020 era , every tour had this back ground music......btw the campus is soooo pret",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "best youtuber for medical i mean yeah man i will c0me for this 2027 lets go",
+      "title": "My dream college Very beautiful aiims",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Toooo addicted to this college😍",
+      "title": "Ya Allah help me getting in this institute its my dream to study in such nice college and full fill my dreams.... I want",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
+      "source": "press",
+      "title": "Two imported dialysis fluids at AIIMS-Bilaspur fail quality test - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1FLWmN5ZDFxcFV1aXFfclhraWxGXzF1Qnd5dGZVLVRpTmJGNVktYXR5RFpnTmNkQ2ZlcWxoSjRwaXd2UHlNd3paR0pKeXhZVndVbUd6X2xvQ3hJLV8wTW1sbW9wazZVVWJacHR4UjczQWxYeFJhRUt4VUVDbWFKeWVMa25fQ3RxbFhvY3B2LUpESTcwUHNlTjh1eno0aVJWTFFzNmVTWUpCdDRjV3FsLTRQWFdKazQ5SmdpOEdEdUdKU0F6WEhnTjlxc0bSAcwBQVVfeXFMTndRS1pjeWQxcXBVdWlxX3JYa2lsRl8xdUJ3eXRmVS1UaU5iRjVZLWF0eURaZ05jZENmZXFsaEo0cGl3dlB5TXd6WkdKSnl4WVZ3VW1Hel9sb0N4SS1fME1tbG1vcGs2VVViWnB0eFI3M0FsWHhSYUVLeFVFQ21hSnllTGtuX0N0cWxYb2Nwdi1KREk3MFBzZU44dXp6NGlSVkxRczZlU1lKQnQ0Y1dxbC00UFhXSms0OUpnaThHRHVHSlNBelhIZ045cXNG?oc=5",
+      "score": -0.4
+    },
+    {
       "source": "youtube",
-      "title": "Bhai is saal milte hain\nMay be I'm coming in 2026",
+      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
       "score": -0.2
     },
     {
       "source": "youtube",
       "title": "Bro how is the department of pediatrics is it worth taking in bilaspur",
       "score": -0.1
-    },
-    {
-      "source": "youtube",
-      "title": "Mein apni jindgi ispe kurbaan kr sun but yeh mujhe kbhi nhi milega , iska cut off clear mein kbhi nhi kr skta",
-      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

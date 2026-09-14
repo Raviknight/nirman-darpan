@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-10T21:20:48.849Z",
+  "updated_at": "2026-09-14T22:14:34.569Z",
   "project_id": "SMART-SHIMLA",
   "press": {
     "n": 20,
-    "positive": 16,
-    "neutral": 4,
+    "positive": 15,
+    "neutral": 5,
     "concern": 0,
-    "avg_score": 0.265,
-    "avg_magnitude": 0.435
+    "avg_score": 0.235,
+    "avg_magnitude": 0.42
   },
   "youtube": {
     "n": 20,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 40,
-    "positive": 20,
-    "neutral": 14,
+    "positive": 19,
+    "neutral": 15,
     "concern": 6,
-    "avg_score": 0.123,
-    "avg_magnitude": 0.347
+    "avg_score": 0.108,
+    "avg_magnitude": 0.34
   },
   "top_positive": [
     {
@@ -38,9 +38,8 @@
       "score": 0.5
     },
     {
-      "source": "press",
-      "title": "संजौली मनीषा मित्तल हत्याकांड का LIVE वीडियो आया सामने, CCTV फुटेज में ताबड़तोड़ फायरिंग करते दिखे दो शूटर - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcndRaWZYNTJrUXN4S0RTZnY5ellmZGdMY0RyWFlyVEdoM0dCOTZ5OFlyUi1iU3Etb040S3JLYUJKdkp2TmRuRzdycG5rNk9KZURsT1ljNnN3WEdMU3hYeWNLemRRMEM0Wm93a09uT21ZcEFZNTl4ajNpLTE4N29aMFY3dXViSDJkenZGa20wTnlXUDBEaElvdm5fdGFxTk53MGlvZlJsenpUazdE0gGyAUFVX3lxTFBzaUc3VFhvdF95aXNQZzVhRFVOSnlub3NOZ29xZU1xRmQxNTRNdHBjSmwyU3hpeWZRaTZUSUdKNFdiVG5ZMkxEN2RYM3c4RjNQTFZBZkpOUlFPRmhDSDdkNGNqWXdtWFNCOWtmdzJxSDBwTjZpdm55amJZOFNQbHZpQlBNekdhNVFrN2Zzb2t6bjRabDJMTVk4TjZ6eXNDanhVSzF3LXpxWEp3cEZFYmtYYVE?oc=5",
+      "source": "youtube",
+      "title": "My school name is gd goenka handwar",
       "score": 0.5
     }
   ],

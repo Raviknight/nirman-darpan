@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-09-10T21:19:27.914Z",
+  "updated_at": "2026-09-14T22:13:06.061Z",
   "project_id": "SMART-SHIMLA",
   "counts": {
-    "press": 77,
+    "press": 66,
     "gov": 0,
-    "en": 30,
-    "hi": 47,
-    "total": 77
+    "en": 29,
+    "hi": 37,
+    "total": 66
   },
   "mentions": [
+    {
+      "title": "Shimla News: बैडमिंटन में लालपानी और शतरंज में छोटा शिमला बना चैंपियन - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEl4NWtENGsta1dPb0g2azRiVUUybGdpLWxiNXU5RjZ1cEVoVGdWS0cxMm1UaXo0TUw4ZEdPdUJVNzF3cDdhd1A2S2JIMVRpV3hVUTVDVmNXUVRxVkQ1T0paXzBZNTJQRFFGNEF3QkhIQkE0MGllZmZ6SFo2S3ZEVjZYVWtpdkxYQ1NXdERxUVV1VlR1LTlIbmlHYUNYd9IBowFBVV95cUxPUWxIc2s5Q212SHowZVAwQzMxSEdTUlY3a2lYZTRjb2s0bGVrYlVEelJRZ01mbVhXVjRSM1JReWZENzE2SkZmWVBTMVY2eFplUGlQbUE2NGRZLThvaGtLY0plb2JFbl9jZVdGeHIzZy1naFRKUldJZTRCY1BORGVKR2hSWGFRczdzdXZHYTBodmZNV3dLQjR6cG93UEVDT3ZOal9V?oc=5",
+      "date": "2026-09-11T18:25:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
     {
       "title": "शिमला स्कूल बस हादसे में घायल छात्र की IGMC में मौत, पिता ने जिगर के टुकड़े का अंगदान का लिया निर्णय; ताकि बच सके कोई जान - shimla accident victim hardik chauhan dies father donates organs - Jagran",
       "source": "Jagran",
@@ -20,31 +30,11 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "शिमला स्कूल के खेल मैदान के प्रवेश द्वार की नींव रखी - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRTRZWXRWMXkzNkN3ekp6UDhWNkN4bUNFUEQ5SjUxUWplUUVWWUNkRUNDd3ZfY2Y4eDI3ajdWOE5ySWFubW91NG5ESjAwYkl6clpjc0dTSUZQZHdHZ3laV2k5WXJyUGkxZ0hnWlVxanVKQ29RRzB6cUFpbS0xUFlFMEVtNEtkX2pVYjU1R0s0cllPcUx3OTR6bVVxN0hoay1nX0pKZWNWOEd5WkR5LXFuVkZ3NlhWV2N0MEpIVm1qS0tqdWNrenpnQ1RIRTVFaWdrNlNCS0hGRGpJNGN5aS1FMGFuTW1NLVcxeDFRZVd30gHzAUFVX3lxTE1kQmR5bzRlN1pSSVdxUGFsanVWejBmdzZvSXRwaE5XdWY5YThIU0V0UjF2Nk5XRE5QX3k5bDVxQ2VyQ1JRcXFsM3EzSVQ0M0txYlc3UXBrcVhzajVNemtBaFA2b1ZuYTlDS1FmbzhaeWl1R3NwX1lKSzM3a21YX25QNm1uYUhXam9QX2U3OWVqLVJVX3B5TklMT1htTFN2YmpNUEZKSzU1dGRWNUhuTElzSFZaY1VXZEFKeEpldFd2ckhIdlpkWXNtV0o1NlJ5MTlSYWs2TWJnQ2dJekFrZnlhVmpvUUt4T0lSVlJnQ0pNenhXVQ?oc=5",
-      "date": "2026-09-09T00:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
       "title": "नशे के खिलाफ अब सेवानिवृत्त सैनिक संभालेंगे मोर्चा, स्कूलों में चलाएंगे ये विशेष अभियान - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDhPb1JhMUltbEJLZ1p1UmtuVW9aaGNDSW9rTEoxV2ZESms0REFqUjF2TXZJTzJBSWsza0FvMUhrZl9GWjZVWC15Z0I5RzI5MllkOTB4RWVaUVpRbEpuV1RLVnhmWlJvMWhodG52SnpfcFhTSWw2TVNsTjR5azNjbHl4dlp5UUxaLXFUelNfaUpxRFM0dVRNQkxsc1ZNMHZleG5rVS13NU3SAa4BQVVfeXFMT3BDRlBhOEFQaURYakRXR1FxX0lueGE5cG9Pbk4xY3RfdDZtRG5ucWlZSHN1SG1zN01BdTk0ZDhRNV84S19zV2RRQkdCQUg1Tks2TDRqNzBIVl9lWlVPcS1aUnpVNnVLZE5NaER0Y2M2VkhPZ3BvbXlHNGFyeExkRVY0NFNGeGlRc2FmRUZ3NUpwd1g0QkpLRkhUVmdlNUttWWFWeHVuc0dOY0FWQ0Fn?oc=5",
       "date": "2026-08-31T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
-      "title": "Kaithal News: संसद एससीईआरटी प्रतियोगिता में शिमला स्कूल रहा प्रथम - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX3puUE81RXVObVFENlJvaEhORnhzaDJWNDViTF9mc2tkdGgzcC1SVXhoUmpQZGg5UXAzV21MaFFyMFNWdnM1OXVJTEt2NTB4U05zWm1VWGZoa0thdUJibFpBUmlwNld2cTVLc1ZNMG9OYm5xS1VzWEtqRDJKQWhlTVlFUXNBYXBWTHZ0Ql8yV2J2VXBkbWRqUF94ZDR3b1NHcTBFSGlzbTNVNW5HTHoyUXM2WkJRVmJTMmt0Qm5fZ3daNDg0ZmhjU2cxOE8yR19pYzN0OXBweW9GaExVYWtTbEdfVmEzMTZNNEHSAe8BQVVfeXFMTkNPdDJyeEphNGNZc1M0ZkxfbVh3TmhLUm1odlF5NFpYakQwM1hRcmlDeDJ6UFVEa2hMcGZsUm9ESFZkQWdwZDFwY1I1dFVqcE1qSTdVaUE3Z3ZqRFg1UlVybGpVa05hblpzQzFvRERfTUtXcVVkbHpJc0JNQ045dThxaWdnQ3FCdTNQR3hTVHBVa2xYMEVmdXNRWWNGM1Q3Tjl6Q0tIX3RTVkNOOWlScW1SdXdSMW1EOFZHY2VQbTlTbEUzNWo4OGZ2dXdvYWJ1MEl4MDlwWWYwTmc5ZExxTDRPVF9GdzBNZnc3OG05OEU?oc=5",
-      "date": "2026-08-18T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"
@@ -84,16 +74,6 @@
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSnRMeTRtWVBxQ1NIeURiLWdZSWM0S0VDZ1pMa1BuU1hUUmx3c29zT0UydGhmNHlyUXM1SlVjSklRTW50X2piVVdDSkRJQ3ZPd1RpbTlON3RkRTlodGRXMkpiSFhhWDROYmxLYUhsQTB3ZFNRWlFSMXBRaUN5emhUYTVtSWZqMWowZnhpMmlvemJFWHZ5M3VYX0dKcFUzYm9OWnZPdjFGTU91REZ3NlRtT1E2cHkwazEwRG5FXzdoT1N3MXpoNGRINlJwVXJKQWdHV18yR1VCWmZkTzZyT2hhanQ5aWtlQUpmbUVDRUh3UU3SAfYBQVVfeXFMTTROMG1vVWdlajA2VElzTkppWkxPUnVJRGxURUpKejd2WlpOT2l6dVlLQl9OXzM4bFdQVFZPVHF4UzJjVHV0d3hodHQyUnYwSFVjblZ0bHE5c1RQejE5dGs3NUhvY1lvRHh6LUFtRENvWi1VemVNLUowQ3lLT3lnOVE2dmJDb040V0JfcFdBODZERnlFbU1zMmxNY3AtWEpZbmF6VXZzazJhdXNIckxJTWtPSmhPWUhvaUNyVDRoYmhRQmxnYmVDbTVWTHhGYk4zQU9QUHVKTmtSYmxPOV84bHZuSm0zVkVLYUR2X0dSZGNnM3pKbURn?oc=5",
-      "date": "2026-06-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
-      "title": "संजौली मनीषा मित्तल हत्याकांड का LIVE वीडियो आया सामने, CCTV फुटेज में ताबड़तोड़ फायरिंग करते दिखे दो शूटर - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcndRaWZYNTJrUXN4S0RTZnY5ellmZGdMY0RyWFlyVEdoM0dCOTZ5OFlyUi1iU3Etb040S3JLYUJKdkp2TmRuRzdycG5rNk9KZURsT1ljNnN3WEdMU3hYeWNLemRRMEM0Wm93a09uT21ZcEFZNTl4ajNpLTE4N29aMFY3dXViSDJkenZGa20wTnlXUDBEaElvdm5fdGFxTk53MGlvZlJsenpUazdE0gGyAUFVX3lxTFBzaUc3VFhvdF95aXNQZzVhRFVOSnlub3NOZ29xZU1xRmQxNTRNdHBjSmwyU3hpeWZRaTZUSUdKNFdiVG5ZMkxEN2RYM3c4RjNQTFZBZkpOUlFPRmhDSDdkNGNqWXdtWFNCOWtmdzJxSDBwTjZpdm55amJZOFNQbHZpQlBNekdhNVFrN2Zzb2t6bjRabDJMTVk4TjZ6eXNDanhVSzF3LXpxWEp3cEZFYmtYYVE?oc=5",
       "date": "2026-06-20T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -200,11 +180,31 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "'मुझे मार दिया जाएगा...', रोहतक की मनीषा मित्तल की शिमला में हत्या; महीनों से पुलिस से लगा रही थी मदद की गुहार - manisha mittal from rohtak murdered in shimla she had been pleading with the police for help for months - Jagran",
-      "source": "Jagran",
+      "title": "Explore multi-storey parking at Lakkar Bazaar amid rising traffic: HC to Shimla MC - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVjhaYnN2WUtPQTZNTkgtQlFOeHpGNkJNWEViLW5MTGxTa1RJMjdyTGNtSWIyRWtmQjNNUmxDVDR6Vkd5Y3NvNDFjeWc0eDRUdl9JaUZxQ3RKOG11ZmUxYVp4enZLaW9VblhHOHZQN193UkotMDJZZjgyNUhBUkZFYlNRbmprSDRjLXVZQWtUdElacXZqYWNXdE1kZkZOcDcwdkc5d0RqYml6QlNZVFRsa3QtSEwyOUhxZzQ2TkEwSV8xVzZDa040WF9CX3V2TXRWSUNHVF82VU04TzNlX3ZFYWFyMDVfR2xiOEVEZHdXNjPSAfYBQVVfeXFMTzBzRGxEcDNmVE1IVFpMM0JhU0JwYWFDQTdUXzlad1NzSy1aRVJNMWc4UVloYlR3NUx0dkFPX3JHTi1NWVNvRHkzcGdBRlE3YkdKSE8zZDdnYlIyWUU0WDBGYjlmY2ZraGQ1TkNFcm50ZC1BVmVKaVFMeU1JWjdacndfZGlPb0MzUWg2ZkdFenlSdmtNZ1J6VEdjSDFCVzdxQUJMcUJiU0RQdGJIU2ZlNkRHaFFSaU14d1V6dm1xMkF3cGtsMGRIUndvdDlLTlY0Nm1RVWhSVGRiMTRZYnBsOUtJa2g2VmVBXzRrT3RRbnJ2bTBLNnZR?oc=5",
+      "date": "2026-05-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Smart City Mission"
+    },
+    {
+      "title": "High court seeks report from chief secretary on steps to unclog Shimla traffic - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQelFXT3FwdmJaTFBpRVZBVVdFckpDSnVqT05JUkV5MGRXTVhiUVA5UEJPZWlEclpGendlc2RyREFiM2N5TUg2LWVobTE3TDY2S2ZPMGdhVlR4Rmh3WE5WZXpTUW1ZT2MyREw0R29nMVg0cUtTalFOVXFINXFVdkFweG5ZT2RwXzZrbmNudjZteUJYajh5SXl2bzNwVHB0Y2owMmFMNE84OFVIc21HZlZUMlBFY1E1RXlwZGpxYXdyWkNPRXJGbV9XQ2FZMDQwR3FHSlNXV2t4RDBlU1BLN2xF0gHkAUFVX3lxTFBTT3poaldUSGp3VWJXV1ByUVVCeWQ0djN2MGVqZVhHVUs5ZGdMejRfb0M3cGc3R1JOaG1Mb3Fkd1hBdDZ1dEMwWW9venhwSU5QMDBteDRfUXNqMENTQ3N1eFBsd0NYaHhlcU9TWTVpVjdoQlhCRUNtbFlwWURWcmFQVGVOTWFJVWJ1LVN2ZVlpOTR1ZWlNbXU1UlBmZllHU3dfcVdtcWh6MnBQYWFoQ1FwYU9uT2hYZUo1dVRuNTQxOXFyQmM2Mnp6UHh0Wk53T3hSb1RoU2h6WTRhMzZBbWNhRlhRSA?oc=5",
+      "date": "2025-12-21T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Smart City project"
+    },
+    {
+      "title": "शिमला किडनैपिंग केस, करनाल के बच्चे की आपबीती: किडनैपर बोला- उंगली-टांग, सिर काट जंगल में फेंक देंगे, 2 नीग... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMVl5ektWNTVacXd0cWM4Rkt6NGNIY3NDODYzZzdyYkl1d3kwN05FT2syVVhrUm9VdlI5NDZHc0Q5djdGbWV1ejFEWHZva1RyamhuTThYVmc3cjRieWlXZlFLODEwbUVrRXJHY3RreDBlWWZNcDZ3N0FKZGtWY29QZkwxbXF2QnRZMTBRRlRsYXdQWUtNLTBHUDFFaHZnSGFHc2x4bFhTejRJSWl0SE0xSzJmZTZNREhhTTRvUTV5QUJRTXB3ak04eE9BVl9kaTZNN1hIbEJtaWFFZjZTeUZDa2oxQVdJeHNMbENN?oc=5",
-      "date": "2026-06-14T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlBwYWl5eE9jdkJJc1NEY3FIU0JmVUVwajNGNERpckNoSHV5d1pvUEZfQzF3TEN6TVJvckRuZldIdWlZeWJKOGJEZmpxVW41a2lWUV84TDJRNkxOVkQ3ay1GNDREQXhIZTdlcjRweFhFWXczTFpyZVNlSmpMVnIzQUZJVDVuS0xOY3o0OWV4MW1VdzhfR3dwbnNvaVNFX19sMFQ3UnZscEZLc2F3WkxkNEpJSTh5TDdjRWfSAb8BQVVfeXFMTy1JM1RrdmdydE44OHRXeEdyM0ViVXd1ZTEtZEF3SlNhYW5zV3dFbWlJcE04SlVWZ2tjWG9mXzBMbmxYbC1tRlUteVp3U2JmcnEzcmRyamJoUHdPWjFlaG9aZndZOFByOVlKRWc5Q0ZMaFBiUzBUT3FTY1Q0ZThnbkNZY2tkN1dmWmJZV2xoeDhFVmpCOTdNMjhmMHFSOGRoem5DRG1UZ3VkVXptTVE5eG1KcDRDeWRoQWMyUC1PdVk?oc=5",
+      "date": "2025-08-12T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"

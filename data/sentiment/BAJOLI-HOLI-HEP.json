@@ -1,48 +1,56 @@
 {
-  "updated_at": "2026-09-10T21:20:53.855Z",
+  "updated_at": "2026-09-14T22:14:53.675Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 9,
+    "positive": 10,
+    "neutral": 8,
     "concern": 2,
-    "avg_score": 0.13,
-    "avg_magnitude": 0.28
+    "avg_score": 0.17,
+    "avg_magnitude": 0.295
   },
   "youtube": {
-    "n": 7,
-    "positive": 4,
+    "n": 4,
+    "positive": 0,
     "neutral": 2,
-    "concern": 1,
-    "avg_score": 0.4,
-    "avg_magnitude": 0.657
+    "concern": 2,
+    "avg_score": -0.225,
+    "avg_magnitude": 0.275
   },
   "overall": {
-    "n": 27,
-    "positive": 13,
-    "neutral": 11,
-    "concern": 3,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.378
+    "n": 24,
+    "positive": 10,
+    "neutral": 10,
+    "concern": 4,
+    "avg_score": 0.104,
+    "avg_magnitude": 0.292
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Super videos 👌👌👌👌",
-      "score": 0.9
+      "source": "press",
+      "title": "हर ग्राहक को 125 यूनिट फ्री बिजली, होली से पहले इस सरकार ने दिया बड़ा तोहफा - Hindustan",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbXh3MWpIYWJZTmNidVdHWl9jNFRPWXVtdTJXQzBkRTV5MzBsRlBQaFFqSkVxSHFUZFBjZnRuQmprLTJJRGVCdnZiSENhZTNpbWJKdW1vNW5WX0l1TVBZSjBacl94Qm9yV3VkYlk4OFZwX3VwSEllSFdxWGJ2VmxlV1UwTm5lb3BqU0FfNW4xSVZQSFhpTE9aRk9rdVVLMURJd2hlVms1WEVEd2FvdGdhSkRaNDZteW9wQkNUOWpiNDZpVGtoR3NQSGF1Z09EQlNjUGJQYkpKZkQwN3JCLVMwdkdLY9IB6AFBVV95cUxPWS0tTWhJM3lQRGZVaksxTHZTQ2pVRHY5NXZ3M0otRFVrRjhUdGFURFRuSE5KZC1yLWs4NWRZTl9uamxiSUJCdXdabmY5bjBkLVVDMnEzRFJMLW1BY1RJblZrRjR4TUMtaG1RdnhWRTVRU3VYbEk1WFBOTVB4WXI4VzRsM0Joal9VbUI2cGNBem9OLW5oZlVaY1BKanAyRG5CNlRCazFtMVMxb0h1NUdDTEZ1bEhOZFZjeWtka2g0X1VXOUQyckFIX1BLSG0tRGNudl9ZWlhkcmduRFlVSHZQN0ZxV01BU090?oc=5",
+      "score": 0.7
     },
     {
-      "source": "youtube",
-      "title": "Awesome bhai...  Thank you it helped me alot and opened my views on hydro engineer.",
-      "score": 0.9
+      "source": "press",
+      "title": "बरेली में होली पर रामलीला, 166 साल की परंपरा; मुस्लिम समुदाय ने किया यात्रा का स्वागत - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1RsU3Z1dEFZOGFrZ1FpdTNrcWh5ZVdsWUNwdmlWaDE3elZSd1J0UktOZFNkNUxzRTBWX2VaTk9kcDM2Ul9kVE1LNDF4Njl1VXlfYVBSVzNrMTg5VGx6d0tRcVpXZ2ttdERRd3NGX3dXNnVfSmJ5MmlfWV9hQmRvODNUMXp2aVRZdHdrcHlPbFJweTZhZjQwaDlOYWtfRXc0TUUtd3JMZ1hDenhwRjhHMHdGcFI3N0JlTTZLN1NaZUFjWEhfbWRENzY0OWg4UlN3NTlib011X2FwMXpLMmNoWEZ30gHnAUFVX3lxTE9ZVUpvUnhfcTVyaVFTZDBuQW14RDBvTFBDQzBvdXlDQ1RBLVRWSi10U25zMi1yZlotV3hyY05sRjR0QzVKQnNJNm9wdk1UdGRtMlliVW9ISUFDLTZ2Z1habHRDZkNlVkM4NTBHN3lCY1FhYW5PMm12RnNzSm9KU21TbGJjRTF5Z19jeTZHQU4wVHRfbFBpQkpPSWlrV1ZQRDZrMWRQY3Faa2UyWldoUlZ4QjRlRk5zZjFfUXNEcktjbkY3OXJsaWt1ZzI0RUNacE1yTjFQLWF2cTROVzhzWjVPNHVYOHJkZw?oc=5",
+      "score": 0.6
     },
     {
-      "source": "youtube",
-      "title": "Aapke channl sasbcribe krne ko varsha jariyal danser ne bola h.good job",
-      "score": 0.9
+      "source": "press",
+      "title": "बरेली की रामलीला जिसे अंग्रेज भी नहीं रोक पाए, 166 साल से कायम है परंपरा - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWxpYnhSMWIyZ1c1UGJld0VzWkhqczQzSC1RM2pDbUZ5UVhtT0htVW5CeE9SbU45NGhUOE1JTGVwbUlWNGUxRjNYNUcxRDJqRGoyWFIyWW5iT2hJc19OY19yelR5UTY4NGY3Vno4TUNEQXkzbjAxbHdPcGRweDQ1US05dW1GMzctMXJ4SjJzZVUyVVhXUmJoRGx5dEdBTS0zWXZybExaTHI0SUhZX0RrS1JjT3lib0lGdlpiWF9ldmZnSnQ0Y21TVzF2aE1xNU1iYjg0eVFJM0NIa1nSAeABQVVfeXFMTnMzVG9oYXBnVjNhdklCRl9UQlYzbTM2VG9hRFNCMzdOWER4Ylc0YV8xYVdva0pQLVBQVmctVUQ5OENQNUFlWERnQlo2dXpWQTZoNzJhMzlEc1N5R2hkczBsSk9zOGVRbmlqOEdUcWs1T0VpMWxKLUhqTVlTd1F5T015LWFockNVcVJpUWFiekhSRU1NSFRORHBCbGpWcGllbUkzY2t6em04QzM0eldwbzhkWmwxS3lmOVVDeERUMVZUM25tckpwS25PRkFMbjU1VnlMTnJGbXU5LVFEZmtrWTU?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Biggest blunder of Hydro Industry ever",
+      "score": -0.6
+    },
     {
       "source": "youtube",
       "title": "Chor company hai .. GMR tabhi toh loss mein chali hai..gareebo ka haq maara hai ..tabhi bik rhi hai.. ek din pura group ",
@@ -50,14 +58,8 @@
     },
     {
       "source": "press",
-      "title": "In Chamba, a village cracks under shadow of another hydro tunnel - The Times of India",
+      "title": "In Chamba, a village cracks under shadow of another hydro tunnel - timesofindia.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlRPSWR3ZmlKRDhabHhkZVd0WHhrZFBTdExCaWc1RGI5eEVtMklKS0JhVzZ6a1dtR3Z6SWlHVG5FZG5wYVl3TXJKU1Z5WVZKRzNrNmRXR3FFNnNIZzgzNlpzYnl1V0p6SE1XU1NPZW52WDJuTVR5VmFFaTdSVmlwZDh3eXFKbnJ3VmUtQUswNkJwTFM3UWs2TUpzVDhmUGtWNmxseFUyZEwtV3RnSzZjWXNOMnItc21WMFFlQkp1cXlnSkRWZ3JTYnZn0gHPAUFVX3lxTE5Yb2ZzUFpnVURtcHhTSDZDTlNxeEVlck1PM0lCaVBxNlBma3dIU3lkVnVDSzhkWi1Wd21RWHZGYnFKTGxBcXU2dkZQblRQSzVKTWZJUTEzQnduRm5YMWI2LWk2LUdOT3pXLWRTaEVYWmg0OVpJYXRoYVloZ000eDQtc21EWHhrWlZRU2F0VE1GZWNJNU91anMyTVRsRUJpYW1reXQ0RUhSeGZjUVdzMmQ0cVM2N2c5RmtqR3g3clBrUE95VmZTbENqWHBVMEJ3Yw?oc=5",
-      "score": -0.2
-    },
-    {
-      "source": "press",
-      "title": "GMR Power to sell stake in non-operating, stressed assets; stock zooms 15% - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZzRybXJVcXZmaU1FTi1PVXVULTQzdHlLRUIyUHdOUDN2MDFtVlBDZ1lIblVNc2JibFBuMm9yZlcwN29TdUEyd0FlY0gyVm5tSVdnNElZWlJaM093aXg4a3JNcEUweW05UWVGX2NmUlA4UGVnLXhsTC0zS1hhYXZ0bE9WMFVDQkV2WlRSU1lHRlJKaVB1aFRnOWJHaGU3NDEzYmlwcWRObHNlaFFrdlg1bEJBUktrbTB0ZkRkSmlONUxNZ2JjT0xMNXVEcHNMNjVQa2k1cFk4d9IB3AFBVV95cUxOS0FodzZBbGRPMmVpUWJSTXI5WWZoT1g3ZlFDa20zcVRBWGlXSDAzM2ZRZU1ienB0bXYwS2l4a0dnUXV4YURPUnBVMmx3Zkx3R09ua0pWTFhUUi05MUM3cGNhRFh2M3hBQjYyX2FtQnFwdV9fOVFsSTVmZVhHNkxJZUlTcFoxMTgtbnI4Tk43OEFlRi1LXzBpMjd4SlJibU9PeEVwZ0V6cmQzbXU4eEFSVnFiWkFOYUlNRzZYRVh0WkEzbm5rV2hIOVc0RTFJVUVYdW81R1hURkhCVjBF?oc=5",
       "score": -0.2
     }
   ],

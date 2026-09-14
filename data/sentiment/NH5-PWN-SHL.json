@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-10T21:20:37.110Z",
+  "updated_at": "2026-09-14T22:14:18.662Z",
   "project_id": "NH5-PWN-SHL",
   "press": {
     "n": 20,
-    "positive": 10,
+    "positive": 9,
     "neutral": 8,
-    "concern": 2,
-    "avg_score": 0.125,
-    "avg_magnitude": 0.265
+    "concern": 3,
+    "avg_score": 0.095,
+    "avg_magnitude": 0.275
   },
   "youtube": {
     "n": 5,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 25,
-    "positive": 13,
+    "positive": 12,
     "neutral": 9,
-    "concern": 3,
-    "avg_score": 0.124,
-    "avg_magnitude": 0.324
+    "concern": 4,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.332
   },
   "top_positive": [
     {
@@ -33,15 +33,15 @@
     },
     {
       "source": "press",
-      "title": "अटकलों पर विराम! वंदे भारत में नहीं बदलेगी कालका-दिल्ली शताब्दी ट्रेन - Khabargaon",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdEVZcWVLVklNLWJCcVRvaXNGd1lJT2JsZUJwRVFKSFVUVHRCNGlEYlhOYTdtaUdsM2NQSlNHUlNIVUw4NHExRnFoWE8xb3VWNDE5d2tyVFhERTdMLVM2eWxvVk9NZWFkam9BNEVuczN1NFFnV1lqLTVqN2o0SHNEa0taZ1g3WERIY3QwVk05U1VMVHg5TlVsUXV2MWdQN1Y1ZkhHcHVsd0gwd0NEd3N0WldsNEpCZ9IBwgFBVV95cUxNbWg5RE11ZWFtUXFoSkhGS1VDODVvX2tBbklwTjN6TW5pRDBneXI0bTB3WTRfbGdTV1lpTk11bDl2R3JnX0hMOFpIcVJGakZGdVRPQjlybllZVkpSNFhFMUk5ME5ZV3F5X09PaFBlN0hsTTRYaVZOdmx0d08wZWMzUTdOYjFNRFRrM1EzcHNqXzUxNW9WRkJEOC1qcVJ3NFY5alU0dDBLd1lLNk1Gek5aM1BTUWd6a3ZCYmNKdkhQR1d2QQ?oc=5",
+      "title": "इस शहर की ट्रैफिक समस्या को खत्म करेगा 27 KM का फोरलेन, बनेंगी 13 KM लंबी सुरंगें, चंडीगढ़ से होगा कनेक्ट - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYWxRdGgxTXYwdUQ2TUhwbWlCQU1pVVVjaUpzcmluSnpldVFSM05oQXZuZ19yaW0yU2VVQkxlSktiQnJEVjB0VnpkZldyZ0RhMklnS094aWF2dlJPN1A5Q2dWWlh5TFRSampmbGZvQmVERy1iZVVxMUdwR0c0cTRiLXdCVGpIaldkQXFtLWh4alZIZk8yOHNyMUpka3FzYUtIeUtmOU9mRy1lSlZBZHYtLUZDZEtZRU1rVDFWaWoyemhmeVRsSzNwZzc0LWtfNzlWbS1uM9IB2gFBVV95cUxOYVlDS0pFdXloT1htbFpUZDlsU1dHYVFPS1ozc0JCcnJzVE44R05DdXJJMVROU0V0dVhwYnJCYUowUERDOXVndW1oTmhVV0xkTFBMcUh2Tk5ITWZvbGVGbkRWU3lvaTRLRWNtbzZFaEZNTEhCZkJ4RUNMY2ozRV9tdUpFSk5MbHJwdzI2V05CLVozRnJOSWZWZklna1NXeG52QTg3ZmZsWnRDbVZ5ZE1JM2M4RlQyZmtKemtRTkhqNGptRC13Zm93UnRIQ2RjYnJWT0FoaXVWVGg4dw?oc=5",
       "score": 0.5
     },
     {
       "source": "press",
-      "title": "शिमला शहर की ट्रैफिक समस्या को खत्म करेगा 27 KM लबा फोरलेन, बनेंगी 13 KM लंबी सुरंगें और 29 पुल - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVlDS0pFdXloT1htbFpUZDlsU1dHYVFPS1ozc0JCcnJzVE44R05DdXJJMVROU0V0dVhwYnJCYUowUERDOXVndW1oTmhVV0xkTFBMcUh2Tk5ITWZvbGVGbkRWU3lvaTRLRWNtbzZFaEZNTEhCZkJ4RUNMY2ozRV9tdUpFSk5MbHJwdzI2V05CLVozRnJOSWZWZklna1NXeG52QTg3ZmZsWnRDbVZ5ZE1JM2M4RlQyZmtKemtRTkhqNGptRC13Zm93UnRIQ2RjYnJWT0FoaXVWVGg4d9IB2gFBVV95cUxOYVlDS0pFdXloT1htbFpUZDlsU1dHYVFPS1ozc0JCcnJzVE44R05DdXJJMVROU0V0dVhwYnJCYUowUERDOXVndW1oTmhVV0xkTFBMcUh2Tk5ITWZvbGVGbkRWU3lvaTRLRWNtbzZFaEZNTEhCZkJ4RUNMY2ozRV9tdUpFSk5MbHJwdzI2V05CLVozRnJOSWZWZklna1NXeG52QTg3ZmZsWnRDbVZ5ZE1JM2M4RlQyZmtKemtRTkhqNGptRC13Zm93UnRIQ2RjYnJWT0FoaXVWVGg4dw?oc=5",
-      "score": 0.4
+      "title": "अटकलों पर विराम! वंदे भारत में नहीं बदलेगी कालका-दिल्ली शताब्दी ट्रेन - Khabargaon",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdEVZcWVLVklNLWJCcVRvaXNGd1lJT2JsZUJwRVFKSFVUVHRCNGlEYlhOYTdtaUdsM2NQSlNHUlNIVUw4NHExRnFoWE8xb3VWNDE5d2tyVFhERTdMLVM2eWxvVk9NZWFkam9BNEVuczN1NFFnV1lqLTVqN2o0SHNEa0taZ1g3WERIY3QwVk05U1VMVHg5TlVsUXV2MWdQN1Y1ZkhHcHVsd0gwd0NEd3N0WldsNEpCZ9IBwgFBVV95cUxNbWg5RE11ZWFtUXFoSkhGS1VDODVvX2tBbklwTjN6TW5pRDBneXI0bTB3WTRfbGdTV1lpTk11bDl2R3JnX0hMOFpIcVJGakZGdVRPQjlybllZVkpSNFhFMUk5ME5ZV3F5X09PaFBlN0hsTTRYaVZOdmx0d08wZWMzUTdOYjFNRFRrM1EzcHNqXzUxNW9WRkJEOC1qcVJ3NFY5alU0dDBLd1lLNk1Gek5aM1BTUWd6a3ZCYmNKdkhQR1d2QQ?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
@@ -58,9 +58,9 @@
     },
     {
       "source": "press",
-      "title": "Shimla landslide that damaged apple orchards was ‘act of God’, NHAI tells National Green Tribunal - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmZzYS1nZ2FOUmxEVjFRUEYxWUMtYl9zcGtPUHh4eWFJcktLX0V0eEVFMXU0bHRUb3BFUFJpTkpCNklVVzlsMEl1NVNDa0ZQdFM4VGpDV002dzdPQWRHZ3lhdnpoTlhIWGFTdlNXbTUtZUFJcTZFVGludmNDcmFneUNLd3dOOG9hRGQyd1NnTU93V0ZnSUpHbFhKWFpNS05xcnJUetIBqwFBVV95cUxNeFI1aU04V0Z5QU5zZTdEMlpWTm8wd3hLQzlHVjhGcjMwTnV1V2VMenNRelZBY3JrQTBLUjlONWltanE2OXViUzBfWU1JU1pMRFluSU4xUWlGUWFPWklXM0R5d2ptTzFzcnBXSG9YWHF1dWlJVGNMQzIzcy0wZHZsZ1lDVjJseWQ3TjVBanpnM0pYYlBoaWRwaGhSaVZmSk92b1RnZkMyaEUyRUk?oc=5",
-      "score": -0.3
+      "title": "Highway havoc: Shimla villagers fear collapse as four-lane project advances - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQalJ1NVhKYzE0aGJRTVBIc2FqdUREdFJFVlBEakNRUjRaWVRnS2lINGpuRFpnNEt2aExESHRqdUNycWQ3ZF9ZSThkcV92S2lrYmhfaXpSV3hBX3kyMG1mLXFVTjNBQml4R0c0LWtKZXJ3OEhJV0JodnMzV2RnN1FnM0dnWW5BSXdET0FVU3N2eXY1QXY0NWptZFZJNUpuc1NDUmpwOU9Bd9IBqwFBVV95cUxOVDd0T3lZMi00eEV6T1h0YTF2bk1adm5ubUZfWDVVTGVvQ2MtekVxTnh2TmFmX0RCVFdoU3JzZzVwWnE3em1xNm9yTkIwS0RJcFJnVVJaSHc5bTY5V3EzT3d2Q1poRHRNemQ5aVRXQWJlZjhMSG4waVJfd0s0SHRBQjNNakpiMm85bzd5dUNmRDBEQ2NDVlNDSXlBS2J4aFVyUERXMXdDZXNUXzA?oc=5",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

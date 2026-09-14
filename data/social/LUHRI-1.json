@@ -1,20 +1,30 @@
 {
-  "updated_at": "2026-09-10T21:19:10.931Z",
+  "updated_at": "2026-09-14T22:12:48.383Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 46,
+    "press": 44,
     "gov": 0,
-    "en": 35,
+    "en": 33,
     "hi": 11,
-    "total": 46
+    "total": 44
   },
   "mentions": [
     {
-      "title": "REC Power Development and Consultancy Hands Over Luhri Power Transmission SPV To Terralight Solar - SolarQuarter",
-      "source": "SolarQuarter",
+      "title": "Rampur Bushahar News: पीएसआईटी विभाग ने जीती क्रिकेट प्रतियोगिता - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZUppeEhjZ29CdmFUWFZRdkhqSUdYWmZsY0dveDFKNy1mbW4tcEd6Wld2dVBFNjBQeUFGckNjNnJjVU9mLXZCR01WR0tLRzU3WlJHSkEtT0cxOHk1Ykxmems0UlZhSmpQeWI0OFVSdF9JZU1QNW14LVFfNXFJTWxZd0pJazdmUDNtV3JqOGRVRk1DTW92M0M2T2lSb3VxZWRfMkNiU2ZwYTF1TzBVZHRvNDRRRzdyWnJNMkIzTlBxaUFlTHJWYzFtbW00REJpLXBOTmxfX3pvOXRCZTFNVDFoOEZLTmZqbUZ4UnVzeno1Tzg3UHRuNVB4T1oxcnZWT1gtNGhKRWlILXJKU0M2alhqc18wejdnZl9K0gGYAkFVX3lxTFBlSml4SGNnb0J2YVRYVlF2SGpJR1haZmxjR294MUo3LWZtbi1wR3paV3Z1UEU2MFB5QUZyQ2M2cmNVT2YtdkJHTVZHS0tHNTdaUkdKQS1PRzE4eTViTGZ6azRSVmFKalB5YjQ4VVJ0X0llTVA1bXgtUV81cUlNbFl3SklrN2ZQM21Xcmo4ZFVGTUNNb3YzQzZPaVJvdXFlZF8yQ2JTZnBhMXVPMFVkdG80NFFHN3Jack0yQjNOUHFpQWVMclZjMW1tbTREQmktcE5ObF9fem85dEJlMU1UMWg4RktOZmptRnhSdXN6ejVPODdQdG41UHhPWjFydlZPWC00aEpFaUgtckpTQzZqWGpzXzB6N2dmX0o?oc=5",
+      "date": "2026-09-11T17:57:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Hydroelectric"
+    },
+    {
+      "title": "REC Power Development and Consultancy Hands Over Luhri Power Transmission SPV To Terralight Solar - solarquarter.com",
+      "source": "solarquarter.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLUd0MkRlVE5VZ3F5R2JzT1lPckFtblRlMVBjWENYQmFmZkVzdFZTUFhrM3ljYi13ZGlJSDNadFFzcjU1bG02M3F3eHBpZnpBOTdaSVJtZUtSTXpiZGdJSExDcDZtUHhuV21IZEtOdjFtblA2N1Y4Nks4OUdkeWJOeWh4VzRQZndLSHdwNURFTW0wWU9ISXRuV2podV82dnFxXy1TbFAtSmJobmFoNWlXcXM2Rld0XzgwVW1wbklnbDRxcTJqbnh5Vk5YUTAyM0E?oc=5",
-      "date": "2026-09-02T04:46:10.000Z",
+      "date": "2026-09-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
@@ -40,8 +50,8 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "REC arm hands over Rs 839.55 crore Luhri power transmission project SPV to Terralight Solar Energy - PSU Watch",
-      "source": "PSU Watch",
+      "title": "REC arm hands over Rs 839.55 crore Luhri power transmission project SPV to Terralight Solar Energy - psuwatch.com",
+      "source": "psuwatch.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZV9icGNxUmREOEJUQW84eUdiWmZGd2V1dk1PS0E5OTZoQkRWaFhKa3ZjLWNRRm1WaUFLZ05kSGY0dGNzQVI5dEtkQmpEYXVuSllCWVYtZ1AyOW5kcGMwM012WnB1RkljSXp4WElpWUNENzlDcmpILXlEX2xWY3NiVWl6UEdsbHBVcUdLSVVPblR3ZGExNjFBdXc1aVB0OVJMdnZ0WDh4M2R1Y2FmZnJ0b1RGQ3dFZGNzdnVDYjRyM3Jtd2xyb2d5ZFdR0gHXAUFVX3lxTE0zcWl5aTZHaHY0ZS1zQ2VKQklNbFB5WFZrUjA1OG1Ya2lMZTZscmVUX0dlUzM2X2h4VTVZQkh5WlZEZzVfWE9QRnhueXpWbjBJZ0NteUM3anRrc2xLSVNsV3oxVGN1ZGo5MkJ6UWtLY3hfTEU0TU1RY1kxWUUtd3lES1NUaFJvSE9BelRlYTBXUExhYjZPN29ZamY3QjB2cjVheVhyRUJlZzVPQkg4VFdRMk9nU1lReWxuNkZ2S0VzQWVsYklQaUkzTXR2dktOS2ZZVmZ6dUtr?oc=5",
       "date": "2026-08-21T07:00:00.000Z",
@@ -90,8 +100,8 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "HP to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - News Arena India",
-      "source": "News Arena India",
+      "title": "HP to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - newsarenaindia.com",
+      "source": "newsarenaindia.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFRvMnh4enBWOXN3U0ZnRjdwbjBtclJtb09iTkR0WGUyQUo3Mlg2d0kzMnZMSFY5QS1xMXJsYW5XZDhzcURjbnNoeVl4MjB3OHdILXZZVHhUalBvYVRoVFc3TldyWWxqX29lUWtUU0pwNllHSERHSTgyel8ySGgwa2pVMnZCc2JaRDB5N3dHcVJPTnVPV3A5ZzNhWGZKUGpZSFYwbA?oc=5",
       "date": "2026-07-02T16:22:40.000Z",
@@ -170,16 +180,6 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - The Economic Times Hindi",
-      "source": "The Economic Times Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hOTTcxQXVwRXRWQWFMOGpvRnRzNGdETDBlckNfTzBpSng3WnluaGtzdVlGaU5xdWRnZko5cUNPd1EyQWwzTl9vbkJMVFBORmFlZ0toenpkamJjVk9ZNDZqU3JveHdPSHRYQjdwaFpnT1BUbkJxbWp6YWJHZl91MUhDMlR3enBxZkZtQVlmY20zR2NUNWRIdG83NFFIMlVIRWlndDlGUm1lbmFqbnFnZUxnU2o3ZUlxZlE1RXllU0N6Mnk1MGp5QlBPWVHSAdIBQVVfeXFMT0MxRGd6UXIyRVFGdjBZcmdRY3c5VEhrWTdhZHV2elkxRlF6emJ6eDFvVnZIdFR4WXAwUWdiTEhJaHBoeWpQdlJPcy1xS1JVTGt3SmpSaVNNdzE1aGVtd241SVdTdWEzb1F2S0lLRk5lMWs1dFJZR2RGMzRtYVRVRTAwcFM1M0VlUUNhRmF5X2h0RFNtbnRlZEdzU0RkNTMzQkUxS1pndk1FVHNIdkc1dmVaZGVoLVB0S2otMXZtakJZb01oc2ZJMk9mNmt3V3MwVVln?oc=5",
-      "date": "2026-02-06T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "SJVN Sutlej"
-    },
-    {
       "title": "ट्रैक्टर-ट्रॉली की टक्कर से बाइक सवार मां की मौत, बेटा घायल - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -190,8 +190,8 @@
       "match": "Luhri Hydroelectric"
     },
     {
-      "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - PSU Watch",
-      "source": "PSU Watch",
+      "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - psuwatch.com",
+      "source": "psuwatch.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVU5SzktRVZLeWd3Mkw4UUROMmxKQzJlRDJzS25XNnU3ZmRiendROERhMUpFRlNndDF0X0dsZW4xUy0wa3JOZlVPWDg0S2VwNTlkc3FDS0QwY1MzUXRXVkxzREZFbGNteDB1d0YwalppZFF2QnM1aW1TX2xKOVkxRlVRMkVKRG53bDNJSzh4a0tOWG5YTHZyWWNwblI5cXZrYk9QUEZNd9IBtAFBVV95cUxQMlJ0anZpZnFMb2lpRWMxN3gxejc5SW93VjVvUkY3Y0FJRGVOb3RxVGFzalNWZ0dRcjBZbWJxQWI3NlpuV2JBQ2w5dHBIeG1nX3hrSXp5bXc1VzhoMWlpUzE5UUh3S25pbzAyYTB2LWVPSWRRQ1JrZnZrZVlJZ2hEQk1KMnppRE00YW1rRzRBTlpMTUNodG42c242RmVYcmx0aGs5aXFUUjg4UVB6T2VGclphUUo?oc=5",
       "date": "2025-07-01T07:00:00.000Z",

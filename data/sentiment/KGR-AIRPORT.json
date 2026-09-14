@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-10T21:20:37.383Z",
+  "updated_at": "2026-09-14T22:14:20.723Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
-    "positive": 8,
-    "neutral": 10,
+    "positive": 6,
+    "neutral": 12,
     "concern": 2,
-    "avg_score": 0.11,
-    "avg_magnitude": 0.255
+    "avg_score": 0.075,
+    "avg_magnitude": 0.22
   },
   "youtube": {
     "n": 25,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 45,
-    "positive": 26,
-    "neutral": 15,
+    "positive": 24,
+    "neutral": 17,
     "concern": 4,
-    "avg_score": 0.216,
-    "avg_magnitude": 0.333
+    "avg_score": 0.2,
+    "avg_magnitude": 0.318
   },
   "top_positive": [
     {

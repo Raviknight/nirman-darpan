@@ -1,117 +1,107 @@
 {
-  "generated_at": "2026-09-10T21:20:11.598Z",
-  "total_projects": 22,
+  "generated_at": "2026-09-14T22:13:55.472Z",
+  "total_projects": 20,
   "total_suggestions": 67,
   "projects": [
     {
       "id": "SHONGTONG-HEP",
-      "count": 20,
-      "updated_at": "2026-09-10T21:20:11.589Z"
+      "count": 19,
+      "updated_at": "2026-09-14T22:13:55.466Z"
     },
     {
       "id": "KIRATPUR-NCK",
       "count": 5,
-      "updated_at": "2026-09-10T21:20:11.558Z"
+      "updated_at": "2026-09-14T22:13:55.440Z"
     },
     {
       "id": "ATAL-TUNNEL",
       "count": 5,
-      "updated_at": "2026-09-10T21:20:11.568Z"
+      "updated_at": "2026-09-14T22:13:55.448Z"
+    },
+    {
+      "id": "NH105-PNJ-NLG",
+      "count": 5,
+      "updated_at": "2026-09-14T22:13:55.456Z"
     },
     {
       "id": "NH5-PWN-SHL",
       "count": 4,
-      "updated_at": "2026-09-10T21:20:11.555Z"
-    },
-    {
-      "id": "NH105-PNJ-NLG",
-      "count": 4,
-      "updated_at": "2026-09-10T21:20:11.579Z"
+      "updated_at": "2026-09-14T22:13:55.438Z"
     },
     {
       "id": "SML-WATER",
       "count": 4,
-      "updated_at": "2026-09-10T21:20:11.585Z"
+      "updated_at": "2026-09-14T22:13:55.462Z"
     },
     {
       "id": "MANDI-AIRPORT",
       "count": 2,
-      "updated_at": "2026-09-10T21:20:11.567Z"
+      "updated_at": "2026-09-14T22:13:55.447Z"
+    },
+    {
+      "id": "IIT-MANDI",
+      "count": 2,
+      "updated_at": "2026-09-14T22:13:55.450Z"
+    },
+    {
+      "id": "SMART-SHIMLA",
+      "count": 2,
+      "updated_at": "2026-09-14T22:13:55.452Z"
     },
     {
       "id": "KOLDAM-HEP",
       "count": 2,
-      "updated_at": "2026-09-10T21:20:11.578Z"
+      "updated_at": "2026-09-14T22:13:55.455Z"
     },
     {
       "id": "SHINKULA-TUNL",
       "count": 2,
-      "updated_at": "2026-09-10T21:20:11.581Z"
+      "updated_at": "2026-09-14T22:13:55.458Z"
     },
     {
       "id": "JALORI-TUNL",
       "count": 2,
-      "updated_at": "2026-09-10T21:20:11.582Z"
+      "updated_at": "2026-09-14T22:13:55.459Z"
     },
     {
       "id": "BAJOLI-HOLI-HEP",
       "count": 2,
-      "updated_at": "2026-09-10T21:20:11.591Z"
+      "updated_at": "2026-09-14T22:13:55.467Z"
     },
     {
       "id": "PEKHUBELA-SOLAR",
       "count": 2,
-      "updated_at": "2026-09-10T21:20:11.592Z"
+      "updated_at": "2026-09-14T22:13:55.468Z"
     },
     {
       "id": "GMC-HAMIRPUR",
       "count": 2,
-      "updated_at": "2026-09-10T21:20:11.593Z"
+      "updated_at": "2026-09-14T22:13:55.469Z"
     },
     {
       "id": "GMC-NAHAN",
       "count": 2,
-      "updated_at": "2026-09-10T21:20:11.594Z"
+      "updated_at": "2026-09-14T22:13:55.470Z"
     },
     {
       "id": "SOLAN-BUS",
       "count": 2,
-      "updated_at": "2026-09-10T21:20:11.596Z"
+      "updated_at": "2026-09-14T22:13:55.471Z"
     },
     {
       "id": "RENUKA-DAM",
       "count": 1,
-      "updated_at": "2026-09-10T21:20:11.560Z"
+      "updated_at": "2026-09-14T22:13:55.443Z"
     },
     {
       "id": "KGR-AIRPORT",
       "count": 1,
-      "updated_at": "2026-09-10T21:20:11.563Z"
-    },
-    {
-      "id": "AIIMS-BLP",
-      "count": 1,
-      "updated_at": "2026-09-10T21:20:11.571Z"
-    },
-    {
-      "id": "IIT-MANDI",
-      "count": 1,
-      "updated_at": "2026-09-10T21:20:11.572Z"
-    },
-    {
-      "id": "SMART-SHIMLA",
-      "count": 1,
-      "updated_at": "2026-09-10T21:20:11.574Z"
-    },
-    {
-      "id": "PARBATI-2",
-      "count": 1,
-      "updated_at": "2026-09-10T21:20:11.576Z"
+      "updated_at": "2026-09-14T22:13:55.446Z"
     },
     {
       "id": "NH154-PKT-MND",
       "count": 1,
-      "updated_at": "2026-09-10T21:20:11.580Z"
+      "updated_at": "2026-09-14T22:13:55.457Z"
     }
   ]
 }

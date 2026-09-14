@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-09-10T21:19:05.146Z",
+  "updated_at": "2026-09-14T22:12:42.541Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
-    "press": 286,
+    "press": 285,
     "gov": 0,
-    "en": 143,
-    "hi": 143,
-    "total": 286
+    "en": 144,
+    "hi": 141,
+    "total": 285
   },
   "mentions": [
+    {
+      "title": "Hanogi tunnel opens to traffic - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXIwdmI3WmlMekY4TFIwV0d6OUN3OWFMWEdGay15ellpUF83MFlSeG5sa2s3akE4akhkX1ctWTRKRXJBMDdYa21CcGZQUEQ3MkljQnJoZWJRbDZlVVpITDRBZ1M0bl9hTW5jNEVoT3l4OHdHa2dCUWVzVEV2ZGFTc1RIT1ZIa3UxVUpYYS1Pa1gwWlpoV0lacmNkZXJYYWtWUW5aM3NQb2ZYb3lu0gGyAUFVX3lxTFA3WFI2N0dtbzZ5ZmZKbnZoWnBoNHJXU3d0MVFJNW5KdXRpdTlnampqSXl2ZzNhcURpQkZqLTJ0UkMwd21hc2plcHNfQ0MwX0JyZ1VRYnNFN3FQanBISTVMWGFiSUJHaHBETjBRclJlMFhSLV9uU2lkWUE2dm90REtBY1otNVhPWDZsbW9jMVdJdjZoeThYQVpQSXQ5aDJxb0N3UVRiM0hQNTFySnBwaWZabmc?oc=5",
+      "date": "2026-09-11T18:12:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Chandigarh Manali highway"
+    },
     {
       "title": "Mandi : चंडीगढ़-मनाली सफर होगा और सुहाना, दयोड़-हणोगी टनलों का ट्रायल सफल; 4 दिन में दौड़ेंगे वाहन - himachaldastak.com",
       "source": "himachaldastak.com",
@@ -24,7 +34,7 @@
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzFFc3pYbDBCX3VhTk9mdmFDVS0zVWY5N2UtMVY2YzNQd2V0OF9wR0hub2MzTlMxZ2toWEMzSUhFX0V4UGJ1VFpuOUZ3VW5GVlNtaVBiVElfb29nX0dqUUNZdF81Tm54aGJ4M0hER2NvV00yZ0xkZkhodUJhNW41RHFkS1JxdHltTTEtN2MycVZxUEdyMURPWUpYSDBZR2FzRVBwN2I5UDZLbWRBbUVpTHJyRlM1cE5Y0gG-AUFVX3lxTE9VOFVheW5iakoxWDZzeVEwUUpGM2JJUmMtaTJweVJ6X2FjVDFiQmhiZ1NGUENwY3JDU09naTZDWm8yR3BJS3k5bXRLUk5HdE5WMXFaekprUDBJTmctZnNtVndJcjJha1RndFJOVHY1TUVHdHhycEctLTQ3allJWF84Snc5SXVZakxrR3cxUDNJWGl6NHlMbW9iM0RscWcwV1FleFlzYUtKbmpIS08yczdGRWZjeUVwT3YweUlfV0E?oc=5",
-      "date": "2026-09-05T10:02:02.000Z",
+      "date": "2026-09-05T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Kiratpur Nerchowk"
@@ -34,7 +44,7 @@
       "source": "gnttv.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPazRuQ21FVkVucW1TakZiWUF6YlVWQTExLVAzNDRJbWxzZHpPVXAzME1MWDdzWGRYcjhaeGpUM2xYenV5X1dPT0JwbnZVOVpmSEhtNGVxaEVEWHlvb2pvQkpESExQcDVOdjBvelNlYmUtcTJpU2VBYlo2X2VfSWsyMEtxZjcxUmtNS1I4MDlialp4TmFUZU5uNkU0WVNLZzMxanVSV3dSZGpldzNDaXZwR0d3b3dDOWxvMUF2MHIwZENMQ3U1VkdmRG01X2h1VnN3V3VNbWlsODZwX2ZVUXZXcFdZTG85Zw?oc=5",
-      "date": "2026-09-03T04:46:28.000Z",
+      "date": "2026-09-03T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"
@@ -100,8 +110,8 @@
       "match": "Chandigarh Manali highway"
     },
     {
-      "title": "चंडीगढ़-मनाली हाईवे पर भीषण हादसा, 2 ट्रकों की टक्कर में 4 की मौत; 7 घायल - India.com",
-      "source": "India.com",
+      "title": "चंडीगढ़-मनाली हाईवे पर भीषण हादसा, 2 ट्रकों की टक्कर में 4 की मौत; 7 घायल - Zee News",
+      "source": "Zee News",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc2pNQ0ZMYS0zdnRCa281ZHF4UW01QzFfWUo4UURGajVsdU94WElwVklLeVdDY25iNzIxYjJDaWxTY2F0OWV0anY5R0hsWkZBOEQyX2RUdWJqTTZKUU1WNGtYMlprLUwzZklrNzlldUduNEdUNmJ5T2xra1BYd0hzcHhCaGQ4b0F6LVY4a19YOGFROUZvZ3FTakN3SHNyUWxaQUozd2FxU2hGd0NiOHJnWVlsMTQxdHloWG9MeXd5YnQ4ZWlQT0dOMmJxeDR4UTTSAdQBQVVfeXFMTlBtYXpYT0NvdjhVbU81bWpTbUZoMmJ4ajJ4VmZiamF1cTliWlBFODN2Qm1qSHI1U3dNZWwxLTVaQUFySW1xbDc2ZnlGZE4zcHlSLXRfSF8wSjNMZGpmZW4zM05MbUI0XzA3OGN2V3ZSajk2Ykp6VG8tOGJfX3dnajNYXzNiYklsX1pIMVFyX3pJR3RlWDFqcXphMTBSSHhUUW4xeG5NZTlNQ3IzWTJTX21VQkYwQW1rUVRoUVJ4bG1zblFQX0ZGUkJFYmx3S0ZTdl9UN2s?oc=5",
       "date": "2026-08-20T07:00:00.000Z",
@@ -114,7 +124,7 @@
       "source": "Himachal Now News",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFZHS21iME5YX1lkZ2l2T3B6SW9mbE1ON2pFRTdNNTBCVXRMWjdoMEhicmN2NzZhZkFWOEZoNkt5UDduZnUwaDhJdDZ1el9IcV81R3VjOHAzbnZfakR1RmpLQlZIOFNoemZ1LVkyUWY3Q1Z5UDQyWXhkaDhKMjVfczBSMTFjcV9lZjNFc1VwRGNqSTdReDRtRHZ3?oc=5",
-      "date": "2026-08-20T06:53:21.000Z",
+      "date": "2026-08-20T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"
@@ -124,7 +134,7 @@
       "source": "Bhaskar English",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
-      "date": "2026-08-20T02:52:19.000Z",
+      "date": "2026-08-20T04:40:40.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Chandigarh Manali highway"
@@ -190,23 +200,13 @@
       "match": "Kiratpur Nerchowk"
     },
     {
-      "title": "कीरतपुर साहिब में चंडीगढ़-मनाली हाईवे पर अज्ञात वाहन की टक्कर से एक की मौत - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTlJvUlozb3U0TGRfZDJYaEU5QVJDR0NCN054U2xEWjFLeEVLSG16VWhCMmNiRXVSN2NzQmRNVzF0SVV2NlpnUWhGX3lWaFA4cmpWYWhIdGUzLWVqU3RmWUZJOExiRUM1X2ZPeWtiY0xaWmg4X080SGNCNUw5Y3RoeXVicVBLaTg2R3hjdy0teEk5VUpFSVNCY1JyTG9CQU15dEtGTjNPUFItb1p1b3V2REx2QkFWRHFncVBjbDdmRXJZMVZ5WEEyUHFOZ0kxYjFkZWUzOUwyalhqUXFlc21qZGRicWN2bm1kQTBRZXNpcFRqSkFRVDYxTGhyWS1oQ0ZVck1LQ0sxVy1OdC1ZTzlxZNIBlgJBVV95cUxNTXBRSTZyNXNFNnYxTndoUE5ueXo5XzhDRkpXR0M0YzZob0N4Znc1dmllQ3JZa251N3Q1NUtjazhIR1J6aWtuTWZRMVZKZnRRdXIwaDdBalhaMUxKVlNJZmNPY2ZXNEdoS2ZsMHZzYVpUNGRxblhldlNMX3ZEelJJcXJqZFV6MjlURHduM2VOcTZyWVcxekd3RU1odHg2Z3dhZmNrd2UxSUwtampvYTJWUS1ndmEyMjlXMWhZU0dHZGM3UnloMlpVYURzdkx6MkJDUlh2YWYxRTVZa3BYZl84U051elYzVXhrNjVRaHg1WnNwYk9sREZXWEs3UTlfZ290aGtBbEFwMnBPSHczaHBPODY2WXZMUQ?oc=5",
-      "date": "2026-07-31T07:00:00.000Z",
+      "title": "Heavy rainfall lashes HP, 162 roads blocked - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUEFRXzQzZVVXSzkwYld5dUlfLXlveU5ZM3B4SThNdG5aZWhTOWxKbVNmeU9IZ2dtWnUtMDJBWWNreC02ell2OHdfb2c2aHJVZ0FsTkZHTTZVcUR0Q1pSV3pWdkFjQjQ0VlAwMVdLd3BsMGZWTkdnQzRPLXNvS3pFd3RSeGhLNVpnX1FqaHlNNkpYQWR0emo4dmRMbjhKeGF0MVY5M1RROE84T2tuRHRCLWxkVTVQaWwzc3BpYdIBwgFBVV95cUxPeDJEcUZNbjJpZ2pDV1gzMVFuRElfaS1icXlQM0luOWdGXzJkZmd3T3JGbkpSQjBwM3hmREdPWHI3UzFVSjI4X0VPYWdER0xYQ0JRampPbDRuUTNfQUNEVGdlLV9nV1piVHRRWndYNW1qY28wV053TTRfOF9ibUxzM2NfWUtWV3NxTEN4UVVvNnVwa3JITmRycGV0elhpdTZ3NE5KSlhUUENKUGJGUWY0aVU2UWN6a0VzZ3NkNXgxSlV4Zw?oc=5",
+      "date": "2026-08-07T07:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
-      "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "हिमाचल में 228 करोड़ से सुधरेगी चंडीगढ़ मनाली हाईवे की सूरत, झलोगी से कुल्लू तक 9 जगहों पर शुरू हुआ काम - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX2pJTy0xYkZfRlhDcFdIOGQ4MXZrVmtVbHNvNEFITm5JRGxnMVJpNXRXZ3hrbmQxYVRyUFR1azNVQ2hOQ1IzUmZXY2p0T3pEWlhud3djWnV0X2p4Z3czaTBKcEJDY1QxU29LY0FITlJWZ2dYanZsS2Q3bkE2SkRsVFFKNGRhN2FuLTgzZC1lcFlnUHdRenNRU2JabGxLSTMwcXd5aVBVU1VPcmNzY1lOUUtGYTl1eXlzaW5UMlNFMkVNMmx5djJFbXJ5U1hCZEd5c0s1Mmx1YWI5TTB3LXJqdi1B0gHnAUFVX3lxTE9pU1VMelhBV21mRlhNYjd4Wkx0cGoybE1tQjE3UzUtM0VaV2Nmd1p5MEF2dFQ3cU1mWDZHX2txdGpMR3RnYjN1b1QzQXFITjRjVkZkdWo3Q2hEeTIweElTalZOVmtPbXE5aVgyMnJpMG1ndXBRMGVqbnZFZHROd0JEajIyZHhsLUVpRU5ZX0ljcVBqVUVlaU80dmRGeTl3YXdPYXpYV1NzeC1HS1pOQ3JRamk0TE90cVlQb1hxMEpmdTd1NFF3cDZhTGRtRkpiUXN3Q0xYODhCSDVBb25HSHZjdDFrU3otZw?oc=5",
-      "date": "2026-07-28T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Chandigarh Manali highway"
     }
   ],

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-10T21:20:11.579Z",
+  "updated_at": "2026-09-14T22:13:55.456Z",
   "project_id": "NH105-PNJ-NLG",
-  "count": 4,
+  "count": 5,
   "suggestions": [
     {
       "category": "litigation",
@@ -46,15 +46,29 @@
       "matched_term": "rti"
     },
     {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-30T20:12:43.692Z",
+      "title": "3 ‘involved’ in youth’s murder arrested - The Indian Express",
+      "summary": "Auto-detected from press: \"3 ‘involved’ in youth’s murder arrested - The Indian Express\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZFdFeF9XY0pCdXdpNnVpeGNfS2dLZFpPSV8wcV9mWmNkUk9SMUpzYmYzN2FUMlhoRi1TRjJ0ODh0THZQRV9FbC1ZLW56UlJnZDBoSjVlTloyTzZqel80SjBkdk5jLUtES2tZTW5CdDN6UndOOWRocGtSeG1wSUhyaTVPTVJQTzMteUM0UTJIa0U5aDFTN0wzSktQdVFVd0nSAaYBQVVfeXFMUExwZFBuVmZ1Y2VVS2lybGgzam9RLXpjOEdWS3dqYXJVeXNHbU92UUktekJwSy1jejlWNXJQcWVJT3RINE5FQkVYMUVPYkNXSDlNb3pQaXpLLU81VEV5UXpCcWh5WF9xM2hrNlM4U1BpNy01YUpqejlfNDdfV01RZGctTU4wNTZRd0puWXlaSE1hUjdadDlEU0R3RzBzMjBCcDZYUy1Gdw?oc=5",
+      "source_name": "The Indian Express",
+      "lang": "en",
+      "date": "2025-08-29T07:00:00.000Z",
+      "matched_term": "arrested"
+    },
+    {
       "category": "incident",
       "severity": "high",
       "kind": "issue",
       "duplicate_of": null,
       "first_seen": "2026-07-09T20:43:51.935Z",
-      "title": "Delayed Pinjore highway project causing daily traffic chaos, accidents - The Times of India",
-      "summary": "Auto-detected from press: \"Delayed Pinjore highway project causing daily traffic chaos, accidents - The Times of India\" — review the linked article and edit before promoting.",
+      "title": "Delayed Pinjore highway project causing daily traffic chaos, accidents - timesofindia.indiatimes.com",
+      "summary": "Auto-detected from press: \"Delayed Pinjore highway project causing daily traffic chaos, accidents - timesofindia.indiatimes.com\" — review the linked article and edit before promoting.",
       "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOVhsVUNFMUlzT0ZJNy1vTDNNYkI2WW5nb01wQmQtbEZzYWRsbTgxVE1GemJhQU1RUDJFUkZWSWJFZEQ2T1VCREFKQldOeHprR0FLZ3EyLXU5RWZlbk5McTNmQUt2R3B1aXI5SUJzdWR5d1FCTXQxQ21SUFktTEpaNVZIMWlKZm5hb1hDVEtvdEJsSWdjcFdrWXVmaVRZVHJteVEwdzJrRjQycmZGaXhmQ2NkNVZ5cnRiYXNsZmJCS2M3MGJyVlRwYk4xbElMTkVMQVNlYUFLSHJFcFROWTBGetIB5gFBVV95cUxONFNnSVNSOUNGeERvV3VKRW4taEh6Q2pHNzl6US1NNTZLWVNTYlZYQmNkbG5mMUNncG9iQnlQbjFESEhTNFpSUUpVWlJNaDl0TmpnNnlQWHNTaTZRTWNfeGt6d2JIdW9NWWJkWDZqMmI2VWZfYWIxLUhNTGVwc2dwbVhhcHgxOW1adXFKSE90SGprUGI3VlI4SV9GdnJfb2N6UG9UbGRsUnRiNUhBZ095aXdCemJMNmtaWXByd090NG5HbTZ5empwbnlYTjVjdEpzVE45elp3TmZWbzN0dzhtMmVBT01qQQ?oc=5",
-      "source_name": "The Times of India",
+      "source_name": "timesofindia.indiatimes.com",
       "lang": "en",
       "date": "2025-01-15T08:00:00.000Z",
       "matched_term": "accident"

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-10T21:20:49.419Z",
+  "updated_at": "2026-09-14T22:14:43.789Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
     "positive": 16,
-    "neutral": 3,
-    "concern": 1,
-    "avg_score": 0.33,
-    "avg_magnitude": 0.47
+    "neutral": 4,
+    "concern": 0,
+    "avg_score": 0.305,
+    "avg_magnitude": 0.37
   },
   "youtube": {
     "n": 4,
@@ -20,38 +20,32 @@
   "overall": {
     "n": 24,
     "positive": 18,
-    "neutral": 4,
-    "concern": 2,
-    "avg_score": 0.3,
-    "avg_magnitude": 0.442
+    "neutral": 5,
+    "concern": 1,
+    "avg_score": 0.279,
+    "avg_magnitude": 0.358
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "हनुमान अंश का वो बुंदेली भजन, जिसमें छिपी है शिव-पार्वती की अनोखी कहानी, एक ही शख्स है इसका राइटर और कंपोजर - ndtv.in",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORmRSUEktVTRUNEVSRlliOGJucDc5OWdJdmQzLVo3VU5oVFBKcUdXbGhMMl82S2ZoQVNaZy1hbDhpMFQ2eFZuT2Y1cmxMamkwdVpTRUNkTC1IVG83YnktR0tpMUVsM3R5ZzNobkxEb3l4Wlc3QmhzdWk5RHZQUWV0SXFMaXpFZjNXR0hnU1otckM5bXdRZ1JpNXEzVElDcmpyNzdhLVRYYjI2R05RRDdzLUdtdXc0MXZaZE9ycmhhN2xWSUd6aU1iZURRWm1EdUpScVkxd2YtUUxZcW01RmVkSVJ3MXFHbHpVSjN6N3dMbWR4VTJaSkI1cXhpQUNMN0NVb29J?oc=5",
-      "score": 0.6
+      "title": "हरतालिका तीज पर सुहागिनों ने की शिव-पार्वती की पूजा - Prabhat Khabar",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObXpEc1Z3bHhlQ2JwVVRSS3dDQ3BmV3VvNzZraDZjWXpPcXNrS2NJNTU4R0g2eElmajNKWWRzX1daRDFIMFN5SjJuSV9oRUFhaUU2bWFFTjN4Z3NQOXd2a2RXMEJ6WVJMMFhIYVZBTEhoSU5raWRsX05lYnota3lrdjk4czVqS2ZtdWhqalBNbTFJSTk20gGaAUFVX3lxTE9rVHRvV1JKUEtOYjNYemlFZktDZFI1OElGWWxaYjROTlVXczBzTjJZb0w5dkRmLXRtcXlhQm1ia25IMDBuajc2dUQ4VzZQYjZ2ZE9nWkl6Wlo1ajJpY2U5bFlmSWIwRXFOaE1nbE9MSDV0Qm92a2Q1UmgxelFEY2xSeEtpUVNDOWd2VnpZWW9fWGx1RmNvWWxNb0E?oc=5",
+      "score": 0.7
     },
     {
       "source": "press",
-      "title": "माता पार्वती की वो जिद जिसने देवों को कर दिया था परेशान, ब्लॉकबस्टर ‘हनुमान अंश’ का वायरल भजन - AajTak",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWHpHUkE3eHVuc1dIUU9SQVVlUnR5ZUtPM3dhSHZ3dVh0WWtpODlGeUlLd2xWd1JLaFc3ajdmLXFoUzBIRjV4OFFObk5BY29OVkRoUXlhUHRhdDBGVUV0REJqem10Mnhpb21HeV9BZ3JyeTRwek5tV2hvYy1ZekR0ZUktRjVDRVFHTEdISHZ5aWUweTZXOWVzM0VlY3ZqSHlQYl9sUUU0em5OWmZ5Y2xFR2pjcGJhQmdaWUEteTFkUmJsY1BqYnp6d3NORV9OVUpsZ3RWamN5TmFDUEN6UHhyUy0zSUhCRDhHa3J5RDVvdkRYZDlzZWhWNGVKaC1SSmh1V3JqblV2TXllWWM?oc=5",
-      "score": 0.6
+      "title": "शिव-पार्वती की पूजा कर सुहागिनों ने मांगा अखंड सौभाग्य , National Hindi News - Hindustan",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeVpLQW54OE0yVzhqcnZRT1Y2aHFyLTNKRV9DWjUxZGw1SWp1ZHVoX3RzVjZSVDlVMW5BS1daTkh4V0tXRk9tc3hGZzJCNTlsNjVablplNG93VDVxSlZXOEFhUTkyOEhoLXpTX2NYUmN1WWxQZ0RhajV3cXN0QkxSOU1VOHdySng0N29VUzFEeFJjV3RSVGI2ek1TbVhhdWgzOHZ6ZDNQNmNqUzhtdThaS0VEUTRpUVAwOWRjckFqamFMODlIUDBieEYzWER3RlJSWmVGTTZXU0VIYm93dmhfMWl0ZVpGVDJYRVNOZUp6ODNpUzVE?oc=5",
+      "score": 0.5
     },
     {
       "source": "press",
-      "title": "कजरी तीज पर सुहागिनें इस विधि से करें भगवान शिव और माता पार्वती की पूजा, पति को मिलेगी लंबी उम्र - Prabhat Khabar",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1A1WE9IWnlRVFUxQ25NTEpvQXdRSHZUb1BkdVBudlRoUmYyMDMza1ktSmVyR1pkVUlvcEtYTjNfQVNra0dfTHR4TVpTb3ladjBSbWwtZklyczJKbF9wOGgyRDU3NXdoajhqTm1IRXBqcGp1UjhhYmJOQ3JfeXRmazQwVTlDVjB5OHFyM01lZXZUd1Rpc2lxYXc1ZzLSAaIBQVVfeXFMT3NjTWx6STJ2V2JvV0JaWnFXODFrM2FpVkJyZVd4dDJ2OWRhLWRObGI0OGpSVzNwRVBiZzZOVkxpcEdfcXlESWs1RlJlUWZsVVBNYzZUamNyOVh2TWV5YmdkaXJDeGFhYVJoVkdjSGpBdVQ4d2l1R0ZPVnc5dDJNMkJBOFZyN2Mwb3ViOWJkWEpxSmZ2UDhsQk5kcUlXUjNoVjBR?oc=5",
-      "score": 0.6
+      "title": "निर्जला व्रत, सोलह शृंगार और शिव-पार्वती की पूजा, रांची में दिखा तीज का रंग - Prabhat Khabar",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2VzUUNEUmp0YUg3QmNHMUFkZTVrX3BOaW1sY2IwZEdhRG5UNGtPeE51Y1I4cVFBdGg3UGtEV2RaZWRZTmIzSnFHRlp6Q0VQeUJodU05UC1nM0NjMWw1RnpFckE3VVU3WmMweXR5UGpmZHNjX0M4MGt2MkxGcXUtaVVVcHhMa0F1bUMw0gGQAUFVX3lxTE5zcXJEZFN5bVZJby1OVEVxOHBrSVpyRmQtcGJ1TGV5TTZaQy02Q21WQUZzenZJNWk0T0dzT3g1MUJydDlJM2lzU2gteERMdXJ6U0piaDQ2Z1gxeUljRFVWQTVQWkVORXJ6VHRhbWNkWjl1OTV4R2s0X0lOOG1FZ0RTRTlCWVlfYzJpQTByQXpQRw?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
-    {
-      "source": "press",
-      "title": "Water release raises flood risk along Beas, Parbati rivers - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkduZUl2WV95YTZDX05Kb3N4ZEdqYmllMXBQWmVaYmJqQ2FCSWxyU0RrMWxtVFRWRnIxQko2cGdvTG5GbEE1UldHTFViWEMtaDlxeWZjekhRSzBIRHpIMzVDTTNpRlZLYlo1ZnVTRjg4R215VWQxZ0IyQ2F5OXhRdGRmZ19TUzM1aTBsQnE4TFJJVUVhVmdCWjljbTNub2VGU2RV0gGnAUFVX3lxTE04SHpwVnNfZGU1OEZyTC1INkJQMnJaUlN4bDdBUkVCYlNjYXItQmlLYmt4UTRCTUJzMlBEZnZ3VmFtc0ZVQWd4bkdiVHExWjZjQW5PdW8yQkQ4T3FkV1RxS0E2bkxtSGQtM29GOTRtem9JY1FZelBGWm93NVZnYl9HVDBXVk50VmFKOHM4aG1lMnN6TVRPbkpfb3FtQXN3Z1BYN3dhenRj?oc=5",
-      "score": -0.5
-    },
     {
       "source": "youtube",
       "title": "Make this type of projects by using \nmoney of temple devotional money\nby giving them small interest over it\nAlso money o",
@@ -60,6 +54,12 @@
     {
       "source": "youtube",
       "title": "Turn the water of himalayan rivers to the deserts of Rajasthan",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "हरतालिका तीज पर चमकेगी 4 राशियों की किस्मत, शिव-पार्वती की कृपा से दूर होंगे वैवाहिक जीवन के तनाव - the fortunes of these 4 zodiac signs will shine on hartalika teej marital tensions will be resolved - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcnJyTXdid3pIZGJaekRoNzQxazQ2LTFnb1VNOXM2d3IxQkllLURvYktCTFBzaFQxYnBEWEgyanVOV1NWZTNZemhUQkc2ZHFTM2FQcGJyaVBmd3pQV2d4N3BNTVhCdWI5UmFOelBjb29GM3I4ajJZeUZZdzFldllkWlpQVlg5RXZHYk1PZ0pWMUJhU2NYcU13N3ZKZFMyYVloY0x3cTVpc1BLX0pqdVRnVmRTWnhRNkwtSVJaYkJJeTJ0UUNBMHh6Wm9TZGc5Z3lFSUtvd09hMDlRakx6QWhHcDhxNUtVaGkxLWFB?oc=5",
       "score": 0
     }
   ],

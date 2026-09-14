@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-10T21:20:37.474Z",
+  "updated_at": "2026-09-14T22:14:20.724Z",
   "project_id": "MANDI-AIRPORT",
   "press": {
-    "n": 8,
+    "n": 9,
     "positive": 1,
-    "neutral": 5,
+    "neutral": 6,
     "concern": 2,
-    "avg_score": -0.05,
-    "avg_magnitude": 0.175
+    "avg_score": -0.044,
+    "avg_magnitude": 0.156
   },
   "youtube": {
     "n": 2,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.05
   },
   "overall": {
-    "n": 10,
+    "n": 11,
     "positive": 1,
-    "neutral": 7,
+    "neutral": 8,
     "concern": 2,
-    "avg_score": -0.03,
-    "avg_magnitude": 0.15
+    "avg_score": -0.027,
+    "avg_magnitude": 0.136
   },
   "top_positive": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "source": "press",
-      "title": "Outgoing President Ram Nath Kovind to address nation today at 7 pm - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd3dSTXFJWVgzU1k3bkJEWmpWQlRPcHA0dXRlX3FaMGtKNGlXMmVONGRrZVhVdTdMX0xjc3BObVhPOV9sSjZBTTNUblpxaWxKX0VHSDRVQnE5cm5rWmhDZEhXMVEwS0V5ZnRvaHJrdlpna2JNTll1eWJLVVdyWFVocm0zM0Z6dTNhV18yVVlLYTQtazRhMkNHNkJ0WHZNMHI2YURHYzZzVlNRQXZ5cVpxX0lWck1rV2JnY042aGlIY0hsRDFaYlhIeEtTVVZpVDV4QURaTjExSlluZ0hz0gHiAUFVX3lxTE1nMjBPVDUzVnU4b0h2c29KYTNtZ2NEUk02ZF8tRXlKc1B5QnFBNl8zT1RPZzBsdjh1SFNHa3FjUTRfQVlZNTA5WFN0Zmd5REZHY2VyTFpzOVdBYlluOFg3MHdVX05fNnlNUEJYUlZWVWg1ZV9LUlBYRWZYZUhwaXJaLUdyQUI5cC1iNEZpekpZRGVRRWNXcHhER1o1WXVhdFBFZUJDRFM3NExISy1FRkpiNnR4QlFwT2ZIdG16VVZxUkhmVHk2TkpyUWNEZm1sd0lvajRiU0RFQ0FFeHhRYU1ia2c?oc=5",
+      "title": "'चुनाव नजदीक आता देख सुक्खू सरकार को आई मंडी ग्रीनफील्ड एयरपोर्ट की याद' - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRFpxVzNzOFVvdXp4NW81RkxFODFLTFN1WTdyUGV2TjJjcXBzZjVQdjFnaEl1UDZyLXFUNnljSFVMekNRRXRBYXBYanhqREkxMnJSUFVMNXk1SDVfeXRCZTQyYlFPMklYOVNyWThkdE1pbnpKVFBmMHlrZWtZeUtnRHBqQlBTLW80S2tRekxSZElJSWdZNlRNQ29mek1aMkZnZWx5VVpXQjRtckUtZ25COWQ0MWlFdnpaOVZJOFpoeVdUaFhsMUw3UmlkT0ZfVE1CcGhmY2ZZc1ljaUF6UmRXb2VraThWT1VHVEVaenhLWHA5WFE3LUkxa040U3pObl9ZVGR0S2lkUmFWQm5FS09YQ044YmpzamPSAZwCQVVfeXFMT3JWaFV2RWtPZ2w0cF9Wa2tYQzUwRTNvbS1FazZ6NXNXRXBiSnZvOVIteEx4enVfdTQ1RjJXY3BQNU1PU2NmTkVzYUdOcHNhS2hyQzlWZ2JGSUNyNDlaX2dDMGNnQnh1dWlsTTlPT1JHT1hhTTlBZjNwYzVoSmVELWZnLUoyUnZham5YNFZnODN0dTNWOHhGbHRHTDFmSmdpeXAyZlFwc2tRUWNhRzY0M2pXTmtsQ2xQMW1ZUHRtSFBBQ3hscWMwRXZmN0RIcHd4bU5OVTBRLVJkNzFoc1F1ZFRiNFV5bG41SGpteXNCNVBZNXdRX24xSjgzVGcwMHFvSkVtUDFWTTYyYlhsRmdFdldaZFNSQW05aEs3c0s?oc=5",
       "score": 0.1
     },
     {
@@ -47,7 +47,7 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "Himachal Pradesh’s poorly planned Mandi airport risks its limited fertile agricultural land - The Caravan",
+      "title": "Himachal Pradesh’s poorly planned Mandi airport risks its limited fertile agricultural land - caravanmagazine.in",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3Z3cEUxbHF5bzFKOEQtWWxicHV2LVJnV25GbzlUYVUxbDc2S2NmZjZYZUV2NFFQZXI1QjkxV3pqcWZpNm1LVDRvLVM5amVEWm5WeWtxLVY1N3F5cjkydnR3UGxsMlVTVFo3UmJaamJsa2M0TFM3TW0xNk8tOGlpc2tlRU9MekI0cEVURTRLZTFmRUFVWUFJNHloZjdFVVlFMHpzVGVrQ2lnaWRsWEFSYUd2b2hOSTZGSlV1ODRGTFd5TVhGd3dmSA?oc=5",
       "score": -0.7
     },

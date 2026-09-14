@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-10T21:20:37.564Z",
+  "updated_at": "2026-09-14T22:14:21.100Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
     "n": 20,
-    "positive": 4,
-    "neutral": 12,
+    "positive": 5,
+    "neutral": 11,
     "concern": 4,
-    "avg_score": -0.015,
-    "avg_magnitude": 0.215
+    "avg_score": -0.005,
+    "avg_magnitude": 0.225
   },
   "youtube": {
     "n": 27,
     "positive": 10,
     "neutral": 15,
     "concern": 2,
-    "avg_score": 0.163,
-    "avg_magnitude": 0.27
+    "avg_score": 0.193,
+    "avg_magnitude": 0.3
   },
   "overall": {
     "n": 47,
-    "positive": 14,
-    "neutral": 27,
+    "positive": 15,
+    "neutral": 26,
     "concern": 6,
-    "avg_score": 0.087,
-    "avg_magnitude": 0.247
+    "avg_score": 0.109,
+    "avg_magnitude": 0.268
   },
   "top_positive": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "Gud information",
+      "title": "Beautiful video",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Amazing 🤩 view",
+      "title": "Gud information",
       "score": 0.9
     }
   ],

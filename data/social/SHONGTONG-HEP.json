@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-09-10T21:19:56.427Z",
+  "updated_at": "2026-09-14T22:13:36.505Z",
   "project_id": "SHONGTONG-HEP",
   "counts": {
-    "press": 39,
+    "press": 42,
     "gov": 0,
-    "en": 29,
+    "en": 32,
     "hi": 10,
-    "total": 39
+    "total": 42
   },
   "mentions": [
-    {
-      "title": "IndiGrid का बड़ा दांव! ₹5,316 करोड़ में खरीदेगी Shongtong Power Transmission - whalesbook.com",
-      "source": "whalesbook.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcld6UVVVXzdYQnBHRkhKYmdGMlZZeDVwVGNURGpXNS0xbEp3MHh1VDFfNVRkaDhCN1phZWxpUnU0RkF4TC1yZV9tTE1jZ0c0cHBkTkdPajZ5Zm9fVWdJd2NtdHVVWkMtR0dOT3hCU1B2MVlxWWRqR2VIdWJ2anpHMkpBZFB0ek5Gc0h4cWRKT3VwdHRmQk85NmVQb0poR1pzbHRSeUs3X3BiRTFRQ1V4REtCT0tmemVqWVRCMmdtdnhZandOQ0pqMFRhd1JaQ3pIbUxSZWw5NGJ0Tk1GbVN3?oc=5",
-      "date": "2026-09-05T10:11:27.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shongtong Karcham"
-    },
     {
       "title": "RECPDCL Hands Over Bhadla Ramgarh Power Transmission limited to Power Grid Corporation of India Limited and Shongtong Power Transmission Limited to Terralight Solar Energy Tinwari Private Limited - REC LIMITED",
       "source": "REC LIMITED",
@@ -70,8 +60,8 @@
       "match": "Shongtong Karcham"
     },
     {
-      "title": "CM reviews progress of key hydro project in Kinnaur - The Times of India",
-      "source": "The Times of India",
+      "title": "CM reviews progress of key hydro project in Kinnaur - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWTNOZnFZRW9MaFhQQnpNdmsxUjRvdHJMd0RBMHlmeGp5bzFwLV9xUzJCNjJweWVLMlNlaHVKVzFJQk12QkQtNnBHdVhoWU9DaUpwR1dwdDI3OHJCZHhnbFhWcnUteUJHWWtYUUxtSF9OQkFHRFREb0VHUld0OXpFVWJRTzRxRkVBbUhCbV9SYnVoT2F5U09zVGhIcGVDNnB5VFIwTWRzYmVFdHU5dkE4ZWcxelExVmZYVjdYM0FoVmVYNklpcDR2UtIBzgFBVV95cUxNMXdyeWJpOUlJUlE4MnhaSzBEOTgwcW5ZUDZHc2V5d2pOMHBVbVNIMWQ0X0JRMzA3NEtzVENYVkNxcHFlSkZrWmJNNkIyNFg4WlhoRUVUVWhBMmVFSkJYcWxMUk9jR0UyTVcxcnVvSXJvakhndlN2d2Y1ejhpTzRSODVRVFhMT1NFaWR5T1gxZmJ5UERpUTJpOVNWbDJCOTJVNUNraW9LRmFNSWloY2JwMl9nRXVTZXdpalotV0VfXzhHcGZ6cVdEQWlBNjhWdw?oc=5",
       "date": "2026-04-15T07:00:00.000Z",
@@ -80,14 +70,14 @@
       "match": "Shongtong Karcham"
     },
     {
-      "title": "शोंगटोंग–कड़छम जलविद्युत परियोजना को जनवरी 2027 तक पूरा करने के निर्देश : मुख्यमंत्री सुक्खू - Dainik Tribune",
-      "source": "Dainik Tribune",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeENldEpNS0ZmVUtCdmpSVVloUGltWU1WZWhIZHFzMXY5dExmckk5YTd3SXFMaTRXdFFIdWxrQmNURFhzU2RIOTFxelRBZzVDVUN2YU54VzhKR1p0TzhDSUhYTVd1VUN2dDNoenVWUWl6Yk5JaFliVFN6VUNnSkZJRS0tckdkczQwQ2lPMXE1eDVINzZieXhmZHZoei1ETnZ2aVI3S1RxN0M1SWg5RlotUGY3RTBOUUVvaDhDZ2hPdU93emJFaDdWTF9sYi01aHFxbldWS1J5Zm1RZ0gzMlRYMVAtUFIxNDNkU3fSAe4BQVVfeXFMTkt2cjlfX2o0RHg3TTNiSEw0YVB1dHRJM0xMQjlURlFGZGpWWVhiLThILWpTSHdxY0MyTWszYl8yZDEzYmczZ2RxWTE5SG9aX3kyVzlRNUUyeXE2UEtpRk5ZY01fcXQzYWNCVXNqTVVzWGJBNzhjN0V4U1JCMklGVU5EUEhUVktZZFJPa2FFRFkyeWVFMmtLVEZWMTB5S2hLQmZfZkdMWTlqZlNDX3ZrTUhOYlQ3SUgzdVJnWXRKWjh1eHh4WVVNMEdYb0w5b3J1OWFMYlJ2Zi14S3kyZ09sSGVKdVRMWG43SEtQdkRJdw?oc=5",
+      "title": "CM Sukhu Reviews 450 MW Kinnaur Hydro Project, Pushes Timely Completion - BW Businessworld",
+      "source": "BW Businessworld",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVVxcHpRbERjYWpUUTI3ZzNqWXlkdG1lWGhienJIdWZIS1d3ZEZHRmRuWnlaTUlGVkt0QUVzQmxHczVmWmQwZU1TN01FQkVYVUlSV2otbG9jSzQ5WHBKQVRJTldYY2pWdXdMZkdIR2U3OHcxYVRsbGRJZ0hjVW5YbHlTVC1ZYUd4NmU5dllEenVjY00xYWZpdnA2LWF6OEV6Y0xNYXZPRVZfR0laS3RPbUQ0X2M?oc=5",
       "date": "2026-04-15T07:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
-      "match": "Shongtong Karcham"
+      "lang": "en",
+      "match": "Kinnaur hydro"
     },
     {
       "title": "himachal cm reviews 450 mw shongtong-karcham hydro project progress, orders early completion - The News Mill",
@@ -104,6 +94,16 @@
       "source": "ANI News",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZlM2cnJaYWxPVmx6QW9vbGUyM3ZkVm9ON2FxLWhRVGdaRmpoRDg4UTVva2YzLXhoc0lfYkNqdlVuU1BYTkh1Q0Vrc2ExUFY4dndWeEdIaURqSTNwM0JYa1Rad1A1S2tRVm1hTm9rczBFSGN6OGtKcURmOXBWU1J3dV9iY01nNFk0RlZDYUZUMGdUeHdsTlFHSERLaDhtcUJ0RTJobEdvcGdtUHFsNzcwTmtqVm5rVVdFTTJ4Uk54QkhtRG5SbldBUHFzbjJfbmdzN2FjZzh5c3dfM2Z5WnA0QS0wb181eXJTR1RRY29UcVBmQQ?oc=5",
+      "date": "2026-04-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Tapri Fruit Unit & Shongtong-Karcham Project Inspected - Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDZkTkl1b1kwMVFNSHozbWhYRGcyZUt4cHZiQ2VsNlFRaUluZkw1ZGt0b29qdnFpaDB5OThxS2NKaThpR0daY0pnaDJBRXY0ZDFwdkZSSEN4UnRwdm5CN2NHTDBoRzItRXdONzBsNFBRdVN3eXY1LTlSUDRRelRmMGNJZkQ4UUl4c09BTmpydi1XM3Z5WGc1MVRnZXVPcFFYX0oxTnphWdIBrAFBVV95cUxQbWRsY3o4Nkhsdlo4YWVsMXhsVThnRGh1SDdLblM5NXQzbjNWV2x6eEVlNXJrTndfc213WWFvT3pTckFCMko3U0hxM1ppYnVsRld5Yk82OUxBeUtKcWJzd1FXQjJieHNUN1cxNjkwYnBYWk16UG5JYlZIcHhzdWpaOTh3SUJORzdOQXA4alNvQXFlT2o2alAxMzJka2MwSmh5djAyTUt0SHhsN00z?oc=5",
       "date": "2026-04-14T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -160,8 +160,8 @@
       "match": "Shongtong Karcham"
     },
     {
-      "title": "Shongtong-Karcham gets 2026 deadline, HP bets big on hydro - The Times of India",
-      "source": "The Times of India",
+      "title": "Shongtong-Karcham gets 2026 deadline, HP bets big on hydro - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPalAxaVAwY3FhR0wwcklfWHZhSkx6OG9tOXNNeUhYSUFGSVo3d2NxYUlENF9ObURUc3pPbUpRdHFzcHM2a0c3RVZ2S1VUNV9hSUU3akxDSDNiVTNIeG04MldBNW83Nm1ERFVFaGxmc245bnBqS29UaGdOZ1lKMmlDc25nWEo1aTdwczd6RXlNOU9HVTdYM2dRMnU3SGJVTWV5cTZoZl9jalE2MTc1eGR3dzFfN2JGTXNkLXA1Z2EwVzhNbTdkY0hhT0J0cXAzaXVI0gHWAUFVX3lxTE9leE5QR3lWX3FDQWtScjJyVjJ0bUFKTTI0RjBqZ2Q4ZWtNd0RHR0xNNzUwMVpCbHJ5bHViUk9tNGJsVW9uZ0lhZVF1dl9OcVNDYlpoWHo2emNfV1ZwNTdqNW0wWTFnckliNEhzcVBCQ3JEeGpDMHFidHFQVlhwRmF6S2g1al96dGhrVlF3eXh6dFZGUXpIbTN5a1Bka1h5ZFpjcXdweml2MlNvUTR0YTFRZ3JXNGxlLXFFc1BVMURxYWxHejQzZ3B6LWh2WE1QYkZGbnpVZ2c?oc=5",
       "date": "2025-06-10T07:00:00.000Z",
