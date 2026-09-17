@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-14T22:14:45.937Z",
+  "updated_at": "2026-09-17T21:52:10.267Z",
   "project_id": "SHINKULA-TUNL",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 14,
+    "positive": 7,
+    "neutral": 12,
     "concern": 1,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.155
+    "avg_score": 0.08,
+    "avg_magnitude": 0.215
   },
   "youtube": {
     "n": 21,
@@ -19,18 +19,13 @@
   },
   "overall": {
     "n": 41,
-    "positive": 20,
-    "neutral": 17,
+    "positive": 22,
+    "neutral": 15,
     "concern": 4,
-    "avg_score": 0.234,
-    "avg_magnitude": 0.42
+    "avg_score": 0.249,
+    "avg_magnitude": 0.449
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Love to visit once complete. Incredible India..",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "Amazing \nMy all tym fvrt.animated videos by Study Iq ..n Adarsh sir u are describe whole things in better to better way\ud83e",
@@ -38,7 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "I love indian army .",
+      "title": "Very good video",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Sir you are my favourite sir in online classes ☺️  keep teaching and keep shining 🌟🙏",
       "score": 0.9
     }
   ],

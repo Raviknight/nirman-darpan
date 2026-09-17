@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-14T22:14:43.789Z",
+  "updated_at": "2026-09-17T21:52:08.229Z",
   "project_id": "PARBATI-2",
   "press": {
     "n": 20,
-    "positive": 16,
-    "neutral": 4,
+    "positive": 14,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0.305,
+    "avg_score": 0.285,
     "avg_magnitude": 0.37
   },
   "youtube": {
@@ -19,29 +19,29 @@
   },
   "overall": {
     "n": 24,
-    "positive": 18,
-    "neutral": 5,
+    "positive": 16,
+    "neutral": 7,
     "concern": 1,
-    "avg_score": 0.279,
+    "avg_score": 0.263,
     "avg_magnitude": 0.358
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "हरतालिका तीज पर सुहागिनों ने की शिव-पार्वती की पूजा - Prabhat Khabar",
+      "title": "हरतालिका तीज पर सुहागिनों ने की शिव-पार्वती की पूजा - prabhatkhabar.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObXpEc1Z3bHhlQ2JwVVRSS3dDQ3BmV3VvNzZraDZjWXpPcXNrS2NJNTU4R0g2eElmajNKWWRzX1daRDFIMFN5SjJuSV9oRUFhaUU2bWFFTjN4Z3NQOXd2a2RXMEJ6WVJMMFhIYVZBTEhoSU5raWRsX05lYnota3lrdjk4czVqS2ZtdWhqalBNbTFJSTk20gGaAUFVX3lxTE9rVHRvV1JKUEtOYjNYemlFZktDZFI1OElGWWxaYjROTlVXczBzTjJZb0w5dkRmLXRtcXlhQm1ia25IMDBuajc2dUQ4VzZQYjZ2ZE9nWkl6Wlo1ajJpY2U5bFlmSWIwRXFOaE1nbE9MSDV0Qm92a2Q1UmgxelFEY2xSeEtpUVNDOWd2VnpZWW9fWGx1RmNvWWxNb0E?oc=5",
       "score": 0.7
     },
     {
       "source": "press",
-      "title": "शिव-पार्वती की पूजा कर सुहागिनों ने मांगा अखंड सौभाग्य , National Hindi News - Hindustan",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeVpLQW54OE0yVzhqcnZRT1Y2aHFyLTNKRV9DWjUxZGw1SWp1ZHVoX3RzVjZSVDlVMW5BS1daTkh4V0tXRk9tc3hGZzJCNTlsNjVablplNG93VDVxSlZXOEFhUTkyOEhoLXpTX2NYUmN1WWxQZ0RhajV3cXN0QkxSOU1VOHdySng0N29VUzFEeFJjV3RSVGI2ek1TbVhhdWgzOHZ6ZDNQNmNqUzhtdThaS0VEUTRpUVAwOWRjckFqamFMODlIUDBieEYzWER3RlJSWmVGTTZXU0VIYm93dmhfMWl0ZVpGVDJYRVNOZUp6ODNpUzVE?oc=5",
-      "score": 0.5
+      "title": "सरायरंजन में सुहागिनों ने रखा निर्जला व्रत, शिव-पार्वती की पूजा कर मांगा अखंड सौभाग्य - prabhatkhabar.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV3BhTDZNSUM1Y2RIQjNZTFM1OThLRi1FVHNmLUFLSmQyTG44ZVRJMkI2dmNVVGRxdFhIbGtEMzBrX1hBUGlOcVNDQlA1b2luVUZHSkpCRHBvcTVudlpRSm5HTXh4UTFBbTNDUGhaeUpZTi1EVTJTTllBYzhJM0VLTENPTlJwY0pXUVJvYUppbjZKdThyWnZQbERjSTkxLU5BU2RzX2Z4UjZSMjktOGktV2FkV1ZSd9IBuwFBVV95cUxNb1VJRmt5cXAtNmdJRS1QMzN2aTBuT0lOZTRYT2U2YmNSOGRFbHNqNFhfN0I2bHRubjZPa2lSckMweDZ0NWZ5ZTNoY0F5Qm95TWxxTk5DUlhfa0JoLVh2dlA4YjhRTUZXU3Y5cEZodGpESFJvbmZQMnBpcWl0a2RRNUZyemQ0eDVMZEhKWE9BVGZVUUlRcURWRElsSzdibmlhN2k2Nmk4Z3RsRl9tcURkSW1ZbWtKUXhqbUhv?oc=5",
+      "score": 0.6
     },
     {
       "source": "press",
-      "title": "निर्जला व्रत, सोलह शृंगार और शिव-पार्वती की पूजा, रांची में दिखा तीज का रंग - Prabhat Khabar",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2VzUUNEUmp0YUg3QmNHMUFkZTVrX3BOaW1sY2IwZEdhRG5UNGtPeE51Y1I4cVFBdGg3UGtEV2RaZWRZTmIzSnFHRlp6Q0VQeUJodU05UC1nM0NjMWw1RnpFckE3VVU3WmMweXR5UGpmZHNjX0M4MGt2MkxGcXUtaVVVcHhMa0F1bUMw0gGQAUFVX3lxTE5zcXJEZFN5bVZJby1OVEVxOHBrSVpyRmQtcGJ1TGV5TTZaQy02Q21WQUZzenZJNWk0T0dzT3g1MUJydDlJM2lzU2gteERMdXJ6U0piaDQ2Z1gxeUljRFVWQTVQWkVORXJ6VHRhbWNkWjl1OTV4R2s0X0lOOG1FZ0RTRTlCWVlfYzJpQTByQXpQRw?oc=5",
+      "title": "शिव-पार्वती की पूजा कर सुहागिनों ने मांगा अखंड सौभाग्य - Hindustan",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeVpLQW54OE0yVzhqcnZRT1Y2aHFyLTNKRV9DWjUxZGw1SWp1ZHVoX3RzVjZSVDlVMW5BS1daTkh4V0tXRk9tc3hGZzJCNTlsNjVablplNG93VDVxSlZXOEFhUTkyOEhoLXpTX2NYUmN1WWxQZ0RhajV3cXN0QkxSOU1VOHdySng0N29VUzFEeFJjV3RSVGI2ek1TbVhhdWgzOHZ6ZDNQNmNqUzhtdThaS0VEUTRpUVAwOWRjckFqamFMODlIUDBieEYzWER3RlJSWmVGTTZXU0VIYm93dmhfMWl0ZVpGVDJYRVNOZUp6ODNpUzVE0gH6AUFVX3lxTFBHOHJwYUdtMk0xWmJWdGx2MmNlSkN5ZHdfWUpVaXF4MXJDcmx0TV9Ubm1rbW5vbE9wU0IxM3VWSmFjODdBZmF4bjFtdWVFTkQ5LW5qWC1jTzN3d1QycVVjc194SFZkYWhPVU5veWN6MEFZcDU1czlhMGd2YUFzYVlvVzdHSG5JaFV5TWlvSy1INnZGeDBMTlhReUh2NTlnbDFxQmFyb0NtT1pWcGlhd3NlU0pxcWhfZmdhdTlBX3VMVjMwcGdtQVFqVC12THpOa3JhUTZsMVNhc0pQN2ExQmRlMG1EX19yLWhhSkZfY3NIbGFaSnI1UDhvY0E?oc=5",
       "score": 0.5
     }
   ],

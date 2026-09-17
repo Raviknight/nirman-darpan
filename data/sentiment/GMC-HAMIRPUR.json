@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-14T22:14:53.679Z",
+  "updated_at": "2026-09-17T21:52:15.358Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 9,
-    "concern": 6,
-    "avg_score": -0.025,
-    "avg_magnitude": 0.285
+    "positive": 6,
+    "neutral": 10,
+    "concern": 4,
+    "avg_score": 0.035,
+    "avg_magnitude": 0.255
   },
   "youtube": {
     "n": 23,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 43,
-    "positive": 9,
-    "neutral": 26,
-    "concern": 8,
-    "avg_score": 0.009,
-    "avg_magnitude": 0.228
+    "positive": 10,
+    "neutral": 27,
+    "concern": 6,
+    "avg_score": 0.037,
+    "avg_magnitude": 0.214
   },
   "top_positive": [
     {
@@ -53,15 +53,14 @@
     },
     {
       "source": "press",
-      "title": "CM Sukhu trying to take credit for Hamirpur Medical College with no contributions: Anurag Thakur - ThePrint",
+      "title": "CM Sukhu trying to take credit for Hamirpur Medical College with no contributions: Anurag Thakur - theprint.in",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzk4Um5nSFI1eFpkQzczTE5qaFVMWVRCSTQ3VktzOFd0cjU4R29UcXVpTTFLUGhQUTVBUlNrTndqdDhXQkdhSjV0TnVVY1BvNDNJZGxVT0ZkU3k4RTY3YVBVOXJ4Z3gzdm1XZkFuY3kwN2ZPWlFtaTh4OGlkeDZfUnBMNlZCR2xQQ19iY2F2dWJCZDJTZDRfangzVWtXQnNfcEFSZURDYXBScGthdTlackE2OU1VSXZuVm5XLVdteTcwdm54c1plaHJR0gHPAUFVX3lxTFAwQUlYZzJHOUNLQV81cjgyaHc5TWJkLUlJMTJfQzFHQ3RwVzhmNURxRjd3RnFpVzRCOXQyR3J4V3Y2VlhTRWc3ZUtwUnlPejMxM0ZtbEg3bzgyaTBnWWZBUjRUNzJ2OW4wczhzbDhiMjVrdWN1UVQ4V0tGV0U1Ty1TdGV1MmJycHByLXBUZHB4X0xseGhmOGZYTnZPYzdNWmIwQV84dlpPUEJWOUk2SGxhWkFvaFJ4bmpMLXpYdGZ6MkdpcW1JNFZyR0hvaU1ETQ?oc=5",
       "score": -0.7
     },
     {
-      "source": "press",
-      "title": "Mother detained for abandoning newborn at Hamirpur hospital - timesofindia.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZEMyV0Juakw2UjFuOF80WXRua1Fkc3l0b0x3U1g5SGcyWXd5cllGR0dXSENPLWNTbk9sRUh6S1ZKRmdnS05pbTVQdlRQN1JHam8zTlNGMmVhZVR2VEg2blFEb2pRbzZiVFBVSXlZcWRTVTFYVmQ5bWZ2NGJvTm9qaGV3bm4yX1lUN0VkVnIzUnVIbHU2N0tFeXMxWDRBX1NXdWdKMzdFOC0tQlFHQnVMbEM4WS1sVUtkY3Nsb2hhQ3hEU2tHb2NCMndFSDRQZTFBUldV0gHYAUFVX3lxTFBReWdjTS11Vm9fU2VHdjdLQ1g0V1dfTk9JSUh1ZWR0bU9DNF9ncXFVMFV0LVhuVFlLUWoxTFk0N19GWE96M0Y1NUlZYzlTaU1QVTRRZEV0enYwZUlnX0FoNmNQYl9JaHlraFhSc3FpLV96cGV1N3ZmbVU4VFU1RUdVaVhkeTE3LXNkT24wV3ZjRjFzekNuNERDRlBxRW4xV3NWOWdGUjgyOUJGV2lua0JoMGtHRWZoZHlZTEw1dUNJYU4zMEZTNG1odk9idlFIQTk4NlphbTFldw?oc=5",
-      "score": -0.5
+      "source": "youtube",
+      "title": "New batch ko new campus me shift krenge kya",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

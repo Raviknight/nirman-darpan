@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-14T22:14:32.782Z",
+  "updated_at": "2026-09-17T21:52:05.191Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 20,
-    "positive": 5,
-    "neutral": 12,
-    "concern": 3,
-    "avg_score": 0.005,
-    "avg_magnitude": 0.22
+    "positive": 7,
+    "neutral": 9,
+    "concern": 4,
+    "avg_score": 0,
+    "avg_magnitude": 0.285
   },
   "youtube": {
-    "n": 10,
-    "positive": 6,
-    "neutral": 2,
-    "concern": 2,
-    "avg_score": 0.18,
-    "avg_magnitude": 0.96
+    "n": 22,
+    "positive": 15,
+    "neutral": 4,
+    "concern": 3,
+    "avg_score": 0.245,
+    "avg_magnitude": 0.745
   },
   "overall": {
-    "n": 30,
-    "positive": 11,
-    "neutral": 14,
-    "concern": 5,
-    "avg_score": 0.063,
-    "avg_magnitude": 0.467
+    "n": 42,
+    "positive": 22,
+    "neutral": 13,
+    "concern": 7,
+    "avg_score": 0.129,
+    "avg_magnitude": 0.526
   },
   "top_positive": [
     {
@@ -33,17 +33,21 @@
     },
     {
       "source": "youtube",
-      "title": "literally whenever i feel like, ugh i should sleep or i should scroll some reels but then i watch this video n it gives ",
-      "score": 0.6
+      "title": "I see it every day 😂😂😂",
+      "score": 0.8
     },
     {
-      "source": "press",
-      "title": "राष्ट्रीय रैंकिंग में बढ़ा IIT मंडी का दर्जा, टेक्निकल यूनिवर्सिटी में 7वां स्थान - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVNxODR3VFNiT1R5c3h5dEdoSndONDVfNTlGWlc5eEFCOUNwQlVVSk03UkFDQ3Y0XzNUQ0x2RlZKSDRtekItb18wbTFpTmx3SWRpbnNLWHVhOEExNE56cWpWYjl6Sl9aTGhobm5hWDd0Q3FSVkgzeHJ6dG80LUtmd1UxNU11OTh5MUhORHdMbFpFcUN1Zml5N29UYjJTMXROQnFYbmJqTUJ6d0pmWFhnRG4tYVkwYnNpNDh4cjFfSkY2WlNaQzhSSnNXWTNEUdIB0wFBVV95cUxOVEQ2LUNZQTRjXzg4S0RyUlhpU1NFbDhxRnlKRG8xUmk3X0FvVWVkc3liZGVUaDdoSzdmc00yUE1TcUE5VHdfeFR0Y1lNVXo2eHNZaEduSnp5b2ZoOWV4QWJrWVVSQlJRdzg3QzNmbkJyYzBhMXNtMGl6MExsV0dDZm5NX0puaktsNFliWVNoVXJDQmJ5SVFGUTZLTXZ1OTNoSC1iZnE0VHJQMGgzUWlwVGtNamlGcGdwQkQ5TDQ2bXFLT1VFRHhUd1oyMWR5V1dHcXFV?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "literally whenever i feel like, ugh i should sleep or i should scroll some reels but then i watch this video n it gives ",
+      "score": 0.6
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Overhyped .....anyways IIT has lost its charm and is known for creating IT labour for developed economies .... Also manu",
+      "score": -0.8
+    },
     {
       "source": "youtube",
       "title": "worst college, no facilities, very tough life. dont go please",
@@ -51,15 +55,9 @@
     },
     {
       "source": "press",
-      "title": "IIT-Mandi regrets controversy over Janmashtami poster; says content did not represent its views - The Tribune",
+      "title": "IIT-Mandi regrets controversy over Janmashtami poster; says content did not represent its views - tribuneindia.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWpDcHl6QmFHMkQwby1hUnRyd1JDUlZKVlp6UF9yVmdYemppa2ZpYkZINXJLQnhwR2FxdzFLNlZnZ19XZEVLMlNKM0YtRVRnc1NsaFNMa1hHZUFNRHl5ZW9ZS2JwQTJyX0d1SVNYRi04aE55emhxekloUS05MWw4blN3dTJxeW8yendMd0tScFBMTlFybmJUVkFmU3lCN0l1VWFiVGxyVGptWU1ZSVRXVjNXOUJWSWVVeFZIclNEd2FEblIzTFd0YmdxTW56Mmpvb0N0NdIB2AFBVV95cUxOcUZWRUwzNlpiOGM4MUFSb0lwVXdXWVF3dGdUQXhhLUhWOXlkN1oxeUJMbVI5d085RVpiMnJndVNqUlAyVVMwOVFzUXc0dVZVYlVBYngwdUQzb3J1QUY0dEdmRFpEVEZQZV9QMFJ4eHBaY082TjNJUTh1c214aEN5dlVVTUhTYnduVnBwY1NXTG5yakkzbDJqLW9mVmdfblhXYmViaTFUUW0xZW1ZWDJLbG5qMVAzZE1seUZjTHBVbGluNWZobDZNdUdTdktlQjd0T1lUTklhZ18?oc=5",
       "score": -0.8
-    },
-    {
-      "source": "press",
-      "title": "Casteist poster row: No intention to hurt any community: IIT Mandi probe committee report - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV1pIdDVBaEVJMlVJTkRXeHR5ZUZVV0tfelVETklEVEctVGhqNkEwOFMtWnJGS2JvZ0p2Sy1xeUJ2b1JkYk9VZzVWWGFXWUtQQTVDQ1pWSlpHU2hfNkZhVWZ1RDNLUTNEUkZoVS0ySVZPbUpkZXdiN0xxOUtyME9ncmZFTk96QkJ4cFh6UVZqaEpJSjA5dFc3dURnZl9tM0p6SFBJVS10dHJVdHFiekRrdU8zdVdXTmp1UzdyNVYzLXM5YzJHY1ZxbnItLTlFYl9jNlHSAdgBQVVfeXFMTnVmNEVpMGRpUkdBcmh2NzBSdk5ubl9Jc1pSMDNQYUZqX2Z2R3BISXJqMmtqeWxMQkxseE82X2tpRTAwWGFvVTNRQ1ZkQzVKTS1UaEl0SVNMUk5JVUlWSDI0UjZFbXdSRkFJcFVnX25ObEIwSVBZZHBOZ2RUWlhLY1BMX3Z6SWk3aDhhcUZRMWEtX1JKRmFacU53bTB0UzNGc25HX2QzUW1JQzNTWDlOZXVEcHFiOVZ3Nk9leDdwZzRoUlRTcS15amRwN3RzWldiRlVrYnZhUTBk?oc=5",
-      "score": -0.6
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

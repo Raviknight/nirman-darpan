@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-09-14T22:12:42.541Z",
+  "updated_at": "2026-09-17T21:50:31.760Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
-    "press": 285,
+    "press": 264,
     "gov": 0,
-    "en": 144,
-    "hi": 141,
-    "total": 285
+    "en": 139,
+    "hi": 125,
+    "total": 264
   },
   "mentions": [
+    {
+      "title": "Thousands Stranded as the Landslide Blocks Chandigarh- Mandi-Manali National Highway near Thalot - HimbuMail",
+      "source": "HimbuMail",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNkJlQUpwMkRfV3RJdE5oeEtRM295MVlBdXBfd3NfeU1WNlRBd1I1eDRYLUplWUhLSlRYQmJsUFpIc1VVUXBUTDlkZGFKTEFCV1lZNUFFZ2ZjUG9hNDF1VVc5WlloOW5FZ1hlUHNSZGJ6OFRUdFJkWGtMZHl2dzkwSA?oc=5",
+      "date": "2026-09-17T11:20:10.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Chandigarh Manali highway"
+    },
     {
       "title": "Hanogi tunnel opens to traffic - timesofindia.indiatimes.com",
       "source": "timesofindia.indiatimes.com",
@@ -17,16 +27,6 @@
       "date": "2026-09-11T18:12:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "Mandi : चंडीगढ़-मनाली सफर होगा और सुहाना, दयोड़-हणोगी टनलों का ट्रायल सफल; 4 दिन में दौड़ेंगे वाहन - himachaldastak.com",
-      "source": "himachaldastak.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNODZud2dnR29MRXppZ0t3QnlESmIwRERuaGtwN280bkhsWDI0bm1PR0ZHVy15RmpvZFFkbEdCaEZnbDZEYzVoZzl3SEFsSlhMQ1h6TWIyTG8yOUV5TXlaYUs5VDZobWV6YVZiNUhxNVdWSjF6UWdXcWx2Nm43a0xpcjZjMXNSY1Eyd1oyVGtyN3dDcWh6TmF3?oc=5",
-      "date": "2026-09-07T14:16:59.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Chandigarh Manali highway"
     },
     {
@@ -70,41 +70,21 @@
       "match": "Chandigarh Manali highway"
     },
     {
-      "title": "चंडीगढ़-मनाली हाईवे परअब बैरियर मुक्त टोल लगेंगे - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNklscWNXbjFRMXozc1dYUGxkanVFN2s1WHpUb3VtQXhrMXJhTC05QmVISDdBSlVDRG9TOXdpd3k0YVRQYUVYUWFRRGFJRE1PYjZyT3ZnY205NEtQTDkxVHBzS0RiQWFYa2t1WGNvYW1YLS1zZHFMSHBmdzBPUFJzZ1BDMTRkRXA3cXFpQ0pRaXZQb0Z1Y1VvZTF3QWNaNlpfNlhSTTBWallSdU5icnloR0oyNkJhU05tYWR6QTJhbHEwMnI5VnfSAcsBQVVfeXFMTWltR2d1eUZjNHpUcmxEWER4U21vZHB6MDNpZjNrOWFrdVVQUVM1SWpFdDJkM21jelRmT0VrbERNMTZKQW1aNmJOTkRFQUs5blZOVFFoMHBzZHA5VFNibGZhbXVMZDd2Z2VRU0VmLU81QzdhbFhGNnh5ZHZsNFJsZ0JKWmtjb0F1ZTgyay1HRDl1d3ptcG15emlSNFVIZG94Qk81empiV05vVEx0QmZ6WUJfMndEQWNEcTJfMlJ0WklhdGhpM0FONXZhVXc?oc=5",
-      "date": "2026-08-24T00:11:52.000Z",
+      "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
+      "source": "Bhaskar English",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
+      "date": "2026-08-20T07:21:16.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Chandigarh Manali highway"
     },
     {
-      "title": "Chandigarh Manali Highway Accident : चंडीगढ़-मनाली हाईवे पर दर्दनाक हादसा, टनल के अंदर दो ट्रकों की भिड़ंत, पंजाब के 4 लोगों की मौत - dailynewsreport.in",
-      "source": "dailynewsreport.in",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Fa2NqVFlnd0NLU0RtLUpwZ0pJZklPamJuX2Q1NHJud0lTVWtONzVYeTBIT3RsSUt2bzBZTmJYTU1RMkp5bE9VV25hZWhiVHdfckwwSXdCckNySmRURUZ0UlFuQjRsRi1Uam5LRE5XaUhqZ3BjN3pyckIzcw?oc=5",
-      "date": "2026-08-20T14:24:07.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "चंडीगढ़-मनाली हाईवे टनल में दो ट्रकों की भिड़ंत, 3 की मौत; 8 घायल - Bhilwara Halchal",
-      "source": "Bhilwara Halchal",
+      "title": "चंडीगढ़-मनाली हाईवे टनल में दो ट्रकों की भिड़ंत, 3 की मौत; 8 घायल - bhilwarahalchal.com",
+      "source": "bhilwarahalchal.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkJOSC1SNlVqOTNpUzFxSXp3Tkt2eWpHVGhET05kOURRdkZjdHNGN0NITURpTmlCSUZLREJfNEZWWVBGYmZtVkl4NVZjMUV5ZnNqak1ydDd5YnNFd0hMVEdQVkRCcVh4YmpZdzZqTEM3bFZmcjR6RWRyZFVUcmV5NDdTbXhJb1lUZjEwQTFlb3ZRdnpzcFdwNm5kWFYwNV94RG1DN1VESFpVMG55OVNpRdIBtgFBVV95cUxQTy1wSTYzRlY2aHhLbVlsTDhxdUZRTlZUY2hEbE9Ya3MzLWQwRFdOTXJhN3VONFFFR3N4eVBVZTZNMlB3dVV2ejBuTm5aUTg0eXhOd2JtM2UzcGtIQktNVHEyM3BSTDhvSlEzSlMxazVsTlpuaTFidHhZZkVKMjJERUtaV3pOcThmT1NZZHBpZFJIc2diZ3Z3Vlo3bGMxUVA2QXBzdV9VdDRvcDFad09XbUFYaGdFQQ?oc=5",
       "date": "2026-08-20T07:06:11.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "HP Road Accident: चंडीगढ़-मनाली हाईवे की टनल में ट्रक-कैंटर की टक्कर; चार की मौत, छह घायल - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0ltVWUzcEZ6WWpTMUFHemtpUnBGTUVkM2VmazZKNDdSLS1jNk9HVEZTby1PS0pnMmdGQzNCOFg4bzRQd2dpUGIwWGtmdHNwbWR4X3RkQzhpMXFiM2h1cVptSk52V1NsR3VQb1M0ZjFTWjMxZFRvTXJYMk5hWUlSVUNfQUszc1Fxb2lvd3FHOW1YWmtidXgyTDR1YUVsVzFUck5SSzJ1eFVPM2VkRWVDMUphUDhOR2EzdDBGYW5zZUhlSHQtdTNr0gHMAUFVX3lxTE4zc0lVT0F4cUJna01fU2RHZGtYb1hBV09BcEFUODVWZWpFdXJWZWh3REl5azlMdjNFbHdJWjlsVWpCODUyclFGU3JHN2F3YnRHUFJQSnBhZUZFYWJhcTBlbFRERzdBdnE2VThYbHllM2dwNEZHaFV1bnQ0MDdzV0ZEYmdZQ2VRVmp6Vk1qTmVZWTgzb1pYOVRDcU9QMldwZU9vNUJoRnhRSUJ6TVJUQ2FQc2FpWDRFUGtLaVRkSXJTVVZHN0lQS2kwbUJ4TA?oc=5",
-      "date": "2026-08-20T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"
@@ -130,16 +110,6 @@
       "match": "Chandigarh Manali highway"
     },
     {
-      "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
-      "source": "Bhaskar English",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
-      "date": "2026-08-20T04:40:40.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Chandigarh Manali highway"
-    },
-    {
       "title": "चंडीगढ़-मनाली हाईवे पर पंजाब के 4 लोगों की मौत: सात घायल, नगवाईं अस्पताल में भर्ती; दवाड़ा टनल में सुबह के वक... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
@@ -147,16 +117,6 @@
       "date": "2026-08-19T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "Himachal Rain Fury: Chandigarh-Manali highway shut, alternative route also blocked - Babushahi.com",
-      "source": "Babushahi.com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrY09vOEV6RU5OV01UUEtZRmxacU5FWWhOdlBqWUxWSlBYcFhReDFQUmg5Sm1NdkhVV2EzZWJkOHM1TGhjZjdlaldGOWVxT1NnZDRUaU9XejJUM1ktSGc?oc=5",
-      "date": "2026-08-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Chandigarh Manali highway"
     },
     {
@@ -170,41 +130,81 @@
       "match": "Chandigarh Manali highway"
     },
     {
-      "title": "मंडी : झलोगी और हनोगी में पहाड़ दरका, चंडीगढ़-मनाली हाईवे पर थमा यातायात - himachaldastak.com",
-      "source": "himachaldastak.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTWNlMXFfY3hBcVFRTEJ3LVRVRzZEZlZjS3JyQkd2Si0xOEJraWJEVWd4dEZJQjQxUzhoRVRRdmZ0cllQY05aTjRERlliaG9haWcxeTlQYjVIa1BwOUdQU2VxMUZkOEw2bWZOaHEwTlVFSEZDS2RlQkVSbFdnU1FEN1QtWDk0amR2czAwWVRR?oc=5",
-      "date": "2026-08-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "फोरलेन पर MRP से ज्यादा रेट पर बेच रहे थे सामान, पर्यटकों को लगा रहे थे चूना, कई दुकानदारों के काटे चालान - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZVFkU2RHRmoxLS1nOWpFWENKUUpNcnRKU0NKeWg1ZjB4OGR3SHFxNnRNc1lXT1V2VllkMTUwZEhORGIteU50b0UyVEdIcGY0aFBiZVpTYlpIUFZ0akNnLUpWMVRyUFNzRGxaMjk0a2U2dTN4eGNkUGtSbW15UTI1MHkxRFptUW5ZZmd2eFlVdkpYcUYwNzd5SV9vWFBDSzFGamxCNmNhU0RtR2pTWnVMbjE3RzdRRVUtZHpJemlNOTdOZ0dUY3BlWG4wOEMzSGU4ZzQ2NlBOTnVLLXNKOHZoUmFn0gHnAUFVX3lxTFA2REhpTXpZNFJzZ2JER2d5azZiQVgwcjV0b2RLR1Q1RFFIN01kbHRHQTVfVHJSLUhyOGFUdTRkY0FJVTYyNVBTT2FtODNJczJMZFZSbFRCTGFFWGJ3aG9nZjJSLUFIN3FFVGNKdUdqN0xkcFJQRXRVUjNpY3FISGttT212MTAwRmpnenQzQXliaVRxOURERXIwT1ZfUnJSSjBYb2YzYnRxSzMxeHFJS0NjU3Q0UXdQZUF5NDBoU1ZwSjBQWktzcEtQRXY4b3JyRkNOQTBScWRUNHI1bUlwWnZ4WGNXLUE4QQ?oc=5",
-      "date": "2026-08-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
-      "title": "हिमाचल: कीरतपुर-नेरचौक फोरलेन पर लैंडस्लाइड, मैहला के पास पहाड़ी से गिरे पत्थर; यातायात ठप - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM1pEakVFQjRsUG1WUzZfeWNpVWdkdUxtdWJnMlBPalJwQURQLTg2R1RlcnhIVnFKc3FDaDdzRklrZ0dpWFRfSUVqT1IwcFdyYjljbjFxUWxlSFA3MnNsNXlEQUo1M1liaU1jcGJScjRrQU5IWVlfWkgzd1E2Q2I4ZkQwN1JsX2ZFLVdTa19NQ2VLUXpJcEFmZ3lHN3F5LW11VVhsM2RHNmlRcm9XU3ByNk1rOTc2TGR2NEZhemJubWFZdU9EWkQ3d1FSbzVHSGFQT29UY2JuVl9TQ01rR18wbFNfNkd2RFdwUHpEaEVvbmk?oc=5",
-      "date": "2026-08-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
       "title": "Heavy rainfall lashes HP, 162 roads blocked - timesofindia.indiatimes.com",
       "source": "timesofindia.indiatimes.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUEFRXzQzZVVXSzkwYld5dUlfLXlveU5ZM3B4SThNdG5aZWhTOWxKbVNmeU9IZ2dtWnUtMDJBWWNreC02ell2OHdfb2c2aHJVZ0FsTkZHTTZVcUR0Q1pSV3pWdkFjQjQ0VlAwMVdLd3BsMGZWTkdnQzRPLXNvS3pFd3RSeGhLNVpnX1FqaHlNNkpYQWR0emo4dmRMbjhKeGF0MVY5M1RROE84T2tuRHRCLWxkVTVQaWwzc3BpYdIBwgFBVV95cUxPeDJEcUZNbjJpZ2pDV1gzMVFuRElfaS1icXlQM0luOWdGXzJkZmd3T3JGbkpSQjBwM3hmREdPWHI3UzFVSjI4X0VPYWdER0xYQ0JRampPbDRuUTNfQUNEVGdlLV9nV1piVHRRWndYNW1qY28wV053TTRfOF9ibUxzM2NfWUtWV3NxTEN4UVVvNnVwa3JITmRycGV0elhpdTZ3NE5KSlhUUENKUGJGUWY0aVU2UWN6a0VzZ3NkNXgxSlV4Zw?oc=5",
       "date": "2026-08-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "Terrain trouble: Landslides, floods triple cost of key Kiratpur-Manali highway - Himtimes",
+      "source": "Himtimes",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzFxSjdEeVVIQ0VFbTBvRDhzVlVhRWxrRF9naHp2TkdhaS1OamtyVmg3dmxMaXpNQ2RmTTlrY0VvYmxkUzVfZ3FNblAwMFBOcG5Ga05hd2VqMmtoS3BEbTI4ZmpmUlA3Y2htZXZYemlJY2JfenNEQ3ZuS2dMaEZjeTBsOWZFWTRSRDJyUDM2ZGN3SkhnUDlxWUtnVDNTMlU?oc=5",
+      "date": "2026-07-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Kiratpur Nerchowk"
+    },
+    {
+      "title": "हिमाचल: सावधान! स्वारघाट-मंडी भराड़ी फोरलेन 24 और 25 जुलाई को बंद, प्रशासन ने जारी किया ट्रैफिक प्लान - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnJBb01nTUV3bXBsSmVuR1hPMkxGWGRUQXlLS1NGWUJYQncySDR2cVdwQng5NTVqS2NXMnpLWDFaMGpDQnVGTUFpbW5OQUpKd3A2bHcwakRGS3BTSkhaaExxdVh0dktuWEVoV3hPMUtyTlloMEF4bElfOHduWVVMdVZQbTR1NzVvRE1zWXBJZ1FUQlRnYXplbmdfRWViSHFyMGlTNUlJZTRQLUVhblhaOWp1SlJ0ZlRSZ3cybFdBLW8wbHVU?oc=5",
+      "date": "2026-07-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kiratpur Nerchowk"
+    },
+    {
+      "title": "किरतपुर नेरचौक फोरलेन पर दो दिन तक बंद रहेगा ये मार्ग, वैकल्पिक रूट जारी - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPaUh1Tl83V2x6VXZ2c3BkdWxNSWpvejBieHhub01JUHRSbnU1Rk1TV201RlZ0alpJSTZLRm1INnMwY3dLeTlUOTVkd2dfWElNTTZVajB6N29NUzl1OTBFYnUxTUNqcmwtNk5vc1NYcm90Njd0NFNFM3hLMHQxR0toRU41SzFoOEkyTVNTdFBRNEs0R3NNZk9CU2M3SVhSNDRvZms3TWJvbXk4MnhJZUtGVlh3OXBJZVV3cUZwdUhQeWc0TFQ5WXNXQ00xaUt3b0lqRWVvSDlHZ2tiT0FBcW1JV1JzbVV0X3lFbURQNEpScHFUVjVja19ENWRiVEhuOTlnTUJZ0gGIAkFVX3lxTFBKLXVUOUFLVTFiZ19NNUc5S2FqUFVRWHhPYjg1eHlnZXduZlVQN3V6bTFBbE90bHNCRzFqdHVjT2hhZVFqWDBkeWdBd055OWtFWUJPejVNR1NIek0zTGVseWlYZkVIcXE5YlB6eUNIUWY1ZjFjeGxfM3FvaWRsVTlUeElDYVg0LXEwUkVTUnU2MTBoOUtNaVhzWVVsLTN2Mkp3N3lxdkozRDlrRmprQkhXRHhkdFpaTWdCTDJ5MmZfUzRlVmZEcUtOREJNalZ4TG13cUdsQ2NEVlcwWDhBdTBlMkt0RmIyOF9UYWxsVUdrc1FjRDNuSWRJX1JzQXBuUFhvRXRYRHVkdw?oc=5",
+      "date": "2026-07-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kiratpur Nerchowk"
+    },
+    {
+      "title": "Bilaspur: कीरतपुर-मनाली फोरलेन पर निहंगों का प्रदर्शन, गरामोड़ टोल प्लाजा किया बंद - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMjV4UFVJVGxRRHcweDBhR24ycHQzSFp5YzdUVWgzTFRkaEhNNDNGRU1vbW5FVVA5ejlJYW5tTjlSVm04SndEZ2d3NEszQlRGb19qeWpxdmRhbkM5VkxtMGFzczVmYmFVLWRfOGtFZHdyV2QzNDRweURPdkpuR1BOZFVRN2c4eWtHSEFHMVJBMUpWeWtEbkhob25sT1pBbURIT21DT2I2S0hmclFCN1pib1FldS1LWmFUb2R0Mkh1aVdFdnBCWFBV0gHMAUFVX3lxTE5heTdGendmd0NlNDRYQ18xMUh5TzlHeE1wZVhfdmJyeG85MUJSdlp3Z3poN01tTTc1WUdrbkFCT2ZhZ3laWHN3dFFocmlzLVV6S3puTzM4MW50akhSc1FGbUpaUS10MEVIZjYwQ1Zxem84YUVOWjMyMFlqbTFnMWsxU1hnelI1bTVObTlwUER1Nlgyckw0RFNCeEVsdHFUOWk4bWszY3NXSFl0RXhUMUlxZHBqRU96UGc1VWZPdk9obFBHc242UVBWUC1UdA?oc=5",
+      "date": "2026-07-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "फोरलेन पर कुल्हाड़ी हमला मामले में बड़ा खुलासा, वारदात में इस्तेमाल गाड़ी मालिक गिरफ्तार - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUE92bmdpUHE4NnVlUzdvczViYkU4NGItRVFCTWpwN0pkSFByNGxXeC1uWkJfZ244QzBmM1ZzdGpZUjltUHhvNVgybWthdTRqRzlObHBob25pM09fZ3Z1eXJnbGRQZWdqT01kN0s4TTRSSlA2VFIxWjNRU2tQd2c0TWthZENZZG5nZmNHZ0paeTVMeHJkSjVGeFd3OUNRSFJybGJhb0RMSUI3ZjhMYWtKVW5pUWgyR1ZiQzRyaC1hc2hCMFAySjBTUEtUS2paLUlwM0x1NnRZemd2QnlZc2hwX0Fn0gHnAUFVX3lxTE9wT3c4VDEtV2R0MEdMU3ZRcVkyVVpJbHZwV1Q5MkNhMjAtM1pPdFNaQThjcGlTUUNlcEIxNVh6SEJsZjFrVDdrdTdPVnk1SjNJYU5yWFB4TmZhYzVBZUVpMldaWkE5R25Ra0J6S2VuOElXOHY1MTIwbkh6MjJrdmJsc3VrdllsZk9KZEt6cUNvWnlGWWI0cGIwX2ZLS0UyQ3NfNVV0VVp1SGZ3Z0loVHZyTHcwdXhMQTJ6UDlEVzljcXRUNlVyN3FDSE1iQVRBZm84TTAwdmlFbFVCdnVfTklZQ3d6U0NCaw?oc=5",
+      "date": "2026-07-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kiratpur Nerchowk"
+    },
+    {
+      "title": "बिलासपुर में व्यक्ति पर कुल्हाड़ी से हमला: चंडीगढ़-मनाली फोरलेन पर पड़ा मिला, एम्स में कराया गया भर्ती, पुलि... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTFPOUNaT2VqWGJ5bldpUXcyRm5VUEtnaXpRajFLeUswWHI1ME1BeUZvVE1lYXBvLUtGbVhZSDhPMnhwWDU4cU9taEtFSEF3SklZM3VBeGhHWDlxOE5tUmRKdFdhRXVXT1pneGpSbUMwSVozQ0ZjSDhJOEZhZkJJcm9JMTlPaXZncUpPeDRHc1FMQUtraVBmUU1OMHFYaXRjakg2NHVJdUxJblVzUUptOTVVX1lhMHZxSDY4M1UtVkpfamxFeWRV0gHMAUFVX3lxTFBldU40NXBibWxKUnljTkJZaVBhWTNzV1FMbmg4VE9LZlo4aTJhR09nZ2pmZmZjQ2FQUjBjODQyV0VXcWs5S044cC1GbzhNaTB0RGRWT0RmYUxpZHBTWFd5RkpBTXFpTm8zc0E5SW9xUjFzYlRaME9jOVlBdDlhdS0xNmVqVlFib2dQc09xcUFHQlVqMkRfekVQelNxY0xLLUdlbF9QNUZXSHo1eUZpLTJ5TVFkTU5DblVMSE5sa1JGQzAydkVIcFprazhGNQ?oc=5",
+      "date": "2026-07-08T08:57:10.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "A frightening incident unfolded near Manali on Sunday when a paraglider lost control mid-air and crash-landed on a road. The video of the emergency landing has gone viral on social media. - News Arena India",
+      "source": "News Arena India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHBRdFRDblVObUVpNERVMWcyVkMwUDA1X0kyMC1qaFhuS3dmRWl4Yk1PRkdac1ZCSmxvY0RkaDhlVlBhOWtaMWRyaHIzTm14TXk3TUt3S2RRek9sMHhBZC01clRpWEZURWhSOUVCRk40RkhPeV8wam9SSHJ2b19qTEZjNjRpd0FrTEFiYkN4MWZoc2tPQ3F1ZlRfeksycTIzR3J5NFZFSQ?oc=5",
+      "date": "2026-07-06T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Chandigarh Manali highway"

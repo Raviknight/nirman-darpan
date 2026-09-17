@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T22:14:53.673Z",
+  "updated_at": "2026-09-17T21:52:15.353Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -10,53 +10,53 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 45,
-    "positive": 19,
-    "neutral": 21,
-    "concern": 5,
-    "avg_score": 0.202,
-    "avg_magnitude": 0.369
+    "n": 40,
+    "positive": 21,
+    "neutral": 13,
+    "concern": 6,
+    "avg_score": 0.217,
+    "avg_magnitude": 0.64
   },
   "overall": {
-    "n": 45,
-    "positive": 19,
-    "neutral": 21,
-    "concern": 5,
-    "avg_score": 0.202,
-    "avg_magnitude": 0.369
+    "n": 40,
+    "positive": 21,
+    "neutral": 13,
+    "concern": 6,
+    "avg_score": 0.217,
+    "avg_magnitude": 0.64
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Keep it up you're a good job",
+      "title": "Your insights are truly valuable; thank you for sharing your perspective!",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "cute ❤❤❤",
+      "title": "Gingers are extremely good for our body immune system. Our kitchen are full of those coz my whole family love it",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Thank you for your video. I realized that mechanical design is a meaningful job that reduces labor and increases income ",
+      "title": "Your positive input is like a ray of sunshine. Much appreciated 👍",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Need more information about this",
+      "title": "Why do they grow it so densely?",
       "score": -0.6
     },
     {
       "source": "youtube",
-      "title": "Good idea but unfortunately in my school I am not able to use wire",
+      "title": "Is it just me or does this look like mature ginger they are planting? Also the harvest looks smaller than what they plan",
       "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "Hello, please I need more information about this machine",
-      "score": -0.4
+      "title": "Please send complete video",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-14T22:13:55.438Z",
+  "updated_at": "2026-09-17T21:51:32.904Z",
   "project_id": "NH5-PWN-SHL",
-  "count": 4,
+  "count": 5,
   "suggestions": [
     {
       "category": "litigation",
@@ -18,15 +18,29 @@
       "matched_term": "national green tribunal"
     },
     {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-08-28T02:24:42.455Z",
+      "title": "Parwanoo–Shimla Four-Laning Delay: Himachal High Court Warns NHAI, Continues Toll Ban at Sanwara - The News Himachal",
+      "summary": "Auto-detected from press: \"Parwanoo–Shimla Four-Laning Delay: Himachal High Court Warns NHAI, Continues Toll Ban at Sanwara - The News Himachal\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnU4N0dFVFFuZnJEN0hOc2NEeVhNTWJDamJaUHZsRWFoWEhTb3NCNnRDV0J3eU9XNGREQkdYUnBVSVo3dUFuenN5UUlwMU1oMzFIU1kxTWxuTUp4Q1NYNk5zRTlOay1sMGM4SndkVkdqR3FkamI5cjBCUXAyYWRqZndOYzNJNHdJbVBJcFBwZ0g0RVJhVjJVT283R0VrMmdDVTJvdExxX2hnc2FvaXFubDZMaV91VFRHMUFadnI2N29WMGpQdXJrem82RQ?oc=5",
+      "source_name": "The News Himachal",
+      "lang": "en",
+      "date": "2025-11-06T08:00:00.000Z",
+      "matched_term": "high court"
+    },
+    {
       "category": "incident",
       "severity": "high",
       "kind": "issue",
       "duplicate_of": null,
       "first_seen": "2026-08-28T02:24:42.455Z",
-      "title": "Highway havoc: Shimla villagers fear collapse as four-lane project advances - The Tribune",
-      "summary": "Auto-detected from press: \"Highway havoc: Shimla villagers fear collapse as four-lane project advances - The Tribune\" — review the linked article and edit before promoting.",
+      "title": "Highway havoc: Shimla villagers fear collapse as four-lane project advances - tribuneindia.com",
+      "summary": "Auto-detected from press: \"Highway havoc: Shimla villagers fear collapse as four-lane project advances - tribuneindia.com\" — review the linked article and edit before promoting.",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQalJ1NVhKYzE0aGJRTVBIc2FqdUREdFJFVlBEakNRUjRaWVRnS2lINGpuRFpnNEt2aExESHRqdUNycWQ3ZF9ZSThkcV92S2lrYmhfaXpSV3hBX3kyMG1mLXFVTjNBQml4R0c0LWtKZXJ3OEhJV0JodnMzV2RnN1FnM0dnWW5BSXdET0FVU3N2eXY1QXY0NWptZFZJNUpuc1NDUmpwOU9Bd9IBqwFBVV95cUxOVDd0T3lZMi00eEV6T1h0YTF2bk1adm5ubUZfWDVVTGVvQ2MtekVxTnh2TmFmX0RCVFdoU3JzZzVwWnE3em1xNm9yTkIwS0RJcFJnVVJaSHc5bTY5V3EzT3d2Q1poRHRNemQ5aVRXQWJlZjhMSG4waVJfd0s0SHRBQjNNakpiMm85bzd5dUNmRDBEQ2NDVlNDSXlBS2J4aFVyUERXMXdDZXNUXzA?oc=5",
-      "source_name": "The Tribune",
+      "source_name": "tribuneindia.com",
       "lang": "en",
       "date": "2025-07-31T07:00:00.000Z",
       "matched_term": "collapse"

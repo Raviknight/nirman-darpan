@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-14T22:13:26.692Z",
+  "updated_at": "2026-09-17T21:51:11.437Z",
   "project_id": "SMART-DHARAMSHALA",
   "counts": {
-    "press": 76,
+    "press": 62,
     "gov": 0,
-    "en": 47,
-    "hi": 29,
-    "total": 76
+    "en": 41,
+    "hi": 21,
+    "total": 62
   },
   "mentions": [
     {
@@ -20,16 +20,6 @@
       "match": "Dharamsala ICCC"
     },
     {
-      "title": "धर्मशाला में 25 करोड़ की स्मार्ट रोड धंसी: 25.17 करोड़ तक पहुंची लागत; कई जगह पड़े गड्ढे; DC बोले-विभाग जल्द... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc1NEZjAtc1luaWpWQmR3V3ZPNzhJV1V5eWtZSUxDckhnNWhqWVg3dTRONzBGWm1ySkRhbmtoT3hYc2RDbVJVdDVSNUMwc0JrZWVGSjQzTWQzQktnbVMzcy1qeks5ZkY2XzBqeGdDQVFremV1eWhzTEdqR2Q5T1diTVRKYnRYYkdIcG5IejgyOGhMR3VXZVBFTVZsMmZTZXllTXQ2M1g5MGNPenpVb2hONW9zM1hDTFM3LVlmZ05Ha0ktSlloVW9FTzVqYUhfT03SAdQBQVVfeXFMTzhMdW1XdW1aY2dNX05HcTZFZTdzd1BEMGsySFF3ZnFGV193VG1GWXhHSU9aZmJmQU9tMW0xNUpwZy1DelNHNFZvVU9rbHNOM0k5RXY1RmxSZ1FmSnBieU1NVHZnVFFOTkhtaEFhaWZUWm9VNFRjUkNvNm02LW9uTjF0LXJLTEdiU25ZRnhibFQ1c0VEanFHcU5rb3B6VFh5YnlMdjhHNkxEYUxyUGUzVzh6LUQyX2lrZ01DNjFNX09pVFd0bkdUWjdDLUtORVJSSWxzNlk?oc=5",
-      "date": "2026-09-09T12:19:22.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dharamshala Smart City"
-    },
-    {
       "title": "धर्मशाला के इको पार्क में 542 करोड़ खर्च बर्बाद: उगी पड़ीं बड़ी बड़ी झाडि़यां, जंग खा रहे झूले, मेयर बोले-ब... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
@@ -38,6 +28,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala Smart City"
+    },
+    {
+      "title": "Dripping Springs Community Library to celebrate 40 years - haysfreepress.com",
+      "source": "haysfreepress.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXc0R1JNNHR4WmR0MkZkS3pJQV9xN3VQTXJ0bmN0Y0N3VUFTeE1vaWViYkRXaEhHSDBWSGdmTlc3STNfcTdrSnJKU1ZlbWN0NVZaUmZYSm9aMWlyblIzX25lUHNXU3JPbDQwWnVjakNDc3g0OWpXbVlGLW9Rell6VEQxRVJ2TXJQUl84eWgwVVZ2OHRJekZtQl9uS05TNzQyUXc?oc=5",
+      "date": "2026-07-29T21:40:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
     },
     {
       "title": "Himachal CM inaugurates redeveloped Fountain Chowk, E-bus charging depot in Dharamshala - ET Infra",
@@ -110,8 +110,8 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "Dripping Springs library celebrates four decades of community - Community Impact",
-      "source": "Community Impact",
+      "title": "Dripping Springs library celebrates four decades of community - communityimpact.com",
+      "source": "communityimpact.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclpKclpQWmdQRm1ObTB1ZXdRR3FOenZSTVVrelpaZEVSUlEyX1FHUmxKVlNVdVVFTDkzb0wycWJoMUF1VEdzUmtzeGJubFlqMVl4QU41a2kxX2N4M2RVenppdFFGV2RjbTJ1ZEpzTlBoWWk4cDhERzI1TzQxbEhVdmtMVWxVQUlJbmgtM0pFR25zTWtGblU1OTdESng4WlMxSlRfaF9qSHk2RExrby14QUVrUFo5ajRqcUdjRm1JVEN4MGFIZ1djLTl1MHNHQQ?oc=5",
       "date": "2026-05-20T07:00:00.000Z",
@@ -120,8 +120,18 @@
       "match": "DSCL"
     },
     {
-      "title": "Dripping Springs Community Library hits the road - Community Impact",
-      "source": "Community Impact",
+      "title": "Ribbon cut on Dripping Springs Library of Wheels - haysfreepress.com",
+      "source": "haysfreepress.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1I3cGk1TVhnQmhpaDNhbVF2TXZnUTNiN1hoQ01ma0lzVm1WSzF1ZjFreHRWdmQ4WUptOGFpM1RLVk41Nmcyc2hvUzV3YmNLakRyVXI4cS1LNU85b1ZNUGxsclF1Wk42eDB1Z3F0X3BnemZuUFMxWVJHeGxSQUZxcGFoek1kb08tQS0tUi1FRFN1a0dmaVcw?oc=5",
+      "date": "2026-04-29T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
+    },
+    {
+      "title": "Dripping Springs Community Library hits the road - communityimpact.com",
+      "source": "communityimpact.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BxMVFOMlJQRzlYOGJ0dk5CaDk5NGEzQ3pSQ3V6enpmdnJ2eGJrdXBwNG9sV3VhdFA4WVFsQW9KbkdORUowcU1oaDZqcmZhT3VUZ1pNX0V4dW0yN1dXeENtTDFGZjg3QnVSQ05MSmFaS1I2Zlp5clBhREhrbTdpSzIyNGhYMXU0SzE3SWtxREkweUNNVjNVbEhRb3F4MXFQcGFTYjg1MFV4SlNMa05OUTNuMC04T2VHYkdSVDNB?oc=5",
       "date": "2026-04-24T07:00:00.000Z",
@@ -140,38 +150,8 @@
       "match": "DSCL"
     },
     {
-      "title": "धर्मशाला स्मार्ट सिटी योजना अधर में: 2109 करोड़ का था प्रोजेक्ट, 542 करोड़ की मंजूरी, 80 में 20 काम ही 9 सा... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1hGSHRDVDRNaVZmUmZQYklydndtQktJLUVBeGgwNkZzMldfQTliZUF5eTlIMmRuR0FhSTd3MzQtSkhrQ19tWGJsZmN4Y0lHLWg3VDltNnEyNlUzUlVmYi1IUUpaUU5GY3h3dXhnZVpzbjJMNDFFQjZmNVRZSElsLTBrUW9lUktKUEh5T3VtUlNsdmNjVmU1UnRPWjRYTi1ybDFOYXZoVFd6bjJydUdwd1FuQW_SAboBQVVfeXFMTVpWTV9hMGl3c0dFcnRMek5qbjZhQXpPZUR1OEh4NlhNakFWNF91VDNRbUtYdUtrV3NfOWRBcmdMbFNueEhsWXBuUVpNbmIwSmFtMEtzM2xLeW10SVhyMEp4d1AzSkkxRnp4WmVBaTlEdmI5X1BSNzEtNVJxaEJnSHF1ZGtfWDB4bjNIUURPdTBnNmg0cEJGTXNhNVphNC1BUmZKU0J6b0VKdWpIMzNieV9UbjJHU083Z1BB?oc=5",
-      "date": "2025-12-20T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dharamshala Smart City"
-    },
-    {
-      "title": "धर्मशाला शहर को मिला 25 करोड़ का समृद्धि भवन, तीन कार्यालयों का होगा संचालन, अब नगर निगम का पुराना ऑफिस भूल जाएं - dharamshala gets samridhi bhawan a 25 crore smart city project - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXRwQWs2RFJBVE82MHUwSm1PMnU2eFBwa09kdHI0eXZmeFVrRjUxUzFodnh6THhhNEFUc1ZiUGgtVGFnRHBCUHFGX1lfOXI1Rk5TQnYydnlSeHZ0dkdyazVvNWZMS1ExUGxHdzZYR1Iwa3Byd2JRSGY3aTRVTmZTbHpPZU93b3B6TnUtT3ZhZUxHNFlTQkJpb3p4bU1FRm5rc3M1N1p2WDc1U1czQkVRaFBwdDloRkZXb1dRMTFxRUt0NE82QVE?oc=5",
-      "date": "2025-12-02T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dharamshala Smart City"
-    },
-    {
-      "title": "धर्मशाला स्मार्ट सिटी-भूमिगत केबलिंग में शॉर्ट सर्किट का खतरा: 100 करोड़ रु के प्रोजेक्ट में फंड का विवाद, ... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPejNSVHRYN1Zvd0lvREtlOFRSZWtYa1BhWFFRTjJIRFFVazZER2Q3UGlPdFRReklsTTEwWTEtakhZcnRpRG9Sb01pMEtnZmFGd2x3TVFtZHBaQnYzR28zRllhYU1PM0lYNjRTb0pJV2tQN0Z6NVlDbF8xbzB6anVWWjVFSkNnaDJSM0VqaVFEb0xpLXlzOVBfWWhYOEhJNXVwSi1iVUFsUVJDN1pBY093NjdsRXg3WHRfOTZEdFB6VXRvZ1ZUOHhQZGdFVmR0ME9YcF93emsxLVd2Qktra0xYUlZUUmpJTmN6Vy14MHhKWnB0QdIB9wFBVV95cUxQbGdzTkNlSmFFal9FR1V0MlFZcTRmRWF2VnYwOUxHWWtqSUN0MlZqdzd6WUk1eXU4a3ZjNlRxQm5LdjhXUHhBVVN5VDd0WWNDYngyckRKZWY1N3lzeWl3dHpDNzZvTDlzaUMyV0JMQk9kS0dUN2FyQlNxTWlDeWcza1ZUeUp6TVdQV2tpLWtFV2xfY09Ubnp2NXNwbU00bjVzQUhNY09QcklWNHNzeFFUWjVieWFQZmk1aFZnRzBtcGpXVkJyMk1WQk5pU1l3VWZjVnlsNWhtWGE5aU9yN0wwa3UtWmFTZjJ4VnpXaER2MkpVNTF1Tk9Z?oc=5",
-      "date": "2025-11-29T12:30:16.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dharamshala Smart City"
-    },
-    {
-      "title": "Dripping Springs Community Library raises funds for new mobile library - Community Impact",
-      "source": "Community Impact",
+      "title": "Dripping Springs Community Library raises funds for new mobile library - communityimpact.com",
+      "source": "communityimpact.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUGN5U0YyaXJ4QW4wMUFJWTA0Ylg3T3hfWUM1Qlk4T0tyZTdKbWdhSlhRWDhiOVhncmNGbDliLXAyUVpwUVV2dXNyZXRVNjRwak44OHBTeHdWelZ6X0FxNXV0M2FzeGFNajh5c0pfUVpWXzV3R19KSm9zYVZBM0xrelF1d0tpNlZsMWk4ZVJEMEpGWWhlTmp2dURHX3VSVEx4SjNMdU1iN0pMclJUNWlOUUROUXhFWjdhcEpFWG9VaVBJWElRZ3dveWZmT3diNkplUm5OdnlObXlMR1B4MVE?oc=5",
       "date": "2025-11-25T08:00:00.000Z",
@@ -190,8 +170,8 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "Ethanol boost: Davangere Sugar charts ambitious expansion amid India’s biofuel push - chinimandi.com",
-      "source": "chinimandi.com",
+      "title": "Ethanol boost: Davangere Sugar charts ambitious expansion amid India’s biofuel push - ChiniMandi",
+      "source": "ChiniMandi",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdkxHS0hNMS1wZVJva2VLUHhKVDh6VXpyU1NvbUx3cl9HTmxaX3NvZE9Eb0xtWTRVc2xfRlZzT3Q0NnJ6SlBoT3BydVpySnJaZ2tXRUwxWmtib0ZxcGVaSXBuMG1BamVWNWc1NENkX3BINDlmQzgxMmdSQXB4eGlzZGFMSlRGcUppelhCdk9uUURyd3pzZDdTa1VYSjJRclgxNzh4VmdUdjV4ZVJfc2c?oc=5",
       "date": "2025-09-01T07:00:00.000Z",
@@ -205,6 +185,26 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdGFScTA5MTlpazBiaFZRNHZPeUxsUG1rRTdrSlotckJUNlgxSk94WW4xT2NXNnVOZTRGSGh6MEZhM3VvQnk3eWRzNFlaV0VlZXI5MHJsbTgteTJkWFN0NHBaWTNsendSb3E0V2JmS0tWbzRaNUtKU2VPS1R2X3hWOFNrY2pXc3FwWWgwVUxwT2xVS1R6cWRxLTVzQ1hvVkxJRmRHS2R1dF9wV2hSM3o1ODN1VFVTZGhMZEEzU1V2VmhkUTJBdUxBdVcteHlyLU5ma0h2cFZPWjNjTWU4SU5CN25nQWZyR3ZTMlY1LTRvX24tUzU1aVkyek9rcEdSRlJOTE1VVk1GWU40WnhINUtKZ3habm5aUdIBmwJBVV95cUxQZ0VKanBxUm9rdmVEMUJHZ20tUmZIVGRMbmZySjYzM1VTNml1bWZ3SGdwdzF2OEpzbDNhMGZHVEZfTDNIbHExQVBXTW0tYWNCbEF2ZFVCcVJsWGJ1VzhYT1VBekt6bWlOQWs2X0ZULU4xaEZ3ZHY1WE1ENTRPV0NlLVJObWlhdEdpLUp3WDUwMmFOcV9oRWI4cXRySDd5bDJCYVRPWlV3VWdfVjNrVzJVcDRFV2tPWVp2emNjYVhubHQ5WkdnYWdDa29fNGctNnRYTDFUcF9qLVY0eHNXZFRxajdzM09PaXhVSUJwLTYtZDl1T2tjdXdUQU1JV1pTdDQyR3RQMlAxaXQtcmdmV19DemxoR1J2blpsaHhr?oc=5",
       "date": "2025-08-31T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
+    },
+    {
+      "title": "₹5 से कम के इस पेनी स्टॉक ने जुटाए ₹149 करोड़, एथनॉल बिजनेस बढ़ाने की तैयारी; शेयर भर रहे उड़ान - Money9live",
+      "source": "Money9live",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZkNueGVqREI2c04xZm9jTk1CUTZMVWtCUEdhSDJvR3p5TEtxcC1UYlF0YnZaeEtQVWJnTFNzSTg1b0hOUHZrRWNBeEV1dFF5cEI2Tmk2VE5SRnV5QUZvMlBLM2xFSjdSYXpSb1FlemhSNnJRZF9ockxGOTFEOEpERzZJOUNaU0x5T2htal9nNG5CSUpUdW1VX195bnVYZkNGOGs0VG0tR1ZZTlFySy1IMG4xNVJYTklfcVo2U0gxeFh5UdIBxwFBVV95cUxOSVZ6R3YxazBjVFhkdmpPQjQ3ZXBlTmh2c1NUWlJ6bXkxOXJjaDdXRVBrMTJQQ2c1SFRxTHhPT2I1cXAtRmZVNURsRGlsNTEtZHhQb3VpSFVFdGhYdWVTWDFLU2RTbVEzTEVNRXJCU1VzWnBqRzM0NFFQYVZGZ3RMcjFLdGRZNUJCSlREWkZNMjhySmpyZDlmLS1CMUFOejhxNTJOdWI2T1ZnLVRqUmZja0JMWGNtMjdxcENnYzZEWW5NMWVXX3hR?oc=5",
+      "date": "2025-08-31T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "DSCL"
+    },
+    {
+      "title": "Davangere Sugar Company Announces ₹149 Crore Rights Issue, Hosts Virtual Investor Meeting - scanx.trade",
+      "source": "scanx.trade",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPODRqVHNUTHA3T1gwbEd2Rm1kRV9xT1VIMUZMUF84MmxVcVVIemt2MzRhdk5WVE9oSTA3ZGI3NTJtM1FMR2tCTHphYzJha29Ka3J6MG52cm5YUE8ySGh3Z3FSblZPclVUUjFvN1hMRGVranlkd255STJiLVU1QzJlckhRNEhWOWxGdFNDMDdLVWFLeFBNTzlXU2I3NUNnRk9PVWh6VGI3RGpqS3FFdG1wZGVHVFFISXZHM1dIYnc1STJFZnJFM3RnQU1KdmlMZW5UY1RkYktVM05NWDE2TXFkRU5jdVdaeE0?oc=5",
+      "date": "2025-08-19T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "DSCL"

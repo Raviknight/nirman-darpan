@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-14T22:13:55.440Z",
+  "updated_at": "2026-09-17T21:51:32.907Z",
   "project_id": "KIRATPUR-NCK",
-  "count": 5,
+  "count": 3,
   "suggestions": [
     {
       "category": "incident",
@@ -22,28 +22,14 @@
       "severity": "high",
       "kind": "issue",
       "duplicate_of": null,
-      "first_seen": "2026-08-20T19:25:49.948Z",
-      "title": "Chandigarh Manali Highway Accident : चंडीगढ़-मनाली हाईवे पर दर्दनाक हादसा, टनल के अंदर दो ट्रकों की भिड़ंत, पंजाब के 4 लोगों की मौत - dailynewsreport.in",
-      "summary": "Auto-detected from press: \"Chandigarh Manali Highway Accident : चंडीगढ़-मनाली हाईवे पर दर्दनाक हादसा, टनल के अंदर दो ट्रकों की भिड़ंत, पंजाब के 4 लोगों की मौत - dailynewsreport.in\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Fa2NqVFlnd0NLU0RtLUpwZ0pJZklPamJuX2Q1NHJud0lTVWtONzVYeTBIT3RsSUt2bzBZTmJYTU1RMkp5bE9VV25hZWhiVHdfckwwSXdCckNySmRURUZ0UlFuQjRsRi1Uam5LRE5XaUhqZ3BjN3pyckIzcw?oc=5",
-      "source_name": "dailynewsreport.in",
-      "lang": "hi",
-      "date": "2026-08-20T14:24:07.000Z",
-      "matched_term": "accident"
-    },
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
       "first_seen": "2026-08-24T19:23:39.368Z",
-      "title": "HP Road Accident: चंडीगढ़-मनाली हाईवे की टनल में ट्रक-कैंटर की टक्कर; चार की मौत, छह घायल - Amar Ujala",
-      "summary": "Auto-detected from press: \"HP Road Accident: चंडीगढ़-मनाली हाईवे की टनल में ट्रक-कैंटर की टक्कर; चार की मौत, छह घायल - Amar Ujala\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0ltVWUzcEZ6WWpTMUFHemtpUnBGTUVkM2VmazZKNDdSLS1jNk9HVEZTby1PS0pnMmdGQzNCOFg4bzRQd2dpUGIwWGtmdHNwbWR4X3RkQzhpMXFiM2h1cVptSk52V1NsR3VQb1M0ZjFTWjMxZFRvTXJYMk5hWUlSVUNfQUszc1Fxb2lvd3FHOW1YWmtidXgyTDR1YUVsVzFUck5SSzJ1eFVPM2VkRWVDMUphUDhOR2EzdDBGYW5zZUhlSHQtdTNr0gHMAUFVX3lxTE4zc0lVT0F4cUJna01fU2RHZGtYb1hBV09BcEFUODVWZWpFdXJWZWh3REl5azlMdjNFbHdJWjlsVWpCODUyclFGU3JHN2F3YnRHUFJQSnBhZUZFYWJhcTBlbFRERzdBdnE2VThYbHllM2dwNEZHaFV1bnQ0MDdzV0ZEYmdZQ2VRVmp6Vk1qTmVZWTgzb1pYOVRDcU9QMldwZU9vNUJoRnhRSUJ6TVJUQ2FQc2FpWDRFUGtLaVRkSXJTVVZHN0lQS2kwbUJ4TA?oc=5",
-      "source_name": "Amar Ujala",
-      "lang": "hi",
-      "date": "2026-08-20T07:00:00.000Z",
-      "matched_term": "accident"
+      "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
+      "summary": "Auto-detected from press: \"Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
+      "source_name": "Bhaskar English",
+      "lang": "en",
+      "date": "2026-08-20T07:21:16.000Z",
+      "matched_term": "injured"
     },
     {
       "category": "incident",
@@ -58,20 +44,6 @@
       "lang": "hi",
       "date": "2026-08-20T07:00:00.000Z",
       "matched_term": "accident"
-    },
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-08-24T19:23:39.368Z",
-      "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
-      "summary": "Auto-detected from press: \"Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
-      "source_name": "Bhaskar English",
-      "lang": "en",
-      "date": "2026-08-20T04:40:40.000Z",
-      "matched_term": "injured"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

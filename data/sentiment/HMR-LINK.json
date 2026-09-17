@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-14T22:14:55.104Z",
+  "updated_at": "2026-09-17T21:52:16.559Z",
   "project_id": "HMR-LINK",
   "press": {
-    "n": 11,
-    "positive": 9,
+    "n": 9,
+    "positive": 7,
     "neutral": 2,
     "concern": 0,
-    "avg_score": 0.327,
-    "avg_magnitude": 0.327
+    "avg_score": 0.311,
+    "avg_magnitude": 0.311
   },
   "youtube": {
     "n": 0,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 11,
-    "positive": 9,
+    "n": 9,
+    "positive": 7,
     "neutral": 2,
     "concern": 0,
-    "avg_score": 0.327,
-    "avg_magnitude": 0.327
+    "avg_score": 0.311,
+    "avg_magnitude": 0.311
   },
   "top_positive": [
     {
@@ -34,14 +34,14 @@
     },
     {
       "source": "press",
-      "title": "स्मार्ट प्रीपेड मीटर लगने के बाद UP में 31.19% बढ़ा बिजली बिल, पूर्वांचल डिस्काम की रिपोर्ट में हुआ खुलासा - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTJZRzhVUDVreE5qNWlvSGlySzk5LS00RG04X0NZX29tZ0lSX0hLUnFWZVhCQ2ZsUnpFb0lUdS1wQ2JTXy1qdUhoWlBvM0hNbnVPNmdVQUJ4dnpMZDVVQWR1SGRfdGM5bFJCMFhRd1JLWk5oTlVZSTh1UDFRbFhITVRsNGZvVFlHTGVSQTBXeXNUem54dk96dGhqcVdQVUpjcXFvcGNjVkZXZ2hfdDRGMVNrQUl2dw?oc=5",
-      "score": 0.5
+      "title": "बिजली राजस्व वसूली में मंडल में संतकबीरनगर अव्वल - Hindustan",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTXFHY0dON2Mzc2UyaVlCWGgtOXBIcUM4VVp1YzVEc0E1M1c2WGNuU2NjZmw2a3FTXzdsV3l0OFFfVTJreUo4SXRQQlE2eFVQRS04TkFhME9UU0g3RjJtM0xYN01TYWRrUUdqcnpndFJobFRoMnUwMTYybks3Znl6S1Q0cnVpTUUxZktGRGZwUFRNWE5BRGhkUW1fR0pRckppdGt6N3pjWU5lT2NRM3c0NE9aeGR1eEI4OVkwSW5lVmVuX3E5NDEyRndrQzktTlFfcmNRMUVOaDNrXzVHenVQbjJ0TzdxX1hPdmZUY1lB0gHzAUFVX3lxTE00VUh5WXZVVTdWVTZCcWhkcFo2TjJiLWIteUpIYXVBQ182ai0wS3E1SEVITEo3bnBTcWhac2pNUnVFUUZjcS1OZGhmSk9zQjFqMFpHU0dSZjBPTS1zaFY3bGVjVElzY09vQWMtSEVwaWRkVTNPZ05DcVFkT19na1FrT3UxSmRRRVlRUTMyUVZsZk4zQUFwcWg0Z0xqemkzcXh0cDVlb3F1RHRXdVhIY3BQNE83QkVWU1ozMWpkd1R4c2lucXM2TDRrNjJ4Y3llVmttLW5uWjJPakc0SE5Jbi16NUJ6X1ltR3h4bDRRS1VmdXgwaw?oc=5",
+      "score": 0.4
     },
     {
       "source": "press",
-      "title": "बिजली राजस्व वसूली में मंडल में संतकबीरनगर अव्वल - Hindustan",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTXFHY0dON2Mzc2UyaVlCWGgtOXBIcUM4VVp1YzVEc0E1M1c2WGNuU2NjZmw2a3FTXzdsV3l0OFFfVTJreUo4SXRQQlE2eFVQRS04TkFhME9UU0g3RjJtM0xYN01TYWRrUUdqcnpndFJobFRoMnUwMTYybks3Znl6S1Q0cnVpTUUxZktGRGZwUFRNWE5BRGhkUW1fR0pRckppdGt6N3pjWU5lT2NRM3c0NE9aeGR1eEI4OVkwSW5lVmVuX3E5NDEyRndrQzktTlFfcmNRMUVOaDNrXzVHenVQbjJ0TzdxX1hPdmZUY1lB0gHzAUFVX3lxTE00VUh5WXZVVTdWVTZCcWhkcFo2TjJiLWIteUpIYXVBQ182ai0wS3E1SEVITEo3bnBTcWhac2pNUnVFUUZjcS1OZGhmSk9zQjFqMFpHU0dSZjBPTS1zaFY3bGVjVElzY09vQWMtSEVwaWRkVTNPZ05DcVFkT19na1FrT3UxSmRRRVlRUTMyUVZsZk4zQUFwcWg0Z0xqemkzcXh0cDVlb3F1RHRXdVhIY3BQNE83QkVWU1ozMWpkd1R4c2lucXM2TDRrNjJ4Y3llVmttLW5uWjJPakc0SE5Jbi16NUJ6X1ltR3h4bDRRS1VmdXgwaw?oc=5",
+      "title": "सरकारी कर्मचारियों के लिए जरूरी खबर, बिजली बिल नहीं दिया तो रुक जाएगी दो महीने की सैलरी - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQanpFNG4wX3hzYzdWMmRhQXUzeXQwNklBS3dfTDR5VDgtbElyMUhRQTFvQlVxYThia29HZUszRzZLMTA5RDNCMHJucEwyWEN4UlQ1aHpmSGNXckdWcW9admtwNWg2b0ppT2pXX2J2ZEV5aDhsYmN1NlFuem05S1dlNHNzaDJxSTU3c1dZazJhYVFfcUhsV2taZ0xQMFVyMnZ6eFdGMnNiSWhEMDVacTNfQ1VQa0dIZ0xibnA5d0pOdWtoSnB3TGxOSjFvSk9YTFdoU0VTVWxONA?oc=5",
       "score": 0.4
     }
   ],
@@ -60,7 +60,7 @@
     },
     {
       "source": "press",
-      "title": "बिजली चोरी वाले इलाकों में लगाए जा रहे हैं मीटर, बदलेंगे ट्रांसफॉर्मर - Patrika News",
+      "title": "बिजली चोरी वाले इलाकों में लगाए जा रहे हैं मीटर, बदलेंगे ट्रांसफॉर्मर - patrika.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzBoYVFVVDJRVzBoUlVZTFJTQk5WYzc0YXN2cDRVTEdIQ3dZYXdZSzMzXzZ2UnFlRVY5RjVvejB2T0tNRGhJVS15N0lpUEZKNHhCS0VIN21xT21OWHU3TmlVRHVZZlB6QVl2QjltcnlvaW5ZOWhkQzk1cDIySURsM3RLR3hZUHR5SVVPZkcycVIyVnlkVzZraFd2cUszVlE1QXBVVDFQSTJ4T0xiV2Nhc0p30gG3AUFVX3lxTFBVeXdtQWptZTM2TUVVVW45Sm8wUDVLRVpEN3dPcTRzekY0dU5lTVpLLWVmTFZhb1RkWUhGT2JuWXZOdWJ5Q01pRHJWbEdINUMtSFNSR1dyN0tQLTVkMjBSVThVT3lwNzYwd2FNOEM2QnlKZEV1ZE52ZWJJb1RucDI1azlDY1Z2ZnUtSk5hWl9TVHFwV1diUmFCYUNsSjFDMUh2ZGtITGI3eTRMc2ZRb2taS0tES3Nvaw?oc=5",
       "score": 0.2
     }

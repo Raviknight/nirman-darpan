@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-09-14T22:14:33.470Z",
+  "updated_at": "2026-09-17T21:52:05.981Z",
   "project_id": "JJM-HP",
   "press": {
-    "n": 4,
-    "positive": 2,
+    "n": 3,
+    "positive": 1,
     "neutral": 2,
     "concern": 0,
-    "avg_score": 0.25,
-    "avg_magnitude": 0.25
+    "avg_score": 0.233,
+    "avg_magnitude": 0.233
   },
   "youtube": {
-    "n": 47,
-    "positive": 18,
-    "neutral": 20,
-    "concern": 9,
-    "avg_score": 0.081,
-    "avg_magnitude": 0.315
+    "n": 8,
+    "positive": 5,
+    "neutral": 2,
+    "concern": 1,
+    "avg_score": 0.338,
+    "avg_magnitude": 0.512
   },
   "overall": {
-    "n": 51,
-    "positive": 20,
-    "neutral": 22,
-    "concern": 9,
-    "avg_score": 0.094,
-    "avg_magnitude": 0.31
+    "n": 11,
+    "positive": 6,
+    "neutral": 4,
+    "concern": 1,
+    "avg_score": 0.309,
+    "avg_magnitude": 0.436
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Thanks bro",
+      "title": "Excellent achievement",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Thank you sir 🙏",
-      "score": 0.9
+      "title": "Thank You for the coverage",
+      "score": 0.8
     },
     {
       "source": "youtube",
-      "title": "Very nice news about your work jay hind Barat Santan Jay Sri Rama Krishna tks 💖 best wishes BJP halp all India okay 🆗\ud83d",
-      "score": 0.7
+      "title": "King of the world prime minister modi sir ji 🙏🙏🙏",
+      "score": 0.6
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Sir new connection  open  karne par open nahi ho raha",
-      "score": -0.8
+      "title": "Why congress didnt do this.",
+      "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "Connection band marane hetu kya kar sakte hai Or kha jma karna h",
-      "score": -0.5
+      "title": "Great works PM Modi Government Bharat Mata ki jai🇮🇳",
+      "score": 0
     },
     {
       "source": "youtube",
-      "title": "Bhai send feedback bala option nahi aa rah hai",
-      "score": -0.5
+      "title": "The work under this scheme has just begun in our village.. 😍",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

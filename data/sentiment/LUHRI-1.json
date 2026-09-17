@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-09-14T22:14:20.722Z",
+  "updated_at": "2026-09-17T21:51:54.530Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 20,
     "positive": 5,
     "neutral": 15,
     "concern": 0,
-    "avg_score": 0.075,
-    "avg_magnitude": 0.095
+    "avg_score": 0.07,
+    "avg_magnitude": 0.09
   },
   "youtube": {
-    "n": 7,
-    "positive": 5,
+    "n": 4,
+    "positive": 2,
     "neutral": 2,
     "concern": 0,
-    "avg_score": 0.371,
-    "avg_magnitude": 0.4
+    "avg_score": 0.275,
+    "avg_magnitude": 0.325
   },
   "overall": {
-    "n": 27,
-    "positive": 10,
+    "n": 24,
+    "positive": 7,
     "neutral": 17,
     "concern": 0,
-    "avg_score": 0.152,
-    "avg_magnitude": 0.174
+    "avg_score": 0.104,
+    "avg_magnitude": 0.129
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Great sir👍👍👍",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "Thank you",
       "score": 0.8
     },
     {
-      "source": "press",
-      "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
+      "source": "youtube",
+      "title": "💕💕",
       "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "HP CM Sukhu Orders Takeover of Three Hydropower Projects From SJVN, Setting Stage for a High-Stakes Legal Battle - HimbuMail",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1F2SXFDVDNFQjE3emtIWmRsM05UaGZXQ0loTkMzZVlmeVM4X0lrOWtLa0g2eFIteTRBa3lrSGZ4SlJqSGV5aElDeWNFcFVTc2FhTWM1S1BWSnV6UkwwSFM5YUo3ajBHcE1YQ0ZWNUt2U0E1d3dneFZrNzBvSEtlbS1GcTQxRDZCQWJZUk5qT0VtSy1SRUhrUllibTNmcTRmRFFqOHR2aVJaVnVOWjlNZkV2X1ZobXVqMG1GajFvWG5iNHN3MkpnT181bEZJUGIyM0U4MkZZWHEwZ1JXMy0ta0lFM1ZRUHJGdlBB?oc=5",
+      "score": 0.3
     }
   ],
   "top_concern": [

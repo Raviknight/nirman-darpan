@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-14T22:13:55.448Z",
+  "updated_at": "2026-09-17T21:51:32.917Z",
   "project_id": "ATAL-TUNNEL",
-  "count": 5,
+  "count": 9,
   "suggestions": [
     {
       "category": "incident",
@@ -23,10 +23,10 @@
       "kind": "issue",
       "duplicate_of": null,
       "first_seen": "2026-08-07T00:37:13.126Z",
-      "title": "Himachal: One killed, three hurt in car crash near Atal Tunnel - The Tribune",
-      "summary": "Auto-detected from press: \"Himachal: One killed, three hurt in car crash near Atal Tunnel - The Tribune\" — review the linked article and edit before promoting.",
+      "title": "Himachal: One killed, three hurt in car crash near Atal Tunnel - tribuneindia.com",
+      "summary": "Auto-detected from press: \"Himachal: One killed, three hurt in car crash near Atal Tunnel - tribuneindia.com\" — review the linked article and edit before promoting.",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2JzVEJzdHJUNXdJSUVROFhmUWtWTlRKVEhSVFd4Mks5aTZyLUVmdG5ncXRiRDhhNXJHNG15TW1ReVB1c0ViWTU0WURWdW1LZFBRRGw2YkI2dUlpZk5feExKeldLV3AtNE9RYUh1b0NiZFFKdG94RS0tZi1RVnFnamJNT1pfaUhHbFNEUHEzQ1pNbUVsalHSAZoBQVVfeXFMUDk0VTVEZ2d3VGFzWWM0bkJEQlFRZE1naWQ4cUhNR1gzWktsaGt2ay1Dalk4QzF4ZkYzMkpMYThVQmF5RlVJMVZBTmJJWnVPd2NmRDJiUExGREFYd0FiQ2JKUERfX0dUUXY0cVlUd1o3UUNNeG1UZXgzWHRLa05MZFlhNlRUV21LMlZ2Y1FlV3FMZjdFZkkxZlRUdw?oc=5",
-      "source_name": "The Tribune",
+      "source_name": "tribuneindia.com",
       "lang": "en",
       "date": "2026-07-02T07:00:00.000Z",
       "matched_term": "killed"
@@ -50,14 +50,14 @@
       "severity": "high",
       "kind": "issue",
       "duplicate_of": null,
-      "first_seen": "2026-09-07T21:52:27.654Z",
-      "title": "Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com",
-      "summary": "Auto-detected from press: \"Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlI0LUs3Z2NELUxKYXV0ZXNsSFNUdEZWS0tsX01PdUlCLWZGTHVoVDlFandncVhwOVFrTWozc0M2V2FSb2ZTOTQzWVU4UVNVU3ZVRUltSmxqWDJGRmhWYnpadnNZekp2UGdSQnhKa3g5eDVlZmt4dXJtUldiQkhYdjhqMnRLampQcEN1VE9wYWVUZFlSZFNQR05ZTVBsRlozQU5iRlZrbndFT3QxQm55bWJpeUh4dmRtMzJnT0pFVl9hZFdvbE55aXVSZnpxX0huUGFFZTAwd2lacTZ3dGhWTzB0TjY1d3laZWc?oc=5",
-      "source_name": "Moneycontrol.com",
+      "first_seen": "2026-09-17T21:51:32.917Z",
+      "title": "Atal Tunnel accident, one tourist from Sikar dead three injured after vehicle plunges near north portal during - CNBC TV18",
+      "summary": "Auto-detected from press: \"Atal Tunnel accident, one tourist from Sikar dead three injured after vehicle plunges near north portal during - CNBC TV18\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVi1zRWFsMHFzd2RWRFB1NXpvTlU1QW1NRHVlUWwtYU5DS0RFRlY5YkdJWklLWWh5dmV6WVlRTWpYbGVub1Q3Nm5Cb2Z5Mk5CQVBJcGw1MFlzUG1nQU1XSm8xSmY5aE9TVzR4SlR2UFZ4OVhvOFgzTFcwQTktMVlEUEtYc2pOY2dkTWhEUFR0bUxhTkNlQ1lXR1RHeS1Rc2dEaXBJVkFzTDI4REtha2ZQYVkzVi0wQTlWX0dTc1huU2Y4SmFVM29sSm130gHPAUFVX3lxTE1BQmFLanpYSTFuTTRxMkNYSkxxUHdBZVlNUkpnMWR2LW83Wl84NGRMWHRyc1Y2dXF6QXhGV1k1UGpmdS1LNEhlV2RvY0RYTEJPRDhCdWVZRHZDSjNPU3lRd3JSN281WktXYmRINkZCSGowTzJUaUtfdkY0cVpjT181cE5XWHQtLXRYRTg4VVdYb1BENzduU2NwNzRydmZqQTFoM1JPVG5DNnBoYjVCc0pyXzJsWGFWYTNtcEJjNDFJVlNwd3RmYmw0R19rd29iRQ?oc=5",
+      "source_name": "CNBC TV18",
       "lang": "en",
       "date": "2026-07-02T07:00:00.000Z",
-      "matched_term": "killed"
+      "matched_term": "accident"
     },
     {
       "category": "incident",
@@ -72,6 +72,62 @@
       "lang": "en",
       "date": "2026-07-02T07:00:00.000Z",
       "matched_term": "accident"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T13:28:24.739Z",
+      "title": "Atal Tunnel horror: Scorpio hangs from bridge pillar after being pierced by iron rods, Rajasthan man killed - tribuneindia.com",
+      "summary": "Auto-detected from press: \"Atal Tunnel horror: Scorpio hangs from bridge pillar after being pierced by iron rods, Rajasthan man killed - tribuneindia.com\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmUwNERUYmtDMzVjUW5HLVRZLWFlaFoybnY0UmttVHNMNzY2dXY1ZUNCRV9xWG9Bby10dGZjNXJ5ZlppWXozSTg1ZXY1eXIyWTRWbTg5d1JkenZCd253bXFNdnFpNkhMYl8wWDlxOXhvampHYmpkbHdDc3gzRVpDZXhTUE9sdU9oRWNyN2VSSGMyWmhaLWthbWd2b0w3TDdoeDFaUjhNY09CMjJmSGpIYTV3TGVOT0NBT0dLZ0RaekM3aHJ5dERIbmJjbE4zQmRlNkRfdF8wLXVIWENoV1FwRkxCb9IB5wFBVV95cUxNTzI1N1NQZ1RnZ2dYV2Ruc2xJMFFLY3MwbXdocHBGZ1RmN0poSTVmdWxKS2VMdEZLT3EyZ1VUZ1FZTndhbk00WEtlbVdzaER6VDBCWGtieU5yay0xYm9MeWxhUTZKTE1wM1J6SHdGSThMT1JJV2U5SUdpN1ZWY2JGVkpVb2lkakJ1RlNpSlo5SEFrcUxYLWQtdm5oZkk5M2hRY0RIZkhldFIwaktWQWpGOVg5QUpsRDFWOS0wNVFuOWNObzlsd2YzSHd2RFhzTHVvRWlDeF9LNWdFUUdoMU9NQXQ4cVAzbkE?oc=5",
+      "source_name": "tribuneindia.com",
+      "lang": "en",
+      "date": "2026-07-02T07:00:00.000Z",
+      "matched_term": "killed"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T13:28:24.738Z",
+      "title": "Tourist Dies After SUV Falls Near Atal Tunnel, Three Injured - GujaratSamachar English",
+      "summary": "Auto-detected from press: \"Tourist Dies After SUV Falls Near Atal Tunnel, Three Injured - GujaratSamachar English\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcE1KUk5peXpKSWVUTkM5SjF4cE9nMHJ3Wkw5UVVHU3g2Y2RQNjNhYWlmU2tNX2JyMkFlRExWWF9BRkpuaE1DaC1JaVExSFNQVmgxSlUyQWs5Ym5wbVhvamVSbGNkcEREX3ZpTzY5b3lRNnhEaGpBc1V2WEtuVFdvVHF3Uk9CRnVpNGpVMS00U1JrOEdmTGdZYU5vaVQwX0NrT2RIb2Q0ZjdMaWlBTDZEWG9vRlAybm5TVUhpNzF3?oc=5",
+      "source_name": "GujaratSamachar English",
+      "lang": "en",
+      "date": "2026-07-02T07:00:00.000Z",
+      "matched_term": "injured"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T13:28:24.739Z",
+      "title": "One dead, three injured as SUV veers off road, crashes into under-construction bridge near Atal tunnel | Watch - Livemint",
+      "summary": "Auto-detected from press: \"One dead, three injured as SUV veers off road, crashes into under-construction bridge near Atal tunnel | Watch - Livemint\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObmRLQTVJZ2Q4NmNvZm5aUlVFdlZIMVJiYmczMnZrWTVFNU5uaU9kdVhnRmlIblUwZ0JTWUxhaGZhQklmbml6X1pRa0ltRFFncXoyUXZzdldLTThlWHRWV1ZDZmxBM0VtY29tV0tiVlJPU3dFbUlUUkVXdG5mWEY1aHhKUnlrOHpmRUFWaF94YWw5QWZyeDFGTFNlZEVtc04wQUVTTi0tMG9NUkNzRmk0Y3dFdnhtOWF3VjhzX3lVUldPX0VOTlRUR2owbW1McFpWZl9QQ1NFcUg3bnExRFBWbWVjSl9Bd3Vfc09JUmFEQnFVajJw0gH6AUFVX3lxTE5TRG9ONVhRdjJ4akRvNUQ3NlBhWmVmT1pUbjN5MmtxdVd6YlRNZXIyVXdmbFRVN1hFdk5NQUxjNXFFWno4YnI0MlI2THMtMlNodFNiVXM0YjZEWlAxd0o1SEtlM2NjYTlVYzFlSl9fVl84YUFrcEpoNWNVaE5ZenhRYldpLVhQVGZnUGdieV9mRTdXZnhjTzduTHJkaGkwaWp3OWFfLVYxc1hvSmdsaHdkbHVOTzRjTjIxbFE4MlRkT0tCb1JfS3AwUVBOcnBvVjZoOFZ0SldoWE11OFpVVHlvVnEyUnl1c3VhWWZ2TEhMb1Ytb2J6U3UyT2c?oc=5",
+      "source_name": "Livemint",
+      "lang": "en",
+      "date": "2026-07-02T07:00:00.000Z",
+      "matched_term": "injured"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-02T13:28:24.739Z",
+      "title": "Dramatic video of SUV crash near Atal Tunnel surfaces: Vehicle lands on steel rods, 1 killed - WION",
+      "summary": "Auto-detected from press: \"Dramatic video of SUV crash near Atal Tunnel surfaces: Vehicle lands on steel rods, 1 killed - WION\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSmF0anNFcEx4WElQaHp4ZURkUWozTG1TaXByMlNwSjFvY0VaczVqMjlwY1REeS1pak5naGtwcUt0NzZ4YzdNNXZsb0ZrQ3doNWsyOG1QYVotanNtNXg4cjdLVHJVN0tEZ2h4Wl9pRjdTMTVrRXZYaUd5c2llYV9sZ092Nk9GeW8zcjRHbEg5dC1fNi1HcjdEQ01MaGVOQmRTM3pnZFpmU0VsbWNSX05sSXdjeU5WTWpUTzZra21ZeXZRQXhLQlB3UUl1Q2dIdWhrVHB0X1lB0gHbAUFVX3lxTFBGWFl6RzVUODR1MGZOVkk5NWxuWEt0eGk2MFdneUhObi1LRzF1UUloNUJReFJkdlRjUTdubmhWN01uUHQ4Ni1sZ2FwUG1Ycm5UaUZqUlpNR3VjUHlxVnQ4Nld3U3I1aWxYNmNEcndyOFlUdW1UZW14NU9hb0FYeFp3cmwtT2NzanZ5YXYtc2tGYkpRVlN2d2k1c3ZKS2RESDNwSFFlVm92b0diQlY5V0dxN0pUZWRodHBoUUd3WnNEVE92Y2ZyZlFzUFZ6ZTdvdDlHVXZDWmowelEwQQ?oc=5",
+      "source_name": "WION",
+      "lang": "en",
+      "date": "2026-07-02T07:00:00.000Z",
+      "matched_term": "killed"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

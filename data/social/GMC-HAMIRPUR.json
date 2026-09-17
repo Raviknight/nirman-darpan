@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-09-14T22:13:44.889Z",
+  "updated_at": "2026-09-17T21:51:25.306Z",
   "project_id": "GMC-HAMIRPUR",
   "counts": {
-    "press": 102,
+    "press": 96,
     "gov": 0,
-    "en": 49,
-    "hi": 53,
-    "total": 102
+    "en": 46,
+    "hi": 50,
+    "total": 96
   },
   "mentions": [
+    {
+      "title": "Hamirpur (Himachal) News: हमीरपुर मेडिकल कॉलेज में सर्जिकल ग्लव्ज की किल्लत होगी दूर - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNkdMQXZmTHFMaDRyd0tSc3ZoQ1BQN0lIRmxlbkx3aGVHYmNJc2lGclhPbXMwQlBFSE5mS1RiS3paak1ZbHc1aUFGMXdtV044Zy04NXFOYmk2aHl5dF9ERmxnaDZfcHQwVFlyQjZaRmZKUlliLVY5Tmo2dnI3TGFKR0xBbGVkMWhxUFc5aE9TN3hWQjBRY0g3UkNiVFRjM2JkN3k5RFhObTFPVVFFRXMzd1dfdTNGUjJRejRJMFNyQW00ZzVqaGRoOVBfRkJLdTRnSkVhZ1RRWTJVUmNKSlk3MXViWVJPOWxoQXRJTXBYU0g2RENxeWlHOWQ2dThwRDRjek9BUUxR0gGLAkFVX3lxTE44T0oyTUN5YlR1XzVaYk1OMnJsdF9qZWZ5aVNtUUY2RmFRLWNWMzlzZndMUkh3SWRqSko5RlJnVG5tc1lyUWdRSFg5UWdvaDk5WW1NZnZiNXVqWkNndnpTTnN5MF9GYVpFelRJVFVzLUxPWkhabWdNcE15amZ2WXZCb095YWplbXhyVy1VYWpTZUdhSmMyb1lKWllwUnFhOHVlSEQ2eVM2Vmc5cU1UQzc1anpMZkJuSUdjSl9xeGdOYkFDS205TUUtVVU4OXRJRmx6ZG9uVkY4MnBQNHkxV1JXSWFjdkFLN1E2OFQ3MHdieS1lX1dlTUpHZFM0OWdydUlPaFpWRm93S3JlSQ?oc=5",
+      "date": "2026-09-05T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
     {
       "title": "Hamirpur (Himachal) News: हमीरपुर मेडिकल कॉलेज में जल्द शुरू होगी गैस्ट्रो एंडोस्कोपी सुविधा - Amar Ujala",
       "source": "Amar Ujala",
@@ -20,8 +30,8 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "Himachal doctor donates Rs 80 crore property to Hamirpur medical college - The Tribune",
-      "source": "The Tribune",
+      "title": "Himachal doctor donates Rs 80 crore property to Hamirpur medical college - tribuneindia.com",
+      "source": "tribuneindia.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNE96M0pRWDZ2dHpPSGFiOEQxXzFMMFV3RzhjM1BUTXNKeTZEZHh5MnNxd05OYkZZcDB3T3BGenVudGhvTGRGUWtycG5tMmhURVY5bUU2Qy1fYm9JTGFPMDhaQzlCZThKYjdKWlZ1bUU0RHJnYTA2U21DVDczWmpRMFBVTEFQTVFhX1BQMnNycC1xVnR3eUZqR1F1TDYyOUhGamxWbnVR0gGqAUFVX3lxTE1HdnNxYkp4Zkd6Ny1VX2F0dG5JY2d4MTRBVXFWZTNDeUhWTXFTMVF4UG1GVmJGem1EbGEtbkxIUy0yRUtISmFNVTYtTHExTFNDZWNjZFRCYzRITUNyY3ZVNllJamI3TVE0eW1haWxsUC1Hc3p1Z1NwWWQ2M0UtNEtvazl6RFNRZjk0Mzl2c3V1M01xeE5xZy1ZTjYwenlqbTFCdm52djZmQU9n?oc=5",
       "date": "2026-08-14T07:00:00.000Z",
@@ -30,8 +40,18 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "Two Pilgrims Dead, Several Injured After Bus Overturns In Himachal Pradesh - ETV Bharat",
-      "source": "ETV Bharat",
+      "title": "Hamirpur medical college set for new campus shift - tribuneindia.com",
+      "source": "tribuneindia.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVBnUWNZclFFdkMtdGxENE9JSFZrSFZDRW5JdDNvSkxHNlVsSXRSNmlKOFhJTVQ4RjAzQTF4WnN2cnFDcnN2dzhSTjRCYTN6X0hQWWxIT2VlUDNXTjNpaTZQN1JoS3czQ1ZUejQ3a01ucXJGNFpsUmVhY0xxbWkxaDdibmJsTVltTXBlVXo4aE5OdVRGbmFfWtIBnAFBVV95cUxOZmUtek9Ga2diMWd5UHdncjg2eGJwQTJUU1lGSC1hV2JqWG9uZmUxQk44NzJkdzFxc1lfekFzRnBXdER5Q1l2U2dHdWVSX05qZ3p2MGVKQXpGYnJCQ3FwbmF2TGZjWGwyYVFONDU2NWRyUE5mekI0d0haRUFBWUI3dzhWeVp0ZTFGLVFNSVpxcDg0WHg5bGxfT0dORGU?oc=5",
+      "date": "2026-08-05T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Two Pilgrims Dead, Several Injured After Bus Overturns In Himachal Pradesh - etvbharat.com",
+      "source": "etvbharat.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeE5PMmgteG5nNVdmSndGTzNvWks3SEZZX0lPNTNyaGtlQ0I1UVZ1MzZHdjBwS2wxMG15UHlzMENmbnYwREU1MHAwck5QVElUbXQzNWZTbEo3UUFvYkxUXy14dWU4X0stYjdqUGk0TXk5RkhfUUJfMFdscXpKak1jLVQtNXpLOVp0VGZ5LWZCbVlhUktDTXhoeHowSWJkRmIzR0VYejVUeEphSkMtZ1RsQzdfcnVEMEJMWlJ2dzR5S3F3Y2NWTlB2ZzVUdHpPZDlydV9jbE81czNfR1VoQmhUbzlRV1Y2LUphUU9nUjVMQlNTT03SAfgBQVVfeXFMUF9BaE15VGZxWDVMQTVaRkEtRWtiN0tJdnIxdlNvWl81UGJ1LU5nRjgzVTB5UVJrT1VPN2VXNzV1M2tEbG1yb1E3YmZnakR4YVJEZHZPWnlvX1ZIb2tWb3pQQ3lxVmRJbHR5clNMcXB1SjJUSnZfb3ZyekVyOEpwdUhXZGwwU0laTXdEcy1Bd3FlSjFZZEQzR2hVWVBzUmlBcTlwcVpvWXJfSC1Gd05KYkgzRk0yd25kSkRNQ0RnZ1Y5Uk9qNlZxdXRIODhHUnhlRHN2aG5uNDkydkFGSVZ3NjlUaU82SmU1bVQ2WjFpVHFfbE1GTVZDc1I?oc=5",
       "date": "2026-07-27T07:00:00.000Z",
@@ -40,8 +60,8 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "Health horizon expands: With Rs 350-cr campus nearing completion, Hamirpur medical college prepares to shift to its permanent home - The Tribune",
-      "source": "The Tribune",
+      "title": "Health horizon expands: With Rs 350-cr campus nearing completion, Hamirpur medical college prepares to shift to its permanent home - tribuneindia.com",
+      "source": "tribuneindia.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeW02NzZNemVOeTljMzROekQ0ekNIcy15NVBWX05DUGhzWko3bEpuM2RuWWZwN1ZOSzFfd3BmOU1MeGN0Y3MtTGt6bUV3M0NFdVlaYXM5NlVxWGE3dnhaUGtFYTlkU0hjQ3VKbGZGYlVXOTdkTkNsQUlaRE00eVVTS2JHZExOWjNhTmloOWd1RnU1OGdCRkM1a2prYUl4V1Q4bms1a09iZmhqMzJzb1U1b1d3WG9VdkY0QnVick9VbXdJZkl3RW5WVThEVGpRbVJqR2VxbXhwVGhiT2k0eDNtSW5RVGtzenFKSXlqOFhrRV9jU3Jicmx3RE53bm1jWTdiR1HSAYYCQVVfeXFMUF9abEhhVzFFa0VpbF9VVDdtLU5RNk5haENNN2tHcE9vaDY3ek1sUVRucVpESkhCMzNwdGRQTlY3UzNReDZYVGlVZ0YyeTFKRnFVUUhVaVVRZmM4QzJuZWtNbWwzYVZBdFhHUDhIRC1pYnRpWm9tMGdTMExsckJlSW5zOExnenVUVXZvdDJfTi1CdnBuUU5UMm9jRU50Z2R0X3JNOHl6SlpTTWx2Y3MwMGNmYnI5UVlCWjM1aGw2LWhKOHcyUExGVGVEb2FLeFFMbDhwb05qNUVaSFM1alZETnlUUUNWbndrbXJ4X1R1aWJWOEFwenRlYzB4aGJ6SGJmNzVsYl9vUQ?oc=5",
       "date": "2026-07-01T07:00:00.000Z",
@@ -70,6 +90,16 @@
       "match": "Hamirpur medical college"
     },
     {
+      "title": "Video: सुरेश कुमार बोले- हमीरपुर के लिए कोई एक उपलब्धि बताएं अनुराग - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRHdISk1vOGk1Ukg0cGIxcXhsbEJia19CQTdGVWVLc1dnZHJOY1FaTjdvOTB0RGJ1MTEtd05iMmdHaDdZZFI1Yngzd3dmVlNFczlYSVVVbUVJU0VhMEZ2dVpYdkxJNGhoYVh3cDVkSmtDWUhJVkEzSHJJVkNMSlR2R1NLM1dHbG5vZGQwOE1wWlNycjhyMkFfbm9HUDg2b0x1NDVSQi0zaVhqMHNBRVFhOWlnZ0d0aGpBLXVQenNMX3RXUXlWZ0FzY1pRcjFHczJ5MWZnMURmdlU5bGR4VWhFZdIB5gFBVV95cUxPYVlaQjhFZ2FqdFdGWjhTUjZQT3lTMjdqRFdHdV8yaWRsNkFmOGFGZkhJUF80TVUzNEg0Y3BTS19oSkZNT3RBNkdVcmxnbWdLUlZjT2M3WFlxYTFOX3k3MnNEcXlyNVltcnhTdktKQ3hiSEUyYjhxN2tuNW8zTjRhQ2huYzJzTU1MUkxDenU2WTFHNlN3ZEhPNWppM0RlUW5xY25yUjFuQm1FcVhIUzlQMFY3aGVialFUNXE4XzJ4ZzF5UXNXYWtST3k5cVg3c09HTE54eHYyTUhjU0tJZHdJWktsanFkQQ?oc=5",
+      "date": "2026-06-25T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
       "title": "Himachal to build critical care block of Dr Radhakrishnan GMC for Rs 35 crore - Medical Buyer",
       "source": "Medical Buyer",
       "source_id": "google-news-en",
@@ -80,8 +110,8 @@
       "match": "Dr Radhakrishnan GMC"
     },
     {
-      "title": "CM Sukhu trying to take credit for Hamirpur Medical College with no contributions: Anurag Thakur - ThePrint",
-      "source": "ThePrint",
+      "title": "CM Sukhu trying to take credit for Hamirpur Medical College with no contributions: Anurag Thakur - theprint.in",
+      "source": "theprint.in",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzk4Um5nSFI1eFpkQzczTE5qaFVMWVRCSTQ3VktzOFd0cjU4R29UcXVpTTFLUGhQUTVBUlNrTndqdDhXQkdhSjV0TnVVY1BvNDNJZGxVT0ZkU3k4RTY3YVBVOXJ4Z3gzdm1XZkFuY3kwN2ZPWlFtaTh4OGlkeDZfUnBMNlZCR2xQQ19iY2F2dWJCZDJTZDRfangzVWtXQnNfcEFSZURDYXBScGthdTlackE2OU1VSXZuVm5XLVdteTcwdm54c1plaHJR0gHPAUFVX3lxTFAwQUlYZzJHOUNLQV81cjgyaHc5TWJkLUlJMTJfQzFHQ3RwVzhmNURxRjd3RnFpVzRCOXQyR3J4V3Y2VlhTRWc3ZUtwUnlPejMxM0ZtbEg3bzgyaTBnWWZBUjRUNzJ2OW4wczhzbDhiMjVrdWN1UVQ4V0tGV0U1Ty1TdGV1MmJycHByLXBUZHB4X0xseGhmOGZYTnZPYzdNWmIwQV84dlpPUEJWOUk2SGxhWkFvaFJ4bmpMLXpYdGZ6MkdpcW1JNFZyR0hvaU1ETQ?oc=5",
       "date": "2026-06-23T07:00:00.000Z",
@@ -110,23 +140,13 @@
       "match": "Jol Sapper medical"
     },
     {
-      "title": "Hamirpur medical college to shift to new campus at Jol Sappar from next month - The Tribune",
-      "source": "The Tribune",
+      "title": "Hamirpur medical college to shift to new campus at Jol Sappar from next month - tribuneindia.com",
+      "source": "tribuneindia.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0NwM3hyYmpnRUV5YVpXZmh1RFZ1M1paMl9SM2k5RVdzNDNUcDJpRUdGS1ZNVkxZQmpJN0kyZm9IeFdLY1FTa0YwLWNTd2VEODExcWVrWE05YWduWjZWaDF3LUhiQzJyTnktZkpoU3UxQzVTRmpwdjBwSENicGhPZGtyQmRHalVHdHM3MXUzdlJsNC1hak9CZVlLY21JRDJlVEFOWEZQYS1EcFc1STlTSHhMSGlfX1d3NDhwWWd30gHCAUFVX3lxTE5ONUdsMGNJU3hzR1ljQzNfdFVaZGtRMjd4LWtLNVBXTGE2N19fMUdFY1ZZS2NNTUdtMWtqbHY4X0x0U2ZmT3Y3TGdTSElxaVowdkMzYkVFWHpyeFozSWlRTXZtRWRxOW5kVmw2NHh2SXRLRUhhSVo1ekVnbDVoMjhsdHV0aWR6SlBodUZjRDcyVy1ydWxCc01hVm56OHQ1NFRrcV9IQU83eGNOWlBnazYzN3VFM3drV3dPY2h1UnZLLWZ3?oc=5",
       "date": "2026-06-21T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "CM सुक्खू का एलान, हमीरपुर मेडिकल कॉलेज जुलाई में जोलसप्पड़ होगा शिफ्ट; 35 करोड़ के क्रिटिकल केयर ब्लॉक का शिलान्यास - cm sukhu inaugurates hamirpur critical care block college shifts - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1hPZm1qNVBFVXRqcURlX0U5dE55emo0TEdxeUc2dGhOMF9IS0w4SXB1RnJyTnB0MUNKMURVQzFTTEphcHBiMC12UDhCWFhyWXJ4eWJIMVJJMndBYlBLOHVUdGpLRE1zVkpDb1FiYW9HQkJqelg2amV2MkhJc3pOaFJBMTZxT25mZEh2NlI1UjRQRUJGbTQxcjlLVmtvcVU1NVpjdDQ1cU1aT1NoV2drZ3dyV2hMT0dFWVdVZnFpTy1BbzNQX21fNVF3?oc=5",
-      "date": "2026-06-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Hamirpur medical college"
     },
     {
@@ -150,8 +170,8 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "Anurag Thakur questions delay in shifting Hamirpur medical college to new campus - The Tribune",
-      "source": "The Tribune",
+      "title": "Anurag Thakur questions delay in shifting Hamirpur medical college to new campus - tribuneindia.com",
+      "source": "tribuneindia.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNS1JUjJNcWlZTWI0VE1FUDZwMXI5ZjdDNU1uY3BrQkRsdnJNYWZ5Ti1jQzJCcDZpYlNaUUxrcW1UTGFDUkstYUlkOUpWaGtZSzdsQUgxOUQ0aVZoN0hpYS1fOEJDemRqRFYyZklWTXpZRkhaYVRXS0pnbDBWVnRPckNtV0tnUzgzVE91dWltcE1lWnJhbFBDTkJOaVNrY0FVRVlaMVgxcFRQQjRidEpKaWx0cFR0d9IBugFBVV95cUxOakw2Rll6c1NUbkI5bHBrbG1zTFl6Q1FMTzEtQUJsamFqejk1Z3NXYmhUaVBIYWJCQS1DV0FxSktRdXdCdzA5SUJGUTdhbUN5YlRFNjk0QlhUazJNRzg2Uk5xUFhIcm00dVhmYThlODBnOFByV19DZWwycmVtUTlQLVM1YlRaejhiUEN2czVscTVOalV3SlNqQ2pIcWdkWU5uZFBHMUt3RTY5SzI4emtvNkRQa2pnMWw0YUE?oc=5",
       "date": "2026-06-13T07:00:00.000Z",
@@ -185,26 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZWIzMmxaWC1CbzFnaDJoSUl0RzNSY3pwaGNJeHVNdm5qTDZMazdWV21tMzlRZ3pxT1Fzb2FENHBnNVBmQ2FEYUhmLURTaDFtWXNRZUw4Mk5rMk9rU1dDUm9NZW5pU3lBTF9JMmg0OVVubEdhVjJ1c19PWUs1ZEEtbTRnQnNwSjBzT29qZ2l2VS1Na1hjWWVlNnEwUWlERDgzMHhVUzRFMlNmT01SVGNFN3FaUjQ5aWo4VUdoMEtMdUwxWGtqWlFBNVFoZHk1MV9xOXAtM2FibDlmeTFJ0gHiAUFVX3lxTE1GQ05BejVXVEQ2ak05TXZGSlRnUUNwbGxqbWhNZDl6T1l3bk95R01mOEpFYXRaRGE2WDV3SG5UZ29uVUtGeGdyUTBJSXBhaDJxeHpGNFRqNzk2dlAtdHhTQ3VkeW5yZ1VjN3FMVU5iYVR3THlTdTNZSnI5SmI4YTZfTnBzUlUwdVZ5QnJuVnVzQVRUVGJhcnF4XzdSMTBkQmMxTGMtLUVlMnRNdklqQTN6bWF4WHJheE4ya0NEbndhYnlLZ0xWdFhYY3BuLTlkWm8xSmtKUXJQQ0RRbG1FLU91Q2c?oc=5",
       "date": "2026-03-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Mother detained for abandoning newborn at Hamirpur hospital - timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZEMyV0Juakw2UjFuOF80WXRua1Fkc3l0b0x3U1g5SGcyWXd5cllGR0dXSENPLWNTbk9sRUh6S1ZKRmdnS05pbTVQdlRQN1JHam8zTlNGMmVhZVR2VEg2blFEb2pRbzZiVFBVSXlZcWRTVTFYVmQ5bWZ2NGJvTm9qaGV3bm4yX1lUN0VkVnIzUnVIbHU2N0tFeXMxWDRBX1NXdWdKMzdFOC0tQlFHQnVMbEM4WS1sVUtkY3Nsb2hhQ3hEU2tHb2NCMndFSDRQZTFBUldV0gHYAUFVX3lxTFBReWdjTS11Vm9fU2VHdjdLQ1g0V1dfTk9JSUh1ZWR0bU9DNF9ncXFVMFV0LVhuVFlLUWoxTFk0N19GWE96M0Y1NUlZYzlTaU1QVTRRZEV0enYwZUlnX0FoNmNQYl9JaHlraFhSc3FpLV96cGV1N3ZmbVU4VFU1RUdVaVhkeTE3LXNkT24wV3ZjRjFzekNuNERDRlBxRW4xV3NWOWdGUjgyOUJGV2lua0JoMGtHRWZoZHlZTEw1dUNJYU4zMEZTNG1odk9idlFIQTk4NlphbTFldw?oc=5",
-      "date": "2026-03-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "No PHC will remain without doctors in 6 months, says CM Sukhu - Medical Dialogues",
-      "source": "Medical Dialogues",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWNNM3dHTGVUdENVQ251Tnhqd2xmZGw3TUdfWjdnMENpRU0ybHdJUGw3blJHMHRYWlViV2g3RWc1em40SmNCSmdlcDlTX1F1YVV3anI1dnRkRzhLNGdsVkNGNTBMazJsbkVkdmhKQUpYRnBzRmpYZHRKTklTS2NwOVp6aXFPM2lRWUFLejNjZVowbjcyWF9TNDFUODU2MDhqUURYN2NPQmxSUlRjSk05RU91X0Vtd9IBuwFBVV95cUxOc21LMVI1eldyTkJCcThBc3Y0RGw2Vl9QZGhlNHZTNjJ4WENpTGNvU0Fjc0FjZTNzSGxTTHl0NHozRjhoTDF2R1gzalpSbkJ4SEU3N2R2LVlULTVMeXZOOUlRSG40YXBNd1BpTFZvUllFWlU1Y0RfRmdLOV9yVUNSbnh5dmV4eFJiZjM5d3Q1VjFKdnNiUy15LXBDWXJ1UGtFSWlPbnhPZ1RiZ3ItQ1I3RWJuSmNnVkd2V0pv?oc=5",
-      "date": "2026-03-20T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Hamirpur medical college"

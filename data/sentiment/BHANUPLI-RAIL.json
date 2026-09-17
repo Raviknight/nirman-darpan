@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T22:14:19.373Z",
+  "updated_at": "2026-09-17T21:51:52.814Z",
   "project_id": "BHANUPLI-RAIL",
   "press": {
     "n": 3,
@@ -12,18 +12,18 @@
   "youtube": {
     "n": 31,
     "positive": 15,
-    "neutral": 11,
-    "concern": 5,
-    "avg_score": 0.232,
-    "avg_magnitude": 0.452
+    "neutral": 12,
+    "concern": 4,
+    "avg_score": 0.245,
+    "avg_magnitude": 0.445
   },
   "overall": {
     "n": 34,
     "positive": 17,
-    "neutral": 12,
-    "concern": 5,
-    "avg_score": 0.238,
-    "avg_magnitude": 0.438
+    "neutral": 13,
+    "concern": 4,
+    "avg_score": 0.25,
+    "avg_magnitude": 0.432
   },
   "top_positive": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "Good job ji 👍",
+      "title": "जय भारत।",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "जय भारत।",
+      "title": "Good job ji 👍",
       "score": 0.9
     }
   ],
@@ -55,7 +55,7 @@
     },
     {
       "source": "youtube",
-      "title": "They should consult engineers from Konkan Railways who also carried out a similarly difficult project in 1990s and today",
+      "title": "Tell me Further status of this project when will it Complete to Travel LEH by Train so I can easily go to LEH by Train",
       "score": -0.3
     }
   ],

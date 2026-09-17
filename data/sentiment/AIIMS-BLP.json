@@ -1,52 +1,52 @@
 {
-  "updated_at": "2026-09-14T22:14:25.902Z",
+  "updated_at": "2026-09-17T21:52:02.923Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 20,
     "positive": 12,
     "neutral": 7,
     "concern": 1,
-    "avg_score": 0.215,
-    "avg_magnitude": 0.255
+    "avg_score": 0.2,
+    "avg_magnitude": 0.24
   },
   "youtube": {
     "n": 35,
     "positive": 26,
     "neutral": 8,
     "concern": 1,
-    "avg_score": 0.471,
-    "avg_magnitude": 0.543
+    "avg_score": 0.474,
+    "avg_magnitude": 0.509
   },
   "overall": {
     "n": 55,
     "positive": 38,
     "neutral": 15,
     "concern": 2,
-    "avg_score": 0.378,
-    "avg_magnitude": 0.438
+    "avg_score": 0.375,
+    "avg_magnitude": 0.411
   },
   "top_positive": [
     {
       "source": "youtube",
+      "title": "Toooo addicted to this college😍",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "I have gone here \nVery beautiful place 😍",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
       "title": "the song.....omg it's so nostalgic of 2020 era , every tour had this back ground music......btw the campus is soooo pret",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "My dream college Very beautiful aiims",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Ya Allah help me getting in this institute its my dream to study in such nice college and full fill my dreams.... I want",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Two imported dialysis fluids at AIIMS-Bilaspur fail quality test - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1FLWmN5ZDFxcFV1aXFfclhraWxGXzF1Qnd5dGZVLVRpTmJGNVktYXR5RFpnTmNkQ2ZlcWxoSjRwaXd2UHlNd3paR0pKeXhZVndVbUd6X2xvQ3hJLV8wTW1sbW9wazZVVWJacHR4UjczQWxYeFJhRUt4VUVDbWFKeWVMa25fQ3RxbFhvY3B2LUpESTcwUHNlTjh1eno0aVJWTFFzNmVTWUpCdDRjV3FsLTRQWFdKazQ5SmdpOEdEdUdKU0F6WEhnTjlxc0bSAcwBQVVfeXFMTndRS1pjeWQxcXBVdWlxX3JYa2lsRl8xdUJ3eXRmVS1UaU5iRjVZLWF0eURaZ05jZENmZXFsaEo0cGl3dlB5TXd6WkdKSnl4WVZ3VW1Hel9sb0N4SS1fME1tbG1vcGs2VVViWnB0eFI3M0FsWHhSYUVLeFVFQ21hSnllTGtuX0N0cWxYb2Nwdi1KREk3MFBzZU44dXp6NGlSVkxRczZlU1lKQnQ0Y1dxbC00UFhXSms0OUpnaThHRHVHSlNBelhIZ045cXNG?oc=5",
+      "title": "Two imported dialysis fluids at AIIMS-Bilaspur fail quality test - tribuneindia.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOekRqZlhURnJ5ZVJzaWViRUdZcHNKM2l6T0VFYTFqaGlkUkpLMmdXXzM5M28zSGc0UGx2Mk5fejY3TUVZUkFZNnRsT1BSWjh6RkFkNEVONFpFMXFXWDFDd00zRkxKVnNQcm1ZaTlNRFNGTzZ6N0NmeEttUVlBSnFoWWE5QTR4dWhqT0ZBbU0tbFF2ZVRPVnlCS0VUeHQwbDZxWC1RSDFDREJpWUlL0gGwAUFVX3lxTE04YlR5c2w0MmhmanhhWkhlcmFyMWhTYWlOakd1dldsZ3M1TzhDZ2pFYlZnOHdhRHV1YmduR09qX2ZLZUlqZnVPWi1zV3ZYNDZuc29mbmxqUUR4NzNEMVFCMmpjQVF5czBMUEJmWXV1R0NGelZoU1REcURWQmRTRFpWbHc1Zkdhc3dIRHowUGk4Z09JR2JhS05vQ3FxZS1GM1Fla0VNUEN4dzF4RkZLWmlJ?oc=5",
       "score": -0.4
     },
     {
