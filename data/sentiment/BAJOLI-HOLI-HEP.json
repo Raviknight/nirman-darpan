@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-17T21:52:15.356Z",
+  "updated_at": "2026-09-21T22:24:12.283Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
-    "n": 20,
-    "positive": 8,
-    "neutral": 10,
+    "n": 19,
+    "positive": 10,
+    "neutral": 7,
     "concern": 2,
-    "avg_score": 0.12,
-    "avg_magnitude": 0.285
+    "avg_score": 0.158,
+    "avg_magnitude": 0.316
   },
   "youtube": {
     "n": 4,
@@ -18,19 +18,19 @@
     "avg_magnitude": 0.275
   },
   "overall": {
-    "n": 24,
-    "positive": 8,
-    "neutral": 12,
+    "n": 23,
+    "positive": 10,
+    "neutral": 9,
     "concern": 4,
-    "avg_score": 0.062,
-    "avg_magnitude": 0.283
+    "avg_score": 0.091,
+    "avg_magnitude": 0.309
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "हर ग्राहक को 125 यूनिट फ्री बिजली, होली से पहले इस सरकार ने दिया बड़ा तोहफा - Hindustan",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbXh3MWpIYWJZTmNidVdHWl9jNFRPWXVtdTJXQzBkRTV5MzBsRlBQaFFqSkVxSHFUZFBjZnRuQmprLTJJRGVCdnZiSENhZTNpbWJKdW1vNW5WX0l1TVBZSjBacl94Qm9yV3VkYlk4OFZwX3VwSEllSFdxWGJ2VmxlV1UwTm5lb3BqU0FfNW4xSVZQSFhpTE9aRk9rdVVLMURJd2hlVms1WEVEd2FvdGdhSkRaNDZteW9wQkNUOWpiNDZpVGtoR3NQSGF1Z09EQlNjUGJQYkpKZkQwN3JCLVMwdkdLY9IB6AFBVV95cUxPWS0tTWhJM3lQRGZVaksxTHZTQ2pVRHY5NXZ3M0otRFVrRjhUdGFURFRuSE5KZC1yLWs4NWRZTl9uamxiSUJCdXdabmY5bjBkLVVDMnEzRFJMLW1BY1RJblZrRjR4TUMtaG1RdnhWRTVRU3VYbEk1WFBOTVB4WXI4VzRsM0Joal9VbUI2cGNBem9OLW5oZlVaY1BKanAyRG5CNlRCazFtMVMxb0h1NUdDTEZ1bEhOZFZjeWtka2g0X1VXOUQyckFIX1BLSG0tRGNudl9ZWlhkcmduRFlVSHZQN0ZxV01BU090?oc=5",
-      "score": 0.7
+      "title": "बरेली में होली पर रामलीला, 166 साल की परंपरा; मुस्लिम समुदाय ने किया यात्रा का स्वागत - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1RsU3Z1dEFZOGFrZ1FpdTNrcWh5ZVdsWUNwdmlWaDE3elZSd1J0UktOZFNkNUxzRTBWX2VaTk9kcDM2Ul9kVE1LNDF4Njl1VXlfYVBSVzNrMTg5VGx6d0tRcVpXZ2ttdERRd3NGX3dXNnVfSmJ5MmlfWV9hQmRvODNUMXp2aVRZdHdrcHlPbFJweTZhZjQwaDlOYWtfRXc0TUUtd3JMZ1hDenhwRjhHMHdGcFI3N0JlTTZLN1NaZUFjWEhfbWRENzY0OWg4UlN3NTlib011X2FwMXpLMmNoWEZ30gHnAUFVX3lxTE9ZVUpvUnhfcTVyaVFTZDBuQW14RDBvTFBDQzBvdXlDQ1RBLVRWSi10U25zMi1yZlotV3hyY05sRjR0QzVKQnNJNm9wdk1UdGRtMlliVW9ISUFDLTZ2Z1habHRDZkNlVkM4NTBHN3lCY1FhYW5PMm12RnNzSm9KU21TbGJjRTF5Z19jeTZHQU4wVHRfbFBpQkpPSWlrV1ZQRDZrMWRQY3Faa2UyWldoUlZ4QjRlRk5zZjFfUXNEcktjbkY3OXJsaWt1ZzI0RUNacE1yTjFQLWF2cTROVzhzWjVPNHVYOHJkZw?oc=5",
+      "score": 0.6
     },
     {
       "source": "press",
@@ -58,7 +58,7 @@
     },
     {
       "source": "press",
-      "title": "In Chamba, a village cracks under shadow of another hydro tunnel - timesofindia.indiatimes.com",
+      "title": "In Chamba, a village cracks under shadow of another hydro tunnel - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlRPSWR3ZmlKRDhabHhkZVd0WHhrZFBTdExCaWc1RGI5eEVtMklKS0JhVzZ6a1dtR3Z6SWlHVG5FZG5wYVl3TXJKU1Z5WVZKRzNrNmRXR3FFNnNIZzgzNlpzYnl1V0p6SE1XU1NPZW52WDJuTVR5VmFFaTdSVmlwZDh3eXFKbnJ3VmUtQUswNkJwTFM3UWs2TUpzVDhmUGtWNmxseFUyZEwtV3RnSzZjWXNOMnItc21WMFFlQkp1cXlnSkRWZ3JTYnZn0gHPAUFVX3lxTE5Yb2ZzUFpnVURtcHhTSDZDTlNxeEVlck1PM0lCaVBxNlBma3dIU3lkVnVDSzhkWi1Wd21RWHZGYnFKTGxBcXU2dkZQblRQSzVKTWZJUTEzQnduRm5YMWI2LWk2LUdOT3pXLWRTaEVYWmg0OVpJYXRoYVloZ000eDQtc21EWHhrWlZRU2F0VE1GZWNJNU91anMyTVRsRUJpYW1reXQ0RUhSeGZjUVdzMmQ0cVM2N2c5RmtqR3g3clBrUE95VmZTbENqWHBVMEJ3Yw?oc=5",
       "score": -0.2
     }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T21:52:05.981Z",
+  "updated_at": "2026-09-21T22:24:09.984Z",
   "project_id": "JJM-HP",
   "press": {
     "n": 3,
@@ -10,53 +10,54 @@
     "avg_magnitude": 0.233
   },
   "youtube": {
-    "n": 8,
-    "positive": 5,
-    "neutral": 2,
-    "concern": 1,
-    "avg_score": 0.338,
-    "avg_magnitude": 0.512
+    "n": 23,
+    "positive": 7,
+    "neutral": 10,
+    "concern": 6,
+    "avg_score": 0.017,
+    "avg_magnitude": 0.313
   },
   "overall": {
-    "n": 11,
-    "positive": 6,
-    "neutral": 4,
-    "concern": 1,
-    "avg_score": 0.309,
-    "avg_magnitude": 0.436
+    "n": 26,
+    "positive": 8,
+    "neutral": 12,
+    "concern": 6,
+    "avg_score": 0.042,
+    "avg_magnitude": 0.304
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Thanks bro",
+      "score": 0.9
+    },
     {
       "source": "youtube",
       "title": "Excellent achievement",
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "Thank You for the coverage",
-      "score": 0.8
-    },
-    {
-      "source": "youtube",
-      "title": "King of the world prime minister modi sir ji 🙏🙏🙏",
-      "score": 0.6
+      "source": "press",
+      "title": "Jal Jeevan Mission: हिमाचल प्रदेश को शर्तें पूरी होने पर ही मिलेगा केंद्र से पैसा, अटके हैं 1227 करोड़ - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRGhnMFhCLXUyWm1hSlBueTlRQjJEWnhBV3RNdllDSWQtT09YQXZfUU1POFRVeDQ0RGkyNTFaXzB5TGJ0WEkxSmRnTEpndGtDeGplN28zeTdDUmw4WEcwSTZ4bGdoaXJzMkYxZnhENksweHFnY3JtWkhkcERVMHJwVUdwZ3EtOHFwaW16TmRZcjRzZDhrd0NreE42ZkFfajdxM0tHVnlUSU9fN3lBSHZPLTJ3WVNnMzNQR0xLcmYwbG1qaGZ6b1Z1ckZ4ZGdTbFc2ZnlfZ21zVS1ZdlBjWjVFS2N3X0RHTXZVT0w1cjdsbGRYeFl6THNfVWx0eV9RQdIBgwJBVV95cUxQb2hhVTQtMFVpRWJ2TEFQNmdpM1BHcmZJelRicW13cmF0Y25CaWEyY21MeWp6aXZrMVRoTW0yeEViUS0zUUtnTjZhMDF4LUUyS3ZZdzhpS3FISnNVbzNLQzNzT04zclYzbkl2MFhZeklZMF9DS1pHM2c0bEJMQzlJektIbnZMNzhmTzV6MjJyWFdQUlZ0VU9PeVRiYjRBUF9uYkE3ZDFzNDNSUjZ1Q1ZtQlFzdGNmV3luQmVVUWVMb2RnaE4tcDZmOUtXYTdGOE1HZ2l4eEcxUDhUclBFaE54Vk1UTHB3QzVMYWdaZUUtanBWTjUtemNaendacjl3bENYU3R3?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Why congress didnt do this.",
-      "score": -0.4
+      "title": "Sir new connection  open  karne par open nahi ho raha",
+      "score": -0.8
     },
     {
       "source": "youtube",
-      "title": "Great works PM Modi Government Bharat Mata ki jai🇮🇳",
-      "score": 0
+      "title": "Connection band marane hetu kya kar sakte hai Or kha jma karna h",
+      "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "The work under this scheme has just begun in our village.. 😍",
-      "score": 0
+      "title": "Bhai send feedback bala option nahi aa rah hai",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-09-17T21:51:32.919Z",
+  "updated_at": "2026-09-21T22:23:43.900Z",
   "project_id": "IIT-MANDI",
   "count": 2,
   "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-09-21T22:23:43.900Z",
+      "title": "From Pilot to Profit: IIT Mandi Conclave Examines How to Scale AI - Tehelka",
+      "summary": "Auto-detected from press: \"From Pilot to Profit: IIT Mandi Conclave Examines How to Scale AI - Tehelka\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzNOeDJ1NlVSVkJQYzFyOEFjc25oZGw4WmVmV1g3M3ZaQmVBU3Q5TEM3RXRLeWI4bWNjaWw2TEI1SXYzUmFfMXRSRnhHUndFc0VUVk1DWV93TFNqczBwS0tWNnBsaDBEblFXWXdwZnlDX3pqN1BtZDFCSXlFLUJETUhIWklUaVFuVXBUYmdn?oc=5",
+      "source_name": "Tehelka",
+      "lang": "en",
+      "date": "2026-09-21T16:01:30.000Z",
+      "matched_term": "pil"
+    },
     {
       "category": "litigation",
       "severity": "medium",
@@ -15,20 +29,6 @@
       "source_name": "Inshorts",
       "lang": "en",
       "date": "2026-09-14T05:03:48.000Z",
-      "matched_term": "sho"
-    },
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-09-14T22:13:55.450Z",
-      "title": "Does a Bhagavad Gita Poster Showcasing Caste Hierarchy at IIT Mandi Expose Higher Education’s Caste Problem? - The Leaflet",
-      "summary": "Auto-detected from press: \"Does a Bhagavad Gita Poster Showcasing Caste Hierarchy at IIT Mandi Expose Higher Education’s Caste Problem? - The Leaflet\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVJfYUZXMWNCZThVY1J3XzR6bHBwM19WdE5xOVlXTUk3WFk3aXlHSWFkRkctUnJtS211QjVuc1FZaXZrb0RwaWFEb0oxX3ZYdWNpaDV5OWtaanJvV29DSkRtRkEyNTJEY0daTEw4NWx0UTJ1ZHR1VGxOcFVGZUhWUnVoWEFfZkhzZGVTLWM3SmU5RVM1ZFhQZndISGxRYWZhLU12blZCSld0S3Zzd21Cd01YQmtXcHhvVlh6eWpXUVRqamV3SE5BTzVjV3FONGtRLTZr0gHgAUFVX3lxTFBhNFdMU0RselZBOVVlajJ1RlUwc2RzZzFBLWhleDBYMEh2bXBvQzFuQXRNb2JNS0FyMGZ1b2JGb09Cbzl3NE5tYUhZY2xBMmt0QzlRbzU2NXlrLURLdVpNbTRxNUprc3d0VzNfZWpPMUtnZDNVTWZ2V2paUkxTenZzZEoyRTNwVWl0d2Fnd1VJaXByWlVnb29HUHJBVFRWRDk5ZmlaSVFIN1JGWW1BNTRvVkt5anp0VlI4ZG0tUm5UdWtIZXMwZWFoMTJjUmlHY1R1VHdnaVgxRy1vOS1NTmdy?oc=5",
-      "source_name": "The Leaflet",
-      "lang": "en",
-      "date": "2026-09-11T18:49:42.000Z",
       "matched_term": "sho"
     }
   ],

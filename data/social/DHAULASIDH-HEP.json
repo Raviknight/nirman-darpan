@@ -1,19 +1,179 @@
 {
-  "updated_at": "2026-09-17T21:50:57.556Z",
+  "updated_at": "2026-09-21T22:23:01.066Z",
   "project_id": "DHAULASIDH-HEP",
   "counts": {
-    "press": 27,
+    "press": 44,
     "gov": 0,
-    "en": 21,
-    "hi": 6,
-    "total": 27
+    "en": 34,
+    "hi": 10,
+    "total": 44
   },
   "mentions": [
+    {
+      "title": "Himachal: BJP questions govt plan to take over Dhaulasidh project - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXBpRDBfeEZMNDNoUWFaWHY4anJqTFh6V2xyYkx2c0psZkVoY1hBbkRGOWp0b3JOeVlkSkYyeWdQQTZyaFJWQ2xiQjE1Si11Z3VIeEFuM0RFWE5XNDRISFRqVWlTSlRsY2VVMFRhSG5vUjVMSUdtbUFkVHc5UE53Sk9TWUt6ckRuZ2ZTMWphMzd1VzVaaU9vd1lBdGtDMzdT0gGkAUFVX3lxTE5GWUpoTjNEeDJkSXB2MjJnS2xoWnJRZTZQR3BVdzNtbFI5NzU0ckc2UEFkcFpldkNpZ0JEQ3luU2tzV0NqNFBvVXZtWHNaSFlham1sOG5qSXFxUVM2TjIwV19iWm55c2NYNFpJdVFnMHhJNE04dmFSaHBvNnJtdVk0UzRLajBwbGdoX0c5alVkSU5BSGFwUmhreXJTVUNlc0VFTlgx?oc=5",
+      "date": "2026-09-20T17:07:35.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "धौलासिद्ध प्रोजेक्ट: 800 करोड़ देकर SJVN से वापस क्यों लेगी हिमाचल सरकार? - Khabargaon",
+      "source": "Khabargaon",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaV93Qmc2Tzh5UjhzbFBGZ29hQkg4RkZiclQ5VnZSbWQ3cEdQUkpxZDIyZ2hRQ0ZZNWc3YjZlVU1BYzhrdFJxVmIwRXJ3NGhhOHMzMjFYZFdhR2g5VDRtU05GZjlxM1lHSnBTaGVsc3J0cUdqSjZLeXNaZ3JSRjlid1djRTc0R0NS0gGUAUFVX3lxTE9pX25WMTljcVUtNjg1aF91cU1yMlRmeG9pVjBOVEhzR0M2aGItN3hJUzNZSWZZOUk4V0RweDhDcHVNQnJCZ1drSGFrNXhKR0VHaGpZakFacjBCb083Y1B1WWFwZVN3NHIzVnF3LU85Vi1SQ1ZoZVhyNzc5SlcwNUlSaWdfSXAtR1J1WjZpQTNmY3Jmeko?oc=5",
+      "date": "2026-09-19T09:40:13.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "धौलासिद्ध परियोजना के लिए 800 करोड़ देगा हिमाचल - Janta Se Rishta",
+      "source": "Janta Se Rishta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbldJNktHSml2VHlFUjRRNENtRzQ4ZEZycVhkLWx3UTJKb2JDUEVNNkpWQXVJNmVaLTFZaU9xbURvaHlLVWsyMUc4bDV1alhTLUxFVWFKWUN0RVRBVGV6YW8tZy12TXNWS0xqUjlyY1hrMVZUWndHTkZIYXE2S2Vic3ZsMldjSHZyY2duRWotY2d2SjdfYnlGZUExSElkSU1IX3pFd0ROM3VwT3ZkZkHSAbMBQVVfeXFMTmZWN3lqajdUQ0N3X1JWQzNjV0l5Q05xbk9nbUU2U0pZQ3FmTWtIOS04M3BTRmFQcGd4UzVUVGdHZkRvMXp4OFJyRXVUQzd1RXJHMzRSSHlWaWlDQS13eVRtYlBrLUF6dW1yYlljOVZtSzNUWVhqTTlCZVEyU1J2MXBWQ0RSSnBkTDZSS1Q4RW5RNU1qX0hvUUFYNjRHT3FFVklYZDJwd3NIWGd2MjNpdVlNQ3c?oc=5",
+      "date": "2026-09-19T08:28:47.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "Government to Pay Rs 800 Crore to SJVN to Take Back Dhaulasidh Project: CM Sukhu - The News Himachal",
+      "source": "The News Himachal",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRG1MVkFjam5lNW5rOEtIOGt1M0FQOS02QnJadDBTQzVTTTJ5NVRGc0ZUZ2htODQya1VoS3p1eUx2UHlURTk2eGhHQTU2TjZTdDZlMk5MTTZKeV9RM05yTGpVSUI1bWM1djl2NzBuSFVrX3loRmVpdmpGaW9aT3FJby1PY25qa0htd1EzTTBCMlRRREVGRnpqdndYaVRfejYwcGtVS3JaeUg2djRDUHRZREt6UmRoOTQ?oc=5",
+      "date": "2026-09-19T03:32:18.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "Himachal govt to take back control of Dhaulasidh project: Sukhu | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYXBUaU8wc3hLb3hNQ3lqR0tqQ3Y0VkZ0eWVYcTgxdkxWQXp1V2hTTmlpQjNUZF84NlNEbjVYZTBjeHJEQk5IaGF5R1ZQYUduZmN1VTFJQmx2cDlkODRhcVAtSzIySVZiM3lGMDM5cG1QNExELU5jQ29yQUVYanZ1TllReGMxS1dhY09ZZTJiYVBSTDk2ejVFTzNzeHFESENoVlpkQ0VITnNPSHJkUFg5dmJjamNRaFFBUEVUa0tjX0stY2h2ZzJkbU1OQVhGblg5Rl8w0gHYAUFVX3lxTE5jSU0zQzJNVFdqVzJxejNqWVR0aDZSdHVOSkVsbWFiSDdIWUdvb3dHSk9ta0JJWVY0MnNMemlsSVFpdjg3OWpaZVdPNi1JdnRaWHhFZE9zd0s3dFVOMkNUUjJleWVNSWRVRWlYa054TjJkZWJXVWkyalh6R2pCNVFlSTR0eV9mc3pmMzNHT1ZnNlJReGJoXzR2dWRmcElsNGZCU2NoYklMelhoTHBxQ20tR3YyZ1Q1Ui1iTDVtc3FmNXZuY056UGw1a1dMUGxEb2ppV0RNRzV6Vg?oc=5",
+      "date": "2026-09-19T02:03:20.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "Himachal to pay Rs 800 crore to reclaim Dhaulasidh project: Chief Minister Sukhvinder Singh Sukhu - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZEg2Zmc5YVk4M2p2VnpYRmxHc3QyekhNZEJlSkVzb3pjc0RZMVA3UkdHUjdXUS1valVwZ29GWkZySVpPZ2lMekR6UDJhX2RmSGpsNW1jMmdpaEpTVzRLM2R1cklXdnJoNUxDV0NuLTgweFg1SFR2UzJ0ellZSkNueC1ob1FkYVA3dTc1ajdjWlpHYlFPTUZJOWdKWkpKZGlIU0xUb2UtRFlMVmd2VDZRTVp1bTJqdE5Za0pEbktJbm5UOXRRZmN2M0RtdVFHQ3ZzbXZ0bS03NNIB2wFBVV95cUxOSGJaR3ZhZnU3V0Nlbi00Y28wak1MRFV4UlRLZHYxSUlVc20wTmMzOHV1ekRsYldiZUVMVHBFcUFVSENEaGs3cC1hWTFtTXIzTVZLNlZMMWE3NGZzcnM5eldzdkM2eEhxSmN0dzFyREFrNFBRMHdzY0Faa1BLN3ZzX0J4cVJ3bXVJSWNYX1MxZW9XVzNRU1FOTGFhZ1B2NThtQWZsVF8tLTFtMVgtal9TZV84NWNwOGpzY2ZoQ0xEcVVEaFpEeWJxZVFTUm1WY0I3aGdjaF9tc3NkNUE?oc=5",
+      "date": "2026-09-18T20:11:11.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "HP to buy back Dhaulasidh power project from SJVN for Rs 800cr: CM - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVNncTh1LWUxUm4ycU5MTHBjdTJJZWhmUUJRQnVjZVVOcm04MjhnTkhXSmVyNlg1U0Q3MHpyQm9qaUZHdEdYQlFzN2ZrR09IQVZSUDF4TUdjZmhTSjlDR1o2bklVeTJYWWprcWRlOW9iMVRBaEpseEQ5OTdfQjZDalZOSEZuSm5wVHEzVS1jRFNUXy1zYnNIWTFadmQ0YS1WcUhud19jcUIwV2Z1OTFGenhfeTAzUUFYRll6eG11V1ZjVndENUQ1V2ZhTFEzN1A3TGFMV2d1VkdjY0XSAeABQVVfeXFMTWNCY2JRdjE3VWxFVXNDZ2F6N1dRdE5zRHRKQWFwSlpvaFFvUjhpQmRZUW5ndzh2U1pEUGdkd1lZTHZGNU01ZlVVQ0RVMmVQVGpIemtZdUhKb3EwZlAzX1R3NU1pcFl6QkpLbC1qOGl3aGp2dVBRQV9fTXAtSDZoWnFydGFueE02R1c5dzN4azU4cWtfc2NSUDYxUXlVMEt6TUVjSWJEeVVsamM1bmpHSXY2bFB1U0lOSjN0THRDcHJaa2FCNkp2Y1d5akVHdHpfaVVlU2JobnNLYTQ0RHJiUTY?oc=5",
+      "date": "2026-09-18T18:36:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "धौलासिद्ध प्रोजेक्ट 800 करोड़ में वापस लेगी सुक्खू सरकार - himachaldastak.com",
+      "source": "himachaldastak.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOExfYjNHUWU5VUplVTg2S3owWUNTNTBHMFlYWjl5dklXV1lfTUhBSjFBa1NpSkdBMjNQV1F4VHdZeVFnd1Z0b20wa3RUSGpsWUtYZ2hGVWZjSWRwQWtVT0JlQUpyMWMtaU1HS21IRUN0NHJKeVNHWjZsa2hxT2F0eFVZOGFSYmNpLWtzWUNiMWppUGR1TEE?oc=5",
+      "date": "2026-09-18T18:24:37.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "Hamirpur: सीएम सुक्खू का बड़ा ऐलान, बोले-800 करोड़ देकर SJVNL से वापस लेंगे धौलासिद्ध प्रोजैक्ट - Punjab Kesari",
+      "source": "Punjab Kesari",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWZXaEVaaG5xTFlmckFvVm9ZOElYN2h6Q29PRGxvTlRiUW1pOG9PQkE0dTk3WGJmd29aeFlPcGdBNERSNVFZOHNtVE5KdWR0dVoxSXkxNlJEV284Tjl4cGM0N2l1UTRZX19Fc0pDeGxpZ3JZMG04SzFwXzFQTDNjWi1qTkZ1THhaOW5LdV9mX29DUUpwcllmXzczcWJiVDDSAacBQVVfeXFMTUlKbHczUWxoaVBQLTlOdURKd2RtMllIbHJiM3p3V21BWDE5akFEQ2ZEdldUem5aOFh3b2RRWldvdFF3VkRwaFA4QmtBUjJFR1U4bTlHYnJMM1IzWjV4S21nLUY1bENjZWMwbTl5R29oS0dlLUhrN202MEZhenphdUMzSlZta0VQbk9ETTM3T2E4cWRmckFCeklmQjJDbWttQ2NGM19BMTQ?oc=5",
+      "date": "2026-09-18T16:24:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "HP Govt to pay Rs 800 crore to SJVN to take over Dhaulasidh hydropower project: CM Sukhu - PSU Watch",
+      "source": "PSU Watch",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZHFlaDh5NElFVWhGWmZWc1RheXlERzgya1hFLWhTR3BxUENVMkY2M0lub1hxa1dqclhkYlFzUDBGMVdvVGM1WHhyT3BtTTU2UzdYWXlDSzFXSVhtNHkzOXpyTTcwWWhEci1aMDhHa2RTYjY1TEtSbHplMGo5WElybXZvSGpxeVdOc2Y5U05GaWhiWGtJRjB2aDkzN1NrZmpMcFVNR1VBOFQ2bXJRWXh1Z3pabldIUHZlbmpGbFE0c9IBzAFBVV95cUxOeVphTkhqdHA3WE1PWG1aa2ladk9DSDBkTU5ycExqMlFkRE9PLWR3ZVo1bVAxSDRkZ0ZRTFlpckVLekU5cEE5Ni12bmRDd2VPbVdvQWhNclRjRm81Y2FqVUNPTXNxaXF2NlhnaVlBdVZJdXk5OHlfQmdCZTYzZWFPOHFBYTZJME9mekZWWWV0d3hvZFgzWl9NT21rSm80RGgtVGVUT1JPSHgxX255ZE1Oal84UXBjcWJ2Q21IMmhPb2hLckJKbTRNb2pGVkI?oc=5",
+      "date": "2026-09-18T16:19:21.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "State govt. to take back Dhaulasidh project by paying Rs 800 crore to SJVNL - himachalguardian.com",
+      "source": "himachalguardian.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTVFZ0lVRW5ZRlIycFl0RGg5dUNJUHZtdl9KUmtIZEk1ckIwOEczNFp3SzZrZTRaQXVGd1ZUX3VvVW4wSXlleVNOZWNBdFNFdWN5OUI5UVpUenNieHN6QXcwN1NiSHVwSHBOc28wSUZweFpqUUxjYU1ZVVZ1bXFvT2lGcVo2OGJZTlIzaUJ0eDlESjRfM1RQQ0o4VXFDTFJTY1pqS2hvQ3VwVXY1YUpZd2hn?oc=5",
+      "date": "2026-09-18T15:49:19.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "CM सुक्खू बोले, 800 करोड़ रुपए देकर एसजेवीएनएल से वापस लेंगे धौलासिद्ध प्रोजेक्ट - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVjIwT3FsLXJ1bG5CVFBhbmxMVkV1WDVhMXlQM1M5eHV2Qkc3S1NSNHlPa1ktQjN4RGx5dVJHMFhZMHpoOS1JaTlCQUFXcnBOMm9WQU1kRkk1Y2V6aEhDR0EwOXlfNzFFSUZwQ3Zya09xaWpmS0pNaUxhbnB3S3JpbFl1OElPZjdFdXg5bEpHc0REN2hzQmxBM0JPTWotV3RKdzZCUWJCeDFEcU5HR1VTaVFvUWg4Y1Q3VG40TDg1ek8wQ1FBczQ4SXpOSzdHUdIB0wFBVV95cUxQVE1CTU9md0hBanNmZU83YUtEWThUZ0U2RnN3MjI5YUNwSTA1YzJFanVvX3N0cXRIdW1KS2VxNWNrZEFyU3lTa3F0dC0xeW1CSk00bTgzS0NDSm5sU2VXN2ctOVFxUTlUa3FvYno5V0FlcE9ocnhpS3NpREV3dzJGSURFNElmSml5U2l4QkVrUXhMTzR2Yy1QMDhsRDR4N05wZEtLc29fcjN1V1pFdHpZcGNQb3ItUlBTMTZBczZRUDNiY052ME5kMloyRVVUUzh2TFR3?oc=5",
+      "date": "2026-09-18T14:45:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "800 करोड़ रूपये देकर एसजेवीएनएल से वापस लेंगे धौलासिद्ध प्रोजेक्टः CM सुक्खू - himachaldastak.com",
+      "source": "himachaldastak.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNGRPc2pyVENfcFh0NXZiMmFGei1zZ2tNaXh2NENyMUExVWNlV0dLUXdLMkQ5NWRlN2MyZUV4N08wUGZxQmpwV0wwWGFNRkJuWG9LSGhPQl8zMEg0RkJTeU1Na2dpaGhjLXROZGZiRVJYaVROLUc3VzdPWjhzMk16SGcyaXRQTmNydUxJZQ?oc=5",
+      "date": "2026-09-18T13:04:40.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "State Government to pay Rs 800 crore to SJVNL to take back Dhaulasidh Project : Sukhvinder Singh Sukhu - 5 Dariya News",
+      "source": "5 Dariya News",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWZKYi1iNFJmcG9aWWVPVE5odEduZXFhWUdXZ2FKQWU4YnJiWmpJNG5qQ2dJMTlTbVRpcUhuNTFjUHZheTRWUTRUUTBnS1lDMXZHTG54RXRGNVNYQ0k5SC1xWHVjRDNoYmxyVzZudUVEb0JOUThtTlpTa243WHVNMzBMWnhXNWpmWjVsaWJsRnRhVjZiT2NxNTFCWjB5aFZtaTJuZFg0UjcyQ0s1SkhUSF9HdWVFQks1MTFmTE9fTFpCb2NoVEdkRi1lTVJleFNDNDd2edIB1gFBVV95cUxQbTkxU2xldzdDVHUzOV9CVVNpVzZFWFNfby1UblpDODFYQlVJZjRrUTZ0N1FiaDc3ZG1ucjYzdjAwR3FnNGd6WkdydnlkTjAyY2FmLXBGTUNGaG44TEw3RjRLQXdRaHVaQnZRb2piU0oxWnQyaGtGM3NJUmdqbGdKY1JZZ0N5Qk8yUWJldUxXUk9RVnhQeDVmcGI2b1R0TlRUdmdmMTVhV0hLLWc5QWZEZEp0UlUtZUZzUWxXenhqWnFsTUR6OGFFWmEweGFrZ2FOajJBTmRB?oc=5",
+      "date": "2026-09-18T13:03:01.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "SJVN Invites Tender for RCC Blocks at Dhaulasidh Hydro Electric Project - PSU Connect",
+      "source": "PSU Connect",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk96ZHRZaTNvNVZBQ25uUzNDZHYzb2ZCRFp4dE1yYmxtUnJKLVBtdWR1R0FuWXpuUEFZSGVlU0JrMlQzV1lQUGhVaFR4YXNhTUk5VTIxV1FHS25BZnBhd1NOV0NKY1BZaEF2eThTczB6Skd3cnVRY1VyZEdSSlZseUlBOHdEYUFRUXRSU0t5R3l0YmI4TVZlVzVNUWRidVAzbEFCLW9pQ29vdw?oc=5",
+      "date": "2026-08-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
     {
       "title": "Himachal CM Sukhu orders takeover of Sunni, Luhri, and Dhaulasidh hydro projects from SJVNL - ANI News",
       "source": "ANI News",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTY2Z3FTOWo3dDZLQXBZZ1RhVWVLUDJoNnZRc0xZTGJLUFQxc1FzbnRsUE1PXy16dkxNbVBHRXpYM29jVkEwcGJLUXltWFZEbXhDWWZpUlFhcksyU0VHMVZZU1VVdW1hN3R1R3FjS21PdDdyMzhBTGE4a245X0IxMExHN3pKaVk0aTBRRmxDdWlXcWZtS3FrT3ZzQ3lmVUhDem42WWF1LXVXbGI0T1NDVXVmeUE0UldtSlJGU0psbW5MQXpTdDBGd3k1UndNVVVWdk52NUNEWGVTOXl1Tkt5dTFEWHJyc3JG?oc=5",
+      "date": "2026-07-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "CM directs initiation of process to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYTBwTXE2clNIbl9KeTNjeVY3TF96NHhhZWF4MlRONGY4dkppbGx2QWVHUTdCZko2TGJoeDdDMGMyRDJwc2hTQXlCRTAzOHlvbWNBRi1HMGNFNHo0SlRwSEhLOUc4aG41cGZtdTc5ZzdSclRralBkT2ZodURzTEZaMFY5ZXNqd0ZETThDUzFuMmstUkp5c3l4NDRSa3BoSmxwRndrLVN4U1Y1X0tncUpnMm01Vnd0NjZtaGw0Y041R2hsclJZVU9kMU1tbUFrZkJVOWfSAdYBQVVfeXFMTktBN3hMMnZJN3pnN3pOS3ZhYU03LV80Tk9Pc0lZVF96RDd6Q1M2T0ZLV3FGRzBaejdvWDJacG5kVG5vV2RXdDloVVJqbEhsNFZXU2hXcDV1eFYwdF84OHRsY0ZJUFVHbFZKa1ZydTQtTDZVeEg0YndLcG1fMlBlRGVHcElhU1RYV2JidmRZSWRYdmoyMDRTSEZ5S2xXUlREUDNUem5qVGpGNEFsQzB1emtxLWo0YXFKT0E1V0c2WlhkS1RSQWlyRXFDbi01d0h6bkhncjdGdw?oc=5",
       "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -30,181 +190,21 @@
       "match": "Dhaulasidh"
     },
     {
-      "title": "केंद्र के अधीन स्थापित होने वाले चार पावर प्रोजेक्ट्स अब होंगे हिमाचल सरकार के, जानिए क्या है नई अपडेट? - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTY3Wng4STVlRjdUNEhNSW9LYjVac082SE5nY01yRVUtT295ckplMlJydUZzTzBCTEVaNDZkOUZaSW5naEJ5VmJwQXB4WFBYdEJkVk1PQnA2TG5EVFJJYjZLdGFHM1JJaGJkLVE3QlpiNTdqNTR5MmpBZVViX0J1UnZwOGtJZXlxUlRqVzMzYzlsVGlMMlBXUkpseUlTZkxZZGlpNDBfeGVLNFhTR01HVFFLalN6ZktrNWdHUGY3NU1TVUhUOXotZlpLaE01R0haMEVMeTVYeDVmZU4wdmfSAeMBQVVfeXFMTmNSTG5KckJmcVk3R0lQdnh1YTdDMWRVT3JqVG91dVNYQTFObjY5UEgwU1Z1azZSbWdKZGtPWnZVUzY5ZXhwTnREWDF5d1ZrcU44RFNmZFNJaUttX2ttNkt6ZXpFT1EwWnNmd3YyQnJncVBfdVNXZVhhYnBSN2t4aXFORjZURV91U3J1Zm1iNVJ4eGhKQ280WTVvbjFxVENZLVE3TGoxYURxNmJkdkxMT21NNXg1bkhPU01RbjVOQnlBUDdEa0Q0emJzMXYwS0NYYXBBbGhXTktESHlJaTJDb1pJN00?oc=5",
-      "date": "2026-04-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "सीएम सुक्खू ने दी चेतावनी, कहा- लूहरी, सुन्नी और धौलासिद्ध बिजली परियोजनाओं का अधिग्रहण कर सकती है सरकार - CM Sukhvinder Singh Sukhu Threatens to Acquire Luhri Sunni and Dhaulasidh Power Projects - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMHRnNHVFZm5xQ1dDVk1pVmhKbUtjZnFXVnlRYkJJbzFidC1tMTZibzlWNDJVcjhIRUJ5MnVpeEZfNXk0NGNCb19IY2NFRUFOcFNtUnRpX25CZHZ5STZ6ajQyYmJMaV9CRldkbEktd1FnbXU5RFFSWFZpSE9WaXVWTnk4dFFWTEViYk5Gb2hXOFhmNEx2SHN2MW1HV3pvcDZNa3BsR2U0Um1GbW1zalZkVWgzSXprZGVKYk5NQUhFcFc5UGZWZFpyUnJ3Ml82X1ptQUFZUWNRWUgyZ3plQXIwMUNGTQ?oc=5",
-      "date": "2024-08-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "शिमला ने SJVN धौलासिद्ध को हराया: झाखड़ी में 2 दिवसीय क्रिकेट प्रतियोगिता, 6 टीमों के 90 खिलाड़ी ले रहे भाग - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3RULUNEMVRNQXJyN0RWeTlZcmhXMDFwZHJocUdmOU9EOFVpQV95RWFfVHJpaUsyZE9qQlFsVl91eldBNlQ0M0xiU05zY0VSQjJRUXBYTW9WTWx6em5JZ1IwdHhmOFlCSjF2aG9LWDBOTUV3ZEpSZkloV3pqRkxHanI1QnZRdV94dXQyU2ZLWi1CenRXakpGa2Rqa1FKbmstYl9YcGVUTFFwUlVJdHA4dXJVWk9mdUVuSmcyQXoyWngxNVhOSG96MQ?oc=5",
-      "date": "2023-02-24T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "SJVN Dhaulasidh"
-    },
-    {
-      "title": "Construction of Dhaulasidh Hydro Project enters an advanced stage - The News Himachal",
-      "source": "The News Himachal",
+      "title": "SJVN inks 658 MW hydro power PPA with GUVNL - Whalesbook",
+      "source": "Whalesbook",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpwYTBLZjhyYlF5N2EyYWpVMWRSNmFjYVM3ZGpzZWh4Vk5tUWkwbmxGWGw2NlNLcFcwZTNzdmtTem9sS2JwT2tPV2tXTHBCYzhGM1Nka29acmpudlh4ZzNqQVFLMUtIbm44QWRaS0pwcHJfcGFzOGhFQ0dKejB1ZzhHOEFMRWNNbVFvZENuM24yT2NJVE1tZHlJd3ZuNXFIcmJ5NQ?oc=5",
-      "date": "2023-01-29T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkh0cGtReWpLZDFDdlllQmU3bDY1RkdFQ3lYOHJ2aE95MGg5REROUmY4Q0ctQ19hWGVPNGVHWVNZNFpOSGthVHJJR0E1U18wQlhLZ01KeTh6azdGY042LTJOTUZyMUV1OW80SjktWUFBLXRNc21meHVJYVd2WGxLRXdfcU1QMi1fVHJRdUVBc1YwZFNsamhObGpHdkpaZGljYVQ0NFlBNlM2VUVkU3hvOTd0VWMyVERBQVd2WGxSX1BpSnc?oc=5",
+      "date": "2026-06-29T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dhaulasidh"
     },
     {
-      "title": "Himachal Pradesh: Two workers feared drowned near Dhaulasidh hydel project dam | Hindustan Times - Hindustan Times",
-      "source": "Hindustan Times",
+      "title": "Govt to take over three power projects from SJVNL, two from NHPC - The Tribune",
+      "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMElWTmJTOUVhQVhBd0VUWDlzVjl0Tk5HWmF4MDdTdUo1Ri1nSGxjeVlGc0xEbTFlZFFLT2puT09BWWMtRUwtU0YyYmFpN2VFYlpibk1SZ0gybE9XOTlNNEVMU1cyRndlalhfLTFfTXAyTG1iSkFrc3lEQ0VrdjR0WElYdHJoelJtcjNReHI1N3pKZUFaMEY0U2tfMG5yMnd5Y19xbnhSVkFkYWpPZGZ1M1RCOExYN0laY3p1YXA2eU9XVnZ4Um0zUlNMLUY1LTNwY0FtaUU0QVZMenZsNFZuSWEtWVpoaDDSAewBQVVfeXFMT1B6cm1zYmpqRHQxUHRkUUZUWXRXT0hqSjdjR0lvc1NCSHZYZlktU0hQNWJtSklocVRMdlowVnJyRWhERE9qbzU1RUFPck8xMHhReU52WHNaVDZjaVdDanBoeG5fbE5mSWp0a01tZ3EzYXppV1FIRG9jX0VyUWptSTFfS3NRNG1sYUQ1RVBmQzFWY0JSMEFpRFlXZl9vSE81RXNhUGw2S3JHR0pubEJKNVdTc1BWTnFzdUdjOXFwYkpMSFVZVkdhUm91NGh2MVV0SlJxc0c1bkUzcng0QTlGV1BqVWhjT1M2bW1aNWw?oc=5",
-      "date": "2022-12-26T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "हमीरपुर: धौलासिद्ध प्रोजेक्ट के नजदीक ब्यास नदी में बहे दो मजदूर, NDRF कर रही तलाश - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOOUYtQUlaZi0tNzlPMm1NNUpvMUdSME1tbzlXMzBhMmNzX28yZWlLZllkaF9vU1hLeUFmREg2V2ZBRDdSR3d2WE9FNGFaNTBGOV9UUUQ0MTRfMHFIZTRtMFBOTHBUQlV0ekthN1M3TVg1bWpRY21FRWZ2bWE4ZjVVWmJEOTBDNjBXMDVRTTJHM1p0RHhzdlpBRE5uTlM2SVFPSGRQLTB1a3gyU1Axa2hMLUxfcUJOODZIQzVyT2VId2lJZ3Y0X3ZFQzJTSzVLS1U2bGs2V3QxbDFDdHA1N0tKVFFyeUNNOWt4MllSTmFrWXlWbDQ0Qkk3YW1fTG45aU9UM0NMMzMzc0c2UWl5YVRDYzRocDZsbDRsM2fSAZ8CQVVfeXFMTmpzVC1IMG9fSHFad1FUSVVYQXlQbmVrWHRFUUtjTk1ieUpUd08tMnVaYjJGTllWX3Z1STFSaFdoR0EzSGkxSm5OUmNkT2llN2tBVURZTTduc1FaUFNJa2ZLZ3gtWEtTSm5PQ1BRWV9JNkxvUnNDdXJkQlVYMEtoYXk4SkpLbzl5NGd3NHQ0ZzVIUUN2LVNRWjFMR3R5U1lYblo0cTNCTVQ3TXFDNnNWaHk3SXFXU2ROdmN3eWI2SzdOV1d3SWNuWUxHZi0tUHlZT2JTNWdtTjBtVjcyOVZTZndHU3R5VWZjNVBIelFueWg5WUVQbDIwSDFoYTJpb0xxQWhqemM3b0ZtU0xERVo4MklfOFNtOUhnblY0bUZhUXM?oc=5",
-      "date": "2022-12-25T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "KEC International Enters into Agreement with SJVN for Transmission Line for Dhaulasidh HEP Project - Wire & Cable India",
-      "source": "Wire & Cable India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Nc1VXOWV5d21sWGVfMUFrNVdHZWdHWHlmdUFoU1BTcXE0VGZ0eGpSbTN3TEhBV1N4TnFsZGtpVFZsVFJ0VW04N3dCQkRCWjc0azduZ01mdFRSQ0piYzlkMm5pYTF1c2k1SlFkbHpDSDlzQQ?oc=5",
-      "date": "2022-09-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "SJVN CMD inaugurates cofferdam of Rs 688-cr Dhaulasidh Hydro Electric Project in Himachal Pradesh - ET EnergyWorld",
-      "source": "ET EnergyWorld",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONlBLYV9SbHNMNUxiT18teFdVOTlLRUJhMXMyaWd2VEViX3pMblEtbHp4V3d6SmNEa1hNT0tDYnBHTGltUHcxa0hWUm5fOXlVQlBBMzBMd295MlcxTXhPZ1FvY0EzZVNWVEdvb3B6NjhuUklsdkJKZWlDYTljSjMwTjlCQkdWZkh3Yk9YWjdmQ0lfeWZlVlo2d0dYMGZVRnlJdERqeS1rZXVmTVlsRkZHTTF1RTloMkdTeFpDMk9DdVB0Yi1EMlk2WDBvTXkwVkJlUWo5S0NhTEppTGxTVnpoMWplZG1Za3UzeGpoeXZUQ1p3NmfSAfgBQVVfeXFMUElyMkpUWDloQnVNaUFSYm1qN0kxVHQ1RjlOUERtcWxDSS1iWVFPU3B0ZU9JR0hxRy1BZFoxS1NBQ2hNcnlwR3N5WGUzVGpRQ1YyMmtjMTJrSlNFMTZOa1dJM0VDcUVIZ1A1R2o1VkpDYTZQV182NmVNQy0tZEd2OUo2ekxCeXpsc3FpZG9yQlBRQjlFTm1SYzdEcWM2M29CV0hqR2R3eGExdGg1UWtPNlY2WTB4cnpmRDdtajNoNi1abWdqWVZqQmpsUkVUVnZweG80SXRrQVpFVFZPb1hKT0tBOUdrRDJ4c3ZrMUxMVENjSDRCRFZuLVA?oc=5",
-      "date": "2022-07-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "SJVN inaugurates upstream coffer dam of Dhaulasidh project - T&D India",
-      "source": "T&D India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUlYbV9JM1FKUm9RdU1QSE1CTzZPcERYYVd0STRaODU1cHlOLWdYeEV4MnpUQWo5b2tCZEpQX1kwZ1Rwa1A3eHZDcEtMZmpOWTBveEJkVkdPOW55bHZQQkk0ZmJhUWtWU0xEOGdQTGxOUXhaUGdiZkZDLUU4eHVSeklqX0NNOEJlWE9uYdIBkgFBVV95cUxOYmZPbEd1TWpsVlZoQ2pqcTU2UzlnSFdQUmJCc1NxdHhKaW1heVl6VDhyc2RDZy1XX0Z6djNNV3ZMSmhvWG5GT3lvWmRTWDhPY2NtdkI3dW0yVlZhTEd0Q1VXZXZNZnF6ZTBvLVpKSjlhbFV5TVA4Z1RSOTF4d0dTd0pKRUJzdFcyaVo1T2Z5elpVZw?oc=5",
-      "date": "2022-07-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "SJVN CMD inaugurates upstream Coffer Dam of Dhaulasidh project - PSU Watch",
-      "source": "PSU Watch",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVJmTUt3QjRpMjZLaWRqWE5FaTdkVnFva0lCb05nZkZoZ05fX19yWW1DcXA0UWdYLTJLcU54YnprZVJzWHZpTXRNbGpVODNzd0dWaVh3YklDYXp5Y2Z4QUlFc0x6OThleUJmbE5sclR3YUNydFlLc0NzLUd6TTk5VWVPYVdIU2FKb3pzcGxjRkI0T0VYa1F5TkR30gGnAUFVX3lxTE55Sjd1cW9hR0lwbXE4dTZsMkMxZXJCSU1TLWtRWHQxYml2Qmpsb18wY0FEb3llV1I1Y1UzMTNxbE9QbjYxRDJ4a3hfVWxzTlNVbENtT3pOZzBjOWVwRV9EeDJRR1VZa0lGQlZ1ZURkT3A0N1FlUU9Falp3cFlnLTF6RkRIQzMzVjlFRkM3dW41UUtHTVNUOGNreURSdnZ5Ync1N2p1VjRz?oc=5",
-      "date": "2022-07-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "SJVN ties up funds for 66-MW hydropower project in Himachal Pradesh - ET EnergyWorld",
-      "source": "ET EnergyWorld",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORFJaTUNIaDhHb3VwaWsxQVBMNVJLX1N4QkUycHBvVFlSV194b3dtUGNsY3BhdHNaMHVTWkhYczdESTBHQUV4cm1ieW96U3JUdnJLQ1RjcGFmRW4tYlRZWDhvdml6SDlCOWp1dVRtLUpPWG9sSFplcjQ4OEkzbVRYRTUxM1BSeGx2elBiYzVUU3RseHMtcHg3QkRvUjFIV3l3V1YzcWpKX3J0N1kxQWJBemJZUTh5NFdoQ2N1WjZKSkdmQlFUbUVIUXk0dVZqYmZv0gHWAUFVX3lxTE5zVldzQXZCTVRwdzQyQXZnYnhuY1E4SmFDM0xMdEY1endxOGk4cGlvemhsLWVGM21NSXdfUkpVTkxoS3ZqNE5jdFk3ZllNcEJCV090VnktMEpjQm5KVjBDU2NsUkRfOTZoOEdmMS1rZXlhYUFneFhYaWlBTXJEaTRvOG9FNVo2SzJndTYxckpuNUJNZzBZLXhId3l1OE9uWUw4Y0NIZjFXOU8zYlN5M2F0b2JxVk5DdW1IZnpNVjVkcUhmZ1JHZnp5TnZzc3Z1Mnh5aExlRXc?oc=5",
-      "date": "2022-04-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "Rs 688 Crore Dhaulasidh Project Strikes Financial Closure - Hill Post",
-      "source": "Hill Post",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3ZiUVQ2VnFSYXprZk5YZko2QV9sR0pXUUtocU5aczZ0WXhyZktIcm9oOXRtZkVtZ3BzZUJsV0t4VUpxZjZWTy02R210bHlXajU5ZGRXUV9rbXZSTFVWWXR5ZVl5THc1TlR4LXdENmJ6NHYzbHQ1bjNVRENSb3NwTGpNZ1k3clM3MlhMcmpfM2RoYlNpVE05Ug?oc=5",
-      "date": "2022-04-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "SJVN signs loan agreement of Rs 494 cr for 66 MW Dhaulasidh HEP - PSU Watch",
-      "source": "PSU Watch",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemtybmVGMnJpWkxYa3FOMnlXdV81WmowR01xNzFIcEdTb2ttdlRHeWtRNHQ4T0V0eTRFTjhaOU4yZGloczBJSHhjTFRSYlRJUVRUTlVaaEMya1FpNmNSVG5Yc2swa2FkbGZ2ZnFZN2F2cy1GUGEyaGFUaDNqd2xNYnQyVDVHWll0WFpjb0JidlVMMDZsRmJ4eEpMUGJ6TXN1TjJR0gGwAUFVX3lxTE9pRm4tVlRVUFR2RnExOHVwRHV4NlA1WjI4ZG9rQVIydldJamFwQkphSGpPeGpRci12NXdfaWMzNDBTTUQtazBGZ0ZvUVpKb2FkcERXak1LbWtfNGtBeU1Xa0puWUdDb2NaRm5UYnNzcXQwMW9FNUh2MVV0VVBZTTFxYmdvWEU3SjlRZ1lsNGNySHhkejFoUDd5Tk5UbWlzdDNHbzJBV3JpdkxaZFNyRmYy?oc=5",
-      "date": "2022-04-18T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "SJVN CMD inaugurates river diversion of 66-MW Dhaulasidh Hydro Power Project - ET EnergyWorld",
-      "source": "ET EnergyWorld",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkFoU0FqbXcxRHpvbXlZRzlnUGJJdmF5R0tWNUxwQXo5NHJEVVFPTDY5SWFXV211elpOc3EwTkFIeDF0aEh2b3Itak5KbjhnMDJ5QmFRYTJ6emtPVVVmS3RkbWtpQ01UTkwzMzZ4ZEpMc0RmYm1NZWdQck51YlY1OVhHU21pQjZxV290M2ZHaHdMMUZ4dkw3c2ZZcjRxSjNTVDFpcVV6MHp2bXAydHJJeEI4anEzQy1VUnRVLVlrRmxwR29NWjItaHdDVkw5X0VZWXJFQll4UdIB3AFBVV95cUxNdFNVT2huQmZnc3VBb1l0MU8zVEE0V2ZWdnNjb0xTRFJ3eEVldnNyWGgzYldQQnlIeVpWTkMwbmxURnBRRkJmV0tkYlM2VHR2Y1dyNTRYdUZmaEJXWnQzbHhtTmFucWxBUVJBYlN4RFBpNFh3bGhQNTFzVWU4eGU5aFR6aVNRTFhNZEZWZWlSeE5oZlV4eDJUSk56bWptajNOM2Yzbm9TWTJIX1JlVDJWR1V6YUFCWW9lbEpzVkxOX3FJZXEwWEZRZkFMOXRiVTVPQmdIbmpRU0JtQkZC?oc=5",
-      "date": "2022-02-16T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "River diversion works for Dhaulasidh hydropower project inaugurated - T&D India",
-      "source": "T&D India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUNQenNPanZSSk1nUlBBVmQ3VkRENm1sMkdfdnY1THRWUWNQbmNzREg3MXNFQjM1bjRKMXNaMDRlMGhITW43M0VPWkhtNFB1eXUwTV9KbWFCQk04Tzk2VURLeEF0S01mUnNGUlBXdmw5cW5uaEJKbG14cmNLNEo3ODhoZVdEeGpaWWlZZ3BTcjhCY2czTTRleNIBngFBVV95cUxOZWlFTno3SlVzMlhncjVVd1V0RlNaTGVaX3BLdWJMRTNucFZjREVBY0cyX1F3bTlYM0RZSmZ5WXh4T05tSExLLVNyZERsbUkyT210VTdiT1YtUExGZVJxc3ZhYUE5Z2hfS0xHOW5RSTdzaFJmcTVackVQNGhZeVQ0VXN4ZmRYZUw2akw3eXNPNEFZWDF0ZllWc1FIdHVzdw?oc=5",
-      "date": "2022-02-16T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "SJVN CMD inaugurates river diversion of 66 MW Dhaulasidh project - PSU Watch",
-      "source": "PSU Watch",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0xjckZIQVFycWltN0tRaFN3MUJzaEtqZFBBY3k4UHNIbmVRQUFLc0NCYXF4ZVhhX05tVVpWeGJUcm1fRUkzQ3FpbHd1TC1TSG9kWWp5bE1TRlpSbGlyU1k1Wk0wWUZyeFRBTW9UNlN4Z3FYaU5UVC1mdHJBRl9SWHJ4RkZ0c1JKWnVFNV9YRkp1UW9RaFdtLVhjdjBYX1Z20gGuAUFVX3lxTE10OVIwdFZXdzlxX3I4UzJqX0RRTjk1S3lqYjZOUXFCZWpRSzk3S0tpOXktVk85UVhZU0ZqUlFFVER2NDBXOXNqZGFPWk9SX184V1VJQzBfR2N5Q0IwZjlta1RSdDNxd1NkVzZ3TFpCWTF4cjlSdnNTVXRvX0JFNWozSHRITC1KMkpPYjJ4SWpRc1RDOEhCZi1vLVRCcVJNQUduVUZGMDBfT1luLWJUQQ?oc=5",
-      "date": "2022-02-15T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "SJVN Dhaulasidh"
-    },
-    {
-      "title": "SJVN Signs Electro Mechanical Works Contract with Voith for 66MW Dhaulasidh Project - energetica-india.net",
-      "source": "energetica-india.net",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0JIcV9JMjBvMHdpdXlNZVVCNnRKZE55UmRpUHF6ZDZjNVdxNUJ6N3RkYnZIaVNTTk1oY0JUYnBnUlgzR1pYVjBMYkVmWDBiN0xZakR5bkRhNnV0SmtseWo3SkI3cHNJUXA4aDdVc1lxNTRja0syeFRlVF9hSFBqWTdDU3hOZWtiNU5GTHNRbUVidC1wd0FPQlpJWWRaMzNiY3FLVUxnMkRvR21EY1pad2NPRnFQUXNXRTR5TVR3?oc=5",
-      "date": "2022-02-14T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "Dhaulasidh hydro project: SJVN signs contract for electromechanical works - T&D India",
-      "source": "T&D India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlqd3NYNE1Vb2hMcTRCU1ljZ2FrZG5OR042VGN4cU91ejdkWEhXUDh4SWdlbjNyTHVWTmh0UXRHRW1kUUEwREFPWGMtYWtXX0xqUExleUNoTWMxZ3doMDcwQ19NWGIxOU8ydXNqOHVseUt1czlYZWpabzhpd2JTVXdsa0VJQkZuZFRvdjBxU2hyd182SERaaDFtTTZqcGvSAaQBQVVfeXFMTlZuMFhoT0ZZa1pSaDJzNlFtVUdsV3ZtUUthby1RTzcxLUpjSjBla3paS0hSLTZ2T29WRGkxQ291V3otRXJTaFhkQUk3dkRvTlk2NkdOUy1xazhLcDR0aDRXVFNhQnBXZFhuSk1fanJtM09VNHF0Y3dwZ2o0OE8yb1N3cDk3ejJVQVF0bFFXcEFqRlFlUGVudGpLZE95V2hMeTc4ZjM?oc=5",
-      "date": "2022-02-14T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeXpMUHkwVGM1TFF5bEtBSFFnM2ZYVGw5dVhqNnhxZE0zQjFyN2ZCam9hRjBackFvMFp6UEVNWFVYbHR5MkliOXRSYUxqQ2t0ZUFxbkd6aEUtZzVTd3lsTWE4SHJHdGM5dm16SFd2LV9maEtwRnV1MzNUMmVFSGtsZ0ZZSERpYVBpM2Z0QnZiVmxTTmdZUi0zbVpJQzJBLXNqNHY5RldxVWdxUlnSAa8BQVVfeXFMT0x5bjhMNDRnTDA4V2xjUVBFNEQ2ZDZDZHlwdXV2XzZxNkM4Tkh6UGZCZ0JwTmdGRkt3ZXp2WFhnU0l0NkpITEt6c05MNmFzNkducUNhdGQ0em1TampDbENlWFQxOWlhNHZvMjVzZElxVE9jUm81cTJjRzd1S3Iwa1h5Q09nRFpuMHF5ZkktNktUbzdvdjE1VW9FaVhLZnJDSGNidndBcFJZbW1hY1l6Yw?oc=5",
+      "date": "2025-04-06T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dhaulasidh"

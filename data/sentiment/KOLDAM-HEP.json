@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-09-17T21:52:08.506Z",
+  "updated_at": "2026-09-21T22:24:11.640Z",
   "project_id": "KOLDAM-HEP",
   "press": {
     "n": 20,
-    "positive": 11,
-    "neutral": 8,
+    "positive": 12,
+    "neutral": 7,
     "concern": 1,
-    "avg_score": 0.16,
-    "avg_magnitude": 0.235
+    "avg_score": 0.185,
+    "avg_magnitude": 0.26
   },
   "youtube": {
     "n": 6,
     "positive": 4,
     "neutral": 2,
     "concern": 0,
-    "avg_score": 0.617,
-    "avg_magnitude": 0.783
+    "avg_score": 0.517,
+    "avg_magnitude": 0.683
   },
   "overall": {
     "n": 26,
-    "positive": 15,
-    "neutral": 10,
+    "positive": 16,
+    "neutral": 9,
     "concern": 1,
-    "avg_score": 0.265,
-    "avg_magnitude": 0.362
+    "avg_score": 0.262,
+    "avg_magnitude": 0.358
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Wow captured 🤍🌸",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "Proud to be associated with this great project of NTPC Ltd for about 10 yrs(in two spells)! Time spent at Koldam has bee",
@@ -39,6 +34,11 @@
     {
       "source": "youtube",
       "title": "Proud to be a part of this project...",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Very nice 🙂 and",
       "score": 0.9
     }
   ],

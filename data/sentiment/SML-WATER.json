@@ -1,52 +1,55 @@
 {
-  "updated_at": "2026-09-17T21:52:14.606Z",
+  "updated_at": "2026-09-21T22:24:12.043Z",
   "project_id": "SML-WATER",
   "press": {
-    "n": 20,
-    "positive": 10,
-    "neutral": 6,
+    "n": 18,
+    "positive": 9,
+    "neutral": 5,
     "concern": 4,
-    "avg_score": 0.095,
-    "avg_magnitude": 0.31
+    "avg_score": 0.067,
+    "avg_magnitude": 0.267
   },
   "youtube": {
-    "n": 19,
-    "positive": 19,
+    "n": 0,
+    "positive": 0,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0.758,
-    "avg_magnitude": 0.784
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 39,
-    "positive": 29,
-    "neutral": 6,
+    "n": 18,
+    "positive": 9,
+    "neutral": 5,
     "concern": 4,
-    "avg_score": 0.418,
-    "avg_magnitude": 0.541
+    "avg_score": 0.067,
+    "avg_magnitude": 0.267
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Very nice  lakshay",
-      "score": 0.9
+      "source": "press",
+      "title": "शिमला नागरिक सभा का आरोप: शहर में बढ़ी पानी की किल्लत, एसजेपीएनएल को ठहराया जिम्मेदार - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQXZIVUp0TC1DOXRLM3oweUgtUE5US2FfVlF4R0I2N3ZEcmphR1ljSWFIZmVOdWdiVVNjVGJYVTZVT1pRLXJoWjVxeTFSMWo5dkF2UXBnX1pDYmV1Ui1UQTIyMjJ6UHJFOF9KMFo5ajZBdFEyR19RenA4Nnk5c1JjVXRwbGFCOGRRWnRTVUZIVTh3SWh6WUZ0ZTR2NzRrc1k0RjZyQ3VfVWc0ZVRRZlh0OWoxbGFEN05IRjIyMDU5N2oweTFZRzRCMExOLTdQQnlxLTlBelRfbkPSAd4BQVVfeXFMUGxOWTRPNlpPcWZBa05LSGYtb1JPOVZKUmlScXREYmtEMEM5YkJzb1NGOXhUWGFObHVzZE9VSk93Qlp6c00yQ2tIeVhTTVQ5Y3JqTEdmbG1TSFBSb090RWg1VnA0SXB3UHFQTnI3RGpqWUtHc0xhak1heU5kd3c5LWNmMmktd01nRGFSVzN1OU1UMVlLajNSTDFNR0wtUEZqeEFQUUlMNmExUWdLcEdaWFlwclZqU0xyTVltVWFpeWoyc1VQVkhZWDNoXzBpbGwwX2hDNlFOOE9MTTRWWUZn?oc=5",
+      "score": 0.6
     },
     {
-      "source": "youtube",
-      "title": "And here is my fav bloger ❤️",
-      "score": 0.9
+      "source": "press",
+      "title": "हिमाचल के इस शहर में लगेंगे पानी के नए ऑटोमेटिक मीटर, उपभोक्ताओं को मिलेगा ये फायदा - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0JUVDk3WUdfYy1DblNpZWRzMEhQdnR3UU05TFVVeWpwaEljQk1SWDRmVml1YUtZNnZzTDlTZXBCVGhITTJybE5tZS1KVi15a09JU2RKQnNZQkQ3UlBTRVVfOHNfeHNkVk04RHNCblJKMDJwLVUxcW5hN21CRkRtRm9JcDV6clNyUEo4Nlp5N2w2cFVWVk1hbk50SXlqZU5CNktwZ3pVclJJcHVheVZBU0pkZmlidkpheFJPS09jcTJoUDNEMjBsempQV0pjVHMwRDM1dnNEYUJRYUdsRzU40gHkAUFVX3lxTE5zNldITVl4eXZaRzFIb3FtUzhlMndBa2xSNHdIVnNlYjFyeXBrVnhOT2UyLXJUQW9reUVHc2xhS0xRUUYzRnEyaV9CWmZUV1JvXzBLMUhwWnJJNEI3VWFRYkFDQUxlb0M3czFFRnRnd0d4ZE5kSm9DVTRjbV9NMnE5UVIxTnk5LXBmdVhoUXptU3FwSC1jc19nXzBPdGxrU0c4TDVVbkJNQVhXYlBDZWpwQnFuZnVuekMybGRBU25RczdoX0NzYkNIdVU1aE9TV24xNTZLYkJMeGd6R2llRVBPUTV1OQ?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Beautiful place",
-      "score": 0.9
+      "source": "press",
+      "title": "शिमला में गर्मियों में नहीं होगी पानी की कमी, शुरू हुई ये नई पेयजल परियोजना - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVzBxUGlZdndBc19TUVNmZjNkNlFLUUQyc3NmSnBDSmJQS0RSSDVUbFZDUTNia0ZfeVh2cUs1VjZVOTFmS0xLanlUaTg4OU1ZN0ZpbDVrNzFYTlJMRWJMZFdNNDBfYnRpRklZREhhQmpweFFjNDdUYUs3czVLeW0zay1mZ3VCSDNMaUE1Q3gzalYxWEpyTWJfZzNUTjRBVVN6aS1IeDMwNkVqUTVJY2RTWWRkaFN1cFU5QjIzX2R2Q2JsNzJKcWVfTGNwTDRHRzc2bmF4UHhaY0F6aWJTN1dMVnlFVEhjQ2ZnZnRwSE5kVzVQRmxZYWfSAfsBQVVfeXFMT2RFekV1UnVrX0hjakQxN3F6eVVWaXRvRTdrM1l6cG0zcHo3cGpEZVFBUzU4a1k4Y09aS0dOZzB6RklJUWIxUk44ZGo2R1ozQk5tcDZlQm9SbFhzUndxQlhSR0k3QlB2S0w2aVhwRzdQT25udE5PY0NCcURJb1doUl9zaDVEYkg2QVVGbkpjWmctZElvRF9LOXdkdVo4VkZmeTFESDU2TGhyN0o0OC1FbUlPdm12Z0ZROXc2VWRNR3VZa0NiYXphSDB3eTFhbUhxTjdmaGZmYlp5TDdHaEVrSU5Ea1hIWUZ2VG5TY2NRa2hDczdsYzJTalZUTGc?oc=5",
+      "score": 0.3
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Shimla citizens getting poorly treated water, Pollution Board cautions - The News Himachal",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTJsd0I4MTN1V2R0VEIxZ2Z1QkNqcVBmNmpleHQzNWI0YWpCN0QyUmVlTkZYa04ySFJaZGZrMzNEWTdRV3dGbjdnM0kxNVVjSnJjajR2dXE2NlUtQzZvTk1ONlB0R19jNUlaaEhua01PQ3RhaFNDMXM2UkJyZFdNQi1UbVF2NlRGcHJkX3pXQUE4eUJfZ3pmMHQxS1UyWWl0YlF6OHMwcDRaQQ?oc=5",
+      "title": "Shimla to face drinking water shortage as Sutlej Project suffers transformer failure - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0FRaURkdlVEdDh1djBiZlFnN1RCd0p0RUltTmp6N2ZscEZVd3ZyQkx2RXlaZ2Z2WW5ic1RqSGVxT1dZWl85OGZXb3Juakx0ODdzVEZkRU9uVWR5R3RTbVBXN1ZKa2k1UFpibk9pR19XVDNRV05fR25vVzI1WnRtZlFnZDFvclhGMmZ1bVlNQ3JQRzhzenlTVzQtbEZrQlJ0OUl3a1ZwOVVvVWVobFA5dVY2cEtLRk8yZGFYOXVzWW1ERVJ4d1Nr0gHLAUFVX3lxTE84LVlBdi1KcWx1LU9zY0w1Ql9HZDg5WHQ0aVBlZnZHQUgyRzhBZTBmbjF1dW5aN1VzRTdNV0Q2SlE2cHpfMDRfNzNXNnJlVzRQQlNBVzc4X1FDNG5sQUY5RjZ3VUFBaHMwdndWdkJyVE92b25LQWxvM3dMckdFN1ByTkgwbTdGMUU4akRqVzBuYUt6Tmx1U1hHczhjQWJVTFFVeWNjM3lVME8zOFJOR21vcmtZRXVYTkZyQTgzSlEteUtXNnByQ0tKV2lR?oc=5",
       "score": -0.5
     },
     {
@@ -57,7 +60,7 @@
     },
     {
       "source": "press",
-      "title": "Govt-run sewage treatment plants fined nearly Rs 3cr for polluting Himachal rivers - timesofindia.indiatimes.com",
+      "title": "Govt-run sewage treatment plants fined nearly Rs 3cr for polluting Himachal rivers - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNkFGSVlqbXhHdndnTHRkblZRbFd4ZUN4Sk5lc1Z1QzdBX3k0RHh1QkI0TUNqNS1mNTVFUFlIMjlnYnFrZENYZU5BZVl6cUlXaUtEWC1UeTIxeTJZeV9weWg3eGM5bUV4ZXZmVS0tR2xFNzRidlA1aXdOMHZFTzlGU1RUczgxaGxISUNNVHdnd052dXpmeS1ObzE4V2FLa2Mtc0NaRUVlZkVGS1dERVdmenltb21ZZzcwSTNLc2ZyUEZsZkY2dzNtVi1uVWRlMVNOTUZlVVRzdUxoN1VYZjJ1UmF0OEVKdjFVRFl4Zy1ZOGl6Z9IB9wFBVV95cUxOZndpUTJJYjNlSVRUcGxNc1VLaXY3eWw2X1VpSEpPYS1YUklPUFRMRnFrRTVYRVF1djhWbmR0NlJVOUR1ckxsN01TYW5vb0lmc1NBX1FvRnY4RjlrQTlOZENHNi1jUml3S1hFdlFLN00zeVplX1RvTkF5YWs4TlR3NE9CVHNRU3FlSU8tTVdhSzBQWmlHdDM5V1ZTRmh6M2M2OFRQWnZHR05ydkFpZ3hUQkctOVF4bHVDQ3JrVnA2bDRFeGh1WjRLTWFNYVh1MXptYU1qaXNVZGtIRG1xRzA1ZkczV1IxXzBSTmJfdHRFWTFaRXJmYl9V?oc=5",
       "score": -0.4
     }

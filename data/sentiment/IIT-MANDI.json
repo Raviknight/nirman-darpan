@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-17T21:52:05.191Z",
+  "updated_at": "2026-09-21T22:24:09.777Z",
   "project_id": "IIT-MANDI",
   "press": {
-    "n": 20,
-    "positive": 7,
-    "neutral": 9,
+    "n": 11,
+    "positive": 2,
+    "neutral": 5,
     "concern": 4,
-    "avg_score": 0,
-    "avg_magnitude": 0.285
+    "avg_score": -0.155,
+    "avg_magnitude": 0.282
   },
   "youtube": {
-    "n": 22,
-    "positive": 15,
-    "neutral": 4,
-    "concern": 3,
-    "avg_score": 0.245,
-    "avg_magnitude": 0.745
+    "n": 10,
+    "positive": 6,
+    "neutral": 2,
+    "concern": 2,
+    "avg_score": 0.18,
+    "avg_magnitude": 0.96
   },
   "overall": {
-    "n": 42,
-    "positive": 22,
-    "neutral": 13,
-    "concern": 7,
-    "avg_score": 0.129,
-    "avg_magnitude": 0.526
+    "n": 21,
+    "positive": 8,
+    "neutral": 7,
+    "concern": 6,
+    "avg_score": 0.005,
+    "avg_magnitude": 0.605
   },
   "top_positive": [
     {
@@ -33,21 +33,17 @@
     },
     {
       "source": "youtube",
-      "title": "I see it every day 😂😂😂",
-      "score": 0.8
-    },
-    {
-      "source": "youtube",
       "title": "literally whenever i feel like, ugh i should sleep or i should scroll some reels but then i watch this video n it gives ",
       "score": 0.6
+    },
+    {
+      "source": "press",
+      "title": "IIT मंडी के स्टाफ सहित कई लोगों से 10 करोड़ की ठगी, 10 प्रतिशत रिटर्न का झांसा देकर पैसा ऐंठ नेपाल भागा शातिर - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNk1idUhuUEZQZ2p5R1J1ZF9vQ3VfWGs4d2lLbXE5cERNWXcwZlpHUGQyTmV4aTN3d1NTd0JXWE5mSFB3RWdGLVI3QUZfeVozM1ViLVpFNzEyV09uRXJYbHZySGRCUkZvLVVubkJDYjNoRTM4ekRTU0xhdG1nOE15RmZXVGsyWGRNbF9EZHpIN0pteXRCRzlzVmNvNlk3QmdIVWhObmVmOFpCQjl0NVJra2htWnFBMGIzdV9LNzZZWQ?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Overhyped .....anyways IIT has lost its charm and is known for creating IT labour for developed economies .... Also manu",
-      "score": -0.8
-    },
     {
       "source": "youtube",
       "title": "worst college, no facilities, very tough life. dont go please",
@@ -55,9 +51,15 @@
     },
     {
       "source": "press",
-      "title": "IIT-Mandi regrets controversy over Janmashtami poster; says content did not represent its views - tribuneindia.com",
+      "title": "IIT-Mandi regrets controversy over Janmashtami poster; says content did not represent its views - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWpDcHl6QmFHMkQwby1hUnRyd1JDUlZKVlp6UF9yVmdYemppa2ZpYkZINXJLQnhwR2FxdzFLNlZnZ19XZEVLMlNKM0YtRVRnc1NsaFNMa1hHZUFNRHl5ZW9ZS2JwQTJyX0d1SVNYRi04aE55emhxekloUS05MWw4blN3dTJxeW8yendMd0tScFBMTlFybmJUVkFmU3lCN0l1VWFiVGxyVGptWU1ZSVRXVjNXOUJWSWVVeFZIclNEd2FEblIzTFd0YmdxTW56Mmpvb0N0NdIB2AFBVV95cUxOcUZWRUwzNlpiOGM4MUFSb0lwVXdXWVF3dGdUQXhhLUhWOXlkN1oxeUJMbVI5d085RVpiMnJndVNqUlAyVVMwOVFzUXc0dVZVYlVBYngwdUQzb3J1QUY0dEdmRFpEVEZQZV9QMFJ4eHBaY082TjNJUTh1c214aEN5dlVVTUhTYnduVnBwY1NXTG5yakkzbDJqLW9mVmdfblhXYmViaTFUUW0xZW1ZWDJLbG5qMVAzZE1seUZjTHBVbGluNWZobDZNdUdTdktlQjd0T1lUTklhZ18?oc=5",
       "score": -0.8
+    },
+    {
+      "source": "press",
+      "title": "Poster targeting Dalits doesn’t attract SC/ST Law: IIT Mandi panel - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVi0wY2JlR18tYlFsalItb1JYVVJfT0xhOWRaTlY0TGpGZ3JTQzUtbTV1dTJUYjRJY25XX21KQ09qYUVWV1ZaekQ3ZmQ0dHNwZDBaUmk3UEUzWGNEbXFsVmZNZER3VFFLLUZTTGN4ejhuMThtejQwRUIzQ2xmLTNyOGVldmp1RDRoYUpzQkk5enpxQzFGX2hzSHg2elRaLXltd0N3R2FzLUFFUVFVTkZZMGZzd21KMXhzc29iVkNWQmpmMFN5WklzdnFCdzhiQThIa3hfRTEzUERTbHpzOUMxR9IB5wFBVV95cUxOY0R4NHdNYlNlQVNqTFgwUnV2RlNuUmp0cDVmc3ZvNVVrRTZBTE4wbGVuQVY2a3V6VFdQOFBzdS15YTFiV1lXemo1ZU5YTFhpcmJVbFZ6QVd4bzk0eVBTeVBJdWhRWm5NTUNSYTlwYnRSNXVlLUUtNWRWalpWWXNhSFpmQnFabFRvdkJzS1NDTXBDZ1lrZ0M3U1Zra1pLbHpYSlpwNy04QmdvTFFWZmdZeDJBSHBOZlEweDNOMUxzWVFtZXA3aUViYzl0MjF6eGhBUkQ3bW15eThndmJPT3dOY2p5ZjBrTVU?oc=5",
+      "score": -0.7
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

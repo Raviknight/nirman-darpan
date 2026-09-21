@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-09-17T21:51:27.321Z",
+  "updated_at": "2026-09-21T22:23:36.670Z",
   "project_id": "GMC-NAHAN",
   "counts": {
-    "press": 109,
+    "press": 117,
     "gov": 0,
     "en": 25,
-    "hi": 84,
-    "total": 109
+    "hi": 92,
+    "total": 117
   },
   "mentions": [
+    {
+      "title": "मेडिकल कॉलेज में बंद अल्ट्रासाउंड-सीटी स्कैन सेवाओं को लेकर गंभीर नहीं प्रबंधन : राकेश गर्ग - Himachal Now News",
+      "source": "Himachal Now News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjVkelZJYnFacWdSeEswMnNqUWpLSTlOYWd2YWhteTRsRktPNTlOcF9UVE5nMHZZY2piY1c4Vjl6QmFBODdDVWRUUGpEZUNmanZIcWowZm5vN2c2YjQ3NGNyczJQTTVhSGpFSWVYbGtGMjEwZHd1YmdRbmU1UjlvcVUzM3RxX004OFd1Y04tRkxCTDlLS0NhTg?oc=5",
+      "date": "2026-09-21T12:13:50.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
     {
       "title": "नाहन मेडिकल कॉलेज की अनदेखी का आरोप, बिंदल ने उठाई 500 बिस्तरों के अस्पताल का निर्माण शुरू करने की मांग - Himachal Now News",
       "source": "Himachal Now News",
@@ -30,6 +40,16 @@
       "match": "Nahan medical college"
     },
     {
+      "title": "आकाश में तारे नहीं चमकते। - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzYVJ6dXJELWhLUUxZUmE1RHM5anY2NzlYUTJnSko1T1ExQmFyQmQ3Z2lsUV90RVNwaXZfMEJ4MV80M2dPVkJLaVdfd0RyRU9VZzl5UDBiTXdiRmFhTllyeFptRmpGcFcwdVZkZUJKWERGT0s3NHlwVw?oc=5",
+      "date": "2026-09-15T03:09:21.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan GMC"
+    },
+    {
       "title": "सिरमौर मेडिकल कॉलेज के पुरुष सर्जिकल वार्ड में घुसा पानी - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -40,11 +60,21 @@
       "match": "Sirmaur medical college"
     },
     {
-      "title": "गुरुग्राम में हंस एन्क्लेव राजस्व अभिलेख सुधार प्रक्रिया तेज, समिति ने दस्तावेज सौंपे - Amar Ujala",
+      "title": "फरीदाबाद में पानी से भरे टैंकर ने स्कूटी सवार को कुचला, मौत - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNd3pWTzFWeGJsekdDLVJiQWRlWWttUTlFQ0cxUm5sOE40ZnNVMmRlQ1pONTJBNTNDelpvSUtJRk42VTdtc1JJZjFPN1M0Zmh5WUg5ek50Y3c2ZVZkRTU5d2tiM2h3N0J1NG9qdzNsVF9aOENDMFZKb3IyX3lVeDlaUF9PMklKN29NcTY0NWhLbTRnRlZXQkdSeEh3dGlHN2dWdEo1dklfOG9MbldHazVNbDVuY2UwV1ZuODRLNm9ZeGREbWQ1SExRUVVIRWxoTGNLMnV2dkpPd0t0aU1BRDdZRUxHTzFHZ28ybXVQTUoxdEhyV19LMFl4eTZR0gH_AUFVX3lxTE5BaVktczZFMEFnQ3BfbkhNNnZORmF0T08xSTBmZVFSc01ZS1A4UjdZcWFWMUtVeWVwUFNPRjFsRTlNanFDd1hJLVRDN2FyZ2dWSThXdDBCaFJmdXRNbUFkbjViTjRJNGJIS2RyNUhWa0o0SVJZUk85UUk4VERlWVdFYnhwUUZnSzI1eEJabWdad19raFRseGVpeTZybnNmbHZtRlhZSTFpWGhnTy1VZjQxVWY5QWlLVlNPZmZ4OVJmWEgzdHZabzFtWkFHcjhyVm1QbTlRYzJwdTA4S1ppRk1tSEJMMHZKTExDMGdyTjZtY2RobnlsSUFVd2l6eGlTUQ?oc=5",
-      "date": "2026-09-12T16:16:56.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdEtOT1JPWk91bnZNRndsVVV4bVhiY2RLelRfM2JGRklLcTVQMzZONkRRVUdxa0VtTzRtNGV0VTNhM1ZUTHhqclpSZDZLZTNKXzRpelA5MHAtai1kVGp0WWJHQU51Z2E4Sndzc204aTBJS3kzdjZ2OTVoeVlkT2wzRjR3N205eTg2dVV3QktfRnotUzlNeGd0dW1tYWRqaFNiZ2h1YUMtVVg4M1RwMk1Vb2Y3elJVZDJSeVp1LWF2SWdRS0JUZ3hB0gHMAUFVX3lxTE9SbHFCRlFLTWJKTkpQMVo0Um4xX0FmRW5BcUdqc0hhOVh1Qlpkd2xWSDRIQXQyTS15UDNBMjRmek0ycTBreXg3Q0oydU9SX0xVWmZPUjdGMWpMSEhxUzVkYmxnTk9EMEVFQmVjVDZva09HVTNXY3B4UzNIaTlHTUlNMl9ZallYTTY2LTlRTXBPRzNDZW1heUJIVFc2eTJzT2FURHlqX01wUHpPQUN4ci1BVFFQRmRTXzlEWlhidVpmbV9UMHg3VUt5XzVpQg?oc=5",
+      "date": "2026-09-12T16:17:33.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Sirmaur medical college"
+    },
+    {
+      "title": "शनिवार को कनॉट प्लेस का कुछ इस तरह का दिखा नजारा - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUZFeldGZ3VLNDBwMUhEV3ViNFNQQ2U3NGgxTTl6MW0yNHRGc1NSZ2lCQkU0b05DTi1WOHFSSWVpU3lkV1RxclYtcW1mVUc3Y0N3U25SbVpuTTNDTFZLN0p3NWRHT3oxQk5oUmU2bktGdEdBRWZCR2NRWTVfdnRNQl8xdTlfcUc3U214aTJEa0Q5cWdfLURrenlySFBSLW9CLTdFeU5QTDhUclI5OXExOHA3Yk8zLV90WmJIVdIBwgFBVV95cUxPX3YzSTN3bXdoZUM0N3N2UTRidXFyUDFvWGt0aURSaEd1OGdlZjVSalE4T0NMN1dUcjJOdW5sbkVjc2xIWHphaFF0eDBIX1dlUXFJOHIxVEdxRG56YW0tZkR4MWlqZFlCSG9nVk9nZzAwOGtWUUF1UDFmLVNoX0gzdUlRSkplLUx5N3NBTFNKaUk2UFZrNHY4cUpXekh1YmtvZVpmODB1QjhfdXM5TmYtZFJQLXNMM1FKRVp6SHRFckZFdw?oc=5",
+      "date": "2026-09-12T16:00:34.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Sirmaur medical college"
@@ -90,16 +120,6 @@
       "match": "Nahan medical college"
     },
     {
-      "title": "सिरमौर: नाहन मेडिकल कॉलेज में सोमवार को 1202 ने करवाया उपचार - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcXgyT2M4Z1FsVUplelFmNjBuZTVfdjBYOEhZMEs1NkdiakFnN3NPYVNlTnpUZEdHSjVuLV9fXy15d01yZkZOelhtc2Q4MWFqTmVJbjVtdHlTakhzOWhzVWVHOE5vamx4UFdxZzYzaWhIOC15WGl6STZscGRwODhmNmhIQ2ZwZDg0Mllrdm9GZG13MVduV3lVUWh4eHRCcng1X2R2Vl9pbi1LYWZySlUtNnh2ZEZ0WnVQR3dSUWVCM3k5b2I0SUJKQy0xWTQ3YUJhWDBpTUZ2YmZTTHdmaEVKRNIB5gFBVV95cUxNSWk0bUtobzNoWFVIR3pnNDRYQ0Zha1J2NUxKTlBVWEtmTUR1Yk11N3dQd3VZYjhRa0pTdnRKcFBCeFpUdGRTSkFPSVlaZTRIeV9ocmgySHN0dFdYYVdBVUkyekEwVnB6RlNMelJCOXMtNDlyRngtUDNHUE5IdTVObWZLNjNmWVI1X0dWZVFidnJwVFpoRWh4UENMR1BSQ2N0NzdJd3B4VG1jTXhqamFsLVd2S2ZGLVNoR0dYcndtQzBiVlB3WEI3Yl9sSDg1OFdoQ0tXSW5QZVVzRWk3SmI0RHpkSnBJZw?oc=5",
-      "date": "2026-08-31T13:49:40.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
       "title": "शिलाई : सेवानिवृत्त फौजी के बेटे मयंक ने बिना कोचिंग NEET में लहराया परचम, नाहन मेडिकल कॉलेज में MBBS के लिए चयन - mbmnewsnetwork.com",
       "source": "mbmnewsnetwork.com",
       "source_id": "google-news-hi",
@@ -120,28 +140,8 @@
       "match": "Nahan medical college"
     },
     {
-      "title": "VIDEO: तालाबों का आवंटन शिविर 10 सितंबर को - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVnU1SHRZYjdTN3pMcy1ydUxwQjVmcEc4VUtDTlhkX29qZDlEN2t4UjM1QlJIWklKWHJRVWFvX1hvN29sdk9wRlEwak50QjlfRW00UDRrd2JwLTBBUGFpMDhPWG83TC1UcmkyVXNBQXJUQUdzb2dFQlNOc1NuV2ZGRThaSUdLay1nRG5iVHJUS2phS19BNzNENjFuS1hmWTYtMG9iYlp30gGrAUFVX3lxTE9ocFdLb0dERlcyejNWcmh0OGt3bF9LQlhXUDlYSklQYmVnbFJxc3MyU1h3VlZuQVFxRnh5SUx6ekI4Vkp5VFFVY3V3NzdvUzJXeWMyZG1LUzhHLXlOcXJzQW52cG45X1k1YUtjLWxuYnhYcy1wdTRsRnZHN3lCMjNKS08xdmVpUFI3V3RfYlRVS3pVMDlWLU9xUkNaM05TM1Nqc1VtZnNmSWRwaw?oc=5",
-      "date": "2026-08-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Sirmaur medical college"
-    },
-    {
-      "title": "VIDEO: विकास भवन पहुंचा पशु मित्रों का प्रतिनिधिमंडल, प्रशासन को दी ये चेतावनी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWJpTHFOUVRjUzd5UGZWeW1VMnNkXzlqa21vLTJtNWhNTUIzNDEwTnBCX0tfaWl5R0JncHBJZThFV042NHpLTTJQQU0tS0hKQ2FpUTFUTGVxS0J3SXZGUWhBcDlVVlM4YnJvek5aM3BHckdKTlc5NEd5SUNESmFwSHJ3ZmJIak5BUDMzYWFOUXRCNzQ1dWxRRS0zMEVweXB3cHhGNzFnWERDRW5LUDJjeHMxX3BTd9IBuwFBVV95cUxPZDhvcHh0UGdNVW4zcTJvWGJyZ2ozS1RRUGNEMmlxRGE5VWl2NXVPaTNIb055eEtQdDc0dzFGaXNKU2szcEZLOEsycmFxREdwQkJJa0RybkY1ZkJxLWVKRjR6WVhYOWp2TnRZX3EwdzJQNGI1YlBlSHNIYVBLdkFJeTJRdEdCcHU3ak1EX0ozMHFxSDZZWjBhUWJYY2JMRFdJMm9DZ3NNZkxGQVJrU2tMZnZYTEpKQVdLWVBz?oc=5",
-      "date": "2026-08-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Sirmaur medical college"
-    },
-    {
-      "title": "4 Killed, 9 Injured As Bolero Camper Falls Into Gorge In Himachal Pradesh - etvbharat.com",
-      "source": "etvbharat.com",
+      "title": "4 Killed, 9 Injured As Bolero Camper Falls Into Gorge In Himachal Pradesh - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWFV6VDgzUWJZakFmYUhIWlFEbk9NUERmejZSYUpXUGpoODJXVkFBazFaVHpCSmVQUjBRdC01aEpmLW5BdDhJZkRKZERaUnNMVUJ0a2xmUU96Q1BqOHlCVklhNzhjLTVTd0xFSzR4Q2pTUWVISVpRQVV3MUlxYU83M2hjZGZKRXFxdHlRZnRqSTVEVUVFaFdjVXlFb2R5cC03SmFoUGFQZ1VXU0hha1BzMGtaX3ZhR2NfZEJLWXlqQk91ZF9xUWfSAcsBQVVfeXFMTnhrMEEwSTJ1NFV5RDhheXdOOEhUNjhaOW9OUldad2RWY2hobzVnZXQtNGtJWXVBUm5vQnVqMGo5VTRmeGEwaE9uVlc4a3pPdEVRQllWUTJORl8yVDZVeFNuUU5rb0RwX29MeDBzSGswUDBpNFFPenNWazZPUGdKZmxUNWtBUXNwMVdzWllFekZDeW1QVmV5SExfNzQ3MGoyR1IyVkYtRzdFZXBVZE9URUItajBucDR5bU1vN2RqQWdJTkx6Y3cwY1BxX0k?oc=5",
       "date": "2026-08-12T07:00:00.000Z",
@@ -160,8 +160,8 @@
       "match": "Nahan GMC"
     },
     {
-      "title": "Immediately fill vacant doctor posts at Nahan Medical College: BJP state president Bindal - tribuneindia.com",
-      "source": "tribuneindia.com",
+      "title": "Immediately fill vacant doctor posts at Nahan Medical College: BJP state president Bindal - The Tribune",
+      "source": "The Tribune",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTlMWW9lTVRTM0xjZ1dRVVpYbzl6cnRzb0NIaVVtVlNvVE82cUNTY2dlcmNSZnZFTzZ2NHVjV2J1NlRTOVFneFpIQVBZTXBHcWEzWlJLeUNCcm1sSVVTUzJZYVZXM3JFU1hLa01nZlFKVVA0TzlpRDFVR1pPN1FSNUxldnJPaVdDdDhZX3dybjhoUFhCNDFTdEN1SldsNXhSVkRsYXNsWU5CbFFuMXljUjJSRkVaaG1aVUxDQXlwa0tqb0FENFB1VEdsQWTSAdABQVVfeXFMTUZLS0dhbE4yci1nM2IxZ216TEJKaFdKSk16bFVPamV1RlZsUGFzX2JvVVlyNG1vWTdxRGUweWZ3bFpkd1hnRko0ZG5oYmpOTE9jaU40dWJPa0w0Ulc3elhnT241cVZKZEtOVVVhYUxILWhiNmRKNFJQY2dKMXo2WTJXQ2FhZ0tQWjFoaUxOQ2RPNENwdHhxYjZaWngyenRmMmM3TDJ0NUpJcHpuTHo5YUhBSTZLUGZ4MVA5d1NjcFZpc3F2cnFvdC10OG5mNHoxOQ?oc=5",
       "date": "2026-08-02T07:00:00.000Z",
@@ -170,8 +170,8 @@
       "match": "Nahan medical college"
     },
     {
-      "title": "Himachal: Father dies, son injured in road accident near Nahan - theprint.in",
-      "source": "theprint.in",
+      "title": "Himachal: Father dies, son injured in road accident near Nahan - ThePrint",
+      "source": "ThePrint",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDF5ZXMya0tJVUZaX2ZyVXRCcVE4WGFBbXUzQVpqbHRidVl0Y3Z0MEt0MzlMUkRHcGxNWUtmR2hBVWwxa2Nzc0RZQ0VFbTNjSkNtcEFycll1R0FGSWNNTF8wUFBBNHBhaGJZSS11VHQ3VHRKOE1TQWFZbFJtSnhRU29pS2NjQ3BfbG9QRHNzTTV4LXJXM3pkeE9Ja9IBoAFBVV95cUxQRVEtRFNIcWFzSjhKeUFZMlphNkZFY1VYQk1IZ0l3MzYzUTc2MTQtWEhjbi1UZzQ4MFRNZ0dxQVV1VWsxcmtabHIyOE51VHlSc1ptOXNvakI4UUVlUFVBdDlPY3doTWd2TXNjdHdEWFBiT1BsVWtNVDZzZHJYM1pwV29mUGFzejhCMmRFNEQxT2hXTGYyLVRpUzBKa3Q1eElf?oc=5",
       "date": "2026-08-01T07:00:00.000Z",

@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-17T21:52:02.923Z",
+  "updated_at": "2026-09-21T22:24:09.405Z",
   "project_id": "AIIMS-BLP",
   "press": {
-    "n": 20,
-    "positive": 12,
-    "neutral": 7,
+    "n": 14,
+    "positive": 9,
+    "neutral": 4,
     "concern": 1,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.24
+    "avg_score": 0.214,
+    "avg_magnitude": 0.271
   },
   "youtube": {
-    "n": 35,
-    "positive": 26,
-    "neutral": 8,
-    "concern": 1,
-    "avg_score": 0.474,
-    "avg_magnitude": 0.509
+    "n": 50,
+    "positive": 38,
+    "neutral": 10,
+    "concern": 2,
+    "avg_score": 0.462,
+    "avg_magnitude": 0.512
   },
   "overall": {
-    "n": 55,
-    "positive": 38,
-    "neutral": 15,
-    "concern": 2,
-    "avg_score": 0.375,
-    "avg_magnitude": 0.411
+    "n": 64,
+    "positive": 47,
+    "neutral": 14,
+    "concern": 3,
+    "avg_score": 0.408,
+    "avg_magnitude": 0.459
   },
   "top_positive": [
     {
@@ -45,19 +45,19 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "Two imported dialysis fluids at AIIMS-Bilaspur fail quality test - tribuneindia.com",
+      "title": "Two imported dialysis fluids at AIIMS-Bilaspur fail quality test - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOekRqZlhURnJ5ZVJzaWViRUdZcHNKM2l6T0VFYTFqaGlkUkpLMmdXXzM5M28zSGc0UGx2Mk5fejY3TUVZUkFZNnRsT1BSWjh6RkFkNEVONFpFMXFXWDFDd00zRkxKVnNQcm1ZaTlNRFNGTzZ6N0NmeEttUVlBSnFoWWE5QTR4dWhqT0ZBbU0tbFF2ZVRPVnlCS0VUeHQwbDZxWC1RSDFDREJpWUlL0gGwAUFVX3lxTE04YlR5c2w0MmhmanhhWkhlcmFyMWhTYWlOakd1dldsZ3M1TzhDZ2pFYlZnOHdhRHV1YmduR09qX2ZLZUlqZnVPWi1zV3ZYNDZuc29mbmxqUUR4NzNEMVFCMmpjQVF5czBMUEJmWXV1R0NGelZoU1REcURWQmRTRFpWbHc1Zkdhc3dIRHowUGk4Z09JR2JhS05vQ3FxZS1GM1Fla0VNUEN4dzF4RkZLWmlJ?oc=5",
       "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
+      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
       "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "Bro how is the department of pediatrics is it worth taking in bilaspur",
-      "score": -0.1
+      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-17T21:51:36.130Z",
+  "updated_at": "2026-09-21T22:23:47.885Z",
   "project_id": "LUHRI-1",
   "query": "\"Luhri Stage-I Hydroelectric Project\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 4
+    "comments": 3
   },
   "videos": [
     {
@@ -25,44 +25,38 @@
       ]
     },
     {
-      "videoId": "npui1phD__I",
-      "title": "why in news || luhri Hydroelectric project || Hp General Knowledge 53 | #hpgk53 || लुहरी जलविद्युत |",
-      "channel": "Hp General Knowledge 53",
-      "published_at": "2020-11-23T01:30:48Z",
-      "description": "why in news || luhri Hydroelectric project || Hp General Knowledge 53 | #hpgk53 || लुहरी जलविद्युत | About video ...",
-      "comment_count": 3,
+      "videoId": "n1Tf2MLQTiQ",
+      "title": "Luhri Stage-I Hydroelectric Project on Satluj, Himachal Pradesh, India",
+      "channel": "The Saffron Scholar Dr. Praveen Thakur",
+      "published_at": "2023-07-08T13:39:46Z",
+      "description": "",
+      "comment_count": 1,
       "comments": [
         {
-          "comment_id": "UgwU0jNRdxELMadGCf14AaABAg",
-          "author": "@23amitsyal93",
-          "text": "💕💕",
-          "like_count": 2,
-          "published_at": "2020-11-23T03:17:10Z"
-        },
-        {
-          "comment_id": "Ugy9jl8QYlJOC0fxYAp4AaABAg",
-          "author": "@vikulverma995",
-          "text": "sir electrician ki vecancy teni h project pr khali ??",
-          "like_count": 1,
-          "published_at": "2021-09-11T15:33:22Z"
-        },
-        {
-          "comment_id": "UgzKhjqMHMo-hPB_-794AaABAg",
-          "author": "@vishallisharma964",
-          "text": "Thank you",
-          "like_count": 1,
-          "published_at": "2024-05-10T13:52:50Z"
+          "comment_id": "UgywBTMX2YOe__uvKjp4AaABAg",
+          "author": "@hemlatamadhu1580",
+          "text": "😱",
+          "like_count": 0,
+          "published_at": "2023-07-08T14:09:06Z"
         }
       ]
     },
     {
-      "videoId": "5fwcQwT5NFI",
-      "title": "Luhri Stage-I Hydro Electric Project",
-      "channel": "STUDY IAS UPSC ",
-      "published_at": "2020-11-05T15:15:10Z",
-      "description": "the Cabinet Committee on Economic Affairs has approved the investment for 210 MW Luhri Stage-I Hydro Electric Project.",
-      "comment_count": 0,
-      "comments": []
+      "videoId": "xQA0Q5SnLCE",
+      "title": "Luhri Hydro Electric Project Stage - I at Nirath Construction site // Rampur Shimla Himachal //",
+      "channel": "Devbhumi4u",
+      "published_at": "2023-01-19T06:17:50Z",
+      "description": "devbhumi4u #luhariproject SJVN का लुहरी प्रोजेक्ट 210MW की पहली स्टेज निरथ में बन ...",
+      "comment_count": 1,
+      "comments": [
+        {
+          "comment_id": "UgweeHEbl3lZ8c7QURZ4AaABAg",
+          "author": "@RahulTirkey-mc9yc",
+          "text": "Kam hi kya",
+          "like_count": 0,
+          "published_at": "2024-07-21T03:15:01Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-17T21:50:40.696Z",
+  "updated_at": "2026-09-21T22:22:43.808Z",
   "project_id": "MANDI-AIRPORT",
   "counts": {
-    "press": 9,
+    "press": 10,
     "gov": 0,
-    "en": 7,
+    "en": 8,
     "hi": 2,
-    "total": 9
+    "total": 10
   },
   "mentions": [
     {
@@ -35,6 +35,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRkFvbGtta0lBcF9zQlc2bFZYNl8zLUlhNlF6clRLRjA2NFFmY1hjNHlpZjdiVjlra3lMalh5TUFibkFBak9IUDVvUkNjM0JFYlBIZEY3TjI3bkVBSjBIcThBYjNPd094eTNLOFZaamc4MzFZb2NPUlVfRUdxWUZNZ0EzSjR0d1RRTVFfbHZmeHJ0ZEdzRXZIWWFvOGZVUXNqSkVmbEt0UXRSa296NXYyX2QwLURDeUxjdzVvdGRJTGt0NzRmaWtGamdHU05UTDdZQ0F0REhfRG8zNUxuQkxyRDFybkJvMVlsY2syT1RrS0RNVENhR05ScVV6cUViamc?oc=5",
       "date": "2024-06-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi greenfield airport"
+    },
+    {
+      "title": "Indian airports increasingly vulnerable to natural hazards, regular assessments missing - News9live",
+      "source": "News9live",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVVta1ZvS1VpMzU4YzNYS0ZPYnlpeTFuSU1XWHR0dUR5T3FsSnVkcV9INUdhenNUN0NBbHdZUE40RndXbXVsUEdLbWhuMFRJOEdCdDhPWnNsb0k0S2hwc1BOZ3U4bXg0ckF1QThlcXBNTER0akFJOVJiLU1NM09ncDJCX0VXeXdTMm0yOG5MSkZpc0x1NVh3cWRIWEN5MWpmTHk4MGZUQ0ZrcU54ZlNISUh3M283R2ozcGN5OXRXUEdBRmZh0gHKAUFVX3lxTE5mMkRjMndnc05wdEhseElMNVFjMEtjTXJnLVdRSzlEMWRXa2ZGaS1hM1Z0MUVlTzRwZ3hkbVcxWjNZY1Y0RURLRGs4YWxHYWlvM0FHbWZlMGJEbFRTQ2NDN2dSb2dDb1pZZmRjRVJTVDFaWWxhX3ZsRjhYc1pXUmdQSGc2SlRYTUs1T1JGLVNidmo4R3oxVlJTNkQ5RUVoLUQ0ZmFTbHZUaTdNSktEM3YyNGR3MHpjOWEwU18wR2U5bnNYTFl1VVlTd3c?oc=5",
+      "date": "2023-07-24T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Mandi greenfield airport"
@@ -90,8 +100,8 @@
       "match": "Mandi greenfield airport"
     },
     {
-      "title": "Jai Ram demands LIDAR survey for Mandi greenfield airport - The Statesman",
-      "source": "The Statesman",
+      "title": "Jai Ram demands LIDAR survey for Mandi greenfield airport - thestatesman.com",
+      "source": "thestatesman.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnZSVm9BdTZUS19ibW9UQ0J6UjNvVVRLVWgwQ0hoT0MxU0VsWVl1S2hra3dNTGxwd19LYWJ0X05CRFhjTlhuekFyN3FQakdUSzd2SW5kb0pwNHRCYWswLVBoZnZMckdaUm9zTWUtdEJSS0szT25kd2hDbDFsVVAtNTFrQXZNMFhXc0J2Qm9KdHhjTWd5Wnhwb2FFRVZ0OERoc25wNEV4bTlHSjNZcnR5VWlqeUZLVHfSAbwBQVVfeXFMTklOSWR0Y1NKZnFkRklIcGM2cm5WdWFSMHkxakdlRWY4cHdzTHUyUVMzOEc4em1BZHVqV3Ruclh0dDd0RVNBMU1HZlhaWENzaTVVQUJ4NXhnZzEyNXRwWTNwN0t1WHlOUno1VGp3VHVleU9sWG8zbXAzTTl2ZWVZcE9ZRml3NWZGdXFDTTlVcUZnWTIxdDhDR0ZibDV2RlBIdDVtREhqWWJ3bnhaclh6bzd5bkxud2QtZG9kNVg?oc=5",
       "date": "2021-03-08T08:00:00.000Z",

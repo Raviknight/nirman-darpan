@@ -1,19 +1,29 @@
 {
-  "updated_at": "2026-09-17T21:50:36.933Z",
+  "updated_at": "2026-09-21T22:22:39.500Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 39,
+    "press": 45,
     "gov": 0,
-    "en": 30,
-    "hi": 9,
-    "total": 39
+    "en": 32,
+    "hi": 13,
+    "total": 45
   },
   "mentions": [
+    {
+      "title": "Rampur Bushahar News: अधिकारियों और कर्मचारियों को दिलाई स्वच्छता की शपथ - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNX0NyN0V3OUVUR2VpMy1Lb3hSLXZJX3I1STlfcXJuczB2a1RkQjlMV1IxbEFVb2pSZ0d5M1V6RHNpU2NySGhjUUhGa2pPSU9QVER0UWYwaTU4ZS1odUpsZEI4aF82SkF3VDRjVzBlY1RuMlZ1R1d0ZVBsUUVWYWY1ei1uYUh1M1hheHpxYlRYdUh6c2txMmh0VDJCRXFKVE1FR05udXpJSUtVdENJbEstYnRTRjU5T2kzZFltbDlJZXFGdlktODdwZXljRmNxMWo1dmE0NTdINERkeWlabU51UHdwMER3eTlYZlZWdjc4VEUtbjJjbWN0Wng1MzhSeHcxU0dHemVmVmkyTTRTRmx3WGE5MNIBkwJBVV95cUxNX0NyN0V3OUVUR2VpMy1Lb3hSLXZJX3I1STlfcXJuczB2a1RkQjlMV1IxbEFVb2pSZ0d5M1V6RHNpU2NySGhjUUhGa2pPSU9QVER0UWYwaTU4ZS1odUpsZEI4aF82SkF3VDRjVzBlY1RuMlZ1R1d0ZVBsUUVWYWY1ei1uYUh1M1hheHpxYlRYdUh6c2txMmh0VDJCRXFKVE1FR05udXpJSUtVdENJbEstYnRTRjU5T2kzZFltbDlJZXFGdlktODdwZXljRmNxMWo1dmE0NTdINERkeWlabU51UHdwMER3eTlYZlZWdjc4VEUtbjJjbWN0Wng1MzhSeHcxU0dHemVmVmkyTTRTRmx3WGE5MA?oc=5",
+      "date": "2026-09-18T17:58:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Hydroelectric"
+    },
     {
       "title": "Rampur Bushahar News: लूहरी जल विद्युत परियोजना में विश्वकर्मा पूजा की - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNalZPUmZOaEtFWG5pZC1GbndiREdZVHVlRWZJaGw2TFB1OVhtOGhHMnBGNEwyeEZ3Wjg1SVNBU2xzQVNZU09GZjQyTW5DTzZQVXhpYTRvWGNyd3VHWHBmblhINEh4QmVJNGZkZVJIRmxaczBrOFg0M2cxV19lNXdnOEZBXzZrdENZQWI0SWJyVmxBUFRLMV83TFJXTThPaEtydUNTdVJTR2RGSENxN214dnRqcEtfRFNEQ3dWaS1nYWdPMjNRMXI5VWVORkdQckJEOExpeTdXYk9KbGFxeGhCVmlpWXdFSTFvT1pfb2dUMTV3a0NpWGNacVpZOXZ3emxxLVJlLWk0bnhZZlXSAYsCQVVfeXFMTWpWT1JmTmhLRVhuaWQtRm53YkRHWVR1ZUVmSWhsNkxQdTlYbThoRzJwRjRMMnhGd1o4NUlTQVNsc0FTWVNPRmY0Mk1uQ082UFV4aWE0b1hjcnd1R1hwZm5YSDRIeEJlSTRmZGVSSEZsWnMwazhYNDNnMVdfZTV3ZzhGQV82a3RDWUFiNEliclZsQVBUSzFfN0xSV004T2hLcnVDU3VSU0dkRkhDcTdteHZ0anBLX0RTREN3VmktZ2FnTzIzUTFyOVVlTkZHUHJCRDhMaXk3V2JPSmxhcXhoQlZpaVl3RUkxb09aX29nVDE1d2tDaVhjWnFaWTl2d3pscS1SZS1pNG54WWZV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNFg2RUM5WG02T3RKN1cxMUtiUTJ4OXEwb1EyQUZJWnBCRkkxVUN6MFM0ZDlneVNZdmhUVzdBZjVsaHJuei11WUlRZDEyR1JjQ3UxZWZNaTRzdG9MUVZmQkgzdlg3TzZXODFUczRQN3VWZVY3RzBOZXpoY0lIV2lfY2xzR3hOXzhOT01iM0pZSGdLZUszY1lqUGRMeXFyZTY3UWNiT2RMdWVLT3ZXRlNYWnJCT05ZUlhzeXk2eXVBTkd3RDJ4RE5zTXNhbE5hXzF5WWswdWlpUWp4SDI5dkZrMUxJakl2X2xiaGRBRkJpNWF6R3ZkUVB2RVZmQU9saE5tWmRWOHJn0gGLAkFVX3lxTE1qVk9SZk5oS0VYbmlkLUZud2JER1lUdWVFZklobDZMUHU5WG04aEcycEY0TDJ4RndaODVJU0FTbHNBU1lTT0ZmNDJNbkNPNlBVeGlhNG9YY3J3dUdYcGZuWEg0SHhCZUk0ZmRlUkhGbFpzMGs4WDQzZzFXX2U1d2c4RkFfNmt0Q1lBYjRJYnJWbEFQVEsxXzdMUldNOE9oS3J1Q1N1UlNHZEZIQ3E3bXh2dGpwS19EU0RDd1ZpLWdhZ08yM1ExcjlVZU5GR1ByQkQ4TGl5N1diT0psYXF4aEJWaWlZd0VJMW9PWl9vZ1QxNXdrQ2lYY1pxWlk5dnd6bHEtUmUtaTRueFlmVQ?oc=5",
       "date": "2026-09-17T18:22:02.000Z",
       "kind": "press",
       "lang": "hi",
@@ -25,16 +35,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXpXSXlEV2VOUHp1Q3JFUDBNbl9CcWdnanlzVU1TY2laeXdwZ1hJZXEzLW9yVjd2Q2w5R08xb0Y4d0ZqWnM0aHRmb2FPYmxQaGxxdzNxQ0paaEZTTmNCRlRUUGN6WEJOMExOM2YtUWZQQUdHNHJPWC1JZGNaODZtVlA4b3lqV0Z1U2FfcNIBkgFBVV95cUxPMFdPdGZrSUJnNzViTV9oODRNazFTTHRtNWptUUZPYy1ZUjJzajVMdF9QSDFwY3J1cVNMRExNLWVBcHFTV3BOUU1yV2FpYlJDZ3BQcVZ4ZEY5c1ZBTm5saEVkR1VrYmJFWHJOYURjRWFpTmR5NVI4MkJZWWFyRjV0OGZWcFBCdTNWM09pZDNQNnZxQQ?oc=5",
       "date": "2026-08-22T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "RECPDCL Hands Over ₹839.55 Crore Luhri Power Transmission SPV to Terralight Solar Energy - Indianmasterminds",
-      "source": "Indianmasterminds",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0tRREtMSFRxdWVmM2szdkVRUnVyQWlaX0xrdHZuQllVWC1wOWJIWm0yajVTN3pmZzlPYUpfRjhTcm1sajBDLTJRQWxUdnRFV3M5UnA0V0xXOTBJbU85MzhZdkdvZTJFZ1FpRDlqOHB3eG5jOXhjcmhHTkVxUllaZVU4ajlacVBBNTRPZnR0Ylc3R2R1cVhLdzU3UjBsaW0wc2NUU2tB?oc=5",
-      "date": "2026-08-21T13:47:21.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
@@ -70,8 +70,8 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "HP CM Sukhu Orders Takeover of Three Hydropower Projects From SJVN, Setting Stage for a High-Stakes Legal Battle - HimbuMail",
-      "source": "HimbuMail",
+      "title": "HP CM Sukhu Orders Takeover of Three Hydropower Projects From SJVN, Setting Stage for a High-Stakes Legal Battle - himbumail.com",
+      "source": "himbumail.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1F2SXFDVDNFQjE3emtIWmRsM05UaGZXQ0loTkMzZVlmeVM4X0lrOWtLa0g2eFIteTRBa3lrSGZ4SlJqSGV5aElDeWNFcFVTc2FhTWM1S1BWSnV6UkwwSFM5YUo3ajBHcE1YQ0ZWNUt2U0E1d3dneFZrNzBvSEtlbS1GcTQxRDZCQWJZUk5qT0VtSy1SRUhrUllibTNmcTRmRFFqOHR2aVJaVnVOWjlNZkV2X1ZobXVqMG1GajFvWG5iNHN3MkpnT181bEZJUGIyM0U4MkZZWHEwZ1JXMy0ta0lFM1ZRUHJGdlBB?oc=5",
       "date": "2026-07-08T14:34:18.000Z",
@@ -80,13 +80,13 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "HP to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - News Arena India",
-      "source": "News Arena India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFRvMnh4enBWOXN3U0ZnRjdwbjBtclJtb09iTkR0WGUyQUo3Mlg2d0kzMnZMSFY5QS1xMXJsYW5XZDhzcURjbnNoeVl4MjB3OHdILXZZVHhUalBvYVRoVFc3TldyWWxqX29lUWtUU0pwNllHSERHSTgyel8ySGgwa2pVMnZCc2JaRDB5N3dHcVJPTnVPV3A5ZzNhWGZKUGpZSFYwbA?oc=5",
-      "date": "2026-07-02T16:22:40.000Z",
+      "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
+      "date": "2026-07-06T07:00:00.000Z",
       "kind": "press",
-      "lang": "en",
+      "lang": "hi",
       "match": "Luhri Stage"
     },
     {
@@ -114,6 +114,16 @@
       "source": "Sahi",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzl4dFF5N1N0a196VGF6Vk50aE5XNUZGX3MwTEktOHg5LU42cWVZZUVXMDd4MHdOb1RDOU42X3VqUW1RZVV2bTduSkpTdGtzbTY4ZVJzV2lTamFCbGVJSjhQcjBVdGhZVnF6c2picHpKeFJtZzQ2Z0IwVW5ONnJ6STFHOVo1S3NJZnlqOFl0eEhaY2dXZnJrRmNmNHlsTTc1b3lqdndjZFFiOTN0RWlKaVoyUGU?oc=5",
+      "date": "2026-06-29T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "SJVN inks 658 MW hydro power PPA with GUVNL - Whalesbook",
+      "source": "Whalesbook",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkh0cGtReWpLZDFDdlllQmU3bDY1RkdFQ3lYOHJ2aE95MGg5REROUmY4Q0ctQ19hWGVPNGVHWVNZNFpOSGthVHJJR0E1U18wQlhLZ01KeTh6azdGY042LTJOTUZyMUV1OW80SjktWUFBLXRNc21meHVJYVd2WGxLRXdfcU1QMi1fVHJRdUVBc1YwZFNsamhObGpHdkpaZGljYVQ0NFlBNlM2VUVkU3hvOTd0VWMyVERBQVd2WGxSX1BpSnc?oc=5",
       "date": "2026-06-29T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -160,6 +170,16 @@
       "match": "Luhri Stage"
     },
     {
+      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - hindi.economictimes.com",
+      "source": "hindi.economictimes.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hOTTcxQXVwRXRWQWFMOGpvRnRzNGdETDBlckNfTzBpSng3WnluaGtzdVlGaU5xdWRnZko5cUNPd1EyQWwzTl9vbkJMVFBORmFlZ0toenpkamJjVk9ZNDZqU3JveHdPSHRYQjdwaFpnT1BUbkJxbWp6YWJHZl91MUhDMlR3enBxZkZtQVlmY20zR2NUNWRIdG83NFFIMlVIRWlndDlGUm1lbmFqbnFnZUxnU2o3ZUlxZlE1RXllU0N6Mnk1MGp5QlBPWVHSAdIBQVVfeXFMT0MxRGd6UXIyRVFGdjBZcmdRY3c5VEhrWTdhZHV2elkxRlF6emJ6eDFvVnZIdFR4WXAwUWdiTEhJaHBoeWpQdlJPcy1xS1JVTGt3SmpSaVNNdzE1aGVtd241SVdTdWEzb1F2S0lLRk5lMWs1dFJZR2RGMzRtYVRVRTAwcFM1M0VlUUNhRmF5X2h0RFNtbnRlZEdzU0RkNTMzQkUxS1pndk1FVHNIdkc1dmVaZGVoLVB0S2otMXZtakJZb01oc2ZJMk9mNmt3V3MwVVln?oc=5",
+      "date": "2026-02-06T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJVN Sutlej"
+    },
+    {
       "title": "ट्रैक्टर-ट्रॉली की टक्कर से बाइक सवार मां की मौत, बेटा घायल - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -188,26 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
-    },
-    {
-      "title": "Luhri Stage-I Hydroelectric Project, Himachal Pradesh, India - NS Energy",
-      "source": "NS Energy",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaUhWa0dQOUxsSF9YN3JOWDU2OXFmXzI2T18xZlhsc3lxZWljWUhtcjJ0M2RxTlotRjZBd1h6TjN1Tl9Zb1BlUW9nQjU2MTBBZHRsTWlLa0lsVllKVlZ4QXozWlp6U0ExTWFwR2hPVzNXZVE4YUlHTFRfcEE0ZV96Q1ExV1FOcVFSNTBFRm95cDVremxpNngwVlV6b1pPTUhJM01fXw?oc=5",
-      "date": "2024-01-04T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "Punjab to buy 1,200 MW of solar power in ‘biggest such deal in country’ - The Indian Express",
-      "source": "The Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTFYdWtMaE5WUUxKVHFkdW5EV0pYajVmSGtaczVPazF1eF8yQXRtdC1VU2dQaEg3MHZTRERQZVl2WjNqZFhJVktIMy12RGRNQzFxUkFUNW5KMmJzWE9wVEJpRlZ0eDFKS3A1NVJvWm5HSHU0b0xnSWF4Si1FMi01djl3azhjOXJjNzlObkNfbURRcC1vcXB2VkdTSHkyUlRuTXFZU0dBekpoUXNVOF9FdVVIMzIwRlZNVTktT3hfWGY3R2pDX2F5Z9IBzwFBVV95cUxNeElENXNXZ0F6Q1MyeEtqb0NZVXJZX2ZWdVBTaTFOQnl6LW9vMUFfOWM4Z0pnLTVDb1piSUlsOG9fTFdTU1pZX2NVV3ppbXFHbXR3WFdBT3hZa19OWFFBSG5URk5iYTg5cHg1MFI5RzM2dE5nUjVDRUlfa2tIZmNpV29HS2dDSFdGaTFCZTE3aVNyTjFaMlRxeWlrM05CbEd2a2hRX0FvSFNDeWpNZGpRcFotTTBxU3hya3ZhUmlZLV93QlNhbjJkSEk5YXJwMEE?oc=5",
-      "date": "2023-08-17T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "SJVN Sutlej"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

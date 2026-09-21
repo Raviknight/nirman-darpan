@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-17T21:51:32.918Z",
+  "updated_at": "2026-09-21T22:23:43.899Z",
   "project_id": "AIIMS-BLP",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-09-21T22:23:43.899Z",
+      "title": "हिमाचल:एम्स बिलासपुर में तीमारदारों को बनाया निशाना, नकदी और मोबाइल लेकर फरार हुए थे आरोपी; अब हुए गिरफ्तार – Aiims Bilaspur Theft 43340 Cash Two Youths Arrested - NewsViewsPost",
+      "summary": "Auto-detected from press: \"हिमाचल:एम्स बिलासपुर में तीमारदारों को बनाया निशाना, नकदी और मोबाइल लेकर फरार हुए थे आरोपी; अब हुए गिरफ्तार – Aiims Bilaspur Theft 43340 Cash Two Youths Arreste\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPbF9PdTlkVkVXRVVTc2RLb3dBNEx5b09CemtzdHdzdy1ubEJ4YS1FejJmUm5lZTdBbG9oc1dUUUZ1eW9uYlJzZU5QMzRFWVhabWkxRnU1WEVQX2pWZTlDeVNCWmRKNlZsdDFzRnUzUngxVXJNSTVuWWhwX0RSOWRzQkQ4QWxTcmdNclBZSUtMOW1JQXJLdzFIV2ZVbnYzaUZILXF5OWtNUi00bDJWRnluUFc4aXpsSkpFRjlnb1ladEgwbVl6Ulp2NUNCcm9KVDB3TzE5N1A2NVFlaUhqM2dxdnJnSUZSWDhta1g1Yl9GVUpyemlCTGlQTUFzZms4MjlwanczcFJvanhCNmtkaUUzejByT2RIVHBmNWU5eUlQdGxqRzF1b0VmbS1CZVF3WHlwRG0zd0NsY2pUQ19uRV80?oc=5",
+      "source_name": "NewsViewsPost",
+      "lang": "hi",
+      "date": "2026-09-15T11:30:05.000Z",
+      "matched_term": "arrested"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }
