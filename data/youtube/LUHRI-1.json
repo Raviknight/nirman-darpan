@@ -1,26 +1,40 @@
 {
-  "updated_at": "2026-09-21T22:23:47.885Z",
+  "updated_at": "2026-09-24T21:55:35.930Z",
   "project_id": "LUHRI-1",
   "query": "\"Luhri Stage-I Hydroelectric Project\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 3
+    "comments": 5
   },
   "videos": [
     {
-      "videoId": "p7K2W8S7mFM",
-      "title": "Construction of Luhri Hydro Project (Rampur Bushahr) Himachal Pradesh #construction",
-      "channel": "Apple Farmer",
-      "published_at": "2023-07-30T16:08:52Z",
-      "description": "",
-      "comment_count": 1,
+      "videoId": "jrarM8mdb_U",
+      "title": "The Luhri Stage-I Hydroelectric Project in Himachal Pradesh  || Alix Smith",
+      "channel": "Knowledge the ambition",
+      "published_at": "2020-11-05T09:30:59Z",
+      "description": "Must visit our website and register now for upcoming courses and updates https://www.knowledgetheambition.com/ If you are ...",
+      "comment_count": 3,
       "comments": [
         {
-          "comment_id": "UgwKSoof1AxaoB7TwwF4AaABAg",
-          "author": "@Slimboy99",
-          "text": "Is there any vacancy for Site Engineer?",
+          "comment_id": "UgyEm9anG6vwIzxEzFt4AaABAg",
+          "author": "@sakshinegi2586",
+          "text": "Sir ye shuru kb hoga??",
+          "like_count": 1,
+          "published_at": "2020-11-12T10:15:57Z"
+        },
+        {
+          "comment_id": "UgxOn8F55aMSOidNkJl4AaABAg",
+          "author": "@rahulchauhan3361",
+          "text": "Ye sruru kb hoga sir",
           "like_count": 0,
-          "published_at": "2024-09-18T10:59:14Z"
+          "published_at": "2020-12-01T09:54:24Z"
+        },
+        {
+          "comment_id": "UgyLg8FHfWJGAIW7Bod4AaABAg",
+          "author": "@HarshGupta-rs4pl",
+          "text": "Please tell me how and when the project layout was developed?!",
+          "like_count": 0,
+          "published_at": "2025-11-12T10:38:56Z"
         }
       ]
     },
@@ -42,19 +56,19 @@
       ]
     },
     {
-      "videoId": "xQA0Q5SnLCE",
-      "title": "Luhri Hydro Electric Project Stage - I at Nirath Construction site // Rampur Shimla Himachal //",
-      "channel": "Devbhumi4u",
-      "published_at": "2023-01-19T06:17:50Z",
-      "description": "devbhumi4u #luhariproject SJVN का लुहरी प्रोजेक्ट 210MW की पहली स्टेज निरथ में बन ...",
+      "videoId": "p7K2W8S7mFM",
+      "title": "Construction of Luhri Hydro Project (Rampur Bushahr) Himachal Pradesh #construction",
+      "channel": "Apple Farmer",
+      "published_at": "2023-07-30T16:08:52Z",
+      "description": "",
       "comment_count": 1,
       "comments": [
         {
-          "comment_id": "UgweeHEbl3lZ8c7QURZ4AaABAg",
-          "author": "@RahulTirkey-mc9yc",
-          "text": "Kam hi kya",
+          "comment_id": "UgwKSoof1AxaoB7TwwF4AaABAg",
+          "author": "@Slimboy99",
+          "text": "Is there any vacancy for Site Engineer?",
           "like_count": 0,
-          "published_at": "2024-07-21T03:15:01Z"
+          "published_at": "2024-09-18T10:59:14Z"
         }
       ]
     }

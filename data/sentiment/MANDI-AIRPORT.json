@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-21T22:24:08.833Z",
+  "updated_at": "2026-09-24T21:55:56.127Z",
   "project_id": "MANDI-AIRPORT",
   "press": {
-    "n": 9,
+    "n": 6,
     "positive": 1,
-    "neutral": 6,
+    "neutral": 3,
     "concern": 2,
-    "avg_score": -0.044,
-    "avg_magnitude": 0.156
+    "avg_score": -0.083,
+    "avg_magnitude": 0.217
   },
   "youtube": {
     "n": 2,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.05
   },
   "overall": {
-    "n": 11,
+    "n": 8,
     "positive": 1,
-    "neutral": 8,
+    "neutral": 5,
     "concern": 2,
-    "avg_score": -0.027,
-    "avg_magnitude": 0.136
+    "avg_score": -0.05,
+    "avg_magnitude": 0.175
   },
   "top_positive": [
     {
@@ -33,15 +33,15 @@
       "score": 0.4
     },
     {
-      "source": "press",
-      "title": "'चुनाव नजदीक आता देख सुक्खू सरकार को आई मंडी ग्रीनफील्ड एयरपोर्ट की याद' - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRFpxVzNzOFVvdXp4NW81RkxFODFLTFN1WTdyUGV2TjJjcXBzZjVQdjFnaEl1UDZyLXFUNnljSFVMekNRRXRBYXBYanhqREkxMnJSUFVMNXk1SDVfeXRCZTQyYlFPMklYOVNyWThkdE1pbnpKVFBmMHlrZWtZeUtnRHBqQlBTLW80S2tRekxSZElJSWdZNlRNQ29mek1aMkZnZWx5VVpXQjRtckUtZ25COWQ0MWlFdnpaOVZJOFpoeVdUaFhsMUw3UmlkT0ZfVE1CcGhmY2ZZc1ljaUF6UmRXb2VraThWT1VHVEVaenhLWHA5WFE3LUkxa040U3pObl9ZVGR0S2lkUmFWQm5FS09YQ044YmpzamPSAZwCQVVfeXFMT3JWaFV2RWtPZ2w0cF9Wa2tYQzUwRTNvbS1FazZ6NXNXRXBiSnZvOVIteEx4enVfdTQ1RjJXY3BQNU1PU2NmTkVzYUdOcHNhS2hyQzlWZ2JGSUNyNDlaX2dDMGNnQnh1dWlsTTlPT1JHT1hhTTlBZjNwYzVoSmVELWZnLUoyUnZham5YNFZnODN0dTNWOHhGbHRHTDFmSmdpeXAyZlFwc2tRUWNhRzY0M2pXTmtsQ2xQMW1ZUHRtSFBBQ3hscWMwRXZmN0RIcHd4bU5OVTBRLVJkNzFoc1F1ZFRiNFV5bG41SGpteXNCNVBZNXdRX24xSjgzVGcwMHFvSkVtUDFWTTYyYlhsRmdFdldaZFNSQW05aEs3c0s?oc=5",
-      "score": 0.1
-    },
-    {
       "source": "youtube",
       "title": "Hotel room book krane ka budget nhi mila",
       "score": 0.1
+    },
+    {
+      "source": "press",
+      "title": "16th Finance Commission meeting in Himachal: LOP Jairam Thakur advocated for special grant to Himachal Pradesh from the Central Modi government - Nagpur Today",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRkFvbGtta0lBcF9zQlc2bFZYNl8zLUlhNlF6clRLRjA2NFFmY1hjNHlpZjdiVjlra3lMalh5TUFibkFBak9IUDVvUkNjM0JFYlBIZEY3TjI3bkVBSjBIcThBYjNPd094eTNLOFZaamc4MzFZb2NPUlVfRUdxWUZNZ0EzSjR0d1RRTVFfbHZmeHJ0ZEdzRXZIWWFvOGZVUXNqSkVmbEt0UXRSa296NXYyX2QwLURDeUxjdzVvdGRJTGt0NzRmaWtGamdHU05UTDdZQ0F0REhfRG8zNUxuQkxyRDFybkJvMVlsY2syT1RrS0RNVENhR05ScVV6cUViamc?oc=5",
+      "score": 0
     }
   ],
   "top_concern": [
@@ -53,7 +53,7 @@
     },
     {
       "source": "press",
-      "title": "Jai Ram demands LIDAR survey for Mandi greenfield airport - thestatesman.com",
+      "title": "Jai Ram demands LIDAR survey for Mandi greenfield airport - The Statesman",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnZSVm9BdTZUS19ibW9UQ0J6UjNvVVRLVWgwQ0hoT0MxU0VsWVl1S2hra3dNTGxwd19LYWJ0X05CRFhjTlhuekFyN3FQakdUSzd2SW5kb0pwNHRCYWswLVBoZnZMckdaUm9zTWUtdEJSS0szT25kd2hDbDFsVVAtNTFrQXZNMFhXc0J2Qm9KdHhjTWd5Wnhwb2FFRVZ0OERoc25wNEV4bTlHSjNZcnR5VWlqeUZLVHfSAbwBQVVfeXFMTklOSWR0Y1NKZnFkRklIcGM2cm5WdWFSMHkxakdlRWY4cHdzTHUyUVMzOEc4em1BZHVqV3Ruclh0dDd0RVNBMU1HZlhaWENzaTVVQUJ4NXhnZzEyNXRwWTNwN0t1WHlOUno1VGp3VHVleU9sWG8zbXAzTTl2ZWVZcE9ZRml3NWZGdXFDTTlVcUZnWTIxdDhDR0ZibDV2RlBIdDVtREhqWWJ3bnhaclh6bzd5bkxud2QtZG9kNVg?oc=5",
       "score": -0.2
     },

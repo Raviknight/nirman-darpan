@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-21T22:23:03.623Z",
+  "updated_at": "2026-09-24T21:54:54.317Z",
   "project_id": "KOLDAM-HEP",
   "counts": {
-    "press": 98,
+    "press": 100,
     "gov": 0,
-    "en": 62,
-    "hi": 36,
-    "total": 98
+    "en": 67,
+    "hi": 33,
+    "total": 100
   },
   "mentions": [
     {
@@ -90,6 +90,16 @@
       "match": "Kol Dam"
     },
     {
+      "title": "स्मार्ट आंगनबाड़ी केंद्रों का उद्घाटन - divyahimachal.com",
+      "source": "divyahimachal.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NNEp3bnBqSS16bmltTERtbEEyV2pDVVZHd2Mzd0U2ZUhWNHVkV1E2TE1OczNEdlByWHJZY1R1azZYb1h1N1lvU2VVbllIX0ExMUHSAYoBQVVfeXFMUGh0ZEpybTM0bF84VHJFNXFFdnR3Z3RaUlplZ0VrODFEa3RBUElQeHNKMmZScmRJZGN1eE10YzB4QTJIMWl5NktNS194eVhEcm1oNWhsSmxQRVIxLXNabVBwOEFEYVVBbjNPTmFnR0Q1VTlIOFBGRDQ5TjhlTFM0Nm1lLWNwMF9nbzh3?oc=5",
+      "date": "2026-04-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "NTPC Koldam"
+    },
+    {
       "title": "Undertake CSR activities for Kol Dam-hit families with DC’s knowledge, NTPC told - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -100,20 +110,20 @@
       "match": "Kol Dam"
     },
     {
-      "title": "Eyeing Rs 1,800 crore: Cash-strapped HP slaps 2% land cess on hydro projects - The Indian Express",
-      "source": "The Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVGFhY1N0cmRrV3VUdDFuSDdoNENYazFaX280OXFCZkJRQVpwbk93S2hVQmQyUTZ2RVNMLXpsNFRVejltOE8tUG5vMlBfMjdJdktCb2Y0MGRBaXQtblVuLUwyMGkwTEJ6S0hjRjdIN0RCenBucFRZb3JEY3NBWnBjcmpGZC1qWmgxWUs4bldDME9wUl80eFFVTHE2Y0PSAaMBQVVfeXFMTXhXNFhsLWpfZFdsaEhmOHZVYnNnWXZrZDI0QkQ3YjNpa0ZfZnRQTWp1X0drZmZnRWZIZ21zcHhUTTlFMFMxTkdWOTZueGRXbkNnM3VfdkVBdEkzR21LRGNqR3RpdWhMYXhFZG9QT0JpcDU1MzBSRVFjXzJWMFVJbU1VTUZMQ3Njd1JRVHFqbXZGVUEwUF9BQ0djWHZSNGlEM2NrOA?oc=5",
-      "date": "2026-02-06T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kol Dam"
-    },
-    {
       "title": "हिमाचल: कोलडैम पर उपायुक्त शिमला की रिपोर्ट ने चौंकाया, ...तो डूब सकता है पूरा क्षेत्र; 3 जिलों के DC को कार्रवाई का आदेश - himachal pradesh ntpc kol dam shimla dc report silt issue govt revenue minister action - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMWJOdTFGNV83VENvcFpPdXR6OXBqVHhDRFRUX1dzY1VpZW1Yb2V6dDc2aFBkRTE5Z1E3Nm5xZVFBR2d4TWxnQkNrNFJ0Tjdua1RMblF3Qi1jOVlMS0JNeUtfcmpwMFMzSG9SOFcydUxMUk5UWWlQVzdnMm5RSDcyMWl3TjI2cDMxcndabFV0LVNnUkY3ZXJ2QTRESWhZM3cwbmFCYVRKcmhiTENQZ0F3Q1kxeHRPY0pITzZpMHFxY0p6NjNJbFlyY2ZtUVFOTm9YQ0tRS20wWTlqek5HSDJaM1VITUJKa0k?oc=5",
+      "date": "2025-12-09T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kol Dam"
+    },
+    {
+      "title": "सतलुज में डूब जाएगा तातापानी! रिपोर्ट ने सरकार को चौंकाया - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb21IZ2l4amxIcklYMGxMNjhfSnBuS1BrSVl6cGktLVQwVTByNDVidEI3NTEzOWthbGQ4OEpLSnJKbTFkcEVUUjg4bDRLeHNQd2dJbTVzQkpyTUtXbnJxR0xqRmdMT2d5dFRYXzRWQXhLSUhuamJpckM3bE1FNnVpSEVwUnNLTnpqUWJzYmdpbWlCLTY3bk9ENkJnc2RNaFctcjk2OXl6dDRwdUVZb1EtYV9oc3o0bG9ZOVR1LVkzRzhOUkt4SXk3M2ZmeUTSAdIBQVVfeXFMTVYyYTN4RlNZR0ZoaHdsak5wMng2Y051bHB0MnN3WEd1bWVDMEJMZU4wam0yOW9UTTAtVENxOWQ2TGc0elZyV053TVdwekh5dmdzQ3h4eTl3TGRDMTU2djFNMEljWHNrSC1fRmdqNXlYWWJrempaU1Q5UUJhOWdVVnQtMkpMR0tVVmN1WlZ4bzJ5MVRYSU8wT2tzU0tPNUxVbnFQN1pyZXNRUGoyODBZVmtlUTF1OUw4TnZQZTBiTzlndXNManBSUnJFSUFrZTRPeU93?oc=5",
       "date": "2025-12-09T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -130,8 +140,8 @@
       "match": "Kol Dam"
     },
     {
-      "title": "All Major Dams in Himachal Within Safe Operational Limits, Confirms SDMA - Deccan Chronicle",
-      "source": "Deccan Chronicle",
+      "title": "All Major Dams in Himachal Within Safe Operational Limits, Confirms SDMA - deccanchronicle.com",
+      "source": "deccanchronicle.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWU5XbGttRTdVcmZ5X0UwYkNrSjBxNTJPVkFfVnpyUl9QNzFRcjlhTW5acHFrdXJQWDlmakxhWkFUWERFZk4tWTFURzZ2TF9Db2RpQlJMV0FFV3dIQlh2U1JMZmZyZ2VuRlhVT2FfQ0ljOHR1NUNpLWFHdnlVeXRmWXl0d3hGRkl4SzVWdmV1OFY4Nk5uY1l0c0RvTGtRWnJnNGNTMEtkRVVNR00zS3pRU2NZbzBFYUXSAbwBQVVfeXFMUDVqNmktSGRWT2FPMmZtQjlqb3lsWVQ3VUZKdmRrQmVsbm9MTG9EUzV5b3B0YjhvRFE0cVdneTdBanV5MDhiZEFwbEJtbk9UM0RvMmhLeFRCY1pPT21lMmY2UVJLTjYtVHBOa2JpNEFXY0dWem4wS0JkWDlmTmpKcFFZbzYyaEo0RGdHWGhKTkQydFROUTU0R1pQY2VqY1RrY1hmZldkOEgwLXRmYnlHMUV6Y252dUdXaWg4WkI?oc=5",
       "date": "2025-07-31T07:00:00.000Z",
@@ -190,24 +200,14 @@
       "match": "Kol Dam"
     },
     {
-      "title": "Himachal Weather: हिमाचल के 10 जिलों में आज भारी बारिश का अलर्ट, कोलडैम से पानी छोड़ने की चेतावनी; 2000 टूरिस्ट फंसे - Zee News",
-      "source": "Zee News",
+      "title": "सतलुज नदी में बुरी तरह फंस गए थे 2 बच्चे, डैम मैनेजमेंट और गांववालों ने बचाई जान - India TV Hindi",
+      "source": "India TV Hindi",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUkYza29kalloZWhJV29kbGRxcVY1Rmk3TnBQcWtpT28tQWRnb1kxZTBQOEQxT1BUQTV6RjRSTG5XQmxpT3FJc05DYUtabFVlSWVIUDM2NERFNDVZTXpOVjhZVmdUaXlzWER1MXJOT3NTTkdSZ1dkVk5MdDlfWnFYdndMeWRDdkRnZU9XeHFMazFsNVNVZGFTbC1zbXhBWnNUNjJ1V3Jla28tV1FJdTA2X0lLZmdTNzVCMXVjZXhpUFp6MGMwQzhrTVRSUWZleGpUSjhva0p2cXZxOWNXWG1tQ3JyYVN1LXBoMzhrb3RGdFU5QjdZZmJEUHdJUnR6ZlVrdDBn0gGIAkFVX3lxTE5peG05QVRZc0ZVaS1jT1BydkE5ZzVOMEdsc0dIZmM1SF9DelZuUnBoQlZwYmxZNEUyUlkxX3JwdDVLNE9KcXRPMWM5WU1lZkNwdms4cGdPdmJXWDFHYlg2M21GWTh6T0FnZ2lRSWl0c3VRQ2JmbzdLa3ZRNGZ2alN0NXRJTmJMbDFEQm5teHYxaVdtUzFBNFNNOTFSQjlLajFFeEZMNy1LSXpEVXB1RHl0VEo2MXA0ZnJiMVgyRmUzQ1IyTmZpcjl1cXhEMzB2dV9NeGFWUnZfMi1CSGdFbkZKRnkxNjNVTHRlQzh0UlRZbDFCbndGR2RacWZpOTlFbnZtWFY5NXlXMg?oc=5",
-      "date": "2025-06-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
-    },
-    {
-      "title": "सूखी पड़ी थी सतलुज नदी, खेल रहे थे बच्‍चे, सायरन बजाकर डैम से छोड़ दिया पानी और हो गया करोड़ों का नुकसान - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdHpDY2w1MERTRENab28zWG5sR2VqdTQ1SENWNVB3OEdDZlBYYjFHNEdoaEMzWTVvWXNxYVlUMlZ0ajFyc3BtOERnejhEdFNKa1V6TWVnc0duYlNydnF0OFRibVVnRTRmUExSVGVKRWFQUmpKbTBGT0FUQ082Y2o1ck5kd3hVUm5Td2s2M2lJOFRSSDdjNjlraWVzMnJQOEFNQ1cwTDFja3hPV2diSEtMekNxVDdZYnlLT3lqWUliQmxLTGs0RE00WWVTUExmYzE1cjJKZnlyaEhBOVRBTUJwdEIteENDRmJVREJtTmJzU2RnakE3OXRlN0lBcTLSAYICQVVfeXFMT00zb3cwSlN3QmtzZnFpdVBodGtqLWVTcjlZcHNORHJlQXFnRWJSbFJHVnBONEJfeUxGc0hhS2JfRlM3Mm0zTG1PR3lzbHROWlI1bmZfalhfQzJLdUwweUNmUkttWFNJM1I0M2xEOEhQVTlmM2k3eC1fYjREMi1mTDVYOTBOTXI0bTZFUVE3SURFMGZ4UTFBRkxrOTlJV2RtRlZHLV9yQmJIb2ZWX3VJNW9XTFFoNFNYalUzUHpqam1vdWJmdkFQcFBDc3dFN1ZzaVBFVWN4RlZRMEFRNy1nTUd1U3VRcjg4UnE4Z0NqQUN4NUx2eF8ySVNoazFrbFQ3UXdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV09VUFFfdG5GT0NBMDNwM01Jek1MbkxBS0x0WGVfU1JLVzVCdHNkWnhXUWQwb0pjZ2ZZY1l1OFQ0WmdGT3pnQXVNdlZnRkpwWjZqZEdsX1l0dHM4cXNOU0UtT3FZM1g2RGJuU0JRN1FQU3VWSVpZREVPVDVJV1d5SHRNX1l4Q3JoSk9nMC16cXctZDBpVWNhencxRFFOM2ZuNVdWaVg4SnBOTV9QT2gyVk51ZlVTd0lHV3RESE44cFR5dFY5Sl9qSFNPWlNuUVhjY0s5VDFOT0NxTlBjR0tmWmJrMGFUTUhGLWdhZ2I4Ulc4T2FpeGfSAfsBQVVfeXFMT3lTakl2UEpyVm4yWm9nMzNOQUZncWZwd0JaVjhqTFpYRnZVTUtEYUNxUmJaSnJCTDNpNEVkVDFLdnZFTHpJR3RBcVNJVl9KaXBUbE0zWW84QzZRa1JtU21DRHZmeEg5Nnk5QWZYUS1XNkhGRUphcElSTDgtMjhPZFM4ZG8xY1hIRzNhVFlHOWtlZnlITzJUQVYya2pfcTdiVFl2NGltdEN5ME5lVUREakI3MmFTTVFRN1JWNV9aMVFtV1lWa0V4MXpqQktFZ1JTV0NLamhxMWpycmZBR2oxWEphMEpmNmVxdFRaN3M0bUVyUDN3WE92YkI5UDg?oc=5",
       "date": "2025-05-16T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Koldam"
+      "match": "NTPC Koldam"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

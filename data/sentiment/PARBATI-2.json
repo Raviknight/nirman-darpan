@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-21T22:24:10.603Z",
+  "updated_at": "2026-09-24T21:56:00.243Z",
   "project_id": "PARBATI-2",
   "press": {
-    "n": 12,
-    "positive": 8,
-    "neutral": 4,
+    "n": 5,
+    "positive": 4,
+    "neutral": 1,
     "concern": 0,
-    "avg_score": 0.233,
-    "avg_magnitude": 0.275
+    "avg_score": 0.3,
+    "avg_magnitude": 0.4
   },
   "youtube": {
     "n": 4,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.3
   },
   "overall": {
-    "n": 16,
-    "positive": 10,
-    "neutral": 5,
+    "n": 9,
+    "positive": 6,
+    "neutral": 2,
     "concern": 1,
-    "avg_score": 0.213,
-    "avg_magnitude": 0.281
+    "avg_score": 0.233,
+    "avg_magnitude": 0.356
   },
   "top_positive": [
     {
@@ -33,15 +33,15 @@
       "score": 0.5
     },
     {
-      "source": "press",
-      "title": "हरतालिका तीज कथा: हरतालिका तीज की पूजा के समय जरूर सुनें माता पार्वती की यह कथा, जानें कैसे मिला शिव जी का साथ - Amar Ujala",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOanZPZjFvay1iMW9DTjVGUjRqaXlpZ1kzRElEOUtLNjl1Z0lRTi16YURTWGE2VXEySExRd1NvalRPYXUwVGczLUVqcEUwWUJEczBqMlM5MXg3YncxcHJ0cjdDV1BacllzYUcyV0YzenJlVFdEbnZ3SEFKeVU2d2owSXJQM3FuZGk0N2x0WFJwa3pXRGlmbUppQWFwbmVmTzNGcU9OX0F0cGV6S3pnVWVOSTJiSTNwQ0dTTHJtYWt3V2UzeDlqaHJKaU5LaDJFaU82RnpkSTFzNnR0YnczZG5qcnRWa9IB6AFBVV95cUxOZHJ1enpWTG55MFhKQ2h2WDZUTDUzRWhUVFZUOGN2ZERkSVBQck1sUGNXT0RoWmVMSUZ3cXRRek1xY05KcTVnaEVrUXdxdXItdTc1T0ZOSjFaeVJiNTNSakFGcnozMmFhRktabkV1R2Z1X1RJQmNfSVB0UnpOY3NuRTZDdkd0QzVJbHI3LVJfQXZBcnJmaUlVOHVCUVFDc3lFLXZ0NS1MRU1QWjFkRlkyM29lWFFRYm8zdTZDZWU0bkVZUklqQWNQV1M0QmN5NExhaFBWOEktUDZ4WWlhblBjLTJ2M0NHSGZI?oc=5",
-      "score": 0.5
-    },
-    {
       "source": "youtube",
       "title": "Jai Shri Ram Jai Modiji 🎉❤",
       "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "Prayagraj News: भगवान शिव-पार्वती की स्तुति कर मांगा अखंड सौभाग्य - Hindustan",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN25nTVhFYjFBSUhxeTJNelhFQkNna2NSMFA3UGNtb3RWMFFmZHVQbHo2WnIxMUZmNXZlcWRKOTBUVlNMZFg4NFU5U2dHd2taXzl6cW1fTnNwdnk2NkJ5S09nZTBnSVNZWWo1eTQyMzlwZTdrX0xqbFRSMXpuTmpvZFVRWnBfMmFIaENjVjBjdnljNHVaOXRJeUEtNmI4LVRWLUNZb0otNVBOR2F3Tm04NDFNSTRadGRFS3dOeUVSdi1xZXRwcEc5Tmc0bUN4SWtOSjdyUjd0eXXSAd4BQVVfeXFMTkxzT0VKUkptQ1BqS1BKN0FxRjREeDgzYjRXVV9mTF9mNXA2bXRMd0JtX0dfZng5NlZaM1gxWEgyZkJub2FTWjlITHV2V3hxcDVXOFpkNUYzdXhzcFlNWXMzSlNEYTEwRmp5T0tWaDhYZUxLUFd1WGs4dGZTUmtNQm03MDVNM1RxTzZ1NEhNQjd1cVQzNEEtNHduR05CWHZqOWZTWGd0WWNyX25yOV9ueVBLNmZaeHlTRTl4YWk2b2xtbUxzM3RVbTlra1VlZHBtMk1qQXF2THRfQTJpektB?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
@@ -57,8 +57,8 @@
     },
     {
       "source": "press",
-      "title": "Hartalika Teej 2026 Shayari: 'शिव-पार्वती जैसी बनी रहे जोड़ी...', हरतालिका तीज पर पति और सहेलियों को भेजें ये शानदार शायरी-संदेश - Navbharat Times",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQYjRoMUFYdkhOU0k0dU5TQ0NHYWhVeDZXZlp1ZVc0NVI2bldrT3ZwTHZOOGZnQ2Y5c20yNmNVRjZSSG1jcDJyb1dPbEFhVTZrb1hzS1luQXdPQXVJY2VYY2RBZndlcTBNTTNzRFpKQmxqaUF0YmFyQzBjcHMxUzQ0UjNIUGU5ODE3ZzFsWGJUZjhlZy12d0dIdFZyYWxDRUlYejB4QXRtR1RjZV84QTdFVzJSYTBUNHJqXzZJY1pPbTBCYzlvN2JLNDR0Ti1CNFZXb1h5SUw5bUkzbUJ6VzNRcFNPS0o5MUVyczdGVDIySG1xNUFNemw3MFI2eGgyTWswcTY5cFJzdjFqSlNBZWpacWRQSGdvMHVlbFpqNWlfSldHN0JsaWNtcGV2OGhFaE56NDZZSGNn0gG7AkFVX3lxTE5HRlJzUnpkaDBzdi1YVDlMX0RlaVJBcENTNjEtVXFDc3diaEI3eHZ1RWgybHllRU9BYUVKdUhxZURuYS03aEhpSnZ2MFhfY3BJaWs3UUNsTk55V0ZobWw4WF81Z0J2akVreGYxMm9sVzVoZkZPVThySkZvS2h5YWllaXNFY0hHWUtWWjAtYy1KYWJCeDJQWDcwaE0tb2F0WGZtaW5hTWsxMUtJMV9WbmZ1SWZON01ueTZTblZjUHVFYUptdW1JeWtmQU4wNi1sYXo1bEFqX2FjckZWSERtdDBad1hpamRiWUo5aUlwSWVvWkt5RU5GZFBOS0xWaVRVcnlYb0xaR1l5MXp0N3p0R19fZHVUbE1md3pRdDRpZmVFb0VUV0NmSTBuUVNaOHZJRzBUaTdQcWNmMmM2cw?oc=5",
+      "title": "Lakhimpur Kheri News: शिव-पार्वती की आराधना में डूबीं सुहागिनें, रखा निर्जल व्रत - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNRnlSZl9yRlhxSFpydGlManlaNDZLRVNrVDhlQ0lMLUJfNjYzQTRfam1XWU5zVEotWFNiOVh3VTJyR1hISkE1N05maU1yNkZ3NWJiSlN1TFRHdDlVeHhVcTJPcXJEV3pPc1dReXp3enA2WHI5SF9pNThPcGdKU3BKUjd4OHg0aUluUy1jT1RVRFBKTGd1ZVc3M3NpSnZnZ2VqM3V6WlZ3Wkxrc2lMdmlxT2JsdlpKLXNfbFItUzdUV28wTGVISGVpX29ENU5QWjVQSUsxSWpILVYxdm9lZXcwbVBSTXJuNVVCZ0Q1RE93WXVROC10NDdYMXdqSUZHMFJTdnFsVGNwdXVXc1VTcDNwTHRWOWp5bE9EcEJsc9IBogJBVV95cUxQdk5xV0duc1hVYjBCVXBKMWoyUnp3RVRmOTdYX29JaHhXbWZ6dFkzVktYUG9vYVBsTVdoUTRldFNlSUVBUWlVYjRmYnB1bXNjclRtT0FrZnBDbDdmZnpDZUZQTDM3TkxjWGdkd1A4XzM4M19JY2F5cXVKQXg5Vl9IbE9aYnZvSkVzVlZpaDNrVE02VlBqckt3clRCUUliOGhYemp5a3Y0M3V1VTFobU9aQzNsczN2ZU5ScnBhMmRLNzhxd29WbjhTbU0yRmoxeFR3bDUzYmc1bUtxd3JHZkhsaS1TeWs3QkFpTXRzR3BvRnh5d2VOdmFyaDIyLThWTXo5NTV3VXVfLUZhdnZSTDI0WHlobUtNRVZWSHQtcld0eGItUQ?oc=5",
       "score": 0
     }
   ],

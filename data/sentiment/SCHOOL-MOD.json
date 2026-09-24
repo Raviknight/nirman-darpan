@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T22:24:12.247Z",
+  "updated_at": "2026-09-24T21:56:01.371Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 35,
-    "positive": 23,
-    "neutral": 10,
-    "concern": 2,
-    "avg_score": 0.326,
-    "avg_magnitude": 0.654
+    "n": 36,
+    "positive": 25,
+    "neutral": 8,
+    "concern": 3,
+    "avg_score": 0.372,
+    "avg_magnitude": 0.769
   },
   "overall": {
-    "n": 35,
-    "positive": 23,
-    "neutral": 10,
-    "concern": 2,
-    "avg_score": 0.326,
-    "avg_magnitude": 0.654
+    "n": 36,
+    "positive": 25,
+    "neutral": 8,
+    "concern": 3,
+    "avg_score": 0.372,
+    "avg_magnitude": 0.769
   },
   "top_positive": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "Gingers are extremely good for our body immune system. Our kitchen are full of those coz my whole family love it",
+      "title": "It's so satisfying to see you planting vegetables!",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Your insights are truly valuable; thank you for sharing your perspective!",
+      "title": "Gingers are extremely good for our body immune system. Our kitchen are full of those coz my whole family love it",
       "score": 0.9
     }
   ],
@@ -50,13 +50,13 @@
     },
     {
       "source": "youtube",
-      "title": "but why? the one they initially planted looks heavier",
-      "score": -0.2
+      "title": "Sorry you have to work so hard ,God be with you .❤",
+      "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "The buckets for when she can't go back to the toilet until the replanting is completed 😂",
-      "score": -0.1
+      "title": "but why? the one they initially planted looks heavier",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

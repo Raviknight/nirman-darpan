@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-21T22:23:43.902Z",
+  "updated_at": "2026-09-24T21:55:31.855Z",
   "project_id": "PARBATI-2",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "defect",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-09-24T21:55:31.855Z",
+      "title": "Sept. 2026: NHPC’s Parbati-II HEP Tunnel Leakage in Himachal Pradesh - South Asia Network on Dams, Rivers and People",
+      "summary": "Auto-detected from press: \"Sept. 2026: NHPC’s Parbati-II HEP Tunnel Leakage in Himachal Pradesh - South Asia Network on Dams, Rivers and People\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkVKWWV2ZHZLYzJKbllxbzJEcTg5emtBYWpTbm9FblkyNVB1QW5VdE0xOTlyYTRnaVZjXzl5dnZXREdBZURhZnRpa0RRM3JhV2IwV3ZEZkJ5NnhCaWNaMjVrOGR4SWM0bVlVWTFyMldSaXBZTUVUOGNBTGJZUnFvWFdQQVlZZ3lVNlRaTWk1amx4UngtNXBQdF9CNA?oc=5",
+      "source_name": "South Asia Network on Dams, Rivers and People",
+      "lang": "en",
+      "date": "2026-09-23T07:49:37.000Z",
+      "matched_term": "leakage"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

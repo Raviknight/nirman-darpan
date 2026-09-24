@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-09-21T22:22:56.629Z",
+  "updated_at": "2026-09-24T21:54:47.672Z",
   "project_id": "SMART-SHIMLA",
   "counts": {
-    "press": 59,
+    "press": 58,
     "gov": 0,
-    "en": 28,
-    "hi": 31,
-    "total": 59
+    "en": 26,
+    "hi": 32,
+    "total": 58
   },
   "mentions": [
+    {
+      "title": "शिमला: गेयटी थियेटर में बच्चों ने दिखाई कहानी कहने की कला, छोटा शिमला स्कूल के 40 विद्यार्थियों ने लिया हिस्सा - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXp1Znh0Z2p6SG5jLVlwZnRRUHZ0MkJ1Q3lNS3NqQm9WTjFQRVc4ZlBOMEF3V0VpcEtreXRBZGo2TEpZNnpoTHJpOEI0Q1NVcjktUEdJbll6U3RkaE9FTjI1R2dxdkpucHY2V0dUVjhrd2QzdWgySE96RTVPQjNLT1Vvd3lCejBpakF4OTZ1bTRqMzNJZnJHN3hPVjFsd1lhRU8xNW1lWXU4T1pIbklUNXpuMFdnR03SAbwBQVVfeXFMTW40c3RTbUpFdXNLdnRkWUZvem10TXBCRFhKS0RiQnNGaDB4OTI0NkpzVXJzWGJkR0pYWWpwU2drX3Q3Z0VHclFfdXdBbzJ2aTI0RUhjNlZDeE5IQlhZWi1lU0VEU3d0NDB6WXY1eTY0UUpUQjBIMG12bnR1b1hnajNuSnAzRjlraG5hZDdSdnYxVjVXUlowV3ZJMGd5Q3UwV3ZYT0t1NjZWS3F2SlJNT3NLbXFEZXI1OHB1cHQ?oc=5",
+      "date": "2026-09-24T07:44:39.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
+    {
+      "title": "Shimla: 50 सीबीएसई स्कूलों में शिक्षकों के 52 पदों के लिए होगी काऊंसलिंग - Punjab Kesari",
+      "source": "Punjab Kesari",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaktDWnhuR0RTQUx1OUJzc2E2TFFjMmFJQW9TMm56Vmp3Q3Q1SFlfa2JLTWhnN3JGMW0xWDBSRm5DcmN0dTVJSHZfWlA1Q0pZUW9SSUpFZkhSeE9NVlBfM3N3WjZvVUxRQkIwM3FQbnB4ZjFyT2tEVFRmTmZYOVZmenlBQlFfV1lMN0tjc01PUDJNNzljLWRnRmtITGZwQjdXWWfSAaoBQVVfeXFMTkJ0MnNtSHo3LVJkNGo4SlpiOWdtUEtaUkY5SE5YZUhsUUNyUktyYnRIdEx0Sm9EV1NBaU5UZHpRTTk0QXNnQjFST045UmJock5OM2drelE4cVZvU1lxd040WDZOY1hRNF83N0hEckRGcjU5bWFQUFBuUTNSS0Rua0FxR3VrYzRjYUU4eWIzWUhLNGpKU2FUM21TT1JsQmRrTHVjamw5RmlFREE?oc=5",
+      "date": "2026-09-23T11:05:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
     {
       "title": "शिमला स्कूल बस हादसे में घायल छात्र की IGMC में मौत, पिता ने जिगर के टुकड़े का अंगदान का लिया निर्णय; ताकि बच सके कोई जान - shimla accident victim hardik chauhan dies father donates organs - Jagran",
       "source": "Jagran",
@@ -165,26 +185,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTUdfS2FNdWxMT2xxZXhaaHk5eUhvQXBBZGdKS0F0WDdFUEJLZFlFMFpPQkt6cXpYVjRTS29GRzc1TlRjMG5WeG4tbmRpNmNmTjBBb3V5a2VpUDEzTGwwMG5FSHloMV8xVW9CVWxMamVFMGxNYVRMeUN2YlF2aW1lTDNhNXhnWUR2OHgzb2dkdkZaSXRGSUlGZWY0NS1jWVBnRkJvTTc5UzFkMUtsOUVXY3J4eUpHTU9RQTNLdHhDQWkxYkdqTlhFZDI5dEx2UDFEc1ZDbW1B0gHaAUFVX3lxTE9fMm5nQllRWmJKczNUc01vdkpNc0FMcHg5YlpBcHgwc193OWx3aWJncnJ1RG51NFpzR190UTVCc05KQVdOdW1icHo2T0gyVkhqTzQ5WVlOVzNmOXlZdHk5YlByT1JiaDJMT1BJRWNVY3FxdElvdi1oTFRNUUNDcl9XaWgxQnJXUGtwMnd5bFpUVmRlYjR4MkZGUzVzNGw4WWF2MU96V3l6QnVTZmNacDhjWEJUUVJ1UjFnRk1KRXplZ1JMdE14YXlaZVVZc3JtSzBJN2FfRmhDeC13?oc=5",
       "date": "2026-05-04T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
-      "title": "High court seeks report from chief secretary on steps to unclog Shimla traffic - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQelFXT3FwdmJaTFBpRVZBVVdFckpDSnVqT05JUkV5MGRXTVhiUVA5UEJPZWlEclpGendlc2RyREFiM2N5TUg2LWVobTE3TDY2S2ZPMGdhVlR4Rmh3WE5WZXpTUW1ZT2MyREw0R29nMVg0cUtTalFOVXFINXFVdkFweG5ZT2RwXzZrbmNudjZteUJYajh5SXl2bzNwVHB0Y2owMmFMNE84OFVIc21HZlZUMlBFY1E1RXlwZGpxYXdyWkNPRXJGbV9XQ2FZMDQwR3FHSlNXV2t4RDBlU1BLN2xF0gHkAUFVX3lxTFBTT3poaldUSGp3VWJXV1ByUVVCeWQ0djN2MGVqZVhHVUs5ZGdMejRfb0M3cGc3R1JOaG1Mb3Fkd1hBdDZ1dEMwWW9venhwSU5QMDBteDRfUXNqMENTQ3N1eFBsd0NYaHhlcU9TWTVpVjdoQlhCRUNtbFlwWURWcmFQVGVOTWFJVWJ1LVN2ZVlpOTR1ZWlNbXU1UlBmZllHU3dfcVdtcWh6MnBQYWFoQ1FwYU9uT2hYZUo1dVRuNTQxOXFyQmM2Mnp6UHh0Wk53T3hSb1RoU2h6WTRhMzZBbWNhRlhRSA?oc=5",
-      "date": "2025-12-21T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla Smart City project"
-    },
-    {
-      "title": "शिमला के 3 प्रतिष्ठित स्कूलों को बम से उड़ाने की धमकी, पुलिस को सर्च ऑपरेशन में क्या मिला? - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaU1pZm0xeDlvZ0ZDOGRNOWxKdjl0YmNPajJyeE44ZnYxQmFUbFVXbEVwd1Jfdm1XTTJJVUFTc3hwQXVwX1NfRGo2OHVRRjB5SjROSkpjd3VLVzlWWlNtRmdCSk5nTm1Cd0lYbVE5ZWd6RGljMVJtbXhKc2dTZEtPQkRZSUZQak1xeWNHWEIwRVNrUzYwYVdDMjVrU2Nqd3JfZC0yaktURG5IQWVRdUtBS2ZB0gG3AUFVX3lxTFAzMzJITG1rRk1UMC1MampEckNFaWc1YjVNNkI1aDhkTTZvUmRmZ1JzQ2c3TVdDQlJ3enpCTURGNFRwaHFCNldfc2dCcnRvUElsd1VWRnROcUNUWjVld1ZjMm1QZXByLUVCZDFuTHNTTExZLWVTYnZIOUVrZWdHcnB3WGVFdW5jOXB0eGRFWGJadXQyUDRWSGJwNHJaWHlmeGd6NTA4WHBPVE1maEtlZ3o5NklvMzc3cw?oc=5",
-      "date": "2025-07-23T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"

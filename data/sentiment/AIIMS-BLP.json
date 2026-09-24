@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-21T22:24:09.405Z",
+  "updated_at": "2026-09-24T21:55:57.210Z",
   "project_id": "AIIMS-BLP",
   "press": {
-    "n": 14,
-    "positive": 9,
-    "neutral": 4,
+    "n": 9,
+    "positive": 6,
+    "neutral": 2,
     "concern": 1,
-    "avg_score": 0.214,
-    "avg_magnitude": 0.271
+    "avg_score": 0.167,
+    "avg_magnitude": 0.256
   },
   "youtube": {
-    "n": 50,
-    "positive": 38,
+    "n": 32,
+    "positive": 21,
     "neutral": 10,
-    "concern": 2,
-    "avg_score": 0.462,
-    "avg_magnitude": 0.512
+    "concern": 1,
+    "avg_score": 0.372,
+    "avg_magnitude": 0.4
   },
   "overall": {
-    "n": 64,
-    "positive": 47,
-    "neutral": 14,
-    "concern": 3,
-    "avg_score": 0.408,
-    "avg_magnitude": 0.459
+    "n": 41,
+    "positive": 27,
+    "neutral": 12,
+    "concern": 2,
+    "avg_score": 0.327,
+    "avg_magnitude": 0.368
   },
   "top_positive": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "source": "youtube",
-      "title": "the song.....omg it's so nostalgic of 2020 era , every tour had this back ground music......btw the campus is soooo pret",
+      "title": "AIIMS Rishikesh & Bilaspur offers amazing scenic beauty.",
       "score": 0.9
     }
   ],
@@ -56,8 +56,8 @@
     },
     {
       "source": "youtube",
-      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
-      "score": -0.2
+      "title": "Iam  joining ❤as nursing officer in AIIMS Bilaspur",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

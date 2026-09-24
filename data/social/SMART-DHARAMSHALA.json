@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-21T22:23:17.991Z",
+  "updated_at": "2026-09-24T21:55:07.369Z",
   "project_id": "SMART-DHARAMSHALA",
   "counts": {
-    "press": 75,
+    "press": 77,
     "gov": 0,
     "en": 48,
-    "hi": 27,
-    "total": 75
+    "hi": 29,
+    "total": 77
   },
   "mentions": [
     {
@@ -14,7 +14,7 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV2std2I0NFhDY1ljV1Q0Q25kQ3pOZG12U3RjVXUwTVhGWVltc0JSSFV1c3lhNzViNi1QOGQyX3piOGFDa2M1OXlSN2VGX201Wl9GYVlteWZsOUFoU0xOMDg1TU9fUC1lV3hJVzNpNjhteUVMZ3VRdzNOV0xmMW9odU5DSjY5RDZYTmE5TUdzRW5rRllJbGs3aTFXN2pkU0RHYWZfamVfLURhUTJEelEwTGY4MjktbFo4bmRQN2NLX254dmZpRXlqallVU3IzcWNkdFB6U2RvdUd2aUxjZktrbUcycDl2NzNpcHNMM09Wek1seDRGWUxObEZiWGwyUlppcC1V0gGIAkFVX3lxTE9KRVZXbG5GUDNPMktQaXRWVUJrTHhlU1lBVTdMNHhnRXN2X0dESWY5d0RxMnZnSTFGejFOU2cyTE12WlgwdjR0OWtSak5mTWtwX2k5NE5pUDh6OUhTMldNbDNjTUlwcVhPVUpsUE1vMHNlMURSMVZHOFBpUVdXOHBtNlAtT2dyYmJYYmQxQ1NSZmxTSXV6ZHdfSkJzYzBXSnhJVXVOVWJKSXBYX3RQeXM5LThJZmp0RmN5a0V2OXBVb0FHU0d0UXZKZ1lfRFZ6b1FKaExwaU5LUGp6SE5uSEVheXFqYlFJSlpiN0tUaU1VSTZ1SWRta3RGN2RGOFVlbWlDRlk0X3pYMw?oc=5",
-      "date": "2026-09-10T11:50:50.000Z",
+      "date": "2026-09-10T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Dharamsala ICCC"
@@ -40,8 +40,8 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "स्मार्ट सिटी धर्मशाला में फव्वारा चौक का नया अंदाज - Divya Himachal",
-      "source": "Divya Himachal",
+      "title": "स्मार्ट सिटी धर्मशाला में फव्वारा चौक का नया अंदाज - divyahimachal.com",
+      "source": "divyahimachal.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRjFfSjJQYTlGVHl2NXJPUjNna05LX201NDRSMU5UVlZxdmRwWDQ0QW5hQmNqd2JGZkVOTjhvdVV1Ykh0eDlEQ180Xzlmd3V2ZHfSAZ8BQVVfeXFMUFdZR3pxNV9jOHBtZms1Y0dnYzFKOUJmYXo1QXhILWVRMldMZVl1WWZOWnA3RUhMREZKUGp0eUZCbno2WFhiQVpxQmw3ckxWWEYtcG11cXQ4ckRsTjhiNDhPSDZMeTN0WDlzbTdsbW5YYi1HTVBoMUhETjRURVY5X1ZrYzlXcjhYVDVFSVVQVTc4OGRZSUdOb1ZEemxwVG9r?oc=5",
       "date": "2026-06-18T07:00:00.000Z",
@@ -100,8 +100,8 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "Dripping Springs library celebrates four decades of community - Community Impact Newspaper",
-      "source": "Community Impact Newspaper",
+      "title": "Dripping Springs library celebrates four decades of community - Community Impact",
+      "source": "Community Impact",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclpKclpQWmdQRm1ObTB1ZXdRR3FOenZSTVVrelpaZEVSUlEyX1FHUmxKVlNVdVVFTDkzb0wycWJoMUF1VEdzUmtzeGJubFlqMVl4QU41a2kxX2N4M2RVenppdFFGV2RjbTJ1ZEpzTlBoWWk4cDhERzI1TzQxbEhVdmtMVWxVQUlJbmgtM0pFR25zTWtGblU1OTdESng4WlMxSlRfaF9qSHk2RExrby14QUVrUFo5ajRqcUdjRm1JVEN4MGFIZ1djLTl1MHNHQQ?oc=5",
       "date": "2026-05-20T07:00:00.000Z",
@@ -110,8 +110,18 @@
       "match": "DSCL"
     },
     {
-      "title": "Dripping Springs Community Library hits the road - Community Impact Newspaper",
-      "source": "Community Impact Newspaper",
+      "title": "Ribbon cut on Dripping Springs Library of Wheels - haysfreepress.com",
+      "source": "haysfreepress.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1I3cGk1TVhnQmhpaDNhbVF2TXZnUTNiN1hoQ01ma0lzVm1WSzF1ZjFreHRWdmQ4WUptOGFpM1RLVk41Nmcyc2hvUzV3YmNLakRyVXI4cS1LNU85b1ZNUGxsclF1Wk42eDB1Z3F0X3BnemZuUFMxWVJHeGxSQUZxcGFoek1kb08tQS0tUi1FRFN1a0dmaVcw?oc=5",
+      "date": "2026-04-29T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
+    },
+    {
+      "title": "Dripping Springs Community Library hits the road - Community Impact",
+      "source": "Community Impact",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BxMVFOMlJQRzlYOGJ0dk5CaDk5NGEzQ3pSQ3V6enpmdnJ2eGJrdXBwNG9sV3VhdFA4WVFsQW9KbkdORUowcU1oaDZqcmZhT3VUZ1pNX0V4dW0yN1dXeENtTDFGZjg3QnVSQ05MSmFaS1I2Zlp5clBhREhrbTdpSzIyNGhYMXU0SzE3SWtxREkweUNNVjNVbEhRb3F4MXFQcGFTYjg1MFV4SlNMa05OUTNuMC04T2VHYkdSVDNB?oc=5",
       "date": "2026-04-24T07:00:00.000Z",
@@ -150,8 +160,8 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "Dripping Springs Community Library raises funds for new mobile library - Community Impact Newspaper",
-      "source": "Community Impact Newspaper",
+      "title": "Dripping Springs Community Library raises funds for new mobile library - Community Impact",
+      "source": "Community Impact",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUGN5U0YyaXJ4QW4wMUFJWTA0Ylg3T3hfWUM1Qlk4T0tyZTdKbWdhSlhRWDhiOVhncmNGbDliLXAyUVpwUVV2dXNyZXRVNjRwak44OHBTeHdWelZ6X0FxNXV0M2FzeGFNajh5c0pfUVpWXzV3R19KSm9zYVZBM0xrelF1d0tpNlZsMWk4ZVJEMEpGWWhlTmp2dURHX3VSVEx4SjNMdU1iN0pMclJUNWlOUUROUXhFWjdhcEpFWG9VaVBJWElRZ3dveWZmT3diNkplUm5OdnlObXlMR1B4MVE?oc=5",
       "date": "2025-11-25T08:00:00.000Z",
@@ -160,8 +170,8 @@
       "match": "DSCL"
     },
     {
-      "title": "धर्मशाला को 25 करोड़ का समृद्धि भवन देगी सुक्खू सरकार, इस विधानसभा सत्र के दौरान CM करेंगे शुभारंभ - Divya Himachal",
-      "source": "Divya Himachal",
+      "title": "धर्मशाला को 25 करोड़ का समृद्धि भवन देगी सुक्खू सरकार, इस विधानसभा सत्र के दौरान CM करेंगे शुभारंभ - divyahimachal.com",
+      "source": "divyahimachal.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMlloSXV5cGdKaF9rLWZlbXQ2SmtXS2Q4RDhOLVFuZTA1Z19RUmpFbGhQMG00cmZuNkNYMHlGY0NnWUp6SV9JMTlLVk80UkJLSndFOFR5SlF2OVdWaUpZbmt2R2Y2Uk04MTc3VG43b1Jkdk56ZmJGYmVMNWEzX2k5Tnk3MjNOUU9lNjYyX1J2SVNrX0RmQU1QWjNSX3YybTJReDJ2Y3ZMSllmd08tbXV6WDFOajBXby1pYVJNOE5fdzRqbGhUclVhSEpwUHZNbHhUM3doNDMyYmFGd2FtWldiUTdNdW1UNzhkMkdwbENHRzYxdzRRcENMNGkzb1nSAYICQVVfeXFMTTJ5ZVByNUJGRFRtaDZYWng5LTZ2UXRHMEp2RWpGSTRkOFdaS0lIWGRLSFROLWRaTnRUVVRacDhVOGc2U3Bkc2htb29PakdOSG0wSENHUTJNTkhRSWtRUVphaXZOa18tQ3A4TGJudk9Fc00xZFFQbTVUNmpCZTJZRGNPNTdJQl9qZWNibmFtNWZnMUdWYTJRcUVwVHdlcXRUeFBzMEtlTkRHQTlLTHZwTHMzZk9XdU1lb3pETXlGaGV4QU5fMGozOWM4dHdGcXV5NXlfVFh2N3BDUG13U185UlVOaFRPQ3lmYmZ0dFNIeU5hRFAyY242M0NnUExmODVvaFVB?oc=5",
       "date": "2025-11-10T08:00:00.000Z",
@@ -180,10 +190,10 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "Ethanol boost: Davangere Sugar charts ambitious expansion amid India’s biofuel push - ChiniMandi",
-      "source": "ChiniMandi",
+      "title": "Davangere Sugar Charts Ambitious Expansion Amid India's Biofuel Push - ANI News",
+      "source": "ANI News",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdkxHS0hNMS1wZVJva2VLUHhKVDh6VXpyU1NvbUx3cl9HTmxaX3NvZE9Eb0xtWTRVc2xfRlZzT3Q0NnJ6SlBoT3BydVpySnJaZ2tXRUwxWmtib0ZxcGVaSXBuMG1BamVWNWc1NENkX3BINDlmQzgxMmdSQXB4eGlzZGFMSlRGcUppelhCdk9uUURyd3pzZDdTa1VYSjJRclgxNzh4VmdUdjV4ZVJfc2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEQ4RkJZT2sybWhYdDc5YWJjUVlsbzhTSl9EdXdvQ0RfTEtJWmJ0YWJVVmVlLTBiMVJJR3E0ZWN1aW1aV0RsNkNaN2NjMWlJSlg3dnRTZ25qSTZsMzdJRHVvdFpMd2wwaWQzS0QxejJWZm5BdTVzS183bzIxWnQ0SkN1MTBPUjR0V2dqenZxQkNERHIwQmVhYlVRUnVwelY0bFBrcFVVNDRjTHB0VUJldmtBcmdUQmNMMXc?oc=5",
       "date": "2025-09-01T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -197,16 +207,6 @@
       "date": "2025-08-31T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "DSCL"
-    },
-    {
-      "title": "₹5 से कम के इस पेनी स्टॉक ने जुटाए ₹149 करोड़, एथनॉल बिजनेस बढ़ाने की तैयारी; शेयर भर रहे उड़ान - Money9live",
-      "source": "Money9live",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZkNueGVqREI2c04xZm9jTk1CUTZMVWtCUEdhSDJvR3p5TEtxcC1UYlF0YnZaeEtQVWJnTFNzSTg1b0hOUHZrRWNBeEV1dFF5cEI2Tmk2VE5SRnV5QUZvMlBLM2xFSjdSYXpSb1FlemhSNnJRZF9ockxGOTFEOEpERzZJOUNaU0x5T2htal9nNG5CSUpUdW1VX195bnVYZkNGOGs0VG0tR1ZZTlFySy1IMG4xNVJYTklfcVo2U0gxeFh5UdIBxwFBVV95cUxOSVZ6R3YxazBjVFhkdmpPQjQ3ZXBlTmh2c1NUWlJ6bXkxOXJjaDdXRVBrMTJQQ2c1SFRxTHhPT2I1cXAtRmZVNURsRGlsNTEtZHhQb3VpSFVFdGhYdWVTWDFLU2RTbVEzTEVNRXJCU1VzWnBqRzM0NFFQYVZGZ3RMcjFLdGRZNUJCSlREWkZNMjhySmpyZDlmLS1CMUFOejhxNTJOdWI2T1ZnLVRqUmZja0JMWGNtMjdxcENnYzZEWW5NMWVXX3hR?oc=5",
-      "date": "2025-08-31T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "DSCL"
     }
   ],

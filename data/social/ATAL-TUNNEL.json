@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-09-21T22:22:46.814Z",
+  "updated_at": "2026-09-24T21:54:37.763Z",
   "project_id": "ATAL-TUNNEL",
   "counts": {
-    "press": 403,
+    "press": 405,
     "gov": 0,
     "en": 201,
-    "hi": 202,
-    "total": 403
+    "hi": 204,
+    "total": 405
   },
   "mentions": [
+    {
+      "title": "12 घंटे में पूरा हुआ 33 घंटे का सफर, एक्सप्रेसवे-टनल और वंदे भारत ने कैसे बदली देश की तस्वीर? - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRjh3Nml0VW44YVN6ZDVMTFdDQkkyYlB1TERpbEZibjZFWGpVd09GclBxaFNjUkN6UWpKS29aeWs4Ykcyd0JJNmUxaXloc0FIRHZCTEhtemRzNC1pQWNkQjdhNVEzUEo2V3NJR0Q0Z3kzSVg4SkFnQ0ozMXdKN2lDYXZLUlVTWnZ6N3RaekZ3RTNIWXFFeGd5SG1ILUdRVE85Q0tFeDBQZ25NQzRNR2Z2b0lsaW9WOUJPMWpZMGd2LXN1QVJqZmJUXzB2YnZPbjVSSUc1dDNzMDhPV0ZHc3ZpcDg0OHhjejQ?oc=5",
+      "date": "2026-09-24T14:45:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "हिमाचल: राष्ट्रपति द्रौपदी मुर्मू 6 अक्तूबर को आएंगी हिमाचल, अटल टनल भी जाएंगी - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOby1VR09rcjBSMWRmV0dqZ29BZVZWZEotb21ncy1HOVBvUm9pVVlUR05OZmhEbzAtWGZRT1FPMHFoVU8zaXJxRDE0UlN1MG1fdVVIcF9NSE93MnVqX2FrMkR4ZUR5YjJKTUdoSWgtU3JSYklzdGZEUXhYWWhrZTBidEZESlM4NG5fWFdualNRbEVNWGlaZTM0TGpoNW8yV0EybkZfMEwxVmxnbjZ4SWhDSEcxTUVLZC03QndrbGFEUXdMY3JvSFpINXFkaHJteXpJc1HSAdcBQVVfeXFMT1VHMVEzcDZOcms3c2tGN0Q2ajM2REJ2b3BpUUhUUnFaX045cmNvSHZlUFlYN3BHaFpKbFlxeG9QaUVsN1FkMGhGNERMZmxSeWcwSktxckhjQlFtTnNELWthWTljMDA0U2pPcVR0WVZ5elhiTWcwVmlVVW43WXQ5V3hXb0lxSUF1RnZmRk9vR3pPRFVVblBHdHQzcmM5NjUxRVRVdUJsMkpzcjIzdDFOZUpLbUJLX3NVTTMxVXBmYUFNM3dIdDdiNGgtUExxQnRvZWN6RU81cWM?oc=5",
+      "date": "2026-09-23T23:45:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Atal Tunnel"
+    },
     {
       "title": "हिमाचल में अटल टनल घूमने निकले पर्यटकों की कार खाई में गिरी, 2 लोगों की मौत; तीन की हालत गंभीर - Jagran",
       "source": "Jagran",
@@ -30,18 +50,8 @@
       "match": "Rohtang Tunnel"
     },
     {
-      "title": "Jai Ram Thakur recalls Vajpayee’s role in Rohtang Tunnel and roads - The News Mill",
-      "source": "The News Mill",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHV1WGVEVEFaaDJmQk1SY2djamhRVVotUHVic1JrODEwZTNTNW1qMnR5NjVHOEpoQzY2SDBzWXVFVVVoS2ZTeTVqdTV4Z1paM2I1ZHhUZlpjSlhpd1p5cXc0dTh0QUFOQWIwZGxSdndmRURzRzgxeUthYjNleE5sSEpsMzdEckpUTFFuZTFfcTJTWkFzZHZFOEtlb0ExUm8?oc=5",
-      "date": "2026-08-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Rohtang Tunnel"
-    },
-    {
-      "title": "From Atal to Zoji La: India’s tunnel revolution post 2014 leaves UPA era behind; Transformed Himalayan infrastructure - organiser.org",
-      "source": "organiser.org",
+      "title": "From Atal to Zoji La: India’s tunnel revolution post 2014 leaves UPA era behind; Transformed Himalayan infrastructure - Organiser",
+      "source": "Organiser",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTlJQVVdDUkl3ZmNremhXNTdIS0xPR1FCSVE1Sm9Hcm8wSjhjdndsU0xPNm12bnhQWjJWcldfZU1pSGFwb0J4NkFENFliVUhOMVBFczFhNDdDbnlEb29qYzdTNWc3R25QREljY0F0QmE1Ukd5N2FsUGNMMUxZdE8xRG5pSjFrWTJCNHdNT2NWMHpSd3ZOREduNzQyaTRWTFJDZmQxZzNsWVdqSXRBenp5Rnp1VGk1a2piUFRhWkRRWk04MzQ1YlpYTGZEZlVMMmV4QTdGY3JXd0dNUHhXUDNfWmJDcUJDZGEybnZfUWgxV0piUHpu0gH6AUFVX3lxTE90SWdVWnRZc21xaDR5b3dOUVRLakhaaS1Wc3ktcVZWdlhFWGY4WXh4QXpuc0g1aVVvZVJfX0FOQkU3b1lLeThUTmlWTDdHekd0MmoyeXNPVmx4QVVFTjA1Uk9ySDM5d1dhb3ZRRlBjTUg0SEtld1VWWm1fXzZwdGVXUTJyQ1JEdWJmeUotQjVQbTZEVnQ4NzJucmtrQlZYSmtNT1BjQWpJSUd2cWxSRUl3NVFwQ1RmNUJoN2hWSTFWalhRaThub1lZUzVoeXRlanV5aUdqY0JQLWloSUlDME01TlpmZ0pYSjJPeFRBMTJjNFNVUVhUeUVmX0E?oc=5",
       "date": "2026-07-30T07:00:00.000Z",
@@ -100,16 +110,6 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "10 riders, 2 motorcycles, 1 record bid inside Atal Tunnel - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYV9qNFk0S0tHWnkwZTBDbVdxWW1zd3NPUWx6WThXZUwtMm5TMUdocEJ4dzdab3ZWSDdCYnZZNGtIUXh2TjR0am5sWWprOUNmWW05ZXJ6Tk54T3IzRWJWZDhOTXhaVXEya3pDWU1FYXp4UlU2ZmF2cnBNSDRmUWkteS1ZWDBXb2J1bzhuRGhmbk0teXdXTmpfcTNybmwyRWNk0gGkAUFVX3lxTE4xMWIteU9SUGwtVTB3N1RsZ0hpR1NMNnlwWnQtRXg2cjRvcTJON1E3bFpOWE1iazlzY0szaWIxRS1uTkJLT2dkX1lhbF9NdVMtX2xHZWVidlljVjJadTA1UXZzV01SZDcwdXo2RzNDRjFzdTlSeWV6aVQta3ByM0xCbDVBaHR1aGEyREptNHlpaFFWb2xQeU5maGpIckIzMm5HZEI5?oc=5",
-      "date": "2026-07-03T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
       "title": "सोनमर्ग अटल टनल के पास CRPF की गाड़ी पलटी, हादसे में 6 जवान घायल - ABP News",
       "source": "ABP News",
       "source_id": "google-news-hi",
@@ -130,8 +130,8 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "Corps of Signals Dare Devils Attempt New World Record at Atal Tunnel During 'Wheels of Valour: Sanchar Shakti' Expedition - pib.gov.in",
-      "source": "pib.gov.in",
+      "title": "Corps of Signals Dare Devils Attempt New World Record at Atal Tunnel During 'Wheels of Valour: Sanchar Shakti' Expedition - PIB",
+      "source": "PIB",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52Y05FTEp5cjFxS2U3Y2RUdzBlcURwN0puSTBMa1JtYmpnN3VleDR2RFBnb1QxTUstSUdkWE91ZHRLcHlBdUlrektsNm1yX0pBeDh0RFFITjJPYy1PZnNsb092RmR0VjZzb3ZnY004SDJZU0FkZEpiOTVFRQ?oc=5",
       "date": "2026-07-02T07:00:00.000Z",
@@ -143,7 +143,7 @@
       "title": "One Tourist Killed, Three Injured After Car Crashes Near Atal Tunnel In Himachal - News18",
       "source": "News18",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjlOeE9QT1lZN3F4a0oyaFNyR1lxaW5LR01xN2hOZnljblpsY0dzNG90TElXWjE4OE1aZkowaHhTaWtIY2Zidmh0eUlHTW56TmUta3ZjTHRfU2hBc2h2UHB1WUZRY3gzVWplNHo1ell5YWlseEFqcFltVU1vdGlXWHRISG8tYXVVRGhXQ0MtbjhxajRFbWtIc2NKWFRCNnR5TU9TMGVxWkllX0ZkUEhMZ3kwNklzOFo2dFhEbzZsSkk5dGdIWWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjlOeE9QT1lZN3F4a0oyaFNyR1lxaW5LR01xN2hOZnljblpsY0dzNG90TElXWjE4OE1aZkowaHhTaWtIY2Zidmh0eUlHTW56TmUta3ZjTHRfU2hBc2h2UHB1WUZRY3gzVWplNHo1ell5YWlseEFqcFltVU1vdGlXWHRISG8tYXVVRGhXQ0MtbjhxajRFbWtIc2NKWFRCNnR5TU9TMGVxWkllX0ZkUEhMZ3kwNklzOFo2dFhEbzZsSkk5dGdIWWfSAcsBQVVfeXFMUGVrc21HUTFLRE9YU2JQVXZYN2lVWFZJOXE2Zm1BeWt2aUl2Z3M5bWowRlJRUlhZaWNmOHNMSWMyaE1zR2I2ZXlHYzkwdENiWmhYVGtZLXVuMWZUT1poRDZlNGZZbE9QYWZ3RlN3dXlMazRHZUI5N2dwVXhvWi1BUlBtRm8wMkFBeUhIdHB0c3lnZlhGVkp6bDB5Z0lYT3dHR3pEZGx6aXZMVU83LUg4N0tfNVVWT2Q3d2VPSlp4N25aZnJiVVZCVExEVUk?oc=5",
       "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",

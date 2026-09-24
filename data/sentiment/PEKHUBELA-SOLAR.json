@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-21T22:24:12.283Z",
+  "updated_at": "2026-09-24T21:56:01.490Z",
   "project_id": "PEKHUBELA-SOLAR",
   "press": {
     "n": 20,
-    "positive": 9,
-    "neutral": 9,
+    "positive": 8,
+    "neutral": 10,
     "concern": 2,
-    "avg_score": 0.11,
-    "avg_magnitude": 0.25
+    "avg_score": 0.1,
+    "avg_magnitude": 0.23
   },
   "youtube": {
     "n": 5,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 25,
-    "positive": 14,
-    "neutral": 9,
+    "positive": 13,
+    "neutral": 10,
     "concern": 2,
-    "avg_score": 0.188,
-    "avg_magnitude": 0.3
+    "avg_score": 0.18,
+    "avg_magnitude": 0.284
   },
   "top_positive": [
     {
@@ -58,9 +58,9 @@
     },
     {
       "source": "press",
-      "title": "Himachal Pradesh Tenders 9 MW Solar Project with 6.3 MWh Battery Storage - Mercomindia.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmdlTEIxdTg3cVRQMlFMMjQyRm05bnJCUHFFZjNnYUZENl9PSUhfcXRHaldxNFh2V1RfZXFUTUo0R0xrcjZhSnYwMDNDX1VBMVhFNkZuU0wwU1UzTFl6dVVnSFFUbENITFd3Yl9ES0wtVFE5RE9iOXpCU3R2bk9IWlRRa213RjJmM1JjZkNySHVkWTloSlpRai1GdEg?oc=5",
-      "score": -0.1
+      "title": "32 MW solar plant in Una to be operational in 2 months: Himachal CM - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa09pMGJsMGVtRXBhamx4Yk00SXdKazBjLXh6UWMzVGduSEt5UVRXRWVpNExCVzdlMUo2VnpRczBCSWVma2RZSndEclN3YkExZmk0WWNVU2RqcFd1Ynp6eXh4b3hhb1BfV04tMXgzQjBxSWVGTUh3YTJvVkxwZDl5LWVod2dHNHFsZjNJREQycVdFNW9rWGhOZVBiYTFJSVZZOE9VaC12c3VZeHZE0gGwAUFVX3lxTE9LM3M0ZnZmOTVPdzhzUjAzVG5ieXFzVmFVaHI0a3VoYnJMcDZCV0hjczcyQ3d5azVKS0tvNEF0dFlGM1YwcDJBdzhBVEZjMzNsVG1iTWttQ2JrUVJlYndzejI2SEJOWWI0NHk4Q1Bacy1RV3d1OC12UlhnTU53bWU4VzlUX0lWNi00R3RtMDh0X0g3YjNob3FYMHQtbUs3TmpTMHF2VmpWSjdfLU5OUmcw?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

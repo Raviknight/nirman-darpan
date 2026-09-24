@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-21T22:24:12.043Z",
+  "updated_at": "2026-09-24T21:56:01.200Z",
   "project_id": "SML-WATER",
   "press": {
-    "n": 18,
-    "positive": 9,
+    "n": 19,
+    "positive": 10,
     "neutral": 5,
     "concern": 4,
-    "avg_score": 0.067,
-    "avg_magnitude": 0.267
+    "avg_score": 0.079,
+    "avg_magnitude": 0.279
   },
   "youtube": {
     "n": 0,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 18,
-    "positive": 9,
+    "n": 19,
+    "positive": 10,
     "neutral": 5,
     "concern": 4,
-    "avg_score": 0.067,
-    "avg_magnitude": 0.267
+    "avg_score": 0.079,
+    "avg_magnitude": 0.279
   },
   "top_positive": [
     {
@@ -40,23 +40,23 @@
     },
     {
       "source": "press",
-      "title": "शिमला में गर्मियों में नहीं होगी पानी की कमी, शुरू हुई ये नई पेयजल परियोजना - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVzBxUGlZdndBc19TUVNmZjNkNlFLUUQyc3NmSnBDSmJQS0RSSDVUbFZDUTNia0ZfeVh2cUs1VjZVOTFmS0xLanlUaTg4OU1ZN0ZpbDVrNzFYTlJMRWJMZFdNNDBfYnRpRklZREhhQmpweFFjNDdUYUs3czVLeW0zay1mZ3VCSDNMaUE1Q3gzalYxWEpyTWJfZzNUTjRBVVN6aS1IeDMwNkVqUTVJY2RTWWRkaFN1cFU5QjIzX2R2Q2JsNzJKcWVfTGNwTDRHRzc2bmF4UHhaY0F6aWJTN1dMVnlFVEhjQ2ZnZnRwSE5kVzVQRmxZYWfSAfsBQVVfeXFMT2RFekV1UnVrX0hjakQxN3F6eVVWaXRvRTdrM1l6cG0zcHo3cGpEZVFBUzU4a1k4Y09aS0dOZzB6RklJUWIxUk44ZGo2R1ozQk5tcDZlQm9SbFhzUndxQlhSR0k3QlB2S0w2aVhwRzdQT25udE5PY0NCcURJb1doUl9zaDVEYkg2QVVGbkpjWmctZElvRF9LOXdkdVo4VkZmeTFESDU2TGhyN0o0OC1FbUlPdm12Z0ZROXc2VWRNR3VZa0NiYXphSDB3eTFhbUhxTjdmaGZmYlp5TDdHaEVrSU5Ea1hIWUZ2VG5TY2NRa2hDczdsYzJTalZUTGc?oc=5",
-      "score": 0.3
+      "title": "जल निगम को बिल देने में आ रही परेशानी, अब घरों के दरवाजे के बाहर लगेंगे मीटर - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQ01uektRQkd5MjJkYUpod3hyVkZ2YTZydDJvaXhSTUVVaEhSZFRGbnNXb25HVEp3emY3bkdZMjJZcXpKWkcwaUJZaU5ia25GbFI4V0RLSVp6UHpIWDZKWXRiOUpCZVVYbks0c2tRRnBIZnF6U0plTFhjbnI3QVlFZUZxdXJPUlRURE5NQl84OUFnWURPSXlxZHIxVENuWmlnWDJCSDlGY0RXVEs4d2xvbVhZSlEzUms3b0ZXZkxkQ1RUeUR2cnk2dHpDZXZMQnpmcXFPU0twWTJsRjJXdVctNWNIdVkwZkR4RG8tZ1JuQ1N6UTZHalHSAfsBQVVfeXFMUFg2blFXb1o3TG9rR3B4dEhIN0YtVTBIWVJBc3I0ZWZsb0dSM29BZEIzWjZUZ0ZHbngxZ0JxendBRldTdVA3VVlUejB5Wmp3XzVjdF9ZUnhDUXVONWNjd18xRmpieHJsSDdBb3VxbWR4dW5TQ2JBMGhmSm16NWNGQ3VmM3JrR1dKVHJNVEtKSE5IaFVsUklnRGJiRG55RFR5OGUtQThRQTNnS2M0VEFual9RZld3aUJmQ1lTczNzdEp0SDhfUHFyeWZoUEFPUTZjbEpER2t2ZUFqOGV3Yzd2c1JtMnN5MHBrMndRU3BMN0dLTUkzS0Q0bVIwbU0?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Shimla to face drinking water shortage as Sutlej Project suffers transformer failure - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0FRaURkdlVEdDh1djBiZlFnN1RCd0p0RUltTmp6N2ZscEZVd3ZyQkx2RXlaZ2Z2WW5ic1RqSGVxT1dZWl85OGZXb3Juakx0ODdzVEZkRU9uVWR5R3RTbVBXN1ZKa2k1UFpibk9pR19XVDNRV05fR25vVzI1WnRtZlFnZDFvclhGMmZ1bVlNQ3JQRzhzenlTVzQtbEZrQlJ0OUl3a1ZwOVVvVWVobFA5dVY2cEtLRk8yZGFYOXVzWW1ERVJ4d1Nr0gHLAUFVX3lxTE84LVlBdi1KcWx1LU9zY0w1Ql9HZDg5WHQ0aVBlZnZHQUgyRzhBZTBmbjF1dW5aN1VzRTdNV0Q2SlE2cHpfMDRfNzNXNnJlVzRQQlNBVzc4X1FDNG5sQUY5RjZ3VUFBaHMwdndWdkJyVE92b25LQWxvM3dMckdFN1ByTkgwbTdGMUU4akRqVzBuYUt6Tmx1U1hHczhjQWJVTFFVeWNjM3lVME8zOFJOR21vcmtZRXVYTkZyQTgzSlEteUtXNnByQ0tKV2lR?oc=5",
+      "title": "Shimla citizens getting poorly treated water, Pollution Board cautions - The News Himachal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTJsd0I4MTN1V2R0VEIxZ2Z1QkNqcVBmNmpleHQzNWI0YWpCN0QyUmVlTkZYa04ySFJaZGZrMzNEWTdRV3dGbjdnM0kxNVVjSnJjajR2dXE2NlUtQzZvTk1ONlB0R19jNUlaaEhua01PQ3RhaFNDMXM2UkJyZFdNQi1UbVF2NlRGcHJkX3pXQUE4eUJfZ3pmMHQxS1UyWWl0YlF6OHMwcDRaQQ?oc=5",
       "score": -0.5
     },
     {
       "source": "press",
-      "title": "Shimla Jal Prabandhan Nigam claiming of providing quality potable water - The News Himachal",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN242WUtqS3hnNTRiSG1rNk1BUHRqSWd1bzFZbjZQSUlVZTNlSUpXVGFnMjlDVmNuVUYwNmZHYUNUWW1sbFNjRUFmbFN3YjBFbXp4YjV5OW1rZzh6bDB3cDhKQlUxVzFBaWFIRF9KbTV0UEhKZ2xYOTgtX0FVbFhKb2gwQVJMQ09iVVpWSHBnOG1UNmxCX005S0Q0V05vNDRQeVdoYk1jclQxb2dj?oc=5",
-      "score": -0.4
+      "title": "Shimla to face drinking water shortage as Sutlej Project suffers transformer failure - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0FRaURkdlVEdDh1djBiZlFnN1RCd0p0RUltTmp6N2ZscEZVd3ZyQkx2RXlaZ2Z2WW5ic1RqSGVxT1dZWl85OGZXb3Juakx0ODdzVEZkRU9uVWR5R3RTbVBXN1ZKa2k1UFpibk9pR19XVDNRV05fR25vVzI1WnRtZlFnZDFvclhGMmZ1bVlNQ3JQRzhzenlTVzQtbEZrQlJ0OUl3a1ZwOVVvVWVobFA5dVY2cEtLRk8yZGFYOXVzWW1ERVJ4d1Nr0gHLAUFVX3lxTE84LVlBdi1KcWx1LU9zY0w1Ql9HZDg5WHQ0aVBlZnZHQUgyRzhBZTBmbjF1dW5aN1VzRTdNV0Q2SlE2cHpfMDRfNzNXNnJlVzRQQlNBVzc4X1FDNG5sQUY5RjZ3VUFBaHMwdndWdkJyVE92b25LQWxvM3dMckdFN1ByTkgwbTdGMUU4akRqVzBuYUt6Tmx1U1hHczhjQWJVTFFVeWNjM3lVME8zOFJOR21vcmtZRXVYTkZyQTgzSlEteUtXNnByQ0tKV2lR?oc=5",
+      "score": -0.5
     },
     {
       "source": "press",

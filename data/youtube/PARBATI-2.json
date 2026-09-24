@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-09-21T22:23:54.824Z",
+  "updated_at": "2026-09-24T21:55:42.243Z",
   "project_id": "PARBATI-2",
   "query": "\"Parbati-II Hydroelectric Project\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 4
+    "comments": 6
   },
   "videos": [
+    {
+      "videoId": "RQ8INF9SY8Y",
+      "title": "हिमाचल में टनल से निकला पानी, गांव डूबा! | Parbati-II Leakage | Kullu",
+      "channel": "Civilstap Himachal",
+      "published_at": "2026-09-23T05:26:31Z",
+      "description": "हिमाचल प्रदेश के कुल्लू की सैंज घाटी में 800 MW Parbati-II Hydroelectric Project में ...",
+      "comment_count": 2,
+      "comments": [
+        {
+          "comment_id": "UgzqDons7DpPSIoVYgB4AaABAg",
+          "author": "@AshuSharma-xw9oj",
+          "text": "Should reduce exploitation of natural resources on the names of development",
+          "like_count": 8,
+          "published_at": "2026-09-23T09:51:55Z"
+        },
+        {
+          "comment_id": "UgxOHr6Q6_CG967dzbh4AaABAg",
+          "author": "@madanreyansh4492",
+          "text": "Dear information incomplete hai\nMulthan Dist kangra 2 year ago same incident happened",
+          "like_count": 0,
+          "published_at": "2026-09-23T15:18:27Z"
+        }
+      ]
+    },
     {
       "videoId": "HcHwnUosLXQ",
       "title": "‘प्रगति’ से पार्बती-2 जलविद्युत परियोजना की मिला बल | PRAGATI | Hydro Power | Clean Energy | PM Modi",
@@ -51,15 +75,6 @@
       "channel": "Quiz Time",
       "published_at": "2025-04-01T18:08:59Z",
       "description": "National Hydroelectric Power Corporation Private Limited successfully completed the trial run of Unit 2 (200 MW) of the Parbati-II ...",
-      "comment_count": 0,
-      "comments": []
-    },
-    {
-      "videoId": "HMF2UfOVFoQ",
-      "title": "😱 15,800 फीट की Tunnel का सच! क्या ये Hydropower Tunnel है? | India का असली रिकॉर्ड 🇮🇳",
-      "channel": "India Unbuilt",
-      "published_at": "2026-09-13T14:30:29Z",
-      "description": "भारत के हिमालय में 15800 फीट की ऊंचाई पर बन रही Shinkun La Tunnel को लेकर ...",
       "comment_count": 0,
       "comments": []
     }

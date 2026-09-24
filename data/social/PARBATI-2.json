@@ -1,19 +1,69 @@
 {
-  "updated_at": "2026-09-21T22:22:58.898Z",
+  "updated_at": "2026-09-24T21:54:49.993Z",
   "project_id": "PARBATI-2",
   "counts": {
-    "press": 141,
+    "press": 146,
     "gov": 0,
-    "en": 54,
-    "hi": 87,
-    "total": 141
+    "en": 60,
+    "hi": 86,
+    "total": 146
   },
   "mentions": [
+    {
+      "title": "Parbati Hydroelectric Project II: Features, Location & Significance - INSIGHTS IAS",
+      "source": "INSIGHTS IAS",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03RW5uMmQ3UDZ1UEZNUERxTEhHVEY4dl9IekUtM3IzVkFwRnIxVE1UMUtud1RfbmhkZ0JjMjFrV0wwUlFHWHFaeWZXcXBTbjF1R0NlU3FhZWg2Skh1ZEhnNU4yM1BNbEkzakNhYi1kczhXRUNhTl9DVlgwbldMdw?oc=5",
+      "date": "2026-09-24T10:27:49.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parbati II"
+    },
+    {
+      "title": "कुल्लू में पार्बती-II सुरंग रिसाव के बाद एनएचपीसी के खिलाफ एफआईआर - Janta Se Rishta",
+      "source": "Janta Se Rishta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnVOUHRCMW5hMUJhS2ZrVHhhOG9rU3dWWWVRbFhiY3dGY29oREpPWjA0WXk0YVhweHdSSVBGTWZGX3RVeHpxa1pzalFnejM1VDVIWTRZVzBmVElpVFRxb0lOS3dWMTJ3eDBnYWtZQVAwTFdVRzVScmNYdDRHbDJYQmhIQkVwdFBmbmYyOHZUcTB1NWJJOWNWc0M5bU9PRDF6djhYeE5uS0p1V2JBUFdlMVY2dURabUtnY0HSAb8BQVVfeXFMTlhUNk9zN0NrWmUxX2d4LWJKV1hEWUtaRS1xbUVkODZUcnBEUE1kNHFEeHQzanNIWmdRLXJIb1ZjQlM3TVBncVljb0VrWHFabzZxRGdfREVNdGlTNjZfTm1aWFRJeEdDZ2VyNDM4Q3VYQmg3QTgwdEV2NFpMQmZzYUpLZWttajR3Tk9PamtLcFl6STRaTlU1ZTNSSXA5cGFRUkRFRVRzcURVZEx6Si1Tc0pZQ0tIMTlEUUJjVmZQaFk?oc=5",
+      "date": "2026-09-23T09:30:37.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "Sept. 2026: NHPC’s Parbati-II HEP Tunnel Leakage in Himachal Pradesh - South Asia Network on Dams, Rivers and People",
+      "source": "South Asia Network on Dams, Rivers and People",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkVKWWV2ZHZLYzJKbllxbzJEcTg5emtBYWpTbm9FblkyNVB1QW5VdE0xOTlyYTRnaVZjXzl5dnZXREdBZURhZnRpa0RRM3JhV2IwV3ZEZkJ5NnhCaWNaMjVrOGR4SWM0bVlVWTFyMldSaXBZTUVUOGNBTGJZUnFvWFdQQVlZZ3lVNlRaTWk1amx4UngtNXBQdF9CNA?oc=5",
+      "date": "2026-09-23T07:49:37.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parbati II"
+    },
+    {
+      "title": "Parbati-II Tunnel Leak Under Scanner - The News Himachal",
+      "source": "The News Himachal",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yWVJURWVyaGRGMktBem85NjdNXzRLbHN4TUs4cjBBQUYtS3llUUx1ZU5jTkRKX1FGTHZZbVZTMEZCaXZTaEtfVGxRYUktT3R1S1A5UmFwalNpOFJtbHFSUmtodTF0dTQ3LTlHM3hqaWNzcWIwbUE0R3RxWGdzUQ?oc=5",
+      "date": "2026-09-23T01:21:45.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parbati II"
+    },
+    {
+      "title": "FIR against NHPC after tech glitch floods Kullu village - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWmRBUFBleFhxcExWN1BaajVyMDlHaTFNZXVua1NXVlUyZnNXUHBhV2syUHpVN1JSY19ZZE5MX0FEakdudzZWRFVJUTh2bTVIYmhkN1M3M3djRDhqcC1GU0lBMUxwa2VTVDhWdThrYWtxcDlCSE1aQ0hQN0wyRFBOSU5LbVlBcTQ1b2pyYW5ONVRmYzNuajZyRndmYlJybmJTMlhWVm8zN3VTYUh3OWpmNXkydE5pdGNMZnFiRkhBLVBwLUZzTExPLS1FZjc5UdIB0wFBVV95cUxNNTVfMHhSN056elRxSGFKRmFib296N05VSHRvTFJybWt0VUJjUGdnWEhUcm8waDJtX3RMZDRKNXZWRU5HYnViQUNuTzVseW5rcTlQWWdiMjd1NjRqOF9vUzN3ZXFNckc5N29pS3M3WFRfUjdncFJYZG9uNTRQeTljM1VXcWh1ZXVPSzBZZHJRS1BTZS1CREpfajQ1X1MwS1VqNDlhMndLVzFwNjIxOVJvNXBvbFptWFVibmlRcFNhdVFpZ1ZfTEhHQ3ZhTElHdGROWHdZ?oc=5",
+      "date": "2026-09-22T18:02:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "NHPC Parbati"
+    },
     {
       "title": "Himachal: Parbati-II faces scrutiny after water discharge - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN3pVYm1OejZ1UXVUOVpDZlhJWW9fZ0Q5Y3AycmhfaUhlNnE2eG9KOVBCanE0b1NJZ1k5LXlpMlRiNF9FMlROdnRrN0FpRHhnaDFXVjQwcWhEbkZzOTdqcTFlWXEwS0N5QlBtMjNQRkxwQndoZWxJZ2VxakQ2b052eFU3X2d2TjNFM0FUX3gyUW9CRkJMWVZoWU1pa3FTTzl5V2o2MmRweTEyRF9RU3hWVmRzcGo4dTF0cjZ1c2FiT2xQd9IBwgFBVV95cUxNN3pVYm1OejZ1UXVUOVpDZlhJWW9fZ0Q5Y3AycmhfaUhlNnE2eG9KOVBCanE0b1NJZ1k5LXlpMlRiNF9FMlROdnRrN0FpRHhnaDFXVjQwcWhEbkZzOTdqcTFlWXEwS0N5QlBtMjNQRkxwQndoZWxJZ2VxakQ2b052eFU3X2d2TjNFM0FUX3gyUW9CRkJMWVZoWU1pa3FTTzl5V2o2MmRweTEyRF9RU3hWVmRzcGo4dTF0cjZ1c2FiT2xQdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmNiUWxjdVhhUWFfTDBEdW5fbGpvMGNGdGJaelF1Z1pwV0dza1pYNGdiWGRFOFFLaTk0QjZleHFsQ3czZVhPVWVXVnJTZjNjNUpnU3pUcG1JclNBaHVsY2FIcHhJeGJTTk1UYUlsbTg1S0swd2ZvUVZJSndBTGtqeXVKQ1daM1Q0UGpEVHFpck1ZRzFGM29pcndOc2x4eUhLZ0HSAaYBQVVfeXFMT196andqeGc3WXMyY3JTRnltMlhqZWlCbnhFbVlUeThfcUU3cF84QkZDMUIxbU5xQjh2Sk44dWN0aWVubi0xeVBmSVdORGdOT0VNaHpocUkwWGp6NEVqQVgxbGdaV0Y0V3BHdGM3bkppTUxHUE9JdjdCY0F3QzJDNlRFZ2dYSV9MV0tJMkdqcU9HbnBXeHBsclpXaGdmY3ZQR1lCM1N1Zw?oc=5",
       "date": "2026-09-21T20:45:42.000Z",
       "kind": "press",
       "lang": "en",
@@ -30,14 +80,44 @@
       "match": "NHPC Parbati"
     },
     {
-      "title": "हिमाचल की सैंज घाटी के NHPC की टनल में रिसाव से आया सैलाब, 3 मकान मलबे दबे - News18 Hindi",
+      "title": "हिमाचल की सैंज घाटी के NHPC की टनल में रिसाव से आया सैलाब, 2 मकान दबे, दुकानों, घरों और होमस्टे में मलबा, ... - News18 Hindi",
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjJybVZ3aVBKaWlOUkVHM2puU1pESlAyN05GX1N1TURiRGVZbUtsRlYteXZHVTB1TXVqZG1zT25ILUYyV2t0ODBNR1drMTBvcnl0aUJPTkNnMWxuRW5Vd1lYbmNmSm1HWUJmdVJKX2RiRWtmWHZhUGVEZXJKR0kwTkZpTzhrWmFQLUJITVVNYzdKbVFzWkxSTHZ4YUVRdmlqRFkwNTd1c3NsQXZmbVdSN0NVdUlvb2wtUWZ6cHFfMXo2LU1iU1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd2t5VURnWXBKYmVDVmxSbzZ6SS1DR1pGMl9nZHNwcnEtMDJDb2FRb19zREtvcDV2WFY0dEdUZG5WbVEwTTA4OTZtZ2xxNGZ1bFM1MFFTT21sWHgzUVVrV0JqVVllNmRKb0psTUZzbHJjVjFUNUVWMUsyS0g1cllsWlFFYU5Ha2FHb0NoTmxoTU1TU3F5cG1hRGJUV3JnUkdEQ2dJOXRINUV6dnAtWFNRdm5kWXlVdGNlOWlQX05MTkNuT1Q0MlZJMi1hTdIBywFBVV95cUxOd2t5VURnWXBKYmVDVmxSbzZ6SS1DR1pGMl9nZHNwcnEtMDJDb2FRb19zREtvcDV2WFY0dEdUZG5WbVEwTTA4OTZtZ2xxNGZ1bFM1MFFTT21sWHgzUVVrV0JqVVllNmRKb0psTUZzbHJjVjFUNUVWMUsyS0g1cllsWlFFYU5Ha2FHb0NoTmxoTU1TU3F5cG1hRGJUV3JnUkdEQ2dJOXRINUV6dnAtWFNRdm5kWXlVdGNlOWlQX05MTkNuT1Q0MlZJMi1hTQ?oc=5",
       "date": "2026-09-21T07:26:49.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "NHPC Parbati"
+    },
+    {
+      "title": "FIR against NHPC after Parbati-II tunnel leak in Kullu - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1dfUjJEM2xFVDNqeEJHRWVOVEhUUmt1c2pQazZxZEUtMmJmOHRGQ0s0Mk1RVVdBYkw2SHlwZ3ZoQm81RGM2a2lMMV9CZDVoZk5Qa1c2ZzZBa0pUMlI5MmRCMlV2bzEwM1ZGdHVQM201c0JyR1RKTDNRaFE4S00tY3lnUkxJV213TkNCd2l3ZDBiM0k5LVlyLVM2aFNlYkHSAaMBQVVfeXFMT1poWkxkbC1NbW9OTWx3Smg0X1JyamtPdHJLbHl1VUJYcWE4RGYzY2o1SGRmUVpNQWg2VWVQMVVldC1ZZkVxV2xpVEhRRXFpNjRrY25maW54dkVWM3FhOWt4ZTFWS3dNX2N5V2RVYzFOWHRibUQ2Y1BKRjJEYnBERFlRbG1yTWcxRXNlWGplZk9sYVhLemdrVDAxR3dwUFhzOVlERQ?oc=5",
+      "date": "2026-09-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parbati II"
+    },
+    {
+      "title": "Probe ordered as Parbati hydroelectric project leak damages house, cafes in Himachal's Kullu | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU01ZWjVKb24tMGw5VTkzSWxqZnZkaXJaN2IxWTBFWU5kNlpMRVVMVDVBTFNQTlZUMk5ROTVkSEN5bHJJVUlnbnVnVmwwdy04VHZ3YTYtMXplNzBodk5tRTM4QTN3MEZXWkw0Z0Rlb3FJXzVsbGNkX0EtLUFUcjdRZUZPYzRkYWpOSjBISWx4WlRuWVFJWWM1RmFkTVhiQ2RwcmRKQkFKWkpDeDFwRnVsRW1vSks4OV9PNGJJaWc3UUdNekhSVWVGaHJNaUpoUHh2RzNjZW12WUVUMVJi0gHiAUFVX3lxTE5zRFFpTV9lUzhCYVE5b3JRcW1JUmRQVmZSQUJLNU5qNVY3N2dUMWlZWVMzbEw5ZVZHcEpldkdJcE1nOFFtTUxZdlFTa2FpSXRzRS1Ud3ZwSmVjYVF2LTYzcWdDNHNZU3VySzdOMEd4TEVGemxuRFN5eE43bnBoNy1rT2JweXYwZFo4ekpmS3hrNTM4QTNDWVNHUmt6d19OVXV0V1EwNmFiRW9DQlA2bF9TYTluWjZzVjl2WEZGZWV1ekFaWnV0TkNpTjN3TFpjMUd6b0trdjRhVkk2R0RBamVlUVE?oc=5",
+      "date": "2026-09-21T02:02:10.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parbati hydroelectric"
+    },
+    {
+      "title": "बुंदेलखंड ही नहीं, मिथिलांचल का ये लोकगीत भी सुनाता है शिव-पार्वती की अनोखी कहानी; आज भी अमर हैं इसके बोल - phire shiv ke karanama the heart wrenching maithili folk song on devi parvati intense tapasya leaves devote - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdmFjcWFycldUbFNRU0ZuOFJCblRwbDBVSHJBV0xONFMtZ2xhdUV0TnJZaTZWdmpGVlBvb0RBX3NTRHFjWGdIQVpLZE9tUzEwal94NUM3R01oVlZ4ODZReXZGVnQ1QnJNbktGTU10TTZLOC04ZDgzejdZODBEUXVueFhHNDU3ZzdzaFZIYmcya2hTanVzQmlIcHZZdjBBbThXRzlGYVBkV1B1MmdMQWpOX3lpMzY4ZDM0bWFQY1F2N0E1T25tN1AyUzBUd2UzUjBHU1YwMXdNTmlLdnFwTjk4dzFNVldPVC0zOVFxMUJnbnNFbnF1UU9BVmNzYlFYZWR1LVAwUmRBeFRSb2VpYUpN?oc=5",
+      "date": "2026-09-20T14:24:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
     },
     {
       "title": "पार्वती जलविद्युत परियोजना की टनल में रिसाव, जिला प्रशासन ने शुरू की त्वरित कार्रवाई - dainiksaveratimes.com",
@@ -50,8 +130,8 @@
       "match": "Parbati hydroelectric"
     },
     {
-      "title": "पार्वती जल विद्युत परियोजना के एडिट-5 से पानी का रिसाव, पालचरा गांव में भारी नुकसान - Divya Himachal",
-      "source": "Divya Himachal",
+      "title": "पार्वती जल विद्युत परियोजना के एडिट-5 से पानी का रिसाव, पालचरा गांव में भारी नुकसान - divyahimachal.com",
+      "source": "divyahimachal.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU0ZsNjNhUmNkbC1PRk1hd0k2NURqbEVPVGxob3I5UUR3cVlCT3lKa1k1ckhJTWZPWXlxQzVlYzRWRHVoSnZOZ1lxSy1QNlpReFN1azBYT2wwVFdEWldpb1FiS1lhSjNxR0hIRjAtY1lZY2Q0Nld2VkR1R2Z4Tk9rOW11NkxuMDRXbUVMZHlzZ1MwYUdEWFkxOTVRUjg0RUNZZFNOS0Y0X044UkV4SFI4Y25fY3ZmN1ZyVHlLT2kwY04tempjSkdFdVRhQ3VndVNmMmMtU1dEWHbSAd4BQVVfeXFMTjNodURpSlNPNmFLa1l4VUZ4NjI2VDI5ZUJnZGU1UERGVGpfbmV2SXg5bXFGdE53VEEzM1hxb0VQOTluZ3BzZk03VjFlZFlzckU4end1Y1NIUVY2QXBuQ0J0ckQ1ZDNsaFFtSjBPb21jWUIzcjJGSEhqZHpDZnZiV1JxTGd4Vmk0bXNkeTBMS3htMlFmXzAxUjgzUHVkaGJocnpiQ29kS3NtdVp0MzVqSmNKVnNHcVJia2RWYUxrcXhPY3RabnlEQ1dpczE2UUZseDRXVWJhVWVSNW9Qa2t3?oc=5",
       "date": "2026-09-20T06:21:00.000Z",
@@ -74,7 +154,7 @@
       "source": "ABP News",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnMtbHRxQmtON2RnQ041cDNRaUZxZ1N5YXZfU2NLNmNBU2haRUdVaVliX0h0S3F1UGZTRHNwWXo0Q2FlRzVlUzhjM3EzSXhHZ0R1NTd4aTFRVGlySXNscW5Ta3B4NUNSeUhubW9HSi1ZdXgzM21QNGx3akYwOGRmbG9WZzE2SHZLU3BSYllmQlZVcmJPajNheE1iVWhuWVY50gGmAUFVX3lxTE5YMEtwWEtqLVhxSTRBSkFPVjNRYUNhb0FFRjdfYk9aREhybVkyTXJpZjRpTTBRWThjeXRxUzB3RE1PN3ZlZmxGblotSkU3em41bVNCMzRfc2VlLXlVcmhYM1N6SHJlSm5MY3R1ZjJLSXdTLXQ3Y3VMd2dTYjUxU2dreWdBR0xIbHc2ZGVwV2RVbEVMSUZLcWpSSWNnZmo3Nm94N0s0REE?oc=5",
-      "date": "2026-09-15T09:36:15.000Z",
+      "date": "2026-09-15T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
@@ -120,91 +200,11 @@
       "match": "Parbati II"
     },
     {
-      "title": "हरतालिका तीज पर सुहागिनों ने की शिव-पार्वती की पूजा - Prabhat Khabar",
-      "source": "Prabhat Khabar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObXpEc1Z3bHhlQ2JwVVRSS3dDQ3BmV3VvNzZraDZjWXpPcXNrS2NJNTU4R0g2eElmajNKWWRzX1daRDFIMFN5SjJuSV9oRUFhaUU2bWFFTjN4Z3NQOXd2a2RXMEJ6WVJMMFhIYVZBTEhoSU5raWRsX05lYnota3lrdjk4czVqS2ZtdWhqalBNbTFJSTk2?oc=5",
-      "date": "2026-09-14T11:12:52.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "Hartalika Teej 2026 Shayari: शिव-पार्वती जैसा प्रेम मिले, अपनों को भेजें हरतालिका तीज की 20 प्यारी शुभकामनाएं - Hindustan",
-      "source": "Hindustan",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQM1VhX1hVRGREM2R5d0dzUDh3RjFnTk5aSlVTZ0dNMnhQd2tJMzRIaGRMbUxDMWx4LU8zcktobUxPa3d0RHJSZk9mM1BhZW1NRUNEZFltT1o4ZnE2N3BBQXVQSmZaY2I0NS1LaUQtSVpVOHF6eE9WNV92aGs0enVQbUIzc181VGt0U3dKQUo1cnRHRUFUcFplc2l3czNTZjF6X0JRZDBlX0JZNS12cElCZ29DQmdfYzlNZXJHTURQTGdxZEdSWW5NeTRRNWp1N1k0QXhuS0wxSWJ1M1R5NzJ1VVMwZzJNRl90UG5MYnRQR0JxaFN0TFNFME1WNFFVNmhiV0lWTFVyM3hxdF8zc0FSanB0RWHSAZoCQVVfeXFMTm45MHRzLWRRV1VEY1NjbzRwQmc2RUg0ZnJQOEtzN3A5aFZSaEtIcnlUQUwxbEI4Qk9TU0luY2l0bk1wYUtXYmE0ZFZRRTl5Ti1kUWpfWjNVUUF2c1RBbDhOU2UzcTNWbnBzXzI0eHp5MHlERFMydVd5MHNiTnVvazN6U2VKYXNHZUE3QU9BT2x0Y05RTFd2VndsWVpKNV9LLW05em00OGlzNlF0a0FwTlNZc24tOXJ5aHp1Si12TURUYzcxbk5DQzhJZ0lnc1ZDaFM5MExkZXA5RUZCTFZNazk3VU1ObmpnTTJMRUdUMHk1aTVJUDg3SjZEMk9OM1M1N2E4djd2SnFiT0dvMGZhUXdXRFJqWnIzODdR?oc=5",
-      "date": "2026-09-14T01:40:36.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
       "title": "हरतालिका तीज की पूजा में इस आरती से करें देवी पार्वती को प्रसन्न, दांपत्य जीवन में बनी रहेगी खुशहाली! - India TV Hindi",
       "source": "India TV Hindi",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNE83MS1nbGgyNW9zWENRSGw4aXhtLWhhS0RleUJZdDdibGgza2phVTJhOG9haVJTNkk3R1NfMEV3ZGMxV1lyWTNQWUFKM1NYMkdfb2pYTzhBTjVFeTg3NTZLODFGNGJMcGZNNUNWNjZDV0dkU3RxbWVVbmR4QWhrZ2pGd1YzTjEyQzdselhJN1VkSFJJaTROeXktSGYzdnVMeWttTnlxNUNNdGNOY2VFR1RyMGYzTllmU3hQcU1tUmJKSUIwU0lRNlpsX21lSEdHT3BHSUh5anF1ZU53Ylk5TUhBVk82d2t5dkY2TV9xQdIB9AFBVV95cUxNWDd1SV9UcGFEcWlDOTE0SmVVMzVUM0hvUnR6eW1xOWVLWDdmc2lGeW9reEZEajE2QzNRRU81YzJYZ1FoOEotS0VEcDlCQnhZMmw2RnhzWGpoTmVjbk9nOEFVRzN3bkU2RVQwRGpQbm9OQWVGbWJ0cV96TXd3Rm5VMWhaQS1QeFl5RVppT0hZbDBEdUZsZmtNNzJUUUZnLVE4U05nOWZFOUdUTy1PNW5Vc182SnpHMVZ3azlKd0ltMUVmeUpwNk93eTgzcHNyZGRkOEVod3pVWHJZOVloVFd3UmVka0k4ZHEwY3RyT0tpZDRaLUVn?oc=5",
-      "date": "2026-09-14T01:22:14.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "Hartalika Teej Vrat Katha: हरतालिका तीज की संपूर्ण व्रत कथा, जानें माता पार्वती और भगवान शिव के पुनर्मिलन क - India TV Hindi",
-      "source": "India TV Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZTZfUGNKaU15b0RkUEVZMHF2d0VQRDN6cUUtOUdCNjBVR2Q5NE9IU3ZsWlNrUG9wTHVHY2JiU09GVjFLc0h3aXVfeGFldWhtWXNHRGhacmFQd3dHemx4UF9RcUxkSHU5dTAzaS1BM3pqYlFnd2l6ZUxkY1pXZ0pfMEdhMGVEbVlOeWtNM2h1eXVzWEptdi1uRmRBOTd6TWF6Qk9oa3p1dGJ3M185MWUxRUpEYVhYXzAxNmFFSVY1WWxkWGp4ZXpfN2l0VWxOQdIB0wFBVV95cUxNZFNhLXprYVJXZEt2eFdLTTNUNEVsemNjZTg2N2o0NW5YMS02SW50MDNYY1NMNV9HX1daazM5M0t6YzdUY2NRdGxOdm5sMlZyRjU4Y2N3TzZKN2VDV0czNmhBQ21Zb3FwMTNUOXVzdnIzUVZZM21GYTF0Y0NCM21pbzVnLUtTbWZxdVhKQm9Nc2VHZTZ3cFJFajZKcjhDSGJLNFFGZTRneEoxazNmN3doRTRZZVVqOU9qRkJjSVdlalA3dk9JR2FseG1iLVFEYXJsWk1F?oc=5",
-      "date": "2026-09-14T01:16:03.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "हरतालिका तीज की पूजा समय सुनें माता पार्वती की यह कथा, पूरा होगा व्रत, मिलेगा अखंड सौभाग्य का आशीर्वाद - The Bharat Now - Hindi news, हिंदी न्यूज़ , Hindi Samachar, हिंदी समाचार, Latest News in Hindi, Br - The Bharat Now",
-      "source": "The Bharat Now",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQRGlBUF9vZkJ4dnA3ZWZEclFnTVlkbE1rSmJYYVZ4X2JlTEhvT21ZZ2ZocFN2dlp6b1BLSHRRN1hyTVVXSWgyYzRTVlMzakVBZDNmV052c2pIVldjekc1TmVJQ1lPLUI5a0VlRmFPYU5CMExtclg4UW9SYmhEclYzalFyYU9GWFJwdnA3WWFsNXllc2sycUZUVWNfNEdxUUJNeXE5aEM4S3FqYU8xVmI4OGM1clZQdHhpcjQ0V1BXRDd0M2dXbjhUYVJaeHJaaFVEMFdyYjZqc29XM0I3TkRNdHl6TWFaRVhWWkpFNEFUSDFTRXR6bE90NzUzNXlQT2dlYUJSYVUtdjFOaGJpU2VSajh1Tkp1WnlB?oc=5",
-      "date": "2026-09-14T01:03:38.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "हरतालिका तीज कथा: हरतालिका तीज की पूजा के समय जरूर सुनें माता पार्वती की यह कथा, जानें कैसे मिला शिव जी का साथ - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOanZPZjFvay1iMW9DTjVGUjRqaXlpZ1kzRElEOUtLNjl1Z0lRTi16YURTWGE2VXEySExRd1NvalRPYXUwVGczLUVqcEUwWUJEczBqMlM5MXg3YncxcHJ0cjdDV1BacllzYUcyV0YzenJlVFdEbnZ3SEFKeVU2d2owSXJQM3FuZGk0N2x0WFJwa3pXRGlmbUppQWFwbmVmTzNGcU9OX0F0cGV6S3pnVWVOSTJiSTNwQ0dTTHJtYWt3V2UzeDlqaHJKaU5LaDJFaU82RnpkSTFzNnR0YnczZG5qcnRWa9IB6AFBVV95cUxOZHJ1enpWTG55MFhKQ2h2WDZUTDUzRWhUVFZUOGN2ZERkSVBQck1sUGNXT0RoWmVMSUZ3cXRRek1xY05KcTVnaEVrUXdxdXItdTc1T0ZOSjFaeVJiNTNSakFGcnozMmFhRktabkV1R2Z1X1RJQmNfSVB0UnpOY3NuRTZDdkd0QzVJbHI3LVJfQXZBcnJmaUlVOHVCUVFDc3lFLXZ0NS1MRU1QWjFkRlkyM29lWFFRYm8zdTZDZWU0bkVZUklqQWNQV1M0QmN5NExhaFBWOEktUDZ4WWlhblBjLTJ2M0NHSGZI?oc=5",
-      "date": "2026-09-14T00:31:02.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "Hartalika Teej 2026: शिवजी-पार्वती की कृपा पाने के लिए ऐसे रखें हरतालिका तीज का व्रत, जानें नियम - tv9hindi.com",
-      "source": "tv9hindi.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEVJcEhBNTFiUEw1bmhwTUMtY09MQ1BiZnVvN2dFUkctaFEwVlpwb29uazlMU3dRYTJWS3QzbWNEcmdoSW5LVlVDR2dYYk1YZXJqLWhDQTdJU21pc1pRR1NoOGJUSklqUWpfUnpWZmwzUVd5NWl5eWRnRGh2QmVWMEJONGtJRjUzNi1vckFyYlotM041VXA4RUNmdUVtVzVXZEtTYWZ4UktxTjFUSFhhTTJR?oc=5",
-      "date": "2026-09-13T08:30:03.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "हरतालिका तीज पर चमकेगी 4 राशियों की किस्मत, शिव-पार्वती की कृपा से दूर होंगे वैवाहिक जीवन के तनाव - the fortunes of these 4 zodiac signs will shine on hartalika teej marital tensions will be resolved - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcnJyTXdid3pIZGJaekRoNzQxazQ2LTFnb1VNOXM2d3IxQkllLURvYktCTFBzaFQxYnBEWEgyanVOV1NWZTNZemhUQkc2ZHFTM2FQcGJyaVBmd3pQV2d4N3BNTVhCdWI5UmFOelBjb29GM3I4ajJZeUZZdzFldllkWlpQVlg5RXZHYk1PZ0pWMUJhU2NYcU13N3ZKZFMyYVloY0x3cTVpc1BLX0pqdVRnVmRTWnhRNkwtSVJaYkJJeTJ0UUNBMHh6Wm9TZGc5Z3lFSUtvd09hMDlRakx6QWhHcDhxNUtVaGkxLWFB?oc=5",
-      "date": "2026-09-13T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "Hartalika Teej 2026 Shayari: 'शिव-पार्वती जैसी बनी रहे जोड़ी...', हरतालिका तीज पर पति और सहेलियों को भेजें ये शानदार शायरी-संदेश - Navbharat Times",
-      "source": "Navbharat Times",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQYjRoMUFYdkhOU0k0dU5TQ0NHYWhVeDZXZlp1ZVc0NVI2bldrT3ZwTHZOOGZnQ2Y5c20yNmNVRjZSSG1jcDJyb1dPbEFhVTZrb1hzS1luQXdPQXVJY2VYY2RBZndlcTBNTTNzRFpKQmxqaUF0YmFyQzBjcHMxUzQ0UjNIUGU5ODE3ZzFsWGJUZjhlZy12d0dIdFZyYWxDRUlYejB4QXRtR1RjZV84QTdFVzJSYTBUNHJqXzZJY1pPbTBCYzlvN2JLNDR0Ti1CNFZXb1h5SUw5bUkzbUJ6VzNRcFNPS0o5MUVyczdGVDIySG1xNUFNemw3MFI2eGgyTWswcTY5cFJzdjFqSlNBZWpacWRQSGdvMHVlbFpqNWlfSldHN0JsaWNtcGV2OGhFaE56NDZZSGNn0gG7AkFVX3lxTE5HRlJzUnpkaDBzdi1YVDlMX0RlaVJBcENTNjEtVXFDc3diaEI3eHZ1RWgybHllRU9BYUVKdUhxZURuYS03aEhpSnZ2MFhfY3BJaWs3UUNsTk55V0ZobWw4WF81Z0J2akVreGYxMm9sVzVoZkZPVThySkZvS2h5YWllaXNFY0hHWUtWWjAtYy1KYWJCeDJQWDcwaE0tb2F0WGZtaW5hTWsxMUtJMV9WbmZ1SWZON01ueTZTblZjUHVFYUptdW1JeWtmQU4wNi1sYXo1bEFqX2FjckZWSERtdDBad1hpamRiWUo5aUlwSWVvWkt5RU5GZFBOS0xWaVRVcnlYb0xaR1l5MXp0N3p0R19fZHVUbE1md3pRdDRpZmVFb0VUV0NmSTBuUVNaOHZJRzBUaTdQcWNmMmM2cw?oc=5",
-      "date": "2026-09-13T07:00:00.000Z",
+      "date": "2026-09-14T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"

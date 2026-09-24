@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-21T22:24:11.118Z",
+  "updated_at": "2026-09-24T21:56:00.831Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
-    "n": 6,
-    "positive": 0,
-    "neutral": 6,
+    "n": 8,
+    "positive": 1,
+    "neutral": 7,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.038,
+    "avg_magnitude": 0.063
   },
   "youtube": {
     "n": 0,
@@ -18,30 +18,30 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 6,
-    "positive": 0,
-    "neutral": 6,
+    "n": 8,
+    "positive": 1,
+    "neutral": 7,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.038,
+    "avg_magnitude": 0.063
   },
   "top_positive": [
     {
       "source": "press",
+      "title": "केंद्र के अधीन स्थापित होने वाले चार पावर प्रोजेक्ट्स अब होंगे हिमाचल सरकार के, जानिए क्या है नई अपडेट? - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTY3Wng4STVlRjdUNEhNSW9LYjVac082SE5nY01yRVUtT295ckplMlJydUZzTzBCTEVaNDZkOUZaSW5naEJ5VmJwQXB4WFBYdEJkVk1PQnA2TG5EVFJJYjZLdGFHM1JJaGJkLVE3QlpiNTdqNTR5MmpBZVViX0J1UnZwOGtJZXlxUlRqVzMzYzlsVGlMMlBXUkpseUlTZkxZZGlpNDBfeGVLNFhTR01HVFFLalN6ZktrNWdHUGY3NU1TVUhUOXotZlpLaE01R0haMEVMeTVYeDVmZU4wdmfSAeMBQVVfeXFMTmNSTG5KckJmcVk3R0lQdnh1YTdDMWRVT3JqVG91dVNYQTFObjY5UEgwU1Z1azZSbWdKZGtPWnZVUzY5ZXhwTnREWDF5d1ZrcU44RFNmZFNJaUttX2ttNkt6ZXpFT1EwWnNmd3YyQnJncVBfdVNXZVhhYnBSN2t4aXFORjZURV91U3J1Zm1iNVJ4eGhKQ280WTVvbjFxVENZLVE3TGoxYURxNmJkdkxMT21NNXg1bkhPU01RbjVOQnlBUDdEa0Q0emJzMXYwS0NYYXBBbGhXTktESHlJaTJDb1pJN00?oc=5",
+      "score": 0.2
+    },
+    {
+      "source": "press",
+      "title": "सीएम सुक्खू ने दी चेतावनी, कहा- लूहरी, सुन्नी और धौलासिद्ध बिजली परियोजनाओं का अधिग्रहण कर सकती है सरकार - CM Sukhvinder Singh Sukhu Threatens to Acquire Luhri Sunni and Dhaulasidh Power Projects - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMHRnNHVFZm5xQ1dDVk1pVmhKbUtjZnFXVnlRYkJJbzFidC1tMTZibzlWNDJVcjhIRUJ5MnVpeEZfNXk0NGNCb19IY2NFRUFOcFNtUnRpX25CZHZ5STZ6ajQyYmJMaV9CRldkbEktd1FnbXU5RFFSWFZpSE9WaXVWTnk4dFFWTEViYk5Gb2hXOFhmNEx2SHN2MW1HV3pvcDZNa3BsR2U0Um1GbW1zalZkVWgzSXprZGVKYk5NQUhFcFc5UGZWZFpyUnJ3Ml82X1ptQUFZUWNRWUgyZ3plQXIwMUNGTQ?oc=5",
+      "score": 0.1
+    },
+    {
+      "source": "press",
       "title": "SJVN Invites Tender for RCC Blocks at Dhaulasidh Hydro Electric Project - PSU Connect",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk96ZHRZaTNvNVZBQ25uUzNDZHYzb2ZCRFp4dE1yYmxtUnJKLVBtdWR1R0FuWXpuUEFZSGVlU0JrMlQzV1lQUGhVaFR4YXNhTUk5VTIxV1FHS25BZnBhd1NOV0NKY1BZaEF2eThTczB6Skd3cnVRY1VyZEdSSlZseUlBOHdEYUFRUXRSU0t5R3l0YmI4TVZlVzVNUWRidVAzbEFCLW9pQ29vdw?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Himachal CM Sukhu orders takeover of Sunni, Luhri, and Dhaulasidh hydro projects from SJVNL - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTY2Z3FTOWo3dDZLQXBZZ1RhVWVLUDJoNnZRc0xZTGJLUFQxc1FzbnRsUE1PXy16dkxNbVBHRXpYM29jVkEwcGJLUXltWFZEbXhDWWZpUlFhcksyU0VHMVZZU1VVdW1hN3R1R3FjS21PdDdyMzhBTGE4a245X0IxMExHN3pKaVk0aTBRRmxDdWlXcWZtS3FrT3ZzQ3lmVUhDem42WWF1LXVXbGI0T1NDVXVmeUE0UldtSlJGU0psbW5MQXpTdDBGd3k1UndNVVVWdk52NUNEWGVTOXl1Tkt5dTFEWHJyc3JG?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "CM directs initiation of process to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYTBwTXE2clNIbl9KeTNjeVY3TF96NHhhZWF4MlRONGY4dkppbGx2QWVHUTdCZko2TGJoeDdDMGMyRDJwc2hTQXlCRTAzOHlvbWNBRi1HMGNFNHo0SlRwSEhLOUc4aG41cGZtdTc5ZzdSclRralBkT2ZodURzTEZaMFY5ZXNqd0ZETThDUzFuMmstUkp5c3l4NDRSa3BoSmxwRndrLVN4U1Y1X0tncUpnMm01Vnd0NjZtaGw0Y041R2hsclJZVU9kMU1tbUFrZkJVOWfSAdYBQVVfeXFMTktBN3hMMnZJN3pnN3pOS3ZhYU03LV80Tk9Pc0lZVF96RDd6Q1M2T0ZLV3FGRzBaejdvWDJacG5kVG5vV2RXdDloVVJqbEhsNFZXU2hXcDV1eFYwdF84OHRsY0ZJUFVHbFZKa1ZydTQtTDZVeEg0YndLcG1fMlBlRGVHcElhU1RYV2JidmRZSWRYdmoyMDRTSEZ5S2xXUlREUDNUem5qVGpGNEFsQzB1emtxLWo0YXFKT0E1V0c2WlhkS1RSQWlyRXFDbi01d0h6bkhncjdGdw?oc=5",
       "score": 0
     }
   ],

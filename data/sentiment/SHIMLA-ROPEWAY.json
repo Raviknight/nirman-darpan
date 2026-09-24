@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-21T22:24:12.851Z",
+  "updated_at": "2026-09-24T21:56:02.191Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
-    "n": 20,
-    "positive": 8,
+    "n": 19,
+    "positive": 7,
     "neutral": 8,
     "concern": 4,
-    "avg_score": 0.065,
-    "avg_magnitude": 0.255
+    "avg_score": 0.047,
+    "avg_magnitude": 0.247
   },
   "youtube": {
-    "n": 21,
-    "positive": 17,
+    "n": 22,
+    "positive": 18,
     "neutral": 2,
     "concern": 2,
-    "avg_score": 0.467,
-    "avg_magnitude": 0.914
+    "avg_score": 0.464,
+    "avg_magnitude": 0.855
   },
   "overall": {
     "n": 41,
@@ -23,7 +23,7 @@
     "neutral": 10,
     "concern": 6,
     "avg_score": 0.271,
-    "avg_magnitude": 0.593
+    "avg_magnitude": 0.573
   },
   "top_positive": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "Your channel will scale higher, for sure keep up the good work",
+      "title": "Thanks for featuring Himachal on your Channel. Absolutely fantastic and professional videos!",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "nice video , loved the fottage",
+      "title": "Your channel will scale higher, for sure keep up the good work",
       "score": 0.9
     }
   ],
@@ -56,8 +56,8 @@
     },
     {
       "source": "youtube",
-      "title": "I am from Solan. I can tell you this is just a false promise. \nGovt had promised a ropeway project in Shimla more than 5",
-      "score": -0.5
+      "title": "Aap hmar Message  nahi Dahka raha inbox ma or na Reply \nKya bat naraj ho to hm Message nahi kar gya  🙏🙏\n🙏👌🌹👍❤",
+      "score": -0.6
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-09-21T22:24:09.985Z",
+  "updated_at": "2026-09-24T21:55:59.151Z",
   "project_id": "SMART-SHIMLA",
   "press": {
-    "n": 20,
+    "n": 18,
     "positive": 12,
-    "neutral": 8,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0.195,
-    "avg_magnitude": 0.345
+    "avg_score": 0.217,
+    "avg_magnitude": 0.367
   },
   "youtube": {
-    "n": 21,
-    "positive": 5,
-    "neutral": 10,
-    "concern": 6,
-    "avg_score": -0.01,
-    "avg_magnitude": 0.257
+    "n": 2,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 2,
+    "avg_score": -0.5,
+    "avg_magnitude": 0.5
   },
   "overall": {
-    "n": 41,
-    "positive": 17,
-    "neutral": 18,
-    "concern": 6,
-    "avg_score": 0.09,
-    "avg_magnitude": 0.3
+    "n": 20,
+    "positive": 12,
+    "neutral": 6,
+    "concern": 2,
+    "avg_score": 0.145,
+    "avg_magnitude": 0.38
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Good morning.sir",
-      "score": 0.9
-    },
     {
       "source": "press",
       "title": "जिस भाई की कलाई पर सजाती रही राखी, सम्पत्ति के लालच में उसी ने करवा डाला बहन का मर्डर, मनीषा हत्याकांड में पुलिस से खोले राज - ETV Bharat",
@@ -38,17 +33,19 @@
       "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "My school name is gd goenka handwar",
-      "score": 0.5
+      "source": "press",
+      "title": "संजौली स्कूल संचालिका हत्याकांड से दहशत में अभिभावक, बच्चों की सुरक्षा को लेकर प्रशासन ने उठाया बड़ा कदम - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckFrdmd2TC1VU3FZTHliSERqSXJydnc1cmVxbW1FSnc1UjM0NFpxRzFMbjJXTE44NTVEdFFOX0tWVVVXelViVzlSQzVhQ1I2OFF5b3dXcERtS0ZoNWRCNGpOZmNwU1Zmb0JzM2l5aTNLem50M1YtV1B2cy1hRVJ1dzNhWENIMWpNWlI2Y1otbVpRUFhWSl9GZE8yRzlaYjlIR09fQkN4eVVwOTJOalp4YkFn0gG3AUFVX3lxTE42T0RwWTBtVFJja0hNc3hfQ1NsSU9xTUN4QmhRT29qNlhWUWQ5VFRuQk5mSnFUS18yanNTaHlJX3VHdWFCd1B0NDlZMmJrRGk3M0kyVS1zTnk2TlNuV2R2MDlJTzNGTW5GR09HNWVBWjFRUVM1Z2pOc0ZsbWNfXzFld3JINENieHdIU1lWVVYxOHh6QkNSQkFiajc3RjRYOE42RjBCam5GZHlpS01HUlBkcFg2azA3VQ?oc=5",
+      "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "शिमला स्कूल बस हादसे में घायल छात्र की IGMC में मौत, पिता ने जिगर के टुकड़े का अंगदान का लिया निर्णय; ताकि बच सके कोई जान - shimla accident victim hardik chauhan dies father donates organs - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkY1ZS1nWFZqcC1ncnJCVWJtVXJab0VaOUJjZ2pjRi1HczJiWkttc1hXYlp3eVE5dUVSR3IyOTRmODJDdTFOSjRleGtlaW5YT1praElTUi00WE1xMGZaVklodzk2aEx4SUpUVGthTG1wNWF2NDZ3ZVBNWkN4eWlJRFIwdUQ4dndCUDVyUmNRcGlLaHRfTEl3SjBUaGVjdEY0aWt0a0FIcGhHTi15RW1oRUpONXpxTEhmT055RVgwMENKXzQ?oc=5",
+      "score": 0.3
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "What tf parents r doing nowdays",
-      "score": -0.8
-    },
     {
       "source": "youtube",
       "title": "First achievement,  water supply every  3-4 day, second achievement,  over headed electricity HT wires, no undergroundin",
@@ -56,8 +53,14 @@
     },
     {
       "source": "youtube",
-      "title": "So what why are you make video",
-      "score": -0.5
+      "title": "Wow what a smart city, shame",
+      "score": -0.4
+    },
+    {
+      "source": "press",
+      "title": "Challenges of Smart Cities Initiative - GK Today",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5Nmh3czZUQmc5OUF0Qk9BMkIzelY3QmxEMmFDNTVTR3BIN0VIUmNkSnhGZ3dQdUJGVHdGYmNDUXNTcS05dDFPTDFFOFZWdENKM1hyTnhIT3psSlJoWktxTU81b21qRHU3Q3ZoMWJn?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

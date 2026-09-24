@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-21T22:22:37.399Z",
+  "updated_at": "2026-09-24T21:54:28.512Z",
   "project_id": "RENUKA-DAM",
   "counts": {
-    "press": 46,
+    "press": 48,
     "gov": 0,
-    "en": 35,
+    "en": 37,
     "hi": 11,
-    "total": 46
+    "total": 48
   },
   "mentions": [
     {
@@ -55,6 +55,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTmFRSGFBckk1amlpQ19mTm9CZ3Z6VGJJN0hQNVktdmFBOEJ2YlRKRldHMWVySVdIZXBKd2lKTDVvX2RuYzk2WTUzSFNKTEE1T0tBV0ZaS0Z5WXJDSmRuSklCUFVmNHN4WnZzU2JqS3REWmg0OUdsZW9fdm5QR215R3RBc1doOGlNZkZuMzVsMjhUcC05TG4zeDMydXRXeVJRbXBpOWpXQkhpeHJqUGVwWDBfQ2VmTVM3LS1JZ2NUeGRUSkxIaWV6Sm5QQlJHODJHNDVqedIB2gFBVV95cUxPNXVNMUtvZXBfRWZEWUlfVUV6WmdCRVRVUnhSUWNkbk5pUmxuQjNhRjl5ajRQdjQxSGZrTzV1M0hoXy1scFZOS2FhTTRJbWNEanBEdUljTDloMWp3TGFWY2tCWEdINGZCRHc2WC02UjZwSU5NY1laaUt2RkFwWmx0c01Jclh2a2xlclAyWEE0QjluczRLYVJQbmU4RTZZdDZGQW9PVmhJZFlTWkZRLVJvd1E0Y2hvbmQ2TE5LaGlEaG1Nc3VjOUczQV8yVFVkbXRfOE9adV9jXzVUQQ?oc=5",
       "date": "2026-05-16T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "Patel Engineering wins Rs 910 crore Renukaji Dam package - Power Peak Digest",
+      "source": "Power Peak Digest",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1E4R0VmVXBBNGVKRlQyZUNhQTFqNUI2Vi1aZGxfSWJ2V09LeXNQWGw3bFBGR1d3aTIzMUZGV3JSTzNJQVc5WEJNQS1IRzV1NWNxUFBueXpIYXg3Vk5ZRGo2enRKTnJiaUtYTm95eklzT2RlNkg3YmZ4NEtyUmpkbVZGcF95bUlrajV0Mk5R?oc=5",
+      "date": "2026-03-20T03:21:05.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Renukaji Dam"
@@ -130,6 +140,16 @@
       "match": "Renukaji Dam"
     },
     {
+      "title": "Patel Engineering shares gain on ₹910 crore Himachal dam project win - CNBC TV18",
+      "source": "CNBC TV18",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVVhfU2FudWVZSWtaM0lNZWY0TUdrMnItSnBXM1N3Y0lXaU5ZNFJwRHl6NkFnWXdMc0tYckFuQUJLcWFGam5oNnhQTm1HQVk5aXNnSTVvOHZ1bnVGNGV1SGlzbm15ZW03Z1NDRnRqYUNJZmZqQ2c3TDBvYzg5V2JFQW5PQTE4dERhVGNmWk9xTXhmQ0pSdUpEY1lLYWcyX1R1bUs2dmJuLUlzY1MycldNd2JnVFNOWHhzS0Jyb1dvamhEM0tTbUZmOVA2cm1zRW9DbUNjU9IB2gFBVV95cUxNbnktUENzdjdTMnRhQ21GSGhEak5PN3NSalRRaG5WRlJ0WEZ4QVV1M3cySGY3Nlo0OXA1bVF2eGk1VHNZR21weksxYVVsRS01RS01ZmVzZDNFWEg2RWVZM2s4dHJXa0tvZWNvZG1tMnhvS2xSY1NoSWVWVUdHWEpVRGpsMmhJUTl2RFlqdTNMTlJZazFac0luUGIwWG40V1RNazBDdmFYZnNoVTdHLVh0Q1VYMHR2dDRkQlpRQWt4dkJUcGpNN05KOGFQMU16bERpNjY1djFPb2Z5QQ?oc=5",
+      "date": "2026-02-23T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Renukaji Dam"
+    },
+    {
       "title": "Patel Engineering is L1 for ₹910 crore Renukaji Dam package in Himachal Pradesh - ET Infra",
       "source": "ET Infra",
       "source_id": "google-news-en",
@@ -150,8 +170,8 @@
       "match": "Renukaji Dam"
     },
     {
-      "title": "CAG flags massive delays in Yamuna dam projects, Delhi’s water worry continues - Daily Pioneer",
-      "source": "Daily Pioneer",
+      "title": "CAG flags massive delays in Yamuna dam projects, Delhi’s water worry continues - Pioneer Daily",
+      "source": "Pioneer Daily",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1ZxYTVqSldsaUtXeVlHTkkxZmlyTVBuNlBWUEhjZ0JjUGRpalRfYVVUeGhFYmRvSF9QSmV5SGNGWHV4TEw2LUt2Qkt1TUZ2QW5FWWZ3emV5ZEFGZnRWU0JTY3JvcWJqcEYtaHFwSUdTem5zeFBwVDl2U0VLODdwcHIyX2k5X0NvQU1vVmVoblBSUEUwUlI2cU1jUkVTR3l5NGswS0tNNk5wRlU?oc=5",
       "date": "2026-01-19T08:00:00.000Z",
@@ -160,8 +180,8 @@
       "match": "Renukaji Dam"
     },
     {
-      "title": "Centre revives three long-stalled Yamuna dam projects to shore up Delhi’s water supply - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Centre revives three long-stalled Yamuna dam projects to shore up Delhi’s water supply - economictimes.com",
+      "source": "economictimes.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeHVxOWlXOFZoSTRtVTdtZlAwd283Vml5clY5WFZwQVlmMm5kazJWMmFTTkI4YkViVEtRdXY0RHhoaHJaTkNsZlRCc3k5bm9Kd3dRZDJoUkVRSk5TV0k2MG9RTG1PbUQ3eUJyMDRhYmRiNDZFQ2w4OHBTRjhQRTAtTzltZWs2aXJUTG1jelBCdTE1VElwbE82WTNOQ1VzTXNOY1Q1NHpWbFZscUtjT1lvVVp0TFF2ZGdhOHlBQmdaYWdONlNqdW1FOEN1cV9vS0pvbVB5WDdWWHp2TklnWC13a2RFRVrSAeoBQVVfeXFMTS13d2k4N0JmakZWd0xhSkZKdGt1cUVlYTBUeUJfazZRV24tanlhanRfT0xNazZqT1EwdHB5aFRyeVFzeEg3SEtkWWhGTzVOV3B2SUZVUlhQd3JWSHA0MDZYRnYzN042SHRLS2ZpUEc2SWpNenpNWnJOQUJ3ZWlfR3pHWExPY0VwZHREejVCdG1ZRG1nZWFHREFOZ181X2ltVXQ4R3EtV3pyeVhyeFQtSjdZZWxMOTJMM0Vnb0NLZkF5OG01R29QSlhSenlWU19QYUNiRWVzUGhxaFdfTE1OLVZybC12NlE3eDdn?oc=5",
       "date": "2026-01-17T08:00:00.000Z",
@@ -180,34 +200,14 @@
       "match": "Renukaji Dam"
     },
     {
-      "title": "Shri Renukaji Dam Project : श्रीरेणुकाजी परियोजना को मिली फाइनल क्लियरेंस - Divya Himachal",
-      "source": "Divya Himachal",
+      "title": "लखवार से किशाऊ तक, कैसे 3 बांध मिटाएंगे दिल्ली की प्यास? जानें प्रोजेक्ट की पूरी टाइमलाइन? - News18 Hindi",
+      "source": "News18 Hindi",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa0VWQ1ZSdVExR0x1OE0yT2NZU1BobEt0QUhCYkM2OUs4Xzl2MHVjYUpaSnRneTRrcG9EdENtUzVZeU40cWFzUTU2VU8wdGVPWnVkcmdpSUdLLURhRDdlZnA1N3dyOU0tYTMyaXFPT1RfZWd5T3RtajVvTFpWRU92d2U5elBFYURuZ0NBeVdEOUl1aXFfQ25CSkRKVVZnclBzR1RSUS1uTm04akRCa3NWWFNFdXFFaWo5Ykp4NnNScHlpNDdteFF3V0FQNGtTNW9IQ3JydVRrRnBBZFBj?oc=5",
-      "date": "2026-01-10T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczNKRkVhNWdXODdSN1VvbDhyOGl4MDFOajY5ZFFaQ3NWYWVDT3VXaTN6N2hSY0hvYWstZkE1M1FTaTQzRUIzb2R1ZDFoNi1fd1VvRzlPMFNjTWVZRW9wb1JSU2pUMHBZWjhLcDVzTTNQOGIwNE1FNUJ3bVkyTEpKU3NxaGp6dnJIbmduTjhROVpTaC1xSThDank3enlMOFpYUy1EM3hUd2otU0NNRDd0RzVvQmRlSUxFazJFYng3Wm13VknSAcgBQVVfeXFMUHBZVEdCM01qR2FCVXlyQk9VXzI1emFPWjVrY0Z3YUo3cFp4WmxtSW0ydDByZnZ2RWlHX3BkQlpMVGJTVXVTM3l6R2tsNEJuM2lyaUV6NGxCbEhNUE5hTU01b1h0VE9SbHJfUXQ5cnAtd3RMUlFCY2I5ZTlna2w1Z0RweFJvdEhteEJxTzM1QTAtTFA0ekxTVzdRTHBPcndTZVJKVmlhVy1ENTlLNzR1ZExTSDVkQUZ5X1YweFdnZFFjZmpfSjhnZmM?oc=5",
+      "date": "2026-01-17T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Renukaji Dam"
-    },
-    {
-      "title": "Renuka Dam: रेणुकाजी बांध परियोजना का गुरूग्राम की कंपनी करेगी निर्माण, अवाॅर्ड हुआ काम - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS1JyVDd6ZmpkbGVuaVZoaGJRUXBuelZrZHA4YzF4dUhIUjJ1dGluZHVoME0yTWhVZkNLbGpKVVV1YXQ0OGlhaFljVFB5TmVqX1pBZUhxaGZDaGtNUktFdzg2bXp4UmhBcGZhTmNRY251dWNMYjZDcmJidEo4X3RqSGZQWGZTLTROM2ZJVzZzSkwtNzVSUFQ0ejF3REVGREh6VC1KY0g2elhiemxoV0xMZTBoakxJS0lzN0ZTTTk5VjkzUdIBxwFBVV95cUxOQ3NNUlIyLTRyZU1KLVNwUUtFZDdXaURJS0NwanV5dHNaY2lGbmE4UmZFeU5WaEk2dEpGRlRxZWY0M3M1RUhTRjdvRzlPdWxNLUdpOUZlTkhtZVAzcUxWRm9EVmZiS1dUWEV4cWJ4R0lCNDRIY0dHR0xxbG9KSG1LZVA1ZzZrZFdVQjZDTWQyemt1MUI3Si12WXdScUhSeEdiUUFMXzJsRE1jcEtCLUswaTRCUWlFTV9TUksyOVM1U2wyUXZjYmhJ?oc=5",
-      "date": "2025-07-23T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Renukaji Dam"
-    },
-    {
-      "title": "Delhi to Build Three New Water Treatment Plants to Address Supply Gap - APAC Media",
-      "source": "APAC Media",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzFOZUhyNzZ2TnhyYkhJckFJb283MEl2MF9NQUE1M1cyS3l4N3A4am1VX1hRZnQxdFc3MUNMZ2JjdmdhekxkNnMydnY0WGpldTc5YV9LZTQ4djBOOTZMWWVES0pmcndLbXctczJ2eFlKYVA1WU0taGdUNGE1Z2U3WEZzMDFub01mNWdlUnRhQ2dVdkVyQ1hMYlAtanYwYzc3eGlKb0tiS3JpUQ?oc=5",
-      "date": "2025-06-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Giri river dam"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
