@@ -1,48 +1,46 @@
 {
-  "updated_at": "2026-09-24T21:55:59.151Z",
+  "updated_at": "2026-09-28T23:37:49.700Z",
   "project_id": "SMART-SHIMLA",
   "press": {
-    "n": 18,
-    "positive": 12,
+    "n": 19,
+    "positive": 13,
     "neutral": 6,
     "concern": 0,
-    "avg_score": 0.217,
-    "avg_magnitude": 0.367
+    "avg_score": 0.221,
+    "avg_magnitude": 0.379
   },
   "youtube": {
-    "n": 2,
-    "positive": 0,
-    "neutral": 0,
+    "n": 7,
+    "positive": 2,
+    "neutral": 3,
     "concern": 2,
-    "avg_score": -0.5,
-    "avg_magnitude": 0.5
+    "avg_score": 0.143,
+    "avg_magnitude": 0.429
   },
   "overall": {
-    "n": 20,
-    "positive": 12,
-    "neutral": 6,
+    "n": 26,
+    "positive": 15,
+    "neutral": 9,
     "concern": 2,
-    "avg_score": 0.145,
-    "avg_magnitude": 0.38
+    "avg_score": 0.2,
+    "avg_magnitude": 0.392
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Wow super cute ❤❤❤😊😊😊",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Wow",
+      "score": 0.9
+    },
     {
       "source": "press",
       "title": "जिस भाई की कलाई पर सजाती रही राखी, सम्पत्ति के लालच में उसी ने करवा डाला बहन का मर्डर, मनीषा हत्याकांड में पुलिस से खोले राज - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNlN4bDRWT01ZMEFjMGlIREkxemhudV80UXhBb1BiTWJONTdlVnJCVXhQay1ZOU45Y1Q3ZzZJaVRGYi1lTHhPSmZRNmkyV3BSRVBVQlN6UlJNckRCY3hMZ2d4SDVlZUlIRkgwb0FwNnlPQWhoNEdoZ29SdDVJZVhlVHd3RThPMExKaUVWbEVfbTBUajZocjlDTFkyR083cDhpX1psNzYtMDFNNXlwR3BiOFZUOVZfTmstV1hZaXctTEhkLVJ5RUHSAcsBQVVfeXFMTmhOVV9XMUdPb1p2T3JUel9GS0p0R1JKcGt3bnVSQ25sTE5laVhEQWVzbTdSNzVUaHZSdFZtRUVlNHBtbkx4dzFia0RkRVdfX2ZUWW96MTJoaG9oX0dCbW1VZmFFaXZVZ2FrQVFlbUlNZ0Jsb2xLb0tibllxU0RSb0lJZFlocVV3cnFMa1J6b1RMamZZSXk0c3lBT3pWUGI2QlpmeVVyRWhJQXB4Z0Rsb1dOMzJJQVk2dVdmcy1ESzVhZ29QTmZwSnNvLUU?oc=5",
       "score": 0.5
-    },
-    {
-      "source": "press",
-      "title": "संजौली स्कूल संचालिका हत्याकांड से दहशत में अभिभावक, बच्चों की सुरक्षा को लेकर प्रशासन ने उठाया बड़ा कदम - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckFrdmd2TC1VU3FZTHliSERqSXJydnc1cmVxbW1FSnc1UjM0NFpxRzFMbjJXTE44NTVEdFFOX0tWVVVXelViVzlSQzVhQ1I2OFF5b3dXcERtS0ZoNWRCNGpOZmNwU1Zmb0JzM2l5aTNLem50M1YtV1B2cy1hRVJ1dzNhWENIMWpNWlI2Y1otbVpRUFhWSl9GZE8yRzlaYjlIR09fQkN4eVVwOTJOalp4YkFn0gG3AUFVX3lxTE42T0RwWTBtVFJja0hNc3hfQ1NsSU9xTUN4QmhRT29qNlhWUWQ5VFRuQk5mSnFUS18yanNTaHlJX3VHdWFCd1B0NDlZMmJrRGk3M0kyVS1zTnk2TlNuV2R2MDlJTzNGTW5GR09HNWVBWjFRUVM1Z2pOc0ZsbWNfXzFld3JINENieHdIU1lWVVYxOHh6QkNSQkFiajc3RjRYOE42RjBCam5GZHlpS01HUlBkcFg2azA3VQ?oc=5",
-      "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "शिमला स्कूल बस हादसे में घायल छात्र की IGMC में मौत, पिता ने जिगर के टुकड़े का अंगदान का लिया निर्णय; ताकि बच सके कोई जान - shimla accident victim hardik chauhan dies father donates organs - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkY1ZS1nWFZqcC1ncnJCVWJtVXJab0VaOUJjZ2pjRi1HczJiWkttc1hXYlp3eVE5dUVSR3IyOTRmODJDdTFOSjRleGtlaW5YT1praElTUi00WE1xMGZaVklodzk2aEx4SUpUVGthTG1wNWF2NDZ3ZVBNWkN4eWlJRFIwdUQ4dndCUDVyUmNRcGlLaHRfTEl3SjBUaGVjdEY0aWt0a0FIcGhHTi15RW1oRUpONXpxTEhmT055RVgwMENKXzQ?oc=5",
-      "score": 0.3
     }
   ],
   "top_concern": [
@@ -57,9 +55,8 @@
       "score": -0.4
     },
     {
-      "source": "press",
-      "title": "Challenges of Smart Cities Initiative - GK Today",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5Nmh3czZUQmc5OUF0Qk9BMkIzelY3QmxEMmFDNTVTR3BIN0VIUmNkSnhGZ3dQdUJGVHdGYmNDUXNTcS05dDFPTDFFOFZWdENKM1hyTnhIT3psSlJoWktxTU81b21qRHU3Q3ZoMWJn?oc=5",
+      "source": "youtube",
+      "title": "Where are you from didi",
       "score": 0
     }
   ],

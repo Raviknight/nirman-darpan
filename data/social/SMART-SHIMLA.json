@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-24T21:54:47.672Z",
+  "updated_at": "2026-09-28T23:36:33.104Z",
   "project_id": "SMART-SHIMLA",
   "counts": {
-    "press": 58,
+    "press": 62,
     "gov": 0,
-    "en": 26,
-    "hi": 32,
-    "total": 58
+    "en": 31,
+    "hi": 31,
+    "total": 62
   },
   "mentions": [
     {
@@ -15,16 +15,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXp1Znh0Z2p6SG5jLVlwZnRRUHZ0MkJ1Q3lNS3NqQm9WTjFQRVc4ZlBOMEF3V0VpcEtreXRBZGo2TEpZNnpoTHJpOEI0Q1NVcjktUEdJbll6U3RkaE9FTjI1R2dxdkpucHY2V0dUVjhrd2QzdWgySE96RTVPQjNLT1Vvd3lCejBpakF4OTZ1bTRqMzNJZnJHN3hPVjFsd1lhRU8xNW1lWXU4T1pIbklUNXpuMFdnR03SAbwBQVVfeXFMTW40c3RTbUpFdXNLdnRkWUZvem10TXBCRFhKS0RiQnNGaDB4OTI0NkpzVXJzWGJkR0pYWWpwU2drX3Q3Z0VHclFfdXdBbzJ2aTI0RUhjNlZDeE5IQlhZWi1lU0VEU3d0NDB6WXY1eTY0UUpUQjBIMG12bnR1b1hnajNuSnAzRjlraG5hZDdSdnYxVjVXUlowV3ZJMGd5Q3UwV3ZYT0t1NjZWS3F2SlJNT3NLbXFEZXI1OHB1cHQ?oc=5",
       "date": "2026-09-24T07:44:39.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
-      "title": "Shimla: 50 सीबीएसई स्कूलों में शिक्षकों के 52 पदों के लिए होगी काऊंसलिंग - Punjab Kesari",
-      "source": "Punjab Kesari",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaktDWnhuR0RTQUx1OUJzc2E2TFFjMmFJQW9TMm56Vmp3Q3Q1SFlfa2JLTWhnN3JGMW0xWDBSRm5DcmN0dTVJSHZfWlA1Q0pZUW9SSUpFZkhSeE9NVlBfM3N3WjZvVUxRQkIwM3FQbnB4ZjFyT2tEVFRmTmZYOVZmenlBQlFfV1lMN0tjc01PUDJNNzljLWRnRmtITGZwQjdXWWfSAaoBQVVfeXFMTkJ0MnNtSHo3LVJkNGo4SlpiOWdtUEtaUkY5SE5YZUhsUUNyUktyYnRIdEx0Sm9EV1NBaU5UZHpRTTk0QXNnQjFST045UmJock5OM2drelE4cVZvU1lxd040WDZOY1hRNF83N0hEckRGcjU5bWFQUFBuUTNSS0Rua0FxR3VrYzRjYUU4eWIzWUhLNGpKU2FUM21TT1JsQmRrTHVjamw5RmlFREE?oc=5",
-      "date": "2026-09-23T11:05:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"
@@ -110,6 +100,16 @@
       "match": "Shimla SCL"
     },
     {
+      "title": "शिमला में निजी स्कूल की डायरेक्टर मनीषा मित्तल हत्याकांड में कहां से पकड़े गए आरोपी, कौन हैं दोनों, पुलिस क... - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXlza2FtNlg4UUduM2o1X0tqUFlUaHRKTGpxbHREQlFYaWxiWk8zbUxCTjNPV3diSGNzdGpraDJhRjVBZUlZMWMxM3Brb0x5R0xoU0FKMFhQNGFGbEZrVDRrb29PTHBJMkQ0WjhiZUFyVXFiNzM3eWdFbHhzTFFyWWhfZDl5aDdPWmJaamdHZnFCX0lGcWF2dDAxdUpmZzAxa05lMnVoMmdabHM3QjZ3VGNRWUN1NVdfYThOMm1iMTFkeDZoSER4ejZrVllwWlpyR0ZmUGdn0gHbAUFVX3lxTE54cUxiMUxqTUlWWXNpSHJ4RkxhQWVXbzRjR21RSDlndnhfRUhrSURCekRQMHFORlhoQlJ3eEl4OTlFYWxsOHNNSEFDYkpWWWIzN2tiby1mcGY1bmstVmZ5dUFhNzg3M2pFNm1mMVBEc0xiZ0hVN3Q1cl9yS3lXWExEd1M2SW4xbTU3Qm1nOU5uME1Hb09aRmwybW80REZPTEJBd3djX0hnQ3U4a3BEN1NtRThNQmZUTG9NaHQ0Q3gxQWFPcTNwTUo3bGdaYi1yZnU0b2RDWGhfY1ItMA?oc=5",
+      "date": "2026-06-16T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
+    {
       "title": "हिमांक बोला- बहन गलत लोगों की संगत में थी: शिमला स्कूल पर कई लोगों की नजर, इन्होंने ही मनीषा मरवाई; सिर में... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
@@ -120,20 +120,20 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "शिमला स्कूल संचालिका मर्डर केस: चंद घंटों में शूटरों तक पहुंची पुलिस, हरियाणा से दो आरोपी गिरफ्तार - ETV Bharat",
-      "source": "ETV Bharat",
+      "title": "शिमला स्कूल संचालिका हत्याकांड में 2 शूटर रोहतक से गिरफ्तार: 2 पिस्तौल बरामद, पहचान छिपाने को हरियाणा की गा... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZnR2TWhhQXlfTEJFSXFaMElTY3hvVV9lQWc3a2NkRGpwN2swSkNuNlljU1hGbmpwajdrVTNSWno2dVRQUjh2UjJ6NTJZYVkzdmRsVmlKOXFXOE5rSnFmWXRpY2VkNkFtekFDcUozME5Ldno5RnJIS1JIS2h6b29Fd08tdjNTNDZCVGo0TjBLTHFYazVac183UGRENXpPb1NMWGdKSm1xbF9nMm1HVnk4cVRoYkpMSk10UHRuc1k1T0JHSlhBUzd2ZUVrNkEtbzJWdi1YeVdsWVFwQdIB3wFBVV95cUxQYkxJN3Z2aGFmU01RTTdnc1JlWGluNGpZMVk0UkpEVjJFeEJUZGp6eUtHQU56X0hnWTZiOENpd3AtSUhIdVRkZTBfTFo3Q2RoYXlXRkMxV1VXaTgxMjdoREtwMDRsaFgwT0RQNUE2SXZoVDNwenZYMHVjRWdOMS00Qmgza3JBRm5sUGJBN052Qy03TF9rMExrS0hiRHMxV2F6dFBoeHVZelpVWXZBSnRiZExvTWNRMVJ2S1dVQVpQNm14aDBFT0pGNGlWZHNTQVpVb3IweF9hbjZCTkQxbVo0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTDcySkxISTNtbTZ1M3hfTTF5Z0xnSUNqMVRfVURsc0FYbUVsTVZiR282Q0Q3NDluT2tZRFBNZHFpMVR0RE80QmdRZnlMRkoxZmFCalU2U3BSZkUySUFURk85Rk1WQnpnMlJac0JyNUlsZmhDRDdscWtKMzc0MzhpR1VrSFFWZEJMWlZqcjNGRG1qZ2R3dkcxOXFHaUZxRGlPa01BQkRqbllNMXN6ZGpBaTZpM1p0TVJ6bVdLdTU0TXZzdkZGN056ZG9jSFJ0R3hvZWxjbFRyUDdBMzRWMzBlX9IB5gFBVV95cUxOcmxudllrNV9MQXR4OV9lTFBZMTdoMkpLaEY4VTNNQXpfQjdQZnNxVl9FVmhUX3NHVV9KWk5nMXliZE1ycXEzSm5rZ3VIMWpvWHd5cTNXelZ0Mm5KLVVYbTJ4NUVaSEVCbnI5TkRTOUg5elBydHNvZC1NczB4Z3VaWDgxQWRaQWZCT1liS2Y1TVVieV9ZTUZ3d0dldzJocWJkY2h4WE85bzM3UGtGRzZuelFKNEVHTjFSU2VlbTJlb2pHckNxdHJpVU1qV3Z3aHRtS2htTV9RSWdKY2wyMXBEZDZlSTdEUQ?oc=5",
       "date": "2026-06-15T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"
     },
     {
-      "title": "शिमला स्कूल संचालिका हत्याकांड में 2 शूटर रोहतक से गिरफ्तार: 2 पिस्तौल बरामद, पहचान छिपाने को हरियाणा की गा... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
+      "title": "शिमला स्कूल संचालिका मर्डर केस: चंद घंटों में शूटरों तक पहुंची पुलिस, हरियाणा से दो आरोपी गिरफ्तार - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTDcySkxISTNtbTZ1M3hfTTF5Z0xnSUNqMVRfVURsc0FYbUVsTVZiR282Q0Q3NDluT2tZRFBNZHFpMVR0RE80QmdRZnlMRkoxZmFCalU2U3BSZkUySUFURk85Rk1WQnpnMlJac0JyNUlsZmhDRDdscWtKMzc0MzhpR1VrSFFWZEJMWlZqcjNGRG1qZ2R3dkcxOXFHaUZxRGlPa01BQkRqbllNMXN6ZGpBaTZpM1p0TVJ6bVdLdTU0TXZzdkZGN056ZG9jSFJ0R3hvZWxjbFRyUDdBMzRWMzBlX9IB5gFBVV95cUxOcmxudllrNV9MQXR4OV9lTFBZMTdoMkpLaEY4VTNNQXpfQjdQZnNxVl9FVmhUX3NHVV9KWk5nMXliZE1ycXEzSm5rZ3VIMWpvWHd5cTNXelZ0Mm5KLVVYbTJ4NUVaSEVCbnI5TkRTOUg5elBydHNvZC1NczB4Z3VaWDgxQWRaQWZCT1liS2Y1TVVieV9ZTUZ3d0dldzJocWJkY2h4WE85bzM3UGtGRzZuelFKNEVHTjFSU2VlbTJlb2pHckNxdHJpVU1qV3Z3aHRtS2htTV9RSWdKY2wyMXBEZDZlSTdEUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZnR2TWhhQXlfTEJFSXFaMElTY3hvVV9lQWc3a2NkRGpwN2swSkNuNlljU1hGbmpwajdrVTNSWno2dVRQUjh2UjJ6NTJZYVkzdmRsVmlKOXFXOE5rSnFmWXRpY2VkNkFtekFDcUozME5Ldno5RnJIS1JIS2h6b29Fd08tdjNTNDZCVGo0TjBLTHFYazVac183UGRENXpPb1NMWGdKSm1xbF9nMm1HVnk4cVRoYkpMSk10UHRuc1k1T0JHSlhBUzd2ZUVrNkEtbzJWdi1YeVdsWVFwQdIB3wFBVV95cUxQYkxJN3Z2aGFmU01RTTdnc1JlWGluNGpZMVk0UkpEVjJFeEJUZGp6eUtHQU56X0hnWTZiOENpd3AtSUhIdVRkZTBfTFo3Q2RoYXlXRkMxV1VXaTgxMjdoREtwMDRsaFgwT0RQNUE2SXZoVDNwenZYMHVjRWdOMS00Qmgza3JBRm5sUGJBN052Qy03TF9rMExrS0hiRHMxV2F6dFBoeHVZelpVWXZBSnRiZExvTWNRMVJ2S1dVQVpQNm14aDBFT0pGNGlWZHNTQVpVb3IweF9hbjZCTkQxbVo0?oc=5",
       "date": "2026-06-15T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -160,16 +160,6 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "Shimla: स्कूल संचालिका की गोलियां मारकर हत्या, पंजाब नंबर की गाड़ी में आए थे हमलावर - Punjab Kesari",
-      "source": "Punjab Kesari",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1c3MnY2Y0RvUXdmWTJhblRPcElHV1l1eVVlTFNvdmFrTFJ3UERITUpQb2FEMXpvZTdBaGxUTGw2eVdTYVhPMDJhMkxhS3lraWo3cGZCX1VnWk1kZGtfNTk2d3MwUmYtVzVZREZHeGw0TnppSy1Ybml1dThUWkh6T0VWRnhSR1FoSHBaQUt3MFRVVzN6enNLNWU2a24xZ9IBpgFBVV95cUxNZGhmaFA5eU40YkZBMGZTQVNuc3pQZFhZalk1Q2RCQWZOdW9Hb1NHellwdmo2d21Nb1ZkVVJoYlpwZ3NlaWFsaTdkajI1Z3liTHJtWjhjRGpTRzZGOUxsUThqTmRmRXI3RjJnZ1h2VFIxQm9qaWZVbEFxVllxd3JvdFlDQXJsT3BwLTQzU0szMGRVMVlOU1BGS2lzR1NMR0hMdVprU093?oc=5",
-      "date": "2026-06-13T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
       "title": "Explore multi-storey parking at Lakkar Bazaar amid rising traffic: HC to Shimla MC - The Times of India",
       "source": "The Times of India",
       "source_id": "google-news-en",
@@ -188,6 +178,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"
+    },
+    {
+      "title": "6-IAS transfer in Himachal - HIMACHAL HEADLINES",
+      "source": "HIMACHAL HEADLINES",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yUWxhcW5Qc19LSTVHU19DdE5IaG5HS2V4ejlBVUJRMWV3NDAxYWs3clNCaDlUVGRuLUlaekJJVjBmY2xpV1V6WlFrbTYxcml4b1prcXNxN1lQZDZoQzJwUndzbG9Ld1I3YnhoRk1qWQ?oc=5",
+      "date": "2025-03-23T20:45:51.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Smart City Ltd"
     },
     {
       "title": "Challenges of Smart Cities Initiative - GK Today",

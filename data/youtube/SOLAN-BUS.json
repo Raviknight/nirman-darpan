@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-24T21:55:54.669Z",
+  "updated_at": "2026-09-28T23:37:43.406Z",
   "project_id": "SOLAN-BUS",
   "query": "\"Solan Old Bus Stand Redevelopment\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 0
+    "comments": 1
   },
   "videos": [
     {
@@ -26,13 +26,21 @@
       "comments": []
     },
     {
-      "videoId": "6L1Gp_jp8nM",
-      "title": "Solan Old Bus Stand to Samlesh | #shorts",
-      "channel": "Life Of Gupta Ji 11",
-      "published_at": "2025-04-23T10:55:43Z",
-      "description": "Solan #HimachalPradesh #LocalBusRide #Samlesh #SolanDiaries #OldBusStand #HimachalVibes #PahadiLife #IndiaTravel ...",
-      "comment_count": 0,
-      "comments": []
+      "videoId": "8TGwawzZJIk",
+      "title": "pranya bus 🚌  bus stand Solan 🚌 #bus #himachal #business",
+      "channel": "pankaj kumar",
+      "published_at": "2025-08-02T08:03:46Z",
+      "description": "",
+      "comment_count": 1,
+      "comments": [
+        {
+          "comment_id": "UgwH_jdVJP46ZnQH9rx4AaABAg",
+          "author": "@ghost_gaming-b8f",
+          "text": "❤",
+          "like_count": 0,
+          "published_at": "2025-08-06T01:39:35Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

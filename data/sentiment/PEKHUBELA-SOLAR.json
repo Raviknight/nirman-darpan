@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-24T21:56:01.490Z",
+  "updated_at": "2026-09-28T23:37:53.665Z",
   "project_id": "PEKHUBELA-SOLAR",
   "press": {
-    "n": 20,
-    "positive": 8,
+    "n": 19,
+    "positive": 7,
     "neutral": 10,
     "concern": 2,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.23
+    "avg_score": 0.068,
+    "avg_magnitude": 0.216
   },
   "youtube": {
-    "n": 5,
-    "positive": 5,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0.5,
-    "avg_magnitude": 0.5
+    "n": 7,
+    "positive": 4,
+    "neutral": 1,
+    "concern": 2,
+    "avg_score": 0.129,
+    "avg_magnitude": 0.386
   },
   "overall": {
-    "n": 25,
-    "positive": 13,
-    "neutral": 10,
-    "concern": 2,
-    "avg_score": 0.18,
-    "avg_magnitude": 0.284
+    "n": 26,
+    "positive": 11,
+    "neutral": 11,
+    "concern": 4,
+    "avg_score": 0.085,
+    "avg_magnitude": 0.262
   },
   "top_positive": [
     {
@@ -32,15 +32,16 @@
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "Thanks great content.",
-      "score": 0.9
-    },
-    {
       "source": "press",
       "title": "बीकानेर में बनेगा दुनिया का सबसे बड़ा सोलर पार्क, पीएम मोदी ने किया था जयपुर में शिलान्यास - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1p0RlhGV3B2V0xwSG9VemIzc0cyaXRTYmdPOFVmd2lLRzVmUUdkTGJ3VHFyenEyaGxqc2xqc3FZeEM1dmFvNmp3bG5rVlZWSWw2SHFKSldtQ2QwZTlXWmVhU3NxWEVwTlhlQVhhdUpMVVMzVktOa3lKMmNlMlZuQjBuUEZHS1BpY200M3AxWldfRktDZU9YeDVYMjNoQ1k5RVZSaVNXeWU4Zy1BeVdSVVhFd1RQaUFWeGZQQ2UtWExvSEYxeUczZUFCdmdCZ0d6N01B0gHYAUFVX3lxTE4tOXo2Q2VCcWhkR2JIcVA0alNSZTZGV2JuTldwRzAzNk1JZzdvVjQtTXN2QklhOVFDeWxjNkt4SmZYNUpFR25lNlAzZkhqTU0xdlFXSlRWeU8zeEl0emI1WGhSenZUeDZLWEIyZXRMV2NVZ18tTVR1QTRnVWlmYS10czFHbHRMby1YZ0hnZE1HT0xLNE9pVkdORHdBZlhrYXlxeWJVUGFRRVU2VV9EcGpZMlpOVzZrMnozbUkybG4tN0JlbWRmS096X3FDUXlHZDFxM2JBWnBNeA?oc=5",
       "score": 0.6
+    },
+    {
+      "source": "press",
+      "title": "Una: सतपाल सत्ती का दावा- कांग्रेस सरकार की चार्जशीट तैयार करेगी भाजपा, पेखूबेला सोलर परियोजना भी होगी शामिल - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFVYSzJleENWZW05Y1hzellUeTVwcGhFSDJ6RXN3eGlEa3FFQ3NLeUxUOFNOeFViWGg4dXVsU2RER2FyWFVlOUtIMkdTbjl3TzZ1T19ET2RUOGZQT1VxeHZjclZabVBFUHE5bmNVYVFYU21TUGlRbk1zVTk3Rk9BVEJHSWZfSEtwYjNtMUJSZ3dFY3dhMW9RQnllYmFKV0MtSXBBWWVrdV9GeVNQYURTejh2OG1hLUFpWUJ3aU9QQ1hNcXlLMlo4TkNXQnFzX0Y1aGZPd25oVjlGR2ZVWDBTS0FpYw?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
@@ -57,10 +58,9 @@
       "score": -0.6
     },
     {
-      "source": "press",
-      "title": "32 MW solar plant in Una to be operational in 2 months: Himachal CM - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa09pMGJsMGVtRXBhamx4Yk00SXdKazBjLXh6UWMzVGduSEt5UVRXRWVpNExCVzdlMUo2VnpRczBCSWVma2RZSndEclN3YkExZmk0WWNVU2RqcFd1Ynp6eXh4b3hhb1BfV04tMXgzQjBxSWVGTUh3YTJvVkxwZDl5LWVod2dHNHFsZjNJREQycVdFNW9rWGhOZVBiYTFJSVZZOE9VaC12c3VZeHZE0gGwAUFVX3lxTE9LM3M0ZnZmOTVPdzhzUjAzVG5ieXFzVmFVaHI0a3VoYnJMcDZCV0hjczcyQ3d5azVKS0tvNEF0dFlGM1YwcDJBdzhBVEZjMzNsVG1iTWttQ2JrUVJlYndzejI2SEJOWWI0NHk4Q1Bacy1RV3d1OC12UlhnTU53bWU4VzlUX0lWNi00R3RtMDh0X0g3YjNob3FYMHQtbUs3TmpTMHF2VmpWSjdfLU5OUmcw?oc=5",
-      "score": 0
+      "source": "youtube",
+      "title": "Most corrupt and papu cm of himachal. MINNING and forest cutting are on peak.",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

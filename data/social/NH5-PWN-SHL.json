@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-24T21:54:22.217Z",
+  "updated_at": "2026-09-28T23:36:08.741Z",
   "project_id": "NH5-PWN-SHL",
   "counts": {
-    "press": 23,
+    "press": 20,
     "gov": 0,
-    "en": 11,
-    "hi": 12,
-    "total": 23
+    "en": 10,
+    "hi": 10,
+    "total": 20
   },
   "mentions": [
     {
@@ -20,21 +20,11 @@
       "match": "Kaithlighat Dhalli"
     },
     {
-      "title": "सीएम योगी: बोले-व्यक्ति से बढ़कर दल और दल से बढ़कर देश, भाजपा ने बदली राजनीति की दिशा, सपा पर साधा निशाना - Head Topics",
-      "source": "Head Topics",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lYnA1WTJBbTZWOHY4c2t3UWdtVjN5WWh1WjQyYkV3a1plQWFUd0tRbEhrN2ozS00yVjUtUGw3eFpCMXhvd0RZc1JtOENxbTRTQ1FLdmRiajA1ZlFDd25kZ2ZqYXR5VEpuY0hSOA?oc=5",
-      "date": "2026-09-21T09:40:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shoghi viaduct"
-    },
-    {
       "title": "Panchkula News: 35 दिन ट्रैफिक ब्लॉक, कालका की रेल सेवाएं प्रभावित - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWjNfSkhjNkdqeW5QSEtZa1A4aU9GdWFNblQwWWdSVkMwREQ0UFI2TkNjN3pZdzBMS2JoZmtScEUzQUEzX1hvUURmdEFSNEpsLUdwNVpvcExmNGVPYTlVa3dPTFNGNVlDaFhIdGkxbkZUNXhMd3IzOUs0UVpzVkhHekI1OWlhTjJicUNKZDJQR053VHdGRnVhUlZmMmMtN1NPaXdLU3FocHlTN0xmWWRsZE5PSlAyQV9hVXU0TDJ4Ny1ieXhqdHlwT0ZoNHNhOXNjUUdzZ2NjN192d9IB3wFBVV95cUxOM0lKTl9EWXk5VWxuaDBlQVc5aVl2V0djV0pzbDZNMXlLNE1DMDdRc0VtQUZYQWtObElsLW9Ld0RKXy16d2pLS1BhWGdxOG9uS2pSVDgxZ2pGcVFlSENMczF6VlpMLVBmUkRCS1dnU0VEMlQtT3VYSmRyY0ZmMGs0bGIwRXY0dUNWaWV4dEw3cVZ3OVRMZDJaUXVFeko3dFFvdzA0QWxaenMwMkozc1U2cVd5emVkaWNqbl9sUFRGb2FCUl8wSGJDNldueTlLQ3dSVzljY1d4UTE3VWpKajZV?oc=5",
-      "date": "2026-09-08T20:07:03.000Z",
+      "date": "2026-09-09T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Kaithlighat Dhalli"
@@ -55,16 +45,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmZzYS1nZ2FOUmxEVjFRUEYxWUMtYl9zcGtPUHh4eWFJcktLX0V0eEVFMXU0bHRUb3BFUFJpTkpCNklVVzlsMEl1NVNDa0ZQdFM4VGpDV002dzdPQWRHZ3lhdnpoTlhIWGFTdlNXbTUtZUFJcTZFVGludmNDcmFneUNLd3dOOG9hRGQyd1NnTU93V0ZnSUpHbFhKWFpNS05xcnJUetIBqwFBVV95cUxNeFI1aU04V0Z5QU5zZTdEMlpWTm8wd3hLQzlHVjhGcjMwTnV1V2VMenNRelZBY3JrQTBLUjlONWltanE2OXViUzBfWU1JU1pMRFluSU4xUWlGUWFPWklXM0R5d2ptTzFzcnBXSG9YWHF1dWlJVGNMQzIzcy0wZHZsZ1lDVjJseWQ3TjVBanpnM0pYYlBoaWRwaGhSaVZmSk92b1RnZkMyaEUyRUk?oc=5",
       "date": "2026-05-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kaithlighat Dhalli"
-    },
-    {
-      "title": "Shimla orchardist suffered Rs 40 lakh loss due to NH-5 four-lane work - The Indian Express",
-      "source": "The Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbl9IVWhERldmUnFvTUFXMXpKRDNVcFpWT1Q5RDZjTnRsVHR0bm5feWVqdjl4eWJaQjBzUTlWS3hobWtGN2RKYVV2aFpmYm50YjJEYVR6YWp0aGtFYVA3RnJRaEI5Wm54NEZpRVEyVFZLdkExOXkwcWVFalpsbkxoR3kxYVhUWm50NGNnZE9qS2lVaE5rUzY0Uk1NZ0RKY2ZzMWJaUENFc1hxaTNW0gGzAUFVX3lxTE8wUmlsc2EzRjEzeHVnYXJXN0hfUFV2dmpsbVFid0FvN2ktMHpTRENKWUdEUWVnaTZIakRjcVhjczZGUFFVSmRuYTBPRVp0Y0RoQ3phT1lJNE1iZTByQU9TdWJ1TDJucjZubEpXbXVPeEJzSmVyOVNUM3BRV1l0MDV4cElBNkIxdERFXzR1Yi01cVBkTXlOUkUzTzY4NllsX1Q0cm1PaU5FS0FIM1d1cUFsZWFr?oc=5",
-      "date": "2026-05-19T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Kaithlighat Dhalli"
@@ -120,8 +100,8 @@
       "match": "Kaithlighat Dhalli"
     },
     {
-      "title": "Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - The Federal",
-      "source": "The Federal",
+      "title": "Uttarkashi tunnel collapse prompts NHAI check, orders at Himachal sites - thefederal.com",
+      "source": "thefederal.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcW94YnVfR0pHeUVkZUd2WUV3U3VBRUlIc2l2allCMWtRUlNVdnJiLWNJdXVrbVl6UTl2WUllcTd0ZFdheC1ac0RHU2FpV1ZTWlZSNlN5aTRKSE9QSTViZnl0VGJEUVJMN2xpb1hwQnkwWE9Kd3Z5bmg3QktHOXVPZTFzTzZHR3pEOHhZLS1SaHo5ZmJFaVd0c25XMFh1blBSa0xsbFVyc19nWkRCUDMwaTdRdWstUzB3dmJ2UW0xb201cHF5MVJ1T000aEpHYVlmM3pfNzJB?oc=5",
       "date": "2023-11-22T08:00:00.000Z",
@@ -207,6 +187,26 @@
       "date": "2021-06-21T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Kaithlighat Dhalli"
+    },
+    {
+      "title": "कालका-दिल्ली शताब्दी एक्सप्रेस में लगी आग, बाल-बाल बचे यात्री - hindi.oneindia.com",
+      "source": "hindi.oneindia.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX1U3YTdvWVRXVElyYjJiazNXdVZyNm9URVRnS0puUWU5bWlmNzFIdXBHS24xNkN0R04weDFVV3p6STB3dDg0NUt0ZVp1Yi1UVWJFZTZKdllkeDIzeUhWOG4tZVFJdF9mbE5BdjZ6TDlhWFkxV0dUQkdvbWxkeGRQVFpGUDhLSGR2SHljdFRvVTltNXc2Wm83NHNXTVRWVGlLdG9zLTk2Yw?oc=5",
+      "date": "2019-10-23T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kaithlighat Dhalli"
+    },
+    {
+      "title": "कालका-दिल्ली शताब्दी एक्सप्रेस के खाने में निकला ज़िंदा कीड़ा - Aaj Tak",
+      "source": "Aaj Tak",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQUs1Z1pvMjRKaC1OaTZEeEJrTXZGMVktRHUyc01BcVpsMlpjWm41WDhFdThKZ3pBaHNxQ1piR28ySDc4OWNGQ3liX25iU3Q5emF4cW9QR3JfQkN1b19WQnBDeG1ONlgxUVR5T1htWFN5SEk5dmEwdk5fNzJrUkVCbDUwaldIRDk5Z0JyWHpsQXk4QmpYY21wU1lxTEvSAaIBQVVfeXFMTUhQeGRaOUVxWTBULThWVnJGOVk0S0hfRG8tMUhrTUs3X1AycE5YVlByVFFBVFpHcWRjbXJ4V0FKWDgwSWg5cTFNLXc2bFRtamlLYS0xdl92ZUhITXAxQXRhbTFMWjl6TGNMODVpZGFTUWR3RHJaX1VBa0Y4WVVUcEFCT2l2RXhnVWRKVXh0a19xakkyWFM4ZmotMjZlaXZ5MVB3?oc=5",
+      "date": "2018-05-05T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Kaithlighat Dhalli"
     }
   ],

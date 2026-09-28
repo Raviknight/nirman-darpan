@@ -1,54 +1,52 @@
 {
-  "updated_at": "2026-09-24T21:55:59.034Z",
+  "updated_at": "2026-09-28T23:37:49.665Z",
   "project_id": "IIT-MANDI",
   "press": {
-    "n": 7,
+    "n": 5,
     "positive": 1,
-    "neutral": 3,
-    "concern": 3,
-    "avg_score": -0.2,
-    "avg_magnitude": 0.314
+    "neutral": 2,
+    "concern": 2,
+    "avg_score": -0.12,
+    "avg_magnitude": 0.28
   },
   "youtube": {
-    "n": 2,
-    "positive": 1,
-    "neutral": 0,
-    "concern": 1,
-    "avg_score": 0,
-    "avg_magnitude": 1.6
+    "n": 10,
+    "positive": 6,
+    "neutral": 2,
+    "concern": 2,
+    "avg_score": 0.18,
+    "avg_magnitude": 0.96
   },
   "overall": {
-    "n": 9,
-    "positive": 2,
-    "neutral": 3,
+    "n": 15,
+    "positive": 7,
+    "neutral": 4,
     "concern": 4,
-    "avg_score": -0.156,
-    "avg_magnitude": 0.6
+    "avg_score": 0.08,
+    "avg_magnitude": 0.733
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "I start my jee journey every day by seeing this video at dawn. \nThank you so much for giving us the ultimate motivation ",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "literally whenever i feel like, ugh i should sleep or i should scroll some reels but then i watch this video n it gives ",
+      "score": 0.6
+    },
     {
       "source": "press",
       "title": "IIT मंडी के स्टाफ सहित कई लोगों से 10 करोड़ की ठगी, 10 प्रतिशत रिटर्न का झांसा देकर पैसा ऐंठ नेपाल भागा शातिर - Jagran",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNk1idUhuUEZQZ2p5R1J1ZF9vQ3VfWGs4d2lLbXE5cERNWXcwZlpHUGQyTmV4aTN3d1NTd0JXWE5mSFB3RWdGLVI3QUZfeVozM1ViLVpFNzEyV09uRXJYbHZySGRCUkZvLVVubkJDYjNoRTM4ekRTU0xhdG1nOE15RmZXVGsyWGRNbF9EZHpIN0pteXRCRzlzVmNvNlk3QmdIVWhObmVmOFpCQjl0NVJra2htWnFBMGIzdV9LNzZZWQ?oc=5",
       "score": 0.4
-    },
-    {
-      "source": "youtube",
-      "title": "welcome to mandi busstand",
-      "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "The unsorted life of a bioengineering student at IIT Mandi: My IIT, My Story - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaTlRbUdHM0ZQVFJJWlFIc0FRWXFGRElGbHhwUEdQTEd2YmFNdVgtZDBoZm9uVi1JOWwyWnpvLXZtekJNbXRha0VtVW9mQ3ItVFlzMGxzOE1iSkcwV2VvNlBOeXI2bUNVcWNzX25fbXY0YTRSQkJWRGxqbmJBMHZ1ajlnaW9pRUpKUzVZU25WQmxIQ3RORkdqSmx4bVhGeEItNGFMczhSR2ZnYjZqQktuZXFCWG1wd3hsSXA0SFhNS3VpSzMxS1dudTgwYWx0b3plWjZCZExfQS1ONkw4TkdoZ29tUWLSAeoBQVVfeXFMUEpjNlFWakRoX2YwSndtNVBySTc4VUFBdDNSOHowbWhiMHZzbEZQSGtHZlNyemtKNjQ2dUNpaFlSRGxOT1VFajh0ZVdvLVRXUlVkaTZzMFQzX0ZScUlleW1idnhJaC1GcnR2US1rXzloV0VCcmU0cVJQZHN1YnBrODdSVk5HY2lVeUVPRGNNWlFBQUpYWTZNcU1HdHFBc3BGOFNDR1JWa0hJTWZGMFJQSXNRRHRUVEN0TUFGcTFCTXloTXFJU3hxWlRKMlJ1SHI3VkJVbDBRYUFuLWE0c2tCNHN0N1FGNms1dTd3?oc=5",
-      "score": 0
     }
   ],
   "top_concern": [
     {
-      "source": "press",
-      "title": "IIT-Mandi regrets controversy over Janmashtami poster; says content did not represent its views - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWpDcHl6QmFHMkQwby1hUnRyd1JDUlZKVlp6UF9yVmdYemppa2ZpYkZINXJLQnhwR2FxdzFLNlZnZ19XZEVLMlNKM0YtRVRnc1NsaFNMa1hHZUFNRHl5ZW9ZS2JwQTJyX0d1SVNYRi04aE55emhxekloUS05MWw4blN3dTJxeW8yendMd0tScFBMTlFybmJUVkFmU3lCN0l1VWFiVGxyVGptWU1ZSVRXVjNXOUJWSWVVeFZIclNEd2FEblIzTFd0YmdxTW56Mmpvb0N0NdIB2AFBVV95cUxOcUZWRUwzNlpiOGM4MUFSb0lwVXdXWVF3dGdUQXhhLUhWOXlkN1oxeUJMbVI5d085RVpiMnJndVNqUlAyVVMwOVFzUXc0dVZVYlVBYngwdUQzb3J1QUY0dEdmRFpEVEZQZV9QMFJ4eHBaY082TjNJUTh1c214aEN5dlVVTUhTYnduVnBwY1NXTG5yakkzbDJqLW9mVmdfblhXYmViaTFUUW0xZW1ZWDJLbG5qMVAzZE1seUZjTHBVbGluNWZobDZNdUdTdktlQjd0T1lUTklhZ18?oc=5",
+      "source": "youtube",
+      "title": "worst college, no facilities, very tough life. dont go please",
       "score": -0.8
     },
     {

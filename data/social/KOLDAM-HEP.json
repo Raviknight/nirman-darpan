@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-24T21:54:54.317Z",
+  "updated_at": "2026-09-28T23:36:39.626Z",
   "project_id": "KOLDAM-HEP",
   "counts": {
-    "press": 100,
+    "press": 103,
     "gov": 0,
-    "en": 67,
-    "hi": 33,
-    "total": 100
+    "en": 69,
+    "hi": 34,
+    "total": 103
   },
   "mentions": [
     {
@@ -15,6 +15,26 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDd1QUZtSHV1STFxcWQ3T0FKYXpZSFotWXVwZXJSMmZfY0lPZmtxdW1zdkRQMmtMNzM1cEl3V0VNUkUybmp2eVZZRjZjdHhrT004WTdvVDJGNHFTWWRLdmF3NmxDcEM4ZU1NVWZBaWJzMEFwM0M5LS1JWWQyaWZYamZ5M0Vnampoemw5YVF6cERBdWM4eW5Nb2s0c0EtRm5SaXF0ZEZpLW9BSjZNRHpldUg2dl9nZ9IBuwFBVV95cUxNOWU1cnJ1LTVzNURkZWZMWUUxb05FZ1JpLXNLSmVCNHdpSXduYkIxOVQybVJPcVhfTXY1R1h6VG1OLXRXUUlQd1p3ZTktRGw1bzZUT1FoX0Rvb01BNXhLbFBQVld5akNpNDhFUE9QeEdGVXhtSUJvTHkydG4wZHJTNFBzSFNXNU1neUlWaVZZNXRERGRKODB1X0hINGltUmNIeXRSZ0JYVEN6anBPa0RKRk1kOWpnRm5aZjlF?oc=5",
       "date": "2026-08-31T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Koldam"
+    },
+    {
+      "title": "Bilaspur News: कोलडैम से छोड़ा जा रहा पानी, चेतावनी के बाद सतलुज किनारे हो रहे अंतिम संस्कार - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOVnE1bzQtYWxoUmwzU3RrQS11b0hXM2VoM1JERm9Tc09LZF9DYTgwYjRHOXRIaEh0Ukc2b09raUNNU1dya1hvVUdZdnhOdWtNWG5OSklON1VULWxNdWpBSEdBZ0d1cE1xTjdkdVFlMUNSU1UtcjJGRy0yX3BFT3RkNm5oSE5WZ1ptRzBEQVhqOEE2ZVByQWtYU2d1ck1qeEhzeWJMbC0xbnloeWVOU2ZqaUlrdFhnNzZPSWpzSmZveEpUNEEwalJ0OUFCMlRLcDdrbHoyNW95cEJPS19NMElBVEI1YWk3N0E0ckhVQlZENXprLXdmcnZEM0MwNmhFd1pPdjBhd1VYUUxuQ2ZrMTFKeGpZWjB5YlA4ekFOam16ZGwweEZkeUZtM1pVSVFOZzh4aVNkZNIBugJBVV95cUxPcEw2QVJCOTU5ZXgwUndqZ1l6LTZLd05YMTdMS1NWWjJlazlveXpDOUpZeHJEV3RMU0NJOTB0N1A1ejl3cnloWk5hYmpCdGFwTHowTTZRZ3cxWGl0MnppVkxQNXA3Mm9KdmtMb0pWNjBZanJ1T3NWRkJPYV8xQ0VFOWxBdEl2ZVJLWjZyTEZOeEJSaURLOUVIZ0RfV0dfUHRQeURJaHMwdDVwdURZei1FSldINjNHajFQanJkcXBibE9OUmhidVVNc055OVJoS0xOTkRvak1UYkFIRTRkXzRSUlFoV3VGV290bGdiSzNSOU9lRTNNYkhfNmVZNmdnQ0tlRHhfdjRuY2lWNFpielBtbkJ3MjBKNmp1MDFzdzAzTFhNY21IcTk4cTNiTkw1UG1wYzBqUlRXekJXUQ?oc=5",
+      "date": "2026-08-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kol Dam"
+    },
+    {
+      "title": "Himachal Pradesh: बिलासपुर में उफान पर Kol Dam! Spillway Gates से पानी का शानदार नजारा #Himachal #KolDam #Bilaspur #ViralVideo #DynamiteNews - facebook.com",
+      "source": "facebook.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNd2hjVklGMmx4cGhuZGZQRlM4cEJVd1Ayc1RFVUxja3JsUkhDOUEyNlNHdGFjTC1aM0JtczdJclZDX2ZCNXNweDlPandPZDF3cjBjcWFCMXl2cmFiRE5ETkhuSlZ1aGI0N1pOU2t5bWVrSjFaRkVVcllsU3pRcjZONjZ1V192bFNJRi01d0psSXVqM05WMHU4Y05yaFBpYWxQQVJfak1JYlV6Wmwzc2d4Uk1EcVN0YVhvMUgzZUx3eFlOcVcxQ2hXX3FrenEyMDZiR3prSHhxT1A0VFZVSmMxOUpRdkJERGtIR2hmMHUweUlSOFc5dU5mYXdaa09TbjJVTU1GUDFjdVF3UV9rMXRnWjhXNE1Yc1hIYTRyQS1JZkNBYmVnZnlmcjhxd0tSY2dNR0EwbnRnWHkya0RxUnBEeFd6RkpqdVZELTg2UW5Fd01iUHkzeHFtcl9pN0lUb0FUNm9SSWMyY1BDM1VVLW03WFJPRW51SVVCVHNuZ0w2RGNPbW9hM1pjYnpYMlBXQTRtbVliV09QNEJQRVduM09Ya1lnSENQbnNzU3dzam02RGRKZi1rZ1pNZlNsSEIxUnZ1UmZGUUF5QjN1Q2Y0cFJsemRudmEwWE11dnl6VTU3V0YzZHN6bXpWLXBoTmlGYUdpRGRBVUd6bHZvWG15Z3NWRHE4Y04ydDZvM0ZvNzlfWlhpX21qaU5UUDBJMVJtdV9JSURfMTE5MzA?oc=5",
+      "date": "2026-08-09T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Koldam"
@@ -44,6 +64,16 @@
       "source": "Rediff MoneyWiz",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWVmU0tXY3ZCWV9KYjZSWlRTLTdpMi14d1hNRURFTWU1dFRBM2I3UWFsUzdBbXhnSFdwTHFIODhka2NlcFBhMUVNXzhJVkI2LVBZc3pXMmk3M3lQSTNMT3VMQWVNNUh2bHZoeHZjeXBMY2RZVGpndUdpdHZaZ0w1SU1kTWZRNlhMNkx5dDlzWWswU3pBMmxZTFB6bFlDLXNnQXdVQnl5WEx5d9IBrwFBVV95cUxOR01JOG9qSWQzdE5hcFRZbEg1WXZzTF9jLUZFQ0pxT2FLV19BcmltdktmU1hid0d3c09iaVozSlNacEZpd3pmZDVrdzBvSjM3eG9NN05aX2hFMHdSVzlNblhURTJSQzFWTFlPNjBCMkswSFk5QkFyTGpYNTdMOEdjUGhDUzNfOTVuQmd1VUt0MUVoUUROY3pEY05pLXh5RDRnak5EbzlyV1lBWTk5MXc0?oc=5",
+      "date": "2026-07-28T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Koldam"
+    },
+    {
+      "title": "NTPC Koldam expands CSR initiatives in Himachal with focus on education, healthcare and green energy - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONTJ1LTlnYUhtYVAwZEh3VGR4NTZJVGVVeG1SVHZPQk85STdaSzJ4S2JNRHd1LVlFNDFfVGNSSEpHYlFrUGYwVEpkZWlqMmdRU2tIeTBTeFZ2SEtyN2h6NXZqck5sQUJST2p3QWpIS2JMNk5MNzBHMzZGRnQ3VGlBZUlZU1RwMVQ3bkFsZldGSXJjV1F3OHBlOFlEMWx2eUJtOFZNa0JIV0xGUjZ6Nmtpc1hrcEFxd25GSkZoM1dFYmNhak1zd2piam9ad3ZwaEs0MmxUWnFRTlhxbDjSAd8BQVVfeXFMT0JKak85VEpiZzl1WHU4alNEN19NNi1BUUVEOHdKa2dTWEtERVhRcGE5N1RXV2hBMW9VY294d1F2RHBBQjJEX1ZQX3ctYnNSdzRTcUk1c3FnczZTcnZVZ2lPc3lLXzZqNDRIWE44ZnVLVmkxUllyLUxLZUpiNWJmM1BDMG5USW9xZ3RoeFZOMFpIV2twSXFKSzhpSXZlU0JqSjBDd05WcmZha2U5Y1ZZRjhMSWUtUlZzSW14VkJCcGx0d2Jickg2a19Ub0o4Y3RyOEtPZnVFUlE1TFBTN0RRVQ?oc=5",
       "date": "2026-07-28T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -80,20 +110,10 @@
       "match": "Kol Dam"
     },
     {
-      "title": "एमपी क्रूज हादसे के बाद हिमाचल में अलर्ट, जल गतिविधियों के लिए प्रशासन ने जारी किए सख्त निर्देश - ETV Bharat",
-      "source": "ETV Bharat",
+      "title": "स्मार्ट आंगनबाड़ी केंद्रों का उद्घाटन - Divya Himachal",
+      "source": "Divya Himachal",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSVBKZEVWWThtdUtMM2JiSVU4OUZOa25GN0xJVW9NX21hYUZlME5pWnlTN2JFN3AxclRGZkZBUkwzOG1kMkM2MGdIQktwdk9LSjRXV0t5QThHZGJINW0tQ1NMQjItLVd5a0d2SzBnWkZyRFJPMFlVZ1E3OTNNUHBuaXItY2hiS0NLWHpJQ24wOXhYMS0yTTJRMFdOR2NfZGFOYnRzOVZvRzVvc0NkTnVTMnlGZF9WU3gxbEtJTEZUc09HZ3FWVlEwSkNBVDVOeFphdHZDWU1pTEdFb1ZyeW8yaWpR0gHnAUFVX3lxTE5zRVRhLXRPSXRKSTJxMlZLSmdxZkFUUkNYTGNDVDM0NFQwanBHcDhlc1k2QXBkSFp5aFVDOFlzX1J6ZzVKd0JMWm9xT3JHSGpBTmNaZXdIZDlyYkpXb000RllrVGFEa0QtZmYyRDZOVGJyOVVOMFZSRUg0blRTb2hsdFhWb2xwVXk5YlR0dXVWd3BLR1Qzc0ZkUkp5RFFqbnRxTVFOQm5kdGI4alZ4d1lQNjFVREhiZUNjclV5ZnktQVVudG9hMXpnVVlrYzZLRlgtUkZfeWhnRk83SHpRc21YNWZ6ZTJsWQ?oc=5",
-      "date": "2026-05-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kol Dam"
-    },
-    {
-      "title": "स्मार्ट आंगनबाड़ी केंद्रों का उद्घाटन - divyahimachal.com",
-      "source": "divyahimachal.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NNEp3bnBqSS16bmltTERtbEEyV2pDVVZHd2Mzd0U2ZUhWNHVkV1E2TE1OczNEdlByWHJZY1R1azZYb1h1N1lvU2VVbllIX0ExMUHSAYoBQVVfeXFMUGh0ZEpybTM0bF84VHJFNXFFdnR3Z3RaUlplZ0VrODFEa3RBUElQeHNKMmZScmRJZGN1eE10YzB4QTJIMWl5NktNS194eVhEcm1oNWhsSmxQRVIxLXNabVBwOEFEYVVBbjNPTmFnR0Q1VTlIOFBGRDQ5TjhlTFM0Nm1lLWNwMF9nbzh3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHk4dUliZ1BSLUI5cmlQM25VMk53d2FJYmlHdkpmcGVpTmtzSXJCaFlNbUlEbWo1R3dmSFpnYlY4UXVhTWVVRThMMXp3QjBRd3NmYXpXTVZraERiMTlCV2pnTmIxOTJYbG5JVmFOV3V0dEJjTEIybVVyWk1SdUJDaWl6NFXSAYoBQVVfeXFMUGh0ZEpybTM0bF84VHJFNXFFdnR3Z3RaUlplZ0VrODFEa3RBUElQeHNKMmZScmRJZGN1eE10YzB4QTJIMWl5NktNS194eVhEcm1oNWhsSmxQRVIxLXNabVBwOEFEYVVBbjNPTmFnR0Q1VTlIOFBGRDQ5TjhlTFM0Nm1lLWNwMF9nbzh3?oc=5",
       "date": "2026-04-08T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -120,16 +140,6 @@
       "match": "Kol Dam"
     },
     {
-      "title": "सतलुज में डूब जाएगा तातापानी! रिपोर्ट ने सरकार को चौंकाया - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb21IZ2l4amxIcklYMGxMNjhfSnBuS1BrSVl6cGktLVQwVTByNDVidEI3NTEzOWthbGQ4OEpLSnJKbTFkcEVUUjg4bDRLeHNQd2dJbTVzQkpyTUtXbnJxR0xqRmdMT2d5dFRYXzRWQXhLSUhuamJpckM3bE1FNnVpSEVwUnNLTnpqUWJzYmdpbWlCLTY3bk9ENkJnc2RNaFctcjk2OXl6dDRwdUVZb1EtYV9oc3o0bG9ZOVR1LVkzRzhOUkt4SXk3M2ZmeUTSAdIBQVVfeXFMTVYyYTN4RlNZR0ZoaHdsak5wMng2Y051bHB0MnN3WEd1bWVDMEJMZU4wam0yOW9UTTAtVENxOWQ2TGc0elZyV053TVdwekh5dmdzQ3h4eTl3TGRDMTU2djFNMEljWHNrSC1fRmdqNXlYWWJrempaU1Q5UUJhOWdVVnQtMkpMR0tVVmN1WlZ4bzJ5MVRYSU8wT2tzU0tPNUxVbnFQN1pyZXNRUGoyODBZVmtlUTF1OUw4TnZQZTBiTzlndXNManBSUnJFSUFrZTRPeU93?oc=5",
-      "date": "2025-12-09T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kol Dam"
-    },
-    {
       "title": "All major dams in Himachal are within safe limits; Pong Dam records highest inflow at 4,933 cumecs: SDMA - ANI News",
       "source": "ANI News",
       "source_id": "google-news-en",
@@ -140,8 +150,8 @@
       "match": "Kol Dam"
     },
     {
-      "title": "All Major Dams in Himachal Within Safe Operational Limits, Confirms SDMA - deccanchronicle.com",
-      "source": "deccanchronicle.com",
+      "title": "All Major Dams in Himachal Within Safe Operational Limits, Confirms SDMA - Deccan Chronicle",
+      "source": "Deccan Chronicle",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWU5XbGttRTdVcmZ5X0UwYkNrSjBxNTJPVkFfVnpyUl9QNzFRcjlhTW5acHFrdXJQWDlmakxhWkFUWERFZk4tWTFURzZ2TF9Db2RpQlJMV0FFV3dIQlh2U1JMZmZyZ2VuRlhVT2FfQ0ljOHR1NUNpLWFHdnlVeXRmWXl0d3hGRkl4SzVWdmV1OFY4Nk5uY1l0c0RvTGtRWnJnNGNTMEtkRVVNR00zS3pRU2NZbzBFYUXSAbwBQVVfeXFMUDVqNmktSGRWT2FPMmZtQjlqb3lsWVQ3VUZKdmRrQmVsbm9MTG9EUzV5b3B0YjhvRFE0cVdneTdBanV5MDhiZEFwbEJtbk9UM0RvMmhLeFRCY1pPT21lMmY2UVJLTjYtVHBOa2JpNEFXY0dWem4wS0JkWDlmTmpKcFFZbzYyaEo0RGdHWGhKTkQydFROUTU0R1pQY2VqY1RrY1hmZldkOEgwLXRmYnlHMUV6Y252dUdXaWg4WkI?oc=5",
       "date": "2025-07-31T07:00:00.000Z",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Kol Dam"
-    },
-    {
-      "title": "सतलुज नदी में बुरी तरह फंस गए थे 2 बच्चे, डैम मैनेजमेंट और गांववालों ने बचाई जान - India TV Hindi",
-      "source": "India TV Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV09VUFFfdG5GT0NBMDNwM01Jek1MbkxBS0x0WGVfU1JLVzVCdHNkWnhXUWQwb0pjZ2ZZY1l1OFQ0WmdGT3pnQXVNdlZnRkpwWjZqZEdsX1l0dHM4cXNOU0UtT3FZM1g2RGJuU0JRN1FQU3VWSVpZREVPVDVJV1d5SHRNX1l4Q3JoSk9nMC16cXctZDBpVWNhencxRFFOM2ZuNVdWaVg4SnBOTV9QT2gyVk51ZlVTd0lHV3RESE44cFR5dFY5Sl9qSFNPWlNuUVhjY0s5VDFOT0NxTlBjR0tmWmJrMGFUTUhGLWdhZ2I4Ulc4T2FpeGfSAfsBQVVfeXFMT3lTakl2UEpyVm4yWm9nMzNOQUZncWZwd0JaVjhqTFpYRnZVTUtEYUNxUmJaSnJCTDNpNEVkVDFLdnZFTHpJR3RBcVNJVl9KaXBUbE0zWW84QzZRa1JtU21DRHZmeEg5Nnk5QWZYUS1XNkhGRUphcElSTDgtMjhPZFM4ZG8xY1hIRzNhVFlHOWtlZnlITzJUQVYya2pfcTdiVFl2NGltdEN5ME5lVUREakI3MmFTTVFRN1JWNV9aMVFtV1lWa0V4MXpqQktFZ1JTV0NLamhxMWpycmZBR2oxWEphMEpmNmVxdFRaN3M0bUVyUDN3WE92YkI5UDg?oc=5",
-      "date": "2025-05-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "NTPC Koldam"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

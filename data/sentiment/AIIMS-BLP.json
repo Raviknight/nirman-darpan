@@ -1,64 +1,31 @@
 {
-  "updated_at": "2026-09-24T21:55:57.210Z",
+  "updated_at": "2026-09-28T23:37:48.393Z",
   "project_id": "AIIMS-BLP",
   "press": {
-    "n": 9,
-    "positive": 6,
-    "neutral": 2,
-    "concern": 1,
-    "avg_score": 0.167,
-    "avg_magnitude": 0.256
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "youtube": {
-    "n": 32,
-    "positive": 21,
-    "neutral": 10,
-    "concern": 1,
-    "avg_score": 0.372,
-    "avg_magnitude": 0.4
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 41,
-    "positive": 27,
-    "neutral": 12,
-    "concern": 2,
-    "avg_score": 0.327,
-    "avg_magnitude": 0.368
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
-  "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Toooo addicted to this college😍",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "I have gone here \nVery beautiful place 😍",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "AIIMS Rishikesh & Bilaspur offers amazing scenic beauty.",
-      "score": 0.9
-    }
-  ],
-  "top_concern": [
-    {
-      "source": "press",
-      "title": "Two imported dialysis fluids at AIIMS-Bilaspur fail quality test - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOekRqZlhURnJ5ZVJzaWViRUdZcHNKM2l6T0VFYTFqaGlkUkpLMmdXXzM5M28zSGc0UGx2Mk5fejY3TUVZUkFZNnRsT1BSWjh6RkFkNEVONFpFMXFXWDFDd00zRkxKVnNQcm1ZaTlNRFNGTzZ6N0NmeEttUVlBSnFoWWE5QTR4dWhqT0ZBbU0tbFF2ZVRPVnlCS0VUeHQwbDZxWC1RSDFDREJpWUlL0gGwAUFVX3lxTE04YlR5c2w0MmhmanhhWkhlcmFyMWhTYWlOakd1dldsZ3M1TzhDZ2pFYlZnOHdhRHV1YmduR09qX2ZLZUlqZnVPWi1zV3ZYNDZuc29mbmxqUUR4NzNEMVFCMmpjQVF5czBMUEJmWXV1R0NGelZoU1REcURWQmRTRFpWbHc1Zkdhc3dIRHowUGk4Z09JR2JhS05vQ3FxZS1GM1Fla0VNUEN4dzF4RkZLWmlJ?oc=5",
-      "score": -0.4
-    },
-    {
-      "source": "youtube",
-      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
-      "score": -0.2
-    },
-    {
-      "source": "youtube",
-      "title": "Iam  joining ❤as nursing officer in AIIMS Bilaspur",
-      "score": -0.1
-    }
-  ],
+  "top_positive": [],
+  "top_concern": [],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

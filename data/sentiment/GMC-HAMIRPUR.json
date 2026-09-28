@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-24T21:56:01.831Z",
+  "updated_at": "2026-09-28T23:37:54.079Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
-    "n": 13,
+    "n": 16,
     "positive": 3,
-    "neutral": 9,
-    "concern": 1,
-    "avg_score": 0.054,
-    "avg_magnitude": 0.208
+    "neutral": 11,
+    "concern": 2,
+    "avg_score": 0.044,
+    "avg_magnitude": 0.194
   },
   "youtube": {
     "n": 23,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.178
   },
   "overall": {
-    "n": 36,
+    "n": 39,
     "positive": 7,
-    "neutral": 26,
-    "concern": 3,
-    "avg_score": 0.044,
-    "avg_magnitude": 0.189
+    "neutral": 28,
+    "concern": 4,
+    "avg_score": 0.041,
+    "avg_magnitude": 0.185
   },
   "top_positive": [
     {

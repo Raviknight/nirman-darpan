@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-09-24T21:55:29.046Z",
+  "updated_at": "2026-09-28T23:37:13.888Z",
   "project_id": "SOLAN-BUS",
   "counts": {
-    "press": 6,
+    "press": 4,
     "gov": 0,
-    "en": 3,
-    "hi": 3,
-    "total": 6
+    "en": 2,
+    "hi": 2,
+    "total": 4
   },
   "mentions": [
-    {
-      "title": "राज्य में 50 ई-चार्जिंग स्टेशन, इलेक्ट्रिक बसों के संचालन को HRTC ने बढ़ाया कदम - divyahimachal.com",
-      "source": "divyahimachal.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb1dJdXFVM1FMX2RwOERyeVIyTFJpNUJkLU8zWXp0QmhNQ1RXOFdMQXRERTB6VWhPX1ctZG9GU3h1MlpKdkZ6S05keTZjVndlM3RJaXJHY3A3dGRhZmo2cFc4emliSGozMlJoZ0JZT1dqSEtUdFFRWGtwYnRkMVBxZ3FpeXBwR2dRbkozZGVLOGEwLURjZXVPOHBKVGZUS0JVcnNpZEVCWTNWdFEwR2ZHRmptb2tDWXFUT2NTRlFUUUQ5TXFnOHAwaXl3NjdrLXlYbmZYZ2Zld1h5aExSMGxGVTNMUGkwWm9R0gHuAUFVX3lxTFBBTm5RVW1Lb1VfeklqcHI0OEJhajFoZzV2dFk4ZzBvOFFQOWE5Uncwb0hPYU9WeTZvQkNJZjJwTGg4d0dKelduVG9kSmptanBBRERad1Q0d0t0alFDZ1doVUxvWS04d0RJRWZULU1KZnJIT3djem9BRWlaY0RXTlFLU3VxNFRjNThXSWgzVUktOG16c2VwZF9fRFBWQ0ZLUHluNUNUU2JPcUw3SDFQdXBKXzNTMU41bUt4dDVoZnVvWnRHZjlucjlneEJmRGJlRTZfcDJUd25BZ3hwbllZaHlOa09IQjVtakNTQ2VxRkE?oc=5",
-      "date": "2026-06-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Solan bus stand"
-    },
     {
       "title": "Forensic report backs rape allegations against Dr Bindal: Solan police - The Times of India",
       "source": "The Times of India",
@@ -28,16 +18,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Solan old bus stand"
-    },
-    {
-      "title": "Himachal BJP chief's 80-year-old brother arrested for alleged sexual assault - The New Indian Express",
-      "source": "The New Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0Zmb1RvcnNaM0MwOEE4SWEzcWhyd1RSV3RVODBJYndfNjlLMmJWRlJWZERVT0lPX21wYV9IcFNORDc1c3VUUEFBZWJRdUozemhVVXlFYktsQnppcTRGU2xwV3d3TWJzVTYzUElYU0hNQ0NPOFFNTDNjYzRUUEJlb3haRVJSSEpod3Z4UlhDSFNPSC1wOHJybnFJcDlZaldRRDRCYW1xbWlQOW92dXI0eUN6Zm1fN0RRQUNsLUNTRmxENVc00gHSAUFVX3lxTFBBcFZ0V1VpVFh5WFdsVTRVeTJnUG1KaUJtM0l2akxuaWU5TlludjFLQ3laNGlvQ1p2NGtkeEhHNzQwSzZTZm8yTGFUTGlteDVybWZiUGN1YjR1ZzM3ajRsbnpWZHozb3NJNG9rc0F1eC00SW1ybmlkOHl3b1N0a0l0YXowS0Y3TGJyaVluYVU1azRobEpkd1pOY0xBQ3JqUUR2cGVzVnVqeVlHVUdUc3lSajIyVjhuLWEzaXpnOWNpUVlEa2h2Y2o1Ym93aUpNZFFvdw?oc=5",
-      "date": "2025-10-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Solan bus stand"
     },
     {
       "title": "Muslims Fear Escalation as Shimla’s Anti-Mosque Agitations Spread to Other Towns - TheWire.in",
@@ -53,7 +33,7 @@
       "title": "Nari Ko Naman: चुनावी साल में हर जिले में ‘नारी को नमन’ करेगी हिमाचल सरकार, धर्मशाला में 30 जून को प्रदेश स्तरीय कार्यक्रम - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUFRal9mMXRvYkpUNXNIZEF0MTY5UWxDQjdoYnF0NUcwU2dyeXBRdFlzb1dVWndzMkpZSUxySUZrWWktXzVCbThnMXVNNzdyckxXY19KcjhuUW9iUTMtNG5HTE1XRlBZWUo0SE5ncHA1cU9pb0l3ZDVvSDdfSUJzZE5hWHZOemhWUG52aW5jOHJoYVpqdE5sdWNHWWJ0b1FEVFlmYmdiY2k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUFRal9mMXRvYkpUNXNIZEF0MTY5UWxDQjdoYnF0NUcwU2dyeXBRdFlzb1dVWndzMkpZSUxySUZrWWktXzVCbThnMXVNNzdyckxXY19KcjhuUW9iUTMtNG5HTE1XRlBZWUo0SE5ncHA1cU9pb0l3ZDVvSDdfSUJzZE5hWHZOemhWUG52aW5jOHJoYVpqdE5sdWNHWWJ0b1FEVFlmYmdiY2nSAa4BQVVfeXFMTjNUeHpxcUhOYVdjM3dlZUwzbXRQWV9SZlJNdjN3bTBwLWNIdVRVdk1TSlE2YlRSa1hmWmZoUEEwcTNzSFZOTVhLU19OWVR2VXl1TDRRMVJxcGtLRkJmVlgzMm9MZzlkcjJyaEw2S2ZiR3JQcFJqampoZEV6bHZqVV9fMUZqRVRCalFNamVIME00RXE4U3ROMXZHNExQWFpmRXhIUXF6UjNjdllPdDdR?oc=5",
       "date": "2022-06-29T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",

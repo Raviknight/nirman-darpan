@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-24T21:55:55.575Z",
+  "updated_at": "2026-09-28T23:37:44.542Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 18,
-    "positive": 12,
-    "neutral": 4,
-    "concern": 2,
-    "avg_score": 0.156,
-    "avg_magnitude": 0.361
+    "positive": 11,
+    "neutral": 3,
+    "concern": 4,
+    "avg_score": 0.117,
+    "avg_magnitude": 0.356
   },
   "youtube": {
     "n": 23,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 41,
-    "positive": 23,
-    "neutral": 12,
-    "concern": 6,
-    "avg_score": 0.193,
-    "avg_magnitude": 0.483
+    "positive": 22,
+    "neutral": 11,
+    "concern": 8,
+    "avg_score": 0.176,
+    "avg_magnitude": 0.48
   },
   "top_positive": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "source": "youtube",
-      "title": "very nice Which camera you are using ? Good quality output.",
+      "title": "SUnderNagar Mandi tab bnana bhai kabhi same style mein :-) appriciate your work.",
       "score": 0.8
     }
   ],

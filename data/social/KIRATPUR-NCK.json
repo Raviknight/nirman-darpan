@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-24T21:54:24.867Z",
+  "updated_at": "2026-09-28T23:36:11.293Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
-    "press": 282,
+    "press": 285,
     "gov": 0,
     "en": 143,
-    "hi": 139,
-    "total": 282
+    "hi": 142,
+    "total": 285
   },
   "mentions": [
     {
@@ -60,16 +60,6 @@
       "match": "Chandigarh Manali highway"
     },
     {
-      "title": "Accident: चंडीगढ़-मनाली हाईवे पर बस-स्कूटी की टक्कर, मंडी के युवक-युवती की मौत - Himachal Now News",
-      "source": "Himachal Now News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb2tTNlV0djZCczlURjJtYkxodzRqa1YyNTZoTDZsZ2VuSlc3ZTFuMTFPaExZaF9iSEJEVmlnRy1tcXFLVFlPY3ljci0tNm9IN29HeF9iWjVxWUFIdnpONzBTeWtkZEROX2dWWDRkcm1KMzdPOFlZSnk2c3ZfZTYxaGFXYzJkcXBZeVE?oc=5",
-      "date": "2026-08-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chandigarh Manali highway"
-    },
-    {
       "title": "चंडीगढ़-मनाली हाईवे परअब बैरियर मुक्त टोल लगेंगे - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
@@ -87,16 +77,6 @@
       "date": "2026-08-21T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "चंडीगढ़-मनाली हाईवे टनल में दो ट्रकों की भिड़ंत, 3 की मौत; 8 घायल - Bhilwara Halchal",
-      "source": "Bhilwara Halchal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkJOSC1SNlVqOTNpUzFxSXp3Tkt2eWpHVGhET05kOURRdkZjdHNGN0NITURpTmlCSUZLREJfNEZWWVBGYmZtVkl4NVZjMUV5ZnNqak1ydDd5YnNFd0hMVEdQVkRCcVh4YmpZdzZqTEM3bFZmcjR6RWRyZFVUcmV5NDdTbXhJb1lUZjEwQTFlb3ZRdnpzcFdwNm5kWFYwNV94RG1DN1VESFpVMG55OVNpRdIBtgFBVV95cUxQTy1wSTYzRlY2aHhLbVlsTDhxdUZRTlZUY2hEbE9Ya3MzLWQwRFdOTXJhN3VONFFFR3N4eVBVZTZNMlB3dVV2ejBuTm5aUTg0eXhOd2JtM2UzcGtIQktNVHEyM3BSTDhvSlEzSlMxazVsTlpuaTFidHhZZkVKMjJERUtaV3pOcThmT1NZZHBpZFJIc2diZ3Z3Vlo3bGMxUVA2QXBzdV9VdDRvcDFad09XbUFYaGdFQQ?oc=5",
-      "date": "2026-08-20T07:06:11.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Chandigarh Manali highway"
     },
     {
@@ -140,6 +120,26 @@
       "match": "Chandigarh Manali highway"
     },
     {
+      "title": "Himachal Rain Fury: Chandigarh-Manali highway shut, alternative route also blocked - Babushahi.com",
+      "source": "Babushahi.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrY09vOEV6RU5OV01UUEtZRmxacU5FWWhOdlBqWUxWSlBYcFhReDFQUmg5Sm1NdkhVV2EzZWJkOHM1TGhjZjdlaldGOWVxT1NnZDRUaU9XejJUM1ktSGc?oc=5",
+      "date": "2026-08-11T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "हिमाचल में मूसलाधार बारिश, आनी में चलती कार पर लैंडस्लाइड में 2 सवार घायल, मंडी में दोनों हाईवे खुल गए - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQlZ4ZmxIWFdqT19tcWdVeFFVMGVScUVONU1ZSW1hVGNkcHJIMGVXUGRqOTI0M3FoSWpEMWo4am5oaUJkaTZKV2VfemdRMWxfdVljckd2VGxreU5ReHdrT1JtZi1ERXRVUlZmRW5aTlRSWUhiZENKUk9COUF2dWFtazVPbFljdkhFd0haMDdjR1YtWUlVMUVyVUh5UzJIVFBjZUJMcWp4WjdUeWZPVlU4RFUzcE4tdGFmOTJXVWlHSHdvZ1R1LVNiaGRfNFVtNWw5dGtZeDZpcXQxQ3VmN3JnWkQ3MXVkbS02U0dzZktkUzR3ZDRVMUlGbDdqWUdEYlRlcFJCN0tIOURZUzhBN1JWaGNn0gGXAkFVX3lxTE96b0RIaWJ6VTZKS1dSM2ZzOThRWnJNd2g3ZG5PVVdVMGxfMEVvcHY2bENBVlNPT0djMi1hRklGR0FONmRTR2lsd1JfR0lwVDBWNFR3dEQ4RGRkRUxmejNrZzJBUTZXdWV1VnY5MHEwOUhNdVpWak9nQ0xWczRTeUFLaE9CaWhLMnNhUW5PbzNXMzVTSjJMeTBEVWhTdHBmRDNmbXNCZWQ1N2dadTRyd01fVGFSemI0UWVVcVVoTHRBT2MxRW5YUEJaREx4RlN3c0poRnJIVkNuaVBvMlJvVngxUVlxVnJpM3ZYWHA3SnRyQWZSOWxDNlR0ZHRhMVdRZDl1UFlhWXEwbk0zXzR4eDZsRlp1eFpoMA?oc=5",
+      "date": "2026-08-11T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
       "title": "फोरलेन पर MRP से ज्यादा रेट पर बेच रहे थे सामान, पर्यटकों को लगा रहे थे चूना, कई दुकानदारों के काटे चालान - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -158,6 +158,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Kiratpur Nerchowk"
+    },
+    {
+      "title": "Heavy rainfall lashes HP, 162 roads blocked - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUEFRXzQzZVVXSzkwYld5dUlfLXlveU5ZM3B4SThNdG5aZWhTOWxKbVNmeU9IZ2dtWnUtMDJBWWNreC02ell2OHdfb2c2aHJVZ0FsTkZHTTZVcUR0Q1pSV3pWdkFjQjQ0VlAwMVdLd3BsMGZWTkdnQzRPLXNvS3pFd3RSeGhLNVpnX1FqaHlNNkpYQWR0emo4dmRMbjhKeGF0MVY5M1RROE84T2tuRHRCLWxkVTVQaWwzc3BpYdIBwgFBVV95cUxPeDJEcUZNbjJpZ2pDV1gzMVFuRElfaS1icXlQM0luOWdGXzJkZmd3T3JGbkpSQjBwM3hmREdPWHI3UzFVSjI4X0VPYWdER0xYQ0JRampPbDRuUTNfQUNEVGdlLV9nV1piVHRRWndYNW1qY28wV053TTRfOF9ibUxzM2NfWUtWV3NxTEN4UVVvNnVwa3JITmRycGV0elhpdTZ3NE5KSlhUUENKUGJGUWY0aVU2UWN6a0VzZ3NkNXgxSlV4Zw?oc=5",
+      "date": "2026-08-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Chandigarh Manali highway"
     },
     {
       "title": "Terrain trouble: Landslides, floods triple cost of key Kiratpur-Manali highway - Himtimes",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "Kiratpur–Manali four-lane: When infrastructure becomes a perpetual liability - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2dHXzNxTlBYV200YmVTR1Zpb0VkeTdRRElyeE5pRmZqbE45b09yUHVsV3VvdXhDNXZqMFBjY1Rpa3pzYUl6aEpJRWFkZzY0cXktWTA0ekJIMnZFWXBhUXJQWHZiZDc1NWdrYzZHRVBSdmZ0MWRZRUZSeWFPNjM4YWh6MXBmSlJsN21qWVBCOTMyRUEtYmZ0VmdJbWZaV0xrN3luV0ZjcXpfMDVhenAyVUY4OWdVVXN4UkJCMlR1aS1nb2vSAcMBQVVfeXFMTUtnR18zcU5QWFdtNGJlU0dWaW9FZHk3UURJcnhOaUZmamxOOW9PclB1bFd1b3V4QzV2ajBQY2NUaWt6c2FJemhKSUVhZGc2NHF5LVkwNHpCSDJ2RVlwYVFyUFh2YmQ3NTVna2M2R0VQUnZmdDFkWUVGUnlhTzYzOGFoejFwZkpSbDdtallQQjkzMkVBLWJmdFZnSW1mWldMazd5bldGY3F6XzA1YXpwMlVGODlnVVVzeFJCQjJUdWktZ29r?oc=5",
-      "date": "2026-07-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kiratpur Nerchowk"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
