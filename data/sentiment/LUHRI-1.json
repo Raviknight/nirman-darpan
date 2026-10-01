@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-28T23:37:46.194Z",
+  "updated_at": "2026-10-01T22:59:02.966Z",
   "project_id": "LUHRI-1",
   "press": {
-    "n": 17,
+    "n": 16,
     "positive": 7,
-    "neutral": 10,
+    "neutral": 9,
     "concern": 0,
-    "avg_score": 0.153,
-    "avg_magnitude": 0.165
+    "avg_score": 0.175,
+    "avg_magnitude": 0.2
   },
   "youtube": {
     "n": 7,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.4
   },
   "overall": {
-    "n": 24,
+    "n": 23,
     "positive": 12,
-    "neutral": 12,
+    "neutral": 11,
     "concern": 0,
-    "avg_score": 0.217,
-    "avg_magnitude": 0.233
+    "avg_score": 0.235,
+    "avg_magnitude": 0.261
   },
   "top_positive": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "source": "press",
-      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - hindi.economictimes.com",
+      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - The Economic Times Hindi",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hOTTcxQXVwRXRWQWFMOGpvRnRzNGdETDBlckNfTzBpSng3WnluaGtzdVlGaU5xdWRnZko5cUNPd1EyQWwzTl9vbkJMVFBORmFlZ0toenpkamJjVk9ZNDZqU3JveHdPSHRYQjdwaFpnT1BUbkJxbWp6YWJHZl91MUhDMlR3enBxZkZtQVlmY20zR2NUNWRIdG83NFFIMlVIRWlndDlGUm1lbmFqbnFnZUxnU2o3ZUlxZlE1RXllU0N6Mnk1MGp5QlBPWVHSAdIBQVVfeXFMT0MxRGd6UXIyRVFGdjBZcmdRY3c5VEhrWTdhZHV2elkxRlF6emJ6eDFvVnZIdFR4WXAwUWdiTEhJaHBoeWpQdlJPcy1xS1JVTGt3SmpSaVNNdzE1aGVtd241SVdTdWEzb1F2S0lLRk5lMWs1dFJZR2RGMzRtYVRVRTAwcFM1M0VlUUNhRmF5X2h0RFNtbnRlZEdzU0RkNTMzQkUxS1pndk1FVHNIdkc1dmVaZGVoLVB0S2otMXZtakJZb01oc2ZJMk9mNmt3V3MwVVln?oc=5",
       "score": 0.8
     },
@@ -50,14 +50,14 @@
       "score": -0.1
     },
     {
-      "source": "youtube",
-      "title": "sir electrician ki vecancy teni h project pr khali ??",
-      "score": 0
+      "source": "press",
+      "title": "RECPDCL transfers Luhri transmission scheme SPV to EnerGrid - T&D India",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXpXSXlEV2VOUHp1Q3JFUDBNbl9CcWdnanlzVU1TY2laeXdwZ1hJZXEzLW9yVjd2Q2w5R08xb0Y4d0ZqWnM0aHRmb2FPYmxQaGxxdzNxQ0paaEZTTmNCRlRUUGN6WEJOMExOM2YtUWZQQUdHNHJPWC1JZGNaODZtVlA4b3lqV0Z1U2FfcNIBkgFBVV95cUxPMFdPdGZrSUJnNzViTV9oODRNazFTTHRtNWptUUZPYy1ZUjJzajVMdF9QSDFwY3J1cVNMRExNLWVBcHFTV3BOUU1yV2FpYlJDZ3BQcVZ4ZEY5c1ZBTm5saEVkR1VrYmJFWHJOYURjRWFpTmR5NVI4MkJZWWFyRjV0OGZWcFBCdTNWM09pZDNQNnZxQQ?oc=5",
+      "score": -0.1
     },
     {
-      "source": "press",
-      "title": "Himachal Pradesh: Damages at Luhri-I HEP Reveals Loopholes in Dam Safety Act - sandrp.in",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmY3ekFrV0xiYVlRS29GWVpOdnNzVURrYmtHQ2toSkFteVZrWWZVZFlaQ01sa0hHZmdIc3U0cHE5dThHbFBkTmZlWTdFY2RQRmpOYmYtbXRCMVhiYWEtM0JMZ1RxdlF1THVxYnNQSEdLYXB2VTJ2U0hJS3dybVoxMWc2NkdxZ3R0NWJqMFl2OTdWSkZTNHBEdUFHQ2lxY2hvRzlJeURBRnk?oc=5",
+      "source": "youtube",
+      "title": "sir electrician ki vecancy teni h project pr khali ??",
       "score": 0
     }
   ],

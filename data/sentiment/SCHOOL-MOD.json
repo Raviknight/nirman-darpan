@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T23:37:53.565Z",
+  "updated_at": "2026-10-01T22:59:08.035Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -10,22 +10,54 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 36,
+    "positive": 23,
+    "neutral": 10,
+    "concern": 3,
+    "avg_score": 0.306,
+    "avg_magnitude": 0.606
   },
   "overall": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 36,
+    "positive": 23,
+    "neutral": 10,
+    "concern": 3,
+    "avg_score": 0.306,
+    "avg_magnitude": 0.606
   },
-  "top_positive": [],
-  "top_concern": [],
+  "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Your insights are truly valuable; thank you for sharing your perspective!",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Gingers are extremely good for our body immune system. Our kitchen are full of those coz my whole family love it",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Your positive input is like a ray of sunshine. Much appreciated 👍",
+      "score": 0.9
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "youtube",
+      "title": "She just hopes to be a YouTube star with this silliness.",
+      "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "but why? the one they initially planted looks heavier",
+      "score": -0.2
+    },
+    {
+      "source": "youtube",
+      "title": "It looks like she’s out there just stressing the plants out. Digging up a plant just to move it 6 inches.🙃",
+      "score": -0.2
+    }
+  ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

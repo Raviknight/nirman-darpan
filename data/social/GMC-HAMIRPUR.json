@@ -1,20 +1,80 @@
 {
-  "updated_at": "2026-09-28T23:37:07.686Z",
+  "updated_at": "2026-10-01T22:58:28.563Z",
   "project_id": "GMC-HAMIRPUR",
   "counts": {
-    "press": 112,
+    "press": 119,
     "gov": 0,
-    "en": 56,
-    "hi": 56,
-    "total": 112
+    "en": 60,
+    "hi": 59,
+    "total": 119
   },
   "mentions": [
+    {
+      "title": "हमीरपुर: स्वास्थ्य जांच शिविर में 62 लोगों की जांची सेहत, दवाइयां भी बांटीं - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd0xLaDVObHozOUx3blJCenBleWFXekNFZ2xNQTRhXzk5SW1lb19iWERONUpESVlWQlJTbXoxNTN2UWRXS0lkTmRNZGNQNTdrTi1TUktBalQtcjAzMURFUllyYUM5LTNmQlJNY0VpSFo4Q25nd0VXb2NTZkRROE5ZVnY0bzVKZzNCU2FMU0x2Rk5lRWNXZXlKRW1PenZfSkE5LTZxczVNdEV0MmtmdlpLTlotcmxyc09ZY0ZabTBWODdKNXcyMnJTeGlQaTd2UmN2MGxIbHNGR2p1SVhaMU5YYW51cFdjMEpvRy1KenVQVE1GZ1VwWEF6UUd30gH_AUFVX3lxTE5ZNFRzeVh5bFNIc3ZRUUZ0RE1wX09acDlubjVlb0kwUWtraVJBMUxIRW41VGMtUEsxcjRXVWZPandrQTdKRGhlZkZtNzkyZ3dHaC1UbEJ0cmVyUTI4Q2I3MzBMN3RYYWk3NGYzcEhReXg2MnBpSWpGVlV2Y0tlQ0ZmMHhILW1qUFM4cHJYQ1MxMEl6U3RDSDFlc0JtVDNnazlMNWlLVnVTR0xjMUxlbnNvVndIX3RINVNkSkRDbmRET3JJMU10ekdQNEE3MWpWUEdsRmJGMEd4cUdKMkg5aHBTOWU4LXNXYlVTMlcwTXFFRS1uZFdqV0VuTzdsV01zMA?oc=5",
+      "date": "2026-09-30T09:51:22.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Video: 125 छात्रों से मेस का पैसा लिया, मेस कर दी बंद, छात्र दे रहे धरना - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeGlJOFF3MDRqV3YyT2ZoQlVDamV5Q2xoSTgwUFBuOFM0WkNSa1lsSndYSHBHb1N1MEpSX0YyREZxZ0tNUHdRQ1NaYndXYWJJX3VEZ3hnZ1dSektsTFFpd3p5QXVuS0I1anpaaWUxMV93M09FWUZMVVRycms3NHh5alRUdjBQbnd6eW9KOEJRNnBkaF90U1lFenFDRXhYNkZHU3VfcXh3eVFjSl9TWndFNEEycWl6aC1EalRQaExxYUpRNzNvVjYwU1ktaTVZOGV5cEdIVENKOUfSAd4BQVVfeXFMT2lFblhnM0RkU0xnU3ktZ0pSdnYxM1Y1cW9QV2pJeUszeDZCQXB1dVRxRW1zRW00T3c4clpaV0l3SmdpNnlzcDQwQ0xFVEVNNlEzUkRSRVdUREszU3pVaUplOU45cFJ2TzVZdjcyNDhzeVp4NTFmSjZuV0h1THlOM2cwYndxd0RTM3NGRzV2SVpzdkQ3QTJFa0FJNE5oVWUyOUQwRl8tVXllYy10LW9ZVHdZRHBxYzlSNXc0d2dLX3hvSkN6b05NV1htemRONjdSQi1sYzdTU1B0QzFPMHZn?oc=5",
+      "date": "2026-09-30T09:34:23.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "एशियन गेम्स में प्रिया घणघस ने जीता ब्रोंज, परिजन बोले- जीत हार चलती है, अब ओलंपिक पर नजर - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQLWgya3JfaFRZbkVUX0Y0Xy1nWllUdFVFekcyRGNxdVo1TG9ZSVNxWFVVQkdpQmhHTndtVjRwRWM0cEdLWWN0bHdDdkxEQ3BLd01Ma3pfRzJ3eFpNQkpvMzVkNEVOTnRJT3BjTkNqcGtqQWtJTDFRSnVYcjhuTldPNGlkOFEwY1lsUDZ2WkpxLV94WVZkOVVKVlJlMkFwVVFLbVJERkNuaFFFeDl1WVZSUzE5SmNNUTBBcUphdi0zeEtjRmoyYXBBWUR3T1lSOHRuQUJQSGQ1Nko3Uno0bThwZXBTUGNkRU8zb29wVFIxcmliZk9PRXMzVHU4Q1lkUlBjT0p1cEE1TVJTMTI1bHc4Qk9yNNIBmAJBVV95cUxPbzRFVDJVMC1sdDJKWHE4WGc3VDFQZzNNdTJGeEtiUm9PN0dCZE5SRjA0N21vN2pRTFF0UEQ5SjVvR3ZDdVljYmJmTlNLSWFiSVNUNWY2NGZYYy1scWNPcFY0STlVR01fNTlhWTJwRWpFYkhQX0FRczN3cjZwaXdjQ2pOcEhuUkxmNVMzSkVLWUVFaldQMFRNVjN0UHlwQWd4N0JoTGFrZ2tCa1VkRVpxZHRNZ0ZabmlUb0hSVVdQRDB2d0NlcmlOcWZCaFVLMWVtUmQyY05MTGlzcjFFTDg0Tmk0YWYzOXZ2REtCMHZaWWdrYW9ia0ZzNjd1bkE4YlJscnRmTThMSURsZHNMZzhkUHV0SXBHT19y?oc=5",
+      "date": "2026-09-30T09:21:16.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "कुरुक्षेत्र में धान खरीद के लिए गेट पास को लेकर दूसरे दिन भी किसान भड़के, अनशन पर बैठा पूर्व सरपंच - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVnJFd0pDZkdlaTRyLUFFZzM0ZlpGeVBxV0E4ZUN0U040UkFfU0oxdGluUmNsRk9STHNTbF9BYTZvNWZwSU41XzBMNDJUT3BVeGpVNjYzTVlMOUhIR0ZITDI4THhxX0VTaEJqUG9wRDFaRkQtQ1RWR1pEVEpkeWxsVDVTeVU3SGhCaGl1MmRKWlo1d0ZvZEx4NTQwZUJBdWZYaXZrZ3JTMzNBbWNqS3pZRWdoNHgxSWt0cmhaQXljb09LNjNVcm80ZHExWlB2dU9xTklLMXI1U2xGUDVmYklzQXhoMk1HcThLOHFRdEZzZzJtUnQwRnJLX3hYYVJaZHlzX2gyLXl1cW04NmdiVWJ0djdYakY4Qk1rcElfRU55VlRva0tyTE40ODNjVkhSRjRtOElQMERfZFpwV00xU0R0b0Q3RHo1UdIBywJBVV95cUxPcTZ5UmRkODN5T2JmdWRWWEJiNUdLVGRoTDdjd1l2QmhxREZtOW5LaU9uckVOMDRjVU1heUhoVDlCaWM5VjdLNExBYlcyeTZxRERTaGJjMlhNYXo3ZjFHRUpna0FCdVEwcXNvTkFYNW9tbXJjbUtCQmFld1JGeTNzR0RkbzMxZV9Lb1RlNjdXTzhQR0FLQXB4NlNWaHVyQ05SbTNCQXZIM0hqeVJncjBiY3hfeHlYeloyR2hfREVMRGtSVUVnSHRuZVVwbGtBaG9XeU03UTAzamNBM2IxcUpycFV2ZFlnOHVLajkxY0JBZmFQVzBSZkFYRjBWZ3RrTWVxTGhoeGxrOVlCdWpyVzdDeVhORmJyUW01ckhJMzcwck55dGRGNGZVTksxY2lpUU9fa3dQS1RRXzZCSzU3ZnFLdlhxck9TNGdaQkZF?oc=5",
+      "date": "2026-09-30T09:20:54.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हमीरपुर मेडिकल कॉलेज में शुरू हुई गैस्ट्रो एंडोस्कोपी सुविधा, पहले दिन 6 मरीजों की जांच; सिर्फ 110 रुपये में मिलेगा लाभ - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVhwcFg5QzZ4dEw2S3p0ZFdaZVNzNG1QTHNreHpCVnR2Zlh6amdIcWNZejlUSXR3S3dVUmpQYmExMElncmFDUWg2RlZNcHVnQVVsRG5RQkpkYWQ2eTZWb0tqRThUa2lYV2RiTHdmZGJRaERmdWdDcUZPaG1CRm9pZkVGOVFRRHUzbzI0bHpHbkJMTGQtaW5ZdDBfV1NEcnMzLVBVT044SjlmdnRscndTRWFiREtuU19lRnNWRlZQLTFkR3FvYmRFVm5JbUptd1Z5eklqcW1EZkxUUzV2TDRPc0EwZUlKd9IB5gFBVV95cUxQMVhwcFg5QzZ4dEw2S3p0ZFdaZVNzNG1QTHNreHpCVnR2Zlh6amdIcWNZejlUSXR3S3dVUmpQYmExMElncmFDUWg2RlZNcHVnQVVsRG5RQkpkYWQ2eTZWb0tqRThUa2lYV2RiTHdmZGJRaERmdWdDcUZPaG1CRm9pZkVGOVFRRHUzbzI0bHpHbkJMTGQtaW5ZdDBfV1NEcnMzLVBVT044SjlmdnRscndTRWFiREtuU19lRnNWRlZQLTFkR3FvYmRFVm5JbUptd1Z5eklqcW1EZkxUUzV2TDRPc0EwZUlKdw?oc=5",
+      "date": "2026-09-30T03:46:47.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
     {
       "title": "‘Hamirpur Medical College Was Not a BJP Project’: CM Sukhu - The News Himachal",
       "source": "The News Himachal",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjJLMlhUek1CM3BNZDBaYVZYUU45emVUaTZUN29MWHFubS1JdGpyQUJBcXFDSFgyUS1mclRtX1d1QXM3RUYwQzhFdEhvamNHUG9FT2V5TEtyV3k4SC1MT0Jqc2FFNzczOW5FNm5PcThJbkYxQ0g5YkRiemtSSlFjcXFUTmdmZ1VHNXU5NU5zRXZqc0JwNHh3?oc=5",
       "date": "2026-09-19T03:51:23.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "HP to buy back Dhaulasidh power project from SJVN for Rs 800cr: CM - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVNncTh1LWUxUm4ycU5MTHBjdTJJZWhmUUJRQnVjZVVOcm04MjhnTkhXSmVyNlg1U0Q3MHpyQm9qaUZHdEdYQlFzN2ZrR09IQVZSUDF4TUdjZmhTSjlDR1o2bklVeTJYWWprcWRlOW9iMVRBaEpseEQ5OTdfQjZDalZOSEZuSm5wVHEzVS1jRFNUXy1zYnNIWTFadmQ0YS1WcUhud19jcUIwV2Z1OTFGenhfeTAzUUFYRll6eG11V1ZjVndENUQ1V2ZhTFEzN1A3TGFMV2d1VkdjY0XSAeABQVVfeXFMTWNCY2JRdjE3VWxFVXNDZ2F6N1dRdE5zRHRKQWFwSlpvaFFvUjhpQmRZUW5ndzh2U1pEUGdkd1lZTHZGNU01ZlVVQ0RVMmVQVGpIemtZdUhKb3EwZlAzX1R3NU1pcFl6QkpLbC1qOGl3aGp2dVBRQV9fTXAtSDZoWnFydGFueE02R1c5dzN4azU4cWtfc2NSUDYxUXlVMEt6TUVjSWJEeVVsamM1bmpHSXY2bFB1U0lOSjN0THRDcHJaa2FCNkp2Y1d5akVHdHpfaVVlU2JobnNLYTQ0RHJiUTY?oc=5",
+      "date": "2026-09-18T18:36:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Hamirpur medical college"
@@ -40,26 +100,6 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "500 करोड़ रुपये से किया जा रहा है मेडिकल कॉलेजों की मशीनों का आधुनिकीकरण : CM सुक्खू - himachaldastak.com",
-      "source": "himachaldastak.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYU1CLS1WMXg3aVhBekRUcGtnQ0xKR1BGOTdwelI5VUVNUVhKaHBkenV3N2Q5WFFCNWtqMjFBTjRQV19tS094SURZRkNEYmVBMGFqM2RxOFVJZjJkOEpuQzBwRjVCQk1MMUFTd0ZCSzZLUU10WmdfUE1KNnM1OExEcFh0RXRkUEFUams2MnhMUQ?oc=5",
-      "date": "2026-08-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Hamirpur (Himachal) News: हमीरपुर मेडिकल कॉलेज में जल्द शुरू होगी गैस्ट्रो एंडोस्कोपी सुविधा - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTWtYNW5VdHFNd3FsTXg1dW9MMmtnTjZDQ3RJdV9ZN3Byb2p6ZzlBSFRLRFZldzlPdHZBUFhyT1BuQ3VQR2ZyWWlpQUZlRVduZEZrczVwVDBlZGhSa3pLWXVTNXNOd3lOOFlObGNUYUlOeW8zNDNnVC1tTENhRi1uTU9lMG82SVZnd3RuZV9DQkdRSFNnUGI2NzZiQ2dONDhkSTRkRWlYbzZ4a3dndDQ5RjFjZjJydWl2OV9sVzkzM2VRelNHcXhSSzNNNERkazV1QjVCV3ByNTRtenhEZk1pX3pmQkNVRGpmallDdjdnN05waXJFQW5FUnJPWVV3cS1JOVHSAYcCQVVfeXFMTmwtNVdGN1VEbFBrWU1ldDg0Yldzd0RvdXZFa0FxM1gtWGtLaFFUVk9pNnFyOGRHVTVMRWZWejExektMMGN0NWdHeTFDWnNlMS04UGxxZFdvNTlGX2FmTHRPZHZZN1ZkMElyX2hTZ2pOcklJTmJrV3F0T3JtcTlqQkRCXzlHYXY1WEZVTlhCeFNmcDRIOVlrWVluX01KZEdDdmFhdEkyYjJ6TUZ5dy12b2tla2ExMU56enlpb29JN2htSGNXajluYno2NkFIRjF1V3g1cHFSZThLZmVZczRKNVFkM2VlbGJmZy1sRnpoUTg5YW5JTzNCdGtORVQ4MGdzYnp4TmtCNEU?oc=5",
-      "date": "2026-08-24T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
       "title": "Himachal doctor donates Rs 80 crore property to Hamirpur medical college - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -67,6 +107,16 @@
       "date": "2026-08-14T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Himachal: 77 वर्षीय डॉक्टर ने हमीरपुर मेडिकल कॉलेज को दान की 80 करोड़ की संपत्ति, घर बनेगा वृद्धाश्रम - Dainik Tribune",
+      "source": "Dainik Tribune",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZWZNVWR0WmZGbVh0djV5VUV0YjNNdG1EY1M1MGZzZTJJdTJ3dE5YMkx0WWM3bExKY1BSZndDQU11UkZ3NXpDWmVKTVV6WFhBUmE4dEh0X21SaWZhUjhfdzJLa3liRVNSdnJYNGtvWnZyQ2M1TjZWUVZITlZqMnJxbXZEUlJRWm1ZNGV0bHJmQU9oeV9vVkZUNFFOQ2NlbExTVFNRdUJ4QlNsZlV3ZWVoNHJwUXN2N1k3elBtMmdOZ0d0MkxKLTQtdTQ1aEJQWTctN1ZhcTJrWHZpQdIB3gFBVV95cUxPV04zWUZWc2ZxYzRMX2IwMGNPejR2SlpodEN2UUxjcVJ1bDNuaXNKb1RXRVQyU0c4MHRWRS1hN0Ztam5TejhnRVFuOWxfT1dsanV1Tzk3cmdmTkhSNmhXZl9LOXYwem5JcmpuUGZkLTQtLTVMOGU1WEZYaHIxUGFERlI2bWZwRjBWSWlCZXh0Sk5HNktnT21XWU5ITUZIVjJGNXNFTDlCT01HT2w3UDJTa29IMndkSHhOSFdWYWpkbUFDNlhiR2Mwc3JzM2duSS1CMkVzczA5QXZGNmdpY2c?oc=5",
+      "date": "2026-08-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Hamirpur medical college"
     },
     {
@@ -120,16 +170,6 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "'20 साल में अनुराग नहीं कर पाए कोई काम, न रेल आई, न स्टेडियम बना, सीएम सुक्खू ने बनाया हमीरपुर मेडिकल कॉलेज' - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUmJaT2psSlZLWXliMUNHV0pjVFVaZzVMM2hGRWFXU3A5NWtXVkd1eWFNM0hUUWttUjNyejRkdU0welY0SFpfd3gxN1l5MjJROFptTXF1NG1ZRDdQNWNIaW5kR2JPQ2ZJZDB5NG9PUnJOQ1RfVUxyVkNUemRicjJTdGxjUFFSanVSaFpfTGhuRndxQlRweUJ5SllmUDBaNnVJc0F0RFR1WHBhMUVrNzViUjRHdkd5dF9GYjRYZ3NlbGZ4NEx4anZ4R1FDNnI4bjViU0JTemFKUFBoNHZzVVhKVW9YUdIB6AFBVV95cUxNM1QzWEo1RlJjeWtLVVpHdnlzSkFkWjVHdlFhUHdYclZCTk5BRXJhd1p6QWtBMzExZGRCajlCNFhNalhLS1h1N0prV1J5N1cyc1lTMS1wb1NLbjF1allqdU00a2MwMzhaWHhsd0J0ZlN0MlBaMDBvSUVySkFVY1NWcmU3UkFFMEZFRGZ0WndBWHR3UjlxRVc2Y180Y2Rfd1lNZkpJaFJIYnB0RWQxcjdzdzhSV082dURuTUZzaUxLc2poMGNZdXFTQTZYMUVtaXNCbXNwTWphVGw5bmlCdlBTZEt3RUVlczZq?oc=5",
-      "date": "2026-06-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
       "title": "Himachal to build critical care block of Dr Radhakrishnan GMC for Rs 35 crore - Medical Buyer",
       "source": "Medical Buyer",
       "source_id": "google-news-en",
@@ -168,46 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Jol Sapper medical"
-    },
-    {
-      "title": "Hamirpur medical college to shift to new campus at Jol Sappar from next month - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0NwM3hyYmpnRUV5YVpXZmh1RFZ1M1paMl9SM2k5RVdzNDNUcDJpRUdGS1ZNVkxZQmpJN0kyZm9IeFdLY1FTa0YwLWNTd2VEODExcWVrWE05YWduWjZWaDF3LUhiQzJyTnktZkpoU3UxQzVTRmpwdjBwSENicGhPZGtyQmRHalVHdHM3MXUzdlJsNC1hak9CZVlLY21JRDJlVEFOWEZQYS1EcFc1STlTSHhMSGlfX1d3NDhwWWd30gHCAUFVX3lxTE5ONUdsMGNJU3hzR1ljQzNfdFVaZGtRMjd4LWtLNVBXTGE2N19fMUdFY1ZZS2NNTUdtMWtqbHY4X0x0U2ZmT3Y3TGdTSElxaVowdkMzYkVFWHpyeFozSWlRTXZtRWRxOW5kVmw2NHh2SXRLRUhhSVo1ekVnbDVoMjhsdHV0aWR6SlBodUZjRDcyVy1ydWxCc01hVm56OHQ1NFRrcV9IQU83eGNOWlBnazYzN3VFM3drV3dPY2h1UnZLLWZ3?oc=5",
-      "date": "2026-06-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "CM सुक्खू का एलान, हमीरपुर मेडिकल कॉलेज जुलाई में जोलसप्पड़ होगा शिफ्ट; 35 करोड़ के क्रिटिकल केयर ब्लॉक का शिलान्यास - cm sukhu inaugurates hamirpur critical care block college shifts - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1hPZm1qNVBFVXRqcURlX0U5dE55emo0TEdxeUc2dGhOMF9IS0w4SXB1RnJyTnB0MUNKMURVQzFTTEphcHBiMC12UDhCWFhyWXJ4eWJIMVJJMndBYlBLOHVUdGpLRE1zVkpDb1FiYW9HQkJqelg2amV2MkhJc3pOaFJBMTZxT25mZEh2NlI1UjRQRUJGbTQxcjlLVmtvcVU1NVpjdDQ1cU1aT1NoV2drZ3dyV2hMT0dFWVdVZnFpTy1BbzNQX21fNVF3?oc=5",
-      "date": "2026-06-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "मर्चेंट नेवी कैडेट आदित्य शर्मा का आज पैतृक गांव में होगा अंतिम संस्कार, अमेरिकी हमले में गई थी जान - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYmVXNE1vWW9MUXpPcDJwREpkQzgwVjZGcHBuYXpHTDdOa2xOMVhaYmdLLVFGaGlnUzRXQjdUeEdDSXRiV3FkSXpkR25LUjQyRXJnYW9pZWhMV3pUQXFpRll6ckowOUc2QkViSmtJNkhpXzl5WllyRjc4QVV6eGt1b0ZxRjQwWGZTeWNuQ3BmeDNaTF9TeDFtQzZ6cDIwdHVDZmpqaEhRRHlYRHg1YW81Slg1cjNPSWtpU0R6TkNNbk9jc0tqTDRSQndrU3hxWHlDd1A1d05TNWtveHdzX2hz0gHkAUFVX3lxTE5CQlk3WlpQZ1lXZm5wQzVPWjhtdThtNzdvLXJ1ZVhObUY5WHdacEZXSEMxMW5uTFZabTJfemNuOHo0YUlKVnpYTFZJODRWRVJ4M3RGOXF0S2JfU3VEUjRfdUJRWDRSQ0xTRjg0bEozaDNlRnZGWmk4QWVkMXZoTjB6MWRLLVU5UDhzSkVzMFBFbEF1QW1EaGNDV1d0eXpkX1FvX2VIVmFzUGI1RnFsTDB4dE1iYkxVcGFSYURFSW5JTlRVNXBsZENELXowWWlFUEc1bTZ4YVZiYjA5bFBzdFdrNzhtXw?oc=5",
-      "date": "2026-06-18T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Himachal youth killed in US attack to be cremated today: Body brought to native village after eight days - Bhaskar English",
-      "source": "Bhaskar English",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMllkQXROUld0TXJscEVrMTJMQnJ2eWdVbE0wTGM5U3lWY2gzUUtlYTVMZTl0SUE4LVFHZUx1dXZBbWNZQWQ2RkY0M2VCcE5walhjREN1RGxWZmxBVExxZXBLUHN2dzhKR2Via3pmcGtCTHpjUXQ1ejRBQjFfa2lxLUNqY0tWMU9RVHhMdERXSUVWeENNWlVpWndubVV0MElJS2E5dW5ja19udTktZVZKM0VDci16YU5Na000adIBwgFBVV95cUxNaWZqdlBkNEJ0d1B1bXhCaEtldThLbkVERU5yemJjOUc1bnF4dGx5NXBCa0NCMFQ3UEpuV0tHaFVBMXVhNmpsUnRSVUdZQTRpalctTW5oZUVNQ2w5elJDUnB2d0R4SWVTcTJSZVVvLUxFMTVaQ1ZXNkNYNlNleFdUMjh4bVppS0JwdU5wMndXdEVXSm1sdW1BRGdFbkxhNVhreWxwaFVaMmJuVVhBTXR1cC1kYWw4Q3FVQWpGTERFaHRuUQ?oc=5",
-      "date": "2026-06-18T05:48:29.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

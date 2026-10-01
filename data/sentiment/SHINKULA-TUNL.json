@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-28T23:37:52.064Z",
+  "updated_at": "2026-10-01T22:59:07.131Z",
   "project_id": "SHINKULA-TUNL",
   "press": {
     "n": 19,
-    "positive": 6,
-    "neutral": 12,
+    "positive": 7,
+    "neutral": 11,
     "concern": 1,
-    "avg_score": 0.074,
-    "avg_magnitude": 0.184
+    "avg_score": 0.095,
+    "avg_magnitude": 0.205
   },
   "youtube": {
     "n": 21,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 40,
-    "positive": 21,
-    "neutral": 15,
+    "positive": 22,
+    "neutral": 14,
     "concern": 4,
-    "avg_score": 0.25,
-    "avg_magnitude": 0.44
+    "avg_score": 0.26,
+    "avg_magnitude": 0.45
   },
   "top_positive": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "Very good video",
+      "title": "Sir you are my favourite sir in online classes ☺️  keep teaching and keep shining 🌟🙏",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Sir you are my favourite sir in online classes ☺️  keep teaching and keep shining 🌟🙏",
+      "title": "Very good video",
       "score": 0.9
     }
   ],

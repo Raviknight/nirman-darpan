@@ -1,22 +1,8 @@
 {
-  "updated_at": "2026-09-28T23:37:16.472Z",
+  "updated_at": "2026-10-01T22:58:37.510Z",
   "project_id": "SHINKULA-TUNL",
   "count": 2,
   "suggestions": [
-    {
-      "category": "defect",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-08-24T19:23:39.390Z",
-      "title": "Lieutenant General Harpal Singh Reviews Strategic Infrastructure Development in Himalayan Region - SSBCrack",
-      "summary": "Auto-detected from press: \"Lieutenant General Harpal Singh Reviews Strategic Infrastructure Development in Himalayan Region - SSBCrack\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFNCNkRxWWJ1ZHJvNHpoTk5mZzNhQzFRdHQzRHpSdERsSm5URlZEeGlWSEhGTUNjWFJuaUprXzV5bjA4ei1rbzY4R19yTG5xWGVNZ1VVdjVCMnhfcjJSd2EtT3VTNkdNczFKZFQ0VW0zeERqNXNuYUJDUGhWWlJjT3Z1RGpOVC02UDdtell6a0xVM2hQNVRmX0V0bVRSMkd2b3d3X3FlWXUzdDlXOVVBcmJSejQyVlBoVEZ2NHV2cW4?oc=5",
-      "source_name": "SSBCrack",
-      "lang": "en",
-      "date": "2026-08-21T08:18:57.000Z",
-      "matched_term": "crack"
-    },
     {
       "category": "defect",
       "severity": "medium",
@@ -30,6 +16,20 @@
       "lang": "en",
       "date": "2026-08-21T07:00:00.000Z",
       "matched_term": "crack"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-09T20:43:51.937Z",
+      "title": "Over 1250 km road length constructed by BRO along Indo-China border in Ladakh - Daily Excelsior",
+      "summary": "Auto-detected from press: \"Over 1250 km road length constructed by BRO along Indo-China border in Ladakh - Daily Excelsior\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEVNT0xvenhneVVTRnZWbzZPRWhhR2VTTnNEWlFfUF84WTM2ZUJPMU5UcjM2d1BsMXYxUjROeXpMWlRCbWh0c2Z0TkJRRmZQNEY0aTJSck9Ta0MxQTBlSVBNNVp2SXZGdDVib2pBNFlGQWdPcGxVVjA2UFQweVoyWWt3SFotbDlON2U1cVNSbEJiRkdnTFB6UnFwYlBaUGRUSjZwXzMzaG5pSFJNeXfSAbIBQVVfeXFMTVhmZzZudmlrcUN4YWQwMEpFc0tsUnhPSHJjcWxYRkY2dkVERWltemVkOWc1aVVQcXZKd0NOcFZXLXpkVl9zZy01N3JPYk5BcjBCVzFZaWdRRXNEcEF6NlRtclhhSHlkOVduX3Fldlk4X0pYUW10SXhLczRWVnJ6TzdUTlBhNnhCTnVVckEzMkdLS1J0dDVielR3dXpqN1BTSmpsbWt2blJ5UkxDMk94cHRjdw?oc=5",
+      "source_name": "Daily Excelsior",
+      "lang": "en",
+      "date": "2025-03-18T07:00:00.000Z",
+      "matched_term": "ngt"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

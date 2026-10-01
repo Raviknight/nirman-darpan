@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T23:37:49.666Z",
+  "updated_at": "2026-10-01T22:59:05.101Z",
   "project_id": "JJM-HP",
   "press": {
     "n": 3,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.233
   },
   "youtube": {
-    "n": 22,
-    "positive": 7,
-    "neutral": 9,
-    "concern": 6,
-    "avg_score": 0,
-    "avg_magnitude": 0.323
+    "n": 35,
+    "positive": 11,
+    "neutral": 15,
+    "concern": 9,
+    "avg_score": -0.014,
+    "avg_magnitude": 0.289
   },
   "overall": {
-    "n": 25,
-    "positive": 8,
-    "neutral": 11,
-    "concern": 6,
-    "avg_score": 0.028,
-    "avg_magnitude": 0.312
+    "n": 38,
+    "positive": 12,
+    "neutral": 17,
+    "concern": 9,
+    "avg_score": 0.005,
+    "avg_magnitude": 0.284
   },
   "top_positive": [
     {
@@ -32,32 +32,32 @@
       "score": 0.9
     },
     {
+      "source": "youtube",
+      "title": "भाई एक घर के लिए कितना मीटर पाइप मिलता है।",
+      "score": 0.7
+    },
+    {
       "source": "press",
       "title": "Jal Jeevan Mission: हिमाचल प्रदेश को शर्तें पूरी होने पर ही मिलेगा केंद्र से पैसा, अटके हैं 1227 करोड़ - Divya Himachal",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRGhnMFhCLXUyWm1hSlBueTlRQjJEWnhBV3RNdllDSWQtT09YQXZfUU1POFRVeDQ0RGkyNTFaXzB5TGJ0WEkxSmRnTEpndGtDeGplN28zeTdDUmw4WEcwSTZ4bGdoaXJzMkYxZnhENksweHFnY3JtWkhkcERVMHJwVUdwZ3EtOHFwaW16TmRZcjRzZDhrd0NreE42ZkFfajdxM0tHVnlUSU9fN3lBSHZPLTJ3WVNnMzNQR0xLcmYwbG1qaGZ6b1Z1ckZ4ZGdTbFc2ZnlfZ21zVS1ZdlBjWjVFS2N3X0RHTXZVT0w1cjdsbGRYeFl6THNfVWx0eV9RQdIBgwJBVV95cUxQb2hhVTQtMFVpRWJ2TEFQNmdpM1BHcmZJelRicW13cmF0Y25CaWEyY21MeWp6aXZrMVRoTW0yeEViUS0zUUtnTjZhMDF4LUUyS3ZZdzhpS3FISnNVbzNLQzNzT04zclYzbkl2MFhZeklZMF9DS1pHM2c0bEJMQzlJektIbnZMNzhmTzV6MjJyWFdQUlZ0VU9PeVRiYjRBUF9uYkE3ZDFzNDNSUjZ1Q1ZtQlFzdGNmV3luQmVVUWVMb2RnaE4tcDZmOUtXYTdGOE1HZ2l4eEcxUDhUclBFaE54Vk1UTHB3QzVMYWdaZUUtanBWTjUtemNaendacjl3bENYU3R3?oc=5",
-      "score": 0.5
-    },
-    {
-      "source": "youtube",
-      "title": "1साल से अधिक हो गया abhi तक पानी नहीं आया गांव में",
       "score": 0.5
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Sir new connection  open  karne par open nahi ho raha",
+      "title": "Wrong",
       "score": -0.8
     },
     {
       "source": "youtube",
-      "title": "Connection band marane hetu kya kar sakte hai Or kha jma karna h",
-      "score": -0.5
+      "title": "Depth not proper",
+      "score": -0.8
     },
     {
       "source": "youtube",
-      "title": "Bhai send feedback bala option nahi aa rah hai",
-      "score": -0.5
+      "title": "Sir new connection  open  karne par open nahi ho raha",
+      "score": -0.8
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

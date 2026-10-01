@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-28T23:36:54.544Z",
+  "updated_at": "2026-10-01T22:58:16.208Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 24,
+    "press": 25,
     "gov": 0,
-    "en": 13,
+    "en": 14,
     "hi": 11,
-    "total": 24
+    "total": 25
   },
   "mentions": [
     {
@@ -15,6 +15,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjdSNldmT1ptQlVsZnRSQTBleEpibjRLdHlZcEZQYW9yWTdwbTZ4bmw2eWVlMUdlemFZSjl5MGgwVzVmR3lxLWRFNDNuZjl0R09ORFdMeFhSdDlXN2k5RjlXdUdiSXlfbWdnUG5wOVhvQlhIODZzVGN0YndwdGJnRFV0c0N3Q3d6Qm1OLUMtV2Jwb3l0?oc=5",
       "date": "2026-08-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "Shimla to face drinking water shortage as Sutlej Project suffers transformer failure - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0FRaURkdlVEdDh1djBiZlFnN1RCd0p0RUltTmp6N2ZscEZVd3ZyQkx2RXlaZ2Z2WW5ic1RqSGVxT1dZWl85OGZXb3Juakx0ODdzVEZkRU9uVWR5R3RTbVBXN1ZKa2k1UFpibk9pR19XVDNRV05fR25vVzI1WnRtZlFnZDFvclhGMmZ1bVlNQ3JQRzhzenlTVzQtbEZrQlJ0OUl3a1ZwOVVvVWVobFA5dVY2cEtLRk8yZGFYOXVzWW1ERVJ4d1Nr0gHLAUFVX3lxTE84LVlBdi1KcWx1LU9zY0w1Ql9HZDg5WHQ0aVBlZnZHQUgyRzhBZTBmbjF1dW5aN1VzRTdNV0Q2SlE2cHpfMDRfNzNXNnJlVzRQQlNBVzc4X1FDNG5sQUY5RjZ3VUFBaHMwdndWdkJyVE92b25LQWxvM3dMckdFN1ByTkgwbTdGMUU4akRqVzBuYUt6Tmx1U1hHczhjQWJVTFFVeWNjM3lVME8zOFJOR21vcmtZRXVYTkZyQTgzSlEteUtXNnByQ0tKV2lR?oc=5",
+      "date": "2026-07-28T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shimla Jal Prabandhan"
@@ -140,16 +150,6 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "Shimla citizens getting poorly treated water, Pollution Board cautions - The News Himachal",
-      "source": "The News Himachal",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTJsd0I4MTN1V2R0VEIxZ2Z1QkNqcVBmNmpleHQzNWI0YWpCN0QyUmVlTkZYa04ySFJaZGZrMzNEWTdRV3dGbjdnM0kxNVVjSnJjajR2dXE2NlUtQzZvTk1ONlB0R19jNUlaaEhua01PQ3RhaFNDMXM2UkJyZFdNQi1UbVF2NlRGcHJkX3pXQUE4eUJfZ3pmMHQxS1UyWWl0YlF6OHMwcDRaQQ?oc=5",
-      "date": "2023-02-03T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
       "title": "Shimla to get 24X7 water supply by 2025 - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -160,11 +160,11 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "सावधान! शिमला में पानी की टंकियां ओवरफ्लो हुई तो कटेगा कनेक्शन, निगम ने बनाई टीम - ETV Bharat",
+      "title": "Shimla Water Crisis: पेयजल स्रोतों में जल स्तर गिरने से गहराया संकट, अब तीसरे दिन मिलेगी पानी की सप्लाई - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOEJpZHFYeGticWJkNVZzMDBMdGduM25ia1JudWpkYU5fcnN0RkhhQkFiQ2J6VW1zOHktOUtCQTdiV1RmWklSSGIwVDBSc2hQWG1BajB2U3lmUWlHN2Y5dmRiWDBUTldRZ1FhYTRSaExMUjVvVEszejRrOTl2OWgyWWMybzBvRnk4bEgwVDJwQWEyVkFlYk9LZHFteGxIcVg4MGFlZGtlM0MxLTVlbnpyMGpwQ3RTVGd2Z1dpSl9DTEFDWEUxdklCclk2WkJlanBuaHg0ZU92QdIB3AFBVV95cUxNS19Vak5RcHUtcnB2dVluLXN6ZG01aEl2ZDY5c0NNSWg5Q1VhQl9qdGx1c253and5UW1QZHowTE1VTGdCWVdPSHd6ZmtEVm8xVjE4Rk9ta3lrdHBvdVRlckxPaXhvX2J6Q3lYWnE1RFNBbGJJYmFMZXZaVTJZYlFBZ2N3ZWQzd21YRVdGMGxLajRsV2czbE5PRy0tT1hpR3o3aWhQVEpPclViSTY4LWVQeFBIZVJXUVNQVlRrd3JvV1dfOEVPMkVqS0tHVjVWX2M5VlhmR2dvS0Z3aXVT?oc=5",
-      "date": "2022-09-15T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMVlFQlJRY3hMb0FUN1ZPXy1fbHFzb2NPZzE4Tm1CbG5fZnNSbG4tYXZnVkduRTA1cVVRbTdSX2JYNXAxWVhXSl9yUUNkNVRTLXdVN0tjQWw5WEE5emh3UmhuZHNrRi1jajByQXRvR05rOEFVWXpEakFzb1pETTFZVmllVU1UbTVCSGN1dDhNdkF5VHFKVnZnQklGN2I3c1R0MVJMdmg4TC1FaGM1S3NMT1gzS0RON29lQTgwWEZpSkFMTzR20gHKAUFVX3lxTFBoNjhLbThmOWtiSHNjM041VFUzUDNDMUhMLXhZRXZQTk0xWkN5NFkxUW5rRkUzZThHdnpPdGpUY0F4bE5DYmZyMXRoQ0pndGwta0NVT012Ui1TQnRKOGR1SGZqalppWkdIOXBOV3ZSZDZrRkJaRXYxVXBQYWVJQXhxZ1oxTjlGR2hMLTdyX293ckJjandWVDVMLU90RnRHT0gyQ3A0VjA4a3EwaWNjUVRIZG03eFRnUVlOUUNTbHhGSjMydk5iVi1OTVE?oc=5",
+      "date": "2022-06-11T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla Jal Prabandhan"

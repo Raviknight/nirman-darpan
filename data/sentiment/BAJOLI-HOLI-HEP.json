@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-28T23:37:53.630Z",
+  "updated_at": "2026-10-01T22:59:08.063Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
-    "n": 19,
-    "positive": 10,
-    "neutral": 7,
+    "n": 20,
+    "positive": 9,
+    "neutral": 9,
     "concern": 2,
-    "avg_score": 0.158,
-    "avg_magnitude": 0.316
+    "avg_score": 0.13,
+    "avg_magnitude": 0.28
   },
   "youtube": {
-    "n": 7,
+    "n": 4,
     "positive": 0,
-    "neutral": 4,
-    "concern": 3,
-    "avg_score": -0.186,
-    "avg_magnitude": 0.243
+    "neutral": 2,
+    "concern": 2,
+    "avg_score": -0.225,
+    "avg_magnitude": 0.275
   },
   "overall": {
-    "n": 26,
-    "positive": 10,
+    "n": 24,
+    "positive": 9,
     "neutral": 11,
-    "concern": 5,
-    "avg_score": 0.065,
-    "avg_magnitude": 0.296
+    "concern": 4,
+    "avg_score": 0.071,
+    "avg_magnitude": 0.279
   },
   "top_positive": [
     {
@@ -48,17 +48,18 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Poor management",
-      "score": -0.8
-    },
-    {
-      "source": "youtube",
-      "title": "Security raxa hai isme",
-      "score": -0.3
+      "title": "Biggest blunder of Hydro Industry ever",
+      "score": -0.6
     },
     {
       "source": "youtube",
       "title": "Chor company hai .. GMR tabhi toh loss mein chali hai..gareebo ka haq maara hai ..tabhi bik rhi hai.. ek din pura group ",
+      "score": -0.2
+    },
+    {
+      "source": "press",
+      "title": "In Chamba, a village cracks under shadow of another hydro tunnel - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlRPSWR3ZmlKRDhabHhkZVd0WHhrZFBTdExCaWc1RGI5eEVtMklKS0JhVzZ6a1dtR3Z6SWlHVG5FZG5wYVl3TXJKU1Z5WVZKRzNrNmRXR3FFNnNIZzgzNlpzYnl1V0p6SE1XU1NPZW52WDJuTVR5VmFFaTdSVmlwZDh3eXFKbnJ3VmUtQUswNkJwTFM3UWs2TUpzVDhmUGtWNmxseFUyZEwtV3RnSzZjWXNOMnItc21WMFFlQkp1cXlnSkRWZ3JTYnZn0gHPAUFVX3lxTE5Yb2ZzUFpnVURtcHhTSDZDTlNxeEVlck1PM0lCaVBxNlBma3dIU3lkVnVDSzhkWi1Wd21RWHZGYnFKTGxBcXU2dkZQblRQSzVKTWZJUTEzQnduRm5YMWI2LWk2LUdOT3pXLWRTaEVYWmg0OVpJYXRoYVloZ000eDQtc21EWHhrWlZRU2F0VE1GZWNJNU91anMyTVRsRUJpYW1reXQ0RUhSeGZjUVdzMmQ0cVM2N2c5RmtqR3g3clBrUE95VmZTbENqWHBVMEJ3Yw?oc=5",
       "score": -0.2
     }
   ],

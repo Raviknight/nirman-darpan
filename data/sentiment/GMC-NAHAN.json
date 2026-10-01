@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-28T23:37:54.233Z",
+  "updated_at": "2026-10-01T22:59:08.548Z",
   "project_id": "GMC-NAHAN",
   "press": {
-    "n": 16,
-    "positive": 10,
+    "n": 14,
+    "positive": 8,
     "neutral": 5,
     "concern": 1,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.381
+    "avg_score": 0.143,
+    "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 40,
-    "positive": 26,
-    "neutral": 10,
-    "concern": 4,
-    "avg_score": 0.365,
-    "avg_magnitude": 0.48
+    "n": 20,
+    "positive": 10,
+    "neutral": 7,
+    "concern": 3,
+    "avg_score": 0.33,
+    "avg_magnitude": 0.495
   },
   "overall": {
-    "n": 56,
-    "positive": 36,
-    "neutral": 15,
-    "concern": 5,
-    "avg_score": 0.318,
-    "avg_magnitude": 0.452
+    "n": 34,
+    "positive": 18,
+    "neutral": 12,
+    "concern": 4,
+    "avg_score": 0.253,
+    "avg_magnitude": 0.415
   },
   "top_positive": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "Nice video bhaiya😊",
+      "title": "Good 👍🏻 Keep it up...",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "nice talent keep it up bro",
+      "title": "Nice video bhaiya😊",
       "score": 0.9
     }
   ],

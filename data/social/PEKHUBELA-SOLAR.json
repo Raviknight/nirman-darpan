@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-09-28T23:37:05.514Z",
+  "updated_at": "2026-10-01T22:58:26.404Z",
   "project_id": "PEKHUBELA-SOLAR",
   "counts": {
-    "press": 25,
+    "press": 23,
     "gov": 0,
-    "en": 17,
-    "hi": 8,
-    "total": 25
+    "en": 16,
+    "hi": 7,
+    "total": 23
   },
   "mentions": [
-    {
-      "title": "Una: सतपाल सत्ती का दावा- कांग्रेस सरकार की चार्जशीट तैयार करेगी भाजपा, पेखूबेला सोलर परियोजना भी होगी शामिल - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFVYSzJleENWZW05Y1hzellUeTVwcGhFSDJ6RXN3eGlEa3FFQ3NLeUxUOFNOeFViWGg4dXVsU2RER2FyWFVlOUtIMkdTbjl3TzZ1T19ET2RUOGZQT1VxeHZjclZabVBFUHE5bmNVYVFYU21TUGlRbk1zVTk3Rk9BVEJHSWZfSEtwYjNtMUJSZ3dFY3dhMW9RQnllYmFKV0MtSXBBWWVrdV9GeVNQYURTejh2OG1hLUFpWUJ3aU9QQ1hNcXlLMlo4TkNXQnFzX0Y1aGZPd25oVjlGR2ZVWDBTS0FpYw?oc=5",
-      "date": "2026-07-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pekhubela solar"
-    },
     {
       "title": "सोलर सिस्टम के नाम पर 21.87 लाख की ठगी: हरदोई में फर्जी चेक देकर कारोबारी को लगाया चूना, संचालक पर केस दर्ज - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
@@ -200,13 +190,23 @@
       "match": "Pekhubela solar"
     },
     {
-      "title": "Himachal CM opens 32 MW solar power facility - Daijiworld",
-      "source": "Daijiworld",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXYVJrdzdZRE5iNXVXSzVPU0lMbE1tUXlDZV9mU3ZJQmQzXzJrTHB4a1dPQXRnM2hmR0lmMElyM0kwNE1peVJVczMzZGlPSUFaUUIya08tVjRWa3I4NFJ1bmNDb1pTODV4TWc?oc=5",
-      "date": "2024-06-20T07:00:00.000Z",
+      "title": "4790 हेक्टेयर पर लगेंगे 2450 मेगावाट के तीन सोलर पार्क - Patrika News",
+      "source": "Patrika News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVhTVURLMUdOaGFEVGFRdHlpa1lVZ2tpYTYtOHhienJOQzB0Q3M0emVzQURUWWlCOWRGb0staklicGRHTTQyNk1QWUlZR3BCUnIza3hBbmthS1lSQXA5YzF2YkY0QWk3dFZmWlFJSTRqOU8yaW9HZ00tbldURnBrQ1dhNFFNZVY3bmRNMGFIXzVSZmJEX3F5R3JxaGtNTzRaQkdVMi1RNmhyd9IBrwFBVV95cUxPeU9tU211MjY1VnlxUjQyUExMNW1aUGpBLTgzejlXenY5M0hXcnFQQlFJSzVMSzRCRG15alZSN1dnaWV3QnRBOFVDNXA1aExsWDNGY0tyMzU0bXQ2MVI1QS10SUFOMXhGU0ZweS1KMjRFT1dXSllWRGcxQmZJSEZyODhkaS1WRHpMNlZPdGhkUEVWc2tEN084TC1yQWlDLUgxcUhnZ1BPVEcyXy1fMXpR?oc=5",
+      "date": "2024-06-19T07:00:00.000Z",
       "kind": "press",
-      "lang": "en",
+      "lang": "hi",
+      "match": "Una solar park"
+    },
+    {
+      "title": "पेखूबेला सौर ऊर्जा परियोजना फरवरी में बनकर होगी तैयार, 66.10 मिलियन यूनिट विद्युत होगा उत्पादन - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUR3NE40MnZzUDFVQTdPWXBGN0NJSFdmU29CLUJHenBFdTlIZEozdFNiU3ZyMmQydEswdG8ybFV5ZWNqSDFudW82Rm9vWUZnRGE4UEFaNUU1U09kc0RDSXFaaXRHNTZXaWhTX2dndmo1RWhLNGVnSjlidG00dkVDWXV0d1R4bUFQVlhIcU8wZzIwTUx3RVJXbG5zNTA4aW1hS210eGVQMWZrVHBCUkZLYUU2QXdzb0ZDa3A2VlZERGxEOHlwaDVHYkZKRFUtQdIB0wFBVV95cUxOX3dJYU1QUk1tNEgySlQxUGpJLXNkT2pCQU5Ud0M2akM5VXNKVGN6NlhQbFkzWjVKa1VNTWdlb096d3BZMm1Ta2VlelpkN05IcVBMRHdGT0hpQWR0bXZfYWJldGpJXzdkX2JEeFY0a1Z1Wl90TVdGbjFsN0lvSnVKd3Y3MzNYemtuS2dpalRTRndGZGxkNHJSdkRGdjQ3QW43a1hDUUtabVN1U2hNckZ2QjlqR2JPdWpzcUpHajd5N2NSZWg2ZTkxeG9QMmlhMk9xbkEw?oc=5",
+      "date": "2023-12-11T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Pekhubela solar"
     }
   ],

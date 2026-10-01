@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-28T23:37:46.696Z",
+  "updated_at": "2026-10-01T22:59:03.741Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
     "n": 15,
     "positive": 4,
     "neutral": 8,
     "concern": 3,
-    "avg_score": 0.02,
-    "avg_magnitude": 0.247
+    "avg_score": 0.027,
+    "avg_magnitude": 0.24
   },
   "youtube": {
-    "n": 27,
-    "positive": 12,
-    "neutral": 13,
-    "concern": 2,
-    "avg_score": 0.222,
-    "avg_magnitude": 0.322
+    "n": 7,
+    "positive": 3,
+    "neutral": 4,
+    "concern": 0,
+    "avg_score": 0.2,
+    "avg_magnitude": 0.229
   },
   "overall": {
-    "n": 42,
-    "positive": 16,
-    "neutral": 21,
-    "concern": 5,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.295
+    "n": 22,
+    "positive": 7,
+    "neutral": 12,
+    "concern": 3,
+    "avg_score": 0.082,
+    "avg_magnitude": 0.236
   },
   "top_positive": [
     {
@@ -32,14 +32,16 @@
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "Amazing 🤩 view",
-      "score": 0.9
+      "source": "press",
+      "title": "दो बाइक, 10 जांबाज और कारगिल को सलाम… सेना की ‘संचार शक्ति’ ने अटल टनल में बनाया विश्व रिकॉर्ड - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVlNwSTVfRnMxWGQ5NnZsRWNNN2FzQ2VsLWoxX3UzajhkVHBzb0tnYXplRnR6SVVtaDRRRHdmdkk4OUs2T0JjdWt6ZnRmV3NrbzVnNUsxUkdnOEpnaW45NVBaN0daMFFhekozWElzSFlLSE9YZjJWV0hXWVJyNkRiSXVoME9LaGkzQXZnaVNpemx5ZHNtUFQtbGlYanhPUGRVYWRqY1BGSzZUUWpJQktlVDlMc1NESDkyVG8wOEt3VVhrWUxydzN4QjdCUXVQanpTZVhqSkZYbWd1dw?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Gud information",
-      "score": 0.9
+      "source": "press",
+      "title": "अटल टनल के पास एसयूवी कार दुर्घटनाग्रस्त: धोद क्षेत्र के मांडोता गांव निवासी की हुई मौत, तीन साथी घायल - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYWRlSE1wVEV4ay1FYkxabGhjVXhOZGcyRmZTYTR5SGhKekppV3hONEVhZXg4d2VQMFBVYXlfSTBEZ09OOWRnSU4wejdCb2wzLV8tTmNuZmRWOTlIZ28zWURZNmY1RGViSDNIcUhUeVlablp4Rm9PdVF2d1B1NHdEcGdjWWZ5bmNXYWhRbzMzYldVelVmUU02ZVd0R3o5TTFpbFB5dFprNEg1TjllSE4zYURxQlF1YTNtbHdZWjI1MzdFazRJUGfSAcsBQVVfeXFMUGppWVRGS3BNSVVwTFVFR3RBVU5iUEdueE9JRE5CWWUxOGp2Ml9ndkV5VHpFUHVhT1cwQmIyYmdFRWJmYjhkazVMLS0tX1pJbEtDOURIMi1uUDNaRXo5by0zWEJqT2lRdUl2Q0pYUHVXUzJLZHVpTHVLUUc3VEg0VGkteXZpVkRCS1NxV1JyeDA2dUdtdy1CR19sUHBZUTBPQmUxTnVnOUt5bFNSRGpKaHpsSmpIT2cxVTFWOFlpQWNURWdTSjFtOEZRQzQ?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
@@ -50,14 +52,15 @@
       "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "In october there will be no snow in manali in any spot",
-      "score": -0.6
-    },
-    {
       "source": "press",
       "title": "Man dies after SUV hits barricades, falls onto under-construction bridge near Atal Tunnel - India Today",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmFGX3U2Yi1DODFlMDJ0V1N3OENub3pYOFZzUENHNnZraE5WTWRDNnVQWnhpMzZONXVLQU5Vc0dJY0Y1bWpyRS1iaUp5c2VqTGxrczB3TFlEZHdxbno5c3p2ZWZHUHhZd2xVRHlOM3pTZi1EQ2JPWTJDalRYd3MzaG9oa3lyZEw3T0N1dVpUOW1PeEliTXZibXNVand0S3UwODdsU0ZISHhkT1pac0RBTVA5N19QTU9XcVFOY0xmZ1QwQWcxY0dybjVpM2RrOWNpRGtvbFUxbWxOdVZsWHRHZXk4elFWbkc1UkVrbUFIMNIB9AFBVV95cUxPc2ZoMDMyUm4zdTVyX05ldkZzWm1aaEt3YmMxWC14b1dYbG11ejcyZGJzTjYyQXZUN0dsbDlieEJ4aVZlYVA1bUNCek5abS1nOTZYWjdFdDNCR2o4OXJ3Q3VGbG55THN0Qy00OGh3TDlmcUtfUU5rX29iT0t6OERRNXlLUTljTXh1Yjh1ald2LVJQZmhTRTN4QkxvYm0tWmpNTHhCOG9iZ1FXZFdtNW11QnpuU29Cb0dXdHhaUGI0R1BZZG81azA3ZlgyczFGS21xTTRQVi0ydzRfNnpJdTdxVDJWTjdXWl9mVHVKUFRMVlpWZWFl?oc=5",
+      "score": -0.3
+    },
+    {
+      "source": "press",
+      "title": "From Atal to Zoji La: India’s tunnel revolution post 2014 leaves UPA era behind; Transformed Himalayan infrastructure - organiser.org",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTlJQVVdDUkl3ZmNremhXNTdIS0xPR1FCSVE1Sm9Hcm8wSjhjdndsU0xPNm12bnhQWjJWcldfZU1pSGFwb0J4NkFENFliVUhOMVBFczFhNDdDbnlEb29qYzdTNWc3R25QREljY0F0QmE1Ukd5N2FsUGNMMUxZdE8xRG5pSjFrWTJCNHdNT2NWMHpSd3ZOREduNzQyaTRWTFJDZmQxZzNsWVdqSXRBenp5Rnp1VGk1a2piUFRhWkRRWk04MzQ1YlpYTGZEZlVMMmV4QTdGY3JXd0dNUHhXUDNfWmJDcUJDZGEybnZfUWgxV0piUHpu0gH6AUFVX3lxTE90SWdVWnRZc21xaDR5b3dOUVRLakhaaS1Wc3ktcVZWdlhFWGY4WXh4QXpuc0g1aVVvZVJfX0FOQkU3b1lLeThUTmlWTDdHekd0MmoyeXNPVmx4QVVFTjA1Uk9ySDM5d1dhb3ZRRlBjTUg0SEtld1VWWm1fXzZwdGVXUTJyQ1JEdWJmeUotQjVQbTZEVnQ4NzJucmtrQlZYSmtNT1BjQWpJSUd2cWxSRUl3NVFwQ1RmNUJoN2hWSTFWalhRaThub1lZUzVoeXRlanV5aUdqY0JQLWloSUlDME01TlpmZ0pYSjJPeFRBMTJjNFNVUVhUeUVmX0E?oc=5",
       "score": -0.3
     }
   ],

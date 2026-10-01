@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-28T23:37:33.588Z",
+  "updated_at": "2026-10-01T22:58:51.264Z",
   "project_id": "NH154-PKT-MND",
   "query": "\"Pathankot–Mandi 4-Lane\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 10
+    "comments": 14
   },
   "videos": [
     {
@@ -16,13 +16,6 @@
       "comment_count": 4,
       "comments": [
         {
-          "comment_id": "Ugz60Ux63kS_PeKMKjR4AaABAg",
-          "author": "@Armineunbox",
-          "text": "Yes roads are bumpy, patch work.",
-          "like_count": 0,
-          "published_at": "2026-09-09T16:59:14Z"
-        },
-        {
           "comment_id": "UgxIWoSGaxPCEJP3DB54AaABAg",
           "author": "@thakur183",
           "text": "You should be made chief engineer and project manager of this project",
@@ -30,11 +23,11 @@
           "published_at": "2026-09-12T15:47:16Z"
         },
         {
-          "comment_id": "UgwdNsz5Osfxx0xEwg94AaABAg",
-          "author": "@baldevkrishan1534",
-          "text": "भाई, पगडंडी पर चलने वाले लोगों को फोरलेन कहाँ अच्छा लगेगा I \nकमियाँ ही निकलेंगे I हर काम को settled होने में time लगता है\n\nपहले पठानकोट से कांगड़ा पहुंचाने में 8/9 घंटे लगते थे",
-          "like_count": 1,
-          "published_at": "2026-09-09T12:18:28Z"
+          "comment_id": "Ugz60Ux63kS_PeKMKjR4AaABAg",
+          "author": "@Armineunbox",
+          "text": "Yes roads are bumpy, patch work.",
+          "like_count": 0,
+          "published_at": "2026-09-09T16:59:14Z"
         },
         {
           "comment_id": "UgxLfacXkW_U6kTz0xF4AaABAg",
@@ -42,6 +35,13 @@
           "text": "अभी लगता है कम से कम 2साल लगे गे",
           "like_count": 1,
           "published_at": "2026-09-10T08:33:48Z"
+        },
+        {
+          "comment_id": "UgwdNsz5Osfxx0xEwg94AaABAg",
+          "author": "@baldevkrishan1534",
+          "text": "भाई, पगडंडी पर चलने वाले लोगों को फोरलेन कहाँ अच्छा लगेगा I \nकमियाँ ही निकलेंगे I हर काम को settled होने में time लगता है\n\nपहले पठानकोट से कांगड़ा पहुंचाने में 8/9 घंटे लगते थे",
+          "like_count": 1,
+          "published_at": "2026-09-09T12:18:28Z"
         }
       ]
     },
@@ -98,13 +98,42 @@
       ]
     },
     {
-      "videoId": "Qtq8McPxt7w",
-      "title": "Pathankot Mandi Fourlane ‼️ #pathankotmandifourlane #himachal #lifewithgaurav #fourlaneroad",
-      "channel": "Life with Gaurav",
-      "published_at": "2026-09-10T03:16:38Z",
-      "description": "",
-      "comment_count": 0,
-      "comments": []
+      "videoId": "lHmfuMn_8Hs",
+      "title": "Pathankot - Mandi Fourlane NH -154 Latest Update || Road Trip to Shiv Bhumi Mandi || Gopal Himachali",
+      "channel": "Gopal Himachali ",
+      "published_at": "2026-08-15T14:15:23Z",
+      "description": "Thank You For Watching This Video. About this video:- Pathankot Mandi Fourlane Update. National Highway Authority of India ...",
+      "comment_count": 4,
+      "comments": [
+        {
+          "comment_id": "UgyiwK3SK-sVPLVQ9sx4AaABAg",
+          "author": "@himachalvala",
+          "text": "Super video bro❤",
+          "like_count": 2,
+          "published_at": "2026-08-15T15:02:57Z"
+        },
+        {
+          "comment_id": "Ugx_xj49vTFHp97bxQ94AaABAg",
+          "author": "@HimOnlineSeva",
+          "text": "Super❤ capturing❤",
+          "like_count": 3,
+          "published_at": "2026-08-15T15:19:35Z"
+        },
+        {
+          "comment_id": "UgxNd5p6H8ErjJGs9wR4AaABAg",
+          "author": "@AajayThakur2762",
+          "text": "Bhut ghtiya kaam hua hai road ka",
+          "like_count": 3,
+          "published_at": "2026-08-24T06:51:13Z"
+        },
+        {
+          "comment_id": "UgzYgFLb0WNy9tKuJVt4AaABAg",
+          "author": "@pradeeprana3466",
+          "text": "Super video 🙏🙏🙏",
+          "like_count": 1,
+          "published_at": "2026-08-20T12:51:47Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

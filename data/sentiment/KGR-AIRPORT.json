@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T23:37:46.256Z",
+  "updated_at": "2026-10-01T22:59:02.995Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 20,
@@ -10,44 +10,41 @@
     "avg_magnitude": 0.215
   },
   "youtube": {
-    "n": 24,
-    "positive": 17,
-    "neutral": 5,
-    "concern": 2,
-    "avg_score": 0.304,
-    "avg_magnitude": 0.404
+    "n": 5,
+    "positive": 4,
+    "neutral": 1,
+    "concern": 0,
+    "avg_score": 0.22,
+    "avg_magnitude": 0.26
   },
   "overall": {
-    "n": 44,
-    "positive": 23,
-    "neutral": 17,
-    "concern": 4,
-    "avg_score": 0.198,
-    "avg_magnitude": 0.318
+    "n": 25,
+    "positive": 10,
+    "neutral": 13,
+    "concern": 2,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.224
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Super butiful place ❤❤❤❤❤❤❤❤❤❤❤❤",
-      "score": 0.9
+      "source": "press",
+      "title": "कांगड़ा एयरपोर्ट विस्तार के मुद्दे पर पक्ष-विपक्ष में तीखी नोकझोंक, सीएम सुक्खू ने किया बड़ा ऐलान - punjabkesari",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1NRazUtdmxDRVotSjhtTi0wY09lY3VvMW9OWFp4OFdBX3VZUUFGeHRYNkNqTTVPUDYxbWw1c2Rnc3J2dUFTRHpoQWJRNGE0blB4VV84UlB5TzZOSC1ISU9MVHJqR005VERPVGE2LVZOWV9JZ0o2WlpxSk9KYUlxSVBFMEgtVncwN2dGYXJtUVBhcVZYRmp3d2dKNzFZZnpuZDE5WGJDQXoySldWaWJxczNlczlfVEZ2c1Nya3ZzcEo4N2lXMVZBeXVtcXDSAdQBQVVfeXFMTXByTzRlbDlXcjV4Q294cThmazNCNXZycUZsVzU5bU0zUF9WZ2lMcmVPUFpjUm50dHN1ZnMtdGxpc1JNVFRoRXNhaGpsQ2FydXVZRHhLVWZ5TkpmQkx6emV4Z1dEYVFUVkRLOGMzVmFaRU5VcmRrYldYWFljUjVleVV4SWpSc19ESGNVNkI4bGlXZVkweVpIRzNGaWROTlBsZlc1VmtrZ3B3M29qcTFUMWRPSXFVeE5GZ1RlZXZHUmNtRWlXdmVTaTZ0aW5ZV3d2X0RucGs?oc=5",
+      "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "क्या गग्गल एयरपोर्ट के पास गरीब लोगों से सस्ते में खरीदकर महंगे दामों पर बेची गई जमीन? सरकार का बड़ा एक्शन - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkhZX18zdXdHeGtoMkJPb2hJUlpLQjFob3oyWVV6bkZVcW9XOHoyeTJ1aGpVdTNnYU4ycmIydEZqdmRVWXZEQ3RfeWhBNjZDNEJXaEo5TU50WmJsUU1BOWdyT3RBbTRjRmRyaUNjZlExbEVHWEVDN3ZFekI5SkVvTXFncmtQd1paNzlBQjMzZWVaSU55NEN0bFRrS0M0djJvVEphODNiczNzNjd1X0hJ0gG0AUFVX3lxTE56a25BdHFCYVVFSkh4MHlDZjAtQjNiYnVfUFdQaFZFNDVjRFBTVjZVdU9SZHk1emJrYlBSR0ctOXRITDVzd1lkSXZYVU0yTkVaNTZwWkwzUjFFWU5fWVRSekN3czNrZ3VrTC1UVmhreG9qM1A2cFgwWVVIN2QwWkx1RkhZenZfTnZLTW9EN2pjNmZOLS1rV1ZIUlFQNjRMdUJNcHdmRzFNUGRSQ04tQVZqQ19ONg?oc=5",
+      "score": 0.4
     },
     {
       "source": "youtube",
-      "title": "Best month to go there",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "I love kangra❤",
-      "score": 0.9
+      "title": "Yea Nepal ki huwa karta tha kavi kavi kangada killa",
+      "score": 0.4
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Fake",
-      "score": -0.9
-    },
     {
       "source": "press",
       "title": "Lack of clarity on compensation mars land acquisition for Gaggal airport project - The Tribune",
@@ -55,9 +52,15 @@
       "score": -0.8
     },
     {
-      "source": "youtube",
-      "title": "which villages  is this?",
+      "source": "press",
+      "title": "Delhi govt launches Tourism and Heritage Fellowship Programme - ET TravelWorld",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV0d0cTU3dDN3T1JRdUJtY2lROEFLV3VaVTl5YlFlNHZiZXFnWURTSExZczNMZE1xa1VMcDV4eGdOZXd1NG90QkFDbDhUcElpal85Z0VKWlpTV2IwMTgzVU5QU081TE8zUDc3eGctUTREWUxTV0RnUUtyZnR6V0V0YndjeGJrY1drVVEtS1hKMTNIeXJmVWl4N1dFdzQ0dE1PbnBNazdySmg4Q041NGpleUNFRW5ra0xmUDhlWk1lNlktZERsLXcxdmRtM1h0ZWNyN3U5YXVlSWJJbWpxUktSLVEtUEIyZ9IB6wFBVV95cUxQSmdKMkV6S3BBVXhrWkFoUEJMY0l5OGUtekJNZ1VGLTRCTXBzbFpKbUNuNkl4c1IxbFpBM1hCay1vQ21oVnd4NTh5TDFyVkYtVXgxUHZYQ0Rnc1pXZEVlbEl4MDBqblRHSU5yRHR3MnVtZTFfSjQ2M2JFVmtERjFvdVlmU3lFUmRrWHlseHNaZmx6dEJmeWdlNUc0aDJrQUl4NlZkSHNMd3NJenhMazYtd3gxNml2M1BVZlFvYmQ1NGRuT1d1dnJKV1l2R09ST0hISW9rcGxpZGlZYjJVTWV6VnFkTURSNk5LOF9N?oc=5",
       "score": -0.2
+    },
+    {
+      "source": "youtube",
+      "title": "Map galat hai",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

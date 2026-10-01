@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-28T23:37:16.502Z",
+  "updated_at": "2026-10-01T22:58:37.522Z",
   "project_id": "SHIMLA-ROPEWAY",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "grievance",
+      "severity": "low",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-01T22:58:37.522Z",
+      "title": "Himachal Cabinet Meeting: Vehicle Fee Hike, Education & Horticulture Talks - Bhaskar English",
+      "summary": "Auto-detected from press: \"Himachal Cabinet Meeting: Vehicle Fee Hike, Education & Horticulture Talks - Bhaskar English\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOE0yWEZkVk5CeEY5bDhVS1RodEtBdzZ0azVkRHRxVXhuY1padzNMSTRjU2tVU1RaN3dzLWl1SVd4b1B5Vm9IRzFrUU50N2NBekZyalJTSnZXOUJvbFFrLV9tTm1pb3lUQlFKamphbFkxdUdqOU9kcmRwN2EtVjdveTZnZnB1MWRSMzNUc1FnblBXaXBGVGg3Ykd5T3h1VWxUNjFLQUF3VWYwalVFd2g1Skg2YkQxOC1uWl9yckpGOFdkQTBZcEF1Rnc0d1JNQW1s?oc=5",
+      "source_name": "Bhaskar English",
+      "lang": "en",
+      "date": "2026-05-22T15:00:35.000Z",
+      "matched_term": "rti"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

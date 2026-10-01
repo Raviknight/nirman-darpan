@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-09-28T23:37:51.671Z",
+  "updated_at": "2026-10-01T22:59:06.517Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
-    "n": 10,
-    "positive": 2,
-    "neutral": 8,
-    "concern": 0,
-    "avg_score": 0.09,
-    "avg_magnitude": 0.11
-  },
-  "youtube": {
     "n": 0,
     "positive": 0,
     "neutral": 0,
@@ -17,52 +9,44 @@
     "avg_score": 0,
     "avg_magnitude": 0
   },
-  "overall": {
-    "n": 10,
+  "youtube": {
+    "n": 2,
     "positive": 2,
-    "neutral": 8,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.09,
-    "avg_magnitude": 0.11
+    "avg_score": 0.4,
+    "avg_magnitude": 0.4
+  },
+  "overall": {
+    "n": 2,
+    "positive": 2,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0.4,
+    "avg_magnitude": 0.4
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "शिमला ने SJVN धौलासिद्ध को हराया: झाखड़ी में 2 दिवसीय क्रिकेट प्रतियोगिता, 6 टीमों के 90 खिलाड़ी ले रहे भाग - Dainik Bhaskar",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3RULUNEMVRNQXJyN0RWeTlZcmhXMDFwZHJocUdmOU9EOFVpQV95RWFfVHJpaUsyZE9qQlFsVl91eldBNlQ0M0xiU05zY0VSQjJRUXBYTW9WTWx6em5JZ1IwdHhmOFlCSjF2aG9LWDBOTUV3ZEpSZkloV3pqRkxHanI1QnZRdV94dXQyU2ZLWi1CenRXakpGa2Rqa1FKbmstYl9YcGVUTFFwUlVJdHA4dXJVWk9mdUVuSmcyQXoyWngxNVhOSG96MdIBzgFBVV95cUxNOWZydWdCUFZtbGxCeU9QeVF4enEydVBIZmxWd1I1b19yN2tHZUtmVTZBN3laMS03d29sYXVLYWk1X3RIUEZOMUpjdF80dzJyMHR2M1RFNW9lUk04X0djaERyWDlkbzJhQkM5ZXVvVUpZSDBJNkF3eEx1dWZ0QThRUmtBbGUydFBYZjlZTFR2MmNFMHhMemMtcWxrbEJQajF3Tl9aRmZvbHRzZW5manYySUtZSDNWZmhZcktaRVlUNXdFTXNvWWFHVVoxZ3hkdw?oc=5",
+      "source": "youtube",
+      "title": "👍🏻👍🏻👍🏻",
       "score": 0.4
     },
     {
-      "source": "press",
-      "title": "केंद्र के अधीन स्थापित होने वाले चार पावर प्रोजेक्ट्स अब होंगे हिमाचल सरकार के, जानिए क्या है नई अपडेट? - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTY3Wng4STVlRjdUNEhNSW9LYjVac082SE5nY01yRVUtT295ckplMlJydUZzTzBCTEVaNDZkOUZaSW5naEJ5VmJwQXB4WFBYdEJkVk1PQnA2TG5EVFJJYjZLdGFHM1JJaGJkLVE3QlpiNTdqNTR5MmpBZVViX0J1UnZwOGtJZXlxUlRqVzMzYzlsVGlMMlBXUkpseUlTZkxZZGlpNDBfeGVLNFhTR01HVFFLalN6ZktrNWdHUGY3NU1TVUhUOXotZlpLaE01R0haMEVMeTVYeDVmZU4wdmfSAeMBQVVfeXFMTmNSTG5KckJmcVk3R0lQdnh1YTdDMWRVT3JqVG91dVNYQTFObjY5UEgwU1Z1azZSbWdKZGtPWnZVUzY5ZXhwTnREWDF5d1ZrcU44RFNmZFNJaUttX2ttNkt6ZXpFT1EwWnNmd3YyQnJncVBfdVNXZVhhYnBSN2t4aXFORjZURV91U3J1Zm1iNVJ4eGhKQ280WTVvbjFxVENZLVE3TGoxYURxNmJkdkxMT21NNXg1bkhPU01RbjVOQnlBUDdEa0Q0emJzMXYwS0NYYXBBbGhXTktESHlJaTJDb1pJN00?oc=5",
-      "score": 0.2
-    },
-    {
-      "source": "press",
-      "title": "सीएम सुक्खू ने दी चेतावनी, कहा- लूहरी, सुन्नी और धौलासिद्ध बिजली परियोजनाओं का अधिग्रहण कर सकती है सरकार - CM Sukhvinder Singh Sukhu Threatens to Acquire Luhri Sunni and Dhaulasidh Power Projects - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMHRnNHVFZm5xQ1dDVk1pVmhKbUtjZnFXVnlRYkJJbzFidC1tMTZibzlWNDJVcjhIRUJ5MnVpeEZfNXk0NGNCb19IY2NFRUFOcFNtUnRpX25CZHZ5STZ6ajQyYmJMaV9CRldkbEktd1FnbXU5RFFSWFZpSE9WaXVWTnk4dFFWTEViYk5Gb2hXOFhmNEx2SHN2MW1HV3pvcDZNa3BsR2U0Um1GbW1zalZkVWgzSXprZGVKYk5NQUhFcFc5UGZWZFpyUnJ3Ml82X1ptQUFZUWNRWUgyZ3plQXIwMUNGTQ?oc=5",
-      "score": 0.1
+      "source": "youtube",
+      "title": "👍🏻👍🏻👌🏻👌🏻",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
-      "source": "press",
-      "title": "SJVN inks 658 MW hydro power PPA with GUVNL - Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkh0cGtReWpLZDFDdlllQmU3bDY1RkdFQ3lYOHJ2aE95MGg5REROUmY4Q0ctQ19hWGVPNGVHWVNZNFpOSGthVHJJR0E1U18wQlhLZ01KeTh6azdGY042LTJOTUZyMUV1OW80SjktWUFBLXRNc21meHVJYVd2WGxLRXdfcU1QMi1fVHJRdUVBc1YwZFNsamhObGpHdkpaZGljYVQ0NFlBNlM2VUVkU3hvOTd0VWMyVERBQVd2WGxSX1BpSnc?oc=5",
-      "score": 0
+      "source": "youtube",
+      "title": "👍🏻👍🏻👌🏻👌🏻",
+      "score": 0.4
     },
     {
-      "source": "press",
-      "title": "SJVN signs PPAs with GUVNL for 658 MW green power supply - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG5JcDFtRkRQUUJjTVVfZnplaGthempWLXVsaEF4NmlMLWcwc2RLMGFLQzQtbk0ySHBtNzczWTlsaDUxbnMxNGxTcjhxbWxJcVhDbklIX1REZEtFdWYyV3RtZENkZkJEMWxHdVBQSllQS0dyTlB6cDVWTEM5SHpkSG02bVF5NFRlLUJUWHlMWmNMNmNSazJtUXZzM3NlY1RwbHhIbVFWaDdpWG5SeVhQOTlSOWxYR2tqeGY3aw?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "CM directs initiation of process to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYTBwTXE2clNIbl9KeTNjeVY3TF96NHhhZWF4MlRONGY4dkppbGx2QWVHUTdCZko2TGJoeDdDMGMyRDJwc2hTQXlCRTAzOHlvbWNBRi1HMGNFNHo0SlRwSEhLOUc4aG41cGZtdTc5ZzdSclRralBkT2ZodURzTEZaMFY5ZXNqd0ZETThDUzFuMmstUkp5c3l4NDRSa3BoSmxwRndrLVN4U1Y1X0tncUpnMm01Vnd0NjZtaGw0Y041R2hsclJZVU9kMU1tbUFrZkJVOWfSAdYBQVVfeXFMTktBN3hMMnZJN3pnN3pOS3ZhYU03LV80Tk9Pc0lZVF96RDd6Q1M2T0ZLV3FGRzBaejdvWDJacG5kVG5vV2RXdDloVVJqbEhsNFZXU2hXcDV1eFYwdF84OHRsY0ZJUFVHbFZKa1ZydTQtTDZVeEg0YndLcG1fMlBlRGVHcElhU1RYV2JidmRZSWRYdmoyMDRTSEZ5S2xXUlREUDNUem5qVGpGNEFsQzB1emtxLWo0YXFKT0E1V0c2WlhkS1RSQWlyRXFDbi01d0h6bkhncjdGdw?oc=5",
-      "score": 0
+      "source": "youtube",
+      "title": "👍🏻👍🏻👍🏻",
+      "score": 0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-28T23:37:44.542Z",
+  "updated_at": "2026-10-01T22:59:01.609Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
-    "n": 18,
+    "n": 19,
     "positive": 11,
-    "neutral": 3,
+    "neutral": 4,
     "concern": 4,
-    "avg_score": 0.117,
-    "avg_magnitude": 0.356
+    "avg_score": 0.105,
+    "avg_magnitude": 0.342
   },
   "youtube": {
     "n": 23,
@@ -18,19 +18,14 @@
     "avg_magnitude": 0.578
   },
   "overall": {
-    "n": 41,
+    "n": 42,
     "positive": 22,
-    "neutral": 11,
+    "neutral": 12,
     "concern": 8,
-    "avg_score": 0.176,
-    "avg_magnitude": 0.48
+    "avg_score": 0.169,
+    "avg_magnitude": 0.471
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Nice video",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "Perfect video, thanks for information, please make latest on tunel 1and tunnel 2 .",
@@ -38,7 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "SUnderNagar Mandi tab bnana bhai kabhi same style mein :-) appriciate your work.",
+      "title": "Nice video",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "very nice Which camera you are using ? Good quality output.",
       "score": 0.8
     }
   ],

@@ -1,20 +1,30 @@
 {
-  "updated_at": "2026-09-28T23:36:25.789Z",
+  "updated_at": "2026-10-01T22:57:46.670Z",
   "project_id": "AIIMS-BLP",
   "counts": {
-    "press": 202,
+    "press": 205,
     "gov": 0,
-    "en": 98,
-    "hi": 104,
-    "total": 202
+    "en": 97,
+    "hi": 108,
+    "total": 205
   },
   "mentions": [
     {
-      "title": "सराज के हुनर की राष्ट्रपति भवन तक दस्तक, वीर सिंह का हाथों से बना रणसिंघा बनेगा खास स्मृति चिन्ह - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "Himachal Expands Direct Bus Services to AIIMS Bilaspur - Construction World",
+      "source": "Construction World",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTFEwTWNlNGl0VTVDeFZVSmE0bEJnNGdTX0kzYXQ2MWh3TFNtTWM5bTlLZDQzMFFqcS1jSlBnYkNsdHhpcFdzc19XNzUyS0w4ZTJfZmZLMzc2bGNvdDdvcjdwNDZLM1d2alBEazV1V0dtejAzajRTdTRIQ3JsNnJ4QUpQcGZSYnB4WVlnemFqSlliVTAxWThJb2hhNDNKeWVtQ21OdlRodFU3QzhvTVUyRkV5VEVSLU1rVmhISmhZdWNoRXVR?oc=5",
+      "date": "2026-10-01T09:30:41.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "राष्ट्रपति के आने का है इंतजार, भेंट देने के लिए खास स्मृति चिन्ह तैयार - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa3hmZms3NC1vTEtGN0VWczBFMUwzUTVuZm1qcHFQQXBuLWFsNUxsWXVaNjVONHhQdWhIQU1wVDR3R1hRTEUwTzRka3BYa1hWZVBVT1EtVTJtdEhnalp6cWdDNTVvbVY4NWFSbEY2RXFjMkcwNUR1TDQ3OVhRVW9nTDV4SE0xMnRFR3JTQmFuYllvbkdDUE9KWVZzOGNQdlk1VjBkdm5QTzNKQmVWUUp4TjZNbURZWk5JWFc0a2FNOFA5aW8zV09KS1ZWbDJwQzFhSjVMczFZVXVzVEhyZUVVV2lzYXZMSTVY?oc=5",
-      "date": "2026-09-28T09:41:03.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORWdxa1VKNUl5NDU1bEZvLTA2LW9TQTMwaDRpZjZFRUx1Q2pvc1p6UUxCdUpDR2NFczZGb0hFRkhTTGNvMUlOdjRjSXBCbWJzb2xvYXctZS02WEJNM1RYeUFGbHJycTZPQzhZTExHYTVoYUxQcXBkRXpOVHRFMVprWklqdWszRnpSc3dMN0ZiWHByV2dWVFBPb05Sc1k0ZnhUN2k1SEhpdGNUZzNPR2FycjRfMDdKWnlTaVpDUWpJZ1NzbW9nSVNlUHlZb2FsU19fYm9fMFREZVlCTW9kV0lmSTR4Y1ZsVmlPaUNtZ1AyUWpaWEdrbVlSRjNHak3SAYICQVVfeXFMT2pHS2ZoRzdpaVFRQmhaOC1Ub0F3OWVRY0dUdG9fLVl1eEQ4cVNIMWxrOUxKd29aVlUwUGRZdmxjZG1aMElvczBaRmFrSnI4dDJ3d2lOSzlWd2hoOUJfajQwVFlUT3JLM3NFMDZtc1RFSUd6Rmxmem8xRVZUQmdFTVZTX0tMYldEYWlDbm9QOXVVLXJqeE9BX3A4T0N3WDVVOUVBd085Um1rLUZZQUVDMlZXaVdxWTBSczQ4ZHl0QThuWUJrbk9tT2F4ZDIxaGRIUE1EWlp2QXdTakJlSGRyQWszQnRIYW85V0RVRVMwSDRPNWVxUllDb1NuN1NoU2kyS2dn?oc=5",
+      "date": "2026-09-29T08:24:05.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"
@@ -60,10 +70,20 @@
       "match": "AIIMS Bilaspur"
     },
     {
+      "title": "Himachal Pradesh expands direct HRTC bus services to AIIMS Bilaspur - ET Infra",
+      "source": "ET Infra",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM1REMVhyNU13a3dWUXpLYkQ2Z0RBanc4Q3paRDdEWHZyQks1cGZpbnM4eTM2NzMzbFd3OEg2QWNWLTJ2eG1NZkQtWHRHVEwwN2p6TXhBM3pBcmItUXZmYUNSZk01UFlURUJvOVVsZERmT2Ffa2ZvdFlZamkwcThjbHJfcWtnaURlM3ByaUtDV3l6NDM4clU2OWRTdFBfSWhneFpJbmNMSWJaY2JYZnFBOVExcnI0ZU5CWE9LQWd1TTFxYUxtZ1JCbDFQWHBkTTlLSnpEWkJDRVpPNkxrcmJR0gHkAUFVX3lxTFBVUjhGSWUwbGlZYzk0ZEFNaWVJemZvZXJEWFlxNVVybVlFdkFvcUFNVTJIS3NNWDQtbE1LRF90SzNDQjQxUVphcTlvOWdETU55WXR5NkdpbmsyQ19NTFpCXzdXMjRNcWl3QmJKMEpZaUplVk9Ndk5qTFZqdjAyUEtWR1NZQ3EtTDV2dWJCOVp3VWxOdzlzeVkzbXNhbWZIY3JHalRFWkJTZktXZDlETUVHbkRxTS1qVUt2TjExT1FJbTgzSm1MOWxTbHB1V3Y4RGFXOGZ4cU4tUlVLeHBKSGhqU2wtUQ?oc=5",
+      "date": "2026-09-27T09:24:35.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "AIIMS Bilaspur"
+    },
+    {
       "title": "AIIMS के लिए सीधी बस सेवा, मरीजों को अब बस बदलने की झंझट नहीं, एक हजार से ज्यादा लोगों को राहत - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDJmbEczTUF2NW5FYlNueG43VEVwNkk4LXhJQnhySEpwYkxNQ3BzS1hhT0xjNEVBY0gwNTJiUnIyX3ZMTFVFTFBjTmhaUWI4TzBIdy1vbFl1VVpoeTJ3cWVZWTZqa2RYN2tBaVR5amU5eGNtVVlSVGNoN0F6NVdVQnhMQVo4UnBuWmZEQ0xoRGVwVGsyb01QWldHMDJ5bGdkWGtvX285THZQa3lMeC1OSVdmOXBUZUlJeDEyWDBfcXB4eDA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDJmbEczTUF2NW5FYlNueG43VEVwNkk4LXhJQnhySEpwYkxNQ3BzS1hhT0xjNEVBY0gwNTJiUnIyX3ZMTFVFTFBjTmhaUWI4TzBIdy1vbFl1VVpoeTJ3cWVZWTZqa2RYN2tBaVR5amU5eGNtVVlSVGNoN0F6NVdVQnhMQVo4UnBuWmZEQ0xoRGVwVGsyb01QWldHMDJ5bGdkWGtvX285THZQa3lMeC1OSVdmOXBUZUlJeDEyWDBfcXB4eDDSAcgBQVVfeXFMTmpCeEt3WTlzeUduRTVaeEVMUlY2Z3RiYno4ejJRcDlYT3RMRlIzRjNvMHJudmw5eEZEbm4wdjlTWVlEWmE1dV9TTVhFNWoyUGphQWNSY3ZqSjJZc0hDQ1RyNDhzbE1NcjJOazZFLURnWGwzTEx3bEFaZ2tyZDNZNzZ1eUJYUi0zLVV4S1ItSVYzVE5Cekc5MUZJUWJGV0RYZXBlWW84ekR3RVdwQWhGZnFrdkdvRHR5U1pscWoxMm5VdEVtbzZYckQ?oc=5",
       "date": "2026-09-27T06:13:46.000Z",
       "kind": "press",
       "lang": "hi",
@@ -73,7 +93,7 @@
       "title": "HRTC operating 10 direct e-bus services to AIIMS, says Himachal Deputy CM Agnihotri - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ1BhYjBuOEZ4RXRUZnl2TEZXQ0VlYm1Qa29MeWVLVFhQRGN6NnU5Q1AxdGVlS3gycE9wcnFzeC1nMG5HcU81ZzltU0JLOWJhZXlLbnhiT1FSTFJTNE5TRUNTRXo3RTI1NFZTb1ZHSmJkdGdXV3hLOG9jRmF0RktrMEFDUkVCODJ2MS1iLUpHSFZxV3gxeEdZaXhGNk85NUZXVmZURlFiWEZZdFZMZWk2bjl0bFdZcTZ0Q2NLREZ2ekRPS1BIYnpTNtIByAFBVV95cUxOQ1BhYjBuOEZ4RXRUZnl2TEZXQ0VlYm1Qa29MeWVLVFhQRGN6NnU5Q1AxdGVlS3gycE9wcnFzeC1nMG5HcU81ZzltU0JLOWJhZXlLbnhiT1FSTFJTNE5TRUNTRXo3RTI1NFZTb1ZHSmJkdGdXV3hLOG9jRmF0RktrMEFDUkVCODJ2MS1iLUpHSFZxV3gxeEdZaXhGNk85NUZXVmZURlFiWEZZdFZMZWk2bjl0bFdZcTZ0Q2NLREZ2ekRPS1BIYnpTNg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUDVueWMtMWpPV3R1QXFLMzd1MDVtYmZ0aDNOa0g3UEVtN1JBWFpKelNfTUlzcUQ4WXFxS0ZSRjZjMHpiMlhHUE9kVHNNNWhPVzNmVmxVelRWem5fNktRcDhDU3R2czJYb3BxOElvcmpRTlF0TW8ySVpDZGVBbTNDc1hMRXVoTmtZTW1Rd19NczRKY2dTY3ljZTNzeXZ6U1JTa0hzektOR2ZiR3N0THg2VXlnaTJ4Zkc3NzhlUjFoVmxzU3BZ0gHIAUFVX3lxTE5DUGFiMG44RnhFdFRmeXZMRldDRWVibVBrb0x5ZUtUWFBEY3o2dTlDUDF0ZWVLeDJwT3BycXN4LWcwbkdxTzVnOW1TQks5YmFleUtueGJPUVJMUlM0TlNFQ1NFejdFMjU0VlNvVkdKYmR0Z1dXeEs4b2NGYXRGS2swQUNSRUI4MnYxLWItSkdIVnFXeDF4R1lpeEY2Tzk1RldWZlRGUWJYRll0VkxlaTZuOXRsV1lxNnRDY0tERnZ6RE9LUEhielM2?oc=5",
       "date": "2026-09-26T20:50:23.000Z",
       "kind": "press",
       "lang": "en",
@@ -90,21 +110,21 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "State Govt. strengthens direct public transport connectivity to AIIMS Bilaspur - :: India News Calling ::",
-      "source": ":: India News Calling ::",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd3dMNFNCNXVnN3VOZHpsMDNpSHBfSW9NaFRiajZmcFhLYzV4YkFCZDQ0bm04TktqaFQ0S3c1bXhkNC1BTHppWTdDaXQwUHpIOTMyME9kODlnb0w4RkhFU3lrVFotTWlkRzZ6WWVFV0NUdldZOG42NTlLbjN3V3dFT3JwZUU0OXNqaG1hSms5eFR4c0xWYW5qTmhFR1VSamdlM3ZsRHVaV3JFSHZxRm43X1JaMWU1dzdkdEpra0RIWWdsTmVnSEE?oc=5",
-      "date": "2026-09-26T08:53:06.000Z",
+      "title": "सुविधा:एम्स बिलासपुर में पहली बार गैस्ट्रो की ओपीडी, कार्डियो में एक और तैनाती, 2.80 करोड़ की मशीन खरीदी – Facility: Gastroenterology Opd Launched For The First Time At Aiims Bilaspur - newsviewspost.com",
+      "source": "newsviewspost.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQWGhncVlYQXBDREVzb0ItT0RNMnp2bURXYUpSRTFUM25pS3FjR002VVNWRnpWY1E5VG9WUzE3b29DYy0ycWYyU3BmTVczZU1zd01LbGpuQUxQcjlWOEFUWWttNDRNRWI2Z3h5bzFJUGQtdXA4TkVrWi1pUjU5OENGVHA3MFJULXBKQW1sTHlycHNYTnIyU1ZEX0kwcHBXSDE5SjB5RTU3ZVN0Zkd3bVdqTEdlWjViQjBOQ252VzFrUndXR3c4dmdRTEVRYUZEY1o1bjU1blFrdm5BenltMmZtSHBnV2tjNDM5YkducUp3bGJPOU5uU2VvanJ6cFJSS3dJZXlHRGpsUHcyRXpyRUd3SzY1N0pJSXdpNnVJZmdCU3p4Qi1fVlN3SWZidTlaM295d29FQUV2Umd0WHdQNF9V?oc=5",
+      "date": "2026-09-26T11:30:05.000Z",
       "kind": "press",
-      "lang": "en",
+      "lang": "hi",
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "सुविधा: एम्स बिलासपुर में पहली बार गैस्ट्रो की ओपीडी, कार्डियो में एक और तैनाती, 2.80 करोड़ की मशीन खरीदी - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "State Govt. strengthens direct public transport connectivity to AIIMS Bilaspur - :: India News Calling ::",
+      "source": ":: India News Calling ::",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOenQ4MGw4SnBZNndtOFhINDBwbHl0TUhZdFNPeUVHaFhORDV1SGlMMDM1b1JibzROaE10T3NZaTdJUU9PRlNNNHdHMFdjWE1POTdSMlhnY1lJZEFab0d6dzFnYUVhX2o1V2hJUUZ0aTJWTG9FZlAzVkRydzBieDZLQldLY2VTTW1xbXBNZjQzOG1hdXdDRHBOamtTbmVKRDBMdEpUbzZhd2tHeWtOLWw3ZGhqanVZdEdMaFQ1dnkwUUF0Nmh0VzNyd9IBzgFBVV95cUxOQmlzb2tOQ2hHeTRKUWg1VEtQeDBLQ1FzMzZicnkwbzNQTHJldDN0TTN0ZFJTOUxBbk8tSVB3b2pfRjFFbHJYZlVpdWtvY2hIcFhXSGE1WC1RcFQ5Q1c3OWo4a0FRN2tpbkE0NzQ5NXYtUEhwOW1DNUJDQk0zcGJpMFZ6SFBtRW1wS0NOSk9sdTI2U1JnTm0yVmY2VGR0bHhvVGZLZ29wQURiRWQxbnVnVkhwUDZxNWtfSW5JSXZ0VTRHMnl5akVOUWNLT0lYQQ?oc=5",
-      "date": "2026-09-26T06:27:49.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVdSNWdpaXZjNUo4bGtqQ0pVS2ZqQ0ZSOGg4SUNDWWwxT0wwTGVBSFA5NkRKVVI5V29YRFlCOUQ2emN5MVcwQ2VpQnlJNHBoMVFpMUx6WjZxTnlobWFaV2FaaUxrZjktMDFSaUhPNVZSei12VVRqTVBPRkdwalpULVZ4VjVfZDhrOHNoUUFnLW9GdGNYOWhfWHhreGtWdDl3MmVmOVpvNWxJaUpGMGxiSC1pNWtSTHh5THkxLWlBWkVQU2NRNlotMFJCY004c1p0?oc=5",
+      "date": "2026-09-26T08:53:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"
@@ -113,7 +133,7 @@
       "title": "बिलासपुर: राष्ट्रपति द्रौपदी मुर्मू को भेंट होगा मंडी शैली का रणसिंगा, एम्स का लोगो भी है अंकित - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORF9YSkhiWjcySTZuRDJ0aVhrSVc1Rm1DYnJuZjVJdHNsbDI5WmVSSUZZVUR3d2x2UXk5U1pUMFNrU3ZMVmxKaGtMNHI5Njk1UUtsSC04bWRLMmhMcVktdTJrOTM1SkY0cGNjUWc5N3JDQXVxU0hQUjlLVHJfWDd0dGdudklIWUh3X3BmTFlMZ2NYSENDcWlNOFJCSlBHTXlxcml4T1dSWTZOdExSLTlyOXpybS15N1FIV1hfVDRMSnpkOTZFRTlYeGpfbWdkQzFHR2sxdmhTNDZUQVk0d3JvZ3lwNk4tUnNZRVHSAeoBQVVfeXFMTkRfWEpIYlo3Mkk2bkQydGlYa0lXNUZtQ2JybmY1SXRzbGwyOVplUklGWVVEd3dsdlF5OVNaVDBTa1N2TFZsSmhrTDRyOTY5NVFLbEgtOG1kSzJoTHFZLXUyazkzNUpGNHBjY1FnOTdyQ0F1cVNIUFI5S1RyX1g3dHRnbnZJSFlId19wZkxZTGdjWEhDQ3FpTThSQkpQR015cXJpeE9XUlk2TnRMUi05cjl6cm0teTdRSFdYX1Q0TEp6ZDk2RUU5WHhqX21nZEMxR0drMXZoUzQ2VEFZNHdyb2d5cDZOLVJzWUVR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNEgzcU9Mb2JieGc0MFRQUV9CNk1ZeHd2XzlyT2FKNVVwbHVOSmlmTFJYOUpmYjVoLXVkSXpoQlhfQ0RLYlpVbFZLenh1Zkoxdm1nQW9CVUxaQ0pBcGtfMzBRYXNBRGR3MEZCTzV1S2trS3ViWUkzNzA3a3I2RzRZU2tlMjV4RGJCTUttSUViRFQ3ajJhRDhycl9yUW1TOUg2RWNaY2xBdDNWOHpuclVBekNBM0xMUXdDdENkMUxDRGRvZjl4QWpjU0NHcnVTSi00Y0VxU01Wa3lCYnUyby01UW1zeS3SAeoBQVVfeXFMTkRfWEpIYlo3Mkk2bkQydGlYa0lXNUZtQ2JybmY1SXRzbGwyOVplUklGWVVEd3dsdlF5OVNaVDBTa1N2TFZsSmhrTDRyOTY5NVFLbEgtOG1kSzJoTHFZLXUyazkzNUpGNHBjY1FnOTdyQ0F1cVNIUFI5S1RyX1g3dHRnbnZJSFlId19wZkxZTGdjWEhDQ3FpTThSQkpQR015cXJpeE9XUlk2TnRMUi05cjl6cm0teTdRSFdYX1Q0TEp6ZDk2RUU5WHhqX21nZEMxR0drMXZoUzQ2VEFZNHdyb2d5cDZOLVJzWUVR?oc=5",
       "date": "2026-09-26T04:52:36.000Z",
       "kind": "press",
       "lang": "hi",
@@ -125,16 +145,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmVxSHNBTjJBZWpjSURDUjBwcFFZd0JFQVBlSVVmRjM2V2NtbEF3OXFhZ3YwVHhROXdRc0JScUpib3JlSkdlVURHNlU4azdhNlpiN3B4WURLcVJvbEtpUkZQTGdad2xoRk5ZRndBdlJJT1BRWjY1ek5rNFdDN2Vxemh2dFVMYll3cFhJSlB1czlsNmZLQVR1aWVwaU05bDEtZXZqM3BsbldZWU5iXzV1ajR3RdIBtwFBVV95cUxPQ2cwZWpydWxXZ2FkRUJlUEFpWW9qM1g3TjNWaS13ZzRmNXdUOExFZ05wQThLYW5Dckt4QnB0bEwwUHkxTzV0YmNDTkFFbjBxZjZnNjFhNHZRVEdld1FSZkVpV0x5Mm43SENxN1J0X2U5SVJvb2VKVF80NnppSDFZX3lEXzFzVEVlVmJPeVZtejlid0JPckt6bGlQajhtM25qcW9pTklPX3JGZ096WGZtUmZyazVwRFU?oc=5",
       "date": "2026-09-24T22:55:22.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Himachal Governor Kavinder Gupta inspects Bilaspur four-laning work ahead of President’s visit - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVpwTVI2cm9LelJ6YlhIbXY5b3ZlNEV4ZDBDNTNFZl9JTV84M1hNOEFKa08zdTg0anVMal8wSU1tWTAwQmp1OEZ0Q2JncmMtNVU0eXVDZnIxUVBFazVTRTNPcjl6dndSU2dUSWUySXFPS3E0NmJwRUVsemxRTExyUk9GdEwxcWViRnJJM01KZzFtZEhRcGxydDE2bGlhZGNLNEhqVEFkRUc4ZGRlZ0RCS3JLSG9PdV9EclczdXg2dklHT21TUnVsalZMQWVwaGtGekZCMlNvVTlpYzNPZmllYzRoTXZwcF9vQTM3cWFFcnNqZjDSAfMBQVVfeXFMTkFacE1SNnJvS3pSemJYSG12OW92ZTRFeGQwQzUzRWZfSU1fODNYTThBSmtPM3U4NGp1TGpfMElNbVkwMEJqdThGdENiZ3JjLTVVNHl1Q2ZyMVFQRWs1U0UzT3I5enZ3UlNnVEllMklxT0txNDZicEVFbHpsUUxMclJPRnRMMXFlYkZySTNNSmcxbWRIUXBscnQxNmxpYWRjSzRIalRBZEVHOGRkZWdEQktyS0hvT3VfRHJXM3V4NnZJR09tU1J1bGpWTEFlcGhrRnpGQjJTb1U5aWMzT2ZpZWM0aE12cHBfb0EzN3FhRXJzamYw?oc=5",
-      "date": "2026-09-24T20:13:45.000Z",
       "kind": "press",
       "lang": "en",
       "match": "AIIMS Bilaspur"
@@ -173,8 +183,8 @@
       "title": "Himachal Pradesh Government - himachalpr.gov.in",
       "source": "himachalpr.gov.in",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04U0NNM0tlOE05dHRHakg4RElhZDA0dkp2N1pZY2pLV3dFSXBKV0hiTmpaSEtVRTFPQ3dEZF9VMEJSMFEwcnRRLUZuSzVIeS1pcnY1UWp2bXZEMmFTNk43VVhKaVJNbGZRTHMzTnV2WkRIMU0?oc=5",
-      "date": "2026-09-24T13:23:31.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jdEpCWkhtMXdfZktzalpaMVQ3R3F1Z3lrMElXOFpjb05fZlh2eVlPaXdPNXFKMFpPQzFPN01vVk5EN2xwUTVDR0xBdXZtVm9sc1dqbFBXX09Ga0xqbzYta2phOXMxUlhI?oc=5",
+      "date": "2026-09-24T13:25:20.000Z",
       "kind": "press",
       "lang": "en",
       "match": "AIIMS Bilaspur"
@@ -195,16 +205,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbXRSNmRmejk4LVUzTFJZWWVLYVA4a0ZOeDNqWEJ2eUpydmlSSXNwYkZQRjV4WkJrT0pKVkMwNGtISGpRRHNRV2JreDNUckhKWmJGcVByVFRQMGRvS2tnOHB2Z2lBZ0N5MVhUZDZmLWZrZjRJc08tZGFuNDh4bWxMdTl6VEJSRnhNNThIdGEtYzFWYkw5QUhNcW9HU05xSFhQc1VWaDgzVi0xY08zWE41YmU5QXVkd2JKYTVReldweG5LWWg0YndkeHYtM1ZlLXNCUnJGdTg4SFhKTGtYWVhLTDNlaXZ0N3RWbUY5dXBQMWRPREVmVmxXYUxPRnM3ZlJlQ3ZPUkIzYU9mN3c2M3VIaWE4bHFTdUhvcV8wNmNGSWN4bkRB0gGqAkFVX3lxTE9aYXZwN0ZJSDB2QWN2aHl4YTRVc3ZLbHI5Y2RBdVpBUTFVb25GSzJ5TWNFZTUtWnVia2tjVmViZ1VHOFZMaVByMXJlZ0pYS3htcXduWW5ZMktTMXozVGlfTHljMzdpYVdObmF2blM5Q3NBTjNXaXhoaVFYTlkyTGpUZlZYbFJ2TC02QTJvdGdpWmc3YTZhbllZRTR5S21waDZlQWVpa2tkY2s3LW9NanU0UXRyVVQxcWNwa2lfMGs3Rkx2RnBlaVpDQ0kxYXhPN2JHQnN1OWFPU29tZWNmei1NSS1aUHBNRzZ5VFZEUVBsaVFESU12YTJiZFdNQXE4THE1UG0yVzdsV3hGOERGS3MtQURoaUxHMzRWWl9kZENuVTJPVEREcjEzZ3c?oc=5",
       "date": "2026-09-23T18:46:01.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Bilaspur News: घुमारवीं में आवारा कुत्तों को लगाए एंटी रेबीज के टीके - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSlliZ2Z1eXNPNXVsc1ZYektfVHVJLTVxcEhjREJQU1ItWG1RS0g1MXJlN3F6a1hNaExZZ2R1ajRHbGhwMExjdW1POFVZcFZ5VGp5eVZzcFZzcXZMLTBpNThpQUFybjdDMzRtb1NKRTIycmV0eFdmVUlxLWNJSGxHX2dWcWdhRWhWLUhVZFBBY045MTVacVlLWUhPZzB3bjJmQ1dKRUJxN1Rsc1RWREpPbmkyand3TGdyVG9VaVB5enhXQlUwNzFmTWhIQ1JfWEpQZi1Hd2tYRG9FbmlSRm9OQ2UxZ9IB6AFBVV95cUxPWGZVWFBnNUoxM05GNEptRkUtaWl2bUNNWHNPc2E0ZVpFWlFRdFYzOHlVZllhbHRhVXhWZEpzdS1xX080YUozcGNhZHR0WUl6cXZBOWtScVFfa0k5Mk5wbnV4cGNnMmtoV0hIR1JrLU96Tjc2eVZ6NkNqX1pnUkdkLTNWZnVjZzQxb2swMWtXUmI2am0tLV9tRVViU0gyWUx6MGszbHEwci00WHJTUV9tS3JpVnFuakpsMVBvbVA5aDlvMVo5ZjJhSTEtSmJLMkZtb1JEMVU4WW1EVFFfeV9jUzgxTzhhVFcx?oc=5",
-      "date": "2026-09-23T12:26:01.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"

@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-28T23:36:11.293Z",
+  "updated_at": "2026-10-01T22:57:32.243Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
     "press": 285,
     "gov": 0,
-    "en": 143,
-    "hi": 142,
+    "en": 141,
+    "hi": 144,
     "total": 285
   },
   "mentions": [
@@ -84,7 +84,7 @@
       "source": "Bhaskar English",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
-      "date": "2026-08-20T07:00:00.000Z",
+      "date": "2026-08-20T11:05:34.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Chandigarh Manali highway"
@@ -104,16 +104,6 @@
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV1FOa1k2dHg5R05SbkdqRUZaMU1PRjMxMmUzWWdnbjBWVHNMUXF1Z1EwZG5ZQmMyWVRGYkdDWG4tZW9tVTllY3pXY1h1WmxRNVBiZVZwYk1pOHU3X3hqUkV3WXFKMl8xclpIOHd2RWUtbDhmWWhkaVZLc3NabGM5azBCeUJpdk9mMW1UbktTS01xQlA4YWxqdzE5OEN1MVdkenhRYWFDWmREVk5oVHMzYXl6dHNZczRJek80c0wyc1dOSm45eGtN0gHMAUFVX3lxTE5nNDJiRUNlaUl2T2kxME5rQXlJUEg2eVN0eTM2Q29GZ1dWRk81S3B2WjA1eEtJUy1KNmgyUEhUR2V0Ri1jMmFmZDh3UmZOMmVrNm9VMXZMcVM0MVdtTXRZRlFhNi1LS1hnZlR1VjhyQUhrZDVjaUpEcWJzUmtRRTJGcXlmVDZ0U2J2WUZmX0ZWSHdhbC1tNUNOOXJoaXlBM0k2Y2NwSnN4QUJvQWw1Q2FXa2RlLXZmLW9wMkJrZVdaZ0dHYzA1cW9pSFlqaw?oc=5",
-      "date": "2026-08-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "चंडीगढ़-मनाली हाईवे पर पंजाब के 4 लोगों की मौत: सात घायल, नगवाईं अस्पताल में भर्ती; दवाड़ा टनल में सुबह के वक्त दो ट्रकों में भिड़ंत - Mandi (Himachal Pradesh) News - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcHBuUlpWRXNzLVgyLTl0aDZmTTBUTXdoc0dtY0M4eVBUUlJQX2NhUW1IQWVKNy1wOXpjeGJaM3lLZjYySG13ZnhzVzV6d1ZFZjN5ZXdEMUdzbWU5MHhOeWRJbDlDSU9OTElUYy1KWmJ1SGdvR09kUU80SWdRX21JSE8zY2MwSVF2NHhnOGx3MFl4YXk2WWVXWGprMk8xMTlJX1YtOVp1V3ZuY3U5UTN2VXRJejNUT1JIeHJVQzFGd1VmdVpLZlo4cDd5RFhCeGYzZkFHa2dJNA?oc=5",
       "date": "2026-08-19T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "Kiratpur–Manali four-lane: When infrastructure becomes a perpetual liability - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2dHXzNxTlBYV200YmVTR1Zpb0VkeTdRRElyeE5pRmZqbE45b09yUHVsV3VvdXhDNXZqMFBjY1Rpa3pzYUl6aEpJRWFkZzY0cXktWTA0ekJIMnZFWXBhUXJQWHZiZDc1NWdrYzZHRVBSdmZ0MWRZRUZSeWFPNjM4YWh6MXBmSlJsN21qWVBCOTMyRUEtYmZ0VmdJbWZaV0xrN3luV0ZjcXpfMDVhenAyVUY4OWdVVXN4UkJCMlR1aS1nb2vSAcMBQVVfeXFMTUtnR18zcU5QWFdtNGJlU0dWaW9FZHk3UURJcnhOaUZmamxOOW9PclB1bFd1b3V4QzV2ajBQY2NUaWt6c2FJemhKSUVhZGc2NHF5LVkwNHpCSDJ2RVlwYVFyUFh2YmQ3NTVna2M2R0VQUnZmdDFkWUVGUnlhTzYzOGFoejFwZkpSbDdtallQQjkzMkVBLWJmdFZnSW1mWldMazd5bldGY3F6XzA1YXpwMlVGODlnVVVzeFJCQjJUdWktZ29r?oc=5",
+      "date": "2026-07-11T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Kiratpur Nerchowk"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

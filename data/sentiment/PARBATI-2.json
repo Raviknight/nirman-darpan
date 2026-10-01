@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-28T23:37:51.084Z",
+  "updated_at": "2026-10-01T22:59:05.919Z",
   "project_id": "PARBATI-2",
   "press": {
-    "n": 2,
-    "positive": 1,
+    "n": 1,
+    "positive": 0,
     "neutral": 1,
     "concern": 0,
-    "avg_score": 0.25,
-    "avg_magnitude": 0.25
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "youtube": {
     "n": 4,
@@ -18,20 +18,14 @@
     "avg_magnitude": 0.3
   },
   "overall": {
-    "n": 6,
-    "positive": 3,
+    "n": 5,
+    "positive": 2,
     "neutral": 2,
     "concern": 1,
-    "avg_score": 0.183,
-    "avg_magnitude": 0.283
+    "avg_score": 0.12,
+    "avg_magnitude": 0.24
   },
   "top_positive": [
-    {
-      "source": "press",
-      "title": "शिव-पार्वती की पूजा कर सुहागिनों ने मांगा अखंड सौभाग्य - livehindustan.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeVpLQW54OE0yVzhqcnZRT1Y2aHFyLTNKRV9DWjUxZGw1SWp1ZHVoX3RzVjZSVDlVMW5BS1daTkh4V0tXRk9tc3hGZzJCNTlsNjVablplNG93VDVxSlZXOEFhUTkyOEhoLXpTX2NYUmN1WWxQZ0RhajV3cXN0QkxSOU1VOHdySng0N29VUzFEeFJjV3RSVGI2ek1TbVhhdWgzOHZ6ZDNQNmNqUzhtdThaS0VEUTRpUVAwOWRjckFqamFMODlIUDBieEYzWER3RlJSWmVGTTZXU0VIYm93dmhfMWl0ZVpGVDJYRVNOZUp6ODNpUzVE0gH6AUFVX3lxTFBHOHJwYUdtMk0xWmJWdGx2MmNlSkN5ZHdfWUpVaXF4MXJDcmx0TV9Ubm1rbW5vbE9wU0IxM3VWSmFjODdBZmF4bjFtdWVFTkQ5LW5qWC1jTzN3d1QycVVjc194SFZkYWhPVU5veWN6MEFZcDU1czlhMGd2YUFzYVlvVzdHSG5JaFV5TWlvSy1INnZGeDBMTlhReUh2NTlnbDFxQmFyb0NtT1pWcGlhd3NlU0pxcWhfZmdhdTlBX3VMVjMwcGdtQVFqVC12THpOa3JhUTZsMVNhc0pQN2ExQmRlMG1EX19yLWhhSkZfY3NIbGFaSnI1UDhvY0E?oc=5",
-      "score": 0.5
-    },
     {
       "source": "youtube",
       "title": "Jai Shri Ram Jai Modiji 🎉❤",
@@ -41,6 +35,12 @@
       "source": "youtube",
       "title": "❤😂🎉🎉🎉🎉",
       "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "Lakhimpur Kheri News: शिव-पार्वती की आराधना में डूबीं सुहागिनें, रखा निर्जल व्रत - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNRnlSZl9yRlhxSFpydGlManlaNDZLRVNrVDhlQ0lMLUJfNjYzQTRfam1XWU5zVEotWFNiOVh3VTJyR1hISkE1N05maU1yNkZ3NWJiSlN1TFRHdDlVeHhVcTJPcXJEV3pPc1dReXp3enA2WHI5SF9pNThPcGdKU3BKUjd4OHg0aUluUy1jT1RVRFBKTGd1ZVc3M3NpSnZnZ2VqM3V6WlZ3Wkxrc2lMdmlxT2JsdlpKLXNfbFItUzdUV28wTGVISGVpX29ENU5QWjVQSUsxSWpILVYxdm9lZXcwbVBSTXJuNVVCZ0Q1RE93WXVROC10NDdYMXdqSUZHMFJTdnFsVGNwdXVXc1VTcDNwTHRWOWp5bE9EcEJsc9IBogJBVV95cUxQdk5xV0duc1hVYjBCVXBKMWoyUnp3RVRmOTdYX29JaHhXbWZ6dFkzVktYUG9vYVBsTVdoUTRldFNlSUVBUWlVYjRmYnB1bXNjclRtT0FrZnBDbDdmZnpDZUZQTDM3TkxjWGdkd1A4XzM4M19JY2F5cXVKQXg5Vl9IbE9aYnZvSkVzVlZpaDNrVE02VlBqckt3clRCUUliOGhYemp5a3Y0M3V1VTFobU9aQzNsczN2ZU5ScnBhMmRLNzhxd29WbjhTbU0yRmoxeFR3bDUzYmc1bUtxd3JHZkhsaS1TeWs3QkFpTXRzR3BvRnh5d2VOdmFyaDIyLThWTXo5NTV3VXVfLUZhdnZSTDI0WHlobUtNRVZWSHQtcld0eGItUQ?oc=5",
+      "score": 0
     }
   ],
   "top_concern": [
