@@ -1,8 +1,50 @@
 {
-  "updated_at": "2026-10-01T22:58:37.519Z",
+  "updated_at": "2026-10-06T00:31:16.497Z",
   "project_id": "GMC-HAMIRPUR",
-  "count": 1,
+  "count": 4,
   "suggestions": [
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-06T00:31:16.497Z",
+      "title": "One Killed, Six Injured As Under-Construction NHAI Bridge Collapses In Himachal Pradesh's Hamirpur District - ETV Bharat",
+      "summary": "Auto-detected from press: \"One Killed, Six Injured As Under-Construction NHAI Bridge Collapses In Himachal Pradesh's Hamirpur District - ETV Bharat\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTnRQUTN0aWFCZjhDdmNvZHFidjBFM3hHOVMtN0poeEpwZGwtcV9nT2dyUDdId3pCZzVDRENFcVpUQWU5OVFMNlRqeE15YmZNTFJCektaY2t3c3lrZmdxZjNFZVBPcWNBdlE3LVRsNTRFYVdhOUxZZTctNTQtaGV2VHNOUE5GMFo4amF0b3BMSzNPSkZXenpjdTg3YWJQc0kyY3FBU25fS21reWF3MXB3UC1mLV95TzAxUlI3YjBXaExNaXlnUmloUkUyZ29nWV85Q1A3Sm84aHVfQWpzc0930gHkAUFVX3lxTE54YmVFQThUWlN2R3huWFgzUGNSNk9CdUdVWUExM0MxcUN4dUVGZVFQZFpNYlY2dElyV2syRjEzdTFfQnBQbS1OSG9hX3ZrX0FGemxXWTVtbm91c2oyQnFKdThIcFB6dzNSSG9xMk52Q2Z5d3ZkMlVnS0FudWhUV2ZCYnBQSVdvMURaeGFlMHI3Qm1oSWxZZEVPdE9YYzdCSkJfZmJSNEVOSGRFZUJUbVI5OTBtSFNZbVFhOTUyMGdFQ21aaFpZMEUtWjFac3dFLUp5YlFnOEUwRkxhUmJ4QzJkWm94Mg?oc=5",
+      "source_name": "ETV Bharat",
+      "lang": "en",
+      "date": "2026-10-02T13:17:55.000Z",
+      "matched_term": "killed"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-06T00:31:16.497Z",
+      "title": "Under-Construction Truss Bridge on Shimla-Mataur Corridor Collapses in Hamirpur; Rescue Op Underway - Republic World",
+      "summary": "Auto-detected from press: \"Under-Construction Truss Bridge on Shimla-Mataur Corridor Collapses in Hamirpur; Rescue Op Underway - Republic World\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZFVjcktLdUlUNkFLM185cjlPMWdjZXR4YXRYQllWOFVKcnZrSmh2RGR1RVlxVVRkM3h1TnpmX3AzQTBlbm9WZTM5OGVRV2g2clRPZHUwT0c1ejhEQVVLY1B4RnlfcTQ4OEtVOUNLRHNGeHhUc0J4VHJDVkVwNHZxSmZVMHZhMkM2NVd3dXNHRGc0enhQRWFyclYzWXN3MDFCX2Zja3NQYXFBZTg4TlJodU1nS2I5b1pyNnZXUWVVeUF1UmFjUXV4YVVINTN1YVY4TXpucjVyejcyb2w2QzdDQ0Nmb002RTDSAewBQVVfeXFMT3hBUFd2dHcwbzZ4OXlqTVRZdVRGWDVVdlVoeFVxRl93dGNrWU1PczJVSnBlVFRXenRrVmhtMEc3WTZxZGFRTWpPZTBaeFBSc3VDSXNtcHc0YUU2enBOcjhHUW9WN0JNeVpsOWtTb1FBbHowendzOGxvZk82ZVNXSXVmQWh3SHhWOTdSS2tnQmVvSkpNRHhITmRveks3ZHdwVG1rNGgtMTBwemIzV01lZ3B5UDlDbV9sWHFUMjFoVXczYmtwT050WlVCdjBtRzFTSUhLNUYyS2RKV29LVlowamJrRXBpYzhWYTJOOWU?oc=5",
+      "source_name": "Republic World",
+      "lang": "en",
+      "date": "2026-10-02T13:10:12.000Z",
+      "matched_term": "collapse"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-06T00:31:16.497Z",
+      "title": "Himachal: Under-construction four-lane bridge collapses in Hamirpur, workers trapped - Babushahi.com",
+      "summary": "Auto-detected from press: \"Himachal: Under-construction four-lane bridge collapses in Hamirpur, workers trapped - Babushahi.com\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mTFB4ejNmMHcyemg2RndQVlpCLXVzN29VQUNGdFBEcnpBeUZQXzVTeDB1b0JWTDM1UkFUbXBLb3hFdGptRGc4ZlFoSHFDTjRuNFk0SVd6TVkwY3hYYkE?oc=5",
+      "source_name": "Babushahi.com",
+      "lang": "en",
+      "date": "2026-10-02T12:30:00.000Z",
+      "matched_term": "collapse"
+    },
     {
       "category": "incident",
       "severity": "high",

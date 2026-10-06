@@ -1,63 +1,65 @@
 {
-  "updated_at": "2026-10-01T22:59:08.794Z",
+  "updated_at": "2026-10-06T00:32:11.398Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
-    "n": 13,
-    "positive": 6,
+    "n": 15,
+    "positive": 8,
     "neutral": 5,
     "concern": 2,
-    "avg_score": 0.077,
-    "avg_magnitude": 0.231
+    "avg_score": 0.16,
+    "avg_magnitude": 0.24
   },
   "youtube": {
-    "n": 20,
-    "positive": 16,
-    "neutral": 2,
+    "n": 6,
+    "positive": 4,
+    "neutral": 0,
     "concern": 2,
-    "avg_score": 0.465,
-    "avg_magnitude": 0.935
+    "avg_score": 0.15,
+    "avg_magnitude": 0.8
   },
   "overall": {
-    "n": 33,
-    "positive": 22,
-    "neutral": 7,
+    "n": 21,
+    "positive": 12,
+    "neutral": 5,
     "concern": 4,
-    "avg_score": 0.312,
-    "avg_magnitude": 0.658
+    "avg_score": 0.157,
+    "avg_magnitude": 0.4
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Just to let you know that there’s a significant community who love your vlogs, your wonderful articulation and crisp pre",
+      "title": "Lovely 👌",
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "Thanks for featuring Himachal on your Channel. Absolutely fantastic and professional videos!",
-      "score": 0.9
+      "source": "press",
+      "title": "देश के सबसे लंबे परवाणू-शिमला रोपवे की बाधा दूर, सरकार का टेंडर शर्तों में बड़ा बदलाव; पर्यटकों को मिलेगी सुविधा - parwanooshimla ropeway indias longest project gets boost - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzBQNEJpdFRReEM0d2lLU3RMbjRJdThvdWJLN2U3aXhxRjZDZVZoenRraV9UQjQ5TWxzc1dJb3Q0R3U3Uzl5UXBqdm4zbUFTVGVPc3hfNVByZjl5TEM5bktvbG5ZanNTM0VvTVZFUi11ejN6aV9neVozbEtEc1VBTkdBdWlCUnBzWG5fT1JjVDVIN3FzVThUdTZKZmNmWkI0Tzl1QjN1ZTYteUNhQndVT1hlcHd5Zk1O?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "Your channel will scale higher, for sure keep up the good work",
-      "score": 0.9
+      "source": "press",
+      "title": "शिमला-तारादेवी रोपवे में मंजूरी से ज्यादा अब हिमाचल को हिस्सेदारी की चिंता, परियोजना की लागत बढ़ी - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORkNtUlRYY1FRcVBiak40WDVybENtQ1JWNVd0TUlncnJFT1o0bWJNM2lIcGZ1dXoxck81bTJTc0ZqWUwzczk0SWhjd3BrSEZUYVRTOWpsaGdTTUZhcUV5end5cVBrdjdORWwyRWRnUVdZNmtwdjI1VWliVnNVdEFkLXk3c2pPWEZXMTBzblptXzFzMVJQb0g1aFFDcktxeW5jWmlTSWFMR1hJdVhOZmtMVWJCNnVrVGY3MlE?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
     {
-      "source": "press",
-      "title": "Shimla ropeway faces funding hurdle as costs nearly double - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUszVGpCZFIyRzVJbG15Uk5HY3JLTXRiZ2kxcFY4aGRxdmgySGFNZ2ExcUM2ekU5djFrX0hUU25kcjZzQjAyY1pRdEN0c2xHUVBheDRvdG5IMFM3REE5b1NuV2JFZGJFejZfM1N4VFRTZkV5bVFNUVhBYUY5WVdHMC10STdtQmw3LVdiM3pfLWg1cUdtMi00Q2lmc1k0VmxJUElSNtIBqAFBVV95cUxOU25uZE5RdTZQa1ZZcmNMX2VDRVgwQzE0ZDNXSVlVQnJmeDdBcTFPUm9CeDB3a25uNUg2R3NwTktvcjVSbU1McVhIM2ZMS1F5b3JDREtqdjQ5VW9NSU1yQ0R3amdSM3p3MGFnUnU1NzQ4RmFYZXFOUlRIR1FtN3NhQkFSaDl0RjBlNmIzMXN3Wk1BTm9iQnliZ3ZoWVRmZkRfMUJpUmNDckk?oc=5",
-      "score": -0.8
-    },
-    {
       "source": "youtube",
-      "title": "So basically Shimla monorail isn't a thing anymore!",
-      "score": -0.7
+      "title": "Aap hmar Message  nahi Dahka raha inbox ma or na Reply \nKya bat naraj ho to hm Message nahi kar gya  🙏🙏\n🙏👌🌹👍❤",
+      "score": -0.6
     },
     {
       "source": "youtube",
       "title": "I am from Solan. I can tell you this is just a false promise. \nGovt had promised a ropeway project in Shimla more than 5",
       "score": -0.5
+    },
+    {
+      "source": "press",
+      "title": "Amid Shimla Ropeway Facing Cost Rise Over Five-Year Delay, Himachal Pushes Air Links, Clears Asia’s Longest Adventure Zipline - Swarajya",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ3pmXzF2eExEc1V3WGN3RWsxM28yRF9zd0pUOW9mWEFodVpjMG1wUDdwZW85Qm9LX3RVcmFoNzU0YlMtTFF3dGN4bWYwQ1pZTmt5ZUJad1Vid2kzcWdYakJORnZ1elptNGN5S0wzSFJORHpWTHh4SmhtT09jeTAyNFk3S0dtcGNiOVdmdG9rbkJka0NCemVaUDA2UFJLNzRUQjdRYnVUQ0FRdGQtNTdpRGZyMjNlRWNOOVlzTGlHY3JDRW1fSDZEcnVzMlZWM2NMRWtEQkh6c1FEU0dDM2N4Qm5mT0NTUFRLZ1pLUWlR0gH-AUFVX3lxTE5TcVNiYkxVS09SZTJlM0JSbzlLdW1TejNzcll2QnhsZXFxTXhxV0RuaEdKa1JkeFRJbzRxUG9pWFBIaHV3MDJnUjBnaEdRWnRETUVjU1ZucWRYSjNVRnUyY2FRUm5OSmNWd3RvTXRDdk5MQWtsTFoxMHBGWHZQQ3Yxc21XM0VuRHpxblpZbDdZNGxMY0NhTmJOaG91aHpJdEdOSEp6TWllZzVPVzBuSEc4ZE5WMHNtaTRtUTg5MVhVVW8zd1Y4OXZmVmYyS0I1clJXY0lLVHpCdG5JbEpMcVVyS015SnRxUk9Yekl4bXdTZjBlWG1DS0ZkcGVud01B?oc=5",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

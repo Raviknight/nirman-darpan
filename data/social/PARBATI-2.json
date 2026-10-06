@@ -1,14 +1,54 @@
 {
-  "updated_at": "2026-10-01T22:57:56.733Z",
+  "updated_at": "2026-10-06T00:30:39.930Z",
   "project_id": "PARBATI-2",
   "counts": {
-    "press": 168,
+    "press": 162,
     "gov": 0,
-    "en": 87,
-    "hi": 81,
-    "total": 168
+    "en": 83,
+    "hi": 79,
+    "total": 162
   },
   "mentions": [
+    {
+      "title": "Sainj–Raila road reopens as 12-day standoff ends between NHPC & locals | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTjg0aG81cU04T2F6MW94YlBzcFZvWWRTUGM2MUl5UnNfclVCUWtuc21BbDZwVVRVSG5WVU16czBEME15bTlBcWtuMzJTR3FWeGtDUktJR09OZlByOFJFcWtSZFViRXpzMURXQ3h4alByckltay1mNVJJYWNiQjJtUHJxTUhYZEdlTlMwWkdQV0tOMWctdm44a0pCYnFidkx6UnRzQUNEUlZ1UmZBTVc4dEZmajhmZWJrcE1abUozWExWem1zakJ6Y2ZjdDA1bHI0N21xUEw0Z24wakpCVjM00gHfAUFVX3lxTFBOODRobzVxTThPYXoxb3hiUHNwVm9ZZFNQYzYxSXlSc19yVUJRa25zbUFsNnBVVFVIblZVTXpzMEQwTXltOUFxa24zMlNHcVZ4a0NSS0lHT05mUHI4UkVxa1JkVWJFenMxRFdDeHhqUHJySW1rLWY1UklhY2JCMm1QcnFNSFhkR2VOUzBaR1BXS04xZy12bjhrSkJicWJ2THpSdHNBQ0RSVnVSZkFNVzh0RmZqOGZlYmtwTVptSjNYTFZ6bXNqQnpjZmN0MDVscjQ3bXFQTDRnbjBqSkJWMzQ?oc=5",
+      "date": "2026-10-04T02:10:10.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "NHPC Parbati"
+    },
+    {
+      "title": "टनल लीक के 13 दिन बाद बहाल हुई सैंज-रैला सड़क, नुकसान की भरपाई करेगी NHPC - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ01haWw5S0pUaHRHX2ktR1RQOUJsRVhKbWE3N1VPUk1CRDhWbFFRdHhZc1ozV3N4Ym13U2RqWFNlN2NiV0t2Q29uc0l0eE13b3lVMnRxc053ZVJsOHJmM0lhYlcyNmRRY3RjYUhYbnZCY21LcWVDLXpjdXlQd2Z5LVRNZ2hyaC1WejFPNjNQcEhnTFNidjlxREx0MHU4S0hzQW5aeWNJX1FSWnQ4MzhybkZrS3F1b3o5Vi1FVVlEZmQ4VVVOS2NneG1qc2ZjUmppbHM5RDA4cER3U01zX3F5akJYS0hoTmpuNE1SUzZ0ckR4NUpyMkVkOEZhaG1pMDhGRWRJ0gGIAkFVX3lxTFBqUTJoU1ptSEh4aWhOcmJzWWQyUGx1SXA3V3l6OVptOUtWcVNvMTk3YURVQTZjM3g1QkowWmYwMXRYLURMa0dyTVFnMjUyTGR3ZWhMdm4wbDBEN3FyYW1ySmRoZ2NaOG5JdGZNQm9iTlpwN3dJTUVYd3c0QnMtVzlaamw1X245c3U2R2ZZUGpGck9RdFlhSGQyOGxTdGcxeGZSd1pnYWJqa2hxZGZuZnBBaVN4NkZ4UzhsMi1GdUtDWjFiYzZJZ2xVV0FFcXV1d1hkbS1XR1FBRHVTM2hKVDhVVG5kZHVDQmppSEN1ZTRnZU1Pa3A0OW5CLXltaDg5akFzVWdMdFpoNQ?oc=5",
+      "date": "2026-10-03T11:10:07.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati hydroelectric"
+    },
+    {
+      "title": "13-day Raila standoff ends as NHPC agrees to relief claims - tribuneindia.com",
+      "source": "tribuneindia.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenMxWnF0bm1CMExDNkRJRmRpU3JGaGVRN0JKVjJleWFWa01jRXdNbVhIMzlBTFRnOVRWdDFYbC1QeWJoaGxBWFJvNzhERy1yRUg1WkdXZHdpVlhDQjRqRi0wajExRUFnNmdaZFlrUHZOekN5VXU1ZFdoVE43UVNkcDJxMVExRzNTN0RkMjhJa2p0ZExHdHVmS1JSMVZxMDJCcFViWtIBqAFBVV95cUxNM3JoZ2xSQU9jaXRLWjgzLWxxbDJRcEhnUWV4UHY3US0za1F0cXN2ekZnaERFR0Z5U1gtZm53ejVaMzItbFFyX0U4akU5b2dpYW9DMzdiZzZsdXp1NnBTUDBhQ1lkZFpMMjJSa0tnQmJ1M24wbEdtRkNLeUU1UmN1b1JkT0NxbEhPb0VKM2lpOW9XdmVMWlpPUjVYYjBobVlPbDlkT19ncnY?oc=5",
+      "date": "2026-10-02T20:18:39.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "NHPC Parbati"
+    },
+    {
+      "title": "पार्वती-दो में कर्मियों को हिंदी का समझाया महत्त्व - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFTkpSZmpjdTYwVXlEMVlpTFZXOHVUY181eG82Q1dUeUNGNkR2RVAzT2V0djRPSm5md09DblZ0UHpFa2M0U0Y0emNTamJ4WkdobVE?oc=5",
+      "date": "2026-10-01T19:23:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "NHPC Parbati"
+    },
     {
       "title": "'हनुमान अंश' के 'पार्वती' की दुनियाभर में गूंज, 10 करोड़ से ज्यादा व्यूज हासिल कर बना यूट्यूब पर नंबर 1 - India TV Hindi",
       "source": "India TV Hindi",
@@ -23,7 +63,7 @@
       "title": "टनल रिसाव मामले में नहीं आई अभी तक जांच रिपोर्ट, सड़क बहाल न होने से सुरंग की मरम्मत का काम भी लटका - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hjY1lIbGhkNEpMSlphc2hLejNXSHpIYVhHRnV2M1cwMkRpYXVXRmE2SzdFQVpMS2JyeU4yYzl4NjNUZTlGdG40eGhyT2t0VzBBdklSanRteE00d0FNR2xvU2c2VXM5Snd3LTJ3ak9Kejc1dk1kYmtLeUdPV2lKYzY1NzBsR2VyakJudktlRzdwYXc4WGxiV2l2MlF1Um5vUGQ4U1ZPcDBnYU9HNXlfNDJ5aXlabkc3aHZhZUhUUG93RXhiREpN0gHHAUFVX3lxTFBvSGNjWUhsaGQ0SkxKWmFzaEt6M1dIekhhWEdGdXYzVzAyRGlhdVdGYTZLN0VBWkxLYnJ5TjJjOXg2M1RlOUZ0bjR4aHJPa3RXMEF2SVJqdG14TTR3QU1HbG9TZzZVczlKd3ctMndqT0p6NzV2TWRia0t5R09XaUpjNjU3MGxHZXJqQm52S2VHN3BhdzhYbGJXaXYyUXVSbm9QZDhTVk9wMGdhT0c1eV80MnlpeVpuRzdodmFlSFRQb3dFeGJESk0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa21uMWd3Sm1RdnlzcnpyTmU1eU5lTFBlSVRLVThDRkhZRHFVSGRoX29xNHN1elVoc3QwejF3YTFmeWVuYzJLa0hoQkRsWm54RFljRWRjdzBhdDllU1p2UjQtM0hKNE81ajN4c1ZFYm1KSlQza0d2REE1cGl6TWF2TTVld1VJMDM1NVR1ejgteWl0ZWJGaU1KZjQ0NGQ2WnlueXB0Snpub2dJNXNIdjdoMEtvY1dTYXlNWmhoQXg5OXdDQdIBxwFBVV95cUxQb0hjY1lIbGhkNEpMSlphc2hLejNXSHpIYVhHRnV2M1cwMkRpYXVXRmE2SzdFQVpMS2JyeU4yYzl4NjNUZTlGdG40eGhyT2t0VzBBdklSanRteE00d0FNR2xvU2c2VXM5Snd3LTJ3ak9Kejc1dk1kYmtLeUdPV2lKYzY1NzBsR2VyakJudktlRzdwYXc4WGxiV2l2MlF1Um5vUGQ4U1ZPcDBnYU9HNXlfNDJ5aXlabkc3aHZhZUhUUG93RXhiREpN?oc=5",
       "date": "2026-09-30T11:33:33.000Z",
       "kind": "press",
       "lang": "hi",
@@ -40,8 +80,18 @@
       "match": "Parbati II"
     },
     {
-      "title": "Himachal: Parbati-II hit as 2 turbines stay shut - The Tribune",
-      "source": "The Tribune",
+      "title": "हॉकी में देश को गोल्ड दिलाने वाली पार्वती के परिवार की मदद को आगे आया प्रशासन, घर में शौचालय तक नहीं - newsnationtv.com",
+      "source": "newsnationtv.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbV84VEVEOGFIMEFtc0l0STVTdFJqQmpPMzNXYjUwSWhld3FTNEFGVlhyZ3hSUzVpc192LXE2a3AtYld6VXZTblpZT2JkNkQySUNKREtFTXlmbEdhSmtKd1hpRXhyZ0xMVmhINzFEN3RVS25OaGt3UWFkeHk2YmhYcUd0aTg5Z2hwUVh5Z3hwclVpWllKb1VDd3BhbUrSAZwBQVVfeXFMUG1fOFRFRDhhSDBBbXNJdEk1U3RSakJqTzMzV2I1MEloZXdxUzRBRlZYcmd4UlM1aXNfdi1xNmtwLWJXelV2U25aWU9iZDZEMklDSkRLRU15ZmxHYUprSndYaUV4cmdMTFZoSDcxRDd0VUtuTmhrd1FhZHh5NmJoWHFHdGk4OWdocFFYeWd4cHJVaVpZSm9VQ3dwYW1K?oc=5",
+      "date": "2026-09-29T17:53:51.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "Himachal: Parbati-II hit as 2 turbines stay shut - tribuneindia.com",
+      "source": "tribuneindia.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnA4V003Rm5OTWUwQjR0bl9ERHBUUVBCbWtBalVSVEJhakx3WjluQV9veXZvSTRodFZhckwwM0VLMUVyMmpJUzVnUGlrSVJFOEw5UVpsVmJEOVZzRU1vaGxlVDVaWHlScnZYQS1OMWlodzltdXNUUHdsOV9XNlEteGlwZXRuM0h6SFRNZGZ6UnNiOVVGdGfSAZoBQVVfeXFMUEJyaXhFNDBXdmc5RkQ1LVd1cTBaaGg1RkNKZzhIN1NOeWxaQk9TM2JzUnl6NXZNWDdZbkJFQU9ZM1VYZWRfSnhXdTd0RjZJeEpkcGNZNUs3RjFsTnZvT2xLMFQ4Q1MzdzZVd19Nd19iSUMzZXZUbmJ1M2tpMTFZUVY2elphaHJ4dmc2WDZUWW56WDZsckxQQ2dwZw?oc=5",
       "date": "2026-09-29T02:48:57.000Z",
@@ -60,8 +110,8 @@
       "match": "Parbati II"
     },
     {
-      "title": "Parbati Hydroelectric Project II: Features, Location & Significance - INSIGHTS IAS",
-      "source": "INSIGHTS IAS",
+      "title": "Parbati Hydroelectric Project II: Features, Location & Significance - insightsonindia.com",
+      "source": "insightsonindia.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03RW5uMmQ3UDZ1UEZNUERxTEhHVEY4dl9IekUtM3IzVkFwRnIxVE1UMUtud1RfbmhkZ0JjMjFrV0wwUlFHWHFaeWZXcXBTbjF1R0NlU3FhZWg2Skh1ZEhnNU4yM1BNbEkzakNhYi1kczhXRUNhTl9DVlgwbldMdw?oc=5",
       "date": "2026-09-24T10:27:49.000Z",
@@ -70,21 +120,21 @@
       "match": "Parbati II"
     },
     {
-      "title": "कुल्लू में पार्बती-II सुरंग रिसाव के बाद एनएचपीसी के खिलाफ एफआईआर - Janta Se Rishta",
-      "source": "Janta Se Rishta",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnVOUHRCMW5hMUJhS2ZrVHhhOG9rU3dWWWVRbFhiY3dGY29oREpPWjA0WXk0YVhweHdSSVBGTWZGX3RVeHpxa1pzalFnejM1VDVIWTRZVzBmVElpVFRxb0lOS3dWMTJ3eDBnYWtZQVAwTFdVRzVScmNYdDRHbDJYQmhIQkVwdFBmbmYyOHZUcTB1NWJJOWNWc0M5bU9PRDF6djhYeE5uS0p1V2JBUFdlMVY2dURabUtnY0HSAb8BQVVfeXFMTlhUNk9zN0NrWmUxX2d4LWJKV1hEWUtaRS1xbUVkODZUcnBEUE1kNHFEeHQzanNIWmdRLXJIb1ZjQlM3TVBncVljb0VrWHFabzZxRGdfREVNdGlTNjZfTm1aWFRJeEdDZ2VyNDM4Q3VYQmg3QTgwdEV2NFpMQmZzYUpLZWttajR3Tk9PamtLcFl6STRaTlU1ZTNSSXA5cGFRUkRFRVRzcURVZEx6Si1Tc0pZQ0tIMTlEUUJjVmZQaFk?oc=5",
-      "date": "2026-09-23T09:30:37.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
       "title": "Sept. 2026: NHPC’s Parbati-II HEP Tunnel Leakage in Himachal Pradesh - South Asia Network on Dams, Rivers and People",
       "source": "South Asia Network on Dams, Rivers and People",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkVKWWV2ZHZLYzJKbllxbzJEcTg5emtBYWpTbm9FblkyNVB1QW5VdE0xOTlyYTRnaVZjXzl5dnZXREdBZURhZnRpa0RRM3JhV2IwV3ZEZkJ5NnhCaWNaMjVrOGR4SWM0bVlVWTFyMldSaXBZTUVUOGNBTGJZUnFvWFdQQVlZZ3lVNlRaTWk1amx4UngtNXBQdF9CNA?oc=5",
-      "date": "2026-09-23T09:24:41.000Z",
+      "date": "2026-09-23T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parbati II"
+    },
+    {
+      "title": "FIR against NHPC after Parbati-II tunnel leak in Kullu - tribuneindia.com",
+      "source": "tribuneindia.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1dfUjJEM2xFVDNqeEJHRWVOVEhUUmt1c2pQazZxZEUtMmJmOHRGQ0s0Mk1RVVdBYkw2SHlwZ3ZoQm81RGM2a2lMMV9CZDVoZk5Qa1c2ZzZBa0pUMlI5MmRCMlV2bzEwM1ZGdHVQM201c0JyR1RKTDNRaFE4S00tY3lnUkxJV213TkNCd2l3ZDBiM0k5LVlyLVM2aFNlYkHSAaMBQVVfeXFMT1poWkxkbC1NbW9OTWx3Smg0X1JyamtPdHJLbHl1VUJYcWE4RGYzY2o1SGRmUVpNQWg2VWVQMVVldC1ZZkVxV2xpVEhRRXFpNjRrY25maW54dkVWM3FhOWt4ZTFWS3dNX2N5V2RVYzFOWHRibUQ2Y1BKRjJEYnBERFlRbG1yTWcxRXNlWGplZk9sYVhLemdrVDAxR3dwUFhzOVlERQ?oc=5",
+      "date": "2026-09-23T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Parbati II"
@@ -100,26 +150,6 @@
       "match": "Parbati II"
     },
     {
-      "title": "FIR against NHPC after Parbati-II tunnel leak in Kullu - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1dfUjJEM2xFVDNqeEJHRWVOVEhUUmt1c2pQazZxZEUtMmJmOHRGQ0s0Mk1RVVdBYkw2SHlwZ3ZoQm81RGM2a2lMMV9CZDVoZk5Qa1c2ZzZBa0pUMlI5MmRCMlV2bzEwM1ZGdHVQM201c0JyR1RKTDNRaFE4S00tY3lnUkxJV213TkNCd2l3ZDBiM0k5LVlyLVM2aFNlYkHSAaMBQVVfeXFMT1poWkxkbC1NbW9OTWx3Smg0X1JyamtPdHJLbHl1VUJYcWE4RGYzY2o1SGRmUVpNQWg2VWVQMVVldC1ZZkVxV2xpVEhRRXFpNjRrY25maW54dkVWM3FhOWt4ZTFWS3dNX2N5V2RVYzFOWHRibUQ2Y1BKRjJEYnBERFlRbG1yTWcxRXNlWGplZk9sYVhLemdrVDAxR3dwUFhzOVlERQ?oc=5",
-      "date": "2026-09-22T19:52:31.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Parbati II"
-    },
-    {
-      "title": "FIR against NHPC after tech glitch floods Kullu village - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWmRBUFBleFhxcExWN1BaajVyMDlHaTFNZXVua1NXVlUyZnNXUHBhV2syUHpVN1JSY19ZZE5MX0FEakdudzZWRFVJUTh2bTVIYmhkN1M3M3djRDhqcC1GU0lBMUxwa2VTVDhWdThrYWtxcDlCSE1aQ0hQN0wyRFBOSU5LbVlBcTQ1b2pyYW5ONVRmYzNuajZyRndmYlJybmJTMlhWVm8zN3VTYUh3OWpmNXkydE5pdGNMZnFiRkhBLVBwLUZzTExPLS1FZjc5UdIB0wFBVV95cUxNNTVfMHhSN056elRxSGFKRmFib296N05VSHRvTFJybWt0VUJjUGdnWEhUcm8waDJtX3RMZDRKNXZWRU5HYnViQUNuTzVseW5rcTlQWWdiMjd1NjRqOF9vUzN3ZXFNckc5N29pS3M3WFRfUjdncFJYZG9uNTRQeTljM1VXcWh1ZXVPSzBZZHJRS1BTZS1CREpfajQ1X1MwS1VqNDlhMndLVzFwNjIxOVJvNXBvbFptWFVibmlRcFNhdVFpZ1ZfTEhHQ3ZhTElHdGROWHdZ?oc=5",
-      "date": "2026-09-22T18:02:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "NHPC Parbati"
-    },
-    {
       "title": "Parbati-II Hydroelectric Project, Capacity, Location, Latest News - Vajiram & Ravi",
       "source": "Vajiram & Ravi",
       "source_id": "google-news-en",
@@ -130,14 +160,24 @@
       "match": "Parbati II"
     },
     {
-      "title": "Himachal: Parbati-II faces scrutiny after water discharge - The Tribune",
-      "source": "The Tribune",
+      "title": "Himachal: Parbati-II faces scrutiny after water discharge - tribuneindia.com",
+      "source": "tribuneindia.com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmNiUWxjdVhhUWFfTDBEdW5fbGpvMGNGdGJaelF1Z1pwV0dza1pYNGdiWGRFOFFLaTk0QjZleHFsQ3czZVhPVWVXVnJTZjNjNUpnU3pUcG1JclNBaHVsY2FIcHhJeGJTTk1UYUlsbTg1S0swd2ZvUVZJSndBTGtqeXVKQ1daM1Q0UGpEVHFpck1ZRzFGM29pcndOc2x4eUhLZ0HSAaYBQVVfeXFMT196andqeGc3WXMyY3JTRnltMlhqZWlCbnhFbVlUeThfcUU3cF84QkZDMUIxbU5xQjh2Sk44dWN0aWVubi0xeVBmSVdORGdOT0VNaHpocUkwWGp6NEVqQVgxbGdaV0Y0V3BHdGM3bkppTUxHUE9JdjdCY0F3QzJDNlRFZ2dYSV9MV0tJMkdqcU9HbnBXeHBsclpXaGdmY3ZQR1lCM1N1Zw?oc=5",
       "date": "2026-09-22T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Parbati II"
+    },
+    {
+      "title": "FIR against NHPC after tech glitch floods Kullu village - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWmRBUFBleFhxcExWN1BaajVyMDlHaTFNZXVua1NXVlUyZnNXUHBhV2syUHpVN1JSY19ZZE5MX0FEakdudzZWRFVJUTh2bTVIYmhkN1M3M3djRDhqcC1GU0lBMUxwa2VTVDhWdThrYWtxcDlCSE1aQ0hQN0wyRFBOSU5LbVlBcTQ1b2pyYW5ONVRmYzNuajZyRndmYlJybmJTMlhWVm8zN3VTYUh3OWpmNXkydE5pdGNMZnFiRkhBLVBwLUZzTExPLS1FZjc5UdIB0wFBVV95cUxNNTVfMHhSN056elRxSGFKRmFib296N05VSHRvTFJybWt0VUJjUGdnWEhUcm8waDJtX3RMZDRKNXZWRU5HYnViQUNuTzVseW5rcTlQWWdiMjd1NjRqOF9vUzN3ZXFNckc5N29pS3M3WFRfUjdncFJYZG9uNTRQeTljM1VXcWh1ZXVPSzBZZHJRS1BTZS1CREpfajQ1X1MwS1VqNDlhMndLVzFwNjIxOVJvNXBvbFptWFVibmlRcFNhdVFpZ1ZfTEhHQ3ZhTElHdGROWHdZ?oc=5",
+      "date": "2026-09-22T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "NHPC Parbati"
     },
     {
       "title": "Probe ordered as Parbati hydroelectric project leak damages house, cafes in Himachal's Kullu | Hindustan Times - Hindustan Times",
@@ -168,46 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "NHPC Parbati"
-    },
-    {
-      "title": "Kullu: Devastation in Palchara village after water leakage from Parbati project #Gallery - Social News XYZ",
-      "source": "Social News XYZ",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2JxYVNHQU9OS09TQVBNU19FWmZmbmt4MDk5VEN4MHJrckdNS0hEYnV5N2dEVGtqQ2FBMXlMaFc0TlQzVkFRb0Voa2Fab2RkTXVqN0N4ZUtWQXNyM1hoTG42SklGSFJLSTdxaXdURWhNUG1jSXAxYXdQemg2am5WaHFjWElocEE0NmRUOFZ5bVZpTk5YOHNfMG5qTzV3YnZPRFNNdjl2ZENvdVdPMlhUaEJKS1FJQXZUOWdQRDlxRXFmRDg?oc=5",
-      "date": "2026-09-21T02:38:58.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "NHPC Parbati"
-    },
-    {
-      "title": "NHPC परियोजना से पानी का रिसाव, पालचरा गांव में घुसा मटमैला पानी; कई मकान और खेत प्रभावित - Dainik Tribune",
-      "source": "Dainik Tribune",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOLTRZTnZHQXdCTWxTQnVsbXUyT1h2MXMyeTdVMmhYZzM1RzE3N2VLU3I4elVXZGFEdHV5ekZLYkItTGlDMHAtcVBnTDRWb014VUtQMzlhQlBMSHQwd2lsX08wYm1aVlVTaFdIV2RQMUd0OHd2OXBzSjY3ZEZNV2VtR2xsYjloMjJ4Y1lCNWhZbkVwNFF6TEVubGs4SFA0T01ydUdJUmhqUXdILUt3SmFSeHVMR0Z1YkZoQjREWGJ0TW1tN1pEb1RQZnFBbzI2NlpYZ2FneW53UGNDSUJ3RlVSX1ZkQ3lKOGdxZDI4NEdkc2c2Z2pCWUh4b9IB_AFBVV95cUxOX3NoRm1YX0t2Znd0c3NvNmtKclA5Vy16SXZmTzZ6MHQ0b284QV9FUnVlTXRIa09pVGY4QlFibGxyLXR1dnJJRWdQeWNDOHYzU0lBRjJWWU9xWVR2a0ZfaTVZNnFGSHQ5VVMwYUU2Uk5hclVPLXJLZ19PT2VtM2IxSjMwSHY0SE0tR2NaZHRZYnU3SjViQkwxQjV0NmlUN0RNdnhhOERlMXVTLXB2RFFSMXgxb3ExcFpEM3FPY0pNbUJ1T1FqY3pESnpkQ1F4VDJKVUJPOWYwUk5Lbk83dkJlNTVKUDRtT2hmZHhkZE9UZlgtNFZSbGktY3A1Wmc?oc=5",
-      "date": "2026-09-20T04:23:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "NHPC Parbati"
-    },
-    {
-      "title": "हिमाचल में पार्वती टनल से पानी रिसाव, 2 मकान दबे: कई घरों और खेतों में घुसा पानी; प्रशासन ने एक गांव को खाल... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS3V3UU9FNDQzQ2h4Wk5ZNXhOMlFwOEttNHRtaW5MY3U0X3lMckdDbDNvcl90b0RCMjRGLWhJd0x4OXR2VzZrR3I2VzhSM1RFeG5qWXNlQUQ3aHA4eTBoVDBUNE56cEhtZzBtLWdDU0JQbFFxRFk2VzFjeUR1NUh0MWhSbFY2SlJ5UFdteF9pc0syX3lMX29mcjJCRHRDR0dMRm43dHk1c0p0clEzUDIzSlkwM2FVelA5VFRZdmFFR3hzUWoxOHkyYWlhTVljTWVveUhXbzlR0gHbAUFVX3lxTE9xMHp5TzhOMGdWZ0lKZ0JQT3RTVnp1bmhZbWxwTWNGWE5YUlJuYVBKR2x6MUFtbDc5VzFtTENwUWtsZXpOZHBqUmJjUjY3S2FnaGQ3WFZ3aC1DWXhqcXpZZ1MzQ0hjbmotalNoT1hma09YaTdDTDF2UFVabmlDTU1PQVl0Rmcyb1p2dVRGOXhWbGdBMEVjTlR0aDAtVEZVSzhpU09fRnNQZ1NjQkZiUXU0X0txYmctcG5pQ2hHTXRCbV8yYnQ4ZkxwcFZ0eGlIVlZuc3FzWk9XVUJMZw?oc=5",
-      "date": "2026-09-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "NHPC Parbati"
-    },
-    {
-      "title": "Lakhimpur Kheri News: शिव-पार्वती की आराधना में डूबीं सुहागिनें, रखा निर्जल व्रत - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNRnlSZl9yRlhxSFpydGlManlaNDZLRVNrVDhlQ0lMLUJfNjYzQTRfam1XWU5zVEotWFNiOVh3VTJyR1hISkE1N05maU1yNkZ3NWJiSlN1TFRHdDlVeHhVcTJPcXJEV3pPc1dReXp3enA2WHI5SF9pNThPcGdKU3BKUjd4OHg0aUluUy1jT1RVRFBKTGd1ZVc3M3NpSnZnZ2VqM3V6WlZ3Wkxrc2lMdmlxT2JsdlpKLXNfbFItUzdUV28wTGVISGVpX29ENU5QWjVQSUsxSWpILVYxdm9lZXcwbVBSTXJuNVVCZ0Q1RE93WXVROC10NDdYMXdqSUZHMFJTdnFsVGNwdXVXc1VTcDNwTHRWOWp5bE9EcEJsc9IBogJBVV95cUxQdk5xV0duc1hVYjBCVXBKMWoyUnp3RVRmOTdYX29JaHhXbWZ6dFkzVktYUG9vYVBsTVdoUTRldFNlSUVBUWlVYjRmYnB1bXNjclRtT0FrZnBDbDdmZnpDZUZQTDM3TkxjWGdkd1A4XzM4M19JY2F5cXVKQXg5Vl9IbE9aYnZvSkVzVlZpaDNrVE02VlBqckt3clRCUUliOGhYemp5a3Y0M3V1VTFobU9aQzNsczN2ZU5ScnBhMmRLNzhxd29WbjhTbU0yRmoxeFR3bDUzYmc1bUtxd3JHZkhsaS1TeWs3QkFpTXRzR3BvRnh5d2VOdmFyaDIyLThWTXo5NTV3VXVfLUZhdnZSTDI0WHlobUtNRVZWSHQtcld0eGItUQ?oc=5",
-      "date": "2026-09-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

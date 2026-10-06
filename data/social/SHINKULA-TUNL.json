@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-10-01T22:58:07.440Z",
+  "updated_at": "2026-10-06T00:30:49.150Z",
   "project_id": "SHINKULA-TUNL",
   "counts": {
-    "press": 102,
+    "press": 98,
     "gov": 0,
-    "en": 77,
-    "hi": 25,
-    "total": 102
+    "en": 75,
+    "hi": 23,
+    "total": 98
   },
   "mentions": [
-    {
-      "title": "PM Modi To Visit Kargil On Friday On 25th Kargil Vijay Diwas; Launch Shinkun La Tunnel - Daily Excelsior",
-      "source": "Daily Excelsior",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGFydGFCOFp2ZVFETTJnLUppLWtUXzB0ejc2WnY3enY0RnpFRGVUVkdsVEZmSi13ZmVsaXVHanBYTngxT095Mm1kVWxRc3BhcUhBLXFGc1luMHZCZkhPbHZhendPRlhSbDdqem1FYkZpU3pPcHJzdk00V0VYcGdqQk9DVjJwZDZqZ1lReEowdkllNXlXTE9SUXJRejFxN3hDbU9mdC1NV2FVUW5aZFBOaFp4dUJFQdIBtgFBVV95cUxPRGFydGFCOFp2ZVFETTJnLUppLWtUXzB0ejc2WnY3enY0RnpFRGVUVkdsVEZmSi13ZmVsaXVHanBYTngxT095Mm1kVWxRc3BhcUhBLXFGc1luMHZCZkhPbHZhendPRlhSbDdqem1FYkZpU3pPcHJzdk00V0VYcGdqQk9DVjJwZDZqZ1lReEowdkllNXlXTE9SUXJRejFxN3hDbU9mdC1NV2FVUW5aZFBOaFp4dUJFQQ?oc=5",
-      "date": "2026-09-14T19:41:49.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shinkun La"
-    },
     {
       "title": "भारत बना रहा शिंकुन-ला सुरंग, निम्मू-पदम-दारचा रोड से फौरन चीन सीमा पहुंचेगी सेना, ले. जनरल हरपाल सिंह ने किया प्रोजेक्ट योजक का दौरा - Navbharat Times",
       "source": "Navbharat Times",
@@ -108,6 +98,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Shinkun La"
+    },
+    {
+      "title": "1,196 INR-Crore tunnel sanctioned at Fotu La on NH-1 in Ladakh - Biltrax Media",
+      "source": "Biltrax Media",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHVJY2UwZXhfWEtHdTVFNUZGN3VtX08yX3dOdmJQN0NNSEdYZUZjS2RnXzVPQkQ5XzBGXzZkSkI5Wm13UUd4OERpb2VLR1RJN3dvOVN3NFhQTVFEQkg5U2laeGREQjlLRGE1UHQ0eUUzYnppWFkzTG5SNXc5UGZ4ZlZuNHJ2RlRoYVU5cXg3d0ZxRzJFbEE?oc=5",
+      "date": "2026-03-30T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shinku La tunnel"
     },
     {
       "title": "Critical road near Line of Actual Control to open this year - Deccan Herald",

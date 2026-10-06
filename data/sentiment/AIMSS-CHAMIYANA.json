@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-01T22:59:07.210Z",
+  "updated_at": "2026-10-06T00:32:05.486Z",
   "project_id": "AIMSS-CHAMIYANA",
   "press": {
-    "n": 17,
-    "positive": 12,
-    "neutral": 5,
-    "concern": 0,
-    "avg_score": 0.282,
-    "avg_magnitude": 0.306
+    "n": 14,
+    "positive": 10,
+    "neutral": 3,
+    "concern": 1,
+    "avg_score": 0.221,
+    "avg_magnitude": 0.321
   },
   "youtube": {
     "n": 0,
@@ -18,20 +18,14 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 17,
-    "positive": 12,
-    "neutral": 5,
-    "concern": 0,
-    "avg_score": 0.282,
-    "avg_magnitude": 0.306
+    "n": 14,
+    "positive": 10,
+    "neutral": 3,
+    "concern": 1,
+    "avg_score": 0.221,
+    "avg_magnitude": 0.321
   },
   "top_positive": [
-    {
-      "source": "press",
-      "title": "AIIMS की तर्ज पर विकसित होंगे हिमाचल के मेडिकल कॉलेज, स्वास्थ्य विभाग में तेज होगी भर्ती प्रक्रिया, CM सुक्खू ने दिए निर्देश - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMkxPTnFrQms0OWhIYW9jd0ZSdlBvOS1VN1dBOU1qRVVVOXFhZ0p1SlRyMlNTNmQ5VzdJLU5oWXotM3hpZ245VVhjazJzcjBrZDJQUDFLOGNFWDhpTXFjRUU0NURua0NSeVVRSW1fbThmdzJ0QWh5Z2U1TFF0dE9pdGxCbEFVX2FqbF9pMGd0YTc2cHM3bnJfTWc0NzlTTGNoYjFxRUVSVWJWbE0wbFd1VnVjUkZZdkZqU0NjSWxKWG5Jb01paTRlQ1Fja1U1bHhrWHfSAdcBQVVfeXFMT2ZrZXZVNzRSN01aYzdwSEZXSnRiblJCTHZmVGcySV9oUWhHeVpPM1JBZnRCdGowRkJlTFdHN2VXTnFOWTcyZXo2RFFUT2ZFWTUwR0xHM0toZ1gweTNDQWJQbkdMblE4VGJyUEpFTGw4d3F1QVRvWXdPMXVseHdKQ0MwdmRqNDVZc1JRQ3I4VEl3YnRaMFV6THp1QkdwcUdnbXFmR2RsSEFQOUczUjh5VUZYY3NLLWZoRXhZTGpXMjdlQjlWNlpfS0prNjZUN0M4Z3ZlczhlLUk?oc=5",
-      "score": 0.6
-    },
     {
       "source": "press",
       "title": "शिमला में IGMC और चमियाणा अस्पताल में एक साथ छुट्टी पर जाएंगे आधे डॉक्टर, दो बैच में रहेगा हॉलीडे शेड्यूल - Jagran",
@@ -40,17 +34,23 @@
     },
     {
       "source": "press",
-      "title": "शिमला में CM सुक्खू ने किया अत्याधुनिक 3-टेस्ला MRI का शुभारंभ, 5 अस्पतालों में बनेंगे - abplive.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGttWGREbXhvQm85UGV3WUtMZnpPTmRybzdSanZ6bFBFQVhiX2c2THJTTy1nei1ZaDZxbnVtcV84MDY1RC1BT2hVc21CaDNCOVVndmo2M3c2UlprdF9yUXNuVUw3OXQ5NV9OWi1iTnZhSUhxck1qQWpGcnYyaEFlckNBWnkzbG1zbEtBNXFEQUU0X19LcFZ6MERmMFFwdTd5aVl2OFVPZ2lVQ2t3SENNTkpPUF9sN19QS2loSnBNRzUtemdudS1kUW5rOUk5MXl2WGc00gHYAUFVX3lxTFBFazRZaUwzWDkxeGIzdEJOcTNORzNyTkhNT0lfQzNDN3MyRk1KQ0VUOHFWZzI2OFNkbFBkRndHdHYxNzVTQzF3NnhQMFJnTDh4THQ3SS1GaU93MkNObkc4Z0I4UzJkQm9uMmx1cXQyYjZQcXRENVpSRTVqRE1vUmluQm93Rkp3bV9MSjA4TWV4eGRYSVh3aUx5Ui1fdGFqekplX0NZdEJnSnVUd3VaUHE4bFkzWWJIM0dMZ2taSER3T1VCQzFBR0Q1dGNqdzItMG1oNnJEWE1XSw?oc=5",
+      "title": "अस्पताल पहुंचे मरीज का उसी दिन होगा MRI और सीटी स्कैन, CM सुक्खू ने चमियाणा में 3-टेस्ला मशीन का शुभारंभ किया - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNV9ic04zR09qY0d6TzBzcmxMeFRpVXRzSHRJVHNyLVdDNUJEMHprUVBxOXVJczBMODllajBzNk5LaWR2ODdpUTJrNjhGNV9ac0Q5RUpHaXdvZkpoa2tBdHQxTlktSDVYR3U1aU1hSTdtczFvQ2hnRm94MTVaTVY1eGV6RS1JYndXVVJvYWxqYXV2RnlWLUEweDR5ZEt3elN6RFJGTW5GdWkyTzBfQVpOUDMxTkYzUQ?oc=5",
       "score": 0.5
+    },
+    {
+      "source": "press",
+      "title": "शिमला के चमियाणा अस्पताल में ऑनलाइन बनेगी OPD पर्ची, अब नहीं आना पड़ेगा जल्दी; बेहद आसान रहेगा प्रोसेस - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHllVzVKb01XRFEzYk1fRUdNd01RWjNDbTFId2tRWFpwS1pmUktqZVk1cXJ4ZnFOR3lMQ3ZxT3VKYkdGOGRkazB2N2NEWUFPNVlqanRvSjItVl95MktzQjZCRVZIcXlzaTdFNDE1V1B4VzMwdXVMZ09tRGtscHpmVk5iWEdteVpRZzhOZWZSU1NsZDM2NmQ3QkNUbmlWaXVTTUZSMTN4YVhFN1M4VU9Eeg?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Dialysis facility launched at Chamiyana hospital - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEZGNHFSOUM5SFhBSFdZRnozOFpaSjI4MV85M01PUTJSc00tX3dJaHVOWVJBZ01wYzJUSzFNc1QtanltM2NkVHhfYXVwaDVRSlctVXBWa1ZFbUJpa1ZKNWRjUUZGb1BOYThsRmFPY3d6V0J4V3N2M21uWGdLYXU0bXZnR1pFZFFuQnB4WGNRRlBqUnlRaHlr0gGbAUFVX3lxTFA2eThtRlFKV3RUazZ5cUNIeVJmSGVuVTVkeFpLRDFvb0YtYThTOVN5Z2dNMmRWWkEzZnJDbDlYNm9kZ3laTUtaRWh2R3oyVC1DV3JGNXVsejNXN3RoRzBfTWhuRWNRUlRmeXBaZV96VmdPMlE2SjRaSm5zeEJTbHNEcGRQejlSRy0ybGdGVDJCRnNfbW94YWR4NmdV?oc=5",
-      "score": 0
+      "title": "हिमाचल के सरकारी अस्पताल में मरीज को आयुष्मान कार्ड पर नहीं मिला पेसमेकर, बिना सुविधा दिए 75 हजार का खर्च दिखाया - himachal patient denied pacemaker on ayushman card false billing - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMW9KdHYtc21MdC1pbzNxbEE0YjVqM3YzZkpFTUJGMGt5YWFJbmJKam55NTRzTURWWTRpSkYzc2hmV3pfQ0doV1VZZWtFYldiM3BmRXY4VXgzWnNKUzI3QVo3ZUh6WmloeFJuZTdzdkd3VnVEWnVUYWU2a3ZCdWprdWxnclFzRk5CVnJqZUdtMzk0Ym5pQWJMd0ZuNUE3Q3VjN3dPSm1JWDhVQUp1LV9COGhMZC1aS3NvenZOenZfTUZMaDg?oc=5",
+      "score": -0.5
     },
     {
       "source": "press",

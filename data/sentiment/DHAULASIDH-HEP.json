@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-01T22:59:06.517Z",
+  "updated_at": "2026-10-06T00:32:03.758Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
+    "n": 4,
+    "positive": 1,
+    "neutral": 3,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.125,
+    "avg_magnitude": 0.125
   },
   "youtube": {
     "n": 2,
@@ -18,14 +18,20 @@
     "avg_magnitude": 0.4
   },
   "overall": {
-    "n": 2,
-    "positive": 2,
-    "neutral": 0,
+    "n": 6,
+    "positive": 3,
+    "neutral": 3,
     "concern": 0,
-    "avg_score": 0.4,
-    "avg_magnitude": 0.4
+    "avg_score": 0.217,
+    "avg_magnitude": 0.217
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "सुक्खू सरकार का बड़ा फैसला : सुन्नी, लुहरी और धौलासिद्ध परियोजनाओं को वापस लेने की प्रक्रिया शुरू - himachaldastak.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkRkN1ZVblNpQXd5emZ4RXpSbGFJb1pHODNfc2hTT3FBQnI5QWZUUkxMU09sbzAyNUFIYnpjWGtXQlVlcnVfNy03cGRzZzFzS2NEb1BJdnh5OEFNVHVqSWt5eVVLeVJoWVdCamROVlRwZ2RMa1ZTSmEtZEpTQUJ4MF9FbFJ6d20tTE9UQ2IwNnZvSG50VVE?oc=5",
+      "score": 0.5
+    },
     {
       "source": "youtube",
       "title": "👍🏻👍🏻👍🏻",
@@ -39,14 +45,22 @@
   ],
   "top_concern": [
     {
-      "source": "youtube",
-      "title": "👍🏻👍🏻👌🏻👌🏻",
-      "score": 0.4
+      "source": "press",
+      "title": "SJVN signs PPAs with GUVNL for 658 MW green power supply - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG5JcDFtRkRQUUJjTVVfZnplaGthempWLXVsaEF4NmlMLWcwc2RLMGFLQzQtbk0ySHBtNzczWTlsaDUxbnMxNGxTcjhxbWxJcVhDbklIX1REZEtFdWYyV3RtZENkZkJEMWxHdVBQSllQS0dyTlB6cDVWTEM5SHpkSG02bVF5NFRlLUJUWHlMWmNMNmNSazJtUXZzM3NlY1RwbHhIbVFWaDdpWG5SeVhQOTlSOWxYR2tqeGY3aw?oc=5",
+      "score": 0
     },
     {
-      "source": "youtube",
-      "title": "👍🏻👍🏻👍🏻",
-      "score": 0.4
+      "source": "press",
+      "title": "Himachal CM Sukhu orders takeover of Sunni, Luhri, and Dhaulasidh hydro projects from SJVNL - aninews.in",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTY2Z3FTOWo3dDZLQXBZZ1RhVWVLUDJoNnZRc0xZTGJLUFQxc1FzbnRsUE1PXy16dkxNbVBHRXpYM29jVkEwcGJLUXltWFZEbXhDWWZpUlFhcksyU0VHMVZZU1VVdW1hN3R1R3FjS21PdDdyMzhBTGE4a245X0IxMExHN3pKaVk0aTBRRmxDdWlXcWZtS3FrT3ZzQ3lmVUhDem42WWF1LXVXbGI0T1NDVXVmeUE0UldtSlJGU0psbW5MQXpTdDBGd3k1UndNVVVWdk52NUNEWGVTOXl1Tkt5dTFEWHJyc3JG?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "SJVN Invites Tender for RCC Blocks at Dhaulasidh Hydro Electric Project - PSU Connect",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk96ZHRZaTNvNVZBQ25uUzNDZHYzb2ZCRFp4dE1yYmxtUnJKLVBtdWR1R0FuWXpuUEFZSGVlU0JrMlQzV1lQUGhVaFR4YXNhTUk5VTIxV1FHS25BZnBhd1NOV0NKY1BZaEF2eThTczB6Skd3cnVRY1VyZEdSSlZseUlBOHdEYUFRUXRSU0t5R3l0YmI4TVZlVzVNUWRidVAzbEFCLW9pQ29vdw?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-01T22:59:05.240Z",
+  "updated_at": "2026-10-06T00:31:58.084Z",
   "project_id": "SMART-SHIMLA",
   "press": {
-    "n": 17,
+    "n": 16,
     "positive": 12,
-    "neutral": 5,
+    "neutral": 4,
     "concern": 0,
-    "avg_score": 0.224,
-    "avg_magnitude": 0.382
+    "avg_score": 0.237,
+    "avg_magnitude": 0.406
   },
   "youtube": {
     "n": 2,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.5
   },
   "overall": {
-    "n": 19,
+    "n": 18,
     "positive": 12,
-    "neutral": 5,
+    "neutral": 4,
     "concern": 2,
-    "avg_score": 0.147,
-    "avg_magnitude": 0.395
+    "avg_score": 0.156,
+    "avg_magnitude": 0.417
   },
   "top_positive": [
     {

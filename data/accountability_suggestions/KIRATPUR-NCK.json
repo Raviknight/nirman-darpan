@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-01T22:58:37.487Z",
+  "updated_at": "2026-10-06T00:31:16.456Z",
   "project_id": "KIRATPUR-NCK",
-  "count": 3,
+  "count": 4,
   "suggestions": [
     {
       "category": "litigation",
@@ -9,10 +9,10 @@
       "kind": "issue",
       "duplicate_of": null,
       "first_seen": "2026-09-24T21:55:31.829Z",
-      "title": "Nihang Sikhs force closure of shops in Ropar, Anandpur Sahib, Nangal; highways blocked - The Tribune",
-      "summary": "Auto-detected from press: \"Nihang Sikhs force closure of shops in Ropar, Anandpur Sahib, Nangal; highways blocked - The Tribune\" — review the linked article and edit before promoting.",
+      "title": "Nihang Sikhs force closure of shops in Ropar, Anandpur Sahib, Nangal; highways blocked - tribuneindia.com",
+      "summary": "Auto-detected from press: \"Nihang Sikhs force closure of shops in Ropar, Anandpur Sahib, Nangal; highways blocked - tribuneindia.com\" — review the linked article and edit before promoting.",
       "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcGFKRlJTZWppZGc4c1hjcEduOUhNb1d6SlBFRXM1RDY3aFRkUXRrUU9jUkJfMWJ3MXA0VGlnWXFSRFJSTVJrQXBONVdsU0NtZ2dlSU44WjRsSU8xSGVWUU5EZTFzanQ2QkpBWGpHVkZReE1pVzB0ajBSQlhoWWxIbzNUSGMwQVdaR0NpUGYwODMtTzNMWlptdXdER2FKbWlKQlF6b2E4bmx0cHlrSWxCVldHU01Kb2RvaHVMNVJYRWp3VWfSAccBQVVfeXFMTkFwRTJ0ei1JU1BCWGRnN096OW5oa1pnWFQxRzcxZXhXQjk1bW1lbDdJSW9wZjVnTTJZN0czUW5hYnREOFBHUDdCZWNmQWFmdU5vNXlnYVBTSWNNVFcwQW1VUm5hY0dsUUNRVU1RdlZyc19rbVFDZTFUY0dibkU2d0xUQUJvOWNLWUdFc280dU12VHNpV29HT2RqVm04YTJoUzNFbW9UbVgtRVNLODNUU09TNXNaUVFBamlJaTZDWjFEWU54ZXdpaw?oc=5",
-      "source_name": "The Tribune",
+      "source_name": "tribuneindia.com",
       "lang": "en",
       "date": "2026-08-21T07:00:00.000Z",
       "matched_term": "sho"
@@ -30,6 +30,20 @@
       "lang": "en",
       "date": "2026-08-20T11:05:34.000Z",
       "matched_term": "injured"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-08-24T19:23:39.368Z",
+      "title": "HP Road Accident: चंडीगढ़-मनाली हाईवे की टनल में ट्रक-कैंटर की टक्कर; चार की मौत, छह घायल - Amar Ujala",
+      "summary": "Auto-detected from press: \"HP Road Accident: चंडीगढ़-मनाली हाईवे की टनल में ट्रक-कैंटर की टक्कर; चार की मौत, छह घायल - Amar Ujala\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0ltVWUzcEZ6WWpTMUFHemtpUnBGTUVkM2VmazZKNDdSLS1jNk9HVEZTby1PS0pnMmdGQzNCOFg4bzRQd2dpUGIwWGtmdHNwbWR4X3RkQzhpMXFiM2h1cVptSk52V1NsR3VQb1M0ZjFTWjMxZFRvTXJYMk5hWUlSVUNfQUszc1Fxb2lvd3FHOW1YWmtidXgyTDR1YUVsVzFUck5SSzJ1eFVPM2VkRWVDMUphUDhOR2EzdDBGYW5zZUhlSHQtdTNr0gHMAUFVX3lxTE4zc0lVT0F4cUJna01fU2RHZGtYb1hBV09BcEFUODVWZWpFdXJWZWh3REl5azlMdjNFbHdJWjlsVWpCODUyclFGU3JHN2F3YnRHUFJQSnBhZUZFYWJhcTBlbFRERzdBdnE2VThYbHllM2dwNEZHaFV1bnQ0MDdzV0ZEYmdZQ2VRVmp6Vk1qTmVZWTgzb1pYOVRDcU9QMldwZU9vNUJoRnhRSUJ6TVJUQ2FQc2FpWDRFUGtLaVRkSXJTVVZHN0lQS2kwbUJ4TA?oc=5",
+      "source_name": "Amar Ujala",
+      "lang": "hi",
+      "date": "2026-08-20T07:00:00.000Z",
+      "matched_term": "accident"
     },
     {
       "category": "incident",

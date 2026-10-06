@@ -1,66 +1,12 @@
 {
-  "updated_at": "2026-10-01T22:59:00.953Z",
+  "updated_at": "2026-10-06T00:31:38.672Z",
   "project_id": "SOLAN-BUS",
   "query": "\"Solan Old Bus Stand Redevelopment\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 5
+    "comments": 1
   },
   "videos": [
-    {
-      "videoId": "a1lMH4ruZ0c",
-      "title": "Old Bus Stand Solan || Himachal Pradesh, India",
-      "channel": "Travel Guide Himachal",
-      "published_at": "2018-05-14T07:22:50Z",
-      "description": "Old Bus Stand Solan || Himachal Pradesh, India.",
-      "comment_count": 5,
-      "comments": [
-        {
-          "comment_id": "UgzrQFD_U5oYpIfo7dh4AaABAg",
-          "author": "@AmreenAngel07",
-          "text": "Very nice videos ❤❤❤🎉",
-          "like_count": 0,
-          "published_at": "2024-02-25T14:23:43Z"
-        },
-        {
-          "comment_id": "UgzcHNvRA7OeTw0xKMN4AaABAg",
-          "author": "@ambikac370_",
-          "text": "Rajgarh 😀",
-          "like_count": 0,
-          "published_at": "2021-07-13T04:27:30Z"
-        },
-        {
-          "comment_id": "UgwxvuQi7wnLBQcRywB4AaABAg",
-          "author": "@shyamsagar4830",
-          "text": "Nsk",
-          "like_count": 1,
-          "published_at": "2021-03-27T16:38:54Z"
-        },
-        {
-          "comment_id": "UgzIXXHZE1l34HKWFs94AaABAg",
-          "author": "@pahadibuses310",
-          "text": "Nsk bus Miss 2185 ❤",
-          "like_count": 0,
-          "published_at": "2025-06-24T12:32:55Z"
-        },
-        {
-          "comment_id": "UgxMrq58qg4U0pbEPyN4AaABAg",
-          "author": "@bussidharry9974",
-          "text": "Ye abhi jeet coach mein main school jaata hu",
-          "like_count": 0,
-          "published_at": "2022-05-08T06:59:31Z"
-        }
-      ]
-    },
-    {
-      "videoId": "i1iDdO1bseo",
-      "title": "Old bus stand solan #solan #busstand #hrtc",
-      "channel": "Rohit Kanyal",
-      "published_at": "2024-05-20T04:18:57Z",
-      "description": "",
-      "comment_count": 0,
-      "comments": []
-    },
     {
       "videoId": "fFEcW46Yjms",
       "title": "Himachal Pradesh Solan Old Bus Stand View 😊 😊 😊",
@@ -69,6 +15,32 @@
       "description": "Himachal Pradesh Solan Old Bus Depot so guys if you like this video so please like share and subscribe to my Channel and tag to ...",
       "comment_count": 0,
       "comments": []
+    },
+    {
+      "videoId": "-6xuD_BteAk",
+      "title": "Solan old bus stop 🚏",
+      "channel": "Rishabh",
+      "published_at": "2025-01-14T06:03:24Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "8TGwawzZJIk",
+      "title": "pranya bus 🚌  bus stand Solan 🚌 #bus #himachal #business",
+      "channel": "pankaj kumar",
+      "published_at": "2025-08-02T08:03:46Z",
+      "description": "",
+      "comment_count": 1,
+      "comments": [
+        {
+          "comment_id": "UgwH_jdVJP46ZnQH9rx4AaABAg",
+          "author": "@ghost_gaming-b8f",
+          "text": "❤",
+          "like_count": 0,
+          "published_at": "2025-08-06T01:39:35Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

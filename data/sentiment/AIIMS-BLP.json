@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T22:59:04.549Z",
+  "updated_at": "2026-10-06T00:31:55.072Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 0,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 20,
-    "positive": 19,
+    "n": 19,
+    "positive": 18,
     "neutral": 1,
     "concern": 0,
-    "avg_score": 0.605,
-    "avg_magnitude": 0.675
+    "avg_score": 0.563,
+    "avg_magnitude": 0.589
   },
   "overall": {
-    "n": 20,
-    "positive": 19,
+    "n": 19,
+    "positive": 18,
     "neutral": 1,
     "concern": 0,
-    "avg_score": 0.605,
-    "avg_magnitude": 0.675
+    "avg_score": 0.563,
+    "avg_magnitude": 0.589
   },
   "top_positive": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "source": "youtube",
-      "title": "Nice camera angles and college is also very good 🤝",
+      "title": "I love bilaspurrrr❤❤❤❤❤❤",
       "score": 0.9
     }
   ],
@@ -50,13 +50,13 @@
     },
     {
       "source": "youtube",
-      "title": "SONG BAHUT ACHHA LAGA KYOKI YE SONG FREE FIRE VIDEOS ME BAHUT CHALTA THA COVID KE TIME PE \nAND CAMPUS BHI ACHHA HAI",
+      "title": "❤❤❤",
       "score": 0.2
     },
     {
       "source": "youtube",
-      "title": "Dream ❤ NORCET",
-      "score": 0.3
+      "title": "SONG BAHUT ACHHA LAGA KYOKI YE SONG FREE FIRE VIDEOS ME BAHUT CHALTA THA COVID KE TIME PE \nAND CAMPUS BHI ACHHA HAI",
+      "score": 0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

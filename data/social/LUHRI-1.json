@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-10-01T22:57:37.916Z",
+  "updated_at": "2026-10-06T00:30:22.580Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 45,
+    "press": 49,
     "gov": 0,
-    "en": 29,
-    "hi": 16,
-    "total": 45
+    "en": 34,
+    "hi": 15,
+    "total": 49
   },
   "mentions": [
+    {
+      "title": "लूहरी जल विद्युत परियोजना में स्वच्छता ही सेवा अभियान का समापन - uttamhindu.com",
+      "source": "uttamhindu.com",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3ZxajZEYlpUYzhzQVBJSnczQ0hpdl9DVV9Ia2Y1bnI5Q2hCM0c2cEUydS0waG1XNllzQ1YtZUViZnE0MTRlaHVnbnJsYUVrZWVFWHpwbUNtNTVjR0xzS2d3TndoWW85QThGcGIwbE1VeDJneF9ZbWh4OTFsSXp5cGl1a3pTWDF0X3BFaGpISnhyZHF5YWhLaE5vSWcyMUtEa1pvem5KNjVSWXc?oc=5",
+      "date": "2026-10-03T04:40:22.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Hydroelectric"
+    },
+    {
+      "title": "Geo-tagged monitoring ordered to track environmental safeguards at Luhri Hydroelectric project | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWGVWQS1pRnVjRzlfZEVaQngxTlQxNEJrY2RNdTZDWUN3bmNMNElsd0xjS0Z1bTBMblo5Q2xjNkdmRTJ3UVczR25yMk0zLTFPOUFjSWtGdngtM3ltZzI3dENyeVExQWlKMkx5cktVc01oOTRSYjBVTzJNNGtGOTNEcU0tcURMZGxhLU5zUkF0TllGaTdsYzVTc0NOQzNOSGlTZGVpMTh3ODVua3lTMHFOc1Y4elI1eFdfTGM2Z3FHU3czVlF0TUt3Mi0tNmZBcVFVYTgyc3M4cU9CRUYtR0JUR0hiQWNtWTlpMlJtdGE4enVHVHNZMzBaMUo1OELSAYICQVVfeXFMTWxLa0g5bHprNVhHVWxYbmRZanFoQUxBOXRKR2EtNlNNbEFkSWdEVFY1V19HamoyN3YxT0FWdVVPWEhabmZrcUdoLVRnVkp6RWt4WkZRdS1XaURnT1R5dTlGS2FqVnVUd0dRaUF3VXlSNEVKZWh5clM2QXZYb1NRQXg3dWRsenFIVEtDcnVRYUpHQjNEcVMybDdGTGs5VFNYSGFqdG5fUEZlRUJLazE2ZjRYWjZPLUM1blE3QnE1Q3VEdDhERURrU3h1STNFZWhzU016b1hNUDJzXzRfYm56ZmptS0lsa0F1cGZNV1hNNzlRZkhtTXJ6VkYxRXFWZkNKU1h3?oc=5",
+      "date": "2026-10-03T02:18:10.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Hydroelectric"
+    },
     {
       "title": "लूहरी जलविद्युत परियोजना चरण-1 की पर्यावरण सुरक्षा उपायों की समीक्षा, बहु-विषयक समिति ने की प्रगति की जांच - Dainik Tribune",
       "source": "Dainik Tribune",
@@ -30,16 +50,6 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "Rampur Bushahar News: अधिकारियों और कर्मचारियों को दिलाई स्वच्छता की शपथ - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUnJMZFZKcDducVpXZ2tDVS15cGt1akhYSlhQdU1hLUZuZWR6QzY3U0dra3ZmWHJDZlhUa3dlMFN4ejNIWHFZNDNrYkc3OVNINU14MlhqUTh2Z3ZlZkZ5ejFLVzcwNFM1c1JaRl9hQTZaTjFFc1I5MDNtQ0hya3pvOWRRUkxJZEltN2U1eW9QUkc5aGZ0akVURHQ1UUVXQ1o5NERpOWNuWjZXVHpVdG5NZXdkX0VmVlE5cHctZ0FsN2ROMGQ1YWVIRVU0eHJqSDlKR0doNnBMaWdMN0RIcmlzSVNnakRwUmJDTVExa3BCVXUyNTAtNUk5T0pNZFdYSFhRTW8zYkRBNWZnQWE5T2fSAZMCQVVfeXFMTV9DcjdFdzlFVEdlaTMtS294Ui12SV9yNUk5X3FybnMwdmtUZEI5TFdSMWxBVW9qUmdHeTNVekRzaVNjckhoY1FIRmtqT0lPUFREdFFmMGk1OGUtaHVKbGRCOGhfNkpBd1Q0Y1cwZWNUbjJWdUdXdGVQbFFFVmFmNXotbmFIdTNYYXh6cWJUWHVIenNrcTJodFQyQkVxSlRNRUdObnV6SUlLVXRDSWxLLWJ0U0Y1OU9pM2RZbWw5SWVxRnZZLTg3cGV5Y0ZjcTFqNXZhNDU3SDREZHlpWm1OdVB3cDBEd3k5WGZWVnY3OFRFLW4yY21jdFp4NTM4Unh3MVNHR3plZlZpMk00U0Zsd1hhOTA?oc=5",
-      "date": "2026-09-18T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Luhri Hydroelectric"
-    },
-    {
       "title": "Rampur Bushahar News: लूहरी जल विद्युत परियोजना में विश्वकर्मा पूजा की - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -48,6 +58,26 @@
       "kind": "press",
       "lang": "hi",
       "match": "Luhri Hydroelectric"
+    },
+    {
+      "title": "RECPDCL Hands Over INR 839.55 Crore Luhri Transmission SPV to Terralight Solar - Energetica India Magazine",
+      "source": "Energetica India Magazine",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRm94VnV5SmxlQzRCdEFGR1VoYTdIVDA4c2FyaWFtcm92NHNZcGdLemJ1TVFVZnFRR21Wa18zUVlPMnY0WDg3anh2eGNidXU2Y3pYUVREbVBtd2FnWVhZV2N2YUFmU0ZSalN5ZWR2RkdlRDJJNENacnVBRjl5dGJ0cEFMZmtCVlVwU3BPMkZTWkc1dGNpdW92a29BdkRONUkyNkJMZ3pyVFV6c1pJWGNUcGVtMlR2UHM?oc=5",
+      "date": "2026-08-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "RECPDCL HANDS OVER LUHRI POWER TRANSMISSION LTD TO TSETPL - IndianMandarins",
+      "source": "IndianMandarins",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVpiMks5dUxHb21ScFlfaEhOazBJT0JQQVJFWG9kNlh2VFc3TUVEaWJ1cGJkNWFqakE4SXRya3gyVFVmeXFOak9pLWxhdDhHb2p2UEw4MFlBem5aVFlBR3UxVUJyandHVmxSX3V0bmRHMG5DNUtxNzd6bHREUmN4aG80ZlpVcWNYMU56OUtPTGFBeF9jRV8xelFmSVdCLW1LdlE?oc=5",
+      "date": "2026-08-22T08:26:21.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
     },
     {
       "title": "RECPDCL transfers Luhri transmission scheme SPV to EnerGrid - T&D India",
@@ -60,10 +90,40 @@
       "match": "Luhri Stage"
     },
     {
+      "title": "RECPDCL Hands Over Luhri Transmission SPV To Terralight Solar - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDFSdnZGaE8tVnl0MU5KbUdQb2c1RWZaajdGNHRrN3NwdGxUMThaUjhnTXJiTG5zVFJ2OXh4SVlSVmFkVy1aelFxZjVfQ3VRZWR5cmpIYVhCd0NYVno5ekRWMkxzY2Fhbzd3WV9Yc2hRdWZNYmxjU2ZFdkFISWZ3clBzdlo0Z0VQ?oc=5",
+      "date": "2026-08-21T15:11:33.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "Terralight Solar wins bid for Luhri hydro power transmission project - Power Peak Digest",
+      "source": "Power Peak Digest",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWZqZmp0MzRGTVJsTE9OTDFLN1V5VU40akR3UnhEVGxrZnkyeUpNTHFUU05NejViZUhlM2JhSUtna3dBN1FxcU9kelR3VFJHb3JKaVJQQjcyaG1PY1V2clZoVl9nbXZQR01OdGxQdGMya0hYUVA3RFdqYXczSTczeE1Qbw?oc=5",
+      "date": "2026-08-21T14:40:40.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
       "title": "REC Transfers Full Ownership Of Luhri Power Transmission To Terralight Solar - Sahi",
       "source": "Sahi",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZE5hZHotbTZCTk1rcml3d1lhbDgtY0VkM1dkY0xTYXVzYWlTZlFsQ1Z5MW9jXzFtYkF1bDdySm0yNEJDTm5TN0IyZFYtQ0FYWjFabExGTU1IenRUZmd0U3dGNHg2SFA3ZHA1M1ZsTFBMMzBIZWZGaVByQnE3MjhJcjNidEpvODVJWTRTTGgzbEZlUDBvQTVoM040SEJBeGQ4ZWZKSGQ3NWhnakRqbmxYTnFBVHAzUQ?oc=5",
+      "date": "2026-08-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "REC arm hands over Rs 839.55 crore Luhri power transmission project SPV to Terralight Solar Energy - PSU Watch",
+      "source": "PSU Watch",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZV9icGNxUmREOEJUQW84eUdiWmZGd2V1dk1PS0E5OTZoQkRWaFhKa3ZjLWNRRm1WaUFLZ05kSGY0dGNzQVI5dEtkQmpEYXVuSllCWVYtZ1AyOW5kcGMwM012WnB1RkljSXp4WElpWUNENzlDcmpILXlEX2xWY3NiVWl6UEdsbHBVcUdLSVVPblR3ZGExNjFBdXc1aVB0OVJMdnZ0WDh4M2R1Y2FmZnJ0b1RGQ3dFZGNzdnVDYjRyM3Jtd2xyb2d5ZFdR0gHXAUFVX3lxTE0zcWl5aTZHaHY0ZS1zQ2VKQklNbFB5WFZrUjA1OG1Ya2lMZTZscmVUX0dlUzM2X2h4VTVZQkh5WlZEZzVfWE9QRnhueXpWbjBJZ0NteUM3anRrc2xLSVNsV3oxVGN1ZGo5MkJ6UWtLY3hfTEU0TU1RY1kxWUUtd3lES1NUaFJvSE9BelRlYTBXUExhYjZPN29ZamY3QjB2cjVheVhyRUJlZzVPQkg4VFdRMk9nU1lReWxuNkZ2S0VzQWVsYklQaUkzTXR2dktOS2ZZVmZ6dUtr?oc=5",
       "date": "2026-08-21T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -87,16 +147,6 @@
       "date": "2026-07-06T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "HP to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - News Arena India",
-      "source": "News Arena India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFRvMnh4enBWOXN3U0ZnRjdwbjBtclJtb09iTkR0WGUyQUo3Mlg2d0kzMnZMSFY5QS1xMXJsYW5XZDhzcURjbnNoeVl4MjB3OHdILXZZVHhUalBvYVRoVFc3TldyWWxqX29lUWtUU0pwNllHSERHSTgyel8ySGgwa2pVMnZCc2JaRDB5N3dHcVJPTnVPV3A5ZzNhWGZKUGpZSFYwbA?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Luhri Stage"
     },
     {
@@ -140,16 +190,6 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "SJVN inks 658 MW hydro power PPA with GUVNL - Whalesbook",
-      "source": "Whalesbook",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkh0cGtReWpLZDFDdlllQmU3bDY1RkdFQ3lYOHJ2aE95MGg5REROUmY4Q0ctQ19hWGVPNGVHWVNZNFpOSGthVHJJR0E1U18wQlhLZ01KeTh6azdGY042LTJOTUZyMUV1OW80SjktWUFBLXRNc21meHVJYVd2WGxLRXdfcU1QMi1fVHJRdUVBc1YwZFNsamhObGpHdkpaZGljYVQ0NFlBNlM2VUVkU3hvOTd0VWMyVERBQVd2WGxSX1BpSnc?oc=5",
-      "date": "2026-06-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
       "title": "लूहरी जल विद्युत परियोजना के प्रभावितों को मिलेगा ये लाभ, 31 मई तक करें आवेदन - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -165,46 +205,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkJZamNfUmVEWm9hOUR1cERjWnd1aFI3SXdSOGRKc2cxSzh1N0lDU0x6SHJxX0ZJbjdkVlF0Tk5lMTJxbmZBTWthMElSQ3BjLVVjUWxDczRhU0ZHZ0sxRC1kY0lNaWJRZHp3QkFVRGtDelp3VXhkczZvalFia0J6UmJ5S2xJM1oxX1hGa2h6UXQwN21OODl3T0lveDlZRThiM3pkRTB5QnJSSU4ySTY4Y211a9IBuAFBVV95cUxNZlhRRUM0cXZZUnNNVzlaOXg3ZlltTVViSlF1ZWUtYkdsZkY4ZjktdkVaZnRwVUZsRXlzWXN1MW83SnRob2FNc3d3anFwM1FodVlsRXR4YmFNeTBpdDBBNXYtMjdGOXRwZVJOMlVpYTdlNW5qNGZfYnEtVVRMRXNLTWdUc0xRQXB4TWhtQmh3dWUyTE5sZmdGTldXdXV5SXJNY0ZUdThqS2ZzOThLSVVzbGxkQTdXYTha?oc=5",
       "date": "2026-04-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Luhri Hydroelectric"
-    },
-    {
-      "title": "केंद्र के अधीन स्थापित होने वाले चार पावर प्रोजेक्ट्स अब होंगे हिमाचल सरकार के, जानिए क्या है नई अपडेट? - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTY3Wng4STVlRjdUNEhNSW9LYjVac082SE5nY01yRVUtT295ckplMlJydUZzTzBCTEVaNDZkOUZaSW5naEJ5VmJwQXB4WFBYdEJkVk1PQnA2TG5EVFJJYjZLdGFHM1JJaGJkLVE3QlpiNTdqNTR5MmpBZVViX0J1UnZwOGtJZXlxUlRqVzMzYzlsVGlMMlBXUkpseUlTZkxZZGlpNDBfeGVLNFhTR01HVFFLalN6ZktrNWdHUGY3NU1TVUhUOXotZlpLaE01R0haMEVMeTVYeDVmZU4wdmfSAeMBQVVfeXFMTmNSTG5KckJmcVk3R0lQdnh1YTdDMWRVT3JqVG91dVNYQTFObjY5UEgwU1Z1azZSbWdKZGtPWnZVUzY5ZXhwTnREWDF5d1ZrcU44RFNmZFNJaUttX2ttNkt6ZXpFT1EwWnNmd3YyQnJncVBfdVNXZVhhYnBSN2t4aXFORjZURV91U3J1Zm1iNVJ4eGhKQ280WTVvbjFxVENZLVE3TGoxYURxNmJkdkxMT21NNXg1bkhPU01RbjVOQnlBUDdEa0Q0emJzMXYwS0NYYXBBbGhXTktESHlJaTJDb1pJN00?oc=5",
-      "date": "2026-04-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "NCT clears Rs 839.55 crore transmission scheme for Sunni and Luhri HEPs - Power Peak Digest",
-      "source": "Power Peak Digest",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVV6eG5KWW94ZGV0VjV1RUQ0cUJqaC1fdlBjQlp4eHk4ZDVXNm1ZWlA1dU1ZdTM0UXZfOVFabkFrdUUzWjl2MXdfeGJ4a2xZRmRVSnBicXF5SDFlb1E3alBKaTM3SDJ1TGlRVGY4bllZekF6VGpVOWU3RG14Y213Q096TlFMZ01DZFpLUHRHVHphMTFlTHZoN0VscGlZMWR5OGc?oc=5",
-      "date": "2026-03-18T21:51:46.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "पावर सेक्टर के पीएसयू SJVN ने हासिल की एक और सफलता, 367 करोड़ रुपए का सोलर प्लांट शुरू किया - The Economic Times Hindi",
-      "source": "The Economic Times Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hOTTcxQXVwRXRWQWFMOGpvRnRzNGdETDBlckNfTzBpSng3WnluaGtzdVlGaU5xdWRnZko5cUNPd1EyQWwzTl9vbkJMVFBORmFlZ0toenpkamJjVk9ZNDZqU3JveHdPSHRYQjdwaFpnT1BUbkJxbWp6YWJHZl91MUhDMlR3enBxZkZtQVlmY20zR2NUNWRIdG83NFFIMlVIRWlndDlGUm1lbmFqbnFnZUxnU2o3ZUlxZlE1RXllU0N6Mnk1MGp5QlBPWVHSAdIBQVVfeXFMT0MxRGd6UXIyRVFGdjBZcmdRY3c5VEhrWTdhZHV2elkxRlF6emJ6eDFvVnZIdFR4WXAwUWdiTEhJaHBoeWpQdlJPcy1xS1JVTGt3SmpSaVNNdzE1aGVtd241SVdTdWEzb1F2S0lLRk5lMWs1dFJZR2RGMzRtYVRVRTAwcFM1M0VlUUNhRmF5X2h0RFNtbnRlZEdzU0RkNTMzQkUxS1pndk1FVHNIdkc1dmVaZGVoLVB0S2otMXZtakJZb01oc2ZJMk9mNmt3V3MwVVln?oc=5",
-      "date": "2026-02-06T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "SJVN Sutlej"
-    },
-    {
-      "title": "ट्रैक्टर-ट्रॉली की टक्कर से बाइक सवार मां की मौत, बेटा घायल - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHRrU1dZTk9GUkNyMkNwbi1vU293cjFxaVMyaUpwcndjekZLLTdIXzZsYUtWblBlc0JvZHNQc2l5MkJScVduV29ta1h5d01Ob1ZlRm9OYnVCb3RsYVBTTnZDZkhZbjRsMm5PUXVNOFBsamJ6d2NHeTBJNlNSOUxmVHJzYXdGMFRXdmtDb09uMFU2emo0SDdZd1RCenZOdDNjdU42Y2oxaU1GRGJhVTd2b2R3eE9wWXRSelBqRHJFYjE1cmFKbzBYSHZXYVhWczdnZkNCMW04RdIB3AFBVV95cUxOZ3Y1TnBOSEhfZF9GT2VuaUM5T1R4ZDNoWmRKUl9xb0VVcG1TY3dmMXZ4XzYtWVJ2MGt3Qi1hcXFDNVBGMy0yckZ1N1UxNE9qb1VRWmpiSGwxeFJuZ01Cb1V2dmFCbnY5T1VhMjlYWjZUVTQ3ZjhlWGNiTklQenVfUEVwQmM3dzZYNGdTZlpvQldsOXFidTBfbV9lb0RKYjZMeXNQYU5Gd2JaSnNNSkVzdDBvejZ0emtxendXQUVTTU80czlyc3JTNWlSWndabjFOSFNGaG5YN1NuUmxi?oc=5",
-      "date": "2025-11-23T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Luhri Hydroelectric"

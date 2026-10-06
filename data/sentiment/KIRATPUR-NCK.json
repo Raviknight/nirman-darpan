@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-01T22:59:01.609Z",
+  "updated_at": "2026-10-06T00:31:40.679Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 19,
-    "positive": 11,
-    "neutral": 4,
+    "positive": 13,
+    "neutral": 2,
     "concern": 4,
-    "avg_score": 0.105,
-    "avg_magnitude": 0.342
+    "avg_score": 0.137,
+    "avg_magnitude": 0.363
   },
   "youtube": {
-    "n": 23,
-    "positive": 11,
-    "neutral": 8,
-    "concern": 4,
-    "avg_score": 0.222,
-    "avg_magnitude": 0.578
+    "n": 17,
+    "positive": 8,
+    "neutral": 7,
+    "concern": 2,
+    "avg_score": 0.259,
+    "avg_magnitude": 0.476
   },
   "overall": {
-    "n": 42,
-    "positive": 22,
-    "neutral": 12,
-    "concern": 8,
-    "avg_score": 0.169,
-    "avg_magnitude": 0.471
+    "n": 36,
+    "positive": 21,
+    "neutral": 9,
+    "concern": 6,
+    "avg_score": 0.194,
+    "avg_magnitude": 0.417
   },
   "top_positive": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "source": "youtube",
-      "title": "Nice video",
+      "title": "wow great news thanks for sharing",
       "score": 0.9
     },
     {
@@ -50,15 +50,15 @@
       "score": -0.8
     },
     {
-      "source": "youtube",
-      "title": "The highway needs major cleaning, removal of debris, grading and landscaping",
-      "score": -0.7
-    },
-    {
       "source": "press",
       "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
       "score": -0.6
+    },
+    {
+      "source": "youtube",
+      "title": "Why only one tunnel for fourlane",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
