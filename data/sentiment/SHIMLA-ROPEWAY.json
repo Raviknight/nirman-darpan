@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-06T00:32:11.398Z",
+  "updated_at": "2026-10-08T23:38:03.501Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
     "n": 15,
-    "positive": 8,
-    "neutral": 5,
+    "positive": 7,
+    "neutral": 6,
     "concern": 2,
-    "avg_score": 0.16,
-    "avg_magnitude": 0.24
+    "avg_score": 0.14,
+    "avg_magnitude": 0.207
   },
   "youtube": {
     "n": 6,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 21,
-    "positive": 12,
-    "neutral": 5,
+    "positive": 11,
+    "neutral": 6,
     "concern": 4,
-    "avg_score": 0.157,
-    "avg_magnitude": 0.4
+    "avg_score": 0.143,
+    "avg_magnitude": 0.376
   },
   "top_positive": [
     {

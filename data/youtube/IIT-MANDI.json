@@ -1,35 +1,20 @@
 {
-  "updated_at": "2026-10-06T00:31:23.694Z",
+  "updated_at": "2026-10-08T23:37:38.693Z",
   "project_id": "IIT-MANDI",
   "query": "\"IIT Mandi\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 11
+    "comments": 12
   },
   "videos": [
     {
-      "videoId": "hJU1FtIPEY8",
-      "title": "Finding difficult to reach IIT Mandi",
-      "channel": "Yourpedia Education",
-      "published_at": "2023-04-14T09:30:11Z",
-      "description": "",
-      "comment_count": 2,
-      "comments": [
-        {
-          "comment_id": "UgzJ5_rHbAAIr6JT2Uh4AaABAg",
-          "author": "@aman7598",
-          "text": "welcome to mandi busstand",
-          "like_count": 5,
-          "published_at": "2023-04-14T11:16:38Z"
-        },
-        {
-          "comment_id": "Ugw7CQD6znFGAxAUUnl4AaABAg",
-          "author": "@akashbharadwaj1",
-          "text": "exactly DO NOT  go for masters interview physically\n\nthey will later conduct online for people who didnt go there for physical interviews\n\nplus candidates who go there physically are seen as desperate hence not selected\n\nhence only attend online interviews, you have more chance then\n\nhappened with me(they later selected online attended guys)\n\nthey call physically only to earn from guest house/hotel",
-          "like_count": 2,
-          "published_at": "2026-05-20T23:39:49Z"
-        }
-      ]
+      "videoId": "bbcCp9726eE",
+      "title": "IIT Mandi Aerial View | Himachal Pradesh | Beautiful Campus in Himalayas",
+      "channel": "Northern Films",
+      "published_at": "2026-03-31T13:38:30Z",
+      "description": "Indian Institute of Technology (IIT) Mandi, located in the serene Kamand Valley of Himachal Pradesh, is one of the most beautiful ...",
+      "comment_count": 0,
+      "comments": []
     },
     {
       "videoId": "3yST-yKO21s",
@@ -62,7 +47,7 @@
         },
         {
           "comment_id": "UgwqfeYsFE38gMeyaM54AaABAg",
-          "author": "@navya-y3v6p",
+          "author": "@harshit-m5e5r",
           "text": "✨✨✨",
           "like_count": 3,
           "published_at": "2024-08-05T10:45:37Z"
@@ -75,18 +60,18 @@
           "published_at": "2024-07-17T13:30:04Z"
         },
         {
-          "comment_id": "UgxT9rcMFCxxUij29qN4AaABAg",
-          "author": "@superstarunknownchannel8185",
-          "text": "dream iit mandi",
-          "like_count": 12,
-          "published_at": "2024-06-21T21:36:17Z"
-        },
-        {
           "comment_id": "UgypQeypBx0wmo2C3K94AaABAg",
           "author": "@ヒマンシュです",
           "text": "literally whenever i feel like, ugh i should sleep or i should scroll some reels but then i watch this video n it gives me chill...... My dream is literallyy to be in IIT MANDI.... thnx bruh, this edit, the view, the song just hit different.....",
           "like_count": 0,
           "published_at": "2025-12-08T19:49:46Z"
+        },
+        {
+          "comment_id": "UgxT9rcMFCxxUij29qN4AaABAg",
+          "author": "@superstarunknownchannel8185",
+          "text": "dream iit mandi",
+          "like_count": 12,
+          "published_at": "2024-06-21T21:36:17Z"
         },
         {
           "comment_id": "UgwS-Yl3XZuyMu8ZEqZ4AaABAg",
@@ -105,13 +90,35 @@
       ]
     },
     {
-      "videoId": "bbcCp9726eE",
-      "title": "IIT Mandi Aerial View | Himachal Pradesh | Beautiful Campus in Himalayas",
-      "channel": "Northern Films",
-      "published_at": "2026-03-31T13:38:30Z",
-      "description": "Indian Institute of Technology (IIT) Mandi, located in the serene Kamand Valley of Himachal Pradesh, is one of the most beautiful ...",
-      "comment_count": 0,
-      "comments": []
+      "videoId": "7ihEEkg7GC0",
+      "title": "IIT Mandi Hostel Tour  #iit #iitmandicampus #himachal #campuslife #hostel ",
+      "channel": "Feel Motivated",
+      "published_at": "2026-08-05T08:39:53Z",
+      "description": "guysss subscribe for more.",
+      "comment_count": 3,
+      "comments": [
+        {
+          "comment_id": "Ugy7CjAPNn5yGycsHXx4AaABAg",
+          "author": "@bajishaik9840",
+          "text": "Aa Modi bhAAi ❤",
+          "like_count": 1,
+          "published_at": "2026-08-05T09:55:37Z"
+        },
+        {
+          "comment_id": "UgzhXJUg9VRjrmtYYM94AaABAg",
+          "author": "@piyushgarg5538",
+          "text": "Support kro bhai ko💪",
+          "like_count": 0,
+          "published_at": "2026-08-05T11:56:00Z"
+        },
+        {
+          "comment_id": "Ugzh8P8hI8ncopziVWV4AaABAg",
+          "author": "@manjeetsingh-yj8cj",
+          "text": "Bhai MSc m single room milta h kya??",
+          "like_count": 0,
+          "published_at": "2026-09-29T14:40:52Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

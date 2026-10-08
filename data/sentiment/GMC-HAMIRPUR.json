@@ -1,62 +1,61 @@
 {
-  "updated_at": "2026-10-06T00:32:09.885Z",
+  "updated_at": "2026-10-08T23:38:03.191Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
     "n": 7,
     "positive": 1,
     "neutral": 6,
     "concern": 0,
-    "avg_score": 0.043,
-    "avg_magnitude": 0.043
+    "avg_score": 0.057,
+    "avg_magnitude": 0.057
   },
   "youtube": {
-    "n": 11,
-    "positive": 1,
-    "neutral": 10,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0.118
+    "n": 23,
+    "positive": 4,
+    "neutral": 17,
+    "concern": 2,
+    "avg_score": 0.039,
+    "avg_magnitude": 0.178
   },
   "overall": {
-    "n": 18,
-    "positive": 2,
-    "neutral": 16,
-    "concern": 0,
-    "avg_score": 0.017,
-    "avg_magnitude": 0.089
+    "n": 30,
+    "positive": 5,
+    "neutral": 23,
+    "concern": 2,
+    "avg_score": 0.043,
+    "avg_magnitude": 0.15
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "Himachal: 77 वर्षीय डॉक्टर ने हमीरपुर मेडिकल कॉलेज को दान की 80 करोड़ की संपत्ति, घर बनेगा वृद्धाश्रम - Dainik Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZWZNVWR0WmZGbVh0djV5VUV0YjNNdG1EY1M1MGZzZTJJdTJ3dE5YMkx0WWM3bExKY1BSZndDQU11UkZ3NXpDWmVKTVV6WFhBUmE4dEh0X21SaWZhUjhfdzJLa3liRVNSdnJYNGtvWnZyQ2M1TjZWUVZITlZqMnJxbXZEUlJRWm1ZNGV0bHJmQU9oeV9vVkZUNFFOQ2NlbExTVFNRdUJ4QlNsZlV3ZWVoNHJwUXN2N1k3elBtMmdOZ0d0MkxKLTQtdTQ1aEJQWTctN1ZhcTJrWHZpQdIB3gFBVV95cUxPV04zWUZWc2ZxYzRMX2IwMGNPejR2SlpodEN2UUxjcVJ1bDNuaXNKb1RXRVQyU0c4MHRWRS1hN0Ztam5TejhnRVFuOWxfT1dsanV1Tzk3cmdmTkhSNmhXZl9LOXYwem5JcmpuUGZkLTQtLTVMOGU1WEZYaHIxUGFERlI2bWZwRjBWSWlCZXh0Sk5HNktnT21XWU5ITUZIVjJGNXNFTDlCT01HT2w3UDJTa29IMndkSHhOSFdWYWpkbUFDNlhiR2Mwc3JzM2duSS1CMkVzczA5QXZGNmdpY2c?oc=5",
-      "score": 0.3
+      "source": "youtube",
+      "title": "Nice college isi me hi padunga",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Hostel 1st year walo ka kaisa h aur kitne seater rooms h hostel m girls hostel btw",
-      "score": 0.2
+      "title": "🔥🔥🔥🔥🔥❤️",
+      "score": 0.4
     },
     {
       "source": "youtube",
-      "title": "Kya hostel ke rent me khana bhi include hai",
-      "score": 0.1
+      "title": "Kya ab claases shuru ho gayi hain",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
+      "title": "New batch ko new campus me shift krenge kya",
+      "score": -0.4
+    },
+    {
+      "source": "youtube",
+      "title": "How is the paediatrics department over there",
+      "score": -0.2
+    },
+    {
+      "source": "youtube",
       "title": "Mam Jo hostel rent aapne btaya hai vo monthly hai ya yearly....also ragging hoti hai ya nhi...and please dress code k ba",
-      "score": -0.1
-    },
-    {
-      "source": "youtube",
-      "title": "Hi do u have any idea when the state councelling will start?",
-      "score": -0.1
-    },
-    {
-      "source": "youtube",
-      "title": "I just want to know whether they’re going to shift the IGMC seats to Hamirpur this year or not for paramed students?",
       "score": -0.1
     }
   ],

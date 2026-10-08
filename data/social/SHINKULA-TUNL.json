@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-06T00:30:49.150Z",
+  "updated_at": "2026-10-08T23:36:58.981Z",
   "project_id": "SHINKULA-TUNL",
   "counts": {
-    "press": 98,
+    "press": 101,
     "gov": 0,
-    "en": 75,
+    "en": 78,
     "hi": 23,
-    "total": 98
+    "total": 101
   },
   "mentions": [
     {
@@ -60,16 +60,6 @@
       "match": "Shinku La tunnel"
     },
     {
-      "title": "चीन के सीने पर भारत चला रहा जेसीबी! बन रही दुनिया की सबसे ऊंची टनल, बर्फ गिरे या बादल फटे-नहीं रुकेगा रास्‍... - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeTJLLUp4Z25rMzNjakZna1NhRjVvNlVFVkxDS3B4a2hiSXFoelREZ3VQcjk4X2FGaXdmQ3M1VjNPaDhMbGxiMmFaZWVfX2FRdUtaaWxuMVVaZmx6LXc2Zm1jcHFvb2J2ZS12UUJwbUFDOU9CdjluNmQteVpZQ0h6dmk4M3c2M2gxdzdJaDBkS2t4dEE4bTRWdjN4bURQZHh2bm04aF9tNkdDYzUxUlhtazlnS0RYbHJpSDc1eUhXcU1mdUY0V214aGI2MHZyZ0w4d0lHOUpEMjB2STZOTWpyZjhURXd2a1QzV1RwT011YnhGRjk3OFNZ0gH8AUFVX3lxTE9SN3l5bFVjR1pfLURQNmFPTS1Cb1ZnYXhzS01GazRHQVNhWEY2TExiODQtcm12Y1FqQnVvTHVQOXhnMzQtcHcxdkNrNk8xVW5taGNzZzAtTGx2dWlyTUJQRWo2V1JiZnJFdjVTWU51S2I0X0JOdUtOVkFhMEgyZndZSmw3MGtaOUpYbFBBLXJxeWVjdE1xc3prVGRFemZMeTlHMWxhejBrcDMyNGpuVEhmTk9OQko1RkxEYWpraE1VWDV2NGZNbkFWM2lfY3U0bkd0V1pmSkt3MXpWVWxPQUVqZ09mU3N6N1JWMHMweGtsTHdTTU1sVVBrVHlzMg?oc=5",
-      "date": "2026-05-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shinku La tunnel"
-    },
-    {
       "title": "India is building world’s highest tunnel on China border at Rs 1,681 crore – Here’s why it’s certainly a bad news for Beijing - Zee News",
       "source": "Zee News",
       "source_id": "google-news-en",
@@ -98,6 +88,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Shinkun La"
+    },
+    {
+      "title": "From 2 to 7: Ladakh LG Announces Creation Of 5 New Districts To Boost Governance - Republic World",
+      "source": "Republic World",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeDVRMEZCenN0S3I1WEgwNEdVRzFISXJfd2NIY0dTaFJyckl3S21hVGNaQWFMOURyTDJmSWxoRS0tNUZkTnpFRm8xLUVqS3Rkaml3Y3c1UG0xMDVMOEJIOE9XUGZRbG1xV09DZVdpM3Z6TzdUd3F4UnJ5T3hpZTJGQnNwb3Z1Q0wzQTlBVTBYRGluck14czM4cDkwZm5RM3RTR25IV1dORDRQX3BMOWx4RdIBtgFBVV95cUxQVFpRdlhab1N5NS16WGk0b0N4b2hfLTN3eU5GMXY2dTFsUjBDRTluU1ZIUzNCdHFaYVQxUXBmQm1EV0RhTDhyelF6ZklRR1ZlYzBtUWo3dER3ZlZCS0RublRTdzNXeGhIUVE0ek5uejhvOEJtdnhodUlCRlJGcmg1NlJUaDJjVGJDVW1WVHpMUDI2TVZWUGZlMTBaT1pYM0dDNjVzRjk3SHB4RzhNeWYyRTVlMjJOQQ?oc=5",
+      "date": "2026-04-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shinku La tunnel"
     },
     {
       "title": "1,196 INR-Crore tunnel sanctioned at Fotu La on NH-1 in Ladakh - Biltrax Media",
@@ -200,8 +200,8 @@
       "match": "Shinkun La"
     },
     {
-      "title": "Shinku La Tunnel: Full-fledged construction of world’s highest tunnel to begin soon; BRO accelerates work on all-weather route to Leh - financialexpress.com",
-      "source": "financialexpress.com",
+      "title": "Shinku La Tunnel: Full-fledged construction of world’s highest tunnel to begin soon; BRO accelerates work on all-weather route to Leh - The Financial Express",
+      "source": "The Financial Express",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMGVwZGVKZU1FSVpaY3NVYTlxWjhwajYzUDRiYmVWZEVfcDNBRkJqby04dmFWakhrVjJubjZDOS1tSkEtYmlGWTlaWVA3NTVHQUg3U1dyM2hiNEtITFhPQUJ4TTM3YzJQSk52anVxWnlEazdmVm5fdS1iZl9XSTRGRWxkaGpIOUJ6QVhGRHF2T1ZlcTdzdnloSElxRVhGdmFSSUtEVnREOC1xVmJHT2dDSjJaQU04R05kVndCa0JmbDI2UkJpYzdoQ2RKTXZwZzlvLVNwYWtYejhmZEs5cEFESEcyRTN0dFJoRjV4M0hYeU42M2lESFk5LTZzdUt2Q29ISmlUVFZTV252VFA5eG1iN0NmQzhJek5ZWUHSAaACQVVfeXFMTWYxME9TV2U1MkFyeDdycXYwQ3R5anlLbzBLVjFkM2lmSzYwNjZPMWtQcUdkOVA2eHpheklIMHVUdklneExoN2lkV1I0VmJzMXdTQmUxc3lVWjA2SXoyc0JETEdITlJ3S0M4MXBkVGJjZ3VfOWdGQkxLMjVnRGNFRXV6OHAtV3NVRWpLZ25yVU9adWZaTXl1cXprSlRiakVWb1NiaDg3U3BSbHNKdy1QZ2MtdzFvekhrOV95Q1ltMFE1U2dIYzFSZ0IwOXhyUVlGYUdXUm9od3JtS2c5azV0Q2wybTlmcTJoTkNtUTloeWRaZHN4OUpZSFBVc3JfYVBfT0NoeklmeXFxZ3ZVSUlieGJfNElobjhoZGdQYl9pRURh?oc=5",
       "date": "2024-09-02T07:00:00.000Z",

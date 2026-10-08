@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-06T00:31:41.416Z",
+  "updated_at": "2026-10-08T23:37:55.422Z",
   "project_id": "RENUKA-DAM",
   "press": {
-    "n": 17,
-    "positive": 3,
+    "n": 18,
+    "positive": 4,
     "neutral": 12,
     "concern": 2,
-    "avg_score": 0.029,
-    "avg_magnitude": 0.129
+    "avg_score": 0.056,
+    "avg_magnitude": 0.144
   },
   "youtube": {
     "n": 7,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.914
   },
   "overall": {
-    "n": 24,
-    "positive": 7,
+    "n": 25,
+    "positive": 8,
     "neutral": 12,
     "concern": 5,
-    "avg_score": 0.058,
-    "avg_magnitude": 0.358
+    "avg_score": 0.076,
+    "avg_magnitude": 0.36
   },
   "top_positive": [
     {
@@ -37,20 +37,21 @@
       "score": 0.7
     },
     {
-      "source": "youtube",
-      "title": "Once again very nice and informative lecture.\nApka new lecture YouTube pe na sune to kuch miss kiyà aisa feel aata hai🤗",
+      "source": "press",
+      "title": "हिमाचल को मिलेगी बिजली, दिल्ली की बुझेगी प्यास, रेणुका जी डैम को लेकर सभी आपत्तियां क्लियर, जल्द शुरू होगा निर्माण - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNnNYdWNqSVFCYkdyenRYcUpTLTQxSjNMb05oZmRvYnVMb1pScVFwUTJQMWhxMEJHUWZ4Sm5SQW8ySk1VdmVqdHYycEFMNm9uRzM4dlotOTVhQTJacTNfd2pwLVdYeHdpNFNfeTB3dFl6clN6OU9LSVhGcHpzdVRTU25VOUpybnFGZnNOa0hMcDBZUXhtQ0hRa3NHeW8tbjF1UjBudk5QSFRaNFNoU3RmMkNaT1NZYTNpdDkwUVVPcVhOdVFzVXlFajJEamcyMFJpY1hjWEE0Sl92d3VwblBSQkcyMG5pbHFrbXd2RUJn0gHzAUFVX3lxTE1qWWg3Z3p1cGp4OHd0N2U1bTNhWGZLUVVuVnZvRmU3ckpCdjFDYkZJVGV3N1lEbno3SVk3Z2pjMFFfY1pFYVk0TzAwbzN3bXdyMkExX2FuQWtsY0hia29WTnJZQVlfVG5MN0tkR1I0SEtzMEVzMDFwNHNfQzdOblVseGdTSnFUaWtUMWZwSnVTNVNzd1ZoaGF4QUdaek9KeWszYWYwbXhZQjRKQ0JMalhXR1NFX2U3N1VlWGZRanhCWWVISmU1RDlZX1luUWhzZFh4T1JKSDZpbG5mVEI5MkhhQ1F4YlRPTGozb3VSMjBKTnB5dw?oc=5",
       "score": 0.5
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "WE SHOULD COMPLETE LAKHWAR DAM ON MISSION MODE IF WE WANT TO BE SUPER POWER UP TO 2047.....",
+      "title": "Lakhwar is 300 mw project not 927 mw",
       "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "Lakhwar is 300 mw project not 927 mw",
+      "title": "WE SHOULD COMPLETE LAKHWAR DAM ON MISSION MODE IF WE WANT TO BE SUPER POWER UP TO 2047.....",
       "score": -0.5
     },
     {

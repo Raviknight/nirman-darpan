@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T00:32:08.010Z",
+  "updated_at": "2026-10-08T23:38:02.695Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -10,25 +10,25 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 14,
+    "n": 13,
     "positive": 6,
-    "neutral": 6,
-    "concern": 2,
-    "avg_score": 0.136,
-    "avg_magnitude": 0.507
+    "neutral": 4,
+    "concern": 3,
+    "avg_score": 0.123,
+    "avg_magnitude": 0.469
   },
   "overall": {
-    "n": 14,
+    "n": 13,
     "positive": 6,
-    "neutral": 6,
-    "concern": 2,
-    "avg_score": 0.136,
-    "avg_magnitude": 0.507
+    "neutral": 4,
+    "concern": 3,
+    "avg_score": 0.123,
+    "avg_magnitude": 0.469
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "As a huge fan of exotic fish, this is one of the most beautiful depictions of migratory behaviors I'vever witnessed.",
+      "title": "It's so satisfying to see you planting vegetables!",
       "score": 0.9
     },
     {
@@ -50,13 +50,13 @@
     },
     {
       "source": "youtube",
-      "title": "It looks like she’s out there just stressing the plants out. Digging up a plant just to move it 6 inches.🙃",
-      "score": -0.2
+      "title": "Sorry you have to work so hard ,God be with you .❤",
+      "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "The buckets for when she can't go back to the toilet until the replanting is completed 😂",
-      "score": -0.1
+      "title": "It looks like she’s out there just stressing the plants out. Digging up a plant just to move it 6 inches.🙃",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

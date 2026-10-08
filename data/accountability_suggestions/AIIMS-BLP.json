@@ -1,7 +1,50 @@
 {
-  "updated_at": "2026-10-06T00:31:16.470Z",
+  "updated_at": "2026-10-08T23:37:31.513Z",
   "project_id": "AIIMS-BLP",
-  "count": 0,
-  "suggestions": [],
+  "count": 3,
+  "suggestions": [
+    {
+      "category": "grievance",
+      "severity": "low",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-08T23:37:31.512Z",
+      "title": "Murmu Urges AIIMS Bilaspur To Expand Tertiary Care - BW Education",
+      "summary": "Auto-detected from press: \"Murmu Urges AIIMS Bilaspur To Expand Tertiary Care - BW Education\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1Uyb2NMY2ZjV2ZpRFNWcXpWSGFQdGlsaGI0WlE1NXRQQWpLWVhWdDVrQUtZS0NBdm1NSGo2STlIeXNtNmw0UWhHeEpPeXlpVl9rbGxENk05R2JRaFZKNmRMSTJzcUFGckNOeG5zczl1dU1NVkhvSllEVE1EOU5JOFphWDRZMGtWQVUydW0tYmh0RXJuQndEaA?oc=5",
+      "source_name": "BW Education",
+      "lang": "en",
+      "date": "2026-10-08T07:55:34.000Z",
+      "matched_term": "rti"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-08T23:37:31.513Z",
+      "title": "President Murmu addresses AIIMS Bilaspur's first convocation | Tap to know more | Inshorts - Inshorts",
+      "summary": "Auto-detected from press: \"President Murmu addresses AIIMS Bilaspur's first convocation | Tap to know more | Inshorts - Inshorts\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc2RoS1h4d2d3UENuRDNlbkhsc2pHYW85X180b3c0cmJGS0ZoNkZSaUFZdmlhd0pKOC1PaWtpYzVFWDhQeXA3elQ0Q3owZC01QjNlRmJwNUJaX2c3bm9IODFzOXhRdlVIbWQ4d0ZaMEZJeE5PMUVwUDFvWE93UWY5Z3puZVZuQ2JWV2N5TkoxT1RVQkUzRXdyci1OeEtNblFfOGtqM2R2YjJuNFnSAasBQVVfeXFMT3NkaEtYeHdnd1BDbkQzZW5IbHNqR2FvOV9fNG93NHJiRktGaDZGUmlBWXZpYXdKSjgtT2lraWM1RVg4UHlwN3pUNEN6MGQtNUIzZUZicDVCWl9nN25vSDgxczl4UXZVSG1kOHdGWjBGSXhOTzFFcFAxb1hPd1FmOWd6bmVWbkNiVldjeU5KMU9UVUJFM0V3cnItTnhLTW5RXzhrajNkdmIybjRZ?oc=5",
+      "source_name": "Inshorts",
+      "lang": "en",
+      "date": "2026-10-07T06:41:56.000Z",
+      "matched_term": "sho"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-08T23:37:31.513Z",
+      "title": "AIIMS Bilaspur must strengthen tertiary healthcare in Himachal: President Murmu - ET Education",
+      "summary": "Auto-detected from press: \"AIIMS Bilaspur must strengthen tertiary healthcare in Himachal: President Murmu - ET Education\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQVAtQ2ItcXV6N1Q1NE40dm5NWS1VcEEwMnlmQ3RoM3FUUzJFWjNCa1U5ajlRdzNNZkpQWnRSeEd0WFMtZE16aDd6dXkzQjl0RDdyQjNqZkFUWVhpaFJvYjZoU3pvQ0l4ajZtbHhkbWdYSTJ1X1lVdVZubVVsX25rc3NkUTZuMWpOcFpELTJxd0tiY0RvaVQzNEozNEh6UVlqSEpZaWpDd3I4eHYxMl9leUFZRnBoMHpqNkZ3SkdZZGdXbFlqeXdlQWNVc252b1ZkWGF5TDQ3UkIxWHh2dmwyYUp5a9IB6AFBVV95cUxQNE5ZclpkRU5RYmVWb1d0Ym9ZX1RTcUN4cS1FQXZCOFRSMTdCVE5yNzFvS1EzbDBjY1JzNkE0NW5RQ1Bod1F5SjJxTzl1Y1FxYXc1MVNyd3ZmX0pWSGxheXdXeTduR2pSemdrOENZOC1IRkJCcG03empjU2RGN085NHFlM1dxV2ExOHdxMmRwZ1RJdDNzMHV6U3BRaTVkTTRiREZEWGRxS0g3NHhwOUVlSHZWMkxLb2RDWjJoaGRmUk9qaWQ3MC1ZcE50NGphWmd1djRqcVplS3oxcTJleFcxWkU1Wm03Ny1X?oc=5",
+      "source_name": "ET Education",
+      "lang": "en",
+      "date": "2026-10-07T04:30:50.000Z",
+      "matched_term": "ngt"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T00:31:55.072Z",
+  "updated_at": "2026-10-08T23:37:59.152Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 0,
@@ -10,54 +10,22 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 19,
-    "positive": 18,
-    "neutral": 1,
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.563,
-    "avg_magnitude": 0.589
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 19,
-    "positive": 18,
-    "neutral": 1,
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.563,
-    "avg_magnitude": 0.589
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
-  "top_positive": [
-    {
-      "source": "youtube",
-      "title": "the song.....omg it's so nostalgic of 2020 era , every tour had this back ground music......btw the campus is soooo pret",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "My dream college Very beautiful aiims",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "I love bilaspurrrr❤❤❤❤❤❤",
-      "score": 0.9
-    }
-  ],
-  "top_concern": [
-    {
-      "source": "youtube",
-      "title": "3:30 the view 😮🌷❤️❤️❤️",
-      "score": 0
-    },
-    {
-      "source": "youtube",
-      "title": "❤❤❤",
-      "score": 0.2
-    },
-    {
-      "source": "youtube",
-      "title": "SONG BAHUT ACHHA LAGA KYOKI YE SONG FREE FIRE VIDEOS ME BAHUT CHALTA THA COVID KE TIME PE \nAND CAMPUS BHI ACHHA HAI",
-      "score": 0.2
-    }
-  ],
+  "top_positive": [],
+  "top_concern": [],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

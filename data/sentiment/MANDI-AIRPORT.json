@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-06T00:31:47.508Z",
+  "updated_at": "2026-10-08T23:37:56.424Z",
   "project_id": "MANDI-AIRPORT",
   "press": {
     "n": 5,
-    "positive": 1,
-    "neutral": 3,
+    "positive": 2,
+    "neutral": 2,
     "concern": 1,
-    "avg_score": -0.06,
-    "avg_magnitude": 0.22
+    "avg_score": -0.02,
+    "avg_magnitude": 0.26
   },
   "youtube": {
     "n": 2,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 7,
-    "positive": 1,
-    "neutral": 5,
+    "positive": 2,
+    "neutral": 4,
     "concern": 1,
-    "avg_score": -0.029,
-    "avg_magnitude": 0.171
+    "avg_score": 0,
+    "avg_magnitude": 0.2
   },
   "top_positive": [
     {
@@ -33,21 +33,21 @@
       "score": 0.4
     },
     {
+      "source": "press",
+      "title": "Mandi Airport: विमानपत्तन प्राधिकरण ने मंडी हवाई अड्डे की डीपीआर लौटाई, कहा-तकनीकी खामियां करें दूर - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNenVsakNUZDliR00wNElqTW9oRVpIUFZmdG9YRGdnbkJrUzd6WVhJZGs0ZGpKRDNFLVA4ZGU5Y2hndF8yUF9tenozOUFXM0owYTh3dTlhVWNwcDB2VGtMUGFyZ2xnTkVvVkJFaUUyWWNVN1JPOWw3Tlk1ekR3UmFJbWwyQjlib0NNMm9QNlppOWJqamRrUDVJZ3NDWUF1cEFhX0NCNERjQU1EQlN6U3VVQzBjUHhrb1lRT3Rvbm55eGtRM0t0cEt2YVBRUdIB0AFBVV95cUxPVHVpVXRzRkhuSDJiUXJCdEJsQkdVd09tZjEtMHNFcDh0S2FOelcxTVZobGpHa01UdFBpYWtRcmdHTW1tandMQndRLW1aX0NjRGgzcmFDWlpqbHFsdFdoRGJKR3JJbXM1ejkyNjlBWTYwSVVMUy1EemN1cVY4N3hWbjlEYk1rYUstNUZTbk1qSnVmemZ4bDIxU2JTNVUtczRncFlTVFZCbDAwcmtKZFRGY05DRGl6cGd3VWQ3bHIwc2NJY1h2dkxab210X0dMLVVm?oc=5",
+      "score": 0.2
+    },
+    {
       "source": "youtube",
       "title": "Hotel room book krane ka budget nhi mila",
       "score": 0.1
-    },
-    {
-      "source": "press",
-      "title": "16th Finance Commission meeting in Himachal: LOP Jairam Thakur advocated for special grant to Himachal Pradesh from the Central Modi government - Nagpur Today",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRkFvbGtta0lBcF9zQlc2bFZYNl8zLUlhNlF6clRLRjA2NFFmY1hjNHlpZjdiVjlra3lMalh5TUFibkFBak9IUDVvUkNjM0JFYlBIZEY3TjI3bkVBSjBIcThBYjNPd094eTNLOFZaamc4MzFZb2NPUlVfRUdxWUZNZ0EzSjR0d1RRTVFfbHZmeHJ0ZEdzRXZIWWFvOGZVUXNqSkVmbEt0UXRSa296NXYyX2QwLURDeUxjdzVvdGRJTGt0NzRmaWtGamdHU05UTDdZQ0F0REhfRG8zNUxuQkxyRDFybkJvMVlsY2syT1RrS0RNVENhR05ScVV6cUViamc?oc=5",
-      "score": 0
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "Himachal Pradesh’s poorly planned Mandi airport risks its limited fertile agricultural land - caravanmagazine.in",
+      "title": "Himachal Pradesh’s poorly planned Mandi airport risks its limited fertile agricultural land - The Caravan",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3Z3cEUxbHF5bzFKOEQtWWxicHV2LVJnV25GbzlUYVUxbDc2S2NmZjZYZUV2NFFQZXI1QjkxV3pqcWZpNm1LVDRvLVM5amVEWm5WeWtxLVY1N3F5cjkydnR3UGxsMlVTVFo3UmJaamJsa2M0TFM3TW0xNk8tOGlpc2tlRU9MekI0cEVURTRLZTFmRUFVWUFJNHloZjdFVVlFMHpzVGVrQ2lnaWRsWEFSYUd2b2hOSTZGSlV1ODRGTFd5TVhGd3dmSA?oc=5",
       "score": -0.7
     },

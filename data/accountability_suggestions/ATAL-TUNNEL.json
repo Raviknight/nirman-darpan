@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-06T00:31:16.469Z",
+  "updated_at": "2026-10-08T23:37:31.512Z",
   "project_id": "ATAL-TUNNEL",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-08T23:37:31.512Z",
+      "title": "Women In Power: President Murmu’s Atal Tunnel Visit Shows Himachal’s Women Leading From Front - ETV Bharat",
+      "summary": "Auto-detected from press: \"Women In Power: President Murmu’s Atal Tunnel Visit Shows Himachal’s Women Leading From Front - ETV Bharat\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnl3SWM5d3k1Nl9ya21sSkltcFRMYXJNaXYwTnk4blVsYWRmYVRIa3Fnc21ySjJuQUxBZktfWmdNdkRBeE82bEctWkV1UTZtaDdXcy13d0VKUHhmRm9YNHY3WHcwUFhpOHBHaFo4VHByTVdMSXpQUVNLdDFMVG9rd2JQdlpSSWlNUjBMal9KT24ySGJNcXVubkFTV1BhSWM2NDA5SmZBY2RFLTRGb1drU3VIQk9UV1XSAbwBQVVfeXFMUEVzSjg0VW5VLVlVWWIzZ3lnWC14T18wbnhfVm5EaTJDS1ZxbDJoNk1iZkxLSkk1aVo2RS1sSlRmMURVRFAteXhWMEpHYnJFOWpRN3docHlVQWJZbUUxcjRfdk1sZlB4Sm5zRDV0XzNIN3lyanV6eS0tNi00Q1o3WkpqT21WWk1RaWkwdlNiXzE1cUdQU2o4dFYzZDhkZ1Y1dWh5Q1VhM2QtR0tKMTBMYnZzbzI3aWxtRWlRa1Q?oc=5",
+      "source_name": "ETV Bharat",
+      "lang": "en",
+      "date": "2026-10-08T15:27:12.000Z",
+      "matched_term": "sho"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }
