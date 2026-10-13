@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-08T23:38:02.773Z",
+  "updated_at": "2026-10-13T01:03:56.008Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
-    "n": 19,
+    "n": 18,
     "positive": 7,
-    "neutral": 10,
+    "neutral": 9,
     "concern": 2,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.179
+    "avg_score": 0.078,
+    "avg_magnitude": 0.194
   },
   "youtube": {
     "n": 4,
@@ -18,20 +18,14 @@
     "avg_magnitude": 0.275
   },
   "overall": {
-    "n": 23,
+    "n": 22,
     "positive": 7,
-    "neutral": 12,
+    "neutral": 11,
     "concern": 4,
-    "avg_score": 0.043,
-    "avg_magnitude": 0.196
+    "avg_score": 0.023,
+    "avg_magnitude": 0.209
   },
   "top_positive": [
-    {
-      "source": "press",
-      "title": "बरेली में होली पर रामलीला, 166 साल की परंपरा; मुस्लिम समुदाय ने किया यात्रा का स्वागत - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1RsU3Z1dEFZOGFrZ1FpdTNrcWh5ZVdsWUNwdmlWaDE3elZSd1J0UktOZFNkNUxzRTBWX2VaTk9kcDM2Ul9kVE1LNDF4Njl1VXlfYVBSVzNrMTg5VGx6d0tRcVpXZ2ttdERRd3NGX3dXNnVfSmJ5MmlfWV9hQmRvODNUMXp2aVRZdHdrcHlPbFJweTZhZjQwaDlOYWtfRXc0TUUtd3JMZ1hDenhwRjhHMHdGcFI3N0JlTTZLN1NaZUFjWEhfbWRENzY0OWg4UlN3NTlib011X2FwMXpLMmNoWEZ30gHnAUFVX3lxTE9ZVUpvUnhfcTVyaVFTZDBuQW14RDBvTFBDQzBvdXlDQ1RBLVRWSi10U25zMi1yZlotV3hyY05sRjR0QzVKQnNJNm9wdk1UdGRtMlliVW9ISUFDLTZ2Z1habHRDZkNlVkM4NTBHN3lCY1FhYW5PMm12RnNzSm9KU21TbGJjRTF5Z19jeTZHQU4wVHRfbFBpQkpPSWlrV1ZQRDZrMWRQY3Faa2UyWldoUlZ4QjRlRk5zZjFfUXNEcktjbkY3OXJsaWt1ZzI0RUNacE1yTjFQLWF2cTROVzhzWjVPNHVYOHJkZw?oc=5",
-      "score": 0.6
-    },
     {
       "source": "press",
       "title": "बरेली की रामलीला जिसे अंग्रेज भी नहीं रोक पाए, 166 साल से कायम है परंपरा - ETV Bharat",
@@ -42,6 +36,12 @@
       "source": "press",
       "title": "IPS अंशिका वर्मा ने ‘लंदन ठुमका दा’ पर मचाया धमाल तो SSP अनुराग आर्य भी नहीं रहे पीछे, डांस किया - Navbharat Times",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNLW5ieUJjYXJ0cEcyTGtZNWtzOU9TTzA1X0k5MWQ5UjNUOXlUN0lpeU9TMHV0azdma3Iwd2ZmLUIwdXNMcGNPLXdveERmTERfSmFWb2gwdndoZVFuVXJMM1lBWGpscS1BYjRsQ0RqN1J1YThMd0FITm1xcnJIOHZINmZ0RmVtMFJKVW5UYkxlNERUX3h1Y3UzaFhiQ3R1N204MVlmSzVHNThPcEJXWHZjZXczSGNodm1iUWdtZEw4TUE4UHBLUENjdFdzc2o3UFZOYVBwaEpfLTY2TTBua0Q4QWhuUTRtT1VmTGFwUU9xLXV4RzdvcEJTTmFJM1NEVGVsd2RoM3dveXdqc1Rld0hQRElqLWliSjNTbW5nc1Q4VFg0cEFTZThDbkduRmlSMW04V1hiTNIBugJBVV95cUxPbEhxWG5mQ3FQVzhiY1ptMFFLY2JyeTBXWmdTVGRwSXcyTW8yTFFFM2pJZTZSZ3VQNi14cFJtXzB5UEM4dlJFbW40TVU4WWczeU5NOU83ZWRhSnRFV0dZV1A1X20wbk5VcXRjYndYeHFEN3RTUmh6cTZISTVGcjFoT3daaDhMTTNLT0ZKcjJCWnNhaUQ0c3pOU19Dank2aFNhZTVBc1BkVjljdXpDUEg1V0lpeHhTeTFqVG1YaHNqMndScS1PVVdTWGdzUUptUVZjQ1BwVFJMNk40d05ScWd6Q1NwSjRSWGxaUUpacGtTZ096OHVCajI2b2RPZVlvZVFsN2E3cDBweVVIV3JZS3N0R1ZEd0tXeWRXSE9wbVZ3RmVwRWdFRFR3SmYzRXlUY0wzSGxLNXBYeHd0QQ?oc=5",
+      "score": 0.3
+    },
+    {
+      "source": "press",
+      "title": "GMR Group’s strategic sale of power assets to reduce debt, strengthen finances - Insolvency Tracker",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkxlOTN0QnU0bWN0Tk9oRFpGR1lZSzBNMW1sWGlPYnR4cVdlUS1Gd2FBTmNrMk9UaHJvSWVtVGRmOTJqeFBnWThRcVdBU1hlb1BRMnUzNGpPLWloR19IWVFHTi1pQXBjNUNlRWpjZUp1R3pxblNLUEF4OUhxUjBmMVpJLWR5dEl0NXNJdWtheWxWTy1TTE1ybmJHNkRONjJEMmVOb1pzQThtX0J3R3NuQ1R6Rk8xdEU1?oc=5",
       "score": 0.3
     }
   ],

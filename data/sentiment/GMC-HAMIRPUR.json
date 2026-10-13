@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-08T23:38:03.191Z",
+  "updated_at": "2026-10-13T01:03:56.966Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
-    "n": 7,
-    "positive": 1,
+    "n": 8,
+    "positive": 2,
     "neutral": 6,
     "concern": 0,
-    "avg_score": 0.057,
-    "avg_magnitude": 0.057
+    "avg_score": 0.113,
+    "avg_magnitude": 0.113
   },
   "youtube": {
     "n": 23,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.178
   },
   "overall": {
-    "n": 30,
-    "positive": 5,
+    "n": 31,
+    "positive": 6,
     "neutral": 23,
     "concern": 2,
-    "avg_score": 0.043,
-    "avg_magnitude": 0.15
+    "avg_score": 0.058,
+    "avg_magnitude": 0.161
   },
   "top_positive": [
     {
@@ -32,13 +32,14 @@
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "🔥🔥🔥🔥🔥❤️",
-      "score": 0.4
+      "source": "press",
+      "title": "'मेडिकल कॉलेज के 60 करोड़ के फर्नीचर टेंडर में गड़बड़ी, एक फर्म को फायदा पहुंचाने के लिए बनाई जा रहीं शर्तें' - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWxvZ2F5S1ZXbjQ5cnE2bFRNTFJkUXdpcXFQa1VxYmpPRmxKTVRJeldkRFlXazF2YTVsZzNrWUZfRFRnbEI2OWtON3VibHBoemxxVXgxNWlVT3ktS3lVMzN1ZUVMMFhPSWhUV00wVHAwcGxBSkdsZk5nYnBNYnl3bC1MYmpZcWVXUzlSNlF3MGY5RlpOUlNwd3Nhd1pTd0YxQUpjbllpY1VsTk1RakgxbXlnd1NUSGx1ZVFUZHBlMGxGZUhZb3pfcGEteHJrREdIRVluNmt6SFJVMFVzNmktSVJUS0RWeTFPNjBlOFdOLVV0akoyN2ozUzZKcENWTWVfQmh2dNIBigJBVV95cUxONlJhWXdNLWJyVkx4UXhFQmtEYTJPXzVDY01VcFFhYlcxMjNmWGhiQ04yT2tNUkJZZGJkOXBYMWRhaXV2MGIyeGZzMndLcGNaSEV2dDd2bFB0VEpWWk1jRDFfUjJ0NEphenp1Z0NncWV4WDBnck56c1pWeFJXMHo2dWQ5LWJhdHlmSjFEdF83ZjBqRmt3NVVBZEpZMGdwNjlQV2lxczh0N2w3MG84NEhVTDBQX0JJWXk5bGl1Y1B3VU9IWnZtYWdTV2dSaXk2eVFtMjhEck5UQ25uVllqSWp4ZVd3RklmU1JacklGVi1Nc09jVlFqbVN0R3pGcDE5WWNEaUdFeDk5OEhEQQ?oc=5",
+      "score": 0.5
     },
     {
       "source": "youtube",
-      "title": "Kya ab claases shuru ho gayi hain",
+      "title": "🔥🔥🔥🔥🔥❤️",
       "score": 0.4
     }
   ],
@@ -55,7 +56,7 @@
     },
     {
       "source": "youtube",
-      "title": "Mam Jo hostel rent aapne btaya hai vo monthly hai ya yearly....also ragging hoti hai ya nhi...and please dress code k ba",
+      "title": "Hi do u have any idea when the state councelling will start?",
       "score": -0.1
     }
   ],

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-08T23:36:48.250Z",
+  "updated_at": "2026-10-13T01:02:29.107Z",
   "project_id": "PARBATI-2",
   "counts": {
-    "press": 166,
+    "press": 178,
     "gov": 0,
-    "en": 88,
-    "hi": 78,
-    "total": 166
+    "en": 94,
+    "hi": 84,
+    "total": 178
   },
   "mentions": [
     {
@@ -24,7 +24,7 @@
       "source": "Hindustan Times",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUTVPbzNna3h6d0ZtcGV3TnhxaXYwbHl0S0VXVVZxSDByQUtJQmQyY0VFTHI4dGFaaEZFVVFISEVfWHg1N1ZoTnNIMmZuSTl3WExkSXlSalJzRmllX0tyRDVvUl9NN0tnSGlRMWczcmg4ZHNVTms1THRqWm9fa283RkE5WFo4dGxSWFJEMTlGdVNQQ0hWMmxjVWVyWlJ3cEhTdHlxYU5CN3NkQUlDZEtNRk8wT2s0NmdDUWhUX0NqeWxJZDVTcUs4cVNzd2ZtOVZ3RGpkS0YyTVdhZ9IB3wFBVV95cUxQTjg0aG81cU04T2F6MW94YlBzcFZvWWRTUGM2MUl5UnNfclVCUWtuc21BbDZwVVRVSG5WVU16czBEME15bTlBcWtuMzJTR3FWeGtDUktJR09OZlByOFJFcWtSZFViRXpzMURXQ3h4alByckltay1mNVJJYWNiQjJtUHJxTUhYZEdlTlMwWkdQV0tOMWctdm44a0pCYnFidkx6UnRzQUNEUlZ1UmZBTVc4dEZmajhmZWJrcE1abUozWExWem1zakJ6Y2ZjdDA1bHI0N21xUEw0Z24wakpCVjM0?oc=5",
-      "date": "2026-10-04T02:10:10.000Z",
+      "date": "2026-10-04T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "NHPC Parbati"
@@ -44,19 +44,9 @@
       "source": "The Tribune",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenMxWnF0bm1CMExDNkRJRmRpU3JGaGVRN0JKVjJleWFWa01jRXdNbVhIMzlBTFRnOVRWdDFYbC1QeWJoaGxBWFJvNzhERy1yRUg1WkdXZHdpVlhDQjRqRi0wajExRUFnNmdaZFlrUHZOekN5VXU1ZFdoVE43UVNkcDJxMVExRzNTN0RkMjhJa2p0ZExHdHVmS1JSMVZxMDJCcFViWtIBqAFBVV95cUxNM3JoZ2xSQU9jaXRLWjgzLWxxbDJRcEhnUWV4UHY3US0za1F0cXN2ekZnaERFR0Z5U1gtZm53ejVaMzItbFFyX0U4akU5b2dpYW9DMzdiZzZsdXp1NnBTUDBhQ1lkZFpMMjJSa0tnQmJ1M24wbEdtRkNLeUU1UmN1b1JkT0NxbEhPb0VKM2lpOW9XdmVMWlpPUjVYYjBobVlPbDlkT19ncnY?oc=5",
-      "date": "2026-10-02T20:18:39.000Z",
+      "date": "2026-10-03T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "NHPC Parbati"
-    },
-    {
-      "title": "पार्वती-दो में कर्मियों को हिंदी का समझाया महत्त्व - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFTkpSZmpjdTYwVXlEMVlpTFZXOHVUY181eG82Q1dUeUNGNkR2RVAzT2V0djRPSm5md09DblZ0UHpFa2M0U0Y0emNTamJ4WkdobVE?oc=5",
-      "date": "2026-10-01T19:23:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "NHPC Parbati"
     },
     {
@@ -64,7 +54,7 @@
       "source": "India TV Hindi",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcEZFMDlHYlRJQ0ZUQVNjVHE1LUtGWjRKeUNNeEc0NXdnU2ZxZmF0S0R4T01BdkMxVnlYZWpuSEpwa2pnSDRyOXVkUEdTRXl1QnI5OXQ0VjRJaVpYelRlblYxLWlzN282SG5yOUhDcmRWVXFILVU1ZVNxbzgyQWc0WXJ2WmEwLVVZUnpkR0RwRWdtZGNycnlsbUx2aDFtRTNpU09wVV9XQmQ1RVZYWVVpSzJPV3dLby1kRGdaNFJvYk9TS252MllpSktZVG5idnN3cmNCSzU4SW8zekQ1cGVzWkNOOWk3S3hPcjRGUE8zZG1PcFZfa19FVnpJS3k4YTFlbWRjdmh30gGLAkFVX3lxTE5lX1RyQ3JqOUNITTBhcGc2VjlpSERHX1lxejhFTDNUQ1N1bjIyVHJYamQ3M2pNeWVoeTlmcnpaMGhMUDl0TjdiZGVCcWxCRklubmgzNEtpWlU0OUVxYmVCQWdOTWFVcldnNTAxV1RTcFhhbDc5MVBkZ21uWU9xZE1yaGo5QjE4N2lCbmhUZ3NCY1FVUzRJRXhPVXFYSnVWTmVELUZxX1BPNnlSMHZEbkxodEw3cklodS14QURSdVliV2hORng3cWNCcjhqRTM1N0E4bmdDcDZiUG82eWtoOFBMVUNvbzBzU0RwRkFMY3pOQjBwdTB6WENMbkh0a2x5VVNMeTZrREJBMDcwcw?oc=5",
-      "date": "2026-10-01T08:11:49.000Z",
+      "date": "2026-10-01T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
@@ -78,16 +68,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "NHPC Parbati"
-    },
-    {
-      "title": "हॉकी में देश को गोल्ड दिलाने वाली पार्वती के परिवार की मदद को आगे आया प्रशासन, घर में शौचालय तक नहीं - Newsnation",
-      "source": "Newsnation",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbV84VEVEOGFIMEFtc0l0STVTdFJqQmpPMzNXYjUwSWhld3FTNEFGVlhyZ3hSUzVpc192LXE2a3AtYld6VXZTblpZT2JkNkQySUNKREtFTXlmbEdhSmtKd1hpRXhyZ0xMVmhINzFEN3RVS25OaGt3UWFkeHk2YmhYcUd0aTg5Z2hwUVh5Z3hwclVpWllKb1VDd3BhbUrSAZwBQVVfeXFMUG1fOFRFRDhhSDBBbXNJdEk1U3RSakJqTzMzV2I1MEloZXdxUzRBRlZYcmd4UlM1aXNfdi1xNmtwLWJXelV2U25aWU9iZDZEMklDSkRLRU15ZmxHYUprSndYaUV4cmdMTFZoSDcxRDd0VUtuTmhrd1FhZHh5NmJoWHFHdGk4OWdocFFYeWd4cHJVaVpZSm9VQ3dwYW1K?oc=5",
-      "date": "2026-09-29T17:53:51.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
     },
     {
       "title": "Himachal: Parbati-II hit as 2 turbines stay shut - The Tribune",
@@ -120,6 +100,16 @@
       "match": "Parbati II"
     },
     {
+      "title": "चीन में भारत को जिताया 'गोल्ड', पर घर में न नल, न शौचालय! गुमला की बेटी पार्वती तोपनो की आंखों में छलके आंसू - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTBEa2ZYNkhmOExuTy03WkRmQW81RThfQi05NXVHZHlab3VfaTdzTEVZR2tVZWs5Qk1UYVBSaEpkSGtrS2dfTjViSXZEcWlzUWs1eTMzX2dOcU1JRjhvWUJEVzNIRGhZcU1CLTB1eWVKel9LNG5OUHkyajdyM2R1eWUtRHVxLVo3cW1Jd0o3dU9oTVNwT1d2aTE4Nk9UWndOU25fTUgtNU81Qm1LeGJsRG5kVjVJalZqQ0E?oc=5",
+      "date": "2026-09-25T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
       "title": "Parbati Hydroelectric Project II: Features, Location & Significance - INSIGHTS IAS",
       "source": "INSIGHTS IAS",
       "source_id": "google-news-en",
@@ -147,6 +137,16 @@
       "date": "2026-09-23T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Parbati II"
+    },
+    {
+      "title": "Gumla की बेटी का कमाल: एशिया कप में गोल्ड जीतकर लौटीं पार्वती तोपनो, कामडारा में हीरो जैसा स्वागत - Prabhat Khabar",
+      "source": "Prabhat Khabar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTTFLM3RIa2c3V2pLYk1Fd1FsOUZzY2toQktaNl9mOEY3MUhxdHJSVF9Mc1RERUZPZ2RPUkphd2c0dGM0bmRlNjZscXNuVTFFZS14NmdEajNiZXkzSzBhd3N2cFd5WGZHTXphaWZfb0YwbTFmTl8wYjFVVEVGRlRBVm9Xalc0ZlA3UHFXZHFrVWNZYUVFMmI4YlBkOWJYU3lHSV9V?oc=5",
+      "date": "2026-09-23T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Parbati II"
     },
     {

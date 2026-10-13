@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-08T23:38:03.501Z",
+  "updated_at": "2026-10-13T01:03:57.976Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
     "n": 15,
-    "positive": 7,
-    "neutral": 6,
-    "concern": 2,
-    "avg_score": 0.14,
-    "avg_magnitude": 0.207
+    "positive": 5,
+    "neutral": 7,
+    "concern": 3,
+    "avg_score": 0.027,
+    "avg_magnitude": 0.227
   },
   "youtube": {
     "n": 6,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 21,
-    "positive": 11,
-    "neutral": 6,
-    "concern": 4,
-    "avg_score": 0.143,
-    "avg_magnitude": 0.376
+    "positive": 9,
+    "neutral": 7,
+    "concern": 5,
+    "avg_score": 0.062,
+    "avg_magnitude": 0.39
   },
   "top_positive": [
     {
@@ -46,6 +46,12 @@
   ],
   "top_concern": [
     {
+      "source": "press",
+      "title": "Shimla ropeway faces funding hurdle as costs nearly double - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUszVGpCZFIyRzVJbG15Uk5HY3JLTXRiZ2kxcFY4aGRxdmgySGFNZ2ExcUM2ekU5djFrX0hUU25kcjZzQjAyY1pRdEN0c2xHUVBheDRvdG5IMFM3REE5b1NuV2JFZGJFejZfM1N4VFRTZkV5bVFNUVhBYUY5WVdHMC10STdtQmw3LVdiM3pfLWg1cUdtMi00Q2lmc1k0VmxJUElSNtIBqAFBVV95cUxOU25uZE5RdTZQa1ZZcmNMX2VDRVgwQzE0ZDNXSVlVQnJmeDdBcTFPUm9CeDB3a25uNUg2R3NwTktvcjVSbU1McVhIM2ZMS1F5b3JDREtqdjQ5VW9NSU1yQ0R3amdSM3p3MGFnUnU1NzQ4RmFYZXFOUlRIR1FtN3NhQkFSaDl0RjBlNmIzMXN3Wk1BTm9iQnliZ3ZoWVRmZkRfMUJpUmNDckk?oc=5",
+      "score": -0.8
+    },
+    {
       "source": "youtube",
       "title": "Aap hmar Message  nahi Dahka raha inbox ma or na Reply \nKya bat naraj ho to hm Message nahi kar gya  🙏🙏\n🙏👌🌹👍❤",
       "score": -0.6
@@ -54,12 +60,6 @@
       "source": "youtube",
       "title": "I am from Solan. I can tell you this is just a false promise. \nGovt had promised a ropeway project in Shimla more than 5",
       "score": -0.5
-    },
-    {
-      "source": "press",
-      "title": "Amid Shimla Ropeway Facing Cost Rise Over Five-Year Delay, Himachal Pushes Air Links, Clears Asia’s Longest Adventure Zipline - Swarajya",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ3pmXzF2eExEc1V3WGN3RWsxM28yRF9zd0pUOW9mWEFodVpjMG1wUDdwZW85Qm9LX3RVcmFoNzU0YlMtTFF3dGN4bWYwQ1pZTmt5ZUJad1Vid2kzcWdYakJORnZ1elptNGN5S0wzSFJORHpWTHh4SmhtT09jeTAyNFk3S0dtcGNiOVdmdG9rbkJka0NCemVaUDA2UFJLNzRUQjdRYnVUQ0FRdGQtNTdpRGZyMjNlRWNOOVlzTGlHY3JDRW1fSDZEcnVzMlZWM2NMRWtEQkh6c1FEU0dDM2N4Qm5mT0NTUFRLZ1pLUWlR0gH-AUFVX3lxTE5TcVNiYkxVS09SZTJlM0JSbzlLdW1TejNzcll2QnhsZXFxTXhxV0RuaEdKa1JkeFRJbzRxUG9pWFBIaHV3MDJnUjBnaEdRWnRETUVjU1ZucWRYSjNVRnUyY2FRUm5OSmNWd3RvTXRDdk5MQWtsTFoxMHBGWHZQQ3Yxc21XM0VuRHpxblpZbDdZNGxMY0NhTmJOaG91aHpJdEdOSEp6TWllZzVPVzBuSEc4ZE5WMHNtaTRtUTg5MVhVVW8zd1Y4OXZmVmYyS0I1clJXY0lLVHpCdG5JbEpMcVVyS015SnRxUk9Yekl4bXdTZjBlWG1DS0ZkcGVud01B?oc=5",
-      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

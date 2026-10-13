@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-10-08T23:37:56.339Z",
+  "updated_at": "2026-10-13T01:03:42.083Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 17,
-    "positive": 5,
-    "neutral": 10,
+    "positive": 4,
+    "neutral": 11,
     "concern": 2,
-    "avg_score": 0.059,
-    "avg_magnitude": 0.229
+    "avg_score": 0.035,
+    "avg_magnitude": 0.206
   },
   "youtube": {
-    "n": 18,
-    "positive": 12,
-    "neutral": 4,
-    "concern": 2,
-    "avg_score": 0.333,
-    "avg_magnitude": 0.456
+    "n": 23,
+    "positive": 17,
+    "neutral": 5,
+    "concern": 1,
+    "avg_score": 0.357,
+    "avg_magnitude": 0.383
   },
   "overall": {
-    "n": 35,
-    "positive": 17,
-    "neutral": 14,
-    "concern": 4,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.346
+    "n": 40,
+    "positive": 21,
+    "neutral": 16,
+    "concern": 3,
+    "avg_score": 0.22,
+    "avg_magnitude": 0.307
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Best month to go there",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "Super butiful place ❤❤❤❤❤❤❤❤❤❤❤❤",
@@ -40,14 +35,14 @@
       "source": "youtube",
       "title": "I love kangra❤",
       "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Best month to go there",
+      "score": 0.9
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Fake",
-      "score": -0.9
-    },
     {
       "source": "press",
       "title": "Lack of clarity on compensation mars land acquisition for Gaggal airport project - The Tribune",
@@ -57,6 +52,12 @@
     {
       "source": "youtube",
       "title": "which villages  is this?",
+      "score": -0.2
+    },
+    {
+      "source": "press",
+      "title": "Delhi govt launches Tourism and Heritage Fellowship Programme - ET TravelWorld",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV0d0cTU3dDN3T1JRdUJtY2lROEFLV3VaVTl5YlFlNHZiZXFnWURTSExZczNMZE1xa1VMcDV4eGdOZXd1NG90QkFDbDhUcElpal85Z0VKWlpTV2IwMTgzVU5QU081TE8zUDc3eGctUTREWUxTV0RnUUtyZnR6V0V0YndjeGJrY1drVVEtS1hKMTNIeXJmVWl4N1dFdzQ0dE1PbnBNazdySmg4Q041NGpleUNFRW5ra0xmUDhlWk1lNlktZERsLXcxdmRtM1h0ZWNyN3U5YXVlSWJJbWpxUktSLVEtUEIyZ9IB6wFBVV95cUxQSmdKMkV6S3BBVXhrWkFoUEJMY0l5OGUtekJNZ1VGLTRCTXBzbFpKbUNuNkl4c1IxbFpBM1hCay1vQ21oVnd4NTh5TDFyVkYtVXgxUHZYQ0Rnc1pXZEVlbEl4MDBqblRHSU5yRHR3MnVtZTFfSjQ2M2JFVmtERjFvdVlmU3lFUmRrWHlseHNaZmx6dEJmeWdlNUc0aDJrQUl4NlZkSHNMd3NJenhMazYtd3gxNml2M1BVZlFvYmQ1NGRuT1d1dnJKV1l2R09ST0hISW9rcGxpZGlZYjJVTWV6VnFkTURSNk5LOF9N?oc=5",
       "score": -0.2
     }
   ],

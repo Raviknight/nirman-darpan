@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-08T23:36:30.779Z",
+  "updated_at": "2026-10-13T01:02:11.598Z",
   "project_id": "KGR-AIRPORT",
   "counts": {
     "press": 70,
     "gov": 0,
-    "en": 50,
-    "hi": 20,
+    "en": 51,
+    "hi": 19,
     "total": 70
   },
   "mentions": [
@@ -120,16 +120,6 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "कांगड़ा एयरपोर्ट विस्तार के मुद्दे पर पक्ष-विपक्ष में तीखी नोकझोंक, सीएम सुक्खू ने किया बड़ा ऐलान - punjabkesari",
-      "source": "punjabkesari",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1NRazUtdmxDRVotSjhtTi0wY09lY3VvMW9OWFp4OFdBX3VZUUFGeHRYNkNqTTVPUDYxbWw1c2Rnc3J2dUFTRHpoQWJRNGE0blB4VV84UlB5TzZOSC1ISU9MVHJqR005VERPVGE2LVZOWV9JZ0o2WlpxSk9KYUlxSVBFMEgtVncwN2dGYXJtUVBhcVZYRmp3d2dKNzFZZnpuZDE5WGJDQXoySldWaWJxczNlczlfVEZ2c1Nya3ZzcEo4N2lXMVZBeXVtcXDSAdQBQVVfeXFMTXByTzRlbDlXcjV4Q294cThmazNCNXZycUZsVzU5bU0zUF9WZ2lMcmVPUFpjUm50dHN1ZnMtdGxpc1JNVFRoRXNhaGpsQ2FydXVZRHhLVWZ5TkpmQkx6emV4Z1dEYVFUVkRLOGMzVmFaRU5VcmRrYldYWFljUjVleVV4SWpSc19ESGNVNkI4bGlXZVkweVpIRzNGaWROTlBsZlc1VmtrZ3B3M29qcTFUMWRPSXFVeE5GZ1RlZXZHUmNtRWlXdmVTaTZ0aW5ZV3d2X0RucGs?oc=5",
-      "date": "2026-04-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Gaggal airport expansion"
-    },
-    {
       "title": "Gaggal airport expansion: 9 additional hectares marked for peripheral road - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Dharamshala airport expansion"
+    },
+    {
+      "title": "Airport expansion: Rs 298 cr disbursed among landowners - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkNSSE8zTUo5Mnl5dUdzMXB4SGpHdzY0alhrOTl6aERLVVpCTzVzZUJvS2JsdGJ3YnB1TkpEOWItZ2E2dVlYenczTkc3RlZvallVdTlkM0t1UGpaOFZ3djI0Zl9ZS1QwUEZPbXVndlZCOWdnR2twbERFTDRLaktoT0Y1XzQ5SWJ1aVYtWjAxeGVYVGR1TVVxMTZ0MV8xamfSAaMBQVVfeXFMT3p1YjZDTEhhUDRpc0lSV3UyVGVPeTNiZk1KZ19LajR1SEJEam81Ny04MkhoaXpNVVYxeGU3Q09DbDR3MGNQWVNCQVhNSXlwejBtNF9UZnhpZjdlMUE0U2xiLW8ybHdtRlkyck1VRi1WTjBabUZ4bGEwQTBqWUJUWW9lNkR0WHFNaHJienV2NlpUV3ZGckxrUWQ4MWRoR2VZdjdCYw?oc=5",
+      "date": "2025-01-02T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Gaggal airport expansion"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

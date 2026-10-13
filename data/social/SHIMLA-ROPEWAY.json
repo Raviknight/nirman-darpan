@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-10-08T23:37:26.867Z",
+  "updated_at": "2026-10-13T01:03:07.669Z",
   "project_id": "SHIMLA-ROPEWAY",
   "counts": {
-    "press": 117,
+    "press": 120,
     "gov": 0,
-    "en": 58,
-    "hi": 59,
-    "total": 117
+    "en": 65,
+    "hi": 55,
+    "total": 120
   },
   "mentions": [
+    {
+      "title": "‘आप लोगों ने मुझे रुलाने का ठेका लिया हुआ है’, मिर्जापुर में भव्य स्वागत पर भावुक हुईं पूर्व IAS दिव्या मित्तल - Jansatta",
+      "source": "Jansatta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeFRyemlaajJ2aFRULXVBRlpNRlBwYzByYTBpMWVSYVZHMHVHLVJUMkJ6NnVuRXNVblk3SEpiTHd6ZVNmdXp0SWFLa1hjV1dtTm9YemNKdFJDM2pXMDl6TU9JUGx2c1pGY2I5TF93Qzh6a3dUT0ZIRFV4SVNOdHpEdi1OWjdVdUx4azVEWFd0STlTcTNaXzM1Zk5SNmZVSnNNREtJaTcwbGd2RGhNNlNrWUEzN1lBekNGZVdpWlBMRy1kN2FybTNVZkV6VDUwNERDUUlTSld0VmNURGlKNkVTNVAwYnFHeERLSndLX2xORmo2RmZXaTVRTnEwa9IBggJBVV95cUxQaVBsbEE4QXBpSGVxOE1XeXBSRXNKc0pUcmRvNWlxUHFaUC1JcUJjbGl3QjBIZ0ZoZ0UzenVpeHJxdFdxQTIxRy1peGI1UmdMV2xqZjRfcE9qMTBpWWJlMWRTdUg0ZE9Bc2c0YlJGaE1GTDlUZER3NVZNeWFCTG0tZndwaGhaTTZzRElQemVDRzZfRGVFQmxGejZlYmlQRGREUTJRdlpIaVlJVnFwaTJjc1ZUSXctSXVuQTZwNFBqaHpuM3dQTkpub1c2YWk4dldDek4xY051SkY3ZWZWSWxoRXBhbThWMkNobDM4OEZlS09Nc0NlRzFGR0NFRU1ZRzBpR1E?oc=5",
+      "date": "2026-10-12T04:40:16.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "RTDC Shimla"
+    },
     {
       "title": "HP govt to HC: Shimla ropeway project put on hold over ‘financial crisis’ - The Times of India",
       "source": "The Times of India",
@@ -50,16 +60,6 @@
       "match": "Shimla ropeway"
     },
     {
-      "title": "शिमला: वित्तीय तंगी में अटका महत्वाकांक्षी रोपवे प्रोजेक्ट, राज्य सरकार ने रद्द की वित्तीय बोलियां - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNREJPMkxpTU5qMmNyRWlHM2NuVWhwU05fZy1TNnBFWjd6a3h1T1pmNlEtRHhSVEoyVFhQQkdLN0g0cEFVYzlodUlqbXptTDJtajVUcGc5NE84aWZTZTZGZHJqa0hYcjdZNlBaVHQ3TXV3WDY2Nl9jTmJyank0WDhYdmFseDVnUnJwdG9iM3NyNkpON2tPX0lvbW44ck53YmxxSXFkdWtNdHZncHRkMkIyVmNtWm1TamFaYzF5UmpxTWo4V1NPSmp4WEMxeEZDYVE4NVMxS1M5THhwMVJmUnd0VkhBRkNYUdIB6wFBVV95cUxOemF3RGQtSUw1LWZKVFBIWGVOSEZzaUJTUVk0VURxZTEzY19XR3dJSGpPa25xLVdYWEJKd041d0VZdk92R3piclZnX1c2X0NLUlVTUl8xMm9FVGJlUWdWM1Vlb3BDc1dYNk9zT3lYV2ZDMnhFdF8zS01CUHZQOG5NU3ZrX1BhSXFRcDEzd1pMbkJuMGxkNWxzVy16a0ZDeEVXbFFsb3pnSXhfc0QwQUhESk1zYnN3aFU4ZWI2NVdSWUh5UzJaX2xITEZXVDl2dnZnbFBYTUFjZXgyWkpGcmJxWS1USEtYSWRxM2xV?oc=5",
-      "date": "2026-09-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla ropeway"
-    },
-    {
       "title": "Government Turns to PPP Model as Shimla Ropeway Cost Touches ₹2,700 Crore - The News Himachal",
       "source": "The News Himachal",
       "source_id": "google-news-en",
@@ -70,13 +70,13 @@
       "match": "Shimla ropeway"
     },
     {
-      "title": "हिमाचल विधानसभा: 2,700 करोड़ का शिमला रोपवे ठंडे बस्ते में, सरकार ने निजी निवेशकों के भरोसे छोड़ा सपना - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTWxMa3lFSWl1YmFvLTh0dVBycnNGQzZPZlFGemFxd0htZGdpSElVM3FqVmFVTTZCRko2RFhwRV9td0xmX08wTmtvXzBpcllsbGJVclVVTjZVemE5dVlva1VxS0lpNXRVeklsaFl6OGJ1b3VDVktGekRDMlNJOU5fLTI5cXpEM2JDZ19PY19rdlkzbnQ3YjdpTFREVFBJajJCZFpmMFlGUXQwQmZjcWdJSGhqajR6VE9pYU8ySUgya19EUkVEeG9tZGprMU1mektGNGdxcFJiSVNkdUtxYzVTMm1UenJGR2fSAewBQVVfeXFMUGU4M0l4WFdYVmFRRHZoYXRrcHZWbEVtS00tNTdFa0NaazJCenhWUDlzWmdkV05SRE1vVkh0WjFzZzBYTUlic3J0RW9xZ0lVYmRPZXcxSjdEckVUMGRmRjhtVF9NblAyYzBuY1FxeGlpdjFTdktfSmxCbW9INVhqdmMwSkFRdXBacEJNRV95ZjN1Nlh5YnU1b2Q2TEhyNEdTNk9QSjQ3VXlQZFJncF9tNGt3dlNWQjFocFEyRDI1SFlHc1JUTDNKeWNXZTM1V1gtaUtKc3R5QVdEaGJtRWs0YXZEQ0QyQWZyQ2FrMjU?oc=5",
-      "date": "2026-09-02T07:00:00.000Z",
+      "title": "Shimla ropeway project all set for retender, Cabinet nod likely - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemhmWkVRYVh2dm1YX05BZ1dFbGF2ZUR6dHV4UXpjR3E3blNPejZYTm54NlVxUTJoWk54UmVsYllvUkVqRXlKa3JvWDhxYUFKWmFCbHI2RkVzSEtfQ01XNWdRbTJNUFJqYUZUMkZlRFR6ODdJci12X0t4REpPTlFYVWxhNVZCdjhBNm0za2hDMV85WGU3RXg3emF0dlZMS1V1TVd6YU84cUhJd9IBrgFBVV95cUxQU0FEX21SSEp6TGtUX2xObEpaVWZyQTB1TzNLX1B5aGNCZldLaDVRWm1VUmJucWU1YVg4Njk2RDd6Nk9IU2tCVjNLMlI3WGFtQ3Mxc3ZJaGtCQW9fT2R2MTRoazdVeUJISEpDQjNlQUJYTnJxOERaY0ZGcWdwMUZjM2VVZVZIcWFMZlJuR3I4VmZZZjV3SDk3bE1RcS01Zk5FdTZNRGJGdDY5QXl5eHc?oc=5",
+      "date": "2026-07-15T07:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Shimla ropeway"
     },
     {
@@ -120,6 +120,16 @@
       "match": "Shimla ropeway"
     },
     {
+      "title": "Cabinet meeting starts in Himachal Secretariat: Proposal to raise vehicle registration fee likely; talks on... - Bhaskar English",
+      "source": "Bhaskar English",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOE0yWEZkVk5CeEY5bDhVS1RodEtBdzZ0azVkRHRxVXhuY1padzNMSTRjU2tVU1RaN3dzLWl1SVd4b1B5Vm9IRzFrUU50N2NBekZyalJTSnZXOUJvbFFrLV9tTm1pb3lUQlFKamphbFkxdUdqOU9kcmRwN2EtVjdveTZnZnB1MWRSMzNUc1FnblBXaXBGVGg3Ykd5T3h1VWxUNjFLQUF3VWYwalVFd2g1Skg2YkQxOC1uWl9yckpGOFdkQTBZcEF1Rnc0d1JNQW1s0gHWAUFVX3lxTFBzR2l0MHVkVFI1MEhRMDFfcmExX045ZFJac1h2MkdvdnZSN1R4SmJBNjVGMC15ZEFhdDV2QWJ0alRKd2cteDdLLU9pdTNkRl9lZ1I3UWdzMjFfT0ItVjFoUU5NSzhpWmNzckw5SW50VXpqWlFMLXNTR1FkSkJiWnljbXYwaFkxZHlZQ05MdExYT2V2MU1IVmh1QWlxeW5tMUdsb3NFdG5Oc3FndWNxbURjVktyQVJNUjd5WXk4Ukk3TEh5aGNKVG92Q1FsUXVJWWRBay1fSHc?oc=5",
+      "date": "2026-05-22T15:00:35.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla ropeway"
+    },
+    {
       "title": "सुक्खू सरकार ने बदला फैसला, अब PPP मॉडल पर बनेगा तारादेवी शिमला रोपवे - shimla tara devi ropeway to be built on ppp mode - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -137,6 +147,16 @@
       "date": "2026-04-26T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Shimla ropeway"
+    },
+    {
+      "title": "Shimla ropeway faces funding hurdle as costs nearly double - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUszVGpCZFIyRzVJbG15Uk5HY3JLTXRiZ2kxcFY4aGRxdmgySGFNZ2ExcUM2ekU5djFrX0hUU25kcjZzQjAyY1pRdEN0c2xHUVBheDRvdG5IMFM3REE5b1NuV2JFZGJFejZfM1N4VFRTZkV5bVFNUVhBYUY5WVdHMC10STdtQmw3LVdiM3pfLWg1cUdtMi00Q2lmc1k0VmxJUElSNtIBqAFBVV95cUxOU25uZE5RdTZQa1ZZcmNMX2VDRVgwQzE0ZDNXSVlVQnJmeDdBcTFPUm9CeDB3a25uNUg2R3NwTktvcjVSbU1McVhIM2ZMS1F5b3JDREtqdjQ5VW9NSU1yQ0R3amdSM3p3MGFnUnU1NzQ4RmFYZXFOUlRIR1FtN3NhQkFSaDl0RjBlNmIzMXN3Wk1BTm9iQnliZ3ZoWVRmZkRfMUJpUmNDckk?oc=5",
+      "date": "2026-04-20T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Shimla ropeway"
     },
     {
@@ -187,26 +207,6 @@
       "date": "2026-01-20T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Shimla ropeway"
-    },
-    {
-      "title": "नड्डी में बनेगी एशिया की सबसे लंबी जिपलाइन, हिमाचल को मिलेगा नया एडवेंचर हब - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSC1oT0t0T25kZzBqZHA1SlYxTjhRUHVwWkVOYzVYU3l2SzJFTWxVWlk3RHBHYlBzVEZhaDZRalRtNUFKelQ5NzlFZTBIcDVJN1d3SUF4eEN4RVk0SmlCbEhnc0YyRkNWRkJNQVJZbTVqMEQzcjRQRklfNjNIRzVJZFFWX3pLUFAwbkVpTU5GTTBOTXc5ZXgtVEZTMWdJWlBkN0pkRVZBR2JET2I4by1heXM5Q21QNG4wZUM4TGRoNldMZEpPeDV6WGh3UDY2WGJzX2lhZl9fWFlsSW9tUWxvUlYtdnRVYl8tU3g4Q0U0eXXSAfYBQVVfeXFMTTUzOGpoR21vdWFDdElVTXZtdm1rZzZmLUJKWjNjbFNWdEtCSndNeDhob0phV3JHbFpDb1ZhSUFxWFdlUGhBUGozcDF4ckYyLXExLWZybTFUYXZkZ1hCVzhMNnJCbjRhc0VoV29nOHJkcndfRWFOU0dtb2dJQWFvVDUzUDBkc2xOaDhwc01LbEg5cWpyM0FMRlViQzRaVTlkd0EzT1hJNEtmN082NXprNnpodmtqcWtzaEVDUnF4OXdZZTQtZWVWdC1lbDRnbS1xNUtOdGIxNE9VMUd1QUtiZ3dFN0RyVUFPd3pwOW53VGFEZktIMmF3?oc=5",
-      "date": "2026-01-20T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla ropeway"
-    },
-    {
-      "title": "Himachal Cabinet Meeting: पंचायत चुनाव पर निर्णय लेगा मंत्रिमंडल, धर्मशाला जिपलाइन सहित सरकारी नौकरियों पर भी फैसला संभव - himachal pradesh cabinet meeting agendas panchayat chunav shimla ropeway govt jobs - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVW0zU1dyUVlyUTY0amJRb0pCbVM2dU1aaHJsWXFyUmQtUHNlSkQxdkZPdHpycU1SeU9FUjEyVVBZVE4yb1luSFZwMldFUnp2TFpJVm1CUm9kc1R5TTBKOC01X2ZZSjNaWlViSkFhOFNEVklIOXVMd2N3bEpZUzFyU0Zvdjg3TlpNcWsxeUtQQmxwZVUyMEVSdnZESzlWZWZ1TTJXZDJEYnhiMHBKTnR0MU1MekhiaUZEenBWTFNhbENPdzFINnlwaDFqSjQ3WVdQLVlPaTltRE1xVWs?oc=5",
-      "date": "2026-01-18T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Shimla ropeway"
     }
   ],

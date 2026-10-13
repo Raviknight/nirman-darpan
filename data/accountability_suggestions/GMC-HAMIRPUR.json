@@ -1,22 +1,8 @@
 {
-  "updated_at": "2026-10-08T23:37:31.531Z",
+  "updated_at": "2026-10-13T01:03:12.357Z",
   "project_id": "GMC-HAMIRPUR",
-  "count": 4,
+  "count": 3,
   "suggestions": [
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-10-06T00:31:16.497Z",
-      "title": "One Killed, Six Injured As Under-Construction NHAI Bridge Collapses In Himachal Pradesh's Hamirpur District - ETV Bharat",
-      "summary": "Auto-detected from press: \"One Killed, Six Injured As Under-Construction NHAI Bridge Collapses In Himachal Pradesh's Hamirpur District - ETV Bharat\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTnRQUTN0aWFCZjhDdmNvZHFidjBFM3hHOVMtN0poeEpwZGwtcV9nT2dyUDdId3pCZzVDRENFcVpUQWU5OVFMNlRqeE15YmZNTFJCektaY2t3c3lrZmdxZjNFZVBPcWNBdlE3LVRsNTRFYVdhOUxZZTctNTQtaGV2VHNOUE5GMFo4amF0b3BMSzNPSkZXenpjdTg3YWJQc0kyY3FBU25fS21reWF3MXB3UC1mLV95TzAxUlI3YjBXaExNaXlnUmloUkUyZ29nWV85Q1A3Sm84aHVfQWpzc0930gHkAUFVX3lxTE54YmVFQThUWlN2R3huWFgzUGNSNk9CdUdVWUExM0MxcUN4dUVGZVFQZFpNYlY2dElyV2syRjEzdTFfQnBQbS1OSG9hX3ZrX0FGemxXWTVtbm91c2oyQnFKdThIcFB6dzNSSG9xMk52Q2Z5d3ZkMlVnS0FudWhUV2ZCYnBQSVdvMURaeGFlMHI3Qm1oSWxZZEVPdE9YYzdCSkJfZmJSNEVOSGRFZUJUbVI5OTBtSFNZbVFhOTUyMGdFQ21aaFpZMEUtWjFac3dFLUp5YlFnOEUwRkxhUmJ4QzJkWm94Mg?oc=5",
-      "source_name": "ETV Bharat",
-      "lang": "en",
-      "date": "2026-10-02T13:17:55.000Z",
-      "matched_term": "killed"
-    },
     {
       "category": "incident",
       "severity": "high",
@@ -36,14 +22,14 @@
       "severity": "high",
       "kind": "issue",
       "duplicate_of": null,
-      "first_seen": "2026-10-08T23:37:31.531Z",
-      "title": "Himachal: Under-construction four-lane bridge collapses in Hamirpur, workers trapped - Babushahi.com",
-      "summary": "Auto-detected from press: \"Himachal: Under-construction four-lane bridge collapses in Hamirpur, workers trapped - Babushahi.com\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81ZHJPdnJRUWo1amUwb010NXBaOEVWYlI2YTlTcUgzNXd1N0hoS1NUVmZWRjhLTWVmWlhMVEVybXhpbGQyLWxnSEItSFFyQlVMLVZGYjdQbXltYW1xa1E?oc=5",
-      "source_name": "Babushahi.com",
+      "first_seen": "2026-10-06T00:31:16.497Z",
+      "title": "One Killed, Six Injured As Under-Construction NHAI Bridge Collapses In Himachal Pradesh's Hamirpur District - ETV Bharat",
+      "summary": "Auto-detected from press: \"One Killed, Six Injured As Under-Construction NHAI Bridge Collapses In Himachal Pradesh's Hamirpur District - ETV Bharat\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTnRQUTN0aWFCZjhDdmNvZHFidjBFM3hHOVMtN0poeEpwZGwtcV9nT2dyUDdId3pCZzVDRENFcVpUQWU5OVFMNlRqeE15YmZNTFJCektaY2t3c3lrZmdxZjNFZVBPcWNBdlE3LVRsNTRFYVdhOUxZZTctNTQtaGV2VHNOUE5GMFo4amF0b3BMSzNPSkZXenpjdTg3YWJQc0kyY3FBU25fS21reWF3MXB3UC1mLV95TzAxUlI3YjBXaExNaXlnUmloUkUyZ29nWV85Q1A3Sm84aHVfQWpzc0930gHkAUFVX3lxTE54YmVFQThUWlN2R3huWFgzUGNSNk9CdUdVWUExM0MxcUN4dUVGZVFQZFpNYlY2dElyV2syRjEzdTFfQnBQbS1OSG9hX3ZrX0FGemxXWTVtbm91c2oyQnFKdThIcFB6dzNSSG9xMk52Q2Z5d3ZkMlVnS0FudWhUV2ZCYnBQSVdvMURaeGFlMHI3Qm1oSWxZZEVPdE9YYzdCSkJfZmJSNEVOSGRFZUJUbVI5OTBtSFNZbVFhOTUyMGdFQ21aaFpZMEUtWjFac3dFLUp5YlFnOEUwRkxhUmJ4QzJkWm94Mg?oc=5",
+      "source_name": "ETV Bharat",
       "lang": "en",
-      "date": "2026-10-02T12:30:00.000Z",
-      "matched_term": "collapse"
+      "date": "2026-10-02T07:00:00.000Z",
+      "matched_term": "killed"
     },
     {
       "category": "incident",

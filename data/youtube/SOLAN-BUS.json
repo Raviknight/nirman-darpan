@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-08T23:37:53.553Z",
+  "updated_at": "2026-10-13T01:03:35.719Z",
   "project_id": "SOLAN-BUS",
   "query": "\"Solan Old Bus Stand Redevelopment\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 1
+    "comments": 0
   },
   "videos": [
     {
@@ -26,21 +26,13 @@
       "comments": []
     },
     {
-      "videoId": "8TGwawzZJIk",
-      "title": "pranya bus 🚌  bus stand Solan 🚌 #bus #himachal #business",
-      "channel": "pankaj kumar",
-      "published_at": "2025-08-02T08:03:46Z",
+      "videoId": "i1iDdO1bseo",
+      "title": "Old bus stand solan #solan #busstand #hrtc",
+      "channel": "Rohit Kanyal",
+      "published_at": "2024-05-20T04:18:57Z",
       "description": "",
-      "comment_count": 1,
-      "comments": [
-        {
-          "comment_id": "UgwH_jdVJP46ZnQH9rx4AaABAg",
-          "author": "@ghost_gaming-b8f",
-          "text": "❤",
-          "like_count": 0,
-          "published_at": "2025-08-06T01:39:35Z"
-        }
-      ]
+      "comment_count": 0,
+      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

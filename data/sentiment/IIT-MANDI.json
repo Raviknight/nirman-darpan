@@ -1,31 +1,36 @@
 {
-  "updated_at": "2026-10-08T23:37:59.633Z",
+  "updated_at": "2026-10-13T01:03:49.202Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 6,
-    "positive": 1,
-    "neutral": 3,
+    "positive": 2,
+    "neutral": 2,
     "concern": 2,
-    "avg_score": -0.183,
-    "avg_magnitude": 0.317
+    "avg_score": -0.15,
+    "avg_magnitude": 0.35
   },
   "youtube": {
-    "n": 8,
-    "positive": 5,
-    "neutral": 2,
+    "n": 25,
+    "positive": 20,
+    "neutral": 4,
     "concern": 1,
-    "avg_score": 0.225,
-    "avg_magnitude": 0.8
+    "avg_score": 0.36,
+    "avg_magnitude": 0.632
   },
   "overall": {
-    "n": 14,
-    "positive": 6,
-    "neutral": 5,
+    "n": 31,
+    "positive": 22,
+    "neutral": 6,
     "concern": 3,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.593
+    "avg_score": 0.261,
+    "avg_magnitude": 0.577
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Best iit campus in my opinion..iit Guwahati and roorkee",
+      "score": 0.9
+    },
     {
       "source": "youtube",
       "title": "I start my jee journey every day by seeing this video at dawn. \nThank you so much for giving us the ultimate motivation ",
@@ -33,14 +38,8 @@
     },
     {
       "source": "youtube",
-      "title": "literally whenever i feel like, ugh i should sleep or i should scroll some reels but then i watch this video n it gives ",
-      "score": 0.6
-    },
-    {
-      "source": "press",
-      "title": "IIT मंडी के स्टाफ सहित कई लोगों से 10 करोड़ की ठगी, 10 प्रतिशत रिटर्न का झांसा देकर पैसा ऐंठ नेपाल भागा शातिर - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNk1idUhuUEZQZ2p5R1J1ZF9vQ3VfWGs4d2lLbXE5cERNWXcwZlpHUGQyTmV4aTN3d1NTd0JXWE5mSFB3RWdGLVI3QUZfeVozM1ViLVpFNzEyV09uRXJYbHZySGRCUkZvLVVubkJDYjNoRTM4ekRTU0xhdG1nOE15RmZXVGsyWGRNbF9EZHpIN0pteXRCRzlzVmNvNlk3QmdIVWhObmVmOFpCQjl0NVJra2htWnFBMGIzdV9LNzZZWQ?oc=5",
-      "score": 0.4
+      "title": "India ka sabse beautiful IIT  IITGuwahati hein 🔥🔥🔥❤️‍🔥",
+      "score": 0.7
     }
   ],
   "top_concern": [

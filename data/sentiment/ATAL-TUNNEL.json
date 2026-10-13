@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T23:37:57.229Z",
+  "updated_at": "2026-10-13T01:03:44.411Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
     "n": 0,
@@ -10,53 +10,53 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 19,
-    "positive": 14,
-    "neutral": 5,
-    "concern": 0,
-    "avg_score": 0.384,
-    "avg_magnitude": 0.879
+    "n": 38,
+    "positive": 23,
+    "neutral": 13,
+    "concern": 2,
+    "avg_score": 0.353,
+    "avg_magnitude": 0.626
   },
   "overall": {
-    "n": 19,
-    "positive": 14,
-    "neutral": 5,
-    "concern": 0,
-    "avg_score": 0.384,
-    "avg_magnitude": 0.879
+    "n": 38,
+    "positive": 23,
+    "neutral": 13,
+    "concern": 2,
+    "avg_score": 0.353,
+    "avg_magnitude": 0.626
   },
   "top_positive": [
     {
       "source": "youtube",
+      "title": "your voice nd the way you explain are amazing",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "You my friend can't Thank You enough for the information. Thank you!",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
       "title": "God bless you and best of luck 🙏🏼🙏🏼😇😇🌻🌻🌷🌷❤❤and thank you dear sir for watching to this most beautiful atal tun",
       "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Love this video.very informative.",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Very informative...to the point narration...👍\n Thanks Himbus... Love your channel.. So much of information..❤\nNow touri",
-      "score": 0.7
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Bhaiya Ham cal hi atal tunnel main gaye hain kyunki Ham cal Rohtang pass ja rahe the na aur ab Aaj Ham apne ghar ja rahe",
+      "title": "In october there will be no snow in manali in any spot",
+      "score": -0.6
+    },
+    {
+      "source": "youtube",
+      "title": "Where is the snow now in solang? It's mid December now",
+      "score": -0.2
+    },
+    {
+      "source": "youtube",
+      "title": "Vlogs in which month is this",
       "score": -0.1
-    },
-    {
-      "source": "youtube",
-      "title": "Mai last year gyi thi yha bhut khubsurat h ye🤗🤗🤗🤗🥰🥰🥰🥰",
-      "score": 0
-    },
-    {
-      "source": "youtube",
-      "title": "Dogeesh 🐕🐕 also present in vlog",
-      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

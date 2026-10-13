@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-10-08T23:36:22.851Z",
+  "updated_at": "2026-10-13T01:02:03.789Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
-    "press": 301,
+    "press": 290,
     "gov": 0,
-    "en": 142,
-    "hi": 159,
-    "total": 301
+    "en": 141,
+    "hi": 149,
+    "total": 290
   },
   "mentions": [
-    {
-      "title": "किसानों ने चंडीगढ़-मनाली हाईवे पर लगाया जाम: हाईब्रिड धान पर कटौती के विरोध में धरना; रोपड़ में दोनों तरफ व... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTU5sb3Btc1lJR2V5eUhuYWdFclN4TzJaTDBSbTF3ajgtdGQ3aWJhdGJMTEVoeUcwYTFrTlRhNm0yTUFvaHRlVkpVQXlPN05KUU1scnl6ckIxMzEwZC00SllZNGp1MEk1OTZVcEtSOUFYczNpYTNMbF9QU2pDVTU3dFljdWY4VHY5ZTBKcVFhbmNGN2NjNFNEeVk0UE1WYThGenUxWEp4Tm8zNmFvajdqc3l3TzQzUzJ5N0R2VGNEMDhobzJ0SXfSAcsBQVVfeXFMTVNqQjh5TkwtUzI0ekZzbEY0V3RYQnNtNU80M1Jyd0NXUHM4cTZKZ016bXpoOE1Na3U1cnA5RDdoZWFITHc3M1NCVnJxMzRMVU9DTWwxdlpoRGVCTkp0Y1RfWnA0RUJfZDhjQnpfdnM0c2U0NFRhdTZhVmhSa1UyVDVSc2lFV2hncmR0a0hnbDhQM0xnZXhxeElMYmdEc1ZpWF9Ua3QzUnQ5QVpFbThCdVA4SmMzNXNKX2VxNC1pT2ZLNGdYdXV2NjdBUjA?oc=5",
-      "date": "2026-10-08T21:45:42.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chandigarh Manali highway"
-    },
     {
       "title": "Farmers block Chandigarh-Manali Highway over Paddy procurement deductions - Punjab Newsline",
       "source": "Punjab Newsline",
@@ -35,6 +25,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1BybFdxdERFZ3J0Y2daS0IzVFhkLUhCaFVXWFROaWNycUs0RVp1UEhfV0h3b2cwSXRYUnlYWkZxQkJCRkRqUWdMUUZMcGlaYUZWRzBTWlhOWUhnbmd4YWpLbFBMNjhyaEUyUEFkVXFTSVpNZ2k4LVFqbzdUZllKMVRzMVFJbEh6ZjJONHZpS01LSk4wNmI4OUhYNHJBcWhCcDFickVzdzdJcXVpLU4yanJpbw?oc=5",
       "date": "2026-10-06T09:47:48.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "किसानों ने चंडीगढ़-मनाली हाईवे पर लगाया जाम: हाईब्रिड धान पर कटौती के विरोध में धरना; रोपड़ में दोनों तरफ व... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTU5sb3Btc1lJR2V5eUhuYWdFclN4TzJaTDBSbTF3ajgtdGQ3aWJhdGJMTEVoeUcwYTFrTlRhNm0yTUFvaHRlVkpVQXlPN05KUU1scnl6ckIxMzEwZC00SllZNGp1MEk1OTZVcEtSOUFYczNpYTNMbF9QU2pDVTU3dFljdWY4VHY5ZTBKcVFhbmNGN2NjNFNEeVk0UE1WYThGenUxWEp4Tm8zNmFvajdqc3l3TzQzUzJ5N0R2VGNEMDhobzJ0SXfSAcsBQVVfeXFMTVNqQjh5TkwtUzI0ekZzbEY0V3RYQnNtNU80M1Jyd0NXUHM4cTZKZ016bXpoOE1Na3U1cnA5RDdoZWFITHc3M1NCVnJxMzRMVU9DTWwxdlpoRGVCTkp0Y1RfWnA0RUJfZDhjQnpfdnM0c2U0NFRhdTZhVmhSa1UyVDVSc2lFV2hncmR0a0hnbDhQM0xnZXhxeElMYmdEc1ZpWF9Ua3QzUnQ5QVpFbThCdVA4SmMzNXNKX2VxNC1pT2ZLNGdYdXV2NjdBUjA?oc=5",
+      "date": "2026-10-06T09:23:36.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"

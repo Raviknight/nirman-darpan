@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-08T23:38:01.474Z",
+  "updated_at": "2026-10-13T01:03:53.997Z",
   "project_id": "AIMSS-CHAMIYANA",
   "press": {
-    "n": 13,
+    "n": 12,
     "positive": 9,
     "neutral": 3,
-    "concern": 1,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.308
+    "concern": 0,
+    "avg_score": 0.292,
+    "avg_magnitude": 0.325
   },
   "youtube": {
     "n": 0,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 13,
+    "n": 12,
     "positive": 9,
     "neutral": 3,
-    "concern": 1,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.308
+    "concern": 0,
+    "avg_score": 0.292,
+    "avg_magnitude": 0.325
   },
   "top_positive": [
     {
@@ -34,23 +34,23 @@
     },
     {
       "source": "press",
-      "title": "शिमला के चमियाणा अस्पताल में ऑनलाइन बनेगी OPD पर्ची, अब नहीं आना पड़ेगा जल्दी; बेहद आसान रहेगा प्रोसेस - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHllVzVKb01XRFEzYk1fRUdNd01RWjNDbTFId2tRWFpwS1pmUktqZVk1cXJ4ZnFOR3lMQ3ZxT3VKYkdGOGRkazB2N2NEWUFPNVlqanRvSjItVl95MktzQjZCRVZIcXlzaTdFNDE1V1B4VzMwdXVMZ09tRGtscHpmVk5iWEdteVpRZzhOZWZSU1NsZDM2NmQ3QkNUbmlWaXVTTUZSMTN4YVhFN1M4VU9Eeg?oc=5",
-      "score": 0.4
+      "title": "अस्पताल पहुंचे मरीज का उसी दिन होगा MRI और सीटी स्कैन, CM सुक्खू ने चमियाणा में 3-टेस्ला मशीन का शुभारंभ किया - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNV9ic04zR09qY0d6TzBzcmxMeFRpVXRzSHRJVHNyLVdDNUJEMHprUVBxOXVJczBMODllajBzNk5LaWR2ODdpUTJrNjhGNV9ac0Q5RUpHaXdvZkpoa2tBdHQxTlktSDVYR3U1aU1hSTdtczFvQ2hnRm94MTVaTVY1eGV6RS1JYndXVVJvYWxqYXV2RnlWLUEweDR5ZEt3elN6RFJGTW5GdWkyTzBfQVpOUDMxTkYzUQ?oc=5",
+      "score": 0.5
     },
     {
       "source": "press",
-      "title": "OPD Schedule: शिमला IGMC व चमियाणा में सोमवार को मिलेंगी विशेषज्ञों की सेवाएं, सोलन में ये डॉक्टर मिलेंगे - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZldiSnZ0QmVyYmxmaVRKOWtsbGIxaDhxalRnNnBxME1ob0NrX29la3MxTVI4bmRIMkhWU3Q4dlpuQVhQd3BIbV85NDlnLXpZSUtsZjZZYjZXNDgzYXFwdDZtZ1otY1V6b0EzTkRpaWF3LVNOWEdxd2NOQ01YV0xfVVZQMHZDbHUtUGQwRWZnc2pHbE1UWmFmMFoyaWVnZ2NlVDUwVWhWeE5wT0FFLUdrUmhrN1JHUk1zRkww?oc=5",
+      "title": "शिमला के चमियाणा अस्पताल में ऑनलाइन बनेगी OPD पर्ची, अब नहीं आना पड़ेगा जल्दी; बेहद आसान रहेगा प्रोसेस - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHllVzVKb01XRFEzYk1fRUdNd01RWjNDbTFId2tRWFpwS1pmUktqZVk1cXJ4ZnFOR3lMQ3ZxT3VKYkdGOGRkazB2N2NEWUFPNVlqanRvSjItVl95MktzQjZCRVZIcXlzaTdFNDE1V1B4VzMwdXVMZ09tRGtscHpmVk5iWEdteVpRZzhOZWZSU1NsZDM2NmQ3QkNUbmlWaXVTTUZSMTN4YVhFN1M4VU9Eeg?oc=5",
       "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "हिमाचल के सरकारी अस्पताल में मरीज को आयुष्मान कार्ड पर नहीं मिला पेसमेकर, बिना सुविधा दिए 75 हजार का खर्च दिखाया - himachal patient denied pacemaker on ayushman card false billing - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMW9KdHYtc21MdC1pbzNxbEE0YjVqM3YzZkpFTUJGMGt5YWFJbmJKam55NTRzTURWWTRpSkYzc2hmV3pfQ0doV1VZZWtFYldiM3BmRXY4VXgzWnNKUzI3QVo3ZUh6WmloeFJuZTdzdkd3VnVEWnVUYWU2a3ZCdWprdWxnclFzRk5CVnJqZUdtMzk0Ym5pQWJMd0ZuNUE3Q3VjN3dPSm1JWDhVQUp1LV9COGhMZC1aS3NvenZOenZfTUZMaDg?oc=5",
-      "score": -0.5
+      "title": "Dialysis facility launched at Chamiyana hospital - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEZGNHFSOUM5SFhBSFdZRnozOFpaSjI4MV85M01PUTJSc00tX3dJaHVOWVJBZ01wYzJUSzFNc1QtanltM2NkVHhfYXVwaDVRSlctVXBWa1ZFbUJpa1ZKNWRjUUZGb1BOYThsRmFPY3d6V0J4V3N2M21uWGdLYXU0bXZnR1pFZFFuQnB4WGNRRlBqUnlRaHlr0gGbAUFVX3lxTFA2eThtRlFKV3RUazZ5cUNIeVJmSGVuVTVkeFpLRDFvb0YtYThTOVN5Z2dNMmRWWkEzZnJDbDlYNm9kZ3laTUtaRWh2R3oyVC1DV3JGNXVsejNXN3RoRzBfTWhuRWNRUlRmeXBaZV96VmdPMlE2SjRaSm5zeEJTbHNEcGRQejlSRy0ybGdGVDJCRnNfbW94YWR4NmdV?oc=5",
+      "score": 0
     },
     {
       "source": "press",

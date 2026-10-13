@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-10-08T23:36:40.453Z",
+  "updated_at": "2026-10-13T01:02:21.362Z",
   "project_id": "IIT-MANDI",
   "counts": {
-    "press": 279,
+    "press": 273,
     "gov": 0,
     "en": 162,
-    "hi": 117,
-    "total": 279
+    "hi": 111,
+    "total": 273
   },
   "mentions": [
+    {
+      "title": "आईआईटी मंडी की नई तकनीक: खोपड़ी के एक्सरे और तस्वीर से चेहरा तलाशेगा एआई मॉडल - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFEySHB1YnZRdnhRVlg1SmdyOUI3bXUtanJDOVMzZzQwS3pxZUtNTk13SFp5dnhwNV9tdHQwUHVoQkl2X0ZtYjdlM2Y1UWRUMVlSdzBVblpqYWwzNTV1YWN2SWtCRXczeFV0TC1iZGhiWDhNd0JfVDJrUTZCS2ZiUjUta25vMjdzMEQ1cXU3MmJ3bVlEY3B6Yk90dzRrT0RPOEZJMU95S2Ffalg1U2VBUDAzaGFxdGM5eXdfdl9JdkVUSWtRX0Q1dnlDRkbSAdIBQVVfeXFMTzhrOGJrckItVlhJaEJDN2g4T0xKZ0JWa0ZUZ3ZNQl9WRTJIWjNHejNmM00zektqTU5WdVpvWjV1SUI1dDdRVy1HTjNfQ3FLZng1cXpmYklPLU1xWnZhME5JejNCTWNtSGc2R3d6aUVUOVpVdURyX3F2SF9mdFljWEJsUl84VW9RZ3JDNzRBODZ0ZFZ3UXBmWEtjOTVkQUItYTJsNnpPM0lNZHJuTUtNVWNHTnMtRmc4a3JMek5kVGxPbkdmeDh0T1FaRWhDZkRVcW13?oc=5",
+      "date": "2026-10-10T00:01:15.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
     {
       "title": "उत्तराखंड: मेडिकल के छात्रों को इंजीनियरिंग की ज्वाइंट पीएचडी डिग्री मिलेगी, एचएनबी ने दो आईआईटी से किया करार - Amar Ujala",
       "source": "Amar Ujala",
@@ -50,21 +60,11 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "ऑनलाइन गेमिंग में पैसे गंवाए तो लुटेरा बन गया IIT मंडी का पूर्व छात्र, NIT हमीरपुर के हॉस्टलों में करने लगा... - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ1lKSmc1dnpGaUhYYW5XdTVwMGRUeTVNM3JIWkNNQzZidEt1WGhGOWxab0FNd2Y0b05xNEVTNGREaklQY2dNcmdsRFhyMGxrcDcwQ0h1bklkTldNX1ZHaldudXZaWG1qbUw0SDZSRmxLVm1wU2lyOW9NYkUta25uczBfUW5hd3dZaEFGTU1MVnloalUwZ2V3d1l6SjdxSnRmSEpTanQyQ2ZPdDJEazFxa1VLNVJXTjBGMDRBdUVsSVVTRmVFYktGdTJkVmhMeGxxWTdUcUV4WWRMcTBUaTFTTVRPU2fSAeoBQVVfeXFMTTl6WENQLTZEN3lqZmtvV0pxUlFfUU9vcDF4a1BveUpKT0c4cDdtTWFnZzduMTRsNW85VmhENVlLcDdNREVKWXV1Wm5wcTE2VlQySzVHRVRTQi1hNXlnc3Z2N1E2UUVNaHF0aUNWSnowcXJ1OFVUVnVFc2hEX0RrWm5BRWRRNDA2eno3V3F6c2RpUk5zbnVGRkpSMUpwNVpSMmQ0UGR6S0cxVWJLbXRHRTlyRHpnTVpSaTliZjlwYXdkT2dVcmthRXlWTmx0cDUtbFVsaFBsaVB6ZHBtQVZIY1puSXRHSENsX1Fn?oc=5",
-      "date": "2026-10-01T03:32:53.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "NIT हमीरपुर के हॉस्टल में घुस गया युवक, कैश, मोबाइल व लैपटॉप चुराए; जेब से निकला IIT मंडी का आई कार्ड - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2FlWERLdEZVYTJVcjhzdEhkdGkxUHRwQlBFUGZJTmdhZDl4RGRoeDczMmFTNVdneTBSMDctcGh2MjZGYVNJOUtRSkp6am16c1cwSVdDNnZOVWtyQUhmZ2NmaU5YWERTeUdtUnZnLUVpdVZVUGxjbGFBamdiMTZtb0syOHFOOVpJVTFhdXY1Tm42RVFQcEh1YkRpaXlLeVZibjF3bVdHRnpyMm9Wdm5DYXNwTUhOckN1QVE0NXpn?oc=5",
-      "date": "2026-09-30T06:03:00.000Z",
+      "date": "2026-09-30T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "IIT Mandi"
@@ -104,16 +104,6 @@
       "source": "The Tribune",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZUJ0RTBva0d1SUZ6NzZ4eThxTzVOc1hTYXpSOEJNc0FhTHBrcVk5VmxfdV8zVXlmMkVnVDQzQm5SWUVES3A1Q2xXM28yTnVrX0p1VkFwVUxGeWgwVTRqZWsyWXBid3lEWm9MSE1QTG03YXFrSnZPUFA1OVhidndUZVg2dUZqOXgwXzdmOUZXVzA0UUdNTFcyYlIySzdlWW9BMVl3OUNwWTFlNUFo0gGwAUFVX3lxTE5ETFBUQ2ZZclJnT2ltUlBja2xGSnUweWdra0J2QnM1dnpKTk13QTJXSFpyUHpmekhBUlBoX0VxZGoySnVCdXo0WHRPTDVFeTlubm1VY1dJdVJ4b3ZiNUhrVXNWZGF5akdmZDl6RWZaZDRiS1RFVE1PMlltYlAzUFpPa2drWFh5RVNHVjg2YWU2Nk9mLWVOVjF4NmVSeUphTXRZa0I5UWFydGJtWUQ2YmxS?oc=5",
-      "date": "2026-09-22T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT Mandi Launches Free of Cost AI Tool “WatershedAI” To Assess River Basin Climate Future Within Minutes In 19 Languages - Cityairnews",
-      "source": "Cityairnews",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQczM1aG84YkdWWU9ycW1QYUNXWmd0TDI5MVA0TnZEUWFPSE1OT0JjQjZweHJqSFJtZVNWbmNqZ2FZU25QamI0NWNIUG1PQ1FtQWUycmt1UDJVNW5fVV9aYmlOT0tHblU2d3RMQS02aUtBNEdSSmRjdEZIM2xpc2hMN2RMSkIwVDk1N3ctQmJpdFhqMUZVdEZMeURicTRmdi1qSGNjd0FPUFJhTEdqTWlreXVuclRWSDJGV3JDbnNrRTdXT2NBbmFQajZwN0xNZGd1UUJkS21MWlhaQ29MeEZvdGFVUlR2ZFNkTlBV?oc=5",
       "date": "2026-09-22T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -190,6 +180,16 @@
       "match": "IIT Mandi"
     },
     {
+      "title": "Poster controversy: Probe panel at IIT Mandi recommends counselling, sensitisation of students | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOREpRLTd6aW5Yd3o5aFh3NFg5akdUdkpMZnpnYzV6TWhxeEtsVkoxTzJVLUdXSFg4OHJHbDU2QUF1YnpiZVVaaUtoS0VIUkdvMmlWSnRIZk1sR21MN2pmTUlybjQ3Ry1YbzBPLTExWmhGR2VZUy1uNllZN1JHTms2d3NXdVpVb0tFeFU3UTZSLWhrSi1rUDRPVHkwc081QXlDSGNSeVRWNTEyMnBXVDNxUnNHMFRpVWcyenhFOW5hMEtzWGVpTXhSeEVPUExWUDhLTGptbXRfMFd4Q2NLdFhSQmE3ZWd5UUZMVlF6Y2lxaHpqUzQ5Qlk4TnlkNNIBgAJBVV95cUxOeTRoNTNaVGZiVjlfVVNrMFRYNVNDdndOM3BDVEdYblFUd0ZtdTVRazZNd1A5UWlLNVdlWFFBdFV4WWQ2N19CRzZhVmtGd3Jqc3BmdEl5emRHdVVyWHBiTjM2Y2Fwd2FZSkpGaVVYWUZUcElnYXJ6SUlMbTdvcFk4UjdJa3lPclhaQXE0d01hVzJKMW1QeDZkcUg4dkxXc1A1dDBvWEFhVEppSmFfbk1BTHhidXJCV3RtN20tSzY5WUhSN2Q3RWN3OFZwUG9HN18ydVgyb1p3OGd0T3pfRmFDbWE1UjlIdjU2ZzBiUjlvOWw5bHB0eVd6WGF5RHh2c3Va?oc=5",
+      "date": "2026-09-13T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
       "title": "IIT-Mandi regrets controversy over Janmashtami poster; says content did not represent its views - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -200,13 +200,13 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "Poster controversy: Probe panel at IIT Mandi recommends counselling, sensitisation of students | Hindustan Times - Hindustan Times",
-      "source": "Hindustan Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOREpRLTd6aW5Yd3o5aFh3NFg5akdUdkpMZnpnYzV6TWhxeEtsVkoxTzJVLUdXSFg4OHJHbDU2QUF1YnpiZVVaaUtoS0VIUkdvMmlWSnRIZk1sR21MN2pmTUlybjQ3Ry1YbzBPLTExWmhGR2VZUy1uNllZN1JHTms2d3NXdVpVb0tFeFU3UTZSLWhrSi1rUDRPVHkwc081QXlDSGNSeVRWNTEyMnBXVDNxUnNHMFRpVWcyenhFOW5hMEtzWGVpTXhSeEVPUExWUDhLTGptbXRfMFd4Q2NLdFhSQmE3ZWd5UUZMVlF6Y2lxaHpqUzQ5Qlk4TnlkNNIBgAJBVV95cUxOeTRoNTNaVGZiVjlfVVNrMFRYNVNDdndOM3BDVEdYblFUd0ZtdTVRazZNd1A5UWlLNVdlWFFBdFV4WWQ2N19CRzZhVmtGd3Jqc3BmdEl5emRHdVVyWHBiTjM2Y2Fwd2FZSkpGaVVYWUZUcElnYXJ6SUlMbTdvcFk4UjdJa3lPclhaQXE0d01hVzJKMW1QeDZkcUg4dkxXc1A1dDBvWEFhVEppSmFfbk1BTHhidXJCV3RtN20tSzY5WUhSN2Q3RWN3OFZwUG9HN18ydVgyb1p3OGd0T3pfRmFDbWE1UjlIdjU2ZzBiUjlvOWw5bHB0eVd6WGF5RHh2c3Va?oc=5",
+      "title": "हिमाचल प्रदेश: मशीन लर्निंग से होगी भूस्खलन की सटीक भविष्यवाणी, आईआईटी मंडी ने तैयार किया नया सिस्टम - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjZEYTRSQkFWMUJOdENvNmtUdjdJUTRXZW5MZ3QxbVpxeGV4cWN5d2FHOG1NWmZOQmxMWHg5SUxLb1JVcERpdWgxZVlpZGtxOXpqUm5sMmI4dEhhSHVJbU9fX1gxUUUzbG9ROWozWVdPMF92UUZseVowWGpGWVVaQ1Z6QzNpM1JOZFRoeHJHN3FZWVR5bHlBTEYwTXZoZHpRYWQ4R1dEZDZYWGlNWGw4N21UWDZmRGk0M0lTQk5HT3HSAcYBQVVfeXFMTnZnVmI1OU16YnRDVjl5ZnNpSEFxZXdKeF9qU0VnVHNSOTBudHNKVlhZaVFlTnB3NjVobXBlbjBqQWVvaEdBT0dJczk0Zy1hcEpGOThMUnhnVnNXY1VsaGpoN1RNeXpTX3gxRjFPR0pQOVlVWGktMy14Ym5Nbm84TVRKaERNcHV6VEp5aE5EaEFTNVhKQkhlaVViODNfWDNZZTR5Ri1FRmxBTFNGbVpYRVlvSkUtcWRoS1hYU2JjUkhldjhjcGF3?oc=5",
       "date": "2026-09-13T07:00:00.000Z",
       "kind": "press",
-      "lang": "en",
+      "lang": "hi",
       "match": "IIT Mandi"
     }
   ],

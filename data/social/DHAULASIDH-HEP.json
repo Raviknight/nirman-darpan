@@ -1,22 +1,42 @@
 {
-  "updated_at": "2026-10-08T23:36:50.138Z",
+  "updated_at": "2026-10-13T01:02:31.154Z",
   "project_id": "DHAULASIDH-HEP",
   "counts": {
-    "press": 45,
+    "press": 48,
     "gov": 0,
     "en": 33,
-    "hi": 12,
-    "total": 45
+    "hi": 15,
+    "total": 48
   },
   "mentions": [
     {
-      "title": "धौलासिद्ध प्रोजेक्ट: सुक्खू सरकार कोर्ट में दाखिल करेगी शपथ पत्र - Khabargaon",
-      "source": "Khabargaon",
+      "title": "Hamirpur (Himachal) News: धौलासिद्ध हाइड्रो प्रोजेक्ट में सीटू का प्रदर्शन, मुख्य चुनाव आयुक्त का पुतला फूंका - Amar Ujala",
+      "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQUsxQ2QtbFBwVHZ0T044cDllZjdUOVRhSjFOb3lETlgyMTB4dzRiS1EwQVFJQ2ZjMDVqTUVGZlJHd1BoUlhuN01VYllvYkVxOUFjZ2xUbFFFYjhsZmVNN2E5N1Bka2lOZ3NCY1lDSmp1OGI4SnhrdFRDX2t5LXlxNmJodERkcWRNa3BGcDU2amRUd2NMcDNxOVJxdkpyLVBHQmJMSDlDam9EMHZBZm5laXk5VWROUdIBwgFBVV95cUxPNTFRb1AxT29kMzl5aEl0OEVmTkcxZXhuNWc5cXlUZm0tc2RsOE9XZGUyVE8xblMwRjBBekFqRC1LemdpaFZLMjNpWWNzN3VJY2VwRkFUOWNRLUR6ZGt2X3Awa29hV2pBUXBFNE5jOTA5RTdkNXpmUE5jNVRma1NJNVp3UnJJN0NnWWF1UXdQb0pUR2VTUHhLRWFsRGxxcTYwRmhRM3lYWExPNllmOWNvdWR0dkJrS0h0MEEtMURlMjZuQQ?oc=5",
-      "date": "2026-10-01T06:36:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNd1R2TU5vOEE5RkxrQ3JLNnVQSnJKOEtzYU05WUdCeWFUMllNaEFXZEQzS0ZWN1c2TW9RQ0U2SU4ycHhibzRmQTBIYnVsV1ozdm9nU2w0aTJPeHI3Y2pnZXVhWXlTWVQzemF4d04tV1FydW1VRnVqOGFQSVNOaUl5VmFwbUdYTDJSVmk1Mi15Q2NLMmNuSDMxNmYtUjNST3llTEtpXzk0ZWo5WmxBYVA5U1daMkZCMUJtSEl0SkVyUHNROGh6QTNYSXdvSWxYZEsxcElZZTNfc0VPUWtWNi11Q05jNlFBVVljS25CVktDVWNmeDFPY2pkVE8taWp1VklmOHdZcjVQY1h1RTh0elNxck9BeDJfejl4S0c5SHNR0gGeAkFVX3lxTE13VHZNTm84QTlGTGtDcks2dVBKcko4S3NhTTlZR0J5YVQyWU1oQVdkRDNLRlY3VzZNb1FDRTZJTjJweGJvNGZBMEhidWxXWjN2b2dTbDRpMk94cjdjamdldWFZeVNZVDN6YXh3Ti1XUXJ1bVVGdWo4YVBJU05pSXlWYXBtR1hMMlJWaTUyLXlDY0syY25IMzE2Zi1SM1JPeWVMS2lfOTRlajlabEFhUDlTV1oyRkIxQm1ISXRKRXJQc1E4aHpBM1hJd29JbFhkSzFwSVllM19zRU9Ra1Y2LXVDTmM2UUFVWWNLbkJWS0NVY2Z4MU9jamRUTy1panVWSWY4d1lyNVBjWHVFOHR6U3FyT0F4Ml96OXhLRzlIc1E?oc=5",
+      "date": "2026-10-10T20:13:57.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "हमीरपुर:धौलासिद्ध में सीटू ने फूंका मुख्य चुनाव आयुक्त का पुतला - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGtIZ1RIdnpsdjRJUk55S3B2MnV3SF9rTVZGWUNBZHpvRE5zUUF3TjFWR2R3OEJCWHY0Y3JuMTQyaUtuTFU4YkpPU2V3N282aDFjZ1BldjVKanJPLTVoS1kwUWt4Zk9Pclk5QjVZdzd0OEo5UmNQdjNwNWlqU1dHNWQ4RzNCdmhzaC1WUEM4NGRVZnpFZzF4STJOVHVNZTJHRnZacVp0dEpXeVM3ZTMwckdtanBOY0RyRVcyZEVxSURlQ0JXd21CU2Q5WDJBTEIyUDFFRWJ2V0loVklVUmdhVm02a9IB6AFBVV95cUxPc094UkNqc3AzdzFNeHBWbi10SlJUck5Pdzh0dDVKTUJIckJQOHQtcGxQY3dfZkh3bkdRa1A1N1hwVzlwYmJFNHkyMHltZm5hVzdPWDMzU3ViZHQtZlJuR1FJUVp3bWl5MzFvRVBmYzJJTk9CTGhBeEhJOEZka1M3UnBrYlJhc0c5ZTVSaXBlS1dQT2xKRU1SZUZWRFUzTlRwLTlnM3REOXNhczVKa2xXN2RJejZZU1VkT1Z3bGhFcmFxaFlXNENUbFJVSmwzZ29YRTJhbnRaVVljdE9NaGtxV28wc29wa0Fj?oc=5",
+      "date": "2026-10-10T11:45:37.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "Himachal Govt moves to take over Dhaulasidh project - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0hMbDE1UXpjY3lONzFCZHd6RWlBWmgtRmlEXy1nNWdvRnlIa0doUHNqWkVpVlhBaV9pNWxKLXZTWVB0eE82RzRya0UzdjN1WndUam92eFVWY3N2bjRvSzRwYWtHSmJUNTI5S3JRZVdhSng3bkhkUGgzb3hFSjM3TF9rUnJWYnFZZnQ0Zjh2YmJMeG5aSlJzeG1kONIBnwFBVV95cUxQVENyalMteV9nZ0VrVTVoQmEtbGxwcHY2Q2Fsalk5ajJDRW5RRlhRaklCQ0xvVUdYdXRPczJ3QjRlX2JwM0w0cUVIRFhUTzU5LTQ0UmJXWUFfRG1ZTDlzMEF2TVprNndkYzJtbDZMVEZ5NHhEbktoV3ZkdkFiLXN2WEpTMm5xaFZJbGVHc0Z4RTYxclRXNHRYdGUwZUgwNTA?oc=5",
+      "date": "2026-10-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Dhaulasidh"
     },
     {
@@ -35,16 +55,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDI2cDFEUzRBT3FSVmkwVHIwU28tY0cyNTdQU0VaYXZveDZKSndQcDRoQXh1LXEyalJTb2IzT2JXSVZndlFCazFYNy1iOEhaa3NsY3ItNzRPMjBKelVqWTVJZXJSbW05ci1UOHFMQ3UyZmJ0LWJKOFBWWkFfY3lWSlBVQlFhX1BwSWVYSnB6bXJyZnVHRk42NVFVZDBLVTVCbENiSG530gGqAUFVX3lxTFBham9PMWI0Z3p2amY4SGpKWFVQaUxTMnVNX3VTSElHRjc0SzhlTTgwVlpERkczaFpSQXg4SVFQZl83ZWE0WUZSQ2JObEpMVm1rMnJMX3NUck9faThib29CbEFkbkJ6MXQ4M0lOd0lNdl8wcFNZZGdfWE5lS0xhYTNpa2oxOUs2Q2NSTm00ZEJrTWo0UUhsbEpraG4tYkNNOWZmZmliR3AtWUZR?oc=5",
       "date": "2026-09-30T22:30:10.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "Himachal Govt moves to take over Dhaulasidh project - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0hMbDE1UXpjY3lONzFCZHd6RWlBWmgtRmlEXy1nNWdvRnlIa0doUHNqWkVpVlhBaV9pNWxKLXZTWVB0eE82RzRya0UzdjN1WndUam92eFVWY3N2bjRvSzRwYWtHSmJUNTI5S3JRZVdhSng3bkhkUGgzb3hFSjM3TF9rUnJWYnFZZnQ0Zjh2YmJMeG5aSlJzeG1kONIBnwFBVV95cUxQVENyalMteV9nZ0VrVTVoQmEtbGxwcHY2Q2Fsalk5ajJDRW5RRlhRaklCQ0xvVUdYdXRPczJ3QjRlX2JwM0w0cUVIRFhUTzU5LTQ0UmJXWUFfRG1ZTDlzMEF2TVprNndkYzJtbDZMVEZ5NHhEbktoV3ZkdkFiLXN2WEpTMm5xaFZJbGVHc0Z4RTYxclRXNHRYdGUwZUgwNTA?oc=5",
-      "date": "2026-09-30T19:39:03.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dhaulasidh"
@@ -94,6 +104,16 @@
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaTNfdzhWRmk0M2VSTTBjNDZua3JHZ2VhU0V4Zmd4NERvZllGd0o1SXpqODl3MTVTMHJDZWJMMmZNOXBiWUNCN21xempOc3hiSVlQblRuSGh2eEtQb3huNm1Ub3NMSW9NM0dyczBfODRvS1pRR0Frc0RkQ0pSTVA2Z0tLLXdQWHhpUDBZSHhNd2pkeDhWMFpnOXI1OURTTUpvbm9jTXBybkc0X1VqWVkzSi1yVEdoY2Q4MXZlbmJsT2NYNVRGZ0JYTS1iallEckpIVVpRNmhCRULSAd4BQVVfeXFMUDd6ZTZmcTNOOXV5dmU5QUJhMF9GUE5nY2h5dkxCbzVlR2pjNHh5UlJOWmd2bldBYjVqckJOMGlnb28wRHRpU0RHVFlZME1aSF93ZFZLbmVvNDQ0ay0wYkpiaFpVc0Z5eWdWSDBuTXhwOXYwOGFkY0ptSkpHLUYyMkNmWXowY3lDRmdkbVFUNUNYRGdzcWdCYmpCeDJ3S1BXLUsxUWlYeTk3NXAxQVFDQ25KLXdYOWV5X25pb0xVbHhvaWJHUk9XOXVzTWFWZGVmOWZaWDlBeWRfZXhuT2d3?oc=5",
+      "date": "2026-09-30T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "धौलासिद्ध प्रोजेक्ट: सुक्खू सरकार कोर्ट में दाखिल करेगी शपथ पत्र - Khabargaon",
+      "source": "Khabargaon",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQUsxQ2QtbFBwVHZ0T044cDllZjdUOVRhSjFOb3lETlgyMTB4dzRiS1EwQVFJQ2ZjMDVqTUVGZlJHd1BoUlhuN01VYllvYkVxOUFjZ2xUbFFFYjhsZmVNN2E5N1Bka2lOZ3NCY1lDSmp1OGI4SnhrdFRDX2t5LXlxNmJodERkcWRNa3BGcDU2amRUd2NMcDNxOVJxdkpyLVBHQmJMSDlDam9EMHZBZm5laXk5VWROUdIBwgFBVV95cUxPNTFRb1AxT29kMzl5aEl0OEVmTkcxZXhuNWc5cXlUZm0tc2RsOE9XZGUyVE8xblMwRjBBekFqRC1LemdpaFZLMjNpWWNzN3VJY2VwRkFUOWNRLUR6ZGt2X3Awa29hV2pBUXBFNE5jOTA5RTdkNXpmUE5jNVRma1NJNVp3UnJJN0NnWWF1UXdQb0pUR2VTUHhLRWFsRGxxcTYwRmhRM3lYWExPNllmOWNvdWR0dkJrS0h0MEEtMURlMjZuQQ?oc=5",
       "date": "2026-09-30T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -150,16 +170,6 @@
       "match": "Dhaulasidh"
     },
     {
-      "title": "HP Govt to pay Rs 800 crore to SJVN to take over Dhaulasidh hydropower project: CM Sukhu - PSU Watch",
-      "source": "PSU Watch",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZHFlaDh5NElFVWhGWmZWc1RheXlERzgya1hFLWhTR3BxUENVMkY2M0lub1hxa1dqclhkYlFzUDBGMVdvVGM1WHhyT3BtTTU2UzdYWXlDSzFXSVhtNHkzOXpyTTcwWWhEci1aMDhHa2RTYjY1TEtSbHplMGo5WElybXZvSGpxeVdOc2Y5U05GaWhiWGtJRjB2aDkzN1NrZmpMcFVNR1VBOFQ2bXJRWXh1Z3pabldIUHZlbmpGbFE0c9IBzAFBVV95cUxOeVphTkhqdHA3WE1PWG1aa2ladk9DSDBkTU5ycExqMlFkRE9PLWR3ZVo1bVAxSDRkZ0ZRTFlpckVLekU5cEE5Ni12bmRDd2VPbVdvQWhNclRjRm81Y2FqVUNPTXNxaXF2NlhnaVlBdVZJdXk5OHlfQmdCZTYzZWFPOHFBYTZJME9mekZWWWV0d3hvZFgzWl9NT21rSm80RGgtVGVUT1JPSHgxX255ZE1Oal84UXBjcWJ2Q21IMmhPb2hLckJKbTRNb2pGVkI?oc=5",
-      "date": "2026-09-18T16:19:21.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
       "title": "State govt. to take back Dhaulasidh project by paying Rs 800 crore to SJVNL - Achievements of Atal Medical and Research University",
       "source": "Achievements of Atal Medical and Research University",
       "source_id": "google-news-en",
@@ -170,11 +180,11 @@
       "match": "Dhaulasidh"
     },
     {
-      "title": "SJVN Invites Tender for RCC Blocks at Dhaulasidh Hydro Electric Project - PSU Connect",
+      "title": "SJVN Director (Projects) Reviews Construction Progress of 69.50 MW Dhaulasidh HEP - PSU Connect",
       "source": "PSU Connect",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk96ZHRZaTNvNVZBQ25uUzNDZHYzb2ZCRFp4dE1yYmxtUnJKLVBtdWR1R0FuWXpuUEFZSGVlU0JrMlQzV1lQUGhVaFR4YXNhTUk5VTIxV1FHS25BZnBhd1NOV0NKY1BZaEF2eThTczB6Skd3cnVRY1VyZEdSSlZseUlBOHdEYUFRUXRSU0t5R3l0YmI4TVZlVzVNUWRidVAzbEFCLW9pQ29vdw?oc=5",
-      "date": "2026-08-01T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONDdzOE95U2J2YWpmYkRwZ1MwZGFIVEJOaGZjYnRJcm44T2RFZWg5d1Z5Z2VXclpqWDdTdWdITHo0ZF85RjU5SnlTT3BoYW82eThXWXZQNzhER1k0WFBqRE9ZZFRQdTQ5RWMwdi1sWGhraElzdFpFcnhPek5PQlVyNW85dnBQQWVWRHQ1SThObGpkZExHZTMyeVZCZi0?oc=5",
+      "date": "2026-09-04T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dhaulasidh"
@@ -190,21 +200,11 @@
       "match": "Dhaulasidh"
     },
     {
-      "title": "SJVN signs PPAs with GUVNL for 658 MW green power supply - scanx.trade",
-      "source": "scanx.trade",
+      "title": "CM directs initiation of process to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - The Tribune",
+      "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG5JcDFtRkRQUUJjTVVfZnplaGthempWLXVsaEF4NmlMLWcwc2RLMGFLQzQtbk0ySHBtNzczWTlsaDUxbnMxNGxTcjhxbWxJcVhDbklIX1REZEtFdWYyV3RtZENkZkJEMWxHdVBQSllQS0dyTlB6cDVWTEM5SHpkSG02bVF5NFRlLUJUWHlMWmNMNmNSazJtUXZzM3NlY1RwbHhIbVFWaDdpWG5SeVhQOTlSOWxYR2tqeGY3aw?oc=5",
-      "date": "2026-06-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "SJVN inks 658 MW hydro power PPA with GUVNL - Whalesbook",
-      "source": "Whalesbook",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkh0cGtReWpLZDFDdlllQmU3bDY1RkdFQ3lYOHJ2aE95MGg5REROUmY4Q0ctQ19hWGVPNGVHWVNZNFpOSGthVHJJR0E1U18wQlhLZ01KeTh6azdGY042LTJOTUZyMUV1OW80SjktWUFBLXRNc21meHVJYVd2WGxLRXdfcU1QMi1fVHJRdUVBc1YwZFNsamhObGpHdkpaZGljYVQ0NFlBNlM2VUVkU3hvOTd0VWMyVERBQVd2WGxSX1BpSnc?oc=5",
-      "date": "2026-06-29T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYTBwTXE2clNIbl9KeTNjeVY3TF96NHhhZWF4MlRONGY4dkppbGx2QWVHUTdCZko2TGJoeDdDMGMyRDJwc2hTQXlCRTAzOHlvbWNBRi1HMGNFNHo0SlRwSEhLOUc4aG41cGZtdTc5ZzdSclRralBkT2ZodURzTEZaMFY5ZXNqd0ZETThDUzFuMmstUkp5c3l4NDRSa3BoSmxwRndrLVN4U1Y1X0tncUpnMm01Vnd0NjZtaGw0Y041R2hsclJZVU9kMU1tbUFrZkJVOWfSAdYBQVVfeXFMTktBN3hMMnZJN3pnN3pOS3ZhYU03LV80Tk9Pc0lZVF96RDd6Q1M2T0ZLV3FGRzBaejdvWDJacG5kVG5vV2RXdDloVVJqbEhsNFZXU2hXcDV1eFYwdF84OHRsY0ZJUFVHbFZKa1ZydTQtTDZVeEg0YndLcG1fMlBlRGVHcElhU1RYV2JidmRZSWRYdmoyMDRTSEZ5S2xXUlREUDNUem5qVGpGNEFsQzB1emtxLWo0YXFKT0E1V0c2WlhkS1RSQWlyRXFDbi01d0h6bkhncjdGdw?oc=5",
+      "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dhaulasidh"

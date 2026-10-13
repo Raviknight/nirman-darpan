@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-10-08T23:37:24.262Z",
+  "updated_at": "2026-10-13T01:03:05.294Z",
   "project_id": "GMC-NAHAN",
   "counts": {
-    "press": 121,
+    "press": 104,
     "gov": 0,
     "en": 27,
-    "hi": 94,
-    "total": 121
+    "hi": 77,
+    "total": 104
   },
   "mentions": [
+    {
+      "title": "नाहन मेडिकल कॉलेज में गायनी विभाग पर संकट, OPD में उमड़ रही मरीजों की भीड़ - MBM NEWS",
+      "source": "MBM NEWS",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQc3RhOW9OLU9JMXQ0eG9LM0lhQWVCaU1LUXJjS3FGZjVlOVdtWTZmNFNTVko4RjJLY0ZBR1V3Y0dvSnN2TjNDb0tlcFVXejRGOUdHbTY1bUZGY19sYWJyQTc1YWxDeXk0dXZCLWNPVnZaTGJ1LURCdXpKNElhbWxiY2Y2ak8xQmVyLTBvSkxia29jT0RNdE4wUHEzOWpxUk9LUHprbHItUVc2WG1lQmVGeERETjdrbnRGby1uMkFzYlR2XzFfZFFTUERPY29NNzdsbGlVaUNzVzdKYnh4MWJWcGMtbmdNZXpjMk5jQjBpZ2k3RFgwcmt5SEhZNFdrY0JVLXRYMzhNaTJZTXIyLVRTdXF5ektGTkVPLVg5VkJzZktzNEw5R2dRQ3FFazB3WHNkUFdGd21HVjZocUNVNmVKOVVQNkdDaFd0aWFvR09xSS1FWnZ5YTVicFBONkpPXzcxZEE?oc=5",
+      "date": "2026-10-09T14:46:34.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
     {
       "title": "नाहन मेडिकल कॉलेज के 120 इंटर्न डॉक्टरों का 3 महीने से स्टाइपेंड लंबित, 72 लाख रुपए अटकने का दावा - mbm news network",
       "source": "mbm news network",
@@ -24,7 +34,7 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQWhMRlZIUmRLczlmb0JpZVNsRXpZN0VvR08xVmZmXzNXWHRVSVlWaEhIWUpGajhJNHctNE16MzYwN21VbUt4Mk95ZG5mM0J3YzEtT3RkcUxnNnV4YzZFSjhYYnZTdVNKT291dFhZUTg5Y1RNUDQ4VmFyRDJud2xWQ29FZnRQNTZTVDVmWFlrQVdPdldxTWRuSkNLWUhtNUZCbkxQeHJmaTZubi1BVUY2SDRaYk5PWVdUUlVBeXpWVm1nXzZOVHd6a0x4TmtUZjdrZnpSdDF6eHJBalpqaGtGOEhCNEhaOFJQaUFtLV94Vk1Wb0Y5cWhiWUdtSXFkanh5S2x1S2ZZMXB0YzBBa1FIdjlaWE_SAZoCQVVfeXFMTVhLQVh3ZXFZZGZoM3JXNG9IX21sTno1aWFGV1FQd0NGeGlmdmJOcWZsdUF6WHFfQXRMZTNWNXpzTGFld3FHdllYWE9ZcjRvN2UteERsZ0YzXzlvempNQlBxR3p3US1hSjcydlNma0VENGNWWVJuZzlrWkVKYjJrZXRwVm5zejc3Q091Ync3R0pmWDl3ZzEwelpzZkctWk40QktMM0xvSlVGZDZ4YUx0Z3R0cjdHcTkzWTIwVjN3U2ZzaUFjdVRtVGRaOVBTdnFJTHRrc3lkcHExeEVrOXhSdC1NWlk1bTlLeEQ0b1ZHRnVuZ0FaQy1uaTAwTUp0M0syWVRiZmxiQ2c1dG80cmZSdmhjcm5oX0d4OG1R?oc=5",
-      "date": "2026-09-24T18:32:02.000Z",
+      "date": "2026-09-25T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Nahan medical college"
@@ -80,16 +90,6 @@
       "match": "Sirmaur medical college"
     },
     {
-      "title": "VIDEO: राधाष्टमी पर बरसाना में उमड़ेगा आस्था का सैलाब, डीएम-एसएसपी ने परखी तैयारियां - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdVZULWg1QkREUVRwMGZEOU5JRXQ2RDdDMFVyWmNqZ3pkVWFVaFU2dThjWDVSbDJmcU9JQk9jcllWeE14aDQxZWtQMHMzY3c2Qm15VUtiWmFHanhlLUpGNF95eDR1c3VhYVdiSTZUX1B1UzJDQzExbk1OaG9ZbUhJdmIzN0RnUEx5aEZPVTl6YmY0YzN0SnZZNG9WTWhSSTVCZjV0S1cxbzI1Z3RsQWExUFZxckQtaUotNV9xTmlocFVoV2tkanFGTk13Ukl6TVhXdlIxQ1JyZ9IB3AFBVV95cUxPeWdXRlBBelNlLVpEN1ZodjBPeU5maFZUck1RRl9mYU5Kd1RFb2hRNmNlWmN4a2tsVUJWa3JQVkdNUkg1Sm5IaHplQ3pUOFM1Y0xPeDN2U1VyZUdFc3RzV2ZacW9udlZKYk9HdHE0cE9LT29tZHBDSUhmUnFiS1JzRkJpZmtLeUJsUkhrS1ZjRDNadkxQT3VMdUpxNEF5Z2V2RnM0OFQzZVFxTDdDTjhwSlotUGVldE1BS1FiUlNpblFuU1Z1cWlRNWZ6cFQ4QmlxNElZczE0MU43S3lZ?oc=5",
-      "date": "2026-09-12T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Sirmaur medical college"
-    },
-    {
       "title": "कैथल: ऑपरेशन प्रहार में ट्रैफिक नियम तोड़ने वालों पर शिकंजा, चार दिन में 985 चालान - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -98,6 +98,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Sirmaur medical college"
+    },
+    {
+      "title": "Lalitpur News: सीएचसी पर नहीं, मेडिकल कॉलेज में होगा स्वाइन फ्लू के मरीजों का उपचार - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWk9Mam1MbkNRQTJuOVV4a20zYm1XV0NNdXQ3Y2E4WkxXZHNSVGpLc0dQdnJiaURSQ0NQSkV5eXk2TnI4ZGI3eHc5b3Q2WVhOQ0VQN2FIaWEyRldYemYwUmMzMXVxT0xOSllOUVlrUUVKeXhnLUNfRldOekZOcmFoeTBLQ2RXUi1KYTlSZ2U4Uk5NX2hJT3RnbzlWQ2M4bll0MVBHRlZKbWdLcENoNFhqbk9SQmYyVTRYcXNVTG14Nm5lVzZMbi1US3dVVVA2Wmtwb3pfbUZ3ajdrMllvRzhvdVRtNjJLQ19laFE5YzFkMzR0OWNtSENhLTc4d2hyd9IBgwJBVV95cUxPSWhZSjNzVlQ4NmZrbWRnU2gyMGlZWmJlYVJpNHFuM1BQRnBmX2FZc0M3bzZOR2dBaFBGa1owUk9YMmhjdVktTG1ja3lfdEkyZ2R0VFdMQVRYcExIcUszbVk0WmppNEVCVlM5NTFIUTNVbnBDNFJyaUxQREhlcFpjVWdjbk1OZ3JKNUdWNkFDOWtZeUJkUUZaNnNJemdieUNnME1aVUdsY3lkQ3NLbkFJQkQxM2hQTUVZTzBRZUJOdThidkZwZldsZWt3bjVSR3N2cHZNanhXT0pkZmxtR3hWWGVpeTVkYUZReHNWVnBKc1dfU2V0aFhycXhpRDEzcHNoczAw?oc=5",
+      "date": "2026-09-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
     },
     {
       "title": "हिमाचल के इस मेडिकल कॉलेज के रेडियोलॉजी विभाग में डॉक्टर्स के सभी पद खाली, एक माह से मरीज परेशान - ETV Bharat",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Nahan medical college"
-    },
-    {
-      "title": "FIFA World Cup 2026: क्रोएशिया को हराने के बाद मैदान पर क्यों रो पड़े रोनाल्डो, खुशी नहीं गम के आंसुओं में डूबा महान खिलाड़ी - R.Bharat",
-      "source": "R.Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3ZEaXIyMmxPZk0zY09rYkRLdHlyVHkxMTlBZjZYNHlRYjBnZWVwZkNlUmx5dnRvU3V2WUZKaXN2b2M1Skg2QW5CR2VIQlZYTHFZeGE2QkhJWjFYUUx0SUJHWHVIMHlLTzczUDkyNG9DU0U1dXcxYzJKdFdVZmJTeDdEYkNYU3hIWEltaEplS0NZaXRMOThHZUJlZks4YjZqTnZwMjZiaVdKQU93ZUNodHRnMFc2VlNYay1nUnE4dzB6MUt4LU9Sbl9jNDhleEc4ak04NlZR0gHbAUFVX3lxTFBwRHJQSG9aM0JDbDNNdVdBM3pnRWlqb2k1eC0zNDdPQkk3b2pqSXhGUmtjeGxZbTZlX2hVRTA5dnBFNTZaX0g5ODd4c1RTWFBxS09yek1CbWtqaFIycjc4T29sUGQwZTNvTHpsckZkYkNJdThoVExuZWVzemxUVnRxbTAwdG9tT05TcDVHV0hPNFY0TWhBT2ZPY0ExS0MxNk90d2ZldzA1QUU3Qm1lajkzSVJJZXZrY0FCOEc0ai1za09panZ2OVRwTVVaS0I0eVJ4OVFGbDVpNmdtcw?oc=5",
-      "date": "2026-07-03T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan GMC"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T23:37:54.437Z",
+  "updated_at": "2026-10-13T01:03:37.038Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 16,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.362
   },
   "youtube": {
-    "n": 17,
-    "positive": 8,
-    "neutral": 7,
-    "concern": 2,
-    "avg_score": 0.259,
-    "avg_magnitude": 0.476
+    "n": 12,
+    "positive": 6,
+    "neutral": 5,
+    "concern": 1,
+    "avg_score": 0.275,
+    "avg_magnitude": 0.467
   },
   "overall": {
-    "n": 33,
-    "positive": 19,
-    "neutral": 8,
-    "concern": 6,
-    "avg_score": 0.188,
-    "avg_magnitude": 0.421
+    "n": 28,
+    "positive": 17,
+    "neutral": 6,
+    "concern": 5,
+    "avg_score": 0.182,
+    "avg_magnitude": 0.407
   },
   "top_positive": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "wow great news thanks for sharing",
-      "score": 0.9
+      "title": "very nice Which camera you are using ? Good quality output.",
+      "score": 0.8
     },
     {
       "source": "youtube",
-      "title": "very nice Which camera you are using ? Good quality output.",
+      "title": "SUnderNagar Mandi tab bnana bhai kabhi same style mein :-) appriciate your work.",
       "score": 0.8
     }
   ],
@@ -57,8 +57,8 @@
     },
     {
       "source": "youtube",
-      "title": "Why only one tunnel for fourlane",
-      "score": -0.5
+      "title": "Today i come from ghumarwin to kenchi mor via tunnel. It take 1 hours to kenchi mor from Ghumarwin but lot of work pendi",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

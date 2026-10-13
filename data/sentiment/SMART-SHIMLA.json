@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-08T23:37:59.768Z",
+  "updated_at": "2026-10-13T01:03:49.570Z",
   "project_id": "SMART-SHIMLA",
   "press": {
-    "n": 16,
-    "positive": 12,
+    "n": 18,
+    "positive": 14,
     "neutral": 4,
     "concern": 0,
-    "avg_score": 0.237,
-    "avg_magnitude": 0.406
+    "avg_score": 0.261,
+    "avg_magnitude": 0.411
   },
   "youtube": {
     "n": 2,
@@ -18,14 +18,20 @@
     "avg_magnitude": 0.5
   },
   "overall": {
-    "n": 18,
-    "positive": 12,
+    "n": 20,
+    "positive": 14,
     "neutral": 4,
     "concern": 2,
-    "avg_score": 0.156,
-    "avg_magnitude": 0.417
+    "avg_score": 0.185,
+    "avg_magnitude": 0.42
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "करोड़ों की स्कूल संपत्ति के लिए बहन की हत्या: शिमला स्कूल संचालिका मनीषा मित्तल मर्डर केस में भाई हिमांक गिरफ्तार - Lalluram",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVG9pMnh6bmtMVDdieEFBQUlib2JwaVFIVElRMUJWZTZHUTh6WUFBbnhsUGtrdVkxeWdwcG8zdDV3U1pzeEpqVGVWTmdUdDFZaTN1VUdMaWV5WUEyaU16UzBUVlR4b0NYYnZJYUNJMzh3UGVMNkRUSFQzYVZRSVQ2QS04MmU2Zy1ndWpOQ0IxaHBTeTZhb2FIeFhsUQ?oc=5",
+      "score": 0.5
+    },
     {
       "source": "press",
       "title": "जिस भाई की कलाई पर सजाती रही राखी, सम्पत्ति के लालच में उसी ने करवा डाला बहन का मर्डर, मनीषा हत्याकांड में पुलिस से खोले राज - ETV Bharat",
@@ -37,12 +43,6 @@
       "title": "संजौली स्कूल संचालिका हत्याकांड से दहशत में अभिभावक, बच्चों की सुरक्षा को लेकर प्रशासन ने उठाया बड़ा कदम - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckFrdmd2TC1VU3FZTHliSERqSXJydnc1cmVxbW1FSnc1UjM0NFpxRzFMbjJXTE44NTVEdFFOX0tWVVVXelViVzlSQzVhQ1I2OFF5b3dXcERtS0ZoNWRCNGpOZmNwU1Zmb0JzM2l5aTNLem50M1YtV1B2cy1hRVJ1dzNhWENIMWpNWlI2Y1otbVpRUFhWSl9GZE8yRzlaYjlIR09fQkN4eVVwOTJOalp4YkFn0gG3AUFVX3lxTE42T0RwWTBtVFJja0hNc3hfQ1NsSU9xTUN4QmhRT29qNlhWUWQ5VFRuQk5mSnFUS18yanNTaHlJX3VHdWFCd1B0NDlZMmJrRGk3M0kyVS1zTnk2TlNuV2R2MDlJTzNGTW5GR09HNWVBWjFRUVM1Z2pOc0ZsbWNfXzFld3JINENieHdIU1lWVVYxOHh6QkNSQkFiajc3RjRYOE42RjBCam5GZHlpS01HUlBkcFg2azA3VQ?oc=5",
       "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "शिमला स्कूल बस हादसे में घायल छात्र की IGMC में मौत, पिता ने जिगर के टुकड़े का अंगदान का लिया निर्णय; ताकि बच सके कोई जान - shimla accident victim hardik chauhan dies father donates organs - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkY1ZS1nWFZqcC1ncnJCVWJtVXJab0VaOUJjZ2pjRi1HczJiWkttc1hXYlp3eVE5dUVSR3IyOTRmODJDdTFOSjRleGtlaW5YT1praElTUi00WE1xMGZaVklodzk2aEx4SUpUVGthTG1wNWF2NDZ3ZVBNWkN4eWlJRFIwdUQ4dndCUDVyUmNRcGlLaHRfTEl3SjBUaGVjdEY0aWt0a0FIcGhHTi15RW1oRUpONXpxTEhmT055RVgwMENKXzQ?oc=5",
-      "score": 0.3
     }
   ],
   "top_concern": [
@@ -58,8 +58,8 @@
     },
     {
       "source": "press",
-      "title": "School Bomb Threat : शिमला के स्कूलों को बम से उड़ाने की धमकी, छात्रों को तुरंत निकाला गया बाहर - Dainik Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTUdfS2FNdWxMT2xxZXhaaHk5eUhvQXBBZGdKS0F0WDdFUEJLZFlFMFpPQkt6cXpYVjRTS29GRzc1TlRjMG5WeG4tbmRpNmNmTjBBb3V5a2VpUDEzTGwwMG5FSHloMV8xVW9CVWxMamVFMGxNYVRMeUN2YlF2aW1lTDNhNXhnWUR2OHgzb2dkdkZaSXRGSUlGZWY0NS1jWVBnRkJvTTc5UzFkMUtsOUVXY3J4eUpHTU9RQTNLdHhDQWkxYkdqTlhFZDI5dEx2UDFEc1ZDbW1B0gHaAUFVX3lxTE9fMm5nQllRWmJKczNUc01vdkpNc0FMcHg5YlpBcHgwc193OWx3aWJncnJ1RG51NFpzR190UTVCc05KQVdOdW1icHo2T0gyVkhqTzQ5WVlOVzNmOXlZdHk5YlByT1JiaDJMT1BJRWNVY3FxdElvdi1oTFRNUUNDcl9XaWgxQnJXUGtwMnd5bFpUVmRlYjR4MkZGUzVzNGw4WWF2MU96V3l6QnVTZmNacDhjWEJUUVJ1UjFnRk1KRXplZ1JMdE14YXlaZVVZc3JtSzBJN2FfRmhDeC13?oc=5",
+      "title": "10 Deputy Commissioners,19 IAS, and 6 HPAS officers reshuffled in Himachal Pradesh - HIMACHAL HEADLINES",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXBMWWdraG1yY3JYX2pER3JkX3JCTUF6RWVVRjdmemVma0hkekFuVlBDLTROYnFnSWlRSlVKOFBYZmhEd1ZjeF9RQUF4VGtGenI2Z2dWQW5kVGtUek9Ua25zMENRb25xMjh0d0UzaU5Lc3pwaVpmZldoRzRkdURiWTkxZ1Z3aXRsSko5SE5STkFxS0lSRkY3UGxMQ3lXeHludFZfMDdhNmdBWDVienc?oc=5",
       "score": 0
     }
   ],

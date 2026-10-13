@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T23:37:43.116Z",
+  "updated_at": "2026-10-13T01:03:25.463Z",
   "project_id": "NH105-PNJ-NLG",
   "query": "\"Pinjore–Baddi–Nalagarh 4-Lane\" Himachal",
   "counts": {
@@ -16,20 +16,29 @@
       "comment_count": 2,
       "comments": [
         {
-          "comment_id": "UgxabhiUKkRU3iE32Jt4AaABAg",
-          "author": "@manojSharma-pc5no",
-          "text": "Bhai pehli baat to ye four lane nahi hai. Matlab kuch bhi utha ke daal dena hai",
-          "like_count": 0,
-          "published_at": "2023-04-23T06:55:28Z"
-        },
-        {
           "comment_id": "UgyD2C2htIkL-L-eZR94AaABAg",
           "author": "@SardarG-z1s",
           "text": "Bhai \nBhud barrier se lay kar kishanpura Tak ka full video bna kar upload kro",
           "like_count": 0,
           "published_at": "2024-02-20T16:09:42Z"
+        },
+        {
+          "comment_id": "UgxabhiUKkRU3iE32Jt4AaABAg",
+          "author": "@manojSharma-pc5no",
+          "text": "Bhai pehli baat to ye four lane nahi hai. Matlab kuch bhi utha ke daal dena hai",
+          "like_count": 0,
+          "published_at": "2023-04-23T06:55:28Z"
         }
       ]
+    },
+    {
+      "videoId": "ro1kDRydMTk",
+      "title": "हिमाचल की आज की बड़ी खबरें | Baddi-Nalagarh फोरलेन फिर शुरू | Nauni University की बड़ी पहल #breaking",
+      "channel": "BHARAT KESARI TV ",
+      "published_at": "2026-09-23T07:23:32Z",
+      "description": "सोलन और हिमाचल की आज की बड़ी खबरें | Baddi-Nalagarh फोरलेन फिर शुरू | Nauni ...",
+      "comment_count": 0,
+      "comments": []
     },
     {
       "videoId": "NBPnIfW8JTU",
@@ -37,15 +46,6 @@
       "channel": "Viral GOGI",
       "published_at": "2023-05-20T00:50:53Z",
       "description": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal #news #fourlane #baddi #nitingadkari.",
-      "comment_count": 0,
-      "comments": []
-    },
-    {
-      "videoId": "ghDL_XnDaCw",
-      "title": "#pinjore #road #baddi #lights #nalagarh #road",
-      "channel": "Arumahi👌💫",
-      "published_at": "2022-12-13T12:01:06Z",
-      "description": "",
       "comment_count": 0,
       "comments": []
     }
