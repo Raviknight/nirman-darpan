@@ -1,210 +1,210 @@
 {
-  "updated_at": "2026-10-13T01:03:02.877Z",
+  "updated_at": "2026-10-15T21:53:41.103Z",
   "project_id": "GMC-HAMIRPUR",
   "counts": {
-    "press": 119,
+    "press": 135,
     "gov": 0,
-    "en": 59,
-    "hi": 60,
-    "total": 119
+    "en": 57,
+    "hi": 78,
+    "total": 135
   },
   "mentions": [
+    {
+      "title": "हिमाचल के मेडिकल कॉलेज में रैगिंग पर सख्त कार्रवाई, 9 MBBS छात्रों पर गिरी गाज - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLUJQSFlLblFfbk12aDJ1eko1bDd6WnBGMGU5Q2xQWGx6dEtzX1NqZVh5d2NkcHZ1bWpreGdLWHp1Q3RSMkhTTDFVNDdZN3ZUdUJKaGdkV1BpdEtEY2pDNEdhajlhUXdFV0gzcVFOWGFrVHRjMHlLZGsxV1JHdlMtWHh3Ynh1MnpXWTh4OUNHeGdUM3RYWkZzUkdCRVpRUjg5NzZBX2F6bEpJb2ZVYW9JV1ZXbXZPa3PSAbwBQVVfeXFMTmpVcjFMbFg2U0xqSlQ5X25OZk4xeDhYRnZvTmNsUldoaDRzMnVDLUNFRmFFZGpVMEJNc1RleXJpWnZZQkJTNm1LRE1rSnhybjZBSUNRWEo5Zy10ZG42a2gwWXVfWmNXZGVtQ0xpc0lLTEhZRkQwVl91WllqbThwN1QzZmxteE1LZHluS0VNXzVOWmlpaGlhVmQtLTVEelphVU9xa3kzQnBLbnNwTUFURjZtWkdjYUNtb09xU24?oc=5",
+      "date": "2026-10-15T13:00:50.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हमीरपुर मेडिकल कॉलेज के नौ छात्र रैगिंग के आरोप में निलंबित, जुर्माना लगा - IBC24",
+      "source": "IBC24",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0JsQ2cwejVRalBDT1FadE5JQWZDSGpUR2NSZ3F0YVQ1SjRIUENnNmFfbkNzTkpiZTJQQmNrQU5NYko3TE9YMjI0THpxMWFZRFE5NE9LMGl0LVJJempYUm1HRzVYcGpYcnJQbnljNGxoZGZTOUhUS2lmVGVWeEJzdnhzMnB0OUpRd1ZxX2pKbjNvb2dKd1hCMkY2RVRwb21RcE9vR2FyWlY4aDFaNm15b0lB?oc=5",
+      "date": "2026-10-15T12:52:44.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Hamirpur medical college suspends 9 MBBS students, fines Rs 25-50K each for ragging - ThePrint",
+      "source": "ThePrint",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWRta1dST0gxVWN1X2dCd3FHcmE2YXBCWEtuX3phZ3VCSDlFWTMtZGpEZkUxd3F1eUpPVzNPSUxaZTBubGVhaVpJU1NuZzMxc1ZCSXlQT1lGQ3pmYVN4S0lmQ1VOV2lkTFdySUlpTjNVa3FIOU9ERWdnbDR4NXdYUUZCUGxNUnM0cHg3VS1teXRRLTVKbjQ0Tkw4WnhKMHJhRWRDWk0zQVFYQ0dmSEpsU3N5U2NKcnhs0gG-AUFVX3lxTE9PMEI4bE42VzFUQ2ZVOVh1cVItMTBkaVcxUnJKYThHTUpNd2ZKenJWOHowNk1lVWk3RWQzNVFwNnVyOS15TzRpZ0RpM0RMSXFHV1FNbkcyaUNJQkFzb1JrOV82bVZkX1VSanBQM3Ftd251MzZxdmZCSmJncDgxdmJfMFdVS0dFOUYxWEtOZUNXVkRRdWtRSktMS2w2QVEydkFCOXpWSlNWM2NUcTJTM0tRa3c3Tl90Y251c2ZzOEE?oc=5",
+      "date": "2026-10-15T11:52:51.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "MBBS Ragging Case: हमीरपुर मेडिकल कॉलेज में रैगिंग पर कार्रवाई, नौ एमबीबीएस छात्र निलंबित - Dainik Tribune",
+      "source": "Dainik Tribune",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWjVhazhoSjUzemlfRnE0YkZkemJNWmlQMFQzTTBHVXBSLVVoc2U3UFNCVHBzckh2M1E0U3RfbVdmSEFwUFFYNFJKSTRJQk91dkFySzRpV2NkamU1SW5yeml2RTRMUU9BNnRyYV8xMWVieU5pelBJLVJqMnhSVzc4bHA2X1FIRVFCQ1FPU3VqckVNZXNWSlBWZmFDVEZsTHpSTktkbDZUS21OVE4zYUhCVnZ1N1h4Um5uMWtjZzNTajhYY0gyV0ZhSnNxUEhwQWotXzU3Q2RDZ2ZfYnUxT2xsSWJzQ3VRN056RFHSAe4BQVVfeXFMTkYyMVVxZ0E0WHBicGg1TlpFOEtHSkVLdVNFWS1VUDc2U0VqZkVHeVh3cDVJM2hjU0VRZnhYU2YxMUo1T3lUQUsxWGs1cy1iLXJyWHQyYk5zZVNLcWk3TW0yTnd1cDZUNzdZT3JnbFF4UGxxT0RZd1E1VUFFQWtaRHhxWmZlTkNFMVd5UTZjSzNwOEV2ck5JWHlINVl0TThiazJUOERzT0JkYXNjZkFsN21nLVRlZHh6Y0NaWDUtazhrTnRQM01JLVBHTnU1ajFrbTVwYzhyWkxvOW00NnI0ZU8zbHNLYnlWbkJWaEhrZw?oc=5",
+      "date": "2026-10-15T10:25:35.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Hamirpur medical college 9 MBBS students suspended, fined Rs 25-50k each for ragging - Medical Dialogues",
+      "source": "Medical Dialogues",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOUpfRS1BZjd3bFFnYmJqaDVGN2Jmb3VmYUVvOWp4Y0F1NE9EZDJHR0pXckoxWTdpTlJSRkxkMG93cEVuLXV5THlaOGJ1YjdZN0ZOWHNpcG9FNTJaMDNWODBmaHhydGpxQkpjNkgtM0Z2S0lkcTljTEltVUxOSlFsbjdsMklzeWN1dWlQTXMwbmZacktmRy1QTEk2Nk9SVkVZajl6NDQxQlktQkZvYVRudGQtcmJFdnN3cjVuaDEzV3RxaEgyQWtBVG4wSjZBRzZfdUFtV2U1VDNPWV9SajJ6YjJwN1JGaG5UTUHSAeoBQVVfeXFMTzlKX0UtQWY3d2xRZ2Jiamg1RjdiZm91ZmFFbzlqeGNBdTRPRGQyR0dKV3JKMVk3aU5SUkZMZDBvd3BFbi11eUx5WjhidWI3WTdGTlhzaXBvRTUyWjAzVjgwZmh4cnRqcUJKYzZILTNGdktJZHE5Y0xJbVVMTkpRbG43bDJJc3ljdXVpUE1zMG5mWnJLZkctUExJNjZPUlZFWWo5ejQ0MUJZLUJGb2FUbnRkLXJiRXZzd3I1bmgxM1d0cWhIMkFrQVRuMEo2QUc2X3VBbVdlNVQzT1lfUmoyemIycDdSRmhuVE1B?oc=5",
+      "date": "2026-10-15T06:54:32.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हिमाचल: 'नजरें मत मिलाना, डॉक्टर साहब कहकर नमस्ते करना', हमीरपुर मेडिकल कॉलेज में रैगिंग की शिकायत - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVVNTcnlIVDRwMFNEaDM4OTFQbVdhNHlSUVVKUllSMDVMN09YSFFOZjZCZzBmUFl0cnJpWFE2UmRjRG5YeGhkMFI2cWxpU2ZmOTZXdUN2Zk0xcVJUVmtaSll3MHo2ZUxmdlo0ZEk0LVFqZmF0OS1pMjBzamFJemJteTV6NVZ0a0JlczNLU2VrY3dMVjMyREIxeXZDUVZMU193LUNOa2NvSDZaTHlLakN3b3BsQWtsclNIYS1nN3Z5TUR6M19ZMnlsWjU4OW9jRDRzcEHSAdcBQVVfeXFMT2MtcDQ4cVRkVlVMWkk4ZElNRGRLRnNSbmwycFJUMjFTQ19zVEhSWWJQc0diQk5yNlE5Ump2Ump6S19YY19LRDEteXo3LVpsT09OQnZJWUg4R25VVTd5QmNrOTRTaEZfQ3cta1VIX0FvbU5RRGFvYnpzQ2xnN3hyZ2dtLWZ6Y18xVDFiNFJzSVlQR3ZrMnk4cUdRUDV5M2FTYWRKZGZEMWFPNVJMVGFRcGtFZGpXbkI0aFdTYWZQRldjUEh1TlBkOGZJdHo0ZUREdHVxbkF5MEE?oc=5",
+      "date": "2026-10-14T04:08:38.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हमीरपुर मेडिकल कॉलेज रैगिंग केस, 7 सीनियर छात्र जांच के घेरे में - Khabargaon",
+      "source": "Khabargaon",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJOV0RnYk9tdG41RlhURmRCLTlCRjNqTU1GMlZ3OWViaUlJNXE4NWUtb0Z0bHIwZzhXdW13RTVtRkliU09pUUdMZGVaUlFOcDEwUEpNYzlRajh0RXhjb3JVckdfQldIclVDNVFwQkZKVTFTWjROT2hWZjlOOFBNa2o0SlRQVkpJN0JHT1FGblc1WmF2QVZvRjNWOWxCdTRoYW1vedIBsAFBVV95cUxOSk9MTTBubHZkU0pjTVRFcjdCMFVuNGxGVHpmVkVfNDhqdEtzSjlIdzRaYWhHQUl5UzdYaW8xQkIzRzB0SjBBOXhUcmFKd2xmYUd6T0doMk1aRGdpcll6TEJVUVVQb1doQW1BLU9IUjdiQ1h4UE16S0MyeVZyakZfY0c4Vm53WE5ma29CbWd6YnZuZ3V0TzJCWmJOR0JsWHBXVmhGNXctQWZHZ053bW9sOQ?oc=5",
+      "date": "2026-10-13T17:06:53.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हिमाचल के हमीरपुर मेडिकल कॉलेज में एमबीबीएस छात्र ने रैगिंग का आरोप लगाया, जांच शुरू - ThePrint Hindi",
+      "source": "ThePrint Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHlXYzVBaGl3NmNPLXhndUQ2R2FqQzc5RW45RG12N0YyMnFkbWZ6SlgyMDNKNHE5QWE4VEg5ZEhHbG5XQkFsLW95dWRCQjRxeDFoWVl6cG1IeXlxX2JSSHRpb2FHQjRhZW5oV0l2TkhKSjNmbGhPVUZiSko2cVNDejMzSWpuWGdISFg0bXRlZFhuQVR2X1FXckFWZEdhdGJLQ0ZYUFMzeFhWMC1fZ1NkN1ZNUGlZYmZVdmtheUJoRdIBxAFBVV95cUxPUWFuUUhDYUJYNWRNcV9tTXdiNVdkcndTcHRpWVlROWw0VWhGc2ZVTmNRTmZTU0ppbklFTmFXZ2MyQTU4YkVYZ19FaG5ZYjg0SGNFN3hWeFFwcWhLbUFZc19Nakp3U2VqVnVSUnN5aVA4dUdTSHlwM0xCNTczY1dXODdSZ0c0OUJDRmVHV2FxRk9XdEVEQVkxbUlPUkVHSGU5NHVTemJhRVZ1dXB0RXkwcjcwUGhUUWc1ekItYkh4ak1NNGtx?oc=5",
+      "date": "2026-10-13T16:34:22.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Hamirpur: मैडीकल कालेज रैगिंग मामला : जांच तेज, बंद कमरे में हुई छात्रों से पूछताछ; निष्कासन की लटकी तलवार - Punjab Kesari",
+      "source": "Punjab Kesari",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnhldWdDLXBxcWNIYTVDVTktQ1gxd3B2bDJDSWtMTDhCQUd4MWdBTkQ4dDhuUGNKNXdyYm1yMi1KbkQ4b1pkRE1VamluN0VrM0lsLWRMQWNHT0dDMEFLVk1sMFpmN0ZUMHVycHZvR0VTWlBkanY4U2ZIUDVLdm9YZzlFMXFGYWFkZVFsVEN4eWZnTkxaUGsweEVPSWFWc1VDdnfSAaoBQVVfeXFMTkZval8welJkN2dtQUxXam0xUzJjRFpZbmtxbHhOUE9pTnZUMURHWlJZSFo3ZU1rekJ3cW9nOUN3WGp6STBic2FBYko0ZElVWDFpR1dxLW50Znl2ZFlDbDFjb0JKZld2WXhSeGtwTmtVN1BJaU9zSEZULXpTNk4xTE9JTjY3SXNKdnhFTjJxN1BUTk9LcXlYN0ZYNzY1TVlQMjZGVjhzWlpyUEE?oc=5",
+      "date": "2026-10-13T16:14:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "वीडियो: मेडिकल कॉलेज हमीरपुर में रैगिंग मामले की जांच में आठ जूनियर छात्रों के बयान दर्ज - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNdTJBTnlqUklrZWE2T292RjBqcFJXWkRFbjRRNWhrU2pfQkVKcTFjci1lVlc3aDEyUjhVZXh0NjNranFCMkVNVUJqU3lzTDRBMnRuR0dQUXZGdU05bGl3eUVXaEJybEJ0cHNWMXA1a3NxQTBBLVJ4bWFWNnBhVjN3bzloWjZHcTBIeGJjMHpHbVktdnhydC1OUlF6TzF0amZpZnMxbzFHTzMwV0ZEazlnYWctSHUwajBSMzdhRGUzR0JZRlF0QnVmNkowb2VTalBacjRCMTBTZmdkN2d0N0xhbE9zU1kzRXhVeFZIdFdQV3hxdDV5eUNNU0M3dXh4eV8wbXFmRjU3UkwyaHRHODhjc2NLSUdaY0hkSFh5ZVpjd0dqaWfSAagCQVVfeXFMTlNRazJ0NUdUX09yMzdqYWdDRDRjRWFRbmFmNkdfak1aNF9tSWtfWlBqbXBNOVdxdkp0RXJKRUowT2s3ZUhNWUc4bzlwYnItLWtmc1pXcFlKaENnYVUyZEhjM3Y2bXhVQlRHNjdIMjg2VWxBUTd5QnE0bF9GZnVNRWRhM09VeDA2azBLSzE0dzNrNHVwcHEwRjFTTEJuUUt6U29Lb2F4SWhWRjNNWWhvcE1rSVI3YWZFbFB1VmpneklNV003bUhLLXZKRi1VU0ZRbDMtRTdIVlB3SzM4U2Y5blBvRlRHXzFzTEs2T3FJUUlNY1FpemRkZWUyeUUwWGpIQXNKQlgzdmhpR2VOSC13M3p0OXZUOUtEQXRDa0k2Wnk2VFBnWXU2d0U?oc=5",
+      "date": "2026-10-13T13:19:10.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हमीरपुर मेडिकल कॉलेज में रैगिंग की शिकायत : MBBS द्वितीय वर्ष के 7 छात्र जांच के घेरे में, हो सकती है कड़ी कार्रवाई - HIMACHAL DASTAK",
+      "source": "HIMACHAL DASTAK",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKM0NKRzY0cnA2dWNBTGQxVHJCVk1IVml3OWFuV1R3NERNYmczeXdZNVJmOVN6VmZrODJUZVMwVDRhS0owS0JsTVVZcHZqSmdBM3hZYmZGNXBqNWJnYlFka0EwczJJMktEbEN4SUkxclVUWFB4R2tkSjJB?oc=5",
+      "date": "2026-10-13T11:26:13.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Anti Ragging Probe: हमीरपुर मेडिकल कॉलेज में रैगिंग मामले की जांच शुरू - Dainik Tribune",
+      "source": "Dainik Tribune",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDJTdkgzcThnRHNkY2NnaVZ4V241M3hBVzhFeF9pYU9OZFFhN192WE9UNl94UTc3Q2pBX0xiZm4xVmFxMTdIdW11MGktcG9FVHk2TGQwdHNIWU5wcEpFTnJtVWJpVnZGSjBjQkR2YlZOM2hnZThnREdNTzMtd3l3SFRZVkgxV00zeTZvcnc0d2JhU3hQZmtkY1cxeDJfMm5XSDR3c2h5RWFCMHdNSWo2eUJnZFlfSHZSUE9WaUJabml3YTFMc0xsTUgtSVRXVUdScHfSAdYBQVVfeXFMT3JJN2d5RkMzQkc2ZTRVd3BQbTRld3J3ek1idlpaclJTa1I3czhtSkpNM3VROXFmUGk2LU9iSWdlcDdyMUtmQlhqRTRKaU1lOXlsVng0TlhCUVUybDdBZkR0Ml9wWXJyQUFVMVhHRkFpdHV6eTNkbkFyNkhyOTJkZkl2bWp1TUh4ejZVODNXa1VpZjBYY1BscFhZRl90emxQQnlRWHVJckYzVzNjT1NHVm03anUycFpLN3oweTc4X3BzQXhBazU5ZGt4LWItaGNwSk5zMGtGZw?oc=5",
+      "date": "2026-10-13T11:20:01.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हिमाचल प्रदेश बड़ी खबरें: चार दिन बरसेंगे बादल; हमीरपुर मेडिकल कॉलेज में रैगिंग, छात्र की ढांक से गिरकर माैत - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZEtPdVRZNWhoV2RpQnBYUG4wQTFla3E1LVkwZ3VnVDBjd1UxOVVRRXhXeVU2RGN0bTV0RUwxMUdPM05xcm81VEN1eE9GUUw2ZTRHZlJTLWE2ZDUzT2tiUDZ1ZklIbTFSSVp1bi1zaTRDN3pRYVV3eTBHX0NLTF9HT1g1M09HaGpMenF2dk9rbGxyYmpTcndPOWo4WERLTk9CczhDaFp6VzZNR09xSjdTMm1GaF9PdlpaYlFfa2FSNzZmdC1JSnpxRGswYjVtQVdTQV9mcUMyaFJrOFXSAeABQVVfeXFMTXpiemNaWDZLUGs0VWhhendzdnhyR293aXRiekM2ZG9LRWp0bWp6X1VHSXdvU2FBTjN1anNSUWdqcW40cnF4bGlVSVdrbnY3ZG5wMGtFWGtTTlVqYWZUamk3SGU3MlVLYUk0dTZ6bFBhdTZpdTJoMGp2ak1fdkcxRW4xOXF4bVBHa3RjSmZCMV9jN29RNkpHckMtVXFMcUZKZzJzUGQxRnZuQlc3elBQX0FMZTNCaVZER2hGNWtSZjVvazJrYkJfNnhkeE1SR2lyZHJTdzlsNXVQbEM3UzZ0eXg?oc=5",
+      "date": "2026-10-13T11:18:30.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हमीरपुर मेडिकल कॉलेज में कथित रैगिंग की जांच, सात सीनियर छात्र पड़ताल के दायरे में - Himachal Now News",
+      "source": "Himachal Now News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPclc1dmNFOEFGWXBRazFzMjZWRlFTbHFlcGxzeEY3SmZrcmlRNkF1S21EOEFWWDlTVFl2cTZzRzVxbk9reWdiblVNSGhwNXNzR1QyT0w3bmNwekVQTHlWbmFiWjhDMVNTWk1heXJlcTNHZmN2a1E0MVdyT2M4dVVPRmt6eHp2VUV5d1RRSVdVSXFkTnh0bHFPajFCSWpqcFRoYnc?oc=5",
+      "date": "2026-10-13T09:53:57.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हिमाचल: हमीरपुर मेडिकल कॉलेज में रैगिंग की शिकायत, सात सीनियर छात्रों की भूमिका की जांच; जानें पूरा मामला - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc1d2Sk8xdDFneE1od1pubnhpVHVTZkc0R250TlVKV3VOdUFBMEVlLWZ1NHNheGR5Y0kyaXFXbzc4Wjh2Mkp4ejQtWFlOV2hpcGxaSXk2RUxvVExPdjU5NGRjU01DVFo4Rmh1SVBwSEdHNUhxNkg1R3IxeENNUXRBNW9zbE9nSENqSXd0V0xyZUQ4UEw5Y1VGa2Zsd3ZOTkJmZ1hiWGdVWTVjMWxodGlfYVdhbDNLRTJxNVdidllrMUIyWWkyLXh6WmRDdFh6RVRSQVNwaHZMNXE4S3NlaUZ4X2NZembSAeoBQVVfeXFMTjlyZTJtZFRpdm5yMV9FdjBsRjdIVzZldGtEOFQ3NDI2a01rZFlXSWdWTDVkYkNMbkVlWEg5M2NjV0d0UlJuUW9UREI5bW5WeEtvY2hGaHo1V1Q1c3F5QjhuelE2WUdkbzdOMlotdWh2Sl9seUNwbFdZVFBBMFhocmJYeXdtdW9ENkMxSlI3WEVaQWViMDZuSDRkWmlULVFXZ3ZyTF9XYTdTaVRnakdua3VtejhXSzgwUUItd0t2bnpQczUwMHFrajlSbk40S0syVnhDc3VnTEI5SnFSc0I0RHlJZzJsNllVcU5n?oc=5",
+      "date": "2026-10-13T08:43:44.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हमीरपुर मेडिकल कॉलेज में जूनियर MBBS छात्र के साथ रैगिंग, आधा दर्जन से अधिक जांच के घेरे में - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajJ4ZjdLV2JMSTAtUzV3cjhwT3h5NGd3Rm51QmRPTzcwS0JMT2JvY2FVbk1wQ0JSekMzV1c1TTZUbEpVS3hkMVZLbGhKZ0gya0R4RXdPNVZQWGVPekhZdnNpblB1MXFwRUcxZGdrYkhxOWZPNzl1VFJkZ2dzVmUzRVFVYVVTQ0wzdGs5ZnJYc201MHBXa2VwOU5pZDA4MXpkWTEtNERFSTFsY2YzTU0tVFZERmRoYXVUTGZYWlR4UXVaSHFCTDlwNlhpMHBQQ29h0gHWAUFVX3lxTE1fN0tJQ2dCMkwwWk12cW80YlBJYjZqU1B2YmptNnpzUkZHVG43czdPT19NMXBhTHpLeTRTWWRqa182NkRkWDlSZTdJUnRRRXNYYnl1djM1MmJzYkFSTUc1TUhSNzBqSjA3UVJMNnBjc1o2OG5ZVVd3dGo2b2pzT2d1UTFQVzVUWDdCVXVyZlN1elhRaTZ2eUM2RmJfUjF1ZUpvUV9kYTY1bDV5RWg2elp3SmtIcXJLUGo2V21rMXZYMVFkdXRxTElrUFNaVFVoa25wbHU3NEE?oc=5",
+      "date": "2026-10-13T08:22:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हिमाचल के मेडिकल कॉलेज में रैगिंग, MBBS छात्र ने की शिकायत, जांच के घेरे में कई सीनियर - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTDFOUFBnVDZaVVdIVXVGdUVPV0hJQ3RWRkFZR0VNb09VM1VNVG1wX0lvVGo0d21RZXFlbjlPVElROGlRbWVfZ0kyQmVZai1SbDZ0eEYyVW84c1R1TUJsX1B5UWhGcTJUVGF3YjdsSFZrNHJYTkc1T3hRSzZWRDJPUVgxaXFIRXJVZndVM25XcmtTN1plR3dWdnFUYi15M1d3S0FoUEdQcWlNQmdJWTBER1NkbVFxaktsMVdZUFljSFNLcHF0dUtCYVBCVXR5R0dERC1iSEx3SzNfTGJ6R2hwR2lfZHBXSlF4YjJ6TGFCdjBERUnSAfgBQVVfeXFMTTRPOGpCa05LRVJlbXFOTTY0WkdWQmktRmpqRkxzUkhBckllR3VhOTBfbWNLSTViMGw4dlMwVE4xMHhuTW9od1hvdUlzWXFNVjVlQVVkUk1RZXpHc3V1cDRGdnphTnp1TUNsY2s0NjRYTnljNGdkMFdUTlRVSFEzU0RfOGtId0xJd2prWXhrN3pmdDBkcGtZblR2b2o0QnNjcWFrX1lNSVpiZXhzNV9LTmRTQ2RUOUZaVnBjMWtMelEwMDRfWDBSUi1Wbjh4M1FuOFBabTl4Uk9YT3ZTR2RyOHpJOENZNWxxT0VPMHE4X3lHY3RxTFdiNDI?oc=5",
+      "date": "2026-10-13T07:28:02.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "मेडिकल कॉलेज हमीरपुर में रैगिंग: 7 सीनियर छात्र जांच के दायरे में, दोषी पाए गए तो होगा निष्कासन - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHdPRkdHUm5OZkxlYzNETjZSUDdCbkdXcUZjckR0OFpXbzlXUTV4LXFKNmN6U2RkNzBWS2R3a1htdW91WndzYkxSZW83SER1ZkF3WUZfbWRSTW5NbTVyR1dkYTF3bHB5VEhJNkdBWmpndnBTd0oxdlZkTFNkRFVUVjRPQ01QRG5LU2w2NzZoeTNrd3pXYXUwaURxOWhBN0FVbUpaanNYS0FHQk5KLWZMbGNSVjRjOXh4cHlZMQ?oc=5",
+      "date": "2026-10-13T07:28:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हमीरपुर मेडिकल कॉलेज में रैगिंग की शिकायत पर हड़कंप, एंटी-रैगिंग कमेटी कर रही जांच - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWmtXZVVuLXdwdlhhb0NRbVRZUlZtaG5HMXVnTS0zNWNvajZFQjVKMVFTcExEZ0ZxOUdBazI1dWs3OWFwbHJkLW9XNHkxU2lQcnZyUVl6ZHhaT0dPeE83cHdTYVBfclhLc2p3bFRjcjc5T2J4VUNDbnlhTDhSWlJWLWFRZjdWa2x3dTRfQmh1bnpNSnZsTHJSS1hNMWkzTWo2SUY1a29xaVgybnR5MzFmWnlDMkJxcG9USDV3MVpZbVNPbGxFR2N6bGk0bU5TVGtoYl9mOU11YXZlellXZ0ZB?oc=5",
+      "date": "2026-10-13T02:43:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
     {
       "title": "हमीरपुर मैडीकल कालेज में रैगिंग, आधा दर्जन छात्रों से पूछताछ - Punjab Kesari",
       "source": "Punjab Kesari",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakVvTVJwS2JmcWVLc3ZJbmJkU1BoOUFRcU15ZXhuZW5EVEtQTURaT1NZdWxGSXVJbnVDSlE0RHFnZ19Ud29UcmZ1eXlfQTdOaGxEczdVZ1RvM3Y2Y0RVZjNZNVRNQ2xyODFiNnZUSWVCUTU2SWJ3N0ZfZTFwQVNQTXZfRTJVT2Y4REM0cEZzTHR3TFNlaE1zUzcxb9IBowFBVV95cUxOU2lLaVNqeGRINk9ZcHM3Z3UxajVoeXJMTUpEakFtRm9rbllpVzFjOWFIUnktR1VKMXRFR25FcGJyRXotdTlST29iNnhHTk9jc2NTSTFBQ1hUMWdQU2JIcW5VX1VEN2ZQaGxZTmRZcGw4R05sdWxUdHg1OTRXbVlLT1pEU1Z2eHMtVGRQVGEzY1paUGktRzJ6Z0FGVnBKR0xCU04w?oc=5",
       "date": "2026-10-12T16:14:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Under-Construction Truss Bridge on Shimla-Mataur Corridor Collapses in Hamirpur; Rescue Op Underway - Republic World",
-      "source": "Republic World",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZFVjcktLdUlUNkFLM185cjlPMWdjZXR4YXRYQllWOFVKcnZrSmh2RGR1RVlxVVRkM3h1TnpmX3AzQTBlbm9WZTM5OGVRV2g2clRPZHUwT0c1ejhEQVVLY1B4RnlfcTQ4OEtVOUNLRHNGeHhUc0J4VHJDVkVwNHZxSmZVMHZhMkM2NVd3dXNHRGc0enhQRWFyclYzWXN3MDFCX2Zja3NQYXFBZTg4TlJodU1nS2I5b1pyNnZXUWVVeUF1UmFjUXV4YVVINTN1YVY4TXpucjVyejcyb2w2QzdDQ0Nmb002RTDSAewBQVVfeXFMT3hBUFd2dHcwbzZ4OXlqTVRZdVRGWDVVdlVoeFVxRl93dGNrWU1PczJVSnBlVFRXenRrVmhtMEc3WTZxZGFRTWpPZTBaeFBSc3VDSXNtcHc0YUU2enBOcjhHUW9WN0JNeVpsOWtTb1FBbHowendzOGxvZk82ZVNXSXVmQWh3SHhWOTdSS2tnQmVvSkpNRHhITmRveks3ZHdwVG1rNGgtMTBwemIzV01lZ3B5UDlDbV9sWHFUMjFoVXczYmtwT050WlVCdjBtRzFTSUhLNUYyS2RKV29LVlowamJrRXBpYzhWYTJOOWU?oc=5",
-      "date": "2026-10-02T13:10:12.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "One Killed, Six Injured As Under-Construction NHAI Bridge Collapses In Himachal Pradesh's Hamirpur District - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTnRQUTN0aWFCZjhDdmNvZHFidjBFM3hHOVMtN0poeEpwZGwtcV9nT2dyUDdId3pCZzVDRENFcVpUQWU5OVFMNlRqeE15YmZNTFJCektaY2t3c3lrZmdxZjNFZVBPcWNBdlE3LVRsNTRFYVdhOUxZZTctNTQtaGV2VHNOUE5GMFo4amF0b3BMSzNPSkZXenpjdTg3YWJQc0kyY3FBU25fS21reWF3MXB3UC1mLV95TzAxUlI3YjBXaExNaXlnUmloUkUyZ29nWV85Q1A3Sm84aHVfQWpzc0930gHkAUFVX3lxTE54YmVFQThUWlN2R3huWFgzUGNSNk9CdUdVWUExM0MxcUN4dUVGZVFQZFpNYlY2dElyV2syRjEzdTFfQnBQbS1OSG9hX3ZrX0FGemxXWTVtbm91c2oyQnFKdThIcFB6dzNSSG9xMk52Q2Z5d3ZkMlVnS0FudWhUV2ZCYnBQSVdvMURaeGFlMHI3Qm1oSWxZZEVPdE9YYzdCSkJfZmJSNEVOSGRFZUJUbVI5OTBtSFNZbVFhOTUyMGdFQ21aaFpZMEUtWjFac3dFLUp5YlFnOEUwRkxhUmJ4QzJkWm94Mg?oc=5",
-      "date": "2026-10-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "हमीरपुर: स्वास्थ्य जांच शिविर में 62 लोगों की जांची सेहत, दवाइयां भी बांटीं - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd0xLaDVObHozOUx3blJCenBleWFXekNFZ2xNQTRhXzk5SW1lb19iWERONUpESVlWQlJTbXoxNTN2UWRXS0lkTmRNZGNQNTdrTi1TUktBalQtcjAzMURFUllyYUM5LTNmQlJNY0VpSFo4Q25nd0VXb2NTZkRROE5ZVnY0bzVKZzNCU2FMU0x2Rk5lRWNXZXlKRW1PenZfSkE5LTZxczVNdEV0MmtmdlpLTlotcmxyc09ZY0ZabTBWODdKNXcyMnJTeGlQaTd2UmN2MGxIbHNGR2p1SVhaMU5YYW51cFdjMEpvRy1KenVQVE1GZ1VwWEF6UUd30gH_AUFVX3lxTE5ZNFRzeVh5bFNIc3ZRUUZ0RE1wX09acDlubjVlb0kwUWtraVJBMUxIRW41VGMtUEsxcjRXVWZPandrQTdKRGhlZkZtNzkyZ3dHaC1UbEJ0cmVyUTI4Q2I3MzBMN3RYYWk3NGYzcEhReXg2MnBpSWpGVlV2Y0tlQ0ZmMHhILW1qUFM4cHJYQ1MxMEl6U3RDSDFlc0JtVDNnazlMNWlLVnVTR0xjMUxlbnNvVndIX3RINVNkSkRDbmRET3JJMU10ekdQNEE3MWpWUEdsRmJGMEd4cUdKMkg5aHBTOWU4LXNXYlVTMlcwTXFFRS1uZFdqV0VuTzdsV01zMA?oc=5",
-      "date": "2026-09-30T09:51:22.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Video: 125 छात्रों से मेस का पैसा लिया, मेस कर दी बंद, छात्र दे रहे धरना - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeGlJOFF3MDRqV3YyT2ZoQlVDamV5Q2xoSTgwUFBuOFM0WkNSa1lsSndYSHBHb1N1MEpSX0YyREZxZ0tNUHdRQ1NaYndXYWJJX3VEZ3hnZ1dSektsTFFpd3p5QXVuS0I1anpaaWUxMV93M09FWUZMVVRycms3NHh5alRUdjBQbnd6eW9KOEJRNnBkaF90U1lFenFDRXhYNkZHU3VfcXh3eVFjSl9TWndFNEEycWl6aC1EalRQaExxYUpRNzNvVjYwU1ktaTVZOGV5cEdIVENKOUfSAd4BQVVfeXFMT2lFblhnM0RkU0xnU3ktZ0pSdnYxM1Y1cW9QV2pJeUszeDZCQXB1dVRxRW1zRW00T3c4clpaV0l3SmdpNnlzcDQwQ0xFVEVNNlEzUkRSRVdUREszU3pVaUplOU45cFJ2TzVZdjcyNDhzeVp4NTFmSjZuV0h1THlOM2cwYndxd0RTM3NGRzV2SVpzdkQ3QTJFa0FJNE5oVWUyOUQwRl8tVXllYy10LW9ZVHdZRHBxYzlSNXc0d2dLX3hvSkN6b05NV1htemRONjdSQi1sYzdTU1B0QzFPMHZn?oc=5",
-      "date": "2026-09-30T09:34:23.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "कानपुर: अमर उजाला अपराजिता की पहल, जुहारी देवी गर्ल्स कॉलेज में छात्राओं ने सीखे आत्मरक्षा के गुर - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbG1PeXFXaTZxLXdPYmMwUmpXZW4wUUZXdTlUU0NNX3lWanJIcmtUelBlSkwtSDBfLW1uazFYUzdRcllMNTg0ZDVDclhvV3VUNG9fM1hIZ3VoZGd3UTVrLXJlTUhhMXktMjlxeDRRclgxdTJGSTlyQWVMMTBURDd5U0ZiaXJxakNTaG5EVS10Q0o3cFNHb2hydVc4VzJUbXNUVGUxMU5rRTNYRzJ6bllBMk9QQ0ZXc2FkajNQYWdDUF9ZNElxTmVtdWw0am91N2lpZHpjbV9uOWhCbU4tVG5DUG10S09iSG9kQk9zczJjZ1pSdlp2X0c5YUhVQW5jaGJ6ZVdzT1hiQdIBjAJBVV95cUxQcEtDY21tNDlScVFmVU5mM0p4NkFKd3MyZnVJU2luQXZUcmFYMHd4alNYcnprYzFheFZLTnN5S242emZLVWlSN2hrZGtMMlZFTkFoWWxjX2Npd1ByZUUySzBIU1NFZ05meHZQUnV4a0ljSjNpUnJaUklRSEFJSkNsMThEODgzUzhCbk81bGhUalQyYzdLSlBtbExRTEtrWlZlcm93M1ktMWZ4Q0U5cGQ1ZEZBN3NDZERNbGhMd3ktZGRybVlEN1pSWklELU5LQW1jdUtXMnd5UTlKelRrTGp2RUVUNTdEbVA1UjFTZkx4czZDR09KeUNrMnlOT2NPR1NkNGxlc3JPZkFHMzlG?oc=5",
-      "date": "2026-09-30T09:32:04.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "कुरुक्षेत्र में धान खरीद के लिए गेट पास को लेकर दूसरे दिन भी किसान भड़के, अनशन पर बैठा पूर्व सरपंच - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVnJFd0pDZkdlaTRyLUFFZzM0ZlpGeVBxV0E4ZUN0U040UkFfU0oxdGluUmNsRk9STHNTbF9BYTZvNWZwSU41XzBMNDJUT3BVeGpVNjYzTVlMOUhIR0ZITDI4THhxX0VTaEJqUG9wRDFaRkQtQ1RWR1pEVEpkeWxsVDVTeVU3SGhCaGl1MmRKWlo1d0ZvZEx4NTQwZUJBdWZYaXZrZ3JTMzNBbWNqS3pZRWdoNHgxSWt0cmhaQXljb09LNjNVcm80ZHExWlB2dU9xTklLMXI1U2xGUDVmYklzQXhoMk1HcThLOHFRdEZzZzJtUnQwRnJLX3hYYVJaZHlzX2gyLXl1cW04NmdiVWJ0djdYakY4Qk1rcElfRU55VlRva0tyTE40ODNjVkhSRjRtOElQMERfZFpwV00xU0R0b0Q3RHo1UdIBywJBVV95cUxPcTZ5UmRkODN5T2JmdWRWWEJiNUdLVGRoTDdjd1l2QmhxREZtOW5LaU9uckVOMDRjVU1heUhoVDlCaWM5VjdLNExBYlcyeTZxRERTaGJjMlhNYXo3ZjFHRUpna0FCdVEwcXNvTkFYNW9tbXJjbUtCQmFld1JGeTNzR0RkbzMxZV9Lb1RlNjdXTzhQR0FLQXB4NlNWaHVyQ05SbTNCQXZIM0hqeVJncjBiY3hfeHlYeloyR2hfREVMRGtSVUVnSHRuZVVwbGtBaG9XeU03UTAzamNBM2IxcUpycFV2ZFlnOHVLajkxY0JBZmFQVzBSZkFYRjBWZ3RrTWVxTGhoeGxrOVlCdWpyVzdDeVhORmJyUW01ckhJMzcwck55dGRGNGZVTksxY2lpUU9fa3dQS1RRXzZCSzU3ZnFLdlhxck9TNGdaQkZF?oc=5",
-      "date": "2026-09-30T09:20:54.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "हमीरपुर मेडिकल कॉलेज में शुरू हुई गैस्ट्रो एंडोस्कोपी सुविधा, पहले दिन 6 मरीजों की जांच; सिर्फ 110 रुपये में मिलेगा लाभ - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmhUYmlHTEthbTZSeENiWkdWMmdGVV9GXzEtVzJPdW85aFc1VVMzUGYtYVdqX1lDT2tmQTNFb3NpRnRzVzREYjExaXQtSW0ybk9nV1NWRnBTNVBfc01CMkJmck1GcGVfWV9oakZ0UUlRdnZubW5PNDNPWEQzNVNEWThOQmdhUHFmMUMwUGlkS0M5VG5maHc3SFJCVDZDbmRKNUhWelppcEdnMzdrLWdFanRuZ1cwbGEybFdWX1ppU3M2OVMxbnpzQ3cxaUd2d01CTnFoZGJZcWJsTjI2eS02ONIB5gFBVV95cUxQMVhwcFg5QzZ4dEw2S3p0ZFdaZVNzNG1QTHNreHpCVnR2Zlh6amdIcWNZejlUSXR3S3dVUmpQYmExMElncmFDUWg2RlZNcHVnQVVsRG5RQkpkYWQ2eTZWb0tqRThUa2lYV2RiTHdmZGJRaERmdWdDcUZPaG1CRm9pZkVGOVFRRHUzbzI0bHpHbkJMTGQtaW5ZdDBfV1NEcnMzLVBVT044SjlmdnRscndTRWFiREtuU19lRnNWRlZQLTFkR3FvYmRFVm5JbUptd1Z5eklqcW1EZkxUUzV2TDRPc0EwZUlKdw?oc=5",
-      "date": "2026-09-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "एशियन गेम्स में प्रिया घणघस ने जीता ब्रोंज, परिजन बोले- जीत हार चलती है, अब ओलंपिक पर नजर - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQLWgya3JfaFRZbkVUX0Y0Xy1nWllUdFVFekcyRGNxdVo1TG9ZSVNxWFVVQkdpQmhHTndtVjRwRWM0cEdLWWN0bHdDdkxEQ3BLd01Ma3pfRzJ3eFpNQkpvMzVkNEVOTnRJT3BjTkNqcGtqQWtJTDFRSnVYcjhuTldPNGlkOFEwY1lsUDZ2WkpxLV94WVZkOVVKVlJlMkFwVVFLbVJERkNuaFFFeDl1WVZSUzE5SmNNUTBBcUphdi0zeEtjRmoyYXBBWUR3T1lSOHRuQUJQSGQ1Nko3Uno0bThwZXBTUGNkRU8zb29wVFIxcmliZk9PRXMzVHU4Q1lkUlBjT0p1cEE1TVJTMTI1bHc4Qk9yNNIBmAJBVV95cUxPbzRFVDJVMC1sdDJKWHE4WGc3VDFQZzNNdTJGeEtiUm9PN0dCZE5SRjA0N21vN2pRTFF0UEQ5SjVvR3ZDdVljYmJmTlNLSWFiSVNUNWY2NGZYYy1scWNPcFY0STlVR01fNTlhWTJwRWpFYkhQX0FRczN3cjZwaXdjQ2pOcEhuUkxmNVMzSkVLWUVFaldQMFRNVjN0UHlwQWd4N0JoTGFrZ2tCa1VkRVpxZHRNZ0ZabmlUb0hSVVdQRDB2d0NlcmlOcWZCaFVLMWVtUmQyY05MTGlzcjFFTDg0Tmk0YWYzOXZ2REtCMHZaWWdrYW9ia0ZzNjd1bkE4YlJscnRmTThMSURsZHNMZzhkUHV0SXBHT19y?oc=5",
-      "date": "2026-09-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "HP to buy back Dhaulasidh power project from SJVN for Rs 800cr: CM - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVNncTh1LWUxUm4ycU5MTHBjdTJJZWhmUUJRQnVjZVVOcm04MjhnTkhXSmVyNlg1U0Q3MHpyQm9qaUZHdEdYQlFzN2ZrR09IQVZSUDF4TUdjZmhTSjlDR1o2bklVeTJYWWprcWRlOW9iMVRBaEpseEQ5OTdfQjZDalZOSEZuSm5wVHEzVS1jRFNUXy1zYnNIWTFadmQ0YS1WcUhud19jcUIwV2Z1OTFGenhfeTAzUUFYRll6eG11V1ZjVndENUQ1V2ZhTFEzN1A3TGFMV2d1VkdjY0XSAeABQVVfeXFMTWNCY2JRdjE3VWxFVXNDZ2F6N1dRdE5zRHRKQWFwSlpvaFFvUjhpQmRZUW5ndzh2U1pEUGdkd1lZTHZGNU01ZlVVQ0RVMmVQVGpIemtZdUhKb3EwZlAzX1R3NU1pcFl6QkpLbC1qOGl3aGp2dVBRQV9fTXAtSDZoWnFydGFueE02R1c5dzN4azU4cWtfc2NSUDYxUXlVMEt6TUVjSWJEeVVsamM1bmpHSXY2bFB1U0lOSjN0THRDcHJaa2FCNkp2Y1d5akVHdHpfaVVlU2JobnNLYTQ0RHJiUTY?oc=5",
-      "date": "2026-09-18T18:36:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "एक और प्रोजेक्ट लेने की तैयारी में हिमाचल सरकार, मेडिकल कॉलेज पर CM सुक्खू ने अनुराग ठाकुर पर किया पलटवार - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVHVCbjBRV3JwS3JIZE4yQ0NPdERodkZrVjh0ZVZ5UF9idFVkbUJIQ3U5dmdCTHlLdE1PaEVuYnZQWFRLckN5WGZubGhYX1pCc1N2d0FYSHFXbFBFVlpoQ2NRZkZSb29rTV9KLTNCVlZ3aEZzQUZXR0JvbURZRl9nTS1CY29Mai1pR0ZvVWFPem1ESzBaSGd6OWNrcHZIUFFvMGR5VkV4RDYzd29ZVEM0emU1dkJvcGFNd1hXWFhSQ2U0dTdzWUh1dElvaFBiS2YxQjFzOFVJejlRUdIB3wFBVV95cUxNVUVYU2h6LUlUaUJWU01IOHpkc3NMclhNV1NVeXFZZ3AteXdHcGZuZXBfbEhfcG4ta3VhSjhmeWNkTGJ1Nm02UVUtRlVrbVNfbm41WWh0N0lGQUQxa3hCaUh3Tnlsc0JFY3BCSjRXcDhHbmF2MWFyN2tUUXlHVUtjWHpLYmtoOWJKZEtzVV8yZUJGTk9tbkY0LW5zbHJBcnM3RWxmUzM5bVk0S19nQUVVOHNfa3VRV1hlaVhlMUhqM0hYNGt0elRGQUo1amFxOXJLM281cE5tckY5dk13cU1J?oc=5",
-      "date": "2026-09-18T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Hamirpur (Himachal) News: हमीरपुर मेडिकल कॉलेज में सर्जिकल ग्लव्ज की किल्लत होगी दूर - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNkdMQXZmTHFMaDRyd0tSc3ZoQ1BQN0lIRmxlbkx3aGVHYmNJc2lGclhPbXMwQlBFSE5mS1RiS3paak1ZbHc1aUFGMXdtV044Zy04NXFOYmk2aHl5dF9ERmxnaDZfcHQwVFlyQjZaRmZKUlliLVY5Tmo2dnI3TGFKR0xBbGVkMWhxUFc5aE9TN3hWQjBRY0g3UkNiVFRjM2JkN3k5RFhObTFPVVFFRXMzd1dfdTNGUjJRejRJMFNyQW00ZzVqaGRoOVBfRkJLdTRnSkVhZ1RRWTJVUmNKSlk3MXViWVJPOWxoQXRJTXBYU0g2RENxeWlHOWQ2dThwRDRjek9BUUxR0gGLAkFVX3lxTE44T0oyTUN5YlR1XzVaYk1OMnJsdF9qZWZ5aVNtUUY2RmFRLWNWMzlzZndMUkh3SWRqSko5RlJnVG5tc1lyUWdRSFg5UWdvaDk5WW1NZnZiNXVqWkNndnpTTnN5MF9GYVpFelRJVFVzLUxPWkhabWdNcE15amZ2WXZCb095YWplbXhyVy1VYWpTZUdhSmMyb1lKWllwUnFhOHVlSEQ2eVM2Vmc5cU1UQzc1anpMZkJuSUdjSl9xeGdOYkFDS205TUUtVVU4OXRJRmx6ZG9uVkY4MnBQNHkxV1JXSWFjdkFLN1E2OFQ3MHdieS1lX1dlTUpHZFM0OWdydUlPaFpWRm93S3JlSQ?oc=5",
-      "date": "2026-09-05T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "हमीरपुर: मोरसू के पास टैक्सी-ट्रक की टक्कर, एक यात्री की मौत - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDVyXzJpQno5MWRGUWh5UEUzdmJjTVg5NWRoOTQxMU4wdlN3SnVJSVZYcUtLVHY2TVdwQ1NZa3FxWFg1b0dCUW9LMEJzRTNkWU9MbzRodkNTVkJna3lucnNRUnF2cGs5dmlyZDdzQ2MyOHE3VjBrdkdCRG5vd3NNQ19NalZicmtxV3ZpejROZ0ZIQlVpYkVqWVhmcS1udS1mNFlsQS0xVUdnZVg1YTNIOGY2WlV2VjdHd0s3NmE5bElzSjlKdVHSAcsBQVVfeXFMUE9qM01rQ2Vvd2xtQTJJbHpESUpoY3hhVF9lZ3ZvenJyUFN2X0p1c3pCOUh1ZWNzSGRyUEhaRDBnbk15Nm1xVzI4SjRhMWtYTWNsSEVwVzNvR0RpUGZlM0JuYy1ES3YwN01Sd3o5T1pyWVd3NEczOXZISXB4NlkxRmE1NUoyUlU2MlRfNjJkQUtnblRxWVNHVHV3MHg1V0ozTkN0cGR2UWYyTW5hMGdIcFg1RUw2cnVGelhfcWxjX1hvM3dPNTRJTlZBUTg?oc=5",
-      "date": "2026-08-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Himachal doctor donates Rs 80 crore property to Hamirpur medical college - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNE96M0pRWDZ2dHpPSGFiOEQxXzFMMFV3RzhjM1BUTXNKeTZEZHh5MnNxd05OYkZZcDB3T3BGenVudGhvTGRGUWtycG5tMmhURVY5bUU2Qy1fYm9JTGFPMDhaQzlCZThKYjdKWlZ1bUU0RHJnYTA2U21DVDczWmpRMFBVTEFQTVFhX1BQMnNycC1xVnR3eUZqR1F1TDYyOUhGamxWbnVR0gGqAUFVX3lxTE1HdnNxYkp4Zkd6Ny1VX2F0dG5JY2d4MTRBVXFWZTNDeUhWTXFTMVF4UG1GVmJGem1EbGEtbkxIUy0yRUtISmFNVTYtTHExTFNDZWNjZFRCYzRITUNyY3ZVNllJamI3TVE0eW1haWxsUC1Hc3p1Z1NwWWQ2M0UtNEtvazl6RFNRZjk0Mzl2c3V1M01xeE5xZy1ZTjYwenlqbTFCdm52djZmQU9n?oc=5",
-      "date": "2026-08-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Himachal: 77 वर्षीय डॉक्टर ने हमीरपुर मेडिकल कॉलेज को दान की 80 करोड़ की संपत्ति, घर बनेगा वृद्धाश्रम - Dainik Tribune",
-      "source": "Dainik Tribune",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZWZNVWR0WmZGbVh0djV5VUV0YjNNdG1EY1M1MGZzZTJJdTJ3dE5YMkx0WWM3bExKY1BSZndDQU11UkZ3NXpDWmVKTVV6WFhBUmE4dEh0X21SaWZhUjhfdzJLa3liRVNSdnJYNGtvWnZyQ2M1TjZWUVZITlZqMnJxbXZEUlJRWm1ZNGV0bHJmQU9oeV9vVkZUNFFOQ2NlbExTVFNRdUJ4QlNsZlV3ZWVoNHJwUXN2N1k3elBtMmdOZ0d0MkxKLTQtdTQ1aEJQWTctN1ZhcTJrWHZpQdIB3gFBVV95cUxPV04zWUZWc2ZxYzRMX2IwMGNPejR2SlpodEN2UUxjcVJ1bDNuaXNKb1RXRVQyU0c4MHRWRS1hN0Ztam5TejhnRVFuOWxfT1dsanV1Tzk3cmdmTkhSNmhXZl9LOXYwem5JcmpuUGZkLTQtLTVMOGU1WEZYaHIxUGFERlI2bWZwRjBWSWlCZXh0Sk5HNktnT21XWU5ITUZIVjJGNXNFTDlCT01HT2w3UDJTa29IMndkSHhOSFdWYWpkbUFDNlhiR2Mwc3JzM2duSS1CMkVzczA5QXZGNmdpY2c?oc=5",
-      "date": "2026-08-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Hamirpur medical college set for new campus shift - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVBnUWNZclFFdkMtdGxENE9JSFZrSFZDRW5JdDNvSkxHNlVsSXRSNmlKOFhJTVQ4RjAzQTF4WnN2cnFDcnN2dzhSTjRCYTN6X0hQWWxIT2VlUDNXTjNpaTZQN1JoS3czQ1ZUejQ3a01ucXJGNFpsUmVhY0xxbWkxaDdibmJsTVltTXBlVXo4aE5OdVRGbmFfWtIBnAFBVV95cUxOZmUtek9Ga2diMWd5UHdncjg2eGJwQTJUU1lGSC1hV2JqWG9uZmUxQk44NzJkdzFxc1lfekFzRnBXdER5Q1l2U2dHdWVSX05qZ3p2MGVKQXpGYnJCQ3FwbmF2TGZjWGwyYVFONDU2NWRyUE5mekI0d0haRUFBWUI3dzhWeVp0ZTFGLVFNSVpxcDg0WHg5bGxfT0dORGU?oc=5",
-      "date": "2026-08-05T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Two Pilgrims Dead, Several Injured After Bus Overturns In Himachal Pradesh - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeE5PMmgteG5nNVdmSndGTzNvWks3SEZZX0lPNTNyaGtlQ0I1UVZ1MzZHdjBwS2wxMG15UHlzMENmbnYwREU1MHAwck5QVElUbXQzNWZTbEo3UUFvYkxUXy14dWU4X0stYjdqUGk0TXk5RkhfUUJfMFdscXpKak1jLVQtNXpLOVp0VGZ5LWZCbVlhUktDTXhoeHowSWJkRmIzR0VYejVUeEphSkMtZ1RsQzdfcnVEMEJMWlJ2dzR5S3F3Y2NWTlB2ZzVUdHpPZDlydV9jbE81czNfR1VoQmhUbzlRV1Y2LUphUU9nUjVMQlNTT03SAfgBQVVfeXFMUF9BaE15VGZxWDVMQTVaRkEtRWtiN0tJdnIxdlNvWl81UGJ1LU5nRjgzVTB5UVJrT1VPN2VXNzV1M2tEbG1yb1E3YmZnakR4YVJEZHZPWnlvX1ZIb2tWb3pQQ3lxVmRJbHR5clNMcXB1SjJUSnZfb3ZyekVyOEpwdUhXZGwwU0laTXdEcy1Bd3FlSjFZZEQzR2hVWVBzUmlBcTlwcVpvWXJfSC1Gd05KYkgzRk0yd25kSkRNQ0RnZ1Y5Uk9qNlZxdXRIODhHUnhlRHN2aG5uNDkydkFGSVZ3NjlUaU82SmU1bVQ2WjFpVHFfbE1GTVZDc1I?oc=5",
-      "date": "2026-07-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Himachal Pradesh Government - himachalpr.gov.in",
-      "source": "himachalpr.gov.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QTV9ycWJyRHdhcUliWHZES1J0cGY3LUl1dmZLWkZMc2xnNFpodzJwZEZJcEpUSlA3ZzEwWDVCY01wVnJvdWtCYkhpMG5ZMWpQdnpETlY3OVVxc1oxemQ0ekU4dmdrcXNkcktEbUVUcjFhZkE?oc=5",
-      "date": "2026-07-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Health horizon expands: With Rs 350-cr campus nearing completion, Hamirpur medical college prepares to shift to its permanent home - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeW02NzZNemVOeTljMzROekQ0ekNIcy15NVBWX05DUGhzWko3bEpuM2RuWWZwN1ZOSzFfd3BmOU1MeGN0Y3MtTGt6bUV3M0NFdVlaYXM5NlVxWGE3dnhaUGtFYTlkU0hjQ3VKbGZGYlVXOTdkTkNsQUlaRE00eVVTS2JHZExOWjNhTmloOWd1RnU1OGdCRkM1a2prYUl4V1Q4bms1a09iZmhqMzJzb1U1b1d3WG9VdkY0QnVick9VbXdJZkl3RW5WVThEVGpRbVJqR2VxbXhwVGhiT2k0eDNtSW5RVGtzenFKSXlqOFhrRV9jU3Jicmx3RE53bm1jWTdiR1HSAYYCQVVfeXFMUF9abEhhVzFFa0VpbF9VVDdtLU5RNk5haENNN2tHcE9vaDY3ek1sUVRucVpESkhCMzNwdGRQTlY3UzNReDZYVGlVZ0YyeTFKRnFVUUhVaVVRZmM4QzJuZWtNbWwzYVZBdFhHUDhIRC1pYnRpWm9tMGdTMExsckJlSW5zOExnenVUVXZvdDJfTi1CdnBuUU5UMm9jRU50Z2R0X3JNOHl6SlpTTWx2Y3MwMGNmYnI5UVlCWjM1aGw2LWhKOHcyUExGVGVEb2FLeFFMbDhwb05qNUVaSFM1alZETnlUUUNWbndrbXJ4X1R1aWJWOEFwenRlYzB4aGJ6SGJmNzVsYl9vUQ?oc=5",
-      "date": "2026-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "'मेडिकल कॉलेज के 60 करोड़ के फर्नीचर टेंडर में गड़बड़ी, एक फर्म को फायदा पहुंचाने के लिए बनाई जा रहीं शर्तें' - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWxvZ2F5S1ZXbjQ5cnE2bFRNTFJkUXdpcXFQa1VxYmpPRmxKTVRJeldkRFlXazF2YTVsZzNrWUZfRFRnbEI2OWtON3VibHBoemxxVXgxNWlVT3ktS3lVMzN1ZUVMMFhPSWhUV00wVHAwcGxBSkdsZk5nYnBNYnl3bC1MYmpZcWVXUzlSNlF3MGY5RlpOUlNwd3Nhd1pTd0YxQUpjbllpY1VsTk1RakgxbXlnd1NUSGx1ZVFUZHBlMGxGZUhZb3pfcGEteHJrREdIRVluNmt6SFJVMFVzNmktSVJUS0RWeTFPNjBlOFdOLVV0akoyN2ozUzZKcENWTWVfQmh2dNIBigJBVV95cUxONlJhWXdNLWJyVkx4UXhFQmtEYTJPXzVDY01VcFFhYlcxMjNmWGhiQ04yT2tNUkJZZGJkOXBYMWRhaXV2MGIyeGZzMndLcGNaSEV2dDd2bFB0VEpWWk1jRDFfUjJ0NEphenp1Z0NncWV4WDBnck56c1pWeFJXMHo2dWQ5LWJhdHlmSjFEdF83ZjBqRmt3NVVBZEpZMGdwNjlQV2lxczh0N2w3MG84NEhVTDBQX0JJWXk5bGl1Y1B3VU9IWnZtYWdTV2dSaXk2eVFtMjhEck5UQ25uVllqSWp4ZVd3RklmU1JacklGVi1Nc09jVlFqbVN0R3pGcDE5WWNEaUdFeDk5OEhEQQ?oc=5",
-      "date": "2026-06-28T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Hamirpur medical college"

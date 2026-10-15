@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-13T01:03:53.999Z",
+  "updated_at": "2026-10-15T21:54:25.578Z",
   "project_id": "SMART-DHARAMSHALA",
   "press": {
-    "n": 20,
-    "positive": 12,
-    "neutral": 6,
-    "concern": 2,
-    "avg_score": 0.17,
-    "avg_magnitude": 0.305
+    "n": 19,
+    "positive": 11,
+    "neutral": 7,
+    "concern": 1,
+    "avg_score": 0.174,
+    "avg_magnitude": 0.3
   },
   "youtube": {
     "n": 0,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 20,
-    "positive": 12,
-    "neutral": 6,
-    "concern": 2,
-    "avg_score": 0.17,
-    "avg_magnitude": 0.305
+    "n": 19,
+    "positive": 11,
+    "neutral": 7,
+    "concern": 1,
+    "avg_score": 0.174,
+    "avg_magnitude": 0.3
   },
   "top_positive": [
     {
@@ -40,18 +40,12 @@
     },
     {
       "source": "press",
-      "title": "धर्मशाला स्मार्ट रोड पहली बारिश में धंसी: 18 करोड़ की जगह 25 करोड़ में बनी, प्री मानसून में गड्ढों में तब्द... - Dainik Bhaskar",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN2VCZ3ZweHFxdUF3VkZlWkRWU0otdEVHdGw4eDZkbXJPejdzdHlNSGxMQjdXT1FqSWVUSVppQjJfYmhzaTlzcmVNbzBnZ21lakNTQXUwQzZ4czRCRl9maUlONk9yUWhlMl9aVHcwNlYzYlRseUNBdnR4SXBqUldkcFVDcVRuYldwX0xVU1JBSFhreEo4NjdUWEE5ckFWblM0TzhLZVpKeDQ1aXNsWU5Xdi1pVFZjWnNmUnNBSXNBN1NmVG1PU2lwUl930gHPAUFVX3lxTFBmck9IMWRZWHBSeE5Ob2VlQndhQk44eUZRaWk3RU92MENKckRERzY4OFhlbjcyZ1Y0T2ZWVWxjN0JCZld2S0hlMG9jTnVOVkpId3dSZlpBb3JyXzg4Ym40ZUtxbC1EendaOTRrZHhwNjJYbFZmRTdKTldNNVlqQWJpTi11V082YnpWYUp2QUE0Tm5HUjg2UjBUTThTeDRpMENRT3FOTlZ0NUJkT2NyRldSZTBkZTZRdDRTcmRIT1hkRHVEYlJNY3JGNlNEZk8zaw?oc=5",
+      "title": "Dripping Springs library celebrates four decades of community - Community Impact",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclpKclpQWmdQRm1ObTB1ZXdRR3FOenZSTVVrelpaZEVSUlEyX1FHUmxKVlNVdVVFTDkzb0wycWJoMUF1VEdzUmtzeGJubFlqMVl4QU41a2kxX2N4M2RVenppdFFGV2RjbTJ1ZEpzTlBoWWk4cDhERzI1TzQxbEhVdmtMVWxVQUlJbmgtM0pFR25zTWtGblU1OTdESng4WlMxSlRfaF9qSHk2RExrby14QUVrUFo5ajRqcUdjRm1JVEN4MGFIZ1djLTl1MHNHQQ?oc=5",
       "score": 0.3
     }
   ],
   "top_concern": [
-    {
-      "source": "press",
-      "title": "Ribbon cut on Dripping Springs Library of Wheels - Hays Free Press",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1I3cGk1TVhnQmhpaDNhbVF2TXZnUTNiN1hoQ01ma0lzVm1WSzF1ZjFreHRWdmQ4WUptOGFpM1RLVk41Nmcyc2hvUzV3YmNLakRyVXI4cS1LNU85b1ZNUGxsclF1Wk42eDB1Z3F0X3BnemZuUFMxWVJHeGxSQUZxcGFoek1kb08tQS0tUi1FRFN1a0dmaVcw?oc=5",
-      "score": -0.2
-    },
     {
       "source": "press",
       "title": "Himachal CM inaugurates redeveloped Fountain Chowk, E-bus charging depot in Dharamshala - ET Infra",
@@ -62,6 +56,12 @@
       "source": "press",
       "title": "Penny stock under ₹5 declares Capex expansion after closure of rights issue worth ₹149.22 crore - Livemint",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdGFScTA5MTlpazBiaFZRNHZPeUxsUG1rRTdrSlotckJUNlgxSk94WW4xT2NXNnVOZTRGSGh6MEZhM3VvQnk3eWRzNFlaV0VlZXI5MHJsbTgteTJkWFN0NHBaWTNsendSb3E0V2JmS0tWbzRaNUtKU2VPS1R2X3hWOFNrY2pXc3FwWWgwVUxwT2xVS1R6cWRxLTVzQ1hvVkxJRmRHS2R1dF9wV2hSM3o1ODN1VFVTZGhMZEEzU1V2VmhkUTJBdUxBdVcteHlyLU5ma0h2cFZPWjNjTWU4SU5CN25nQWZyR3ZTMlY1LTRvX24tUzU1aVkyek9rcEdSRlJOTE1VVk1GWU40WnhINUtKZ3habm5aUdIBmwJBVV95cUxQZ0VKanBxUm9rdmVEMUJHZ20tUmZIVGRMbmZySjYzM1VTNml1bWZ3SGdwdzF2OEpzbDNhMGZHVEZfTDNIbHExQVBXTW0tYWNCbEF2ZFVCcVJsWGJ1VzhYT1VBekt6bWlOQWs2X0ZULU4xaEZ3ZHY1WE1ENTRPV0NlLVJObWlhdEdpLUp3WDUwMmFOcV9oRWI4cXRySDd5bDJCYVRPWlV3VWdfVjNrVzJVcDRFV2tPWVp2emNjYVhubHQ5WkdnYWdDa29fNGctNnRYTDFUcF9qLVY0eHNXZFRxajdzM09PaXhVSUJwLTYtZDl1T2tjdXdUQU1JV1pTdDQyR3RQMlAxaXQtcmdmV19DemxoR1J2blpsaHhr?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "Dripping Springs Community Library hits the road - Community Impact",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BxMVFOMlJQRzlYOGJ0dk5CaDk5NGEzQ3pSQ3V6enpmdnJ2eGJrdXBwNG9sV3VhdFA4WVFsQW9KbkdORUowcU1oaDZqcmZhT3VUZ1pNX0V4dW0yN1dXeENtTDFGZjg3QnVSQ05MSmFaS1I2Zlp5clBhREhrbTdpSzIyNGhYMXU0SzE3SWtxREkweUNNVjNVbEhRb3F4MXFQcGFTYjg1MFV4SlNMa05OUTNuMC04T2VHYkdSVDNB?oc=5",
       "score": 0
     }
   ],

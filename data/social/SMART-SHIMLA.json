@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-13T01:02:26.614Z",
+  "updated_at": "2026-10-15T21:53:06.316Z",
   "project_id": "SMART-SHIMLA",
   "counts": {
-    "press": 69,
+    "press": 56,
     "gov": 0,
-    "en": 32,
-    "hi": 37,
-    "total": 69
+    "en": 28,
+    "hi": 28,
+    "total": 56
   },
   "mentions": [
     {
@@ -20,8 +20,18 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "Shimla: CBSE स्कूलों में तीन बार हाजिरी जरूरी, तभी बनेगा वेतन बिल - punjabkesari",
-      "source": "punjabkesari",
+      "title": "शिमला: गेयटी थियेटर में बच्चों ने दिखाई कहानी कहने की कला, छोटा शिमला स्कूल के 40 विद्यार्थियों ने लिया हिस्सा - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXp1Znh0Z2p6SG5jLVlwZnRRUHZ0MkJ1Q3lNS3NqQm9WTjFQRVc4ZlBOMEF3V0VpcEtreXRBZGo2TEpZNnpoTHJpOEI0Q1NVcjktUEdJbll6U3RkaE9FTjI1R2dxdkpucHY2V0dUVjhrd2QzdWgySE96RTVPQjNLT1Vvd3lCejBpakF4OTZ1bTRqMzNJZnJHN3hPVjFsd1lhRU8xNW1lWXU4T1pIbklUNXpuMFdnR03SAbwBQVVfeXFMTW40c3RTbUpFdXNLdnRkWUZvem10TXBCRFhKS0RiQnNGaDB4OTI0NkpzVXJzWGJkR0pYWWpwU2drX3Q3Z0VHclFfdXdBbzJ2aTI0RUhjNlZDeE5IQlhZWi1lU0VEU3d0NDB6WXY1eTY0UUpUQjBIMG12bnR1b1hnajNuSnAzRjlraG5hZDdSdnYxVjVXUlowV3ZJMGd5Q3UwV3ZYT0t1NjZWS3F2SlJNT3NLbXFEZXI1OHB1cHQ?oc=5",
+      "date": "2026-09-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla SCL"
+    },
+    {
+      "title": "Shimla: CBSE स्कूलों में तीन बार हाजिरी जरूरी, तभी बनेगा वेतन बिल - Punjab Kesari",
+      "source": "Punjab Kesari",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2QzVWhadzJkdGtfZlVoOFV0T3dJVGdaMVZELTBsc0RHelJSTHU1ajFXNm1RN2FpRDJYUHdtWkFSMUpqdHFQdGxpb3dVMTBGMkQzZkhGLXdiWU91bzV6Ym5xcGJhQ1VTbUVGc05nS1hHTHo5OGdUUFRweThVbnRpdVNIM3poa3hPTE11VnFDYjZqMG9KXzQw0gGfAUFVX3lxTE03N3ZnMnZfWGtFNFlON1JWeWhXMmhiTjZPUkQxSzVwS0dJdDRmM1J6WUlOT3dQQlI4dHp2aWNWNUFEemt1dXNUaUh1enp3cFBkcTlDSThSc0RXcnpkZ0R6Z3paSEhsQnBIWUZyb1ZSMm5VLVcwZjVRZHhiNEdkM1NyNEg1UUxzb0NFVGlDeG5OVXdDLXNweXZzNktweFBySQ?oc=5",
       "date": "2026-09-14T07:00:00.000Z",
@@ -35,16 +45,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkY1ZS1nWFZqcC1ncnJCVWJtVXJab0VaOUJjZ2pjRi1HczJiWkttc1hXYlp3eVE5dUVSR3IyOTRmODJDdTFOSjRleGtlaW5YT1praElTUi00WE1xMGZaVklodzk2aEx4SUpUVGthTG1wNWF2NDZ3ZVBNWkN4eWlJRFIwdUQ4dndCUDVyUmNRcGlLaHRfTEl3SjBUaGVjdEY0aWt0a0FIcGhHTi15RW1oRUpONXpxTEhmT055RVgwMENKXzQ?oc=5",
       "date": "2026-09-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
-      "title": "करोड़ों की स्कूल संपत्ति के लिए बहन की हत्या: शिमला स्कूल संचालिका मनीषा मित्तल मर्डर केस में भाई हिमांक गिरफ्तार - Lalluram",
-      "source": "Lalluram",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVG9pMnh6bmtMVDdieEFBQUlib2JwaVFIVElRMUJWZTZHUTh6WUFBbnhsUGtrdVkxeWdwcG8zdDV3U1pzeEpqVGVWTmdUdDFZaTN1VUdMaWV5WUEyaU16UzBUVlR4b0NYYnZJYUNJMzh3UGVMNkRUSFQzYVZRSVQ2QS04MmU2Zy1ndWpOQ0IxaHBTeTZhb2FIeFhsUQ?oc=5",
-      "date": "2026-07-01T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"
@@ -120,16 +120,6 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "हिमांक बोला- बहन गलत लोगों की संगत में थी: शिमला स्कूल पर कई लोगों की नजर, इन्होंने ही मनीषा मरवाई; सिर में... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcU5DQUR4c0ZFZWZBTy1mWHRQMjh5RHRITmxBaTZxbUdIaE9MY0ctYVM1bHBrZ2JWZHhTUkw5OE93SjBycW1GM2xFc1RkODFTWHBmYS1SSm5wVkszSEdFc1cyS1JaYVo4c1pTV0hWRDFDVGZyWFdUbFdCTzAwbmozTFBIOVlPbjBpWGNJdjFsNGhkVFh0N0d1M0dfU1ZPMy1KaDEzMEF5TjBnVnBVbFo0Tm1xQXBJLWFHcVV4WWhUelFXWXM4MUhMZW45RTBfUnQ2cWFN0gHYAUFVX3lxTE5XVlpsak1pSWd6Wk9hNjJkd21XUG1ZNFllVjhTWTlJczh1NVpJNjJFRldpUlJLOXRnSk5VRG5aVlBwQ25MV2lZTWY5aE9EVmF0U281YzRPNXNmaE1Sa0lORWU0UExfcTdvczU2LWo5XzVnWVpfaTQzMkxtaWFKRS1Wd25fUDJleXhBdm4xTmpMOUtCdGx1UGFyNHozbnkyeWFRa1lhc3RPRlRBTDM0b2RDU05YV05PMTQyUVdZNU4tX3k0bG5DN2ptR2NyQkotNmg5QlVxWFZReg?oc=5",
-      "date": "2026-06-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
       "title": "शिमला स्कूल संचालिका मर्डर केस: चंद घंटों में शूटरों तक पहुंची पुलिस, हरियाणा से दो आरोपी गिरफ्तार - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -154,16 +144,6 @@
       "source": "News18 Hindi",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ2Q1Vk02eEFHbjRtLUtsOW9nMTM2NDFEWjZYSDZRc3RnR2VPS0cwTmxNcWV0YnF4VkhMNU9mRkNFei04RHllams1NVRaSi1mR2ZrSFF1elYzcHZJOW42NHAxSDhMRDktMENiVkZxVldVZXlTZFNxd3Blc3RDTFJlUVR0dFJwbENuMEUtOU50eW12WlA0VjVRc0FaZS12MFNSQ0F2MHFNTURfTUk3ZkpFUVJYa1ZkWnJhUk04d1N4Nl91cFd4b1I0ZGNkOWhabFhGWVNoSzdKUHdURjRfUGg00gHkAUFVX3lxTE1BWldfQW1rQkY2Nks2TEtPei12M2dSTEpBbzRoYnc0VGhodGVQdWU2VFFvY2RxaVphOGRDTU0xMGxUT19hRUJZZFNvUmdLZzlRVkNIWFpCak1ycTk0RHk4SU83cDlLYmNZTlVGQXFPN1Ayd2oyZG5XcDVRemtubWI3SlZxdHE2ZHdLN0Q3QUtVakJfN0tOX2Q1YzlKYkV5dHJuanU5SGJYR2FrcW1wZmcwS2NwTm44a3RrMjhoa1pRZU1raVlCZzlXbUcwYnF1ZFlmalVRbzlLbkw3R0NVSGN6M3NEMQ?oc=5",
-      "date": "2026-06-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
-      "title": "मनीषा मर्डर केस- पुलिस पता करेगी-किसके इशारे पर मारी गोलियां: भाई बोला-हत्या से लेना-देना नहीं, मेरे भी हाथ... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbzVkSEIxeVBENGNpcnVQa3E2ZVhwdVVpS2VIakFELU5NMk1YZ0NTTGhjaDJ2a1h4WnJWTWIwRDNmLV94eDdqeldDOElCQ0Q4UW1rSVg5c0l5bVJST2dRUUh5N3hvdmRnZFBVOG11SUpKYktBX2E2VG0wakc4Y1pfOFN3b043NHN5aWRqa0xGRGc5WG1DM0ItUlJnQmVER0JlNjB4Z0NyZTTSAa4BQVVfeXFMTkN6U0h6aHRiZGo4azlGWXZfLU8wdnhjX0N2YjNTcEV0bjhhU1BzZzUtNFU4cjlqREhhVXlFcGNyWlpQZWtnaFFVam9uNTJwTUlTcUxVRTdsellWTTFRVi1CX0NkZ1pFanJqa1N2MExGZTZrVF9HbVFySUJvUDREQlRGMlh4aXIzckJuTzVGenFpX3hOVS1yNVpFNEsyU1RJN3Z1R0pzZHY1Y3V1SjJn?oc=5",
       "date": "2026-06-15T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -208,6 +188,26 @@
       "kind": "press",
       "lang": "en",
       "match": "Shimla Smart City Ltd"
+    },
+    {
+      "title": "Come 2025, key Shimla Smart City projects to see light of day - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS29NVG5mN1Q5R3FtYl9oUE9FdzVaeEhoMzhmWmtlY0NvMlEtZGEzQ2MwbnJKS1ZYOXY2RUFqUTFaZF9pMUgxX1J3MEN1VVNwSVFtNnc4VV9OdHNZVml1UlNNSGNsdi1lSS05UXk5U2hTNTI5ZXJJNjlsQV82ZG1Tc0FTZ0R6VGl2STZES1RWQXhsX29XTnNOd3RtZUFESUJMQnlHLXRJc9IBqwFBVV95cUxNdDFmLXZ1U3RNYUJhSThiZnIzc0FKOFdyMzA2eUt0MnBFbGtZdnFRZXFPXzh6ZUlUZDJZaVhsU29kR25nVExpLWxuODczcV90QTVWUkZjWUZoY3hEa085Y1ZxbVVuSmgxZFBYNGFhRmpXVjE2OXVYVk9lNEhXR2RIbTN2dUpRLTVFRVFKUDdIQ3dvNk15V0w3LVA0dklkc0tGVG5wUlk0bVBqT3M?oc=5",
+      "date": "2024-12-31T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Smart City project"
+    },
+    {
+      "title": "Shimla Smart City Mission: Videography of all dev works begins - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGEtbEVmTXQwLWk0TXRlcW92Z1VZd01yeVA5Mkh3OV9hMUNvZ0diemJlWnp0SlVhU1p3VVJPWE1hMjZwNWo0d0x3Uk5KZW04T0pYTzZsRXF3SGVwdU5ibDRtX3hXU1JMc0gzMHlXT2t6YzRxaF92ZTBwTGNqOUZybzdVVV9NWkhUM1czUFJWaS00LVBqYzVSbnJncFZ1c25fVHFINkpDVjXSAawBQVVfeXFMTWFhMW1Lc0xiTVBkc1YtZ282QXgwZnFkdk94NnMyRnR3aHBiZGRVQzRsQW10SjcwS3A1WEdlMkFxVlRtNXhGaldENk4ySDl0bnhHbUthY0duV3R2YjJZTzZPTGhCNVpkZzRTZTUxQlJoVE1BdDlpZmRQSFNDYUcxcFRLemYxNUxmRlZ2cWRSdXEzNmp2ZEpXQjI3bFE1cEVRZ25GWjVVUFZ6dWZENA?oc=5",
+      "date": "2024-10-23T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Smart City Mission"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

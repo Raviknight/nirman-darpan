@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-13T01:03:56.966Z",
+  "updated_at": "2026-10-15T21:54:27.009Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
-    "n": 8,
-    "positive": 2,
-    "neutral": 6,
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.113,
-    "avg_magnitude": 0.113
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "youtube": {
-    "n": 23,
-    "positive": 4,
+    "n": 31,
+    "positive": 8,
     "neutral": 17,
-    "concern": 2,
-    "avg_score": 0.039,
-    "avg_magnitude": 0.178
+    "concern": 6,
+    "avg_score": 0.048,
+    "avg_magnitude": 0.29
   },
   "overall": {
     "n": 31,
-    "positive": 6,
-    "neutral": 23,
-    "concern": 2,
-    "avg_score": 0.058,
-    "avg_magnitude": 0.161
+    "positive": 8,
+    "neutral": 17,
+    "concern": 6,
+    "avg_score": 0.048,
+    "avg_magnitude": 0.29
   },
   "top_positive": [
     {
@@ -32,10 +32,9 @@
       "score": 0.9
     },
     {
-      "source": "press",
-      "title": "'मेडिकल कॉलेज के 60 करोड़ के फर्नीचर टेंडर में गड़बड़ी, एक फर्म को फायदा पहुंचाने के लिए बनाई जा रहीं शर्तें' - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWxvZ2F5S1ZXbjQ5cnE2bFRNTFJkUXdpcXFQa1VxYmpPRmxKTVRJeldkRFlXazF2YTVsZzNrWUZfRFRnbEI2OWtON3VibHBoemxxVXgxNWlVT3ktS3lVMzN1ZUVMMFhPSWhUV00wVHAwcGxBSkdsZk5nYnBNYnl3bC1MYmpZcWVXUzlSNlF3MGY5RlpOUlNwd3Nhd1pTd0YxQUpjbllpY1VsTk1RakgxbXlnd1NUSGx1ZVFUZHBlMGxGZUhZb3pfcGEteHJrREdIRVluNmt6SFJVMFVzNmktSVJUS0RWeTFPNjBlOFdOLVV0akoyN2ozUzZKcENWTWVfQmh2dNIBigJBVV95cUxONlJhWXdNLWJyVkx4UXhFQmtEYTJPXzVDY01VcFFhYlcxMjNmWGhiQ04yT2tNUkJZZGJkOXBYMWRhaXV2MGIyeGZzMndLcGNaSEV2dDd2bFB0VEpWWk1jRDFfUjJ0NEphenp1Z0NncWV4WDBnck56c1pWeFJXMHo2dWQ5LWJhdHlmSjFEdF83ZjBqRmt3NVVBZEpZMGdwNjlQV2lxczh0N2w3MG84NEhVTDBQX0JJWXk5bGl1Y1B3VU9IWnZtYWdTV2dSaXk2eVFtMjhEck5UQ25uVllqSWp4ZVd3RklmU1JacklGVi1Nc09jVlFqbVN0R3pGcDE5WWNEaUdFeDk5OEhEQQ?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Good going Girl!🎉",
+      "score": 0.9
     },
     {
       "source": "youtube",
@@ -46,18 +45,18 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "New batch ko new campus me shift krenge kya",
+      "title": "Dii cut off rank for state quota gen?",
+      "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "why is it so empty? are you like the first batch ever?",
       "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "How is the paediatrics department over there",
-      "score": -0.2
-    },
-    {
-      "source": "youtube",
-      "title": "Hi do u have any idea when the state councelling will start?",
-      "score": -0.1
+      "title": "New batch ko new campus me shift krenge kya",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

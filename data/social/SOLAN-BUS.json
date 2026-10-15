@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-13T01:03:09.336Z",
+  "updated_at": "2026-10-15T21:53:47.485Z",
   "project_id": "SOLAN-BUS",
   "counts": {
-    "press": 5,
+    "press": 4,
     "gov": 0,
     "en": 3,
-    "hi": 2,
-    "total": 5
+    "hi": 1,
+    "total": 4
   },
   "mentions": [
     {
@@ -37,16 +37,6 @@
       "date": "2024-09-20T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Solan bus stand"
-    },
-    {
-      "title": "New electric bus: पहाड़ों की रानी शिमला पहुंची नई इलेक्ट्रिक बस, 19 और आएंगी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcENLaGJlT2ZtcF9VWURCdjlVa3FIUzl3Z09sUFBQNmdqeW9lck9vTVN1aTYxM185LW9yU0toWGZVMUFXdFNZS09uZktoeUhYUmE5MG91X1dMNWYxckpYakxXWHZybFRjSmlkd1NQdFI3d25QRWhqNWNOZ0NiNWYyYW5FZmIzSjV6VkxrWTRGM1lRUdIBlwFBVV95cUxNVlBVUWNKSFVxNHE5MmMyQ04wVDZZcF92N25DQlJmdW9XWU5LNXNmQXp4ZkxxSHdYTVBkNWhVa3NJRmVFQUYtWWhnNnh6YWttN2xUM25KRVJPZERnLW5xVjdjdk9NWXRNX01pR3NVZnpUN3AtY0xOQ1hpVzV0c1BGMlBvQkoxVEFxcldaa1g3Ri1idGZ0Qm5r?oc=5",
-      "date": "2022-08-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Solan bus stand"
     },
     {

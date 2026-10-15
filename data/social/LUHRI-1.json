@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-10-13T01:02:09.545Z",
+  "updated_at": "2026-10-15T21:52:49.626Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 53,
+    "press": 51,
     "gov": 0,
-    "en": 38,
+    "en": 36,
     "hi": 15,
-    "total": 53
+    "total": 51
   },
   "mentions": [
+    {
+      "title": "HC directs SJVNL to pay solatium on land for Luhri hydroelectric project within three months - Himachal Scape",
+      "source": "Himachal Scape",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORnByR0ZEVjVFN0VwQ0tqN2Q5Yzlad0l2YWY2YTZKTWtudDk1VDhQOWdUZC1nMlBuQ05lZU5PTzVUQVN0T2pNOEFoenpWSGpIX1VfWjJfVWE1LXViYkNCNjQ0UVdrV2RrQ0JrZVAwcU9oVER0TTV2UDVseWNrV2FidTNVYmxJSTFVQVNCQVg3M2xWTzVRc1FNcnV5R1ljWWlnTHJGZjRoazZ6THc3dHVyNmROT21WZ1BZaWlpdHRRcFBDQlJHVDlHQ193?oc=5",
+      "date": "2026-10-15T11:07:14.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Hydroelectric"
+    },
     {
       "title": "लूहरी जल विद्युत परियोजना में स्वच्छता ही सेवा अभियान का समापन - uttamhindu.com",
       "source": "uttamhindu.com",
@@ -160,8 +170,18 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "सुक्खू सरकार का बड़ा फैसला : सुन्नी, लुहरी और धौलासिद्ध परियोजनाओं को वापस लेने की प्रक्रिया शुरू - himachaldastak.com",
-      "source": "himachaldastak.com",
+      "title": "Satluj Leaked: 'कोई टेंशन नहीं,' इधर ओटीटी से हटाई गई सतलुज, उधर ऑनलाइन लीक हो गई फिल्म - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWm5xbGQ0VldDMVpDLU5DekNIalI0a21jZzZqLVgwUjlQSHZHNkFGS24xcU54ekp6YW0wV1lrY0l5RWV0M28wRXVPeVRSZDZhaUtrOThDUE0xNTZSelM5WWpjc0h5Zjd0Ri02UU56SG1aWmRaTDh6aWpaX0lVcTNad2JfTnpnQnNKVEtOdGwxcUdEOXNFM2NqczlUalN2UFFmRTNOVHNkbDk1VUJLTDBEcnd6bzVTZ0RIdXFEbjBieTZjZkctRFhOWXgtRkg5bFVpNnZhcA?oc=5",
+      "date": "2026-07-06T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJVN Sutlej"
+    },
+    {
+      "title": "सुक्खू सरकार का बड़ा फैसला : सुन्नी, लुहरी और धौलासिद्ध परियोजनाओं को वापस लेने की प्रक्रिया शुरू - HIMACHAL DASTAK",
+      "source": "HIMACHAL DASTAK",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkRkN1ZVblNpQXd5emZ4RXpSbGFJb1pHODNfc2hTT3FBQnI5QWZUUkxMU09sbzAyNUFIYnpjWGtXQlVlcnVfNy03cGRzZzFzS2NEb1BJdnh5OEFNVHVqSWt5eVVLeVJoWVdCamROVlRwZ2RMa1ZTSmEtZEpTQUJ4MF9FbFJ6d20tTE9UQ2IwNnZvSG50VVE?oc=5",
       "date": "2026-07-02T07:00:00.000Z",
@@ -184,26 +204,6 @@
       "source": "scanx.trade",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG5JcDFtRkRQUUJjTVVfZnplaGthempWLXVsaEF4NmlMLWcwc2RLMGFLQzQtbk0ySHBtNzczWTlsaDUxbnMxNGxTcjhxbWxJcVhDbklIX1REZEtFdWYyV3RtZENkZkJEMWxHdVBQSllQS0dyTlB6cDVWTEM5SHpkSG02bVF5NFRlLUJUWHlMWmNMNmNSazJtUXZzM3NlY1RwbHhIbVFWaDdpWG5SeVhQOTlSOWxYR2tqeGY3aw?oc=5",
-      "date": "2026-06-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "SJVN Secures PPA With GUVNL For 658 MW Hydro Power Across Three HP Projects - Sahi",
-      "source": "Sahi",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzl4dFF5N1N0a196VGF6Vk50aE5XNUZGX3MwTEktOHg5LU42cWVZZUVXMDd4MHdOb1RDOU42X3VqUW1RZVV2bTduSkpTdGtzbTY4ZVJzV2lTamFCbGVJSjhQcjBVdGhZVnF6c2picHpKeFJtZzQ2Z0IwVW5ONnJ6STFHOVo1S3NJZnlqOFl0eEhaY2dXZnJrRmNmNHlsTTc1b3lqdndjZFFiOTN0RWlKaVoyUGU?oc=5",
-      "date": "2026-06-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "SJVN inks 658 MW hydro power PPA with GUVNL - Whalesbook",
-      "source": "Whalesbook",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkh0cGtReWpLZDFDdlllQmU3bDY1RkdFQ3lYOHJ2aE95MGg5REROUmY4Q0ctQ19hWGVPNGVHWVNZNFpOSGthVHJJR0E1U18wQlhLZ01KeTh6azdGY042LTJOTUZyMUV1OW80SjktWUFBLXRNc21meHVJYVd2WGxLRXdfcU1QMi1fVHJRdUVBc1YwZFNsamhObGpHdkpaZGljYVQ0NFlBNlM2VUVkU3hvOTd0VWMyVERBQVd2WGxSX1BpSnc?oc=5",
       "date": "2026-06-29T07:00:00.000Z",
       "kind": "press",
       "lang": "en",

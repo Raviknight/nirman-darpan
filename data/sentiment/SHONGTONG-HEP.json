@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-10-13T01:03:55.943Z",
+  "updated_at": "2026-10-15T21:54:26.049Z",
   "project_id": "SHONGTONG-HEP",
   "press": {
-    "n": 19,
-    "positive": 6,
-    "neutral": 12,
+    "n": 17,
+    "positive": 5,
+    "neutral": 11,
     "concern": 1,
-    "avg_score": 0.137,
-    "avg_magnitude": 0.189
+    "avg_score": 0.129,
+    "avg_magnitude": 0.188
   },
   "youtube": {
-    "n": 3,
-    "positive": 3,
-    "neutral": 0,
+    "n": 7,
+    "positive": 4,
+    "neutral": 3,
     "concern": 0,
-    "avg_score": 0.867,
-    "avg_magnitude": 0.867
+    "avg_score": 0.443,
+    "avg_magnitude": 0.529
   },
   "overall": {
-    "n": 22,
+    "n": 24,
     "positive": 9,
-    "neutral": 12,
+    "neutral": 14,
     "concern": 1,
-    "avg_score": 0.236,
-    "avg_magnitude": 0.282
+    "avg_score": 0.221,
+    "avg_magnitude": 0.288
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Amazing fact 👍",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "Excited for video 😍",
@@ -38,8 +33,13 @@
     },
     {
       "source": "youtube",
-      "title": "Thank you sir",
-      "score": 0.8
+      "title": "भारत माता की जय❤",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "बहोत अच्छा..... 👌",
+      "score": 0.6
     }
   ],
   "top_concern": [
@@ -50,15 +50,14 @@
       "score": -0.3
     },
     {
-      "source": "press",
-      "title": "Bidding annulled for hydropower evacuation scheme in Himachal Pradesh - T&D India",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazIxWUllOExUcGhxeTE1R1NENVJJMVpRdzZlcUZvZnJIWU15dU5fY2dQV3hfQWJuTEcxLUgxTUlLOW1GUG05blNON2wza2Qxd3BQTnJNWlBQUlpPbUhUZmlPZTJ6a0J5ZWZDcHkzbHlwUXN5TFdpR2FaX2tXcFZTTXVyenRWTm1OYWNISHJVbVIyRTlzcVJJVU1HSdIBoAFBVV95cUxPU3ZpeTlycG5rNF9PWVZVZEROXzNteVBZcjVNWHNnX25hX1lubmZCVDEyMXhzVFd4SFNDUzliVDhTOUpEeTZta1Z3MnRsODRtZjV3Zm9RZk5FOEVBcGZwakRGQllISGNaZlZoUGxodXFaS3J1Q0V4R1MwN0NfeTJPUlgzU2dQRUlUR0lJRHlfOE1IYmYzcmlZSV9zQTVZa3lU?oc=5",
+      "source": "youtube",
+      "title": "100,% banega\nModi he to mumkin he",
       "score": 0
     },
     {
       "source": "press",
-      "title": "Hydropower evacuation scheme in Himachal may come up for rebidding with revised terms - T&D India",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2E2cWcySU01R3JjOVFjTk8wT0o4c3FmQ216QW9lbkowczBybWplc2xoRDMyV3pRY2FCdkpjWGloSjhXM29QUnVUWTlGRXFaUF83ZW1qdU9kWG5ibldsemFOekYtSjBMcWZ1NW5tZEw5b18wS2VOY0phTVZVR29vUjMxdC1Pa1FjVy1HRW1oNWdKandOUFF5Mm9yQ1VYVE1LZTFjYm92VVZNRnk2eHVDM9IBtgFBVV95cUxPYU1ZcnBJNUlYSFdfQTRoTnE1R1pNWDRldWdydEtna2wyOGZ4eUhCSjJDc0t1eG1Fb1J5R3kzM0dWOG03QTd0eGJMWkowT0I3eTdjMUpkSnBWM1JxOW94YWZ2SXhSTUkxekx2X0JicnNtMGVXTmxtQkl1NjZhOU0tWkJPZ2owbm8zM2VUSEduLU1EejJVd2otUlQtNWZvb3ZmQk5MRmNsRDdYcUpIdGJqdmg4blZaQQ?oc=5",
+      "title": "Bidding annulled for hydropower evacuation scheme in Himachal Pradesh - T&D India",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazIxWUllOExUcGhxeTE1R1NENVJJMVpRdzZlcUZvZnJIWU15dU5fY2dQV3hfQWJuTEcxLUgxTUlLOW1GUG05blNON2wza2Qxd3BQTnJNWlBQUlpPbUhUZmlPZTJ6a0J5ZWZDcHkzbHlwUXN5TFdpR2FaX2tXcFZTTXVyenRWTm1OYWNISHJVbVIyRTlzcVJJVU1HSdIBoAFBVV95cUxPU3ZpeTlycG5rNF9PWVZVZEROXzNteVBZcjVNWHNnX25hX1lubmZCVDEyMXhzVFd4SFNDUzliVDhTOUpEeTZta1Z3MnRsODRtZjV3Zm9RZk5FOEVBcGZwakRGQllISGNaZlZoUGxodXFaS3J1Q0V4R1MwN0NfeTJPUlgzU2dQRUlUR0lJRHlfOE1IYmYzcmlZSV9zQTVZa3lU?oc=5",
       "score": 0
     }
   ],

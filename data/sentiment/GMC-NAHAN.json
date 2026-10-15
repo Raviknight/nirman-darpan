@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-13T01:03:57.679Z",
+  "updated_at": "2026-10-15T21:54:27.434Z",
   "project_id": "GMC-NAHAN",
   "press": {
-    "n": 14,
-    "positive": 8,
+    "n": 11,
+    "positive": 5,
     "neutral": 5,
     "concern": 1,
-    "avg_score": 0.171,
-    "avg_magnitude": 0.35
+    "avg_score": 0.109,
+    "avg_magnitude": 0.336
   },
   "youtube": {
     "n": 20,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.495
   },
   "overall": {
-    "n": 34,
-    "positive": 18,
+    "n": 31,
+    "positive": 15,
     "neutral": 12,
     "concern": 4,
-    "avg_score": 0.265,
-    "avg_magnitude": 0.435
+    "avg_score": 0.252,
+    "avg_magnitude": 0.439
   },
   "top_positive": [
     {
@@ -33,24 +33,24 @@
     },
     {
       "source": "youtube",
-      "title": "nice talent keep it up bro",
+      "title": "Good 👍🏻 Keep it up...",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Good 👍🏻 Keep it up...",
+      "title": "nice talent keep it up bro",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "I don't know why yt recommended this???",
+      "title": "Hi sir, i tried to connect with you on instagram, thoda hostel related puchhna tha, internet par kahin bhi nahi mil raha",
       "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "Hi sir, i tried to connect with you on instagram, thoda hostel related puchhna tha, internet par kahin bhi nahi mil raha",
+      "title": "I don't know why yt recommended this???",
       "score": -0.5
     },
     {

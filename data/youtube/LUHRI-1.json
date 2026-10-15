@@ -1,57 +1,26 @@
 {
-  "updated_at": "2026-10-13T01:03:16.488Z",
+  "updated_at": "2026-10-15T21:53:54.513Z",
   "project_id": "LUHRI-1",
   "query": "\"Luhri Stage-I Hydroelectric Project\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 7
+    "comments": 4
   },
   "videos": [
     {
-      "videoId": "jrarM8mdb_U",
-      "title": "The Luhri Stage-I Hydroelectric Project in Himachal Pradesh  || Alix Smith",
-      "channel": "Knowledge the ambition",
-      "published_at": "2020-11-05T09:30:59Z",
-      "description": "Must visit our website and register now for upcoming courses and updates https://www.knowledgetheambition.com/ If you are ...",
-      "comment_count": 3,
-      "comments": [
-        {
-          "comment_id": "UgyLg8FHfWJGAIW7Bod4AaABAg",
-          "author": "@HarshGupta-rs4pl",
-          "text": "Please tell me how and when the project layout was developed?!",
-          "like_count": 0,
-          "published_at": "2025-11-12T10:38:56Z"
-        },
-        {
-          "comment_id": "UgxOn8F55aMSOidNkJl4AaABAg",
-          "author": "@rahulchauhan3361",
-          "text": "Ye sruru kb hoga sir",
-          "like_count": 0,
-          "published_at": "2020-12-01T09:54:24Z"
-        },
-        {
-          "comment_id": "UgyEm9anG6vwIzxEzFt4AaABAg",
-          "author": "@sakshinegi2586",
-          "text": "Sir ye shuru kb hoga??",
-          "like_count": 1,
-          "published_at": "2020-11-12T10:15:57Z"
-        }
-      ]
-    },
-    {
-      "videoId": "n1Tf2MLQTiQ",
-      "title": "Luhri Stage-I Hydroelectric Project on Satluj, Himachal Pradesh, India",
-      "channel": "The Saffron Scholar Dr. Praveen Thakur",
-      "published_at": "2023-07-08T13:39:46Z",
+      "videoId": "p7K2W8S7mFM",
+      "title": "Construction of Luhri Hydro Project (Rampur Bushahr) Himachal Pradesh #construction",
+      "channel": "Apple Farmer",
+      "published_at": "2023-07-30T16:08:52Z",
       "description": "",
       "comment_count": 1,
       "comments": [
         {
-          "comment_id": "UgywBTMX2YOe__uvKjp4AaABAg",
-          "author": "@hemlatamadhu1580",
-          "text": "😱",
+          "comment_id": "UgwKSoof1AxaoB7TwwF4AaABAg",
+          "author": "@Slimboy99",
+          "text": "Is there any vacancy for Site Engineer?",
           "like_count": 0,
-          "published_at": "2023-07-08T14:09:06Z"
+          "published_at": "2024-09-18T10:59:14Z"
         }
       ]
     },
@@ -85,6 +54,15 @@
           "published_at": "2020-11-11T17:57:13Z"
         }
       ]
+    },
+    {
+      "videoId": "5fwcQwT5NFI",
+      "title": "Luhri Stage-I Hydro Electric Project",
+      "channel": "STUDY IAS UPSC ",
+      "published_at": "2020-11-05T15:15:10Z",
+      "description": "the Cabinet Committee on Economic Affairs has approved the investment for 210 MW Luhri Stage-I Hydro Electric Project.",
+      "comment_count": 0,
+      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

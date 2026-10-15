@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T01:03:44.411Z",
+  "updated_at": "2026-10-15T21:54:19.113Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
     "n": 0,
@@ -10,53 +10,53 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 38,
-    "positive": 23,
-    "neutral": 13,
-    "concern": 2,
-    "avg_score": 0.353,
-    "avg_magnitude": 0.626
+    "n": 11,
+    "positive": 5,
+    "neutral": 6,
+    "concern": 0,
+    "avg_score": 0.291,
+    "avg_magnitude": 0.309
   },
   "overall": {
-    "n": 38,
-    "positive": 23,
-    "neutral": 13,
-    "concern": 2,
-    "avg_score": 0.353,
-    "avg_magnitude": 0.626
+    "n": 11,
+    "positive": 5,
+    "neutral": 6,
+    "concern": 0,
+    "avg_score": 0.291,
+    "avg_magnitude": 0.309
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "your voice nd the way you explain are amazing",
+      "title": "Wow very beautiful ❤",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "You my friend can't Thank You enough for the information. Thank you!",
+      "title": "Very very good place",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "God bless you and best of luck 🙏🏼🙏🏼😇😇🌻🌻🌷🌷❤❤and thank you dear sir for watching to this most beautiful atal tun",
+      "title": "Great",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "In october there will be no snow in manali in any spot",
-      "score": -0.6
-    },
-    {
-      "source": "youtube",
-      "title": "Where is the snow now in solang? It's mid December now",
-      "score": -0.2
-    },
-    {
-      "source": "youtube",
-      "title": "Vlogs in which month is this",
+      "title": "Bhaiya Ham cal hi atal tunnel main gaye hain kyunki Ham cal Rohtang pass ja rahe the na aur ab Aaj Ham apne ghar ja rahe",
       "score": -0.1
+    },
+    {
+      "source": "youtube",
+      "title": "When does  snowfall starts in rohtang pass ??",
+      "score": 0
+    },
+    {
+      "source": "youtube",
+      "title": "Bhai kullu kyu likh rha hai log dekhkar Kasol pahuch jaenge manali likh deta",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

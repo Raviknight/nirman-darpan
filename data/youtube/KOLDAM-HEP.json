@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T01:03:24.567Z",
+  "updated_at": "2026-10-15T21:54:01.950Z",
   "project_id": "KOLDAM-HEP",
   "query": "\"Koldam Hydroelectric Power Station\" Himachal",
   "counts": {
@@ -7,6 +7,15 @@
     "comments": 6
   },
   "videos": [
+    {
+      "videoId": "2qZlZiPBN7w",
+      "title": "#KolDam Spillway Overflow: The Secret Danger Nobody Is Talking About #DamSafety #HimachalPradesh",
+      "channel": "RLA Network",
+      "published_at": "2026-08-10T15:00:16Z",
+      "description": "Kol Dam spillway overflow events present hidden risks that most local observers and tourists completely overlook during the ...",
+      "comment_count": 0,
+      "comments": []
+    },
     {
       "videoId": "Gzw9zhZfEvc",
       "title": "NTPC Koldam | Where Clean Energy Meets Community Impact",
@@ -23,6 +32,13 @@
           "published_at": "2025-06-26T11:42:08Z"
         },
         {
+          "comment_id": "Ugybx0zl6j_5_ZC_uVV4AaABAg",
+          "author": "@strengthcampus",
+          "text": "NTPC Koldam sach me csr ke through bahut kuch kara rahe... I have been there 🤍🙏🏻🌸🙌🏻",
+          "like_count": 0,
+          "published_at": "2025-07-08T08:32:27Z"
+        },
+        {
           "comment_id": "UgzyluAQvIOZ4kUf03Z4AaABAg",
           "author": "@chavipin",
           "text": "Proud to be a part of this project...",
@@ -35,13 +51,6 @@
           "text": "Very nice 🙂 and",
           "like_count": 0,
           "published_at": "2026-08-05T12:37:00Z"
-        },
-        {
-          "comment_id": "Ugybx0zl6j_5_ZC_uVV4AaABAg",
-          "author": "@strengthcampus",
-          "text": "NTPC Koldam sach me csr ke through bahut kuch kara rahe... I have been there 🤍🙏🏻🌸🙌🏻",
-          "like_count": 0,
-          "published_at": "2025-07-08T08:32:27Z"
         },
         {
           "comment_id": "UgzR8r51HxpTWDZWJ-R4AaABAg",
@@ -68,15 +77,6 @@
           "published_at": "2025-01-23T05:25:47Z"
         }
       ]
-    },
-    {
-      "videoId": "2qZlZiPBN7w",
-      "title": "#KolDam Spillway Overflow: The Secret Danger Nobody Is Talking About #DamSafety #HimachalPradesh",
-      "channel": "RLA Network",
-      "published_at": "2026-08-10T15:00:16Z",
-      "description": "Kol Dam spillway overflow events present hidden risks that most local observers and tourists completely overlook during the ...",
-      "comment_count": 0,
-      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

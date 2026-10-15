@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T01:03:47.119Z",
+  "updated_at": "2026-10-15T21:54:20.604Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 0,
@@ -10,52 +10,52 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 16,
-    "positive": 13,
-    "neutral": 2,
+    "n": 34,
+    "positive": 25,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.388,
+    "avg_score": 0.432,
     "avg_magnitude": 0.494
   },
   "overall": {
-    "n": 16,
-    "positive": 13,
-    "neutral": 2,
+    "n": 34,
+    "positive": 25,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.388,
+    "avg_score": 0.432,
     "avg_magnitude": 0.494
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "love you boss amazing content 😇😇",
+      "title": "the song.....omg it's so nostalgic of 2020 era , every tour had this back ground music......btw the campus is soooo pret",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "best youtuber for medical i mean yeah man i will c0me for this 2027 lets go",
+      "title": "Ya Allah help me getting in this institute its my dream to study in such nice college and full fill my dreams.... I want",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "300 likes  target ❤Cross  🎉\nAwaiting for next video of campus tour  and tracking 👍👍",
-      "score": 0.8
+      "title": "My dream college Very beautiful aiims",
+      "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Bhai is saal milte hain\nMay be I'm coming in 2026",
+      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
       "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "Make a separate video of lectures hall plzzzz",
-      "score": 0
+      "title": "Bro how is the department of pediatrics is it worth taking in bilaspur",
+      "score": -0.1
     },
     {
       "source": "youtube",
-      "title": "Bhai next video me mera naam lena please mai aapki video roj dekhta hun 1saal se follow karta hun 😅",
+      "title": "Msc nursing me bhi hostel milta h kya ?? Agar milta h toh sharing me milta h ya single milta h",
       "score": 0
     }
   ],

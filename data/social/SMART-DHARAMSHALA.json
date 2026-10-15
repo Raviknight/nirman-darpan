@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-10-13T01:02:47.040Z",
+  "updated_at": "2026-10-15T21:53:25.936Z",
   "project_id": "SMART-DHARAMSHALA",
   "counts": {
-    "press": 78,
+    "press": 77,
     "gov": 0,
-    "en": 52,
-    "hi": 26,
-    "total": 78
+    "en": 50,
+    "hi": 27,
+    "total": 77
   },
   "mentions": [
+    {
+      "title": "धर्मशाला में इस्तेमाल से पहले हट्स खराब: सरकारी कागजों में प्रोजेक्ट पूरा, जमीन पर खस्ताहाल; ₹1.40 करोड़ का... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb3JZRVRVekxtbGZ4V3E4YTZfTzZNTVUzbmI0REVSdnk1ZUkxX2tqenBIY29BT3ZLc0VfMlBVTVoxTzZsVksyeVNJc0lKSGItbUhnYVdYeGxyT1o4SnhHeFBxVWRTTXJGaDNYWW1yeFhCWFlpeEs0dFY2WEZEMzRFVHJFZnVvQWlEZHdDMW5MRVV0SjJjMG1fODFxSTZtX0lWYUozWGNpdjRWc1BWTE1uczR4RDVUa1o0RVBSMGdQWE90eG5XdXZSVUh0bXhrM1NobHk4YUxqbGdfWGRCbm1j0gHkAUFVX3lxTFBESjZfeGVqcXNucmFSU0dFNFRCeS00SGtkaWJISUQ1Wi1aVVFrekRlQU1fWnNCQzdvWW9iTU5obmt4NWE4UDN6aGNaUUYxdnh3RlVSb2RjRW90cnVrSThGOEJzMU1sSDF0OVNEcEJTdFpBZnJRbUxYWHJPVThNZjB3ZW9pcl9RNFlMcFNyaEw1cTBLVzc0b0FPMVhwZGJJWkg0cTZEaC1vcWx4NWkzdzkya2YzSG1DQ1I2N2hiMnFZRWNXcHBES21yd3VhbVB0ODIxbEJFUkdUMENrSG5JOWJHN1UzQw?oc=5",
+      "date": "2026-10-15T09:37:15.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dharamshala Smart City"
+    },
+    {
+      "title": "वीडियो: गांधी चौक पर नए बूथ निर्माण के विरोध में उतरी धर्मशाला एक्स सर्विसमैन टैक्सी यूनियन - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV2std2I0NFhDY1ljV1Q0Q25kQ3pOZG12U3RjVXUwTVhGWVltc0JSSFV1c3lhNzViNi1QOGQyX3piOGFDa2M1OXlSN2VGX201Wl9GYVlteWZsOUFoU0xOMDg1TU9fUC1lV3hJVzNpNjhteUVMZ3VRdzNOV0xmMW9odU5DSjY5RDZYTmE5TUdzRW5rRllJbGs3aTFXN2pkU0RHYWZfamVfLURhUTJEelEwTGY4MjktbFo4bmRQN2NLX254dmZpRXlqallVU3IzcWNkdFB6U2RvdUd2aUxjZktrbUcycDl2NzNpcHNMM09Wek1seDRGWUxObEZiWGwyUlppcC1V0gGIAkFVX3lxTE9KRVZXbG5GUDNPMktQaXRWVUJrTHhlU1lBVTdMNHhnRXN2X0dESWY5d0RxMnZnSTFGejFOU2cyTE12WlgwdjR0OWtSak5mTWtwX2k5NE5pUDh6OUhTMldNbDNjTUlwcVhPVUpsUE1vMHNlMURSMVZHOFBpUVdXOHBtNlAtT2dyYmJYYmQxQ1NSZmxTSXV6ZHdfSkJzYzBXSnhJVXVOVWJKSXBYX3RQeXM5LThJZmp0RmN5a0V2OXBVb0FHU0d0UXZKZ1lfRFZ6b1FKaExwaU5LUGp6SE5uSEVheXFqYlFJSlpiN0tUaU1VSTZ1SWRta3RGN2RGOFVlbWlDRlk0X3pYMw?oc=5",
+      "date": "2026-09-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dharamsala ICCC"
+    },
     {
       "title": "धर्मशाला में 25 करोड़ की स्मार्ट रोड धंसी: 25.17 करोड़ तक पहुंची लागत; कई जगह पड़े गड्ढे; DC बोले-विभाग जल्द... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
@@ -18,6 +38,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala Smart City"
+    },
+    {
+      "title": "Davangere Sugar Share: कमाई बढ़ी पर मुनाफा घटा! प्रमोटर्स के लिए बड़ी तैयारी, शेयर होल्डर क्या करें? - Whalesbook",
+      "source": "Whalesbook",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN21obUtMMWhMeVVjN1NHWGdDVzhkVWVLMDhRVXMzT2o5aDhQYUhpM2hOb3hZSzNNZi1wMTBHQThPSlp6WGJzT3lVYjNhYmpVSy16cktyNTNOcEdJRk9UYjd3alNTUDFFRk9mbnJWSFRTSy1jZXpoY05YUUF1cS1KdC1wdE5wLTIxeHFYYzBZMWlEYjVRTkJlU3k2MXV6Y19qRnd1SWpNY19SeVhEZWhKOG1qdTN5cmw3TklGVTFnSjR3cm81N3RMazNIajl4dmh6eDZ3Vk9vV1dpcDc5djUtRTZQQmQ4WkU?oc=5",
+      "date": "2026-08-20T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "DSCL"
     },
     {
       "title": "धर्मशाला के इको पार्क में 542 करोड़ खर्च बर्बाद: उगी पड़ीं बड़ी बड़ी झाडि़यां, जंग खा रहे झूले, मेयर बोले-ब... - Dainik Bhaskar",
@@ -35,6 +65,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ25GUm9vRmpfYjZGNnhXR290TWl1MEtSSXVZV3BMajItb21YZGJiZF93ODRJWXNrUkQwQ1hBdVN0bFZvU2tPSTNsTUY2RmFUbFh1d2loYndIazZKdVZCZEJUQlNZVFJENnQydmh2RDEyQXpQWkd6M0lkUXlORFlwV3JqTTM5Z1NReFJMeVMzVTQyY2ZrMjByY25hUVlGSTNRYUUwU1pFOEVId2Mtc3Jya3ZLY3hHR3hkZ0RQSUtMcW1zZmp5Y0U4ZzRJVFdmcmNNaE1CYWFNV3ZxU0Z1NVNXMVN4STA4Qm4yUlJPUUhKbk1tNzY4M0hrNtIB_gFBVV95cUxPY2FGbkRxU05KTVNmRTFaMWdERldhcm5tUkNhTlg4d1JVeDItMk5jWHNvVllRdmd6am44cUsxTWVncTZfamZwUU90MGRzNHJkZk1vd2UyYmJoMDJ3Um9Zb2tuNWJTUGtYeXJINE1pSHp3ZWRoNFBPbGpsQkc3OUUyZ29iR3NEUnhzb09OdEVrUVkyOWx4NGZJYnp5d2hrbWFVRUliU1ZtSzRHOTJLN2x3cVNrNFhlV2pDTEtZb3JmeXlxaGdCcTh3UHZjamw5cHNocU1sOU1CMUt3OHFtbFo2OGhVLW00OVNGb2dMeGJ6NV9GVUNCYm9hYkh3X0FLZw?oc=5",
       "date": "2026-06-18T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dharamshala Smart City"
+    },
+    {
+      "title": "Himachal Pradesh Government - himachalpr.gov.in",
+      "source": "himachalpr.gov.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NOHd6QTVQNW5PMm92bE1mR2tadlBpMG5ib0tva2h2RGp3eTZGQ0U5d29hYi00T3BQMjF3cVRoOVhYZWx5eUl4S3BiU19oSEtneE1LNHh3QVJxdWVFMWh0TGpHRkF0T0VwcE94UDhiT3diSGs?oc=5",
+      "date": "2026-06-17T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dharamshala Smart City"
@@ -70,16 +110,6 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "धर्मशाला स्मार्ट रोड पहली बारिश में धंसी: 18 करोड़ की जगह 25 करोड़ में बनी, प्री मानसून में गड्ढों में तब्द... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN2VCZ3ZweHFxdUF3VkZlWkRWU0otdEVHdGw4eDZkbXJPejdzdHlNSGxMQjdXT1FqSWVUSVppQjJfYmhzaTlzcmVNbzBnZ21lakNTQXUwQzZ4czRCRl9maUlONk9yUWhlMl9aVHcwNlYzYlRseUNBdnR4SXBqUldkcFVDcVRuYldwX0xVU1JBSFhreEo4NjdUWEE5ckFWblM0TzhLZVpKeDQ1aXNsWU5Xdi1pVFZjWnNmUnNBSXNBN1NmVG1PU2lwUl930gHPAUFVX3lxTFBmck9IMWRZWHBSeE5Ob2VlQndhQk44eUZRaWk3RU92MENKckRERzY4OFhlbjcyZ1Y0T2ZWVWxjN0JCZld2S0hlMG9jTnVOVkpId3dSZlpBb3JyXzg4Ym40ZUtxbC1EendaOTRrZHhwNjJYbFZmRTdKTldNNVlqQWJpTi11V082YnpWYUp2QUE0Tm5HUjg2UjBUTThTeDRpMENRT3FOTlZ0NUJkT2NyRldSZTBkZTZRdDRTcmRIT1hkRHVEYlJNY3JGNlNEZk8zaw?oc=5",
-      "date": "2026-06-03T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dharamshala Smart City"
-    },
-    {
       "title": "धर्मशाला स्मार्ट सिटी प्रोजेक्ट अधर में लटका: 33 करोड़ आएगी लागत; 2 कंपनियों के सॉफ्टवेयर से इंटीग्रेट नहीं... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
@@ -100,31 +130,11 @@
       "match": "DSCL"
     },
     {
-      "title": "Ribbon cut on Dripping Springs Library of Wheels - Hays Free Press",
-      "source": "Hays Free Press",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1I3cGk1TVhnQmhpaDNhbVF2TXZnUTNiN1hoQ01ma0lzVm1WSzF1ZjFreHRWdmQ4WUptOGFpM1RLVk41Nmcyc2hvUzV3YmNLakRyVXI4cS1LNU85b1ZNUGxsclF1Wk42eDB1Z3F0X3BnemZuUFMxWVJHeGxSQUZxcGFoek1kb08tQS0tUi1FRFN1a0dmaVcw?oc=5",
-      "date": "2026-04-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
-    },
-    {
-      "title": "Dripping Springs Community Library hits the road - Community Impact Newspaper",
-      "source": "Community Impact Newspaper",
+      "title": "Dripping Springs Community Library hits the road - Community Impact",
+      "source": "Community Impact",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BxMVFOMlJQRzlYOGJ0dk5CaDk5NGEzQ3pSQ3V6enpmdnJ2eGJrdXBwNG9sV3VhdFA4WVFsQW9KbkdORUowcU1oaDZqcmZhT3VUZ1pNX0V4dW0yN1dXeENtTDFGZjg3QnVSQ05MSmFaS1I2Zlp5clBhREhrbTdpSzIyNGhYMXU0SzE3SWtxREkweUNNVjNVbEhRb3F4MXFQcGFTYjg1MFV4SlNMa05OUTNuMC04T2VHYkdSVDNB?oc=5",
       "date": "2026-04-24T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
-    },
-    {
-      "title": "Dripping Springs Community Library connects writers in spotlight series - Hays Free Press",
-      "source": "Hays Free Press",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHp3aUFrOGZQeGhubjlLRzN5b1pxbW1XUmtkZmVsYnRReDlodTFJSXA3dFJXVF9tV3ZyanFNdHJlVmhYR1NWdmJPS0VzV19GSEp4MU40MWJjaHBlM1dsTnc5UjNhTExnMzBUUzctM2NPTGRmSloyaWtNTlZuQTdqRGJQT0lWbzhhNXpRWEtjd1gwNWxHbnM3blNrZU0yVzBWVmlueHVzY3UtcV9aMGtSSHhlWXp6UQ?oc=5",
-      "date": "2026-02-18T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "DSCL"
@@ -197,16 +207,6 @@
       "date": "2025-08-31T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "DSCL"
-    },
-    {
-      "title": "₹5 से कम के इस पेनी स्टॉक ने जुटाए ₹149 करोड़, एथनॉल बिजनेस बढ़ाने की तैयारी; शेयर भर रहे उड़ान - Money9",
-      "source": "Money9",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZkNueGVqREI2c04xZm9jTk1CUTZMVWtCUEdhSDJvR3p5TEtxcC1UYlF0YnZaeEtQVWJnTFNzSTg1b0hOUHZrRWNBeEV1dFF5cEI2Tmk2VE5SRnV5QUZvMlBLM2xFSjdSYXpSb1FlemhSNnJRZF9ockxGOTFEOEpERzZJOUNaU0x5T2htal9nNG5CSUpUdW1VX195bnVYZkNGOGs0VG0tR1ZZTlFySy1IMG4xNVJYTklfcVo2U0gxeFh5UdIBxwFBVV95cUxOSVZ6R3YxazBjVFhkdmpPQjQ3ZXBlTmh2c1NUWlJ6bXkxOXJjaDdXRVBrMTJQQ2c1SFRxTHhPT2I1cXAtRmZVNURsRGlsNTEtZHhQb3VpSFVFdGhYdWVTWDFLU2RTbVEzTEVNRXJCU1VzWnBqRzM0NFFQYVZGZ3RMcjFLdGRZNUJCSlREWkZNMjhySmpyZDlmLS1CMUFOejhxNTJOdWI2T1ZnLVRqUmZja0JMWGNtMjdxcENnYzZEWW5NMWVXX3hR?oc=5",
-      "date": "2025-08-31T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "DSCL"
     }
   ],

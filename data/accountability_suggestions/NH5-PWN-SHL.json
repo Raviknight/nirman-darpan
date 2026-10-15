@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-13T01:03:12.319Z",
+  "updated_at": "2026-10-15T21:53:50.467Z",
   "project_id": "NH5-PWN-SHL",
-  "count": 3,
+  "count": 4,
   "suggestions": [
     {
       "category": "litigation",
@@ -16,6 +16,20 @@
       "lang": "en",
       "date": "2026-05-21T07:00:00.000Z",
       "matched_term": "national green tribunal"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-15T21:53:50.467Z",
+      "title": "लखनऊ-आगरा एक्सप्रेस-वे पर हादसा, 5 की मौत, सीएम योगी ने व्यक्त की संवेदना - Deshbandhu",
+      "summary": "Auto-detected from press: \"लखनऊ-आगरा एक्सप्रेस-वे पर हादसा, 5 की मौत, सीएम योगी ने व्यक्त की संवेदना - Deshbandhu\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVUVrS2ZSR1dUT3VJTkVxZ3RUZjRFLWkwRldrWTc3ckgyaE4takdKM29OUmx5LXJvb2xrZ1pvbjhtS25KbGFHd0JSQ05iQUpIdUFpMjBXU0hxbXEwVFpEWU11TWRzamZZM0x3a2p4ME9fNldfbVZ5U1dKN0E5Z1IxVVBqZ0p1ZmN5c21ETnJUV3JycVNFVzZiSm5qcDJsMWNTNUFOcmpHSWNCV3QzSHFBQ0lCdDVzcGhY0gG-AUFVX3lxTE03cUhLRER3cEhNLXpORHJqdUVFUnhBOFBoQXBuMWN1ZXlVN3BWWU1uWE12SUV3dGpHdHlvVFpkRmZfOVJ5RjR4RUc1c1FybERlcEQ3MmtrZnBsYnU5Y1Jzd0NUZWlRT3dhM0Jmd0kyekp5U0s1enVpYVBIdmtndXJVMTR1WkNIVWpHU1h6YkVxVVNCWlVWYUZpb0M4X0FOYVRnZll5b3BkVXd4dkJuVE9Ceno1VWRBbEtqQVctUFE?oc=5",
+      "source_name": "Deshbandhu",
+      "lang": "hi",
+      "date": "2024-11-27T08:00:00.000Z",
+      "matched_term": "sho"
     },
     {
       "category": "incident",

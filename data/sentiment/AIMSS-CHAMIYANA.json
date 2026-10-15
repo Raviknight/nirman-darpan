@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-13T01:03:53.997Z",
+  "updated_at": "2026-10-15T21:54:25.490Z",
   "project_id": "AIMSS-CHAMIYANA",
   "press": {
-    "n": 12,
-    "positive": 9,
-    "neutral": 3,
+    "n": 10,
+    "positive": 8,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0.292,
-    "avg_magnitude": 0.325
+    "avg_score": 0.29,
+    "avg_magnitude": 0.33
   },
   "youtube": {
     "n": 0,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 12,
-    "positive": 9,
-    "neutral": 3,
+    "n": 10,
+    "positive": 8,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0.292,
-    "avg_magnitude": 0.325
+    "avg_score": 0.29,
+    "avg_magnitude": 0.33
   },
   "top_positive": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "source": "press",
-      "title": "अस्पताल पहुंचे मरीज का उसी दिन होगा MRI और सीटी स्कैन, CM सुक्खू ने चमियाणा में 3-टेस्ला मशीन का शुभारंभ किया - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNV9ic04zR09qY0d6TzBzcmxMeFRpVXRzSHRJVHNyLVdDNUJEMHprUVBxOXVJczBMODllajBzNk5LaWR2ODdpUTJrNjhGNV9ac0Q5RUpHaXdvZkpoa2tBdHQxTlktSDVYR3U1aU1hSTdtczFvQ2hnRm94MTVaTVY1eGV6RS1JYndXVVJvYWxqYXV2RnlWLUEweDR5ZEt3elN6RFJGTW5GdWkyTzBfQVpOUDMxTkYzUQ?oc=5",
+      "title": "शिमला में CM सुक्खू ने किया अत्याधुनिक 3-टेस्ला MRI का शुभारंभ, 5 अस्पतालों में बनेंगे - ABP News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGttWGREbXhvQm85UGV3WUtMZnpPTmRybzdSanZ6bFBFQVhiX2c2THJTTy1nei1ZaDZxbnVtcV84MDY1RC1BT2hVc21CaDNCOVVndmo2M3c2UlprdF9yUXNuVUw3OXQ5NV9OWi1iTnZhSUhxck1qQWpGcnYyaEFlckNBWnkzbG1zbEtBNXFEQUU0X19LcFZ6MERmMFFwdTd5aVl2OFVPZ2lVQ2t3SENNTkpPUF9sN19QS2loSnBNRzUtemdudS1kUW5rOUk5MXl2WGc00gHYAUFVX3lxTFBFazRZaUwzWDkxeGIzdEJOcTNORzNyTkhNT0lfQzNDN3MyRk1KQ0VUOHFWZzI2OFNkbFBkRndHdHYxNzVTQzF3NnhQMFJnTDh4THQ3SS1GaU93MkNObkc4Z0I4UzJkQm9uMmx1cXQyYjZQcXRENVpSRTVqRE1vUmluQm93Rkp3bV9MSjA4TWV4eGRYSVh3aUx5Ui1fdGFqekplX0NZdEJnSnVUd3VaUHE4bFkzWWJIM0dMZ2taSER3T1VCQzFBR0Q1dGNqdzItMG1oNnJEWE1XSw?oc=5",
       "score": 0.5
     },
     {
@@ -48,12 +48,6 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "Dialysis facility launched at Chamiyana hospital - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEZGNHFSOUM5SFhBSFdZRnozOFpaSjI4MV85M01PUTJSc00tX3dJaHVOWVJBZ01wYzJUSzFNc1QtanltM2NkVHhfYXVwaDVRSlctVXBWa1ZFbUJpa1ZKNWRjUUZGb1BOYThsRmFPY3d6V0J4V3N2M21uWGdLYXU0bXZnR1pFZFFuQnB4WGNRRlBqUnlRaHlr0gGbAUFVX3lxTFA2eThtRlFKV3RUazZ5cUNIeVJmSGVuVTVkeFpLRDFvb0YtYThTOVN5Z2dNMmRWWkEzZnJDbDlYNm9kZ3laTUtaRWh2R3oyVC1DV3JGNXVsejNXN3RoRzBfTWhuRWNRUlRmeXBaZV96VmdPMlE2SjRaSm5zeEJTbHNEcGRQejlSRy0ybGdGVDJCRnNfbW94YWR4NmdV?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
       "title": "AIMSS Chamiyana gets advanced 3-Tesla MRI facility - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeEQwSWpOTWstcVdIZDc3TzNCS1lUcm5YUElNcHc4T0I2Y0drWWdyU0RMYnVJaUVDUTA4SUZSbFJXVk85am1qSlAtdFN1dTBkLUJmZWVnZzZla1l2NlVCcHk1VC12dHlUV01NMzlEY1QtMlIyTUZSNzNyUXZFT0dfRFZIZEluZy1jU0dUeXFadkFuWEh1VTFZcjBNcS1udTJyZ2pTM0xRRGVNMEtlQWs4V2E1T1hYc2FxWncwWUZVWHZDaXVzYUtj0gHMAUFVX3lxTE5WQV9LTlZMZTc5MllIa3pSa3FnMXMxcmdTbWktRzhBNnJuZnEwQURfeUpIQWlsNXlSY2RHZzNCWlgyb0toVHlhVUphdk15N3hjN2pJTGttX1A2OFczZjhZbnNfZG92ZGI2amF5OFhhSzRmUS1uZ05WZmJGRW9HNHVOR0RBUzJDbjVVVDB6Mm1sQUU5WV9kR1N4QmN5ZVMtTjhuZzdjQlB3ZHhpMks1TTV5Nk1HLWl2MEJIRWlSbXcwbXJwdHhkTFZqQXdNVA?oc=5",
       "score": 0
@@ -63,6 +57,12 @@
       "title": "Himachal HC seeks govt response on decongesting Sanjauli-AIMSS corridor | Hindustan Times - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbmRSa1pDdUtjTGk3ZmdSTUVlWnBIOGV2aE5YZnFyR0xmR3locmtXeFA4ZDlyUmVZejF4T2cwNnhQUVdEMnlPMUM5aU9RaWYtSWN2TU1wNFh4d1dvNjBJVkRQNjVLbjhuRGo0OHdxZmhRUmd3MHpxTnF0eTNYc0FQTjN5b01hUFEwV0h4X1RJQ0x4X3ZXM3VnTVdJcmMtV09kUkprSkNNLU5mRmc4by1sMFd4T2VqSFJTMWdxYThmaHFfVVRUVjVJQWVjOFN0NGxqR1hWV0xQbFRQSmRFWDAw0gHkAUFVX3lxTE00MHpidHVmNmpiQUc3enZsNHZfX2pCVWRXbnMzV1lxVGZMTXk1Z2EwN3lqMjVmTkR6N1FkRnpvWDZCbFIzaXFPRXdkRnBiN0FoQjZJSFBBVl9WU2QtS2JoQzFMc0tMMjJTRDVuTURLa3Q4UF8ybEhOMDgzWHAxZVdXc2ZGVWZFRWhncmZwS1Y5VXU2bzV1ZC16UzBhcnZIYnBhcE55UURFNldSSHZwM2NSd2xadFA2ZE1fYzJJek4zaUMzcUJZRktDYjFwN0tCcFpGckhncHVZZDc2dXAzdV93dTM1LQ?oc=5",
       "score": 0
+    },
+    {
+      "source": "press",
+      "title": "CM assures full state support for expansion of AIIMS Bilaspur - :: India News Calling ::",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFppSDloSEFxRXJMUTM5MVhmSVgtLXRwZW1SVU1ZRGhFdDhCcWJrWl9HaFhBTi1ZaHBrX01BdkpOb2kyQUxBR0lHQXl1RnV4aXBWb1l0dGJ1UFJNYTJiYmYwUzlUdWt5My02NGJkc083S29lbG9JLVc1SVlBeDU5MG51WXB6MUVxRDVDZ0hmVEhVTUNTdlU1QUdMdUktbmhEdk5nY0R6SmI1UFFkV05jdm04dnpVWVVSUUhz?oc=5",
+      "score": 0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

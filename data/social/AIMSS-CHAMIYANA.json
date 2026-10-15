@@ -1,20 +1,50 @@
 {
-  "updated_at": "2026-10-13T01:02:44.793Z",
+  "updated_at": "2026-10-15T21:53:23.775Z",
   "project_id": "AIMSS-CHAMIYANA",
   "counts": {
-    "press": 95,
+    "press": 92,
     "gov": 0,
-    "en": 36,
-    "hi": 59,
-    "total": 95
+    "en": 34,
+    "hi": 58,
+    "total": 92
   },
   "mentions": [
     {
-      "title": "चमियाणा अस्पताल में जल्द शुरू होगा किडनी ट्रांसप्लांट - Divya Himachal",
-      "source": "Divya Himachal",
+      "title": "हिमाचल के बड़े अस्पतालों में मरीज परेशान : डिस्चार्ज कार्ड के लिए भी चुकाने पड़ रहे पैसे - News4himachal",
+      "source": "News4himachal",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zN0s1NllTeGx2Zm45ajhNYnZLX1NlMFVyRnlDMFJuNjBkUkUwNkViQ1lvbWtsVjBleXN0dmZJMG9oRTdoQWVuSE5EU2szcG1NSFHSAacBQVVfeXFMTzd6TVFqOXFWSndicWtGdDBZT2hNcEVSX2JYMEUybUxmVkF5bHlfeGtoaTVrVmNlcVdSQ0FINVlKbDJhbi1qMjQ3cHlrSE9hZDh3cTVtNE90RnBEQmsxQ2JubUFNVU9lcmlHcnVkWTF0SHc4QlRiTFQ2Uzg0THVrclg4OWxwQnlqTzhHeHM2SGRuYWFzVnk5dUtYd2JoTzZmNnBzR1U1THc?oc=5",
-      "date": "2026-10-09T19:23:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHhtZm9Ndm1LWEV2c25IYml6a25uZ05ZQWtKcUowS2RmWnZHdk1Tb0VpMjJFQlp0clp6LUh1NDZ0bHgzd0NBRHJXYmExMTR5dHg0bzRUaW9mSlRyTmF5VS1VeUlwREhpQkRWUW13NENVaWtlXzNlbHR4ZE9lTk13b1d3T0pkQjNHWktUNThIM2JzXzNSS0xuSFdXeXFPTzMxRFV5NmlRM2FVS0trOE8yNXdjMS0xN0HSAbcBQVVfeXFMUFB4bWZvTXZtS1hFdnNuSGJpemtubmdOWUFrSnFKMEtkZlp2R3ZNU29FaTIyRUJadHJaei1IdTQ2dGx4M3dDQURyV2JhMTE0eXR4NG80VGlvZkpUck5heVUtVXlJcERIaUJEVlFtdzRDVWlrZV8zZWx0eGRPZU5Nd29Xd09KZEIzR1pLVDU4SDNic18zUktMbkhXV3lxT08zMURVeTZpUTNhVUtLazhPMjV3YzEtMTdB?oc=5",
+      "date": "2026-10-15T07:22:24.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "IGMC और चमियाना में डिस्चार्ज के समय फॉलोअप फीस से मरीज परेशान, जेब पर बढ़ रहा बोझ - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVW9YeUROYjQ3cXhUQ1NVaU1vLWMwVVV1UUR1ekNZZGhxMzg2SXVUMWpkb2VraEFkWTJvZDB4SkJOeVNXTTlvR0I1SjN1YkJob1g4Uk5ldlVlRGJKQ0w0ZW1HbHBtc2ZjNDVSM0FBTzRFTmp5cWQ0emppQ3BhTVpXRGRheWxVb2xTRFpXaFZubk1XVExwYThPR1lFclN5OVptQ2tLMGhVcXNJeWJwWl9icTdDdXljSF93dUctS19VVXVFbTA3dlFR0gHMAUFVX3lxTE5qQjRUd2NpWUFDZlZLbWhUcnI1cmVid3JGMkRrZEYxcFZGUFpEeHVoV2hoZlNta2w1ajFXODFYUmVqaXlEY0xLN3BUVnVDc3BuVld4bVI2TDh5NFlTQUpqTXhHbVhjVzZxLW5ZN1JudVVuaFo0MmxrQWlqQ2lGZ09td0VQcXM4b2VRa2ZrMktkS2JVTlZ1LW1nbzk2dVFMT0tIc2U3WTR6eF9BUjg0SnlVeFdqZGNMLUJWdFRVbHRCM0FNVlNQWmpod3lGMQ?oc=5",
+      "date": "2026-10-15T04:32:35.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "शिमला: चमियाना सुपर स्पेशलिटी अस्पताल में विवाद, अधीक्षक पर महिला कर्मचारी ने लगाए गंभीर आरोप - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2FVR0Z3LU1FZmZMNm5NU09Rbm01d2pXVHRieWtJdkg5Q04zenozWjdibHlOdTJBSHVRSWN4S0VjMEJfR2pOejJ2cDJ3WWlWU3lXY0NWcVdTQkZuQk5MYjgtbjI3REpqd0hfbzIxaDBvNkRhYThIMHNfeU12cWRlU2p6aEIybXZQMVRKM2lpNWJnRlpzTUc5YXVnR1NBMm9odVA1RW55VlY3a0Y2VzUtQkg1NNIBuAFBVV95cUxNbGMzSHdQQUxLVThiS1lQTWgtXzIzMkxaaExwTHR0anE2S2prUHVlTUpPNGVUMkZRUWRyaDlGcEgtRm00UFAzemduTXl4T01qVnVwTVlLWVkzN2c2elBJY3lsOThMM1NXem5WUzV5TWdManJGVmdmTWRmSFZqdXJ6aU5fTWJ1T2xONThkSC1sXzZ0NWNlOFpvZEJWOWVrdnBZckFLXzlpQXZ2eGptOTMtV3lrcWN6Zno3?oc=5",
+      "date": "2026-10-15T04:16:25.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "Shimla News: कैंसर के मरीजों को जांच के लिए जाना पड़ रहा चमियाना अस्पताल - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUZjSDBCbGNxUmRWT3FzNWRSNkNpMjQxbGs2MEJORGNydXg1UzAwZkJlUXQwVVlKa0lMcS15YmhzU3dLbU5rQ3lzWlQwdHE4TWFJSU16V01jVnhQVGhkdWpMU3NmMi1SV0UxRXFINXgwandRdDEzdzFMckZxWm1OeFh3MWF5Si1acUZjQ1BmRDdHM0dWR1loa01GVVJHWmxwUmluYnFfdUJfcEllc1JaZUd1NmxBUm00LWdMc29WbWxOeV9PblVOcWQzSFl4LVA0M3VHVG9EWm7SAdgBQVVfeXFMTnVGY0gwQmxjcVJkVk9xczVkUjZDaTI0MWxrNjBCTkRjcnV4NVMwMGZCZVF0MFVZSmtJTHEteWJoc1N3S21Oa0N5c1pUMHRxOE1hSUlNeldNY1Z4UFRoZHVqTFNzZjItUldFMUVxSDV4MGp3UXQxM3cxTHJGcVptTnhYdzFheUotWnFGY0NQZkQ3RzNHVkdZaGtNRlVSR1pscFJpbmJxX3VCX3BJZXNSWmVHdTZsQVJtNC1nTHNvVm1sTnlfT25VTnFkM0hZeC1QNDN1R1RvRFpu?oc=5",
+      "date": "2026-10-13T18:29:03.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chamiyana hospital"
@@ -25,16 +55,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYVQ4Uk1SYURQQV9MakZhSTFQQzMzcmpTZV81dHdjeFZXQmcyd2ZXZE1MVlAwYW85Y1hzQ2IzdnNQdlNMOHNKYTgwZHdlV05rRmhkeHpjN1ltLXFOR2JVb0FSRFFnNTByamc5LW5uSkhGbG14WkVEV21xUUYweVJ2akFOM3Bqcng2V3FXWHJETzMycEZLcF9ZQ0VVaEJhUdIBqgFBVV95cUxNc0JTdFlWLUZsZldwd1FPZmc3Qm5PMHA3c1hIN3JFbVduM1BUanQzY3ByMjVKSVZNZy1xMDZZX3lOejNINjFUQnJRTEtXX2xRUU9TODVfcGstWWZEamhGa1RpT2pZVGZrQVVCSEt6U0p4MWRleXdoWHA3VXVCd204T0JWX0xkRko5b1NDRXVwNGhwR1pfQ280NFFLR3VFUkVKbTVXOU0wWGdNZw?oc=5",
       "date": "2026-10-09T08:37:13.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "himachal youth chest pain madam phone fir - News4himachal",
-      "source": "News4himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZnlvdk1Ha0djektIcG1jVjJkZzR6SW0zXzFVN3dRUC1jSmR5dmtLM3gtalZTV2ROTU5JLUhQN1V0c3laYmliUEtMMUdueUhEcjVQbGNILVpaSWd1ZFBXV1F4V1V3ZzdVR0lGMmY5WXpBaXlFcGtRU2p3aURPbm85N0tac2lpR0pCZEE?oc=5",
-      "date": "2026-10-06T10:44:37.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chamiyana hospital"
@@ -60,6 +80,16 @@
       "match": "super specialty Shimla"
     },
     {
+      "title": "CM assures full state support for expansion of AIIMS Bilaspur - :: India News Calling ::",
+      "source": ":: India News Calling ::",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFppSDloSEFxRXJMUTM5MVhmSVgtLXRwZW1SVU1ZRGhFdDhCcWJrWl9HaFhBTi1ZaHBrX01BdkpOb2kyQUxBR0lHQXl1RnV4aXBWb1l0dGJ1UFJNYTJiYmYwUzlUdWt5My02NGJkc083S29lbG9JLVc1SVlBeDU5MG51WXB6MUVxRDVDZ0hmVEhVTUNTdlU1QUdMdUktbmhEdk5nY0R6SmI1UFFkV05jdm04dnpVWVVSUUhz?oc=5",
+      "date": "2026-08-12T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIMSS Chamiyana"
+    },
+    {
       "title": "सर्जरी के दौरान सोनू निगम ने गाना गाया: हॉस्पिटल बेड से शेयर किया वीडियो, श्रेया घोषाल ने की जल्द रिकवरी की... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
@@ -75,6 +105,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2NUSHN1ZnlxRzdCZjBYM0h1Z0RuOVloRjBYNjgtQ3poOEtyMlZhUENFOTNYOVVIUTIwYTJqWS1CUXl3ZjhnTFg0TmgxNUw5d2UzeWFfeFMyUkUwenROZEg3QzE0b2JFMnMtVXhIM1FHOW9EbEFJOXJhWWtYaUZkdUhGNGtmZG1VUlhucGlpcEVmVnF5bXdvSWFTSGZydUhwZWxQYnFzSEFadHpMYzl4eE1PTUNTazFCQlHSAcIBQVVfeXFMT3o4dVFEWWhnaGR6Qzg0UnhRT3YyOTlEb3NvWFJHNHk1MEMtdzZDQ0NCWmI0Q0xXb2YzNVQ5RzAyTG5kcjdwbEpYaW9XTVc5TmRaQXR5NWI1bFpsQ0xkNDFpSmxVLUxHcFZXLVpFUTRiRmQxcEE5bURmbk43SEY2TjdpRUtmYjg0YnNNcllNZE1pbjIxS29pM3hsV2dBTEpWUnItN25vS3NTTUt0Q1ZNODJkcUs5LVNMV2ZnUE5WUGRQM0E?oc=5",
       "date": "2026-08-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "Chhattisgarh Pregnant Woman Delivery in Field: बारिश के बीच महिला ने खेत में ही दिया बच्चे को जन्म, नहीं पहुंच पाई अस्पताल, छत्तीसगढ़ के इस जिले का है मामला, Video देख दहल उठेगा दिल - IBC24",
+      "source": "IBC24",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUkFTalBoR3Y4dmNyVTM4NVFBdWtRUEMxRno0UFJ1N0ZvNlpYZEo0d0JCdUJ5MzVVUXZJUHlBUXNRcS1CUlRTSFB6LVphTFRMd0FVMkc5NVRIU2ZicTdRa1BKUGJyU09yWVpVZjN4SWN6aFNqcDlLcmxNN0x5ZzlPUFd1UDM4UDRROXc?oc=5",
+      "date": "2026-08-01T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chamiyana hospital"
@@ -130,34 +170,14 @@
       "match": "AIMSS Chamiyana"
     },
     {
-      "title": "अस्पताल पहुंचे मरीज का उसी दिन होगा MRI और सीटी स्कैन, CM सुक्खू ने चमियाणा में 3-टेस्ला मशीन का शुभारंभ किया - Jagran",
-      "source": "Jagran",
+      "title": "शिमला में CM सुक्खू ने किया अत्याधुनिक 3-टेस्ला MRI का शुभारंभ, 5 अस्पतालों में बनेंगे - ABP News",
+      "source": "ABP News",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNV9ic04zR09qY0d6TzBzcmxMeFRpVXRzSHRJVHNyLVdDNUJEMHprUVBxOXVJczBMODllajBzNk5LaWR2ODdpUTJrNjhGNV9ac0Q5RUpHaXdvZkpoa2tBdHQxTlktSDVYR3U1aU1hSTdtczFvQ2hnRm94MTVaTVY1eGV6RS1JYndXVVJvYWxqYXV2RnlWLUEweDR5ZEt3elN6RFJGTW5GdWkyTzBfQVpOUDMxTkYzUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGttWGREbXhvQm85UGV3WUtMZnpPTmRybzdSanZ6bFBFQVhiX2c2THJTTy1nei1ZaDZxbnVtcV84MDY1RC1BT2hVc21CaDNCOVVndmo2M3c2UlprdF9yUXNuVUw3OXQ5NV9OWi1iTnZhSUhxck1qQWpGcnYyaEFlckNBWnkzbG1zbEtBNXFEQUU0X19LcFZ6MERmMFFwdTd5aVl2OFVPZ2lVQ2t3SENNTkpPUF9sN19QS2loSnBNRzUtemdudS1kUW5rOUk5MXl2WGc00gHYAUFVX3lxTFBFazRZaUwzWDkxeGIzdEJOcTNORzNyTkhNT0lfQzNDN3MyRk1KQ0VUOHFWZzI2OFNkbFBkRndHdHYxNzVTQzF3NnhQMFJnTDh4THQ3SS1GaU93MkNObkc4Z0I4UzJkQm9uMmx1cXQyYjZQcXRENVpSRTVqRE1vUmluQm93Rkp3bV9MSjA4TWV4eGRYSVh3aUx5Ui1fdGFqekplX0NZdEJnSnVUd3VaUHE4bFkzWWJIM0dMZ2taSER3T1VCQzFBR0Q1dGNqdzItMG1oNnJEWE1XSw?oc=5",
       "date": "2026-07-11T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "VERY VERY IMPORTANT NEWS RECEIVED FROM DIRECTOR PUBLIC RELATIONS SHIMLA FOCUSING CM THAKUR SUKHVINDER SINGH AND HIS ASSOCIATES - :: India News Calling ::",
-      "source": ":: India News Calling ::",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSmpPMjBtcFQzNEc3QWUxaTBoMXZZUERwSTAwZ3FnY3RIU3RUWXhmdm1LWGE5TVNmRmJ5SEFiMHV4akRybE1KTTB3aE5iSFQ5Y2hwaC1JaTl5ZDFDM21lc0NNQkp4TW9Qd2dIM1lERFNwdDVRcVZDNlI5WTBtZDRzNGFpc2RpOXRheHp0b3JmaHNiVWw3QWwyYXQzS0IwLXlFNTlneTljSDFDVmg0RklQRlgtN3RLMWpmOTVyc0JVOXBUc2lkV3RmVWt4N3VSVDRwRk1uV2JLeTA5dTlzR2JITHhJN3htNEUwXzRna1JlOUIxV3gwMGVLcDh3?oc=5",
-      "date": "2026-07-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "AIMSS Chamiyana"
-    },
-    {
-      "title": "सोनभद्र में जच्चा-बच्चा की मौत के बाद अस्पताल सील, VIDEO - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMVBLMjVOSnZrMHRtNnpNMDM0eXltcFNjNzgtRE03VEVwVnlja2Z6UE1lTk1tTkR3UWwtVEJFSHNpWkptenp4aG1xblpadmhGTFRwbldMX284VVprLVd5QjFuTjA4SXlXZGFTUzF5YjRMVnpuYjFnRDI1MVVmdlgxbHo5NEZ2ZG0yRWpCZ2tuem9iRzJBRi1qV1IxclZ6czFtWm9zQWpEejFILWxsV0ZwV0tCYTBsdHh3cEVBb25Gb0VjME1zcUhHUnJXaGtfd0x2YWhpb3lqTHbSAd4BQVVfeXFMUGNUc1haYW9hSEhkN2lDUTlJQkpYaXpEblpKdjZxWV9FQl95MW5KWEdzMVlQRVZROFdCdFN1czdBQ09oYUNDYnlaN2JIV0dfU0FFTVd4WGFlWEx4Y2xqREt2dTRjdTROVUdZWVZVYVBBd1M5aFp4bGROOWtvak1jSHY0SGFrUUFFcXNEbzA2UFpROGxZYllaMk5tQmVMXzVrbjZ5UTJOcU1LNVNvRjJDR0h3MHNSb1hIZDhlX2d3Wi1HTlVpZGNiNkNwYVctaDBuTENIM1Q5TXNtcUhOU0VB?oc=5",
-      "date": "2026-07-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
     },
     {
       "title": "हिमाचल के बड़े अस्पताल में शराब पार्टी- प्रशिक्षु डॉक्टर मिली बेसुध , गर्ल्स हॉस्टल से 16 बोतलें बरामद - News4himachal",
@@ -187,26 +207,6 @@
       "date": "2026-06-07T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "Shimla Hospital OPD Schedule: चमियाणा और IGMC शिमला में 4 जून को कौन विशेषज्ञ रहेगा उपस्थित, यहां देखिए लिस्ट - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdVhZaG84eXhVNWtsdDIwaW5nRHpCMWNOel90blhZclBKbnhzdUZadi1Sdkp1c0dvclRDX0lyajdvbGZnQjNHU2QzQkFRRnkxeG5vcm50d05IOUM0aWZtMmxLZU5qS1l2ZHBxRmlUYjBVNER6UnA0dHllWDhJQ0pNUjRuVDh3NXY2OG9nRWpqWDFkN0l2VDNfU2VQOThrcWlMMjJIWEFzOHRVMzVPdkhmTkhfS0Ytc2xNVE5lRDF3?oc=5",
-      "date": "2026-06-03T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "Dialysis facility launched at Chamiyana hospital - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEZGNHFSOUM5SFhBSFdZRnozOFpaSjI4MV85M01PUTJSc00tX3dJaHVOWVJBZ01wYzJUSzFNc1QtanltM2NkVHhfYXVwaDVRSlctVXBWa1ZFbUJpa1ZKNWRjUUZGb1BOYThsRmFPY3d6V0J4V3N2M21uWGdLYXU0bXZnR1pFZFFuQnB4WGNRRlBqUnlRaHlr0gGbAUFVX3lxTFA2eThtRlFKV3RUazZ5cUNIeVJmSGVuVTVkeFpLRDFvb0YtYThTOVN5Z2dNMmRWWkEzZnJDbDlYNm9kZ3laTUtaRWh2R3oyVC1DV3JGNXVsejNXN3RoRzBfTWhuRWNRUlRmeXBaZV96VmdPMlE2SjRaSm5zeEJTbHNEcGRQejlSRy0ybGdGVDJCRnNfbW94YWR4NmdV?oc=5",
-      "date": "2026-05-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Chamiyana hospital"
     }
   ],

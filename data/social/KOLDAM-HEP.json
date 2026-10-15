@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-10-13T01:02:33.325Z",
+  "updated_at": "2026-10-15T21:53:12.795Z",
   "project_id": "KOLDAM-HEP",
   "counts": {
-    "press": 107,
+    "press": 98,
     "gov": 0,
-    "en": 73,
-    "hi": 34,
-    "total": 107
+    "en": 69,
+    "hi": 29,
+    "total": 98
   },
   "mentions": [
-    {
-      "title": "200 एकल स्कूल चलाएगा एनटीपीसी कोलडैम - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95ZHMybmZEckhaNC1qd1Etd3FIVmJKbjVrRkdxRV95WFNyWjBqYXgwNE8tUVRjR2VzSHdLMjFFUkNobjN6MGdmWV9nZEdkX0pKRWfSAYcBQVVfeXFMTkNfU2NkenJFdXVNa2Z3QzdFMkRNdGpMZ3Jocnc4TS03TF9Vb0JJT3V5WkQxWVpIQzhuSHVwY0FyODdOVGRpdmpUZ0lLcHVFWW5XSkROS1U4SkljRTgtaWtWYkl4OHloSXdrenI1U1VRMUpMZkFtb0RraUFxajhpb3N2ZmliYTd3?oc=5",
-      "date": "2026-09-30T18:31:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
-    },
     {
       "title": "Bilaspur News: ग्रामीण बच्चों को मिलेगी प्रारंभिक शिक्षा, बिलासपुर में खुलेंगे 200 एकल विद्यालय - Amar Ujala",
       "source": "Amar Ujala",
@@ -120,16 +110,6 @@
       "match": "Koldam"
     },
     {
-      "title": "बिलासपुर में जल गतिविधियों के लिए सख्त सुरक्षा नियम लागू, उल्लंघन पर होगी कड़ी कार्रवाई - Zee News",
-      "source": "Zee News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU0ZBcXpXV0g5NUppUHBKLXYweG1sSkl4YWY5SEl3dnNVVE5DRlJvZVJpQjF4cHlUX2ZZNHlRN08xYlNuNVc4aEJXeUQwamlQTDhlV3o5ejNZUUFrWVBXNE9CbGp6MGQ1bWlfU2d0eTY5NmRIeU85QUl3Q0JWNU9LRWJtdmJEMXlQQjZYMVdxNUNBSVlCOWpncFlwTkNFd09QbHlxdHN1NWFCcGpKVzRoa280TWZINnJXZ3kwYm1kSEVyMFJheklFWWtmQ1bSAdIBQVVfeXFMUGZCUzFydXlXSE1ycGNNdnNPQlY0Smx4Ti1Mc2U3RzRGMkVBVklEQ01QUTR4RDRtVTNUSmZ3UUpWZ2dFR1hSR1ctN3FfSjFxenY2LTZsamRqRl9WQmFWcTIwRWhhVEtHVE9NaEw4ZkJhT2ZnRkFfNkk3d2hVVUhmd3pXRnFKQy1oQU50ZVQxdG84Y3FCUWZ5UXNJQWVmVHNhdkRuSE9lM1czdFotZlVoR2xwY0pzZzk3NHFSWGNUQVZnNlVxU1lhWGc2dFpSUkZqMWV3?oc=5",
-      "date": "2026-05-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kol Dam"
-    },
-    {
       "title": "Undertake CSR activities for Kol Dam-hit families with DC’s knowledge, NTPC told - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -200,6 +180,16 @@
       "match": "Koldam"
     },
     {
+      "title": "Himachal: नाथपा झाखड़ी और कोल डैम से छोड़ा पानी, सतलुज नदी का बढ़ा जलस्तर, रहें सावधान - Punjab Kesari",
+      "source": "Punjab Kesari",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMmFHQldUbE5lY1k0cngzdV9Ob2VQUHNmT0Zqd3MtbFFCVTBNTzFPSDdVcmdMT01BOXVheFNMaVJzMTNPcnNBUkJQVkczaHQ3NGpDNTBJUDlxdE5RTXEzdkU4LThXOGoyNTFnZWF6SjFnM2hjS3k4S2pYWks4dmkxaGxfcnFxQ2xoZ2tUTHpraXNHT25pUFlLOUh2TVBYUUlBYzBxbNIBrAFBVV95cUxOVEJHQVV6TDlEaFdWdThzczhWamVFelVkbmRaRF9YS0ZvOTlVMzFCVHFtdTQ3SnhPbjI0amluV1VkeHNoMVR6REQwcHNxZi1TSENGVTBLUTE5TWROczdETUlCUkozSWFLeGlXOG5Bb0c3Um1oVlNldkxsWUV5b0xOMW9VUTlJR2M2VF94Y1RxZ3lDY2xtRWVJWnZxRHFqRTdZbzdVcGt1Nk9qTWk1?oc=5",
+      "date": "2025-07-22T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kol Dam"
+    },
+    {
       "title": "Rock falls on moving vehicle in Himachal, 2 injured: Water released from Jhakri and Koldam; alert issued up... - Bhaskar English",
       "source": "Bhaskar English",
       "source_id": "google-news-en",
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Koldam"
+    },
+    {
+      "title": "All Himachal dams are operating within safe limits amid cloudy weather and high inflows: SDMA - ANI News",
+      "source": "ANI News",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZHpCenRIZkZWSUhDYWpZaG1vQ2RuWFdETkdvOG1jbzg0blpfQzlYN25mOFNtbGhTbFp4RU0tdUZubko0a1RpTXZTWUdSUHBWS0hBUkl0Q0dVOFdmSm1QS0Q1TDdyYWwtZ2lYN3FCTWMxUW9Vd0xfNDlRcTJvaTlqdEUxcUIzR2YwZXJNa0JvU2c0WWk0ZzJXRzk1c1p3V0RIcnJVTHlLaGQ5S1B0SlVCa0RJU3k3aWNzLTlnanV2OFN4ME9vbmtkdnc4MW5kdWlMdzFxamROR0VLOHBKZnpILUlYbDdQYWZOZGJKMQ?oc=5",
+      "date": "2025-07-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Kol Dam"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

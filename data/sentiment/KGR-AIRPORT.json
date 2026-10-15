@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-13T01:03:42.083Z",
+  "updated_at": "2026-10-15T21:54:17.537Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 17,
     "positive": 4,
     "neutral": 11,
     "concern": 2,
-    "avg_score": 0.035,
-    "avg_magnitude": 0.206
+    "avg_score": 0.041,
+    "avg_magnitude": 0.212
   },
   "youtube": {
     "n": 23,
-    "positive": 17,
+    "positive": 16,
     "neutral": 5,
-    "concern": 1,
-    "avg_score": 0.357,
-    "avg_magnitude": 0.383
+    "concern": 2,
+    "avg_score": 0.309,
+    "avg_magnitude": 0.413
   },
   "overall": {
     "n": 40,
-    "positive": 21,
+    "positive": 20,
     "neutral": 16,
-    "concern": 3,
-    "avg_score": 0.22,
-    "avg_magnitude": 0.307
+    "concern": 4,
+    "avg_score": 0.195,
+    "avg_magnitude": 0.328
   },
   "top_positive": [
     {
@@ -44,6 +44,11 @@
   ],
   "top_concern": [
     {
+      "source": "youtube",
+      "title": "Fake",
+      "score": -0.9
+    },
+    {
       "source": "press",
       "title": "Lack of clarity on compensation mars land acquisition for Gaggal airport project - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaElDYWRGTDlrdWgyMjg0ZUw2RFBNVmVJTXc1eV85VlJjOE5rRExrc1h1OVVDNXExQXdYRlJqNDQwVjRIU1k4TUlNczZxWUxFVkJwZVd3UzlWS3c2MFNTRFVZUlRMTFNzcXFJU2RxYjMtT2hRMDRiQ20zMGtvRnl4SFREUTBwNWRydi1hQWtjemZtcHJXUmJhOUVXR2NNU25GdEJ5anh4Sl9aLXdOVUFxT1lEWnBzb2VaLUFybXI1bjhsd9IBxgFBVV95cUxPS2p4Q0k4a25WVjFKNlBNY2JmMm1adURGcmFUaW90eFZHLV9lQ0xzYjJLYzU1NHBxWWlMMGtOdWM5LTMyaHc1TExMcW9mYUIwMHJSTTJtRmFsdHlHcjViU1c4M1JsSjI5clBZUUMwUmRTRmZrbEFibzgwaV9oNl9MdENEM3NObnVRcnVvQkIzY1VnRThNb0psNlBjSTl0Ym1UbmNlTW5vTXdTNllleGtQbTMyNTBZUXRKUk5ma1N2dm4yZU5uM2c?oc=5",
@@ -52,12 +57,6 @@
     {
       "source": "youtube",
       "title": "which villages  is this?",
-      "score": -0.2
-    },
-    {
-      "source": "press",
-      "title": "Delhi govt launches Tourism and Heritage Fellowship Programme - ET TravelWorld",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV0d0cTU3dDN3T1JRdUJtY2lROEFLV3VaVTl5YlFlNHZiZXFnWURTSExZczNMZE1xa1VMcDV4eGdOZXd1NG90QkFDbDhUcElpal85Z0VKWlpTV2IwMTgzVU5QU081TE8zUDc3eGctUTREWUxTV0RnUUtyZnR6V0V0YndjeGJrY1drVVEtS1hKMTNIeXJmVWl4N1dFdzQ0dE1PbnBNazdySmg4Q041NGpleUNFRW5ra0xmUDhlWk1lNlktZERsLXcxdmRtM1h0ZWNyN3U5YXVlSWJJbWpxUktSLVEtUEIyZ9IB6wFBVV95cUxQSmdKMkV6S3BBVXhrWkFoUEJMY0l5OGUtekJNZ1VGLTRCTXBzbFpKbUNuNkl4c1IxbFpBM1hCay1vQ21oVnd4NTh5TDFyVkYtVXgxUHZYQ0Rnc1pXZEVlbEl4MDBqblRHSU5yRHR3MnVtZTFfSjQ2M2JFVmtERjFvdVlmU3lFUmRrWHlseHNaZmx6dEJmeWdlNUc0aDJrQUl4NlZkSHNMd3NJenhMazYtd3gxNml2M1BVZlFvYmQ1NGRuT1d1dnJKV1l2R09ST0hISW9rcGxpZGlZYjJVTWV6VnFkTURSNk5LOF9N?oc=5",
       "score": -0.2
     }
   ],

@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-10-13T01:02:40.235Z",
+  "updated_at": "2026-10-15T21:53:19.268Z",
   "project_id": "SHINKULA-TUNL",
   "counts": {
-    "press": 103,
+    "press": 105,
     "gov": 0,
-    "en": 80,
+    "en": 82,
     "hi": 23,
-    "total": 103
+    "total": 105
   },
   "mentions": [
+    {
+      "title": "Ladakh’s 298-km Nimmu-Padum-Darcha road opens — Here’s why it’s a game-changer - The Financial Express",
+      "source": "The Financial Express",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTm45dkJHekpiX3pGYWxKUUpmNVY2WXk0dXVfSV9HRFNjVU94R3hQaFRSS3VvTjZKYzlUSHg3ZHlVVmxOTzZnQkV1ZjI3MGFIam5rNUN2ZHB0U0RnMkJvRkpLVXdHLTZ0UExjMTRDQVZJZHRKbkhOTUtRUThjdFZaNURKQURGeUFpM3JaZXgwT2RURHZGSVJpb2FVOGlfODg0ZHhjeGlFRHg5Z29CajlyOE5ZRnVRbFB3WTR1VVlPaFZJTDVNMlJwaFBsWDRaNGhncjFCNzNYZTnSAd8BQVVfeXFMUFBPcWNHNmZhclJMVkVvcEZ0MXlYTjBMYmREVjZJT1Fmc1hINWEySXlGRFd2NC1nenRaYk9sdV9RM2VUM2hJVzVQWDN6UVBmT0RURnQtX25KbGQxemZyZDFPdDZIWWNHN0dRdk4wNGprZHlzVFptclVPZy1GLUxrTkRJS2NUUHZfeXZsRnFSZGpHeHNCMlY0dkdLOWZpV1U5NEZieF9DaTdNd2I1dUl2bG51Q2ZZaXJaVFJienlFOVJWeHJDQnF4V0dFel9ESEJaRkU0ek5waHZta2lBcFVJUQ?oc=5",
+      "date": "2026-10-15T07:30:15.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shinkun La"
+    },
     {
       "title": "भारत बना रहा शिंकुन-ला सुरंग, निम्मू-पदम-दारचा रोड से फौरन चीन सीमा पहुंचेगी सेना, ले. जनरल हरपाल सिंह ने किया प्रोजेक्ट योजक का दौरा - Navbharat Times",
       "source": "Navbharat Times",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Shinku La tunnel"
-    },
-    {
-      "title": "Over 1250 km road length constructed by BRO along Indo-China border in Ladakh - Daily Excelsior",
-      "source": "Daily Excelsior",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEVNT0xvenhneVVTRnZWbzZPRWhhR2VTTnNEWlFfUF84WTM2ZUJPMU5UcjM2d1BsMXYxUjROeXpMWlRCbWh0c2Z0TkJRRmZQNEY0aTJSck9Ta0MxQTBlSVBNNVp2SXZGdDVib2pBNFlGQWdPcGxVVjA2UFQweVoyWWt3SFotbDlON2U1cVNSbEJiRkdnTFB6UnFwYlBaUGRUSjZwXzMzaG5pSFJNeXfSAbIBQVVfeXFMTVhmZzZudmlrcUN4YWQwMEpFc0tsUnhPSHJjcWxYRkY2dkVERWltemVkOWc1aVVQcXZKd0NOcFZXLXpkVl9zZy01N3JPYk5BcjBCVzFZaWdRRXNEcEF6NlRtclhhSHlkOVduX3Fldlk4X0pYUW10SXhLczRWVnJ6TzdUTlBhNnhCTnVVckEzMkdLS1J0dDVielR3dXpqN1BTSmpsbWt2blJ5UkxDMk94cHRjdw?oc=5",
-      "date": "2025-03-18T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shinkun La"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

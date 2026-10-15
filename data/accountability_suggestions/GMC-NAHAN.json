@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-10-13T01:03:12.358Z",
+  "updated_at": "2026-10-15T21:53:50.501Z",
   "project_id": "GMC-NAHAN",
-  "count": 2,
+  "count": 3,
   "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-15T21:53:50.501Z",
+      "title": "'सरकार एक इकाई है, विभागों का अलग रुख मंजूर नहीं'; मेडिकल कॉलेजों में आरक्षण सीमा से अधिक प्रवेश पर हाई कोर्ट नाराज - up high court slams govt over excess medical college reservation - Jagran",
+      "summary": "Auto-detected from press: \"'सरकार एक इकाई है, विभागों का अलग रुख मंजूर नहीं'; मेडिकल कॉलेजों में आरक्षण सीमा से अधिक प्रवेश पर हाई कोर्ट नाराज - up high court slams govt over excess medic\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPREZ5dWRpT0JjeTZHZUZ5WlRialZCUlotMzNxVVpYY1poRXY4WjVvdG1zR0Qxdk9LaHNNRDBHd1hqbmZkSGJ4ZTFkeE9rTXJySXVHTHRLRGg0dmF3bXY4N2VMQ1BBcm5fNU9ZdTNmMTlvelB1ZEh4SldJUmZyOEhudTE5YkR2UERqOFViT0hINVpTWXFDNDRVeEFuczNwMjItRWJlQTMxLXZlMzlXOHFYZWhkSi1GUjRnWFB6ejJvdGlxMUtiWEc0?oc=5",
+      "source_name": "Jagran",
+      "lang": "hi",
+      "date": "2026-10-13T02:19:00.000Z",
+      "matched_term": "high court"
+    },
     {
       "category": "incident",
       "severity": "high",
