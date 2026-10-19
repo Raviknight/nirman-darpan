@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-15T21:54:22.082Z",
+  "updated_at": "2026-10-19T22:43:17.001Z",
   "project_id": "SMART-SHIMLA",
   "press": {
-    "n": 17,
-    "positive": 11,
-    "neutral": 6,
+    "n": 16,
+    "positive": 12,
+    "neutral": 4,
     "concern": 0,
-    "avg_score": 0.224,
-    "avg_magnitude": 0.353
+    "avg_score": 0.237,
+    "avg_magnitude": 0.406
   },
   "youtube": {
     "n": 21,
     "positive": 7,
-    "neutral": 11,
-    "concern": 3,
-    "avg_score": 0.024,
-    "avg_magnitude": 0.286
+    "neutral": 12,
+    "concern": 2,
+    "avg_score": 0.052,
+    "avg_magnitude": 0.267
   },
   "overall": {
-    "n": 38,
-    "positive": 18,
-    "neutral": 17,
-    "concern": 3,
-    "avg_score": 0.113,
-    "avg_magnitude": 0.316
+    "n": 37,
+    "positive": 19,
+    "neutral": 16,
+    "concern": 2,
+    "avg_score": 0.132,
+    "avg_magnitude": 0.327
   },
   "top_positive": [
     {
@@ -52,13 +52,13 @@
     },
     {
       "source": "youtube",
-      "title": "Smart Kitna din bad launch hua tha dikhaiye",
+      "title": "Ask electricity board ,what they have done till now, people's living 2 days without electricity in capital , why not HT ",
       "score": -0.5
     },
     {
       "source": "youtube",
-      "title": "Ask electricity board ,what they have done till now, people's living 2 days without electricity in capital , why not HT ",
-      "score": -0.5
+      "title": "15-20 billion dollars hai 😂 itna to foreign countries me ek city par kharch hota hai 😂",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

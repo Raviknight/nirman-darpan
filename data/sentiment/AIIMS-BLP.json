@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:54:20.604Z",
+  "updated_at": "2026-10-19T22:43:15.923Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 0,
@@ -10,54 +10,22 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 34,
-    "positive": 25,
-    "neutral": 8,
-    "concern": 1,
-    "avg_score": 0.432,
-    "avg_magnitude": 0.494
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 34,
-    "positive": 25,
-    "neutral": 8,
-    "concern": 1,
-    "avg_score": 0.432,
-    "avg_magnitude": 0.494
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
-  "top_positive": [
-    {
-      "source": "youtube",
-      "title": "the song.....omg it's so nostalgic of 2020 era , every tour had this back ground music......btw the campus is soooo pret",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Ya Allah help me getting in this institute its my dream to study in such nice college and full fill my dreams.... I want",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "My dream college Very beautiful aiims",
-      "score": 0.9
-    }
-  ],
-  "top_concern": [
-    {
-      "source": "youtube",
-      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
-      "score": -0.2
-    },
-    {
-      "source": "youtube",
-      "title": "Bro how is the department of pediatrics is it worth taking in bilaspur",
-      "score": -0.1
-    },
-    {
-      "source": "youtube",
-      "title": "Msc nursing me bhi hostel milta h kya ?? Agar milta h toh sharing me milta h ya single milta h",
-      "score": 0
-    }
-  ],
+  "top_positive": [],
+  "top_concern": [],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

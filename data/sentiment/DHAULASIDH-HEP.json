@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-15T21:54:23.898Z",
+  "updated_at": "2026-10-19T22:43:18.665Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
-    "n": 2,
+    "n": 0,
     "positive": 0,
-    "neutral": 2,
+    "neutral": 0,
     "concern": 0,
     "avg_score": 0,
     "avg_magnitude": 0
@@ -18,40 +18,14 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 2,
+    "n": 0,
     "positive": 0,
-    "neutral": 2,
+    "neutral": 0,
     "concern": 0,
     "avg_score": 0,
     "avg_magnitude": 0
   },
-  "top_positive": [
-    {
-      "source": "press",
-      "title": "SJVN Invites Tender for RCC Blocks at Dhaulasidh Hydro Electric Project - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk96ZHRZaTNvNVZBQ25uUzNDZHYzb2ZCRFp4dE1yYmxtUnJKLVBtdWR1R0FuWXpuUEFZSGVlU0JrMlQzV1lQUGhVaFR4YXNhTUk5VTIxV1FHS25BZnBhd1NOV0NKY1BZaEF2eThTczB6Skd3cnVRY1VyZEdSSlZseUlBOHdEYUFRUXRSU0t5R3l0YmI4TVZlVzVNUWRidVAzbEFCLW9pQ29vdw?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Himachal CM Sukhu orders takeover of Sunni, Luhri, and Dhaulasidh hydro projects from SJVNL - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTY2Z3FTOWo3dDZLQXBZZ1RhVWVLUDJoNnZRc0xZTGJLUFQxc1FzbnRsUE1PXy16dkxNbVBHRXpYM29jVkEwcGJLUXltWFZEbXhDWWZpUlFhcksyU0VHMVZZU1VVdW1hN3R1R3FjS21PdDdyMzhBTGE4a245X0IxMExHN3pKaVk0aTBRRmxDdWlXcWZtS3FrT3ZzQ3lmVUhDem42WWF1LXVXbGI0T1NDVXVmeUE0UldtSlJGU0psbW5MQXpTdDBGd3k1UndNVVVWdk52NUNEWGVTOXl1Tkt5dTFEWHJyc3JG?oc=5",
-      "score": 0
-    }
-  ],
-  "top_concern": [
-    {
-      "source": "press",
-      "title": "Himachal CM Sukhu orders takeover of Sunni, Luhri, and Dhaulasidh hydro projects from SJVNL - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTY2Z3FTOWo3dDZLQXBZZ1RhVWVLUDJoNnZRc0xZTGJLUFQxc1FzbnRsUE1PXy16dkxNbVBHRXpYM29jVkEwcGJLUXltWFZEbXhDWWZpUlFhcksyU0VHMVZZU1VVdW1hN3R1R3FjS21PdDdyMzhBTGE4a245X0IxMExHN3pKaVk0aTBRRmxDdWlXcWZtS3FrT3ZzQ3lmVUhDem42WWF1LXVXbGI0T1NDVXVmeUE0UldtSlJGU0psbW5MQXpTdDBGd3k1UndNVVVWdk52NUNEWGVTOXl1Tkt5dTFEWHJyc3JG?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "SJVN Invites Tender for RCC Blocks at Dhaulasidh Hydro Electric Project - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk96ZHRZaTNvNVZBQ25uUzNDZHYzb2ZCRFp4dE1yYmxtUnJKLVBtdWR1R0FuWXpuUEFZSGVlU0JrMlQzV1lQUGhVaFR4YXNhTUk5VTIxV1FHS25BZnBhd1NOV0NKY1BZaEF2eThTczB6Skd3cnVRY1VyZEdSSlZseUlBOHdEYUFRUXRSU0t5R3l0YmI4TVZlVzVNUWRidVAzbEFCLW9pQ29vdw?oc=5",
-      "score": 0
-    }
-  ],
+  "top_positive": [],
+  "top_concern": [],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-15T21:53:50.482Z",
+  "updated_at": "2026-10-19T22:42:47.058Z",
   "project_id": "IIT-MANDI",
-  "count": 2,
+  "count": 1,
   "suggestions": [
     {
       "category": "litigation",
@@ -15,20 +15,6 @@
       "source_name": "Prittle Prattle News",
       "lang": "en",
       "date": "2026-09-23T07:00:00.000Z",
-      "matched_term": "pil"
-    },
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-09-21T22:23:43.900Z",
-      "title": "From Pilot to Profit: IIT Mandi Conclave Examines How to Scale AI - Tehelka",
-      "summary": "Auto-detected from press: \"From Pilot to Profit: IIT Mandi Conclave Examines How to Scale AI - Tehelka\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzNOeDJ1NlVSVkJQYzFyOEFjc25oZGw4WmVmV1g3M3ZaQmVBU3Q5TEM3RXRLeWI4bWNjaWw2TEI1SXYzUmFfMXRSRnhHUndFc0VUVk1DWV93TFNqczBwS0tWNnBsaDBEblFXWXdwZnlDX3pqN1BtZDFCSXlFLUJETUhIWklUaVFuVXBUYmdn?oc=5",
-      "source_name": "Tehelka",
-      "lang": "en",
-      "date": "2026-09-21T07:00:00.000Z",
       "matched_term": "pil"
     }
   ],

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-15T21:53:21.326Z",
+  "updated_at": "2026-10-19T22:42:17.644Z",
   "project_id": "JALORI-TUNL",
   "counts": {
-    "press": 51,
+    "press": 49,
     "gov": 0,
     "en": 15,
-    "hi": 36,
-    "total": 51
+    "hi": 34,
+    "total": 49
   },
   "mentions": [
     {
@@ -35,26 +35,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFB5SzJ4R2R3ajZsS3VycFhCaHV4a1FrdHdjb0U3XzZwTTloUDlMQmhaM0V4X2dpQTQ5Wk1yRFBCRkZ0N19KN29JTzE1dE1qYkdBWmJZV29mZS1aY3k0Wkx0U0hpRFY1WTBZQ1R5LWI0OVRnRDNkMi02ZEVWMnhZVHBDUWJQam90dUJtWGhrTkppMjJKbkdlOHNTY3RITEZScThTbHhIX2NSR3ZMeENBc2lwaw?oc=5",
       "date": "2026-10-11T05:50:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Jalori Jot"
-    },
-    {
-      "title": "हिमाचल में 3000 करोड़ से 340 सड़कों का होगा चौड़ीकरण, PWD मंत्री का बड़ा ऐलान - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQmVuY2IxRF9uZUozRUJ3ZUkwd01wZGRjZGJPaC1qZ0loY1lKQXRIUnBTQUh2eGFGNHhCbGNsb0ZVVWRHN1RMQlpzaC1OSExZcEF4bDVISEJlVXpHRjhLbHc2eDhtYlF1VlVpMndwU2lYWmp1OVZGQ1gwdC1KY1hWTkVMMnBTOVpjOGFZZy1vVVk5Q2ZCN3ZiQ0xfcUl2aXVXd0ZfVkZaVHIzRnVsbWRRMmdkYTNrRVRLTlpSWWxRSHp5YUVZYXZucllVNGVwZ3VfSW5JMmFQUFlDRWNfSWxqclFn?oc=5",
-      "date": "2026-10-10T03:39:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Jalori Jot"
-    },
-    {
-      "title": "हिमाचल में बरसात के बाद 800 KM सड़कों की टारिंग होगी, PWD मंत्री विक्रमादित्य ने विधानसभा में दिया बयान - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHdJcEVpTThDQnRLU1BzTHU0RF9ELXU0bE0xaVVSczIxSUdYY1J2TDluODlTV3ZoX011V0F0Nk5BVTlqWUZkeG10cGVpYWozdUc2TkxRNVJONWZ4b05xWHpVdk1lMHJFT2ZXZkNQZ3VTcXVJRjJLcjA0bEJaVlRUWUJVOURVXzFrcnVGNmtDSFFXeVNIbDhQcWpTdXdhTzNDU1hEWUl3ZnR6Y203WGtLdg?oc=5",
-      "date": "2026-08-24T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Jalori Jot"
@@ -110,36 +90,6 @@
       "match": "Jalori Jot"
     },
     {
-      "title": "हिमाचल सरकार ने तीन साल में मेहमानों पर खर्च किए 6.50 करोड़, 426 लोगों को मिला स्टेट गेस्ट का दर्जा - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbjhuZC0xRnBOdVd3Wkh4Q1RsQzFFSjl3VTJjVEZuVllFOHc1a1g1UmxjVnJlOE5TQktaV1FhZUx6TzA2ay1tTmdXbDI2S2NCS3ZFRHZrbWlWNGdVNE9LRms0NVpPUHZXSGdQSHk4Nnk5Y2ZNS1ZMMGIxN3F1SGlXdzllMm9HazdpWlNPTDlOTUJXUy04M2lueUZWNE9XbVFpejlYa1UyRzZwcVlNRzZuU1pKVUNrSWh6d29rdF83UjNvdnZPd3pwbg?oc=5",
-      "date": "2026-04-03T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Jalori Jot"
-    },
-    {
-      "title": "Himachal Snowfall: जलोड़ी जोत के रघुपुर गढ़ में भारी बर्फबारी, पर्यटक फंसे, रेस्क्यू ऑपरेशन तेज - Dainik Tribune",
-      "source": "Dainik Tribune",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUUsxeWlNZHl6NW5KQV9vQVVyS2EzYnNjTGFqYjY3UHlFSllwZXJvb1FoRHdWTzJ0Rmt3MDBtSGdWTnVtRkhOa182UW1acDNiLTNYVEV2ajk3cEkzTTVsbWNiNFgwLTU0ZFU1Y1NHQUR0eE5FeG1fQnVNVmhHVzM5NTVlYzhodWxiRmpVX0lNV2dkNDNXZ3VpNFBWTk94ZDZfa1pwSmVuY3NCUHdQd1kxaU5wNV9uYlgyeUF5c1ZVMUtNUDRUTndLQVliMDNlcWNLZG1wWUx6WWg4QVQyb0pYSWZMaDJLMVlJemFRLWlYZWxWZ9IB9gFBVV95cUxOMTk3ai03VjdJRDluTnNIamtpWjY4ZnRqNUt6SjJfQm5FekxhR3Q4NG9HV011R0gzRHZ0cm9iaGVnS254amtiWGJrbU5XOFZWamZJdmp3VktGZ09ZalNNSzlROU9PeUhMUnlnOTlUbFBpVm1lbUt4TEV0Ri16dDBNY0RtVW5wQ1RDRjdESU1ldWg2MzNDS1l4MlRncWNvYWRFbmRlX0lxTjBvbkRfRjFhcFdSNnY3czI4MTF2NTAyMXRvaTZYTFhQNjVGZk9ncVJnaV9OdGNBODlDd196VDhqYzF1bjhDN2JIRTg0YWpuUmhtYl9Qenc?oc=5",
-      "date": "2026-01-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Jalori Jot"
-    },
-    {
-      "title": "नए साल में FASTag यूजर्स को बड़ी राहत, एनएचएआई ने 1 फरवरी से नए वाहनों के लिए KYV प्रक्रिया का नियम बदला - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmRMaU4zMEQ2Q1VoNGFxUzZVR0MtS3VQM0pmLURTT3ZIcDFVd1Z4TU9MbmpaU0hGUTBlZGFHOVVneXJDalJQODJUNDJaRnNNSTFJdFVkdlU4dkRhZ25iNDRpS1ViQzZTUVQtaWxVWHRtTkhONWloZC1OTndPenFqaDZVQ2pnNHVfeDdRUnFwNDVwckhid1dEeHk2UkVtVzZ0Q1ZIQU5lX19xbkN1clV0cjZiUkVvQQ?oc=5",
-      "date": "2026-01-01T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Jalori Jot"
-    },
-    {
       "title": "जलोड़ी टनल निर्माण से पहले ग्रामीणों ने रखी ये मांग, जानें किस बात का लोगों को सता रहा डर - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -170,16 +120,6 @@
       "match": "Jalori tunnel"
     },
     {
-      "title": "Flash floods continue to wreak havoc in Himachal Pradesh: Atleast 3 houses razed, schools shut, over 300 - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUUJfWGlhVkgtVGNFOFVaV0FrenVsLWlnTGw4blpnOFVhVEZuRnV6ZFE3eUpfNGJURVBNOUh5UjRHbEJEbUNFbjRHRHFFajFtRzFRSnJvZ2FQYWNJR3RFSkpjYU15Xzh4N3lqZHczSjZoYm84NnI1bzJZMUdnM0w0dHVfUlF6QTQtVWZWY3FYeXA1dzFfZURJM1U5TXZpeWd6Y2hVdVVnQlhNOEdGSElURnFubWF0VDN3eEtVem94bFhYamlrcDYwb2hvaG5PZVpuNjBsTEpmcms5THNv0gHiAUFVX3lxTE1vWHE1U3JxMzBqQWRndkQwaXhxSGxRR3ZUYkZ3eHZnNWZCa1Q0eDg5VzJyOGpaSzQxV0MzZ21DR3ZhWTBlTlpkS0VGTnp5aE51WUhSQlRvdEx1Nk10amtKMEdIMElSSm1qTkVVcF9qNzBsVFk5WS1Rdml5NTlWeGd0WTVHVE1ObEZjSUtESW5ZRkxSdEV1ZHJpMUJGMGFIMlN2VXFXMWp4Uk0zM3czNUc3bDhRUi1EajNTT3hhMHROcExvLTd2SlllMmNyYVJCZG5XRmhBX19UR1ZIS0FXcG5NRGc?oc=5",
-      "date": "2025-08-05T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Jalori Jot"
-    },
-    {
       "title": "अटल टनल के बाद यहां बनेगी एक और सुरंग, केंद्र से 1452 करोड़ मंजूर, 4.2 किलोमीटर होगी लंबाई - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -188,6 +128,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Jalori tunnel"
+    },
+    {
+      "title": "सावधान! हिमाचल की सड़कों पर दौड़ रही मौत, 451 ब्लैक स्पाट चिह्नित, केंद्र की रिपोर्ट के बाद हरकत में तीन विभाग - Himachal Pradesh Roads 451 Black Spots Identified in Central Govt Report - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYm1EclRxRWtjMTFXWERpZ0VSdHY4OXAyZ0dYd3lJeDFQbVBmTk9KdzV1NTdjTUl3a2doYlJOcU8xRW1kVkp5NTZ2QjRvaUhvZHZXY3dhOWdVRXc5bkJzTXFxU2UzSGJGQUVQNURJME43d2xQd3B4bG9lWU04T2N1T1RlaWtMQVFLYXBoY0pIN2xrUF9nTnFSVjNOc2o1d2dnakJpT1Vwd1hONlR3Z0V2X25VRnJCVTFaQW1UbkdKdUxMYUl4RnZBNW5LTmZfQQ?oc=5",
+      "date": "2025-07-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Jalori Jot"
     },
     {
       "title": "Centre Clears Rs 3,667 Crore Plan To Upgrade Himachal’s Road Connectivity, Tunnel To Come Up Beneath Kullu's Jalori Jot Pass - Swarajya",
@@ -200,6 +150,16 @@
       "match": "Jalori Jot"
     },
     {
+      "title": "Gadkari's green signal for Himachal Jalori Jot Tunnel, Shimla's Dhalli-Rampur four-lane in pipeline too, reveals Vikramaditya - The Newz Radar",
+      "source": "The Newz Radar",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb3dJZGtRYnZ0RC04UkZFNnFfR1RMajBsLTVTRnVINUJpVmhnd19hU3B0V1ZiT08yMDFfbjE5X1cwX2dxQkktNmJuVjZocW80OHU1V1d6a2tYTm1LcHg3VlIyRHV2elR5V1VYU3NmMVd3TlMwSXBHdzFrT1hhRlNWZ1BVV1lpal8wUHFHM0dMeVJHcWJpMGFLUXNGaw?oc=5",
+      "date": "2025-06-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Jalori tunnel"
+    },
+    {
       "title": "जलोड़ी जोत टनल के निर्माण के लिए 3000 करोड़ की डीपीआर केंद्र को भेजी : विक्रमादित्य - Dainik Tribune",
       "source": "Dainik Tribune",
       "source_id": "google-news-hi",
@@ -208,6 +168,46 @@
       "kind": "press",
       "lang": "hi",
       "match": "Jalori Jot"
+    },
+    {
+      "title": "Jalori Tunnel Project gets green light: Reducing travel time and winter hardships in Himachal Pradesh; will... - Bhaskar English",
+      "source": "Bhaskar English",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ1dKUWtsaUY0U0QwV2F3ZGRXbUVhWXN6azZOUFlHTFRPMmNvWnFERFFPQXZ6RzBXdTJVMkNTVXR5c0ZUd3JLQUp6M0Z3Zl9HZlQzTE5JVDNMLUdpR2Q3VEpaTTVlYWwxVExNTWxnN3VaYmZIdDlHaU1fTHRuVEN5V3JhWFFrYl9Qczh6bnhZeEppUVh2X2JmNFFCdng1UFJPNDJwMlNhR0xMelE5Y01DdE5HdVdGT2VnRkpMOEk3NTk0YXJWVk12STRjV0dxV0hKNndETUlwdGdVUdIB3wFBVV95cUxOYkdxdFAwTTNFZzRQRDlwanBCb3Q4Qk1PZFQwVlE2cWdTNWhiREd0T0Fhc2I1eEtENEM4NFA2NFl4Sm5vWFhsZi0xc0hsdHhUbEdjOEJYaW9SNEZfMmRIR0plY3lIbkxraHZOSllwUGJNYkxtUU5pdXJQVndXLUZlckdzeWdkOHlWeG9lamM5YXE4cU5XbzNwaWtKT0JZYXZ2VjB1LUNyNURPVnpabGNNLWtaTFpPTTFMSXV2MVBjRkpCcjZaNFlXSmFKa2VjZElWVldFMmJGMnFYMnFXZ2dB?oc=5",
+      "date": "2025-03-07T20:47:42.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Jalori tunnel"
+    },
+    {
+      "title": "वैष्णो देवी भवन पर रोपवे प्रोजेक्ट को लेकर फिर बवाल, महिलाओं ने बताया कैसे श्रद्धालुओं की आस्था के साथ हो रहा खिलवाड़ - Katra Sangharsh Samiti Womens Wing Opposes Vaishno Devi Ropeway Project - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0k5azFpZGlUWTNlWEhFbllJdjEwTzJFMVkzQklQYlVRMG9mV1ZjSEc4Z3NYQV9xUWswOW9GMnZHelBCNWFtUTVpSndVM3pjQ1djM0tJTmFIR3Rkc3dXYngzbHkxMXB3SGxyWElfNllvTUNoaXlSZE8wd1B3RENtTzVZTnBfdkRpcy1mQnRkRUU1LUpEVVhQSGV4d3dMbjJLYWUyM3QxRVdUU2dTX29vQkEzRnpwbkZnS1dneE95VnRLVkxWRmM3YmoxZjY?oc=5",
+      "date": "2025-02-07T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Jalori Jot"
+    },
+    {
+      "title": "World Cancer Day 2025: इन 5 कारणों से हिमाचलियों पर भारी पड़ रहा कैंसर, हर साल 7000 तक आ रहे हैं मामले - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVEk3NVY5WmRMTUxYWjhXcVE1Y29qd0RKS1JZQzdYY2JwbWg1dVRfWFBGNGlUTy1MbkQ3TlpsbTlLWFZaU3NBNjRxcXNfQ2Vfc2dmaGE4R1A1ZEw3bjJIblBkWFBaRU5RQTdpa01nemJ3TUJxUTc5OFhhYmsybV9UUTlGNG5uMjdfVmtWU0I5MGFmNjE1UllvMi1vd0RCYmdGakZBekxNNWpTNlYwRkVaVmRacXRBS0FtZk13b0VLWDhuNVMxaG1yY18wQTZGMDAyS2pYZA?oc=5",
+      "date": "2025-02-04T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Jalori Jot"
+    },
+    {
+      "title": "MoRTH approves alignment for Jalori Tunnel on NH-305 - Projects Today",
+      "source": "Projects Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYTEwZXluelNsdGpRMm5jTzlfcTdRbzQ4ZzE3dk9HN0RCT1I5OU5sMERxNUdvUzlpbjV4WG9JYlRwNlVMNlVMNVpSR3FyZEE4bEJNYmtseHFRZlZablIyOVRFSDFUa0tPZUVpY205YVpyUWt2dHJPRmh6MUN5YXJiQUFmb0tvY1JwSVdMakQ2Zw?oc=5",
+      "date": "2024-12-30T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Jalori tunnel"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

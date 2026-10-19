@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:54:26.049Z",
+  "updated_at": "2026-10-19T22:43:20.963Z",
   "project_id": "SHONGTONG-HEP",
   "press": {
     "n": 17,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.188
   },
   "youtube": {
-    "n": 7,
-    "positive": 4,
-    "neutral": 3,
+    "n": 3,
+    "positive": 3,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.443,
-    "avg_magnitude": 0.529
+    "avg_score": 0.867,
+    "avg_magnitude": 0.867
   },
   "overall": {
-    "n": 24,
-    "positive": 9,
-    "neutral": 14,
+    "n": 20,
+    "positive": 8,
+    "neutral": 11,
     "concern": 1,
-    "avg_score": 0.221,
-    "avg_magnitude": 0.288
+    "avg_score": 0.24,
+    "avg_magnitude": 0.29
   },
   "top_positive": [
     {
@@ -33,13 +33,13 @@
     },
     {
       "source": "youtube",
-      "title": "भारत माता की जय❤",
+      "title": "Amazing fact 👍",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "बहोत अच्छा..... 👌",
-      "score": 0.6
+      "title": "Thank you sir",
+      "score": 0.8
     }
   ],
   "top_concern": [
@@ -50,8 +50,9 @@
       "score": -0.3
     },
     {
-      "source": "youtube",
-      "title": "100,% banega\nModi he to mumkin he",
+      "source": "press",
+      "title": "Bidders shortlisted for hydropower evacuation scheme in Himachal Pradesh - T&D India",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUW5rOEJ6c2Vkamw2Smh0WWtjeWd1WDhjTy1JWVF3aGZFQno0U1htTmQ3NVR5TnZTSk9BUWlmaDAtZnF6enE1bWduSW00UDY1TV9xQkdFWGx1YmY3QklXUm9ITjBWMU45OXpNU0VJa1hrajRvYWh6bTVwVDZybXdzSFo1ejBSOHRGYzZEUlJnYnFsWDZRcGk4d3RVYWRpZE3SAaQBQVVfeXFMTTBEOXpiaGEwRnZ2YUUxTF9XVEEwOUhZSGl1U2FqckdyS0lWY21zVS1NazdVR09kX2ExY1hoVVkyeTVDVDJ6Z01JajZSWnFMSTJHbTc3RnllZEtlR2RvU1d0WWJTbGJ4WUxQMUczNXJ5T2p3TXROZEJVNHFmUHZHS0U5UW1OVGVEcUFYU0REZkdvN3lCY3ZSd0ZHc1JBWVczeEJBVjk?oc=5",
       "score": 0
     },
     {

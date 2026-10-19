@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-15T21:54:24.540Z",
+  "updated_at": "2026-10-19T22:43:19.445Z",
   "project_id": "NH154-PKT-MND",
   "press": {
-    "n": 18,
-    "positive": 4,
-    "neutral": 6,
-    "concern": 8,
-    "avg_score": -0.1,
-    "avg_magnitude": 0.278
+    "n": 17,
+    "positive": 3,
+    "neutral": 7,
+    "concern": 7,
+    "avg_score": -0.124,
+    "avg_magnitude": 0.265
   },
   "youtube": {
     "n": 4,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.3
   },
   "overall": {
-    "n": 22,
-    "positive": 6,
-    "neutral": 8,
-    "concern": 8,
-    "avg_score": -0.027,
-    "avg_magnitude": 0.282
+    "n": 21,
+    "positive": 5,
+    "neutral": 9,
+    "concern": 7,
+    "avg_score": -0.043,
+    "avg_magnitude": 0.271
   },
   "top_positive": [
     {
@@ -39,8 +39,8 @@
     },
     {
       "source": "press",
-      "title": "पठानकोट-मंडी फोरलेन की डीपीआर में देरी का मुद्दा संसद में गूंजा - Jogindernagar.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQm1uTTBsSEl6bUxyNVVuQVdDTURtX01RVW1adWR5RUQwVmp3N0VOeW5PTGFsanNiZkNwblFSZ0RJSGZOZUJQMDdMUkpYNk1EV1Qtc25PWmFHeXhGaU5FdzV2R0tURG1QR203UXpkUWI1V19pZ1hMaUZfcjBGbkkyeGM2UERXNDR3cl8yeFF1VjhTdmJrVGN5aVZlbnVtTHh3MWZuWnBvSTVubTNqNkVxRlFHYm9lbXpJQmh2Q3doMW5vYUdOXy1ZWUpn?oc=5",
+      "title": "पठानकोट-मंडी फोरलेन के अधूरे प्रोजेक्ट्स से लोग परेशान - Jogindernagar.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHIxRlR3OXBneFdLeXlkc050R3lOTmsxTXVEZVN6MUg2R2RreWNGdzdMVDkyVjFoVWZqZWRRMnBGOEdnQ0pOWmUzLXB2WXV0SF9FVGdac2lwSklTVnk1N0xBU2xKOWsxZ2ZlUGJuZkFxcFFQR0gwUlptMmFyRTRsb0VnNTFvWWZhZnRHR1hLQjEtbURwLWoxd0MtMTVlWmluLXZJZ2VoQVlXb2hMdkJ4dy1GamJYS250eHc?oc=5",
       "score": 0.4
     }
   ],

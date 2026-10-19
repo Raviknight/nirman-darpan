@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-15T21:54:16.687Z",
+  "updated_at": "2026-10-19T22:43:11.938Z",
   "project_id": "RENUKA-DAM",
   "press": {
     "n": 18,
-    "positive": 3,
-    "neutral": 13,
+    "positive": 4,
+    "neutral": 12,
     "concern": 2,
-    "avg_score": 0.022,
-    "avg_magnitude": 0.111
+    "avg_score": 0.05,
+    "avg_magnitude": 0.161
   },
   "youtube": {
     "n": 7,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 25,
-    "positive": 7,
-    "neutral": 13,
+    "positive": 8,
+    "neutral": 12,
     "concern": 5,
-    "avg_score": 0.052,
-    "avg_magnitude": 0.336
+    "avg_score": 0.072,
+    "avg_magnitude": 0.372
   },
   "top_positive": [
     {
@@ -37,8 +37,9 @@
       "score": 0.7
     },
     {
-      "source": "youtube",
-      "title": "Once again very nice and informative lecture.\nApka new lecture YouTube pe na sune to kuch miss kiyà aisa feel aata hai🤗",
+      "source": "press",
+      "title": "Centre’s expert team greenlights tunnel designs for Renukaji Dam - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejBLbGlocWhOZHJ6WGZVXzBMc0drZ1I3WVozcUZqdmlvUmR5UkJJdnRDSUttZTJmcEk1SWFZM0ZjbGJmRkRUa3hHRW5GVEJWRTViWUpOdl9OYkVJeE9EMnhnbjhiV2RMSjJBWTN0T3hBTV9haUdPMHVzYkRpbDFjQkk4b0pYdFg3MUhNY0hXQUdQNFJlUzZ4TDNxLVkwZ2VxNU1VVXhTS2lGTzTSAa8BQVVfeXFMT2hUckVqN0JTRkRnU0VUUkZoUlJOSGhMZkNrR1VHeVJqMUxyazBRSDJBYVF4eHJTUU9ka0xfZno0OV9mQU9EU3d0U2YxSDExbXE3VUEwNENSNEhaRnNiYWprRW02Nk14ZC1QdUthc2tlWk9YR2FGeTVSd3VEWWFXUFlSOWxxcmt6RGZuQnkwMC1tdENCTmxNYktQU21SdVFHWGRSNlJaME1LXzIwaWlhdw?oc=5",
       "score": 0.5
     }
   ],

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-15T21:52:43.699Z",
+  "updated_at": "2026-10-19T22:41:39.180Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
-    "press": 261,
+    "press": 260,
     "gov": 0,
-    "en": 140,
-    "hi": 121,
-    "total": 261
+    "en": 144,
+    "hi": 116,
+    "total": 260
   },
   "mentions": [
     {
@@ -110,6 +110,16 @@
       "match": "Chandigarh Manali highway"
     },
     {
+      "title": "HP Road Accident: चंडीगढ़-मनाली हाईवे की टनल में ट्रक-कैंटर की टक्कर; चार की मौत, छह घायल - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0ltVWUzcEZ6WWpTMUFHemtpUnBGTUVkM2VmazZKNDdSLS1jNk9HVEZTby1PS0pnMmdGQzNCOFg4bzRQd2dpUGIwWGtmdHNwbWR4X3RkQzhpMXFiM2h1cVptSk52V1NsR3VQb1M0ZjFTWjMxZFRvTXJYMk5hWUlSVUNfQUszc1Fxb2lvd3FHOW1YWmtidXgyTDR1YUVsVzFUck5SSzJ1eFVPM2VkRWVDMUphUDhOR2EzdDBGYW5zZUhlSHQtdTNr0gHMAUFVX3lxTE4zc0lVT0F4cUJna01fU2RHZGtYb1hBV09BcEFUODVWZWpFdXJWZWh3REl5azlMdjNFbHdJWjlsVWpCODUyclFGU3JHN2F3YnRHUFJQSnBhZUZFYWJhcTBlbFRERzdBdnE2VThYbHllM2dwNEZHaFV1bnQ0MDdzV0ZEYmdZQ2VRVmp6Vk1qTmVZWTgzb1pYOVRDcU9QMldwZU9vNUJoRnhRSUJ6TVJUQ2FQc2FpWDRFUGtLaVRkSXJTVVZHN0lQS2kwbUJ4TA?oc=5",
+      "date": "2026-08-20T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
       "title": "चंडीगढ़-मनाली हाईवे पर भीषण हादसा, 2 ट्रकों की टक्कर में 4 की मौत; 7 घायल - Zee News",
       "source": "Zee News",
       "source_id": "google-news-hi",
@@ -194,19 +204,9 @@
       "source": "Himtimes",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzFxSjdEeVVIQ0VFbTBvRDhzVlVhRWxrRF9naHp2TkdhaS1OamtyVmg3dmxMaXpNQ2RmTTlrY0VvYmxkUzVfZ3FNblAwMFBOcG5Ga05hd2VqMmtoS3BEbTI4ZmpmUlA3Y2htZXZYemlJY2JfenNEQ3ZuS2dMaEZjeTBsOWZFWTRSRDJyUDM2ZGN3SkhnUDlxWUtnVDNTMlU?oc=5",
-      "date": "2026-07-26T23:51:51.000Z",
+      "date": "2026-07-26T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
-      "title": "हिमाचल: सावधान! स्वारघाट-मंडी भराड़ी फोरलेन 24 और 25 जुलाई को बंद, प्रशासन ने जारी किया ट्रैफिक प्लान - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnJBb01nTUV3bXBsSmVuR1hPMkxGWGRUQXlLS1NGWUJYQncySDR2cVdwQng5NTVqS2NXMnpLWDFaMGpDQnVGTUFpbW5OQUpKd3A2bHcwakRGS3BTSkhaaExxdVh0dktuWEVoV3hPMUtyTlloMEF4bElfOHduWVVMdVZQbTR1NzVvRE1zWXBJZ1FUQlRnYXplbmdfRWViSHFyMGlTNUlJZTRQLUVhblhaOWp1SlJ0ZlRSZ3cybFdBLW8wbHVU?oc=5",
-      "date": "2026-07-24T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Kiratpur Nerchowk"
     }
   ],

@@ -1,14 +1,44 @@
 {
-  "updated_at": "2026-10-15T21:52:58.520Z",
+  "updated_at": "2026-10-19T22:41:54.248Z",
   "project_id": "AIIMS-BLP",
   "counts": {
-    "press": 195,
+    "press": 192,
     "gov": 0,
-    "en": 98,
+    "en": 95,
     "hi": 97,
-    "total": 195
+    "total": 192
   },
   "mentions": [
+    {
+      "title": "INI SS January 2027: AIIMS issues addendum for DM, MCh seat position at AIIMS Gorakhpur, Bilaspur, JIPMER - Medical Dialogues",
+      "source": "Medical Dialogues",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeWtEZ2VYcHM3VXpKakdnU3VJVVBsSmlLOWdCT3FmUGI1SjZ2cU9wRTNlMlMyNjJDNGVMdW1DOVJMTmJsZ2hMNEhKcFhWTnZZSEk2Q2EycmRWbG9GYkZWQWpvOHBaUkVXRXgxMUhRc1dHaVY3amUtOTRSXzlXSEhENTlPUlhJMUxEaFdJSzUyaUR1d0VZcHI3YWlIV2dBVWJOQktPWUtybUxINGV0MHJxTW9WY2JNMF9OUV9VMEVrcVZJeFhhcmgzc3hGLW9aLTRHQ1E1TGhLQ0V4MDBYcEx1MmFodWNzaVRKV2ktdUpWOExneWltcFphak5RbEEyMWk0OTZkc9IBhAJBVV95cUxQeWtEZ2VYcHM3VXpKakdnU3VJVVBsSmlLOWdCT3FmUGI1SjZ2cU9wRTNlMlMyNjJDNGVMdW1DOVJMTmJsZ2hMNEhKcFhWTnZZSEk2Q2EycmRWbG9GYkZWQWpvOHBaUkVXRXgxMUhRc1dHaVY3amUtOTRSXzlXSEhENTlPUlhJMUxEaFdJSzUyaUR1d0VZcHI3YWlIV2dBVWJOQktPWUtybUxINGV0MHJxTW9WY2JNMF9OUV9VMEVrcVZJeFhhcmgzc3hGLW9aLTRHQ1E1TGhLQ0V4MDBYcEx1MmFodWNzaVRKV2ktdUpWOExneWltcFphak5RbEEyMWk0OTZkcw?oc=5",
+      "date": "2026-10-17T04:00:29.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "Bilaspur News: एम्स बिलासपुर में 34 देहदान संकल्प लेने वालों को किया सम्मानित - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbFludEQxT2dueU5ZaFJxWTVTZUdQMkVLMmsyWE1VLWtQSnZaaDZldzdlZlVYN0hZZzRhV25nQVBMQW1BTzJubXNQSjZEQzdrZmtoVjR3bXZDdElseEpyNWZTSG9hNm1Uc0ZwVjVteFUxeTMwTk93X0tUWUdUeW9NZVZkcUJNNkdOdkNTeDhKY19sTDVwUGQ0UnhYc2Jwd1lzLUR3SzZQZ2JyRm91X3VMWGlWQ1NpeEZGdVRhbVd3VVR5eGx4OHczOERJZXVjUjRlNnZ3ZlFUX0JfaGpPcFpLZ0xILUhldUlWUjNNY0N0VWZHejlXVkZ6dnBpQTJVS0Y0THl0T0daaDMtZkNG0gGSAkFVX3lxTE1fU2g0N1RwUGpTdEI0Sjg1aThVR1RuOGNuX0dpUU1lTU16MlkyRlVZZTFtMEwwY2ltVGxQZjI0VWd2OUlmelBiLXFwWXNZeEswR3VjYVJmYk1YYU94a01ELVpyYlFTUHUwTVNWSVgtell2aVltcC1tWVpXd2FzdE9zQWMyMXBSejVaZThVTjM0MHVUTUcwT2o4MGxLZTR0VTRvTWhfRFFKN2ZQeHVyRmlkbno2dGJ4RmFkZHRMUlp2Rk4wbXhKTUtWUUF3VWxKMzBJYXg3Ym9Zd3ZpbjBqNW9pRVpPRnlhZXRfNXZBOGFEZFJZTHEzQlEzQVJRNHM4NkYxN041T05POWd2N0Z6eFRjcmc?oc=5",
+      "date": "2026-10-16T19:06:14.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "Bilaspur News: दांतों और जबड़े की जांच के लिए एम्स में स्थापित होगी सीबीसीटी मशीन - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNkY4Zk1faHFTQ1FrRGZnVlFxY1Z3SnFKSkU5Y0tlV1VXZklYSnRPSFp6YTNCZlgxYXZBR0hzV1lZUzNYRmlGTWpGbkxqNEswMGk5X1pkWDk3bFVtemZqakFIU0U3Y1ZlYjJCbWFTQ2huVXhabzdnSUJ6Qm1sUDMyX3hfRFo0aVMyZDBDLUFJMTB3VERhSXU0NmRXUDJaZlRhMC1fRDhzTlg0dkpnOUtaTXZyeXVLM3NNMExPWW5SSEFzUE9kVVF0LTYtS1pZaFFLbGdRQndjcjA3VE9LVzhwZG85V3o0eGxkT0M2RFdROTh6TDZ1T1F4UlliRFFObXfSAYQCQVVfeXFMT09RWUU0SzR1UFBwZ3ZXa0l2WU5lUmNiZUI0bkcxNmIwMkY4WUFpdk5wR2NPQjlhLXRQVkpmM1M4d1V6MDV4Q0g1UmIzWGxLeXBka0xiSEtCbkVKT28zaFhZYlZlYlR5Y2JOR2tjMlBPMG1EelJQc1BoWVdXYnVpRHNNVHJYOGliUUdHY21HWWlvMFdpTUpZVkVpdU9oZTVhbmxXRHloTjNmY0R4eWFIamJLR0JLSXNNUHl5Rmlwc3VCUlRJVkRLbTZNRnhnRUZ5V3Z3WXNnbF9ldUVLeHl0Qy1Uby1hX3RKZ2l0Yk1CZHpPMWp0RVF3M3ZTMEZkVUZsY3JLb3Y?oc=5",
+      "date": "2026-10-16T19:02:17.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
     {
       "title": "Kullu News: बस के इंतजार में खड़े परिवार से टकराई थार, घायल युवती एम्स बिलासपुर रेफर - Amar Ujala",
       "source": "Amar Ujala",
@@ -30,21 +60,11 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "President Smt. Droupadi Murmu addresses first historic Convocation of AIIMS Bilaspur in presence of Shri Kavinder Gupta, Governor of Himachal Pradesh and Union Health Minister Shri J.P. Nadda - www.pib.gov.in",
-      "source": "www.pib.gov.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3hvWGFwT09yU1FLaTU0MWs3QmZLWjhsaS1JTjdYLWgtNUY5SXF1c011Vm9RM2w1a3dIQ3E3OVBCUHpLWHdSUlU0eDg0Y3U0Vl9mV2dvdTZmOFRsU0Q1SVUzMThpQWNnX3c5S3JJcm82X09tX1otaXMyUmNrM1E0Y0RVUWdKUW9TX1p4cGE3ZjBTMFFnUGs3eGdCMA?oc=5",
-      "date": "2026-10-13T05:42:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
       "title": "Bilaspur News: एम्स में दवाओं के दुष्प्रभावों के प्रति किया जागरूक - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVnE5VmN2SDFLYzY5cUVjQTNCLThOZ3V1Z19qR0hfcTVURXJBOHlYMzV6VFIzLUZ4VlRhaloxakd4d1BnNmc5bFN6ZFJYLWJnMUtZaHhWV1IwczZYVUo0anZpLVdEaDFsV0NYQUtreGpEdlVNa0wtVmtoVUJsQ1k0UVllcmc5bFhCT2F5V3pYc0k1bGZKT1ZxdXVIUzQwdmJyVS16TF9SbHp4SkpMSk5JMFdybW9tc2lxVW1ZTXd0amgzd1ZNaUZBZW9aY3lZaWxRQ0VEU2diRVdzZllaQzFxMzVjbmF0YUNlVFNNZmUxODVQRDZNdmR0XzBhYWXSAYICQVVfeXFMTjQybzFka3pXcEJlTDJRMWxKb3FneE5fRkRjZ2w4YkVtWDVURDNLVzZyMDNWcTNnaWhzNXVBd1dkNFJOVGtBUFdQNVdNanRUbHc4ODNQdU43Mk1lclAyRzVpZTlkdjlWMDB5REdxd2Zvd2xnUmtqdW1aOXFFd0RBTGN1YmRYc0tZbUVEcXE4VXBUVFhEZnVQOThfR2NoUUJpRHZmLXVIdnVfcmZucE5NbTRxckFsN3E3SXFiSUdHWmRHdGJXNEZrMXdFYWxQNklsVjlHemZQd3hjVWpaaklLdi1jNVdvcEVIX2NBY0VtUGJJdUJOeGh6SHR2bWRfUkl3dXdB?oc=5",
-      "date": "2026-10-09T19:30:34.000Z",
+      "date": "2026-10-10T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"
@@ -54,7 +74,7 @@
       "source": "FreeJobAlert.Com",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbDBwdXNuNGZiaVp6NVF6MTVKX0psMF8ybk1BMDhPd3JkMUZJUUpvbnpfMzNVU19GMFJDaXQ4ajZreG1saEhSeG1qLXdqOWprelJMcHZXZ2h2ZDQ1ZmV3NThLUHpOV0RId1h3VFJSOTgwMEdLVk8yenM0ejBDb0lvYnpqTGd6RnZ4S2Z3aEJLajhxVzVlNnJ6dVllclItMXVEam9pU0VUWHNYN1RNUzRKbnF0ZGdHMGtOUy1QcGgyMHUyQV9GOTFENjlxSjJtcjYyR296d3RqcDhmeWVkcGJzQ0FvYnU0dS1IbUtReQ?oc=5",
-      "date": "2026-10-09T09:52:35.000Z",
+      "date": "2026-10-09T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Kothipura AIIMS"
@@ -70,16 +90,6 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "AIIMS Bilaspur Project Technical Support-III Recruitment 2026 – Apply Online - FreeJobAlert.Com",
-      "source": "FreeJobAlert.Com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2dWcmpnRWlrV2trbzl2Wk5LN0FkcjBKZEY5di05aExFT3doa2dYREtMQ0dXbjE5d0hRODNFdC1hb3l1akFfY3AzeWo1Y0hmNGRjeE45UFV5ZjRWS1d0cHJWRWZEaWN1NVFLbEhYbFAxY1hISHNUajFBWTlLVGwxUWZnVkQxOHFDRWJxRHJkR0lPMFNROXE4UXV4bjIza0Y4dVNqVXBrVEpnWTA?oc=5",
-      "date": "2026-10-08T10:17:16.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kothipura AIIMS"
-    },
-    {
       "title": "Murmu Urges AIIMS Bilaspur To Expand Tertiary Care - BW Education",
       "source": "BW Education",
       "source_id": "google-news-en",
@@ -88,6 +98,16 @@
       "kind": "press",
       "lang": "en",
       "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "AIIMS Bilaspur Project Technical Support-III Recruitment 2026 – Apply Online - FreeJobAlert.Com",
+      "source": "FreeJobAlert.Com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2dWcmpnRWlrV2trbzl2Wk5LN0FkcjBKZEY5di05aExFT3doa2dYREtMQ0dXbjE5d0hRODNFdC1hb3l1akFfY3AzeWo1Y0hmNGRjeE45UFV5ZjRWS1d0cHJWRWZEaWN1NVFLbEhYbFAxY1hISHNUajFBWTlLVGwxUWZnVkQxOHFDRWJxRHJkR0lPMFNROXE4UXV4bjIza0Y4dVNqVXBrVEpnWTA?oc=5",
+      "date": "2026-10-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Kothipura AIIMS"
     },
     {
       "title": "Bilaspur News: ग्वालथाई-भाखड़ा से एम्स के लिए सीधी बस चलाने की मांग - Amar Ujala",
@@ -130,23 +150,13 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "त्रिलोक जमवाल बोले- एम्स का दीक्षांत समारोह बिलासपुर के लिए ऐतिहासिक दिन - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOG9kNXczX3h1ZWFwY0R0QlBEaUhMXzFnWHE3ZU5lcUVuM2lzOFViWmc4cjV0SVhCM2tTdFdUd2ppbnJ5eDV1elNzUDJhX21pVnExMGdaVVZlOXpjR1JaTDhsU2t3eHlBeXczQV9RYVBrQ1gzSnNvT3BmUjVwOVJpN0JUTXNFck1oTzA3Y0hCZklPaWZpRzA2cjFqU1EwQmwxcjIwNzhHMmlycUxLaElNNUhjM1JaM2hTMUFwVGxQSFpqVy0zVDRfdzNmWVhBUzV3bm9XckgxbDRIcW83eEVaSkNBcjVQZ9IB6wFBVV95cUxNejQxaGY3YWd1Q1E2NUlfTmNORVlzLWkyODNZM2FyVzVCZmQ4TnhsUGtPcklTc0pJX1JONnZiSkNJdHhuVzlfa01FYU9tdjJWWHN3UlVFcGc5OWZMTlNkWDdXbUlvNWtaSU90alFPenM4OE5hRjVRb01BY1FNaXRZZ1kwZHI5SnN0Q19xRUxyUVBmUVFLX3V3dWpnSkhuWkVfdGxuRFc5YzI5ZVUweFlKUTlyUWtSZzMtVUNiQy14VVFCQ2JQZlgtTUIxRko4TF8wcXdOa2o4Yy12SnNaVjluaTVNMTBSMXh1N244?oc=5",
-      "date": "2026-10-07T10:53:27.000Z",
+      "title": "AIIMS Bilaspur’s 1st convocation: President urges graduates to serve in remote areas | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX0RWOTV1SmU0WDJ2RWdXTUF0SkFyejF6UE5VTHhUVHotbm1Wd0FCR3FjQ0hnNmtvajBDamZ3VUg0N1BuSWVjVFd2Rm9tNzE2bUg5MnZZMzcxQVJoVWFjTVdNclBFTk1qRDlITklXQ3RzWG1GT2cxSWJ6Q0R4R3Jra3lSajVpdkJONHlBVkFOVXluSUtIOW16M3R5Sl9pOUlBMnpIajZMR3VSbVZGazZ3ZXVPakR5WjIySFhDS3NTRUJWSGFJVzV3N1JOUzhiWVZ6Ql93aVM0ZHh3eGlUa2o4RGVHbkIzOWFIczV2al9KNNIB9AFBVV95cUxPbWl6SjZUUzVuaEJ2VlBUTmlHaXM5Z2UwaXBzbFBMLWNZa1dOM3U1VGpKb09QS0p2QVV1dUhKY2dXd0h1MVNUcUFxR2NncjRfSzhNWElkM3pYeE1JTTVLaWxoMm4ySXZTWjJNWU9OREQ2Z1VyU3FheFRXTGY2MkVOLW1SNzZteHpMS1pXX1B3SjVCTGVxcHUtRW0xSzNJb3hzOXRSaldIdGNXTUpDSHBrdVVpWFRYY2IzbGdCTS00RU5ka2JMZlBtZkw3aVl3UjlpVDFUMDFLaFVfeUFMUDY0aWlxellVZ2lQdkxDeE9SMWpoQlJ5?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "AIIMS Bilaspur Convocation 2026: राष्ट्रपति मुर्मू ने ग्रेजुएट्स से दूर-दराज इलाकों में सेवा करने की अपील की - Careers360",
-      "source": "Careers360",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFVCVUU0bUtBdEpnaExhdUZ6SlN6bTAzNk5DSXcyZC05VFZCODNLWl8zdDFRNjF2a3RUUXhUSU9RQXU1VGtkMFFOaHVpdmpMdXI2dWw2REd1a09lZHloaGlxaXdtcWNQdU9WOFV0QTdQTnhrMXJvN1NKcUR4aXlXb3dKOFZ2Y0dEVWhDeTBvMkpXV2ROcF9DbVgxa2IxalEyVEtyaWswZlJ4YnFpUU0xVHExeDlGTDVRX3o5V2tIUDRnWmxfcEx0a09oN2ZhZEhtLUNR0gHYAUFVX3lxTE1XSGpWallZeHE3SjIzSjV6elQ2eEpuT3hXc2ZQYjFyVkd5azdJT01yTWdXc3pBMFZ5R0NZVWZlQm1ETkl4QkgyVmxqdmFja05rc0tQYlM5LWw4RHY2YUllVGQzeFI1RVdFckU5bm04ZTNjRlN4SkJUaWZ1ZEZVdkhJMVpxWWxvWGgyMjZ1MVJ0TFZELWpFVWV3T0ZnOFNJbzQtekRvTzh2bEcyOHk5dk5vS0hRd2EzUEJDVWVmNk11elI4R2pCMkI2a1NVVW9PcVJLVU1DRER6ZA?oc=5",
-      "date": "2026-10-07T07:14:11.000Z",
-      "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "AIIMS Bilaspur"
     },
     {
@@ -154,16 +164,36 @@
       "source": "The Tribune",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQjd5bUZjdFgzZklOVGVCS1BRS0xqVGZJSVBiTkVGOW9jOF9DOXhRT3hFMDRZT1NwZW9RWjRxUGlMa1BKS3BZa1N0SVpLNUdMeTNlVW5oYVRON0NKam9kSzdSU3JwN0lKenJGbGpxcjQxSzk4WjFFS2NBODZuR2U4aV9iYWs0bEpWX1NDTW9rbWdhV1dMdHNZQ25BUkJCbklVQzMxMklfekZBQktDSkQ5TnNIQXktOHfSAbsBQVVfeXFMTnN2ZmgtN0dicURqVDVsdlVzTmdMZDA5elVqSFJGLXJzemVIYk5UY1EtazFSMGVLVkpnenZyNHFuUUNnYXI2NW5aYnNWRmVHNkVFbnBtS3JKby1YNzkzY1NHbjNJT0lQclBNbDRLRjNtcUtrcjdsNDlqcUxzdlZIZzh3Q2dPeXh5WmJXZlBrOUlXTlY2V3RCWFdzOXM4MEl6M0ZQTGhSM0NXdmo3c0ZLOURqcDRnd2VSaWkyMA?oc=5",
-      "date": "2026-10-07T07:11:00.000Z",
+      "date": "2026-10-07T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "राष्ट्रपति द्रोपदी मुर्मू कल हिमाचल आएंगी: एम्स बिलासपुर के दीक्षांत समारोह में लेंगी हिस्सा; अटल टनल और हि... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
+      "title": "AIIMS Bilaspur Convocation 2026: राष्ट्रपति मुर्मू ने ग्रेजुएट्स से दूर-दराज इलाकों में सेवा करने की अपील की - Careers360",
+      "source": "Careers360",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNazdzdTI3RE0zMkEyNWN1b3BsUm9UeXdKaU5DX2tJTVc5dFNLcGVoa2w5RVh0aTZLUTRxYk11U2lHa3dyZzZHVkt0S0ktUEpsazh6ZUxzMk9NaDZKbzhsUUZTWGRaQ0dvM3VwSFR1YUptVVd2V2JhUDFrT3luQzZRQ2xkU21DZzZEVDBUVmdpZWwxVi1ZZGtMU29uVFdndDluX3phNFF4WUpZMXdXbHBDNE1tNEY0cUJ0eWtFLXE5NERIakItN243U0xwZVhfSHBDbWZCVVpERUloamZET0tvRjV30gHnAUFVX3lxTE1iZUd2LWcxM1lvaFB0ZmxxY3Y3c1VOSzBqbzN1dFJqMUh0dU1EV1h2NWYxNk5iSklXTkJKZ0pOQW1lSmpna0tTbzRfbzRpelhhc3ZVWnFDX2l4Y1MzcUdUdXdkRTRDOWZNZ3JyLUVYRWNaa0ZvMWhNa3FITmVUbFJGdHF0WmNEN2ZTemNkMjRiQnpuTk9ZYXV5RFVlYk9uejMzVEw2QWZhR0ttMkNKUFJXYVpGQ25aYUxsOFlVWGdrNHBVOG9OSHI5N0JZRkZnc2VBQTlHdE8wNl9PMVBYcTR6NnA2STdhSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFVCVUU0bUtBdEpnaExhdUZ6SlN6bTAzNk5DSXcyZC05VFZCODNLWl8zdDFRNjF2a3RUUXhUSU9RQXU1VGtkMFFOaHVpdmpMdXI2dWw2REd1a09lZHloaGlxaXdtcWNQdU9WOFV0QTdQTnhrMXJvN1NKcUR4aXlXb3dKOFZ2Y0dEVWhDeTBvMkpXV2ROcF9DbVgxa2IxalEyVEtyaWswZlJ4YnFpUU0xVHExeDlGTDVRX3o5V2tIUDRnWmxfcEx0a09oN2ZhZEhtLUNR0gHYAUFVX3lxTE1XSGpWallZeHE3SjIzSjV6elQ2eEpuT3hXc2ZQYjFyVkd5azdJT01yTWdXc3pBMFZ5R0NZVWZlQm1ETkl4QkgyVmxqdmFja05rc0tQYlM5LWw4RHY2YUllVGQzeFI1RVdFckU5bm04ZTNjRlN4SkJUaWZ1ZEZVdkhJMVpxWWxvWGgyMjZ1MVJ0TFZELWpFVWV3T0ZnOFNJbzQtekRvTzh2bEcyOHk5dk5vS0hRd2EzUEJDVWVmNk11elI4R2pCMkI2a1NVVW9PcVJLVU1DRER6ZA?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "एम्स बिलासपुर ने विकसित की तकनीक: कैंसर को खत्म करेगी शरीर की ही कोशिकाएं, नई थेरेपी की तैयारी - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd0hzVzdaT2lZQTc3UVFmejVXNTJSd0FhbDJ0RF9aOHpaeXlwZWU0ZmpibHBvRXI0dFlBNFZrcEFkTy1OOGliYjVoTFp2VTY5aTBVX1doQlpzZ0FMdUMxRlhUeUQxVzhYTlRQUnF2REhIVzF2UE9KZHVUMFU1X1htS2lBVFloTDYzR3lvWEtta3otUkh3OE5hSXk5VzI3RmUzem9tN2hjQWFfTFJCbHNLU0tEd0NGOTZwZHBTaHFNd2RCc21tdDVNWXdnQUVmZ2F1blVYZFNTZWRzT2xXX2Y1b1hXVThiQU5rZ3FnWk5kbkdTZjVN0gH6AUFVX3lxTFBOTmtPOFhCZFJGZkg1SnpaVm5fOFV2VWZCeks5RkZfWkF1ZExYakdCRFNGMm1SSHZIdGRrb2JOWENsMkFDOG9oV2xnX0NYZmdqNHVnQVZHek16MmN4UzNFM1JmTDQ1cUF6eFREZTU4VWpGWk9jQURiTGFJTDNzeENhVVhjSFBNeEQwR2kxYzl6MUFCY3Brc0czSG1FbUJkSnM3VGgzS3A5YnUzWHM3OHNMUENzR0gwRmVJTE5SWVVTMWw4bmo1RE02aTBNOHlFUnRaWm5UUHpPLU5rT1g5amd1X3d5NUJRbW12OXdMQTctdk4xT0wtUHdCcWc?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "बिलासपुर: जेपी नड्डा बोले- अगले तीन वर्षों में देश के बड़े स्वास्थ्य संस्थानों को टक्कर देगा बिलासपुर एम्स - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWXEtVU5vTWp1bHJMQnNXSm5tYUVHMDJqWWh1WmFnWi1UTndTeEVGdFBxZFVEZ0hDVW9yQU1fTTh2dGhwSlRBSlBXMU5qMzZ6Wmt6cDlTRjBDMnN0QWVGazM4MHFDUy1wNkN4MHMxUnF4LUNqTXBGUTFYSDJTV0x0T2xrRHNFbFRKWGJpSWFpUWlaQlFsZmhQRjJURWhQUl9NU2VCZFY1T0poakIxTkl0bkNiallkVXcteVVOTTY2XzRYOGZVdW9seGp2bFo1ZkhnV0R1WFpIUlJWenFqeVZj0gHkAUFVX3lxTE5GOUJxTjVHcW0wMEdBSllFSjZBZWcyN0k0TGdzNlBSbF91aVBqMnN5NG91NUMtb3lUZkFwOFpiVWctcUJwTVJOVHM5S2p1WFdxOHVQR19uZHF1X2dsd3V4VnZrWkpZN1ZyM2xMSWVqcUF4WGVJRUt3d0EtSzhrVWNNUzhaWnBoU01TZEdJc3BNb1dlcjAwallERWttT3hBWDlBUGpkRE45c2lPNXZPNk5KRlZGMHc4bmJiYmVCaUhVcTAxWjNWNDRHOGhMNzhLVzAybXB3R1pCSXV3MFF1dXJUb3IxZQ?oc=5",
       "date": "2026-10-07T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -175,36 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQVAtQ2ItcXV6N1Q1NE40dm5NWS1VcEEwMnlmQ3RoM3FUUzJFWjNCa1U5ajlRdzNNZkpQWnRSeEd0WFMtZE16aDd6dXkzQjl0RDdyQjNqZkFUWVhpaFJvYjZoU3pvQ0l4ajZtbHhkbWdYSTJ1X1lVdVZubVVsX25rc3NkUTZuMWpOcFpELTJxd0tiY0RvaVQzNEozNEh6UVlqSEpZaWpDd3I4eHYxMl9leUFZRnBoMHpqNkZ3SkdZZGdXbFlqeXdlQWNVc252b1ZkWGF5TDQ3UkIxWHh2dmwyYUp5a9IB6AFBVV95cUxQNE5ZclpkRU5RYmVWb1d0Ym9ZX1RTcUN4cS1FQXZCOFRSMTdCVE5yNzFvS1EzbDBjY1JzNkE0NW5RQ1Bod1F5SjJxTzl1Y1FxYXc1MVNyd3ZmX0pWSGxheXdXeTduR2pSemdrOENZOC1IRkJCcG03empjU2RGN085NHFlM1dxV2ExOHdxMmRwZ1RJdDNzMHV6U3BRaTVkTTRiREZEWGRxS0g3NHhwOUVlSHZWMkxLb2RDWjJoaGRmUk9qaWQ3MC1ZcE50NGphWmd1djRqcVplS3oxcTJleFcxWkU1Wm03Ny1X?oc=5",
       "date": "2026-10-07T04:30:50.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Serve in remote areas, President Droupadi Murmu tells AIIMS-Bilaspur graduates - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVBKU1ZfejdCUXNNQk0zXzZhR09nVnc1U1YxQzd2d3F1VnNjWHNQQkJKcnNCeUxtcEltRlRpRmZrY1JxazgybjBwcUMzTFAwN19JOHdXNVhqX2lRV180Ql9Kdi1qN25LUWtPZGhVcUZRYm13Z2F4U2NjdTZkM0syMmVpQVRydWZCTVZUekxvTFduM0FSOEFUVDVlU3VjcVVfVXdOVtIBqAFBVV95cUxOOEJOblFmdEpJRzdaYUstQnNYZWh3bS12ZDhoclRwUzB0cDFRZFZsMFotTkpGSlB5cml0cFFySDhYZ1YtUG1Nb3plRExJQW1FUGNIdFZCZG1QMGVXRHV6U3Jxc2tZNVJmQ3BlV0QtWk9XSWRieTZKYzlkcVpDYTViTkZ4SGI5VDVhVWFFR3Q4WmpDcTBLd0JSdGg0UU03STNsOE5vbG1qMk0?oc=5",
-      "date": "2026-10-07T02:54:10.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "AIIMS Bilaspur’s 1st convocation: President urges graduates to serve in remote areas | Hindustan Times - Hindustan Times",
-      "source": "Hindustan Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX0RWOTV1SmU0WDJ2RWdXTUF0SkFyejF6UE5VTHhUVHotbm1Wd0FCR3FjQ0hnNmtvajBDamZ3VUg0N1BuSWVjVFd2Rm9tNzE2bUg5MnZZMzcxQVJoVWFjTVdNclBFTk1qRDlITklXQ3RzWG1GT2cxSWJ6Q0R4R3Jra3lSajVpdkJONHlBVkFOVXluSUtIOW16M3R5Sl9pOUlBMnpIajZMR3VSbVZGazZ3ZXVPakR5WjIySFhDS3NTRUJWSGFJVzV3N1JOUzhiWVZ6Ql93aVM0ZHh3eGlUa2o4RGVHbkIzOWFIczV2al9KNNIB9AFBVV95cUxPbWl6SjZUUzVuaEJ2VlBUTmlHaXM5Z2UwaXBzbFBMLWNZa1dOM3U1VGpKb09QS0p2QVV1dUhKY2dXd0h1MVNUcUFxR2NncjRfSzhNWElkM3pYeE1JTTVLaWxoMm4ySXZTWjJNWU9OREQ2Z1VyU3FheFRXTGY2MkVOLW1SNzZteHpMS1pXX1B3SjVCTGVxcHUtRW0xSzNJb3hzOXRSaldIdGNXTUpDSHBrdVVpWFRYY2IzbGdCTS00RU5ka2JMZlBtZkw3aVl3UjlpVDFUMDFLaFVfeUFMUDY0aWlxellVZ2lQdkxDeE9SMWpoQlJ5?oc=5",
-      "date": "2026-10-07T02:36:10.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "Docs must possess sensitivity, compassion for patients: Prez at AIIMS Bilaspur convocation - Magzter",
-      "source": "Magzter",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNLWY3RjN2NklWSTNVQzBTbEt1ZWM3Z3c5TXJmaWU2RU1wSHdqTkE0T2FhZjA2VnFPclpueWZud1RKdkliYkhpeDItNm5XSmdQZVpuNTVCZVo2V3hYR2NNcTlQWEJ1UDRYMkxnZ0ZiTV9YVVRrNDRHdzltQ1BxOEdpNWZUclV3MzQwczIwWG9CdXhUOWRYNHpqTFhrcGJYWm50U3BMTlo1QnhEZWFKMUI4VjdwMHo0OXFRMGJRWEFUTFRrM2QzY0FPNWV5LWc4b0Q2ajVROWJtRjFtLXNxVHdQVzBsMklYc2YxX1YyREtQVzJ5T0JEQlE?oc=5",
-      "date": "2026-10-07T01:24:29.000Z",
       "kind": "press",
       "lang": "en",
       "match": "AIIMS Bilaspur"

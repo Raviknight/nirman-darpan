@@ -1,45 +1,48 @@
 {
-  "updated_at": "2026-10-15T21:54:24.073Z",
+  "updated_at": "2026-10-19T22:43:18.867Z",
   "project_id": "KOLDAM-HEP",
   "press": {
-    "n": 17,
-    "positive": 9,
-    "neutral": 6,
+    "n": 14,
+    "positive": 8,
+    "neutral": 4,
     "concern": 2,
-    "avg_score": 0.135,
-    "avg_magnitude": 0.259
+    "avg_score": 0.15,
+    "avg_magnitude": 0.271
   },
   "youtube": {
-    "n": 6,
-    "positive": 4,
-    "neutral": 2,
+    "n": 1,
+    "positive": 1,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.517,
-    "avg_magnitude": 0.683
+    "avg_score": 0.3,
+    "avg_magnitude": 0.3
   },
   "overall": {
-    "n": 23,
-    "positive": 13,
-    "neutral": 8,
+    "n": 15,
+    "positive": 9,
+    "neutral": 4,
     "concern": 2,
-    "avg_score": 0.235,
-    "avg_magnitude": 0.37
+    "avg_score": 0.16,
+    "avg_magnitude": 0.273
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Proud to be associated with this great project of NTPC Ltd for about 10 yrs(in two spells)! Time spent at Koldam has bee",
-      "score": 0.9
+      "source": "press",
+      "title": "रिन्यूएबल एनर्जी में 'किंग' बनना चाहती है भारत की ये कंपनी, 2047 तक इतने मेगावॉट उत्पादन का लक्ष्य - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQW0tcWVzWC1rSjcybURCR2NOQlNaX21Zb2dCaHNxU19rMFR3ZVhuWHRFcnJSMWRYcGhEc1NnMU9WdTBYZTNvQkRKeFQ0X2Z1WVRtRW93dFh6cHpMTXJTSWt4Nmp0bW9FSUg2NzBWRDl3Y3VpVkhtY29XMFJZSDdNY2w0ZGdaMVppS3RFY0NrNW1jUDZ6Z0xHdEt2QVhWWHFiaTEyRzM3aEhRZWdjcnVaX25RZ0Y5NGVZSW9wVjNR0gHDAUFVX3lxTFBzQW9OMXNiaEpOVTYxTW1mQm8wWUE5SWFYY2xyUDZvTFIyZHlPcjBKSmVzSG93eHBUSk9PTTJCcW1lRG5ZUnVrY0ZUeVhueS1iTVpEaHlHNmVCU1BYSnVxMXktZ3AwQ3dqbEFMeDJKcEdlbGVtTXRBR091Tk15aTFkMnBJV1ZBWTZVS1E4elVYZlBEWG5DTzljdmdZVjlrRVFPVHhWTHZJeHlublR6ZVhxWFVpNTRidk5IcDVKQkg4bEx5SQ?oc=5",
+      "score": 0.4
     },
     {
-      "source": "youtube",
-      "title": "Proud to be a part of this project...",
-      "score": 0.9
+      "source": "press",
+      "title": "NTPC Koldam expands CSR initiatives in Himachal with focus on education, healthcare and green energy - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONTJ1LTlnYUhtYVAwZEh3VGR4NTZJVGVVeG1SVHZPQk85STdaSzJ4S2JNRHd1LVlFNDFfVGNSSEpHYlFrUGYwVEpkZWlqMmdRU2tIeTBTeFZ2SEtyN2h6NXZqck5sQUJST2p3QWpIS2JMNk5MNzBHMzZGRnQ3VGlBZUlZU1RwMVQ3bkFsZldGSXJjV1F3OHBlOFlEMWx2eUJtOFZNa0JIV0xGUjZ6Nmtpc1hrcEFxd25GSkZoM1dFYmNhak1zd2piam9ad3ZwaEs0MmxUWnFRTlhxbDjSAd8BQVVfeXFMT0JKak85VEpiZzl1WHU4alNEN19NNi1BUUVEOHdKa2dTWEtERVhRcGE5N1RXV2hBMW9VY294d1F2RHBBQjJEX1ZQX3ctYnNSdzRTcUk1c3FnczZTcnZVZ2lPc3lLXzZqNDRIWE44ZnVLVmkxUllyLUxLZUpiNWJmM1BDMG5USW9xZ3RoeFZOMFpIV2twSXFKSzhpSXZlU0JqSjBDd05WcmZha2U5Y1ZZRjhMSWUtUlZzSW14VkJCcGx0d2Jickg2a19Ub0o4Y3RyOEtPZnVFUlE1TFBTN0RRVQ?oc=5",
+      "score": 0.3
     },
     {
-      "source": "youtube",
-      "title": "Very nice 🙂 and",
-      "score": 0.9
+      "source": "press",
+      "title": "कोलडैम झील में वाटर स्पोर्ट्स और पर्यटन को बढ़ावा दे NTPC: राजेश धर्माणी - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX3pSZ0FVUXdnaG5SSE9ZdG1WclhMYjk5Q25MMU9OZ0EyNU1BQk5NX3BhRU9RYWh0Y1pkSk1HZElyU1dKV2hLdWhsZzNWeTFpVXRacUZMM0JjSDdhejF6Uk02YXpYakRKNXU1b2E1QTZMcnhhSU55aEQ2TnBJb0hfNVpndy1oVzVpM3g4bVMyRFpWcVFEMVJLRnhPNWRBWnZHc2NhM0J6STdob1NNUkwxZTVxRW1odDlhRWhQem1sTllObUI0b3BkVVRR0gHPAUFVX3lxTE50anV0OVIycDVRRWVLZUVMMWxoVmtaeFBfb0V3dm5PeVVuTzR6NUpfaU9hZ1R6S1FvQV9LNHlDdkV0WGtMTGtSTS1PdUpXLXZwU3pweHZpd2E2eGNTMFFWMERQUnhXTFoxbUx0NEEtZ0JNYXlIdExRb3BNU0hsblBfNWNLazVuejN3V0dTRFZ2OGY3ODJweV9zcGxPZGE1aW1ySWhJUkJ2c0pCaUJ0MC1HbXZ5WWFUb2lGTUFJejVxZzM0emdxWlRLUnpTY3Bzdw?oc=5",
+      "score": 0.3
     }
   ],
   "top_concern": [
@@ -56,8 +59,9 @@
       "score": -0.2
     },
     {
-      "source": "youtube",
-      "title": "Hme garv hai ham koldam ke nirman ke sme 2 saal company me kam kiya hai",
+      "source": "press",
+      "title": "All major dams in Himachal are within safe limits; Pong Dam records highest inflow at 4,933 cumecs: SDMA - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVW1zMW5rSHFWeFlvVWZSNUdwS0VQcWpBZDJMWjNqS2o0VVFZSGZzZE0weWstcktaZ2h0aG03SFNZVHN1LVBhZEhEOTFKSUJycXVSVjdLTkNCM2hCaGt6ZG5zWFNwdDN3VlBvb1lkNFd6enlLVWZqYmYzZEVKOFdfLWNhbVZWaldNU0ptTDYtMUVjU0hoRi1TcHF3ZUNNNWdoSGo4aTBYX2ltUWpDMFRXLUJlQnkwX0Q1QUFnbUFKZDdBU3lxYy1jQ1Fra2RhdGg0eFB0blZPSzBlNGFKRW5JcnB5MmxVaWtxTjhnam9EOVE0ZnY4RlM0RQ?oc=5",
       "score": 0
     }
   ],

@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-15T21:54:26.130Z",
+  "updated_at": "2026-10-19T22:43:20.965Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
-    "n": 18,
-    "positive": 7,
+    "n": 20,
+    "positive": 9,
     "neutral": 9,
     "concern": 2,
-    "avg_score": 0.106,
-    "avg_magnitude": 0.189
+    "avg_score": 0.145,
+    "avg_magnitude": 0.235
   },
   "youtube": {
-    "n": 7,
+    "n": 4,
     "positive": 0,
-    "neutral": 4,
-    "concern": 3,
-    "avg_score": -0.186,
-    "avg_magnitude": 0.243
+    "neutral": 2,
+    "concern": 2,
+    "avg_score": -0.225,
+    "avg_magnitude": 0.275
   },
   "overall": {
-    "n": 25,
-    "positive": 7,
-    "neutral": 13,
-    "concern": 5,
-    "avg_score": 0.024,
-    "avg_magnitude": 0.204
+    "n": 24,
+    "positive": 9,
+    "neutral": 11,
+    "concern": 4,
+    "avg_score": 0.083,
+    "avg_magnitude": 0.242
   },
   "top_positive": [
     {
@@ -34,31 +34,32 @@
     },
     {
       "source": "press",
-      "title": "बरेली की रामलीला जिसे अंग्रेज भी नहीं रोक पाए, 166 साल से कायम है परंपरा - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWxpYnhSMWIyZ1c1UGJld0VzWkhqczQzSC1RM2pDbUZ5UVhtT0htVW5CeE9SbU45NGhUOE1JTGVwbUlWNGUxRjNYNUcxRDJqRGoyWFIyWW5iT2hJc19OY19yelR5UTY4NGY3Vno4TUNEQXkzbjAxbHdPcGRweDQ1US05dW1GMzctMXJ4SjJzZVUyVVhXUmJoRGx5dEdBTS0zWXZybExaTHI0SUhZX0RrS1JjT3lib0lGdlpiWF9ldmZnSnQ0Y21TVzF2aE1xNU1iYjg0eVFJM0NIa1nSAeABQVVfeXFMTnMzVG9oYXBnVjNhdklCRl9UQlYzbTM2VG9hRFNCMzdOWER4Ylc0YV8xYVdva0pQLVBQVmctVUQ5OENQNUFlWERnQlo2dXpWQTZoNzJhMzlEc1N5R2hkczBsSk9zOGVRbmlqOEdUcWs1T0VpMWxKLUhqTVlTd1F5T015LWFockNVcVJpUWFiekhSRU1NSFRORHBCbGpWcGllbUkzY2t6em04QzM0eldwbzhkWmwxS3lmOVVDeERUMVZUM25tckpwS25PRkFMbjU1VnlMTnJGbXU5LVFEZmtrWTU?oc=5",
-      "score": 0.5
+      "title": "बरेली में होली पर रामलीला, 166 साल की परंपरा; मुस्लिम समुदाय ने किया यात्रा का स्वागत - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1RsU3Z1dEFZOGFrZ1FpdTNrcWh5ZVdsWUNwdmlWaDE3elZSd1J0UktOZFNkNUxzRTBWX2VaTk9kcDM2Ul9kVE1LNDF4Njl1VXlfYVBSVzNrMTg5VGx6d0tRcVpXZ2ttdERRd3NGX3dXNnVfSmJ5MmlfWV9hQmRvODNUMXp2aVRZdHdrcHlPbFJweTZhZjQwaDlOYWtfRXc0TUUtd3JMZ1hDenhwRjhHMHdGcFI3N0JlTTZLN1NaZUFjWEhfbWRENzY0OWg4UlN3NTlib011X2FwMXpLMmNoWEZ30gHnAUFVX3lxTE9ZVUpvUnhfcTVyaVFTZDBuQW14RDBvTFBDQzBvdXlDQ1RBLVRWSi10U25zMi1yZlotV3hyY05sRjR0QzVKQnNJNm9wdk1UdGRtMlliVW9ISUFDLTZ2Z1habHRDZkNlVkM4NTBHN3lCY1FhYW5PMm12RnNzSm9KU21TbGJjRTF5Z19jeTZHQU4wVHRfbFBpQkpPSWlrV1ZQRDZrMWRQY3Faa2UyWldoUlZ4QjRlRk5zZjFfUXNEcktjbkY3OXJsaWt1ZzI0RUNacE1yTjFQLWF2cTROVzhzWjVPNHVYOHJkZw?oc=5",
+      "score": 0.6
     },
     {
       "source": "press",
-      "title": "IPS अंशिका वर्मा ने ‘लंदन ठुमका दा’ पर मचाया धमाल तो SSP अनुराग आर्य भी नहीं रहे पीछे, डांस किया - Navbharat Times",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNLW5ieUJjYXJ0cEcyTGtZNWtzOU9TTzA1X0k5MWQ5UjNUOXlUN0lpeU9TMHV0azdma3Iwd2ZmLUIwdXNMcGNPLXdveERmTERfSmFWb2gwdndoZVFuVXJMM1lBWGpscS1BYjRsQ0RqN1J1YThMd0FITm1xcnJIOHZINmZ0RmVtMFJKVW5UYkxlNERUX3h1Y3UzaFhiQ3R1N204MVlmSzVHNThPcEJXWHZjZXczSGNodm1iUWdtZEw4TUE4UHBLUENjdFdzc2o3UFZOYVBwaEpfLTY2TTBua0Q4QWhuUTRtT1VmTGFwUU9xLXV4RzdvcEJTTmFJM1NEVGVsd2RoM3dveXdqc1Rld0hQRElqLWliSjNTbW5nc1Q4VFg0cEFTZThDbkduRmlSMW04V1hiTNIBugJBVV95cUxPbEhxWG5mQ3FQVzhiY1ptMFFLY2JyeTBXWmdTVGRwSXcyTW8yTFFFM2pJZTZSZ3VQNi14cFJtXzB5UEM4dlJFbW40TVU4WWczeU5NOU83ZWRhSnRFV0dZV1A1X20wbk5VcXRjYndYeHFEN3RTUmh6cTZISTVGcjFoT3daaDhMTTNLT0ZKcjJCWnNhaUQ0c3pOU19Dank2aFNhZTVBc1BkVjljdXpDUEg1V0lpeHhTeTFqVG1YaHNqMndScS1PVVdTWGdzUUptUVZjQ1BwVFJMNk40d05ScWd6Q1NwSjRSWGxaUUpacGtTZ096OHVCajI2b2RPZVlvZVFsN2E3cDBweVVIV3JZS3N0R1ZEd0tXeWRXSE9wbVZ3RmVwRWdFRFR3SmYzRXlUY0wzSGxLNXBYeHd0QQ?oc=5",
-      "score": 0.3
+      "title": "बरेली की रामलीला जिसे अंग्रेज भी नहीं रोक पाए, 166 साल से कायम है परंपरा - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWxpYnhSMWIyZ1c1UGJld0VzWkhqczQzSC1RM2pDbUZ5UVhtT0htVW5CeE9SbU45NGhUOE1JTGVwbUlWNGUxRjNYNUcxRDJqRGoyWFIyWW5iT2hJc19OY19yelR5UTY4NGY3Vno4TUNEQXkzbjAxbHdPcGRweDQ1US05dW1GMzctMXJ4SjJzZVUyVVhXUmJoRGx5dEdBTS0zWXZybExaTHI0SUhZX0RrS1JjT3lib0lGdlpiWF9ldmZnSnQ0Y21TVzF2aE1xNU1iYjg0eVFJM0NIa1nSAeABQVVfeXFMTnMzVG9oYXBnVjNhdklCRl9UQlYzbTM2VG9hRFNCMzdOWER4Ylc0YV8xYVdva0pQLVBQVmctVUQ5OENQNUFlWERnQlo2dXpWQTZoNzJhMzlEc1N5R2hkczBsSk9zOGVRbmlqOEdUcWs1T0VpMWxKLUhqTVlTd1F5T015LWFockNVcVJpUWFiekhSRU1NSFRORHBCbGpWcGllbUkzY2t6em04QzM0eldwbzhkWmwxS3lmOVVDeERUMVZUM25tckpwS25PRkFMbjU1VnlMTnJGbXU5LVFEZmtrWTU?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Poor management",
-      "score": -0.8
-    },
-    {
-      "source": "youtube",
-      "title": "Security raxa hai isme",
-      "score": -0.3
+      "title": "Biggest blunder of Hydro Industry ever",
+      "score": -0.6
     },
     {
       "source": "youtube",
       "title": "Chor company hai .. GMR tabhi toh loss mein chali hai..gareebo ka haq maara hai ..tabhi bik rhi hai.. ek din pura group ",
+      "score": -0.2
+    },
+    {
+      "source": "press",
+      "title": "In Chamba, a village cracks under shadow of another hydro tunnel - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlRPSWR3ZmlKRDhabHhkZVd0WHhrZFBTdExCaWc1RGI5eEVtMklKS0JhVzZ6a1dtR3Z6SWlHVG5FZG5wYVl3TXJKU1Z5WVZKRzNrNmRXR3FFNnNIZzgzNlpzYnl1V0p6SE1XU1NPZW52WDJuTVR5VmFFaTdSVmlwZDh3eXFKbnJ3VmUtQUswNkJwTFM3UWs2TUpzVDhmUGtWNmxseFUyZEwtV3RnSzZjWXNOMnItc21WMFFlQkp1cXlnSkRWZ3JTYnZn0gHPAUFVX3lxTE5Yb2ZzUFpnVURtcHhTSDZDTlNxeEVlck1PM0lCaVBxNlBma3dIU3lkVnVDSzhkWi1Wd21RWHZGYnFKTGxBcXU2dkZQblRQSzVKTWZJUTEzQnduRm5YMWI2LWk2LUdOT3pXLWRTaEVYWmg0OVpJYXRoYVloZ000eDQtc21EWHhrWlZRU2F0VE1GZWNJNU91anMyTVRsRUJpYW1reXQ0RUhSeGZjUVdzMmQ0cVM2N2c5RmtqR3g3clBrUE95VmZTbENqWHBVMEJ3Yw?oc=5",
       "score": -0.2
     }
   ],

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-15T21:54:25.490Z",
+  "updated_at": "2026-10-19T22:43:20.431Z",
   "project_id": "AIMSS-CHAMIYANA",
   "press": {
-    "n": 10,
-    "positive": 8,
+    "n": 8,
+    "positive": 6,
     "neutral": 2,
     "concern": 0,
-    "avg_score": 0.29,
-    "avg_magnitude": 0.33
+    "avg_score": 0.275,
+    "avg_magnitude": 0.325
   },
   "youtube": {
     "n": 0,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 10,
-    "positive": 8,
+    "n": 8,
+    "positive": 6,
     "neutral": 2,
     "concern": 0,
-    "avg_score": 0.29,
-    "avg_magnitude": 0.33
+    "avg_score": 0.275,
+    "avg_magnitude": 0.325
   },
   "top_positive": [
     {

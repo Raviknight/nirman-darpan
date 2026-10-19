@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-15T21:53:17.095Z",
+  "updated_at": "2026-10-19T22:42:13.287Z",
   "project_id": "NH154-PKT-MND",
   "counts": {
-    "press": 65,
+    "press": 63,
     "gov": 0,
-    "en": 54,
-    "hi": 11,
-    "total": 65
+    "en": 53,
+    "hi": 10,
+    "total": 63
   },
   "mentions": [
     {
@@ -14,7 +14,7 @@
       "source": "The Tribune",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXdvSGtwMGEybWZHaVJ2NU9xTmZsYTg1dDEyc3hDMlBLUkhIR0JRWEFWUDlGZmJoY1V4SC1GRXAyZzI1YUJ3TVNCeldwVmUwdjA5OTh2WjZGRkZSMTZ1V3UxeFh5aTdZNENJZk9rVW51TnhsZXM1cFBNS3VUcmIyenFBVW12dk1Ic2hqbDFQc0VRZWFXNEFXZDJibzFWWUFXVUJMbdIBqAFBVV95cUxQQUhpUWtqV0xaaUtqMUNiTTZlamkweUVzcGNKY292LWszVm5oYms5MEhfcnB1U05JWkJLa2tCbWhxNUdUajFaQ0EyWXcwdTRhLTBucXdJTzBYX1dZekYwWFQ1eXdLQjlWTTVLVzR6R3EwOV9ad2VvVWRTdkVqTTlHMzhkdHpzQ0VDRl9UTy1jbXZRNWNMRlgzU2JIci1rdnZicTBpSk55VEk?oc=5",
-      "date": "2026-10-06T20:26:03.000Z",
+      "date": "2026-10-07T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pathankot Mandi four lane"
@@ -63,7 +63,7 @@
       "title": "Himachal: Connectivity concerns mount over Nurpur bypass project - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON000cmNsQjZCZWFEWlBMdVV6dExYVWdqdDhUTzdCYUpVWnJsd19zVzBUWS1sNWcyOHp0LXg3X1hPYmFUX0RkMXg1YjFEcW5QWFVSMVFiOUZLRjVMejBxQVZ6QnpGd0ZwVGJTV2Z0cEQ0WDUyV0l4MS1TRzB0TnoyOXdUOXUwdmNXWFN2LS15MFZtUFR4Sng5ZXZHZWtoRGI4TGFqeGVWRzV0dknSAa8BQVVfeXFMT3FubjVaS1V5aF9adG54T29rT1lPb3M0aXdFekxuVkJNM01wTUtoaXd1WVhFeHkwZjFGWGdQNlhBNDRKVmx4QUptQkphdW1VWTRIMFRrU2tmbklEWUdxZ09TWXJEOXFodFVzRVR2OHYycnd6SWlCUGhVRHN1WWFLR2QyQ29iX0FpRlZUSS1TcVM3dUFlbnBBQkVJQmhVSEhqVHJHY19fSjkyTHZ6bmdnTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON000cmNsQjZCZWFEWlBMdVV6dExYVWdqdDhUTzdCYUpVWnJsd19zVzBUWS1sNWcyOHp0LXg3X1hPYmFUX0RkMXg1YjFEcW5QWFVSMVFiOUZLRjVMejBxQVZ6QnpGd0ZwVGJTV2Z0cEQ0WDUyV0l4MS1TRzB0TnoyOXdUOXUwdmNXWFN2LS15MFZtUFR4Sng5ZXZHZWtoRGI4TGFqeGVWRzV0dkk?oc=5",
       "date": "2026-06-08T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -97,16 +97,6 @@
       "date": "2026-04-15T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "पठानकोट-मंडी फोरलेन की डीपीआर में देरी का मुद्दा संसद में गूंजा - Jogindernagar.com",
-      "source": "Jogindernagar.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQm1uTTBsSEl6bUxyNVVuQVdDTURtX01RVW1adWR5RUQwVmp3N0VOeW5PTGFsanNiZkNwblFSZ0RJSGZOZUJQMDdMUkpYNk1EV1Qtc25PWmFHeXhGaU5FdzV2R0tURG1QR203UXpkUWI1V19pZ1hMaUZfcjBGbkkyeGM2UERXNDR3cl8yeFF1VjhTdmJrVGN5aVZlbnVtTHh3MWZuWnBvSTVubTNqNkVxRlFHYm9lbXpJQmh2Q3doMW5vYUdOXy1ZWUpn?oc=5",
-      "date": "2026-04-08T00:38:05.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Pathankot Mandi four lane"
     },
     {
@@ -205,6 +195,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenFQeG4zSmxZcVJsVVpYOV9MZEh2Z1lzWFo1SUFiS1NPX1VzeVp5am9LOG00MzF1d1RNbnhGRzJibEp4ajB2anVVR2ZBU2hwTlphcUVSWG1GSE9jTnpwRmNCNVBObk9PVGVsemNRd0NSTkxBaHNyeUN6LWJ3aWNYYmVkZU05MEZwUHNWMmdhS3gzcU5PQnR6LUNJWnJ1Wk1ZTkprOEFjT0FqalBLTWpfWmtremdjREZId3QwZNIBwAFBVV95cUxQdWZqeEY1RGFIckY1aERqdVpHUzVocWk1MGJvYm1KVTFwT3Q3QzdCOUwwVVlWLWJRT3dUOEZOM1dWTmNQM3JlZ0tGSl9yeWdXNWRvYTFzOWQ1NEZSTUJzZFFqMElDM1dMaW5Xb0xlbzhvdVFnZVNnWTd4b0N2REx6S0F4VlVPb19qakZqSjFwZXVTSmFwQUVNdk1aUGY1Vm5PR2tUTFJGbU5idDkxRHpZcHBYX19YWXF2SmtwTnowR2E?oc=5",
       "date": "2025-11-11T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
+      "title": "Construction of twin-tube tunnel near Kotla on Pathankot-Mandi highway under a cloud - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdENud0ZJaV9XUURIeV94WVBYNThsR1NONHU5cUJqNGtDTnZLeFh0bGpyQkppeGFJdUNVRS1FSHp0Yks1cFJGaWpNcVdFOWxtS3A4N3RvMVZLMFRjWDg3NXVVczRQd0ZOdDNsc18wOHUtZ1FFRTJoekw2alVCdm9fa3VnbUNVNVlpSlNZeTFfYUdWaVluU1pndFF2UTR4ZVliT29tR1FhX2FkVjgtWTk5WWpmd1FnY0w0UlZDenNwNTZJNWtCam0w0gHLAUFVX3lxTE43M05abkRSdGFqTENmbS1Fd2NicWg4Z1NxVTZBNjl0ZUx5UllYUVpnVm1aQTl4SnR0c3BjaW5OQTVVWFNvM0g1RzRzM21PWlNaTzBSeHVlcmJuZHBzUXlLeGdiZV9VdG43M0VsLVR4SGNxc3hPTFMycTFEejFmYWF5MjBFRTR5S0NKVkxWdlFOX19wUmtScFZtTXp4Zmdia0tEN2MtNC1GamI2TXU5SUpOR2JTRzRXSVQyUWhWaHFVRVM3aHkzZGpjc0V3?oc=5",
+      "date": "2025-10-23T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pathankot Mandi four lane"

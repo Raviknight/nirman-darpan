@@ -1,20 +1,50 @@
 {
-  "updated_at": "2026-10-15T21:53:23.775Z",
+  "updated_at": "2026-10-19T22:42:19.968Z",
   "project_id": "AIMSS-CHAMIYANA",
   "counts": {
-    "press": 92,
+    "press": 95,
     "gov": 0,
-    "en": 34,
-    "hi": 58,
-    "total": 92
+    "en": 35,
+    "hi": 60,
+    "total": 95
   },
   "mentions": [
     {
-      "title": "हिमाचल के बड़े अस्पतालों में मरीज परेशान : डिस्चार्ज कार्ड के लिए भी चुकाने पड़ रहे पैसे - News4himachal",
+      "title": "बहराइच: रोडवेज बस और बाइक की आमने-सामने भिड़ंत, दो युवकों की मौत; नहीं पहुंच पाए अस्पताल - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR3pySG04cnhKTXZjYm1IWE90amRHRGI0Zl9ra0VUTFBFaG83UEhPWXRyR2I3anlnMWVnM29pYk5MZHVacnk3RVRDWi1tVzNKWWt0aUVuV0d4RUNXcEh0LTBIR2dOU2FVbWdzN0NHNnlYSDc1TExzZWNEWG55SnluMnpGY3FRLUQ0RUtWMFBsUll4d1E0VFNHWnJzbDZabDI1ejdNelhEbEg0amVFNWpnS3hmb0tNbXNBUkpGU3pwUU5ZOV9nVDFQMkM1aw?oc=5",
+      "date": "2026-10-18T15:33:36.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "IGMC teachers oppose shifting of faculty, depts to Chamiyana hospital; threaten stir - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVTg5YmE4OGhMUlI3ZEU2aVJQQ3VQRkpFNmMxQXYtNW9ydmZVQzVZSjdZVFFGNGdkVWswb1cyb3czeEVwQjFCZUZQX1M5WVBVb2E4eWpEUk0yVUpGSHdLb0JlV0NwSXBNeldENHNGUTNUX2xFSHVEQzA3UVJITU96dDMwWHR6X3psVHVMb2VlV2QyU1BYNzdhMEJlenlob3dTdjhHcjdUWTlqbUQ1Znktd2dKdGtfOWFPLWxWZFY0WFdqQlY40gHIAUFVX3lxTE81TlRsRVh1QkFVTmdpRmZUTDBWNlNNd0RKZmJYaHo5alRHVGlkMjhoTWhhMG9HX3FwVWFmZGlfVzM0MFlUMFRYa01tczJYM2NQakNqNWg3VGFRWkxSMmk3WnpSU1gxa2lZcXhHV1YzMy1aYU9HaG5Xekk5YmVQZlpVN2p6Wmpab0dEZVFCMDZETFYzTjRyYXcta3otalI0cXFiRkd3VTlFXzBKMmVUcU12T25wZlJseWx0dlNMaE9SRXdHZVRRZl82?oc=5",
+      "date": "2026-10-16T19:53:33.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "चमियाणा अस्पताल की पार्किंग का नए सिरे से बनेगा एस्टीमेट - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnVNeFprU2pUR2tqM1NvS3VNdUFzWW1hMW5qZlQyTXlZWnpBWUJxNFpRVlNyaUk3ZnN1b1N1T3ZfSFpHSnhxakEtU053YWZycUFObU04TDVYUUd2MV9sUEphQUswTTl1em9mRGpGMkN3WWdTUnMyejBrQ0hsbWF4YlBTQXM1aThOc212M3J0LTVZcFNnOFhYdW05NkdQWDJoUmxaSFdkcDZpR2c1YkVlcGR30gG3AUFVX3lxTE5CcHl3LVVPZS1PZjB5OEd1dzkyS2V2OGZ0OENQaTNxVTlMZ0lfVEc4ZnpqaV9FVER5M0Y1VndCeWZYY19kYThWaExGWlZZWjNrMUZWUXp0dTlQeDlQanN5eU1vTjlfckRGY0VqT1dSTUZUSHRjRFp6QlBBMGYtNFJvZ2lpUmtGaXJjUG9nVW1VOUlib0d3VFd5M1R1VHk1eVpMUHQ2ZVRzZHBhT1ZobS0wU2YtZUE4OA?oc=5",
+      "date": "2026-10-16T19:24:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
+      "title": "हिमाचल : डिलीवरी के दौरान नवजात की टूटी टांग, पिता ने डॉक्टर पर जड़े लापरवाही के आरोप - News4himachal",
       "source": "News4himachal",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHhtZm9Ndm1LWEV2c25IYml6a25uZ05ZQWtKcUowS2RmWnZHdk1Tb0VpMjJFQlp0clp6LUh1NDZ0bHgzd0NBRHJXYmExMTR5dHg0bzRUaW9mSlRyTmF5VS1VeUlwREhpQkRWUW13NENVaWtlXzNlbHR4ZE9lTk13b1d3T0pkQjNHWktUNThIM2JzXzNSS0xuSFdXeXFPTzMxRFV5NmlRM2FVS0trOE8yNXdjMS0xN0HSAbcBQVVfeXFMUFB4bWZvTXZtS1hFdnNuSGJpemtubmdOWUFrSnFKMEtkZlp2R3ZNU29FaTIyRUJadHJaei1IdTQ2dGx4M3dDQURyV2JhMTE0eXR4NG80VGlvZkpUck5heVUtVXlJcERIaUJEVlFtdzRDVWlrZV8zZWx0eGRPZU5Nd29Xd09KZEIzR1pLVDU4SDNic18zUktMbkhXV3lxT08zMURVeTZpUTNhVUtLazhPMjV3YzEtMTdB?oc=5",
-      "date": "2026-10-15T07:22:24.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEFVS3NXalBHTmhQQWV5bTB0UUc4UTNWbUVUVndKamhTREVXcUFoOGF0T21TRmNWUUdyS1c0UV9XRVdHbUUxd2NQQTlpd3U0QkVrOUdsc1dVaGpfeTBDUWotdXRzUWxQU1dhM0FEVzhLQjRKX1B2S2RLTnJaWlU4aHVMVE5FQWlFWWJXN3d6eVFKMXBDdDhSWUFBS27SAagBQVVfeXFMUGFLc2dPOFhsdkw0M1BremZndWpQVGFJQXZiZ3hiN0tLdTlVMkhUTnNqTS1HQmgwdHZseWtycHlhb0s5eG1LaC0yT3dUc2ROM2NlS2d3V1dKdHFIMTRHSDVyOFE2U1ZBUGk1cWZCbVhYQzV2WE5XVXRwT043eDczUGZzZ2prU29tVXFIcG5jbDI2N3FOaDV5QUplNE1HS21FXzFDYUJLaXdQ?oc=5",
+      "date": "2026-10-16T05:20:14.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chamiyana hospital"
@@ -43,7 +73,7 @@
       "title": "Shimla News: कैंसर के मरीजों को जांच के लिए जाना पड़ रहा चमियाना अस्पताल - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUZjSDBCbGNxUmRWT3FzNWRSNkNpMjQxbGs2MEJORGNydXg1UzAwZkJlUXQwVVlKa0lMcS15YmhzU3dLbU5rQ3lzWlQwdHE4TWFJSU16V01jVnhQVGhkdWpMU3NmMi1SV0UxRXFINXgwandRdDEzdzFMckZxWm1OeFh3MWF5Si1acUZjQ1BmRDdHM0dWR1loa01GVVJHWmxwUmluYnFfdUJfcEllc1JaZUd1NmxBUm00LWdMc29WbWxOeV9PblVOcWQzSFl4LVA0M3VHVG9EWm7SAdgBQVVfeXFMTnVGY0gwQmxjcVJkVk9xczVkUjZDaTI0MWxrNjBCTkRjcnV4NVMwMGZCZVF0MFVZSmtJTHEteWJoc1N3S21Oa0N5c1pUMHRxOE1hSUlNeldNY1Z4UFRoZHVqTFNzZjItUldFMUVxSDV4MGp3UXQxM3cxTHJGcVptTnhYdzFheUotWnFGY0NQZkQ3RzNHVkdZaGtNRlVSR1pscFJpbmJxX3VCX3BJZXNSWmVHdTZsQVJtNC1nTHNvVm1sTnlfT25VTnFkM0hZeC1QNDN1R1RvRFpu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON2RVSXR2NmFtMkw2NGx5cTVrbmxPUWt0eWlNNXItc3Zqa2taWHpoc25paGNlaTl2Q29mNU9jSVV6ZEY3eUd5Z1hXOE0zRVI3SzBTSUdaT2haenZaNGNIWmFGRlhBMFhqczZYbF9Wd1R3MW1yNVpzWjQzTldGMG9JeHVSMmhncWVKN3pkRXdlam0tNk1kTFV3eVotY2VldG16ZFNfMjFKOTE5REs0RmRXVDNBbHluZjdXU2FVNnkwb0lwSC1hbmlrNFFJX2EtWnRUQ0Zv0gHYAUFVX3lxTE51RmNIMEJsY3FSZFZPcXM1ZFI2Q2kyNDFsazYwQk5EY3J1eDVTMDBmQmVRdDBVWUprSUxxLXliaHNTd0ttTmtDeXNaVDB0cThNYUlJTXpXTWNWeFBUaGR1akxTc2YyLVJXRTFFcUg1eDBqd1F0MTN3MUxyRnFabU54WHcxYXlKLVpxRmNDUGZEN0czR1ZHWWhrTUZVUkdabHBSaW5icV91Ql9wSWVzUlplR3U2bEFSbTQtZ0xzb1ZtbE55X09uVU5xZDNIWXgtUDQzdUdUb0Rabg?oc=5",
       "date": "2026-10-13T18:29:03.000Z",
       "kind": "press",
       "lang": "hi",
@@ -80,6 +110,16 @@
       "match": "super specialty Shimla"
     },
     {
+      "title": "सुक्खू सरकार से पेंशनर्स नाराज : पेंशन एरियर के नोटिफिकेशन को लेकर फूटा गुस्सा, जानें क्यों - News4himachal",
+      "source": "News4himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY0xNNFhsUTZ6YTQ4SnlDMFhOaUhaMDk4OHF3NTR1Tk5zTUtKeEFyRXFIcWkwdzBRS3gyanJleFZOV2Fielk0dVJUSDg1cFpKZTRRcm1xLU1hMkVPYzdETDM2N3BoTFlGX0lXZXh3U19xSUwzRHFLdlBodHdHSEpsTGNuTGtHR0hnMGRIMEZLV2FQbmZWTkRYdkF3eFMzS1plNHN6d2tLNNIBswFBVV95cUxOVUxRZmY1NnRQeVh0Vl8wUi1EY2dXLXNPMFRCV0UwNVpTa0F3ejJqdXZoR0Q3b1NlejlhRDI2WHZYWWNSNFVRMWxBRlp1a2dEX0trQzBaMkYtZlZjMWc5SDY2ZUY1OENNRGRERV9FSTJCdUhBemN1ektoLS1fcmsyVUwxZW5Lclg4cG1sS0ZwQUpFMUVNb2hlWGhBVENQMHlxV0tJYjJWdnFoWmNfcWhYelNnTQ?oc=5",
+      "date": "2026-09-22T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chamiyana hospital"
+    },
+    {
       "title": "CM assures full state support for expansion of AIIMS Bilaspur - :: India News Calling ::",
       "source": ":: India News Calling ::",
       "source_id": "google-news-hi",
@@ -105,16 +145,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2NUSHN1ZnlxRzdCZjBYM0h1Z0RuOVloRjBYNjgtQ3poOEtyMlZhUENFOTNYOVVIUTIwYTJqWS1CUXl3ZjhnTFg0TmgxNUw5d2UzeWFfeFMyUkUwenROZEg3QzE0b2JFMnMtVXhIM1FHOW9EbEFJOXJhWWtYaUZkdUhGNGtmZG1VUlhucGlpcEVmVnF5bXdvSWFTSGZydUhwZWxQYnFzSEFadHpMYzl4eE1PTUNTazFCQlHSAcIBQVVfeXFMT3o4dVFEWWhnaGR6Qzg0UnhRT3YyOTlEb3NvWFJHNHk1MEMtdzZDQ0NCWmI0Q0xXb2YzNVQ5RzAyTG5kcjdwbEpYaW9XTVc5TmRaQXR5NWI1bFpsQ0xkNDFpSmxVLUxHcFZXLVpFUTRiRmQxcEE5bURmbk43SEY2TjdpRUtmYjg0YnNNcllNZE1pbjIxS29pM3hsV2dBTEpWUnItN25vS3NTTUt0Q1ZNODJkcUs5LVNMV2ZnUE5WUGRQM0E?oc=5",
       "date": "2026-08-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "Chhattisgarh Pregnant Woman Delivery in Field: बारिश के बीच महिला ने खेत में ही दिया बच्चे को जन्म, नहीं पहुंच पाई अस्पताल, छत्तीसगढ़ के इस जिले का है मामला, Video देख दहल उठेगा दिल - IBC24",
-      "source": "IBC24",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUkFTalBoR3Y4dmNyVTM4NVFBdWtRUEMxRno0UFJ1N0ZvNlpYZEo0d0JCdUJ5MzVVUXZJUHlBUXNRcS1CUlRTSFB6LVphTFRMd0FVMkc5NVRIU2ZicTdRa1BKUGJyU09yWVpVZjN4SWN6aFNqcDlLcmxNN0x5ZzlPUFd1UDM4UDRROXc?oc=5",
-      "date": "2026-08-01T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chamiyana hospital"
@@ -178,36 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "AIMSS Chamiyana"
-    },
-    {
-      "title": "हिमाचल के बड़े अस्पताल में शराब पार्टी- प्रशिक्षु डॉक्टर मिली बेसुध , गर्ल्स हॉस्टल से 16 बोतलें बरामद - News4himachal",
-      "source": "News4himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDNRTnRoN1A4YXZ5MGg2V0xQSjEzSDNka1hFZEJmTlliYWhzanl2RC12QkFBRWRwenVQUUpvS2QtcDVIYmdaS1hiSTFkRTZYdU9EamtrVWxfLUNUTnUyemd3MHlnZElJejVCb01BVm40dDhpOERsN3NEdjRCQVpsVjV3aXJlSjdyZnJsTmhJak9HNG_SAZ8BQVVfeXFMTVJQZEhOTThnQmhaSWJSc2VLN19GbzdIckx1OHhzY2tfLWQ2ODlIWVZJWUktdXdmOHZIdV94ZWlTcW9PTXJ1VExJbXZDVmxlQ0IzVWdJRExFSGtWUDB2akZCZ2xqdWpNRlJrbm9ONE9mNzF0V1BQdkswUTQzVkZRSkRnZVVRdTB6VlJuV2tpdWkzVG1VUXhFNzVYT3M4bDFz?oc=5",
-      "date": "2026-06-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "दिल्ली होटल हादसे के बाद अब राजस्थान अस्पताल में मचा हड़कंप, धुएं से भरी ओपीडी तो भागने लगे मरीज - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPblhHNHF4a0VXUm1GeEhrSkp6S2E1V0ozcEl6WFNaTk1RTGlEeUFyWGJIWkRnQ0x5VllSWTV5M1BrMnR1NjNJWW5JVy1lVlhKQVF6SDhYSnZzQlBuMkw0M0hVWTlSUUJOTHU1M1daRkYzclBRbjlTQmtGbDVtdUVsV01wZFhnRGdNNjhKM19mZHJyQVVXcV81STRuUHJoempvREk1Umg4TkJ3VDlQZHZHcGhzNUdjLWo2M1J1bTk2d1ZJSDNNNmJjdkYzeWlsLVdXSnB0T3lyNjF2MmRJTGJRSkROb0g2V09rMzNjYUpSRXRCQkHSAfgBQVVfeXFMTmZxNDJEcVU3UllnaEZpcC1xdVd3RE5HOXJ6MmVvbks5RmNrdzd4MUVtdzBHcHFkeVpiYUlvbnU4bVZ5UVlibUtxUWhVZVFkS3AzbDJlcnQ2Mmx3OXpUbmVQcW5JRVVsOVcwOGpNOEMxWUhDcnZJam4zLWp4NVJodVdPTjZ5UWRXNXR3SnFKek13dmpyR25HNkZQSl9SekFaRXA1YkJWSXF1UjByRnhKQWN2bjFZYmVfR2c3YUEtOFlaMW9hRjJFdlUtLTZ3WDBPRHYtUy1HR1ZVUFFURklZZHRnTDhXbkFfYnFhbUtqWWVnYkZDZEIzemI?oc=5",
-      "date": "2026-06-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
-    },
-    {
-      "title": "OPD Schedule: शिमला IGMC व चमियाणा में सोमवार को मिलेंगी विशेषज्ञों की सेवाएं, सोलन में ये डॉक्टर मिलेंगे - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZldiSnZ0QmVyYmxmaVRKOWtsbGIxaDhxalRnNnBxME1ob0NrX29la3MxTVI4bmRIMkhWU3Q4dlpuQVhQd3BIbV85NDlnLXpZSUtsZjZZYjZXNDgzYXFwdDZtZ1otY1V6b0EzTkRpaWF3LVNOWEdxd2NOQ01YV0xfVVZQMHZDbHUtUGQwRWZnc2pHbE1UWmFmMFoyaWVnZ2NlVDUwVWhWeE5wT0FFLUdrUmhrN1JHUk1zRkww?oc=5",
-      "date": "2026-06-07T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chamiyana hospital"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
