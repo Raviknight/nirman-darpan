@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T22:42:46.828Z",
+  "updated_at": "2026-10-22T22:03:18.163Z",
   "project_id": "HMR-LINK",
   "counts": {
     "press": 6,
@@ -14,7 +14,7 @@
       "source": "Hindustan",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZTBSNlhyLUpOZnUyMGpRTVBKRTdzb1NyN2swM0VqUmQ3Vms3eDUtaG14X1BEX3RBeFFKc1pha0sxLXFYTTZhdXlRQmpJS0ZyWGt1djd6R0toNjNBRXVfd2Rial9yVVhTYjh4NDc2WUVvY1M5ODZCWU1FZkpZZllGdkdoR0NIUk9PYlZBc29zbXc3dkI5MGxlQ2FYMjZUQm1mWXNoMWlFd1ZZM0MzTXpHYTZmUk02ZXdDcmFwcDVoSzM5S3RxeVBpZEVOa2xTcEFWY1k0VDJub0o1akFYNjhDeGtEMnlkOWRWaEh2ZnNIWnE3R293Rlg5Zl9teU5ZQWN0Qk1uUGo1Q3PSAY4CQVVfeXFMUDdKcUlHM0JyY3dPRGhQVGhNUGRITGdHbDVQQklnczJFOXVmWWtybmV4WDV1NWQtR0NtVHZEd0VoRE00Q3RvdFFIT3pzYzFDSmRlQkw3R2QxTnAwVkNuZ1p1X25FbHh2ZzBxNTg3QUVudW56c1ppZXpvM2pYVE4zTXNoZS13NUd1X0xCa3VScWlOa0hoaWJiaXdmV0YtMjhsRmZTWXM2cDA3dXN3eGhIYWtudThwMW9qUDhXVUw0NWtZNlFzTWQ0MV92Q25WYVBqa0VUNXc2S2hCSThESTcwWW1JOVF1RzY1X21ZTTlZWks4R3o1bWRoWDJoZWlsV1NiNVd3WnNzLUgybFRLT05R?oc=5",
-      "date": "2026-10-04T16:52:25.000Z",
+      "date": "2026-10-04T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Bijhri PMGSY"
@@ -40,6 +40,16 @@
       "match": "Bijhri PMGSY"
     },
     {
+      "title": "Lucknow News: लाखों की वसूली करने वाली बिजली सखियां बेरोजगार - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd3VWamZpVWZXOXZORGtLdEVOVjNpZ1JSZFJmYTk3emFPOVVKVHNYUTFEREpnZ1g5NVBhV2dzZjNEV0J2S0tuT2o5cnpmcFE0WXU0cXpkVEFBbFZjcDJ6dlVDTFFCZzBKOFhrM1BxLWZFUy1xaEI0aHo0bGhpNW9GU0JNM0pWeDJubWJla25oc3FjLTJJOWsyS3F3R2E5WmZUek5td0NKdVI0cWlhZEV3UUlDc1FMOFBBQ2l4anVOWE9aWXY2dEw3MmFTbGRRTVhPOHZQZEx1bGVGbU1za1HSAeMBQVVfeXFMUHpoYXA4VjUzbUROVVJ0bGd4ZWZZUE05alBKZWhUSUN3Vk1acUFwY1NhUjhMbzc1azlHTjhQSUttV0UxSmVQRWFoVzFES0VYOEV0WC1UUWxSM3hjNlNFV3RkSVgyRGloVlRsUk9ZQVJsbVRQX3N6TEZIeTZXd196WTBqTkZvZGZJYU1lX29PaFVibzVVNUt0VlVYQ2VFUWJtZEdEQVhUS1A0SVZWQ0owRUkwa29GM01hak1sM3NUb0ctLVpIaFNOYXQ4QW1HQzh1eVczYnBVZWhjVzFRemV0OVdyZUU?oc=5",
+      "date": "2025-12-01T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Bijhri PMGSY"
+    },
+    {
       "title": "संघर्ष समिति-UPPCL ने एक-दूसरे को बताया घाटे का जिम्मेदार, महंगी बिजली खरीद-निजीकरण पर बढ़ी तकरार - Navbharat Times",
       "source": "Navbharat Times",
       "source_id": "google-news-hi",
@@ -55,16 +65,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQanpFNG4wX3hzYzdWMmRhQXUzeXQwNklBS3dfTDR5VDgtbElyMUhRQTFvQlVxYThia29HZUszRzZLMTA5RDNCMHJucEwyWEN4UlQ1aHpmSGNXckdWcW9admtwNWg2b0ppT2pXX2J2ZEV5aDhsYmN1NlFuem05S1dlNHNzaDJxSTU3c1dZazJhYVFfcUhsV2taZ0xQMFVyMnZ6eFdGMnNiSWhEMDVacTNfQ1VQa0dIZ0xibnA5d0pOdWtoSnB3TGxOSjFvSk9YTFdoU0VTVWxONA?oc=5",
       "date": "2025-01-28T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Bijhri PMGSY"
-    },
-    {
-      "title": "बेहतर बिजली आपूर्ति करें और बढ़ायें राजस्व वसूली - inextlive",
-      "source": "inextlive",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVhKWC1PdWFaV0V2d0EyWk9tRHJDa3VhSC12RmcyVG1OT2VfNEZ5VXd0M3Fkek1acWItQk11WUlNalRQak1qcnFqMElCbExWX0N3dmlySnpYM0loeUNRbmRoLWpUbFZqVWI5MlRQUm0zMnk3emlCdVdNMW9adlYwUWJ6YXM2YVBaU2lUZXBXTUJlZXRkZUVZNHRCbWZqVW1Da3M5dWdseUxHSnk5VHNBZ1dnYzNJeXhmeFJOOXVyS3VQMUxPZ1FBaA?oc=5",
-      "date": "2023-08-01T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Bijhri PMGSY"

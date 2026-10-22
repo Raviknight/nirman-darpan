@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-19T22:41:39.180Z",
+  "updated_at": "2026-10-22T22:00:10.230Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
-    "press": 260,
+    "press": 249,
     "gov": 0,
-    "en": 144,
-    "hi": 116,
-    "total": 260
+    "en": 140,
+    "hi": 109,
+    "total": 249
   },
   "mentions": [
     {
@@ -75,16 +75,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSnQwUVFBOGx5MXROYzF3dm5tWWNVd2psMkF3UUFHWTFfV1UwQlhodHExRC1wRU4ta3l3Qy14M2tJeTc2SHk4QUc5Y0l5Y1Vkd0E5MlVieWdCMi1NNVlvcEEtWDU3X2d3bUc1bHhTb0dQYS1KejRXdldKaUZKRmw5WjltTjVrblhYc1h5UUZzVkN0a3ZRQmM2OFlDaWRrM3RBcjNoRVNYUFVqSDBlTUdTemhQOFE2UQ?oc=5",
       "date": "2026-08-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "चंडीगढ़-मनाली हाईवे परअब बैरियर मुक्त टोल लगेंगे - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNklscWNXbjFRMXozc1dYUGxkanVFN2s1WHpUb3VtQXhrMXJhTC05QmVISDdBSlVDRG9TOXdpd3k0YVRQYUVYUWFRRGFJRE1PYjZyT3ZnY205NEtQTDkxVHBzS0RiQWFYa2t1WGNvYW1YLS1zZHFMSHBmdzBPUFJzZ1BDMTRkRXA3cXFpQ0pRaXZQb0Z1Y1VvZTF3QWNaNlpfNlhSTTBWallSdU5icnloR0oyNkJhU05tYWR6QTJhbHEwMnI5VnfSAcsBQVVfeXFMTWltR2d1eUZjNHpUcmxEWER4U21vZHB6MDNpZjNrOWFrdVVQUVM1SWpFdDJkM21jelRmT0VrbERNMTZKQW1aNmJOTkRFQUs5blZOVFFoMHBzZHA5VFNibGZhbXVMZDd2Z2VRU0VmLU81QzdhbFhGNnh5ZHZsNFJsZ0JKWmtjb0F1ZTgyay1HRDl1d3ptcG15emlSNFVIZG94Qk81empiV05vVEx0QmZ6WUJfMndEQWNEcTJfMlJ0WklhdGhpM0FONXZhVXc?oc=5",
-      "date": "2026-08-24T00:11:52.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Chandigarh Manali highway"
@@ -200,13 +190,23 @@
       "match": "Chandigarh Manali highway"
     },
     {
-      "title": "Terrain trouble: Landslides, floods triple cost of key Kiratpur-Manali highway - Himtimes",
-      "source": "Himtimes",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzFxSjdEeVVIQ0VFbTBvRDhzVlVhRWxrRF9naHp2TkdhaS1OamtyVmg3dmxMaXpNQ2RmTTlrY0VvYmxkUzVfZ3FNblAwMFBOcG5Ga05hd2VqMmtoS3BEbTI4ZmpmUlA3Y2htZXZYemlJY2JfenNEQ3ZuS2dMaEZjeTBsOWZFWTRSRDJyUDM2ZGN3SkhnUDlxWUtnVDNTMlU?oc=5",
-      "date": "2026-07-26T07:00:00.000Z",
+      "title": "किरतपुर नेरचौक फोरलेन पर दो दिन तक बंद रहेगा ये मार्ग, वैकल्पिक रूट जारी - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPaUh1Tl83V2x6VXZ2c3BkdWxNSWpvejBieHhub01JUHRSbnU1Rk1TV201RlZ0alpJSTZLRm1INnMwY3dLeTlUOTVkd2dfWElNTTZVajB6N29NUzl1OTBFYnUxTUNqcmwtNk5vc1NYcm90Njd0NFNFM3hLMHQxR0toRU41SzFoOEkyTVNTdFBRNEs0R3NNZk9CU2M3SVhSNDRvZms3TWJvbXk4MnhJZUtGVlh3OXBJZVV3cUZwdUhQeWc0TFQ5WXNXQ00xaUt3b0lqRWVvSDlHZ2tiT0FBcW1JV1JzbVV0X3lFbURQNEpScHFUVjVja19ENWRiVEhuOTlnTUJZ0gGIAkFVX3lxTFBKLXVUOUFLVTFiZ19NNUc5S2FqUFVRWHhPYjg1eHlnZXduZlVQN3V6bTFBbE90bHNCRzFqdHVjT2hhZVFqWDBkeWdBd055OWtFWUJPejVNR1NIek0zTGVseWlYZkVIcXE5YlB6eUNIUWY1ZjFjeGxfM3FvaWRsVTlUeElDYVg0LXEwUkVTUnU2MTBoOUtNaVhzWVVsLTN2Mkp3N3lxdkozRDlrRmprQkhXRHhkdFpaTWdCTDJ5MmZfUzRlVmZEcUtOREJNalZ4TG13cUdsQ2NEVlcwWDhBdTBlMkt0RmIyOF9UYWxsVUdrc1FjRDNuSWRJX1JzQXBuUFhvRXRYRHVkdw?oc=5",
+      "date": "2026-07-24T07:00:00.000Z",
       "kind": "press",
-      "lang": "en",
+      "lang": "hi",
+      "match": "Kiratpur Nerchowk"
+    },
+    {
+      "title": "हिमाचल: सावधान! स्वारघाट-मंडी भराड़ी फोरलेन 24 और 25 जुलाई को बंद, प्रशासन ने जारी किया ट्रैफिक प्लान - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnJBb01nTUV3bXBsSmVuR1hPMkxGWGRUQXlLS1NGWUJYQncySDR2cVdwQng5NTVqS2NXMnpLWDFaMGpDQnVGTUFpbW5OQUpKd3A2bHcwakRGS3BTSkhaaExxdVh0dktuWEVoV3hPMUtyTlloMEF4bElfOHduWVVMdVZQbTR1NzVvRE1zWXBJZ1FUQlRnYXplbmdfRWViSHFyMGlTNUlJZTRQLUVhblhaOWp1SlJ0ZlRSZ3cybFdBLW8wbHVU?oc=5",
+      "date": "2026-07-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Kiratpur Nerchowk"
     }
   ],

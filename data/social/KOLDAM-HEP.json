@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-19T22:42:08.804Z",
+  "updated_at": "2026-10-22T22:01:11.968Z",
   "project_id": "KOLDAM-HEP",
   "counts": {
-    "press": 99,
+    "press": 94,
     "gov": 0,
-    "en": 69,
-    "hi": 30,
-    "total": 99
+    "en": 62,
+    "hi": 32,
+    "total": 94
   },
   "mentions": [
     {
@@ -40,6 +40,16 @@
       "match": "Koldam"
     },
     {
+      "title": "A Dutch boost for Mayo walking festival’s 60th anniversary - Connaught Telegraph",
+      "source": "Connaught Telegraph",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWZ3MENxaC1YVDJQZ1ZGb2UwMWN2WVo1UzhhV3IwUFg4NkJ5QXlPUU5OM3JueURSMkVSN1JZci15aVpfdm9adGhuQ1NibW9HUWZzbTVwUTN4amkyOHZkRC1ELVh3RVJMd3IxX09oSWw4WlJzcHdhdlNrYi04XzNDYWYxTmxKT3NUZkpNVnBDa2xVRmRZd1hJVFJEYnJzV28?oc=5",
+      "date": "2026-10-03T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Koldam"
+    },
+    {
       "title": "200 एकल स्कूल चलाएगा एनटीपीसी कोलडैम - Divya Himachal",
       "source": "Divya Himachal",
       "source_id": "google-news-hi",
@@ -54,10 +64,20 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOM28zZUJpTExVbHlWSkZXME5YcVVCTWJidEV3LUgxa25xcHdlS1doNTNfX0puZVRIRlEySUVITnVkc0FOdXV5QkdvdDZMYThUQzB0eTIyeG9aR3VWUE1YaGt4N05jYnRYcUpvUDFuM05IN3BkQkZtRVg5eW5uamJxZ2otT1RHVllpQUc4SXhqV0NXaEt6Yk1nTFpQQ1VxdEZsN050WjR1YlRuOFJLVUhDTXM5TjZtWFBtMkhEOVpabGpheEVOZHhmUGN1ajFILVhIN1lSOHRHanUydkhseC1mVlBsOTZaQkxib29DUm5vZ1NCZmhUNDdIMmZkcDZhVDdURmZaRklDeVhNRm81dy040gGUAkFVX3lxTE1tZ1ZPUHVVbmZ4eVZ2OGFIRGo4cG1pQXczQUp3T1J4dVZCbUZrcEFrdUItajA0akxTaXhjdEpXbWJ2ZUJROERNN3cxemFkQjhuV2ZzelEtTjZ5Njl5WGhvd1ZKcGpCbGZrSTNrVU9LNktFT1BvS0JRYzliRlVpN2UzRkhfWjBEUlF0Tnk3VU4tVEZUOTlVZEhpNkFQNERzTjc3SzFGRDlwZGdoUy10eUZaMUI3cFRESG5nR2RockFHYUlPZHJ4YllycGdXZENYZkJ3ZHJWaFJYQ2NfaTB1X2VBcms2OG9xZnVPYW1icTlQLTFEQ05DbVFUNkM4V011NmJ2MW5femx1NEN1NEFKaUxzLWZCQg?oc=5",
-      "date": "2026-09-30T18:10:02.000Z",
+      "date": "2026-09-30T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "NTPC Koldam"
+    },
+    {
+      "title": "Bihar Flood : पुनपुन नदी का एक और बांध टूटा, 15 फीट चौड़ी दरार से कई इलाकों में घुसा पानी - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUV9IU0hhMDRHSUdQV204V0liVjZ1cFV6VjI5Y2JtYmpRamJrZTViWTVKNWhsaTBBTkY3TnNSRVdQOERSa0hzS01hb3paenY2UFRvVThLQTF1Vk8tcC1xUUc1YzdJak10emJYc1AwLVZydzQyOVlBcHZ1ZVcwZUxMMFdBVjMydDhCZ0JYUzliV2tLWDViN0tYUW1uVUlyM1VNel9tT1ZIM2k5dEtQd3pnTVUtNlVOSjZneGpSSE5wbWJKMWRLck1CSdIBzgFBVV95cUxPbWZSMS1FZ0V5VUwxNlpfQkpwM3pWY3ZPNW12Z1BERUpzTkNOS08yUUFtZG1KMV9EenJtTjJWZXhvSlkzM0w4eGE3WkdYaDJfbDlHTm5acTJROWY4ajV1WV9kSlM4ek05Yjc2ak5TMTd5dzJtNjVoOGtpTE5DNFBaYjM3SEZ6VHdiaTRJczJyb1Q4M3pfa0lZNHA1MlMzWlRJS1F3Ti1JVG1Qa3I2MzBZa21BNTNOMTltWV82ZkpfMEgzaUh6NlFJWjZQeF91dw?oc=5",
+      "date": "2026-09-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Kol Dam"
     },
     {
       "title": "हिमाचल: भाखड़ा बांध से नाथपा झाकड़ी तक 370 से ज्यादा संवेदनशील प्रतिष्ठानों की होगी एंटी ड्रोन से सुरक्षा - Amar Ujala",
@@ -160,6 +180,16 @@
       "match": "Kol Dam"
     },
     {
+      "title": "Eyeing Rs 1,800 crore: Cash-strapped HP slaps 2% land cess on hydro projects - The Indian Express",
+      "source": "The Indian Express",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVGFhY1N0cmRrV3VUdDFuSDdoNENYazFaX280OXFCZkJRQVpwbk93S2hVQmQyUTZ2RVNMLXpsNFRVejltOE8tUG5vMlBfMjdJdktCb2Y0MGRBaXQtblVuLUwyMGkwTEJ6S0hjRjdIN0RCenBucFRZb3JEY3NBWnBjcmpGZC1qWmgxWUs4bldDME9wUl80eFFVTHE2Y0PSAaMBQVVfeXFMTXhXNFhsLWpfZFdsaEhmOHZVYnNnWXZrZDI0QkQ3YjNpa0ZfZnRQTWp1X0drZmZnRWZIZ21zcHhUTTlFMFMxTkdWOTZueGRXbkNnM3VfdkVBdEkzR21LRGNqR3RpdWhMYXhFZG9QT0JpcDU1MzBSRVFjXzJWMFVJbU1VTUZMQ3Njd1JRVHFqbXZGVUEwUF9BQ0djWHZSNGlEM2NrOA?oc=5",
+      "date": "2026-02-06T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Kol Dam"
+    },
+    {
       "title": "हिमाचल: कोलडैम पर उपायुक्त शिमला की रिपोर्ट ने चौंकाया, ...तो डूब सकता है पूरा क्षेत्र; 3 जिलों के DC को कार्रवाई का आदेश - himachal pradesh ntpc kol dam shimla dc report silt issue govt revenue minister action - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -178,36 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Kol Dam"
-    },
-    {
-      "title": "All Major Dams in Himachal Within Safe Operational Limits, Confirms SDMA - Deccan Chronicle",
-      "source": "Deccan Chronicle",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWU5XbGttRTdVcmZ5X0UwYkNrSjBxNTJPVkFfVnpyUl9QNzFRcjlhTW5acHFrdXJQWDlmakxhWkFUWERFZk4tWTFURzZ2TF9Db2RpQlJMV0FFV3dIQlh2U1JMZmZyZ2VuRlhVT2FfQ0ljOHR1NUNpLWFHdnlVeXRmWXl0d3hGRkl4SzVWdmV1OFY4Nk5uY1l0c0RvTGtRWnJnNGNTMEtkRVVNR00zS3pRU2NZbzBFYUXSAbwBQVVfeXFMUDVqNmktSGRWT2FPMmZtQjlqb3lsWVQ3VUZKdmRrQmVsbm9MTG9EUzV5b3B0YjhvRFE0cVdneTdBanV5MDhiZEFwbEJtbk9UM0RvMmhLeFRCY1pPT21lMmY2UVJLTjYtVHBOa2JpNEFXY0dWem4wS0JkWDlmTmpKcFFZbzYyaEo0RGdHWGhKTkQydFROUTU0R1pQY2VqY1RrY1hmZldkOEgwLXRmYnlHMUV6Y252dUdXaWg4WkI?oc=5",
-      "date": "2025-07-31T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kol Dam"
-    },
-    {
-      "title": "Stones fell from hills, 5 vehicles damaged in Himachal Pradesh: Chandigarh-Manali highway among 357 roads c... - Bhaskar English",
-      "source": "Bhaskar English",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaFBuNUx0REVCbk5XdlpVdTl6c1pFTlNCcFE1ZkVSRXB4RmVFcTNvSFR3cy0xRU1uR3hVcmVuTDVyd21UbUdpX2Y5TDZHTGMtR2lFZW93TWFnTXdKaWp5YXNxRExWaERhZno0cHJOTjBhZm1MN1RQWmJSSm9BVFVkTTNzaWd3SzRJU0FjVjkyXy1FUHVCRFJpWGptdzBZVGd6cC1qZ2xTZWRQX3RfYlVrYTdwLUN2RVdHRTB2aFVjS0V2bWJidUV1QjJrNHRFODJhQXlZSkVzcEFOMkhFd3hiYnVaYlFYNWMxTThpRnFKRzJGaGZWcUNJTGJfNWppVWFheHhsd0tCUmbSAY4CQVVfeXFMTWdHZUhOQV93b3J0M0d6TVJhRVJTSjZLcUlfNkZlNFUxX2NnZXVTUEw0TXprZGQtMjl1NTdVWFlLdVRBSkpKVGJ3bnlnbkFpNDZycGgySDJvUXpJa1dreFlEWWFsS1liRlZLdHJ2MjBUV2Vxd2ZjaGZLWWwzMldCdUlSY0xpalJlVDZJbHJxX0E1UVJkVDFIU0lPRkdlQ1h5Q3hhMExEZUdqX3E1WTQwNEp5X0hUTE83Tk1IdlNJZXVxV3lUZDU2YWR0MW1GU3B6SndEY0NNZGx3VHpjX2g5N3A5ZnV4WW1qOVJtbDZ0c1ZfZy1KN2JlcHVpUEJxV2JETlZWV0VfM1J2dWZCcFdR?oc=5",
-      "date": "2025-07-30T04:55:12.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kol Dam"
-    },
-    {
-      "title": "हिमाचल के 6 जिलों में बारिश का अलर्ट: कोलडैम से छोड़ा पानी, सतलुज का वाटर-लेवल 5 मीटर बढ़ा, पंजाब को सतर्क रह... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM2xHY09wejdYc21CVmhyek5VVS1RUS1sSXotQWJ6VWUyLTRJa2I2b1hxRUZ0bFg4RU9EVHRKZU1yeWdjVDdFRUdhY2lNOU94V0d5Q0tzbl9MTEc3SGZGcUZqY25nWGl0T3hUUDlpU0RUODNUS0RqQ0ZkbWtsR3hnamhuZThnT2NURmVuX2RvS1p2bGNCMjd0dk1xaGFpdlE1NXhST2J6a1RHdzZldXpRdG8xU0ZwWXVIc0c1TXUzakEydXJzQmZ3Vm5vWVFHcjl6cjBRQ3k4TWJxV2JvYXJfNHFEeGo2bWVVSUtORnljT2xVNHfSAfgBQVVfeXFMTTdHX2FDcEdQcnk0NTJiSE91ZjN5enI1NVVpUFd6M0ZoajBpT0J5eDJOZ0owcVdwTlFBMHRId0ZENGh6TnFXTHA1T1J2S2dPUS0wUFJvZzdILTNYY0owMEtIOGUwOEdyMUJMdmx5QXdHcURja0g5LWUwMFE0Ykdic2U0aDhQeW1sWTVIcHZWcDRMQVZzWW9VSE9xREs0RFNTcklmZzBXZG5xUUtwOFN2LUxjOTg3SlVzamxsU2JjdXEwaTdxeUxVeE92V2w4Yzl0N0llY0hSUEJiU0VvNF9Kdmt5VWxFS0Z2dF9PZUZldHNPbjVJZjRDejQ?oc=5",
-      "date": "2025-07-24T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Koldam"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

@@ -1,19 +1,29 @@
 {
-  "updated_at": "2026-10-19T22:41:47.331Z",
+  "updated_at": "2026-10-22T22:00:23.852Z",
   "project_id": "KGR-AIRPORT",
   "counts": {
-    "press": 63,
+    "press": 60,
     "gov": 0,
-    "en": 45,
-    "hi": 18,
-    "total": 63
+    "en": 44,
+    "hi": 16,
+    "total": 60
   },
   "mentions": [
+    {
+      "title": "Gaggal Airport Expansion: Runway to Reach 3,010 Metres - jeevanutsahnews.in",
+      "source": "jeevanutsahnews.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQakpnTWx6anRoRVNmTm4xWTNBa3lRRjJ6dlJ2TG9kbDFQLVpHY0JDSVRCaEJFLWhremRKZ0ZuZ3ktQVg5VXBKdndZQndKWU0tWnJJYk9XckJBTWlyeUFSc2hnaHNhT3NjNzNTQURRRmNWbndnaEtGdmZlNG03T3YzZWdhNDI0N2VCdjdvZEFlUmJaTmRWVWVZ?oc=5",
+      "date": "2026-10-22T06:26:59.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Gaggal airport expansion"
+    },
     {
       "title": "Kangra News: गगल एयरपोर्ट विस्तार के लिए रछयालू में भूमि खाली करने का कार्य तेज - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaklyckpEbnlKWk1SNTBvT1NONGc2OFBsaTdncjZVY1dYSEE1cFpfN3BKUEN0NVdIeVZJbVA1WXFXQ0VPeC16UjBRTmp2QXU1RjI2TDE4Uy0ybkpybEhvRmRURFNWeGw3amRDSXdnMk5YUlU2bEo2WjJwV2RUdUhXU1NBajFTUHdfSU1lcDRjTjdiTm1WelhQVjREdkIyTm1XU1FfckltbmNGbXdiczVkemY3d0EzekpGWDZZd1ZzclBrcWdHRmFyUmxlcFY4aEY2UVRkYXRNVWxxdTdBelRtekhaOG52VndTSGI4eU9SNlNKLVYtSlZMT3RoR05JZ9IBgwJBVV95cUxOQU1rUXFKbTd6MmZ5QlE2WWt0R2JpUTd5TURwYTdDQU55NDR5RWdCWGNCU1ZBUjVkUG9zY3JZQVhTRlpSWFEtNXBRRGhRelhNc0dFNGNTaHpKbFVOMnAyMnpVUERWMVFWUm9lUEd6cnAwUFFwNHp4LWpZU0pIWm56dWZrZ0JXeENZcTN5ZmFFa2NzckVXUUdNbklJSXpCa0prdlVCbDFvcEY0SWZlY0pFemlROVZIVGxBbTlHYkZlU1E2YWVQVE5BWFhVLWszaW15bmNaQ3VueDlkbjZBUnd4QmtZQXZGVVg1VjlYYjZGaGJsaGxBa0hDUU1uTjlpdFZfQWg0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaklyckpEbnlKWk1SNTBvT1NONGc2OFBsaTdncjZVY1dYSEE1cFpfN3BKUEN0NVdIeVZJbVA1WXFXQ0VPeC16UjBRTmp2QXU1RjI2TDE4Uy0ybkpybEhvRmRURFNWeGw3amRDSXdnMk5YUlU2bEo2WjJwV2RUdUhXU1NBajFTUHdfSU1lcDRjTjdiTm1WelhQVjREdkIyTm1XU1FfckltbmNGbXdiczVkemY3d0EzekpGWDZZd1ZzclBrcWdHRmFyUmxlcFY4aEY2UVRkYXRNVWxxdTdBelRtekhaOG52VndTSGI4eU9SNlNKLVYtSlZMT3RoR05JZw?oc=5",
       "date": "2026-10-19T02:03:02.000Z",
       "kind": "press",
       "lang": "hi",
@@ -130,16 +140,6 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "कांगड़ा एयरपोर्ट विस्तार के मुद्दे पर पक्ष-विपक्ष में तीखी नोकझोंक, सीएम सुक्खू ने किया बड़ा ऐलान - punjabkesari",
-      "source": "punjabkesari",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1NRazUtdmxDRVotSjhtTi0wY09lY3VvMW9OWFp4OFdBX3VZUUFGeHRYNkNqTTVPUDYxbWw1c2Rnc3J2dUFTRHpoQWJRNGE0blB4VV84UlB5TzZOSC1ISU9MVHJqR005VERPVGE2LVZOWV9JZ0o2WlpxSk9KYUlxSVBFMEgtVncwN2dGYXJtUVBhcVZYRmp3d2dKNzFZZnpuZDE5WGJDQXoySldWaWJxczNlczlfVEZ2c1Nya3ZzcEo4N2lXMVZBeXVtcXDSAdQBQVVfeXFMTXByTzRlbDlXcjV4Q294cThmazNCNXZycUZsVzU5bU0zUF9WZ2lMcmVPUFpjUm50dHN1ZnMtdGxpc1JNVFRoRXNhaGpsQ2FydXVZRHhLVWZ5TkpmQkx6emV4Z1dEYVFUVkRLOGMzVmFaRU5VcmRrYldYWFljUjVleVV4SWpSc19ESGNVNkI4bGlXZVkweVpIRzNGaWROTlBsZlc1VmtrZ3B3M29qcTFUMWRPSXFVeE5GZ1RlZXZHUmNtRWlXdmVTaTZ0aW5ZV3d2X0RucGs?oc=5",
-      "date": "2026-04-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Gaggal airport expansion"
-    },
-    {
       "title": "Gaggal airport expansion: 9 additional hectares marked for peripheral road - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -190,21 +190,21 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "गगल एयरपोर्ट विस्तारीकरण : सरकारी जमीन पर बसे लोगों में असमंजस - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcE1XT3g0OGxiY2o0dzlRbUF2RnFZdFBCZVBka3NscVRxcjcyRk9IYUR3Szk3N29ybmdyNS1vYS1aRERsN3JsSVlUSzhLNGR2Skg5VU5zN3Y2YlR4ZExOWWtTOXlWTjY2eUdmSDFZeVhza1JaYWQ5a2tJUGtxd0E5eXhfTlhvV3hVU1ZkNnEwMFdPU0NJNG0tSE90NVh4S1dBbjQ5OTBYVklaNXdoV0NSVlhfczJ1WEd4aVZndEJGZUFnOXlZSFE4UlZlc0lFRzM2WEVhTUFHQVJKbHB4enVXNDdVMmtfWmk4TFV5OF9IOFNuTl9xSUdTdXhPZ0U3QdIBgwJBVV95cUxQZzZuN3R0QWhGWGFfX0NmYkJHX1MtX05BazBrekhJckE4MlJIdGplNDF3YlBCRlh6VzlSeXBydEh2bGdPZUljOXVqUjJWWDFlcmxlQTVUUTNWX3VjcXpPVjYwTUhyd3FPQ2JrekpFQ1pSbHFGTTk3bjFKOEJFVHNtVktjSzVvRjBCWm9PYzl0T1otdXlvdEJSd3pzdXdYVGRjcHk4dHBuMzNMUzBJbWtKMlZXNThCNkUtSGFGRWx0emdtUk1nbUt5ZkNLUGZMeUpYNVVhRGp1bC1LV1hCY0o5WHlQUEdnUzlXYkJXVHFRbGZoS01CQWwxeWwyRUpBVl9vUzhj?oc=5",
-      "date": "2025-08-23T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Gaggal airport expansion"
-    },
-    {
       "title": "Delhi govt launches Tourism and Heritage Fellowship Programme - ET TravelWorld",
       "source": "ET TravelWorld",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV0d0cTU3dDN3T1JRdUJtY2lROEFLV3VaVTl5YlFlNHZiZXFnWURTSExZczNMZE1xa1VMcDV4eGdOZXd1NG90QkFDbDhUcElpal85Z0VKWlpTV2IwMTgzVU5QU081TE8zUDc3eGctUTREWUxTV0RnUUtyZnR6V0V0YndjeGJrY1drVVEtS1hKMTNIeXJmVWl4N1dFdzQ0dE1PbnBNazdySmg4Q041NGpleUNFRW5ra0xmUDhlWk1lNlktZERsLXcxdmRtM1h0ZWNyN3U5YXVlSWJJbWpxUktSLVEtUEIyZ9IB6wFBVV95cUxQSmdKMkV6S3BBVXhrWkFoUEJMY0l5OGUtekJNZ1VGLTRCTXBzbFpKbUNuNkl4c1IxbFpBM1hCay1vQ21oVnd4NTh5TDFyVkYtVXgxUHZYQ0Rnc1pXZEVlbEl4MDBqblRHSU5yRHR3MnVtZTFfSjQ2M2JFVmtERjFvdVlmU3lFUmRrWHlseHNaZmx6dEJmeWdlNUc0aDJrQUl4NlZkSHNMd3NJenhMazYtd3gxNml2M1BVZlFvYmQ1NGRuT1d1dnJKV1l2R09ST0hISW9rcGxpZGlZYjJVTWV6VnFkTURSNk5LOF9N?oc=5",
       "date": "2025-07-16T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dharamshala airport expansion"
+    },
+    {
+      "title": "IHG Hotels & Resorts expands premium portfolio in India with signing Jim Corbett property - ET HospitalityWorld",
+      "source": "ET HospitalityWorld",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZklFX0RQRWxzemMyNm1DTUVGQTZlUW15cHlLeEhtY2JFdVkyYVRmcnphOE1EV3hTUU9uRno0cHRkdXQxcVFZaHRkNzBKSHpIc0JwQW5pbFZUNWF0MW5uVktJMGxPbDBFakpnUjJYUjBJVHZzOTZsaXY5ZmlMSEZTTWcxNE5WQVFabXlsX0dhQTdwYVZULTlYY1ZhUUl6akpma3I4Z0RiTzlYN21hOVNCUFoxeElEZFZBN3dBNVU4WTFxVUtIWTRZWmptd2xoVlg3Z2E4eExrWWp4czhfSjZib2RjcTN2UWw2Y1RjbUxR0gHzAUFVX3lxTE1QY0d6WFhvZXRJMndjdkxGbmVtSFJDM2ZHalNMQ0FadHM1OUtQZmQwVzlJV3loV3V2T1lNUjhGaUxoTWlvXzcxc1RsX3BGaTBTNk95VktpS3poX0c4eVNqdUlXSkt6QzQyanpBakI3bThQN0NzYXRTTFZueUNZcS0zeHVIR1VsWkVIZGlpUVJHeHBiQjFRQUdWNXlnLVlzOV9rcUEzdGxxejBfNUhFc1cxLXU5RURtSE41Mm1iU0xIcXByRHVKeXM3cXpJc0xUOVZzbG1kbVBvdUxhNWVHLVh6S3NFYXI3c1pBaVlFZmRUT0dhNA?oc=5",
+      "date": "2025-03-28T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dharamshala airport expansion"

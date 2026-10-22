@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-19T22:43:21.156Z",
+  "updated_at": "2026-10-22T22:04:40.304Z",
   "project_id": "PEKHUBELA-SOLAR",
   "press": {
-    "n": 18,
-    "positive": 6,
-    "neutral": 10,
+    "n": 16,
+    "positive": 5,
+    "neutral": 9,
     "concern": 2,
-    "avg_score": 0.061,
-    "avg_magnitude": 0.217
+    "avg_score": 0.056,
+    "avg_magnitude": 0.219
   },
   "youtube": {
     "n": 5,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.5
   },
   "overall": {
-    "n": 23,
-    "positive": 11,
-    "neutral": 10,
+    "n": 21,
+    "positive": 10,
+    "neutral": 9,
     "concern": 2,
-    "avg_score": 0.157,
-    "avg_magnitude": 0.278
+    "avg_score": 0.162,
+    "avg_magnitude": 0.286
   },
   "top_positive": [
     {
@@ -58,9 +58,9 @@
     },
     {
       "source": "press",
-      "title": "Himachal Pradesh Tenders 9 MW Solar Project with 6.3 MWh Battery Storage - Mercomindia.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmdlTEIxdTg3cVRQMlFMMjQyRm05bnJCUHFFZjNnYUZENl9PSUhfcXRHaldxNFh2V1RfZXFUTUo0R0xrcjZhSnYwMDNDX1VBMVhFNkZuU0wwU1UzTFl6dVVnSFFUbENITFd3Yl9ES0wtVFE5RE9iOXpCU3R2bk9IWlRRa213RjJmM1JjZkNySHVkWTloSlpRai1GdEg?oc=5",
-      "score": -0.1
+      "title": "32 MW Pekhubela Solar Project Goes Live, Boosts Himachal Pradesh’s Power Generation - The News Himachal",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekx6aVRZd0paY01RVUFRbldldUpLd2VLbFlLalQ4UjJCVk1hOWVrWVpmYTJwTXU4RFhlUkVOVWtPN0tIZlZSQldZR2hPQ3Y2ZU1IVW5XRk9PY3B2WXN4eWZZMTRwWktCYUN4M3V0VzYtTElHVXV4MW5YN2sxVWs1WDZCdFBOMDFmRHppaVVzVElaazJacFJuV05Gd3hfaGtaNlJtWThKajhzRjQ5TktlRXBFSXVHLXl0UGc?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-19T22:43:10.157Z",
+  "updated_at": "2026-10-22T22:03:47.593Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 15,
     "positive": 11,
-    "neutral": 0,
-    "concern": 4,
-    "avg_score": 0.127,
-    "avg_magnitude": 0.38
+    "neutral": 1,
+    "concern": 3,
+    "avg_score": 0.173,
+    "avg_magnitude": 0.34
   },
   "youtube": {
     "n": 12,
@@ -20,10 +20,10 @@
   "overall": {
     "n": 27,
     "positive": 17,
-    "neutral": 5,
-    "concern": 5,
-    "avg_score": 0.193,
-    "avg_magnitude": 0.419
+    "neutral": 6,
+    "concern": 4,
+    "avg_score": 0.219,
+    "avg_magnitude": 0.396
   },
   "top_positive": [
     {
@@ -45,12 +45,6 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "Terrain trouble: Landslides, floods triple cost of key Kiratpur-Manali highway - Himtimes",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzFxSjdEeVVIQ0VFbTBvRDhzVlVhRWxrRF9naHp2TkdhaS1OamtyVmg3dmxMaXpNQ2RmTTlrY0VvYmxkUzVfZ3FNblAwMFBOcG5Ga05hd2VqMmtoS3BEbTI4ZmpmUlA3Y2htZXZYemlJY2JfenNEQ3ZuS2dMaEZjeTBsOWZFWTRSRDJyUDM2ZGN3SkhnUDlxWUtnVDNTMlU?oc=5",
-      "score": -0.8
-    },
-    {
-      "source": "press",
       "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
       "score": -0.6
@@ -58,6 +52,12 @@
     {
       "source": "youtube",
       "title": "Today i come from ghumarwin to kenchi mor via tunnel. It take 1 hours to kenchi mor from Ghumarwin but lot of work pendi",
+      "score": -0.2
+    },
+    {
+      "source": "press",
+      "title": "Heavy rainfall lashes HP, 162 roads blocked - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUEFRXzQzZVVXSzkwYld5dUlfLXlveU5ZM3B4SThNdG5aZWhTOWxKbVNmeU9IZ2dtWnUtMDJBWWNreC02ell2OHdfb2c2aHJVZ0FsTkZHTTZVcUR0Q1pSV3pWdkFjQjQ0VlAwMVdLd3BsMGZWTkdnQzRPLXNvS3pFd3RSeGhLNVpnX1FqaHlNNkpYQWR0emo4dmRMbjhKeGF0MVY5M1RROE84T2tuRHRCLWxkVTVQaWwzc3BpYdIBwgFBVV95cUxPeDJEcUZNbjJpZ2pDV1gzMVFuRElfaS1icXlQM0luOWdGXzJkZmd3T3JGbkpSQjBwM3hmREdPWHI3UzFVSjI4X0VPYWdER0xYQ0JRampPbDRuUTNfQUNEVGdlLV9nV1piVHRRWndYNW1qY28wV053TTRfOF9ibUxzM2NfWUtWV3NxTEN4UVVvNnVwa3JITmRycGV0elhpdTZ3NE5KSlhUUENKUGJGUWY0aVU2UWN6a0VzZ3NkNXgxSlV4Zw?oc=5",
       "score": -0.2
     }
   ],

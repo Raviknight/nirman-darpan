@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-19T22:42:57.105Z",
+  "updated_at": "2026-10-22T22:03:28.055Z",
   "project_id": "PARBATI-2",
   "query": "\"Parbati-II Hydroelectric Project\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 8
+    "comments": 4
   },
   "videos": [
     {
@@ -55,42 +55,13 @@
       ]
     },
     {
-      "videoId": "RQ8INF9SY8Y",
-      "title": "हिमाचल में टनल से निकला पानी, गांव डूबा! | Parbati-II Leakage | Kullu",
-      "channel": "Civilstap Himachal",
-      "published_at": "2026-09-23T05:26:31Z",
-      "description": "हिमाचल प्रदेश के कुल्लू की सैंज घाटी में 800 MW Parbati-II Hydroelectric Project में ...",
-      "comment_count": 4,
-      "comments": [
-        {
-          "comment_id": "UgzqDons7DpPSIoVYgB4AaABAg",
-          "author": "@AshuSharma-xw9oj",
-          "text": "Should reduce exploitation of natural resources on the names of development",
-          "like_count": 8,
-          "published_at": "2026-09-23T09:51:55Z"
-        },
-        {
-          "comment_id": "Ugx9FdKxRFcs4yWZEjN4AaABAg",
-          "author": "@RjVikas4131",
-          "text": "Shanan project also leaked ispe vi video bnao kafi time se leakage hori kvi vi koi vi nuksan ho skta h",
-          "like_count": 4,
-          "published_at": "2026-09-25T03:13:22Z"
-        },
-        {
-          "comment_id": "UgxOHr6Q6_CG967dzbh4AaABAg",
-          "author": "@madanreyansh4492",
-          "text": "Dear information incomplete hai\nMulthan Dist kangra 2 year ago same incident happened",
-          "like_count": 0,
-          "published_at": "2026-09-23T15:18:27Z"
-        },
-        {
-          "comment_id": "UgxTtcxsP7bXqOMciHR4AaABAg",
-          "author": "@omprakash-ox2xh",
-          "text": "पूरी जानकारी सही नहीं है,",
-          "like_count": 0,
-          "published_at": "2026-10-06T17:46:25Z"
-        }
-      ]
+      "videoId": "HMF2UfOVFoQ",
+      "title": "😱 15,800 फीट की Tunnel का सच! क्या ये Hydropower Tunnel है? | India का असली रिकॉर्ड 🇮🇳",
+      "channel": "India Unbuilt",
+      "published_at": "2026-09-13T14:30:29Z",
+      "description": "भारत के हिमालय में 15800 फीट की ऊंचाई पर बन रही Shinkun La Tunnel को लेकर ...",
+      "comment_count": 0,
+      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

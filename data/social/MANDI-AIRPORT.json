@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-19T22:41:49.407Z",
+  "updated_at": "2026-10-22T22:00:27.678Z",
   "project_id": "MANDI-AIRPORT",
   "counts": {
-    "press": 8,
+    "press": 7,
     "gov": 0,
-    "en": 5,
+    "en": 4,
     "hi": 3,
-    "total": 8
+    "total": 7
   },
   "mentions": [
     {
@@ -38,16 +38,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Mandi greenfield airport"
-    },
-    {
-      "title": "Dpr Preparation Underway For Balh Valley Airport Project In Himachal - PT Pulse - Projects Today",
-      "source": "Projects Today",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXBid0dRMjFfWTEzd2hNVG5xUmRIV1hrN3dLdlBEQm1FTWJhWFFKMjhqcGdFOTVNSE1LN0VsWkhONGJHaW15eGt0bUZnMEpMQllYWksyMWNoMEhXQ2ZyeHR2aS1vSHFBZHdjTVNvclJSY21aSEtEeTdlQXRkQ0RzdHpBS3lhOFhUV1IwZFN5NVhRQ0RFRER0UUFSTnFUY3M5QXo1UTI3aTZBMHk4ZXVKaUxFOERubmlCOGc?oc=5",
-      "date": "2023-01-05T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Balh valley airport"
     },
     {
       "title": "HP CM urges Niti Aayog to provide special assistance for Mandi greenfield airport - ThePrint",

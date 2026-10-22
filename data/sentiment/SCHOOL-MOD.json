@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T22:43:20.847Z",
+  "updated_at": "2026-10-22T22:04:39.350Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -10,27 +10,22 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 16,
+    "n": 14,
     "positive": 8,
-    "neutral": 6,
+    "neutral": 4,
     "concern": 2,
-    "avg_score": 0.194,
-    "avg_magnitude": 0.456
+    "avg_score": 0.25,
+    "avg_magnitude": 0.521
   },
   "overall": {
-    "n": 16,
+    "n": 14,
     "positive": 8,
-    "neutral": 6,
+    "neutral": 4,
     "concern": 2,
-    "avg_score": 0.194,
-    "avg_magnitude": 0.456
+    "avg_score": 0.25,
+    "avg_magnitude": 0.521
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "It's so satisfying to see you planting vegetables!",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "As a huge fan of exotic fish, this is one of the most beautiful depictions of migratory behaviors I'vever witnessed.",
@@ -38,8 +33,13 @@
     },
     {
       "source": "youtube",
-      "title": "你覺得她套了一個桶子然後沒任何作用？她的作用是讓妳討論為什麼套了桶子.卻沒看到為什麼要套…博取討論度跟流量的😂",
-      "score": 0.4
+      "title": "It's so satisfying to see you planting vegetables!",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "I need one of these buckets and a bidet when I eat Bangladeshi/Indian street food",
+      "score": 0.8
     }
   ],
   "top_concern": [

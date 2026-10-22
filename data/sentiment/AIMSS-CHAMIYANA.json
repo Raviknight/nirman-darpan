@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-19T22:43:20.431Z",
+  "updated_at": "2026-10-22T22:04:36.829Z",
   "project_id": "AIMSS-CHAMIYANA",
   "press": {
-    "n": 8,
-    "positive": 6,
+    "n": 6,
+    "positive": 4,
     "neutral": 2,
     "concern": 0,
-    "avg_score": 0.275,
-    "avg_magnitude": 0.325
+    "avg_score": 0.233,
+    "avg_magnitude": 0.3
   },
   "youtube": {
     "n": 0,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 8,
-    "positive": 6,
+    "n": 6,
+    "positive": 4,
     "neutral": 2,
     "concern": 0,
-    "avg_score": 0.275,
-    "avg_magnitude": 0.325
+    "avg_score": 0.233,
+    "avg_magnitude": 0.3
   },
   "top_positive": [
     {
@@ -34,15 +34,15 @@
     },
     {
       "source": "press",
-      "title": "शिमला में CM सुक्खू ने किया अत्याधुनिक 3-टेस्ला MRI का शुभारंभ, 5 अस्पतालों में बनेंगे - ABP News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGttWGREbXhvQm85UGV3WUtMZnpPTmRybzdSanZ6bFBFQVhiX2c2THJTTy1nei1ZaDZxbnVtcV84MDY1RC1BT2hVc21CaDNCOVVndmo2M3c2UlprdF9yUXNuVUw3OXQ5NV9OWi1iTnZhSUhxck1qQWpGcnYyaEFlckNBWnkzbG1zbEtBNXFEQUU0X19LcFZ6MERmMFFwdTd5aVl2OFVPZ2lVQ2t3SENNTkpPUF9sN19QS2loSnBNRzUtemdudS1kUW5rOUk5MXl2WGc00gHYAUFVX3lxTFBFazRZaUwzWDkxeGIzdEJOcTNORzNyTkhNT0lfQzNDN3MyRk1KQ0VUOHFWZzI2OFNkbFBkRndHdHYxNzVTQzF3NnhQMFJnTDh4THQ3SS1GaU93MkNObkc4Z0I4UzJkQm9uMmx1cXQyYjZQcXRENVpSRTVqRE1vUmluQm93Rkp3bV9MSjA4TWV4eGRYSVh3aUx5Ui1fdGFqekplX0NZdEJnSnVUd3VaUHE4bFkzWWJIM0dMZ2taSER3T1VCQzFBR0Q1dGNqdzItMG1oNnJEWE1XSw?oc=5",
-      "score": 0.5
-    },
-    {
-      "source": "press",
       "title": "शिमला के चमियाणा अस्पताल में ऑनलाइन बनेगी OPD पर्ची, अब नहीं आना पड़ेगा जल्दी; बेहद आसान रहेगा प्रोसेस - Jagran",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHllVzVKb01XRFEzYk1fRUdNd01RWjNDbTFId2tRWFpwS1pmUktqZVk1cXJ4ZnFOR3lMQ3ZxT3VKYkdGOGRkazB2N2NEWUFPNVlqanRvSjItVl95MktzQjZCRVZIcXlzaTdFNDE1V1B4VzMwdXVMZ09tRGtscHpmVk5iWEdteVpRZzhOZWZSU1NsZDM2NmQ3QkNUbmlWaXVTTUZSMTN4YVhFN1M4VU9Eeg?oc=5",
       "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "सर्जरी के दौरान सोनू निगम ने गाना गाया: हॉस्पिटल बेड से शेयर किया वीडियो, श्रेया घोषाल ने की जल्द रिकवरी की... - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZjRub05MTnloUGVMNGtUNkdMUGsxVlYzSjV0T1RCc0VFOS0xTmwtaldFUlJyUktqSzRVWFZWNGhJeVhjMzBMUlhGcFlqQVUwcnFfbk5JUDFaNERUcTI3Yi02SE9KU2pEX09VakRsY05WWkhTUFctcWdLN05LSVZNNkJ1bnpEMTZxTi0xS3FpSXRSaUxIa2JYYjZPeFVDOGllNEJaamZ2NEkyWDNsR3pXV0pydTQ5bVFpTDloVzJyUFZuZWQxRm1WQlFaMENybEdIVnd0ZlJ5SGxtR3BadUgxNnJMcEhrQjVoUUpnb9IB8gFBVV95cUxQNFBlSW1DcXNGZFZLQXJRZ2JjUWZ2aHNDZ3JHWW44VDR4anNDbENMMTlyWFVDM2FRM2FJb0s2SjBSbE5CRmpSOFhPYk5DVmdGaWk1ZWxQQzRONXRLOUtUMFhfNG13VHNOaEVmLXQwSGVaN0kwMThxbmpuSDdTRElaOExqSmZNSXhLcjdtaUJZeHZmOEx4b2dCR3RaTFowcTdzS0p5LVAwTkNUeElrNTRQV2gxVXNsMHpxeWVERm1FYWJCcW5mTm4zU3NWMkEzQzhWczcwWUNUSGllWWN5WnVQbHl3NE5IUFVsYXB0YUdFNDRaUQ?oc=5",
+      "score": 0.3
     }
   ],
   "top_concern": [

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-19T22:42:42.719Z",
+  "updated_at": "2026-10-22T22:03:07.718Z",
   "project_id": "SHIMLA-ROPEWAY",
   "counts": {
-    "press": 104,
+    "press": 97,
     "gov": 0,
-    "en": 56,
-    "hi": 48,
-    "total": 104
+    "en": 54,
+    "hi": 43,
+    "total": 97
   },
   "mentions": [
     {
@@ -14,7 +14,7 @@
       "source": "Jansatta",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeFRyemlaajJ2aFRULXVBRlpNRlBwYzByYTBpMWVSYVZHMHVHLVJUMkJ6NnVuRXNVblk3SEpiTHd6ZVNmdXp0SWFLa1hjV1dtTm9YemNKdFJDM2pXMDl6TU9JUGx2c1pGY2I5TF93Qzh6a3dUT0ZIRFV4SVNOdHpEdi1OWjdVdUx4azVEWFd0STlTcTNaXzM1Zk5SNmZVSnNNREtJaTcwbGd2RGhNNlNrWUEzN1lBekNGZVdpWlBMRy1kN2FybTNVZkV6VDUwNERDUUlTSld0VmNURGlKNkVTNVAwYnFHeERLSndLX2xORmo2RmZXaTVRTnEwa9IBggJBVV95cUxQaVBsbEE4QXBpSGVxOE1XeXBSRXNKc0pUcmRvNWlxUHFaUC1JcUJjbGl3QjBIZ0ZoZ0UzenVpeHJxdFdxQTIxRy1peGI1UmdMV2xqZjRfcE9qMTBpWWJlMWRTdUg0ZE9Bc2c0YlJGaE1GTDlUZER3NVZNeWFCTG0tZndwaGhaTTZzRElQemVDRzZfRGVFQmxGejZlYmlQRGREUTJRdlpIaVlJVnFwaTJjc1ZUSXctSXVuQTZwNFBqaHpuM3dQTkpub1c2YWk4dldDek4xY051SkY3ZWZWSWxoRXBhbThWMkNobDM4OEZlS09Nc0NlRzFGR0NFRU1ZRzBpR1E?oc=5",
-      "date": "2026-10-12T04:40:16.000Z",
+      "date": "2026-10-12T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "RTDC Shimla"
@@ -40,10 +40,10 @@
       "match": "Shimla ropeway"
     },
     {
-      "title": "Himachal Puts World's Second-Largest Ropeway Project On Hold Amid Financial Strain - Swarajya",
-      "source": "Swarajya",
+      "title": "Himachal Puts World's Second-Largest Ropeway Project On Hold Amid Financial Strain - Swarajyamag",
+      "source": "Swarajyamag",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWVJWUW56WDlETHoyaGNraWJMdE1PODh1WGpicm9nam92TzRHanVOU3Zuekt1UGZPY0RZeGQ0dFlnSno2TkdMZU1ucUVKbFRUSjh5dWh3SldpQXZERHlkSEdybTR3ZXpJZFNjd21fYy16ZjBZQlJSWldnc2N5SkRad3dkd3FCU0oyalFzRi1rYld3NURkVExhdEdCNngzbU5ERkpaLTV4eGxTQUs2Sm1mV01qVy1Ba0k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWVJWUW56WDlETHoyaGNraWJMdE1PODh1WGpicm9nam92TzRHanVOU3Zuekt1UGZPY0RZeGQ0dFlnSno2TkdMZU1ucUVKbFRUSjh5dWh3SldpQXZERHlkSEdybTR3ZXpJZFNjd21fYy16ZjBZQlJSWldnc2N5SkRad3dkd3FCU0oyalFzRi1rYld3NURkVExhdEdCNngzbU5ERkpaLTV4eGxTQUs2Sm1mV01qVy1Ba0nSAccBQVVfeXFMTVJ1b3pCTHhVdUpVeFVrUXdkUDhhcTRSWFBfRGdDUEo4bV9ONDN4QnVXSWJVcE54SHVsVU5UN2VxR3NLLW9OUXdJN1dFUFhTSmR2ZmZ2MXBfOWxURUdUTjFkcDYxWEhncHFsZVFJM05PZ01OT1RrSzdlV3E0SlVnZWc5WlBxeDVlcHJJTWpXTnh6OGJUeUhod090enlZZjdkRG1oaDlaVzB3UlpzY282N1NqcFRaTnhVaVBEWW5SUlZhTV84STFGaw?oc=5",
       "date": "2026-09-26T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -70,10 +70,10 @@
       "match": "Shimla ropeway"
     },
     {
-      "title": "Government Turns to PPP Model as Shimla Ropeway Cost Touches ₹2,700 Crore - The News Himachal",
-      "source": "The News Himachal",
+      "title": "Himachal to develop ropeways under PPP, EAP modes amid high project costs: CM Sukhu - ANI News",
+      "source": "ANI News",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZW1abmJnektFOFI1Z095bkVpSkM3NnNPNngxZExaNW9Zdzl3RVdabUxtc1JWMkFQakQ5VUtPRE1uSVZrWlIzQWxrcjlhRl9CRjdrdHRZdWg4eHQzNWpMVEpvaWdrUkdsSmpOZ29rRm8yMnlHeDlGRUdxVElQUWVqSmMxTGhpbnlwcVdxRk1pNDdwdy1TdnFZUnNMOWttZm9WQjE5ODkzUFREaFpSRVZhSXJvTU5QVm5D?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNck1OaE9CZmhuSmNIQkU2ckRwT3Aya0FkYWxITWk3ZjkyYkt5VC1ZT2tFQ3I3azlBNTJjb1k3eTdfdnY5ZGlsY1F1WnpJMnlwNHQ4RkZ6WGxkNEk2TktaVm5SY3M1UDBaTVo5cFpmZTljWHFDRHpYVU04UkJUWTVHX0pFU1BsbTdMT0k1QnkzWm1WcW8zX3pGeHVMMXlUdDJ3UmRNQkZzTEJMV1ZUcXh0MGpxYXo1NHoxaGNDUjYzZnI3Y0xtX0hOTzByLUdqZ01uSUhpRUtwTThldENnMHc?oc=5",
       "date": "2026-09-03T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -114,16 +114,6 @@
       "source": "The Tribune",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnByNmZrM2NTcEhKYk1kU29mOUtrV1FTbk1Ba1Vfc0YxcHpxVFpFbkl6ajVxeV9aRTlkWUVaQmh0RlVUX3VSZDczclVtSnJ1cmZ3RWNHYWUwYS1yZ2oyYWphaTg0MkpxOUh2aUxSaVZhQ3hhMDBXRWVXVDVwa2RYNGtzdWN6NmRCN3lFT3dkdVpjMkxfZkJwV056UTNkejlDT05lRnMwcGNUZUlUeDBBVnhpcXlHUUh0V1QzbEJOTnBwYnN3VUJ5SjdZYUVxWjV1RkZBM3VXbG5QYVdERFVJ0gHjAUFVX3lxTE9OYmgxNnhkbS1uSVVnVGVrRG4xV1dleWRYQnNJTkhGSFVjakVfaTBSaTNUSzJTcklEeUxzRkxQRFdiYV83Q0YzX3B3RXdDbHZ1aS11ckhHQ3huYXVrTlZOV3RFUzMxUS1wVnM4dkdWaFZ2a1otQk83bEtUa184Q1Y1TUN2dTA2Sm1wS1ZjSGR1aW5ZT0t3bmpPdE1uUndyMG9jSTQzQ1RRWU9FeHBLdWUxNWhTWkRFNjFEYkh3UkNkNkNQZzhrLUlmUDBSN2Z1Z1ZmX3VLa0VqZ0p1OEg5dzFuRWxv?oc=5",
-      "date": "2026-05-24T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla ropeway"
-    },
-    {
-      "title": "HP: Shimla ropeway project hits roadblock amid ‘cost escalations’ - MillenniumPost",
-      "source": "MillenniumPost",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnBHOG1hOWxfVGZVOHVLUTJBc1JnX2xRUWtVOF92MjhucGx0NEJaX3VWUk9ZU3JVdENaTmExbzBmRml5TnM5Sm1XR3BiXzFybXAwSk5oaVRScmoyUFJ5VEpIXzI3dEZVYkFIbTdBUUp2TUNyRllTYzlJcnJDb2xxU0dNVDFRLWhnc2VaNkFFRmlzZ3NxUHVmdkNDdXBBVDM1RXlKMWQyNW1yZ9IBrwFBVV95cUxPalFDZi1PRDRVeUIwcEUwRjRIVGlkeURhUmVJQVZ2VEI5M2ZMRXV4OEZuUXFOdUZNZnd2YkRsdFN4UDY2bGRZRnUwMEdHdHVCcGtHU0w1VFVDNmdzR1c4WDF4VTNxUFlTMElYbl8zUWR1d2hsU2ZLSDZ4YUVlTDlXdVZVSTZPZGtySnFnUUR2cXl0X05hUWFzNHVqVEVQdmM2dFhlb2tQRUZtanQyNllz?oc=5",
       "date": "2026-05-24T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -180,8 +170,18 @@
       "match": "Shimla ropeway"
     },
     {
-      "title": "Amid Shimla Ropeway Facing Cost Rise Over Five-Year Delay, Himachal Pushes Air Links, Clears Asia’s Longest Adventure Zipline - Swarajya",
-      "source": "Swarajya",
+      "title": "मौसम की दुश्वारियां बरकरार, नहीं लौटा जनजीवन पटरी पर - Dainik Tribune",
+      "source": "Dainik Tribune",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVNzcW4xRTZySEcxMkc3Z01oZC1LSXJkOEppaEV2dms3cW11VWZxcE0tdW1RZi1oYy05eHM2VHZkN0o2NndfSlllaGxkNWJSYnQ5UDNIcVBvak9YNDhaaWwyQ1l0aGhOWHRLbDE2RHFXZFVqWmFGeXdTZVJuakpKMkhJV2RRM0dnYXJzRTZ6VlNxQlFkYXFaenBKOTBHVnct0gGkAUFVX3lxTFBtUW43VVlBSnpQLTVORDNRNU5ZemZWT2dMRDMxWVNhR2pwOXpzUmJodU5kaXZ3bmhBYldHSW5DNl9SSWtVaGtneVZyQjhrM2w4V1NuOXMzdUk0c2tLZVNqMGQwdEY5Q1U2TWRQZ01uQl9fNlFHS3ZvUVd3eUVYcEFHWVIySmx4T25YQ2xTMjZnWUFUVTV2TXFCeVlCMXBGLWZtOVZw?oc=5",
+      "date": "2026-01-26T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "RTDC Shimla"
+    },
+    {
+      "title": "Amid Shimla Ropeway Facing Cost Rise Over Five-Year Delay, Himachal Pushes Air Links, Clears Asia’s Longest Adventure Zipline - Swarajyamag",
+      "source": "Swarajyamag",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ3pmXzF2eExEc1V3WGN3RWsxM28yRF9zd0pUOW9mWEFodVpjMG1wUDdwZW85Qm9LX3RVcmFoNzU0YlMtTFF3dGN4bWYwQ1pZTmt5ZUJad1Vid2kzcWdYakJORnZ1elptNGN5S0wzSFJORHpWTHh4SmhtT09jeTAyNFk3S0dtcGNiOVdmdG9rbkJka0NCemVaUDA2UFJLNzRUQjdRYnVUQ0FRdGQtNTdpRGZyMjNlRWNOOVlzTGlHY3JDRW1fSDZEcnVzMlZWM2NMRWtEQkh6c1FEU0dDM2N4Qm5mT0NTUFRLZ1pLUWlR0gH-AUFVX3lxTE5TcVNiYkxVS09SZTJlM0JSbzlLdW1TejNzcll2QnhsZXFxTXhxV0RuaEdKa1JkeFRJbzRxUG9pWFBIaHV3MDJnUjBnaEdRWnRETUVjU1ZucWRYSjNVRnUyY2FRUm5OSmNWd3RvTXRDdk5MQWtsTFoxMHBGWHZQQ3Yxc21XM0VuRHpxblpZbDdZNGxMY0NhTmJOaG91aHpJdEdOSEp6TWllZzVPVzBuSEc4ZE5WMHNtaTRtUTg5MVhVVW8zd1Y4OXZmVmYyS0I1clJXY0lLVHpCdG5JbEpMcVVyS015SnRxUk9Yekl4bXdTZjBlWG1DS0ZkcGVud01B?oc=5",
       "date": "2026-01-22T08:00:00.000Z",
