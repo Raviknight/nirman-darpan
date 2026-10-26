@@ -1,22 +1,162 @@
 {
-  "updated_at": "2026-10-22T22:00:54.653Z",
+  "updated_at": "2026-10-26T22:57:01.662Z",
   "project_id": "IIT-MANDI",
   "counts": {
-    "press": 258,
+    "press": 261,
     "gov": 0,
-    "en": 145,
+    "en": 148,
     "hi": 113,
-    "total": 258
+    "total": 261
   },
   "mentions": [
     {
-      "title": "Dehradun News: आधुनिक विज्ञान के साथ भारतीय ज्ञान परंपरा को जोड़ने पर जोर - Hindustan",
-      "source": "Hindustan",
+      "title": "IIT Mandi launches Science on Wheels for rural students in Himachal Pradesh - India Today",
+      "source": "India Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSGFTeFl6N2lyNmNwa1BuRVE2WDUwaHRCLW0zcEFjM3hMTDJqZGc2T3NxZkNuNTE0QmVsa2tObUF4eVQyVVh1aENPdVVBbWdIMU15QU5EaWhsbU8zRFpFaHBCS1c5MUNiTmdaRXFXdDdxSmQ3Rmp5MFlhRldvcXV0REFoZUVDQjVJUnE5OWMySUpEcVF3N1l6REYxY0NoT2g3dklWWDdGWkgyQ2xfbHNzaTJ2TXZ0YW9Qc0U4MDF1TDBxblJ5ZHRPZmdLUU52RzliVFHSAdIBQVVfeXFMTkhhU3hZejdpcjZjcGtQbkVRNlg1MGh0Qi1tM3BBYzN4TEwyamRnNk9zcWZDbjUxNEJlbGtrTm1BeHlUMlVYdWhDT3VVQW1nSDFNeUFORGlobG1PM0RaRWhwQktXOTFDYk5nWkVxV3Q3cUpkN0ZqeTBZYUZXb3F1dERBaGVFQ0I1SVJxOTljMklKRHFRdzdZekRGMWNDaE9oN3ZJVlg3RlpIMkNsX2xzc2kydk12dGFvUHNFODAxdUwwcW5SeWR0T2ZnS1FOdkc5YlRR?oc=5",
+      "date": "2026-10-26T15:47:19.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi launches ‘Science on Wheels’ to bring hands-on science education to schools across HP - ThePrint",
+      "source": "ThePrint",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGg1YUo4MkM2amRITWRLS1hWWHpnWEE0NVEzdU5NRmpORVJ4emx3TF9PUmpNNGlvMWZBLUFhRVdWWVEwM21KeFVrUXUyLTZrbmxEaTdBVFVOSXdVTkdNVVl5RjB0THRaUnhpblZGMXItR2ZwOENOY3hYQUlvYXNTTmxhS2tvNVVhSVZfNFdfMlREZ212T2ZyN2YtQkd3d1phaVFlWGVyOVFsSi0tdGVQMHg5TDhpb2h2WjZ5WnZxbGJDV3E4ZHU3cEJxdTPSAcwBQVVfeXFMTkxoNWFKODJDNmpkSE1kS0tYVlh6Z1hBNDVRM3VOTUZqTkVSeHpsd0xfT1JqTTRpbzFmQS1BYUVXVllRMDNtSnhVa1F1Mi02a25sRGk3QVRVTkl3VU5HTVVZeUYwdEx0WlJ4aW5WRjFyLUdmcDhDTmN4WEFJb2FzU05sYUtrbzVVYUlWXzRXXzJURGdtdk9mcjdmLUJHd3daYWlRZVhlcjlRbEotLXRlUDB4OUw4aW9odlo2eVp2cWxiQ1dxOGR1N3BCcXUz?oc=5",
+      "date": "2026-10-26T13:54:57.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "चंडीगढ़ की ओशीन ने इंटर-IIT मीट में जीते 3 पदक: 50 मीटर फ्री-स्टाइल में स्वर्ण जीता; 100 मीटर में रजत-50 मीट... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQQ3JiOHZwUzZCMjJXTkJia0lCMlVWSklGOHJjUzFyUUIwOS1TT095SW5EZDlodVZyQnZ6dUYxdVA4ZHdPSW40VllwOFI5dVo2Z2hRQ2tHQV9mQnVXTGFGQ3d5QzNXa2VpWDJVQXlWNXpCdnVXZmNZUWM3YzZvemkxQ2NJVTNPcXgzemxwMVM0Y1BJSDZvSVlFMUpWUkJFbVU1TWJmMFlHSDBMVWwzcXB6NlR2ZUJsYXpSOVppMGEzNHJMWE9MYnBwR243Z2I3dEFHOGxQd0ppaC1JZXY1UDN4MG9GcGROYWk1ekxOTkUzRm5pdWlwSVZzc3NMbVRjNW5mcGNsN0NkZ0x4cW5aS2pGZNIBkAJBVV95cUxQQ3JiOHZwUzZCMjJXTkJia0lCMlVWSklGOHJjUzFyUUIwOS1TT095SW5EZDlodVZyQnZ6dUYxdVA4ZHdPSW40VllwOFI5dVo2Z2hRQ2tHQV9mQnVXTGFGQ3d5QzNXa2VpWDJVQXlWNXpCdnVXZmNZUWM3YzZvemkxQ2NJVTNPcXgzemxwMVM0Y1BJSDZvSVlFMUpWUkJFbVU1TWJmMFlHSDBMVWwzcXB6NlR2ZUJsYXpSOVppMGEzNHJMWE9MYnBwR243Z2I3dEFHOGxQd0ppaC1JZXY1UDN4MG9GcGROYWk1ekxOTkUzRm5pdWlwSVZzc3NMbVRjNW5mcGNsN0NkZ0x4cW5aS2pGZA?oc=5",
-      "date": "2026-10-22T13:54:55.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmc2STlldGY2WG9uVGhuM3ppc1JOejBQeTYwLXpldnBaeFJXdm1pb0FSVzRIRHFQUWlGT0xRUk1SZ29UTWdVLWpYbnVpMVZXYkdzaXJsTEZkWDAwcHY3dWdkdmZqbmFOcnZsQnhXcmlUa2ZILWtya0N0ODFuTC1WcFJCQTNKdEZLdXYzaGxJTk5EaGoyUTBSR3VoSVZJRld2eHJlTUtiR3ZIcWp1eTZ4RVphUnNUd29pcXBRT2l4MG1tRjVkSEVzeXhFeFXSAdIBQVVfeXFMT05PQ2RjYXlBM1M1bmYydzN1MEVqbFV3cU5LdUxmdTNaTG5td1kxVTBXOHBxRW5yTExzby1MdWNaWVp3UXQ2SnpQOC1WUlJzaFRoVEtwMTNxTmdzNzVwYlJOOE1iMnRmUlBENHNrU0k5S2dwck1XV0FvOXlZZ3VEbGUxaGlhYmZ0cXJZSGVUdjY4WE9ja0t0QTFNLVNYaVdmUVNMU2x5eFZFLUFUd0IyTGYwTWhhSGtmUWcwZUJiSFV5emdCeU92NEtMY0lzQV82ejJn?oc=5",
+      "date": "2026-10-26T13:53:50.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi launches ‘Science on Wheels’ initiative to reach 50 schools across Himachal - Devdiscourse",
+      "source": "Devdiscourse",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQWhTVmhFTno3eVhkZC1NS1NCX2x2dmhxWFdCeVA1ZVRiekdJaUxsdG5UOHRRaHZUaVdCdWFzbzljUTllMVE4bm1OZ0NLeEEwbWtYd2FHRXg5V2FMeHJhbk5PRUpBbDhEbm9ZUTRmS3A3VnZPWXRxTTJiUGtkbUpOWmpLU0djdkVhQXNOTFJUYUZVV0ExRHpYU3hkZjJXRWw3TERaZ0FKbEtDRXFuR1doRXVZZEFGMXhGd0R6YURKU0tYTjBiQmZWVTVGY1Zjcm4wV0l0dzFUWG5qd9IB2gFBVV95cUxNQWhTVmhFTno3eVhkZC1NS1NCX2x2dmhxWFdCeVA1ZVRiekdJaUxsdG5UOHRRaHZUaVdCdWFzbzljUTllMVE4bm1OZ0NLeEEwbWtYd2FHRXg5V2FMeHJhbk5PRUpBbDhEbm9ZUTRmS3A3VnZPWXRxTTJiUGtkbUpOWmpLU0djdkVhQXNOTFJUYUZVV0ExRHpYU3hkZjJXRWw3TERaZ0FKbEtDRXFuR1doRXVZZEFGMXhGd0R6YURKU0tYTjBiQmZWVTVGY1Zjcm4wV0l0dzFUWG5qdw?oc=5",
+      "date": "2026-10-26T12:47:19.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi launches Science on Wheels for 50 Himachal schools - The News Mill",
+      "source": "The News Mill",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOU42enhwYkpNUDJXTWI3UVRuN3doWi1IcnNWTzNiN1ZGTFQ3Z0hvcVp1dnFFTmRrVUlJTTVUNkZtWllDQjFCTVBiWTZ5VTdGRC1PeklHeXZjRU5OVUpiZlVVeHpyQTluUlBaMUxNdDUtV3NxN2lsQjk4d29fc3JDT0ZobkZ1d3NFTWxTeDZJYXV4a0hDV3BnTg?oc=5",
+      "date": "2026-10-26T12:47:10.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi Launches ‘Science on Wheels’ to Bring Hands-on Science Education to Schools Across Himachal Pradesh - Press Information Bureau",
+      "source": "Press Information Bureau",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VZWh0NzRUYmZqM1dZWnI0TVFWVVpSTFJRc2R5REZUYlgyYV9KMm5wbmxPYnBBbUJOMjFIeV95S2ZmY3hMeGZaWnhQN3ZqSmtxNFV3c0daaElnZjFmQWRqejMtNF8yZFFQ?oc=5",
+      "date": "2026-10-26T11:46:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi Develops Solar-Powered Water Purification Technology - jeevanutsahnews.in",
+      "source": "jeevanutsahnews.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUlpUZ3cxTXh2eWtUazJRMFFOdE92ckNrWUo4SzlwZ0s1cFpoaU5UQzc3ajFXcm1scGRxNTdMYVpzdjd3allrTXN0VkttT041cl9TczBKTXBNWDFnTGZSaWZLSEN5Szg4a0l2Q29NYncyOE56d2ZxY1NROHRKbEo1dW9SOUd6TTl4cC1fYjU0cGw0bTl1MGcwVGtTMjlYRE9KQzMxVQ?oc=5",
+      "date": "2026-10-26T06:54:40.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT मंडी की सौर ऊर्जा से पानी शुद्ध करने की नई तकनीक - jeevanutsahnews.in",
+      "source": "jeevanutsahnews.in",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdG9hbTN3Y0piZnF0MkEzU1EySDFGeHowWm9BTmtkeXJvTUNyekNVWEpCZERoRU83SG9zOE9DT0ZBU3ZNSWNpbmdpaUhZMl9RZDBGQWUta0ZVU2J1NG02cE5IMS1oazkyc2l4RUlOQVozclFnMzdTYWdIdVhtRy1uVzRscWVmVEkwZHh0R1d2VGxxRkIyY2FhRG8wWQ?oc=5",
+      "date": "2026-10-26T04:49:26.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "हिमाचल प्रदेश: अब सूरज की रोशनी से शुद्ध होगा झरनों का पानी, आईआईटी मंडी विकसित कर रहा नई तकनीक; जानें - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSmMyMzZTbTJuSlFBUl9vMk5ya0pFY0huSmZjUDVwT3ZSRmRYUE9PUDI0SUtwanN5Z1U0S01MUmVnTUVkWmpTSWpqU1oycVBDOHU5M0VpSjlucThlMnNqZFo2Y05Xb1Q5eUk3bnNPNVdlNmZ3M2xGUGdyWFFPWlNHLWo4SE5lSFA3eWMwb296emZOWDNCNnEtSnlGWkM3Tm92TXotdkF2eWpBM3NkUVphUUhiNGd6T3lpUXFVdER5RTlleVZZOEIyRTQ4dWZwQ2pTTV9hSDh3Z3hRX09CY3l5QjNnNXDSAeoBQVVfeXFMTWVkUHktd2RkMlcxaWN0OThvcFR3NUk2Zzl0MElsWUdDSVVPMzlKNVpMNnBUcXJtZlFXNGstMjF2UXo1U0hrcUY3blNMelkyRXV4a0o0TUhJUnlxQlo3U3A4T1BoMDZGdDdCbF83ck1JZXRsNWNWRWU4bWY5RGRXU2hxUmxSb0tqbVBKMFZVUS1OcDZsSzE3cnc0SEZCalZVem1UWHZ2ZG83aTEzZWFfRlowZnZFQWFfcks2Ny1EWW1CV2JZRmNrS21SQXo3MHRQZVM3cGxjaUk0Sm9IYkJ6LXpoeWNoQ2hyZ2Rn?oc=5",
+      "date": "2026-10-26T03:57:42.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "He came to IIT Mandi to study engineering. Theatre gave him a new voice - India Today",
+      "source": "India Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNakRXMzJFX2wtTE12cHRIVlJLM0Q1T2F4aFdLNlNkZEtRTDRSS0s1dlFSN1ZiSjVTNVZwQVNmRHdMcDI2ejNFNlRfN3FXQmk0N1RMTGVmM1RhU2syYkVXNnBmdVFjX3FnNWlkNnA0em5acC1tR2taVVFyTW82ejVWeHlYcGtZWjNwRGx1RVBVelJad0tyZ3FVM0dGUmNXc1NhY3lWaGVUbmI4MjNicEhVZWNCbXV6Ujlncm01NElOb0ZRU0R5eG5yOFpMSXlxcWhEYlcyQTdLYzhqMEtGM3hTZnNjOG9PMFh0cUo4bVFKRE53NzjSAfMBQVVfeXFMTWpEVzMyRV9sLUxNdnB0SFZSSzNENU9heGhXSzZTZGRLUUw0UktLNXZRUjdWYko1UzVWcEFTZkR3THAyNnozRTZUXzdxV0JpNDdUTExlZjNUYVNrMmJFVzZwZnVRY19xZzVpZDZwNHpuWnAtbUdrWlVRck1vNno1Vnh5WHBrWVozcERsdUVQVXpSWndLcmdxVTNHRlJjV3NTYWN5VmhlVG5iODIzYnBIVWVjQm11elI5Z3JtNTRJTm9GUVNEeXhucjhaTEl5cXFoRGJXMkE3S2M4ajBLRjN4U2ZzYzhvTzBYdHFKOG1RSkROdzc4?oc=5",
+      "date": "2026-10-26T02:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "आईआईटी मंडी ने विकसित किया देश का सबसे बड़ा लैंडस्लाइड अर्ली वार्निंग सिस्टम - DD News",
+      "source": "DD News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUVvejRKQno5V05IeVhWQ3ZPV2MxQU9nRE5LX0RKRFJDc3c3R1VXZXVkWGZJUmF1cEFtWmN5QlNzOGJqTl9EM3didElQQWdEUUFTTVV5bW0zdmd6NVpCcnpOSjZERW1CR29JdmNMVlRVMmxiSTdOY2NEaXlRMHBwenFnUDJEUzZ0aHRBMVJuS1NLRGtHdUNHeVZtV2xhTDQ?oc=5",
+      "date": "2026-10-24T18:12:30.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "आईआईटी मंडी ने खोजी नई तकनीक: पुलों और सुरंगों की निगरानी आसान करेगा ड्रोन, आठ महीने में पूरा हुआ शोध - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdE1vR19VU3pIMVZKQVlkQl9QeGx3QUhnbDRWMmUwMEF5cGxVVGJoQy1QS082WXBJMWZWWHZHSWFZNzhJMElNcHdlNDNkSDdfUksyZlBYN0t0WmNuTDV0bndtNEdPdV8wWWhmcHJZSjJiZ1dzTkh2eElUb2Fad2V1TUNtQlJUdDBIMGFnTF9sTGR6TXNIak9hQ1RLTnhwMFF5bVJTR2FJemVCMkx3NjVfbm5FMFc1aGVua3pjaTl1b2xQanRrblYyYWJBSG1zUVgyM0YyTmFnSdIB3AFBVV95cUxPdWUzUFpfZ21HNjdOM2NydGtKOExZcVZWck9VeTJ3OXktU0VBYU5MNjFnTVQzR2xqX0Izc0lXX20wYVJIaUZlYS04LWp4aE9uQmpRLXUxM1pjQnhSejBuRXB1MGk1SEtvZUd0Vk5iY2lleHdvS1ZzekgtZ1NKZ2tLU3pvMzdHOEpDSG51WjRGb19pU2NLMzNzelVraC1BdUpLelVmVjREOG5WbXo4UG5ZUFVVY3hHSHpndVFyUjNHY1p1T3d0OHc2azdaTFFBakpsY1V5Rk1yZ3JpOFBD?oc=5",
+      "date": "2026-10-24T00:30:03.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "सरकारी नौकरी का घटा क्रेज! जॉब सीकर नहीं जॉब क्रिएटर बन रहे भारत के युवा - ABP News",
+      "source": "ABP News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObjNSVkRRMGtERF9ocHVXZFlMY3dZWHEyZ092ZWhTZzBqX0cyek5nU0NvanZOZ1dRWnlsM283MmZNU3RVeGNhSGFlSC0zWERJMEU5YktWT1BxQ0ZfZW9iU0tESi1PaUNEMTNIMFNxUXI3SFB2R3k1bGJDWU9UQUs2Xzk0bmF3ZmNtQU5iaFpoSjJyTWZJOWlnTnpaMmNMeFB2Ny1PU3F2RFJTMkdGTUdmSVdfdzd0bnRPRFdPVzRLREFrT2lxWDdRYUFmYXdZN2h5OU1wT3doNVZ2b216b0haajRsdUduNEFOTmhEZU9yODRGd9IB9wFBVV95cUxQZXI4cldJZ3ItTXhLR0tES1BRanMtZm1pLTJtMGZ3VmFuR0xKN2VHQWR6andXM1hCYXp0RHFXZTJ5RDVnSF9LSU0wTk5FWGpjcGMwNDBVb1hxYzN2aWktMktQbmZyWUxIQTgxaUNiRGY3VVYwVEM5a1o4OUVBUXFmN1ZzV0x1cVgwdDNmbUVKYlpGM0o0UmVhVVF3azFnem0yMlR4NkhYdzNkbG1Ydkw1aGJ2dnVMOE9MY0RSWkVwZFNWWjFuNHhSaTl0MlJfM1diSlFibTI4bXFPeC1HeVRILWotMjBOLU1rUldEaTl1Vlo4VWNHMzBZ?oc=5",
+      "date": "2026-10-23T12:28:53.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "One in five Indian college students has started a business: IIT survey - The Federal",
+      "source": "The Federal",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUQtdWVuRktIVG1UWVlwR3NoM3dsMUJfNzNSWmtscFZOLXJ1TU5PNktHSDlxQWY0VkVlZTRKM1A3U1FpVE9EN1pZMzJOLV9OOGFxN2J2OXNyNGQ4SlhmRXlPZkFjSlptNkVMUk1pbUtpTUFTUmZBdThpYlJqN1Bsa1Z5MEJiT09Bc1FpejhzTWptVDRGX25oS0tseDduSy1TM1E?oc=5",
+      "date": "2026-10-23T10:18:32.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi, Missouri S&T offer Dual PhD Programme: Applications open until October 30 - EdexLive",
+      "source": "EdexLive",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQUptWllwNndpZnFJZ1g1ZnlDRVhic0ZIbTBVNngwLXBMekZwVE9vSjZnUDRTUllUS3BvVUZkYzgySWY3VVltc1BNM3R2UXZUdnpGT19fTGlUQ01rMTlrWkxEUTlRMzBfaHZuQTVIc0J6MGlNd09TcEhvaVhpNHFUaURwYm9ZWkxLRDlDWTZTWUfSAZ4BQVVfeXFMTnh6WHdGSXA3cXZHaFhFQ2tsd3lPaGpOVnlkdlAzenFhcUo4VDdQal9RY1YtLWNUTUNPNmpyeUV4Tm1NLVgtNlNXVS14NWpzN2dFcmZ3SXVUTWd1ZGJrM2V3UzNyMVZ5YlAydjBlOGVySmZETk1LSDZXaF9LT1NuRWFjZnFBQks0XzZOSHpZNC10b2d1b0xKcjVSUVpvS0E?oc=5",
+      "date": "2026-10-23T07:10:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "IIT Mandi"
     },
     {
@@ -40,16 +180,6 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "22% of Indian college students have started businesses, 43% aspire to: Survey | 35.5% people reported generating regular sales | Inshorts - Inshorts",
-      "source": "Inshorts",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmdkTW1NbVV2NUY5NE9HcURrVzlyVkhkQVVBQktuY0I3d3p2SXkxZTlOYkExU1dscmlvQ0ZNREhMRHRQTzFEeERkaDVqYWFLVDVIRWVNSjVBU3JWeDZxVldIRGFNaWIxZWxzZEJIaTdrSEkxSFItV1dsdzkyRlBSTFF2TktDb2dEd1N6N2R5MnZhQkdUUEtvWEZrR1ZtakJhSDZUUjd5bXlOZGtjOVhNM0xEZVlmc1hlVkRYV9IBwgFBVV95cUxQVDkxUWJsVDZFTXJwUDV2Q25zcmFUYy1ZUXdqbEl0Ri1UY3poT1FpWkFpeXQxbDlqTVBSeW9UbTZZTEdfN2s5SEh3eHBXN3hQUWdZdk1Ob0tFQjV6cFZBTG56bjIzOXh3VkRJODB6V3dfSTdUU2g2SE9WeGNIUVMxVUdvVDd0ZF9ZbnBfampsSU5GRmptVVNWVTZpdGhnTlR1Qi1XckNBV3Qyd25SRUlidWhlMlM4bVlBa2Z2OHVBZ2xvUQ?oc=5",
-      "date": "2026-10-22T09:37:12.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "Nearly 22 Percent Of College Students In India Launched Own Business, 43 Percent Aspire To Be Entrepreneurs: IIT Mandi Report - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-en",
@@ -57,16 +187,6 @@
       "date": "2026-10-22T08:30:13.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "हर पांच में एक कॉलेज छात्र ने शुरू किया कारोबार, IIT मंडी के GUESSS सर्वे में खुलासा - AajTak",
-      "source": "AajTak",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0dPRTNtdHczQlpEemUya3kyUmFvZnhpdnF2b0w2MklJQ2ZPTk1rZjR3QkFFdklRRFR3bFFSbUNldDU5cTNmay1HSFVCdVh6VEVDQjlWcG50ajFjWHctM3UwTXZ3elVfOGRZOWN4OFV5bkU1Q29MR283Tm5VSVNIRDJTX1JTZGtXaWxDbDlXRG53Ylc3M0tDWmFhdmp4cmdBREcxa1FCZEZQcm5TVDlPQ1hYZHY3S19BbFJvZ2N5aXpoeUHSAcgBQVVfeXFMTzdDMl93MGsyM2kxWHFoXzBQNmRrbnIwZGJJMnRfQld1RDZzaTFvOUJsRGFPdXAtYzJYc0tITUwwcG1FLTBMQVBFSDBZNFFWeC1mSkpLRnpITVdJckFXTzN6YU9LdkE5RmlzUTUzYnROMHJQUkhtSkYwUXpSS20yNFlFWklpMVNuQjNJQm11SGhkZFd6MEVEQ1JhelhUV0RsNVc0aDcxak52eXlZZEJGS0Zoek13WGdQZkMwUXpSckhZS3VCUkFrZ18?oc=5",
-      "date": "2026-10-22T07:53:43.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "IIT Mandi"
     },
     {
@@ -80,36 +200,6 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "More than 20% Indian college students have already started a business, on par with the world: IIT Mandi's GUESSS India 2025 report - India Education Diary",
-      "source": "India Education Diary",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSXpzR083WDBld2J2MXdDSWV0UnVMZThVM0g1Qkw2aUZ2UGczeGJBM1BxUnBrUXAzejJGMXVTcGJUMGdoMTc1QmtScVgyb2VJVkdMUGNReDRMV2d6Z09sVVZXeU9OdG9Tcmh5Yy1CRjJBNkdQaFZ3SThvQTJ3cGFMSjZoRzhOQ3ZkNUJpaHcxRnV2aDRaMmo5R2h2bTV0Mk9Gc3hDU0tDcWZ3Tk1GQ01MaDRHUWF6OVBpWUNVWlpqeW90NF90X1pCZGlHWkNrb0hOdjJGZGZWck5QcjdwRmpQN2dhcks0NnktYmVmLVRzRQ?oc=5",
-      "date": "2026-10-22T06:25:38.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "Over 20 pc Indian college students have started business: IIT Mandi's GUESSS India 2025 report - People Matters - HR News",
-      "source": "People Matters - HR News",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMVZIZC1hekE1dEtYMFJ4eVlCMFl0NUVUdzRhaWNWOFFkTlNPWF9lSmFYTW9rTHJ3OXJGOGhVY04wTWtBV3dobGJVcF9xeGphWkc4SDIzODVxbnpiSFI3ZE5CcUlXWjdqUjVLQmU1V3hjNTlQQUQ5RlhLcjlSTWVjMTVlZVd1Q2pWVThyMlc3cGdlM0lCNlpqeTBNbjFkUUdnQkRvSXBHNVJVd09xNWhjWFg1blNPcC1YNGNHSmRSUUpRYzdZNW96VU9nNWhLQjJmdnozMkhWVENTdVg0ZGc?oc=5",
-      "date": "2026-10-22T03:02:09.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "हर पांच में से एक भारतीय कॉलेज स्टूडेंट ने शुरू किया बिज़नेस, सरकारी या बड़ी कंपनी में नौकरी का क्रेज घटा: रिपोर्ट - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYjU3TUVraHpzdlE0TVVNclNKMkh3SjFoRFBiVHRSUXZoeFpSOGd3YWRZenI4VkJ5RjVRQUhUemZRZDVhUkdfTFpORjZHUUFyOC1wUzFKS2l2VUZfdi1Ba1U3bDFqMDJWazBmZ3ZRY2p2b1pFRkx2N21oTEJlOFVWTnFtZmZwNDVYRnQ0RDZJVFVvcTQ0UlBkMVZzcWk2cHVkWk1QeFRDclRlZFhvWXU3OHpESnlRblE2ZGRrUk43a3JUaGFJaXRKdmdJc1V6SUVLZUdacUlTd0ltZ9IB3wFBVV95cUxPNEtONUJlM2YwUUJTRlFDaUtoQXVLdkhMRU8yclBEckJEV3pFRmUwZ05xR0xsa3NEUnFJbWJYSE5fSHFXTnpKX08tNTNXam1xbHBCN3gwSVNXVTVrRGt4dzBPSkdPbkRFRTkwbkJ0N201QUJCTnlEaUxvSERkVVVVUm4wTmhxQVprVDdSLTY4RmNmUTJ4LWtEVGc4VG0yY0JNNlJrbEV5RFRyM1dkYU5IakFyYWRVdVZDbDBGZ1FKbWN2TDBJX2RWdmZ2QWxhYVBjY3pCVkd0SkQ3Ym9ScjVv?oc=5",
-      "date": "2026-10-22T02:26:36.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "Story Opportunity |More Than 20% Indian College Students Have Already Started A Business, On Par With The World: IIT Mandi’s GUESSS India 2025 Report. - TRIPURA STAR NEWS",
       "source": "TRIPURA STAR NEWS",
       "source_id": "google-news-en",
@@ -117,96 +207,6 @@
       "date": "2026-10-21T15:44:21.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "भारतीय कॉलेजों के 20 प्रतिशत से अधिक विद्यार्थी शुरू कर चुके हैं अपना कारोबार: आईआईटी मंडी सर्वेक्षण - ThePrint Hindi",
-      "source": "ThePrint Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1RZVFA2aDFGTEh3T1J3Y1NTVnpXRms5NDBaQWlZZHFjbFY5aEVfNHpHVUtqNU14NmxwaEtjWHZ6cWZQQVF0a3JINmtZdWNJbGRaLWxtYXRrLWxpZkZUQXNxTHU3T25QSW9XTC1JSTBjVENmOXZvYktsZVdkTmdVZmNaYlNKaEJ2d0pNdmFMeGhGREpVSWRkcW5FX0kzWGotZWlMb2VOTUhkNWtibm1ZNVNaeDFEbWN0VEVpR2tCM3dwY2xhYXNXRnVn0gHKAUFVX3lxTE5nVFlUUDZoMUZMSHdPUndjU1NWeldGazk0MFpBaVlkcWNsVjloRV80ekdVS2o1TXg2bHBoS2NYdnpxZlBBUXRrckg2a1l1Y0lsZFotbG1hdGstbGlmRlRBc3FMdTdPblBJb1dMLUlJMGNUQ2Y5dm9iS2xlV2ROZ1VmY1piU0poQnZ3Sk12YUx4aEZESlVJZGRxbkVfSTNYai1laUxvZU5NSGQ1a2JubVk1U1p4MURtY3RURWlHa0Izd3BjbGFhc1dGdWc?oc=5",
-      "date": "2026-10-21T15:03:49.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "Over 20 pc Indian college students have started business: IIT Mandi’s GUESSS India 2025 report - ThePrint",
-      "source": "ThePrint",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnZNRDl5bnRXUEtNUjZ6cDlVN2pzTEdGd0pKTUllSDBieEtZZTJSeEhHSEF5MF9OUGF2NGxDNWdDSmw4MENaWGV3bzJ2alFuSGhUcF93UE5uN2phMUxCR3Zrc3o0SmpFaVBVeDVlVy1QZjlHdjlXSmRkQ1JEWDhnR1dqa2NLSUxPS2pWb0pyWTFFZTVFaERKTERHMDhmZjhxOG4zTVFXeHdZZkdXVUZ4dG9kQkhZeUpiM3dBZVRvR2ZhbXBoX1HSAcsBQVVfeXFMTzVnemszS2hjYzV4Sm5ERGkwQi1IWkZJU2JtWDViTEIzOE91bjZUTlpQRTJlY0d0OTB5V3g2Z1NGVVlWRHdfX1ItNjBfa3R5cGxwb0VtVEEtQUNlWVNUdDhJY1hEdHRVX3ZPUVNwWk9idXpaeXotbWttUHZmVkxfX0E2ZXpXOG9Ya1JIa1Z0M3NkbUVMVEY1aXJlamxucngwRVVRTUNuLUZNRWhyUUREckFoMnpnYVBQaW5yN283U2VkUjhWWEVfZTl4cEE?oc=5",
-      "date": "2026-10-21T14:50:26.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "Over 20% Indian college students already started business: IIT Mandi survey - The Economic Times",
-      "source": "The Economic Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNHRNQUtPOWJnUU5yY0dJNGpONDhhY3Q3cWtPOUg5SkdzRmk5LWlMSXFXVy1NY21NeHRwSlA2cGZBSzhmcE9fT0ZJbnZ1QmU0X0d4UXExbl8xWkRCbUg2cnhPbk9nNTRQNmJLbVJSUHg2ODRKX0lYZEhTeEl4U2tXZjExMnF6WDNjcy1Jc1c3d1Eya1kwNVVvLWM2cG9IWk90dnZ2VlAyUnpwbmpTOGh0MGxsbHFRQVJheWgwOGlmWUkxWmpXTzBUaVZRSVRhbFQtbUJUYlQ3UHBsRmM2TlI5c2FNZGphOHlDNF9R0gHwAUFVX3lxTFBXOHNQZGRPdWxWZ2huaVV3WEV3bkxfX3RYdmU3MUFreldTNlYwXzhKWXhtTkxYV3hJOHNwMHNvaEtBMnVicDQxQVJ6Q0doRlRwXy1nQXBzb01LTXFVczc4SFVOaG56MTE5bnBLUnVQNlZiNWNpdnBObzdMaU1oVEJuNUJZeEV2UHFpSlA2REtjVUs4ZkFFdnVXWDlXMnA4X01EWWlkRUFYRVAyVjZERXpydHF5UHg3MW9NWkxRaEhwMi1wRk1RMmd3ZWtxRDhFUDhlZEwxWHVqVEp2MHU0OWhJcHpOZFlScGZmVFp3aU00OQ?oc=5",
-      "date": "2026-10-21T13:40:26.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "1 in 5 Indian college students already runs a business, IIT Mandi finds - India Today",
-      "source": "India Today",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSlhmMndHemdNQUZYM280ejRkdXo3ckxseTdfdVBOdnJGQklqcWM2SkJsZGg5WHFVUno2MEdXdkYtcXhfRXduZmp0V0l4THRPdVVlU1pXTjVvWDZEWS1YZnJ1Qm4ybmMwNDhoU2k0cEtUNDJOakVPTzM5QVJnSWZxalZnSm9nWnZkZURqQzF2UFZJbnJ2RFU2eHlBUWxzUUJ6UDRSX0M4VGtWajFrWGhOX3NJdkRkSTc3WEZrSU9tR09nTGRfZHI0WE16YU16YUZGOHVpVDE4aEdLTHdCTHdIWm1JaGZyOFpHV0HSAe8BQVVfeXFMUFgwdXBFZ3d1NHRySE5CZWYxX0VSendGeWtqdWlweVhtT3lkQXNXNTZzOXJhWUJ1OThvangzZWVtYkpoamNYTDBSQ2hZb1JiaFU3U2pGWncya21Sb29uX0tNc0Q1M0VOcE84cFRHN1FHd1VmQnNTaHNya1hRRUd0aUhXcTdjSUVuMFpfclN3MXJEMmR3Z1k3Z1MwZXVQb2tldFpzVHlQYjhrbWgxT0hzNTRlOEQ2R19SdFNCMVVMdXBWOXkyZ2hzWUloZUlMLUs1MjFmN2hWMURsNk5heFRFb25WM1dVM3VUYVNUZFZ1QWM?oc=5",
-      "date": "2026-10-21T13:11:51.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "One in 5 Indian college students is already an entrepreneur: IIT Mandi’s GUESSS India 2025 report - The Indian Express",
-      "source": "The Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkdEZnNISkhZcVRtVzFEYmtJM3FYdHg1MVotaEw0NDVuN2pzdy1jTVc5UXJBVVk4T0F0NzhpWVl6VEUzbFB3TnQzV3luR2JjMjU1cnVHYnRqWUVhSlotWkhyR25mdmgyRmt0NFUteDBBX09fck5VZDItYWtUajZqb1JZNnRNSHpYanRDemQyeG56MHRVbm9HVDdhWFJNQlZsNXZ2NmZnU1RXU0VORzNhZmZ6ZldnUXUwNHBfa9IBwwFBVV95cUxObGZROHh2Nk52RV9iZUpMQjk5N3FhN2ZTcjlCS3plRDRRZDg2Z05HcFg0N1ZIWm9KWFlZYWxWMUtNdmRfTFZHa2RkSnBFWDNCSWVDZnVyWkw3TVc5VmsxOXlLdmZsZFVBYVN3bjBsUlRKNE5fQlJxb095WFNWZkFBMGl5MEdBY0R0VkcxdUVSZjQ3cExGMnVyRzMzOVhaRGk1eUpfNWdJd01iZkNpQUoyN0o4a0xYZ3NWNm15dl9GLVFYbFk?oc=5",
-      "date": "2026-10-21T12:44:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "जॉब सीकर नहीं, क्रिएटर बन रहा देश का युवा; IIT मंडी की रिपोर्ट- 20 से अधिक छात्रों का नौकरी के बजाय स्टार्टअप पर जोर - iit mandi report indian youth embrace entrepreneurship not jobs - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjFOdmcxWE85TmlJVHBEWHptSl94ZFFxVkdCcHNIQzAyMUZhempGa09GaEFid051cEQ3eGlMeklBUGNQN0lLeUhMNkNJUlhzNDhOQVlpWExQdllMU2NDa2JSM2FlVGNsU1Jqa21HdzQtZ2tnV3B5LUpJdXVtUk8wZTF5MU5YNnhpLV9YZ1FfdXVJalFyVGNqYXVyek82cXh4OF9NcDVGZl9yY2xZNW5ROW1Kb3loZ1BWcGV1NFBlVlU?oc=5",
-      "date": "2026-10-21T12:22:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "चंडीगढ़ की ओशीन ने इंटर-IIT मीट में जीते 3 पदक: 50 मीटर फ्री-स्टाइल में स्वर्ण जीता; 100 मीटर में रजत-50 मीट... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmc2STlldGY2WG9uVGhuM3ppc1JOejBQeTYwLXpldnBaeFJXdm1pb0FSVzRIRHFQUWlGT0xRUk1SZ29UTWdVLWpYbnVpMVZXYkdzaXJsTEZkWDAwcHY3dWdkdmZqbmFOcnZsQnhXcmlUa2ZILWtya0N0ODFuTC1WcFJCQTNKdEZLdXYzaGxJTk5EaGoyUTBSR3VoSVZJRld2eHJlTUtiR3ZIcWp1eTZ4RVphUnNUd29pcXBRT2l4MG1tRjVkSEVzeXhFeFXSAdIBQVVfeXFMT05PQ2RjYXlBM1M1bmYydzN1MEVqbFV3cU5LdUxmdTNaTG5td1kxVTBXOHBxRW5yTExzby1MdWNaWVp3UXQ2SnpQOC1WUlJzaFRoVEtwMTNxTmdzNzVwYlJOOE1iMnRmUlBENHNrU0k5S2dwck1XV0FvOXlZZ3VEbGUxaGlhYmZ0cXJZSGVUdjY4WE9ja0t0QTFNLVNYaVdmUVNMU2x5eFZFLUFUd0IyTGYwTWhhSGtmUWcwZUJiSFV5emdCeU92NEtMY0lzQV82ejJn?oc=5",
-      "date": "2026-10-21T11:25:33.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "Three-day hackathon kicks off at IIT-Mandi with Rs 2.5 lakh prize pool - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnlpUzNNRVIzMW5Va1VveTR0ajh0MU4wMmhEYXZndWhUTDRHYnJqMnppYUVwVkJ2aXFfV3c3cUhhWXBqVkV5R19lQVdpazZoRkN3aEVDRTRDVWI4Rmt4eW5XbWxQcWIyQU5wYTh1cWY2RWs2Z1pRSWpmdXROaV91Q2NrWkhTcHgzSnk0Q3BBdFFzQ0p2cFJLRzU2LWNCWjFvblYyR1gxNDNseE9ibWR4VWZRdWvSAbgBQVVfeXFMTU90U2NJei1tOFItYnV2S1Frai0weGhvc2V1cnhKQUloeERZNFVGUWNMWV9GSFhLeEc1VlQxZDdKVlpxTWU2aEZrNm9DU1pCVzBNOV8xRGV3bEljbjVIWlg1MVkwcWpIUV9UWlk4clpxa0FCUWJiRWxaNUFoblRNQlcxaWtTamg2YUNIOEt5cllnSjFXYUZ6Qm1zR2c5dk95M3FfNW1mX2trWGhzVFFHQnhURXVwSWk3aw?oc=5",
-      "date": "2026-10-16T20:49:32.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "Mandi News: आईआईटी मंडी में एआईहैक शुरू, 200 प्रतिभागी खोजेंगे वित्तीय समस्याओं के समाधान - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZmljM3gxamQ4NUYyRVlPOXJrWXZxQnFuY3gwcTdvQ180VzZCcHY1UDFTWWpza1ZTbWNoZ1d4YTQ2a0JucWNfUnJfQVdESzBscjY3SV9GYjNoSmFWYk5MX0gxUjdJbFJRVXdvYmgyN3ZvQ0VUa0hYZHh5NS00b1dYa29paDhDcmdZaGZBaE9VMEZ1dmtldkNpamczNVpQS0hiVWhUaFhlVnRuVkxJUkY3Q3JyR0xyTVdpaWg0eEo2YTVBZHdtS3QtQVdmdkViQWJrRXpoc09MUzQtZUpzZUhHN3RGdmR0ZE05SG1xWkRqNTRwMXNoeFZrM3VfWlVna2xKX3ZpZmpoMW96Z9IBjwJBVV95cUxNWHBndFNlUEpIa0NucGMxZldVQlg2TzJpbzlVOEZoWmx1QUQ2ZFZyNC1tQVQtd0ZYVHRsREIxaUxOM1pxZlRHMEV2eUUyaUhXT2RZTEt4R3VYWkNocVQ0b3RjXzBRZGlqUktsYVV1YmNiNkNaUzlSTFU4aklxWTg0eTd5NVVVV0huQ0xQczdDcnF2RDNpMlo0ZmZfYUJWV3ZxRXFtZU8yQWRhN2dQOHFFR3RlNU10Z3BmTEs0ZXBSNk80U0hLd0lUVG9fOExNNXFFM3I0VklzWmFVQmtsNjd2V3RTMUw5TlQzcjhDOWZxa0RMcDFNX2w2alBvWDZuWm85QllwczFNNVF4UU1HcXJV?oc=5",
-      "date": "2026-10-16T19:30:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "IIT Mandi"
     }
   ],

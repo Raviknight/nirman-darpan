@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-22T22:04:32.030Z",
+  "updated_at": "2026-10-26T22:58:56.063Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
     "n": 19,
-    "positive": 9,
-    "neutral": 5,
+    "positive": 8,
+    "neutral": 6,
     "concern": 5,
-    "avg_score": 0.037,
-    "avg_magnitude": 0.342
+    "avg_score": 0.016,
+    "avg_magnitude": 0.3
   },
   "youtube": {
     "n": 2,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 21,
-    "positive": 9,
-    "neutral": 7,
+    "positive": 8,
+    "neutral": 8,
     "concern": 5,
-    "avg_score": 0.029,
-    "avg_magnitude": 0.362
+    "avg_score": 0.01,
+    "avg_magnitude": 0.324
   },
   "top_positive": [
     {
@@ -34,14 +34,14 @@
     },
     {
       "source": "press",
-      "title": "पिंजौर-नालागढ़ हाईवे पर फाटक के पास लग रहा जाम - Dainik Bhaskar",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnpDUXAxVEFSTTZyaUlIRVV3RmFnbE5FemVtbW5NQ29uQ1pUZXZPVkNIbEU4Y19FUnZzVHRoVlhCWGE2REVGVnRwcHR6YWFzSktXNzdSRk1uTVE5WXJTSWo4bVFiQ2M2YjVEYlh6Q3ZBclVDSUo0ekZyRGtGOXdQV0wta0QydkVDU2pEcUVGWlZYZGpHaHBNUFBCNDV5YmUzSVhhTUFhYVR5cmlwRy13M2dMRE1NZXZneDVTTkFB0gHDAUFVX3lxTE1ickpFRElfNVVTbTltRG1xXzA1TThsbkU0cV9SSzlVakU0ZGs4UkhRNDVUaV9oa09FS2xoMWZjdjVZM2JGbUMwN05yZHZBLTFRUHkyU0dMSE4wLTNLVkZZaFZYd2ZIRUJPb2g2SXJNS3ZFS0pheThuLUdaZzNhYXh0S3BZSDkybktqUVVRYlBmSGZSVHJzTTlFOWJEVGdCbTMxenNqVjQ5c21XeGpiMnc3cDlZb2Z4TjRZZVZfRW1GWHNXYw?oc=5",
+      "title": "पिंजौर-नालागढ़ हाईवे के फाटक पर तीन दिन तक सुबह 10 से लेकर शाम 6 बजे तक बंद रहेगा ट्रैफिक - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZ0pyTVFCSEdUdHlrZ2V5TGlac1A4TUxnemszcWZnd1dsZFFUelFNeEtIZS1EUElSR2ExOFp2NGxaN083R01fM21NMjVzZ3MyMW9OUjVNbTBad2pDd252Z09jVmtYR0NUYkxMckdOR2k3QWJtX25HdnNpTkk0OGlGUDI5YWtxdWZOYUdsU0IzbUtXNFdpUmdhZzhIamNEamNJeXNwN0VOdTJOZFFCcXl1X1NmMGx0TXgxcjhpdGNFLWstUlZFQ3JfNlUwMnZHbTNlZVR2X0trQ3g0eXNXV0pyQy1ldGNWV01XRmNxM1pjSWdBQnFMY2lyR2liVURUTTdMSjBzeERGMNIBjAJBVV95cUxNQ1FPMU9XTk9nR0s1SlJWQnZTUmR5Y0pWZjJRRjJWdlp3MlNtblZXUUw5UGRWdGNDbDkwbXpneDFRUzlLWGtWZUVlQ0hoODRPWHI5TFNrWlh5dThBWUJidmthbWdCbjFMY29keER1OXFuazJqS3duVHdOUUowNG5sNHZGSlBzcER2S09OeUtSVGw2MlM4bXg0NWNhQ2FMWXpNd0VjNzNQc1NFRzJaN3duaWtPQVI4RU1wTF9LV0VWZUgwQmhrWTVGLU5xeW1GeUo4UWFJMWdkd3h4QlhQS055dzNwRHhSX1BDSU9QcEpqRGhFUkxrYlJHN2dpcll4MXpmemxJNXUtdldPZGxa?oc=5",
       "score": 0.4
     },
     {
       "source": "press",
-      "title": "Pinjore Nalagarh Four Lane: 25 मिनट में तय होगा 90 मिनट का सफर, 30 माह में पूरा होगा निर्माण कार्य - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT201dUxfeGM0SG5ZWVIxVXZrNkNtTG80bFZfdGVqVGV1cXdYRFNINEc0OWhVaHpFMEt6QWdkSnM4dXRiQlAyMXVrTUJQWWFxODQtT1htNlo2eVJhNmZZNE5Hb2tGckZqcVJ2S1pLT25qSjNnZEJvUGYxeVpxVHZGM2M3VWNkc0ZpelBCT1ZOeXFORnF6Um5sVmxDZTdGNkxQc2JWZHEtTGJrNlJqa0EzS295T3dvSXg3TmFLaWhPNE9WdThqQVExUUFOR2Y5WmQ3NVBjanBOMVJLZkFQ?oc=5",
+      "title": "पिंजौर-नालागढ़ हाईवे पर फाटक के पास लग रहा जाम - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnpDUXAxVEFSTTZyaUlIRVV3RmFnbE5FemVtbW5NQ29uQ1pUZXZPVkNIbEU4Y19FUnZzVHRoVlhCWGE2REVGVnRwcHR6YWFzSktXNzdSRk1uTVE5WXJTSWo4bVFiQ2M2YjVEYlh6Q3ZBclVDSUo0ekZyRGtGOXdQV0wta0QydkVDU2pEcUVGWlZYZGpHaHBNUFBCNDV5YmUzSVhhTUFhYVR5cmlwRy13M2dMRE1NZXZneDVTTkFB0gHDAUFVX3lxTE1ickpFRElfNVVTbTltRG1xXzA1TThsbkU0cV9SSzlVakU0ZGs4UkhRNDVUaV9oa09FS2xoMWZjdjVZM2JGbUMwN05yZHZBLTFRUHkyU0dMSE4wLTNLVkZZaFZYd2ZIRUJPb2g2SXJNS3ZFS0pheThuLUdaZzNhYXh0S3BZSDkybktqUVVRYlBmSGZSVHJzTTlFOWJEVGdCbTMxenNqVjQ5c21XeGpiMnc3cDlZb2Z4TjRZZVZfRW1GWHNXYw?oc=5",
       "score": 0.4
     }
   ],

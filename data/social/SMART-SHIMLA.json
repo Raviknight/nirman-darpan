@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-10-22T22:01:03.008Z",
+  "updated_at": "2026-10-26T22:57:06.701Z",
   "project_id": "SMART-SHIMLA",
   "counts": {
-    "press": 49,
+    "press": 53,
     "gov": 0,
-    "en": 26,
-    "hi": 23,
-    "total": 49
+    "en": 27,
+    "hi": 26,
+    "total": 53
   },
   "mentions": [
     {
-      "title": "Shimla News: छोटा शिमला स्कूल में बाल विज्ञान कांग्रेस का आगाज - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "From Rivoli To The Ridge, Funicular Trolley To Add Zing To Your Shimla Trip - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU0tBcEtOOGNpZ2k0VkQ3SGhTcHZxUVcxakVGOXRUMkJPNzFZbXR0SlBJMkdDVVg0Skk4RmM1UTJ4Y2NZQjEwdnlRazVhV3UtMXZqclo0Y0ZrdEJlNXF2bnFuai1CMFBQaXhlNzZOVl85TE5KdDRNc2ZKQkRkZW8zS2N2RnV4b2wzQkoyWjVLQ0wwZ1dZS1kydVpocUJFSWtRaFRibGMtc1hKRmNzT0RCdFI5TDYzeDhUVUxvVEJRNVVyUzc3OTR2OEVuMGhYNGZOSXEwbjJMRk5od9IB3wFBVV95cUxQZ3phZjBFRm5haWxocDFScTJtZTRQamtkNnNyM1ZpbE5kVlhsSDdScFpISk90V3FOdWVHcmlPQWVxc2JDRUNscm5nUVJYNzdma1hHQkVqb1lUT01DOFJYZUY3Nl9yTnNfRHJLekhwaER0aWtRVEtxaHc1azVzT012czFkVzIza25zRHhpdjlkbDFSUnFZNC1ZcFBCZ19Dc3FRV2NFa1p1dnZnU0VZUW15NlZ3cURSZGxJRU5SZmgxZnZNUGtpNzhvYldiNk9HNWdoTXVZUmZtaUFCdXRLNkFF?oc=5",
+      "date": "2026-10-25T10:08:16.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Smart City Mission"
+    },
+    {
+      "title": "शिमला में अब नहीं चढ़नी पड़ेगी चढ़ाई, पहाड़ों में ट्रैक पर चलेगी 'फ्यूनिकुलर ट्रेन', सीधे पहुंचाएगी रिज मैदान - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTVNpamJ5azlRQlUwMExUc0J0bXRoLWYybVZzUk93bV9NZWM3aFVvN0VMVGZtdjFwajFsNGpMOWVVNW4xUHlsTWU3OVpNSG9kOVJ3b1ZPOWpta01hWVJQQUZ1a1ZycTR0M1MtaVRjSEdhbVowT3RXTVdVT3hNelNkN0RkbTM1RmQ3dmNlb2x6Mm9IMkpyZkxsSU9yQzg1Si00WW0waWRLNjhHZno3RVpqYWpCSXJVcjdBTm53a3duVjdFc213eVYxWWJURXXSAdIBQVVfeXFMT2xiMXNuVjMyLUJzZEowbTdKXzZmQWFGaVlPMUk2VE9zSnkyWHRRRWNSeDdvNXd3Z2hYMVFYNEJvaEc1ZHZCMlk2VHZDc2sxd2wxWVZHVnBNNmhXQzBGcVpPUUVtRE4tcUw0cndzRUJnb0dtSTQwaXhOUUo4YWJzOHJNUTlyQjRDQzF6YTJ3TVpvVVN6QkxhNUVOYWJsVVRfZjh4RUw3QWhNbmlDSGlrQy1fQ01jMEdiNTBzYkNITUxmeEhEV1hwaWdJcThLN0RjRWpB?oc=5",
-      "date": "2026-10-16T18:29:02.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmxHdVBBY21Lb2xYTndKazFKSjliaE9ZOFZtMU1tX3FOWm8yeVd3TjhJOTJwZkdRWkJIcTRZTlZUU3NRMGZwNDVBX0RkZm5qVC1zeHVWNWxrUzZ5RGxITDVsZ1NfRUlBckxZUzdnS09Wb0VRU2dqdkRZckFpTnNBakp3UHhZeUFoVGZPcTZ4TWV5WUFCYlBHMlZfQnh5STh3VWNKRF8xeGcyVWEzUnBaNdIBsAFBVV95cUxONmxHdVBBY21Lb2xYTndKazFKSjliaE9ZOFZtMU1tX3FOWm8yeVd3TjhJOTJwZkdRWkJIcTRZTlZUU3NRMGZwNDVBX0RkZm5qVC1zeHVWNWxrUzZ5RGxITDVsZ1NfRUlBckxZUzdnS09Wb0VRU2dqdkRZckFpTnNBakp3UHhZeUFoVGZPcTZ4TWV5WUFCYlBHMlZfQnh5STh3VWNKRF8xeGcyVWEzUnBaNQ?oc=5",
+      "date": "2026-10-25T04:45:49.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Shimla SCL"
+      "match": "Shimla Smart City project"
     },
     {
       "title": "शिमला: गेयटी थियेटर में जेसीबी न्यू शिमला स्कूल का वार्षिक समारोह शुरू, मेधावी विद्यार्थियों को किया जा रहा सम्मानित - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMU53MXhjdGZMZUJlcDFSNHRSUWZJWHB1bTd0UkUyRTZhMHFRejMtUWxPRUdyMy1mbG5QRjdfYXNsc1FacThLSXFtdTV6ZERVSnFMWHFEVmxlUHNGWlFKdTlEczRGZVd0YWVRWFNXN1UtVGI1V3N2dVF6TWkxY1Jnekpmb0RUS211dk9xT0dnaTdmajhHQnlzbmhxakZlX3N0Nk5vNm16YkxJakFHMUVEUNIBtgFBVV95cUxNUEhxUVo0WjlZdGllb3h6dGZocVBvdzRvd2JJR0RsNkZuQ3NYZm0wQ01GM242V3RJc0ZyNFEtN1lUNngzUXlwTkhFSFFwVE1OQjdITGY0MFAzVUxsUWptRVA2OXdHTWZBaVB0SXljUE1SRUo2anZuN0JCS1dGYnNsVUt6NzY4cGVITXVmcjlSbGpCZVBodjk4N2JiVkh4Yzl2Z0JoaU9rN2pnSXNuaVkzT2Q2eGhvdw?oc=5",
-      "date": "2026-10-11T06:34:29.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla SCL"
-    },
-    {
-      "title": "शिमला: गेयटी थियेटर में बच्चों ने दिखाई कहानी कहने की कला, छोटा शिमला स्कूल के 40 विद्यार्थियों ने लिया हिस्सा - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXp1Znh0Z2p6SG5jLVlwZnRRUHZ0MkJ1Q3lNS3NqQm9WTjFQRVc4ZlBOMEF3V0VpcEtreXRBZGo2TEpZNnpoTHJpOEI0Q1NVcjktUEdJbll6U3RkaE9FTjI1R2dxdkpucHY2V0dUVjhrd2QzdWgySE96RTVPQjNLT1Vvd3lCejBpakF4OTZ1bTRqMzNJZnJHN3hPVjFsd1lhRU8xNW1lWXU4T1pIbklUNXpuMFdnR03SAbwBQVVfeXFMTW40c3RTbUpFdXNLdnRkWUZvem10TXBCRFhKS0RiQnNGaDB4OTI0NkpzVXJzWGJkR0pYWWpwU2drX3Q3Z0VHclFfdXdBbzJ2aTI0RUhjNlZDeE5IQlhZWi1lU0VEU3d0NDB6WXY1eTY0UUpUQjBIMG12bnR1b1hnajNuSnAzRjlraG5hZDdSdnYxVjVXUlowV3ZJMGd5Q3UwV3ZYT0t1NjZWS3F2SlJNT3NLbXFEZXI1OHB1cHQ?oc=5",
-      "date": "2026-09-24T07:00:00.000Z",
+      "date": "2026-10-11T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"
@@ -170,14 +170,14 @@
       "match": "Shimla Smart City Mission"
     },
     {
-      "title": "High court seeks report from chief secretary on steps to unclog Shimla traffic - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQelFXT3FwdmJaTFBpRVZBVVdFckpDSnVqT05JUkV5MGRXTVhiUVA5UEJPZWlEclpGendlc2RyREFiM2N5TUg2LWVobTE3TDY2S2ZPMGdhVlR4Rmh3WE5WZXpTUW1ZT2MyREw0R29nMVg0cUtTalFOVXFINXFVdkFweG5ZT2RwXzZrbmNudjZteUJYajh5SXl2bzNwVHB0Y2owMmFMNE84OFVIc21HZlZUMlBFY1E1RXlwZGpxYXdyWkNPRXJGbV9XQ2FZMDQwR3FHSlNXV2t4RDBlU1BLN2xF0gHkAUFVX3lxTFBTT3poaldUSGp3VWJXV1ByUVVCeWQ0djN2MGVqZVhHVUs5ZGdMejRfb0M3cGc3R1JOaG1Mb3Fkd1hBdDZ1dEMwWW9venhwSU5QMDBteDRfUXNqMENTQ3N1eFBsd0NYaHhlcU9TWTVpVjdoQlhCRUNtbFlwWURWcmFQVGVOTWFJVWJ1LVN2ZVlpOTR1ZWlNbXU1UlBmZllHU3dfcVdtcWh6MnBQYWFoQ1FwYU9uT2hYZUo1dVRuNTQxOXFyQmM2Mnp6UHh0Wk53T3hSb1RoU2h6WTRhMzZBbWNhRlhRSA?oc=5",
-      "date": "2025-12-21T08:00:00.000Z",
+      "title": "School Bomb Threat : शिमला के स्कूलों को बम से उड़ाने की धमकी, छात्रों को तुरंत निकाला गया बाहर - Dainik Tribune",
+      "source": "Dainik Tribune",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTUdfS2FNdWxMT2xxZXhaaHk5eUhvQXBBZGdKS0F0WDdFUEJLZFlFMFpPQkt6cXpYVjRTS29GRzc1TlRjMG5WeG4tbmRpNmNmTjBBb3V5a2VpUDEzTGwwMG5FSHloMV8xVW9CVWxMamVFMGxNYVRMeUN2YlF2aW1lTDNhNXhnWUR2OHgzb2dkdkZaSXRGSUlGZWY0NS1jWVBnRkJvTTc5UzFkMUtsOUVXY3J4eUpHTU9RQTNLdHhDQWkxYkdqTlhFZDI5dEx2UDFEc1ZDbW1B0gHaAUFVX3lxTE9fMm5nQllRWmJKczNUc01vdkpNc0FMcHg5YlpBcHgwc193OWx3aWJncnJ1RG51NFpzR190UTVCc05KQVdOdW1icHo2T0gyVkhqTzQ5WVlOVzNmOXlZdHk5YlByT1JiaDJMT1BJRWNVY3FxdElvdi1oTFRNUUNDcl9XaWgxQnJXUGtwMnd5bFpUVmRlYjR4MkZGUzVzNGw4WWF2MU96V3l6QnVTZmNacDhjWEJUUVJ1UjFnRk1KRXplZ1JMdE14YXlaZVVZc3JtSzBJN2FfRmhDeC13?oc=5",
+      "date": "2026-05-04T07:00:00.000Z",
       "kind": "press",
-      "lang": "en",
-      "match": "Shimla Smart City project"
+      "lang": "hi",
+      "match": "Shimla SCL"
     },
     {
       "title": "10 Deputy Commissioners,19 IAS, and 6 HPAS officers reshuffled in Himachal Pradesh - HIMACHAL HEADLINES",

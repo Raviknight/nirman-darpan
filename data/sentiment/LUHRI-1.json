@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-22T22:03:56.043Z",
+  "updated_at": "2026-10-26T22:58:23.327Z",
   "project_id": "LUHRI-1",
   "press": {
-    "n": 13,
-    "positive": 2,
-    "neutral": 11,
+    "n": 15,
+    "positive": 3,
+    "neutral": 12,
     "concern": 0,
-    "avg_score": 0.062,
-    "avg_magnitude": 0.092
+    "avg_score": 0.073,
+    "avg_magnitude": 0.1
   },
   "youtube": {
-    "n": 6,
+    "n": 4,
     "positive": 3,
-    "neutral": 3,
+    "neutral": 1,
     "concern": 0,
-    "avg_score": 0.233,
-    "avg_magnitude": 0.267
+    "avg_score": 0.35,
+    "avg_magnitude": 0.4
   },
   "overall": {
     "n": 19,
-    "positive": 5,
-    "neutral": 14,
+    "positive": 6,
+    "neutral": 13,
     "concern": 0,
-    "avg_score": 0.116,
-    "avg_magnitude": 0.147
+    "avg_score": 0.132,
+    "avg_magnitude": 0.163
   },
   "top_positive": [
     {
@@ -46,7 +46,7 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Please tell me how and when the project layout was developed?!",
+      "title": "Is there any vacancy for Site Engineer?",
       "score": -0.1
     },
     {

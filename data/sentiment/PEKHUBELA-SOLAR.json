@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-22T22:04:40.304Z",
+  "updated_at": "2026-10-26T22:59:04.166Z",
   "project_id": "PEKHUBELA-SOLAR",
   "press": {
     "n": 16,
     "positive": 5,
     "neutral": 9,
     "concern": 2,
-    "avg_score": 0.056,
-    "avg_magnitude": 0.219
+    "avg_score": 0.069,
+    "avg_magnitude": 0.244
   },
   "youtube": {
-    "n": 5,
-    "positive": 5,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0.5,
-    "avg_magnitude": 0.5
+    "n": 7,
+    "positive": 4,
+    "neutral": 1,
+    "concern": 2,
+    "avg_score": 0.129,
+    "avg_magnitude": 0.386
   },
   "overall": {
-    "n": 21,
-    "positive": 10,
-    "neutral": 9,
-    "concern": 2,
-    "avg_score": 0.162,
-    "avg_magnitude": 0.286
+    "n": 23,
+    "positive": 9,
+    "neutral": 10,
+    "concern": 4,
+    "avg_score": 0.087,
+    "avg_magnitude": 0.287
   },
   "top_positive": [
     {
@@ -32,15 +32,16 @@
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "Thanks great content.",
-      "score": 0.9
-    },
-    {
       "source": "press",
       "title": "बीकानेर में बनेगा दुनिया का सबसे बड़ा सोलर पार्क, पीएम मोदी ने किया था जयपुर में शिलान्यास - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1p0RlhGV3B2V0xwSG9VemIzc0cyaXRTYmdPOFVmd2lLRzVmUUdkTGJ3VHFyenEyaGxqc2xqc3FZeEM1dmFvNmp3bG5rVlZWSWw2SHFKSldtQ2QwZTlXWmVhU3NxWEVwTlhlQVhhdUpMVVMzVktOa3lKMmNlMlZuQjBuUEZHS1BpY200M3AxWldfRktDZU9YeDVYMjNoQ1k5RVZSaVNXeWU4Zy1BeVdSVVhFd1RQaUFWeGZQQ2UtWExvSEYxeUczZUFCdmdCZ0d6N01B0gHYAUFVX3lxTE4tOXo2Q2VCcWhkR2JIcVA0alNSZTZGV2JuTldwRzAzNk1JZzdvVjQtTXN2QklhOVFDeWxjNkt4SmZYNUpFR25lNlAzZkhqTU0xdlFXSlRWeU8zeEl0emI1WGhSenZUeDZLWEIyZXRMV2NVZ18tTVR1QTRnVWlmYS10czFHbHRMby1YZ0hnZE1HT0xLNE9pVkdORHdBZlhrYXlxeWJVUGFRRVU2VV9EcGpZMlpOVzZrMnozbUkybG4tN0JlbWRmS096X3FDUXlHZDFxM2JBWnBNeA?oc=5",
       "score": 0.6
+    },
+    {
+      "source": "press",
+      "title": "4790 हेक्टेयर पर लगेंगे 2450 मेगावाट के तीन सोलर पार्क - Patrika News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVhTVURLMUdOaGFEVGFRdHlpa1lVZ2tpYTYtOHhienJOQzB0Q3M0emVzQURUWWlCOWRGb0staklicGRHTTQyNk1QWUlZR3BCUnIza3hBbmthS1lSQXA5YzF2YkY0QWk3dFZmWlFJSTRqOU8yaW9HZ00tbldURnBrQ1dhNFFNZVY3bmRNMGFIXzVSZmJEX3F5R3JxaGtNTzRaQkdVMi1RNmhyd9IBrwFBVV95cUxPeU9tU211MjY1VnlxUjQyUExMNW1aUGpBLTgzejlXenY5M0hXcnFQQlFJSzVMSzRCRG15alZSN1dnaWV3QnRBOFVDNXA1aExsWDNGY0tyMzU0bXQ2MVI1QS10SUFOMXhGU0ZweS1KMjRFT1dXSllWRGcxQmZJSEZyODhkaS1WRHpMNlZPdGhkUEVWc2tEN084TC1yQWlDLUgxcUhnZ1BPVEcyXy1fMXpR?oc=5",
+      "score": 0.5
     }
   ],
   "top_concern": [
@@ -57,10 +58,9 @@
       "score": -0.6
     },
     {
-      "source": "press",
-      "title": "32 MW Pekhubela Solar Project Goes Live, Boosts Himachal Pradesh’s Power Generation - The News Himachal",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekx6aVRZd0paY01RVUFRbldldUpLd2VLbFlLalQ4UjJCVk1hOWVrWVpmYTJwTXU4RFhlUkVOVWtPN0tIZlZSQldZR2hPQ3Y2ZU1IVW5XRk9PY3B2WXN4eWZZMTRwWktCYUN4M3V0VzYtTElHVXV4MW5YN2sxVWs1WDZCdFBOMDFmRHppaVVzVElaazJacFJuV05Gd3hfaGtaNlJtWThKajhzRjQ5TktlRXBFSXVHLXl0UGc?oc=5",
-      "score": 0
+      "source": "youtube",
+      "title": "Most corrupt and papu cm of himachal. MINNING and forest cutting are on peak.",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

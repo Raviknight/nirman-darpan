@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-22T22:03:18.891Z",
+  "updated_at": "2026-10-26T22:57:49.919Z",
   "project_id": "BHANUPLI-RAIL",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "grievance",
+      "severity": "low",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-26T22:57:49.919Z",
+      "title": "Villagers’ protest against railway line tunnel construction in Himachal Pradesh enters day 4 - ThePrint",
+      "summary": "Auto-detected from press: \"Villagers’ protest against railway line tunnel construction in Himachal Pradesh enters day 4 - ThePrint\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMGNQY3p3WTkzTk42YmRJVldsa0Raemd1b2pGMFk4bTZfMDFqcjlHT2RfOXZpbDgwWXlTT3g3dy05aU1UdFNHYlpTaU5mQ3BvTHBHZEotYzhGZ1VhQkFTb0FSS0JzODhVT296MEhTdG5rUnNKbGx5ejZfWGVGeHAwWWV4Z1ZlTDFfS3ZWdEwwa2s2RE9GSWxrdzdCTjlZaDlJX0oySnpLejdoLWJTMl9wekFhZVlOSjlKZG9zbDhKTGJ6RUQy0gHKAUFVX3lxTFB0RWRrN3ZSUVdicXhOdEE5LS1TV194V2UxcHhwaG1Da3gwQzRwY3hUQ2U3Vlplb0tUUk94aDZ5UnpfOHRQSk9aRGhsZWI2QnlQbTVVTGtTMmROb09aUVA0N3k0YXNuSlVOV2Zfanp5X0hYSTlpdjBxNUkxbTZrOUNkY0V0dzVsVWhJZjZYV1hwMG42QXhKSEJ6SFhTdVhwNDk1M3lwLWN0V1haTVlCakRXNGpOcWdZRnVIM3Y5Vy1JMUNtMzIzbDk5T1E?oc=5",
+      "source_name": "ThePrint",
+      "lang": "en",
+      "date": "2025-04-09T07:00:00.000Z",
+      "matched_term": "protest"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

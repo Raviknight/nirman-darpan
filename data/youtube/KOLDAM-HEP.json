@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-22T22:03:29.305Z",
+  "updated_at": "2026-10-26T22:58:00.837Z",
   "project_id": "KOLDAM-HEP",
   "query": "\"Koldam Hydroelectric Power Station\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 1
+    "comments": 6
   },
   "videos": [
     {
@@ -34,13 +34,49 @@
       ]
     },
     {
-      "videoId": "styrMe2G1yA",
-      "title": "NTPC KOLDAM  Hydro power plant #hydro #powerplant #nature #viral",
-      "channel": "AbhisheK ChandeL",
-      "published_at": "2023-07-02T14:53:11Z",
-      "description": "",
-      "comment_count": 0,
-      "comments": []
+      "videoId": "Gzw9zhZfEvc",
+      "title": "NTPC Koldam | Where Clean Energy Meets Community Impact",
+      "channel": "NTPC Limited",
+      "published_at": "2025-06-24T07:51:29Z",
+      "description": "NTPC Koldam, NTPC's first hydroelectric power project, stands as a testament to India's commitment to sustainable energy, ...",
+      "comment_count": 5,
+      "comments": [
+        {
+          "comment_id": "UgzYuwZdbmXp2jL5s2R4AaABAg",
+          "author": "@digvijayprasadsingh4087",
+          "text": "Proud to be associated with this great project of NTPC Ltd for about 10 yrs(in two spells)! Time spent at Koldam has been really memorable!!",
+          "like_count": 0,
+          "published_at": "2025-06-26T11:42:08Z"
+        },
+        {
+          "comment_id": "UgzyluAQvIOZ4kUf03Z4AaABAg",
+          "author": "@chavipin",
+          "text": "Proud to be a part of this project...",
+          "like_count": 0,
+          "published_at": "2025-06-26T07:51:02Z"
+        },
+        {
+          "comment_id": "UgzqrLnHJIdGewry4UJ4AaABAg",
+          "author": "@SandhyarBrother",
+          "text": "Very nice 🙂 and",
+          "like_count": 0,
+          "published_at": "2026-08-05T12:37:00Z"
+        },
+        {
+          "comment_id": "UgzR8r51HxpTWDZWJ-R4AaABAg",
+          "author": "@MahinderSingh-ek8uj",
+          "text": "Hme garv hai ham koldam ke nirman ke sme 2 saal company me kam kiya hai",
+          "like_count": 0,
+          "published_at": "2026-08-08T05:53:25Z"
+        },
+        {
+          "comment_id": "Ugybx0zl6j_5_ZC_uVV4AaABAg",
+          "author": "@strengthcampus",
+          "text": "NTPC Koldam sach me csr ke through bahut kuch kara rahe... I have been there 🤍🙏🏻🌸🙌🏻",
+          "like_count": 0,
+          "published_at": "2025-07-08T08:32:27Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

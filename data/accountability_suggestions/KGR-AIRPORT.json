@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-10-22T22:03:18.894Z",
+  "updated_at": "2026-10-26T22:57:49.924Z",
   "project_id": "KGR-AIRPORT",
-  "count": 1,
-  "suggestions": [
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-07-02T13:28:24.737Z",
-      "title": "The Himachal Pradesh government has cleared financial assistance of Rs 16.76 crore for 113 families running shops and other businesses on government land affected by the expansion of Gaggal Airport in",
-      "summary": "Auto-detected from press: \"The Himachal Pradesh government has cleared financial assistance of Rs 16.76 crore for 113 families running shops and other businesses on government land affect\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjVTaEdRUGgybldINGVFdV9PYUc1Z2ZaY1lnS3hZWnU2RDBJZWlWVjZrbDFoa3RELUV2al95Q1B5Q004YnBMaW5WaDdiWWlWSnhVNVRJNE5seU9qc01ScTdkbVNXaUtoa1I2SGJvc1FsY3FwaGZMd1FJMk5ZTXlZbmNlUk5Nc3BnS2otRXVLOEYzWjBjWlVvc0RJclFfUVE?oc=5",
-      "source_name": "News Arena India",
-      "lang": "en",
-      "date": "2026-06-10T07:00:00.000Z",
-      "matched_term": "sho"
-    }
-  ],
+  "count": 0,
+  "suggestions": [],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

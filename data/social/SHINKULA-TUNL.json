@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-22T22:01:20.679Z",
+  "updated_at": "2026-10-26T22:57:19.611Z",
   "project_id": "SHINKULA-TUNL",
   "counts": {
-    "press": 91,
+    "press": 92,
     "gov": 0,
-    "en": 71,
-    "hi": 20,
-    "total": 91
+    "en": 73,
+    "hi": 19,
+    "total": 92
   },
   "mentions": [
     {
@@ -14,7 +14,7 @@
       "source": "The Financial Express",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTm45dkJHekpiX3pGYWxKUUpmNVY2WXk0dXVfSV9HRFNjVU94R3hQaFRSS3VvTjZKYzlUSHg3ZHlVVmxOTzZnQkV1ZjI3MGFIam5rNUN2ZHB0U0RnMkJvRkpLVXdHLTZ0UExjMTRDQVZJZHRKbkhOTUtRUThjdFZaNURKQURGeUFpM3JaZXgwT2RURHZGSVJpb2FVOGlfODg0ZHhjeGlFRHg5Z29CajlyOE5ZRnVRbFB3WTR1VVlPaFZJTDVNMlJwaFBsWDRaNGhncjFCNzNYZTnSAd8BQVVfeXFMUFBPcWNHNmZhclJMVkVvcEZ0MXlYTjBMYmREVjZJT1Fmc1hINWEySXlGRFd2NC1nenRaYk9sdV9RM2VUM2hJVzVQWDN6UVBmT0RURnQtX25KbGQxemZyZDFPdDZIWWNHN0dRdk4wNGprZHlzVFptclVPZy1GLUxrTkRJS2NUUHZfeXZsRnFSZGpHeHNCMlY0dkdLOWZpV1U5NEZieF9DaTdNd2I1dUl2bG51Q2ZZaXJaVFJienlFOVJWeHJDQnF4V0dFel9ESEJaRkU0ek5waHZta2lBcFVJUQ?oc=5",
-      "date": "2026-10-15T05:43:23.000Z",
+      "date": "2026-10-15T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shinkun La"
@@ -50,13 +50,13 @@
       "match": "Shinkun La"
     },
     {
-      "title": "15800 फीट की ऊंचाई, खर्चा ₹16810000000...भारत में बन रही दुनिया की सबसे ऊंची सुरंग, चीन के माथे से टपकने लगा पसीना - Zee News",
-      "source": "Zee News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcDVvQlQwcWZjalpHZW1qUkZGLXhYQzNaZ0lpZzAxM193eUtPSWlGLW10WHAyZGYtQUZ5Yno3R29LSGp5d0FZOVhJdHZTc1RuVGx0ZXlJV2NUaVFnYXR0c1NYekhXZ0VneUIxTFFrbG5veFFlQjl3bnpheHBVbGViOG55Tk1xUDUwcU1jQ3BVQXBQYWxUZXBEcWxpRFZ4TFZWVG5nODV6Z2s0Nmo3SU9uX2RxQ0IwYTRyOW1LT0ZYQk1pZG1WLVlFSVp0TnlUQmxlb2s0bElEd1o1XzhkZEc2cVlBVmZxUnBlenNr?oc=5",
-      "date": "2026-05-07T07:00:00.000Z",
+      "title": "Rs 16810000000: India to build world's highest road tunnel at 16000 feet in..., China in fear due to... - News24Online",
+      "source": "News24Online",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWjNhMGM2TEZxUnhrZG5feFZQZHltQjhPZTNxTHFvTDUzNlBYdWs3SzJuTGRNeFRBN3NiZHh0MHhDY0Q0U1k2YU52N2w2dm4tQU1feVE3RDZPQlFnWGh0ZGJFWjVCcEZLUTVTczZFaHhsV0RNM3N2TzRGNVBWRzI1OFRLOGhzamRtV1FDb1lUa3ZTVnpmVC1kQmxqMUVzZ0FyN0JQbVV3Yno5Y0NmZHZsZE43c3ZPbEFVWGZXTGlWQjk3ZTV1ejJ0bUdWbmprbEZNQWtvTWZ6ek9aQU5iT2I1X1FwNkZLSWZxOWt6aTVBM3VHMjhNSEhYMVFQVHRrMFNpanZxMWU3aUZWSGhOcklZZWF3UmJTdlhqb2VSYQ?oc=5",
+      "date": "2026-05-08T07:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Shinku La tunnel"
     },
     {
@@ -170,16 +170,6 @@
       "match": "Shinku La tunnel"
     },
     {
-      "title": "Over 1250 km road length constructed by BRO along Indo-China border in Ladakh - Daily Excelsior",
-      "source": "Daily Excelsior",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEVNT0xvenhneVVTRnZWbzZPRWhhR2VTTnNEWlFfUF84WTM2ZUJPMU5UcjM2d1BsMXYxUjROeXpMWlRCbWh0c2Z0TkJRRmZQNEY0aTJSck9Ta0MxQTBlSVBNNVp2SXZGdDVib2pBNFlGQWdPcGxVVjA2UFQweVoyWWt3SFotbDlON2U1cVNSbEJiRkdnTFB6UnFwYlBaUGRUSjZwXzMzaG5pSFJNeXfSAbIBQVVfeXFMTVhmZzZudmlrcUN4YWQwMEpFc0tsUnhPSHJjcWxYRkY2dkVERWltemVkOWc1aVVQcXZKd0NOcFZXLXpkVl9zZy01N3JPYk5BcjBCVzFZaWdRRXNEcEF6NlRtclhhSHlkOVduX3Fldlk4X0pYUW10SXhLczRWVnJ6TzdUTlBhNnhCTnVVckEzMkdLS1J0dDVielR3dXpqN1BTSmpsbWt2blJ5UkxDMk94cHRjdw?oc=5",
-      "date": "2025-03-18T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shinkun La"
-    },
-    {
       "title": "Shinku La Tunnel: Full-fledged construction of world’s highest tunnel to begin soon; BRO accelerates work on all-weather route to Leh - The Financial Express",
       "source": "The Financial Express",
       "source_id": "google-news-en",
@@ -207,6 +197,16 @@
       "date": "2024-07-27T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Shinku La tunnel"
+    },
+    {
+      "title": "Prime Minister Narendra Modi Inaugurates Shinku La Tunnel Construction - NDTV Profit",
+      "source": "NDTV Profit",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFpNanhPNkVNM2wzTThlQ05yM1lGaHBobVJtQmJlZGQ1Nm42VkVKb2swNHgwZFBoWXZsX0w1d1ZURS1FTGFteXVvSWxPYnhoVVRmYlYydVVEeDM4NUFzeTBVWWJBbjNEdl83YXc2dWY5YVdTRkFIckd1UmgxclRDU3RSbUdxWDh5R2hHMFJXcUQ4SVRka1ZpSnhlQ2o3bDB6TXFTNF81SWN0dktRLVo4b9IBuAFBVV95cUxPVXIwLU9QNHVBazMwUy1Sa2dZZ1Bnd1pLZ0FuR05nbEljcmtxeGJNWmNQOV9neFZpNWFIdU5Oek5TaE4yUjQyOGdkeVFuQklGMlR0TnE0Tm9zUWQ3YjYxUmJYdWd1Y2tjWEVUVjc2amc2WDJPT3RqWnUzYTc0eEtuYVlBbHc4V1djZ2wxYzlWSzJTMk5PRFZZYk5NdjFpZEJCNlVaamZnX05RU2FiZC1rWGRzVXBCWTNm?oc=5",
+      "date": "2024-07-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Shinku La tunnel"
     }
   ],

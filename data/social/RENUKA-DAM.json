@@ -1,20 +1,40 @@
 {
-  "updated_at": "2026-10-22T22:00:18.247Z",
+  "updated_at": "2026-10-26T22:56:48.121Z",
   "project_id": "RENUKA-DAM",
   "counts": {
-    "press": 45,
+    "press": 44,
     "gov": 0,
-    "en": 34,
-    "hi": 11,
-    "total": 45
+    "en": 32,
+    "hi": 12,
+    "total": 44
   },
   "mentions": [
     {
-      "title": "Delhi Water Projects Delayed Until 2034 - Urban Acres",
-      "source": "Urban Acres",
+      "title": "रेणुका जी बांध परियोजना: दूसरे चरण में बेघर हुए 31 परिवारों की सूची अधिसूचित - HIMACHAL DASTAK",
+      "source": "HIMACHAL DASTAK",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVpfckZ6S0M3U0xpa0NRcjFucTZkcXJ6ZmJwaTlmWV85RmJpY0RXRngtME11VGJ5VDcxNVpHVEtYR3lMMkV5SVdnS0NEWF9vaUZubzRDbGN4ZDV2RWRkZkJOT2ExMlhBd1NucFE5Z2pVRTc2ZTZTLV9tTlMzUXFTSVJBWkN3cTFyRHQ2Zg?oc=5",
+      "date": "2026-09-28T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Renuka Dam Sirmaur"
+    },
+    {
+      "title": "Delhi Water Projects Delayed Until 2034 - urbanacres.in",
+      "source": "urbanacres.in",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWlZ6WmJBdG50Zi1zZGNTM2JWZVBxTWV4aG91a1l6MFplR2s1cndPcVFIM3lwX2YtRW1oMWhYaFNNZXBJVmRzb24wU0hPc1hlMFQ5aURSNUFFa2pfRmNWdGJZbDlnN28xejNRcnpiNGZ5T0N6dFZxbnBEMy1ubGtJUEs5WnlKeTA?oc=5",
       "date": "2026-09-18T02:36:20.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "Delhi Water Supply May Wait Until 2034 as Dams Lag - Urban Acres",
+      "source": "Urban Acres",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeU1rQjQ5QWxVREhVcV9hal83dG1zTWYzME9yMWxvZkh6ZEIwRWpCZ2JxYnZ3dmM5c3dLakt2aEsyRzNQWWtQcDNQMERRcThBbVpxOGhncnNtX1Rfa2cwdjhQMDdTNDhSeTI4RHlyT0diNm1YQW9LcFZyOXFIZU94NVJfZw?oc=5",
+      "date": "2026-09-17T16:34:24.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Renukaji Dam"
@@ -70,16 +90,6 @@
       "match": "Renukaji Dam"
     },
     {
-      "title": "Patel Engineering Secures Renukaji Dam Order Worth Rs 9.1 Billion - Construction World India",
-      "source": "Construction World India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaGlCYXNTb1V4NFlZQmx2ejhVQXBTQVVqV2FxTTk0TFg3QWpfQUxvQ29sZTkxMG5WcUdGdHUyQ29MV0pSWU9oSVpxZlpQYnRUN0ZtMTNFU3UyU3JuZ3dSdGt4N3M2RUFSbzB6OFF1SVBkcGl2WExlb3pTNVNGS1lUQ2EyY0NGbjJQYWxOdG1CUjQ5YkhlcGt6MUI0R1hqRWV1Y3dSaFRoQTY3dXpxcEE0dlpVdUJmYW1ueVRoYkxOTm9YTWRoakZBcTVfQm8zQVNFMWJr?oc=5",
-      "date": "2026-02-26T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Renukaji Dam"
-    },
-    {
       "title": "Patel Engineering Wins L1 Bid for Renukaji Dam Project Package-1. - News on Projects",
       "source": "News on Projects",
       "source_id": "google-news-en",
@@ -90,33 +100,13 @@
       "match": "Renukaji Dam"
     },
     {
-      "title": "Patel Engineering Awarded ₹910.08 Crore Renukaji Dam Project by HPPCL - scanx.trade",
-      "source": "scanx.trade",
+      "title": "Patel Engineering is L1 for ₹910 crore Renukaji Dam package in Himachal Pradesh - ET Infra",
+      "source": "ET Infra",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcG5RbjBvQ0FYU1Q1UVloWDlsZ3o4WkVLRWUwckxHbWtzM1hDN2VXT293SkhnbGhHdGlaSnI4b2JQNkVIWkhhYm1rNjVFbUFLMlFRRThVVnl3ZmE2VVhxWHRodTJYTnVmUnlrWmxNYnlMQ3NDTHhfdGtjSlloRTZ4UmNJaVZ5UURfT3drazlwa0Y1bTJ0N1MwaG9nWk4yMnhzTl9kcVExQS1aWXd1eWhQUmZSSHNadmFKak9JQVJtUEVvNFVlb2dNR1JVcVZyYktZLTBQU0V3VQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWWVWOEdOREdDaUpBcm1zLVM2YnpaNnJNakRmbzJUY1lralFjeDRVaEVWZUxvNTZtTUVPUW9ERlZZMU1FNnRrU1JOODFNV0tsa0FKMVh2SXFKSnhXZDVKcEtDQnk0NFU2ZVBZNGo2c3FvQnp2V0pYS2ZRWkhGTVU0TDBNa2NhVHIyXzZaRHJJR3hZY0VpOFJQbEhrZmZHNi1wa1J2TEpYc1pSN1JhYURxdUxyWDFOUVRkYVNMMnBqbDVxMm1NWF9ZVFVuWmlfMjlhSVV1SUhNMGM0Z0syeEsyRWpzZ9IB6AFBVV95cUxOLUp4QlpXdlVXNk5NM2l4cVo4ZHZMWWQxSEhwZURINVA4N2h3OGdBalVsMVZTZHVyLUdZeWRITk5YTTZkSjhGRXl3ZmVBVFBGempjdVhKLXhnVlZVZTMwWEtXWUZ2OFdNWWMxTVJ4UHo2VmE2bmRXbk8teFhsa1RGVDc0TDBRTWFVdTVHb3BoVEFXM3BUT3hxQTZHOGpINUp1eVE4UWFUeFBFUWJlaEhqZWFfMUIyb094VGRTUFdnbTM5LXAzNWNZRmlDUjhVZEM0MmxTaXN5NGM4MUpfaWRTUTJyUF9tdURX?oc=5",
       "date": "2026-02-23T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Renukaji Dam"
-    },
-    {
-      "title": "Patel Engineering is L1 for ₹910 crore Renukaji Dam package in Himachal Pradesh - ET EnergyWorld",
-      "source": "ET EnergyWorld",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObjBnMDhZVEs3ZUhNWTlVVktvM3J4b2ZRaTJoMDJPbjlaOFAzSHZ2WW5WRDFvSEprenRxX1lSM200N3JuXzhhUk5ranVxeGxBWEpSWnFRNXNvdTQ3dnZ1Nlp1ZzRlOWV3bV9DUWZwcXRZLUtxZ2dQOTJVcHRHUzVmcHlNREFiam96UzZxM2RydVJ0UFZhQXRDOWRNMDdLUjRDV3J4NzlMY1RrS3ZfOUdPZUxaT0pwYkpKWm45YkpVOHhiNllsT2o0R09LbGViRnRLSllhemJGNmN6VjM0b2FRTdIB5gFBVV95cUxPQWxFMlZTWWdvUW9ESnRld05yUjlabGRLbnZXbks3eEFkcHozUlIxY2JFbVpyejhlZFdOMVJ0Zk5GSVA0RVFnYkowbUVZWEpxa0lYWDRUTWxDNVRadzRvN2tsTEQxS08xZUc4S1hjYkxJekZCbE45ZElSMVZsaV9nczJwTW91SEYxZjI5MDY3ejRjX0Z6Tll5U1RENTc0ZmNQdHVxbnppTk5Wel80bnAyN0dxaWRkbFRtYkp0X0JrcHQtd2J0UFFZSDhsdzdZeEpHTVNJMTlTMTc2SkpFTGFiUGJ0M2llZw?oc=5",
-      "date": "2026-02-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Renukaji Dam"
-    },
-    {
-      "title": "विजय केडिया के निवेश वाले ₹28 के इस स्टॉक में आई रैली, कंपनी को हिमाचल प्रदेश सरकार से मिला ₹910 करोड़ का ऑर्डर - The Economic Times Hindi",
-      "source": "The Economic Times Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMWNqMERxckNWaVd6cVBpMFlBV1E2R0drdDE1TDVqZ1RPVDMxTFVGOWc4bkxhYXBJU0xJc3hQTVl5VlRrNk5YMlVIWkh0Qmd6QXk3dFdrOHdSeVJFd1BhdWtBNGd0bUpjM0Y5Tk9oZ0hjcXhkbHdnRU1paFdLai1IZnh2SVZIZEJEbWRTN3JSZlc5NlFxMU56RHk2QTdUejVhRk5HdEVpU3VrXzNBVlEyYjQ3U3k1Nm1iZUxVUF8weURfSVgzbkpPN0xwcmNSVlBkdkI2ekhlVXpOM1BBYXVBVU5mQktMUi1XNDdIdVlfRVlRVFJfV2VNZ3ZwYUVreFJORkVfb3JpREd1VWVTMng1U9IBlgJBVV95cUxPWHU1WHo0cHpTYVpVWGFJU3hjdVBMcnNyWlAwcWhBclY3WFpWZjdOVlY2WkhsTzR0Z3NWMmxQTlhZY2pnU3RyUGFOX3Q3c0cyRFJ1NlJwanVBS3Y1RGZ2SVl5alFJZEgwbU85UExucXV0RndoWTRSdExpeHQ1bFJDenAtRWpybVN4aW9NQ3ItVzhpdHlGOFRrek5WM1BQYzVFdE56LUNMZk5Nc2YzNVhxdEtTZ3lueU5QN3JsSEktbzZMVHBfTXVTM2w5MVM3TE13REY4OWdtSElhbml2c3I5NWlpN3lvdFFYdWRsWjQ5djlsOHc0bVIyZXFNLUJSSENtbnhiLXB1OThBVUhOcUh2RXhkLXNJdw?oc=5",
-      "date": "2026-02-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Renukaji Dam"
     },
     {
@@ -205,6 +195,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejBLbGlocWhOZHJ6WGZVXzBMc0drZ1I3WVozcUZqdmlvUmR5UkJJdnRDSUttZTJmcEk1SWFZM0ZjbGJmRkRUa3hHRW5GVEJWRTViWUpOdl9OYkVJeE9EMnhnbjhiV2RMSjJBWTN0T3hBTV9haUdPMHVzYkRpbDFjQkk4b0pYdFg3MUhNY0hXQUdQNFJlUzZ4TDNxLVkwZ2VxNU1VVXhTS2lGTzTSAa8BQVVfeXFMT2hUckVqN0JTRkRnU0VUUkZoUlJOSGhMZkNrR1VHeVJqMUxyazBRSDJBYVF4eHJTUU9ka0xfZno0OV9mQU9EU3d0U2YxSDExbXE3VUEwNENSNEhaRnNiYWprRW02Nk14ZC1QdUthc2tlWk9YR2FGeTVSd3VEWWFXUFlSOWxxcmt6RGZuQnkwMC1tdENCTmxNYktQU21SdVFHWGRSNlJaME1LXzIwaWlhdw?oc=5",
       "date": "2025-02-07T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Renukaji Dam"
+    },
+    {
+      "title": "CWC inspects Renukaji Dam site, set to expedite work - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORXZrX2t1aS00Mm15d3FadUlrckJla2ZlVTFJMEpfNzNYbzhPQkZKcXU3MzFMNFM2eWRYNWFaeDRXekFDUXZWQmdXODlTYTVUMi14c0tUUmdSVDRKYnFGcG5TMjNYWGlMcXRiazlkZUxNR2h6S1AzZ1hlUTBFemRSNGhCNWV2NjRZVDhRNDlBYlRSRG9BdF9QNTVGNNIBnwFBVV95cUxNR0NYZnZuOGNUdE5ZSzdtT2dFOWJfUHZrWXV4bi1oeDhTTHpIRzZTNlZfdWhfdUNXdkZ1bW42c3Y2anAxelpHUnBQd3JBb29SWHdEMHdzTElyTXh2Rmx3VDdUWW9EeEZFRVNIZnltTGdjamVLejJFa2NuUGI2REFkeFpJRVJMVl9QTE94VXpocTNKdDM4a0FEcl9IbkxmdEk?oc=5",
+      "date": "2025-01-05T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Renukaji Dam"

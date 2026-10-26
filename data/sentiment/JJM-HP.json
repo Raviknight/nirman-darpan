@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T22:04:21.614Z",
+  "updated_at": "2026-10-26T22:58:44.719Z",
   "project_id": "JJM-HP",
   "press": {
     "n": 1,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0.1
   },
   "youtube": {
+    "n": 20,
+    "positive": 6,
+    "neutral": 8,
+    "concern": 6,
+    "avg_score": 0.01,
+    "avg_magnitude": 0.35
+  },
+  "overall": {
     "n": 21,
     "positive": 6,
     "neutral": 9,
     "concern": 6,
-    "avg_score": 0.01,
-    "avg_magnitude": 0.333
-  },
-  "overall": {
-    "n": 22,
-    "positive": 6,
-    "neutral": 10,
-    "concern": 6,
     "avg_score": 0.014,
-    "avg_magnitude": 0.323
+    "avg_magnitude": 0.338
   },
   "top_positive": [
     {

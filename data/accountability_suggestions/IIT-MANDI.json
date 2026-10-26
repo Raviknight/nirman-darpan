@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-10-22T22:03:18.898Z",
+  "updated_at": "2026-10-26T22:57:49.929Z",
   "project_id": "IIT-MANDI",
-  "count": 1,
-  "suggestions": [
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-10-22T22:03:18.898Z",
-      "title": "22% of Indian college students have started businesses, 43% aspire to: Survey | 35.5% people reported generating regular sales | Inshorts - Inshorts",
-      "summary": "Auto-detected from press: \"22% of Indian college students have started businesses, 43% aspire to: Survey | 35.5% people reported generating regular sales | Inshorts - Inshorts\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmdkTW1NbVV2NUY5NE9HcURrVzlyVkhkQVVBQktuY0I3d3p2SXkxZTlOYkExU1dscmlvQ0ZNREhMRHRQTzFEeERkaDVqYWFLVDVIRWVNSjVBU3JWeDZxVldIRGFNaWIxZWxzZEJIaTdrSEkxSFItV1dsdzkyRlBSTFF2TktDb2dEd1N6N2R5MnZhQkdUUEtvWEZrR1ZtakJhSDZUUjd5bXlOZGtjOVhNM0xEZVlmc1hlVkRYV9IBwgFBVV95cUxQVDkxUWJsVDZFTXJwUDV2Q25zcmFUYy1ZUXdqbEl0Ri1UY3poT1FpWkFpeXQxbDlqTVBSeW9UbTZZTEdfN2s5SEh3eHBXN3hQUWdZdk1Ob0tFQjV6cFZBTG56bjIzOXh3VkRJODB6V3dfSTdUU2g2SE9WeGNIUVMxVUdvVDd0ZF9ZbnBfampsSU5GRmptVVNWVTZpdGhnTlR1Qi1XckNBV3Qyd25SRUlidWhlMlM4bVlBa2Z2OHVBZ2xvUQ?oc=5",
-      "source_name": "Inshorts",
-      "lang": "en",
-      "date": "2026-10-22T09:37:12.000Z",
-      "matched_term": "sho"
-    }
-  ],
+  "count": 0,
+  "suggestions": [],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

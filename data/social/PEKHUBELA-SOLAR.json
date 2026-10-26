@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-22T22:01:54.834Z",
+  "updated_at": "2026-10-26T22:57:38.997Z",
   "project_id": "PEKHUBELA-SOLAR",
   "counts": {
-    "press": 19,
+    "press": 20,
     "gov": 0,
     "en": 13,
-    "hi": 6,
-    "total": 19
+    "hi": 7,
+    "total": 20
   },
   "mentions": [
     {
@@ -48,6 +48,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Pekhubela solar"
+    },
+    {
+      "title": "Himachal Pradesh Tenders 9 MW Solar Project with 6.3 MWh Battery Storage - Mercomindia.com",
+      "source": "Mercomindia.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmdlTEIxdTg3cVRQMlFMMjQyRm05bnJCUHFFZjNnYUZENl9PSUhfcXRHaldxNFh2V1RfZXFUTUo0R0xrcjZhSnYwMDNDX1VBMVhFNkZuU0wwU1UzTFl6dVVnSFFUbENITFd3Yl9ES0wtVFE5RE9iOXpCU3R2bk9IWlRRa213RjJmM1JjZkNySHVkWTloSlpRai1GdEg?oc=5",
+      "date": "2026-05-05T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "HPPCL solar"
     },
     {
       "title": "Himachal Pradesh Tenders 6 MW Solar, 4.2 MWh Battery Storage Project - Mercomindia.com",
@@ -130,11 +140,11 @@
       "match": "Una solar park"
     },
     {
-      "title": "Himachal on way to become first green energy: Sukhu - ET EnergyWorld",
-      "source": "ET EnergyWorld",
+      "title": "Projects To Generate 47 Mw Solar Power In Una Himachal - PT Pulse - Projects Today",
+      "source": "Projects Today",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY1JrWFF5cjV2QllHZTZURHYyY1RYNEswLWJoWjkyX0d2Tm1aUUNiOG4xUjFtTkpVbWJiSWdTMHlnQkFmcF9USkdHMkJqZmUwVnk3c0t0dHE5UmxRanVTel9heG5BeW0zS213NlgxSmlnZVlKaUh5R3JXR3BRZjdnVl9rOGNzSGFHcTZ2XzRtSVFCTVdldGZQOTQtOGJzUDNUQmkyQjZ1MzBWOHA5MmN4MV9xZDNMMEVvV2Fj0gHAAUFVX3lxTE5GbVgxVHNJWDJ0RU55b19yOXh4dnI2SkRRdzVINzRoYXpKOFVQSDZ3M3VrWGxNUF9fdnZPczRTbVBYeVU2YmpsSXdQYmd1cmNVVkRQMWs4VGNXbUNiUmt6MmdTLWo4VnB3TlBUX29Za3o5cklXOG0wRGg0d1ZLenRQZTctOWUyT2lmYnJvQ0RZSFJvTTR5ZDZJazVSa2k3cm9TSjFtRy1WOWp2TzZRV0dMTWpSd1dFSGFmbm41dlROWg?oc=5",
-      "date": "2024-06-21T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2xZVklHQTZpN2RETjE0a1JxT29DdjlsNHp3YUc4Y0lfMFloTmY2RWliTGloYXV3QXZHTEhObENUZmEwbmxuX0dZRzFzZ3AtTXZUbmNSNUhYV0lLSlBwRFV3RzVEdjJTWXlRZ0pQdFJFdHN3Y2lMQ21yYnZydHhqcHFpVVJXcU5wMUROT250NUhSU2RiSVROOU9Ncnh0VVRVUDUtRERLQQ?oc=5",
+      "date": "2024-07-12T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pekhubela solar"
@@ -150,16 +160,6 @@
       "match": "Pekhubela solar"
     },
     {
-      "title": "Sukhu dedicates 32 MW Pekhubela solar power project in Himachal Pradesh - The Statesman",
-      "source": "The Statesman",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcTFVOGh3TmFkanFtOVdhNnA3ZldpWU9YM0ZGS2lWcFE1WDJhU2RZVW1VUFpXcHlqOTJhZEFfVXR2RUR6UWpXdU9CenR0VmplUzFaSjI1ZUtuajZhMlBjbXBveU5XT25aNlVVZ3N5UnJCenU1Zk9Rc0FXaVBhcm52VHRtVkdELVhuZkpQeFJOdGhoVXZvVzRhbDNEUWlWYW1vVWZCeVVhY3hEajMySFBHWHV4dS0zOWFZVXBtbGt2a9IBxAFBVV95cUxOaU9wZFh3X3B6S191Z2FNWWVONGhYRlZJZGJ4dWwxWjllLXNlbFI0aVM1d2wyUVZtWm4wNU9PMGV4ZW15aVhZZC1MWmVFRXNnOV94WnJQUzFlX1hGUWNLdkRqcGhSdlJkMHc4RTJ5UDRBLUI2MDhEaFp3WU1NRFpvZWVaSkNCeUR5VkJqSUNQcjIzbXMzLVVDRW1fYkpZc21yWUlJU3ZUNV9TRjRQdEdZOGZDRTFXR2dJeGxiSzNWdnVSLWdy?oc=5",
-      "date": "2024-06-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pekhubela solar"
-    },
-    {
       "title": "32 MW Pekhubela Solar Project Goes Live, Boosts Himachal Pradesh’s Power Generation - The News Himachal",
       "source": "The News Himachal",
       "source_id": "google-news-en",
@@ -168,6 +168,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Pekhubela solar"
+    },
+    {
+      "title": "4790 हेक्टेयर पर लगेंगे 2450 मेगावाट के तीन सोलर पार्क - Patrika News",
+      "source": "Patrika News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVhTVURLMUdOaGFEVGFRdHlpa1lVZ2tpYTYtOHhienJOQzB0Q3M0emVzQURUWWlCOWRGb0staklicGRHTTQyNk1QWUlZR3BCUnIza3hBbmthS1lSQXA5YzF2YkY0QWk3dFZmWlFJSTRqOU8yaW9HZ00tbldURnBrQ1dhNFFNZVY3bmRNMGFIXzVSZmJEX3F5R3JxaGtNTzRaQkdVMi1RNmhyd9IBrwFBVV95cUxPeU9tU211MjY1VnlxUjQyUExMNW1aUGpBLTgzejlXenY5M0hXcnFQQlFJSzVMSzRCRG15alZSN1dnaWV3QnRBOFVDNXA1aExsWDNGY0tyMzU0bXQ2MVI1QS10SUFOMXhGU0ZweS1KMjRFT1dXSllWRGcxQmZJSEZyODhkaS1WRHpMNlZPdGhkUEVWc2tEN084TC1yQWlDLUgxcUhnZ1BPVEcyXy1fMXpR?oc=5",
+      "date": "2024-06-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Una solar park"
     },
     {
       "title": "पेखूबेला सौर ऊर्जा परियोजना फरवरी में बनकर होगी तैयार, 66.10 मिलियन यूनिट विद्युत होगा उत्पादन - ETV Bharat",

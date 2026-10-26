@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-22T22:04:36.829Z",
+  "updated_at": "2026-10-26T22:59:00.614Z",
   "project_id": "AIMSS-CHAMIYANA",
   "press": {
     "n": 6,
     "positive": 4,
     "neutral": 2,
     "concern": 0,
-    "avg_score": 0.233,
-    "avg_magnitude": 0.3
+    "avg_score": 0.25,
+    "avg_magnitude": 0.317
   },
   "youtube": {
     "n": 0,
@@ -22,8 +22,8 @@
     "positive": 4,
     "neutral": 2,
     "concern": 0,
-    "avg_score": 0.233,
-    "avg_magnitude": 0.3
+    "avg_score": 0.25,
+    "avg_magnitude": 0.317
   },
   "top_positive": [
     {
@@ -60,9 +60,9 @@
     },
     {
       "source": "press",
-      "title": "CM assures full state support for expansion of AIIMS Bilaspur - :: India News Calling ::",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFppSDloSEFxRXJMUTM5MVhmSVgtLXRwZW1SVU1ZRGhFdDhCcWJrWl9HaFhBTi1ZaHBrX01BdkpOb2kyQUxBR0lHQXl1RnV4aXBWb1l0dGJ1UFJNYTJiYmYwUzlUdWt5My02NGJkc083S29lbG9JLVc1SVlBeDU5MG51WXB6MUVxRDVDZ0hmVEhVTUNTdlU1QUdMdUktbmhEdk5nY0R6SmI1UFFkV05jdm04dnpVWVVSUUhz?oc=5",
-      "score": 0.2
+      "title": "सर्जरी के दौरान Sonu Nigam ने गाया ‘गाना’, अस्पताल से शेयर किया Video - Punjab Kesari",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2NUSHN1ZnlxRzdCZjBYM0h1Z0RuOVloRjBYNjgtQ3poOEtyMlZhUENFOTNYOVVIUTIwYTJqWS1CUXl3ZjhnTFg0TmgxNUw5d2UzeWFfeFMyUkUwenROZEg3QzE0b2JFMnMtVXhIM1FHOW9EbEFJOXJhWWtYaUZkdUhGNGtmZG1VUlhucGlpcEVmVnF5bXdvSWFTSGZydUhwZWxQYnFzSEFadHpMYzl4eE1PTUNTazFCQlHSAcIBQVVfeXFMT3o4dVFEWWhnaGR6Qzg0UnhRT3YyOTlEb3NvWFJHNHk1MEMtdzZDQ0NCWmI0Q0xXb2YzNVQ5RzAyTG5kcjdwbEpYaW9XTVc5TmRaQXR5NWI1bFpsQ0xkNDFpSmxVLUxHcFZXLVpFUTRiRmQxcEE5bURmbk43SEY2TjdpRUtmYjg0YnNNcllNZE1pbjIxS29pM3hsV2dBTEpWUnItN25vS3NTTUt0Q1ZNODJkcUs5LVNMV2ZnUE5WUGRQM0E?oc=5",
+      "score": 0.3
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

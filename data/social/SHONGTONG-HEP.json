@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-10-22T22:01:49.100Z",
+  "updated_at": "2026-10-26T22:57:34.871Z",
   "project_id": "SHONGTONG-HEP",
   "counts": {
-    "press": 33,
+    "press": 34,
     "gov": 0,
-    "en": 24,
+    "en": 25,
     "hi": 9,
-    "total": 33
+    "total": 34
   },
   "mentions": [
+    {
+      "title": "IndiGrid signs pact to acquire Shongtong Power for up to ₹5,315.8 crore - scanx.trade",
+      "source": "scanx.trade",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmhxa0IwTVdrOEJyRk1CSmw0WVZTdWpXRFRSNXl2SHI2Umd6ODZmS3h0WEVnZUNPeEQ5N0lpQ0tBQVpiNndPWWpyM003WU1kYmJhdldZbGYzZURTSmhZMi03ZmZuLW8tUzRlWm9LTEhVbFFlZlFoSEltbVk1WjNzUFBBUW9ibXZWckNQY3lkTGFGalM4WHZBaWN6S1RfaVJOUUdQR3Y3QmYxOVE3eE81VkdyRXR1NnhR?oc=5",
+      "date": "2026-09-05T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
     {
       "title": "RECPDCL Hands Over Bhadla Ramgarh Power Transmission limited to Power Grid Corporation of India Limited and Shongtong Power Transmission Limited to Terralight Solar Energy Tinwari Private Limited - REC LIMITED",
       "source": "REC LIMITED",
@@ -60,10 +70,10 @@
       "match": "Shongtong Karcham"
     },
     {
-      "title": "Tapri Fruit Unit & Shongtong-Karcham Project Inspected - Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
+      "title": "himachal cm reviews 450 mw shongtong-karcham hydro project progress, orders early completion - The News Mill",
+      "source": "The News Mill",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDZkTkl1b1kwMVFNSHozbWhYRGcyZUt4cHZiQ2VsNlFRaUluZkw1ZGt0b29qdnFpaDB5OThxS2NKaThpR0daY0pnaDJBRXY0ZDFwdkZSSEN4UnRwdm5CN2NHTDBoRzItRXdONzBsNFBRdVN3eXY1LTlSUDRRelRmMGNJZkQ4UUl4c09BTmpydi1XM3Z5WGc1MVRnZXVPcFFYX0oxTnphWdIBrAFBVV95cUxQbWRsY3o4Nkhsdlo4YWVsMXhsVThnRGh1SDdLblM5NXQzbjNWV2x6eEVlNXJrTndfc213WWFvT3pTckFCMko3U0hxM1ppYnVsRld5Yk82OUxBeUtKcWJzd1FXQjJieHNUN1cxNjkwYnBYWk16UG5JYlZIcHhzdWpaOTh3SUJORzdOQXA4alNvQXFlT2o2alAxMzJka2MwSmh5djAyTUt0SHhsN00z?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSVVMbUw1YTVIWTVkZzdMajFnLWVwNWhidG56OFZHNFpFSW9ZUUQteGpqZ3RtTVY1Qm5TYnFsS1lzZVRNYzRpZk1kS0wtN1YxLTlBaFNld2tHVlB5VEkwdm1fTVRTems4MDQ1Q3dfMk84S29lWjMydmxQY3paRDY3Ujg4cjIteDZWUXdCWDhrZWFLenhReGJQN0did2thTHNnM29ZSTNqSHBpdFZ2X2VaYlZMbXFDRjlOUm5iMDBwdTRhUQ?oc=5",
       "date": "2026-04-14T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Shongtong Karcham"
-    },
-    {
-      "title": "Kinnaur hydro power project to be handed over to Himachal power corporation | Hindustan Times - Hindustan Times",
-      "source": "Hindustan Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVEMxYWF0Y2JwVXNWcGs5aDY3QnBUXzhrRkdxV1JuWFlmXzhoT2JLLW1lWHpRV0R3T09LbGNrVzZCZ1R4WEU4b2N2WGVVUEhraEo5RnpfUGs5dEp3cGxWbnBITzAzTkJ6aDc0R08wclRDaXcyaEJNRlBpdkk3MUVSUHUwQXU1Zm1KY1h2UERESWtSSVR1cFYyb0NEbkxDM0VselBMZk1rVzlFZTE3RzNSbzJRVVhrRVlFUWlqVGVRQlUwQVVocllIbmNDM0N2UEIyclRTQklHaVlSaFdWVzNJa2xRcmHSAeoBQVVfeXFMTVpNd0FJOXQ1dGZ6d2tBc2xTeURra3R4bS1ZcVItVVpoeWpiekNESk1KMXlDSFQ2eV9IVjVtaHQtSDdPNkwxa3VDLWxFRHY2enpxTTBrTkZNeDlvakVJSXNmVFdIRXdGcUJDRWxpLXNNRkVxWjZDaUlybXB6ZXNtRGJtM0U5TkFpTGtDclhvWUtMd0hZdjFYeW14ZzBsTExQSkplM0F6MmVEeDlkM2prb1RKLXVwZjk1U0g1TlhLZUhaQWd1Q1Z3OThsMHl4Q3lQdFd3d29vWUhuTUp2cUkzYWRFZG5IQTkwUXln?oc=5",
-      "date": "2024-09-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kinnaur hydro"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

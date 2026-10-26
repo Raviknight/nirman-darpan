@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-22T22:04:37.227Z",
+  "updated_at": "2026-10-26T22:59:01.042Z",
   "project_id": "SMART-DHARAMSHALA",
   "press": {
     "n": 17,
-    "positive": 8,
-    "neutral": 8,
+    "positive": 11,
+    "neutral": 5,
     "concern": 1,
-    "avg_score": 0.153,
-    "avg_magnitude": 0.229
+    "avg_score": 0.188,
+    "avg_magnitude": 0.318
   },
   "youtube": {
     "n": 0,
@@ -19,11 +19,11 @@
   },
   "overall": {
     "n": 17,
-    "positive": 8,
-    "neutral": 8,
+    "positive": 11,
+    "neutral": 5,
     "concern": 1,
-    "avg_score": 0.153,
-    "avg_magnitude": 0.229
+    "avg_score": 0.188,
+    "avg_magnitude": 0.318
   },
   "top_positive": [
     {
@@ -54,15 +54,15 @@
     },
     {
       "source": "press",
-      "title": "Smart City Dharamshala Infested With Stray Animals - Hill Post",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWV3dy1WdTlmOFZoQ0xRZUx6d1BGeDE1TkFuc1ZoQWtxLWE1VGtsbTUzNFk1V0ZneWphTFpGZ0tyLWdoLWQ0cWVwZlRQaXg0cnVTdjVmLTcxQVNKWnpmSTdUSHF4cHpFdDNXTUYwYlJRSEFzWFRsU085NWNwTG5fT0xwd1A4bUpjeDFFTzVONA?oc=5",
+      "title": "Dripping Springs Community Library hits the road - Community Impact Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BxMVFOMlJQRzlYOGJ0dk5CaDk5NGEzQ3pSQ3V6enpmdnJ2eGJrdXBwNG9sV3VhdFA4WVFsQW9KbkdORUowcU1oaDZqcmZhT3VUZ1pNX0V4dW0yN1dXeENtTDFGZjg3QnVSQ05MSmFaS1I2Zlp5clBhREhrbTdpSzIyNGhYMXU0SzE3SWtxREkweUNNVjNVbEhRb3F4MXFQcGFTYjg1MFV4SlNMa05OUTNuMC04T2VHYkdSVDNB?oc=5",
       "score": 0
     },
     {
       "source": "press",
-      "title": "Remarks by UN DSCL/RC/HC, Imran Riza at the International Conference in Support of Lebanon’s People and Sovereignty [EN/AR] - ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON1B2TmVuNXdoSmxaaDRETHpzQkg0cEJjV0hfT05mUXMyRWxCV09paG9nTUROWGs2THplY0YwV3lfWmNIWVRvZjcxVUpJdWg4Ml9ZV0VBaW4xTzBUZ2UyNGhZMFFTTG82ajJrNjN6ZDdVaTgtS3dsdTk0MUZOQVkxU05vdGFYLXFKNFcxUXZWQUx4WlFhV1lyd3U0UTlOZUpMLUl6aWJ4Q3RzNS1EVEtsekxWU0xwaXhlU0w3TFlxX3Y0RzVnX3VMcHV2ekpOS011Yk5n?oc=5",
-      "score": 0
+      "title": "Dripping Springs Community Library hosts art event to fundraise $5M for new library - Community Impact",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTU1STnVXR3RlZVlQak03ZmRpNDJPVm5Sd05ma1dKbHBueGVXUnRTaTJkcnhJUWtDVzhhQ0Z3QnJQeGxzOUtfZjF2bEVObkkyeDFHMm82di16Q3JtNUZiVVhLZDdyRkRuTV92M1gwQ1dfRHZ0YWkzY0wtb2JkN3ZfM1JMOENQQ3djcHNSWmtnN2l4eEhMSlVYVWFkVklKS3lEOExtZE9Ld21nSUM4WWEyN19KWmhIOGNTR052Mk5nd3RqZkFlaDlkRFRSVXZYaGlNR2RoWWVXWGRPTF95WXVSa2tYa2JkTkRsSjhNZlZ3?oc=5",
+      "score": 0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

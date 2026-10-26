@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-22T22:01:41.383Z",
+  "updated_at": "2026-10-26T22:57:28.700Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 22,
+    "press": 24,
     "gov": 0,
-    "en": 11,
-    "hi": 11,
-    "total": 22
+    "en": 12,
+    "hi": 12,
+    "total": 24
   },
   "mentions": [
     {
@@ -80,16 +80,6 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "शिमला में पानी महंगा, जल निगम ने बढ़ाया टैरिफ, अब कितना चुकाना होगा बिल? - Hindustan",
-      "source": "Hindustan",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb3ZzTDdGX0phek95ZjRtTEtvcFR4UjRsNWdJX0w1S3hCVjJUajZyT3g4TWxKV0h2b2tpaVRJX2tUMHU0d183UlFJUWJjb3FoaHEtQ2doU3NSLWVPQTRmdTVLZERhdjJXR09YVHFfWkR1cHVnUXlrN2gtR2lpRm1sYUZLUTJhSzZOanRSZUkwT2xLX1V4cjZoVkZHZkY2MHo2b1RjVklpMnFNcnlVZEhibWdHVnhXNmNwcXdMMUQyRTladjA3NUVhMTRUeC1MMHhsM2NNdFFRTmRsQS0ya09V0gHkAUFVX3lxTFBRSXI4RHpYd1Z0dmQtdl9BUHFNYy0xR2dfdkx3Z2JGVU05NTNJd3dhbzdBYkFVeEtxR3ZHNzQ4UkZ2UGRjZzkzMXJuUlRGSnlmV1F4dFlveTVzTVFZcjhwVkV4Q0E2eHFMZzNpUVlLUGJldHZGY1pKbUlrYnB6NWd0M21YckkyaHpYVlF2QUYwcDRGOXgtTHFvR1l4cjBZUDd6ME92Tk5JeWgxcUZHTHM4R016SklKZ3VSUkRGTXpEcE5Va21ieDEwRFlJRW1OMHR5S3d4OV9mWE5nQnhHS19JYUw3Nw?oc=5",
-      "date": "2025-04-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
       "title": "Ex-Dy Mayor seeks shifting of Winter Carnival stage in Shimla - The Statesman",
       "source": "The Statesman",
       "source_id": "google-news-en",
@@ -130,6 +120,16 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
+      "title": "गर्मी की दस्तक के साथ ही सूखने लगे पानी के सोर्स, यहां सप्लाई शेड्यूल में किए गए बड़े बदलाव - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSVhzVDNDbjlnSU9yampSWlI4ZDFEUnZlcC1kRHZXQ2xTeW5QQVB1clZmVjNvb3NlT3U0YW5EZjFyb3VXVW95dkJHWGR5eU9VQm9CRTNGdkFTdEwtNVNTM08ybXVJUlVvQWlBSEhFVmRzUU5MbUVidE1sdzMzRk8xN3pVUUV5YktzeEpqQnNJelk0S3g4dVRROGNvUGVqUFltZGNUZjFqOEF4QXkyQlVjQ1NBajV3VFlYem1oeEc5a0NBM1XSAcgBQVVfeXFMTUdWWElaOTV2Rl9pdlRLTVFvOFY1bVFiR0xsSTNqQnpxVUs2SWpDWV9GLU42eGN1YlRpcE1NUlMwVzdDaW5uOVdWeXRxSDRYbHM5XzMxVGlrcUJFaEtjbmxQaEI1NS1ibFNvY182YXZnLUhxVUdSLTBFbHFsMXcwU2gtUUE0Y1EzUXhpMVl1TjRkeTFnWkZoNl82ekRDaTJNTWJKY19vdS0tZm0xSW1zU2Y3anhCSXZvWjJBTVZ2ZWVmWmV6QWZGbW8?oc=5",
+      "date": "2024-04-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "SJPNL Shimla"
+    },
+    {
       "title": "ई. वीरेंद्र सिंह ठाकुर शिमला जल प्रबंधन निगम लिमिटेड के नए MD, सरकार ने जारी किए आदेश - Divya Himachal",
       "source": "Divya Himachal",
       "source_id": "google-news-hi",
@@ -157,6 +157,16 @@
       "date": "2022-09-15T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "Shimla households to be connected with sewerage network in 1 year - Construction World",
+      "source": "Construction World",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSlpWeVRxd1lkSlFja3pJaWdUZTZ5YXJWOFY4OFU2LWo2Z25tUFpRUFg3bElMRms4ZVlyMy1EWXpVV0h1X2tvMGtRU1FWaFVHQVpsWkJWc3p3NFlfeVRubWtSNDJEOXlkekFiUGdZdDl1ZUZrZ0JSV2FBNl9idjhRXzRwMFNGa2JhZ3pzZDZrZHFlR1lsT1kxRWVxVXcxRnBCR2R4R1p3dllPNmVfNjJVTDE2aTR3cFVpS09SYWVyUWc1MmZrelJSUEpVUmJwYnNOMmxrZnhzbzhocGg2N1RWYW5YREFTM0xTeWYtUkhn?oc=5",
+      "date": "2022-01-22T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Shimla Jal Prabandhan"
     },
     {
@@ -195,16 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcnFLb2ZxUTlNLUxzdThndTdkSml4S2h3Z0J2NURvdWlwM3ZMbDg4V1E2Zi1XQzF3Vmpod2FodTUwTUtGTmo1S1dOaWhMT0x0RXdKUmhSeWVrcXVnVmJMdFpzQzhkSFpNZjRVTEM4RHVxdE5OeTFWbXVOaU5CQUIxeURycEh3RE5LUmpVM3pJM3RJbGNIVUFRQkRLcE53YVNNcHNmYmZpUXFSbGVuX0FPY1EtUHBiRTJ4WWtGaw?oc=5",
       "date": "2020-10-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "SJPNL Shimla"
-    },
-    {
-      "title": "Shimla Jal Prabandhan Nigam claiming of providing quality potable water - The News Himachal",
-      "source": "The News Himachal",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN242WUtqS3hnNTRiSG1rNk1BUHRqSWd1bzFZbjZQSUlVZTNlSUpXVGFnMjlDVmNuVUYwNmZHYUNUWW1sbFNjRUFmbFN3YjBFbXp4YjV5OW1rZzh6bDB3cDhKQlUxVzFBaWFIRF9KbTV0UEhKZ2xYOTgtX0FVbFhKb2gwQVJMQ09iVVpWSHBnOG1UNmxCX005S0Q0V05vNDRQeVdoYk1jclQxb2dj?oc=5",
-      "date": "2020-04-24T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "SJPNL Shimla"

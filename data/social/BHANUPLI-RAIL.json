@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-22T22:00:15.715Z",
+  "updated_at": "2026-10-26T22:56:46.584Z",
   "project_id": "BHANUPLI-RAIL",
   "counts": {
-    "press": 3,
+    "press": 5,
     "gov": 0,
-    "en": 1,
-    "hi": 2,
-    "total": 3
+    "en": 2,
+    "hi": 3,
+    "total": 5
   },
   "mentions": [
     {
@@ -17,6 +17,26 @@
       "date": "2026-02-08T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Bhanupali Beri railway"
+    },
+    {
+      "title": "रेलवे प्रोजेक्ट साइट पर टिप्पर चालक की मौत के बाद प्रशासन सख्त, कंपनी दिए ये निर्देश - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcUpYWkVRU0NxSjl5LUxERDBNemo1QmJxOHVZRGl6NGt0ZnFyX0lLR2ZCWnBOWktYUlNVZTRpWDF1NWtkSnRhZFphZ0dCVTF6dGpBZ0pWZk04Tjl6VDhuNS1WalNFMzRKRzRJTVJoakRBbVVZR29ZZnE1OTVMcVVnUThhWEUyVks1a3lKblJkVkltWDJzRk9KRXBmam1jM0Fza3lMdmRBMmNzeEI5Nms4QVN5Z1poUjVCclEzMFV0aGdDOGdUZmJUaVBaLTh3Y0thZFVQekFB0gHbAUFVX3lxTFBhMXNIWTlaOG9UbXdXQ2I1UlFOandsNm1hVmFmYlpmenRqVnBiWEFOdWR6cVBLS0t4RTBVbUMtaGJ3WXBQYW1DcGZXMkRILWg5MVNfSk9pMFBYclFsUGxaaEt1LU04QjAxTDhCWnVoVEFlUE5jalhDNWlnQjIxOWpyVHExLVFkYzgycGpKNXpXVElFTlFYN004MThIdlktODFybHNvWXZha2h6S0gxSGJSNHhUVEhsMnBKZHBab0tDYlRLN1poQm8tTDVNRV9kYldTMXZmREk1SFlvNA?oc=5",
+      "date": "2026-02-07T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Bhanupali Beri railway"
+    },
+    {
+      "title": "Villagers’ protest against railway line tunnel construction in Himachal Pradesh enters day 4 - ThePrint",
+      "source": "ThePrint",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMGNQY3p3WTkzTk42YmRJVldsa0Raemd1b2pGMFk4bTZfMDFqcjlHT2RfOXZpbDgwWXlTT3g3dy05aU1UdFNHYlpTaU5mQ3BvTHBHZEotYzhGZ1VhQkFTb0FSS0JzODhVT296MEhTdG5rUnNKbGx5ejZfWGVGeHAwWWV4Z1ZlTDFfS3ZWdEwwa2s2RE9GSWxrdzdCTjlZaDlJX0oySnpLejdoLWJTMl9wekFhZVlOSjlKZG9zbDhKTGJ6RUQy0gHKAUFVX3lxTFB0RWRrN3ZSUVdicXhOdEE5LS1TV194V2UxcHhwaG1Da3gwQzRwY3hUQ2U3Vlplb0tUUk94aDZ5UnpfOHRQSk9aRGhsZWI2QnlQbTVVTGtTMmROb09aUVA0N3k0YXNuSlVOV2Zfanp5X0hYSTlpdjBxNUkxbTZrOUNkY0V0dzVsVWhJZjZYV1hwMG42QXhKSEJ6SFhTdVhwNDk1M3lwLWN0V1haTVlCakRXNGpOcWdZRnVIM3Y5Vy1JMUNtMzIzbDk5T1E?oc=5",
+      "date": "2025-04-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Bhanupali Beri railway"
     },
     {

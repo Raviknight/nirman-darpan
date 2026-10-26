@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-22T22:03:41.065Z",
+  "updated_at": "2026-10-26T22:58:13.923Z",
   "project_id": "NH5-PWN-SHL",
   "press": {
-    "n": 16,
-    "positive": 8,
-    "neutral": 4,
+    "n": 17,
+    "positive": 7,
+    "neutral": 6,
     "concern": 4,
-    "avg_score": 0.044,
-    "avg_magnitude": 0.306
+    "avg_score": 0.029,
+    "avg_magnitude": 0.276
   },
   "youtube": {
     "n": 5,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.56
   },
   "overall": {
-    "n": 21,
-    "positive": 11,
-    "neutral": 5,
+    "n": 22,
+    "positive": 10,
+    "neutral": 7,
     "concern": 5,
-    "avg_score": 0.062,
-    "avg_magnitude": 0.367
+    "avg_score": 0.05,
+    "avg_magnitude": 0.341
   },
   "top_positive": [
     {

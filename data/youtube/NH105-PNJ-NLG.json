@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T22:03:29.998Z",
+  "updated_at": "2026-10-26T22:58:01.612Z",
   "project_id": "NH105-PNJ-NLG",
   "query": "\"Pinjore–Baddi–Nalagarh 4-Lane\" Himachal",
   "counts": {
@@ -13,15 +13,6 @@
       "channel": "Gaurav Kumar BilaspuRiya",
       "published_at": "2022-06-18T02:49:34Z",
       "description": "",
-      "comment_count": 0,
-      "comments": []
-    },
-    {
-      "videoId": "NBPnIfW8JTU",
-      "title": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal",
-      "channel": "Viral GOGI",
-      "published_at": "2023-05-20T00:50:53Z",
-      "description": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal #news #fourlane #baddi #nitingadkari.",
       "comment_count": 0,
       "comments": []
     },
@@ -48,6 +39,15 @@
           "published_at": "2023-04-23T06:55:28Z"
         }
       ]
+    },
+    {
+      "videoId": "NBPnIfW8JTU",
+      "title": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal",
+      "channel": "Viral GOGI",
+      "published_at": "2023-05-20T00:50:53Z",
+      "description": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal #news #fourlane #baddi #nitingadkari.",
+      "comment_count": 0,
+      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

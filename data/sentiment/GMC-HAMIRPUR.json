@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T22:04:43.902Z",
+  "updated_at": "2026-10-26T22:59:06.893Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
     "n": 0,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 13,
-    "positive": 3,
-    "neutral": 8,
-    "concern": 2,
-    "avg_score": 0.069,
-    "avg_magnitude": 0.215
+    "n": 30,
+    "positive": 7,
+    "neutral": 17,
+    "concern": 6,
+    "avg_score": 0.04,
+    "avg_magnitude": 0.283
   },
   "overall": {
-    "n": 13,
-    "positive": 3,
-    "neutral": 8,
-    "concern": 2,
-    "avg_score": 0.069,
-    "avg_magnitude": 0.215
+    "n": 30,
+    "positive": 7,
+    "neutral": 17,
+    "concern": 6,
+    "avg_score": 0.04,
+    "avg_magnitude": 0.283
   },
   "top_positive": [
     {
@@ -33,30 +33,30 @@
     },
     {
       "source": "youtube",
-      "title": "🔥🔥🔥🔥🔥❤️",
-      "score": 0.4
+      "title": "Good going Girl!🎉",
+      "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Kya ab claases shuru ho gayi hain",
+      "title": "🔥🔥🔥🔥🔥❤️",
       "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "New batch ko new campus me shift krenge kya",
+      "title": "Dii cut off rank for state quota gen?",
+      "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "why is it so empty? are you like the first batch ever?",
       "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "How is the paediatrics department over there",
-      "score": -0.2
-    },
-    {
-      "source": "youtube",
-      "title": "Does the new campus include a hostel for students.😊😊",
-      "score": -0.1
+      "title": "New batch ko new campus me shift krenge kya",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

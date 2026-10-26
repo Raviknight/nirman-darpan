@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-22T22:04:21.246Z",
+  "updated_at": "2026-10-26T22:58:44.526Z",
   "project_id": "IIT-MANDI",
   "press": {
-    "n": 0,
-    "positive": 0,
+    "n": 1,
+    "positive": 1,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.5,
+    "avg_magnitude": 0.5
   },
   "youtube": {
     "n": 0,
@@ -18,14 +18,28 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 0,
-    "positive": 0,
+    "n": 1,
+    "positive": 1,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.5,
+    "avg_magnitude": 0.5
   },
-  "top_positive": [],
-  "top_concern": [],
+  "top_positive": [
+    {
+      "source": "press",
+      "title": "आईआईटी मंडी ने विकसित किया देश का सबसे बड़ा लैंडस्लाइड अर्ली वार्निंग सिस्टम - DD News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUVvejRKQno5V05IeVhWQ3ZPV2MxQU9nRE5LX0RKRFJDc3c3R1VXZXVkWGZJUmF1cEFtWmN5QlNzOGJqTl9EM3didElQQWdEUUFTTVV5bW0zdmd6NVpCcnpOSjZERW1CR29JdmNMVlRVMmxiSTdOY2NEaXlRMHBwenFnUDJEUzZ0aHRBMVJuS1NLRGtHdUNHeVZtV2xhTDQ?oc=5",
+      "score": 0.5
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "आईआईटी मंडी ने विकसित किया देश का सबसे बड़ा लैंडस्लाइड अर्ली वार्निंग सिस्टम - DD News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUVvejRKQno5V05IeVhWQ3ZPV2MxQU9nRE5LX0RKRFJDc3c3R1VXZXVkWGZJUmF1cEFtWmN5QlNzOGJqTl9EM3didElQQWdEUUFTTVV5bW0zdmd6NVpCcnpOSjZERW1CR29JdmNMVlRVMmxiSTdOY2NEaXlRMHBwenFnUDJEUzZ0aHRBMVJuS1NLRGtHdUNHeVZtV2xhTDQ?oc=5",
+      "score": 0.5
+    }
+  ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

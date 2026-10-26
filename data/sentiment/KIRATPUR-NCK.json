@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-22T22:03:47.593Z",
+  "updated_at": "2026-10-26T22:58:14.920Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
     "n": 15,
-    "positive": 11,
-    "neutral": 1,
-    "concern": 3,
-    "avg_score": 0.173,
-    "avg_magnitude": 0.34
+    "positive": 9,
+    "neutral": 2,
+    "concern": 4,
+    "avg_score": 0.093,
+    "avg_magnitude": 0.347
   },
   "youtube": {
-    "n": 12,
-    "positive": 6,
-    "neutral": 5,
-    "concern": 1,
-    "avg_score": 0.275,
-    "avg_magnitude": 0.467
+    "n": 17,
+    "positive": 8,
+    "neutral": 7,
+    "concern": 2,
+    "avg_score": 0.259,
+    "avg_magnitude": 0.476
   },
   "overall": {
-    "n": 27,
+    "n": 32,
     "positive": 17,
-    "neutral": 6,
-    "concern": 4,
-    "avg_score": 0.219,
-    "avg_magnitude": 0.396
+    "neutral": 9,
+    "concern": 6,
+    "avg_score": 0.181,
+    "avg_magnitude": 0.416
   },
   "top_positive": [
     {
@@ -33,8 +33,8 @@
     },
     {
       "source": "youtube",
-      "title": "very nice Which camera you are using ? Good quality output.",
-      "score": 0.8
+      "title": "wow great news thanks for sharing",
+      "score": 0.9
     },
     {
       "source": "youtube",
@@ -45,20 +45,20 @@
   "top_concern": [
     {
       "source": "press",
+      "title": "Terrain trouble: Landslides, floods triple cost of key Kiratpur-Manali highway - Himtimes",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzFxSjdEeVVIQ0VFbTBvRDhzVlVhRWxrRF9naHp2TkdhaS1OamtyVmg3dmxMaXpNQ2RmTTlrY0VvYmxkUzVfZ3FNblAwMFBOcG5Ga05hd2VqMmtoS3BEbTI4ZmpmUlA3Y2htZXZYemlJY2JfenNEQ3ZuS2dMaEZjeTBsOWZFWTRSRDJyUDM2ZGN3SkhnUDlxWUtnVDNTMlU?oc=5",
+      "score": -0.8
+    },
+    {
+      "source": "press",
       "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
       "score": -0.6
     },
     {
       "source": "youtube",
-      "title": "Today i come from ghumarwin to kenchi mor via tunnel. It take 1 hours to kenchi mor from Ghumarwin but lot of work pendi",
-      "score": -0.2
-    },
-    {
-      "source": "press",
-      "title": "Heavy rainfall lashes HP, 162 roads blocked - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUEFRXzQzZVVXSzkwYld5dUlfLXlveU5ZM3B4SThNdG5aZWhTOWxKbVNmeU9IZ2dtWnUtMDJBWWNreC02ell2OHdfb2c2aHJVZ0FsTkZHTTZVcUR0Q1pSV3pWdkFjQjQ0VlAwMVdLd3BsMGZWTkdnQzRPLXNvS3pFd3RSeGhLNVpnX1FqaHlNNkpYQWR0emo4dmRMbjhKeGF0MVY5M1RROE84T2tuRHRCLWxkVTVQaWwzc3BpYdIBwgFBVV95cUxPeDJEcUZNbjJpZ2pDV1gzMVFuRElfaS1icXlQM0luOWdGXzJkZmd3T3JGbkpSQjBwM3hmREdPWHI3UzFVSjI4X0VPYWdER0xYQ0JRampPbDRuUTNfQUNEVGdlLV9nV1piVHRRWndYNW1qY28wV053TTRfOF9ibUxzM2NfWUtWV3NxTEN4UVVvNnVwa3JITmRycGV0elhpdTZ3NE5KSlhUUENKUGJGUWY0aVU2UWN6a0VzZ3NkNXgxSlV4Zw?oc=5",
-      "score": -0.2
+      "title": "Why only one tunnel for fourlane",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
