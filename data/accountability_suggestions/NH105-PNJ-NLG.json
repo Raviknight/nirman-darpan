@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-26T22:57:49.936Z",
+  "updated_at": "2026-10-29T23:04:01.869Z",
   "project_id": "NH105-PNJ-NLG",
-  "count": 5,
+  "count": 4,
   "suggestions": [
     {
       "category": "litigation",
@@ -30,20 +30,6 @@
       "lang": "hi",
       "date": "2026-04-21T07:00:00.000Z",
       "matched_term": "high court"
-    },
-    {
-      "category": "grievance",
-      "severity": "low",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-09-07T21:52:27.661Z",
-      "title": "Haryana MP Kartikeya Sharma discusses road-related issues of Panchkula with Union Minister Nitin Gadkari - ANI News",
-      "summary": "Auto-detected from press: \"Haryana MP Kartikeya Sharma discusses road-related issues of Panchkula with Union Minister Nitin Gadkari - ANI News\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTF9RQldYUmVnTnowLXVNSGhHOXlndmZnUnBqOG83d0tOeGZkQWRvVGZrV0lvLTdxSGlrQ2dPdS1uWm1TVTNaVGJKRnVPa0xFS0FObDA3U3F6Mk01SDlZYlN4dzJjblF5TmNXZ3RSRHVHR2pfaUh0SWVNd1RkSElteEJmQ1liekd4YVRQNWlWQzQxSnJWeVE1cUN5cjZleHpiUVpYcFhicHlNT1hFSzh2RG1OdGZ2UE5CaFR0S2RIYlpsdjJ1QzB1bS0yaWFLV1JxVXd2cUtZeERmMzdKTF9DVzVWaEFVRmJtNkNvQ09ZUmhVSGJqdkxlYTNYZ2E?oc=5",
-      "source_name": "ANI News",
-      "lang": "en",
-      "date": "2025-11-07T08:00:00.000Z",
-      "matched_term": "rti"
     },
     {
       "category": "litigation",

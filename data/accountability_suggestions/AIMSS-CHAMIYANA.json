@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-26T22:57:49.941Z",
+  "updated_at": "2026-10-29T23:04:01.872Z",
   "project_id": "AIMSS-CHAMIYANA",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-09-03T21:32:35.084Z",
+      "title": "HP High Court pulls up state over AIMSS Chamiyana delays - Awaz The Voice",
+      "summary": "Auto-detected from press: \"HP High Court pulls up state over AIMSS Chamiyana delays - Awaz The Voice\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamhYTktXd2ZPV2huY1pHTDVqRVo2U3A3bG9pcTRjVGlNT3p2enY3UDF0QURwdXkzQ0E1d3pqVzE3cVJBeG9IYjJGSVRLa181QXlCbDc1RkIxUGFlLV90cUZvOVBKTlZXWnFFajJBTFFGZnRzZGF0WW9BMjhKRGVqcXhGN193ZTdOM0VabEZZYllJdm5KbW51eS1CSkRkVEp5SkFFcjhKTFBxUQ?oc=5",
+      "source_name": "Awaz The Voice",
+      "lang": "en",
+      "date": "2026-01-09T08:00:00.000Z",
+      "matched_term": "high court"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

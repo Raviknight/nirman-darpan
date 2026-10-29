@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-26T22:58:44.526Z",
+  "updated_at": "2026-10-29T23:05:00.273Z",
   "project_id": "IIT-MANDI",
   "press": {
-    "n": 1,
-    "positive": 1,
-    "neutral": 0,
+    "n": 2,
+    "positive": 0,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0.5,
-    "avg_magnitude": 0.5
+    "avg_score": 0.05,
+    "avg_magnitude": 0.05
   },
   "youtube": {
     "n": 0,
@@ -18,27 +18,39 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 1,
-    "positive": 1,
-    "neutral": 0,
+    "n": 2,
+    "positive": 0,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0.5,
-    "avg_magnitude": 0.5
+    "avg_score": 0.05,
+    "avg_magnitude": 0.05
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "आईआईटी मंडी ने विकसित किया देश का सबसे बड़ा लैंडस्लाइड अर्ली वार्निंग सिस्टम - DD News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUVvejRKQno5V05IeVhWQ3ZPV2MxQU9nRE5LX0RKRFJDc3c3R1VXZXVkWGZJUmF1cEFtWmN5QlNzOGJqTl9EM3didElQQWdEUUFTTVV5bW0zdmd6NVpCcnpOSjZERW1CR29JdmNMVlRVMmxiSTdOY2NEaXlRMHBwenFnUDJEUzZ0aHRBMVJuS1NLRGtHdUNHeVZtV2xhTDQ?oc=5",
-      "score": 0.5
+      "title": "IIT Mandi Placements 2025: Average Package, Highest Package, Top Companies - Shiksha.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXNRcWtUbFVyMTh1RUZ5ajJTMUVRRXVjWVE5elQxNTVobjc4VEFHZFkxekNQRXNtMXhhTzZoSm9vWjdqdFVUTXlvekxVRnRPVlRUWjdTSGI2M1RzYThkMkRHSEhXZ3NPejd3cXBEOGhralY1akxBWVl5ZzUybE5oeWROc3U1dndLZUEyTWNxOU50dw?oc=5",
+      "score": 0.1
+    },
+    {
+      "source": "press",
+      "title": "IIT Mandi Cutoff 2026 (Out): Check JEE Advanced Round & Year-Wise Cutoff Trends - Shiksha.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTFU1dUdzS1FLVlZvdFN3Y2p1RmxhSkF2LWl4WlF5M3JsMnhZdmV3anBxaUNkZ0NWYXZmem53WktVME1tbDFkOWJZRE44a3BiQUpPQnowY0xiX2pLLXJwRG55NzNoMC1MMmZoXy0wUEJKTU1HemV1SXhkdVRHQlBzekd0X3NRNEFLMldKN29B?oc=5",
+      "score": 0
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "आईआईटी मंडी ने विकसित किया देश का सबसे बड़ा लैंडस्लाइड अर्ली वार्निंग सिस्टम - DD News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUVvejRKQno5V05IeVhWQ3ZPV2MxQU9nRE5LX0RKRFJDc3c3R1VXZXVkWGZJUmF1cEFtWmN5QlNzOGJqTl9EM3didElQQWdEUUFTTVV5bW0zdmd6NVpCcnpOSjZERW1CR29JdmNMVlRVMmxiSTdOY2NEaXlRMHBwenFnUDJEUzZ0aHRBMVJuS1NLRGtHdUNHeVZtV2xhTDQ?oc=5",
-      "score": 0.5
+      "title": "IIT Mandi Cutoff 2026 (Out): Check JEE Advanced Round & Year-Wise Cutoff Trends - Shiksha.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTFU1dUdzS1FLVlZvdFN3Y2p1RmxhSkF2LWl4WlF5M3JsMnhZdmV3anBxaUNkZ0NWYXZmem53WktVME1tbDFkOWJZRE44a3BiQUpPQnowY0xiX2pLLXJwRG55NzNoMC1MMmZoXy0wUEJKTU1HemV1SXhkdVRHQlBzekd0X3NRNEFLMldKN29B?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "IIT Mandi Placements 2025: Average Package, Highest Package, Top Companies - Shiksha.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXNRcWtUbFVyMTh1RUZ5ajJTMUVRRXVjWVE5elQxNTVobjc4VEFHZFkxekNQRXNtMXhhTzZoSm9vWjdqdFVUTXlvekxVRnRPVlRUWjdTSGI2M1RzYThkMkRHSEhXZ3NPejd3cXBEOGhralY1akxBWVl5ZzUybE5oeWROc3U1dndLZUEyTWNxOU50dw?oc=5",
+      "score": 0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-26T22:56:50.129Z",
+  "updated_at": "2026-10-29T23:03:02.372Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 48,
+    "press": 44,
     "gov": 0,
-    "en": 35,
-    "hi": 13,
-    "total": 48
+    "en": 34,
+    "hi": 10,
+    "total": 44
   },
   "mentions": [
     {
@@ -20,23 +20,13 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "Geo-tagged monitoring ordered to track environmental safeguards at Luhri Hydroelectric project | Hindustan Times - Hindustan Times",
+      "title": "Geo-tagged monitoring ordered to track environmental safeguards at Luhri Hydroelectric project - Hindustan Times",
       "source": "Hindustan Times",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWGVWQS1pRnVjRzlfZEVaQngxTlQxNEJrY2RNdTZDWUN3bmNMNElsd0xjS0Z1bTBMblo5Q2xjNkdmRTJ3UVczR25yMk0zLTFPOUFjSWtGdngtM3ltZzI3dENyeVExQWlKMkx5cktVc01oOTRSYjBVTzJNNGtGOTNEcU0tcURMZGxhLU5zUkF0TllGaTdsYzVTc0NOQzNOSGlTZGVpMTh3ODVua3lTMHFOc1Y4elI1eFdfTGM2Z3FHU3czVlF0TUt3Mi0tNmZBcVFVYTgyc3M4cU9CRUYtR0JUR0hiQWNtWTlpMlJtdGE4enVHVHNZMzBaMUo1OELSAYICQVVfeXFMTWxLa0g5bHprNVhHVWxYbmRZanFoQUxBOXRKR2EtNlNNbEFkSWdEVFY1V19HamoyN3YxT0FWdVVPWEhabmZrcUdoLVRnVkp6RWt4WkZRdS1XaURnT1R5dTlGS2FqVnVUd0dRaUF3VXlSNEVKZWh5clM2QXZYb1NRQXg3dWRsenFIVEtDcnVRYUpHQjNEcVMybDdGTGs5VFNYSGFqdG5fUEZlRUJLazE2ZjRYWjZPLUM1blE3QnE1Q3VEdDhERURrU3h1STNFZWhzU016b1hNUDJzXzRfYm56ZmptS0lsa0F1cGZNV1hNNzlRZkhtTXJ6VkYxRXFWZkNKU1h3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWGVWQS1pRnVjRzlfZEVaQngxTlQxNEJrY2RNdTZDWUN3bmNMNElsd0xjS0Z1bTBMblo5Q2xjNkdmRTJ3UVczR25yMk0zLTFPOUFjSWtGdngtM3ltZzI3dENyeVExQWlKMkx5cktVc01oOTRSYjBVTzJNNGtGOTNEcU0tcURMZGxhLU5zUkF0TllGaTdsYzVTc0NOQzNOSGlTZGVpMTh3ODVua3lTMHFOc1Y4elI1eFdfTGM2Z3FHU3czVlF0TUt3Mi0tNmZBcVFVYTgyc3M4cU9CRUYtR0JUR0hiQWNtWTlpMlJtdGE4enVHVHNZMzBaMUo1OEI?oc=5",
       "date": "2026-10-03T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Luhri Hydroelectric"
-    },
-    {
-      "title": "लूहरी जल विद्युत परियोजना में स्वच्छता ही सेवा अभियान का समापन - uttamhindu.com",
-      "source": "uttamhindu.com",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjlpZWFyWDRkX0FzWE5YVFljcjhYQ0k5TFFQTkYtWldET0MwN3dubDIyZjFOZktLY0dvcG14RC1lR2tJZEhTYWpWQXRoNnJrMjc2V1c4Nno3UjJiMkhXS1NmV0N4RXgtUW5xUWJCRl9WWjNuSW5zQ1dnUUt2Nm8xNlQ3MGxmLVlxZnFBQkhiWFhPM3d0UUdBWVVINFJjYlBEYlFkUUZlOTZRQ2tvX1E?oc=5",
-      "date": "2026-10-03T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Luhri Hydroelectric"
     },
     {
@@ -58,6 +48,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "SJVN Sutlej"
+    },
+    {
+      "title": "REC Power Development and Consultancy Hands Over Luhri Power Transmission SPV To Terralight Solar - SolarQuarter",
+      "source": "SolarQuarter",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLUd0MkRlVE5VZ3F5R2JzT1lPckFtblRlMVBjWENYQmFmZkVzdFZTUFhrM3ljYi13ZGlJSDNadFFzcjU1bG02M3F3eHBpZnpBOTdaSVJtZUtSTXpiZGdJSExDcDZtUHhuV21IZEtOdjFtblA2N1Y4Nks4OUdkeWJOeWh4VzRQZndLSHdwNURFTW0wWU9ISXRuV2podV82dnFxXy1TbFAtSmJobmFoNWlXcXM2Rld0XzgwVW1wbklnbDRxcTJqbnh5Vk5YUTAyM0E?oc=5",
+      "date": "2026-09-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
     },
     {
       "title": "RECPDCL Hands Over INR 839.55 Crore Luhri Transmission SPV to Terralight Solar - Energetica India Magazine",
@@ -150,16 +150,6 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "SJVN signs PPAs with GUVNL for 658 MW green power supply - scanx.trade",
-      "source": "scanx.trade",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG5JcDFtRkRQUUJjTVVfZnplaGthempWLXVsaEF4NmlMLWcwc2RLMGFLQzQtbk0ySHBtNzczWTlsaDUxbnMxNGxTcjhxbWxJcVhDbklIX1REZEtFdWYyV3RtZENkZkJEMWxHdVBQSllQS0dyTlB6cDVWTEM5SHpkSG02bVF5NFRlLUJUWHlMWmNMNmNSazJtUXZzM3NlY1RwbHhIbVFWaDdpWG5SeVhQOTlSOWxYR2tqeGY3aw?oc=5",
-      "date": "2026-06-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
       "title": "SJVN inks 658 MW hydro power PPA with GUVNL - Whalesbook",
       "source": "Whalesbook",
       "source_id": "google-news-en",
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Luhri Hydroelectric"
+    },
+    {
+      "title": "केंद्र के अधीन स्थापित होने वाले चार पावर प्रोजेक्ट्स अब होंगे हिमाचल सरकार के, जानिए क्या है नई अपडेट? - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTY3Wng4STVlRjdUNEhNSW9LYjVac082SE5nY01yRVUtT295ckplMlJydUZzTzBCTEVaNDZkOUZaSW5naEJ5VmJwQXB4WFBYdEJkVk1PQnA2TG5EVFJJYjZLdGFHM1JJaGJkLVE3QlpiNTdqNTR5MmpBZVViX0J1UnZwOGtJZXlxUlRqVzMzYzlsVGlMMlBXUkpseUlTZkxZZGlpNDBfeGVLNFhTR01HVFFLalN6ZktrNWdHUGY3NU1TVUhUOXotZlpLaE01R0haMEVMeTVYeDVmZU4wdmfSAeMBQVVfeXFMTmNSTG5KckJmcVk3R0lQdnh1YTdDMWRVT3JqVG91dVNYQTFObjY5UEgwU1Z1azZSbWdKZGtPWnZVUzY5ZXhwTnREWDF5d1ZrcU44RFNmZFNJaUttX2ttNkt6ZXpFT1EwWnNmd3YyQnJncVBfdVNXZVhhYnBSN2t4aXFORjZURV91U3J1Zm1iNVJ4eGhKQ280WTVvbjFxVENZLVE3TGoxYURxNmJkdkxMT21NNXg1bkhPU01RbjVOQnlBUDdEa0Q0emJzMXYwS0NYYXBBbGhXTktESHlJaTJDb1pJN00?oc=5",
+      "date": "2026-04-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Stage"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

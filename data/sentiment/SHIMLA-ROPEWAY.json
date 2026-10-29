@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:59:09.502Z",
+  "updated_at": "2026-10-29T23:05:25.747Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
     "n": 13,
@@ -10,25 +10,25 @@
     "avg_magnitude": 0.177
   },
   "youtube": {
-    "n": 4,
-    "positive": 3,
+    "n": 6,
+    "positive": 4,
     "neutral": 0,
-    "concern": 1,
-    "avg_score": 0.325,
-    "avg_magnitude": 1
+    "concern": 2,
+    "avg_score": 0.15,
+    "avg_magnitude": 0.8
   },
   "overall": {
-    "n": 17,
-    "positive": 7,
+    "n": 19,
+    "positive": 8,
     "neutral": 7,
-    "concern": 3,
-    "avg_score": 0.129,
-    "avg_magnitude": 0.371
+    "concern": 4,
+    "avg_score": 0.095,
+    "avg_magnitude": 0.374
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Awesome",
+      "title": "Lovely 👌",
       "score": 0.9
     },
     {
@@ -47,6 +47,11 @@
   "top_concern": [
     {
       "source": "youtube",
+      "title": "Aap hmar Message  nahi Dahka raha inbox ma or na Reply \nKya bat naraj ho to hm Message nahi kar gya  🙏🙏\n🙏👌🌹👍❤",
+      "score": -0.6
+    },
+    {
+      "source": "youtube",
       "title": "I am from Solan. I can tell you this is just a false promise. \nGovt had promised a ropeway project in Shimla more than 5",
       "score": -0.5
     },
@@ -54,12 +59,6 @@
       "source": "press",
       "title": "Amid Shimla Ropeway Facing Cost Rise Over Five-Year Delay, Himachal Pushes Air Links, Clears Asia’s Longest Adventure Zipline - Swarajya",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ3pmXzF2eExEc1V3WGN3RWsxM28yRF9zd0pUOW9mWEFodVpjMG1wUDdwZW85Qm9LX3RVcmFoNzU0YlMtTFF3dGN4bWYwQ1pZTmt5ZUJad1Vid2kzcWdYakJORnZ1elptNGN5S0wzSFJORHpWTHh4SmhtT09jeTAyNFk3S0dtcGNiOVdmdG9rbkJka0NCemVaUDA2UFJLNzRUQjdRYnVUQ0FRdGQtNTdpRGZyMjNlRWNOOVlzTGlHY3JDRW1fSDZEcnVzMlZWM2NMRWtEQkh6c1FEU0dDM2N4Qm5mT0NTUFRLZ1pLUWlR0gH-AUFVX3lxTE5TcVNiYkxVS09SZTJlM0JSbzlLdW1TejNzcll2QnhsZXFxTXhxV0RuaEdKa1JkeFRJbzRxUG9pWFBIaHV3MDJnUjBnaEdRWnRETUVjU1ZucWRYSjNVRnUyY2FRUm5OSmNWd3RvTXRDdk5MQWtsTFoxMHBGWHZQQ3Yxc21XM0VuRHpxblpZbDdZNGxMY0NhTmJOaG91aHpJdEdOSEp6TWllZzVPVzBuSEc4ZE5WMHNtaTRtUTg5MVhVVW8zd1Y4OXZmVmYyS0I1clJXY0lLVHpCdG5JbEpMcVVyS015SnRxUk9Yekl4bXdTZjBlWG1DS0ZkcGVud01B?oc=5",
-      "score": -0.2
-    },
-    {
-      "source": "press",
-      "title": "Shimla ropeway left hanging as Himachal Pradesh Govt scraps tender after cost surges by Rs 1,200 crore - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnByNmZrM2NTcEhKYk1kU29mOUtrV1FTbk1Ba1Vfc0YxcHpxVFpFbkl6ajVxeV9aRTlkWUVaQmh0RlVUX3VSZDczclVtSnJ1cmZ3RWNHYWUwYS1yZ2oyYWphaTg0MkpxOUh2aUxSaVZhQ3hhMDBXRWVXVDVwa2RYNGtzdWN6NmRCN3lFT3dkdVpjMkxfZkJwV056UTNkejlDT05lRnMwcGNUZUlUeDBBVnhpcXlHUUh0V1QzbEJOTnBwYnN3VUJ5SjdZYUVxWjV1RkZBM3VXbG5QYVdERFVJ0gHjAUFVX3lxTE9OYmgxNnhkbS1uSVVnVGVrRG4xV1dleWRYQnNJTkhGSFVjakVfaTBSaTNUSzJTcklEeUxzRkxQRFdiYV83Q0YzX3B3RXdDbHZ1aS11ckhHQ3huYXVrTlZOV3RFUzMxUS1wVnM4dkdWaFZ2a1otQk83bEtUa184Q1Y1TUN2dTA2Sm1wS1ZjSGR1aW5ZT0t3bmpPdE1uUndyMG9jSTQzQ1RRWU9FeHBLdWUxNWhTWkRFNjFEYkh3UkNkNkNQZzhrLUlmUDBSN2Z1Z1ZmX3VLa0VqZ0p1OEg5dzFuRWxv?oc=5",
       "score": -0.2
     }
   ],

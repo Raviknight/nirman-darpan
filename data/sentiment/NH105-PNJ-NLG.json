@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-26T22:58:56.063Z",
+  "updated_at": "2026-10-29T23:05:12.618Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
-    "n": 19,
-    "positive": 8,
-    "neutral": 6,
-    "concern": 5,
-    "avg_score": 0.016,
-    "avg_magnitude": 0.3
+    "n": 18,
+    "positive": 7,
+    "neutral": 5,
+    "concern": 6,
+    "avg_score": -0.011,
+    "avg_magnitude": 0.311
   },
   "youtube": {
     "n": 2,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.55
   },
   "overall": {
-    "n": 21,
-    "positive": 8,
-    "neutral": 8,
-    "concern": 5,
-    "avg_score": 0.01,
-    "avg_magnitude": 0.324
+    "n": 20,
+    "positive": 7,
+    "neutral": 7,
+    "concern": 6,
+    "avg_score": -0.015,
+    "avg_magnitude": 0.335
   },
   "top_positive": [
     {

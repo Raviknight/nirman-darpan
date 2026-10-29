@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-26T22:57:08.852Z",
+  "updated_at": "2026-10-29T23:03:20.789Z",
   "project_id": "PARBATI-2",
   "counts": {
-    "press": 137,
+    "press": 150,
     "gov": 0,
-    "en": 62,
-    "hi": 75,
-    "total": 137
+    "en": 61,
+    "hi": 89,
+    "total": 150
   },
   "mentions": [
     {
@@ -20,14 +20,14 @@
       "match": "Parbati II"
     },
     {
-      "title": "Sainj–Raila road reopens as 12-day standoff ends between NHPC & locals | Hindustan Times - Hindustan Times",
-      "source": "Hindustan Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUTVPbzNna3h6d0ZtcGV3TnhxaXYwbHl0S0VXVVZxSDByQUtJQmQyY0VFTHI4dGFaaEZFVVFISEVfWHg1N1ZoTnNIMmZuSTl3WExkSXlSalJzRmllX0tyRDVvUl9NN0tnSGlRMWczcmg4ZHNVTms1THRqWm9fa283RkE5WFo4dGxSWFJEMTlGdVNQQ0hWMmxjVWVyWlJ3cEhTdHlxYU5CN3NkQUlDZEtNRk8wT2s0NmdDUWhUX0NqeWxJZDVTcUs4cVNzd2ZtOVZ3RGpkS0YyTVdhZ9IB3wFBVV95cUxQTjg0aG81cU04T2F6MW94YlBzcFZvWWRTUGM2MUl5UnNfclVCUWtuc21BbDZwVVRVSG5WVU16czBEME15bTlBcWtuMzJTR3FWeGtDUktJR09OZlByOFJFcWtSZFViRXpzMURXQ3h4alByckltay1mNVJJYWNiQjJtUHJxTUhYZEdlTlMwWkdQV0tOMWctdm44a0pCYnFidkx6UnRzQUNEUlZ1UmZBTVc4dEZmajhmZWJrcE1abUozWExWem1zakJ6Y2ZjdDA1bHI0N21xUEw0Z24wakpCVjM0?oc=5",
-      "date": "2026-10-04T07:00:00.000Z",
+      "title": "Karwa Chauth Date: भगवान शिव और माता पार्वती से कैसे जुड़ा है करवा चौथ का व्रत? जानें पौराणिक मान्यता - TV9 Hindi",
+      "source": "TV9 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamJrRXdBYlF0enRGRU05djRCUVZRNVNuZW12dnE2TTI1dFh0bmRPeHBlaC1lbWNOZjFiQ0EwUkFtREZHOWkwSkNabUNaODc2NFl3WDJvOVc1UEctcHlVdkM2a190azQtcnlZaHBwMERkSmhjeUpSR3I5MXpxYWM0dVc1V05DazR3alZhYTNhWTZkbVJENHZHNUxlOE9rZmk2UDZzMnJ0MHdQaXNmZmR3?oc=5",
+      "date": "2026-10-19T07:00:00.000Z",
       "kind": "press",
-      "lang": "en",
-      "match": "NHPC Parbati"
+      "lang": "hi",
+      "match": "Parbati II"
     },
     {
       "title": "टनल लीक के 13 दिन बाद बहाल हुई सैंज-रैला सड़क, नुकसान की भरपाई करेगी NHPC - ETV Bharat",
@@ -38,6 +38,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Parbati hydroelectric"
+    },
+    {
+      "title": "13-day Raila standoff ends as NHPC agrees to relief claims - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenMxWnF0bm1CMExDNkRJRmRpU3JGaGVRN0JKVjJleWFWa01jRXdNbVhIMzlBTFRnOVRWdDFYbC1QeWJoaGxBWFJvNzhERy1yRUg1WkdXZHdpVlhDQjRqRi0wajExRUFnNmdaZFlrUHZOekN5VXU1ZFdoVE43UVNkcDJxMVExRzNTN0RkMjhJa2p0ZExHdHVmS1JSMVZxMDJCcFViWtIBqAFBVV95cUxNM3JoZ2xSQU9jaXRLWjgzLWxxbDJRcEhnUWV4UHY3US0za1F0cXN2ekZnaERFR0Z5U1gtZm53ejVaMzItbFFyX0U4akU5b2dpYW9DMzdiZzZsdXp1NnBTUDBhQ1lkZFpMMjJSa0tnQmJ1M24wbEdtRkNLeUU1UmN1b1JkT0NxbEhPb0VKM2lpOW9XdmVMWlpPUjVYYjBobVlPbDlkT19ncnY?oc=5",
+      "date": "2026-10-03T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "NHPC Parbati"
     },
     {
       "title": "'हनुमान अंश' के 'पार्वती' की दुनियाभर में गूंज, 10 करोड़ से ज्यादा व्यूज हासिल कर बना यूट्यूब पर नंबर 1 - India TV Hindi",
@@ -54,6 +64,16 @@
       "source": "Jagran",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW52ZmZfS19rUENpVGM4ODA3UC1MT0pGcWstYUJYU01wdkhsNkFVRng1NGJRUWZ0Qk9tVFQxaGlTcEZHYWY5X0tNQnVyVFRUNEVlRzlna3EtczdTQXd5aUNCQURCS3lHQW10NFZBLUZyVFRsUjZhcUtnY2FEVUdFYXBCQkcyQmk1bU5NeFcxVDN1a3FFMDFvSjQ2SGpGMUlZc1dkek9LM09xaGtjeUlNRnNMUFBiRWRqbW1ETEV2REVJTjhKbEtnUnZB?oc=5",
+      "date": "2026-09-30T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "15 साल में करोड़ों की काली कमाई, दिल्ली की ‘ड्रग्स क्वीन’ पार्वती के पास कई राज्यों में संपत्तियां - Hindustan",
+      "source": "Hindustan",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEQyVVdpTVVpcVJPN1FVaVI3Uy1peEl2OHcxR1pDQnZyanZDTTJfTnBnbEFpSTZfbzNaQTdjMDV0T3EwNTA4Y0x3bjlwTU5GZC13M21IQTZjR2dPaGNXTmlpRllrdVQ2WHdiMmZBcHV0eE1SOVM5NW5TVmQxQUFjNmhsZ3QwMzY4YVZsRTltbEtyNGc0ZlBaMU1ZSDE2RlFOdmpJY0p1UmFPVDcwWnFnZNIBtgFBVV95cUxPY0d0MnhOVGh1YW1pTjUxMzdGeUZvRllQR0VabHdhaFZZdWJvTjJ4dTZxRnhIUG1GdkJVUW82X016d2lzQW9OZURpWkVIYVVmRDN3TElhT0duUk12eUFVbVIydm9MTzlGblRQNmNMdW9IUnBoSFM4U3ZKNndPb3IybGlidU82OV9teFhYcGIwNVhUcWh0M211anY1RnFPV2tBUGtvd0luNzJ5WGl4Q1RscGpIZ3RKZw?oc=5",
       "date": "2026-09-30T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -170,41 +190,21 @@
       "match": "Parbati II"
     },
     {
+      "title": "Gumla की बेटी का कमाल: एशिया कप में गोल्ड जीतकर लौटीं पार्वती तोपनो, कामडारा में हीरो जैसा स्वागत - Prabhat Khabar",
+      "source": "Prabhat Khabar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTTFLM3RIa2c3V2pLYk1Fd1FsOUZzY2toQktaNl9mOEY3MUhxdHJSVF9Mc1RERUZPZ2RPUkphd2c0dGM0bmRlNjZscXNuVTFFZS14NmdEajNiZXkzSzBhd3N2cFd5WGZHTXphaWZfb0YwbTFmTl8wYjFVVEVGRlRBVm9Xalc0ZlA3UHFXZHFrVWNZYUVFMmI4YlBkOWJYU3lHSV9V?oc=5",
+      "date": "2026-09-23T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
       "title": "Parbati-II Hydroelectric Project, Capacity, Location, Latest News - Vajiram & Ravi",
       "source": "Vajiram & Ravi",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmYzdXIxTVh2TDU4Ukdac09vVjEzdTFDYXlsWVFxcFJNUHNtN1VSbnVWM3JaMU9YZzF1dG5nMmJpT1lsZ1FtVWJXR3N2aXJzYm9EU3hhLVF2bjZBb2hiOGQ0LXZFemtRbUJtajZITEhyYXNyM0pXVFhIdEJPRkpkVEhB?oc=5",
       "date": "2026-09-22T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Parbati II"
-    },
-    {
-      "title": "Himachal: Parbati-II faces scrutiny after water discharge - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmNiUWxjdVhhUWFfTDBEdW5fbGpvMGNGdGJaelF1Z1pwV0dza1pYNGdiWGRFOFFLaTk0QjZleHFsQ3czZVhPVWVXVnJTZjNjNUpnU3pUcG1JclNBaHVsY2FIcHhJeGJTTk1UYUlsbTg1S0swd2ZvUVZJSndBTGtqeXVKQ1daM1Q0UGpEVHFpck1ZRzFGM29pcndOc2x4eUhLZ0HSAaYBQVVfeXFMT196andqeGc3WXMyY3JTRnltMlhqZWlCbnhFbVlUeThfcUU3cF84QkZDMUIxbU5xQjh2Sk44dWN0aWVubi0xeVBmSVdORGdOT0VNaHpocUkwWGp6NEVqQVgxbGdaV0Y0V3BHdGM3bkppTUxHUE9JdjdCY0F3QzJDNlRFZ2dYSV9MV0tJMkdqcU9HbnBXeHBsclpXaGdmY3ZQR1lCM1N1Zw?oc=5",
-      "date": "2026-09-22T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Parbati II"
-    },
-    {
-      "title": "FIR against NHPC after tech glitch floods Kullu village - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWmRBUFBleFhxcExWN1BaajVyMDlHaTFNZXVua1NXVlUyZnNXUHBhV2syUHpVN1JSY19ZZE5MX0FEakdudzZWRFVJUTh2bTVIYmhkN1M3M3djRDhqcC1GU0lBMUxwa2VTVDhWdThrYWtxcDlCSE1aQ0hQN0wyRFBOSU5LbVlBcTQ1b2pyYW5ONVRmYzNuajZyRndmYlJybmJTMlhWVm8zN3VTYUh3OWpmNXkydE5pdGNMZnFiRkhBLVBwLUZzTExPLS1FZjc5UdIB0wFBVV95cUxNNTVfMHhSN056elRxSGFKRmFib296N05VSHRvTFJybWt0VUJjUGdnWEhUcm8waDJtX3RMZDRKNXZWRU5HYnViQUNuTzVseW5rcTlQWWdiMjd1NjRqOF9vUzN3ZXFNckc5N29pS3M3WFRfUjdncFJYZG9uNTRQeTljM1VXcWh1ZXVPSzBZZHJRS1BTZS1CREpfajQ1X1MwS1VqNDlhMndLVzFwNjIxOVJvNXBvbFptWFVibmlRcFNhdVFpZ1ZfTEhHQ3ZhTElHdGROWHdZ?oc=5",
-      "date": "2026-09-22T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Parbati hydroelectric"
-    },
-    {
-      "title": "Hydro project valve failure triggers flooding in Himachal Pradesh’s Kullu - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa0RhRzlZNEpzNXhRai1fRXFzRUZnaVlIbHVRVlBBUlpVLTlEZVFfWTFMM0pFUXA5LXVaQ0RlR2xSbXg2bWlCaWRjTVF5MlJkQU15S09UamNlWUY3UDdOSEljLWtnem1JaUxZdkluUGJGVGtXUVZ4eGFzVWRWOS1TYkZWZzNSeWhVYzNQLUp3MVRsMnE3cFRaNnpQVmtESi1xdU02bU5BV29jUW5xZ2hPS3J5RWhFUWdhanpjMGxVZ2c1VkRqcFRBc29QUHVzX3JHcXlNQ2tucDVHb2fSAeABQVVfeXFMT3d1bE1raE94QjVYT2lIc3lDWWdGV0FPVm1mRWR3XzZ6bGc4VmhZc2d0STZIbUtkSkRLbXpCSl9fY3NRWnQxdndKTnlaTzhMbl9VNmVHRjN5UjFsN0lCM0JDcXE1ZUJQdDI4VTRQRFhoQlA3QkR1Rll2MTAwYUtKS2NWNlFjSmhITy13N0pJN0E2bV84M24zR0N0anJGXzktdkwxVmJSTG1OMnhjbEpqYmhTejRDeEJrVVk1RHRFLVBWQ2kydWR1ektJUnZONVVmeExNUTE0dUtROGRiLWl3dkE?oc=5",
-      "date": "2026-09-21T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Parbati II"

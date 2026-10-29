@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-26T22:57:49.929Z",
+  "updated_at": "2026-10-29T23:04:01.865Z",
   "project_id": "IIT-MANDI",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-29T23:04:01.864Z",
+      "title": "IIT Mandi launches 'Science on Wheels' in Himachal Pradesh | Tap to know more | Inshorts - Inshorts",
+      "summary": "Auto-detected from press: \"IIT Mandi launches 'Science on Wheels' in Himachal Pradesh | Tap to know more | Inshorts - Inshorts\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV3Z5dDQ0X3VuMDBCUGhKbGtIMXpVb2xYRzZ6eUdIWVRYODNaaUo1VE5Bb25pcW1sUU5LVXlHTjFrWEpveVNTMC1oSHZXdnhkUzROWi0yX25IRm96THhtLWFZSWJqWkFudVYxZmFsQUlNZnhlVE9DUXhoQkNGUXBrdlpsOU9lTHJIcUhnZzYwbW0zOTg0YUFtZ2J1M25CRkpnMVFj0gGoAUFVX3lxTE9QNm5aQkdZNk9yWVd4SjIzc3o4WlNpaUZsODgwRkE4b1pxc0xQMUtBNERUcDhiZFZGOEpZNmR2eTFOdlFQXzFqNHl4VmpSdzVQcXRidHZFTzctNFVMODBxOHRQSldQdTJEeGsyRXJpSW5BUlA1V0dyd201RFBfcGxlZl8wazNUaW05dkVDRGRCWXR3cmQyLXR5S3hvTnlKR2hEbFhtUDJrTg?oc=5",
+      "source_name": "Inshorts",
+      "lang": "en",
+      "date": "2026-10-28T14:04:58.000Z",
+      "matched_term": "sho"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-26T22:57:26.211Z",
+  "updated_at": "2026-10-29T23:03:37.605Z",
   "project_id": "SMART-DHARAMSHALA",
   "counts": {
-    "press": 64,
+    "press": 62,
     "gov": 0,
-    "en": 41,
-    "hi": 23,
-    "total": 64
+    "en": 40,
+    "hi": 22,
+    "total": 62
   },
   "mentions": [
     {
@@ -60,6 +60,16 @@
       "match": "Dharamshala Smart City"
     },
     {
+      "title": "Himachal Pradesh Government - himachalpr.gov.in",
+      "source": "himachalpr.gov.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NOHd6QTVQNW5PMm92bE1mR2tadlBpMG5ib0tva2h2RGp3eTZGQ0U5d29hYi00T3BQMjF3cVRoOVhYZWx5eUl4S3BiU19oSEtneE1LNHh3QVJxdWVFMWh0TGpHRkF0T0VwcE94UDhiT3diSGs?oc=5",
+      "date": "2026-06-17T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dharamshala Smart City"
+    },
+    {
       "title": "CM inaugurates redeveloped Fountain Chowk in Dharamshala - The Times of India",
       "source": "The Times of India",
       "source_id": "google-news-en",
@@ -90,8 +100,8 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "Dripping Springs library celebrates four decades of community - Community Impact Newspaper",
-      "source": "Community Impact Newspaper",
+      "title": "Dripping Springs library celebrates four decades of community - Community Impact",
+      "source": "Community Impact",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclpKclpQWmdQRm1ObTB1ZXdRR3FOenZSTVVrelpaZEVSUlEyX1FHUmxKVlNVdVVFTDkzb0wycWJoMUF1VEdzUmtzeGJubFlqMVl4QU41a2kxX2N4M2RVenppdFFGV2RjbTJ1ZEpzTlBoWWk4cDhERzI1TzQxbEhVdmtMVWxVQUlJbmgtM0pFR25zTWtGblU1OTdESng4WlMxSlRfaF9qSHk2RExrby14QUVrUFo5ajRqcUdjRm1JVEN4MGFIZ1djLTl1MHNHQQ?oc=5",
       "date": "2026-05-20T07:00:00.000Z",
@@ -160,13 +170,23 @@
       "match": "DSCL"
     },
     {
-      "title": "₹5 से कम के इस पेनी स्टॉक ने जुटाए ₹149 करोड़, एथनॉल बिजनेस बढ़ाने की तैयारी; शेयर भर रहे उड़ान - Money9live",
-      "source": "Money9live",
+      "title": "₹5 से कम के इस पेनी स्टॉक ने जुटाए ₹149 करोड़, एथनॉल बिजनेस बढ़ाने की तैयारी; शेयर भर रहे उड़ान - Money9",
+      "source": "Money9",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZkNueGVqREI2c04xZm9jTk1CUTZMVWtCUEdhSDJvR3p5TEtxcC1UYlF0YnZaeEtQVWJnTFNzSTg1b0hOUHZrRWNBeEV1dFF5cEI2Tmk2VE5SRnV5QUZvMlBLM2xFSjdSYXpSb1FlemhSNnJRZF9ockxGOTFEOEpERzZJOUNaU0x5T2htal9nNG5CSUpUdW1VX195bnVYZkNGOGs0VG0tR1ZZTlFySy1IMG4xNVJYTklfcVo2U0gxeFh5UdIBxwFBVV95cUxOSVZ6R3YxazBjVFhkdmpPQjQ3ZXBlTmh2c1NUWlJ6bXkxOXJjaDdXRVBrMTJQQ2c1SFRxTHhPT2I1cXAtRmZVNURsRGlsNTEtZHhQb3VpSFVFdGhYdWVTWDFLU2RTbVEzTEVNRXJCU1VzWnBqRzM0NFFQYVZGZ3RMcjFLdGRZNUJCSlREWkZNMjhySmpyZDlmLS1CMUFOejhxNTJOdWI2T1ZnLVRqUmZja0JMWGNtMjdxcENnYzZEWW5NMWVXX3hR?oc=5",
       "date": "2025-08-31T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "DSCL"
+    },
+    {
+      "title": "Davangere Sugar Company Announces ₹149 Crore Rights Issue, Hosts Virtual Investor Meeting - scanx.trade",
+      "source": "scanx.trade",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPODRqVHNUTHA3T1gwbEd2Rm1kRV9xT1VIMUZMUF84MmxVcVVIemt2MzRhdk5WVE9oSTA3ZGI3NTJtM1FMR2tCTHphYzJha29Ka3J6MG52cm5YUE8ySGh3Z3FSblZPclVUUjFvN1hMRGVranlkd255STJiLVU1QzJlckhRNEhWOWxGdFNDMDdLVWFLeFBNTzlXU2I3NUNnRk9PVWh6VGI3RGpqS3FFdG1wZGVHVFFISXZHM1dIYnc1STJFZnJFM3RnQU1KdmlMZW5UY1RkYktVM05NWDE2TXFkRU5jdVdaeE0?oc=5",
+      "date": "2025-08-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "DSCL"
     },
     {
@@ -188,26 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala Smart City"
-    },
-    {
-      "title": "Love Thy Neighbor - City Lifestyle",
-      "source": "City Lifestyle",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WOGlKaFM1eTJHWHNEdnFPeEJsNk1VWG00V19fTXFjaEhHc2VpcU93OHduQXVHSWtfRVI3aXpmX01UVnNDNXdxLTR6WkxveEx6VkRXdVhDMTdNNWRnVURERQ?oc=5",
-      "date": "2025-01-29T20:12:34.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
-    },
-    {
-      "title": "Dripping Springs Community Library hosts art event to fundraise $5M for new library - Community Impact",
-      "source": "Community Impact",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTU1STnVXR3RlZVlQak03ZmRpNDJPVm5Sd05ma1dKbHBueGVXUnRTaTJkcnhJUWtDVzhhQ0Z3QnJQeGxzOUtfZjF2bEVObkkyeDFHMm82di16Q3JtNUZiVVhLZDdyRkRuTV92M1gwQ1dfRHZ0YWkzY0wtb2JkN3ZfM1JMOENQQ3djcHNSWmtnN2l4eEhMSlVYVWFkVklKS3lEOExtZE9Ld21nSUM4WWEyN19KWmhIOGNTR052Mk5nd3RqZkFlaDlkRFRSVXZYaGlNR2RoWWVXWGRPTF95WXVSa2tYa2JkTkRsSjhNZlZ3?oc=5",
-      "date": "2025-01-23T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "DSCL"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

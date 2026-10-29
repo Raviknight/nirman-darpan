@@ -1,46 +1,38 @@
 {
-  "updated_at": "2026-10-26T22:58:06.226Z",
+  "updated_at": "2026-10-29T23:04:22.811Z",
   "project_id": "MANDI-FLOOD",
   "query": "\"Mandi–Kullu 2023 Flood Road Restoration\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 1
+    "comments": 0
   },
   "videos": [
     {
-      "videoId": "GIjVi8wSe34",
-      "title": "Working to restore normalcy in Kullu, waterlogging in Mandi being rectified: Himachal Dy CM",
-      "channel": "The Tribune",
-      "published_at": "2023-07-11T12:30:13Z",
-      "description": "himachalpradesh #Kullu #waterlogging The Tribune, now published from Chandigarh, started publication on February 2, 1881, ...",
+      "videoId": "Nr-n2DlaEvg",
+      "title": "Restoring Work Underway After Landslide On Mandi-Kullu Highway In Himachal",
+      "channel": "Kanak News",
+      "published_at": "2023-06-28T02:53:15Z",
+      "description": "Kanak News is Odisha's leading 24x7 news and current affairs TV channel from Eastern Media Limited. Odisha's largest media ...",
       "comment_count": 0,
       "comments": []
     },
     {
-      "videoId": "VjZenSCXr-Y",
-      "title": "Manikaran road 🛣️ repairing work after land slides in river floods,Kullu valley roads #road #kullu",
-      "channel": "Nature View",
-      "published_at": "2023-07-21T03:08:29Z",
-      "description": "",
+      "videoId": "UH9osCXy-Qk",
+      "title": "Mandi-Kullu national highway shut after debris fell on a machine during the ongoing restoration work",
+      "channel": "Jammu Links News",
+      "published_at": "2023-07-17T15:08:55Z",
+      "description": "Himachal Pradesh: Mandi-Kullu national highway shut after debris fell on a machine during the ongoing restoration work following ...",
       "comment_count": 0,
       "comments": []
     },
     {
-      "videoId": "OgpSn52eA40",
-      "title": "Himachal Pradesh&#39;s Mandi-Kullu highway shut after restoration work gets disrupted as debris fell",
-      "channel": "True Scoop TV",
-      "published_at": "2023-07-18T09:03:46Z",
-      "description": "",
-      "comment_count": 1,
-      "comments": [
-        {
-          "comment_id": "UgzBGWzsNrjjKd76ouR4AaABAg",
-          "author": "@sarvjeetsarvjeet7658",
-          "text": "ਬਾਰ ਬਾਰ ਕੋਈ ਰਲੈਕਸ ਬੈਠੇ ਹੋਏ ਨੂੰ ਪ੍ਰੇਸ਼ਾਨ ਕਰੇਗਾ ਅਗਲੇ ਨੂੰ ਗੁੱਸਾ ਤੇ ਆਉਂਦਾ ਹੀ ਹੈ",
-          "like_count": 1,
-          "published_at": "2023-07-19T02:45:58Z"
-        }
-      ]
+      "videoId": "JZMGRabIbto",
+      "title": "Himachal Floods: 256 Bus Routes to Restored Soon | Over 50,000 Tourists Evacuated | India Monsoon",
+      "channel": "MIRROR NOW",
+      "published_at": "2023-07-13T09:21:27Z",
+      "description": "Himachal Floods: Unprecedented rainfall over the past few days has wreaked havoc in many parts of North India. Himachal ...",
+      "comment_count": 0,
+      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

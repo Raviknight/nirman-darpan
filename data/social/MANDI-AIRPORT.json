@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:56:54.046Z",
+  "updated_at": "2026-10-29T23:03:06.467Z",
   "project_id": "MANDI-AIRPORT",
   "counts": {
     "press": 7,
@@ -50,16 +50,6 @@
       "match": "Balh valley airport"
     },
     {
-      "title": "HP CM urges Niti Aayog to provide special assistance for Mandi greenfield airport - ThePrint",
-      "source": "ThePrint",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnY4REk2bFhXSFVuSkdIRGJVTk1xZ0NyTDVKWE91ajBnYWRsSTM1LTZqYU1OUGhZSVNVbDJpQ3N6ZGNOV1lkWGZwUk5qZ1V5aGRZQ2tfWHBmZ2sydUdjN2hjVHVTa2dIQTluZlk3SkRFZFdoRUhtMzZCNDQ5WENWbDd2TWptMkt4am1wT1FhVHhyNktFdWVydm1XOEhHYm5hT3NoTlZQYjI1T2RHU3FXNW1EV00xVmvSAbwBQVVfeXFMT0p6endVa3RjRVJiYmxlYmNHcnNuR2R5N2t3X3RJS1NYX2ZRNTJMOXEyczUwQjlraDhYWm9zckZKTTRDWjNfc0FaSXNzeXFwRFNvV0hjaUJmTHhvSWZfektoei16d3dESnVxbzl6REN6ZWFiNloyZ3BHYWVtMXBEd0NOd3NydDl6OWhLTFREdVhVNUJPNUJZR0RtSnA0VmRrdG40YlRvME5xbHNxOE9CSlJfcTNnTml2dG5NQTM?oc=5",
-      "date": "2022-07-23T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Mandi greenfield airport"
-    },
-    {
       "title": "Who is Suman K Bery? - Business Standard",
       "source": "Business Standard",
       "source_id": "google-news-en",
@@ -78,6 +68,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Balh valley airport"
+    },
+    {
+      "title": "Himachal CM calls for expediting Mandi greenfield airport work - ET TravelWorld",
+      "source": "ET TravelWorld",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONnNHN2twRGVlWTQ4Y2VLcEFuN0RhcENYdVFSZG1oOFA5Qnl5SHg2Uk9icVlZWVVEbnBnNy1MRl9BOXFvbldleHRpOXFndnE0MVg2S2lkaTRjX0FqcTNoVzcydG5ZRzVHRVNZNTd0SmhDakdGUTRkM3RKN2F0Qy14U1BpM3BFQ2VGNjNzYlFoS0JHTjctUV9SWE0teEdYN0Vub1FQcmkxb0wtRWg0RXExM0RFc1lKZUdmanhlVWRLdVRPSGtNbW1GeUFqb3dBS3dUbTY4RNIB2AFBVV95cUxPWFJjUFFPb0RoRjlNUlNDT3VwLTlRMXcyR1hCQXVqQXI3djdxUk5lRXlieV9QeERCMzJVSGZfLVF5aFhTckNQb0JMelhyUmpLdjZtSHdCS080blZ0ZXBYVmd2bGNwal9LLVlHZGt4cjIzZFdXZlBDQlJzWmF6aUNXc0ROUDY0T1dzQWdCb2F2OERlYWNmNXhwTEExTWpZRVVWT3ZLMjg0ZmJyb1hibkU5MXNIWnVNMVhBd0ZqeWlOUVZ2TUo5SHZ3SDlvN3Vka2h6d3A0QV9QWG0?oc=5",
+      "date": "2021-03-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi greenfield airport"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-10-26T22:57:15.339Z",
+  "updated_at": "2026-10-29T23:03:26.887Z",
   "project_id": "NH105-PNJ-NLG",
   "counts": {
-    "press": 30,
+    "press": 28,
     "gov": 0,
     "en": 12,
-    "hi": 18,
-    "total": 30
+    "hi": 16,
+    "total": 28
   },
   "mentions": [
-    {
-      "title": "Panchkula News: पिंजौर-नालागढ़ रोड पर कार-बाइक की आमने-सामने भिड़ंत, बाइक सवार घायल - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPamNkS1paVTlYN0NhQmFEM2ZfTHRsSXVCQ25tTUlxQWRmaHBkeGhnNUctYUVQeXNCLXJhajF4YzFhamN6M05OQ2Z6SEVtQmJfSDdrZC15RzhNbTRKdEpMbDU3Yi1iekszdnBEYnoyY1BPQUNiOWVDTVU0dDc0STZkWm1tRGR3X1dmemxRb2dLTXRESldhTmRoTmlWN1gyLUw4b1RNampFZkd1M2k4aXlwR3lSb3FXaDluNkpTdHF1T1lJb0xScHF1UjktcTdyanMya29NV0M5U2ZuTGpfaWIzUTBIWGxFWE1SbjJ5cERfNzFmbUdrbzFiQWNhNmczNFRud05Iem9hQlV3aGVHdFU2adIBlgJBVV95cUxQNzZHNU1pNV9rLVo4Y3YxMjJWLXYxX2xOWmJMLUlZMk5iWUVMQWl6cGFlcHNKeHRrRzI1THBSbzdhVXpVZm1JRktndTh6aFFNSFE2TU9fNlE1Vm9DVUFSTHVmcE5PSC1sRU5zU3YyVkVtakI5bzdsV2FCaHFUTFJqSDg5TFpoNHRSMnhGam5iQUljQmVqQUlMTEpPblFEQ2RmdFN5MFMzeXNCVVBuOVdHTk1Ra281dFZjdTF3aVZGTjBIV0ZPNVJFNWZFVFJQUVBVSXQ5dmhVT1A2VzFEQUVxNGRXci10eVRkWThNNDZ2TGczaVFtSUpmNlBsczFFWGtpSHR0dnphbVNhVDFrV0ktcHNSNGlUQQ?oc=5",
-      "date": "2026-09-18T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pinjore Nalagarh"
-    },
     {
       "title": "पिंजौर में बाइक और कार की टक्कर: एक व्यक्ति घायल, मोटरसाइकिल पर लिखा टेंपरेरी नंबर, दोनों वाहन क्षतिग्रस्त,... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
@@ -100,6 +90,16 @@
       "match": "Pinjore Nalagarh"
     },
     {
+      "title": "NHAI widening work delays derail Pinjore-Nalagarh traffic - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVQxLTZvQlQ3bFkxaFE1bUxDNzh2UzVrdDB4SnA0STNXaVE2b09TUXpqQTFnM1pZYnMyd3VJeDRkYVN4WDl6YVJRZVROd3JUT2hDSzEwbVN3RkpybU9pMjdaY0dGUVRLWGRjVUhLMFhDclA1VlIzMEpFSmdwMGkwMWlHTmp6N0VERHpzck9MSTRoSGdCanI2WTdCMndMMGlKSXpz0gGnAUFVX3lxTFAwTGpwakZpbHgwVEwzR1BSOTUzelFNQVk4T254UGFkY0FLclBZVjNaUHlNMGEwVmhfM1VuMGt1bjFyaUxEQWp1aVFtMkJ4d3YwYVJ4TlFBUDBJZHJVU1BiQXFYMUdSdmFNMEdiNVZ2bXBUUEpPVWs4c0hDUURPenRVaFl6X1U4ZHRmZ2Y4SFhUbXdFYThKQUREUEgzRm1fRUFPOEZkbFFV?oc=5",
+      "date": "2026-01-18T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pinjore Nalagarh"
+    },
+    {
       "title": "4-laning of Pinjore-Baddi-Nalagarh NH-105 stuck again as NHAI awaits cost approval - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -110,11 +110,11 @@
       "match": "Pinjore Nalagarh"
     },
     {
-      "title": "Haryana MP Kartikeya Sharma discusses road-related issues of Panchkula with Union Minister Nitin Gadkari - ANI News",
-      "source": "ANI News",
+      "title": "Haryana MP Sharma discusses road-related issues of Panchkula with Union Minister Nitin Gadkari - ET Infra",
+      "source": "ET Infra",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTF9RQldYUmVnTnowLXVNSGhHOXlndmZnUnBqOG83d0tOeGZkQWRvVGZrV0lvLTdxSGlrQ2dPdS1uWm1TVTNaVGJKRnVPa0xFS0FObDA3U3F6Mk01SDlZYlN4dzJjblF5TmNXZ3RSRHVHR2pfaUh0SWVNd1RkSElteEJmQ1liekd4YVRQNWlWQzQxSnJWeVE1cUN5cjZleHpiUVpYcFhicHlNT1hFSzh2RG1OdGZ2UE5CaFR0S2RIYlpsdjJ1QzB1bS0yaWFLV1JxVXd2cUtZeERmMzdKTF9DVzVWaEFVRmJtNkNvQ09ZUmhVSGJqdkxlYTNYZ2E?oc=5",
-      "date": "2025-11-07T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU2xfNWJpMnVFOXV6LUVGRnVwZlI0S0RDTmlwTnJXdVY0Slk2cEVlekNYb2s4VG9QdXNiMGN3cHYtZVZxeWFfc1dKVjZOTGNjUkFHVEdsa05ZZ2dUTjlXRy1PZUVtN3h1dFlkSVFCb0F2bDZodU00cnJsbC1tdXZITUgyanZNMDNxaW5TUlZ4TXlDcDJQbmhhbmM0QnhleDZQd2J5WEh2N0Nsa3M4ZldidWtvZU5ma3QyUURobk1BZE9FT2g1OGdBNjQzVkZ6dm41ZDBxMmdZdlpKaGVvOEVtS0JLQ0HSAegBQVVfeXFMT21IVFF1NmE5cEM4Vm1UU0JxLTRJbHNaZFFlVXVHLXoxMW5zTU9xTk5oc1M4dWc3czJURlo4OVlubHY1WnktRDdHaVZPYTFEM0pMbjAwdmJfZF9rYVp6dVVySVkxZDJLNU1tZFVEMGNmTEQ3S2Rrcy03NG56dVRVaUw5QlR6RzZ2NUJjLWZ4UV9rT1pJcEtWcEVickxlOXRabEJCOGY4S0RYa1JhcFA5UjZCQ0F6OVQ4ODh2Q1BTbjIxaV9UcFZxZ01GRUJYTDdVbDJaUFRWQS1jbHZxYnFybVJ1ZmpXeklqeA?oc=5",
+      "date": "2025-11-08T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pinjore Nalagarh"

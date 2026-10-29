@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:58:38.573Z",
+  "updated_at": "2026-10-29T23:04:54.514Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 0,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 18,
-    "positive": 16,
-    "neutral": 1,
-    "concern": 1,
-    "avg_score": 0.55,
-    "avg_magnitude": 0.572
+    "n": 51,
+    "positive": 31,
+    "neutral": 13,
+    "concern": 7,
+    "avg_score": 0.296,
+    "avg_magnitude": 0.457
   },
   "overall": {
-    "n": 18,
-    "positive": 16,
-    "neutral": 1,
-    "concern": 1,
-    "avg_score": 0.55,
-    "avg_magnitude": 0.572
+    "n": 51,
+    "positive": 31,
+    "neutral": 13,
+    "concern": 7,
+    "avg_score": 0.296,
+    "avg_magnitude": 0.457
   },
   "top_positive": [
     {
@@ -33,30 +33,30 @@
     },
     {
       "source": "youtube",
-      "title": "My dream college Very beautiful aiims",
+      "title": "Ya Allah help me getting in this institute its my dream to study in such nice college and full fill my dreams.... I want",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "dream collage  every  neet aspirants🤩😍",
+      "title": "My dream college Very beautiful aiims",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
+      "title": "Mess per vdo banao",
+      "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "Didi hostel fees kitna hai yaha par mere nursing me selection hua hai and yearly pay karna hota hai for full course",
+      "score": -0.3
+    },
+    {
+      "source": "youtube",
+      "title": "Bhai is saal milte hain\nMay be I'm coming in 2026",
       "score": -0.2
-    },
-    {
-      "source": "youtube",
-      "title": "3:30 the view 😮🌷❤️❤️❤️",
-      "score": 0
-    },
-    {
-      "source": "youtube",
-      "title": "❤❤❤",
-      "score": 0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

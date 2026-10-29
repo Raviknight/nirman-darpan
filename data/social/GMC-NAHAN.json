@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-26T22:57:43.485Z",
+  "updated_at": "2026-10-29T23:03:55.045Z",
   "project_id": "GMC-NAHAN",
   "counts": {
-    "press": 105,
+    "press": 90,
     "gov": 0,
-    "en": 31,
-    "hi": 74,
-    "total": 105
+    "en": 28,
+    "hi": 62,
+    "total": 90
   },
   "mentions": [
     {
@@ -15,16 +15,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOWJfdy1vOXJNdzRkYzRDZng0QmtYX3RwM2dXUDJRVzJ6VlZqWk9QY21wTXV3VDFLLXEtX3hBQXVuOTlsOGNzeGJ4OUstSDhDaUhlYU1ZNDNibXBkekpwRjFtM0tvWkdKdUYyV1pvWHhNMkIyMC00ZnFmS3NjYThPcFF5OXBGTUtyR3Q2TThBdS1WdkY1d0pETUxTUDJHNDFDZ0gweFhudFQ0VTlLWXlRUnZuZXU0S2dORm5GalFqM1NleXZsZFItSmxHMEFmNWxRMEt2ek45OA?oc=5",
       "date": "2026-10-21T19:28:03.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "नाहन में दो बाइकों की आमने-सामने टक्कर; लिफ्ट लेकर जा रहे 65 वर्षीय बुजुर्ग की मौत - HIMACHAL DASTAK",
-      "source": "HIMACHAL DASTAK",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDgyaHdSc3E2anh3UEhnaXVDY1Y5NUNyaUVITTRwWWJjcy1Ga2FONzlwcW5XdkhKVkxtNGxIUFFsUkVXelFKbktZd19VSzJfRW5HTk9DcnF3eFp2eG82TGhpME5abFl0TW8yb2lTYmZKdDRTNjJBcG5KSFl2U1RwTEZldG1IY2pQel9YbQ?oc=5",
-      "date": "2026-10-21T12:50:16.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Nahan medical college"
@@ -50,18 +40,8 @@
       "match": "Nahan medical college"
     },
     {
-      "title": "हिमाचल के छह मेडिकल कॉलेजों में पीजी की 320 सीटें बढ़ीं, 597 सीटों पर होगा दाखिला: CM सुक्खू - HIMACHAL DASTAK",
-      "source": "HIMACHAL DASTAK",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0U1b1VhZUI5SXpzSXVSbnUweUxqME03R1pYV0lUdnViUnZXOUctbkE5YnJ4TE5TRUJoTHhqTXh3S0dBQjVOYmJGb3h3LWJpZWs3UDIyeGpyZllWOWdaUmN4NkpyV29RLTNSRlRaWVRLMjFCRFBWRURmYjVoUGE0MEZoUGdlZ1Ux?oc=5",
-      "date": "2026-10-18T14:05:26.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "Himachal CM Sukhu says medical college expansion to improve healthcare, reduce out-of-state treatment - indiagazette.com",
-      "source": "indiagazette.com",
+      "title": "Himachal CM Sukhu says medical college expansion to improve healthcare, reduce out-of-state treatment - https://www.indiagazette.com/",
+      "source": "https://www.indiagazette.com/",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSFFsNHl3UE9oQTdTZC04aHNRal9hV2x3TzQ3U1Z4bjhfemZ5N2sxbzQ1TUxmaFE5dE01YkNXcENGZ3VyWFIwajQ3YTBEQi1WY0RKWEJFdWhWUGVmVFJrVjhNckd3SnFoUGwxaHhXSndmUzdaVFB1SDJWVUpuRG5pVEx3QzI0X3h3aDlOanhSaTR1TjJPeEFBNmd2amdjS0xoZG5DeXBIOU1JZEVNbXpmS3dILTU3WlRPb25JajItdlNUeDRzQ0lVbGhJUmY1aFVfVFo4aVR2ZFhqWE0x?oc=5",
       "date": "2026-10-18T09:37:00.000Z",
@@ -74,10 +54,10 @@
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMzNNTzFCZkxzcklfaDE2NU5iWGp3S2Jwd0hSeXAxNnN0T01uUm9IaF9vMW1rcGJBRkhMZ2ViNGllMWFyU0dEMjBpazVwSEtmNDQ3eDdMdHRGRDFUYXRUSmg2OFVTbWxlTnE1aGJsb2hrVnJEZEdHZDNNVmdwNGItMEx6dFVweklpc1U0bWQ0YVJIVEdBUklOYXF0SDBRY3E4dk1oNll2QS00c2sxZ2IxWWltaFY5aE9xZXpvVnBWX3RvamZ1RHE4aEhJZEJHQzhHaFhfUUNPbEtjTGkxYk4xaWNTRWgzamlwTGpLelBHZ0RuOW5qb056WWxmUdIBgAJBVV95cUxNXzU3RC1WVDl5Y3ZNQl9wRjNDdnNWTk1qckpLYWZXcndhRVBwaWhyYWNZcWxnZUQ1OFZjeUxhQWQtaUZYSHJQaWRibFVUNDBRalhja3ZQOGFyczlWS3hkUHQyUGthQXZrVjloLUJKOVQwLUhIQjkyXzd0Y2NtM05QZDBVYmdIZmhJTDAzbmdkZHBOcm9ZMHhaLXg4WXJhRFFxeDdNbUJuYlBSZ3k2QXI5ejMxRkZna2d4Ml94X0diTmMzWkhTTzRvMDRfRUFTMmM2MzdQRUI3elI1MFhkZlhIVnluY1Y1UkpHSnJXbmZRMWFTaU41ZXl1a0RINWtrTFVn?oc=5",
-      "date": "2026-10-17T14:46:22.000Z",
+      "date": "2026-10-17T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Nahan medical college"
+      "match": "Sirmaur medical college"
     },
     {
       "title": "'सरकार एक इकाई है, विभागों का अलग रुख मंजूर नहीं'; मेडिकल कॉलेजों में आरक्षण सीमा से अधिक प्रवेश पर हाई कोर्ट नाराज - up high court slams govt over excess medical college reservation - Jagran",
@@ -100,16 +80,6 @@
       "match": "Nahan medical college"
     },
     {
-      "title": "Sirmour News: नाहन मेडिकल कॉलेज में 16 पीजी सीटों की मंजूरी के लिए एनएमसी टीमों ने किया निरीक्षण - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQWhMRlZIUmRLczlmb0JpZVNsRXpZN0VvR08xVmZmXzNXWHRVSVlWaEhIWUpGajhJNHctNE16MzYwN21VbUt4Mk95ZG5mM0J3YzEtT3RkcUxnNnV4YzZFSjhYYnZTdVNKT291dFhZUTg5Y1RNUDQ4VmFyRDJud2xWQ29FZnRQNTZTVDVmWFlrQVdPdldxTWRuSkNLWUhtNUZCbkxQeHJmaTZubi1BVUY2SDRaYk5PWVdUUlVBeXpWVm1nXzZOVHd6a0x4TmtUZjdrZnpSdDF6eHJBalpqaGtGOEhCNEhaOFJQaUFtLV94Vk1Wb0Y5cWhiWUdtSXFkanh5S2x1S2ZZMXB0YzBBa1FIdjlaWE_SAZoCQVVfeXFMTVhLQVh3ZXFZZGZoM3JXNG9IX21sTno1aWFGV1FQd0NGeGlmdmJOcWZsdUF6WHFfQXRMZTNWNXpzTGFld3FHdllYWE9ZcjRvN2UteERsZ0YzXzlvempNQlBxR3p3US1hSjcydlNma0VENGNWWVJuZzlrWkVKYjJrZXRwVm5zejc3Q091Ync3R0pmWDl3ZzEwelpzZkctWk40QktMM0xvSlVGZDZ4YUx0Z3R0cjdHcTkzWTIwVjN3U2ZzaUFjdVRtVGRaOVBTdnFJTHRrc3lkcHExeEVrOXhSdC1NWlk1bTlLeEQ0b1ZHRnVuZ0FaQy1uaTAwTUp0M0syWVRiZmxiQ2c1dG80cmZSdmhjcm5oX0d4OG1R?oc=5",
-      "date": "2026-09-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
       "title": "सिरमौर मेडिकल कॉलेज के पुरुष सर्जिकल वार्ड में घुसा पानी - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
@@ -120,10 +90,10 @@
       "match": "Sirmaur medical college"
     },
     {
-      "title": "VIDEO: राधाष्टमी पर बरसाना में उमड़ेगा आस्था का सैलाब, डीएम-एसएसपी ने परखी तैयारियां - Amar Ujala",
+      "title": "पंजाब में बिजली संकट पर राणा गुरजीत का बड़ा हमला: ‘15 साल में ऐसे हालात नहीं देखे’, 8-10 घंटे के कट से उद्योग, किसान और जनता बेहाल - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdVZULWg1QkREUVRwMGZEOU5JRXQ2RDdDMFVyWmNqZ3pkVWFVaFU2dThjWDVSbDJmcU9JQk9jcllWeE14aDQxZWtQMHMzY3c2Qm15VUtiWmFHanhlLUpGNF95eDR1c3VhYVdiSTZUX1B1UzJDQzExbk1OaG9ZbUhJdmIzN0RnUEx5aEZPVTl6YmY0YzN0SnZZNG9WTWhSSTVCZjV0S1cxbzI1Z3RsQWExUFZxckQtaUotNV9xTmlocFVoV2tkanFGTk13Ukl6TVhXdlIxQ1JyZ9IB3AFBVV95cUxPeWdXRlBBelNlLVpEN1ZodjBPeU5maFZUck1RRl9mYU5Kd1RFb2hRNmNlWmN4a2tsVUJWa3JQVkdNUkg1Sm5IaHplQ3pUOFM1Y0xPeDN2U1VyZUdFc3RzV2ZacW9udlZKYk9HdHE0cE9LT29tZHBDSUhmUnFiS1JzRkJpZmtLeUJsUkhrS1ZjRDNadkxQT3VMdUpxNEF5Z2V2RnM0OFQzZVFxTDdDTjhwSlotUGVldE1BS1FiUlNpblFuU1Z1cWlRNWZ6cFQ4QmlxNElZczE0MU43S3lZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQTGtLNjFFSEV5QzZ1QUJEZmFkaTlNOURiNlBWb3FLVUJZUWlabTc0OGVsQng1UDBMTlgtN201VnhYY25HTWNoYWxFRGhja0NtMUR6Y0NvRGdvdWw4SENKaGJETXFLVVFlcWJ6QjhWT3NaRmc0dy1TaDVwRnpLYmNaZjVqWG9uVmN4WVVzNHg3S05IOTFDMmlYbnJtSEs0bGFIdmZ4ekpUT01xRUFHcFhieklQMWZhVzlTQkFRZUkzUTlmQ3RIcjZ6Ykg2SDJIbkI2OG56eDBRVG1sNmZJc2xmTXJaLXRGWjhwZTM1azZnQkpJNmZfN1pRVDVwa2x4Rmswb2QxclpfRzV4Vmp0YmpURkFYb05LWWFFd3Frb09yTWJBQlVTbmhQXy1VNElRbFdpaXNxenVyYVdUZFRTM05KdFd5RU5KNDR1RGUtZVdBcFdPcGFzYVdwSE5pdXZiNjNCVGctYklQdk5wMXV6eGlZ0gH0AkFVX3lxTE10UU9UX1Yzd2N4LWhYNjdWbHhiZldnX1pIRDA1OTRxQWp0Rm9hbXkwUHNUenk2LVh4eVFPS1ZTeU5zRTBqeDh3eW1KekpOWnAtTUV0RUo1Umk5X3VSVGMyRUtHVWJyRmVSa2hUdlpyQl9GNUxOQXhHVzFwLUhSZ0RKM1ZHS0xxN0RvT2UyejFnZkt6dlFyN2s3aUk3S1NReVdadlA0LTFKbjNpUWZJV0RLNGF5cHd2Wm9BVDYxUk00N29jNlZvRGlFNU14UGZtV0FQeWFCQXJtZmZmbFkxYmZEeFV6UUdyT0VqdkxzcnhoT0VNUFp0d1pMTzlOWER5eXVQZXpLSXNEVUxpeE16Qm9VVEc4NHJVeGVPODcxWnVCd0pndE5zNGJUekc2MXAxdEZKNzZ2WnBETGpjbmNxRXItNDR4eUh1YmVrRzMtS0hfX2tJRk9vRjlhNEFNUkk1SmJFdGxZaGFpYkRfNUo3N2FYOXQxQQ?oc=5",
       "date": "2026-09-12T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -140,51 +110,11 @@
       "match": "Nahan GMC"
     },
     {
-      "title": "Himachal NEET UG 2026 Round 1 Seat Allocation Out: 948 Seats, Govt MBBS Closes at Merit No. 426 - EduProspect",
-      "source": "EduProspect",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZWRKY2ZuVkhOYWxFTXJqeWRLQnZNVGZNS3RDVHgtaVZFdHN4bldNME5ja0NiR0VHYVBUZDRMSEtpZ21xa1kzMzZtN2pPUEpTeExMNWNNQ2lKZ1BaQkpyd3k4RmRKQkFycFNuaFkyVXhib2dqNXpsWWJFRmhjb0xpSjdPdlB6VUZQLVo0RW8xM1RpMzB4LWVpekk2Y3ZjZ3UtWU9aaDZKRUJSNlpHc0dhY2UyckVSSzFmeHFzWW1XVdIBvwFBVV95cUxQZWRKY2ZuVkhOYWxFTXJqeWRLQnZNVGZNS3RDVHgtaVZFdHN4bldNME5ja0NiR0VHYVBUZDRMSEtpZ21xa1kzMzZtN2pPUEpTeExMNWNNQ2lKZ1BaQkpyd3k4RmRKQkFycFNuaFkyVXhib2dqNXpsWWJFRmhjb0xpSjdPdlB6VUZQLVo0RW8xM1RpMzB4LWVpekk2Y3ZjZ3UtWU9aaDZKRUJSNlpHc0dhY2UyckVSSzFmeHFzWW1XVQ?oc=5",
-      "date": "2026-08-28T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dr YS Parmar GMC"
-    },
-    {
       "title": "हिमाचल के इस मेडिकल कॉलेज के रेडियोलॉजी विभाग में डॉक्टर्स के सभी पद खाली, एक माह से मरीज परेशान - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWERzckRmcWFxSjBJZi1nWFNESktUeko4amlKeXZyb21vSXh5NDZXVEFPTkVRdHN2M29xWU9IZXVzYjNIdHdvMnRDWHFSNTlJeVlSeXZGSDdqV0lKYUVSaDlfOTc5SkRrUS15UlNyUDVNRlNFSkxZaF9xT3FPOEgwdERraWNMOHhiaklvaTNqY0Z0SnZKTnBqMHJodTgzd3VUeXFVUnFIaGxYWkJ0NFplVHhOaXlFdTQwS21uWUxheG5uUUFTX3FTazBoVWlTSjhmelFrN045ONIB3AFBVV95cUxOUzRCRzJIY0dxQWE0MFhweHY3dEQ1czZXbHVrbDlRSnlYTkhfbEwtVGFJUlZ5czFzdmExTDZKV2lYWUpVRFpBaGJPYVJDOUZlcVpCSG85a2dPQmVWN0k1MXllTE0yQmpBZHRDWlNPdUZLZmxLMjBmNlZ6TUVfRl9DTVBQbDh3OHYtNmtJZUJSNlhoVXEtVmhLTkNUUk1oaVFHZllVZ1NWNmZqRXN6QjFORUxsUEdkRWZoVkRGcDdPb21mR3RPR2ZhNGcyaW8tUWxPN21qRHNId2lSY3JZ?oc=5",
       "date": "2026-08-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Nahan medical college"
-    },
-    {
-      "title": "शहीद वीर अब्दुल हमीद के पार्क के सुंदरीकरण का कार्य शुरू, VIDEO - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1NUOVIwZWVFSXBmOVBQVmpCZ2w1c0tNTmhYT21LMGFPSGZXb2lFemRFaHNUYS1WQjBxYmppN01BbFd1cU42WE83UW5aR1VtMnNhMWstNDJWdlZyc0M2NjJrYm1XTk5XZURGbUlDaU5PeTh5RXZmcjczRnBWRlhIY1hCeURKQ2xuWUhwT0Q5OEFuREVQWXVWNWlIbldDLWxIY2xrY2tPd2JHaVJPU2U1enFTcy11WGVyb2E1Vl9CaFk4aWNfZWNYX1VBVdIB0AFBVV95cUxOdFdHLWdLNzM4SDFJNHhmN2xnTk9KQk11blFsT3FWTnFqUHFUemZCTHU1MHZ0RC04bWdZN1FLVEs5SFc4YUd3ZzFFclhaNG5MUmpPczVEZUVZY0UwOXhSelU3RExySE1VTVdCbWxydmpKemlYai01MW41Yl9hbmxablExWi02djlvQ3Z5RVdrWVgySTVfQWctRENzcVh1b3B5bEMwQjBlX3R3NkIySFdmSEFFSlZxU080LUhLbEk0YTBkRXpWaDdmYWs3VGtXZkFO?oc=5",
-      "date": "2026-08-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Sirmaur medical college"
-    },
-    {
-      "title": "संगठन सृजन अभियान से कांग्रेस को मिलेगी नई मजबूती, VIDEO - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTk9EdmZxdUdHdl9lb3huRTE0VmdHdVBEbFZrZWg1XzBKeVo4Y2gzTmxZTXBCMHdNOEFYTUxKVW5MQWlxM0t4UGpqUmh5SVZoZ1NYTDczUF8xczlubFZZRW9ndWk0UnhYYVRnRlVYcGZHcGNTR2ktZjFqd29UQ0taLTNmNjllYVY1aDl0ZnJGTXplZGxLTDhCbWVhelV5b0VGUXp1SHNyczhRVjBWQ3E0c29pTHJWajFiMDNvYmdna1dZMGtUWlFTcHY2N28yTVItTV9Wdy1xY0R1VlHSAeABQVVfeXFMUER4VVl5ZEE4MTJpMUFnQkNVU2J6TnV1RXBsNlltbDZVbGMzYzc1clNWV3FlZDBSMWlJX1NCRkRUMmNoTVhoN1RqMWZMQlljdXplMUhGOW01S2QtRUdjdGNuN2lVak15a2Zwb0pTemdBczY4LWhMcHR3U2hnRFdPY2dQSkxxVnBJcHZGVnhvaG0ybFhtODN6VzhMUTdDbi1CNVlFWkNWVVBrMTV2S09zSVhSOHlEYlBLNUs0eDJIaXlZQzFUckZvT0JLUy1MMWRhRld0RWNBejlkZVZ1UXhkQXg?oc=5",
-      "date": "2026-08-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Sirmaur medical college"
-    },
-    {
-      "title": "Himachal News : सिरमौर के नाहन में देर रात ढांग में गिरी कार, छह सवारों में दो गंभीर घायल; मची अफरा-तफरी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWxLaHQ0U3JMbTdHekNFM3BTcjV0X3luRXFQaWxvZ1NmY0poajJXSWptdWhmNWdFenQ5Z0ttbEdtMkdWX0x3ZlRtUE1POU9uOVd6blN2VEljcjBVMUFTd2lEdmUwZHZaUTM1dnlWYThIRkJMSm5EUDZKZEJLX3Vvd3dTaFdqVmN0Y3VqbVlyR20zYkEyUm5Uazd3VEw0RHB6eEdHYl82X01LNDlUNldPTDJFODk?oc=5",
-      "date": "2026-08-16T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Nahan medical college"
@@ -205,6 +135,76 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbHEwcmczdGNEWkhsVTZ4U1IwaWxtaUtsQVNsOWNtOG15blJsU29rQXR2a2pZUkpOTElRRm9Wa09iOWRqYk91eG1obktMMVRnejRnMnh0emRNQm5kMkZBV1A4aU9KZHk5OVp5b0k3Wnc4ZWZtaWU2X1JXZTlBUXg3SU9CS3ExMlNFZldaR21PcXo3QlNKRkRiUGozUWRuSWtzS0lsOEpuY3pGQlFObzZqTC00bUIycUxQLU9YMWdhbzl1SURyTzBOTXFfUWNQZmotT2NxbnMzZHJmQdIB3wFBVV95cUxPaUtSTF8tT3c2SXlIUGkxaUd6WmUzWGZqRS1ndVgyZTJfTW85djF4MXdybEhQZ0x5Skd2YTF6blVFWWxFWTdRd1lQaHJEMGNXMVlPNGVtZkZxX1kxOFEyOF9UNWRKQWcwMGE5UHhSWnA4SnpDazZZWmJsNHN3Q3lVZnlTUVNUckJReHFMdnRIdHp6eXhqakRod0xqWm9SRVBQay10cVdKYVhoODhKSHd5VGU5dEFEbkx0UHd5RkQ5Ym9wTWhkenRmTTZBTWtuVnFib05CbVBrN3J3WFQ1N1pj?oc=5",
       "date": "2026-08-05T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan GMC"
+    },
+    {
+      "title": "Immediately fill vacant doctor posts at Nahan Medical College: BJP state president Bindal - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTlMWW9lTVRTM0xjZ1dRVVpYbzl6cnRzb0NIaVVtVlNvVE82cUNTY2dlcmNSZnZFTzZ2NHVjV2J1NlRTOVFneFpIQVBZTXBHcWEzWlJLeUNCcm1sSVVTUzJZYVZXM3JFU1hLa01nZlFKVVA0TzlpRDFVR1pPN1FSNUxldnJPaVdDdDhZX3dybjhoUFhCNDFTdEN1SldsNXhSVkRsYXNsWU5CbFFuMXljUjJSRkVaaG1aVUxDQXlwa0tqb0FENFB1VEdsQWTSAdABQVVfeXFMTUZLS0dhbE4yci1nM2IxZ216TEJKaFdKSk16bFVPamV1RlZsUGFzX2JvVVlyNG1vWTdxRGUweWZ3bFpkd1hnRko0ZG5oYmpOTE9jaU40dWJPa0w0Ulc3elhnT241cVZKZEtOVVVhYUxILWhiNmRKNFJQY2dKMXo2WTJXQ2FhZ0tQWjFoaUxOQ2RPNENwdHhxYjZaWngyenRmMmM3TDJ0NUpJcHpuTHo5YUhBSTZLUGZ4MVA5d1NjcFZpc3F2cnFvdC10OG5mNHoxOQ?oc=5",
+      "date": "2026-08-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "Himachal: Father dies, son injured in road accident near Nahan - ThePrint",
+      "source": "ThePrint",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDF5ZXMya0tJVUZaX2ZyVXRCcVE4WGFBbXUzQVpqbHRidVl0Y3Z0MEt0MzlMUkRHcGxNWUtmR2hBVWwxa2Nzc0RZQ0VFbTNjSkNtcEFycll1R0FGSWNNTF8wUFBBNHBhaGJZSS11VHQ3VHRKOE1TQWFZbFJtSnhRU29pS2NjQ3BfbG9QRHNzTTV4LXJXM3pkeE9Ja9IBoAFBVV95cUxQRVEtRFNIcWFzSjhKeUFZMlphNkZFY1VYQk1IZ0l3MzYzUTc2MTQtWEhjbi1UZzQ4MFRNZ0dxQVV1VWsxcmtabHIyOE51VHlSc1ptOXNvakI4UUVlUFVBdDlPY3doTWd2TXNjdHdEWFBiT1BsVWtNVDZzZHJYM1pwV29mUGFzejhCMmRFNEQxT2hXTGYyLVRpUzBKa3Q1eElf?oc=5",
+      "date": "2026-08-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "नाहन मेडिकल कॉलेज में अल्ट्रासाउंड व एक्सरे बंद, रेडियोलॉजी विभाग पर लगा ताला; एकमात्र डॉक्टर रिटायर - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNTdPYkRHYXpWSXRkNlRmTnB0N0RsWGh5MGxselIycmtOUk82V0hjRm9jTUxwc3NQR0FIcTA2cm5JUnBRVUZsaUFnZnh2dDFuMzFicU02eDdUX19DYlkzVnB4LWwxVUc1ZG1hUWMtVEtGTjFrdC1PZnR6dW5HLXQta1ByMzRLcFJCeFlFOXNPSXpWSXZsSzZaTGFCazJWbXVaOXpDcE1IN0kxT3Zsa04xU1BtRURPNVdPbkx5Umxn?oc=5",
+      "date": "2026-08-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "MBBS छात्रों के लिए अच्छी खबर! वैष्णो देवी मेडिकल कॉलेज बंद होने के 5 महीने बाद दूसरे कॉलेज में बढ़ीं 50 सीटें - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWFmTUxNVk1VTXRLWVdZQXRreFNyYmZ3cGVzUlJQTndPb0Q3cFUySkpyeWU4SUlNY0JKLWN3Yi12bUp1N01kZW1iczlwU2pYMV9MYmRwazIxcDBHbWUwOGlCcUpPbVlWZXYtZUU0X1p3OV8wQzVOMWFhUG1tTkEtdmxWemctZ0FscTVNWUZWazZEdnV4UW5tUkFiWkpNYTFMbVRBUlRrNWtDSEVWdzNqbWVFUVI?oc=5",
+      "date": "2026-07-14T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan GMC"
+    },
+    {
+      "title": "FIFA World Cup 2026: स्पेन से हार के बाद गम में डूबे रोनाल्डो, टूटा बरसों का सपना, खेला जीवन का आखिरी विश्व कप, संन्यास पर कही यह बड़ी बात - R.Bharat",
+      "source": "R.Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTUxvOEtyanNKcDRkanctZ1lNNkVCUnFpSjU1ejh6M195QVVSRjY3YmRnUG9ucUVKOUU0RzE2S0Q3SmtTRGdpbllxckNjZ0hFMlRoMUdYS19Cejh4RTJQdjhmV3hXWS1tLTZFZ1hreVRyN2ZDS0lBMXFHWVE1cEpVa3lVZ3JqSjdDR2R3WFJsWmk2TzJMRUpScVpUS3lJYUQ4Y2V4MmpXUmtTUHhUNnl6M3RxYm9mdklEZmxyaTNKRDRVb0txRDJHd1dJYU5uWnJNQUU5WGhwQjM2SFJtQVg0RFZoWHdTZTBDTkVxdnlBZHRHdWhxZzI1SNIB_gFBVV95cUxONEc0QzBya1ZTVmJpN1RaeWhVZS0wdjJ2MVdpQTdFbnBJRnF5N3RsMk1Ld0F4OExUZDBKcGZiOGdIRm1hQnBTN3dxRHBLOXVuSkkzdDN2NVk2Z0hNbmZGY0VwdWwtc3F0QWNVVXlfcHMtWVhrbFRQQVM3bGlQNkNZSFNSQ3QxaEdaX2g2UVBzcXlFaFd1RXJVQmhPWjFLTUxTSnBXNGpkV09hNzdxT1N5Nm5oNWlMQ0IxeGdRYUxHaDBZMWpYODViOTFtbjV0dTNNazNaMkF3b0l0STdsckRtVXo1djBMZVQtVDNNUnFubjM1ZTB4NUF3VkxabkVqdw?oc=5",
+      "date": "2026-07-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan GMC"
+    },
+    {
+      "title": "MP में बदल गई डीआरपी नीति, अब भोपाल से नहीं, मेडिकल कॉलेज के डीन तय करेंगे डॉक्टरों की पोस्टिंग - Nai Dunia",
+      "source": "Nai Dunia",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM1h1MmF3OWxfYmZ4dHo1X3hDRTdKa2xROW5yODl3TDhJX19kQi1pTVFNcGN2d09EZmdCQjZfMVdwaDV5UjN3dTkyWm5HRWozLWF2dERmdDN6VmE5NTZNSm9SUTFLa3l0R3EzZzNRaUlxV0VWN2xxYUc5eWZBTHF3M1I3YTVSQnhDZmxYZnNObWpzS2ZYQVNHNjlWRFhZSHpHRW9ZTEQyWnd6OXlMVUtvSmdJeDAtM2JCdFRsQmw2cG1nbm9pclVXbV9jWUVPeW5VRHRPZGhNWWZ4QzZ6?oc=5",
+      "date": "2026-07-05T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Nahan medical college"
+    },
+    {
+      "title": "FIFA World Cup 2026: क्रोएशिया को हराने के बाद मैदान पर क्यों रो पड़े रोनाल्डो, खुशी नहीं गम के आंसुओं में डूबा महान खिलाड़ी - R.Bharat",
+      "source": "R.Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3ZEaXIyMmxPZk0zY09rYkRLdHlyVHkxMTlBZjZYNHlRYjBnZWVwZkNlUmx5dnRvU3V2WUZKaXN2b2M1Skg2QW5CR2VIQlZYTHFZeGE2QkhJWjFYUUx0SUJHWHVIMHlLTzczUDkyNG9DU0U1dXcxYzJKdFdVZmJTeDdEYkNYU3hIWEltaEplS0NZaXRMOThHZUJlZks4YjZqTnZwMjZiaVdKQU93ZUNodHRnMFc2VlNYay1nUnE4dzB6MUt4LU9Sbl9jNDhleEc4ak04NlZR0gHbAUFVX3lxTFBwRHJQSG9aM0JDbDNNdVdBM3pnRWlqb2k1eC0zNDdPQkk3b2pqSXhGUmtjeGxZbTZlX2hVRTA5dnBFNTZaX0g5ODd4c1RTWFBxS09yek1CbWtqaFIycjc4T29sUGQwZTNvTHpsckZkYkNJdThoVExuZWVzemxUVnRxbTAwdG9tT05TcDVHV0hPNFY0TWhBT2ZPY0ExS0MxNk90d2ZldzA1QUU3Qm1lajkzSVJJZXZrY0FCOEc0ai1za09panZ2OVRwTVVaS0I0eVJ4OVFGbDVpNmdtcw?oc=5",
+      "date": "2026-07-03T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Nahan GMC"

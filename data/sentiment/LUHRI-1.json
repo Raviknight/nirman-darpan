@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-10-26T22:58:23.327Z",
+  "updated_at": "2026-10-29T23:04:40.623Z",
   "project_id": "LUHRI-1",
   "press": {
-    "n": 15,
-    "positive": 3,
+    "n": 16,
+    "positive": 4,
     "neutral": 12,
     "concern": 0,
-    "avg_score": 0.073,
-    "avg_magnitude": 0.1
+    "avg_score": 0.081,
+    "avg_magnitude": 0.119
   },
   "youtube": {
     "n": 4,
-    "positive": 3,
-    "neutral": 1,
+    "positive": 0,
+    "neutral": 4,
     "concern": 0,
-    "avg_score": 0.35,
-    "avg_magnitude": 0.4
+    "avg_score": -0.05,
+    "avg_magnitude": 0.05
   },
   "overall": {
-    "n": 19,
-    "positive": 6,
-    "neutral": 13,
+    "n": 20,
+    "positive": 4,
+    "neutral": 16,
     "concern": 0,
-    "avg_score": 0.132,
-    "avg_magnitude": 0.163
+    "avg_score": 0.055,
+    "avg_magnitude": 0.105
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Great sir👍👍👍",
-      "score": 0.9
-    },
     {
       "source": "press",
       "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
@@ -38,9 +33,16 @@
       "score": 0.4
     },
     {
-      "source": "youtube",
-      "title": "👍👍👍👍👍👍",
-      "score": 0.4
+      "source": "press",
+      "title": "HP CM Sukhu Orders Takeover of Three Hydropower Projects From SJVN, Setting Stage for a High-Stakes Legal Battle - HimbuMail",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1F2SXFDVDNFQjE3emtIWmRsM05UaGZXQ0loTkMzZVlmeVM4X0lrOWtLa0g2eFIteTRBa3lrSGZ4SlJqSGV5aElDeWNFcFVTc2FhTWM1S1BWSnV6UkwwSFM5YUo3ajBHcE1YQ0ZWNUt2U0E1d3dneFZrNzBvSEtlbS1GcTQxRDZCQWJZUk5qT0VtSy1SRUhrUllibTNmcTRmRFFqOHR2aVJaVnVOWjlNZkV2X1ZobXVqMG1GajFvWG5iNHN3MkpnT181bEZJUGIyM0U4MkZZWHEwZ1JXMy0ta0lFM1ZRUHJGdlBB?oc=5",
+      "score": 0.3
+    },
+    {
+      "source": "press",
+      "title": "​लुहरी हाइड्रो प्रोजेक्ट प्रभावित किसानों का हल्ला बोल, समझौते लागू न होने पर फूटा गुस्सा - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkJZamNfUmVEWm9hOUR1cERjWnd1aFI3SXdSOGRKc2cxSzh1N0lDU0x6SHJxX0ZJbjdkVlF0Tk5lMTJxbmZBTWthMElSQ3BjLVVjUWxDczRhU0ZHZ0sxRC1kY0lNaWJRZHp3QkFVRGtDelp3VXhkczZvalFia0J6UmJ5S2xJM1oxX1hGa2h6UXQwN21OODl3T0lveDlZRThiM3pkRTB5QnJSSU4ySTY4Y211a9IBuAFBVV95cUxNZlhRRUM0cXZZUnNNVzlaOXg3ZlltTVViSlF1ZWUtYkdsZkY4ZjktdkVaZnRwVUZsRXlzWXN1MW83SnRob2FNc3d3anFwM1FodVlsRXR4YmFNeTBpdDBBNXYtMjdGOXRwZVJOMlVpYTdlNW5qNGZfYnEtVVRMRXNLTWdUc0xRQXB4TWhtQmh3dWUyTE5sZmdGTldXdXV5SXJNY0ZUdThqS2ZzOThLSVVzbGxkQTdXYTha?oc=5",
+      "score": 0.2
     }
   ],
   "top_concern": [
@@ -50,15 +52,14 @@
       "score": -0.1
     },
     {
-      "source": "press",
-      "title": "RECPDCL transfers Luhri transmission scheme SPV to EnerGrid - T&D India",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXpXSXlEV2VOUHp1Q3JFUDBNbl9CcWdnanlzVU1TY2laeXdwZ1hJZXEzLW9yVjd2Q2w5R08xb0Y4d0ZqWnM0aHRmb2FPYmxQaGxxdzNxQ0paaEZTTmNCRlRUUGN6WEJOMExOM2YtUWZQQUdHNHJPWC1JZGNaODZtVlA4b3lqV0Z1U2FfcNIBkgFBVV95cUxPMFdPdGZrSUJnNzViTV9oODRNazFTTHRtNWptUUZPYy1ZUjJzajVMdF9QSDFwY3J1cVNMRExNLWVBcHFTV3BOUU1yV2FpYlJDZ3BQcVZ4ZEY5c1ZBTm5saEVkR1VrYmJFWHJOYURjRWFpTmR5NVI4MkJZWWFyRjV0OGZWcFBCdTNWM09pZDNQNnZxQQ?oc=5",
+      "source": "youtube",
+      "title": "Please tell me how and when the project layout was developed?!",
       "score": -0.1
     },
     {
       "source": "press",
-      "title": "RECPDCL HANDS OVER LUHRI POWER TRANSMISSION LTD TO TSETPL - IndianMandarins",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVpiMks5dUxHb21ScFlfaEhOazBJT0JQQVJFWG9kNlh2VFc3TUVEaWJ1cGJkNWFqakE4SXRya3gyVFVmeXFOak9pLWxhdDhHb2p2UEw4MFlBem5aVFlBR3UxVUJyandHVmxSX3V0bmRHMG5DNUtxNzd6bHREUmN4aG80ZlpVcWNYMU56OUtPTGFBeF9jRV8xelFmSVdCLW1LdlE?oc=5",
+      "title": "RECPDCL transfers Luhri transmission scheme SPV to EnerGrid - T&D India",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXpXSXlEV2VOUHp1Q3JFUDBNbl9CcWdnanlzVU1TY2laeXdwZ1hJZXEzLW9yVjd2Q2w5R08xb0Y4d0ZqWnM0aHRmb2FPYmxQaGxxdzNxQ0paaEZTTmNCRlRUUGN6WEJOMExOM2YtUWZQQUdHNHJPWC1JZGNaODZtVlA4b3lqV0Z1U2FfcNIBkgFBVV95cUxPMFdPdGZrSUJnNzViTV9oODRNazFTTHRtNWptUUZPYy1ZUjJzajVMdF9QSDFwY3J1cVNMRExNLWVBcHFTV3BOUU1yV2FpYlJDZ3BQcVZ4ZEY5c1ZBTm5saEVkR1VrYmJFWHJOYURjRWFpTmR5NVI4MkJZWWFyRjV0OGZWcFBCdTNWM09pZDNQNnZxQQ?oc=5",
       "score": -0.1
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:57:59.326Z",
+  "updated_at": "2026-10-29T23:04:13.978Z",
   "project_id": "PARBATI-2",
   "query": "\"Parbati-II Hydroelectric Project\" Himachal",
   "counts": {
@@ -13,6 +13,15 @@
       "channel": "Md Shahzad",
       "published_at": "2026-10-14T10:55:14Z",
       "description": "Barshaini Dam History & Importance | Parvati Valley, Himachal Pradesh Discover Barshaini Dam in Parvati Valley, Himachal ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "HMF2UfOVFoQ",
+      "title": "😱 15,800 फीट की Tunnel का सच! क्या ये Hydropower Tunnel है? | India का असली रिकॉर्ड 🇮🇳",
+      "channel": "India Unbuilt",
+      "published_at": "2026-09-13T14:30:29Z",
+      "description": "भारत के हिमालय में 15800 फीट की ऊंचाई पर बन रही Shinkun La Tunnel को लेकर ...",
       "comment_count": 0,
       "comments": []
     },
@@ -32,18 +41,18 @@
           "published_at": "2026-01-13T14:32:02Z"
         },
         {
-          "comment_id": "UgxiBUYWlK9gHEp30F54AaABAg",
-          "author": "@Meverythinginnovative",
-          "text": "Turn the water of himalayan rivers to the deserts of Rajasthan",
-          "like_count": 0,
-          "published_at": "2026-01-13T10:53:12Z"
-        },
-        {
           "comment_id": "UgzYBNVdVeTiaOL1zbd4AaABAg",
           "author": "@karuneshramishramishra8647",
           "text": "❤😂🎉🎉🎉🎉",
           "like_count": 0,
           "published_at": "2026-01-13T06:05:18Z"
+        },
+        {
+          "comment_id": "UgxiBUYWlK9gHEp30F54AaABAg",
+          "author": "@Meverythinginnovative",
+          "text": "Turn the water of himalayan rivers to the deserts of Rajasthan",
+          "like_count": 0,
+          "published_at": "2026-01-13T10:53:12Z"
         },
         {
           "comment_id": "UgxsVqVfCYHCDr61Cqh4AaABAg",
@@ -53,15 +62,6 @@
           "published_at": "2026-01-13T12:10:40Z"
         }
       ]
-    },
-    {
-      "videoId": "HMF2UfOVFoQ",
-      "title": "😱 15,800 फीट की Tunnel का सच! क्या ये Hydropower Tunnel है? | India का असली रिकॉर्ड 🇮🇳",
-      "channel": "India Unbuilt",
-      "published_at": "2026-09-13T14:30:29Z",
-      "description": "भारत के हिमालय में 15800 फीट की ऊंचाई पर बन रही Shinkun La Tunnel को लेकर ...",
-      "comment_count": 0,
-      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:59:03.195Z",
+  "updated_at": "2026-10-29T23:05:19.882Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -10,36 +10,36 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 12,
-    "positive": 7,
-    "neutral": 3,
+    "n": 16,
+    "positive": 8,
+    "neutral": 6,
     "concern": 2,
-    "avg_score": 0.242,
-    "avg_magnitude": 0.592
+    "avg_score": 0.106,
+    "avg_magnitude": 0.469
   },
   "overall": {
-    "n": 12,
-    "positive": 7,
-    "neutral": 3,
+    "n": 16,
+    "positive": 8,
+    "neutral": 6,
     "concern": 2,
-    "avg_score": 0.242,
-    "avg_magnitude": 0.592
+    "avg_score": 0.106,
+    "avg_magnitude": 0.469
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "It's so satisfying to see you planting vegetables!",
-      "score": 0.9
+      "title": "你覺得她套了一個桶子然後沒任何作用？她的作用是讓妳討論為什麼套了桶子.卻沒看到為什麼要套…博取討論度跟流量的😂",
+      "score": 0.4
     },
     {
       "source": "youtube",
-      "title": "As a huge fan of exotic fish, this is one of the most beautiful depictions of migratory behaviors I'vever witnessed.",
-      "score": 0.9
+      "title": "Итак вопрос телезрителя передача что где Когда для чего надето это ведро",
+      "score": 0.4
     },
     {
       "source": "youtube",
-      "title": "Класная сажалка! Где купить??",
-      "score": 0.5
+      "title": "Классное противозачаточное средство! Мало ли кто сзади подкрадется.",
+      "score": 0.4
     }
   ],
   "top_concern": [
@@ -55,8 +55,8 @@
     },
     {
       "source": "youtube",
-      "title": "Portable WC. It is very common in those places. 😊",
-      "score": 0
+      "title": "С ведром все понятно, зачем пересаживать на 20 сантиметров?",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
