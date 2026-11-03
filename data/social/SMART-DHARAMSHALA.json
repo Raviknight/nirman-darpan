@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-10-29T23:03:37.605Z",
+  "updated_at": "2026-11-03T01:25:27.819Z",
   "project_id": "SMART-DHARAMSHALA",
   "counts": {
-    "press": 62,
+    "press": 57,
     "gov": 0,
-    "en": 40,
-    "hi": 22,
-    "total": 62
+    "en": 38,
+    "hi": 19,
+    "total": 57
   },
   "mentions": [
-    {
-      "title": "धर्मशाला में इस्तेमाल से पहले हट्स खराब: सरकारी कागजों में प्रोजेक्ट पूरा, जमीन पर खस्ताहाल; ₹1.40 करोड़ का... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb3JZRVRVekxtbGZ4V3E4YTZfTzZNTVUzbmI0REVSdnk1ZUkxX2tqenBIY29BT3ZLc0VfMlBVTVoxTzZsVksyeVNJc0lKSGItbUhnYVdYeGxyT1o4SnhHeFBxVWRTTXJGaDNYWW1yeFhCWFlpeEs0dFY2WEZEMzRFVHJFZnVvQWlEZHdDMW5MRVV0SjJjMG1fODFxSTZtX0lWYUozWGNpdjRWc1BWTE1uczR4RDVUa1o0RVBSMGdQWE90eG5XdXZSVUh0bXhrM1NobHk4YUxqbGdfWGRCbm1j0gHkAUFVX3lxTFBESjZfeGVqcXNucmFSU0dFNFRCeS00SGtkaWJISUQ1Wi1aVVFrekRlQU1fWnNCQzdvWW9iTU5obmt4NWE4UDN6aGNaUUYxdnh3RlVSb2RjRW90cnVrSThGOEJzMU1sSDF0OVNEcEJTdFpBZnJRbUxYWHJPVThNZjB3ZW9pcl9RNFlMcFNyaEw1cTBLVzc0b0FPMVhwZGJJWkg0cTZEaC1vcWx4NWkzdzkya2YzSG1DQ1I2N2hiMnFZRWNXcHBES21yd3VhbVB0ODIxbEJFUkdUMENrSG5JOWJHN1UzQw?oc=5",
-      "date": "2026-10-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dharamshala Smart City"
-    },
     {
       "title": "धर्मशाला में 25 करोड़ की स्मार्ट रोड धंसी: 25.17 करोड़ तक पहुंची लागत; कई जगह पड़े गड्ढे; DC बोले-विभाग जल्द... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
@@ -28,16 +18,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Dharamshala Smart City"
-    },
-    {
-      "title": "Davangere Sugar Share: कमाई बढ़ी पर मुनाफा घटा! प्रमोटर्स के लिए बड़ी तैयारी, शेयर होल्डर क्या करें? - Whalesbook",
-      "source": "Whalesbook",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN21obUtMMWhMeVVjN1NHWGdDVzhkVWVLMDhRVXMzT2o5aDhQYUhpM2hOb3hZSzNNZi1wMTBHQThPSlp6WGJzT3lVYjNhYmpVSy16cktyNTNOcEdJRk9UYjd3alNTUDFFRk9mbnJWSFRTSy1jZXpoY05YUUF1cS1KdC1wdE5wLTIxeHFYYzBZMWlEYjVRTkJlU3k2MXV6Y19qRnd1SWpNY19SeVhEZWhKOG1qdTN5cmw3TklGVTFnSjR3cm81N3RMazNIajl4dmh6eDZ3Vk9vV1dpcDc5djUtRTZQQmQ4WkU?oc=5",
-      "date": "2026-08-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "DSCL"
     },
     {
       "title": "धर्मशाला के इको पार्क में 542 करोड़ खर्च बर्बाद: उगी पड़ीं बड़ी बड़ी झाडि़यां, जंग खा रहे झूले, मेयर बोले-ब... - Dainik Bhaskar",
@@ -53,8 +33,8 @@
       "title": "Himachal CM inaugurates redeveloped Fountain Chowk, E-bus charging depot in Dharamshala - ET Infra",
       "source": "ET Infra",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ25GUm9vRmpfYjZGNnhXR290TWl1MEtSSXVZV3BMajItb21YZGJiZF93ODRJWXNrUkQwQ1hBdVN0bFZvU2tPSTNsTUY2RmFUbFh1d2loYndIazZKdVZCZEJUQlNZVFJENnQydmh2RDEyQXpQWkd6M0lkUXlORFlwV3JqTTM5Z1NReFJMeVMzVTQyY2ZrMjByY25hUVlGSTNRYUUwU1pFOEVId2Mtc3Jya3ZLY3hHR3hkZ0RQSUtMcW1zZmp5Y0U4ZzRJVFdmcmNNaE1CYWFNV3ZxU0Z1NVNXMVN4STA4Qm4yUlJPUUhKbk1tNzY4M0hrNtIB_gFBVV95cUxPY2FGbkRxU05KTVNmRTFaMWdERldhcm5tUkNhTlg4d1JVeDItMk5jWHNvVllRdmd6am44cUsxTWVncTZfamZwUU90MGRzNHJkZk1vd2UyYmJoMDJ3Um9Zb2tuNWJTUGtYeXJINE1pSHp3ZWRoNFBPbGpsQkc3OUUyZ29iR3NEUnhzb09OdEVrUVkyOWx4NGZJYnp5d2hrbWFVRUliU1ZtSzRHOTJLN2x3cVNrNFhlV2pDTEtZb3JmeXlxaGdCcTh3UHZjamw5cHNocU1sOU1CMUt3OHFtbFo2OGhVLW00OVNGb2dMeGJ6NV9GVUNCYm9hYkh3X0FLZw?oc=5",
-      "date": "2026-06-18T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ25GUm9vRmpfYjZGNnhXR290TWl1MEtSSXVZV3BMajItb21YZGJiZF93ODRJWXNrUkQwQ1hBdVN0bFZvU2tPSTNsTUY2RmFUbFh1d2loYndIazZKdVZCZEJUQlNZVFJENnQydmh2RDEyQXpQWkd6M0lkUXlORFlwV3JqTTM5Z1NReFJMeVMzVTQyY2ZrMjByY25hUVlGSTNRYUUwU1pFOEVId2Mtc3Jya3ZLY3hHR3hkZ0RQSUtMcW1zZmp5Y0U4ZzRJVFdmcmNNaE1CYWFNV3ZxU0Z1NVNXMVN4STA4Qm4yUlJPUUhKbk1tNzY4M0hrNtIB_AFBVV95cUxOMGRrNmZoUV9wMzhqNkJKdzdtUDkzX1hWTFNZVDFQYjI4S3lSc2VzQUsxc1FhYXVYQUJ3MUVJX1pnYTIwdmI1Q1d3X243Mm5uMzI4X2xFRkNKSUJvUDI5TlF6aGFVSnAwSWRFbDFEaHJld25waDdFbU9LSjFnVm0zVF9WTWM1Q21GZ1RPODVla3d6cU1VbDl4eXVnN25nY2E4VnlZa0c5UXhVVlRnT05KYU1JWFJiVzg2LXlmbnFiako0MktjTnNlTXNjTUgtYUw2clZpRnNCNXZLcHZQMkNTRHloRThSLUZHUXdzeVdUMGRNSTdMdDVYU2gxaFo?oc=5",
+      "date": "2026-06-19T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dharamshala Smart City"
@@ -90,18 +70,8 @@
       "match": "Dharamshala Smart City"
     },
     {
-      "title": "धर्मशाला स्मार्ट सिटी प्रोजेक्ट अधर में लटका: 33 करोड़ आएगी लागत; 2 कंपनियों के सॉफ्टवेयर से इंटीग्रेट नहीं... - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZG12aWxUUTllNEEwaE1felJDTlJVS0NTRFduY1hHYTU1T3pnTUJCQ2h2VWJuWHAwOTQ5Z1htSnVrQXAxSmRiS3VpZVdWMVFBZ1YxTWxHRUVfUUpCbzVZM0hXcE44UWpvNDNPcGxEQ2wwLV9QNk14cVQ4TlUyQmhHSzl1QkxZd1FZVWVHTGZlbUc1VlNMWUIxZ3pXdVk4bllWVFFnQkZCdTI5UzVZcmQtaFVtbkJLckFDRlB4bTFVR1NKeU8ybGFjTEd30gHPAUFVX3lxTE50Tlh1M0MyTlZEcVAxd0YyZ3pEVjdMT0FBeHVIREVDTzlnMWJ1UnM2MktlelVHWHZGTVctWW4yU1FwVlFOdUlta0txTWxzM1ZGRTRwaFhDalc5V0w2cVkyTWtzOWMxUWkyOHNsbUw5dmd5N0V1ZTNFajAwLWhvdW9EMFBGZ21iYldqclZDNjFQZUNvZUl4Yy1lTDVRM2k4bGRYODBLdDRkNkRURlkzZElCRHpUcXV0WjlGTjR2di1FV1BTaU5McXVQMW10a0J0OA?oc=5",
-      "date": "2026-06-02T07:52:25.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Dharamshala Smart City"
-    },
-    {
-      "title": "Dripping Springs library celebrates four decades of community - Community Impact",
-      "source": "Community Impact",
+      "title": "Dripping Springs library celebrates four decades of community - Community Impact Newspaper",
+      "source": "Community Impact Newspaper",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclpKclpQWmdQRm1ObTB1ZXdRR3FOenZSTVVrelpaZEVSUlEyX1FHUmxKVlNVdVVFTDkzb0wycWJoMUF1VEdzUmtzeGJubFlqMVl4QU41a2kxX2N4M2RVenppdFFGV2RjbTJ1ZEpzTlBoWWk4cDhERzI1TzQxbEhVdmtMVWxVQUlJbmgtM0pFR25zTWtGblU1OTdESng4WlMxSlRfaF9qSHk2RExrby14QUVrUFo5ajRqcUdjRm1JVEN4MGFIZ1djLTl1MHNHQQ?oc=5",
       "date": "2026-05-20T07:00:00.000Z",
@@ -180,13 +150,13 @@
       "match": "DSCL"
     },
     {
-      "title": "Davangere Sugar Company Announces ₹149 Crore Rights Issue, Hosts Virtual Investor Meeting - scanx.trade",
-      "source": "scanx.trade",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPODRqVHNUTHA3T1gwbEd2Rm1kRV9xT1VIMUZMUF84MmxVcVVIemt2MzRhdk5WVE9oSTA3ZGI3NTJtM1FMR2tCTHphYzJha29Ka3J6MG52cm5YUE8ySGh3Z3FSblZPclVUUjFvN1hMRGVranlkd255STJiLVU1QzJlckhRNEhWOWxGdFNDMDdLVWFLeFBNTzlXU2I3NUNnRk9PVWh6VGI3RGpqS3FFdG1wZGVHVFFISXZHM1dIYnc1STJFZnJFM3RnQU1KdmlMZW5UY1RkYktVM05NWDE2TXFkRU5jdVdaeE0?oc=5",
-      "date": "2025-08-19T07:00:00.000Z",
+      "title": "Davangere Sugar reports Rs 53.75 crore EBITDA in FY25 - ChiniMandi",
+      "source": "ChiniMandi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRzhBNzN1eGFHZzg0aUNXeVZqSERFSnNZdzNNcWt5VzZUSmZ4UmZoaUg1SE8xVW1ZOXJqTEZVNDRiVFlseDQwLW1VeThZYVpqWVctcUtNM2ozUEdreF9EMTdGU0poZlZZQTRaLWRseXhTeWY3eHdDTlp1ZzNiSjNTWE5RamVZNmtS?oc=5",
+      "date": "2025-06-12T07:00:00.000Z",
       "kind": "press",
-      "lang": "en",
+      "lang": "hi",
       "match": "DSCL"
     },
     {
@@ -200,14 +170,44 @@
       "match": "DSCL"
     },
     {
-      "title": "न बिजली, ना पानी.... ये है धर्मशाला स्मार्ट सिटी का काला सच! प्रशासन ने भी किया नजरअंदाज; देखें वायरल VIDEO... - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPa0x1c2UzeHZRamJ4WXJxSnoyQ0I4cXhXMEdENFAwWEE3RXA1Zkx2bWZnUXRHN3pKV0tuS2JRX01oZVNiWXNnLTJNMWxrdzZyNG5tR3hnUk4tZ0Z3SHY0a182OWUyQ2dzRHExWmp0Q21jZXd4VTF4R0dIMkVZb1RKS1hodlJCaEM4MHZxdnFOZmZXeGFkRE5sVGtYNUlaai0zeldkVTcydDBHSFlPT1hRLVpSNVJHdUthcmZIb0JlRTAwNDRyQ3ZZbmdKck45OFZHUDFObWpLRXF4dGtFR2JVOVVXNE95R0hBQzdXUGpLckNHV01uRl9fR0lHMHpoa0NUTHpCaHhJRWrSAY4CQVVfeXFMTjZuWUZCell4V1c5UW5XRTB0UWJ1a1ZoTzFjcE0tdkJQanBvQ2NzdUotQjlNc0VodUhLZUxJLU04SEZPTTNidDFFcXJIM2s5YTdHTFVuZ1NhcW9tV1F0OUNha2s3c3ZlazBRRjdJOEhFdFdiSVZ2TWxsS0pnbV96TGNvY21udmJFYzUzNUZxaDlXb3BkZy1ZRnNYREZybVA3SE9YZUd3WW9ESFpLWm5nWDh3blJ0TG9XYXh5Rkp3SHlXYm9SenZ6UFlNdFRMNGE0N093c0VKV1FqNXNUTmxsUTdYWnBTY3lsOEhrN1lvVlJpN2hKaF9qcERVVXhIVDB3ekhKdFBMQk9mUnFWWmRn?oc=5",
-      "date": "2025-02-24T08:00:00.000Z",
+      "title": "Love Thy Neighbor - City Lifestyle",
+      "source": "City Lifestyle",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WOGlKaFM1eTJHWHNEdnFPeEJsNk1VWG00V19fTXFjaEhHc2VpcU93OHduQXVHSWtfRVI3aXpmX01UVnNDNXdxLTR6WkxveEx6VkRXdVhDMTdNNWRnVURERQ?oc=5",
+      "date": "2025-01-29T20:12:34.000Z",
       "kind": "press",
-      "lang": "hi",
-      "match": "Dharamshala Smart City"
+      "lang": "en",
+      "match": "DSCL"
+    },
+    {
+      "title": "Dripping Springs Community Library hosts art event to fundraise $5M for new library - Community Impact",
+      "source": "Community Impact",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTU1STnVXR3RlZVlQak03ZmRpNDJPVm5Sd05ma1dKbHBueGVXUnRTaTJkcnhJUWtDVzhhQ0Z3QnJQeGxzOUtfZjF2bEVObkkyeDFHMm82di16Q3JtNUZiVVhLZDdyRkRuTV92M1gwQ1dfRHZ0YWkzY0wtb2JkN3ZfM1JMOENQQ3djcHNSWmtnN2l4eEhMSlVYVWFkVklKS3lEOExtZE9Ld21nSUM4WWEyN19KWmhIOGNTR052Mk5nd3RqZkFlaDlkRFRSVXZYaGlNR2RoWWVXWGRPTF95WXVSa2tYa2JkTkRsSjhNZlZ3?oc=5",
+      "date": "2025-01-23T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
+    },
+    {
+      "title": "Remarks by UN DSCL/RC/HC, Imran Riza at the International Conference in Support of Lebanon’s People and Sovereignty [EN/AR] - ReliefWeb",
+      "source": "ReliefWeb",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON1B2TmVuNXdoSmxaaDRETHpzQkg0cEJjV0hfT05mUXMyRWxCV09paG9nTUROWGs2THplY0YwV3lfWmNIWVRvZjcxVUpJdWg4Ml9ZV0VBaW4xTzBUZ2UyNGhZMFFTTG82ajJrNjN6ZDdVaTgtS3dsdTk0MUZOQVkxU05vdGFYLXFKNFcxUXZWQUx4WlFhV1lyd3U0UTlOZUpMLUl6aWJ4Q3RzNS1EVEtsekxWU0xwaXhlU0w3TFlxX3Y0RzVnX3VMcHV2ekpOS011Yk5n?oc=5",
+      "date": "2024-10-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
+    },
+    {
+      "title": "Smart City projects nearing end: Has Doon become better? - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVWZONTU2d3dUdmswYUY3MmxHQTJZX3I2Sk1GN2NhZTBENnoxNDMtaklqYjg0ajd6RURtd0JTcVhxR1FkNzFRQkRXMEh2M2NVOHVBaWRKY21BM2hFQW8wQnRZeHoxTXFQNTl4cUtpTS1TOWpPQlFjZm1XeXhTSG5FN2J3eDVHRFI1c1VKN3dWODQta1FzX0pFTUdOOHlsRjUxUkwwUEE2UkJKdmNfS1loNnNCNDAzVVowWmVjcTVZVFZuU0ZUdUtqOVN30gHPAUFVX3lxTE1SZkZJczc3amVhWUZ5Uk9xYUtTNDUxTzNTTTJpd18wYnE2R0ZWTURCNVBfRmw4VVp4LU9KNVdybXJrOV9TZThPUjFzd2pSZEtKaERKQ1VsNW9Wc3N6aFBDNHpESndUS0xSdUw3eGpWVXJ4bS01eTlpS0hqOW0wNjI0VHlxQm9URHpLY25lRjcyNkh6aHBNLVR6RmFRV003RWVhQjNhbjdtZ3JUU0JBLThZTzVRMzdVMmdDcVQxMnRabjc3bzFmRjI0c0J3YmRycw?oc=5",
+      "date": "2024-08-11T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "DSCL"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

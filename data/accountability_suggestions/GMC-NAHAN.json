@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-10-29T23:04:01.879Z",
+  "updated_at": "2026-11-03T01:25:51.297Z",
   "project_id": "GMC-NAHAN",
-  "count": 3,
+  "count": 4,
   "suggestions": [
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-11-03T01:25:51.297Z",
+      "title": "Woman Injured in Lime Accident in Sirmaur - jeevanutsahnews.in",
+      "summary": "Auto-detected from press: \"Woman Injured in Lime Accident in Sirmaur - jeevanutsahnews.in\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeDM4ZlNvdzlUUW9FUzFIRkdwMC1KbmVKVFk4MDNwelJYdEQxR3VEbjBJalZSQ0N0QzNRaVRxd0llSU96bzd1SFNpbjQzNUpFSi1YS19NYVFwdWJPMWQ1Q1ZmZU9tNHBUYjdHU0ZPZjlXcXl1M29JNlJkWGJBNjhXNGN1NXFYaDZCaUxz?oc=5",
+      "source_name": "jeevanutsahnews.in",
+      "lang": "en",
+      "date": "2026-11-01T07:00:00.000Z",
+      "matched_term": "accident"
+    },
     {
       "category": "litigation",
       "severity": "medium",

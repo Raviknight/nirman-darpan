@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-29T23:04:32.796Z",
+  "updated_at": "2026-11-03T01:26:23.773Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
-    "n": 15,
-    "positive": 10,
-    "neutral": 2,
-    "concern": 3,
-    "avg_score": 0.12,
-    "avg_magnitude": 0.367
+    "n": 12,
+    "positive": 9,
+    "neutral": 1,
+    "concern": 2,
+    "avg_score": 0.192,
+    "avg_magnitude": 0.342
   },
   "youtube": {
     "n": 12,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.467
   },
   "overall": {
-    "n": 27,
-    "positive": 16,
-    "neutral": 7,
-    "concern": 4,
-    "avg_score": 0.189,
-    "avg_magnitude": 0.411
+    "n": 24,
+    "positive": 15,
+    "neutral": 6,
+    "concern": 3,
+    "avg_score": 0.233,
+    "avg_magnitude": 0.404
   },
   "top_positive": [
     {
@@ -33,22 +33,16 @@
     },
     {
       "source": "youtube",
-      "title": "very nice Which camera you are using ? Good quality output.",
+      "title": "SUnderNagar Mandi tab bnana bhai kabhi same style mein :-) appriciate your work.",
       "score": 0.8
     },
     {
       "source": "youtube",
-      "title": "SUnderNagar Mandi tab bnana bhai kabhi same style mein :-) appriciate your work.",
+      "title": "very nice Which camera you are using ? Good quality output.",
       "score": 0.8
     }
   ],
   "top_concern": [
-    {
-      "source": "press",
-      "title": "Terrain trouble: Landslides, floods triple cost of key Kiratpur-Manali highway - Himtimes",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzFxSjdEeVVIQ0VFbTBvRDhzVlVhRWxrRF9naHp2TkdhaS1OamtyVmg3dmxMaXpNQ2RmTTlrY0VvYmxkUzVfZ3FNblAwMFBOcG5Ga05hd2VqMmtoS3BEbTI4ZmpmUlA3Y2htZXZYemlJY2JfenNEQ3ZuS2dMaEZjeTBsOWZFWTRSRDJyUDM2ZGN3SkhnUDlxWUtnVDNTMlU?oc=5",
-      "score": -0.8
-    },
     {
       "source": "press",
       "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
@@ -58,6 +52,12 @@
     {
       "source": "youtube",
       "title": "Today i come from ghumarwin to kenchi mor via tunnel. It take 1 hours to kenchi mor from Ghumarwin but lot of work pendi",
+      "score": -0.2
+    },
+    {
+      "source": "press",
+      "title": "Himachal Rain Fury: Chandigarh-Manali highway shut, alternative route also blocked - Babushahi.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrY09vOEV6RU5OV01UUEtZRmxacU5FWWhOdlBqWUxWSlBYcFhReDFQUmg5Sm1NdkhVV2EzZWJkOHM1TGhjZjdlaldGOWVxT1NnZDRUaU9XejJUM1ktSGc?oc=5",
       "score": -0.2
     }
   ],

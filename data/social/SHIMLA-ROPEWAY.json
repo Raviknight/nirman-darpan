@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-29T23:03:57.251Z",
+  "updated_at": "2026-11-03T01:25:46.856Z",
   "project_id": "SHIMLA-ROPEWAY",
   "counts": {
-    "press": 100,
+    "press": 104,
     "gov": 0,
-    "en": 58,
-    "hi": 42,
-    "total": 100
+    "en": 61,
+    "hi": 43,
+    "total": 104
   },
   "mentions": [
     {
@@ -25,6 +25,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ0R1bllLSlNJcFFZV2ttZVJvOU1UWXNTRVdYTDJQSGZhSjdweXdiejhrSjZuUzRsUWFGTGZfUVdTYkR0OTlFS1hYVVB0OERyTkcxeURZVzRNLVpfX09fejIwVzFNcmxNQ1hCVEF6Tk9kY3Fiemc2aDk0T1FMY2pUVnVJc0JieUVtTVVseUcwSEtucFpFNzl4aWlBeE1aazVOODZ5NURRWS1naGc1REVEdGFIQ1NXMlNxQ0JXcjBmOWR5eWIzc1poTE1SWVRxSmJzYUJGTURCSzQwaUxUMmVCRFFweTRzYXdGdDlVaS1n0gHzAUFVX3lxTFBpT250U0x3ekhjLWZzbVR5WFFyeXhfTmg1NXAxMng1OHJhRnprZXo2NjAzanloVGtMT3dSY3pDYXduOTFFSFQxMGFtVHZEemY3bXhWdjUzeFFIT1pvZzgwcUtyeUdtN3JVdHYtenlaanFWQ0txejBiSTFVeEFWLXR5VUlpRHNNRWtmWFY1OXJSb3BTZ2pnOXVHdW5mRWhwQWd3aGNYODh4TnpycUFZbmNXVkhCR0VTRGJaT3djOGpHOVZsWTJlc1N2b1Fxc21HVlZnX0ptajJUT1ZwdmJaV2x0SE1ienFHN2Ffc1QtSGdWSzVzRQ?oc=5",
       "date": "2026-10-27T05:16:24.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "RTDC Shimla"
+    },
+    {
+      "title": "‘आप लोगों ने मुझे रुलाने का ठेका लिया हुआ है’, मिर्जापुर में भव्य स्वागत पर भावुक हुईं पूर्व IAS दिव्या मित्तल - Jansatta",
+      "source": "Jansatta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeFRyemlaajJ2aFRULXVBRlpNRlBwYzByYTBpMWVSYVZHMHVHLVJUMkJ6NnVuRXNVblk3SEpiTHd6ZVNmdXp0SWFLa1hjV1dtTm9YemNKdFJDM2pXMDl6TU9JUGx2c1pGY2I5TF93Qzh6a3dUT0ZIRFV4SVNOdHpEdi1OWjdVdUx4azVEWFd0STlTcTNaXzM1Zk5SNmZVSnNNREtJaTcwbGd2RGhNNlNrWUEzN1lBekNGZVdpWlBMRy1kN2FybTNVZkV6VDUwNERDUUlTSld0VmNURGlKNkVTNVAwYnFHeERLSndLX2xORmo2RmZXaTVRTnEwa9IBggJBVV95cUxQaVBsbEE4QXBpSGVxOE1XeXBSRXNKc0pUcmRvNWlxUHFaUC1JcUJjbGl3QjBIZ0ZoZ0UzenVpeHJxdFdxQTIxRy1peGI1UmdMV2xqZjRfcE9qMTBpWWJlMWRTdUg0ZE9Bc2c0YlJGaE1GTDlUZER3NVZNeWFCTG0tZndwaGhaTTZzRElQemVDRzZfRGVFQmxGejZlYmlQRGREUTJRdlpIaVlJVnFwaTJjc1ZUSXctSXVuQTZwNFBqaHpuM3dQTkpub1c2YWk4dldDek4xY051SkY3ZWZWSWxoRXBhbThWMkNobDM4OEZlS09Nc0NlRzFGR0NFRU1ZRzBpR1E?oc=5",
+      "date": "2026-10-12T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "RTDC Shimla"
@@ -130,6 +140,16 @@
       "match": "Shimla ropeway"
     },
     {
+      "title": "HP: Shimla ropeway project hits roadblock amid ‘cost escalations’ - MillenniumPost",
+      "source": "MillenniumPost",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnBHOG1hOWxfVGZVOHVLUTJBc1JnX2xRUWtVOF92MjhucGx0NEJaX3VWUk9ZU3JVdENaTmExbzBmRml5TnM5Sm1XR3BiXzFybXAwSk5oaVRScmoyUFJ5VEpIXzI3dEZVYkFIbTdBUUp2TUNyRllTYzlJcnJDb2xxU0dNVDFRLWhnc2VaNkFFRmlzZ3NxUHVmdkNDdXBBVDM1RXlKMWQyNW1yZ9IBrwFBVV95cUxPalFDZi1PRDRVeUIwcEUwRjRIVGlkeURhUmVJQVZ2VEI5M2ZMRXV4OEZuUXFOdUZNZnd2YkRsdFN4UDY2bGRZRnUwMEdHdHVCcGtHU0w1VFVDNmdzR1c4WDF4VTNxUFlTMElYbl8zUWR1d2hsU2ZLSDZ4YUVlTDlXdVZVSTZPZGtySnFnUUR2cXl0X05hUWFzNHVqVEVQdmM2dFhlb2tQRUZtanQyNllz?oc=5",
+      "date": "2026-05-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla ropeway"
+    },
+    {
       "title": "Cabinet meeting starts in Himachal Secretariat: Proposal to raise vehicle registration fee likely; talks on... - Bhaskar English",
       "source": "Bhaskar English",
       "source_id": "google-news-en",
@@ -147,16 +167,6 @@
       "date": "2026-05-22T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Shimla ropeway"
-    },
-    {
-      "title": "HC seeks status on Shimla ropeway, decongestion plan - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnpkVERxd01xZGxHMUZ6SGpEZXVBV1VOWk1YbWtzVGtmVlA0NHNTcHMzUEY3bnNVU09IT1BQaXhIYllDbkM2b3VJd0pLYk44X3JFR0czY3FacVlZNHNEaUFESHRvaGM3WEJvSDhSZWlNa1hPLWdDbmFKR0JZQXVDVnAxQUlaZ0tnV3l3VXlFR3IySC1RTHAycTQyNNIBnwFBVV95cUxQdmphZHVvZGpucWZYSDM3Y1lNclBtM2g2cTNSNGJ1YnpYUWJNLWpzUXJxQ3lsM0x0Q28yamN2SnV0YXNSaEt1SEpxQlhrSU1iMXNVQkVIeGVpc0NmRDlLaGZhaXc1dDV3ZDRhcGltMHdRQXhQM25IazlNS0pfSGtRbUFyb2F1RWdPZTE4bER3emsyRnRtV1M5OS1JbHpobDA?oc=5",
-      "date": "2026-03-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Shimla ropeway"
     },
     {
@@ -195,16 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ3pmXzF2eExEc1V3WGN3RWsxM28yRF9zd0pUOW9mWEFodVpjMG1wUDdwZW85Qm9LX3RVcmFoNzU0YlMtTFF3dGN4bWYwQ1pZTmt5ZUJad1Vid2kzcWdYakJORnZ1elptNGN5S0wzSFJORHpWTHh4SmhtT09jeTAyNFk3S0dtcGNiOVdmdG9rbkJka0NCemVaUDA2UFJLNzRUQjdRYnVUQ0FRdGQtNTdpRGZyMjNlRWNOOVlzTGlHY3JDRW1fSDZEcnVzMlZWM2NMRWtEQkh6c1FEU0dDM2N4Qm5mT0NTUFRLZ1pLUWlR0gH-AUFVX3lxTE5TcVNiYkxVS09SZTJlM0JSbzlLdW1TejNzcll2QnhsZXFxTXhxV0RuaEdKa1JkeFRJbzRxUG9pWFBIaHV3MDJnUjBnaEdRWnRETUVjU1ZucWRYSjNVRnUyY2FRUm5OSmNWd3RvTXRDdk5MQWtsTFoxMHBGWHZQQ3Yxc21XM0VuRHpxblpZbDdZNGxMY0NhTmJOaG91aHpJdEdOSEp6TWllZzVPVzBuSEc4ZE5WMHNtaTRtUTg5MVhVVW8zd1Y4OXZmVmYyS0I1clJXY0lLVHpCdG5JbEpMcVVyS015SnRxUk9Yekl4bXdTZjBlWG1DS0ZkcGVud01B?oc=5",
       "date": "2026-01-22T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla ropeway"
-    },
-    {
-      "title": "Single-bid system delaying Shimla ropeway project: Himachal Deputy CM - The Indian Express",
-      "source": "The Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnZacm96NDludmI5NnAtSDI4QlNjcHBVbnc2UnVhNmJDQlZxQUtsNWE2dWZYS1JHOUM1N253MWY4NHBNd3A4Wk1sSmJqMFdjX0Z1eFRlSmo3RHgzOTZ0bVJGR1FxbnZwdUlWdVBVUGVYUXpYVnE2RUpZTnQtQ2cxQ3dYUkh5UWlJd2xQSUNjUng2UXhjUzlOTVV6YXp6MWMyTVJYSzg4U3E3ZWluRlJYSVVxR0ctSGZEUHhlek1LVEdUbTFQbFdkOEp30gHQAUFVX3lxTE4yUTF3M2lpcXJyak5GM0diZEt4c1E5VTVyWmVja1NIY0R4aGYtT3lpTlFDbEJUUjFCZ3o5LW93M2ZUMlc2MkhiUnBwekRpV3ljREJPdlQzTVhHVmtBWHR0dnRrcGkyYjdYRi1mdVNsanhGUTFrTFJyeDVDTm5VMVFMTUdYeUkzTjhkNHhjUXhLRXE1YmhKU2otZVc1N0o2Y3F1aUF3c3Z0alFRQ0cxRHd6eWNXcVp4TzhEa2o2VVlBdmd4TTZubTlncF9fUVp2ZnU?oc=5",
-      "date": "2026-01-20T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shimla ropeway"

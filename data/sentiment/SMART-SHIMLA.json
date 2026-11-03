@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-29T23:05:01.660Z",
+  "updated_at": "2026-11-03T01:26:28.478Z",
   "project_id": "SMART-SHIMLA",
   "press": {
-    "n": 16,
+    "n": 15,
     "positive": 11,
-    "neutral": 5,
+    "neutral": 4,
     "concern": 0,
-    "avg_score": 0.225,
-    "avg_magnitude": 0.375
+    "avg_score": 0.24,
+    "avg_magnitude": 0.4
   },
   "youtube": {
     "n": 21,
     "positive": 8,
-    "neutral": 11,
-    "concern": 2,
-    "avg_score": 0.067,
-    "avg_magnitude": 0.281
+    "neutral": 12,
+    "concern": 1,
+    "avg_score": 0.095,
+    "avg_magnitude": 0.19
   },
   "overall": {
-    "n": 37,
+    "n": 36,
     "positive": 19,
     "neutral": 16,
-    "concern": 2,
-    "avg_score": 0.135,
-    "avg_magnitude": 0.322
+    "concern": 1,
+    "avg_score": 0.156,
+    "avg_magnitude": 0.278
   },
   "top_positive": [
     {
@@ -47,11 +47,6 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Kuch bhi?\nWithout informing the Numbers, data and facts about why you think the scheme failed, you'll bark \"SCAM SCAM\"?\n",
-      "score": -0.6
-    },
-    {
-      "source": "youtube",
       "title": "Ask electricity board ,what they have done till now, people's living 2 days without electricity in capital , why not HT ",
       "score": -0.5
     },
@@ -59,6 +54,11 @@
       "source": "youtube",
       "title": "15-20 billion dollars hai 😂 itna to foreign countries me ek city par kharch hota hai 😂",
       "score": -0.1
+    },
+    {
+      "source": "youtube",
+      "title": "To option bhi kya hai population hi itni navi mumbai population keliye hi banina or greater noida Gurugram bangayi",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

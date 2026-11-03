@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T23:04:11.988Z",
+  "updated_at": "2026-11-03T01:26:04.662Z",
   "project_id": "JJM-HP",
   "query": "\"Jal Jeevan Mission — Himachal household taps\" Himachal",
   "counts": {
@@ -17,15 +17,6 @@
       "comments": []
     },
     {
-      "videoId": "bEfDIV4uUsg",
-      "title": "हर घर जल, जल जीवन मिशन,",
-      "channel": "UPSWSM",
-      "published_at": "2026-09-19T11:49:09Z",
-      "description": "जल जीवन मिशन, उत्तर प्रदेश का संकल्प है कि प्रदेश के हर ग्रामीण ...",
-      "comment_count": 0,
-      "comments": []
-    },
-    {
       "videoId": "EEq899u-EE0",
       "title": "Jal Jeevan Mission Achieves Milestone Of Providing Clean Tap Water To Nine Crore Rural Homes",
       "channel": "Swarajya",
@@ -34,18 +25,18 @@
       "comment_count": 4,
       "comments": [
         {
-          "comment_id": "Ugz5XBbKVpxecYpPECF4AaABAg",
-          "author": "@indicrealities9557",
-          "text": "Excellent achievement",
-          "like_count": 3,
-          "published_at": "2022-02-20T07:39:55Z"
-        },
-        {
           "comment_id": "Ugy14QYozIusQhSRzad4AaABAg",
           "author": "@theviralclash",
           "text": "The work under this scheme has just begun in our village.. 😍",
           "like_count": 2,
           "published_at": "2022-02-20T17:13:18Z"
+        },
+        {
+          "comment_id": "Ugz5XBbKVpxecYpPECF4AaABAg",
+          "author": "@indicrealities9557",
+          "text": "Excellent achievement",
+          "like_count": 3,
+          "published_at": "2022-02-20T07:39:55Z"
         },
         {
           "comment_id": "UgxKc5GXR_SzaMfbr4J4AaABAg",
@@ -62,6 +53,15 @@
           "published_at": "2022-02-28T14:58:52Z"
         }
       ]
+    },
+    {
+      "videoId": "BoeGxQIgYWA",
+      "title": "𝑯𝒊𝒎𝒂𝒄𝒉𝒂𝒍 𝑷𝒓𝒂𝒅𝒆𝒔𝒉 implementing #JalJeevanMission in full swing",
+      "channel": "Ministry of Information & Broadcasting",
+      "published_at": "2022-04-25T09:58:27Z",
+      "description": "Himachal Pradesh implementing #JalJeevanMission in full swing Piped water supply to every rural home by ...",
+      "comment_count": 0,
+      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

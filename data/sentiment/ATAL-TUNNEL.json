@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T23:04:48.252Z",
+  "updated_at": "2026-11-03T01:26:26.689Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
     "n": 0,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 27,
-    "positive": 12,
-    "neutral": 13,
-    "concern": 2,
-    "avg_score": 0.226,
-    "avg_magnitude": 0.315
+    "n": 23,
+    "positive": 18,
+    "neutral": 5,
+    "concern": 0,
+    "avg_score": 0.487,
+    "avg_magnitude": 1
   },
   "overall": {
-    "n": 27,
-    "positive": 12,
-    "neutral": 13,
-    "concern": 2,
-    "avg_score": 0.226,
-    "avg_magnitude": 0.315
+    "n": 23,
+    "positive": 18,
+    "neutral": 5,
+    "concern": 0,
+    "avg_score": 0.487,
+    "avg_magnitude": 1
   },
   "top_positive": [
     {
@@ -33,30 +33,30 @@
     },
     {
       "source": "youtube",
-      "title": "बहुत सुंदर भाई 😆",
+      "title": "God bless you and best of luck 🙏🏼🙏🏼😇😇🌻🌻🌷🌷❤❤and thank you dear sir for watching to this most beautiful atal tun",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Beautiful video",
+      "title": "Love this video.very informative.",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "In october there will be no snow in manali in any spot",
-      "score": -0.6
-    },
-    {
-      "source": "youtube",
-      "title": "Where is the snow now in solang? It's mid December now",
-      "score": -0.2
-    },
-    {
-      "source": "youtube",
       "title": "Bhaiya Ham cal hi atal tunnel main gaye hain kyunki Ham cal Rohtang pass ja rahe the na aur ab Aaj Ham apne ghar ja rahe",
       "score": -0.1
+    },
+    {
+      "source": "youtube",
+      "title": "Mai last year gyi thi yha bhut khubsurat h ye🤗🤗🤗🤗🥰🥰🥰🥰",
+      "score": 0
+    },
+    {
+      "source": "youtube",
+      "title": "My direm🥺",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T23:04:54.514Z",
+  "updated_at": "2026-11-03T01:26:27.391Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 0,
@@ -10,53 +10,53 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 51,
-    "positive": 31,
-    "neutral": 13,
-    "concern": 7,
-    "avg_score": 0.296,
-    "avg_magnitude": 0.457
+    "n": 31,
+    "positive": 27,
+    "neutral": 2,
+    "concern": 2,
+    "avg_score": 0.468,
+    "avg_magnitude": 0.594
   },
   "overall": {
-    "n": 51,
-    "positive": 31,
-    "neutral": 13,
-    "concern": 7,
-    "avg_score": 0.296,
-    "avg_magnitude": 0.457
+    "n": 31,
+    "positive": 27,
+    "neutral": 2,
+    "concern": 2,
+    "avg_score": 0.468,
+    "avg_magnitude": 0.594
   },
   "top_positive": [
     {
       "source": "youtube",
+      "title": "best youtuber for medical i mean yeah man i will c0me for this 2027 lets go",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "love you boss amazing content 😇😇",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
       "title": "the song.....omg it's so nostalgic of 2020 era , every tour had this back ground music......btw the campus is soooo pret",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Ya Allah help me getting in this institute its my dream to study in such nice college and full fill my dreams.... I want",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "My dream college Very beautiful aiims",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Mess per vdo banao",
-      "score": -0.5
-    },
-    {
-      "source": "youtube",
-      "title": "Didi hostel fees kitna hai yaha par mere nursing me selection hua hai and yearly pay karna hota hai for full course",
-      "score": -0.3
+      "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
+      "score": -0.2
     },
     {
       "source": "youtube",
       "title": "Bhai is saal milte hain\nMay be I'm coming in 2026",
       "score": -0.2
+    },
+    {
+      "source": "youtube",
+      "title": "3:30 the view 😮🌷❤️❤️❤️",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

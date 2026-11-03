@@ -1,45 +1,48 @@
 {
-  "updated_at": "2026-10-29T23:04:42.916Z",
+  "updated_at": "2026-11-03T01:26:26.158Z",
   "project_id": "KGR-AIRPORT",
   "press": {
     "n": 13,
-    "positive": 3,
+    "positive": 4,
     "neutral": 8,
-    "concern": 2,
-    "avg_score": 0.023,
-    "avg_magnitude": 0.231
+    "concern": 1,
+    "avg_score": 0.077,
+    "avg_magnitude": 0.254
   },
   "youtube": {
-    "n": 23,
-    "positive": 17,
-    "neutral": 5,
-    "concern": 1,
-    "avg_score": 0.357,
-    "avg_magnitude": 0.383
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 36,
-    "positive": 20,
-    "neutral": 13,
-    "concern": 3,
-    "avg_score": 0.236,
-    "avg_magnitude": 0.328
+    "n": 13,
+    "positive": 4,
+    "neutral": 8,
+    "concern": 1,
+    "avg_score": 0.077,
+    "avg_magnitude": 0.254
   },
   "top_positive": [
     {
-      "source": "youtube",
-      "title": "Super butiful place ❤❤❤❤❤❤❤❤❤❤❤❤",
-      "score": 0.9
+      "source": "press",
+      "title": "कांगड़ा एयरपोर्ट विस्तार के मुद्दे पर पक्ष-विपक्ष में तीखी नोकझोंक, सीएम सुक्खू ने किया बड़ा ऐलान - Punjab Kesari",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1NRazUtdmxDRVotSjhtTi0wY09lY3VvMW9OWFp4OFdBX3VZUUFGeHRYNkNqTTVPUDYxbWw1c2Rnc3J2dUFTRHpoQWJRNGE0blB4VV84UlB5TzZOSC1ISU9MVHJqR005VERPVGE2LVZOWV9JZ0o2WlpxSk9KYUlxSVBFMEgtVncwN2dGYXJtUVBhcVZYRmp3d2dKNzFZZnpuZDE5WGJDQXoySldWaWJxczNlczlfVEZ2c1Nya3ZzcEo4N2lXMVZBeXVtcXDSAdQBQVVfeXFMTXByTzRlbDlXcjV4Q294cThmazNCNXZycUZsVzU5bU0zUF9WZ2lMcmVPUFpjUm50dHN1ZnMtdGxpc1JNVFRoRXNhaGpsQ2FydXVZRHhLVWZ5TkpmQkx6emV4Z1dEYVFUVkRLOGMzVmFaRU5VcmRrYldYWFljUjVleVV4SWpSc19ESGNVNkI4bGlXZVkweVpIRzNGaWROTlBsZlc1VmtrZ3B3M29qcTFUMWRPSXFVeE5GZ1RlZXZHUmNtRWlXdmVTaTZ0aW5ZV3d2X0RucGs?oc=5",
+      "score": 0.5
     },
     {
-      "source": "youtube",
-      "title": "I love kangra❤",
-      "score": 0.9
+      "source": "press",
+      "title": "क्या गग्गल एयरपोर्ट के पास गरीब लोगों से सस्ते में खरीदकर महंगे दामों पर बेची गई जमीन? सरकार का बड़ा एक्शन - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkhZX18zdXdHeGtoMkJPb2hJUlpLQjFob3oyWVV6bkZVcW9XOHoyeTJ1aGpVdTNnYU4ycmIydEZqdmRVWXZEQ3RfeWhBNjZDNEJXaEo5TU50WmJsUU1BOWdyT3RBbTRjRmRyaUNjZlExbEVHWEVDN3ZFekI5SkVvTXFncmtQd1paNzlBQjMzZWVaSU55NEN0bFRrS0M0djJvVEphODNiczNzNjd1X0hJ0gG0AUFVX3lxTE56a25BdHFCYVVFSkh4MHlDZjAtQjNiYnVfUFdQaFZFNDVjRFBTVjZVdU9SZHk1emJrYlBSR0ctOXRITDVzd1lkSXZYVU0yTkVaNTZwWkwzUjFFWU5fWVRSekN3czNrZ3VrTC1UVmhreG9qM1A2cFgwWVVIN2QwWkx1RkhZenZfTnZLTW9EN2pjNmZOLS1rV1ZIUlFQNjRMdUJNcHdmRzFNUGRSQ04tQVZqQ19ONg?oc=5",
+      "score": 0.4
     },
     {
-      "source": "youtube",
-      "title": "Best month to go there",
-      "score": 0.9
+      "source": "press",
+      "title": "Gaggal Airport : रनवे ब्रिज के डिज़ाइन पर 15 दिन में लगेगी मुहर, पुल की ऊंचाई-पिल्लर निर्माण पर मंथन - Divya Himachal",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQ0pRVVJxaHpLUXZkeUQ0Wm0zVHNrOG12TU9TZ2xYbzlyR1JoVkFrMmQxUTBDVXdLNlRsS2hENHhJazIxYzY1VXdsYThYVzZFU2pfNVk2Q0FRdkxOdEpEaFVHbnhIWXpIUFpjRUE2ajRrdjBsMlpzdG81T2k0YzRIeXAyNzZmaFgxMENvMFdiZ0ZnamFJdDY3Y29sXzhJMU9WaUdLZ0ZHekpFMmsyMDZBcXRVYk5TbFgwblJVTWRRb1pnLUY5TDBJVV9ubVZ2LXlrVTNMNkRRNEhhWVU4WXVMSVBmUXNoTC1Gcjkzbm1qUmJCd0RtQy0tbVlOUGpiM3dBYWk3SndqcFZrU2vSAZACQVVfeXFMTW5RNTFNaGhNNEMzTGdCeXR1UHBlSGNRYUdmNFZ3TnFBbm1EaWVIUkxaLXhWenlBc21wWTk1TWRzcl9CdGZILUktUFNYQU9PVm1WNV9EZkJwd2tmUGdJeDE4OFRYeFZWRkVod212TTFMMW9penJ3SUw2VFRUVThHTTZDRnotUFFXTHMtMkVNdHVCMk8wT2VDMjQwazROT3VVMmIwQU9EdEtnNXN0WkNDbkkyd3YtVUNsNEl6aEJzQ1NDdkw5TDk1eHhnSjB1WTZNaGs4Rm5ITnIwaTJrZ2ZXZ011ekdqN215b2phcEtMeUZNbU9zSnpRR09xQUhKZWlTeHo0OGFtZHNkc2g0QTNySGY?oc=5",
+      "score": 0.3
     }
   ],
   "top_concern": [
@@ -50,15 +53,16 @@
       "score": -0.8
     },
     {
-      "source": "youtube",
-      "title": "which villages  is this?",
-      "score": -0.2
+      "source": "press",
+      "title": "Kangra News: एयरपोर्ट के प्रवेशद्वार पर फोरलेन की अड़चन - Amar Ujala",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOdDNsT1hXd3pEN3dZZE9VVURaNXZsXzBJQTV6ak1vMmczTDdrZnhSc3NhOFg3a2lUUG5FSFMzeUNJMnBHWEJDUG94Q1RIc2ZDbkFLNUkyeFlZcGNCWmo1cVBSRnBlS28zME5xWEFQSkhqUUdGRVAtQWVmSEJIeG1FZlRIU3lIYkFYOVVYdndfYVZqNFVPQkQ5UV9zcjVIcWo3MGxTVkRCMG1RU3VidS1YRFJJeFRWcEhKSVdNZ1pzZ1FzUDlwV2lJd1NnTkRXUFI3ZE0wRlRCanZOTWxxVXVGRHRJalRzQ1M5d19DczUxaklqU1RLUmhKcVJyRDNBZzZlZ3V0SDBnQWQzZktPZFN2UUxNbXp4eXhBQ09DY0hEempuTmtMb3UxaTNveEc1MEpZTG1BN0tFYVZWWjFqVHZfNkRFanQwRXfSAcwCQVVfeXFMTzVySml5LW4xeTZJcDRrR2xnR29YMXYyaGxvTVdpRjhEeGsyT3YyT3kwTEJZRVltakNwQXYwVzZNTHdmc2tzbktMa1N1SmFUSlRYVUxBdzAxUmgyTnM1QTl5Mm9hVklwMm9KakphQVRsd2Jvdnd5UEgwRVZQZnJaQVBWX2ZVRnBEa3h6UDdDZUczRl9ES3BYLVVJREpOaVZ3MUFxNWVIQ2duRjFoWFZMSGpwUndZOTVLa194b0tKSHJwWVhFV1FOUFNuUUZqdWJ4UmhxcTNGLUZnZWNpWnNRTHBSRzlMalNNWnQtcTQzMDk5TDAyc2pOZGg3czNvUUFTam1KRXc0V1loS3VTN0c5S015U0IweUtrLUxBVEpuUTJjRkNVZXo4UndZa2tuVWN4VWsyc3p3TG1XbDVUWWNCUnp6cENZa3NLSllBTjU?oc=5",
+      "score": 0
     },
     {
       "source": "press",
-      "title": "Gaggal Airport Expansion: Evacuation Orders Issued in Rachiyalu, Families Paid ₹37 Lakh Served Notices - The Newz Radar",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeWtNOTRQMFZGWU1TU2gtN2NmeTlWUllRNVNWSW5JNk4wRWYyRDBNWFphQWNQS05iYjVjMzQwUmx5LTNuMlZRbUFWT3ZrcnhVdExTWEk3QzgwQUd4NHBrVE5tRlloSDZiYmRzQWRuNy1mNUlMNjFkUWp3bDl5Y1VZaXI2cGhwX0RLZExVZ3hadWpFclQzYU9CVnNweVFtVTVEVUJjdE1KYjFocV9WNzc1Wk0zbnliRXp1T3VKaExLdTJSX09TY1NTOW55c2hfbWRFZkNhT1czM0hYVmhhaGpYYVU1OTFTZw?oc=5",
-      "score": -0.2
+      "title": "गगल हवाई अड्डा विस्तार: कांगड़ा व शाहपुर के 14 गांवों की निजी भूमि होगी अधिग्रहित, सरकार की अधिसूचना में क्या? - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTI4b1FOREk1b1pBV29yd2VIQzl4ZVZXN05aMnpCXzlOVmQ1X3VqYzdHR2N4aHZxblBIQ3dDOGJGY3AxMGxTZnB3b0hKMC1rVG5Td0QtNXgtU0dHVEI2QUh6ODdpV1NxYzJVOTk0c0dfV3JVTXJMVmpJT0NUOE9kbjZLRnlBUURkYllMSHFXamY2RnUxUnhSSTdyWGJneHU2QV9ybFVEWGswLXlia2gyckN0ZnQ1MmM?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

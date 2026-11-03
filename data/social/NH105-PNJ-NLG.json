@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-10-29T23:03:26.887Z",
+  "updated_at": "2026-11-03T01:25:17.104Z",
   "project_id": "NH105-PNJ-NLG",
   "counts": {
-    "press": 28,
+    "press": 27,
     "gov": 0,
-    "en": 12,
+    "en": 11,
     "hi": 16,
-    "total": 28
+    "total": 27
   },
   "mentions": [
+    {
+      "title": "पिंजौर-नालागढ़ फोरलेन की मरम्मत शुरू - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJdkhyUVQ4WDZfeEZOWUpCUGFKeXp0a2ZrWVVReXh1b2NTZEFub3YzLS1KN3p2OHJyTjRDVkpsclp3WUZjVE1jUEVDeDEzT3NBd1HSAaIBQVVfeXFMT1BjRW1tTTRUcE8yU0FjZTVwck1VUDltd1hCNExDS2w4MWtFSFhzTllwelpHUjVEa1BFb2N3cnM4bmx5akdsN2pCOHNCeEYxSUNyUlpxYS1ZVVd3RnNYUFB1b281NHEzYnF2elIycDBuUXlmTEtudk5Dc0U0M0pGYU1PSVpfcDNoOHR4YzdjMFgzT2toZXo1ODhtU0ZnVFZZMFJn?oc=5",
+      "date": "2026-10-22T19:23:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pinjore Nalagarh"
+    },
     {
       "title": "पिंजौर में बाइक और कार की टक्कर: एक व्यक्ति घायल, मोटरसाइकिल पर लिखा टेंपरेरी नंबर, दोनों वाहन क्षतिग्रस्त,... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
@@ -60,31 +70,11 @@
       "match": "Pinjore Nalagarh"
     },
     {
-      "title": "Himachal High Court pulls up NHAI over delays in Pinjore-Baddi four-laning project - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEw5WVVSZUlhLW1wV2pZQ0VFUUgwWXRZcm1ENER3U2xmNVFSTDQybXRKeFBkTFk0ak5Kc3BIWUg0WEtUZ2x2OGV0dzhjYXpMVU1sOFBuMTlFdklwTHRHYl82cFVnbVEycFJfQkNIcGR6Y2NaT2RwbXRhd0FVNy1YOVkxc3RBcFIya0ZpSjBnWlNwU2t0ZW92MGMxV0YwcFdGS3k3ZUJmWTVVTnVLNHJ5MUtGR2NyamQ2amfSAb4BQVVfeXFMUHJYa0E1UDBSRVJYdVl5N19rcl9acWZOajE2amJJd0RZREFXR1VXSmNCRzlBWk5mekpUTlQ3bUFPNFQ1bTdnYy00UEtqUU90TUt1dE52RU54ODYteEttRTZadmRIQjVjbkg3TXp3R0ZvWnA1QldZUVJKUFpheVB1dWp2bUtqVVY1anlUWFM0SjdNcWlvdTNMQl9sWkpQaUYta0VsMk4xb2U3azZ6U3N6TUE3VXB3RjRibUJYZ0IyQQ?oc=5",
-      "date": "2026-05-22T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pinjore Nalagarh"
-    },
-    {
       "title": "पिंजौर-नालागढ़ फोरलेन निर्माण में देरी का मामला पहुंचा हिमाचल हाई कोर्ट, कार्य का 17 बार बढ़ाया जा चुका है टेंडर - pinjore nalagarh fourlane delay issue put in himachal high court - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0h1b1Z1NTdjV0FrcmppR2dGcGtWZkpqQ29QQVFnRC1QellUeV9ETzlPTzhEYWV3RkxabTJydnpRUTByNExRaDYwczQtb1JHOGlFV3Fudm14RVdBeGpWQlpobVJKWlloVjUxRmdXOUFxUUtUSmxaUTluOHg5d2ZnN1VmcEtlVWxtSGducklLeTVmUE1IUHJYTGw0bmUwNURaTTFiSHhEY1RBQ3llMnFvZm1tVUtFZUFrcVRkSkdmN1NhZw?oc=5",
       "date": "2026-04-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pinjore Nalagarh"
-    },
-    {
-      "title": "Pinjore Nalagarh fourlane Project: आठ साल से अधर में पिंजौर-नालागढ़ फोरलेन, 17 बार टल चुकी है टेंडर प्रक्रिया - Dainik Tribune",
-      "source": "Dainik Tribune",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPX0dvSll0X29fV2pkaHhhTldaQXE3YlFEYzRwSHNURkRDTlpadlZld0VTbTJMblhMSXBpYWtlVFNSankxTklmcEhGZE5fOVk4WWY3dHgxaWFtVW9qaDlaYkJCc0hIWnRiWHZQQjYyTTRfa0FmQVp4cUhidzhiWVNkV05FZEV6R0lwcF8tY24ybmM3bkZ4RnlYSTZMcW9mR1FDSlZEZl82Y2p3M0lCYTVCUEJVUzVFNUFLT0NsR3otT1lSZjNRaURHaV9UZk4yWUF0VkN4MWZPNEpSdTN0MkR4eFlpRFlJd2ZsX2U5cmpscmwyamhVUUh3R2VNdmJ3ZjlwREZnbWtkLU1SWk15NzJvSDl4Q21PUTJra1ZoQkd2djhRVUxtTlA0Q2h30gGuAkFVX3lxTE56SEphSW9FelMxNUt6Nm5pWjNqNm5RaERkYk9nelFuR3RDQ1BnMDdFTV83U1NYb0hiYkdtWjBfd3BRY2lvQlhLc0xhRUdDanhIdk5QOXRwSEl0di1FRGtua1VxN1d2Y2QyWng0ZmdfWGN3clpkV0hEMENTVThQOE5hM2VFeWF0ZEtWN1c0c1kzLWtlY29fWGdTb3dvUktVSEdFM1hERFNQbURKNXVPVkJscTA2Q29ra2FDVnJ1RjdrTHdHTVpKYmtJVUNJUl9HOUFJWm1HSjl1aTNzbjg0azFaY0doZ0F6d2lzRlRaTm90c1pjQmhsZ3FVSHpXbWo0SGtqSUhHME1lUy1wVzVkOVhqdTRRc0xFMHN1YUwtM0syclRYUllsdHFEeUZheGZB?oc=5",
-      "date": "2026-04-18T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Pinjore Nalagarh"
@@ -190,21 +180,31 @@
       "match": "Pinjore Nalagarh"
     },
     {
-      "title": "Solan News: पिंजौर-नालागढ़ मार्ग पर नहीं हुई मरम्मत, बीबीएनआईए ने जताई चिंता - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObEd4dlNJbDU2MVIxa1JIZ0RnSFlKTnprSUZkUXR3YzAxRXJJbHh1R1U0VlZuZ2pKdm0yMy1oRm5Jb2pKWWhMWXJsQTBoZXVPcjVadlgtVk02RDQ1NTYybEx5UUFKMnZFWFNCRXhrOXU2ako5Z2pSMFRmSTBlbzlYWFZRTjU3YlBLSkFlUmZnQ21HX2FIcHJxNFhEMXQ2MmVzN0FISG5qYzRaLWszb1JwYlhDUzA4OXkxQVlLaFdKZWd5WDdFeHNqUXFXTkw3Yzg4TlgxUS1DeF9UMWYyRENVRmJHc29rWGVjZU1EUVNKdnDSAfYBQVVfeXFMT2xOX3hURUJPLWNjbm95dXoxZ1JGcHVJUzJJZHJNZERGTmdDR1NRVTl3c3libU9PYkdHOU9WQmlDLUQ5RXhqS2VEYUNtdUFOaXliTERwdV9yaGZCTUtZRjZ3bE9DbVVQeEczbVk4WEJHWi1pMTdVMml3MERvRFBqd1puaWc0UE0ySlkyUEFWeTN4OGM4SGpDMWlsLXUtTW1RVk1FRzlYMlFmdnZYNjh1RS1ySHNRTFlnb3VfTTZOLUFObENDZ0pFVnNlWE9rN21uenhFSTVlSTIyYjBxbUhGbklJMDR6UHZfZ2FnZm43RHhIY2JENmZn?oc=5",
-      "date": "2024-03-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pinjore Nalagarh"
-    },
-    {
       "title": "पिंजौर-नालागढ़ हाईवे पर फाटक के पास लग रहा जाम - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnpDUXAxVEFSTTZyaUlIRVV3RmFnbE5FemVtbW5NQ29uQ1pUZXZPVkNIbEU4Y19FUnZzVHRoVlhCWGE2REVGVnRwcHR6YWFzSktXNzdSRk1uTVE5WXJTSWo4bVFiQ2M2YjVEYlh6Q3ZBclVDSUo0ekZyRGtGOXdQV0wta0QydkVDU2pEcUVGWlZYZGpHaHBNUFBCNDV5YmUzSVhhTUFhYVR5cmlwRy13M2dMRE1NZXZneDVTTkFB0gHDAUFVX3lxTE1ickpFRElfNVVTbTltRG1xXzA1TThsbkU0cV9SSzlVakU0ZGs4UkhRNDVUaV9oa09FS2xoMWZjdjVZM2JGbUMwN05yZHZBLTFRUHkyU0dMSE4wLTNLVkZZaFZYd2ZIRUJPb2g2SXJNS3ZFS0pheThuLUdaZzNhYXh0S3BZSDkybktqUVVRYlBmSGZSVHJzTTlFOWJEVGdCbTMxenNqVjQ5c21XeGpiMnc3cDlZb2Z4TjRZZVZfRW1GWHNXYw?oc=5",
       "date": "2023-11-26T22:31:37.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "Panchkula: पिंजौर में पुल टूटने से दर्जनों गांव का संपर्क टूटा, 48 घंटे से हो रही मूसलाधार बारिश - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSmx6bEk1M3RxY0ZUR1drWTh3QnpDOHZsVEFmSkZ1bTd0ejh3NEtDYTFGaTN4dkRuN051WncyWHFENFlsN0NIZngxbTh2QmN6SDRBVW1BcGlrZHhuYTM1R1dhUHhaSXlkYUk4WXJETmNVSVZ2dXF3OG5pY2lYR0hkdF96NGFtQnhhOEdJeE1iQnA3TXZLMmRRUFR2ZUY1Tlc0a2YyZHhmSV9BZ1d1TWY1QURtWkh3YndaaTRhZlBrQTRreG13YTh1ZWo0MXJnY2xnR1VXN2VZSHUyVkIxYWc?oc=5",
+      "date": "2023-07-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "पिंजौर-नालागढ़ फोरलेन का काम हुआ तेज: करीब 732 करोड़ हो रहे खर्च, 104 पुलिया, 16 छोटे व 5 बड़े पुल बनेंगे - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpOd1ZIcUs2MG5BVlozc3RTS0hTQVlsdzN2YXQzc0toX09qYk8wZGJCaUtuVklpM19jV3pVclpXcU9IMjY4UWRPY01lVGZvMDdIUFNqaEw4T25qVmJFeWZSRlZFWUJuUXpzMzlUN2g2WWhlbE9PcXRTUTlQeWNVZC1pSXRVRHBPZmxUR3hiTmo5M3Z2eGdISGtGTExxeTlUVkRtanBGRlZQMEZJMFk4d19ZR2tFQmFm0gG-AUFVX3lxTFBsanRUdzZaLWg3LUVSOVAtNEZQem1wLW84eE4xMTdGamF4clB6a0FMM3dqOFF1YjNUWTZGNlN3Ry14TVNveVUzZVFUMVg4N0x1ZU12N0NWMkg4MWJIUEVyRnZxNm1yclV6RVhNQkhReGdXNHVNNkltTm9mX2l0RDY0WlY1Zm5UUFpHemxIMjdzeV80U0VYdG1hTHM1QWNfbHVXd2w0ajZXUHRfN2xoTkN1RkpKMmFoX1Y0ajdiaWc?oc=5",
+      "date": "2022-11-03T07:33:36.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Pinjore Nalagarh"

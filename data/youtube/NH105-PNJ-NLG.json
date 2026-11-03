@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T23:04:17.071Z",
+  "updated_at": "2026-11-03T01:26:09.242Z",
   "project_id": "NH105-PNJ-NLG",
   "query": "\"Pinjore–Baddi–Nalagarh 4-Lane\" Himachal",
   "counts": {
@@ -8,11 +8,20 @@
   },
   "videos": [
     {
-      "videoId": "Ej1Jc4e-VZs",
-      "title": "Pinjore-Baddi-Nalagarh रोड कंस्ट्रक्शन update  #shortvideo #short #Indian #ashortaday",
-      "channel": "Gaurav Kumar BilaspuRiya",
-      "published_at": "2022-06-18T02:49:34Z",
-      "description": "",
+      "videoId": "XkZexE4uEcA",
+      "title": "धूल, गड्ढे और जाम! 😡 Baddi Pinjore Four Lane Highway Reality Check!",
+      "channel": "Local Reviews",
+      "published_at": "2026-08-11T03:30:06Z",
+      "description": "Baddi-Nalagarh Highway (NH-105) Four-Lane Project Ground Report! ​दोस्तों, एशिया के सबसे बड़े ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "yULYjt8qSck",
+      "title": "जल्द शुरू होगा pinjore-baddi- Nalagarh फोरलेन निर्माण कार्य। निर्माण कंपनी ने शुरू किया बेस बनाना।",
+      "channel": "Dnewsnetwork TV DNN",
+      "published_at": "2021-12-07T11:27:24Z",
+      "description": "himachal #nalagarhnews #baddinews.",
       "comment_count": 0,
       "comments": []
     },
@@ -39,15 +48,6 @@
           "published_at": "2023-04-23T06:55:28Z"
         }
       ]
-    },
-    {
-      "videoId": "NBPnIfW8JTU",
-      "title": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal",
-      "channel": "Viral GOGI",
-      "published_at": "2023-05-20T00:50:53Z",
-      "description": "Pinjore-baddi-nalagarh फोर लाइन #baddinews #solan #himachal #news #fourlane #baddi #nitingadkari.",
-      "comment_count": 0,
-      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
