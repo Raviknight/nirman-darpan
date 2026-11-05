@@ -1,31 +1,36 @@
 {
-  "updated_at": "2026-11-03T01:26:32.228Z",
+  "updated_at": "2026-11-05T23:56:28.308Z",
   "project_id": "GMC-NAHAN",
   "press": {
-    "n": 9,
-    "positive": 4,
-    "neutral": 5,
+    "n": 12,
+    "positive": 6,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.378
+    "avg_score": 0.225,
+    "avg_magnitude": 0.367
   },
   "youtube": {
-    "n": 38,
-    "positive": 24,
-    "neutral": 9,
-    "concern": 5,
-    "avg_score": 0.339,
-    "avg_magnitude": 0.482
+    "n": 20,
+    "positive": 10,
+    "neutral": 7,
+    "concern": 3,
+    "avg_score": 0.33,
+    "avg_magnitude": 0.495
   },
   "overall": {
-    "n": 47,
-    "positive": 28,
-    "neutral": 14,
-    "concern": 5,
-    "avg_score": 0.313,
-    "avg_magnitude": 0.462
+    "n": 32,
+    "positive": 16,
+    "neutral": 13,
+    "concern": 3,
+    "avg_score": 0.291,
+    "avg_magnitude": 0.447
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Good 👍🏻 Keep it up...",
+      "score": 0.9
+    },
     {
       "source": "youtube",
       "title": "nice talent keep it up bro",
@@ -34,11 +39,6 @@
     {
       "source": "youtube",
       "title": "Nice video bhaiya😊",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Very nice bro ❤",
       "score": 0.9
     }
   ],
@@ -55,8 +55,8 @@
     },
     {
       "source": "youtube",
-      "title": "Di can you please tell ki hostel me washrooms room ke saath attached hain ya nhi",
-      "score": -0.4
+      "title": "Sir hostel and mess fees??and is there any pg quota ?",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

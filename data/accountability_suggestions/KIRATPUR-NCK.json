@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-03T01:25:51.261Z",
+  "updated_at": "2026-11-05T23:54:53.196Z",
   "project_id": "KIRATPUR-NCK",
-  "count": 6,
+  "count": 4,
   "suggestions": [
     {
       "category": "incident",
@@ -16,34 +16,6 @@
       "lang": "en",
       "date": "2026-10-28T14:30:28.000Z",
       "matched_term": "accident"
-    },
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-10-26T22:57:49.917Z",
-      "title": "Hanogi Tunnel Accident: 3 Dead, 8 Injured - jeevanutsahnews.in",
-      "summary": "Auto-detected from press: \"Hanogi Tunnel Accident: 3 Dead, 8 Injured - jeevanutsahnews.in\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sdE9lYTRrV3hfVnJkRHNRaUVGU0FCZkF2RmpEcmQzXzFYeHl1XzNrM1ZxbDFuSnYwNFpWWlB0ZzYydE1hUkJ4NFA5bzVBS2NXNFE5Umg3a0plUjFjU1FZenA4RWozeVdjRVE?oc=5",
-      "source_name": "jeevanutsahnews.in",
-      "lang": "en",
-      "date": "2026-09-29T00:17:13.000Z",
-      "matched_term": "accident"
-    },
-    {
-      "category": "litigation",
-      "severity": "medium",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-09-24T21:55:31.829Z",
-      "title": "Nihang Sikhs force closure of shops in Ropar, Anandpur Sahib, Nangal; highways blocked - The Tribune",
-      "summary": "Auto-detected from press: \"Nihang Sikhs force closure of shops in Ropar, Anandpur Sahib, Nangal; highways blocked - The Tribune\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcGFKRlJTZWppZGc4c1hjcEduOUhNb1d6SlBFRXM1RDY3aFRkUXRrUU9jUkJfMWJ3MXA0VGlnWXFSRFJSTVJrQXBONVdsU0NtZ2dlSU44WjRsSU8xSGVWUU5EZTFzanQ2QkpBWGpHVkZReE1pVzB0ajBSQlhoWWxIbzNUSGMwQVdaR0NpUGYwODMtTzNMWlptdXdER2FKbWlKQlF6b2E4bmx0cHlrSWxCVldHU01Kb2RvaHVMNVJYRWp3VWfSAccBQVVfeXFMTkFwRTJ0ei1JU1BCWGRnN096OW5oa1pnWFQxRzcxZXhXQjk1bW1lbDdJSW9wZjVnTTJZN0czUW5hYnREOFBHUDdCZWNmQWFmdU5vNXlnYVBTSWNNVFcwQW1VUm5hY0dsUUNRVU1RdlZyc19rbVFDZTFUY0dibkU2d0xUQUJvOWNLWUdFc280dU12VHNpV29HT2RqVm04YTJoUzNFbW9UbVgtRVNLODNUU09TNXNaUVFBamlJaTZDWjFEWU54ZXdpaw?oc=5",
-      "source_name": "The Tribune",
-      "lang": "en",
-      "date": "2026-08-21T07:00:00.000Z",
-      "matched_term": "sho"
     },
     {
       "category": "incident",

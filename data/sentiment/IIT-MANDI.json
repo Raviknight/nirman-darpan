@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-03T01:26:28.350Z",
+  "updated_at": "2026-11-05T23:56:02.786Z",
   "project_id": "IIT-MANDI",
   "press": {
-    "n": 2,
-    "positive": 0,
-    "neutral": 2,
+    "n": 1,
+    "positive": 1,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.05
+    "avg_score": 0.4,
+    "avg_magnitude": 0.4
   },
   "youtube": {
     "n": 0,
@@ -18,39 +18,27 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 2,
-    "positive": 0,
-    "neutral": 2,
+    "n": 1,
+    "positive": 1,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.05
+    "avg_score": 0.4,
+    "avg_magnitude": 0.4
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "IIT Mandi Placements 2025: Average Package, Highest Package, Top Companies - Shiksha.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXNRcWtUbFVyMTh1RUZ5ajJTMUVRRXVjWVE5elQxNTVobjc4VEFHZFkxekNQRXNtMXhhTzZoSm9vWjdqdFVUTXlvekxVRnRPVlRUWjdTSGI2M1RzYThkMkRHSEhXZ3NPejd3cXBEOGhralY1akxBWVl5ZzUybE5oeWROc3U1dndLZUEyTWNxOU50dw?oc=5",
-      "score": 0.1
-    },
-    {
-      "source": "press",
-      "title": "IIT Mandi develops sea urchin-inspired coating for 3D-printed bone implants - DD News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWY1R2hXZDhTWmNFeU53VFBHOWUybnkzajZMMkhEWE0zSFRTbkNveG5jQmZXd25UUlJWVnlGdmxDeFNpbzlyWTE2b2s2bXFNRmFUTk9DbTNIYjI1OF9xazZ6eXoyb0NBUENzQzlvTkdTUERaUHdoczJPZjBrTXJOVHpIQTRGOUNZR1JBV1R0cFZWZ2tsUHN0WFBraGZrSGhQNnBR?oc=5",
-      "score": 0
+      "title": "IIT मंडी के स्टाफ सहित कई लोगों से 10 करोड़ की ठगी, 10 प्रतिशत रिटर्न का झांसा देकर पैसा ऐंठ नेपाल भागा शातिर - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNk1idUhuUEZQZ2p5R1J1ZF9vQ3VfWGs4d2lLbXE5cERNWXcwZlpHUGQyTmV4aTN3d1NTd0JXWE5mSFB3RWdGLVI3QUZfeVozM1ViLVpFNzEyV09uRXJYbHZySGRCUkZvLVVubkJDYjNoRTM4ekRTU0xhdG1nOE15RmZXVGsyWGRNbF9EZHpIN0pteXRCRzlzVmNvNlk3QmdIVWhObmVmOFpCQjl0NVJra2htWnFBMGIzdV9LNzZZWQ?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "IIT Mandi develops sea urchin-inspired coating for 3D-printed bone implants - DD News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWY1R2hXZDhTWmNFeU53VFBHOWUybnkzajZMMkhEWE0zSFRTbkNveG5jQmZXd25UUlJWVnlGdmxDeFNpbzlyWTE2b2s2bXFNRmFUTk9DbTNIYjI1OF9xazZ6eXoyb0NBUENzQzlvTkdTUERaUHdoczJPZjBrTXJOVHpIQTRGOUNZR1JBV1R0cFZWZ2tsUHN0WFBraGZrSGhQNnBR?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "IIT Mandi Placements 2025: Average Package, Highest Package, Top Companies - Shiksha.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXNRcWtUbFVyMTh1RUZ5ajJTMUVRRXVjWVE5elQxNTVobjc4VEFHZFkxekNQRXNtMXhhTzZoSm9vWjdqdFVUTXlvekxVRnRPVlRUWjdTSGI2M1RzYThkMkRHSEhXZ3NPejd3cXBEOGhralY1akxBWVl5ZzUybE5oeWROc3U1dndLZUEyTWNxOU50dw?oc=5",
-      "score": 0.1
+      "title": "IIT मंडी के स्टाफ सहित कई लोगों से 10 करोड़ की ठगी, 10 प्रतिशत रिटर्न का झांसा देकर पैसा ऐंठ नेपाल भागा शातिर - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNk1idUhuUEZQZ2p5R1J1ZF9vQ3VfWGs4d2lLbXE5cERNWXcwZlpHUGQyTmV4aTN3d1NTd0JXWE5mSFB3RWdGLVI3QUZfeVozM1ViLVpFNzEyV09uRXJYbHZySGRCUkZvLVVubkJDYjNoRTM4ekRTU0xhdG1nOE15RmZXVGsyWGRNbF9EZHpIN0pteXRCRzlzVmNvNlk3QmdIVWhObmVmOFpCQjl0NVJra2htWnFBMGIzdV9LNzZZWQ?oc=5",
+      "score": 0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

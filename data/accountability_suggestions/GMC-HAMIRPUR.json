@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-03T01:25:51.297Z",
+  "updated_at": "2026-11-05T23:54:53.231Z",
   "project_id": "GMC-HAMIRPUR",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-11-05T23:54:53.231Z",
+      "title": "पुलिस ने रुकने का इशारा किया और स्कूटी राइडर ने बढ़ा दी स्पीड, SHO हमीरपुर को टक्कर मारकर घायल किया - Jagran",
+      "summary": "Auto-detected from press: \"पुलिस ने रुकने का इशारा किया और स्कूटी राइडर ने बढ़ा दी स्पीड, SHO हमीरपुर को टक्कर मारकर घायल किया - Jagran\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFRfbnlRbjY1a3pId1hyeFJ0Vks1c1FxVnRINW96RHpZX2JTcmpfMF9VSUxuQzRzdGl5UGFmRk50bTk1VHVzb2Z0LUphNWE3dnVjakYyY2RPQ1N6ZWpaM25DQzNMLVBmdjR6VnFNcHJyR1RGUU56a3plMnc1ejlGeUVRWm8tdXpqRXAtTWlxUjF2ejZzalhTT0xCX25QMnlYTnRIdmdFX2FRVTlSZ0g1N1hqQ2Q2eHBCeEdJ?oc=5",
+      "source_name": "Jagran",
+      "lang": "hi",
+      "date": "2026-11-03T11:18:00.000Z",
+      "matched_term": "sho"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

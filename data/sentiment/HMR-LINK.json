@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T01:26:32.510Z",
+  "updated_at": "2026-11-05T23:56:31.153Z",
   "project_id": "HMR-LINK",
   "press": {
     "n": 5,
@@ -12,17 +12,17 @@
   "youtube": {
     "n": 17,
     "positive": 5,
-    "neutral": 8,
-    "concern": 4,
-    "avg_score": 0.024,
+    "neutral": 9,
+    "concern": 3,
+    "avg_score": 0.059,
     "avg_magnitude": 0.224
   },
   "overall": {
     "n": 22,
     "positive": 9,
-    "neutral": 9,
-    "concern": 4,
-    "avg_score": 0.091,
+    "neutral": 10,
+    "concern": 3,
+    "avg_score": 0.118,
     "avg_magnitude": 0.245
   },
   "top_positive": [
@@ -53,12 +53,12 @@
     },
     {
       "source": "youtube",
-      "title": "Waqf board jameen ka muwaja milta ya nahi",
-      "score": -0.3
+      "title": "Sir hmari zameen ke bsf camp shaunii he pehle wha koi building ni bna ne dete the par ab wo area develop hogeya he pura ",
+      "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "Sir hmari zameen ke bsf camp shaunii he pehle wha koi building ni bna ne dete the par ab wo area develop hogeya he pura ",
+      "title": "Sir hmari jmeen 1962 m defence act m acquire ki gyi thi SLO officer n award jo diya tha hmne accept nhi kra hmne ek refe",
       "score": -0.2
     }
   ],

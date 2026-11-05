@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-03T01:25:48.485Z",
+  "updated_at": "2026-11-05T23:54:49.374Z",
   "project_id": "SOLAN-BUS",
   "counts": {
-    "press": 5,
+    "press": 4,
     "gov": 0,
-    "en": 3,
+    "en": 2,
     "hi": 2,
-    "total": 5
+    "total": 4
   },
   "mentions": [
     {
@@ -37,16 +37,6 @@
       "date": "2025-05-23T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Solan bus stand"
-    },
-    {
-      "title": "Muslims Fear Escalation as Shimla’s Anti-Mosque Agitations Spread to Other Towns - TheWire.in",
-      "source": "TheWire.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc1loNE5LbFhZa05EUHN4TVVkaTVhOEF6QVpjVkozSUF3LWpMWW9QUXBiRkxOUTR0OFU0NlBRemVVWVFybUpiMktaRlRiVDhTc3FmTU9hZDRfdzE5YUpRbTJzRGtGQ1dTSXdJWnZ2d1N2TlV5bFQ4MDBQNUFTanRKQ3NBWGs0Yk9GMElUMEFvLUtLMFhLV2tPeVM0SnBKd9IBmgFBVV95cUxQbFY4Znp2MDVvWWhKVm14V3FLUzZIUVNVZ3IxOWZ4cUNZNlJxd284T0F5RnVFU3ZiNnN6cnpWTzNod3pBanp5X2hDcTF5cW5CX1djZ1V4akNCM21iNWNTSkwwa0RyX2tpekhTeUt1LXlEbUtnVnlMN3dGTGtjVVVNaHlkRDd3bzFGSjlwOUZ1Z0d0SHFfUFZVNVRn?oc=5",
-      "date": "2024-09-20T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Solan bus stand"
     },
     {

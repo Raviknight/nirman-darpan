@@ -1,62 +1,64 @@
 {
-  "updated_at": "2026-11-03T01:26:26.689Z",
+  "updated_at": "2026-11-05T23:55:50.336Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 10,
+    "positive": 6,
+    "neutral": 2,
+    "concern": 2,
+    "avg_score": 0.09,
+    "avg_magnitude": 0.44
   },
   "youtube": {
-    "n": 23,
-    "positive": 18,
-    "neutral": 5,
-    "concern": 0,
-    "avg_score": 0.487,
-    "avg_magnitude": 1
+    "n": 25,
+    "positive": 9,
+    "neutral": 14,
+    "concern": 2,
+    "avg_score": 0.208,
+    "avg_magnitude": 0.316
   },
   "overall": {
-    "n": 23,
-    "positive": 18,
-    "neutral": 5,
-    "concern": 0,
-    "avg_score": 0.487,
-    "avg_magnitude": 1
+    "n": 35,
+    "positive": 15,
+    "neutral": 16,
+    "concern": 4,
+    "avg_score": 0.174,
+    "avg_magnitude": 0.351
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Wow very beautiful ❤",
+      "title": "बहुत सुंदर भाई 😆",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "God bless you and best of luck 🙏🏼🙏🏼😇😇🌻🌻🌷🌷❤❤and thank you dear sir for watching to this most beautiful atal tun",
+      "title": "Amazing 🤩 view",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Love this video.very informative.",
+      "title": "Beautiful video",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
-      "source": "youtube",
-      "title": "Bhaiya Ham cal hi atal tunnel main gaye hain kyunki Ham cal Rohtang pass ja rahe the na aur ab Aaj Ham apne ghar ja rahe",
-      "score": -0.1
+      "source": "press",
+      "title": "Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlI0LUs3Z2NELUxKYXV0ZXNsSFNUdEZWS0tsX01PdUlCLWZGTHVoVDlFandncVhwOVFrTWozc0M2V2FSb2ZTOTQzWVU4UVNVU3ZVRUltSmxqWDJGRmhWYnpadnNZekp2UGdSQnhKa3g5eDVlZmt4dXJtUldiQkhYdjhqMnRLampQcEN1VE9wYWVUZFlSZFNQR05ZTVBsRlozQU5iRlZrbndFT3QxQm55bWJpeUh4dmRtMzJnT0pFVl9hZFdvbE55aXVSZnpxX0huUGFFZTAwd2lacTZ3dGhWTzB0TjY1d3laZWfSAe8BQVVfeXFMTlBSLWZhMUotdm1RclNxWmZ3b3ZnZTdINkV5VmxQRF9Za3JLb2txeWRVQWFMdUd2VHFvRkFONmhYZkZ6WFVkRV9wV1hYcERxdEY4NjJvSWo1ZU1saDBQd3N3cHRvdUtHRWdwR2dqYW1rVHhTcEExLUFsVlNiOVIzTExQaDhBUWhkU1ZjUFN5MER4ZmttRWV3QzZ6UXZ3eXJRWk1EZ19lUl9jb2p3a05Qb2R0dVBEUG9sVVMwbExzSXRvbGtXNlZldTRKOHhnclE4MFFKVlhTMXVPQ3E3S3VpLU5jOHBwLTFzeExGLWctazA?oc=5",
+      "score": -0.7
     },
     {
       "source": "youtube",
-      "title": "Mai last year gyi thi yha bhut khubsurat h ye🤗🤗🤗🤗🥰🥰🥰🥰",
-      "score": 0
+      "title": "In october there will be no snow in manali in any spot",
+      "score": -0.6
     },
     {
-      "source": "youtube",
-      "title": "My direm🥺",
-      "score": 0
+      "source": "press",
+      "title": "Man dies after SUV hits barricades, falls onto under-construction bridge near Atal Tunnel - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmFGX3U2Yi1DODFlMDJ0V1N3OENub3pYOFZzUENHNnZraE5WTWRDNnVQWnhpMzZONXVLQU5Vc0dJY0Y1bWpyRS1iaUp5c2VqTGxrczB3TFlEZHdxbno5c3p2ZWZHUHhZd2xVRHlOM3pTZi1EQ2JPWTJDalRYd3MzaG9oa3lyZEw3T0N1dVpUOW1PeEliTXZibXNVand0S3UwODdsU0ZISHhkT1pac0RBTVA5N19QTU9XcVFOY0xmZ1QwQWcxY0dybjVpM2RrOWNpRGtvbFUxbWxOdVZsWHRHZXk4elFWbkc1UkVrbUFIMNIB9AFBVV95cUxPc2ZoMDMyUm4zdTVyX05ldkZzWm1aaEt3YmMxWC14b1dYbG11ejcyZGJzTjYyQXZUN0dsbDlieEJ4aVZlYVA1bUNCek5abS1nOTZYWjdFdDNCR2o4OXJ3Q3VGbG55THN0Qy00OGh3TDlmcUtfUU5rX29iT0t6OERRNXlLUTljTXh1Yjh1ald2LVJQZmhTRTN4QkxvYm0tWmpNTHhCOG9iZ1FXZFdtNW11QnpuU29Cb0dXdHhaUGI0R1BZZG81azA3ZlgyczFGS21xTTRQVi0ydzRfNnpJdTdxVDJWTjdXWl9mVHVKUFRMVlpWZWFl?oc=5",
+      "score": -0.3
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

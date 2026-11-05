@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T01:26:31.642Z",
+  "updated_at": "2026-11-05T23:56:27.422Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
     "n": 0,
@@ -10,27 +10,22 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 31,
-    "positive": 8,
-    "neutral": 17,
-    "concern": 6,
-    "avg_score": 0.045,
-    "avg_magnitude": 0.287
+    "n": 19,
+    "positive": 5,
+    "neutral": 11,
+    "concern": 3,
+    "avg_score": 0.042,
+    "avg_magnitude": 0.284
   },
   "overall": {
-    "n": 31,
-    "positive": 8,
-    "neutral": 17,
-    "concern": 6,
-    "avg_score": 0.045,
-    "avg_magnitude": 0.287
+    "n": 19,
+    "positive": 5,
+    "neutral": 11,
+    "concern": 3,
+    "avg_score": 0.042,
+    "avg_magnitude": 0.284
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Nice college isi me hi padunga",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "Good going Girl!🎉",
@@ -38,7 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "🔥🔥🔥🔥🔥❤️",
+      "title": "🔥❤️❤️",
+      "score": 0.4
+    },
+    {
+      "source": "youtube",
+      "title": "Mujhe aur vlog dekhni h😅",
       "score": 0.4
     }
   ],
@@ -55,8 +55,8 @@
     },
     {
       "source": "youtube",
-      "title": "New batch ko new campus me shift krenge kya",
-      "score": -0.4
+      "title": "Didi hostel aur mess fees kitni padti hai ??? + Purane campus se kitne door hai ??",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
