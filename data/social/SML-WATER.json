@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T23:54:27.293Z",
+  "updated_at": "2026-11-10T01:49:37.784Z",
   "project_id": "SML-WATER",
   "counts": {
     "press": 22,
@@ -9,16 +9,6 @@
     "total": 22
   },
   "mentions": [
-    {
-      "title": "Shimla News: जल संरक्षण पर काम करेंगे एसजेपीएनएल व रोटरी क्लब - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXVMYU1vUkVNbG1OWmdaZ3ZRdUswQlhYT05BVmlWc284Mm9xZWVxOWRWVEhjeDVTcWxhVkFFcTNJMVZES29ib0lrSlM2SmlLOThPdEZ5MTl4amFBTmpUa0VIUU9DZlgtbU9falhSNWtuU2tVMy1MX1ZTdklaZVNMRHFOdzk4VUtwcGFzU1hXeWp2UEhjU1U3bUxnR01Bb1RhQWZnc2tkNVhnWEpzTmhMemkxMXZ4MzdScklQLUxwaXdXbm5PMWfSAcsBQVVfeXFMUF9SNzFrWnVBZ0NNUDJNUzZWNTNLdk1kMW9MQXR1QmJxWTlLM1JaTzBBMEdrUVhzUWN3Z0YzRUJXMUtOMjRWeXpITnBOYUp6WURaVlpYVS1pcEwtVGhEN1lvNGNTSi1zcU00OU0wMFVtT1lqVWJScDJjbUpBUmVTMklaSVdfZ1I5ZC1ucmFWUXdvRThJMnhFTUVqYnA0alJncDJjU0ZKYjNQWjdGMF9sSmkxMTB3QXZCbDhPTER2ZDhLU2x1dmRYeUFPa0U?oc=5",
-      "date": "2026-11-02T18:29:03.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Shimla Jal Prabandhan"
-    },
     {
       "title": "शिमला में गहराया जल संकट! जरूरत से काफी कम मिल रहा पानी - ABP News",
       "source": "ABP News",
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "en",
       "match": "SJPNL Shimla"
+    },
+    {
+      "title": "अब पूरे प्रदेश में पानी का जिम्मा संभालेगी जल प्रबंधन कंपनी, लोन के लिए वर्ल्ड बैंक ने भरी हामी - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNal9IaWNIT3dhbHFiM2prNjVrNXVveUVqUW9teW1oVVl1YVJOMXIzRHBtajNNY1RaRzFHS0gzREhaUXpsTmhTZFRSQVZWeE43bWZrNl8taE5QeFVLY19jX2RSOHB2Sm5UaUxKMC1BcG5vSGxfRDZ0c0tIWWV5ZWdrWFB3QjNqQTZISU5JanRqZ3BkRFlWMHhLeVJiUDFwbkFWUjRDc0t0UHpLRHpUNi14QWlQdmZLMGtOMkVVYlpTUDhCc3lxLUQza2tVcTNQLVJrYlVDN0JnU3phd9IB3wFBVV95cUxNWHk3enF3TGJjUDdtQVRuQU1CLTl6S0VwNVdybmkxOTRsRFV3WHdDSUxUZHJmV2s0SGdDcG9zLXhrTnJwaWdWeGNkbDV5U3NlZGRkQTltQUNUUDkySEF6eURGbV9ZejZacEM4bjJqRVFuaE42ejZDRWVtUGhqdmRZX2hoUUpFV2hjTDkyaExMdlh5bW8yNDh4TlJ5YXFnZzRNZjBCZlgtOFJkQnBvLTl4d3FrZ2FQbC1Db2tVWkZwLWpHY21GSDl4VUdBQk9sbW5DdVpJcjBqS2UwNDEwTXdz?oc=5",
+      "date": "2019-11-20T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla Jal Prabandhan"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

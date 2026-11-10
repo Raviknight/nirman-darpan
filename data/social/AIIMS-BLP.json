@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-11-05T23:53:54.448Z",
+  "updated_at": "2026-11-10T01:49:05.587Z",
   "project_id": "AIIMS-BLP",
   "counts": {
-    "press": 101,
+    "press": 104,
     "gov": 0,
-    "en": 45,
-    "hi": 56,
-    "total": 101
+    "en": 47,
+    "hi": 57,
+    "total": 104
   },
   "mentions": [
+    {
+      "title": "Bilaspur News: आधुनिक सुविधाओं से लैस 40 रिकवरी ट्रॉलियां खरीदेगा एम्स - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcS1XVTVjMXZYNVN2emVhbmZsUjA0WFJObXVoUjBIYmZaQXhHcWp0WGxuNTdrU0RUUXBMUE9taXNoaF9TcjR0Y3BYNnJLQUlrXzZnTXVZVGN3Rkg4YlV2V1JWZUxlVjlkRlppSmNINGRnQU81cjRpZkhXdUtjbUlXVmlQQjBuT2FrZEt6WUV4dGVjZzRpaTZmMmduaHpoZW5nUkFiblFhSUZZTk1jYl9VcnFOemhRSGNhYTdqQkwtc0E5dW1GRVFBUjJPcURkN0pjQVVXU0Q1MlhQa1N6NHZxMFp6Z0l5aDU5RUNIRDExcHRjcjJfWnl6bVd5OHJTQmU4eWlFNngtNS3SAY4CQVVfeXFMTTU1WEJDTHVDWVYyY3hkSTRHeG91RzJzY3ZGaGpwdEhaTF92YkhERDVSdC1nSmNCLVg3cWhNNFBmWFVzM3l6UkVDZG5qaEtjY2pVblI4eTA2RFF4cmlTUFpydV9uZWktWEVZQnB2X003LTY4a29meE8wMHBOYkQ1Vnd1ZTN5dVoyd1dIMEdoRUdwNmVrWFNuSG85THZzU1JpSWVDUlNaR2JSUnZOZU1JbzBzcUdZd1BEMlRkTEdyZ3ZVQ293MFRQX0hCanN0cFk5REtjVGNla0NBQUNnaktTT2UyajBpZzJTR25pZGJSOExGRDI2YXlyUkpJMVFIVVFKU2JVT0xIYlZUR2N2ZG9B?oc=5",
+      "date": "2026-11-08T01:06:03.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "AIIMS Bilaspur"
+    },
+    {
+      "title": "AIIMS Bilaspur Registrar Recruitment 2026 – Apply Offline - FreeJobAlert.Com",
+      "source": "FreeJobAlert.Com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWxhbHNWeFNWaEpkMTdrZGRxaTk3VWxYTE1mMGVjckxjZmlybGV6bURmRUdBMDBDZkxhM1llX1dHWWZIZ3RGLThmR0k3Tmw1V1RBVTBKWXduWS1BRWtHRGhreC1qckRCNHA3Y2lYQjlFbXplU2IxUm5VbG1SRFdkLUUzUHQxYmpZR2FOZjlyN1JGbnZfbzFqRGZYdU1FNUdYckN3?oc=5",
+      "date": "2026-10-31T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "AIIMS Bilaspur"
+    },
     {
       "title": "AIIMS Bilaspur Holds First Convocation; 92 Students Receive Degrees - BW Healthcare World",
       "source": "BW Healthcare World",
@@ -40,6 +60,16 @@
       "match": "AIIMS Bilaspur"
     },
     {
+      "title": "AIIMS Bilaspur Project Technical Support-III Recruitment 2026 – Apply Online - FreeJobAlert.Com",
+      "source": "FreeJobAlert.Com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2dWcmpnRWlrV2trbzl2Wk5LN0FkcjBKZEY5di05aExFT3doa2dYREtMQ0dXbjE5d0hRODNFdC1hb3l1akFfY3AzeWo1Y0hmNGRjeE45UFV5ZjRWS1d0cHJWRWZEaWN1NVFLbEhYbFAxY1hISHNUajFBWTlLVGwxUWZnVkQxOHFDRWJxRHJkR0lPMFNROXE4UXV4bjIza0Y4dVNqVXBrVEpnWTA?oc=5",
+      "date": "2026-10-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Kothipura AIIMS"
+    },
+    {
       "title": "President Murmu urges doctors to embrace compassion at AIIMS Bilaspur's first convocation - Medical Dialogues",
       "source": "Medical Dialogues",
       "source_id": "google-news-en",
@@ -47,16 +77,6 @@
       "date": "2026-10-07T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "एम्स बिलासपुर ने विकसित की तकनीक: कैंसर को खत्म करेगी शरीर की ही कोशिकाएं, नई थेरेपी की तैयारी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd0hzVzdaT2lZQTc3UVFmejVXNTJSd0FhbDJ0RF9aOHpaeXlwZWU0ZmpibHBvRXI0dFlBNFZrcEFkTy1OOGliYjVoTFp2VTY5aTBVX1doQlpzZ0FMdUMxRlhUeUQxVzhYTlRQUnF2REhIVzF2UE9KZHVUMFU1X1htS2lBVFloTDYzR3lvWEtta3otUkh3OE5hSXk5VzI3RmUzem9tN2hjQWFfTFJCbHNLU0tEd0NGOTZwZHBTaHFNd2RCc21tdDVNWXdnQUVmZ2F1blVYZFNTZWRzT2xXX2Y1b1hXVThiQU5rZ3FnWk5kbkdTZjVN0gH6AUFVX3lxTFBOTmtPOFhCZFJGZkg1SnpaVm5fOFV2VWZCeks5RkZfWkF1ZExYakdCRFNGMm1SSHZIdGRrb2JOWENsMkFDOG9oV2xnX0NYZmdqNHVnQVZHek16MmN4UzNFM1JmTDQ1cUF6eFREZTU4VWpGWk9jQURiTGFJTDNzeENhVVhjSFBNeEQwR2kxYzl6MUFCY3Brc0czSG1FbUJkSnM3VGgzS3A5YnUzWHM3OHNMUENzR0gwRmVJTE5SWVVTMWw4bmo1RE02aTBNOHlFUnRaWm5UUHpPLU5rT1g5amd1X3d5NUJRbW12OXdMQTctdk4xT0wtUHdCcWc?oc=5",
-      "date": "2026-10-07T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "AIIMS Bilaspur"
     },
     {
@@ -160,16 +180,6 @@
       "match": "AIIMS Bilaspur"
     },
     {
-      "title": "President and Governor confers degrees on first graduating batch of AIIMS Bilaspur - :: India News Calling ::",
-      "source": ":: India News Calling ::",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZEJyRmRMemtsQTFtZzZncXVDa2ZrMW94Vk5zZHR3Mnh2UnVVaHpfTzJ4V010aXViR1g3WHpWLVB3ZkNPcl9XbnlLZ1lDQmZzVEl1Vm9UMml4ZzRBRHJhVEJ6U2dIZFZfQXBKa1N1V19SRDd6LXo4ZUpKcGpfNnUyMzlNUkgycnJhTzVYdno0ODBWdlNFNFVKR1ZJM09yaVJqOFAyZlF5aW1FNV9fcHVqczF3OXpnWjRUOVNGS0lOeXozWmlVYThuUzR3LV8?oc=5",
-      "date": "2026-10-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
       "title": "खूबसूरत तस्वीरों में देखिए AIIMS बिलासपुर का पहला दीक्षांत समारोह - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -195,16 +205,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWNNbm80TzdocWVJdDI5cUFZUndFT2xzTW5qZG4tQTN5TTFZVjhNZlBGR2ZPUWRyRE9nc3B5U2ltZDJDcWV0LWk1X1pXakFXeWJLN3N6eFR6WEhLREh5cDBLeW42UllhX1FqV1RWYzRFN1ZNejN2Wks2VzEwUDNZcy1LMzAtNnRuRld6TmVlcWY0RkN3eWpiM3lXdHhfUThsdWxUYzFvb2lCSzhvNUJCZGdqWnNNR2RzQndXU2Vma1d1QUllM25ZSS1QWEJKWFXSAdQBQVVfeXFMTTdXSWFLMlg3alNDM0VhWFk4bTAzZDFWcFBxeU16NE1hQ0R2ZVdkenZ1NGJnYWRJWjRObzhBMUluUXZwQjloZmJWUU1KNF9sdFRKZ0dUZ1cxMk9wOEFERkdiVHZPUjAyd3NTbkE1Q3dXcXBNUTNabUY5RTlGVjJfbFlRWU9udDUwTXhLN29WMWFuZmxudGNLdWF2UnFFMG1FNjZEM2hmc2V4YUhYU0RKb29kOEwwclo5a1NRWmtUeWRFakNXREIxdnJmWG1FRndMVkdILWU?oc=5",
       "date": "2026-10-05T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "AIIMS Bilaspur"
-    },
-    {
-      "title": "हिमाचल: एम्स बिलासपुर के पहले दीक्षांत समारोह में हिमाचली रंग, कुर्ता-पायजामा और सदरी में डिग्री लेंगे डॉक्टर - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVUJPNUxBbzZTTVRrZnlabVozaGNJVVBqTjlJZFEwdndjbk9vNzlkRHA5QVoyb2t4cnNhU1Vmb2lMaDRibHVoMmpSdjR0aXFMTTlBX1ZUcFl3b241MG9TWTVkdUZjUGlGTVR2UEtKNUpWMjJuV0Z2eVlCSV9JaWltUEdXSjRHWi15QWxQUTZYa1ZNZ0VaS0p4Z2RoeVRPbDFNcmFDdkFPZVJwMjZkUWthaWN4X1d3cW1HVldpVjZWNzliX3kxN1HSAcsBQVVfeXFMTkIxcU12WGU3TV9hcnFtdnhodlpEVndFWUVDbTgyTldXeUQxUFctMmtKdGZyWHBuZk0zeEVSZUN4MXRBaE0yU1gzeXdsdFIwRFc5cE5TYndmM3pTSVl6V1FaM0c5YWQzOWdrOWtzLU9ELWtYVFVXRUlqdHd1NDR3R0hCWVBPblVBbGNhNV9DWjF2ODNTWnpVZUxBN0RvcmlXQ3ctZFViVmtlUWs0bFlOV0ZOYWk3UnU0YW5GRzZha19SaGU3ZUZvWS0yems?oc=5",
-      "date": "2026-10-04T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "AIIMS Bilaspur"

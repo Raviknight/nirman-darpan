@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-11-05T23:53:52.658Z",
+  "updated_at": "2026-11-10T01:49:03.841Z",
   "project_id": "ATAL-TUNNEL",
   "counts": {
-    "press": 204,
+    "press": 202,
     "gov": 0,
-    "en": 102,
-    "hi": 102,
-    "total": 204
+    "en": 101,
+    "hi": 101,
+    "total": 202
   },
   "mentions": [
-    {
-      "title": "अटल टनल पर क्षमता से दोगुना हुआ ट्रैफिक, अब पहाड़ों पर मंडराने लगा खतरा; CEC की रिपोर्ट ने उड़ाई नींद - atal tunnel overload environmental threat in himachal supreme court cec report increased tension - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVF8zMVppMlRIRzJOSlpMM0JlMGhLX04xZXROYzRHQm5nVFl6aUIyVTYtVUVrV1JpWFRxSlcyelZaOXlkTE03X0hEWW1Pbl9xV2Vpd3JtY3NQN2R1cjlkVEV4YWV5UWxURWUxSDlzWkZiaFM3WEUwRFN2cjhUMzBVUmVnNGhaWGhrUkZrN1c5OVFxR1QtbDBWNU1kb0V6bHJmQjdrRnU0QmNfWVpyWDZVUGhDTW1xZzlubldwMTQtU3VjZURGWUktUTUwaWVsZklpdDJCX1lZOFFseEhXRzVCbVVJZWRwclYxSElaRw?oc=5",
-      "date": "2026-11-04T05:20:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Atal Tunnel"
-    },
     {
       "title": "President visits Atal Tunnel -President and Governor pay obeisance at Hadimba Temple - :: India News Calling ::",
       "source": ":: India News Calling ::",
@@ -48,6 +38,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Rohtang Tunnel"
+    },
+    {
+      "title": "बरसात में पहाड़ों पर जरा संभल कर, अटल टनल मार्ग पर सफेद आफत ने मुश्किल किया सफर; पुलिस ने जारी की एडवायजरी - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEtCVlIwUF9DeXlzcndiOEFSTVlOekRmUFRUSnQxVzZibzBiQnFUdEtxUi1zNzVEWmVmSk5yZC1UUG5lZmt5Z3B1TUVNVVdJTlFGOEZzc3VNdGdNVlhjNnpMTUVTbThxalpLdV91aDNNZUJscTRodFdWTnptM25fS0VqeXU4bndaaE96S3pINXpSUjBieTBvaVdqbGpNenZyTTZ2a1BTd2lGeEhqa3Y2dDZoV01hX0RpME1Nbkp5UjI?oc=5",
+      "date": "2026-07-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Atal Tunnel"
     },
     {
       "title": "अटल टनल के पास एसयूवी कार दुर्घटनाग्रस्त: धोद क्षेत्र के मांडोता गांव निवासी की हुई मौत, तीन साथी घायल - Dainik Bhaskar",
@@ -150,16 +150,6 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "अटल टनल में अब गाड़ियों की संख्या होगी निर्धारित, भारी ट्रैफिक दबाव के चलते सुरक्षा पर हो सकता है खतरा - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR18wQVBHdTlrSU95TVRHbi15aEZ1WEVZV1psR3F3LVA3RFctY3p2TEtwNVZCNWI2cC15VGtFRmx5NTlTY2dYZlpYd18wM1k4RGJOb1hvdmhWOUJFMTc5Q2JHamRmUDdlcWdTTDRQcURoX1hSVW5ieXVSallpaTgzQS1xMWNuOGI4Nl9rUE1RXzRFajhaVUxzc1BRODhZTWRtOHZhQUtQdWRRR25KWHk5NXZWYUw5aEhISzBaYkotbTY2WHFtMmJrRngyRdIB0AFBVV95cUxPVWRnNThaS05HMVROVW1NTVl3dWhBZHVRTGZUbm8zOG5qQVpZdUVZbERQMTRxUEh4ZE96SlpnY3FuUWdVV0dBVmRLT2NuNWhYUFA4S2R4YnRxN1BPakE0Z09HNUJHbnJXazlKelRQaXhrQjN3aUlUZ04yOGhHQ2N4YVpzSUduYWo3TlFGV3JMNUJzU1UzZVVDWkN2NVJDMUZYcHRCQ2g4STBfQ2EwRVpNRmJOWHRTNnNOVVdwRnRYeFllT1BJZzNuZGcxUU13b3It?oc=5",
-      "date": "2026-06-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
       "title": "Heavy traffic flow at Atal Tunnel amid tourist rush raises safety concerns | Hindustan Times - Hindustan Times",
       "source": "Hindustan Times",
       "source_id": "google-news-en",
@@ -205,6 +195,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRmZTUmFHS1NORFVmTWdsVWJLMEpmbUFWV2NNbDFadDFlck5mS2FGQXFMdk1XNW1qWXVyRm05R0Q2TUVfMm5QTDF3SFlOQXZvbDA2UHRPRVFoUVVFSUtESHBveHBFNkZSWDZKVldwN0MzMFg5MHVEd1FVUFFmNF9hWmRwa2l3OUNqQlR1a2RLdkJGMlJiMWNjbmFaem9CUEFneXhSSU9TbVdkVjlGTy05a2JFQy1MeF80LVQyb0RwN2lnSm1naV95QWtFT3g4Sk1NRURNcENqQlk5M3A50gHiAUFVX3lxTE9mc01MZWJoM3NWWkVlNEMzQVFzRFpVcXJTb3R6Q29md1U1QjdxZlNEOVgyUFh3WXRIYkZjaVo0R19qbGJOWjY2aVhMS01tLUU1SVpHREZDMkFnZHhkRmFfSWpVV2tsRWY0eW9qbGlodmNma3YwbEIzZkp1OGtPclluUjNiTG5wenVJSlhKbHR3cURYM081bjdBcjRvc0tCQ1VkWDZXelYzOEN0Q1JuYkpXQUdONFhWVGxMWmFlQTQ4Z1VSTHpRcWlES0F0c0xQUFhJWFN5Z2pfZHoxcDdBeTFyVUE?oc=5",
       "date": "2026-04-16T09:03:09.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "बर्फबारी के बाद मनाली से अटल टनल तक भारी जाम: ओवरटेकिंग ने बढ़ाई समस्या, पुलिस ने चालान काट कर संभाली व्यवस... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmprVmtCUE51Qkx2VGFXdVhOY3NOM3JwNEdVTUFfc0JQRHJIMHBSZm9vM1Jjc3VPSFIzN3N2VEdwWndTRnpmQ1RZbTVzUmU4RkVkaEh0SVFoeEpJRHRTZ3pWSnJ5RHVaM21FRzYxWHlvaW9XYkQybGUtWTlSSm5ib3B1ODZZUUx6X0owWC0xOUUxblRhTnUzbWc4T0JzX2lXalJWS2s3MllIcEp1ZDhEdVNIM1RNSG1uS0VSZ1hsaFJpa3FsVFdv0gHMAUFVX3lxTE1BUGVSMGpLVlNIdFdSaHQ5Z3B1ckRzOW9ac1V6Zmw2TmU3RmZHazBBdmxrZURfY1ltVDBJcHFMYWtUaUF1Z05aOE5rMVQ0MEhqSDRrTlRHTlF5bm42RlMwYm9UUUdQdHhfSnN6U3hGZnp4Q183LVRfQkdES3pFc1VBVExDTnV3WnkyU3I0empYczg0Snl1S0VVZnNSZ3psem5mU3Z2T3Z4d1JCX0hLb1JYQjEwazVLZUtmcXZkY0JSZ2NxVE4ySDBDdWNwUA?oc=5",
+      "date": "2026-04-05T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Atal Tunnel"

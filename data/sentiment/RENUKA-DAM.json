@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-05T23:55:30.883Z",
+  "updated_at": "2026-11-10T01:50:36.111Z",
   "project_id": "RENUKA-DAM",
   "press": {
-    "n": 18,
+    "n": 17,
     "positive": 4,
-    "neutral": 12,
+    "neutral": 11,
     "concern": 2,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.161
+    "avg_score": 0.053,
+    "avg_magnitude": 0.171
   },
   "youtube": {
     "n": 6,
@@ -18,12 +18,12 @@
     "avg_magnitude": 1.05
   },
   "overall": {
-    "n": 24,
+    "n": 23,
     "positive": 7,
-    "neutral": 13,
+    "neutral": 12,
     "concern": 4,
-    "avg_score": 0.05,
-    "avg_magnitude": 0.383
+    "avg_score": 0.052,
+    "avg_magnitude": 0.4
   },
   "top_positive": [
     {

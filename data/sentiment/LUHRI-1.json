@@ -1,31 +1,36 @@
 {
-  "updated_at": "2026-11-05T23:55:37.369Z",
+  "updated_at": "2026-11-10T01:50:41.329Z",
   "project_id": "LUHRI-1",
   "press": {
-    "n": 15,
-    "positive": 3,
+    "n": 17,
+    "positive": 5,
     "neutral": 12,
     "concern": 0,
-    "avg_score": 0.093,
-    "avg_magnitude": 0.12
+    "avg_score": 0.106,
+    "avg_magnitude": 0.141
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
+    "n": 3,
+    "positive": 3,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.5,
+    "avg_magnitude": 0.5
   },
   "overall": {
-    "n": 15,
-    "positive": 3,
+    "n": 20,
+    "positive": 8,
     "neutral": 12,
     "concern": 0,
-    "avg_score": 0.093,
-    "avg_magnitude": 0.12
+    "avg_score": 0.165,
+    "avg_magnitude": 0.195
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Great sir👍👍👍",
+      "score": 0.9
+    },
     {
       "source": "press",
       "title": "सुक्खू सरकार का बड़ा फैसला : सुन्नी, लुहरी और धौलासिद्ध परियोजनाओं को वापस लेने की प्रक्रिया शुरू - HIMACHAL DASTAK",
@@ -37,12 +42,6 @@
       "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
       "score": 0.4
-    },
-    {
-      "source": "press",
-      "title": "HP CM Sukhu Orders Takeover of Three Hydropower Projects From SJVN, Setting Stage for a High-Stakes Legal Battle - HimbuMail",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1F2SXFDVDNFQjE3emtIWmRsM05UaGZXQ0loTkMzZVlmeVM4X0lrOWtLa0g2eFIteTRBa3lrSGZ4SlJqSGV5aElDeWNFcFVTc2FhTWM1S1BWSnV6UkwwSFM5YUo3ajBHcE1YQ0ZWNUt2U0E1d3dneFZrNzBvSEtlbS1GcTQxRDZCQWJZUk5qT0VtSy1SRUhrUllibTNmcTRmRFFqOHR2aVJaVnVOWjlNZkV2X1ZobXVqMG1GajFvWG5iNHN3MkpnT181bEZJUGIyM0U4MkZZWHEwZ1JXMy0ta0lFM1ZRUHJGdlBB?oc=5",
-      "score": 0.3
     }
   ],
   "top_concern": [
@@ -60,8 +59,8 @@
     },
     {
       "source": "press",
-      "title": "SJVN signs PPAs with GUVNL for three hydro projects in Himachal Pradesh - ET EnergyWorld",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYzBKMmFiMmhBNTlyRC1wdWo5eHBGZHBJUDdQTHI3TlhTelh3bzlLYnMydlltSkVBZ0VDMUdJc3ptTk5EbXBnbWozR0M1bXl0RWR2eFh2dkY3c1NISnpoa2J1b1VvV2IycmJMNUExNHdWSXRHTkNlOG4wcUh3WEI1UE52SThCNWE1N0xUMUxtSjAzQm9fd2tpc0ZKRWVpdExBUGdBeGU2OC12bHlUNEg0ek9mMzZmYTY5b3dmM3Y3cEUtVWFfNFpUSkJ0eUhqeFBaWlHSAdcBQVVfeXFMTmtRNDg4TFRXZi1BOEtERWR3X3FyQVRVUnJ6ZkF6U1gwcVZMMUR1Q1RwcG9VNkNHY3JQd2Z2Z0huVF9DNkhCcHpjTlNzNzg1RVplZEZJT0JTYm5oRG40d3Zkc1dvTTNqdFA3RlNsMkNENTF0cTB1eHB6OHd0LThWd3VBekNnWXJZc0FBamVYcUJFUHBUM0VCb0kxQzNRT1VOUTQ0YmJvM3hGend1Qng3ZGVxRWFyWE5OVjJ3dzJBalRyZDFWWkM0TU90R3NWWl8tRVU2b0lHd1E?oc=5",
+      "title": "NCT clears Rs 839.55 crore transmission scheme for Sunni and Luhri HEPs - Power Peak Digest",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVV6eG5KWW94ZGV0VjV1RUQ0cUJqaC1fdlBjQlp4eHk4ZDVXNm1ZWlA1dU1ZdTM0UXZfOVFabkFrdUUzWjl2MXdfeGJ4a2xZRmRVSnBicXF5SDFlb1E3alBKaTM3SDJ1TGlRVGY4bllZekF6VGpVOWU3RG14Y213Q096TlFMZ01DZFpLUHRHVHphMTFlTHZoN0VscGlZMWR5OGc?oc=5",
       "score": 0
     }
   ],

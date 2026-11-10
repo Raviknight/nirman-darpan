@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T23:55:55.459Z",
+  "updated_at": "2026-11-10T01:50:54.771Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 0,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 19,
-    "positive": 17,
-    "neutral": 1,
-    "concern": 1,
-    "avg_score": 0.553,
-    "avg_magnitude": 0.689
+    "n": 30,
+    "positive": 24,
+    "neutral": 4,
+    "concern": 2,
+    "avg_score": 0.467,
+    "avg_magnitude": 0.573
   },
   "overall": {
-    "n": 19,
-    "positive": 17,
-    "neutral": 1,
-    "concern": 1,
-    "avg_score": 0.553,
-    "avg_magnitude": 0.689
+    "n": 30,
+    "positive": 24,
+    "neutral": 4,
+    "concern": 2,
+    "avg_score": 0.467,
+    "avg_magnitude": 0.573
   },
   "top_positive": [
     {
@@ -45,18 +45,18 @@
   "top_concern": [
     {
       "source": "youtube",
+      "title": "Ye aiims ko dekhte hi pyarr ho jata h",
+      "score": -0.2
+    },
+    {
+      "source": "youtube",
       "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
       "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "3:30 the view 😮🌷❤️❤️❤️",
-      "score": 0
-    },
-    {
-      "source": "youtube",
-      "title": "SONG BAHUT ACHHA LAGA KYOKI YE SONG FREE FIRE VIDEOS ME BAHUT CHALTA THA COVID KE TIME PE \nAND CAMPUS BHI ACHHA HAI",
-      "score": 0.2
+      "title": "Iam  joining ❤as nursing officer in AIIMS Bilaspur",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-05T23:56:19.025Z",
+  "updated_at": "2026-11-10T01:51:22.831Z",
   "project_id": "SMART-DHARAMSHALA",
   "press": {
-    "n": 16,
+    "n": 15,
     "positive": 9,
-    "neutral": 7,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0.194,
-    "avg_magnitude": 0.262
+    "avg_score": 0.207,
+    "avg_magnitude": 0.28
   },
   "youtube": {
     "n": 0,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 16,
+    "n": 15,
     "positive": 9,
-    "neutral": 7,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0.194,
-    "avg_magnitude": 0.262
+    "avg_score": 0.207,
+    "avg_magnitude": 0.28
   },
   "top_positive": [
     {
@@ -40,18 +40,12 @@
     },
     {
       "source": "press",
-      "title": "Dripping Springs library celebrates four decades of community - Community Impact Newspaper",
+      "title": "Dripping Springs library celebrates four decades of community - Community Impact",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclpKclpQWmdQRm1ObTB1ZXdRR3FOenZSTVVrelpaZEVSUlEyX1FHUmxKVlNVdVVFTDkzb0wycWJoMUF1VEdzUmtzeGJubFlqMVl4QU41a2kxX2N4M2RVenppdFFGV2RjbTJ1ZEpzTlBoWWk4cDhERzI1TzQxbEhVdmtMVWxVQUlJbmgtM0pFR25zTWtGblU1OTdESng4WlMxSlRfaF9qSHk2RExrby14QUVrUFo5ajRqcUdjRm1JVEN4MGFIZ1djLTl1MHNHQQ?oc=5",
       "score": 0.3
     }
   ],
   "top_concern": [
-    {
-      "source": "press",
-      "title": "Remarks by UN DSCL/RC/HC, Imran Riza at the International Conference in Support of Lebanon’s People and Sovereignty [EN/AR] - ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON1B2TmVuNXdoSmxaaDRETHpzQkg0cEJjV0hfT05mUXMyRWxCV09paG9nTUROWGs2THplY0YwV3lfWmNIWVRvZjcxVUpJdWg4Ml9ZV0VBaW4xTzBUZ2UyNGhZMFFTTG82ajJrNjN6ZDdVaTgtS3dsdTk0MUZOQVkxU05vdGFYLXFKNFcxUXZWQUx4WlFhV1lyd3U0UTlOZUpMLUl6aWJ4Q3RzNS1EVEtsekxWU0xwaXhlU0w3TFlxX3Y0RzVnX3VMcHV2ekpOS011Yk5n?oc=5",
-      "score": 0
-    },
     {
       "source": "press",
       "title": "Dripping Springs Community Library hits the road - Community Impact",
@@ -62,6 +56,12 @@
       "source": "press",
       "title": "Dripping Springs Community Library hosts art event to fundraise $5M for new library - Community Impact",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTU1STnVXR3RlZVlQak03ZmRpNDJPVm5Sd05ma1dKbHBueGVXUnRTaTJkcnhJUWtDVzhhQ0Z3QnJQeGxzOUtfZjF2bEVObkkyeDFHMm82di16Q3JtNUZiVVhLZDdyRkRuTV92M1gwQ1dfRHZ0YWkzY0wtb2JkN3ZfM1JMOENQQ3djcHNSWmtnN2l4eEhMSlVYVWFkVklKS3lEOExtZE9Ld21nSUM4WWEyN19KWmhIOGNTR052Mk5nd3RqZkFlaDlkRFRSVXZYaGlNR2RoWWVXWGRPTF95WXVSa2tYa2JkTkRsSjhNZlZ3?oc=5",
+      "score": 0.1
+    },
+    {
+      "source": "press",
+      "title": "Davangere Sugar Company Announces ₹149 Crore Rights Issue, Hosts Virtual Investor Meeting - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPODRqVHNUTHA3T1gwbEd2Rm1kRV9xT1VIMUZMUF84MmxVcVVIemt2MzRhdk5WVE9oSTA3ZGI3NTJtM1FMR2tCTHphYzJha29Ka3J6MG52cm5YUE8ySGh3Z3FSblZPclVUUjFvN1hMRGVranlkd255STJiLVU1QzJlckhRNEhWOWxGdFNDMDdLVWFLeFBNTzlXU2I3NUNnRk9PVWh6VGI3RGpqS3FFdG1wZGVHVFFISXZHM1dIYnc1STJFZnJFM3RnQU1KdmlMZW5UY1RkYktVM05NWDE2TXFkRU5jdVdaeE0?oc=5",
       "score": 0.1
     }
   ],

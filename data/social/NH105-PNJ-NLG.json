@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-11-05T23:54:12.314Z",
+  "updated_at": "2026-11-10T01:49:23.335Z",
   "project_id": "NH105-PNJ-NLG",
   "counts": {
-    "press": 27,
+    "press": 25,
     "gov": 0,
     "en": 10,
-    "hi": 17,
-    "total": 27
+    "hi": 15,
+    "total": 25
   },
   "mentions": [
-    {
-      "title": "पिंजौर-नालागढ़ फोरलेन की मरम्मत शुरू - Divya Himachal",
-      "source": "Divya Himachal",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJdkhyUVQ4WDZfeEZOWUpCUGFKeXp0a2ZrWVVReXh1b2NTZEFub3YzLS1KN3p2OHJyTjRDVkpsclp3WUZjVE1jUEVDeDEzT3NBd1HSAaIBQVVfeXFMT1BjRW1tTTRUcE8yU0FjZTVwck1VUDltd1hCNExDS2w4MWtFSFhzTllwelpHUjVEa1BFb2N3cnM4bmx5akdsN2pCOHNCeEYxSUNyUlpxYS1ZVVd3RnNYUFB1b281NHEzYnF2elIycDBuUXlmTEtudk5Dc0U0M0pGYU1PSVpfcDNoOHR4YzdjMFgzT2toZXo1ODhtU0ZnVFZZMFJn?oc=5",
-      "date": "2026-10-22T19:23:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Pinjore Nalagarh"
-    },
     {
       "title": "पिंजौर में बाइक और कार की टक्कर: एक व्यक्ति घायल, मोटरसाइकिल पर लिखा टेंपरेरी नंबर, दोनों वाहन क्षतिग्रस्त,... - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
@@ -205,6 +195,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpOd1ZIcUs2MG5BVlozc3RTS0hTQVlsdzN2YXQzc0toX09qYk8wZGJCaUtuVklpM19jV3pVclpXcU9IMjY4UWRPY01lVGZvMDdIUFNqaEw4T25qVmJFeWZSRlZFWUJuUXpzMzlUN2g2WWhlbE9PcXRTUTlQeWNVZC1pSXRVRHBPZmxUR3hiTmo5M3Z2eGdISGtGTExxeTlUVkRtanBGRlZQMEZJMFk4d19ZR2tFQmFm0gG-AUFVX3lxTFBsanRUdzZaLWg3LUVSOVAtNEZQem1wLW84eE4xMTdGamF4clB6a0FMM3dqOFF1YjNUWTZGNlN3Ry14TVNveVUzZVFUMVg4N0x1ZU12N0NWMkg4MWJIUEVyRnZxNm1yclV6RVhNQkhReGdXNHVNNkltTm9mX2l0RDY0WlY1Zm5UUFpHemxIMjdzeV80U0VYdG1hTHM1QWNfbHVXd2w0ajZXUHRfN2xoTkN1RkpKMmFoX1Y0ajdiaWc?oc=5",
       "date": "2022-11-03T07:33:36.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Pinjore Nalagarh"
+    },
+    {
+      "title": "Pinjore Nalagarh Four Lane: 25 मिनट में तय होगा 90 मिनट का सफर, 30 माह में पूरा होगा निर्माण कार्य - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT201dUxfeGM0SG5ZWVIxVXZrNkNtTG80bFZfdGVqVGV1cXdYRFNINEc0OWhVaHpFMEt6QWdkSnM4dXRiQlAyMXVrTUJQWWFxODQtT1htNlo2eVJhNmZZNE5Hb2tGckZqcVJ2S1pLT25qSjNnZEJvUGYxeVpxVHZGM2M3VWNkc0ZpelBCT1ZOeXFORnF6Um5sVmxDZTdGNkxQc2JWZHEtTGJrNlJqa0EzS295T3dvSXg3TmFLaWhPNE9WdThqQVExUUFOR2Y5WmQ3NVBjanBOMVJLZkFQ?oc=5",
+      "date": "2022-10-06T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Pinjore Nalagarh"

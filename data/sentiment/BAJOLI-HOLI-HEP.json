@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-05T23:56:22.048Z",
+  "updated_at": "2026-11-10T01:51:25.580Z",
   "project_id": "BAJOLI-HOLI-HEP",
   "press": {
-    "n": 18,
+    "n": 17,
     "positive": 7,
-    "neutral": 9,
+    "neutral": 8,
     "concern": 2,
-    "avg_score": 0.111,
-    "avg_magnitude": 0.211
+    "avg_score": 0.112,
+    "avg_magnitude": 0.218
   },
   "youtube": {
     "n": 8,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.288
   },
   "overall": {
-    "n": 26,
+    "n": 25,
     "positive": 7,
-    "neutral": 13,
+    "neutral": 12,
     "concern": 6,
-    "avg_score": 0.004,
-    "avg_magnitude": 0.235
+    "avg_score": 0,
+    "avg_magnitude": 0.24
   },
   "top_positive": [
     {

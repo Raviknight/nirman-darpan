@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T23:56:02.788Z",
+  "updated_at": "2026-11-10T01:51:03.349Z",
   "project_id": "JJM-HP",
   "press": {
     "n": 1,
@@ -10,55 +10,53 @@
     "avg_magnitude": 0.1
   },
   "youtube": {
-    "n": 3,
-    "positive": 1,
-    "neutral": 1,
-    "concern": 1,
-    "avg_score": 0.167,
-    "avg_magnitude": 0.633
+    "n": 12,
+    "positive": 6,
+    "neutral": 4,
+    "concern": 2,
+    "avg_score": 0.183,
+    "avg_magnitude": 0.3
   },
   "overall": {
-    "n": 4,
-    "positive": 1,
-    "neutral": 2,
-    "concern": 1,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.5
+    "n": 13,
+    "positive": 6,
+    "neutral": 5,
+    "concern": 2,
+    "avg_score": 0.177,
+    "avg_magnitude": 0.285
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Excellent achievement",
+      "title": "Thank you sir 🙏",
       "score": 0.9
     },
     {
-      "source": "press",
-      "title": "Union Minister for Jal Shakti approves 465 crore as Performance Incentive fund for 7 States under Jal Jeevan Mission - Sarkaritel.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHF5bHB2U0E1Zi05WDVTclpGSlFBcmpISTRIRnVWTmEwTU1IX3ZFMjlvekZxVlQ2V3lIRFhxVGt4QnRDZjc4S3hTaFJ1Z1JJRVRsSTVzS1lLYnlud2xha21BaFRWT3VDRHNhaDRJR2w4RUxFdVFWRF90a2FLWGN5cVpFaGxpZEhGRk9kWllhaTV4SnVhOHZBdUVGd1Juc3JnR0hMcnQ2V3Q3QjBQVC1TN3gtbnFVLXF6c3FoeDg4SmJTTTViamEydXlUSUFkOUNsVDdxMWVLdTBEd05B?oc=5",
-      "score": 0.1
+      "source": "youtube",
+      "title": "नल तो लगभग घर घर पहुंच गए पर पानी गायब है, और भविष्य देखा जाए तो जैसे थर्ड क्वालिटी के पाइप लगे हैं दस साल तक गलकर खत्म ",
+      "score": 0.5
     },
     {
       "source": "youtube",
-      "title": "The work under this scheme has just begun in our village.. 😍",
-      "score": 0
+      "title": "कहीं ज्यादा पानी जाता और कहीं काम जाता है कोई खोजना ही नहीं है अपने गांव के लिए बचाता है",
+      "score": 0.4
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Why congress didnt do this.",
+      "title": "Jaha hona chahiye ye yojna waha nhi mil rhi hai",
       "score": -0.4
     },
     {
       "source": "youtube",
-      "title": "The work under this scheme has just begun in our village.. 😍",
-      "score": 0
+      "title": "पंचायत मानदेय नहीं दे रहे हैं  ...",
+      "score": -0.3
     },
     {
-      "source": "press",
-      "title": "Union Minister for Jal Shakti approves 465 crore as Performance Incentive fund for 7 States under Jal Jeevan Mission - Sarkaritel.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHF5bHB2U0E1Zi05WDVTclpGSlFBcmpISTRIRnVWTmEwTU1IX3ZFMjlvekZxVlQ2V3lIRFhxVGt4QnRDZjc4S3hTaFJ1Z1JJRVRsSTVzS1lLYnlud2xha21BaFRWT3VDRHNhaDRJR2w4RUxFdVFWRF90a2FLWGN5cVpFaGxpZEhGRk9kWllhaTV4SnVhOHZBdUVGd1Juc3JnR0hMcnQ2V3Q3QjBQVC1TN3gtbnFVLXF6c3FoeDg4SmJTTTViamEydXlUSUFkOUNsVDdxMWVLdTBEd05B?oc=5",
-      "score": 0.1
+      "source": "youtube",
+      "title": "*सबसे ज्यादा भ्रष्टाचार इसी योजना में हो रहा है*",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

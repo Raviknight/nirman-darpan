@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T23:56:03.578Z",
+  "updated_at": "2026-11-10T01:51:04.202Z",
   "project_id": "SMART-SHIMLA",
   "press": {
     "n": 15,
@@ -12,18 +12,18 @@
   "youtube": {
     "n": 2,
     "positive": 0,
-    "neutral": 1,
-    "concern": 1,
-    "avg_score": -0.25,
-    "avg_magnitude": 0.25
+    "neutral": 0,
+    "concern": 2,
+    "avg_score": -0.5,
+    "avg_magnitude": 0.5
   },
   "overall": {
     "n": 17,
     "positive": 11,
-    "neutral": 5,
-    "concern": 1,
-    "avg_score": 0.182,
-    "avg_magnitude": 0.382
+    "neutral": 4,
+    "concern": 2,
+    "avg_score": 0.153,
+    "avg_magnitude": 0.412
   },
   "top_positive": [
     {
@@ -48,13 +48,13 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Ask electricity board ,what they have done till now, people's living 2 days without electricity in capital , why not HT ",
-      "score": -0.5
+      "title": "First achievement,  water supply every  3-4 day, second achievement,  over headed electricity HT wires, no undergroundin",
+      "score": -0.6
     },
     {
       "source": "youtube",
-      "title": "Bring population law",
-      "score": 0
+      "title": "Wow what a smart city, shame",
+      "score": -0.4
     },
     {
       "source": "press",

@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-05T23:56:21.656Z",
+  "updated_at": "2026-11-10T01:51:25.187Z",
   "project_id": "SHONGTONG-HEP",
   "press": {
-    "n": 16,
+    "n": 17,
     "positive": 6,
-    "neutral": 10,
+    "neutral": 11,
     "concern": 0,
-    "avg_score": 0.175,
-    "avg_magnitude": 0.2
+    "avg_score": 0.171,
+    "avg_magnitude": 0.194
   },
   "youtube": {
-    "n": 2,
-    "positive": 2,
+    "n": 3,
+    "positive": 3,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0.85,
-    "avg_magnitude": 0.85
+    "avg_score": 0.867,
+    "avg_magnitude": 0.867
   },
   "overall": {
-    "n": 18,
-    "positive": 8,
-    "neutral": 10,
+    "n": 20,
+    "positive": 9,
+    "neutral": 11,
     "concern": 0,
-    "avg_score": 0.25,
-    "avg_magnitude": 0.272
+    "avg_score": 0.275,
+    "avg_magnitude": 0.295
   },
   "top_positive": [
     {
@@ -33,14 +33,13 @@
     },
     {
       "source": "youtube",
-      "title": "Thank you sir",
-      "score": 0.8
+      "title": "Excited for video 😍",
+      "score": 0.9
     },
     {
-      "source": "press",
-      "title": "हिमाचल सरकार के खजाने में इस परियोजना से आएंगे 900 करोड़, CM सुक्खू ने अगले साल का दिया टारगेट - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmRlZWpMNVlaaDRQZWYyUnNQZnpzZ0Y5RnZ6U3NNT2Nnb3kweXVZSHlHb3hieERhMUpCVGNOcVdYUlNWbkVuV2M3ekpFUFdSVzU0a1d3Ykg3OXVvODEtT0l4c3BqZHJ1X1d0Ty1obG5CSVFBYWR1VU5rOHhDNmFvUExBSVJSYVNyYS0xTTc1MXQxOGJvaC1odGVFeVRnSDhrekxGbjFtYThoNUoxMlNGMWY1THNmUndTR2NqbE5NRHZPYVhwc2xtQmJzdnlERlFJZ2FMTjg0WlJVVVFHeVNSNdIB5gFBVV95cUxPVXhLdmxvbUNUM3dKMUZrSTVmQmtjbVhRMGdSOFl5eHlfenJYUjRTektkNU5WRERqeXVKYU14MldIZFhBWUY0RDNDSkhIMnNRcm5oSDhoUlhzRXEzb1lfbjV1YjRwUjNnTVNYbUpWMUxYdGNoRGJHSzBQZmRENy04NlAwOTBQZTlUTEJ6T2pmLUZHOXhvV0ZNdWtKRkVGT0NicmxrZGJaTHhFQTZwd2dTRDVXYWQtdFBiTU9UMnF1ckVERVk4bEx3WjBXbGh4dmhMTHh0aThjek1ycnhpVUhiTDhkMng0UQ?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "Thank you sir",
+      "score": 0.8
     }
   ],
   "top_concern": [
