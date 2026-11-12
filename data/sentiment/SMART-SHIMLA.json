@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T01:51:04.202Z",
+  "updated_at": "2026-11-12T23:57:40.018Z",
   "project_id": "SMART-SHIMLA",
   "press": {
-    "n": 15,
+    "n": 17,
     "positive": 11,
-    "neutral": 4,
+    "neutral": 6,
     "concern": 0,
-    "avg_score": 0.24,
-    "avg_magnitude": 0.4
+    "avg_score": 0.206,
+    "avg_magnitude": 0.359
   },
   "youtube": {
     "n": 2,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.5
   },
   "overall": {
-    "n": 17,
+    "n": 19,
     "positive": 11,
-    "neutral": 4,
+    "neutral": 6,
     "concern": 2,
-    "avg_score": 0.153,
-    "avg_magnitude": 0.412
+    "avg_score": 0.132,
+    "avg_magnitude": 0.374
   },
   "top_positive": [
     {
@@ -58,9 +58,9 @@
     },
     {
       "source": "press",
-      "title": "10 Deputy Commissioners,19 IAS, and 6 HPAS officers reshuffled in Himachal Pradesh - HIMACHAL HEADLINES",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXBMWWdraG1yY3JYX2pER3JkX3JCTUF6RWVVRjdmemVma0hkekFuVlBDLTROYnFnSWlRSlVKOFBYZmhEd1ZjeF9RQUF4VGtGenI2Z2dWQW5kVGtUek9Ua25zMENRb25xMjh0d0UzaU5Lc3pwaVpmZldoRzRkdURiWTkxZ1Z3aXRsSko5SE5STkFxS0lSRkY3UGxMQ3lXeHludFZfMDdhNmdBWDVienc?oc=5",
-      "score": 0
+      "title": "High court seeks report from chief secretary on steps to unclog Shimla traffic - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQelFXT3FwdmJaTFBpRVZBVVdFckpDSnVqT05JUkV5MGRXTVhiUVA5UEJPZWlEclpGendlc2RyREFiM2N5TUg2LWVobTE3TDY2S2ZPMGdhVlR4Rmh3WE5WZXpTUW1ZT2MyREw0R29nMVg0cUtTalFOVXFINXFVdkFweG5ZT2RwXzZrbmNudjZteUJYajh5SXl2bzNwVHB0Y2owMmFMNE84OFVIc21HZlZUMlBFY1E1RXlwZGpxYXdyWkNPRXJGbV9XQ2FZMDQwR3FHSlNXV2t4RDBlU1BLN2xF0gHkAUFVX3lxTFBTT3poaldUSGp3VWJXV1ByUVVCeWQ0djN2MGVqZVhHVUs5ZGdMejRfb0M3cGc3R1JOaG1Mb3Fkd1hBdDZ1dEMwWW9venhwSU5QMDBteDRfUXNqMENTQ3N1eFBsd0NYaHhlcU9TWTVpVjdoQlhCRUNtbFlwWURWcmFQVGVOTWFJVWJ1LVN2ZVlpOTR1ZWlNbXU1UlBmZllHU3dfcVdtcWh6MnBQYWFoQ1FwYU9uT2hYZUo1dVRuNTQxOXFyQmM2Mnp6UHh0Wk53T3hSb1RoU2h6WTRhMzZBbWNhRlhRSA?oc=5",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

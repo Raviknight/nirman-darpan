@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-10T01:48:56.826Z",
+  "updated_at": "2026-11-12T23:55:58.266Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 46,
+    "press": 40,
     "gov": 0,
-    "en": 34,
-    "hi": 12,
-    "total": 46
+    "en": 33,
+    "hi": 7,
+    "total": 40
   },
   "mentions": [
     {
@@ -40,6 +40,16 @@
       "match": "SJVN Sutlej"
     },
     {
+      "title": "REC Power Development and Consultancy Hands Over Luhri Power Transmission SPV To Terralight Solar - SolarQuarter",
+      "source": "SolarQuarter",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLUd0MkRlVE5VZ3F5R2JzT1lPckFtblRlMVBjWENYQmFmZkVzdFZTUFhrM3ljYi13ZGlJSDNadFFzcjU1bG02M3F3eHBpZnpBOTdaSVJtZUtSTXpiZGdJSExDcDZtUHhuV21IZEtOdjFtblA2N1Y4Nks4OUdkeWJOeWh4VzRQZndLSHdwNURFTW0wWU9ISXRuV2podV82dnFxXy1TbFAtSmJobmFoNWlXcXM2Rld0XzgwVW1wbklnbDRxcTJqbnh5Vk5YUTAyM0E?oc=5",
+      "date": "2026-09-02T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
       "title": "RECPDCL Hands Over INR 839.55 Crore Luhri Transmission SPV to Terralight Solar - Energetica India Magazine",
       "source": "Energetica India Magazine",
       "source_id": "google-news-en",
@@ -70,20 +80,20 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "RECPDCL Hands Over Luhri Transmission SPV To Terralight Solar - Sarkaritel.com",
-      "source": "Sarkaritel.com",
+      "title": "REC arm hands over Rs 839.55 crore Luhri power transmission project SPV to Terralight Solar Energy - PSU Watch",
+      "source": "PSU Watch",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDFSdnZGaE8tVnl0MU5KbUdQb2c1RWZaajdGNHRrN3NwdGxUMThaUjhnTXJiTG5zVFJ2OXh4SVlSVmFkVy1aelFxZjVfQ3VRZWR5cmpIYVhCd0NYVno5ekRWMkxzY2Fhbzd3WV9Yc2hRdWZNYmxjU2ZFdkFISWZ3clBzdlo0Z0VQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZV9icGNxUmREOEJUQW84eUdiWmZGd2V1dk1PS0E5OTZoQkRWaFhKa3ZjLWNRRm1WaUFLZ05kSGY0dGNzQVI5dEtkQmpEYXVuSllCWVYtZ1AyOW5kcGMwM012WnB1RkljSXp4WElpWUNENzlDcmpILXlEX2xWY3NiVWl6UEdsbHBVcUdLSVVPblR3ZGExNjFBdXc1aVB0OVJMdnZ0WDh4M2R1Y2FmZnJ0b1RGQ3dFZGNzdnVDYjRyM3Jtd2xyb2d5ZFdR0gHXAUFVX3lxTE0zcWl5aTZHaHY0ZS1zQ2VKQklNbFB5WFZrUjA1OG1Ya2lMZTZscmVUX0dlUzM2X2h4VTVZQkh5WlZEZzVfWE9QRnhueXpWbjBJZ0NteUM3anRrc2xLSVNsV3oxVGN1ZGo5MkJ6UWtLY3hfTEU0TU1RY1kxWUUtd3lES1NUaFJvSE9BelRlYTBXUExhYjZPN29ZamY3QjB2cjVheVhyRUJlZzVPQkg4VFdRMk9nU1lReWxuNkZ2S0VzQWVsYklQaUkzTXR2dktOS2ZZVmZ6dUtr?oc=5",
       "date": "2026-08-21T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
     },
     {
-      "title": "REC arm hands over Rs 839.55 crore Luhri power transmission project SPV to Terralight Solar Energy - PSU Watch",
-      "source": "PSU Watch",
+      "title": "RECPDCL Hands Over Luhri Transmission SPV To Terralight Solar - Sarkaritel.com",
+      "source": "Sarkaritel.com",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZV9icGNxUmREOEJUQW84eUdiWmZGd2V1dk1PS0E5OTZoQkRWaFhKa3ZjLWNRRm1WaUFLZ05kSGY0dGNzQVI5dEtkQmpEYXVuSllCWVYtZ1AyOW5kcGMwM012WnB1RkljSXp4WElpWUNENzlDcmpILXlEX2xWY3NiVWl6UEdsbHBVcUdLSVVPblR3ZGExNjFBdXc1aVB0OVJMdnZ0WDh4M2R1Y2FmZnJ0b1RGQ3dFZGNzdnVDYjRyM3Jtd2xyb2d5ZFdR0gHXAUFVX3lxTE0zcWl5aTZHaHY0ZS1zQ2VKQklNbFB5WFZrUjA1OG1Ya2lMZTZscmVUX0dlUzM2X2h4VTVZQkh5WlZEZzVfWE9QRnhueXpWbjBJZ0NteUM3anRrc2xLSVNsV3oxVGN1ZGo5MkJ6UWtLY3hfTEU0TU1RY1kxWUUtd3lES1NUaFJvSE9BelRlYTBXUExhYjZPN29ZamY3QjB2cjVheVhyRUJlZzVPQkg4VFdRMk9nU1lReWxuNkZ2S0VzQWVsYklQaUkzTXR2dktOS2ZZVmZ6dUtr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDFSdnZGaE8tVnl0MU5KbUdQb2c1RWZaajdGNHRrN3NwdGxUMThaUjhnTXJiTG5zVFJ2OXh4SVlSVmFkVy1aelFxZjVfQ3VRZWR5cmpIYVhCd0NYVno5ekRWMkxzY2Fhbzd3WV9Yc2hRdWZNYmxjU2ZFdkFISWZ3clBzdlo0Z0VQ?oc=5",
       "date": "2026-08-21T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -127,26 +137,6 @@
       "date": "2026-07-06T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "सुक्खू सरकार का बड़ा फैसला : सुन्नी, लुहरी और धौलासिद्ध परियोजनाओं को वापस लेने की प्रक्रिया शुरू - HIMACHAL DASTAK",
-      "source": "HIMACHAL DASTAK",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkRkN1ZVblNpQXd5emZ4RXpSbGFJb1pHODNfc2hTT3FBQnI5QWZUUkxMU09sbzAyNUFIYnpjWGtXQlVlcnVfNy03cGRzZzFzS2NEb1BJdnh5OEFNVHVqSWt5eVVLeVJoWVdCamROVlRwZ2RMa1ZTSmEtZEpTQUJ4MF9FbFJ6d20tTE9UQ2IwNnZvSG50VVE?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "SJVN signs PPAs with GUVNL for 658 MW green power supply - scanx.trade",
-      "source": "scanx.trade",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG5JcDFtRkRQUUJjTVVfZnplaGthempWLXVsaEF4NmlMLWcwc2RLMGFLQzQtbk0ySHBtNzczWTlsaDUxbnMxNGxTcjhxbWxJcVhDbklIX1REZEtFdWYyV3RtZENkZkJEMWxHdVBQSllQS0dyTlB6cDVWTEM5SHpkSG02bVF5NFRlLUJUWHlMWmNMNmNSazJtUXZzM3NlY1RwbHhIbVFWaDdpWG5SeVhQOTlSOWxYR2tqeGY3aw?oc=5",
-      "date": "2026-06-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Luhri Stage"
     },
     {
@@ -205,6 +195,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVV6eG5KWW94ZGV0VjV1RUQ0cUJqaC1fdlBjQlp4eHk4ZDVXNm1ZWlA1dU1ZdTM0UXZfOVFabkFrdUUzWjl2MXdfeGJ4a2xZRmRVSnBicXF5SDFlb1E3alBKaTM3SDJ1TGlRVGY4bllZekF6VGpVOWU3RG14Y213Q096TlFMZ01DZFpLUHRHVHphMTFlTHZoN0VscGlZMWR5OGc?oc=5",
       "date": "2026-03-18T21:51:46.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
+    },
+    {
+      "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - PSU Watch",
+      "source": "PSU Watch",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVU5SzktRVZLeWd3Mkw4UUROMmxKQzJlRDJzS25XNnU3ZmRiendROERhMUpFRlNndDF0X0dsZW4xUy0wa3JOZlVPWDg0S2VwNTlkc3FDS0QwY1MzUXRXVkxzREZFbGNteDB1d0YwalppZFF2QnM1aW1TX2xKOVkxRlVRMkVKRG53bDNJSzh4a0tOWG5YTHZyWWNwblI5cXZrYk9QUEZNd9IBtAFBVV95cUxQMlJ0anZpZnFMb2lpRWMxN3gxejc5SW93VjVvUkY3Y0FJRGVOb3RxVGFzalNWZ0dRcjBZbWJxQWI3NlpuV2JBQ2w5dHBIeG1nX3hrSXp5bXc1VzhoMWlpUzE5UUh3S25pbzAyYTB2LWVPSWRRQ1JrZnZrZVlJZ2hEQk1KMnppRE00YW1rRzRBTlpMTUNodG42c242RmVYcmx0aGs5aXFUUjg4UVB6T2VGclphUUo?oc=5",
+      "date": "2025-07-01T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"

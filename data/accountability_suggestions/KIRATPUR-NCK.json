@@ -1,22 +1,8 @@
 {
-  "updated_at": "2026-11-10T01:50:01.710Z",
+  "updated_at": "2026-11-12T23:57:01.954Z",
   "project_id": "KIRATPUR-NCK",
   "count": 4,
   "suggestions": [
-    {
-      "category": "incident",
-      "severity": "high",
-      "kind": "issue",
-      "duplicate_of": null,
-      "first_seen": "2026-10-29T23:04:01.858Z",
-      "title": "4 Music Industry Workers Killed In Road Accident On Chandigarh-Manali Highway - ETV Bharat",
-      "summary": "Auto-detected from press: \"4 Music Industry Workers Killed In Road Accident On Chandigarh-Manali Highway - ETV Bharat\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUVU1S0tGa2N3ZjR0MXRiSkw1eUxYQWpOSUMwaUtzYkFJLWt0bFh4UnAzZzQzTFM3aEktN2FRdVU2WExGcWFZOGNzS3hJUWxhZ2ZyNzVBa2h0MlFPQ3RCSmFrM3FnNUFheVRER2NIeHRlZmp2bllqQ3NmVmdmRFdINXB3NmprbS1TbUF1bUo5b2tCZ3lXSlZrY0lWbV8zdnNKdlRxRkVrUnZ1TVVoVmZQV3ViUWs1RTlVYU5jOHZCalZaWUxabHfSAcsBQVVfeXFMUEhIaGRMNHlQaDR6QVdHcUNua2dqSWNoV2JlaWVFLU1jWFJ4X1o3TGdrTmpHai1KSmJfXzRsU3pnX1pDQ1pJT2RvVmFJQm1JWmlva21vV2VvV2lDVFNlMG81am96SXp5dTQyZzJ2Y01iMkFrdUwxbkVpSkZfNzgzNFhzaWhnQkJMWml1NExKMnhQSExERGJTQUlWUFpQdmQ4emVvRkYwWGowd1gtVjRtSkYxck0zdmxoeDhFclFRdmc5WWU1Tld5S25uOXM?oc=5",
-      "source_name": "ETV Bharat",
-      "lang": "en",
-      "date": "2026-10-28T07:00:00.000Z",
-      "matched_term": "accident"
-    },
     {
       "category": "incident",
       "severity": "high",
@@ -58,6 +44,20 @@
       "lang": "hi",
       "date": "2026-08-20T07:00:00.000Z",
       "matched_term": "accident"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-11-12T23:57:01.954Z",
+      "title": "Himachal Pradesh: Axe Attack Near Bilaspur Bridge Leaves Man Seriously Injured - ABP Live English",
+      "summary": "Auto-detected from press: \"Himachal Pradesh: Axe Attack Near Bilaspur Bridge Leaves Man Seriously Injured - ABP Live English\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0RydWZFX25tMWl1alpHNm9HVnpFX2NvNGJhNkVrSzg0MTh3TS1QYVU0dVlGcEhBN1Y2RXpReFNVM0lXWXdERVUxdnNTQUhLb2RiZU1PZzNydmptZkJHV1RiRDZBZThzR09KdGhvNWtYWFZmS05wZzdUaWV5MFQxaGdXcUJ2R21OLTlVTWxLYjFxZDZqS01MM1V5ZWvSAaIBQVVfeXFMTkNybWdvOFl4ZXYtRlptcXk3YmpjQkZ6UHc1NWpjZDlfNUxXb0EwMWl0NzdQMl9zNFZlcE5TWFd2N2ZtYWNJZXdWM3pfUzFUUWk1Vml3VWZyWkdkeHdvYnhacVhKTVhFdmVKV2hFR1VwQ3hEYWVHU1lFSFdmVDJCb0dfcTRaeS1BRnRydUhzd3JObHN0bGxVaXpuWjRvZ2l0UExR?oc=5",
+      "source_name": "ABP Live English",
+      "lang": "en",
+      "date": "2026-07-09T07:00:00.000Z",
+      "matched_term": "injured"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

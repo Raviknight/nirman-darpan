@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T01:51:29.343Z",
+  "updated_at": "2026-11-12T23:57:47.498Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
     "n": 0,
@@ -10,22 +10,27 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 13,
-    "positive": 3,
-    "neutral": 8,
-    "concern": 2,
-    "avg_score": 0.069,
-    "avg_magnitude": 0.215
+    "n": 31,
+    "positive": 7,
+    "neutral": 18,
+    "concern": 6,
+    "avg_score": 0.032,
+    "avg_magnitude": 0.274
   },
   "overall": {
-    "n": 13,
-    "positive": 3,
-    "neutral": 8,
-    "concern": 2,
-    "avg_score": 0.069,
-    "avg_magnitude": 0.215
+    "n": 31,
+    "positive": 7,
+    "neutral": 18,
+    "concern": 6,
+    "avg_score": 0.032,
+    "avg_magnitude": 0.274
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Good going Girl!🎉",
+      "score": 0.9
+    },
     {
       "source": "youtube",
       "title": "Nice college isi me hi padunga",
@@ -33,16 +38,16 @@
     },
     {
       "source": "youtube",
-      "title": "🔥🔥🔥🔥🔥❤️",
-      "score": 0.4
-    },
-    {
-      "source": "youtube",
-      "title": "Kya ab claases shuru ho gayi hain",
+      "title": "🔥❤️❤️",
       "score": 0.4
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Dii cut off rank for state quota gen?",
+      "score": -0.5
+    },
     {
       "source": "youtube",
       "title": "New batch ko new campus me shift krenge kya",
@@ -50,13 +55,8 @@
     },
     {
       "source": "youtube",
-      "title": "How is the paediatrics department over there",
-      "score": -0.2
-    },
-    {
-      "source": "youtube",
-      "title": "Does the new campus include a hostel for students.😊😊",
-      "score": -0.1
+      "title": "why is it so empty? are you like the first batch ever?",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

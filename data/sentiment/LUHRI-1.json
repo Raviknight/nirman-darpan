@@ -1,50 +1,56 @@
 {
-  "updated_at": "2026-11-10T01:50:41.329Z",
+  "updated_at": "2026-11-12T23:57:31.640Z",
   "project_id": "LUHRI-1",
   "press": {
     "n": 17,
-    "positive": 5,
-    "neutral": 12,
+    "positive": 4,
+    "neutral": 13,
     "concern": 0,
-    "avg_score": 0.106,
-    "avg_magnitude": 0.141
+    "avg_score": 0.076,
+    "avg_magnitude": 0.112
   },
   "youtube": {
-    "n": 3,
-    "positive": 3,
-    "neutral": 0,
+    "n": 1,
+    "positive": 0,
+    "neutral": 1,
     "concern": 0,
-    "avg_score": 0.5,
-    "avg_magnitude": 0.5
+    "avg_score": -0.1,
+    "avg_magnitude": 0.1
   },
   "overall": {
-    "n": 20,
-    "positive": 8,
-    "neutral": 12,
+    "n": 18,
+    "positive": 4,
+    "neutral": 14,
     "concern": 0,
-    "avg_score": 0.165,
-    "avg_magnitude": 0.195
+    "avg_score": 0.067,
+    "avg_magnitude": 0.111
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Great sir👍👍👍",
-      "score": 0.9
-    },
-    {
-      "source": "press",
-      "title": "सुक्खू सरकार का बड़ा फैसला : सुन्नी, लुहरी और धौलासिद्ध परियोजनाओं को वापस लेने की प्रक्रिया शुरू - HIMACHAL DASTAK",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkRkN1ZVblNpQXd5emZ4RXpSbGFJb1pHODNfc2hTT3FBQnI5QWZUUkxMU09sbzAyNUFIYnpjWGtXQlVlcnVfNy03cGRzZzFzS2NEb1BJdnh5OEFNVHVqSWt5eVVLeVJoWVdCamROVlRwZ2RMa1ZTSmEtZEpTQUJ4MF9FbFJ6d20tTE9UQ2IwNnZvSG50VVE?oc=5",
-      "score": 0.5
-    },
     {
       "source": "press",
       "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
       "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "HP CM Sukhu Orders Takeover of Three Hydropower Projects From SJVN, Setting Stage for a High-Stakes Legal Battle - HimbuMail",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1F2SXFDVDNFQjE3emtIWmRsM05UaGZXQ0loTkMzZVlmeVM4X0lrOWtLa0g2eFIteTRBa3lrSGZ4SlJqSGV5aElDeWNFcFVTc2FhTWM1S1BWSnV6UkwwSFM5YUo3ajBHcE1YQ0ZWNUt2U0E1d3dneFZrNzBvSEtlbS1GcTQxRDZCQWJZUk5qT0VtSy1SRUhrUllibTNmcTRmRFFqOHR2aVJaVnVOWjlNZkV2X1ZobXVqMG1GajFvWG5iNHN3MkpnT181bEZJUGIyM0U4MkZZWHEwZ1JXMy0ta0lFM1ZRUHJGdlBB?oc=5",
+      "score": 0.3
+    },
+    {
+      "source": "press",
+      "title": "​लुहरी हाइड्रो प्रोजेक्ट प्रभावित किसानों का हल्ला बोल, समझौते लागू न होने पर फूटा गुस्सा - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkJZamNfUmVEWm9hOUR1cERjWnd1aFI3SXdSOGRKc2cxSzh1N0lDU0x6SHJxX0ZJbjdkVlF0Tk5lMTJxbmZBTWthMElSQ3BjLVVjUWxDczRhU0ZHZ0sxRC1kY0lNaWJRZHp3QkFVRGtDelp3VXhkczZvalFia0J6UmJ5S2xJM1oxX1hGa2h6UXQwN21OODl3T0lveDlZRThiM3pkRTB5QnJSSU4ySTY4Y211a9IBuAFBVV95cUxNZlhRRUM0cXZZUnNNVzlaOXg3ZlltTVViSlF1ZWUtYkdsZkY4ZjktdkVaZnRwVUZsRXlzWXN1MW83SnRob2FNc3d3anFwM1FodVlsRXR4YmFNeTBpdDBBNXYtMjdGOXRwZVJOMlVpYTdlNW5qNGZfYnEtVVRMRXNLTWdUc0xRQXB4TWhtQmh3dWUyTE5sZmdGTldXdXV5SXJNY0ZUdThqS2ZzOThLSVVzbGxkQTdXYTha?oc=5",
+      "score": 0.2
     }
   ],
   "top_concern": [
+    {
+      "source": "youtube",
+      "title": "Is there any vacancy for Site Engineer?",
+      "score": -0.1
+    },
     {
       "source": "press",
       "title": "RECPDCL transfers Luhri transmission scheme SPV to EnerGrid - T&D India",
@@ -56,12 +62,6 @@
       "title": "RECPDCL HANDS OVER LUHRI POWER TRANSMISSION LTD TO TSETPL - IndianMandarins",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVpiMks5dUxHb21ScFlfaEhOazBJT0JQQVJFWG9kNlh2VFc3TUVEaWJ1cGJkNWFqakE4SXRya3gyVFVmeXFOak9pLWxhdDhHb2p2UEw4MFlBem5aVFlBR3UxVUJyandHVmxSX3V0bmRHMG5DNUtxNzd6bHREUmN4aG80ZlpVcWNYMU56OUtPTGFBeF9jRV8xelFmSVdCLW1LdlE?oc=5",
       "score": -0.1
-    },
-    {
-      "source": "press",
-      "title": "NCT clears Rs 839.55 crore transmission scheme for Sunni and Luhri HEPs - Power Peak Digest",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVV6eG5KWW94ZGV0VjV1RUQ0cUJqaC1fdlBjQlp4eHk4ZDVXNm1ZWlA1dU1ZdTM0UXZfOVFabkFrdUUzWjl2MXdfeGJ4a2xZRmRVSnBicXF5SDFlb1E3alBKaTM3SDJ1TGlRVGY4bllZekF6VGpVOWU3RG14Y213Q096TlFMZ01DZFpLUHRHVHphMTFlTHZoN0VscGlZMWR5OGc?oc=5",
-      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-10T01:49:08.265Z",
+  "updated_at": "2026-11-12T23:56:09.609Z",
   "project_id": "IIT-MANDI",
   "counts": {
-    "press": 177,
+    "press": 171,
     "gov": 0,
-    "en": 104,
-    "hi": 73,
-    "total": 177
+    "en": 101,
+    "hi": 70,
+    "total": 171
   },
   "mentions": [
     {
@@ -14,16 +14,6 @@
       "source": "Jagran",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM1JFYkpkdFQyV2JHbjFfSG5SWnAtUDhMLU5SY3VsaEc4VWVDQkxPa3kzd2pRZ1MzRVAtc0R4X1NaYVNNZmdHTVVlT0R3WWM0NUxTa1RNdGlSdHBEQUhacUpRT1ZYUnQ5a24wOVFkRE5lamt0YlYyZGVtT2dlN0dPRExBWUdJRGxyT1hhOFdOWHoxTnlQem5Ld2drWEt1T0E4Smx0cXBHT0lxUnJDTDVMUzdlUHBaM1hz?oc=5",
-      "date": "2026-11-08T07:47:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT मंडी का अहम शोध: हनीपॉट तकनीक से साइबर गिरोहों को भटकाने में मिलेगी मदद - iit mandi research honey pots thwart organized cybercrime - Head Topics",
-      "source": "Head Topics",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4LXlOazRNUUN6VGl0WTJfd2QtVGhqbXRQTkppUVVQUmFTTldMUVNYdTZjeldmUm9BX0N3czZ0V3R6UmFHVVgzZzNUWDBmOGZ3d3drU0c5QWFWNmJqUjYweFoxTEZJU3lWZ1A2MQ?oc=5",
       "date": "2026-11-08T07:47:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -70,16 +60,6 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "IIT Mandi launches ‘Science on Wheels’ to promote practical science education across schools in Himachal - ET Education",
-      "source": "ET Education",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQelUyNXdOR092MWwtSkxyQWl0XzVRb1NtRWxTbDNUakRKX3ZQdi1YZGx1dnhhclpQYTJtS1JSN0tURmxSUEdXVkUxZFM4bWpTWXVCNFV3Y2hLTk9kOE1RQktTWjBTTjc2bTNYZVh4bVdSNlBZMzNtdXIyWVdpOUItOUdxRVlyT0dsOGhrSUVidHpBb1F2VHZRd2wzOWoyaWNLU0hUYVE3TWdENWZXRWs5aF9zVHAzS0dYS1l6WmZwb2FaWE9aeUNlUjlPdkZBRDRwYWRBWkJNQ2I5VXk3enFCVnFDalJFQTE4RHloUVBQVzY1N0x2cUFPYl8xaWV0LUdkS0tiaGIxSlg4UjUwaWfSAZICQVVfeXFMT3Y0MHJhNURSZnpubmZMd2E3OGhkUEU0LUNtakhaOGF3aVpnejZheEtqV0lqb2JaZmZDdFgtbnNBMnZZY19INEsyWi02RkEzeDFnOVMxMzZrVG9iaFpxNkktYVVOOWtranBVTXdyeDNkcDZTdm4yYU53MmotZU4zU25VU1lEbWFVRXJEbWZHSHlCSDFPWmpQNXAwNGdBREhjVUVDRHB5R3NMdk9vRzJ5V3hvMnpjVGx0WXJRQW9kWWpZVmlVSGlqdlJUUHp2THFlRVRmVldlSHBfeko1UGNBZmVScmhQZzBUMXdrbVktekVLa1U2UWI1UHU1aDVLSHR1X2M2a0lXemVLT0wzSEx5T2ZVdw?oc=5",
-      "date": "2026-10-28T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "IIT Mandi Launches Science on Wheels in Himachal Pradesh - GK Today",
       "source": "GK Today",
       "source_id": "google-news-en",
@@ -90,10 +70,10 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "An IIT Mandi classroom, a theatre stage, and a student learning to believe in himself - India Today",
-      "source": "India Today",
+      "title": "IIT Mandi Launches ‘Science on Wheels’ to Bring Hands-on Science Education to Schools Across Himachal Pradesh - www.pib.gov.in",
+      "source": "www.pib.gov.in",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSnhmd2dBVEJUZGxYSDkwbEdCX200NFRfbm5YQnRFWTM0UkdnWnF0Z1E5WHVKLTFQeExCSEJCcDRRYkkxVUhwOTZnSWUwR2c2T1BsbWlfRTZnOUpmaFptZDRZXzZmSk1fdEJ3ODlESTJwdXlNSkpmNVRrM3VOclExWUU1cE9UMjYzX0tDeHdvUWpMQk9abmk3YkVKYkU0Rll4ODNXWXVDRG4wbEFKU3lYbThLbDFDbnpaNHlVU0Zqa0g4R0pGZjRpbk9wVkwtcGJaMjRPbXZMazR6cVpwclZMQW1nM0hiTmJIcnJrR3hB0gHzAUFVX3lxTE1qRFczMkVfbC1MTXZwdEhWUkszRDVPYXhoV0s2U2RkS1FMNFJLSzV2UVI3VmJKNVM1VnBBU2ZEd0xwMjZ6M0U2VF83cVdCaTQ3VExMZWYzVGFTazJiRVc2cGZ1UWNfcWc1aWQ2cDR6blpwLW1Ha1pVUXJNbzZ6NVZ4eVhwa1laM3BEbHVFUFV6Ulp3S3JncVUzR0ZSY1dzU2FjeVZoZVRuYjgyM2JwSFVlY0JtdXpSOWdybTU0SU5vRlFTRHl4bnI4WkxJeXFxaERiVzJBN0tjOGowS0YzeFNmc2M4b08wWHRxSjhtUUpETnc3OA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VZWh0NzRUYmZqM1dZWnI0TVFWVVpSTFJRc2R5REZUYlgyYV9KMm5wbmxPYnBBbUJOMjFIeV95S2ZmY3hMeGZaWnhQN3ZqSmtxNFV3c0daaElnZjFmQWRqejMtNF8yZFFQ?oc=5",
       "date": "2026-10-26T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -160,16 +140,6 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "IIT मंडी के स्टाफ से करोड़ों की ठगी: 15 लाख स्पांसरशिप देकर बढ़ाई निदेशक से नजदीकी और फिर ऐंठ ली कइयों की कमाई - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcUQzQU9FSTNFQnA3d2Y5ZE1QeGtrRHZVU1FhWHV2eU5rU09ESUlxWmhPRy1scVNrMUpJWkZGSm1GS3ZMcTFtN295VHZjaHpyaWs1UXZBX2M3SWNMWlBGODdpOXNHWEowZVI3eDZ1NHJFWFRsSTllUEQ2b1RpZFpSeFNldV9kdlNtNzZCa0JOR1Vnd1doR3VCV0N3LTBVTWhMbll6VS04N1R1Tm1VT1c5d1NJXzhwYUFPbnF6OXVmU1U?oc=5",
-      "date": "2026-09-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
       "title": "IIT Mandi Study Finds Uranium in Groundwater of Hamirpur and Mandi - The News Himachal",
       "source": "The News Himachal",
       "source_id": "google-news-en",
@@ -208,6 +178,36 @@
       "kind": "press",
       "lang": "en",
       "match": "IIT Mandi research"
+    },
+    {
+      "title": "Poster targeting Dalits doesn’t attract SC/ST Law: IIT Mandi panel - The Indian Express",
+      "source": "The Indian Express",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVi0wY2JlR18tYlFsalItb1JYVVJfT0xhOWRaTlY0TGpGZ3JTQzUtbTV1dTJUYjRJY25XX21KQ09qYUVWV1ZaekQ3ZmQ0dHNwZDBaUmk3UEUzWGNEbXFsVmZNZER3VFFLLUZTTGN4ejhuMThtejQwRUIzQ2xmLTNyOGVldmp1RDRoYUpzQkk5enpxQzFGX2hzSHg2elRaLXltd0N3R2FzLUFFUVFVTkZZMGZzd21KMXhzc29iVkNWQmpmMFN5WklzdnFCdzhiQThIa3hfRTEzUERTbHpzOUMxR9IB5wFBVV95cUxOY0R4NHdNYlNlQVNqTFgwUnV2RlNuUmp0cDVmc3ZvNVVrRTZBTE4wbGVuQVY2a3V6VFdQOFBzdS15YTFiV1lXemo1ZU5YTFhpcmJVbFZ6QVd4bzk0eVBTeVBJdWhRWm5NTUNSYTlwYnRSNXVlLUUtNWRWalpWWXNhSFpmQnFabFRvdkJzS1NDTXBDZ1lrZ0M3U1Zra1pLbHpYSlpwNy04QmdvTFFWZmdZeDJBSHBOZlEweDNOMUxzWVFtZXA3aUViYzl0MjF6eGhBUkQ3bW15eThndmJPT3dOY2p5ZjBrTVU?oc=5",
+      "date": "2026-09-13T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "Does a Bhagavad Gita Poster Showcasing Caste Hierarchy at IIT Mandi Expose Higher Education’s Caste Problem? - The Leaflet",
+      "source": "The Leaflet",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVJfYUZXMWNCZThVY1J3XzR6bHBwM19WdE5xOVlXTUk3WFk3aXlHSWFkRkctUnJtS211QjVuc1FZaXZrb0RwaWFEb0oxX3ZYdWNpaDV5OWtaanJvV29DSkRtRkEyNTJEY0daTEw4NWx0UTJ1ZHR1VGxOcFVGZUhWUnVoWEFfZkhzZGVTLWM3SmU5RVM1ZFhQZndISGxRYWZhLU12blZCSld0S3Zzd21Cd01YQmtXcHhvVlh6eWpXUVRqamV3SE5BTzVjV3FONGtRLTZr?oc=5",
+      "date": "2026-09-11T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "राष्ट्रीय रैंकिंग में बढ़ा IIT मंडी का दर्जा, टेक्निकल यूनिवर्सिटी में 7वां स्थान - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVNxODR3VFNiT1R5c3h5dEdoSndONDVfNTlGWlc5eEFCOUNwQlVVSk03UkFDQ3Y0XzNUQ0x2RlZKSDRtekItb18wbTFpTmx3SWRpbnNLWHVhOEExNE56cWpWYjl6Sl9aTGhobm5hWDd0Q3FSVkgzeHJ6dG80LUtmd1UxNU11OTh5MUhORHdMbFpFcUN1Zml5N29UYjJTMXROQnFYbmJqTUJ6d0pmWFhnRG4tYVkwYnNpNDh4cjFfSkY2WlNaQzhSSnNXWTNEUdIB0wFBVV95cUxOVEQ2LUNZQTRjXzg4S0RyUlhpU1NFbDhxRnlKRG8xUmk3X0FvVWVkc3liZGVUaDdoSzdmc00yUE1TcUE5VHdfeFR0Y1lNVXo2eHNZaEduSnp5b2ZoOWV4QWJrWVVSQlJRdzg3QzNmbkJyYzBhMXNtMGl6MExsV0dDZm5NX0puaktsNFliWVNoVXJDQmJ5SVFGUTZLTXZ1OTNoSC1iZnE0VHJQMGgzUWlwVGtNamlGcGdwQkQ5TDQ2bXFLT1VFRHhUd1oyMWR5V1dHcXFV?oc=5",
+      "date": "2026-09-09T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "IIT Mandi"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

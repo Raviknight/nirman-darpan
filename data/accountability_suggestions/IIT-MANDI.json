@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-10T01:50:01.720Z",
+  "updated_at": "2026-11-12T23:57:01.962Z",
   "project_id": "IIT-MANDI",
-  "count": 1,
+  "count": 2,
   "suggestions": [
     {
       "category": "litigation",
@@ -15,6 +15,20 @@
       "source_name": "Education Times",
       "lang": "en",
       "date": "2026-11-03T05:56:00.000Z",
+      "matched_term": "sho"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-11-12T23:57:01.962Z",
+      "title": "Does a Bhagavad Gita Poster Showcasing Caste Hierarchy at IIT Mandi Expose Higher Education’s Caste Problem? - The Leaflet",
+      "summary": "Auto-detected from press: \"Does a Bhagavad Gita Poster Showcasing Caste Hierarchy at IIT Mandi Expose Higher Education’s Caste Problem? - The Leaflet\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVJfYUZXMWNCZThVY1J3XzR6bHBwM19WdE5xOVlXTUk3WFk3aXlHSWFkRkctUnJtS211QjVuc1FZaXZrb0RwaWFEb0oxX3ZYdWNpaDV5OWtaanJvV29DSkRtRkEyNTJEY0daTEw4NWx0UTJ1ZHR1VGxOcFVGZUhWUnVoWEFfZkhzZGVTLWM3SmU5RVM1ZFhQZndISGxRYWZhLU12blZCSld0S3Zzd21Cd01YQmtXcHhvVlh6eWpXUVRqamV3SE5BTzVjV3FONGtRLTZr?oc=5",
+      "source_name": "The Leaflet",
+      "lang": "en",
+      "date": "2026-09-11T07:00:00.000Z",
       "matched_term": "sho"
     }
   ],

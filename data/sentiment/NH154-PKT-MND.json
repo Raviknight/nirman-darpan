@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T01:51:18.153Z",
+  "updated_at": "2026-11-12T23:57:43.760Z",
   "project_id": "NH154-PKT-MND",
   "press": {
     "n": 18,
     "positive": 4,
     "neutral": 6,
     "concern": 8,
-    "avg_score": -0.083,
-    "avg_magnitude": 0.272
+    "avg_score": -0.094,
+    "avg_magnitude": 0.283
   },
   "youtube": {
     "n": 8,
@@ -22,8 +22,8 @@
     "positive": 8,
     "neutral": 9,
     "concern": 9,
-    "avg_score": 0,
-    "avg_magnitude": 0.296
+    "avg_score": -0.008,
+    "avg_magnitude": 0.304
   },
   "top_positive": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "source": "press",
-      "title": "Flyover construction leads to traffic jams on Pathankot-Mandi highway at Jassur - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHB4dVgwZVpPVTlzZzAta3NMX05JTVhEYTVhMGRlUDdUSGRXcG1xTWZCaDRITzFHSGljVjF5bVdXeWwzb3dYTzJRdWd0ZUJsVmliTUs5aEhiZ3ZOeXhHRWJRa25MelVDU1Zpcnl0QngwYmVrX2dkRGk0TjFCY0M3NWl1SFNSbGRJclV1WURELUFTYS1LdW56bnJTWm5QTmRJNUFkMmtDcVdISG4yY1hHSWktUk1OREpSZG1vR2xCU1XSAcQBQVVfeXFMT2lIdFJSOE1WbThBcUFFVkk2dWNjdGwyckNqLXJLdU1fQUZCc3BfSDdHemNBWkVOZS1OVnlPV1hqMXFCUEN6TlFadVdpWEtFQmRtZE0tVlBrQzg5anVuYjhIdFcyM2ljVm9nTHJwdHp5cGhTblg0aUptekdfTEFzcHhSX1JpTEpqMHJOTjNlRkc4THFsMVVxOXBJQVAwNjBPdVBOSjF0dFBIR1dTdllaeFMydlBscUhTUHoxMi1aVC1rUTFPTQ?oc=5",
-      "score": -0.5
+      "title": "Traffic jams at Malan on Pathankot-Mandi highway inconvenience commuters - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjhoczdjQUJIYk9rY0hKRmNWQTlvT2NrZGFIcmppZVJEcUR3VmIyVTlOSDdVSzNOX2ZaZ2w5UGlXMWtVdlQyWklpcmFhQkJVRDNlWVpIcDBJTEVESW14dlgzQVdJYlNGY29LMHNfU2ZNQVFIVnNqNWx6M0tRR1ZfYnZicGJCQUVMQ0toTlQ1LThBeHFHNzk3Mnl6VFA4bUsyd1V0VWRvci04S0g4TkUyadIBtAFBVV95cUxNNXFwQ3I2RGFqeDhvRTdIRXZ2Rkh0dzY0RExtUVEyT0FnWmFvUGJtSnk5d1VVTWhSR2xPMVlLOG1QRzY4TlZfa25TMG1mZ0g1WU9fZ2NMYXViUTN4YXJWOURJNndxWU5VclZzTjQyWWhFRnBjazl0THZCSlNjOHVENUZmNTJ0QXZ1dHBYVFJPR3g2YndyNjZ6c3JqWnFkaXlFNy1QYUR6SWtiaDdsSTRYaHBYRk4?oc=5",
+      "score": -0.6
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

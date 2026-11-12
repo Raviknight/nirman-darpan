@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-11-10T01:49:51.438Z",
+  "updated_at": "2026-11-12T23:56:52.405Z",
   "project_id": "GMC-HAMIRPUR",
   "counts": {
-    "press": 88,
+    "press": 91,
     "gov": 0,
-    "en": 43,
-    "hi": 45,
-    "total": 88
+    "en": 42,
+    "hi": 49,
+    "total": 91
   },
   "mentions": [
+    {
+      "title": "हमीरपुर: मेडिकल कॉलेज जोलसप्पड़ के लिए शुरू हुईं दो इलेक्ट्रिक बसें, विद्यार्थियों और मरीजों को मिलेगी राहत - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM3FvZzRIUmRHSjVCRmMzNEhKTGZ4UFpXOEJzc2RMbnk5NnBUZ0ZtVU9nZFZQOUp2T1ZhUUN1TFpjTGNaX3pMbjRDUmxHUjVCdjdZNnVFeUg0REN5dUo5amVPbGk4RUN1cmJNTEFSVTZ3ZmhkN3g0UmN5amc5aFVTeEFzeUxBSUN6MlR6V2xhZnUzOXVPWDgzYzZPYURDS3JIRW9KSXFCclkxaFBqTUk2NnIzYjl0Z0JqVUxYemFBQktNRXhKVHA1bWZMVEJvUFRjTkNrczB3QTFBRUVR0gHiAUFVX3lxTE1jMV81YU9NUDBxR3MxQWxDV0paV2FPNldjT1RwMExib0pmaTdFZERLamhPcm1fbDFiYUM5UDNvMnBiVHpGVzVZc19sMExIVFpMWm5EU0YwakxobEhQWnFNTE5SaUd0N1ZpeWlqeWdWb1N2MG1HVDlZOUl5QUpTaHBLYld5WEtjQjlERWYteXRtdlhQbkFhMHhER3N2cDFlTHUxTlR3UVc0ZjRYSHRSRnhZM3pXODZJRFlPMHE3ZVgzM3Y1Q0ltMjRHcDdQcGdtODdZdFduelBIMTk0UFVGcXQ2VUE?oc=5",
+      "date": "2026-11-12T09:19:44.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
     {
       "title": "Hamirpur (Himachal) News: मेडिकल कॉलेज हमीरपुर में अव्यवस्थाओं ने बढ़ाया मरीजों का मर्ज, बाहर से खरीदनी पड़ रहीं कई दवाइयां - Amar Ujala",
       "source": "Amar Ujala",
@@ -80,20 +90,20 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "मेडिकल कॉलेज में दवाओं का टोटा, छह महीने से सिरिंज तक नहीं, मरीजों की जेब पर मार! - ETV Bharat",
-      "source": "ETV Bharat",
+      "title": "6 महीने से सिरिंज नहीं, पैरासिटामोल और कैल्शियम की दवाएं भी खत्म; हमीरपुर मेडिकल कॉलेज में मरीज परेशान - Jagran",
+      "source": "Jagran",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRDhWUmRkM1c1OFhyR3dRS3FQREtxY1pWX3ExeEJueVg5RG1Db256bjNoQTJ3ZVJOQXVVdi1NR0RfMWo5UGxJUEZHZFJMemdyclRxUXd2SkRaOUlvM0U4N3dNeHNWdGM3MGw4Qkd5TnZCbXR0bjVGNXRvX1lVQTVqWGd5blY3bnhqS1FDM0FBWWNJTFRtcEVhWlgzUXllMjJIN2JEVmRidkR2OFJtY204NG5pbnBsZFByRjFKQ3BRRnFobkJobl9kc0p3dDRnU0J2bVHSAdcBQVVfeXFMTWx3TmZrMUlPYjZfdUFGTGtLR2NKV1JXck1QZFE5TjE5RjhNVURsZ1pkdEVxa0ZSaFp4V3BLR2xtT01nOGJJU2hqZUNlcV9oX01zaFVHLVhsQy1uZE1hT0puRmtiM3Y5Sk82a1VEU0ZOMXhxT04tUVFfRG5IenVXWlRwLW5YLU1zQVV3aXNhSTNwd2lYcUQ1eEtpTjExWnpTM2pGS0RkWHYteXVNVmF3ZE1qRHlicjlqSEVRRm5YNG83R3Z0SHpGaDdEVTNUU3drZHJEcE80U1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWdPeU1ZVFVaTDdtRDNzWjNDRkZuZWVjTURnSGllc3NrTU1YaldaVWlXY0ZQcTAtTkNUMjk5MVFJcUxiOW9RQjhyLTJ1N1RQUkVyRGFiTlpIeW5yYlptLUxGSWZIX0F2a0hDcnpRdzdiS29tU0JXaHVjTGpwbk13R1NXTkJlQVNJSUJhRFZBZ3hLWld0WGltS0pqWmJ6dmdZd0NhMWlfV1hFdDVBTGw3SndCb1RLVWRUakwxYXcwN0lzYzJk?oc=5",
       "date": "2026-10-25T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Hamirpur medical college"
     },
     {
-      "title": "6 महीने से सिरिंज नहीं, पैरासिटामोल और कैल्शियम की दवाएं भी खत्म; हमीरपुर मेडिकल कॉलेज में मरीज परेशान - Jagran",
-      "source": "Jagran",
+      "title": "मेडिकल कॉलेज में दवाओं का टोटा, छह महीने से सिरिंज तक नहीं, मरीजों की जेब पर मार! - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWdPeU1ZVFVaTDdtRDNzWjNDRkZuZWVjTURnSGllc3NrTU1YaldaVWlXY0ZQcTAtTkNUMjk5MVFJcUxiOW9RQjhyLTJ1N1RQUkVyRGFiTlpIeW5yYlptLUxGSWZIX0F2a0hDcnpRdzdiS29tU0JXaHVjTGpwbk13R1NXTkJlQVNJSUJhRFZBZ3hLWld0WGltS0pqWmJ6dmdZd0NhMWlfV1hFdDVBTGw3SndCb1RLVWRUakwxYXcwN0lzYzJk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRDhWUmRkM1c1OFhyR3dRS3FQREtxY1pWX3ExeEJueVg5RG1Db256bjNoQTJ3ZVJOQXVVdi1NR0RfMWo5UGxJUEZHZFJMemdyclRxUXd2SkRaOUlvM0U4N3dNeHNWdGM3MGw4Qkd5TnZCbXR0bjVGNXRvX1lVQTVqWGd5blY3bnhqS1FDM0FBWWNJTFRtcEVhWlgzUXllMjJIN2JEVmRidkR2OFJtY204NG5pbnBsZFByRjFKQ3BRRnFobkJobl9kc0p3dDRnU0J2bVHSAdcBQVVfeXFMTWx3TmZrMUlPYjZfdUFGTGtLR2NKV1JXck1QZFE5TjE5RjhNVURsZ1pkdEVxa0ZSaFp4V3BLR2xtT01nOGJJU2hqZUNlcV9oX01zaFVHLVhsQy1uZE1hT0puRmtiM3Y5Sk82a1VEU0ZOMXhxT04tUVFfRG5IenVXWlRwLW5YLU1zQVV3aXNhSTNwd2lYcUQ1eEtpTjExWnpTM2pGS0RkWHYteXVNVmF3ZE1qRHlicjlqSEVRRm5YNG83R3Z0SHpGaDdEVTNUU3drZHJEcE80U1E?oc=5",
       "date": "2026-10-25T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -110,20 +120,20 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "हमीरपुर मेडिकल कॉलेज रैगिंग मामला: सीआर पद से बर्खास्त, नौ प्रशिक्षु दो सप्ताह के लिए निलंबित - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "हमीरपुर मेडिकल कॉलेज में रैगिंग पर MBBS के 9 छात्र सस्पेंड, तीन पर 50-50 हजार, छह अन्य पर 25-25 हजार रुपये ... - News18 Hindi",
+      "source": "News18 Hindi",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPM0JtTlRKSVlaT2dhWWRUSnpibjJmZzQxX3Rfb01DWGgyRDB4RVZQcWsxQ1cyaHkxVXhZLVRBYmhIcE9iVGxVS1pOc0VtdUkza3BORjYtc3RvZFVfOFRNWG5PZ0o1Q293Zmx0R3JLSWlIanJsTUJkbVBEWFZmdFJyWEk0Tm55cUtFdXZFM2pVMTB4Uk1rZ3hLREJFaFJlNElMVHpaUkZhN2Y1ZDg0bzVKTjBISmNSQUZCblF1YkhKckJrY18zWHozdHJWcVNuNE0zdG5IblZxU2dqd1hLbFBFbVlFVlltN09WNm5F0gHwAUFVX3lxTE9aN1REdHJtYlowLTFfSEQ1OXY4dlpJcTVSVy1hb3lHZ0NEUUpaVnNwcjVlU0U2YVZ6U0thd3dTWjlmWG9kMXhCV285amNuc3c5dHFFdkRWeUdZaFVnU3hpenNpb09lanNwS0pTVkhfQmhEQmFSUWNJWlR6QzgzRTBVYmFUV01BanBqUE03QmdzaFY2UFAwNmdQNUxsazYtUkpEZmJacEpyd2pYSm56bFJZZVVTcXFRMUYzcFRuM2JPd2VjdVlXQ2EwSV9pbUlPS0RESFZ6TmozdTA2djdGcVpVd0xObVlvd3BSTW1LZVcxSA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGFkTWJUOEFfSFh5M19qR3V5U2ROWTI3MEtpRTlYTDZXdDlCR0llMXhNX0JpZHFtZkZmTE1KTjQxOXMwckJDQWcwU05LLTBoVlN4My1WMmpKNWx4QnhJM0FsaVF0N0lBbW1rR3BmXzFOZHFROEVzNmtIbVdDNmNxU3lEUmdEeTRfQ05LZFV4SFpqQmxrOUg2bmFLbldNbUJVUk5SLTBKd1BIQzVlVHBqWm53WnY1Y25EOEcxMmtlLXA3RmFmc2JXX3ZhcUFYS1HSAdQBQVVfeXFMUDZXWHhLNW1rck05Zng1dXBiZHdRbm9vcUZ1Q2JCdFBBMzNITlNHZ3BxMUk1dDV0Qk9CTVJCVGJsbGhwYjNCSEVfVUhCczNEVVg3NkZXd3BPNmo0dFNWTGcxSTU1cVMyQkxEaXhDV1M1d1NNMlZSVGhpVHlzSEZSdm9IQndpWkEweEpqWUpCNFQzclh6UFFqc3FpSUpCQWhILXdZUFlHVDZJeC1Fd3VxQXNOSWMxeWR0OUFJOVNFVHA1TG53Y1h4eG5YdlotVmk2RGVwSGE?oc=5",
       "date": "2026-10-16T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Hamirpur medical college"
     },
     {
-      "title": "हमीरपुर मेडिकल कॉलेज में रैगिंग पर MBBS के 9 छात्र सस्पेंड, तीन पर 50-50 हजार, छह अन्य पर 25-25 हजार रुपये ... - News18 Hindi",
-      "source": "News18 Hindi",
+      "title": "हमीरपुर मेडिकल कॉलेज रैगिंग मामला: सीआर पद से बर्खास्त, नौ प्रशिक्षु दो सप्ताह के लिए निलंबित - Amar Ujala",
+      "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGFkTWJUOEFfSFh5M19qR3V5U2ROWTI3MEtpRTlYTDZXdDlCR0llMXhNX0JpZHFtZkZmTE1KTjQxOXMwckJDQWcwU05LLTBoVlN4My1WMmpKNWx4QnhJM0FsaVF0N0lBbW1rR3BmXzFOZHFROEVzNmtIbVdDNmNxU3lEUmdEeTRfQ05LZFV4SFpqQmxrOUg2bmFLbldNbUJVUk5SLTBKd1BIQzVlVHBqWm53WnY1Y25EOEcxMmtlLXA3RmFmc2JXX3ZhcUFYS1HSAdQBQVVfeXFMUDZXWHhLNW1rck05Zng1dXBiZHdRbm9vcUZ1Q2JCdFBBMzNITlNHZ3BxMUk1dDV0Qk9CTVJCVGJsbGhwYjNCSEVfVUhCczNEVVg3NkZXd3BPNmo0dFNWTGcxSTU1cVMyQkxEaXhDV1M1d1NNMlZSVGhpVHlzSEZSdm9IQndpWkEweEpqWUpCNFQzclh6UFFqc3FpSUpCQWhILXdZUFlHVDZJeC1Fd3VxQXNOSWMxeWR0OUFJOVNFVHA1TG53Y1h4eG5YdlotVmk2RGVwSGE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPM0JtTlRKSVlaT2dhWWRUSnpibjJmZzQxX3Rfb01DWGgyRDB4RVZQcWsxQ1cyaHkxVXhZLVRBYmhIcE9iVGxVS1pOc0VtdUkza3BORjYtc3RvZFVfOFRNWG5PZ0o1Q293Zmx0R3JLSWlIanJsTUJkbVBEWFZmdFJyWEk0Tm55cUtFdXZFM2pVMTB4Uk1rZ3hLREJFaFJlNElMVHpaUkZhN2Y1ZDg0bzVKTjBISmNSQUZCblF1YkhKckJrY18zWHozdHJWcVNuNE0zdG5IblZxU2dqd1hLbFBFbVlFVlltN09WNm5F0gHwAUFVX3lxTE9aN1REdHJtYlowLTFfSEQ1OXY4dlpJcTVSVy1hb3lHZ0NEUUpaVnNwcjVlU0U2YVZ6U0thd3dTWjlmWG9kMXhCV285amNuc3c5dHFFdkRWeUdZaFVnU3hpenNpb09lanNwS0pTVkhfQmhEQmFSUWNJWlR6QzgzRTBVYmFUV01BanBqUE03QmdzaFY2UFAwNmdQNUxsazYtUkpEZmJacEpyd2pYSm56bFJZZVVTcXFRMUYzcFRuM2JPd2VjdVlXQ2EwSV9pbUlPS0RESFZ6TmozdTA2djdGcVpVd0xObVlvd3BSTW1LZVcxSA?oc=5",
       "date": "2026-10-16T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -170,16 +180,6 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "हिमाचल के मेडिकल कॉलेज में रैगिंग, MBBS छात्र ने की शिकायत, जांच के घेरे में कई सीनियर - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTDFOUFBnVDZaVVdIVXVGdUVPV0hJQ3RWRkFZR0VNb09VM1VNVG1wX0lvVGo0d21RZXFlbjlPVElROGlRbWVfZ0kyQmVZai1SbDZ0eEYyVW84c1R1TUJsX1B5UWhGcTJUVGF3YjdsSFZrNHJYTkc1T3hRSzZWRDJPUVgxaXFIRXJVZndVM25XcmtTN1plR3dWdnFUYi15M1d3S0FoUEdQcWlNQmdJWTBER1NkbVFxaktsMVdZUFljSFNLcHF0dUtCYVBCVXR5R0dERC1iSEx3SzNfTGJ6R2hwR2lfZHBXSlF4YjJ6TGFCdjBERUnSAfgBQVVfeXFMTTRPOGpCa05LRVJlbXFOTTY0WkdWQmktRmpqRkxzUkhBckllR3VhOTBfbWNLSTViMGw4dlMwVE4xMHhuTW9od1hvdUlzWXFNVjVlQVVkUk1RZXpHc3V1cDRGdnphTnp1TUNsY2s0NjRYTnljNGdkMFdUTlRVSFEzU0RfOGtId0xJd2prWXhrN3pmdDBkcGtZblR2b2o0QnNjcWFrX1lNSVpiZXhzNV9LTmRTQ2RUOUZaVnBjMWtMelEwMDRfWDBSUi1Wbjh4M1FuOFBabTl4Uk9YT3ZTR2RyOHpJOENZNWxxT0VPMHE4X3lHY3RxTFdiNDI?oc=5",
-      "date": "2026-10-13T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
       "title": "हमीरपुर मेडिकल कॉलेज में रैगिंग की शिकायत पर हड़कंप, एंटी-रैगिंग कमेटी कर रही जांच - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -190,20 +190,20 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "हिमाचल प्रदेश बड़ी खबरें: चार दिन बरसेंगे बादल; हमीरपुर मेडिकल कॉलेज में रैगिंग, छात्र की ढांक से गिरकर माैत - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "हिमाचल के मेडिकल कॉलेज में रैगिंग, MBBS छात्र ने की शिकायत, जांच के घेरे में कई सीनियर - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZEtPdVRZNWhoV2RpQnBYUG4wQTFla3E1LVkwZ3VnVDBjd1UxOVVRRXhXeVU2RGN0bTV0RUwxMUdPM05xcm81VEN1eE9GUUw2ZTRHZlJTLWE2ZDUzT2tiUDZ1ZklIbTFSSVp1bi1zaTRDN3pRYVV3eTBHX0NLTF9HT1g1M09HaGpMenF2dk9rbGxyYmpTcndPOWo4WERLTk9CczhDaFp6VzZNR09xSjdTMm1GaF9PdlpaYlFfa2FSNzZmdC1JSnpxRGswYjVtQVdTQV9mcUMyaFJrOFXSAeABQVVfeXFMTXpiemNaWDZLUGs0VWhhendzdnhyR293aXRiekM2ZG9LRWp0bWp6X1VHSXdvU2FBTjN1anNSUWdqcW40cnF4bGlVSVdrbnY3ZG5wMGtFWGtTTlVqYWZUamk3SGU3MlVLYUk0dTZ6bFBhdTZpdTJoMGp2ak1fdkcxRW4xOXF4bVBHa3RjSmZCMV9jN29RNkpHckMtVXFMcUZKZzJzUGQxRnZuQlc3elBQX0FMZTNCaVZER2hGNWtSZjVvazJrYkJfNnhkeE1SR2lyZHJTdzlsNXVQbEM3UzZ0eXg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTDFOUFBnVDZaVVdIVXVGdUVPV0hJQ3RWRkFZR0VNb09VM1VNVG1wX0lvVGo0d21RZXFlbjlPVElROGlRbWVfZ0kyQmVZai1SbDZ0eEYyVW84c1R1TUJsX1B5UWhGcTJUVGF3YjdsSFZrNHJYTkc1T3hRSzZWRDJPUVgxaXFIRXJVZndVM25XcmtTN1plR3dWdnFUYi15M1d3S0FoUEdQcWlNQmdJWTBER1NkbVFxaktsMVdZUFljSFNLcHF0dUtCYVBCVXR5R0dERC1iSEx3SzNfTGJ6R2hwR2lfZHBXSlF4YjJ6TGFCdjBERUnSAfgBQVVfeXFMTTRPOGpCa05LRVJlbXFOTTY0WkdWQmktRmpqRkxzUkhBckllR3VhOTBfbWNLSTViMGw4dlMwVE4xMHhuTW9od1hvdUlzWXFNVjVlQVVkUk1RZXpHc3V1cDRGdnphTnp1TUNsY2s0NjRYTnljNGdkMFdUTlRVSFEzU0RfOGtId0xJd2prWXhrN3pmdDBkcGtZblR2b2o0QnNjcWFrX1lNSVpiZXhzNV9LTmRTQ2RUOUZaVnBjMWtMelEwMDRfWDBSUi1Wbjh4M1FuOFBabTl4Uk9YT3ZTR2RyOHpJOENZNWxxT0VPMHE4X3lHY3RxTFdiNDI?oc=5",
       "date": "2026-10-13T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Hamirpur medical college"
     },
     {
-      "title": "हमीरपुर मेडिकल कॉलेज रैगिंग केस, 7 सीनियर छात्र जांच के घेरे में - Khabargaon",
-      "source": "Khabargaon",
+      "title": "हिमाचल प्रदेश बड़ी खबरें: चार दिन बरसेंगे बादल; हमीरपुर मेडिकल कॉलेज में रैगिंग, छात्र की ढांक से गिरकर माैत - Amar Ujala",
+      "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJOV0RnYk9tdG41RlhURmRCLTlCRjNqTU1GMlZ3OWViaUlJNXE4NWUtb0Z0bHIwZzhXdW13RTVtRkliU09pUUdMZGVaUlFOcDEwUEpNYzlRajh0RXhjb3JVckdfQldIclVDNVFwQkZKVTFTWjROT2hWZjlOOFBNa2o0SlRQVkpJN0JHT1FGblc1WmF2QVZvRjNWOWxCdTRoYW1vedIBsAFBVV95cUxOSk9MTTBubHZkU0pjTVRFcjdCMFVuNGxGVHpmVkVfNDhqdEtzSjlIdzRaYWhHQUl5UzdYaW8xQkIzRzB0SjBBOXhUcmFKd2xmYUd6T0doMk1aRGdpcll6TEJVUVVQb1doQW1BLU9IUjdiQ1h4UE16S0MyeVZyakZfY0c4Vm53WE5ma29CbWd6YnZuZ3V0TzJCWmJOR0JsWHBXVmhGNXctQWZHZ053bW9sOQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZEtPdVRZNWhoV2RpQnBYUG4wQTFla3E1LVkwZ3VnVDBjd1UxOVVRRXhXeVU2RGN0bTV0RUwxMUdPM05xcm81VEN1eE9GUUw2ZTRHZlJTLWE2ZDUzT2tiUDZ1ZklIbTFSSVp1bi1zaTRDN3pRYVV3eTBHX0NLTF9HT1g1M09HaGpMenF2dk9rbGxyYmpTcndPOWo4WERLTk9CczhDaFp6VzZNR09xSjdTMm1GaF9PdlpaYlFfa2FSNzZmdC1JSnpxRGswYjVtQVdTQV9mcUMyaFJrOFXSAeABQVVfeXFMTXpiemNaWDZLUGs0VWhhendzdnhyR293aXRiekM2ZG9LRWp0bWp6X1VHSXdvU2FBTjN1anNSUWdqcW40cnF4bGlVSVdrbnY3ZG5wMGtFWGtTTlVqYWZUamk3SGU3MlVLYUk0dTZ6bFBhdTZpdTJoMGp2ak1fdkcxRW4xOXF4bVBHa3RjSmZCMV9jN29RNkpHckMtVXFMcUZKZzJzUGQxRnZuQlc3elBQX0FMZTNCaVZER2hGNWtSZjVvazJrYkJfNnhkeE1SR2lyZHJTdzlsNXVQbEM3UzZ0eXg?oc=5",
       "date": "2026-10-13T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",

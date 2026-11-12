@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T01:51:32.168Z",
+  "updated_at": "2026-11-12T23:57:48.213Z",
   "project_id": "GMC-NAHAN",
   "press": {
-    "n": 4,
+    "n": 5,
     "positive": 2,
-    "neutral": 2,
+    "neutral": 3,
     "concern": 0,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.325
+    "avg_score": 0.14,
+    "avg_magnitude": 0.28
   },
   "youtube": {
     "n": 20,
@@ -18,14 +18,19 @@
     "avg_magnitude": 0.495
   },
   "overall": {
-    "n": 24,
+    "n": 25,
     "positive": 12,
-    "neutral": 9,
+    "neutral": 10,
     "concern": 3,
-    "avg_score": 0.308,
-    "avg_magnitude": 0.467
+    "avg_score": 0.292,
+    "avg_magnitude": 0.452
   },
   "top_positive": [
+    {
+      "source": "youtube",
+      "title": "Nice hostel lucky broo",
+      "score": 0.9
+    },
     {
       "source": "youtube",
       "title": "nice talent keep it up bro",
@@ -33,12 +38,7 @@
     },
     {
       "source": "youtube",
-      "title": "Good 👍🏻 Keep it up...",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "Nice video bhaiya😊",
+      "title": "Very nice bro ❤",
       "score": 0.9
     }
   ],

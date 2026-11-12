@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10T01:50:24.835Z",
+  "updated_at": "2026-11-12T23:57:26.269Z",
   "project_id": "SOLAN-BUS",
   "query": "\"Solan Old Bus Stand Redevelopment\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 7
+    "comments": 6
   },
   "videos": [
     {
@@ -37,11 +37,11 @@
           "published_at": "2024-02-21T09:04:43Z"
         },
         {
-          "comment_id": "UgyG1365aplkvlCeABt4AaABAg",
-          "author": "@RKVLOGS844",
-          "text": "Bhot sunder vlog",
+          "comment_id": "UgwhA098bkKNMdzzVWh4AaABAg",
+          "author": "@abouthimalayanlife1659",
+          "text": "Super, bade bhai ji❤❤❤❤❤🙏🙏🙏🙏🙏",
           "like_count": 1,
-          "published_at": "2024-03-16T02:55:49Z"
+          "published_at": "2024-02-26T18:30:17Z"
         },
         {
           "comment_id": "UgxPXErLre2_LYKX4NJ4AaABAg",
@@ -51,11 +51,11 @@
           "published_at": "2024-03-02T12:21:49Z"
         },
         {
-          "comment_id": "UgwhA098bkKNMdzzVWh4AaABAg",
-          "author": "@abouthimalayanlife1659",
-          "text": "Super, bade bhai ji❤❤❤❤❤🙏🙏🙏🙏🙏",
+          "comment_id": "UgyG1365aplkvlCeABt4AaABAg",
+          "author": "@RKVLOGS844",
+          "text": "Bhot sunder vlog",
           "like_count": 1,
-          "published_at": "2024-02-26T18:30:17Z"
+          "published_at": "2024-03-16T02:55:49Z"
         }
       ]
     },
@@ -69,21 +69,13 @@
       "comments": []
     },
     {
-      "videoId": "8TGwawzZJIk",
-      "title": "pranya bus 🚌  bus stand Solan 🚌 #bus #himachal #business",
-      "channel": "pankaj kumar",
-      "published_at": "2025-08-02T08:03:46Z",
+      "videoId": "i1iDdO1bseo",
+      "title": "Old bus stand solan #solan #busstand #hrtc",
+      "channel": "Rohit Kanyal",
+      "published_at": "2024-05-20T04:18:57Z",
       "description": "",
-      "comment_count": 1,
-      "comments": [
-        {
-          "comment_id": "UgwH_jdVJP46ZnQH9rx4AaABAg",
-          "author": "@ghost_gaming-b8f",
-          "text": "❤",
-          "like_count": 0,
-          "published_at": "2025-08-06T01:39:35Z"
-        }
-      ]
+      "comment_count": 0,
+      "comments": []
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

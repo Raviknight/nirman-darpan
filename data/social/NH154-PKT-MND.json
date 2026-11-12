@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-10T01:49:25.716Z",
+  "updated_at": "2026-11-12T23:56:26.817Z",
   "project_id": "NH154-PKT-MND",
   "counts": {
-    "press": 62,
+    "press": 63,
     "gov": 0,
-    "en": 50,
-    "hi": 12,
-    "total": 62
+    "en": 52,
+    "hi": 11,
+    "total": 63
   },
   "mentions": [
     {
@@ -27,6 +27,16 @@
       "date": "2026-08-25T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
+      "title": "1.17L saplings planted to offset loss of trees for Pathankot-Mandi four-lane highway project - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFFrN3p2blRLNEswd1FESXU5N2s3N3ZoZ09SeThra3AwT2FpTWJzcHhxWmZTeGFmemo3SXJ5QzNPZHB5NjhrdnBiekpPcGNoUjA4Wk5iNi1mUy0zZi04ZTVxak56QUI5QVU1OXU0YnBmMXA5eDRkY0ltRWJlSGZZTnBHNWV2MDFxUEZLcHF3S0dScUkxSU5qSDNnMFNfUEVkVV9ZY2FEQXRQalUtRUlRQllfb05wbUZnX0FVQjRWY1d1b0h0NmxoTjJqUWZhMkhXZlHSAdYBQVVfeXFMTkcxR1RSVlpkcWkwT01RRjN4Q291Rm5ibkljeXVjX3FOZEpvVDNod2Fid2lCVnh5NHBfSHVpY3A5UWdQUFZoaVB1MlA1UXpvYzlCZDBfLThqVmlTLXgtTGJweGZrYkszaFotRzM5SnNUTnRzZGJ0QWRHb0RYUF9zc1FQcDRydThwdmtvMnRKWmEyUXBmcEJaT1ctelgwWUFJd0VITFpBamxlbnFBQktieGhyLWFZRW9leGNIRHJGa2NDaHJILVdmVGpTM216dlJjc1doVExXdw?oc=5",
+      "date": "2026-08-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Pathankot Mandi four lane"
     },
     {
@@ -110,6 +120,16 @@
       "match": "Pathankot Mandi four lane"
     },
     {
+      "title": "Traffic jams at Malan on Pathankot-Mandi highway inconvenience commuters - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjhoczdjQUJIYk9rY0hKRmNWQTlvT2NrZGFIcmppZVJEcUR3VmIyVTlOSDdVSzNOX2ZaZ2w5UGlXMWtVdlQyWklpcmFhQkJVRDNlWVpIcDBJTEVESW14dlgzQVdJYlNGY29LMHNfU2ZNQVFIVnNqNWx6M0tRR1ZfYnZicGJCQUVMQ0toTlQ1LThBeHFHNzk3Mnl6VFA4bUsyd1V0VWRvci04S0g4TkUyadIBtAFBVV95cUxNNXFwQ3I2RGFqeDhvRTdIRXZ2Rkh0dzY0RExtUVEyT0FnWmFvUGJtSnk5d1VVTWhSR2xPMVlLOG1QRzY4TlZfa25TMG1mZ0g1WU9fZ2NMYXViUTN4YXJWOURJNndxWU5VclZzTjQyWWhFRnBjazl0THZCSlNjOHVENUZmNTJ0QXZ1dHBYVFJPR3g2YndyNjZ6c3JqWnFkaXlFNy1QYUR6SWtiaDdsSTRYaHBYRk4?oc=5",
+      "date": "2026-02-24T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
       "title": "One lane open for traffic on Pathankot-Mandi highway at Jassur leads to long jams - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -187,26 +207,6 @@
       "date": "2025-09-25T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "Pathankot-Mandi four-lane work turns daily commute into ordeal for residents - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkxTeFZDcmhBeUZhQ2lsYXZTQ3ZoQ3FpUjVBZ0diVGZsOXplWVBtZkFlb0F5OHBoRWNHeDlZbHBxeVNmcnhocE1SVFZBTWFFd3BJamdZZG56UkUwU19xdUFjd0cxRnBWNEdqclMzbzVUZkdFT0Q2c0ZTVlR0UEdCSmpRbnBSOFZjenczYTc5QkotaUQ3MDhDVEFDc2VLOTNzMFhSUHNoUmNJek9kUFEycDVJQmc1cmstMzJyb9IBwAFBVV95cUxOdjZMdzktenpVa3lsX0xPXzdub3MzM2NzYlBKQlU2YWFGRWd4UXFzWDF1Z01mQlJtQmNLM0oySHhzdDlxVDZTNnlUcXZMTkd5S2hKMkIzRHZOa0J4VWY0OG1aMWNkWWZSU3ZXRmRhY3dHWkVQbEI3UER1LVRVekQtb3pSX3E0ZG44bzFLSHJmalVCbXRqM19vazBPbEg5UkRCVkxTMUlxNXIzT3JhX2taNlpvcnBqdEdLVkhKRExvbWc?oc=5",
-      "date": "2025-08-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "Crackdown spurs revival of stalled Pathankot–Mandi four-lane project - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2xmQTZQcXZVN05aV3ZHN2dCRGItMXk2UlM2NXFUMjIxMHE5a1hrYjRFRlBxcE41Q2VabEhvRlBwdF9LaWdjNEQtMGVJNXhPaE1Yd18zS3pKQ1hDQkRZOHMwZkVueFhBTE95N2xjWEtYYmZqSlR4ZzZtSE1DanBaYWVYQXdXclJTUERMdDJEMm94QzBZbE9NSF9Md3NwdWZaRGpZTDJQZnNLODFHV2lNY2JB0gG2AUFVX3lxTE1sS3ZQRzFtSGFHVG55d0oxMUM1TUcwQUt1REs2cmpNb2pwUjZrSnkyY3phUGZfS3ZEeG13RnhXMkx2b1UwMmFUQ1F5N2xHUHRDUmttX3IwODZlYjRERlpxRDZ6d0dZVDhfQmZwWTRVb0IwbDNSb05jN0tqQmJPeVdPN2t5ejBfaVQtOEVraW9yT2J5TjRheU1XbHVoWlBtWW4yLWRBQWQxX1hjOWtvQjhLYmpKYUFn?oc=5",
-      "date": "2025-08-19T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Pathankot Mandi four lane"
     }
   ],

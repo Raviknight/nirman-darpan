@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T01:51:03.348Z",
+  "updated_at": "2026-11-12T23:57:39.265Z",
   "project_id": "IIT-MANDI",
   "press": {
-    "n": 1,
-    "positive": 1,
+    "n": 3,
+    "positive": 2,
     "neutral": 0,
-    "concern": 0,
-    "avg_score": 0.4,
-    "avg_magnitude": 0.4
+    "concern": 1,
+    "avg_score": 0.067,
+    "avg_magnitude": 0.533
   },
   "youtube": {
     "n": 0,
@@ -18,27 +18,51 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 1,
-    "positive": 1,
+    "n": 3,
+    "positive": 2,
     "neutral": 0,
-    "concern": 0,
-    "avg_score": 0.4,
-    "avg_magnitude": 0.4
+    "concern": 1,
+    "avg_score": 0.067,
+    "avg_magnitude": 0.533
   },
   "top_positive": [
+    {
+      "source": "press",
+      "title": "राष्ट्रीय रैंकिंग में बढ़ा IIT मंडी का दर्जा, टेक्निकल यूनिवर्सिटी में 7वां स्थान - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVNxODR3VFNiT1R5c3h5dEdoSndONDVfNTlGWlc5eEFCOUNwQlVVSk03UkFDQ3Y0XzNUQ0x2RlZKSDRtekItb18wbTFpTmx3SWRpbnNLWHVhOEExNE56cWpWYjl6Sl9aTGhobm5hWDd0Q3FSVkgzeHJ6dG80LUtmd1UxNU11OTh5MUhORHdMbFpFcUN1Zml5N29UYjJTMXROQnFYbmJqTUJ6d0pmWFhnRG4tYVkwYnNpNDh4cjFfSkY2WlNaQzhSSnNXWTNEUdIB0wFBVV95cUxOVEQ2LUNZQTRjXzg4S0RyUlhpU1NFbDhxRnlKRG8xUmk3X0FvVWVkc3liZGVUaDdoSzdmc00yUE1TcUE5VHdfeFR0Y1lNVXo2eHNZaEduSnp5b2ZoOWV4QWJrWVVSQlJRdzg3QzNmbkJyYzBhMXNtMGl6MExsV0dDZm5NX0puaktsNFliWVNoVXJDQmJ5SVFGUTZLTXZ1OTNoSC1iZnE0VHJQMGgzUWlwVGtNamlGcGdwQkQ5TDQ2bXFLT1VFRHhUd1oyMWR5V1dHcXFV?oc=5",
+      "score": 0.5
+    },
     {
       "source": "press",
       "title": "IIT मंडी के स्टाफ सहित कई लोगों से 10 करोड़ की ठगी, 10 प्रतिशत रिटर्न का झांसा देकर पैसा ऐंठ नेपाल भागा शातिर - Jagran",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNk1idUhuUEZQZ2p5R1J1ZF9vQ3VfWGs4d2lLbXE5cERNWXcwZlpHUGQyTmV4aTN3d1NTd0JXWE5mSFB3RWdGLVI3QUZfeVozM1ViLVpFNzEyV09uRXJYbHZySGRCUkZvLVVubkJDYjNoRTM4ekRTU0xhdG1nOE15RmZXVGsyWGRNbF9EZHpIN0pteXRCRzlzVmNvNlk3QmdIVWhObmVmOFpCQjl0NVJra2htWnFBMGIzdV9LNzZZWQ?oc=5",
       "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "Poster targeting Dalits doesn’t attract SC/ST Law: IIT Mandi panel - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVi0wY2JlR18tYlFsalItb1JYVVJfT0xhOWRaTlY0TGpGZ3JTQzUtbTV1dTJUYjRJY25XX21KQ09qYUVWV1ZaekQ3ZmQ0dHNwZDBaUmk3UEUzWGNEbXFsVmZNZER3VFFLLUZTTGN4ejhuMThtejQwRUIzQ2xmLTNyOGVldmp1RDRoYUpzQkk5enpxQzFGX2hzSHg2elRaLXltd0N3R2FzLUFFUVFVTkZZMGZzd21KMXhzc29iVkNWQmpmMFN5WklzdnFCdzhiQThIa3hfRTEzUERTbHpzOUMxR9IB5wFBVV95cUxOY0R4NHdNYlNlQVNqTFgwUnV2RlNuUmp0cDVmc3ZvNVVrRTZBTE4wbGVuQVY2a3V6VFdQOFBzdS15YTFiV1lXemo1ZU5YTFhpcmJVbFZ6QVd4bzk0eVBTeVBJdWhRWm5NTUNSYTlwYnRSNXVlLUUtNWRWalpWWXNhSFpmQnFabFRvdkJzS1NDTXBDZ1lrZ0M3U1Zra1pLbHpYSlpwNy04QmdvTFFWZmdZeDJBSHBOZlEweDNOMUxzWVFtZXA3aUViYzl0MjF6eGhBUkQ3bW15eThndmJPT3dOY2p5ZjBrTVU?oc=5",
+      "score": -0.7
     }
   ],
   "top_concern": [
     {
       "source": "press",
+      "title": "Poster targeting Dalits doesn’t attract SC/ST Law: IIT Mandi panel - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVi0wY2JlR18tYlFsalItb1JYVVJfT0xhOWRaTlY0TGpGZ3JTQzUtbTV1dTJUYjRJY25XX21KQ09qYUVWV1ZaekQ3ZmQ0dHNwZDBaUmk3UEUzWGNEbXFsVmZNZER3VFFLLUZTTGN4ejhuMThtejQwRUIzQ2xmLTNyOGVldmp1RDRoYUpzQkk5enpxQzFGX2hzSHg2elRaLXltd0N3R2FzLUFFUVFVTkZZMGZzd21KMXhzc29iVkNWQmpmMFN5WklzdnFCdzhiQThIa3hfRTEzUERTbHpzOUMxR9IB5wFBVV95cUxOY0R4NHdNYlNlQVNqTFgwUnV2RlNuUmp0cDVmc3ZvNVVrRTZBTE4wbGVuQVY2a3V6VFdQOFBzdS15YTFiV1lXemo1ZU5YTFhpcmJVbFZ6QVd4bzk0eVBTeVBJdWhRWm5NTUNSYTlwYnRSNXVlLUUtNWRWalpWWXNhSFpmQnFabFRvdkJzS1NDTXBDZ1lrZ0M3U1Zra1pLbHpYSlpwNy04QmdvTFFWZmdZeDJBSHBOZlEweDNOMUxzWVFtZXA3aUViYzl0MjF6eGhBUkQ3bW15eThndmJPT3dOY2p5ZjBrTVU?oc=5",
+      "score": -0.7
+    },
+    {
+      "source": "press",
       "title": "IIT मंडी के स्टाफ सहित कई लोगों से 10 करोड़ की ठगी, 10 प्रतिशत रिटर्न का झांसा देकर पैसा ऐंठ नेपाल भागा शातिर - Jagran",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNk1idUhuUEZQZ2p5R1J1ZF9vQ3VfWGs4d2lLbXE5cERNWXcwZlpHUGQyTmV4aTN3d1NTd0JXWE5mSFB3RWdGLVI3QUZfeVozM1ViLVpFNzEyV09uRXJYbHZySGRCUkZvLVVubkJDYjNoRTM4ekRTU0xhdG1nOE15RmZXVGsyWGRNbF9EZHpIN0pteXRCRzlzVmNvNlk3QmdIVWhObmVmOFpCQjl0NVJra2htWnFBMGIzdV9LNzZZWQ?oc=5",
       "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "राष्ट्रीय रैंकिंग में बढ़ा IIT मंडी का दर्जा, टेक्निकल यूनिवर्सिटी में 7वां स्थान - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVNxODR3VFNiT1R5c3h5dEdoSndONDVfNTlGWlc5eEFCOUNwQlVVSk03UkFDQ3Y0XzNUQ0x2RlZKSDRtekItb18wbTFpTmx3SWRpbnNLWHVhOEExNE56cWpWYjl6Sl9aTGhobm5hWDd0Q3FSVkgzeHJ6dG80LUtmd1UxNU11OTh5MUhORHdMbFpFcUN1Zml5N29UYjJTMXROQnFYbmJqTUJ6d0pmWFhnRG4tYVkwYnNpNDh4cjFfSkY2WlNaQzhSSnNXWTNEUdIB0wFBVV95cUxOVEQ2LUNZQTRjXzg4S0RyUlhpU1NFbDhxRnlKRG8xUmk3X0FvVWVkc3liZGVUaDdoSzdmc00yUE1TcUE5VHdfeFR0Y1lNVXo2eHNZaEduSnp5b2ZoOWV4QWJrWVVSQlJRdzg3QzNmbkJyYzBhMXNtMGl6MExsV0dDZm5NX0puaktsNFliWVNoVXJDQmJ5SVFGUTZLTXZ1OTNoSC1iZnE0VHJQMGgzUWlwVGtNamlGcGdwQkQ5TDQ2bXFLT1VFRHhUd1oyMWR5V1dHcXFV?oc=5",
+      "score": 0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

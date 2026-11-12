@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-10T01:50:01.730Z",
+  "updated_at": "2026-11-12T23:57:01.967Z",
   "project_id": "NH105-PNJ-NLG",
-  "count": 3,
+  "count": 5,
   "suggestions": [
     {
       "category": "litigation",
@@ -18,6 +18,20 @@
       "matched_term": "high court"
     },
     {
+      "category": "grievance",
+      "severity": "low",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-09-07T21:52:27.661Z",
+      "title": "Haryana MP Kartikeya Sharma discusses road-related issues of Panchkula with Union Minister Nitin Gadkari - ANI News",
+      "summary": "Auto-detected from press: \"Haryana MP Kartikeya Sharma discusses road-related issues of Panchkula with Union Minister Nitin Gadkari - ANI News\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTF9RQldYUmVnTnowLXVNSGhHOXlndmZnUnBqOG83d0tOeGZkQWRvVGZrV0lvLTdxSGlrQ2dPdS1uWm1TVTNaVGJKRnVPa0xFS0FObDA3U3F6Mk01SDlZYlN4dzJjblF5TmNXZ3RSRHVHR2pfaUh0SWVNd1RkSElteEJmQ1liekd4YVRQNWlWQzQxSnJWeVE1cUN5cjZleHpiUVpYcFhicHlNT1hFSzh2RG1OdGZ2UE5CaFR0S2RIYlpsdjJ1QzB1bS0yaWFLV1JxVXd2cUtZeERmMzdKTF9DVzVWaEFVRmJtNkNvQ09ZUmhVSGJqdkxlYTNYZ2E?oc=5",
+      "source_name": "ANI News",
+      "lang": "en",
+      "date": "2025-11-07T08:00:00.000Z",
+      "matched_term": "rti"
+    },
+    {
       "category": "litigation",
       "severity": "medium",
       "kind": "issue",
@@ -30,6 +44,20 @@
       "lang": "en",
       "date": "2025-08-29T07:00:00.000Z",
       "matched_term": "arrested"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-07-09T20:43:51.935Z",
+      "title": "Bridge delay triggers accidents, traffic jams on Kiratpur highway - The Times of India",
+      "summary": "Auto-detected from press: \"Bridge delay triggers accidents, traffic jams on Kiratpur highway - The Times of India\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZlJpbHcwaEhDOVdrSjBVUko5VmFmWXhjMEVDcHRvR3FESVpFek40Ni00TjdxaS1Qa2RDc2ZzOUNXMl9jU2E5Y05LRWJ1bG51aHFBU1ozdXQ3RUQxSDd5aVNVWkRqSTE5RDc4cElZZk05cWVXSlBVYVF6MWJRZWZ0VUlfb1BUT0dPYnBqVm1iQV9BZ1g2U1JvM1dpUkZaUDkybHF0VllDR0p2YUVtalA3Q2JFSnBnc1I3ZXNkY1RiclpVa0dLcXNVcFdMdDZkcXNCeWlEenZSalY3Z9IB3wFBVV95cUxQX3VRVHBCeEVrajMxbzJWS2VoSlNhSURsdUF3emtmcFYtMHl2RFRsR0xYdEJLWnVua2IySlR5VTY2NUxEX3BzNXd1cFR6dkhXR01BVnEwZmN2NGU5LUZxY3J0VGt4ekJKYTNsZ3dBdlpQUDFicDRCVGs3OUk1T1hrdndfZmJxU3NMU2Q0YjVsOFBjLVJVWGt3dndLeE15N2JOS1BtQkhXajJoZ3VyVU1Hd2d4cWJnR1lKbHBoTWNBeVdXbEpvT2d6bVV2Rk1xa1lpQV8tQU10RHBWQUJaRVJz?oc=5",
+      "source_name": "The Times of India",
+      "lang": "en",
+      "date": "2025-07-04T07:00:00.000Z",
+      "matched_term": "accident"
     },
     {
       "category": "incident",
