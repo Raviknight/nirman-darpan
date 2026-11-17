@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T23:57:39.265Z",
+  "updated_at": "2026-11-17T02:15:12.460Z",
   "project_id": "IIT-MANDI",
   "press": {
-    "n": 3,
-    "positive": 2,
-    "neutral": 0,
-    "concern": 1,
-    "avg_score": 0.067,
-    "avg_magnitude": 0.533
+    "n": 5,
+    "positive": 0,
+    "neutral": 2,
+    "concern": 3,
+    "avg_score": -0.3,
+    "avg_magnitude": 0.3
   },
   "youtube": {
     "n": 0,
@@ -18,31 +18,31 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 3,
-    "positive": 2,
-    "neutral": 0,
-    "concern": 1,
-    "avg_score": 0.067,
-    "avg_magnitude": 0.533
+    "n": 5,
+    "positive": 0,
+    "neutral": 2,
+    "concern": 3,
+    "avg_score": -0.3,
+    "avg_magnitude": 0.3
   },
   "top_positive": [
     {
       "source": "press",
-      "title": "राष्ट्रीय रैंकिंग में बढ़ा IIT मंडी का दर्जा, टेक्निकल यूनिवर्सिटी में 7वां स्थान - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVNxODR3VFNiT1R5c3h5dEdoSndONDVfNTlGWlc5eEFCOUNwQlVVSk03UkFDQ3Y0XzNUQ0x2RlZKSDRtekItb18wbTFpTmx3SWRpbnNLWHVhOEExNE56cWpWYjl6Sl9aTGhobm5hWDd0Q3FSVkgzeHJ6dG80LUtmd1UxNU11OTh5MUhORHdMbFpFcUN1Zml5N29UYjJTMXROQnFYbmJqTUJ6d0pmWFhnRG4tYVkwYnNpNDh4cjFfSkY2WlNaQzhSSnNXWTNEUdIB0wFBVV95cUxOVEQ2LUNZQTRjXzg4S0RyUlhpU1NFbDhxRnlKRG8xUmk3X0FvVWVkc3liZGVUaDdoSzdmc00yUE1TcUE5VHdfeFR0Y1lNVXo2eHNZaEduSnp5b2ZoOWV4QWJrWVVSQlJRdzg3QzNmbkJyYzBhMXNtMGl6MExsV0dDZm5NX0puaktsNFliWVNoVXJDQmJ5SVFGUTZLTXZ1OTNoSC1iZnE0VHJQMGgzUWlwVGtNamlGcGdwQkQ5TDQ2bXFLT1VFRHhUd1oyMWR5V1dHcXFV?oc=5",
-      "score": 0.5
+      "title": "The unsorted life of a bioengineering student at IIT Mandi: My IIT, My Story - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaTlRbUdHM0ZQVFJJWlFIc0FRWXFGRElGbHhwUEdQTEd2YmFNdVgtZDBoZm9uVi1JOWwyWnpvLXZtekJNbXRha0VtVW9mQ3ItVFlzMGxzOE1iSkcwV2VvNlBOeXI2bUNVcWNzX25fbXY0YTRSQkJWRGxqbmJBMHZ1ajlnaW9pRUpKUzVZU25WQmxIQ3RORkdqSmx4bVhGeEItNGFMczhSR2ZnYjZqQktuZXFCWG1wd3hsSXA0SFhNS3VpSzMxS1dudTgwYWx0b3plWjZCZExfQS1ONkw4TkdoZ29tUWLSAeoBQVVfeXFMUEpjNlFWakRoX2YwSndtNVBySTc4VUFBdDNSOHowbWhiMHZzbEZQSGtHZlNyemtKNjQ2dUNpaFlSRGxOT1VFajh0ZVdvLVRXUlVkaTZzMFQzX0ZScUlleW1idnhJaC1GcnR2US1rXzloV0VCcmU0cVJQZHN1YnBrODdSVk5HY2lVeUVPRGNNWlFBQUpYWTZNcU1HdHFBc3BGOFNDR1JWa0hJTWZGMFJQSXNRRHRUVEN0TUFGcTFCTXloTXFJU3hxWlRKMlJ1SHI3VkJVbDBRYUFuLWE0c2tCNHN0N1FGNms1dTd3?oc=5",
+      "score": 0
     },
     {
       "source": "press",
-      "title": "IIT मंडी के स्टाफ सहित कई लोगों से 10 करोड़ की ठगी, 10 प्रतिशत रिटर्न का झांसा देकर पैसा ऐंठ नेपाल भागा शातिर - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNk1idUhuUEZQZ2p5R1J1ZF9vQ3VfWGs4d2lLbXE5cERNWXcwZlpHUGQyTmV4aTN3d1NTd0JXWE5mSFB3RWdGLVI3QUZfeVozM1ViLVpFNzEyV09uRXJYbHZySGRCUkZvLVVubkJDYjNoRTM4ekRTU0xhdG1nOE15RmZXVGsyWGRNbF9EZHpIN0pteXRCRzlzVmNvNlk3QmdIVWhObmVmOFpCQjl0NVJra2htWnFBMGIzdV9LNzZZWQ?oc=5",
-      "score": 0.4
+      "title": "Education ministry opens applications for IIT Mandi director's post - Careers360",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSmdYTVZhWlM5aUpjcjRWYkNVc3RiRTlMVEJTQ0dtTVBreEVDWE5tVlN6ZWxFeXRJWHZmUVMwbzlkV1hOb2RhQ1V4MFVPM1RoT0JWQlNTQmVDdGtxVVJzUFNvZUdPQXcwNGR3d3VMZjhKcmc5S3k3N3c4SXJUcUFrMTlwcXB6MFlKUjRGM1BLUlB1Uko0eFhHbVBVQzZTVlo1MndLNXFGTmJvb3IwdUZwM216YTUyU0NlS1R5R0gxVWpsdXBNZnRmdzlld0ZObG45X0JrbXBpcVRDWUpVaWsxYW9fUklUaE1wcmM5aNIB8gFBVV95cUxPWjhBdUtiVS10SmZzcFhQUHlZRHRtTTdTYjhickFfSmpWNUg0bnh2S3JSUFZOTUJSRUlxMGFMOU44OHVDR2NCZHdvZE00dFowVjdfSHRONGRYV2pzejROcG1GcGRzS0RSVVdyN2tib1c4N1lHRWxxMTJMTmUxNjFqdEc0S1dPSmFvN085aDhnRWRnV1BhT0syRzhodE8zcERrOEk4aXFZX0Fpc0xuOFN3dWcyYW9CNjdQV2ZrMHVLVjR0UTZPRDRpS3BzTkgwV2lXTllFVFJFZU11WVo1UVplVDQ5VWdwU1hIaDFVNmFROEZCQQ?oc=5",
+      "score": 0
     },
     {
       "source": "press",
-      "title": "Poster targeting Dalits doesn’t attract SC/ST Law: IIT Mandi panel - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVi0wY2JlR18tYlFsalItb1JYVVJfT0xhOWRaTlY0TGpGZ3JTQzUtbTV1dTJUYjRJY25XX21KQ09qYUVWV1ZaekQ3ZmQ0dHNwZDBaUmk3UEUzWGNEbXFsVmZNZER3VFFLLUZTTGN4ejhuMThtejQwRUIzQ2xmLTNyOGVldmp1RDRoYUpzQkk5enpxQzFGX2hzSHg2elRaLXltd0N3R2FzLUFFUVFVTkZZMGZzd21KMXhzc29iVkNWQmpmMFN5WklzdnFCdzhiQThIa3hfRTEzUERTbHpzOUMxR9IB5wFBVV95cUxOY0R4NHdNYlNlQVNqTFgwUnV2RlNuUmp0cDVmc3ZvNVVrRTZBTE4wbGVuQVY2a3V6VFdQOFBzdS15YTFiV1lXemo1ZU5YTFhpcmJVbFZ6QVd4bzk0eVBTeVBJdWhRWm5NTUNSYTlwYnRSNXVlLUUtNWRWalpWWXNhSFpmQnFabFRvdkJzS1NDTXBDZ1lrZ0M3U1Zra1pLbHpYSlpwNy04QmdvTFFWZmdZeDJBSHBOZlEweDNOMUxzWVFtZXA3aUViYzl0MjF6eGhBUkQ3bW15eThndmJPT3dOY2p5ZjBrTVU?oc=5",
-      "score": -0.7
+      "title": "Casteist poster row: IIT Mandi to hand over probe to police - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTU5vcTlvNHB1LWxqenVLYXV0cGNGMGU0dGJPNXZnbFZpZDJNeXZlTXRIM3JjZ01HZzdIdkRNZnh0cUZxWjNFQldmaTdsUC02NzdlRmlpZG9URUtLQmVJTEc3UlFYS2xMdTdkaGVPZ2hXUFM5YlNQVjRLY3BGQmFqSEtTX2gzcW9RQ0J4Y3BONW02cUJMbU5LdExrM3JtN3JUMEJkbTllZERlZVF50gGzAUFVX3lxTE42RVpaNUFwMzJQampZOVkwSVZFNTVKMEVQNTZqc1dyNlJMRUt6ZW9VblpiVlJiVE1oekstcmpwNkdkYnUweUlhem5ERmxlVWJrdkdYc0tnY2xsV05yWW02QmtUVTNYbTV2Z18teDF3ZDFiTmliaGFwd3dIaWxDZmlNVUpzc3B2QzF1VXE3ODZIMFd2Q2tOQTU5Y2ZKTGYyZlFYR1lzOS1WcDhMUDNYdUNSd1Iw?oc=5",
+      "score": -0.2
     }
   ],
   "top_concern": [
@@ -54,15 +54,15 @@
     },
     {
       "source": "press",
-      "title": "IIT मंडी के स्टाफ सहित कई लोगों से 10 करोड़ की ठगी, 10 प्रतिशत रिटर्न का झांसा देकर पैसा ऐंठ नेपाल भागा शातिर - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNk1idUhuUEZQZ2p5R1J1ZF9vQ3VfWGs4d2lLbXE5cERNWXcwZlpHUGQyTmV4aTN3d1NTd0JXWE5mSFB3RWdGLVI3QUZfeVozM1ViLVpFNzEyV09uRXJYbHZySGRCUkZvLVVubkJDYjNoRTM4ekRTU0xhdG1nOE15RmZXVGsyWGRNbF9EZHpIN0pteXRCRzlzVmNvNlk3QmdIVWhObmVmOFpCQjl0NVJra2htWnFBMGIzdV9LNzZZWQ?oc=5",
-      "score": 0.4
+      "title": "IIT Mandi orders inquiry after poster depicting Shudras as “servants” of higher classes sparks casteism row - Maktoob",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZDJ1aDRoN0hHRGkzMmtFeUNLR2VnYXJ1MEdwU2g3U0x5LWttbHZnWTNEdHpqdWJjR1hUN2NkaTR0Qk9tZ2tiVjllZW4tUExVcmMyMV90OGdxcFV6bjBxOXM4VERUT3FweEZUZTNRLS0xVVNGSGZGVWprNGhXQzRNUGlpQW4tS0NwM0ppeUpPNHd1X1M5cE5MMjdxQUM2Vy1GRklQbWJpb29wM1lpMHFOTGZ4ZnVjdVo3a2UxWVNLUF9fWHBwLUJZRDBPdDJUQUhOY0FPcFFQekFnSm5oRnAxXzJrTFU?oc=5",
+      "score": -0.6
     },
     {
       "source": "press",
-      "title": "राष्ट्रीय रैंकिंग में बढ़ा IIT मंडी का दर्जा, टेक्निकल यूनिवर्सिटी में 7वां स्थान - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVNxODR3VFNiT1R5c3h5dEdoSndONDVfNTlGWlc5eEFCOUNwQlVVSk03UkFDQ3Y0XzNUQ0x2RlZKSDRtekItb18wbTFpTmx3SWRpbnNLWHVhOEExNE56cWpWYjl6Sl9aTGhobm5hWDd0Q3FSVkgzeHJ6dG80LUtmd1UxNU11OTh5MUhORHdMbFpFcUN1Zml5N29UYjJTMXROQnFYbmJqTUJ6d0pmWFhnRG4tYVkwYnNpNDh4cjFfSkY2WlNaQzhSSnNXWTNEUdIB0wFBVV95cUxOVEQ2LUNZQTRjXzg4S0RyUlhpU1NFbDhxRnlKRG8xUmk3X0FvVWVkc3liZGVUaDdoSzdmc00yUE1TcUE5VHdfeFR0Y1lNVXo2eHNZaEduSnp5b2ZoOWV4QWJrWVVSQlJRdzg3QzNmbkJyYzBhMXNtMGl6MExsV0dDZm5NX0puaktsNFliWVNoVXJDQmJ5SVFGUTZLTXZ1OTNoSC1iZnE0VHJQMGgzUWlwVGtNamlGcGdwQkQ5TDQ2bXFLT1VFRHhUd1oyMWR5V1dHcXFV?oc=5",
-      "score": 0.5
+      "title": "Casteist poster row: IIT Mandi to hand over probe to police - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTU5vcTlvNHB1LWxqenVLYXV0cGNGMGU0dGJPNXZnbFZpZDJNeXZlTXRIM3JjZ01HZzdIdkRNZnh0cUZxWjNFQldmaTdsUC02NzdlRmlpZG9URUtLQmVJTEc3UlFYS2xMdTdkaGVPZ2hXUFM5YlNQVjRLY3BGQmFqSEtTX2gzcW9RQ0J4Y3BONW02cUJMbU5LdExrM3JtN3JUMEJkbTllZERlZVF50gGzAUFVX3lxTE42RVpaNUFwMzJQampZOVkwSVZFNTVKMEVQNTZqc1dyNlJMRUt6ZW9VblpiVlJiVE1oekstcmpwNkdkYnUweUlhem5ERmxlVWJrdkdYc0tnY2xsV05yWW02QmtUVTNYbTV2Z18teDF3ZDFiTmliaGFwd3dIaWxDZmlNVUpzc3B2QzF1VXE3ODZIMFd2Q2tOQTU5Y2ZKTGYyZlFYR1lzOS1WcDhMUDNYdUNSd1Iw?oc=5",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-12T23:57:21.717Z",
+  "updated_at": "2026-11-17T02:14:29.372Z",
   "project_id": "SHONGTONG-HEP",
   "query": "\"Shongtong Karcham Hydroelectric Project\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 3
+    "comments": 5
   },
   "videos": [
     {
@@ -49,13 +49,28 @@
       ]
     },
     {
-      "videoId": "Q2KfTl94ApI",
-      "title": "Shongtong Karcham Hydroelectric Project Explained | Powering Himachal Pradesh",
-      "channel": "The Law Consortium(TLC)",
-      "published_at": "2025-07-04T17:00:38Z",
-      "description": "Shongtong Karcham Hydroelectric Project Explained | Powering Himachal Pradesh . The Shongtong Karcham Hydroelectric ...",
-      "comment_count": 0,
-      "comments": []
+      "videoId": "-YCs067cyMU",
+      "title": "Shongtong Karcham Hydroelectric Project | A GeoEngineering Marvel | Geological Survey of India",
+      "channel": "Geological Survey of India Central Headquaters",
+      "published_at": "2021-06-04T04:30:13Z",
+      "description": "Shongtong Karcham Hydroelectric Project, a run of the river scheme, envisages the construction of a barrage across the Satluj ...",
+      "comment_count": 2,
+      "comments": [
+        {
+          "comment_id": "Ugw3oZwqApElRHGaSLF4AaABAg",
+          "author": "@CosmosEarth-Academy",
+          "text": "Excited for video 😍",
+          "like_count": 0,
+          "published_at": "2021-06-04T04:02:26Z"
+        },
+        {
+          "comment_id": "UgykZU3N4M7nmbv2RkJ4AaABAg",
+          "author": "@Peace9303",
+          "text": "👍",
+          "like_count": 0,
+          "published_at": "2021-06-04T05:00:55Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

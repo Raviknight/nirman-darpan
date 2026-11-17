@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T23:57:36.632Z",
+  "updated_at": "2026-11-17T02:15:04.723Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 0,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 17,
-    "positive": 16,
+    "n": 18,
+    "positive": 17,
     "neutral": 0,
     "concern": 1,
-    "avg_score": 0.629,
-    "avg_magnitude": 0.735
+    "avg_score": 0.617,
+    "avg_magnitude": 0.717
   },
   "overall": {
-    "n": 17,
-    "positive": 16,
+    "n": 18,
+    "positive": 17,
     "neutral": 0,
     "concern": 1,
-    "avg_score": 0.629,
-    "avg_magnitude": 0.735
+    "avg_score": 0.617,
+    "avg_magnitude": 0.717
   },
   "top_positive": [
     {
@@ -50,13 +50,13 @@
     },
     {
       "source": "youtube",
-      "title": "SONG BAHUT ACHHA LAGA KYOKI YE SONG FREE FIRE VIDEOS ME BAHUT CHALTA THA COVID KE TIME PE \nAND CAMPUS BHI ACHHA HAI",
+      "title": "❤❤❤",
       "score": 0.2
     },
     {
       "source": "youtube",
-      "title": "This college is huge",
-      "score": 0.3
+      "title": "SONG BAHUT ACHHA LAGA KYOKI YE SONG FREE FIRE VIDEOS ME BAHUT CHALTA THA COVID KE TIME PE \nAND CAMPUS BHI ACHHA HAI",
+      "score": 0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

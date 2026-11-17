@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T23:57:39.266Z",
+  "updated_at": "2026-11-17T02:15:12.461Z",
   "project_id": "JJM-HP",
   "press": {
     "n": 1,
@@ -10,50 +10,30 @@
     "avg_magnitude": 0.1
   },
   "youtube": {
-    "n": 3,
-    "positive": 1,
-    "neutral": 1,
-    "concern": 1,
-    "avg_score": 0.167,
-    "avg_magnitude": 0.633
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 4,
-    "positive": 1,
-    "neutral": 2,
-    "concern": 1,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.5
+    "n": 1,
+    "positive": 0,
+    "neutral": 1,
+    "concern": 0,
+    "avg_score": 0.1,
+    "avg_magnitude": 0.1
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Excellent achievement",
-      "score": 0.9
-    },
     {
       "source": "press",
       "title": "Union Minister for Jal Shakti approves 465 crore as Performance Incentive fund for 7 States under Jal Jeevan Mission - Sarkaritel.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHF5bHB2U0E1Zi05WDVTclpGSlFBcmpISTRIRnVWTmEwTU1IX3ZFMjlvekZxVlQ2V3lIRFhxVGt4QnRDZjc4S3hTaFJ1Z1JJRVRsSTVzS1lLYnlud2xha21BaFRWT3VDRHNhaDRJR2w4RUxFdVFWRF90a2FLWGN5cVpFaGxpZEhGRk9kWllhaTV4SnVhOHZBdUVGd1Juc3JnR0hMcnQ2V3Q3QjBQVC1TN3gtbnFVLXF6c3FoeDg4SmJTTTViamEydXlUSUFkOUNsVDdxMWVLdTBEd05B?oc=5",
       "score": 0.1
-    },
-    {
-      "source": "youtube",
-      "title": "The work under this scheme has just begun in our village.. 😍",
-      "score": 0
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Why congress didnt do this.",
-      "score": -0.4
-    },
-    {
-      "source": "youtube",
-      "title": "The work under this scheme has just begun in our village.. 😍",
-      "score": 0
-    },
     {
       "source": "press",
       "title": "Union Minister for Jal Shakti approves 465 crore as Performance Incentive fund for 7 States under Jal Jeevan Mission - Sarkaritel.com",

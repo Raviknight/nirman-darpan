@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T23:57:46.580Z",
+  "updated_at": "2026-11-17T02:15:35.395Z",
   "project_id": "PEKHUBELA-SOLAR",
   "press": {
-    "n": 16,
-    "positive": 6,
-    "neutral": 8,
-    "concern": 2,
-    "avg_score": 0.081,
-    "avg_magnitude": 0.244
+    "n": 2,
+    "positive": 1,
+    "neutral": 1,
+    "concern": 0,
+    "avg_score": 0.3,
+    "avg_magnitude": 0.3
   },
   "youtube": {
     "n": 4,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.4
   },
   "overall": {
-    "n": 20,
-    "positive": 10,
-    "neutral": 8,
-    "concern": 2,
-    "avg_score": 0.145,
-    "avg_magnitude": 0.275
+    "n": 6,
+    "positive": 5,
+    "neutral": 1,
+    "concern": 0,
+    "avg_score": 0.367,
+    "avg_magnitude": 0.367
   },
   "top_positive": [
     {
@@ -38,30 +38,27 @@
       "score": 0.6
     },
     {
-      "source": "press",
-      "title": "4790 हेक्टेयर पर लगेंगे 2450 मेगावाट के तीन सोलर पार्क - Patrika News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVhTVURLMUdOaGFEVGFRdHlpa1lVZ2tpYTYtOHhienJOQzB0Q3M0emVzQURUWWlCOWRGb0staklicGRHTTQyNk1QWUlZR3BCUnIza3hBbmthS1lSQXA5YzF2YkY0QWk3dFZmWlFJSTRqOU8yaW9HZ00tbldURnBrQ1dhNFFNZVY3bmRNMGFIXzVSZmJEX3F5R3JxaGtNTzRaQkdVMi1RNmhyd9IBrwFBVV95cUxPeU9tU211MjY1VnlxUjQyUExMNW1aUGpBLTgzejlXenY5M0hXcnFQQlFJSzVMSzRCRG15alZSN1dnaWV3QnRBOFVDNXA1aExsWDNGY0tyMzU0bXQ2MVI1QS10SUFOMXhGU0ZweS1KMjRFT1dXSllWRGcxQmZJSEZyODhkaS1WRHpMNlZPdGhkUEVWc2tEN084TC1yQWlDLUgxcUhnZ1BPVEcyXy1fMXpR?oc=5",
-      "score": 0.5
+      "source": "youtube",
+      "title": "🎉🎉🎉🎉",
+      "score": 0.3
     }
   ],
   "top_concern": [
     {
       "source": "press",
-      "title": "\"Corruption, mismanagement\": Former Himachal Minister Bikram Thakur slams Sukhu govt over Pekhubela solar plant project - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVkZmYUV6cEZsTXhzNURLd1lQbmxKTDlYMHdvMHZfQnhZdmlFMzlsYW1LaTlYalY5ZlJEWVhCbXhWenFPRFB5R0VGVjREN3I0a0NBNElzUzlVeHdnMk0yOHlWNlJHOXJfZjBYaGZid2pFZTUzM3NsZFM1R0o2MkcyQUR3bXdwN2Q1TkJsanhVUWVibTdfd1o2N0ppdGVkY1JiZWtFMTZOUHFqOFRBdXFaenBzbkxoVURvVER0OW95MUg2ZWV4bUxPZUFzeG4xYzRiOVpkWDRNU3QtSkt5VDBlWnhuTEY4TUdxM0d6eHQ0WUFQdXhwTXEyWjNpd2FSMWVsRXVhbTM0RUs3VVE?oc=5",
-      "score": -0.7
-    },
-    {
-      "source": "press",
-      "title": "Pressure from seniors over solar power project drove Himachal chief engineer to suicide: CBI - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRjUySXIxcmlHSXh4Y3FHejVHcVlfUDl6bjM1QlVkSVl5VEotTXFiSGJ4TFZjLVozdkNYaGVjdUZhVGxGTWpsUWN5bnAtdFhrVW1fMkNtTExOaFd6WFdTdVZLUXBnMnROSUFvalV4dmxWM2pBT1RuS1lmdWxJN0UyZFZjcjFfdG1GejBLa1NtV3hJVVNwLXh0LWlPMWFWQjZxZUpLTFFOM21Jb042dDFraHY4U1A3Ump1amVDdnhicnBJUUtVNzQ2U25wdlplVGtsaExyaEF0aDVSdHVia2Myd3puMDctMXRfckdRT0hPMS1GQTBNTXBhZm95NEFvUdIBgwJBVV95cUxOaE4wa1ZqLVkzREhRQTB5ZWx2V090blpLLWNJWVFta21BWDRWSG9Eb19DTDdGTXdWWE9QLWJYWUx0b1Y4LTlSZWszVnd2Uks1OWo1aGE1X0hoaWlZM0xwbUNlbjBfX2ZobE9mbzJid1FMLXVZOUFKdkRJZjg0YVNhN3kxZk55Qjd6VDBxaC12eU5tRTFUX0tHR1doYVpjZ0hNSXA0TmVQUUpQaWUwYjB0Ri1GYS1EanZyRG9wQVdkRHg2XzFEc2R2MmI1dmtwaWlOUmQyaWQyd0JDNUs2WnZXeHE2WVRpYjhELUJCbDhvOEx6ZnhEY2ZWRXFJSnRwNWlpa3hB?oc=5",
-      "score": -0.6
-    },
-    {
-      "source": "press",
-      "title": "32 MW Pekhubela Solar Project Goes Live, Boosts Himachal Pradesh’s Power Generation - The News Himachal",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekx6aVRZd0paY01RVUFRbldldUpLd2VLbFlLalQ4UjJCVk1hOWVrWVpmYTJwTXU4RFhlUkVOVWtPN0tIZlZSQldZR2hPQ3Y2ZU1IVW5XRk9PY3B2WXN4eWZZMTRwWktCYUN4M3V0VzYtTElHVXV4MW5YN2sxVWs1WDZCdFBOMDFmRHppaVVzVElaazJacFJuV05Gd3hfaGtaNlJtWThKajhzRjQ5TktlRXBFSXVHLXl0UGc?oc=5",
+      "title": "Himachal Pradesh Tenders 6 MW Solar, 4.2 MWh Battery Storage Project - Mercomindia.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNEZfNUZCaWNwRF9OY0JXYWtMUXVIZWJWcEdBNUVEWGRjUVM0MHllS1VxZzhCdmhwWEI1MXNRT2oxRVdyLWNQa3RkaFU2V0oyeG9tVDQ0S0NLMTRJbDJWQnNWcmM0MkRwUENOaWxZYWxwSFVmWGI5LXhrVW1fVGNnSk1CVDg2dTBqN3k4TjdpOHRvcjRSdFE?oc=5",
       "score": 0
+    },
+    {
+      "source": "youtube",
+      "title": "🎉🎉",
+      "score": 0.2
+    },
+    {
+      "source": "youtube",
+      "title": "🎉🎉",
+      "score": 0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

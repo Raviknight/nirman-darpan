@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T23:57:42.191Z",
+  "updated_at": "2026-11-17T02:15:22.824Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
-    "n": 6,
-    "positive": 2,
-    "neutral": 4,
+    "n": 3,
+    "positive": 1,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0.117,
-    "avg_magnitude": 0.15
+    "avg_score": 0.1,
+    "avg_magnitude": 0.1
   },
   "youtube": {
     "n": 2,
@@ -18,22 +18,22 @@
     "avg_magnitude": 0.4
   },
   "overall": {
-    "n": 8,
-    "positive": 4,
-    "neutral": 4,
+    "n": 5,
+    "positive": 3,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0.188,
-    "avg_magnitude": 0.212
+    "avg_score": 0.22,
+    "avg_magnitude": 0.22
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "👍🏻👍🏻👌🏻👌🏻",
+      "title": "👍🏻👍🏻👍🏻",
       "score": 0.4
     },
     {
       "source": "youtube",
-      "title": "👍🏻👍🏻👍🏻",
+      "title": "👍🏻👍🏻👌🏻👌🏻",
       "score": 0.4
     },
     {
@@ -46,21 +46,21 @@
   "top_concern": [
     {
       "source": "press",
+      "title": "CM directs initiation of process to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYTBwTXE2clNIbl9KeTNjeVY3TF96NHhhZWF4MlRONGY4dkppbGx2QWVHUTdCZko2TGJoeDdDMGMyRDJwc2hTQXlCRTAzOHlvbWNBRi1HMGNFNHo0SlRwSEhLOUc4aG41cGZtdTc5ZzdSclRralBkT2ZodURzTEZaMFY5ZXNqd0ZETThDUzFuMmstUkp5c3l4NDRSa3BoSmxwRndrLVN4U1Y1X0tncUpnMm01Vnd0NjZtaGw0Y041R2hsclJZVU9kMU1tbUFrZkJVOWfSAdYBQVVfeXFMTktBN3hMMnZJN3pnN3pOS3ZhYU03LV80Tk9Pc0lZVF96RDd6Q1M2T0ZLV3FGRzBaejdvWDJacG5kVG5vV2RXdDloVVJqbEhsNFZXU2hXcDV1eFYwdF84OHRsY0ZJUFVHbFZKa1ZydTQtTDZVeEg0YndLcG1fMlBlRGVHcElhU1RYV2JidmRZSWRYdmoyMDRTSEZ5S2xXUlREUDNUem5qVGpGNEFsQzB1emtxLWo0YXFKT0E1V0c2WlhkS1RSQWlyRXFDbi01d0h6bkhncjdGdw?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
       "title": "Himachal CM Sukhu orders takeover of Sunni, Luhri, and Dhaulasidh hydro projects from SJVNL - ANI News",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTY2Z3FTOWo3dDZLQXBZZ1RhVWVLUDJoNnZRc0xZTGJLUFQxc1FzbnRsUE1PXy16dkxNbVBHRXpYM29jVkEwcGJLUXltWFZEbXhDWWZpUlFhcksyU0VHMVZZU1VVdW1hN3R1R3FjS21PdDdyMzhBTGE4a245X0IxMExHN3pKaVk0aTBRRmxDdWlXcWZtS3FrT3ZzQ3lmVUhDem42WWF1LXVXbGI0T1NDVXVmeUE0UldtSlJGU0psbW5MQXpTdDBGd3k1UndNVVVWdk52NUNEWGVTOXl1Tkt5dTFEWHJyc3JG?oc=5",
       "score": 0
     },
     {
       "source": "press",
-      "title": "SJVN Invites Tender for RCC Blocks at Dhaulasidh Hydro Electric Project - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk96ZHRZaTNvNVZBQ25uUzNDZHYzb2ZCRFp4dE1yYmxtUnJKLVBtdWR1R0FuWXpuUEFZSGVlU0JrMlQzV1lQUGhVaFR4YXNhTUk5VTIxV1FHS25BZnBhd1NOV0NKY1BZaEF2eThTczB6Skd3cnVRY1VyZEdSSlZseUlBOHdEYUFRUXRSU0t5R3l0YmI4TVZlVzVNUWRidVAzbEFCLW9pQ29vdw?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Construction of Dhaulasidh Hydro Project enters an advanced stage - The News Himachal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpwYTBLZjhyYlF5N2EyYWpVMWRSNmFjYVM3ZGpzZWh4Vk5tUWkwbmxGWGw2NlNLcFcwZTNzdmtTem9sS2JwT2tPV2tXTHBCYzhGM1Nka29acmpudlh4ZzNqQVFLMUtIbm44QWRaS0pwcHJfcGFzOGhFQ0dKejB1ZzhHOEFMRWNNbVFvZENuM24yT2NJVE1tZHlJd3ZuNXFIcmJ5NQ?oc=5",
-      "score": 0.1
+      "title": "HP CM Sukhu Orders Takeover of Three Hydropower Projects From SJVN, Setting Stage for a High-Stakes Legal Battle - HimbuMail",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1F2SXFDVDNFQjE3emtIWmRsM05UaGZXQ0loTkMzZVlmeVM4X0lrOWtLa0g2eFIteTRBa3lrSGZ4SlJqSGV5aElDeWNFcFVTc2FhTWM1S1BWSnV6UkwwSFM5YUo3ajBHcE1YQ0ZWNUt2U0E1d3dneFZrNzBvSEtlbS1GcTQxRDZCQWJZUk5qT0VtSy1SRUhrUllibTNmcTRmRFFqOHR2aVJaVnVOWjlNZkV2X1ZobXVqMG1GajFvWG5iNHN3MkpnT181bEZJUGIyM0U4MkZZWHEwZ1JXMy0ta0lFM1ZRUHJGdlBB?oc=5",
+      "score": 0.3
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

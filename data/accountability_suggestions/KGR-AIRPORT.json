@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-12T23:57:01.958Z",
+  "updated_at": "2026-11-17T02:14:10.527Z",
   "project_id": "KGR-AIRPORT",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-11-17T02:14:10.527Z",
+      "title": "'Such Blanket Stay On Infrastructural Projects Inappropriate' : Supreme Court Vacates HC's Embargo On... - Live Law",
+      "summary": "Auto-detected from press: \"'Such Blanket Stay On Infrastructural Projects Inappropriate' : Supreme Court Vacates HC's Embargo On... - Live Law\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT2d4ek5nVkNsYjZwckNZano1MUEzSjNxRXRzVVRlOGNydmxaVmlCTTJWOFNPTmtUMTNZVWxubzBnX29mQ2xmTXI5OVM0aGExblc1OHBZNW4xWFJWRzBiZTB6UE1DWkdvekFqVmxzRV9ObEFVZFAwTWpqSWFFZk1LdkdQVTRZRVU1X3VWVWJUT1UzV25KeEtqNE04b2pmQ2tra1hEOTFn0gGrAUFVX3lxTFBSaFJ0VmRPTE5EcG94U1l6c1hCUjlMd2VwVFhGZkF0QnBiQkdQUF9JQkpDVGJ4QVliN1RNU0xuZVRZVDg2cE4wb2hqcUZXLUtZTUtTT1k2eDlHdFh0X1pDZUhCMHRjb3BWajR6aVQ4S2dKNWNGNEh5ZWR0QUJPU2dqcXRaQWc1ZDBXZnJaWVNkdXVmZGtNRXVIWER6bzRPODlRR2pTRm5aNHFXdw?oc=5",
+      "source_name": "Live Law",
+      "lang": "en",
+      "date": "2024-09-11T07:00:00.000Z",
+      "matched_term": "supreme court"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

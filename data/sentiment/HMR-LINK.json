@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-12T23:57:48.964Z",
+  "updated_at": "2026-11-17T02:15:42.481Z",
   "project_id": "HMR-LINK",
   "press": {
-    "n": 3,
+    "n": 4,
     "positive": 3,
-    "neutral": 0,
+    "neutral": 1,
     "concern": 0,
-    "avg_score": 0.433,
-    "avg_magnitude": 0.433
+    "avg_score": 0.3,
+    "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 18,
-    "positive": 6,
-    "neutral": 9,
-    "concern": 3,
-    "avg_score": 0.072,
-    "avg_magnitude": 0.228
+    "n": 12,
+    "positive": 5,
+    "neutral": 6,
+    "concern": 1,
+    "avg_score": 0.117,
+    "avg_magnitude": 0.2
   },
   "overall": {
-    "n": 21,
-    "positive": 9,
-    "neutral": 9,
-    "concern": 3,
-    "avg_score": 0.124,
-    "avg_magnitude": 0.257
+    "n": 16,
+    "positive": 8,
+    "neutral": 7,
+    "concern": 1,
+    "avg_score": 0.162,
+    "avg_magnitude": 0.225
   },
   "top_positive": [
     {
@@ -34,23 +34,17 @@
     },
     {
       "source": "press",
-      "title": "सरकारी कर्मचारियों के लिए जरूरी खबर, बिजली बिल नहीं दिया तो रुक जाएगी दो महीने की सैलरी - Jagran",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQanpFNG4wX3hzYzdWMmRhQXUzeXQwNklBS3dfTDR5VDgtbElyMUhRQTFvQlVxYThia29HZUszRzZLMTA5RDNCMHJucEwyWEN4UlQ1aHpmSGNXckdWcW9admtwNWg2b0ppT2pXX2J2ZEV5aDhsYmN1NlFuem05S1dlNHNzaDJxSTU3c1dZazJhYVFfcUhsV2taZ0xQMFVyMnZ6eFdGMnNiSWhEMDVacTNfQ1VQa0dIZ0xibnA5d0pOdWtoSnB3TGxOSjFvSk9YTFdoU0VTVWxONA?oc=5",
+      "title": "बेहतर बिजली आपूर्ति करें और बढ़ायें राजस्व वसूली - inextlive",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVhKWC1PdWFaV0V2d0EyWk9tRHJDa3VhSC12RmcyVG1OT2VfNEZ5VXd0M3Fkek1acWItQk11WUlNalRQak1qcnFqMElCbExWX0N3dmlySnpYM0loeUNRbmRoLWpUbFZqVWI5MlRQUm0zMnk3emlCdVdNMW9adlYwUWJ6YXM2YVBaU2lUZXBXTUJlZXRkZUVZNHRCbWZqVW1Da3M5dWdseUxHSnk5VHNBZ1dnYzNJeXhmeFJOOXVyS3VQMUxPZ1FBaA?oc=5",
       "score": 0.4
     },
     {
-      "source": "press",
-      "title": "बेहतर बिजली आपूर्ति करें और बढ़ायें राजस्व वसूली - inextlive",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVhKWC1PdWFaV0V2d0EyWk9tRHJDa3VhSC12RmcyVG1OT2VfNEZ5VXd0M3Fkek1acWItQk11WUlNalRQak1qcnFqMElCbExWX0N3dmlySnpYM0loeUNRbmRoLWpUbFZqVWI5MlRQUm0zMnk3emlCdVdNMW9adlYwUWJ6YXM2YVBaU2lUZXBXTUJlZXRkZUVZNHRCbWZqVW1Da3M5dWdseUxHSnk5VHNBZ1dnYzNJeXhmeFJOOXVyS3VQMUxPZ1FBaA?oc=5",
+      "source": "youtube",
+      "title": "Hamare khet ke bagal se Nahar ja raha hai kya uska muaawja milega",
       "score": 0.4
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Sir me gujrat se he our mera khetr highway pr he our uske upr se heavy line nikl rhi he to uska muvavja kitna mil skta h",
-      "score": -0.5
-    },
     {
       "source": "youtube",
       "title": "Sir hmari zameen ke bsf camp shaunii he pehle wha koi building ni bna ne dete the par ab wo area develop hogeya he pura ",
@@ -58,8 +52,13 @@
     },
     {
       "source": "youtube",
-      "title": "Sir hmari jmeen 1962 m defence act m acquire ki gyi thi SLO officer n award jo diya tha hmne accept nhi kra hmne ek refe",
-      "score": -0.2
+      "title": "Sir muje ek idea lena h meri jameen uttarakhand me h rajistary h dakhila kharij h khasra no. Yeh jammen ko 10 saal se up",
+      "score": -0.1
+    },
+    {
+      "source": "youtube",
+      "title": "30 cent Hamara jamin par road gaya 40year back tho sir wo pesa hame abhi tak nahi mila  tho milega ya nahi milega",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

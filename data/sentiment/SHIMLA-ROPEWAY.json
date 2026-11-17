@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-11-12T23:57:48.590Z",
+  "updated_at": "2026-11-17T02:15:40.602Z",
   "project_id": "SHIMLA-ROPEWAY",
   "press": {
-    "n": 10,
-    "positive": 4,
-    "neutral": 4,
-    "concern": 2,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.2
+    "n": 7,
+    "positive": 5,
+    "neutral": 2,
+    "concern": 0,
+    "avg_score": 0.3,
+    "avg_magnitude": 0.3
   },
   "youtube": {
-    "n": 6,
-    "positive": 4,
+    "n": 4,
+    "positive": 3,
     "neutral": 0,
-    "concern": 2,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.8
+    "concern": 1,
+    "avg_score": 0.325,
+    "avg_magnitude": 1
   },
   "overall": {
-    "n": 16,
+    "n": 11,
     "positive": 8,
-    "neutral": 4,
-    "concern": 4,
-    "avg_score": 0.119,
-    "avg_magnitude": 0.425
+    "neutral": 2,
+    "concern": 1,
+    "avg_score": 0.309,
+    "avg_magnitude": 0.555
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Lovely 👌",
+      "title": "Awesome",
       "score": 0.9
     },
     {
@@ -47,19 +47,20 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Aap hmar Message  nahi Dahka raha inbox ma or na Reply \nKya bat naraj ho to hm Message nahi kar gya  🙏🙏\n🙏👌🌹👍❤",
-      "score": -0.6
-    },
-    {
-      "source": "youtube",
       "title": "I am from Solan. I can tell you this is just a false promise. \nGovt had promised a ropeway project in Shimla more than 5",
       "score": -0.5
     },
     {
       "source": "press",
-      "title": "Amid Shimla Ropeway Facing Cost Rise Over Five-Year Delay, Himachal Pushes Air Links, Clears Asia’s Longest Adventure Zipline - Swarajya",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ3pmXzF2eExEc1V3WGN3RWsxM28yRF9zd0pUOW9mWEFodVpjMG1wUDdwZW85Qm9LX3RVcmFoNzU0YlMtTFF3dGN4bWYwQ1pZTmt5ZUJad1Vid2kzcWdYakJORnZ1elptNGN5S0wzSFJORHpWTHh4SmhtT09jeTAyNFk3S0dtcGNiOVdmdG9rbkJka0NCemVaUDA2UFJLNzRUQjdRYnVUQ0FRdGQtNTdpRGZyMjNlRWNOOVlzTGlHY3JDRW1fSDZEcnVzMlZWM2NMRWtEQkh6c1FEU0dDM2N4Qm5mT0NTUFRLZ1pLUWlR0gH-AUFVX3lxTE5TcVNiYkxVS09SZTJlM0JSbzlLdW1TejNzcll2QnhsZXFxTXhxV0RuaEdKa1JkeFRJbzRxUG9pWFBIaHV3MDJnUjBnaEdRWnRETUVjU1ZucWRYSjNVRnUyY2FRUm5OSmNWd3RvTXRDdk5MQWtsTFoxMHBGWHZQQ3Yxc21XM0VuRHpxblpZbDdZNGxMY0NhTmJOaG91aHpJdEdOSEp6TWllZzVPVzBuSEc4ZE5WMHNtaTRtUTg5MVhVVW8zd1Y4OXZmVmYyS0I1clJXY0lLVHpCdG5JbEpMcVVyS015SnRxUk9Yekl4bXdTZjBlWG1DS0ZkcGVud01B?oc=5",
-      "score": -0.2
+      "title": "आज होगी हिमाचल कैबिनेट की बैठक, लिए जाएंगे कई अहम फैसले; रोपवे परियोजनाओं पर होगी चर्चा - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONS1CUEotOVZXb0lFclN4ZmJXMXNKME1QVnVES1g2SV9ZQkt2QzNlSWhWVng2ODdIVnJMLTJqYTlQUlprSHNQSWRySkRwZEZ0U3V3SGZURzBhZ2F3VnJJSmlJQmNtUzlpWTJYLW5rdXdvNlNJSHI5MUtUZFN6b2hXZENybElXMkFidWxJMFhKVFNMU2c1VkZnaXZyMDNpeHkyLVpoel9faVdYN3RXUDRsSlhzZmFOdXVBV01FU1JzbENZMXdyUmpSZ3JGZEstU3pKdnV2clJ1OE10NWROZkVaTmtZbjRXQjY0YVB4TGhyNk9nSHJsczlGdTlCcE9KSDM5d25DWUx3?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "अब पीपीपी मोड पर बनेगी तारादेवी-शिमला रोपवे परियोजना, बढ़ती लागत के चलते लिया फैसला - the taradevishimla ropeway project will now be built on a publicprivate partnership ppp basis a decision taken due to rising costs - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQdkJnY0ltT1Nva3dmbUs0eWMwaWwxekpTMzk2WDB6OEpFVldITVdySU1aZXBfSkU1YXlEQnZmUm1NT0ZaNGo3N1BiMGxDME5sN2w4dHRUNXNZYTBfRFE5Uk5ha25Rd0tvSHNJT0JmUE1tUk0yQWdkcG1tOFlwc2hCSGpwTHZtRGR6eWN6c0ZBSDBNU0dPMjhtcnRVQXBzaHV6NjRzUi03cWRIVEZ6VFpWbmZsMmpKN2dnZkRTRFRhR0xwQWdJYkEwWXFHXzROYmtqYkdLdm5MamRQUThmdFh2QjF6RDhJYXhpWGhvb1dvYjhDVXQ3OFh0dl93eGNqTmh5VmNtWTBjb1ljcnU5WEF2Tm5jb3AzM25WdUw0?oc=5",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T23:57:45.931Z",
+  "updated_at": "2026-11-17T02:15:34.199Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 15,
-    "positive": 7,
-    "neutral": 6,
+    "n": 10,
+    "positive": 5,
+    "neutral": 3,
     "concern": 2,
-    "avg_score": 0.187,
-    "avg_magnitude": 0.553
+    "avg_score": 0.15,
+    "avg_magnitude": 0.52
   },
   "overall": {
-    "n": 15,
-    "positive": 7,
-    "neutral": 6,
+    "n": 10,
+    "positive": 5,
+    "neutral": 3,
     "concern": 2,
-    "avg_score": 0.187,
-    "avg_magnitude": 0.553
+    "avg_score": 0.15,
+    "avg_magnitude": 0.52
   },
   "top_positive": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "source": "youtube",
-      "title": "I need one of these buckets and a bidet when I eat Bangladeshi/Indian street food",
-      "score": 0.8
+      "title": "你覺得她套了一個桶子然後沒任何作用？她的作用是讓妳討論為什麼套了桶子.卻沒看到為什麼要套…博取討論度跟流量的😂",
+      "score": 0.4
     },
     {
       "source": "youtube",
-      "title": "你覺得她套了一個桶子然後沒任何作用？她的作用是讓妳討論為什麼套了桶子.卻沒看到為什麼要套…博取討論度跟流量的😂",
+      "title": "Итак вопрос телезрителя передача что где Когда для чего надето это ведро",
       "score": 0.4
     }
   ],
@@ -55,8 +55,8 @@
     },
     {
       "source": "youtube",
-      "title": "The buckets for when she can't go back to the toilet until the replanting is completed 😂",
-      "score": -0.1
+      "title": "Portable WC. It is very common in those places. 😊",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T23:57:29.701Z",
+  "updated_at": "2026-11-17T02:14:44.695Z",
   "project_id": "BHANUPLI-RAIL",
   "press": {
-    "n": 3,
-    "positive": 2,
+    "n": 1,
+    "positive": 0,
     "neutral": 1,
     "concern": 0,
-    "avg_score": 0.3,
-    "avg_magnitude": 0.3
+    "avg_score": 0.1,
+    "avg_magnitude": 0.1
   },
   "youtube": {
     "n": 9,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.422
   },
   "overall": {
-    "n": 12,
-    "positive": 7,
+    "n": 10,
+    "positive": 5,
     "neutral": 4,
     "concern": 1,
-    "avg_score": 0.258,
-    "avg_magnitude": 0.392
+    "avg_score": 0.23,
+    "avg_magnitude": 0.39
   },
   "top_positive": [
     {
@@ -37,9 +37,8 @@
       "score": 0.6
     },
     {
-      "source": "press",
-      "title": "भानुपली बिलासपुर बेरी रेल लाइन की टनल नंबर 6 का उद्घाटन, रेल मार्ग से जुड़ेगा नैणा देवी मंदिर - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTWRGY0ZjMFJvQWlRb0UyTVF5N1VBY3M5UHJ5WDZ0anQtSUw3M0lPbklYdVlvM2tENlZ0QXJwck16aFBmYmpnbFViaWwwYlRWSjczSmxReFVLZzN1RWlyUWY1QUIzY25ITDJoSEg3LTYtNFllQXcwYmc1Y2RMSE9lTDJKMm9aMnhKdnlxLWRFNndOazY0UHltbGZCNVlrOHlOS2xWV3pLQjNWRkd3bjZ5aE51M2k3TUlHMTBKakNieWdRQ3JNYjFvbmNMb1dmMm9DRnhUZlM1WkpzWGVkbDhOY0JkRWRjRjVhRmVJ0gHwAUFVX3lxTE1QYWY3VEdnSTBUYmgzUV9OeXZjTklKRldBaTlPTkx6UTVFaHlqVWxsSXZlTzVJZ0hGQXBnb1FFYzgtUGNTaW44VS12LUZPd1BsQnpMM2tJZ3JTQmZ1MEVKSzNqOHhObm94WEF4RXZZQ0MwT215SzlveW9GWXJaeDlMbXV1MlV2dHc3TjRFVGd4QjloNkRaVlU2SWx2eXVSNzhZajk5TVdDemxLN29SaTEyOUc5cFNCWHhpOHlKQzlBbkM5Sm9EcERMNG5PN2ZQMEdURlBKNjZJQmtyV2FsNEV5NDc4NVVwc2hGZ19ENkZmcQ?oc=5",
+      "source": "youtube",
+      "title": "Ye 2027 tak paharpur pahunchegi 😂\nSo bilaspur 2035 m 😂",
       "score": 0.5
     }
   ],
