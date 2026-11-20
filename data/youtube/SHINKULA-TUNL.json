@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-17T02:14:23.625Z",
+  "updated_at": "2026-11-20T00:59:43.742Z",
   "project_id": "SHINKULA-TUNL",
   "query": "\"Shinku La Tunnel\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 15
+    "comments": 16
   },
   "videos": [
     {
@@ -37,11 +37,11 @@
           "published_at": "2023-02-19T06:58:40Z"
         },
         {
-          "comment_id": "UgxYyvkjnbOoboN-RGt4AaABAg",
-          "author": "@kamlakumawat299",
-          "text": "Sir your voice is very nice",
-          "like_count": 0,
-          "published_at": "2023-03-01T07:09:33Z"
+          "comment_id": "UgzVCyOiONUyHlLPaZ14AaABAg",
+          "author": "@editxsoumya9804",
+          "text": "Sir you are my favourite sir in online classes ☺️  keep teaching and keep shining 🌟🙏",
+          "like_count": 6,
+          "published_at": "2023-02-18T16:46:55Z"
         },
         {
           "comment_id": "UgzPDsVAIMc2vaOo8JN4AaABAg",
@@ -58,11 +58,11 @@
           "published_at": "2023-02-25T18:12:10Z"
         },
         {
-          "comment_id": "UgzVCyOiONUyHlLPaZ14AaABAg",
-          "author": "@editxsoumya9804",
-          "text": "Sir you are my favourite sir in online classes ☺️  keep teaching and keep shining 🌟🙏",
-          "like_count": 6,
-          "published_at": "2023-02-18T16:46:55Z"
+          "comment_id": "UgxYyvkjnbOoboN-RGt4AaABAg",
+          "author": "@kamlakumawat299",
+          "text": "Sir your voice is very nice",
+          "like_count": 0,
+          "published_at": "2023-03-01T07:09:33Z"
         },
         {
           "comment_id": "Ugw5togEZJntGBadwHF4AaABAg",
@@ -72,18 +72,18 @@
           "published_at": "2023-02-19T11:48:54Z"
         },
         {
-          "comment_id": "UgzSFq-DgrCrGjkgzEp4AaABAg",
-          "author": "@pankajsatav1982",
-          "text": "be aware of sparrows and honey traps 🇮🇳🙏💌😇",
-          "like_count": 0,
-          "published_at": "2023-02-20T15:31:00Z"
-        },
-        {
           "comment_id": "UgyWCUuWzI4vFqwKYqV4AaABAg",
           "author": "@xirpaliduke5925",
           "text": "Superb 👌👌👌",
           "like_count": 1,
           "published_at": "2023-02-18T16:53:22Z"
+        },
+        {
+          "comment_id": "UgzSFq-DgrCrGjkgzEp4AaABAg",
+          "author": "@pankajsatav1982",
+          "text": "be aware of sparrows and honey traps 🇮🇳🙏💌😇",
+          "like_count": 0,
+          "published_at": "2023-02-20T15:31:00Z"
         },
         {
           "comment_id": "UgzJjtvZPqHBScMI1st4AaABAg",
@@ -133,13 +133,21 @@
       ]
     },
     {
-      "videoId": "21CVjQLdrJU",
-      "title": "Shinkula Tunnel Project  | Himachal Pradesh Ladakh Border | BRO | Indian Army Project",
-      "channel": "Traveller Satya",
-      "published_at": "2024-08-02T15:00:01Z",
-      "description": "",
-      "comment_count": 0,
-      "comments": []
+      "videoId": "uC7BFr6cIKw",
+      "title": "🇮🇳 15,800 FEET PAR INDIA KA MEGA TUNNEL! 🤯 | Shinkun La Tunnel",
+      "channel": "Curious Dhaval ",
+      "published_at": "2026-09-11T04:20:25Z",
+      "description": "15800 FEET PAR INDIA KA MEGA TUNNEL! | Shinkun La Tunnel 15800 feet ki altitude par… India pahaad ke ANDAR ek ...",
+      "comment_count": 1,
+      "comments": [
+        {
+          "comment_id": "UgxAnKQCaV949TJRi2x4AaABAg",
+          "author": "@Rabindra-o7m",
+          "text": "Jai Modiji Raj.",
+          "like_count": 0,
+          "published_at": "2026-09-11T07:40:26Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-17T02:15:26.874Z",
+  "updated_at": "2026-11-20T01:00:36.646Z",
   "project_id": "NH154-PKT-MND",
   "press": {
-    "n": 18,
+    "n": 19,
     "positive": 4,
-    "neutral": 6,
+    "neutral": 7,
     "concern": 8,
-    "avg_score": -0.1,
-    "avg_magnitude": 0.289
+    "avg_score": -0.095,
+    "avg_magnitude": 0.274
   },
   "youtube": {
     "n": 8,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.35
   },
   "overall": {
-    "n": 26,
+    "n": 27,
     "positive": 8,
-    "neutral": 9,
+    "neutral": 10,
     "concern": 9,
-    "avg_score": -0.012,
-    "avg_magnitude": 0.308
+    "avg_score": -0.011,
+    "avg_magnitude": 0.296
   },
   "top_positive": [
     {

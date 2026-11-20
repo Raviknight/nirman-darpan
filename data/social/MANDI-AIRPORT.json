@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-17T02:13:06.645Z",
+  "updated_at": "2026-11-20T00:58:40.472Z",
   "project_id": "MANDI-AIRPORT",
   "counts": {
-    "press": 3,
+    "press": 6,
     "gov": 0,
-    "en": 1,
-    "hi": 2,
-    "total": 3
+    "en": 3,
+    "hi": 3,
+    "total": 6
   },
   "mentions": [
     {
@@ -30,6 +30,26 @@
       "match": "Mandi greenfield airport"
     },
     {
+      "title": "Mandi Airport: विमानपत्तन प्राधिकरण ने मंडी हवाई अड्डे की डीपीआर लौटाई, कहा-तकनीकी खामियां करें दूर - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNenVsakNUZDliR00wNElqTW9oRVpIUFZmdG9YRGdnbkJrUzd6WVhJZGs0ZGpKRDNFLVA4ZGU5Y2hndF8yUF9tenozOUFXM0owYTh3dTlhVWNwcDB2VGtMUGFyZ2xnTkVvVkJFaUUyWWNVN1JPOWw3Tlk1ekR3UmFJbWwyQjlib0NNMm9QNlppOWJqamRrUDVJZ3NDWUF1cEFhX0NCNERjQU1EQlN6U3VVQzBjUHhrb1lRT3Rvbm55eGtRM0t0cEt2YVBRUdIB0AFBVV95cUxPVHVpVXRzRkhuSDJiUXJCdEJsQkdVd09tZjEtMHNFcDh0S2FOelcxTVZobGpHa01UdFBpYWtRcmdHTW1tandMQndRLW1aX0NjRGgzcmFDWlpqbHFsdFdoRGJKR3JJbXM1ejkyNjlBWTYwSVVMUy1EemN1cVY4N3hWbjlEYk1rYUstNUZTbk1qSnVmemZ4bDIxU2JTNVUtczRncFlTVFZCbDAwcmtKZFRGY05DRGl6cGd3VWQ3bHIwc2NJY1h2dkxab210X0dMLVVm?oc=5",
+      "date": "2023-02-27T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Mandi greenfield airport"
+    },
+    {
+      "title": "Who is Suman K Bery? - Business Standard",
+      "source": "Business Standard",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oLXBTQ3hjbWYwRmZ0Y3BNME9TSlNCYVpTWkhSVDhsalZTSWF2a25EV1dHdDVQd3BtMEFBMHpKQzEzTDFMeWdNd3hpTHFmeXg2eTJoelpNN1BYWlEzQWllSXJfNVVIc05vLWg0?oc=5",
+      "date": "2022-04-25T08:19:56.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi greenfield airport"
+    },
+    {
       "title": "Himachal Pradesh’s poorly planned Mandi airport risks its limited fertile agricultural land - The Caravan",
       "source": "The Caravan",
       "source_id": "google-news-en",
@@ -38,6 +58,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Balh valley airport"
+    },
+    {
+      "title": "Himachal CM calls for expediting Mandi greenfield airport work - ET TravelWorld",
+      "source": "ET TravelWorld",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU3Y5MlctZjNfdFRkZ2g3TFI1NzdCLVpIUWFmbzI2NUNNQWVzNXViSmdfN0VKMWQ3eE84SDg5eUk2YTdibjdmcFhHN24yY0dmSWRFTEVjelc0dnpzNklmTWFrSVF3SklKc2szck0zcjlSNC1FQnFJdGF1Yi1abGxKdjIwTnJfUVppZWxsMzFqd2F5NWNIaExSN0ZkV3EteFN2c0U0UnBJUGpRUlJmRHdCSS1Sa0xtOXgteHZycXBNSm1nemV3ckkySFJmbkZzSE95Y25B0gHYAUFVX3lxTE9YUmNQUU9vRGhGOU1SU0NPdXAtOVExdzJHWEJBdWpBcjd2N3FSTmVFeWJ5X1B4REIzMlVIZl8tUXloWFNyQ1BvQkx6WHJSakt2Nm1Id0JLTzRuVnRlcFhWZ3ZsY3BqX0stWUdka3hyMjNkV1dmUENCUnNaYXppQ1dzRE5QNjRPV3NBZ0JvYXY4RGVhY2Y1eHBMQTFNallFVVZPdksyODRmYnJvWGJuRTkxc0hadU0xWEF3Rmp5aU5RVnZNSjlIdndIOW83dWRraHp3cDRBX1BYbQ?oc=5",
+      "date": "2021-03-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Mandi greenfield airport"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

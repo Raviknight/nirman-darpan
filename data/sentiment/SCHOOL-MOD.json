@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T02:15:34.199Z",
+  "updated_at": "2026-11-20T01:00:40.192Z",
   "project_id": "SCHOOL-MOD",
   "press": {
     "n": 0,
@@ -10,54 +10,22 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 10,
-    "positive": 5,
-    "neutral": 3,
-    "concern": 2,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.52
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 10,
-    "positive": 5,
-    "neutral": 3,
-    "concern": 2,
-    "avg_score": 0.15,
-    "avg_magnitude": 0.52
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
-  "top_positive": [
-    {
-      "source": "youtube",
-      "title": "It's so satisfying to see you planting vegetables!",
-      "score": 0.9
-    },
-    {
-      "source": "youtube",
-      "title": "你覺得她套了一個桶子然後沒任何作用？她的作用是讓妳討論為什麼套了桶子.卻沒看到為什麼要套…博取討論度跟流量的😂",
-      "score": 0.4
-    },
-    {
-      "source": "youtube",
-      "title": "Итак вопрос телезрителя передача что где Когда для чего надето это ведро",
-      "score": 0.4
-    }
-  ],
-  "top_concern": [
-    {
-      "source": "youtube",
-      "title": "She just hopes to be a YouTube star with this silliness.",
-      "score": -0.5
-    },
-    {
-      "source": "youtube",
-      "title": "It looks like she’s out there just stressing the plants out. Digging up a plant just to move it 6 inches.🙃",
-      "score": -0.2
-    },
-    {
-      "source": "youtube",
-      "title": "Portable WC. It is very common in those places. 😊",
-      "score": 0
-    }
-  ],
+  "top_positive": [],
+  "top_concern": [],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-17T02:15:18.642Z",
+  "updated_at": "2026-11-20T01:00:31.990Z",
   "project_id": "PARBATI-2",
   "press": {
-    "n": 2,
-    "positive": 1,
-    "neutral": 1,
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.25,
-    "avg_magnitude": 0.25
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "youtube": {
     "n": 4,
@@ -18,20 +18,14 @@
     "avg_magnitude": 0.3
   },
   "overall": {
-    "n": 6,
-    "positive": 3,
-    "neutral": 2,
+    "n": 4,
+    "positive": 2,
+    "neutral": 1,
     "concern": 1,
-    "avg_score": 0.183,
-    "avg_magnitude": 0.283
+    "avg_score": 0.15,
+    "avg_magnitude": 0.3
   },
   "top_positive": [
-    {
-      "source": "press",
-      "title": "सैंज में NHPC टनल में रिसाव का मिला स्त्रोत, अब लीकेज ठीक करेगा प्रोजेक्ट प्रबंधन - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWF9td2FnN1laOFQ4bGsweDBiQ2ZrSjVFU254Skk0UUpsNnFsakdlN09mS2g2X3dMWEtMa1VOb2pWeHRtaWQ2MV8tU09vVFlWRmpKVVRfU3pjRGtOMHZDTGMxb3NCYjUyVmppLVNXTzZyYi1XRWN1cHFDMVVlN242Q21CSEdBZWVfVUpPcVdJbC1CV2ZzMXhFSm9SSmlpSi10cEdQZlk4QXNsNW5PQXFWdTVTR2dlTGZPRHJET29qRdIBxAFBVV95cUxQbkZXMW5Yc2pFQUJOMTFhSHRfaEFhQ2l2UzVjMmE2blhaUGE3U2JicHlMQ1ZkRkdjdE9MWkhfdVVUOW9rUEdGejZYcVhweDRLVzBacEloSGJTRkRqN1lxUVZ2akJZZlJMRXFtMXR6YjdMRjVTMWRfRW5sNVNfN1pqa0c1N2FUdC1nOGQwQjlPakpBRUNWOXE2eXpwUGJzcFB6Yk5nYzhrbXo5SXppZUUzOUV4VEM4cGNsZlR4RDN6NDBlUjZp?oc=5",
-      "score": 0.5
-    },
     {
       "source": "youtube",
       "title": "Jai Shri Ram Jai Modiji 🎉❤",
@@ -41,6 +35,11 @@
       "source": "youtube",
       "title": "❤😂🎉🎉🎉🎉",
       "score": 0.4
+    },
+    {
+      "source": "youtube",
+      "title": "Turn the water of himalayan rivers to the deserts of Rajasthan",
+      "score": 0
     }
   ],
   "top_concern": [
@@ -55,10 +54,9 @@
       "score": 0
     },
     {
-      "source": "press",
-      "title": "Leakage repairs completed at Kullus 800-MW Parbati-II project - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObkNzbWJSemg1NmF0RHF2eTc3emJmTERHMTZVT2tXTGlHZEZiUTVCdmxHcFJORTlGTVNFZURBSGN2QXJLaTdWQVRqY2lyM2UyamRaQnlvNW13a0thWDEwVWxzb2k3MW83bmVhZlJKRDlUVmVkVGlseExsRk9aSnhSRWVyaUNnbkpaVm5ZdVc5MzBOcmVlcUtTZjNsWW12LS1iWGVPY3ZNdGPSAawBQVVfeXFMTVpxczROclNwMEtZVjdyMHVOWHhJLWp6YzRGYXBOTjBRdTN6S2x2MVpLMEQtZlJhV1RiaGRRNmlVVV9yTThQYzFrR3FJNUdZclNySGJfbkVWZzdWUUtYVjJuek9BQWo5N09jVjZVck9ZamFqT2pWZFBLVDFhaHYzcVJqRHM4czN4QVk5N3RtbEw3c0dlazlmdlVyci1ZdmNLVXVwdlVVX1BRbUM3Xw?oc=5",
-      "score": 0
+      "source": "youtube",
+      "title": "❤😂🎉🎉🎉🎉",
+      "score": 0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

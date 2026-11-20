@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-17T02:13:31.944Z",
+  "updated_at": "2026-11-20T00:59:01.377Z",
   "project_id": "NH154-PKT-MND",
   "counts": {
-    "press": 62,
+    "press": 63,
     "gov": 0,
-    "en": 52,
-    "hi": 10,
-    "total": 62
+    "en": 50,
+    "hi": 13,
+    "total": 63
   },
   "mentions": [
     {
@@ -65,16 +65,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON000cmNsQjZCZWFEWlBMdVV6dExYVWdqdDhUTzdCYUpVWnJsd19zVzBUWS1sNWcyOHp0LXg3X1hPYmFUX0RkMXg1YjFEcW5QWFVSMVFiOUZLRjVMejBxQVZ6QnpGd0ZwVGJTV2Z0cEQ0WDUyV0l4MS1TRzB0TnoyOXdUOXUwdmNXWFN2LS15MFZtUFR4Sng5ZXZHZWtoRGI4TGFqeGVWRzV0dknSAa8BQVVfeXFMT3FubjVaS1V5aF9adG54T29rT1lPb3M0aXdFekxuVkJNM01wTUtoaXd1WVhFeHkwZjFGWGdQNlhBNDRKVmx4QUptQkphdW1VWTRIMFRrU2tmbklEWUdxZ09TWXJEOXFodFVzRVR2OHYycnd6SWlCUGhVRHN1WWFLR2QyQ29iX0FpRlZUSS1TcVM3dUFlbnBBQkVJQmhVSEhqVHJHY19fSjkyTHZ6bmdnTQ?oc=5",
       "date": "2026-06-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Pathankot Mandi four lane"
-    },
-    {
-      "title": "NHAI appoints new consultant for Pathankot-Mandi four-lane project, reviving Paror-Padhar stretch - Projects Today",
-      "source": "Projects Today",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUWZodWJtQ0c4UVFiYWtYeHotMjlwSmZLaXFVby0tSm5xalRhWDUxRXEzTzUxNno1RzRCbW45STZBVVI5SFVwdmlpOEIwQ0ZDVzlhUkFxTkY1V0tkSzExNVM2ZlVfOXFPTHIxeDRkS3lCZS1OQVJQRE1IaGdkWnB3VFdqbVQxaDB2bVB6OVVkd0lhYUxLNXlwU1pYQzNQTjA1TGxQX0daY1Z6Z2FMQmFPRU9XdERmSFdINjNmbWRvLVdxb3RrNjItUlJLT25YM2dfMDBJY0t5Z2JyNjRGcUpWZHBzWVNrTTVkRVpCRnRRVVBicUpCTEE?oc=5",
-      "date": "2026-04-27T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pathankot Mandi four lane"
@@ -175,6 +165,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1ZTVXhCZ3JHdHNVQUdoM0hweDVodFdtQ1FqNDNzMXQ1cEM4Z2F3WW9wRmZaOGd0UVgtNDdlT0VHV3lrcG1fcUV2TWE5WXVTaXBjRnlMRVNyT1g4aTc1V1RtQ0IzSHp5bE9QdXQ4ZklJOTJxbGlFVEotZnY3dlQtbFk1eklWY3VXMTBXMUs2SFpvOGNHSDdpdWJua19BblE5UFUzWHc3cnR5czhRck8zMVBpYjFtYTd2djhLeVF1Q245QdIBxgFBVV95cUxQblZldkRYVGYtRE1VYlB3dFh2dWdmMjdROTB2REVzM0RTbEZvUnZMTFdDb0NYbktxODhOcnhmUjRBUlBYSXRGVk5mZi1QdTFVZk1uS2VEbkZHVXg1QjBqV3pwc0hSVEY5SEhEWTNaNE1LX2RueTJ3dENMN1hEaVdlMUM1a0VfNjFBM2VjcEh2U3dGS1V6V0E1UFRCZEFWZHl2a0JPQkRXTGJWaTZJV25aZFB4NmJOdUNoVmlWeXppaUlTRmhkR3c?oc=5",
       "date": "2025-12-16T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Pathankot Mandi four lane"
+    },
+    {
+      "title": "Hope rises: Work on Jassur flyover picks up pace after long delay - The Tribune",
+      "source": "The Tribune",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVJuWlpmM05odFdMTzRmcmpsMnplNVYzQkliamZMczBwS3M3N2tjU2VxWi1lU0xtWWhpWllVZGozR0F0ck8tSlZ4dG9qYWs2bWRzTFVlV0p6dmJ3TGM2Y1pvYW04Y2gwSkg1TnJWYzMxbkpreDdYTjJ0cnpRMFZjbVdyQlJoRDR5N3BJN1d6d25DaWc5X3dqbDBMZ29pZWR3Qk0wZ1JvdWFRWE1L0gGwAUFVX3lxTE5uNXAyV29hRE1kd3pESWxjemxXX0RhdE84aVZjNnYwLVk3MDRGSFlLV1kteXFFTDlCa2p1b1ZYNVF3Q1c4MU11cF9va2llVFNnb3cwT05OMjNvd2pLemRFeElBVFhUWEpEU2E4VmFZUHR4ZktmMDFiQTVHVWVMbzhxLU5lUk01M1E4dS1uVThmdlJJbTQzUE9vY0NWY0hmR1JhMUU0Q2QwUDhrRUdqYUFT?oc=5",
+      "date": "2025-11-29T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Pathankot Mandi four lane"

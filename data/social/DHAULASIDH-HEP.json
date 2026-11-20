@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-17T02:13:24.077Z",
+  "updated_at": "2026-11-20T00:58:55.387Z",
   "project_id": "DHAULASIDH-HEP",
   "counts": {
-    "press": 38,
+    "press": 43,
     "gov": 0,
-    "en": 29,
-    "hi": 9,
-    "total": 38
+    "en": 32,
+    "hi": 11,
+    "total": 43
   },
   "mentions": [
     {
@@ -90,6 +90,16 @@
       "match": "Dhaulasidh"
     },
     {
+      "title": "हिमाचल: धौलासिद्ध प्रोजेक्ट पर बड़ा दांव, सरकार करेगी 66 मेगावाट परियोजना का अधिग्रहण, बैठक में हुआ फैसला - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSVFjWVVTb0JJNy1KT3RYeVdZZ1dISXpQUDR3eFh5TTNsSzZaNGhldkQzdVAycW02UjUxT0NLb29BZG1qVzFmZFdlZFYtQl9VSUZneVNHMWFQUmRnNmVRa1ZjMkVsdEJFdmVnZHJLZ1A3eGw3Nzd5Z3d2akdBY2w0UzZpSXJCY3dONmF3NklDQWtmampUdmQ5dEw4WlNlT3Qxamx3VFVBT2RUSmd1TV90ZlJNT2JicGRUSUgzbVdtbk1TQXRCWFhrTzF3bkFhN0had3VZZEFqaWRJQ2hOMlRpdWtYVWZZRm02WmdmQ2dR0gHzAUFVX3lxTE1NcWFhWkJGekZOWjZla2lOcFJCcEJKZW9ubEJEQnp4TFFLcUVnVWtLX2FqakdBWGl6QTZRQ0lFT0xQUnN0NHlQZ20wd3FzTlY1WFhLOTNCU1M0WVNrUVY5T0FzU1hCc1FENmZUbkdxTVRyajVLa04wSlJpSEdncExhTVJvUllfRDd2QlFnQTVfWjN4ZkEyWmJ3YjY0RHR1RlpPZWlHVEVOUnl0U0VKT0hrSnF1UkRUd3IyQ2g2Yk5RckhtMWRMV0Z5bnUtbUpLVlc0bFVMdHFwUUNyeU1hWWplel9EalFYRkJLMTN5QUlkbUN4dw?oc=5",
+      "date": "2026-09-30T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Dhaulasidh"
+    },
+    {
       "title": "Himachal: Rs 800-cr Dhaulasidh buyback plan faces SJVN cost hurdle - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -114,6 +124,16 @@
       "source": "The Times of India",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVNncTh1LWUxUm4ycU5MTHBjdTJJZWhmUUJRQnVjZVVOcm04MjhnTkhXSmVyNlg1U0Q3MHpyQm9qaUZHdEdYQlFzN2ZrR09IQVZSUDF4TUdjZmhTSjlDR1o2bklVeTJYWWprcWRlOW9iMVRBaEpseEQ5OTdfQjZDalZOSEZuSm5wVHEzVS1jRFNUXy1zYnNIWTFadmQ0YS1WcUhud19jcUIwV2Z1OTFGenhfeTAzUUFYRll6eG11V1ZjVndENUQ1V2ZhTFEzN1A3TGFMV2d1VkdjY0XSAeABQVVfeXFMTWNCY2JRdjE3VWxFVXNDZ2F6N1dRdE5zRHRKQWFwSlpvaFFvUjhpQmRZUW5ndzh2U1pEUGdkd1lZTHZGNU01ZlVVQ0RVMmVQVGpIemtZdUhKb3EwZlAzX1R3NU1pcFl6QkpLbC1qOGl3aGp2dVBRQV9fTXAtSDZoWnFydGFueE02R1c5dzN4azU4cWtfc2NSUDYxUXlVMEt6TUVjSWJEeVVsamM1bmpHSXY2bFB1U0lOSjN0THRDcHJaa2FCNkp2Y1d5akVHdHpfaVVlU2JobnNLYTQ0RHJiUTY?oc=5",
+      "date": "2026-09-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Dhaulasidh"
+    },
+    {
+      "title": "Government to Pay Rs 800 Crore to SJVN to Take Back Dhaulasidh Project: CM Sukhu - The News Himachal",
+      "source": "The News Himachal",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRG1MVkFjam5lNW5rOEtIOGt1M0FQOS02QnJadDBTQzVTTTJ5NVRGc0ZUZ2htODQya1VoS3p1eUx2UHlURTk2eGhHQTU2TjZTdDZlMk5MTTZKeV9RM05yTGpVSUI1bWM1djl2NzBuSFVrX3loRmVpdmpGaW9aT3FJby1PY25qa0htd1EzTTBCMlRRREVGRnpqdndYaVRfejYwcGtVS3JaeUg2djRDUHRZREt6UmRoOTQ?oc=5",
       "date": "2026-09-19T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -160,8 +180,8 @@
       "match": "Dhaulasidh"
     },
     {
-      "title": "800 करोड़ रूपये देकर एसजेवीएनएल से वापस लेंगे धौलासिद्ध प्रोजेक्टः CM सुक्खू - HIMACHAL DASTAK",
-      "source": "HIMACHAL DASTAK",
+      "title": "800 करोड़ रूपये देकर एसजेवीएनएल से वापस लेंगे धौलासिद्ध प्रोजेक्टः CM सुक्खू - himachaldastak.com",
+      "source": "himachaldastak.com",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNGRPc2pyVENfcFh0NXZiMmFGei1zZ2tNaXh2NENyMUExVWNlV0dLUXdLMkQ5NWRlN2MyZUV4N08wUGZxQmpwV0wwWGFNRkJuWG9LSGhPQl8zMEg0RkJTeU1Na2dpaGhjLXROZGZiRVJYaVROLUc3VzdPWjhzMk16SGcyaXRQTmNydUxJZQ?oc=5",
       "date": "2026-09-18T07:00:00.000Z",
@@ -185,26 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1F2SXFDVDNFQjE3emtIWmRsM05UaGZXQ0loTkMzZVlmeVM4X0lrOWtLa0g2eFIteTRBa3lrSGZ4SlJqSGV5aElDeWNFcFVTc2FhTWM1S1BWSnV6UkwwSFM5YUo3ajBHcE1YQ0ZWNUt2U0E1d3dneFZrNzBvSEtlbS1GcTQxRDZCQWJZUk5qT0VtSy1SRUhrUllibTNmcTRmRFFqOHR2aVJaVnVOWjlNZkV2X1ZobXVqMG1GajFvWG5iNHN3MkpnT181bEZJUGIyM0U4MkZZWHEwZ1JXMy0ta0lFM1ZRUHJGdlBB?oc=5",
       "date": "2026-07-08T14:34:18.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "Himachal CM Sukhu orders takeover of Sunni, Luhri, and Dhaulasidh hydro projects from SJVNL - ANI News",
-      "source": "ANI News",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTY2Z3FTOWo3dDZLQXBZZ1RhVWVLUDJoNnZRc0xZTGJLUFQxc1FzbnRsUE1PXy16dkxNbVBHRXpYM29jVkEwcGJLUXltWFZEbXhDWWZpUlFhcksyU0VHMVZZU1VVdW1hN3R1R3FjS21PdDdyMzhBTGE4a245X0IxMExHN3pKaVk0aTBRRmxDdWlXcWZtS3FrT3ZzQ3lmVUhDem42WWF1LXVXbGI0T1NDVXVmeUE0UldtSlJGU0psbW5MQXpTdDBGd3k1UndNVVVWdk52NUNEWGVTOXl1Tkt5dTFEWHJyc3JG?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Dhaulasidh"
-    },
-    {
-      "title": "CM directs initiation of process to take over Sunni, Luhri and Dhaulasidh projects from SJVNL - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYTBwTXE2clNIbl9KeTNjeVY3TF96NHhhZWF4MlRONGY4dkppbGx2QWVHUTdCZko2TGJoeDdDMGMyRDJwc2hTQXlCRTAzOHlvbWNBRi1HMGNFNHo0SlRwSEhLOUc4aG41cGZtdTc5ZzdSclRralBkT2ZodURzTEZaMFY5ZXNqd0ZETThDUzFuMmstUkp5c3l4NDRSa3BoSmxwRndrLVN4U1Y1X0tncUpnMm01Vnd0NjZtaGw0Y041R2hsclJZVU9kMU1tbUFrZkJVOWfSAdYBQVVfeXFMTktBN3hMMnZJN3pnN3pOS3ZhYU03LV80Tk9Pc0lZVF96RDd6Q1M2T0ZLV3FGRzBaejdvWDJacG5kVG5vV2RXdDloVVJqbEhsNFZXU2hXcDV1eFYwdF84OHRsY0ZJUFVHbFZKa1ZydTQtTDZVeEg0YndLcG1fMlBlRGVHcElhU1RYV2JidmRZSWRYdmoyMDRTSEZ5S2xXUlREUDNUem5qVGpGNEFsQzB1emtxLWo0YXFKT0E1V0c2WlhkS1RSQWlyRXFDbi01d0h6bkhncjdGdw?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Dhaulasidh"

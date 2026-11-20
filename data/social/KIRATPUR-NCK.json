@@ -1,33 +1,73 @@
 {
-  "updated_at": "2026-11-17T02:12:54.741Z",
+  "updated_at": "2026-11-20T00:58:31.108Z",
   "project_id": "KIRATPUR-NCK",
   "counts": {
-    "press": 133,
+    "press": 172,
     "gov": 0,
-    "en": 92,
-    "hi": 41,
-    "total": 133
+    "en": 93,
+    "hi": 79,
+    "total": 172
   },
   "mentions": [
     {
-      "title": "J&K, Himachal Receive Fresh Snowfall; Traffic Jams on Chandigarh-Manali Highway, Rain Alert in UP, Rajasthan - Dainik Jagran MP CG",
-      "source": "Dainik Jagran MP CG",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHNHVERWQnlWX2pCVkJuMnNFMW9fakxUR0hlNzlqaU1BTEFFd0tKWmxBUDFyck1Lam5ZUFRnQ25xdVdpVHY3RTdLWjNhcDVLRnBaTjBNM1h1YlZpWU90bnc2Znhva2FOeXFkdGR4SUZCSUhmeGNSLVUwd0FSUjExWWZwSE55LUtaTThiRC1ZSUszaVIzLWljQnZoSUZmVWlSd3NyRy1tSmdHb0p5LVN0MUdEQkpFdw?oc=5",
-      "date": "2026-11-14T07:09:36.000Z",
+      "title": "हिमाचल में बर्फबारी की खबर सुनकर पहाड़ों पर पहुंचे टूरिस्ट: चंडीगढ़-मनाली हाईवे पर ट्रैफिक जाम; शिमला-मनाली ... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWTRWdTJlZ0N4LVNVZ2oyeUpVN1VJNEd6bzhjNC1Uc0QtYUhWYkNqWVAtakFWcFp4aGR1amlCU0NSOXV0enBLa0hFbjdJME1nY0p3dHJtOE80ZXo4RXQyUFUwSUlReTJySFNlcXl2ZW5lMUo3cmVSTENFb0Nwai14T0doc3cteVRydk1Sb0NCMlZqQkg5NkxfNzhuQnJGWWhaZG9qRDNjalkwUTBTeXNsd1pBdVFaSk1kWHRmWVFvd3NINmk2R05mZWhBWjN4akVOdmtCTWU5N2dtczl0VzB2LVdKVkVmZjRTbjRjZ0RaM01yTTNw0gH6AUFVX3lxTE81WVd0NVFTX2ctVFY1YUhBd0NYRE1DVkVuZDFkelZJcUV2bktuNXgxeC1ReGZFbHdqam1QQU9sNzhOZHphWkM3em4tX3g1cjZWdmxudzdFN2d4Z2NFS3dweUJJOVhvUDJ1bmJMMWRLWVhjSFQ2WGR6RTd4czJpRE1qZWMzZTlUVDBiZTZKSzVwRzA2cGVBTW1GWUVLRWFyRkxsVzhBTElHemk1dHl3eVgwX1B5X1RGQXdISlpuclZsajFpd3hfWllxM2VYZ2JoQ1VocFpkNVdoSG9kQ2hqNVMybGlweFNXLWo0NHZWRzkzeWNSRjdSaVJrdXc?oc=5",
+      "date": "2026-11-17T09:24:06.000Z",
       "kind": "press",
-      "lang": "en",
+      "lang": "hi",
       "match": "Chandigarh Manali highway"
     },
     {
-      "title": "Bilaspur News: फोरलेन भूमि अधिग्रहण में गड़बड़ी पर डीसी सख्त, एसडीएम से 15 दिन में मांगी रिपोर्ट - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "चंडीगढ़-मनाली हाईवे पर ट्रैफिक जाम; शिमला-मनाली में ऑक्यूपेंसी बढ़ी - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQlo3c0xOTUh0Q1ZBSWdQX3VzNFgwNFk5R1c2SXdFclBHZlQwZHZQOHhfREtSSVRVY0NXZ204WW1kc21NanVJV0FVaklDV0lWV09QdUstV2lITWpkUUxUUkxRal9Qdjdlb2hSWUR3WFVBcFZ0TUJUNXhwZmRZMUdzOGJxUWs1TUlRdXpHaTZqNldrRXBiUmpYc2RMdWpUWW1TSXVmcXgya2NfTWVsTUU2ZWVHaThNT0JVWG1JWm5TTjVuaWV5YWx3MXN4aW5wSHExaW1ZeC0xc2lmSlZhUUpobk43eUZuVVRMVXpBVWdMQV84akhWQnY3T0pDSlNzd9IBgwJBVV95cUxNMlNzWUFZS2lYVzV6bnNkbS1ONWxualZ5MFA1Ri1PWnBGTlF5RnhIVm5POV9zYWUyMnB2SjdCTGVQY2lDUnA4a2pIV1JNTGZPX1JFZ2RNWTB3TTQ1TFZnNEwtdW9nU0VOcmpDWHJWVmhBZU1VYy05Y2hIWHpNd256SFpIY3MtTnNCZi03QWNaYWRKbWhITU5mUUktQjBRVmpRdFYweXdtUU5Uam1kZDI1NWlQSXJvV3RyWTZpZmVSQlhfUElMY0VidmQwX21peks1MEVhVnAyTTlmcjNrWlYzcUpjczJrREYyTWgwRXFVb29Na1NLeFc4eUxETVJTR2ZGQzJZ?oc=5",
-      "date": "2026-11-03T18:28:02.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMFFGNm5ERm9ZeWF1WVhnMUc1Y1RPY3RKR2lSaEEzRkRKV0l6cm5GREEwWGFRRGlRNmVFdkNvZ01tamdTSjVnUlczdC12OFBMTzhWWEZ4bGxvRlJZZ01CV1JVUVpoeDYyVnpPNkFRaGdZN2Nna1F1M3VWMXB5LUtxSVFncE1GaG5zMkRVVF9QblNja2dWVXpuRUlHOWUzci1tMmNXV2lFWXFQakVaYXgzanBCcVUzSnF6cHRDWGRUZktBZzZUZmtJc3o5ZkQzWXFNYW04aXljWEdMVUtKMEM3LVEzWmVCY2VzZ3RzTmIxOFRRbC1oclQ5WnI5RGFvRjFwbGhxbg?oc=5",
+      "date": "2026-11-14T00:36:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Kiratpur Nerchowk"
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "जम्मू-कश्मीर और हिमाचल में बर्फबारी: चंडीगढ़-मनाली हाईवे पर ट्रैफिक जाम, यूपी-राजस्थान, उत्तराखंड में बारिश... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ0E5LU5oS3A2STJXR0JVa3BlYm5HWnE2SDVETl9IbmYzWDNISkFWbU9aaHJDbWU5NWlDdF9tVVlhSDB3TlFmaTcyb2Z3Q1JCSk5yYzNNRzllNEczY1lzbndtbVprZVVOVVFCTWg5S0FYTUtSNjNZa1djWVE2NzFiTjN5MEg3cHhleFFzNzFDZWlnNEEtNXFrMkR5RHFSR3Rjck94ZC10VHExeWdGMlU40gG0AUFVX3lxTE5xTU1RRWRqaG9SN1BxYUlTaUpuWkVxZWRBWGhrYmZPX1FadDhOSmpqYW9MajB6NHVNZHVMLXoxcU9NdFVaR1g4MWVhWkIyZ05OelpOaWV1UzVIUi1qdFlBSTVjanBNM1U3dE9YemZQNXdkaEpEVEtFQzU4a2Z0M3lDQTdIVHdNU2dGOWMwN1J1MmxJWDZ1V2lTdHcxQU5WcG5WSVdSVVBKVVh0eU9QT0tPRWtDUg?oc=5",
+      "date": "2026-11-13T23:35:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "Bilaspur News: पुराने चंडीगढ़-मनाली हाईवे पर ही चलेंगी बसें, दो दिन में 47 के चालान - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNbUxFX3I2OTVHaGZFRFBVWFkwZndpbU85OHhDTFAyYjlSVUlkWnB1R3NNdGdRQXJ6SDd2U1hJSlRuSlNXLUpDNU95ZWM3WkQyWkoyZmZqMFNjTFpsMXJGQmo5WkRibTQ0QmJOWG5kMGd4Y09vbjRXNnZiVUxGMHVoRUktbUhPNGdxTzlwc1V4V3JiZjA5V0RNeEJzbFJtRkQ5aUZ2WjBzSWdWS2VzRkVkZnRwSzhEQ3E4RHNSQU43UGZsY3RYcHgwc212WVNiYXhvbmFGQmhjZHV2WFpTdThMaDFmak1YVmZlanRMaTk0N0RwS2xqTDhBZ1RiU1A1cFJRWVBvN0JFeXptXzhqd2JCaDdiM1hELXVtTmhFRXlDWdIBpAJBVV95cUxQSDQ4bGkwVE1iYWxmYUYzellSTFllY0t1SVpybE9OZEtzNXFDSFNsWGh0YWlZelRSRUduODM4NVRTVzFEUkV1TlYzNm8wV2dEQlpmTkF2Zi16NEI0LXlEVmhLb2V4MlU3eTZYZUxURUQtcm1UV1Z1Z3dSN0UxQ2VmWU41T0VjMTl3T1UzUWFTbGpZVXdjcF9iS0Q4azFpaWNFRlNGRG1jSXRqNmNtUW5COEZwNUt2cHJIcjQzZk0wcjFiNWp1cC1mcVZXR2RmNG9LUjFqRGlQQzJrU2trTnZ4dEhyNm03a3hBYzE0YXZDTkNuNTNUQXBJeXdLaXFZOXAya3g1bnFkRXEzZjRrSEhmOGVQdEFkOVVDd3BDSzFqQi1GSFZn?oc=5",
+      "date": "2026-11-13T19:00:45.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "चंडीगढ़-मनाली हाईवे पर हादसा, सतिंदर सरताज के शो का साउंड सिस्टम ला रही गाड़ी रूपनगर में खाई में गिरी; 4 की मौत - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1ZNUW0xUFJSZzctcC1oT2ZxSDRBVGNJWVV4NHdwR0RUVk5CNVRDQUpTajRxWV9BeTFiSjh2QTdOZDhuYlFIZW9fNkRnX2RrcUpFLWwycHVqUkMxOHR2U3NMTGxMaWFjRzcxZHNHWkQyRGc5QnBEMnpMcnhLSFVCYzdaNC0xUDVHX0JfNXBpM3hUc1ZvMmttMnNpNmN2RE5ialpKc29RZWRNZw?oc=5",
+      "date": "2026-10-28T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "किसानों ने चंडीगढ़-मनाली हाईवे पर लगाया जाम: हाईब्रिड धान पर कटौती के विरोध में धरना; रोपड़ में दोनों तरफ व... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTU5sb3Btc1lJR2V5eUhuYWdFclN4TzJaTDBSbTF3ajgtdGQ3aWJhdGJMTEVoeUcwYTFrTlRhNm0yTUFvaHRlVkpVQXlPN05KUU1scnl6ckIxMzEwZC00SllZNGp1MEk1OTZVcEtSOUFYczNpYTNMbF9QU2pDVTU3dFljdWY4VHY5ZTBKcVFhbmNGN2NjNFNEeVk0UE1WYThGenUxWEp4Tm8zNmFvajdqc3l3TzQzUzJ5N0R2VGNEMDhobzJ0SXfSAcsBQVVfeXFMTVNqQjh5TkwtUzI0ekZzbEY0V3RYQnNtNU80M1Jyd0NXUHM4cTZKZ016bXpoOE1Na3U1cnA5RDdoZWFITHc3M1NCVnJxMzRMVU9DTWwxdlpoRGVCTkp0Y1RfWnA0RUJfZDhjQnpfdnM0c2U0NFRhdTZhVmhSa1UyVDVSc2lFV2hncmR0a0hnbDhQM0xnZXhxeElMYmdEc1ZpWF9Ua3QzUnQ5QVpFbThCdVA4SmMzNXNKX2VxNC1pT2ZLNGdYdXV2NjdBUjA?oc=5",
+      "date": "2026-10-06T09:23:36.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
     },
     {
       "title": "Farmers block Chandigarh-Manali Highway over Paddy procurement deductions - Punjab Newsline",
@@ -60,6 +100,46 @@
       "match": "Kiratpur Nerchowk"
     },
     {
+      "title": "मनाली हाईवे पर बस की चपेट में आए स्कूटी सवार युवक-युवती, एक ने मौके पर तोड़ा दम; दूसरे की अस्पताल में मौत - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSnQwUVFBOGx5MXROYzF3dm5tWWNVd2psMkF3UUFHWTFfV1UwQlhodHExRC1wRU4ta3l3Qy14M2tJeTc2SHk4QUc5Y0l5Y1Vkd0E5MlVieWdCMi1NNVlvcEEtWDU3X2d3bUc1bHhTb0dQYS1KejRXdldKaUZKRmw5WjltTjVrblhYc1h5UUZzVkN0a3ZRQmM2OFlDaWRrM3RBcjNoRVNYUFVqSDBlTUdTemhQOFE2UQ?oc=5",
+      "date": "2026-08-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "HP Road Accident: चंडीगढ़-मनाली हाईवे की टनल में ट्रक-कैंटर की टक्कर; चार की मौत, छह घायल - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0ltVWUzcEZ6WWpTMUFHemtpUnBGTUVkM2VmazZKNDdSLS1jNk9HVEZTby1PS0pnMmdGQzNCOFg4bzRQd2dpUGIwWGtmdHNwbWR4X3RkQzhpMXFiM2h1cVptSk52V1NsR3VQb1M0ZjFTWjMxZFRvTXJYMk5hWUlSVUNfQUszc1Fxb2lvd3FHOW1YWmtidXgyTDR1YUVsVzFUck5SSzJ1eFVPM2VkRWVDMUphUDhOR2EzdDBGYW5zZUhlSHQtdTNr0gHMAUFVX3lxTE4zc0lVT0F4cUJna01fU2RHZGtYb1hBV09BcEFUODVWZWpFdXJWZWh3REl5azlMdjNFbHdJWjlsVWpCODUyclFGU3JHN2F3YnRHUFJQSnBhZUZFYWJhcTBlbFRERzdBdnE2VThYbHllM2dwNEZHaFV1bnQ0MDdzV0ZEYmdZQ2VRVmp6Vk1qTmVZWTgzb1pYOVRDcU9QMldwZU9vNUJoRnhRSUJ6TVJUQ2FQc2FpWDRFUGtLaVRkSXJTVVZHN0lQS2kwbUJ4TA?oc=5",
+      "date": "2026-08-20T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "Accident: चंडीगढ़-मनाली हाईवे की टनल में दो ट्रकों की टक्कर, तीन की मौत और आठ घायल - Himachal Now News",
+      "source": "Himachal Now News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFZHS21iME5YX1lkZ2l2T3B6SW9mbE1ON2pFRTdNNTBCVXRMWjdoMEhicmN2NzZhZkFWOEZoNkt5UDduZnUwaDhJdDZ1el9IcV81R3VjOHAzbnZfakR1RmpLQlZIOFNoemZ1LVkyUWY3Q1Z5UDQyWXhkaDhKMjVfczBSMTFjcV9lZjNFc1VwRGNqSTdReDRtRHZ3?oc=5",
+      "date": "2026-08-20T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
+      "title": "चंडीगढ़-मनाली हाईवे पर पंजाब के 4 लोगों की मौत: सात घायल, नगवाईं अस्पताल में भर्ती; दवाड़ा टनल में सुबह के वक... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV1FOa1k2dHg5R05SbkdqRUZaMU1PRjMxMmUzWWdnbjBWVHNMUXF1Z1EwZG5ZQmMyWVRGYkdDWG4tZW9tVTllY3pXY1h1WmxRNVBiZVZwYk1pOHU3X3hqUkV3WXFKMl8xclpIOHd2RWUtbDhmWWhkaVZLc3NabGM5azBCeUJpdk9mMW1UbktTS01xQlA4YWxqdzE5OEN1MVdkenhRYWFDWmREVk5oVHMzYXl6dHNZczRJek80c0wyc1dOSm45eGtN0gHMAUFVX3lxTE5nNDJiRUNlaUl2T2kxME5rQXlJUEg2eVN0eTM2Q29GZ1dWRk81S3B2WjA1eEtJUy1KNmgyUEhUR2V0Ri1jMmFmZDh3UmZOMmVrNm9VMXZMcVM0MVdtTXRZRlFhNi1LS1hnZlR1VjhyQUhrZDVjaUpEcWJzUmtRRTJGcXlmVDZ0U2J2WUZmX0ZWSHdhbC1tNUNOOXJoaXlBM0k2Y2NwSnN4QUJvQWw1Q2FXa2RlLXZmLW9wMkJrZVdaZ0dHYzA1cW9pSFlqaw?oc=5",
+      "date": "2026-08-19T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Chandigarh Manali highway"
+    },
+    {
       "title": "Himachal Rain Fury: Chandigarh-Manali highway shut, alternative route also blocked - Babushahi.com",
       "source": "Babushahi.com",
       "source_id": "google-news-en",
@@ -90,6 +170,16 @@
       "match": "Kiratpur Nerchowk"
     },
     {
+      "title": "Terrain trouble: Landslides, floods triple cost of key Kiratpur-Manali highway - Himtimes",
+      "source": "Himtimes",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzFxSjdEeVVIQ0VFbTBvRDhzVlVhRWxrRF9naHp2TkdhaS1OamtyVmg3dmxMaXpNQ2RmTTlrY0VvYmxkUzVfZ3FNblAwMFBOcG5Ga05hd2VqMmtoS3BEbTI4ZmpmUlA3Y2htZXZYemlJY2JfenNEQ3ZuS2dMaEZjeTBsOWZFWTRSRDJyUDM2ZGN3SkhnUDlxWUtnVDNTMlU?oc=5",
+      "date": "2026-07-26T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Kiratpur Nerchowk"
+    },
+    {
       "title": "हिमाचल: सावधान! स्वारघाट-मंडी भराड़ी फोरलेन 24 और 25 जुलाई को बंद, प्रशासन ने जारी किया ट्रैफिक प्लान - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -115,96 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2dHXzNxTlBYV200YmVTR1Zpb0VkeTdRRElyeE5pRmZqbE45b09yUHVsV3VvdXhDNXZqMFBjY1Rpa3pzYUl6aEpJRWFkZzY0cXktWTA0ekJIMnZFWXBhUXJQWHZiZDc1NWdrYzZHRVBSdmZ0MWRZRUZSeWFPNjM4YWh6MXBmSlJsN21qWVBCOTMyRUEtYmZ0VmdJbWZaV0xrN3luV0ZjcXpfMDVhenAyVUY4OWdVVXN4UkJCMlR1aS1nb2vSAcMBQVVfeXFMTUtnR18zcU5QWFdtNGJlU0dWaW9FZHk3UURJcnhOaUZmamxOOW9PclB1bFd1b3V4QzV2ajBQY2NUaWt6c2FJemhKSUVhZGc2NHF5LVkwNHpCSDJ2RVlwYVFyUFh2YmQ3NTVna2M2R0VQUnZmdDFkWUVGUnlhTzYzOGFoejFwZkpSbDdtallQQjkzMkVBLWJmdFZnSW1mWldMazd5bldGY3F6XzA1YXpwMlVGODlnVVVzeFJCQjJUdWktZ29r?oc=5",
       "date": "2026-07-11T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
-      "title": "फोरलेन पर कुल्हाड़ी हमला मामले में बड़ा खुलासा, वारदात में इस्तेमाल गाड़ी मालिक गिरफ्तार - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUE92bmdpUHE4NnVlUzdvczViYkU4NGItRVFCTWpwN0pkSFByNGxXeC1uWkJfZ244QzBmM1ZzdGpZUjltUHhvNVgybWthdTRqRzlObHBob25pM09fZ3Z1eXJnbGRQZWdqT01kN0s4TTRSSlA2VFIxWjNRU2tQd2c0TWthZENZZG5nZmNHZ0paeTVMeHJkSjVGeFd3OUNRSFJybGJhb0RMSUI3ZjhMYWtKVW5pUWgyR1ZiQzRyaC1hc2hCMFAySjBTUEtUS2paLUlwM0x1NnRZemd2QnlZc2hwX0Fn0gHnAUFVX3lxTE9wT3c4VDEtV2R0MEdMU3ZRcVkyVVpJbHZwV1Q5MkNhMjAtM1pPdFNaQThjcGlTUUNlcEIxNVh6SEJsZjFrVDdrdTdPVnk1SjNJYU5yWFB4TmZhYzVBZUVpMldaWkE5R25Ra0J6S2VuOElXOHY1MTIwbkh6MjJrdmJsc3VrdllsZk9KZEt6cUNvWnlGWWI0cGIwX2ZLS0UyQ3NfNVV0VVp1SGZ3Z0loVHZyTHcwdXhMQTJ6UDlEVzljcXRUNlVyN3FDSE1iQVRBZm84TTAwdmlFbFVCdnVfTklZQ3d6U0NCaw?oc=5",
-      "date": "2026-07-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
-      "title": "Kiratpur-Nerchowk project: HC-ordered audit uncovers over Rs 22cr scam - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeFpCOWFlcDdzdHVNMTMyVmV4YVpseUxTSkJ3aDlpb1Z6VFNxNkJ6ek9RSDFDZGlfaFdLUmJzRVlHM1FseVZyMURLa1Ntb2lKMWp0dUNWTU85NGFBSDBFUE1qUWpaWVF5Tm1VbDdGaEIxRUJkZW5VNkE4Y05UT2lmSUI5YnM5ZFppcnJiY0FQc2t1RDdhRVFWeUFzRjcwWTluLWRUekZCOVRpM3ZneGFRcGJseVdMUHdWTmU2NUlOd2tZNUhrbVd0cFJNSHA3YnNSSXoyaFppNnlPRTNkem5kUdIB5gFBVV95cUxQZ19YakdlMWFPRjNkVzFyQ2dDck5id0dCaDIwMkhoS1JDSzJha2pUeEFCTEtiUG1feTAyN1pxOW93OWlNbkdaTGxWbHlhdXpHaG5vWUFpdHJtLXB1LTdyU3R3cGdUVlhjNWlRNG1PWmxSdmo0SnlZZjJoS29PTjlPSmVYUGpudGFQd3ROdVF0c3oxRjV3dnl2NE9oa3NMWXRlR2JubjJNZUprbFF4Z2RIWmhzQTE3Y2JTbDBFNDRCT0FUR1BkTEVmNXhXdFZlNEhHUE8wdkRSeHNuVXNQMEZxWlA4ZWpDUQ?oc=5",
-      "date": "2026-06-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
-      "title": "Massive Traffic Snarl On Chandigarh-Manali Highway Amid Tourist Rush - NDTV",
-      "source": "NDTV",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3VEd2tLaGs0QkJURVdCVkZ0dUVRdC1Ga1hRSWxVS3lJNWRJLVFXXzQwLU5PLTd2M0ZGMGpwVmt1Y1NCRHd2MHBwOGY1SnREZEFGbFhYWEpabTBiZGlYc18ybjJMV1NrRGNLZTFVRnFEX2pCbExDeTA1aWxKaTFMM2NXTVdTZ1hyS2xqNXRvd215S0RBMlJ1bC0xOGFieVdKUDJLZ1VJSQ?oc=5",
-      "date": "2026-05-27T14:46:08.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "किरतपुर-नेरचौक फोरलेन: कैंची मोड़ में 1800 लंबी समानांतर टनल का उद्घाटन, जाम की समस्या और दुर्घटनाओं में आएगी कमी - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcmNNRmJiaFcwREpxaWlYMFdJVWxpSUlPcWMyVE42c3UzN0tLak1HN1JkMlI1dFNKZTBfMlhXbnJlN0Y0QTRLNFkzUFBHYnNKZV9WejhrS2MzV3NtWmNwYlpzcDA4LV8xSUZzMmphZEFfX1BMUWR5c3hDTmJSOV9PajQybWRTc19wcTlFSTJaVS1INmtsTE41dDBiT2JmUHZnUEN5bGlXZEZRVFdqSk85TVJXN3dJWjJySkZNZzNVZGRqSVROOUs4ZTRhblBfNWRkZkhwZmVIUkx3VlBvTG5WX2xrMmZrRnI0OXpHYloza3BmU03SAfgBQVVfeXFMT1haR21tM1NKemhSek01eEpSZG5SR2J2a1dZcll4X0NlQmItWEVwRFpmc0ZvMFVkNjZ5MjY3c1pXSG5penBXbW82R2xCbHRXaHpOaDMxM2VvQ2xjcXVHLXljY1llRC1ST3BGcHBhR1dleVRtT2RnbjJSNFNveXZRcTVoemdTOWZudHF1ZW5tLW1tYnVFMV81VVhnenktb2RpdHcyWkVZU21sTVQ5bXhObkliYVBnTHlEaUppNlZmODdxVGh1b2Vaa2FSSWNGdDBZYnZVdXhzVW1fVWFYMXB0UDE0RnVRNzVieHotWHVEX0hMWHdWOUJOWGc?oc=5",
-      "date": "2026-04-07T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
-      "title": "Chandigarh-Manali NH blocked: Earnings hit, Punjab transporters protest Himachal entry tax - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd0V4UC1HY0ZzbE1samFfU1ZLWVV6bDhETUJMVWhFRURQSGdiclYwWk9DTXJkU2JlVjAtSHNjS2VxWW52YXlkWFB0aXFZVmgxenpuSkMyLUZIVzUyNmNMUXhkc0tFZGpUcmNvbFk0eFBHNnI0ZnVkMGs0c09LUzhROE8tUXQzLXUzR1lldDROTzdmZWU0WUlVT1ZRM2VuS1J2QzdBMnZUT0pOQlBrZmZoOE1lTi1VcTVVdHl5eExIaTJvbXg5NmRNYjl30gHOAUFVX3lxTFBpWkNvbDdYYkF0RjFPQ0lYS0Y2elRJRERRT2o3QlFqZzhSeVNZelpKQ2hTUXZfeU05MTlUWGVrcjJCZlh5R1MyaEhLd0ExR2xRV0ZZazlDWkNTYXlwR2tkRUh1UjR0NXhXZ1RwS2hwdGlTT2hvU0JsbEthWFhCNG5xWmRHdDBCUVlESElLNmR0UDc4NHBZMENtYlp4TVQ3ejIyUFV6WXR3OC0xMnlLV3ZhaTNVaVdOMmg2TXlFQk4teVFGbzc2LTY0dHJZLVpB?oc=5",
-      "date": "2026-04-04T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Chandigarh Manali highway"
-    },
-    {
-      "title": "NHAI Opens First Cow Shelter On Kiratpur-Nerchowk Highway In Himachal Pradesh - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMDZNRHg3czVmNGc2YTdrQTFEQndWbklBX21FQlc4R2xnS0ZBSmdnc1NOdk5aQUdfMUVBTUVDc293VDBUS0RLS2pNM1pfWjlGT0JKZ3RtTm5QUzg4N05CV2d5bWxRWDlMUEtrN2ZfeTJfODlaS1ZDLV80NGFUUGVxT2lJUEJmV0xwcXlXVHdyVDVrSDhQdEFWSlFPSllwRjJjS3pLdmRNbTRBS0VGc0tKZGFYYkM2VEFEM0ctZHhEcjJEQVlXbkHSAcsBQVVfeXFMTS1JU2Zvb2t6RUdleEpPV3ptYklER1g0Smd5cjZaRnN0cUR1djZURnFsZEVKajU5Z292WlpTVjE5OS1JRkJZa0xTTTFIS3kxakFRREhyQjBXU2w5N0NOOTFQY2NRWHVqUXZUZkJncnNrRXRFTlpuQ1UzT25VQllrMTk2TGZkSmZZMlpkaW9UaGdyTlh3YlNwclFaZ3dielgzY09KOENKUHlCaWV5S21qc3M5SjRza0JDX3h4V3ZDcE9SZ3I1N25aaTJNTHc?oc=5",
-      "date": "2026-02-04T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
-      "title": "NHAI reviews progress of Kiratpur-Manali highway - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVNmdW4zSUtwdWRfd0ViRGRzajM2dmpLTnVydUNFUVU1RElXZTNrTXpVR1ZtNmlEb3U3TFpBcE40TmdDV1JRQVExTk9Gb1h0bjNKenJiQk9SNFJfVGdqTTIzZVZCTXE0cFBfOVdiY2xvMDliSVFpQnV1ZmJHSFAxWjQzc29EbnJ0NHAwRlRWcG0wRmRVTHRr0gGbAUFVX3lxTE4yNjNYMzlSLTRSU3ZTbGthMHFTckN5Q1VlMmJNYndqLXdpWC1BVjliOEFwWTJYRjdoVTJkYUxRTTBGWTZLOGtxY0QyOWJKLUwwRW5PY2hYekNsSFR3cWZscXVZOE1lSDBUWkhfNTc3MzNHYzZ4QndXN1o3NURraUZSQkZReUR4cWxPRXFGaFA1aDdIcV9fbjlnMEpZ?oc=5",
-      "date": "2026-02-04T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
-      "title": "किरतपुर-नेरचौक फोरलेन पर टनल जल्द खुलेगी: बिलासपुर में 280 करोड़ की अतिरिक्त लागत से तैयार, जाम से निजात - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOURPajJsenpSazQ2aFdkYXh0U2RsNFBRem5VT2hjaURpejktRGxrRkVhVVBqblI4RUJ6bjAzMGp2Sm80bWFzMVJCck5IdUhSclNjdFI3cllfcDYxN2R4M1p3NlZXdVFMd2RBdmQ4THQ3ZndIMHQ0cml5bElnWnpHeXJMdU1CbDVXRTVkelNSelBfRUhwalFpbmNKVFV4azV3THBfY0pCeWhTYkR3VzQ3VkI3MU_SAboBQVVfeXFMTVY4STNnT0lpVFV0WmlDdTJhZENxWEhHVWVWY1hFeXBVOC1rd0lTVUlKTmFjQmgxTXpkWEZ3NlBTdnJldW56UmduOERhYUIwaHN3V1NCWG5mM2lEQXlKSmhIUUtIdkxpbDlZQzl1cm1GU1dUY1QwTnBHTlNrSVB4T2JCcWdZeUJkcGh1VzVwcGxhaDhYQkZEakoxMmo3M2NENFF1dnZQY2N3NnZESkZWbTl0eEtscVJpaE53?oc=5",
-      "date": "2026-02-04T02:43:11.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Kiratpur Nerchowk"
-    },
-    {
-      "title": "Pregnant woman hit by truck, dies in Bilaspur: Vehicle hits car on Kiratpur–Nerchowk four-lane; injured hus... - Bhaskar English",
-      "source": "Bhaskar English",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWRYSjBkOTJ3bU1xaHdDeDJLYmdHclF3WkZwN1VVVmZTcXVWWGR1VjlaOGY5aTU5WGtxaEF3VnhRU1JUYmx0QTd3b1IxdlBnRmk2VE5zREcxc1VZOUhQeXNac1ZwU0pNSHpFV25LZXB6UUpwSWs2cklLSzdFXzltQVQ4UnFRUldZU2I0S0s0U09rNG0tbGttcUg0U0dYWm5OWU9lOEJDZXZqeFlhR29fY004Y1FQM1p2M3VWcdIBwgFBVV95cUxQc1lwempCUjlwSlctT3ZxYnk1Mm5mRzRyQWNsY0hyRVNSUHlobURIWktuSHFXamVFUFVITjY3TWJkc1FQbkpkT09oQ2d1WjlMUEdfdXNzTFoweDhzNFlxQm5WRlhEZjJiNTgxMkdDQzFwVjZ5M0pVbncwX2tOLXVWckVWODVQbjNaU01DZERuMnA0WFNoOEdzbExJTHpjd3A5YVpKTVlRS01QMDkzSU5xSEgwaWNoTU0yWEcwbFowWUdwZw?oc=5",
-      "date": "2026-01-16T07:11:42.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Kiratpur Nerchowk"

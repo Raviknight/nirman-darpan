@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-17T02:15:15.335Z",
+  "updated_at": "2026-11-20T01:00:29.457Z",
   "project_id": "SMART-SHIMLA",
   "press": {
-    "n": 17,
+    "n": 15,
     "positive": 11,
-    "neutral": 6,
+    "neutral": 4,
     "concern": 0,
-    "avg_score": 0.212,
-    "avg_magnitude": 0.353
+    "avg_score": 0.233,
+    "avg_magnitude": 0.393
   },
   "youtube": {
-    "n": 2,
+    "n": 0,
     "positive": 0,
     "neutral": 0,
-    "concern": 2,
-    "avg_score": -0.5,
-    "avg_magnitude": 0.5
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 19,
+    "n": 15,
     "positive": 11,
-    "neutral": 6,
-    "concern": 2,
-    "avg_score": 0.137,
-    "avg_magnitude": 0.368
+    "neutral": 4,
+    "concern": 0,
+    "avg_score": 0.233,
+    "avg_magnitude": 0.393
   },
   "top_positive": [
     {
@@ -47,19 +47,21 @@
   ],
   "top_concern": [
     {
-      "source": "youtube",
-      "title": "First achievement,  water supply every  3-4 day, second achievement,  over headed electricity HT wires, no undergroundin",
-      "score": -0.6
-    },
-    {
-      "source": "youtube",
-      "title": "Wow what a smart city, shame",
-      "score": -0.4
+      "source": "press",
+      "title": "Challenges of Smart Cities Initiative - GK Today",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5Nmh3czZUQmc5OUF0Qk9BMkIzelY3QmxEMmFDNTVTR3BIN0VIUmNkSnhGZ3dQdUJGVHdGYmNDUXNTcS05dDFPTDFFOFZWdENKM1hyTnhIT3psSlJoWktxTU81b21qRHU3Q3ZoMWJn?oc=5",
+      "score": 0
     },
     {
       "source": "press",
-      "title": "Shimla Smart City Mission: Videography of all dev works begins - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGEtbEVmTXQwLWk0TXRlcW92Z1VZd01yeVA5Mkh3OV9hMUNvZ0diemJlWnp0SlVhU1p3VVJPWE1hMjZwNWo0d0x3Uk5KZW04T0pYTzZsRXF3SGVwdU5ibDRtX3hXU1JMc0gzMHlXT2t6YzRxaF92ZTBwTGNqOUZybzdVVV9NWkhUM1czUFJWaS00LVBqYzVSbnJncFZ1c25fVHFINkpDVjXSAawBQVVfeXFMTWFhMW1Lc0xiTVBkc1YtZ282QXgwZnFkdk94NnMyRnR3aHBiZGRVQzRsQW10SjcwS3A1WEdlMkFxVlRtNXhGaldENk4ySDl0bnhHbUthY0duV3R2YjJZTzZPTGhCNVpkZzRTZTUxQlJoVE1BdDlpZmRQSFNDYUcxcFRLemYxNUxmRlZ2cWRSdXEzNmp2ZEpXQjI3bFE1cEVRZ25GWjVVUFZ6dWZENA?oc=5",
+      "title": "10 Deputy Commissioners,19 IAS, and 6 HPAS officers reshuffled in Himachal Pradesh - HIMACHAL HEADLINES",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXBMWWdraG1yY3JYX2pER3JkX3JCTUF6RWVVRjdmemVma0hkekFuVlBDLTROYnFnSWlRSlVKOFBYZmhEd1ZjeF9RQUF4VGtGenI2Z2dWQW5kVGtUek9Ua25zMENRb25xMjh0d0UzaU5Lc3pwaVpmZldoRzRkdURiWTkxZ1Z3aXRsSko5SE5STkFxS0lSRkY3UGxMQ3lXeHludFZfMDdhNmdBWDVienc?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
+      "title": "Explore multi-storey parking at Lakkar Bazaar amid rising traffic: HC to Shimla MC - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVjhaYnN2WUtPQTZNTkgtQlFOeHpGNkJNWEViLW5MTGxTa1RJMjdyTGNtSWIyRWtmQjNNUmxDVDR6Vkd5Y3NvNDFjeWc0eDRUdl9JaUZxQ3RKOG11ZmUxYVp4enZLaW9VblhHOHZQN193UkotMDJZZjgyNUhBUkZFYlNRbmprSDRjLXVZQWtUdElacXZqYWNXdE1kZkZOcDcwdkc5d0RqYml6QlNZVFRsa3QtSEwyOUhxZzQ2TkEwSV8xVzZDa040WF9CX3V2TXRWSUNHVF82VU04TzNlX3ZFYWFyMDVfR2xiOEVEZHdXNjPSAfYBQVVfeXFMTzBzRGxEcDNmVE1IVFpMM0JhU0JwYWFDQTdUXzlad1NzSy1aRVJNMWc4UVloYlR3NUx0dkFPX3JHTi1NWVNvRHkzcGdBRlE3YkdKSE8zZDdnYlIyWUU0WDBGYjlmY2ZraGQ1TkNFcm50ZC1BVmVKaVFMeU1JWjdacndfZGlPb0MzUWg2ZkdFenlSdmtNZ1J6VEdjSDFCVzdxQUJMcUJiU0RQdGJIU2ZlNkRHaFFSaU14d1V6dm1xMkF3cGtsMGRIUndvdDlLTlY0Nm1RVWhSVGRiMTRZYnBsOUtJa2g2VmVBXzRrT3RRbnJ2bTBLNnZR?oc=5",
       "score": 0
     }
   ],

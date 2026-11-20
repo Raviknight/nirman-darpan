@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-11-17T02:13:01.468Z",
+  "updated_at": "2026-11-20T00:58:36.438Z",
   "project_id": "LUHRI-1",
   "counts": {
-    "press": 27,
+    "press": 39,
     "gov": 0,
-    "en": 23,
-    "hi": 4,
-    "total": 27
+    "en": 29,
+    "hi": 10,
+    "total": 39
   },
   "mentions": [
+    {
+      "title": "Geo-tagged monitoring ordered to track environmental safeguards at Luhri Hydroelectric project | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWGVWQS1pRnVjRzlfZEVaQngxTlQxNEJrY2RNdTZDWUN3bmNMNElsd0xjS0Z1bTBMblo5Q2xjNkdmRTJ3UVczR25yMk0zLTFPOUFjSWtGdngtM3ltZzI3dENyeVExQWlKMkx5cktVc01oOTRSYjBVTzJNNGtGOTNEcU0tcURMZGxhLU5zUkF0TllGaTdsYzVTc0NOQzNOSGlTZGVpMTh3ODVua3lTMHFOc1Y4elI1eFdfTGM2Z3FHU3czVlF0TUt3Mi0tNmZBcVFVYTgyc3M4cU9CRUYtR0JUR0hiQWNtWTlpMlJtdGE4enVHVHNZMzBaMUo1OELSAYICQVVfeXFMTWxLa0g5bHprNVhHVWxYbmRZanFoQUxBOXRKR2EtNlNNbEFkSWdEVFY1V19HamoyN3YxT0FWdVVPWEhabmZrcUdoLVRnVkp6RWt4WkZRdS1XaURnT1R5dTlGS2FqVnVUd0dRaUF3VXlSNEVKZWh5clM2QXZYb1NRQXg3dWRsenFIVEtDcnVRYUpHQjNEcVMybDdGTGs5VFNYSGFqdG5fUEZlRUJLazE2ZjRYWjZPLUM1blE3QnE1Q3VEdDhERURrU3h1STNFZWhzU016b1hNUDJzXzRfYm56ZmptS0lsa0F1cGZNV1hNNzlRZkhtTXJ6VkYxRXFWZkNKU1h3?oc=5",
+      "date": "2026-10-03T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Hydroelectric"
+    },
     {
       "title": "IndiGrid to acquire Luhri Power Transmission for up to ₹1,336 crore - ET EnergyWorld",
       "source": "ET EnergyWorld",
@@ -28,16 +38,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "SJVN Sutlej"
-    },
-    {
-      "title": "REC Power Development and Consultancy Hands Over Luhri Power Transmission SPV To Terralight Solar - SolarQuarter",
-      "source": "SolarQuarter",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLUd0MkRlVE5VZ3F5R2JzT1lPckFtblRlMVBjWENYQmFmZkVzdFZTUFhrM3ljYi13ZGlJSDNadFFzcjU1bG02M3F3eHBpZnpBOTdaSVJtZUtSTXpiZGdJSExDcDZtUHhuV21IZEtOdjFtblA2N1Y4Nks4OUdkeWJOeWh4VzRQZndLSHdwNURFTW0wWU9ISXRuV2podV82dnFxXy1TbFAtSmJobmFoNWlXcXM2Rld0XzgwVW1wbklnbDRxcTJqbnh5Vk5YUTAyM0E?oc=5",
-      "date": "2026-09-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
     },
     {
       "title": "RECPDCL Hands Over INR 839.55 Crore Luhri Transmission SPV to Terralight Solar - Energetica India Magazine",
@@ -120,6 +120,16 @@
       "match": "Luhri Stage"
     },
     {
+      "title": "केंद्र सरकार के अधीन स्थापित होने वाले चार प्रोजेक्ट हिमाचल के हो जाएंगे, हाईकोर्ट के राज्य सरकार को प्रोसेस तेज करने के आदेश - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0ZoOXRJN2ZHOTlfM0xweEJ0RFBId2JHOXNzYzVDQkpUQ2FNRUxyWU1rRFdjYldfMjV0ZkpiMmhXTlU2bmhLdEpQbXVpSExXLTliY0dCT2s2MEZrSUNNNUVDbnVQN0pyOUtCaUoyUngtX2xzQ0F3T0FHdFFCQTNxUXhaNEpEMG8xN0c2THRwYVl5MWNzU0pzM2lUSmkxQW9NU0REVHVxUXJWNXZ3NjFkMTJRTXlPR2tHU3JscEpKU01SYzZUS3pNYUpvVUY0Z9IB0wFBVV95cUxOS1VzVTNZNzMwQVVBeXVBM25lc0dZLXdMSzk3elpKdzNfb0RYWWxGUWVuRVpxTkEtNWtTa3QwMmxmWkNjR0dRWjFnU2RXWGNHV2ZTZWQ5QlY3MkRLMHRmcVRiUzBsVlRxSktwV2tQdFREbnNkTU9XWHI2M1R0djNQMVlpOWcxYXRTbEFDakhBQ3RkOWRacnhkMHU0QnlkdEkzM0tCejBsZmpVTGZHNDNneGkwNHkwbnlQcEhCTkd4QUZ4eXR1WTBFTmNNaDJFektDbFd3?oc=5",
+      "date": "2026-07-06T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Stage"
+    },
+    {
       "title": "SJVN signs PPAs with GUVNL for three hydro projects in Himachal Pradesh - ET EnergyWorld",
       "source": "ET EnergyWorld",
       "source_id": "google-news-en",
@@ -140,6 +150,16 @@
       "match": "Luhri Stage"
     },
     {
+      "title": "लूहरी जल विद्युत परियोजना के प्रभावितों को मिलेगा ये लाभ, 31 मई तक करें आवेदन - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPalhMSjZfbzFHeEVFYzBvcHF3ODJpUENELTMweG9HSjcxcnZ0QW00LVBfaGZGVXZtOUV5dzA2MDVaYnlhR2g2RVUwTDlMcjRYSV80a3FfdzB4NXV2b2tTZ2otQkNnOThhRkRuZU51WWNXZ01xYTNOVnowczI5N3RzMEJCWnlyaEVjdmJPNjltRWFfMklQc3dPcnNqM2JheDZRczVzbmRMQ214RlhvSlBEUnhVQ2htMkc1Zi1MTl9sR0k0Vl9haVE0ZktkTEpLLU5QVHdEX01UWG1lNENVenR2OWJ2WTd1U21Fc1d6X1h30gHzAUFVX3lxTE9USlVsSXFxdHh1SXFmSzJSU3hYYkxoaVUtM2JXNFlGcldxeG55eEg3cV9LOXZPUG1NTDRRVk92TlFxLWhBVEUwMzlqdlpzaURkeVBleVNaNi0tZEZQVlk0SHZzdTN4QUpKM21JRm1sOGVMZHA0ZzdLLTlFU3BJc0RDZFFndG8ycXZ0WUdtZXlDd0NzRC1VRjFTVGYxNHF4Umx5enpnRVhvTjJvczkyYnFYUTZNZTg3QS1EZnhvamxzZXJGNm5xb3VvSjI1MHRBSDNvbTB2dWVYeHZQV2FwMzJIdWlPUGRyQllkbmRHMWdJTWtsQQ?oc=5",
+      "date": "2026-05-05T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Stage"
+    },
+    {
       "title": "​लुहरी हाइड्रो प्रोजेक्ट प्रभावित किसानों का हल्ला बोल, समझौते लागू न होने पर फूटा गुस्सा - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -148,6 +168,16 @@
       "kind": "press",
       "lang": "hi",
       "match": "Luhri Hydroelectric"
+    },
+    {
+      "title": "केंद्र के अधीन स्थापित होने वाले चार पावर प्रोजेक्ट्स अब होंगे हिमाचल सरकार के, जानिए क्या है नई अपडेट? - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTY3Wng4STVlRjdUNEhNSW9LYjVac082SE5nY01yRVUtT295ckplMlJydUZzTzBCTEVaNDZkOUZaSW5naEJ5VmJwQXB4WFBYdEJkVk1PQnA2TG5EVFJJYjZLdGFHM1JJaGJkLVE3QlpiNTdqNTR5MmpBZVViX0J1UnZwOGtJZXlxUlRqVzMzYzlsVGlMMlBXUkpseUlTZkxZZGlpNDBfeGVLNFhTR01HVFFLalN6ZktrNWdHUGY3NU1TVUhUOXotZlpLaE01R0haMEVMeTVYeDVmZU4wdmfSAeMBQVVfeXFMTmNSTG5KckJmcVk3R0lQdnh1YTdDMWRVT3JqVG91dVNYQTFObjY5UEgwU1Z1azZSbWdKZGtPWnZVUzY5ZXhwTnREWDF5d1ZrcU44RFNmZFNJaUttX2ttNkt6ZXpFT1EwWnNmd3YyQnJncVBfdVNXZVhhYnBSN2t4aXFORjZURV91U3J1Zm1iNVJ4eGhKQ280WTVvbjFxVENZLVE3TGoxYURxNmJkdkxMT21NNXg1bkhPU01RbjVOQnlBUDdEa0Q0emJzMXYwS0NYYXBBbGhXTktESHlJaTJDb1pJN00?oc=5",
+      "date": "2026-04-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Stage"
     },
     {
       "title": "NCT clears Rs 839.55 crore transmission scheme for Sunni and Luhri HEPs - Power Peak Digest",
@@ -178,36 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "Luhri Hydroelectric"
-    },
-    {
-      "title": "Himachal Pradesh: Damages at Luhri-I HEP Reveals Loopholes in Dam Safety Act - South Asia Network on Dams, Rivers and People",
-      "source": "South Asia Network on Dams, Rivers and People",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmY3ekFrV0xiYVlRS29GWVpOdnNzVURrYmtHQ2toSkFteVZrWWZVZFlaQ01sa0hHZmdIc3U0cHE5dThHbFBkTmZlWTdFY2RQRmpOYmYtbXRCMVhiYWEtM0JMZ1RxdlF1THVxYnNQSEdLYXB2VTJ2U0hJS3dybVoxMWc2NkdxZ3R0NWJqMFl2OTdWSkZTNHBEdUFHQ2lxY2hvRzlJeURBRnk?oc=5",
-      "date": "2024-07-13T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
-    },
-    {
-      "title": "Punjab to buy 1,200 MW of solar power in ‘biggest such deal in country’ - The Indian Express",
-      "source": "The Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTFYdWtMaE5WUUxKVHFkdW5EV0pYajVmSGtaczVPazF1eF8yQXRtdC1VU2dQaEg3MHZTRERQZVl2WjNqZFhJVktIMy12RGRNQzFxUkFUNW5KMmJzWE9wVEJpRlZ0eDFKS3A1NVJvWm5HSHU0b0xnSWF4Si1FMi01djl3azhjOXJjNzlObkNfbURRcC1vcXB2VkdTSHkyUlRuTXFZU0dBekpoUXNVOF9FdVVIMzIwRlZNVTktT3hfWGY3R2pDX2F5Z9IBzwFBVV95cUxNeElENXNXZ0F6Q1MyeEtqb0NZVXJZX2ZWdVBTaTFOQnl6LW9vMUFfOWM4Z0pnLTVDb1piSUlsOG9fTFdTU1pZX2NVV3ppbXFHbXR3WFdBT3hZa19OWFFBSG5URk5iYTg5cHg1MFI5RzM2dE5nUjVDRUlfa2tIZmNpV29HS2dDSFdGaTFCZTE3aVNyTjFaMlRxeWlrM05CbEd2a2hRX0FvSFNDeWpNZGpRcFotTTBxU3hya3ZhUmlZLV93QlNhbjJkSEk5YXJwMEE?oc=5",
-      "date": "2023-08-17T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "SJVN Sutlej"
-    },
-    {
-      "title": "SJVN awards contract for Luhri HEP transmission line - T&D India",
-      "source": "T&D India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1RmNGMzWG5UelprRnFVaHliUS1UTVhUazR2TkhqMk5BMFJESG1VZG5iVllua19laHhzclZGR0ZHbnV6Z3BBblB2NFh1a2tGQ0dyMmphWHFTOXhMdjJMOTdGbFJuMTNyUUVtQnMxeVZPREFlaFdZdDdjbi1XaUVJdlZrWG_SAYoBQVVfeXFMT1BCOWJXLXZvSHFfWEt4TXhXR0dEV2ZRTk42TmxVc21jYy1SVXpYcWZiQWZvN1hrdHJjamV5Y1FoMnRwejJsTExiV3pKOUpTbkpBN3pFenNkenpRUGhWSFVhVzhuanhnT1BjN1NLUUV2OXFNOURON2pSSGV5cFJ4SERqM2h0OWhrU1J3?oc=5",
-      "date": "2022-08-24T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Stage"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

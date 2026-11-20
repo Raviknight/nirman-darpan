@@ -1,45 +1,47 @@
 {
-  "updated_at": "2026-11-17T02:14:56.635Z",
+  "updated_at": "2026-11-20T01:00:17.584Z",
   "project_id": "ATAL-TUNNEL",
   "press": {
-    "n": 6,
-    "positive": 2,
-    "neutral": 2,
+    "n": 9,
+    "positive": 6,
+    "neutral": 1,
     "concern": 2,
-    "avg_score": -0.1,
-    "avg_magnitude": 0.283
+    "avg_score": 0.1,
+    "avg_magnitude": 0.467
   },
   "youtube": {
-    "n": 39,
-    "positive": 26,
-    "neutral": 11,
-    "concern": 2,
-    "avg_score": 0.413,
-    "avg_magnitude": 0.71
+    "n": 7,
+    "positive": 3,
+    "neutral": 4,
+    "concern": 0,
+    "avg_score": 0.2,
+    "avg_magnitude": 0.229
   },
   "overall": {
-    "n": 45,
-    "positive": 28,
-    "neutral": 13,
-    "concern": 4,
-    "avg_score": 0.344,
-    "avg_magnitude": 0.653
+    "n": 16,
+    "positive": 9,
+    "neutral": 5,
+    "concern": 2,
+    "avg_score": 0.144,
+    "avg_magnitude": 0.362
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Amazing 🤩 view",
+      "title": "Wow very beautiful ❤",
       "score": 0.9
     },
     {
-      "source": "youtube",
-      "title": "बहुत सुंदर भाई 😆",
-      "score": 0.9
+      "source": "press",
+      "title": "अटल टनल के पास एसयूवी कार दुर्घटनाग्रस्त: धोद क्षेत्र के मांडोता गांव निवासी की हुई मौत, तीन साथी घायल - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYWRlSE1wVEV4ay1FYkxabGhjVXhOZGcyRmZTYTR5SGhKekppV3hONEVhZXg4d2VQMFBVYXlfSTBEZ09OOWRnSU4wejdCb2wzLV8tTmNuZmRWOTlIZ28zWURZNmY1RGViSDNIcUhUeVlablp4Rm9PdVF2d1B1NHdEcGdjWWZ5bmNXYWhRbzMzYldVelVmUU02ZVd0R3o5TTFpbFB5dFprNEg1TjllSE4zYURxQlF1YTNtbHdZWjI1MzdFazRJUGfSAcsBQVVfeXFMUGppWVRGS3BNSVVwTFVFR3RBVU5iUEdueE9JRE5CWWUxOGp2Ml9ndkV5VHpFUHVhT1cwQmIyYmdFRWJmYjhkazVMLS0tX1pJbEtDOURIMi1uUDNaRXo5by0zWEJqT2lRdUl2Q0pYUHVXUzJLZHVpTHVLUUc3VEg0VGkteXZpVkRCS1NxV1JyeDA2dUdtdy1CR19sUHBZUTBPQmUxTnVnOUt5bFNSRGpKaHpsSmpIT2cxVTFWOFlpQWNURWdTSjFtOEZRQzQ?oc=5",
+      "score": 0.4
     },
     {
-      "source": "youtube",
-      "title": "Beautiful video",
-      "score": 0.9
+      "source": "press",
+      "title": "अटल टनल से निकली तेज रफ्तार कार, रेलिंग तोड़ व्यास नदी पर बन रहे पुल की सरियों पर लटकी, राजस्थान के शख्स की मौत - Navbharat Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQV3dINERta04yakJqOWx0MUkxbTQ5UEdLZXRnbTQwRlNhNjh0dkFYU0JiSjBsV0JJTmJDUjJvcWhJNWFkdENyM2YybkVvdUtZalFSQVBCZnhYUXhJZGpKU0NvU29VbWVpYVVoYmkwMmpOTGljakhrRzZKVmVCN3BKRHZkb0VWR090Rm9yYThlX3dxdG1xOVgzSm9meWUwT1lJU0xkUlJNb0ZKX2kzVEpiX2N6Q3dwUTE5Zm5rS0U5VWEyQ3FVMnVhak1WcEJBQjVXeWIwcFVYdU9WbFVKRHRfbzdxdDllT2ZiMTA4OEwxaWxEbkRVSUd1dHhHNU9lVDNXMDRCeVl2bjLSAY4CQVVfeXFMT0VsWU5VNjhlZG94TmUwU1RGMmxEMFlvSVlwM0hIUUFVTFh4UTJaQkJRWWNzNnZoTVNZVU1VQXh6MzJkbm1VYV8wdU93aXp3OTBUY25ZdW5hWUdBd2JQczNOYThrU0c0X1VuTzJ5N3hfZUQ0d2FzQVFNUEtRcHRtc0ZlRUhrLWlKU0tKcFBMUWFNU3V6MWkxZGFnY1Y4ZExfX0UyUnZ5SFFmX19sWDI2dkQzM1pwQzhOem9lRF9feUg4MjB0OG83T1lVUDB4cUQ5T2trOFM3QlFneTJxQmxPU1NYYkRKS2EtOVpBSXRjbW0yM0NxZ3IxYTF4aFFSTUhnZndlRzd6S1cybDh1T1lB?oc=5",
+      "score": 0.4
     }
   ],
   "top_concern": [
@@ -50,15 +52,15 @@
       "score": -0.7
     },
     {
-      "source": "youtube",
-      "title": "In october there will be no snow in manali in any spot",
-      "score": -0.6
+      "source": "press",
+      "title": "अटल टनल रोहतांग के अंदर टकराई पर्यटकों की गाड़ियां, 4 लोग घायल; CH नंबर ट्रैवलर के ड्राइवर की गलती पड़ी भारी - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcGhxeGVUQVlBUnhjeXFjQkZJWWZYTEVZTnpLM0tNSE5QRW1UQUNYMkM5SlhxTkRFMy0yWnEtdXBqQk9tQTQyUVZ6Q2hTTjRQWHZTR19OcE5HQjNUcEF5bnNxNTNjR3NlOEVNZmJteVZTTEI3X01rcG1YVEVIYjBwYlU2cTBSZmJDSEtfQU02ZzRpZ1J5cGJHUmRTbUZseXpGOVVSMUcyeW5QaUhFYlFuMURYaU9ZUlcyUjM0?oc=5",
+      "score": -0.2
     },
     {
-      "source": "press",
-      "title": "Man dies after SUV hits barricades, falls onto under-construction bridge near Atal Tunnel - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmFGX3U2Yi1DODFlMDJ0V1N3OENub3pYOFZzUENHNnZraE5WTWRDNnVQWnhpMzZONXVLQU5Vc0dJY0Y1bWpyRS1iaUp5c2VqTGxrczB3TFlEZHdxbno5c3p2ZWZHUHhZd2xVRHlOM3pTZi1EQ2JPWTJDalRYd3MzaG9oa3lyZEw3T0N1dVpUOW1PeEliTXZibXNVand0S3UwODdsU0ZISHhkT1pac0RBTVA5N19QTU9XcVFOY0xmZ1QwQWcxY0dybjVpM2RrOWNpRGtvbFUxbWxOdVZsWHRHZXk4elFWbkc1UkVrbUFIMNIB9AFBVV95cUxPc2ZoMDMyUm4zdTVyX05ldkZzWm1aaEt3YmMxWC14b1dYbG11ejcyZGJzTjYyQXZUN0dsbDlieEJ4aVZlYVA1bUNCek5abS1nOTZYWjdFdDNCR2o4OXJ3Q3VGbG55THN0Qy00OGh3TDlmcUtfUU5rX29iT0t6OERRNXlLUTljTXh1Yjh1ald2LVJQZmhTRTN4QkxvYm0tWmpNTHhCOG9iZ1FXZFdtNW11QnpuU29Cb0dXdHhaUGI0R1BZZG81azA3ZlgyczFGS21xTTRQVi0ydzRfNnpJdTdxVDJWTjdXWl9mVHVKUFRMVlpWZWFl?oc=5",
-      "score": -0.3
+      "source": "youtube",
+      "title": "Bhaiya Ham cal hi atal tunnel main gaye hain kyunki Ham cal Rohtang pass ja rahe the na aur ab Aaj Ham apne ghar ja rahe",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

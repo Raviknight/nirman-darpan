@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-17T02:15:35.180Z",
+  "updated_at": "2026-11-20T01:00:40.409Z",
   "project_id": "SHONGTONG-HEP",
   "press": {
-    "n": 12,
-    "positive": 0,
+    "n": 17,
+    "positive": 6,
     "neutral": 11,
-    "concern": 1,
-    "avg_score": 0.017,
-    "avg_magnitude": 0.05
+    "concern": 0,
+    "avg_score": 0.176,
+    "avg_magnitude": 0.2
   },
   "youtube": {
     "n": 3,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.867
   },
   "overall": {
-    "n": 15,
-    "positive": 3,
+    "n": 20,
+    "positive": 9,
     "neutral": 11,
-    "concern": 1,
-    "avg_score": 0.187,
-    "avg_magnitude": 0.213
+    "concern": 0,
+    "avg_score": 0.28,
+    "avg_magnitude": 0.3
   },
   "top_positive": [
     {
@@ -45,14 +45,14 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "CPM demands vigilance inquiry into Shongtong Karcham project - The News Himachal",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmxrVEhhSWQzd3hNekhndXJXSFE1ekRoQmlCMGlSa2hwV0g1NmdVOEc4WDBEWjFEaGN1QnJENi1LczU5eWFMd3l3YlZUNFo1UkNadUlyVHU3Y1lKWmptdVpvLVVjSUlmSWpqRVcyZXFDM3pxSTAyZ1h6Z2hpYmd6dmpubFNPdE1BU1ZUSHRDcy1zNUhWNWlKNHNfN3JYUQ?oc=5",
-      "score": -0.2
+      "title": "ANDRITZ installs draft tube for Shongtong Karcham HEP - T&D India",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWUlKNG5VRi1OOVdZdVYwY3p1U2hfUjh4Q09SNTZmM2oxc3B1Z1RsZVJ4SGNYVTVJQWl5YkkxUUk2bGpPNG1SR3VjSVB1SmU3Wm5VMEhaakhlVWZfZ2J5Z2tRem9TT0V6ZEdhSlkzZUk0dmJfZ1VnTmF2blFhRUVyREUwRWtmQdIBiwFBVV95cUxNQUYxd3F1bTBMYW1kRV9pN1g5V3A4R29WV2JpRzlqbkFXSU9TTG9tVlZTUzBrUm1paDVOb3VZRFl1azMzNHRvUVNPS2xyUlV6Nk5wV2xBMzlVdUpmdUZ3dlVnVGtLOU5NRnNkcld1WVowclVuS0JsaE9ZcjFzakt5MXNfR0NabnVpY3FZ?oc=5",
+      "score": 0
     },
     {
       "source": "press",
-      "title": "ANDRITZ installs draft tube for Shongtong Karcham HEP - T&D India",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWUlKNG5VRi1OOVdZdVYwY3p1U2hfUjh4Q09SNTZmM2oxc3B1Z1RsZVJ4SGNYVTVJQWl5YkkxUUk2bGpPNG1SR3VjSVB1SmU3Wm5VMEhaakhlVWZfZ2J5Z2tRem9TT0V6ZEdhSlkzZUk0dmJfZ1VnTmF2blFhRUVyREUwRWtmQdIBiwFBVV95cUxNQUYxd3F1bTBMYW1kRV9pN1g5V3A4R29WV2JpRzlqbkFXSU9TTG9tVlZTUzBrUm1paDVOb3VZRFl1azMzNHRvUVNPS2xyUlV6Nk5wV2xBMzlVdUpmdUZ3dlVnVGtLOU5NRnNkcld1WVowclVuS0JsaE9ZcjFzakt5MXNfR0NabnVpY3FZ?oc=5",
+      "title": "Kinnaur hydro power project to be handed over to Himachal power corporation | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVEMxYWF0Y2JwVXNWcGs5aDY3QnBUXzhrRkdxV1JuWFlmXzhoT2JLLW1lWHpRV0R3T09LbGNrVzZCZ1R4WEU4b2N2WGVVUEhraEo5RnpfUGs5dEp3cGxWbnBITzAzTkJ6aDc0R08wclRDaXcyaEJNRlBpdkk3MUVSUHUwQXU1Zm1KY1h2UERESWtSSVR1cFYyb0NEbkxDM0VselBMZk1rVzlFZTE3RzNSbzJRVVhrRVlFUWlqVGVRQlUwQVVocllIbmNDM0N2UEIyclRTQklHaVlSaFdWVzNJa2xRcmHSAeoBQVVfeXFMTVpNd0FJOXQ1dGZ6d2tBc2xTeURra3R4bS1ZcVItVVpoeWpiekNESk1KMXlDSFQ2eV9IVjVtaHQtSDdPNkwxa3VDLWxFRHY2enpxTTBrTkZNeDlvakVJSXNmVFdIRXdGcUJDRWxpLXNNRkVxWjZDaUlybXB6ZXNtRGJtM0U5TkFpTGtDclhvWUtMd0hZdjFYeW14ZzBsTExQSkplM0F6MmVEeDlkM2prb1RKLXVwZjk1U0g1TlhLZUhaQWd1Q1Z3OThsMHl4Q3lQdFd3d29vWUhuTUp2cUkzYWRFZG5IQTkwUXln?oc=5",
       "score": 0
     },
     {

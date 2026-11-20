@@ -1,20 +1,34 @@
 {
-  "updated_at": "2026-11-17T02:14:10.531Z",
+  "updated_at": "2026-11-20T00:59:32.518Z",
   "project_id": "IIT-MANDI",
-  "count": 1,
+  "count": 2,
   "suggestions": [
+    {
+      "category": "defect",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-11-20T00:59:32.518Z",
+      "title": "IIT-Mandi turns material defects into electronic breakthroughs - The Tribune",
+      "summary": "Auto-detected from press: \"IIT-Mandi turns material defects into electronic breakthroughs - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0FVVDNnN1RkNUFVbTZDU3ZSQkVXSWJFQ3RQeV90aVp1UUZqMVFfMkhLenE0RTJRYVVHUEFoV0NCRkdRS3JiSk1Eclh4dV9LRndpLWRvUl9td2dQcEtWVWlrdjcxLUNnMjh5WFR4N3pjTFZyYVdIUUJxY29NMGNCR2FVTGl0WU1DajR2d1dyTmFwRW1Ha2F6M1BtZHB2blh6aEJBWVFEQkxHZ9IBrgFBVV95cUxNYmxzQ0xWVU1jOVU5NS1KVC0tMEZPVzMzblNOcklPamdYNlM3WXMtakxEZGZYeVNDZjB5bWJWWFpIVE9oNzlrM3VUNjJhV0EyQlREcmRWWWp2aTdxMkpiUVlnWHVJUEFWSDZkXzBLalpOU0Y1cVlHUjRNOGRLanpjOVpkYUFGaGYtbDZWcHZyUkk1R2doRWNtR0RWSVlORUMxaWMxd2NJaUstb0djclE?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2026-11-19T19:35:03.000Z",
+      "matched_term": "defect"
+    },
     {
       "category": "litigation",
       "severity": "medium",
       "kind": "issue",
       "duplicate_of": null,
-      "first_seen": "2026-11-12T23:57:01.962Z",
-      "title": "Does a Bhagavad Gita Poster Showcasing Caste Hierarchy at IIT Mandi Expose Higher Education’s Caste Problem? - The Leaflet",
-      "summary": "Auto-detected from press: \"Does a Bhagavad Gita Poster Showcasing Caste Hierarchy at IIT Mandi Expose Higher Education’s Caste Problem? - The Leaflet\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVJfYUZXMWNCZThVY1J3XzR6bHBwM19WdE5xOVlXTUk3WFk3aXlHSWFkRkctUnJtS211QjVuc1FZaXZrb0RwaWFEb0oxX3ZYdWNpaDV5OWtaanJvV29DSkRtRkEyNTJEY0daTEw4NWx0UTJ1ZHR1VGxOcFVGZUhWUnVoWEFfZkhzZGVTLWM3SmU5RVM1ZFhQZndISGxRYWZhLU12blZCSld0S3Zzd21Cd01YQmtXcHhvVlh6eWpXUVRqamV3SE5BTzVjV3FONGtRLTZr?oc=5",
-      "source_name": "The Leaflet",
+      "first_seen": "2026-11-05T23:54:53.212Z",
+      "title": "IIT Mandi in Himachal Pradesh: Courses, research facilities, placements and what students should know - Education Times",
+      "summary": "Auto-detected from press: \"IIT Mandi in Himachal Pradesh: Courses, research facilities, placements and what students should know - Education Times\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQnJYaENWam4tVVh0X29KQzNqcW1iX193ZE5fZXZrSGljTlRMQUY3U3hUODN2bWRNODRlYXJWMjQyTTFTWVQxM3EtWHdHckpMTVBEN3ZxODl3a0VqT0NmTXhWYWU0QTlCaW5rSDg2RGVzQ2dFMHQtRDFENlIzVldsQnFPdF9fT1NWM2xzQWo4aFR0Z1ZhdE9fampIT0lNUkJndEpzSUcwRTdEMGRneEZNS004Y2NMLW1Jam44WnNSOHhnOUphMVdPVXhXamxRWXBjV2dtYmZVNWItVENSR1RtbWtDNDY0M1JhVEpJWXMyOHVyY0psX1Jr?oc=5",
+      "source_name": "Education Times",
       "lang": "en",
-      "date": "2026-09-11T07:00:00.000Z",
+      "date": "2026-11-03T05:56:00.000Z",
       "matched_term": "sho"
     }
   ],

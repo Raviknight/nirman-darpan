@@ -1,22 +1,52 @@
 {
-  "updated_at": "2026-11-17T02:14:00.257Z",
+  "updated_at": "2026-11-20T00:59:23.701Z",
   "project_id": "GMC-HAMIRPUR",
   "counts": {
-    "press": 42,
+    "press": 113,
     "gov": 0,
-    "en": 42,
-    "hi": 0,
-    "total": 42
+    "en": 67,
+    "hi": 46,
+    "total": 113
   },
   "mentions": [
     {
-      "title": "Sukhu inaugurates Rs 200-crore academic block at Hamirpur medical college - The Times of India",
-      "source": "The Times of India",
+      "title": "Rs 4,000 crore added to states coffers through political will: Himachal CM - Daily Excelsior",
+      "source": "Daily Excelsior",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWEpObHdXQi1IU0FTQzJHZk9pbTJtS1FWRFlBcGlFdW92ck9MUU9raHdsVDhTQkh2aTlhVzdjVGdVWFJYbFNsc3dTbTc2b1ZOOXFXR1hMa0ZTWGN0MDh3TzI1bmZEWEJ5bThyNWliS2lpam5CeFNoS0FheGtwei1vZERrQnhaeWZhZGc0WXpQS2hmaTB1R0ROSVQyNHUtX1V4cHEzU0JUSFotWVo3dXhCalhYRlBCYVBHM085VGYzbEF3T2ItZ20tM0JacnJmTmhYZXZzbEtoOFJ5ako3S240S0owbWVaZ9IB6wFBVV95cUxQUWJ1QThHcGpockx6c2o2UUZjeFNQVEhjYkI5MmdtTW9zVW50SEltMk9FQlR3TjdXeUxadTMtZDZndFRXTEgyeUhOUDlrVjhOdDN4YUtnejd0RjBaOXFDM1BJR3RFa3V1d2JoRFExY1JuZXBqaElQY2xhS19fejdKY0psS1Z5bTNzNlVfQVMxNXNoM18xWlF0ME9uWDJWUzh6UW14c0pXS0gxYUQ4a3dDYXVPaXlCY2xZY21qajlhZkZ2RkhGWC12NEFFNEI3LVZqQ0E0Znlid1pBdzQzZW5QekdPV1p2TnJNNWlR?oc=5",
-      "date": "2026-10-28T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTJhem9Xa3dmMW9teTUwTjZCOXVCRng0c3BfWmR1MzlNc1htVU9mNVFBU1psWXRQa3lDSFctUk5HSmZaeVZINl9RRUJnanRldG1PakdiQXMwSEFTM1FfM2tqU0hTTTRmdDBSZHF0Z2Q2a2RsaXNlWEgtcEhTTXkwWExPSGdtVE1lakF6Zy1CX1V0Z19rWURLVjVVdzZfS0FXZU9vczlRd2w1WlnSAasBQVVfeXFMT1UyYXpvV2t3ZjFvbXk1ME42Qjl1QkZ4NHNwX1pkdTM5TXNYbVVPZjVRQVNabFl0UGt5Q0hXLVJOR0pmWnlWSDZfUUVCZ2p0ZXRtT2pHYkFzMEhBUzNRXzNralNIU000ZnQwUmRxdGdkNmtkbGlzZVhILXBIU015MFhMT0hnbVRNZWpBemctQl9VdGdfa1lES1Y1VXc2X0tBV2VPb3M5UXdsNVpZ?oc=5",
+      "date": "2026-11-19T22:55:40.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Himachal Pradesh Government - himachalpr.gov.in",
+      "source": "himachalpr.gov.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWYjMtN0hJdlJtSXpwdWEwczllWW1hZUlsbmY1RTBTYVR1MFNBRDlKTm04Zko0VzRWWWdRUWZzNlpZOUdneHBBQW1XZlU3eEJnWlFUNmJZMEVGX0RBTFhsMzg5SVRZZTlKSDg4ZjZWTW41WE0?oc=5",
+      "date": "2026-11-19T13:28:26.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हमीरपुर: मेडिकल कॉलेज जोलसप्पड़ के लिए शुरू हुईं दो इलेक्ट्रिक बसें, विद्यार्थियों और मरीजों को मिलेगी राहत - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM3FvZzRIUmRHSjVCRmMzNEhKTGZ4UFpXOEJzc2RMbnk5NnBUZ0ZtVU9nZFZQOUp2T1ZhUUN1TFpjTGNaX3pMbjRDUmxHUjVCdjdZNnVFeUg0REN5dUo5amVPbGk4RUN1cmJNTEFSVTZ3ZmhkN3g0UmN5amc5aFVTeEFzeUxBSUN6MlR6V2xhZnUzOXVPWDgzYzZPYURDS3JIRW9KSXFCclkxaFBqTUk2NnIzYjl0Z0JqVUxYemFBQktNRXhKVHA1bWZMVEJvUFRjTkNrczB3QTFBRUVR0gHiAUFVX3lxTE1jMV81YU9NUDBxR3MxQWxDV0paV2FPNldjT1RwMExib0pmaTdFZERLamhPcm1fbDFiYUM5UDNvMnBiVHpGVzVZc19sMExIVFpMWm5EU0YwakxobEhQWnFNTE5SaUd0N1ZpeWlqeWdWb1N2MG1HVDlZOUl5QUpTaHBLYld5WEtjQjlERWYteXRtdlhQbkFhMHhER3N2cDFlTHUxTlR3UVc0ZjRYSHRSRnhZM3pXODZJRFlPMHE3ZVgzM3Y1Q0ltMjRHcDdQcGdtODdZdFduelBIMTk0UFVGcXQ2VUE?oc=5",
+      "date": "2026-11-12T09:19:44.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Hamirpur (Himachal) News: मेडिकल कॉलेज हमीरपुर में अव्यवस्थाओं ने बढ़ाया मरीजों का मर्ज, बाहर से खरीदनी पड़ रहीं कई दवाइयां - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNWHNTXy11ckd6ckpGZG5hdWlnQVpHVVE1MVRKTjZncW9oTVNwY2hjQjhLN0NmX0dIQWJLMl9mTW1zZWhjOU5YZEtNQ1JBWWstYTlaM05Sb2VYOUtGYWFwWHFkRHlEbG0yMWExUXlxaHFnRmUxU21oRGU2U3ZZWmJCX0RxaE5pVFpLUnhfaUZraU05al8tNGxDRVU2eTRRSE9kNmlMVEtJRW52cmZJNzlJSjczUmJUbWdVSV94OWRPX21aMzhyYnAyOEtNTGJoRjhtb3lPOG5MWWR6TGdXVEtKZWdLUlhDV2taV3huUUZvM0pGdlRWVC03MVBlUVhaNzdBZ3o3NkxYSU1KUUZVSTgwbklhOUJVTTUwVGRmemtSdXdaWTRwb1BwRGR5MGVqSzNwcVhkdEZlblB6ek1NbzRZMHFaeTR2M1cwakNJa0VpT014V01aRl9ZNy1RbkfSAeICQVVfeXFMTk9tUFVWUTZLeVViQlFZVkxxQXZfVFVjNkVqZXRuSHNMbVJsaHhMbTNHVjlIOGZrSWx1Vm55ZDJnOFpuaF9yb1pLNlpaeHVhYVAtTExTeG9pUkZOMGZyNDFWT1NRQWh1Tnp0cjV4Q0JzYUZlMEt2U0tUaExucDR4LTBRdlRMTzlKRGo1aVZRNFVVc0wydFh5WFRKVTJzSDgzVzhBR1FhdGZGWUlLMWVDM2Jic09ma19BbW9fT0JQRDhvZGhFbG1GdzFZd054RHpsSUhuRGNvaDc3LXNKeHVOS2tZUlh0Mkc2QzJoRzZYdEJNd1htNTlhTmxRdFBNNjlDbml1RmVfanNFMTEwSWhzekF5R2oxUGF1TGh6TkM5T0NHODlVblM4Qi1TSFotYjFJNVpEZUs4cjNpeXdqdEVFeG8zWU9oY1hESEFva3R5TzhBaW1VZHN6ZWdyTTJrcHBnWmJ3?oc=5",
+      "date": "2026-11-01T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Hamirpur medical college"
     },
     {
@@ -30,6 +60,36 @@
       "match": "Hamirpur medical college"
     },
     {
+      "title": "Sukhu inaugurates Rs 200-crore academic block at Hamirpur medical college - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWEpObHdXQi1IU0FTQzJHZk9pbTJtS1FWRFlBcGlFdW92ck9MUU9raHdsVDhTQkh2aTlhVzdjVGdVWFJYbFNsc3dTbTc2b1ZOOXFXR1hMa0ZTWGN0MDh3TzI1bmZEWEJ5bThyNWliS2lpam5CeFNoS0FheGtwei1vZERrQnhaeWZhZGc0WXpQS2hmaTB1R0ROSVQyNHUtX1V4cHEzU0JUSFotWVo3dXhCalhYRlBCYVBHM085VGYzbEF3T2ItZ20tM0JacnJmTmhYZXZzbEtoOFJ5ako3S240S0owbWVaZ9IB6wFBVV95cUxQUWJ1QThHcGpockx6c2o2UUZjeFNQVEhjYkI5MmdtTW9zVW50SEltMk9FQlR3TjdXeUxadTMtZDZndFRXTEgyeUhOUDlrVjhOdDN4YUtnejd0RjBaOXFDM1BJR3RFa3V1d2JoRFExY1JuZXBqaElQY2xhS19fejdKY0psS1Z5bTNzNlVfQVMxNXNoM18xWlF0ME9uWDJWUzh6UW14c0pXS0gxYUQ4a3dDYXVPaXlCY2xZY21qajlhZkZ2RkhGWC12NEFFNEI3LVZqQ0E0Znlid1pBdzQzZW5QekdPV1p2TnJNNWlR?oc=5",
+      "date": "2026-10-28T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Himachal Pradesh plans MBBS internship stipend hike, AI push in medical education - India Today",
+      "source": "India Today",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbHkyMTE1SldTaUNJLXRHWUJicHd0b192TkYxOFNRdGp4d1dVUXJ6aHFqekZtenhVZm5NVDJtMWQ0WVk1MjMxSDdYbGdRNXN4Q0xNbWpUeXVjVUlXYXhtWXpKYldJenE4c0dtOHdZZkwwcFlnVDdkaFl2RzZZWENQZjRkaGhYcjhUdHc4LXlObkIzN0x3U1plRGFidHR0bHNCUVF2RjRPM3dad2hGNDFBVU0xT3VLNE1iY1hwci1nd3A0Q042SFlwcVhPRU9iclE5SlhmUmtjdDBSQVp5UklzajNQNTBWajRsZG9aMVlDcDVVektqTkgw0gH8AUFVX3lxTE1TTnVZSGtGNklLR0t1bTQ3czVjQnpjaXVWOUJqZFRaMzFObUFVVzV1Tl9mMkJmVUstMjF6RkN0SmdlZjhscFQ3RlpUY1JxZldpVEhrYi02T2hxXzhZNWcwVEpsV3dOUzl3Qm1SQVltajh6M0dkZnVzcnBIZ0puc2p3OGVkUWR2U1UzRlNxbEVCel94UEczSm5yWTFGT1RsQS02NmNlaGYzUTM2Z2JITWhRdWtKNFROUTFXS0RrTm8tZ1ZDaFU3RGZMd3pSRkJXS3lNT0tRM0dxdEpMeEo4dmp5bFUyS0pDTmw5RFh3SF9BaDlVcEs5R3hMLS1TXw?oc=5",
+      "date": "2026-10-28T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Himachal Pradesh Plans MBBS Internship Stipend Hike, AI-Based Medical Education - Jagran Josh",
+      "source": "Jagran Josh",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2pWOVlLand3eUFzSl9IWWhKX09WbUlnblRXbU1PZTV0ZEFEMHhETHBtNzlXa29jdHN4MW1ralVPUEVKTndLaVl2NVBNN2xhMVNGV0xCUFFSZ2FjdTdFMzF5U2xTUEI5WERhTlhtXzk2YVlDbG1IS1c4Wk03YnBxdkJ1NXVqUHdWMm9SMllGWFBWazZTWGszUXBxZnFRejNxRGRvZHg0R1RfdDMzWlZsTzV4RWZmOVlv0gG_AUFVX3lxTFBVdk1QM0JtOGhYOFRFd2FNQkw3THhvWE90M1NWSW9QMV9xQU8wbVI0emN3X1hsS1B1eXhXNTA0WHRTeVE1bTNtNTVUdEJ6eVNWaDFlT2lMbmtBajJrMG0xbmphOVE4QnBlY1ZhTnRLbDE1M2dTX0xzT3ROUmpNOV8wcGZUOUdRd0lnV3lfQ0JsYUVhWm1SWC0yZmVtZGl2ckZIZVNJZUJrSTlCcndmWFd3THZOMlJTTDhVOWpoMWVB?oc=5",
+      "date": "2026-10-28T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
       "title": "Sukhu Inaugurates ₹200-Crore Academic Block at Hamirpur Medical College - HIMACHAL HEADLINES",
       "source": "HIMACHAL HEADLINES",
       "source_id": "google-news-en",
@@ -37,6 +97,66 @@
       "date": "2026-10-28T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "'हमीरपुर मेडिकल कॉलेज पर अनुराग लेते हैं झूठा श्रेय', CM ने नड्डा का धन्यवाद किया; कैंपस में स्वीकृति पत्र लगाया - cm sukhu refutes anurag thakur on hamirpur medical college credit - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnBDaDYycnZpbjhKaFk1VWZDQmVpVEFrMnM4dmNORFFtZURUcXl6cXgxWjliLWFpTzBvYTc0VUExNXFDbTVhdURfOVd2b1B2emNlS0lGNE9zWHRMUXNWaXpCdVZYS2N1S1Z6Q2x1eXVqYVl0bWlvOF85QmFsSEtlQmxkYUxOUk1pbjNKUThaT3VHLTk3cjZ2WkU2cU01Tm1KZGRDZUw5d1drWllkNnpuU05sQXpqbTRwdEwxc1VCREFCWHJhTV9WNzdQQQ?oc=5",
+      "date": "2026-10-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हमीरपुर में एलाइड हेल्थकेयर कॉलेज शुरू, CM सुक्खू ने किया उद्घाटन, छात्रों से भी किया संवाद - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT3BkUWxsRFFKbi1GSjNUYW93T3JtMDUxRlY4R2dkb01vTHY4Q3hldTJjdjdwZ2FhVjBHZkF5XzgyaUpEQW5CWE1sczBwWnlRVV9aYTJKWFRVVVU0YmpmS21oZjBmQ0NkLXJteXVuTlJuSmVrU2FpN09OZjNSSm0xUG9fTmk3UXY4SUZhNU5VeG92dWktcWdhc3ZuOEtrYm1PWkQwRGhIak5tcW1RQ0xKaDZ5Um50OGNOUWF4RlpXdXVnb1gwNk9YU3oyRjjSAdIBQVVfeXFMUE1wSjU0VnQwTDY1WXNXRWVhUWJpdlJINnVzblQyLXBpa2pueXp6cDhyQzE3MExwMHJ2cDVlZkJEMk5jTHZpTUh1UVJmWGlYZVBNdlEzT2c2ZkV0ODk3LTc2VkZpYTdVc1djaW5zOTlzYk10dXFjeGJIXy1FWF91YzlCVzFOU0NRQnp1VUdacHdNNS10QnhVcTBsVEs5S3RNS3lzM2pWWXBWNThLNlFWT3ZRam12VGNZUVdqbmowTVA1Z0VXaDE5TlVNczlWdno1Z3ZR?oc=5",
+      "date": "2026-10-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Hamirpur News: हिमाचल में MBBS इंटर्नशिप स्टाइपेंड बढ़ाने पर विचार करेगी सरकार, सीएम सुक्खू ने हमीरपुर मेडिकल कॉलेज में दिए संकेत - Prajasatta",
+      "source": "Prajasatta",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ05UY2k3Q2xsb3BQVFJIU0F6SzdHbVpRUVZ0a29HNzhDM1RoMnJ5M2FzOXYzN2JncDNsZDJQeTZBazczNmV2OWF1ZGl1VF9yWUtLSnpjNHR2QWpjcnZNX2wwYU56ZnBnOEd4WGVsZDlkY245OFlZZV9WQ180NF9tS0FlNVM1OVlaV1FSbG5DZE9Mcjc1MEZlUHpXbS05LTdhYmtseGlMTDVGUG9QSEVRVTZB?oc=5",
+      "date": "2026-10-27T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "6 महीने से सिरिंज नहीं, पैरासिटामोल और कैल्शियम की दवाएं भी खत्म; हमीरपुर मेडिकल कॉलेज में मरीज परेशान - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWdPeU1ZVFVaTDdtRDNzWjNDRkZuZWVjTURnSGllc3NrTU1YaldaVWlXY0ZQcTAtTkNUMjk5MVFJcUxiOW9RQjhyLTJ1N1RQUkVyRGFiTlpIeW5yYlptLUxGSWZIX0F2a0hDcnpRdzdiS29tU0JXaHVjTGpwbk13R1NXTkJlQVNJSUJhRFZBZ3hLWld0WGltS0pqWmJ6dmdZd0NhMWlfV1hFdDVBTGw3SndCb1RLVWRUakwxYXcwN0lzYzJk?oc=5",
+      "date": "2026-10-25T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "मेडिकल कॉलेज में दवाओं का टोटा, छह महीने से सिरिंज तक नहीं, मरीजों की जेब पर मार! - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRDhWUmRkM1c1OFhyR3dRS3FQREtxY1pWX3ExeEJueVg5RG1Db256bjNoQTJ3ZVJOQXVVdi1NR0RfMWo5UGxJUEZHZFJMemdyclRxUXd2SkRaOUlvM0U4N3dNeHNWdGM3MGw4Qkd5TnZCbXR0bjVGNXRvX1lVQTVqWGd5blY3bnhqS1FDM0FBWWNJTFRtcEVhWlgzUXllMjJIN2JEVmRidkR2OFJtY204NG5pbnBsZFByRjFKQ3BRRnFobkJobl9kc0p3dDRnU0J2bVHSAdcBQVVfeXFMTWx3TmZrMUlPYjZfdUFGTGtLR2NKV1JXck1QZFE5TjE5RjhNVURsZ1pkdEVxa0ZSaFp4V3BLR2xtT01nOGJJU2hqZUNlcV9oX01zaFVHLVhsQy1uZE1hT0puRmtiM3Y5Sk82a1VEU0ZOMXhxT04tUVFfRG5IenVXWlRwLW5YLU1zQVV3aXNhSTNwd2lYcUQ1eEtpTjExWnpTM2pGS0RkWHYteXVNVmF3ZE1qRHlicjlqSEVRRm5YNG83R3Z0SHpGaDdEVTNUU3drZHJEcE80U1E?oc=5",
+      "date": "2026-10-25T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "हमीरपुर मेडिकल कॉलेज में रैगिंग पर MBBS के 9 छात्र सस्पेंड, तीन पर 50-50 हजार, छह अन्य पर 25-25 हजार रुपये ... - News18 Hindi",
+      "source": "News18 Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGFkTWJUOEFfSFh5M19qR3V5U2ROWTI3MEtpRTlYTDZXdDlCR0llMXhNX0JpZHFtZkZmTE1KTjQxOXMwckJDQWcwU05LLTBoVlN4My1WMmpKNWx4QnhJM0FsaVF0N0lBbW1rR3BmXzFOZHFROEVzNmtIbVdDNmNxU3lEUmdEeTRfQ05LZFV4SFpqQmxrOUg2bmFLbldNbUJVUk5SLTBKd1BIQzVlVHBqWm53WnY1Y25EOEcxMmtlLXA3RmFmc2JXX3ZhcUFYS1HSAdQBQVVfeXFMUDZXWHhLNW1rck05Zng1dXBiZHdRbm9vcUZ1Q2JCdFBBMzNITlNHZ3BxMUk1dDV0Qk9CTVJCVGJsbGhwYjNCSEVfVUhCczNEVVg3NkZXd3BPNmo0dFNWTGcxSTU1cVMyQkxEaXhDV1M1d1NNMlZSVGhpVHlzSEZSdm9IQndpWkEweEpqWUpCNFQzclh6UFFqc3FpSUpCQWhILXdZUFlHVDZJeC1Fd3VxQXNOSWMxeWR0OUFJOVNFVHA1TG53Y1h4eG5YdlotVmk2RGVwSGE?oc=5",
+      "date": "2026-10-16T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
       "match": "Hamirpur medical college"
     },
     {
@@ -60,153 +180,33 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "BJP Questions Hamirpur Spice Park, Seeks CM Sukhu's Reply - jeevanutsahnews.in",
+      "title": "Tractor Overturns in Jajri, Hamirpur, 58-Year-Old Driver Dies - jeevanutsahnews.in",
       "source": "jeevanutsahnews.in",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0xhT2h5dlJXbWxQWjY4ZHdLTmJTekRlV19BUU9OT2Fsb1Q3U09mSkRhTUFhM1ZxM21FU2tpeEgwc2FyZFpjMGtaTGVYZzg0TzdjWXU1VW5tV1I3dlllbHViWGJHcHRHVTdrU3JzRjhIbFRwNmpOUlE2YTRfSXNvYnNkSExqX2hlUmQ2Sy1VdWZRQzlKemEtRzBMT3pONHJ0VWR5QnppMDc?oc=5",
-      "date": "2026-09-23T12:29:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd3J3eFlUd2VURjFyLTluZE5nVHNlVTBqQi11T0libkpsOTlYQ3phVXRjS0YyV1NFLWZuZ05JQm91RTNpTU1uZWh1Y3lqQ0JvTHJiY1prV0NPeVE3Tk1IWWo3cmllYTl5Rk1mTXZTR3BBSDVSaGNjb1ZDNzlRWVlaM293cllrcVRpX0ZYLUJQTmVPVTZwOGF3ekN2dDVtdw?oc=5",
+      "date": "2026-10-15T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Hamirpur medical college"
     },
     {
-      "title": "‘Hamirpur Medical College Was Not a BJP Project’: CM Sukhu - The News Himachal",
-      "source": "The News Himachal",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjJLMlhUek1CM3BNZDBaYVZYUU45emVUaTZUN29MWHFubS1JdGpyQUJBcXFDSFgyUS1mclRtX1d1QXM3RUYwQzhFdEhvamNHUG9FT2V5TEtyV3k4SC1MT0Jqc2FFNzczOW5FNm5PcThJbkYxQ0g5YkRiemtSSlFjcXFUTmdmZ1VHNXU5NU5zRXZqc0JwNHh3?oc=5",
-      "date": "2026-09-19T07:00:00.000Z",
+      "title": "हिमाचल के मेडिकल कॉलेज में रैगिंग पर सख्त कार्रवाई, 9 MBBS छात्रों पर गिरी गाज - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLUJQSFlLblFfbk12aDJ1eko1bDd6WnBGMGU5Q2xQWGx6dEtzX1NqZVh5d2NkcHZ1bWpreGdLWHp1Q3RSMkhTTDFVNDdZN3ZUdUJKaGdkV1BpdEtEY2pDNEdhajlhUXdFV0gzcVFOWGFrVHRjMHlLZGsxV1JHdlMtWHh3Ynh1MnpXWTh4OUNHeGdUM3RYWkZzUkdCRVpRUjg5NzZBX2F6bEpJb2ZVYW9JV1ZXbXZPa3PSAbwBQVVfeXFMTmpVcjFMbFg2U0xqSlQ5X25OZk4xeDhYRnZvTmNsUldoaDRzMnVDLUNFRmFFZGpVMEJNc1RleXJpWnZZQkJTNm1LRE1rSnhybjZBSUNRWEo5Zy10ZG42a2gwWXVfWmNXZGVtQ0xpc0lLTEhZRkQwVl91WllqbThwN1QzZmxteE1LZHluS0VNXzVOWmlpaGlhVmQtLTVEelphVU9xa3kzQnBLbnNwTUFURjZtWkdjYUNtb09xU24?oc=5",
+      "date": "2026-10-15T07:00:00.000Z",
       "kind": "press",
-      "lang": "en",
+      "lang": "hi",
       "match": "Hamirpur medical college"
     },
     {
-      "title": "State Government to pay Rs 800 crore to SJVNL to take back Dhaulasidh Project: Chief Minister - himachalpr.gov.in",
-      "source": "himachalpr.gov.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CQi1oUWNkVlpQRXlNRUY1N2JRSlVfTEdQYUQ1ckV6YVpsZE4wcG83MTFLX1lEeThvNXE3UFBXc1dXVTFpczZ6NEtsRHdER0t4S1pIZ2s1cDZNczB5Zmx6YWFGRXRCdGYxYkhNQ2ZCQnZxay0yNE5NYg?oc=5",
-      "date": "2026-09-18T07:00:00.000Z",
+      "title": "हिमाचल: 'नजरें मत मिलाना, डॉक्टर साहब कहकर नमस्ते करना', हमीरपुर मेडिकल कॉलेज में रैगिंग की शिकायत - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVVNTcnlIVDRwMFNEaDM4OTFQbVdhNHlSUVVKUllSMDVMN09YSFFOZjZCZzBmUFl0cnJpWFE2UmRjRG5YeGhkMFI2cWxpU2ZmOTZXdUN2Zk0xcVJUVmtaSll3MHo2ZUxmdlo0ZEk0LVFqZmF0OS1pMjBzamFJemJteTV6NVZ0a0JlczNLU2VrY3dMVjMyREIxeXZDUVZMU193LUNOa2NvSDZaTHlLakN3b3BsQWtsclNIYS1nN3Z5TUR6M19ZMnlsWjU4OW9jRDRzcEHSAdcBQVVfeXFMT2MtcDQ4cVRkVlVMWkk4ZElNRGRLRnNSbmwycFJUMjFTQ19zVEhSWWJQc0diQk5yNlE5Ump2Ump6S19YY19LRDEteXo3LVpsT09OQnZJWUg4R25VVTd5QmNrOTRTaEZfQ3cta1VIX0FvbU5RRGFvYnpzQ2xnN3hyZ2dtLWZ6Y18xVDFiNFJzSVlQR3ZrMnk4cUdRUDV5M2FTYWRKZGZEMWFPNVJMVGFRcGtFZGpXbkI0aFdTYWZQRldjUEh1TlBkOGZJdHo0ZUREdHVxbkF5MEE?oc=5",
+      "date": "2026-10-14T07:00:00.000Z",
       "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Hamirpur Medical College Set to Shift to New Campus Soon: Modern Healthcare Facilities Expected - jeevanutsahnews.in",
-      "source": "jeevanutsahnews.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXphRE1zMDhETmptYTc4QkFNSkR0bThDWUZwVWdVd3ZyUTRGd2pwMDRvUjU1VVFLTWlaci1ZY0VvMENQSmFiYVdpbDh6bkZiNmczRjlNTFZZdDh6RHNsWFJEUjZHQk1CNy1wV0xZQUh5RERCLU1VeHFUeTRhRFN0N1RnNA?oc=5",
-      "date": "2026-09-14T08:07:35.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Himachal doctor donates Rs 80 crore property to Hamirpur medical college - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNE96M0pRWDZ2dHpPSGFiOEQxXzFMMFV3RzhjM1BUTXNKeTZEZHh5MnNxd05OYkZZcDB3T3BGenVudGhvTGRGUWtycG5tMmhURVY5bUU2Qy1fYm9JTGFPMDhaQzlCZThKYjdKWlZ1bUU0RHJnYTA2U21DVDczWmpRMFBVTEFQTVFhX1BQMnNycC1xVnR3eUZqR1F1TDYyOUhGamxWbnVR0gGqAUFVX3lxTE1HdnNxYkp4Zkd6Ny1VX2F0dG5JY2d4MTRBVXFWZTNDeUhWTXFTMVF4UG1GVmJGem1EbGEtbkxIUy0yRUtISmFNVTYtTHExTFNDZWNjZFRCYzRITUNyY3ZVNllJamI3TVE0eW1haWxsUC1Hc3p1Z1NwWWQ2M0UtNEtvazl6RFNRZjk0Mzl2c3V1M01xeE5xZy1ZTjYwenlqbTFCdm52djZmQU9n?oc=5",
-      "date": "2026-08-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Hamirpur medical college set for new campus shift - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVBnUWNZclFFdkMtdGxENE9JSFZrSFZDRW5JdDNvSkxHNlVsSXRSNmlKOFhJTVQ4RjAzQTF4WnN2cnFDcnN2dzhSTjRCYTN6X0hQWWxIT2VlUDNXTjNpaTZQN1JoS3czQ1ZUejQ3a01ucXJGNFpsUmVhY0xxbWkxaDdibmJsTVltTXBlVXo4aE5OdVRGbmFfWtIBnAFBVV95cUxOZmUtek9Ga2diMWd5UHdncjg2eGJwQTJUU1lGSC1hV2JqWG9uZmUxQk44NzJkdzFxc1lfekFzRnBXdER5Q1l2U2dHdWVSX05qZ3p2MGVKQXpGYnJCQ3FwbmF2TGZjWGwyYVFONDU2NWRyUE5mekI0d0haRUFBWUI3dzhWeVp0ZTFGLVFNSVpxcDg0WHg5bGxfT0dORGU?oc=5",
-      "date": "2026-08-05T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Himachal Pradesh Government - himachalpr.gov.in",
-      "source": "himachalpr.gov.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QTV9ycWJyRHdhcUliWHZES1J0cGY3LUl1dmZLWkZMc2xnNFpodzJwZEZJcEpUSlA3ZzEwWDVCY01wVnJvdWtCYkhpMG5ZMWpQdnpETlY3OVVxc1oxemQ0ekU4dmdrcXNkcktEbUVUcjFhZkE?oc=5",
-      "date": "2026-07-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Health horizon expands: With Rs 350-cr campus nearing completion, Hamirpur medical college prepares to shift to its permanent home - Newswav",
-      "source": "Newswav",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1hjeHRHY3FpRXdmY21nNlNwNjhMMEY4S3MxVUJRejU2N05kMmUxUmZnSl91LW1GcWkyVlJacXR5U1BBdTE3bjJPTGtjYnlRb2JLSmlJX0doQl8ySDMyblVCQUlOQmVLN0ZOWWVueUtoNjM4c0libHV4cW15ME9VMEJzYlpERzQzd0tqeTdOeVVCN2NQUWtVWW1oemx3VnRYUGhGSWJXYkJNWWViTHFZYWRySmFPTkE?oc=5",
-      "date": "2026-07-01T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "CM Sukhu trying to take credit for Hamirpur Medical College with no contributions: Anurag Thakur - ThePrint",
-      "source": "ThePrint",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzk4Um5nSFI1eFpkQzczTE5qaFVMWVRCSTQ3VktzOFd0cjU4R29UcXVpTTFLUGhQUTVBUlNrTndqdDhXQkdhSjV0TnVVY1BvNDNJZGxVT0ZkU3k4RTY3YVBVOXJ4Z3gzdm1XZkFuY3kwN2ZPWlFtaTh4OGlkeDZfUnBMNlZCR2xQQ19iY2F2dWJCZDJTZDRfangzVWtXQnNfcEFSZURDYXBScGthdTlackE2OU1VSXZuVm5XLVdteTcwdm54c1plaHJR0gHPAUFVX3lxTFAwQUlYZzJHOUNLQV81cjgyaHc5TWJkLUlJMTJfQzFHQ3RwVzhmNURxRjd3RnFpVzRCOXQyR3J4V3Y2VlhTRWc3ZUtwUnlPejMxM0ZtbEg3bzgyaTBnWWZBUjRUNzJ2OW4wczhzbDhiMjVrdWN1UVQ4V0tGV0U1Ty1TdGV1MmJycHByLXBUZHB4X0xseGhmOGZYTnZPYzdNWmIwQV84dlpPUEJWOUk2SGxhWkFvaFJ4bmpMLXpYdGZ6MkdpcW1JNFZyR0hvaU1ETQ?oc=5",
-      "date": "2026-06-23T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "CM lays stone of ₹35-crore critical care block at Jol Sapper medical college | Hindustan Times - Hindustan Times",
-      "source": "Hindustan Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV2VzQjQzRjE0MFNxbnhKalpjVENtME5pZ2toTlVOS05DRUZhVzd3T1k2cElFckMwZi1jVENmSFhJWjVrM3JySkNYUUViZk50eHk0VVNmaElCcFA0YWhhbEtLbjNtYl8zbkZIbmdjdmNPcjdpS0EyLTRHdEM2WE5sLThtYTJTVmU5OEZNNEQ1Wm1sYTF5b2FoWXVLRlBXZkVMX0plQnc1QlR6YmVfQUJDZkk3WHlYb3k2dC1NTlZlZm9rTVZ0NE9rWGl3SHpvTVhHbEpvRXBQU29EakswcXY4NkV2UDnSAeoBQVVfeXFMTjl5YWFTNWlmQXN4Ulk3T21KbzJVR3pqNjBKMmJNaEZaYXo0SnM2TkppeXV4RVdWaklzZ1ZmWUUzR2RodmNqSHo4NzZPNk9xZ0tZU0JSSTJnbUc4UExQRTlCWjJ0NGdLV2N4T0NhQmhld1VrenpNR3ZQUGlIZ1M4UEl1d3FUMWNINC1CMVk2anJjZXpibmhRZW5oRjdCRlZFMlNsdUZMSEpKN2ZNMmx1c0xGcXYwSExGSjFYcThCTVlWekJ1bE1hSjNqcGtpNG1QWnZuOVAzZTlsaDZLNUJPcDd1NVdoY3hLVnRn?oc=5",
-      "date": "2026-06-22T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Jol Sapper medical"
-    },
-    {
-      "title": "Hamirpur medical college to shift to new campus at Jol Sappar from next month - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0NwM3hyYmpnRUV5YVpXZmh1RFZ1M1paMl9SM2k5RVdzNDNUcDJpRUdGS1ZNVkxZQmpJN0kyZm9IeFdLY1FTa0YwLWNTd2VEODExcWVrWE05YWduWjZWaDF3LUhiQzJyTnktZkpoU3UxQzVTRmpwdjBwSENicGhPZGtyQmRHalVHdHM3MXUzdlJsNC1hak9CZVlLY21JRDJlVEFOWEZQYS1EcFc1STlTSHhMSGlfX1d3NDhwWWd30gHCAUFVX3lxTE5ONUdsMGNJU3hzR1ljQzNfdFVaZGtRMjd4LWtLNVBXTGE2N19fMUdFY1ZZS2NNTUdtMWtqbHY4X0x0U2ZmT3Y3TGdTSElxaVowdkMzYkVFWHpyeFozSWlRTXZtRWRxOW5kVmw2NHh2SXRLRUhhSVo1ekVnbDVoMjhsdHV0aWR6SlBodUZjRDcyVy1ydWxCc01hVm56OHQ1NFRrcV9IQU83eGNOWlBnazYzN3VFM3drV3dPY2h1UnZLLWZ3?oc=5",
-      "date": "2026-06-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Anurag Thakur questions delay in shifting Hamirpur medical college to new campus - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNS1JUjJNcWlZTWI0VE1FUDZwMXI5ZjdDNU1uY3BrQkRsdnJNYWZ5Ti1jQzJCcDZpYlNaUUxrcW1UTGFDUkstYUlkOUpWaGtZSzdsQUgxOUQ0aVZoN0hpYS1fOEJDemRqRFYyZklWTXpZRkhaYVRXS0pnbDBWVnRPckNtV0tnUzgzVE91dWltcE1lWnJhbFBDTkJOaVNrY0FVRVlaMVgxcFRQQjRidEpKaWx0cFR0d9IBugFBVV95cUxOakw2Rll6c1NUbkI5bHBrbG1zTFl6Q1FMTzEtQUJsamFqejk1Z3NXYmhUaVBIYWJCQS1DV0FxSktRdXdCdzA5SUJGUTdhbUN5YlRFNjk0QlhUazJNRzg2Uk5xUFhIcm00dVhmYThlODBnOFByV19DZWwycmVtUTlQLVM1YlRaejhiUEN2czVscTVOalV3SlNqQ2pIcWdkWU5uZFBHMUt3RTY5SzI4emtvNkRQa2pnMWw0YUE?oc=5",
-      "date": "2026-06-13T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Mother detained for allegedly abandoning newborn at Hamirpur Medical College - Medical Dialogues",
-      "source": "Medical Dialogues",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZWIzMmxaWC1CbzFnaDJoSUl0RzNSY3pwaGNJeHVNdm5qTDZMazdWV21tMzlRZ3pxT1Fzb2FENHBnNVBmQ2FEYUhmLURTaDFtWXNRZUw4Mk5rMk9rU1dDUm9NZW5pU3lBTF9JMmg0OVVubEdhVjJ1c19PWUs1ZEEtbTRnQnNwSjBzT29qZ2l2VS1Na1hjWWVlNnEwUWlERDgzMHhVUzRFMlNmT01SVGNFN3FaUjQ5aWo4VUdoMEtMdUwxWGtqWlFBNVFoZHk1MV9xOXAtM2FibDlmeTFJ0gHiAUFVX3lxTE1GQ05BejVXVEQ2ak05TXZGSlRnUUNwbGxqbWhNZDl6T1l3bk95R01mOEpFYXRaRGE2WDV3SG5UZ29uVUtGeGdyUTBJSXBhaDJxeHpGNFRqNzk2dlAtdHhTQ3VkeW5yZ1VjN3FMVU5iYVR3THlTdTNZSnI5SmI4YTZfTnBzUlUwdVZ5QnJuVnVzQVRUVGJhcnF4XzdSMTBkQmMxTGMtLUVlMnRNdklqQTN6bWF4WHJheE4ya0NEbndhYnlLZ0xWdFhYY3BuLTlkWm8xSmtKUXJQQ0RRbG1FLU91Q2c?oc=5",
-      "date": "2026-03-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "39 including 14 students taken ill as jaundice spreads in Himachal's Hamirpur - ET HealthWorld",
-      "source": "ET HealthWorld",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObktZYk5ocUZyVmg4VDQtSWR4dzRJdnNKa1BQX2Y3VzlIRjNVMDhUSk1LZFBzcHRZdExaWlNPRUFaQ2NFZHNhSy1GXzBUZmtkQTRaV0ttSnNLQzliZHpIVWxieU5uNUx3aEpqYVFuYko5VmNzOTA1NEtBV0IxVm9iTVRmelRGTTI4Rmxoa3F5UDZlbXJCMEdpb0prOXJMTEMwbXVnWjlkc3RDTzlYVkNmU0M0TnIyRk8yRGRRdGJyVHpXSFdKVWx1a19uN2FWbWdleFdZNVY5ekFsaDdK0gHiAUFVX3lxTE41ZmZFT19hbmg1SENLODFkXzVFZG5fZjN0eEtGM3FuMDFYVE9NdEpXR0pwUjhUTE9fY3FGdFFoN19jR1dfa3drVkFmTTBpTGR5S2RiTW9UdGpDcTRqZkVzT3dtTWQ5d25FUkJHd2FQMmRuMjZuMTVRc1A1ZGQtWWlEN3JSTW9ndC1jbTQ0aFFlZE9DeTlTalFFdmFUMkpzdEdRdXRUWGhNV2xrLXd0OW8wZWpyTEh5NEhEbjBncDRKS1hOb0VMQjNqY19icHF5eXJadE9jeFZIamlKbko0SWRDMEE?oc=5",
-      "date": "2026-03-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Rs 1000 crore cancer hospital, medical colleges to be built in Hamirpur: Himachal CM - ET HealthWorld",
-      "source": "ET HealthWorld",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3luaVpUTGhyVVBwMVNrSHp4S2VzYm4xRmJIeDM5MWh0Zmhwa2NpcTJOaFJxQ2dfdk81Tl8tRi0wOERJckNUdHF4WHladVRIWk40ODhBeFFXVzRsOUh0TE1HVl80dnlIU0x3UURLamJURkFMN2xKWXVydVE1U1hxV3Bhb19HWF9RVDQ0b2Qza3BObVp0ak9uOWRlX202d0J6bm1Lbm9PSGFlZmZtakp5X2IweUdHWU1lYjJqVFdxdDZfd2hIRF9ObkpVZnoxbnBSRlpueHpkc0hoOHVVb3JGNGFB0gHnAUFVX3lxTE1EMVhJeS1SMklQdVZPcTlhSWphVFk3TktyTldjV0JTX0ZwLWFHQmw1dXR0QUp2SUNQRmMzdHpDajdwS0NpRm5KX2lZVm1lVlZILTdLT3MtVVJwZHg0ZXBCR1dnb2pfYjRLZnVjVldGTmxacWRtb2stREY0U2IyY2t5dTFJNm1wY0xmMU1DdmtCd18yV3E4VGZjaFNhN0dHdG55SzdZLW1CNVdvdUZMLUFRVHFkM2VYM0d5V19kb1pObUZBYmJORFJ3RVFhY0tDUlF6eldzdGwzUFdWYnhsRXhlXzNBMjBaMA?oc=5",
-      "date": "2026-02-28T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
+      "lang": "hi",
       "match": "Hamirpur medical college"
     }
   ],

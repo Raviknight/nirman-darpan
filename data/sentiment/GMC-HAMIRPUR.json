@@ -1,36 +1,31 @@
 {
-  "updated_at": "2026-11-17T02:15:36.789Z",
+  "updated_at": "2026-11-20T01:00:43.005Z",
   "project_id": "GMC-HAMIRPUR",
   "press": {
-    "n": 10,
+    "n": 0,
     "positive": 0,
-    "neutral": 6,
-    "concern": 4,
-    "avg_score": -0.21,
-    "avg_magnitude": 0.23
+    "neutral": 0,
+    "concern": 0,
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "youtube": {
     "n": 31,
-    "positive": 7,
-    "neutral": 18,
+    "positive": 8,
+    "neutral": 17,
     "concern": 6,
-    "avg_score": 0.029,
-    "avg_magnitude": 0.271
+    "avg_score": 0.045,
+    "avg_magnitude": 0.287
   },
   "overall": {
-    "n": 41,
-    "positive": 7,
-    "neutral": 24,
-    "concern": 10,
-    "avg_score": -0.029,
-    "avg_magnitude": 0.261
+    "n": 31,
+    "positive": 8,
+    "neutral": 17,
+    "concern": 6,
+    "avg_score": 0.045,
+    "avg_magnitude": 0.287
   },
   "top_positive": [
-    {
-      "source": "youtube",
-      "title": "Nice college isi me hi padunga",
-      "score": 0.9
-    },
     {
       "source": "youtube",
       "title": "Good going Girl!🎉",
@@ -38,27 +33,30 @@
     },
     {
       "source": "youtube",
-      "title": "🔥🔥🔥🔥🔥❤️",
+      "title": "Nice college isi me hi padunga",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "🔥❤️❤️",
       "score": 0.4
     }
   ],
   "top_concern": [
     {
-      "source": "press",
-      "title": "Mother detained for allegedly abandoning newborn at Hamirpur Medical College - Medical Dialogues",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZWIzMmxaWC1CbzFnaDJoSUl0RzNSY3pwaGNJeHVNdm5qTDZMazdWV21tMzlRZ3pxT1Fzb2FENHBnNVBmQ2FEYUhmLURTaDFtWXNRZUw4Mk5rMk9rU1dDUm9NZW5pU3lBTF9JMmg0OVVubEdhVjJ1c19PWUs1ZEEtbTRnQnNwSjBzT29qZ2l2VS1Na1hjWWVlNnEwUWlERDgzMHhVUzRFMlNmT01SVGNFN3FaUjQ5aWo4VUdoMEtMdUwxWGtqWlFBNVFoZHk1MV9xOXAtM2FibDlmeTFJ0gHiAUFVX3lxTE1GQ05BejVXVEQ2ak05TXZGSlRnUUNwbGxqbWhNZDl6T1l3bk95R01mOEpFYXRaRGE2WDV3SG5UZ29uVUtGeGdyUTBJSXBhaDJxeHpGNFRqNzk2dlAtdHhTQ3VkeW5yZ1VjN3FMVU5iYVR3THlTdTNZSnI5SmI4YTZfTnBzUlUwdVZ5QnJuVnVzQVRUVGJhcnF4XzdSMTBkQmMxTGMtLUVlMnRNdklqQTN6bWF4WHJheE4ya0NEbndhYnlLZ0xWdFhYY3BuLTlkWm8xSmtKUXJQQ0RRbG1FLU91Q2c?oc=5",
-      "score": -0.7
-    },
-    {
-      "source": "press",
-      "title": "CM Sukhu trying to take credit for Hamirpur Medical College with no contributions: Anurag Thakur - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzk4Um5nSFI1eFpkQzczTE5qaFVMWVRCSTQ3VktzOFd0cjU4R29UcXVpTTFLUGhQUTVBUlNrTndqdDhXQkdhSjV0TnVVY1BvNDNJZGxVT0ZkU3k4RTY3YVBVOXJ4Z3gzdm1XZkFuY3kwN2ZPWlFtaTh4OGlkeDZfUnBMNlZCR2xQQ19iY2F2dWJCZDJTZDRfangzVWtXQnNfcEFSZURDYXBScGthdTlackE2OU1VSXZuVm5XLVdteTcwdm54c1plaHJR0gHPAUFVX3lxTFAwQUlYZzJHOUNLQV81cjgyaHc5TWJkLUlJMTJfQzFHQ3RwVzhmNURxRjd3RnFpVzRCOXQyR3J4V3Y2VlhTRWc3ZUtwUnlPejMxM0ZtbEg3bzgyaTBnWWZBUjRUNzJ2OW4wczhzbDhiMjVrdWN1UVQ4V0tGV0U1Ty1TdGV1MmJycHByLXBUZHB4X0xseGhmOGZYTnZPYzdNWmIwQV84dlpPUEJWOUk2SGxhWkFvaFJ4bmpMLXpYdGZ6MkdpcW1JNFZyR0hvaU1ETQ?oc=5",
-      "score": -0.7
-    },
-    {
       "source": "youtube",
       "title": "Dii cut off rank for state quota gen?",
       "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "New batch ko new campus me shift krenge kya",
+      "score": -0.4
+    },
+    {
+      "source": "youtube",
+      "title": "why is it so empty? are you like the first batch ever?",
+      "score": -0.4
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
