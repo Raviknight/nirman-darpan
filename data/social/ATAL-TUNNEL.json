@@ -1,43 +1,23 @@
 {
-  "updated_at": "2026-11-20T00:58:42.855Z",
+  "updated_at": "2026-11-24T04:08:10.061Z",
   "project_id": "ATAL-TUNNEL",
   "counts": {
-    "press": 188,
+    "press": 344,
     "gov": 0,
-    "en": 94,
-    "hi": 94,
-    "total": 188
+    "en": 191,
+    "hi": 153,
+    "total": 344
   },
   "mentions": [
     {
-      "title": "Kullu News: वीकेंड के बाद भी अटल टनल और रोहतांग में उमड़े पर्यटक - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbmgxa0g4SmJ5TUptMjV1VjR5eHVkcHNib25tWFpOQUlLUGI1bmlEY2RaOWFJRjNGYTN0Z0x2d1B5Ni1NcWZ5ejlGWTJWb1pDWjRxVVNOTERhSldqb2RER2JOSFpiS0tLNzVfSnE5OFQ5dUdFTEF5NnFHMTlKTnhoTnRadmhOeFdzRjBCa1JVUE52eW5VUFY0S1llOWwtSEZvS2dQLUpFY0ZYZGcwbG1hZ2NISkY5SnhsN0c2dEttNGtGMzItUGVZVG92ampmNUxVUGZhbWVjWTlEV1hzMGg0YmRGS3ViTE9CekRfVURn0gHzAUFVX3lxTFBqazFqdXkzb25ITk53ODhiUzBxSkFzazl0bkU3UFh4U2ZwazVVeTFKMDc1OW1qbFVtUU41bEVzWXhVUmJOc1BfOXdpTVFuQVhqcXRUVjZuV25HWTdsT29UU0JIZ2lhYUZWeWE5NzEtYVVOTXlHTEl2aGJoZ2IzVWdSMHROOGNFRDFNMnFmNnpUZUVUWDJEXzB6Z3FJdUZLYlNPSVZFbDhCZ01mam1XY2prenIxYkRXS3dXZmt2dEwydlpnWjZzVm11dTVLR005cUNvWU1FeklfaHpYaUFMMTloSUNpR2lDbENuY0RmclJHLXVoaw?oc=5",
-      "date": "2026-11-16T10:43:35.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "कुल्लू: वीकेंड खत्म होने के बाद भी सोलंगनाला और अटल टनल में उमड़े पर्यटक, रोहतांग की ओर बढ़ा सैलानियों का रुख - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNak9KcjVkV0JNUWdTU1RjYjRKWXQ2NEFHVmdOU1RQeGZKOHFQT21yS29JS1pNejlrdHlzWDRuQlJOY05oRjVzWWZ0R1I1QXhaYmZHeWNSc1puS1o5ZXVlcjRfelBNczUyUTRmOXJFZUdQVURZNmZBU2s2bUtiX09VWENGa1Z6TmZOYWhJd0JWcWlsZW9aejd2OE9GNFJRdG94OE1UWl9NbDNMdDlQamgySEQ0RjZIamRwSTR4Q2VqeEZ3MmJybGRsUUlFVlVvNkHSAdQBQVVfeXFMTzNMNkdYV0k2Z0lSSHBqRno4eDgxbFh3ZFRtQTd5NzU0N19rQlRlTGlOUXUxQmFjUGZiUG16SEZDT1d5MlExWGxmOG5CM0c5ZDF2akZUTFBnUTNiclJuYXpoMTFjVVFsTWNrQ0xTdFhUcEhqZnppaDFXZVFoT1NNX1I5eHRBR2RIREM0STFCUWpUeG5sTklZZFpNbVJvLWlFMTNQRkNFaWJmY1lfNlU3X09HWUNkaHFXYzEtZUFmV1BGTHZBMVROcF9mN1lOQ1JLWmNZOVM?oc=5",
-      "date": "2026-11-16T10:31:40.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Want To Witness Snowfall Right Now? 5 Best Places To Visit In India - Herzindagi",
-      "source": "Herzindagi",
+      "title": "Gateway to the Himalayas - The Hindu",
+      "source": "The Hindu",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORWd2QkJ4TXFpZUYtTEFHVGVIV2t4REVFMkt3X3R6dUozN2Q3aWw1d0hXdE9hZ0ttM3VtZkZTZWc1b1RQQkN1N3hLX2pnUkhHZy01QXFfOGRYZ1Z1NjE1VDZLV3pheklKRlhhNUFqUUZtb3dXUUlvMng0OXRiWkh5TEctZjRTNTRYblZlbVFFVGZObkZiNWpkWnBpNTdnU2MxTEZ1UG1mVjZpeHlpZFFxS1dlT2tVZ3NFbFJF0gHCAUFVX3lxTE41cUlxd0U4bnJfVmJldTNTdVlXbXY4azdBbF9fTUZrNnpoWk1rcEo1NzhOZzZ4V2Rtc2NzTDdjNi1IMWdhWHpXcGxMQ0Ywck1acmlSbjRtT2FYYVAyMmswYXNtUXAzSklNakpYMzRGUHhGQU02blZmWFptVDNzc0pXQm5yWnA4bW1SS3hVbzRtZWpERlpJNXp6S09LazdSamZLT3doWmxORy1IS3BoeDhHM2RWbktPV18wbkRiaUl5Qnl3?oc=5",
-      "date": "2026-11-11T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY21WN2s5VTF1RmtOektQWU8xLTlHd1BBbzJRa3I3RjNMY0pVWnNpb3FVOHB6alpBSURMQzg4ci1YZ0c0WFNMOWNGWjMxMXFWTnNDelpHcEhhaWxXT2VFWGt6SHJpeE5FcU1nbFFianNGUHJIaXVGS0doVkxoMXI5OTFQcmhyQUZSelY40gGLAUFVX3lxTE1jbVY3azlVMXVGa056S1BZTzEtOUd3UEFvMlFrcjdGM0xjSlVac2lvcVU4cHpqWkFJRExDODhyLVhnRzRYU0w5Y0ZaMzExcVZOc0N6WkdwSGFpbFdPZUVYa3pIcml4TkVxTWdsUWJqc0ZQckhpdUZLR2hWTGgxcjk5MVByaHJBRlJ6Vjg?oc=5",
+      "date": "2026-11-20T05:26:37.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Atal Tunnel"
+      "match": "Rohtang Tunnel"
     },
     {
       "title": "अटल टनल पर क्षमता से दोगुना हुआ ट्रैफिक, अब पहाड़ों पर मंडराने लगा खतरा; CEC की रिपोर्ट ने उड़ाई नींद - atal tunnel overload environmental threat in himachal supreme court cec report increased tension - Jagran",
@@ -50,10 +30,140 @@
       "match": "Atal Tunnel"
     },
     {
+      "title": "हिमाचल में मौसम ने ली करवट, रोहतांग से लेकर अटल टनल तक बर्फबारी; फ्रेश स्नोफॉल होता देख झूम उठे सैलानी - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWZWZ0t3R2Y4bjR6WFlTXzlLd3M4Zm5Sckh3TlVzYU04TExBc2lLcl9jdmxlV3lKa3oyWjlkZ0F0S0ZHYXRxenZWNWFKaXRDdjRvUHYyeHgyMTVycTJoUm1TSkVOaU5rTjFBNV9pbmwzMTZiRGZXTzVFOUVvd2pYbmstVjBseXNhR2dSVmVZWG9lWV9DUW5LSldYNElOU2llQVAyRnUwU0tjZVVmRmVZUnFHc1pFUQ?oc=5",
+      "date": "2026-10-24T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "सफेद चादर में सिमटे पहाड़... अटल टनल पर स्नोफॉल से बदला मौसम, हिमाचल में अक्टूबर में ही दिखा दिसंबर वाला नजारा - snowfall at atal tunnel brings a change in weather himachal witnesses december like conditions as early as - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQ1NFM2N1WC1tY0ZlY0dITXNyM2s1X3JBVFkta09RWXU3QjYzOG5Scm1mbDdqSnkyZTNjVG90cmpDNXVDdVRhX2dqUEtHU2t0c2hKaF9GUE1WOE05VmdkTEd3ZmtTbUZEdDB4ajZQbGpyZjZkajVua21LRjh5b21taVY2LWs3bm5NdDhLWHlUZWk2dUQ2Q29CRmV0ck15R2FkVjFSc2lCNlFsbVgtbS1wMVdjYWxGNEo0QXVKa1h5QmhTdXdMOG9iNUNZcXJ1ZXRwN09uTzA4UWFqek81UHRtVndMdWxSdjJpdDdHemdOS1BZVmN6TzBRMzVxbVF5WW9mTmRUbEZR?oc=5",
+      "date": "2026-10-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "अक्टूबर में ही ये नजारा! अटल टनल और सिस्सू हुए सफेद, लेह-मनाली हाईवे बंद, पारा 0 डिग्री पर; देखें तस्वीरें - India TV Hindi",
+      "source": "India TV Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZlBEMXU3Z3B2VWUxRzFwTTFLd1l1c1BxSExJcTNMM2NYdEVMYWstQlUzSl9sTk5XRjJPeHVNbVZZb1N0RTRmU3dNSkp1ZXQtR2lybDVWU3ptRElQdkRkWmxSTXNYbTRHcjVsaDhFT21GSDB2cnh3c2xvYlUwY0VFeTV0d0xhNll1T0dHMnhySUhfNWVWZWRMRHJsTTZIOGN5MGhxWkpYeGhBb0lVbmNKR3dHSmpPSG1UYkhtLU9xc3ZnMHJodlU2OHlEMC1ELTNvLTY0QlhHS09CbXRCNEk1RHpVbWlLZ9IB6wFBVV95cUxNdjc4WUdRS2h4OHpNWjEyQmhKNDVJTElGWmtQSU1jSG04Z3l2bEJHRGl4VnBYZG5DUzlwU0pJSkhsaThqU0NidkdUSHZ2aS1hcDAtYkxsU3VPRUtFRDdaRlBfRlNRZWE2Uk1BUWRSRm16eUtSUXFhdmRzVDdfVGVYLUZETzNsN2VLR3dfeTdVYTJEVHJvWmxVdzZNWWFMeEQ2Q21YNEhYRlN3cVB0aVJqM1lfR2dwWHNEUVhZUkQwNG1LVnVHVEJyZGRQbG52MGsxNkV1WlJESVVFLUxsUnphLXNTRnF5WHNZMW1j?oc=5",
+      "date": "2026-10-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "राष्ट्रपति दौरे के दौरान नारी सशक्तीकरण की गवाह बनी अटल टनल रोहतांग, महिला विधायक, डीसी और एसपी ने किया स्वागत - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0dLVkNaQ0h5Nk9mZHdzTi1EWmVmZXlBb0ItOUM1SlFmRUJtd2V3R1FiNW5GNUNBSHhubVg3VkpHUDBIUV9RbGhNMWNxb20ySWxxSU9ON1JNY2k1enRnMVY5QWhlUDRwR3QxLVlhWm5nLVdpaFdJblE4OE1BNTFULTRtSVFaVHEwekRuM1Fkamo0VFlRS213d1d3NkNFX1BqMElheXB4cHJ0UUZodDdHUzB2aS1xVDJS?oc=5",
+      "date": "2026-10-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "President Murmu visits historic Hadimba Temple, Atal Tunnel during Himachal trip - ThePrint",
+      "source": "ThePrint",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNng0UUg5OUpmbFVXaEZ1NXlXc2N4b2FXX3JMb012OXpCbUI0SWItN0VNWExRekNSZmlTS3hzdXJ0MVBsQkNzRkxTeVRuZWJKYkVrTVJkREJvaTVDcWJMckczUHRVd1BUQUk5ci1kZE5lc09fc1BGZFl1VGVBLUNST1plSlhaN0JiLVlRSWV5ekJjNjhhSEE3ZGxnTFhyUDJOZzV3OVhPY2xkNzN0Q2ZhTTVsSHfSAboBQVVfeXFMUDBzNF9DNFg4TW5yS0NJSW01V3VLSDZ1VVQ5TGRyck5DMUt1bjkwSDYxWnRCNlcySG43S2xKX1BxSTZYQ3RWbnZqeW1qTkxDWkxBd3pXSjBzV09XXzVIWG9tcTY3MlM2c3NvQVZNMWFOQ2hCcnBZMURUdEFxSlQ2cEMwcDlDbVNWa1NRMGJVWlg3aF8ybXhzRVN1YnpJcEVQR0h6Q2wzYU5GeUk4WTdaekZNYWZZdC01dnhR?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "President Murmu visits Atal Tunnel, Hidimba Temple on second day of Himachal visit - ANI News",
+      "source": "ANI News",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOazVzZXpZZXBBaWcyOTZPbHpRM3BGWjc2RFNKNlFvNEJtNWFxRFc1YXQwUlEyX3BiLWNrSWVxYUtJc3VaNXhrdjE2Nl9YaUFzSmlVRXM0X01WZTVWRW96dGFNLTBqUkZQZzl0VDBaSzNzVU1pNXpsTlNQa3p6UGJ6clFCVkZndHhWQ2J4VDZsa0JGRjFtdV9PM0ZpSEl3SWdTU0phSDFnT2Roelp5WDVMenV3NlBvNlltY2JNWkVGLXFSd0FHVi1NVll5SXdVZm1NOEt5WG5nLTM4ZEp6Q1E?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "President Droupadi Murmu visits Atal Tunnel amid snow-covered Himalayan views - Punjab Newsline",
+      "source": "Punjab Newsline",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb010NlBnOGQtS2lMeWFqYTV0VWhFWHZDNFQ2cmxfb1BzeVpDazRlSm1OUGx5MTQ3R0JMNWF2b3phaDZ6dWZUYXZDWjJuaEJsR3lzV1ZBNGI4NTBsUUJkaWwxMUFrNWgwTnFRa2o1RTZyenFINU16Sk95NWdEVlZCTm52d3BuZFQzMjhsSmZGVURUUk4xZ3UtYlpOeVFCdTBCMHdQY0licGhKN1Y0UUE?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "President Murmu Visits Historic Hadimba Temple, Atal Tunnel During Himachal Pradesh Trip - The Earth News Network",
+      "source": "The Earth News Network",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0FtVVRfVG9saVRkRlNWdTNWaUQzbUNNSDFCUlA4VEFuVE9FTzJwTEMtLS1PMjY5VTZiTE1EcUwzY1BCM1l4N19aeEN2TVZGdHRCcGlhZ0RTNXB6ZUdQUXNjaEhpYnp2OEFvUTlhWmxHN0g5dHZBcEdwWjF3Q0Y5bF93Z05ZWVJCamhDMkFnMUtUY1JGNjFMbmlsa1U1dnBQREZYYTBoWkNubkpC?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "President Droupadi Murmu visits Atal Tunnel during Himachal Pradesh tour - Babushahi.com",
+      "source": "Babushahi.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRENzSW11aEF0ZnlJSDZUSjdpbzFKbkZPeUY4NHdWVFY2WEwtNE9wRnR2SGk2SXY1TTJCT0s3blQzSlpaLWZGZHh2MGpwRVBTQW9rUG83VUlCMDA4c2JZSTZOVk9fU2lLeENfOFpwaXJ6U2sxdktmempKNTktdzB2R1BmSkpjN096M19JQUxUcm1aNzRiV2o3ZHl0YnhYUU52UVNIVExPQ0hCenVEWE1HLVdrTFZIMW4xVmFBT1V6RmFPalhLRi1iTGcxWQ?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "President Murmu Visits Atal Tunnel, Hails Engineering Excellence and Strategic Connectivity - thepublicworld.com",
+      "source": "thepublicworld.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTT1E5bVlMNy1WM2NnSUphVW44RkpHYWcxRWg0QU9SdklpOGh4eDVZSk10MHVSejgtYzhNdkhqcG9yQkh5TE1GUTNZR190a3psOFVkdQ?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "President visits Atal Tunnel on second day of her HP visit - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR0treG9KdnJTeV9ScUlrZHE1dVNaUk54NlRYMEs2TVVXQ2c4cF94MEFhZVhEbUgwS3lZbUZyaW1QRjY3N3FucmVYeURyVmlZTkozYUhfU2luVWl1Ny1XOS1xLXQ5RmMtby1XbzJleUpZX3c1bWVVYVhtUDNvYjJOWWEtR1VVX0gyR0QzYUlnMUN2dl9HUm1GLWxsRHlUeVJyMkJpOGJOTEUxRlcyWDlTMTVseVR2U1NXSERHZlFJdHI0NUNYR2kxOUNTUEIwQlBtSXfSAdcBQVVfeXFMTnhLeENMVFNsUVJOYko2a3QwR3hNMmI5bzRXc0NPWmtwbE9Id096bFRXcnAtUnNMbk4yZmtrUGV3d3JHWjFnYklndXd0S2RQb1lXNjF4YVN6dnZDMkpVenJyRGh4c2pNRVdNcFFia2F6UGZJeEdjNkw4NW1yYzVzM1RYWDdseks1NHEzalhjekZvYkJRLVRBUFd2Wk9ocklPZF8tZ04ySjVCOU1WS0VOUVNzRk9ubGxHbzRfeVdNaVZuVS1zZm9ERUZCa3RkbzVnb0YycUQtcnc?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
       "title": "President visits Atal Tunnel -President and Governor pay obeisance at Hadimba Temple - :: India News Calling ::",
       "source": ":: India News Calling ::",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb19hMWRXU08zVUxDVDFuUXZMd1YxWU02aWI5dXk2NDZ1ZV93aGdaWm92VWp1V2E0S2hFWXhWb21FMzQyMDFWQ0dQSWtYTGNOLVRXWUJKcXp5MlpBckQxclp2UFlmUEJ0bnljUUZFX2RobGNIUWdWZ0J6UDIxM25ENzBNdnZ1Q2xkWVV6V3FxcHMzdGNyeFJXZmlyTzg4YlNVclVyUjJ3NktPaG9odHFFMWZ0elQtMnNraUF5allLa3NiZ1FzaWg2ZjJ5WDM3dw?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "राष्ट्रपति मुर्मु ने किया अटल टनल का दौरा, बीआरओ के योगदान की सराहना की - DD News",
+      "source": "DD News",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd05IZW11b2pJLUdQdjhxcnp0cGhlaGp1X19NVFBvZkZ6UHlPSlNYcDdTcHhPOEVJa1NxTU5VVE5lNjN3d0NzNk5MQW5TMlRNV2FZSGlkTHNCUFMyOWFaS1VjU0VpTmxsdU9oc0JkTUtNWTM4UGxiTWtNVnVqbWlVclU4ejkxREJaaU9Tb1NFODNHZS1yYXIzVFRXQm0?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "राष्ट्रपति मुर्मु वूलन कोट पहनकर पहुंचीं अटल टनल रोहतांग, BRO की इंजीनियरिंग सराही; मनाली मॉल रोड पर टहलीं - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTTRERUVtVzd6MGxYM2RnQzIwa0lhTGtxRXN4bHRQajZNb1Rmb3Zacm5GeDZwdFdfNU1mMzJRMjJxYV84WkZPdFBMVmxBZmlOY1dja0p0S2JxLUpMS0Q5RUVQTVhSdV9xaGxOc0stNTJUbnVnUlNiYlotdDNkelE4U2h2VWJ2ME5qdUxSNkJ6eEpUUS0zMThsNGJNSkpmajFXUDdtb3JBSmxSMlZjRVlHQmt6MUNPVmNI?oc=5",
       "date": "2026-10-07T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -70,143 +180,33 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "हिमाचल: अटल टनल का दीदार करेंगी राष्ट्रपति मुर्मू, हिडिंबा मंदिर में लेंगी आशीर्वाद; ट्रैफिक प्लान भी जानें - Amar Ujala",
-      "source": "Amar Ujala",
+      "title": "राष्ट्रपति मुर्मू के अटल टनल टूर के PHOTOS: लॉन्ग वूलन कोट में नजर आईं, बेटी संग हिडिंबा मंदिर के दर्शन किए; शाम को मनाली मॉल-रोड पहुंचीं - Manali News - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYTRWTnhhZmtoREVjTTFDTlBTV0lzUzdvck9ySmpzN0RLTE5NVFJrZnJmZXEtU2NhZDJNZnJkbDFjMVk4aFBTQ2VqUXpGRzI2eXc0eDA0SXc0Z19fV3dVejFtS1EwRjdpODlaOTJqaGk5TDh1TnZEclNaZ2R5Zi1SVjloQWdvRG94WHp6N1otUFBKWHlqbnBFWGF3cFJGT3pkNnF4enhnSW9XWERkbDhqMTZB0gG3AUFVX3lxTE96N3NKYjV2cDMtdW1aN0NrTU8yTUpmcE8xMlU1ajJIUnNVbTN1dUhnalJqb0tkdHdsTlNSMFc5MUNxTUY2ZDY4aXV3LU42TTVuRXVCcXNWWDVvQUMxX1ZDTlhiS3hPaUstNXRjXzlpNG1DdFd5RDd6S3RvTDhoaGMtR244bWUtNUpWSTIxcFhfbHA4LWFMSFJVYXdDU2RiZmkyVnZGM2tYZHQtMVpET3AtcFNTWnZNWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRFVmYnpaTi1hMkw3c1dFeTUyWDZvWk9wYUhnd2Q1blItdEc4QWc1RUN2bXU3Vm9rUmFHUGJjN1g4LTU0bjNBc3A1T1VyLVFlbGozTzU4ZjlTUS1QMXFzRVhoLWJhampIQlJYYW55Ymd5ajMxaXlhNl9UejA1M3ZRTF9aOWkyQkF2dWZpSkNHbGRVWnM2QmkyS0U0SV9rQTlzSmItRnItdEgyaU9idlJPZjZuOWZWUEV3T2ZXeU0tMUtWTnQxdjk5QU91WXdWM296cUV4X1ZLYVdEaVNydC1ISmxGekh6eU14Y1psM3hBYWtPRjlVSndIN1NZSU0xSU1YMkdaZmQ4eXBDaFk?oc=5",
       "date": "2026-10-07T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Atal Tunnel"
     },
     {
-      "title": "Jairam Thakur recalls Atal Bihari Vajpayee's role in Rohtang Tunnel, PM Gram Sadak Yojana - ANI News",
-      "source": "ANI News",
+      "title": "Gurgaon Se Lahaul! 😍 8 Boys, 2 Cars & Crazy Roads | Manali, Atal Tunnel, Sissu | Ep. 1 - YouTube",
+      "source": "YouTube",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYVFtQUZuWnZEbnlrOXFBQTloLS15RmJwZnZCSmhzRk9nMUN6T0tXTWMxWnBFWmJuTmQwTnVNcGozUFRsTW5GNHdZLXlqd1VYSm9PX0FSV3hnLVQzNGQ5ellGQ3ZlWXJDTHNMZ3luMllmV1hyalUybnpyUnFrRjhhUGMzZ19FRkFQR2djeGctR09RMDg4elQ2NThIdm9sUXJpaHFialV1d3JKVVhHd1FNN3pfejZkclNLWUdsSUdCWG15UVNBSm8wTjIwWTU1dXpiWlp4alNRSW5PdG8wS3M5aXV0QnlrUQ?oc=5",
-      "date": "2026-08-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Rohtang Tunnel"
-    },
-    {
-      "title": "अटल बिहारी वाजपेयी की पुण्यतिथि पर जयराम ठाकुर ने किया याद, PMGSY और रोहतांग टनल में योगदान को सराहा - Patrika News",
-      "source": "Patrika News",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTGdNUFhiMXJpVnhTMHA1d1hRM3JLRFJmdHVNNVI5U3BEZFNiZ0d3aFpEcENLQ1dEUjUwdi1Tc2Q5dDQydlNHWnhZX1FXVE4tSlNVVVVzOThsc3JVWGFmUmNvRkVsV3A4WFM3UndZTk9BWUpiSmZQcUJYblg3X0VvX3BXcHQ1WjljQ3FCalVBU1dkUEtxbFR2Q2dKNkNscGpZX3FrUkt1QmNNS3VaX2NDQTNJVmpwQdIBuwFBVV95cUxQc29MSGV2WWlWVk54NlVvZzJQQlRiMy1NYXFTWWJZSDlJYjRqNG44enhWNXMtSUpvcGo0WTIwN21xVHNwTEl6UmQ4S08tRElZRk1yeXhubVk3YUhLM3ZYQkJMV183NExSXzMzcXdPTzlLTHhYQzI4dVFTTkVTdmxRdFZRTGhTT3pFTUY3VUU0UDJVSXpYZkNMRVJ3eGM1d1ViRHFXbGlERmRTblFreU1WdGJURkNYcEF4YmRN?oc=5",
-      "date": "2026-08-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Rohtang Tunnel"
-    },
-    {
-      "title": "अटल टनल के पास एसयूवी कार दुर्घटनाग्रस्त: धोद क्षेत्र के मांडोता गांव निवासी की हुई मौत, तीन साथी घायल - Dainik Bhaskar",
-      "source": "Dainik Bhaskar",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYWRlSE1wVEV4ay1FYkxabGhjVXhOZGcyRmZTYTR5SGhKekppV3hONEVhZXg4d2VQMFBVYXlfSTBEZ09OOWRnSU4wejdCb2wzLV8tTmNuZmRWOTlIZ28zWURZNmY1RGViSDNIcUhUeVlablp4Rm9PdVF2d1B1NHdEcGdjWWZ5bmNXYWhRbzMzYldVelVmUU02ZVd0R3o5TTFpbFB5dFprNEg1TjllSE4zYURxQlF1YTNtbHdZWjI1MzdFazRJUGfSAcsBQVVfeXFMUGppWVRGS3BNSVVwTFVFR3RBVU5iUEdueE9JRE5CWWUxOGp2Ml9ndkV5VHpFUHVhT1cwQmIyYmdFRWJmYjhkazVMLS0tX1pJbEtDOURIMi1uUDNaRXo5by0zWEJqT2lRdUl2Q0pYUHVXUzJLZHVpTHVLUUc3VEg0VGkteXZpVkRCS1NxV1JyeDA2dUdtdy1CR19sUHBZUTBPQmUxTnVnOUt5bFNSRGpKaHpsSmpIT2cxVTFWOFlpQWNURWdTSjFtOEZRQzQ?oc=5",
-      "date": "2026-07-04T03:06:36.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Video: Scorpio loses control, crashes into under-construction bridge near Atal Tunnel, tourist killed - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlI0LUs3Z2NELUxKYXV0ZXNsSFNUdEZWS0tsX01PdUlCLWZGTHVoVDlFandncVhwOVFrTWozc0M2V2FSb2ZTOTQzWVU4UVNVU3ZVRUltSmxqWDJGRmhWYnpadnNZekp2UGdSQnhKa3g5eDVlZmt4dXJtUldiQkhYdjhqMnRLampQcEN1VE9wYWVUZFlSZFNQR05ZTVBsRlozQU5iRlZrbndFT3QxQm55bWJpeUh4dmRtMzJnT0pFVl9hZFdvbE55aXVSZnpxX0huUGFFZTAwd2lacTZ3dGhWTzB0TjY1d3laZWfSAe8BQVVfeXFMTlBSLWZhMUotdm1RclNxWmZ3b3ZnZTdINkV5VmxQRF9Za3JLb2txeWRVQWFMdUd2VHFvRkFONmhYZkZ6WFVkRV9wV1hYcERxdEY4NjJvSWo1ZU1saDBQd3N3cHRvdUtHRWdwR2dqYW1rVHhTcEExLUFsVlNiOVIzTExQaDhBUWhkU1ZjUFN5MER4ZmttRWV3QzZ6UXZ3eXJRWk1EZ19lUl9jb2p3a05Qb2R0dVBEUG9sVVMwbExzSXRvbGtXNlZldTRKOHhnclE4MFFKVlhTMXVPQ3E3S3VpLU5jOHBwLTFzeExGLWctazA?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PRnpuT25Fc3h1TDFDSExpLXAtanhQeHVRVmtSS2dwbDN2NDRfRjUzNEZQbHNEOXR6XzJ4YWM2WWRDSWF3My1yRGgyaVRKeEZhSGs1V0l1NHdOQTQz?oc=5",
+      "date": "2026-10-06T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Atal Tunnel"
     },
     {
-      "title": "Dynamite News Hindi. Mike Block · Sari Gelin. Atal Tunnel North Portal: मौत बनकर दौड़ी स्कॉर्पियो! लोहे के सरियों में अटकी गाड़ी #AtalTunnel #NorthPortal #Scorpio #ViralVideo #DynamiteNews - Facebook",
-      "source": "Facebook",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMivwVBVV95cUxQOFBNU3Z3Y21IZGdqb1NQQ2htdW8wdVdhYkVWNzJ0amxFbS1ERDZoNm9pVWE4dTRldmxxTmdOd21jS1M5akxaNWZEWXJ1a3dpRjNDanBKcms2VlV6WkM0d0FKeTZHNVlWc0M3RGQ3b2NHQWdwUl9YMzBaWFFIbHNGUGllampkQkt6SUdLN2ttZEMzRm41amZUZ1BlbUNFRXp4Uzd6U0dtaGNPX2tWR0g0M2o5TjREcGZQYnpYd2phb3pMYS1vVW9hNXFHRWo0NkxPVVRsb29kdTExU3pjbFZMOElVYkQyOGo2LXZHRnFWX3dOTDIyZ00yTnl4M3NHaS1pVUdVWGQ5S1AxSHZFbTdPeUROTk84ekJNeUhiQ2V0bTlVZ21Lc0J6VTh2WEZoWlN0d0N5WjVxd1QzN0VWMWF0N3VsNHhKRjhiNFV0YnI1cklVdjVvbE9FcUhjNm51bTNFeU9mLUhKd1JjU2NfdmswM0lvdzQ5cmlJbnNXWC1yNGszeFZ1NzZ6eHVlVmlmZkliVS1Pc1Y0SEdJd0MyZnQ4cDZhcldJOHFseU40Z1FPbW9RSFEtZFA1cFZUa3B1SGdBNnVITEstakVGM0EySFZ1VFJGcFh2R05ucWRnVGdYZTU5dy1GbnBSRVE3Ym1MT3RHTy1UZDR6endLNXNCSER3SFQyeTNNN0VSYTJyV2xxZkZxaUtZTG5iM0VKT2dEQVJpWGpzRjdleXEtam14Rno3ODJvdklmN0RQellLaWxKTmVPbGdXbnhLTHZyTm5heGdWRVFvZmxMcUR4RnVReTNBSHE4ODh0QlFYUTM5SUhhUHVHdWVGelFvTk9NLXZDcm5tMF9UQmVUNkFHRWlUS2VEMXkydzJVc2l2elNSd0RBeGpjY053UXZGYkdiT0J4SjByQ05BUFVwSWJ2VkY2aGVB?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "हिमाचल: अटल टनल के बाहर बड़ा हादसा, बैरिकेड तोड़ बन रहे पिलर में धंसी स्कॉर्पियो, एक की मौत - AajTak",
-      "source": "AajTak",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWHNsU1B3Q3RQUHZndjNKbkhKRldZeGhJSjFEbE1FYXY0dnlZc1JiQm1vTlIyLXJNMUcxTzhDbjhMbFluSDdGY3p4b0xyMktNYzh2T0FvYUtwVS1HYjNFSW1BbV9zTnpuc05DREZpOFpNYTQ1MUp0Si1uRGFJYjB1Mk9JSDBUbFMzbXlSSHJmZmU3SE5vSjMyMGQ2d3NQejV0WG9IV1RFWHJpZkprTVhPTEJjMFI3c0JPNUJzb0hJUEZmbTJWTXM5R1YxY1QycGY4ZVBmRG9meVDSAd4BQVVfeXFMUEJ4LUYwdTVqQjczVnFhbTBWZGJsdU5ZNkZLYl96dlRzNGxLX1ZPYV9hcVJnN1JFVzlfWWU0M3lBRFBfMmFWaThPcE1TR0JqNXlraEd6cWdsNzZLVWpaUTRNMFRpaTJocy11cFBjZ1ZIcExETlh2REtRVFEyV0dzT2FyQURuZ3FjWW5LZ0ZKemFpNkJzS1g2andLMWJNYkt0MmJYRHZmMVR0dzhEU0tlVk4tTGZCd0pOei14bnlaakFrUmV2T0Q3bnVlQVdWM242MFk0X0lGYmpYWDUybHlR?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "अटल टनल से निकली तेज रफ्तार कार, रेलिंग तोड़ व्यास नदी पर बन रहे पुल की सरियों पर लटकी, राजस्थान के शख्स की मौत - Navbharat Times",
-      "source": "Navbharat Times",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQV3dINERta04yakJqOWx0MUkxbTQ5UEdLZXRnbTQwRlNhNjh0dkFYU0JiSjBsV0JJTmJDUjJvcWhJNWFkdENyM2YybkVvdUtZalFSQVBCZnhYUXhJZGpKU0NvU29VbWVpYVVoYmkwMmpOTGljakhrRzZKVmVCN3BKRHZkb0VWR090Rm9yYThlX3dxdG1xOVgzSm9meWUwT1lJU0xkUlJNb0ZKX2kzVEpiX2N6Q3dwUTE5Zm5rS0U5VWEyQ3FVMnVhak1WcEJBQjVXeWIwcFVYdU9WbFVKRHRfbzdxdDllT2ZiMTA4OEwxaWxEbkRVSUd1dHhHNU9lVDNXMDRCeVl2bjLSAY4CQVVfeXFMT0VsWU5VNjhlZG94TmUwU1RGMmxEMFlvSVlwM0hIUUFVTFh4UTJaQkJRWWNzNnZoTVNZVU1VQXh6MzJkbm1VYV8wdU93aXp3OTBUY25ZdW5hWUdBd2JQczNOYThrU0c0X1VuTzJ5N3hfZUQ0d2FzQVFNUEtRcHRtc0ZlRUhrLWlKU0tKcFBMUWFNU3V6MWkxZGFnY1Y4ZExfX0UyUnZ5SFFmX19sWDI2dkQzM1pwQzhOem9lRF9feUg4MjB0OG83T1lVUDB4cUQ5T2trOFM3QlFneTJxQmxPU1NYYkRKS2EtOVpBSXRjbW0yM0NxZ3IxYTF4aFFSTUhnZndlRzd6S1cybDh1T1lB?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Manali: राजस्थान से लाहौल घूमने आए पर्यटक की मौत, अटल टनल के बाहर बैरिकेड तोड़ कंक्रीट पिलर से टकराई स्कॉर्... - Lokmat News Hindi",
-      "source": "Lokmat News Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTFBTVV81ZHotRUJXOHVUazFzZE14bmRDdEZmR1RnZm96VjJScnBCcmszanVZejhmQjdVdmJNT0wxLTRNRzBiU28wQVc4ZWRJY29fQXpfVVBWT0JRZEJNY3Nuc1ZQTDVOSVpSMTBMcmFrREpxUVp2Z0dXZUFQQ2htUG1Bamh2OTJUTU9EQ3JDaktOVU9hU0ZKclZvZU9LSXZsTGNKa1pxYTdzWDhZXzZGanpiREtGYU5OUTV5ZGlobTNJbHllVDhZazBYV3RzdkIxYkd0dTYzX0kxNVp5RXlYOXpMZl9MYnRIUzIzMVdxWlFCYTVrNVlXWUd5OGNWRVJTMWFUU2FTQW40UdIBjwJBVV95cUxQMVloZUpBRTZyVkRjWE1WQlRpXzFiZThGbkU4ZWs2SFdMRUZ0c0hoVFlhUndmN2czSlhaMmx0S3dsenF4ajh0ZFVYUVpuYTMtcVNSNnhrMWc1UXBneDZjYmx0eVFOUF8yencwdURsVlJoYnRKWUhqLWNNQUowb2t3SXA4M0ZWSkg3MUxpalhEYWhVLUxfaUNTTFJ5aFpacndZUFhoNnJKSWhtMVFRMkZBdFNSM0FIX0xqb1RCb25kRk4zRUNsdmE0S1ZfOEplOVVXclR6YWJxMnU4bnhYbVRjMnktQ0tuQjhRbWVQVzdleE1oUkU2bDhzMzdsaURGSnRqcTBLSGZCTU4zaTNGUHlB?oc=5",
-      "date": "2026-07-02T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Rohtang Tunnel"
-    },
-    {
-      "title": "अटल टनल रोहतांग के अंदर टकराई पर्यटकों की गाड़ियां, 4 लोग घायल; CH नंबर ट्रैवलर के ड्राइवर की गलती पड़ी भारी - Jagran",
+      "title": "मनाली पहुंची राष्ट्रपति: शहर में कड़ी नाकाबंदी; बदला ट्रैफिक प्लान; अटल टनल 18 घंटे भारी वाहनों के लिए बंद रहेगी - president murmus manali visit atal tunnel closed traffic plan - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcGhxeGVUQVlBUnhjeXFjQkZJWWZYTEVZTnpLM0tNSE5QRW1UQUNYMkM5SlhxTkRFMy0yWnEtdXBqQk9tQTQyUVZ6Q2hTTjRQWHZTR19OcE5HQjNUcEF5bnNxNTNjR3NlOEVNZmJteVZTTEI3X01rcG1YVEVIYjBwYlU2cTBSZmJDSEtfQU02ZzRpZ1J5cGJHUmRTbUZseXpGOVVSMUcyeW5QaUhFYlFuMURYaU9ZUlcyUjM0?oc=5",
-      "date": "2026-06-14T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYnpueEpiQTVSREhlWFVyZjhHWklneFE4MjV3VEdVNGRrZEpDSnFJM2puZ3l5VFlDVzdjRi1fTHhlVXhsbzViYVZmamZidnJqb1VWVEFXbWFoS0hZTUpjSWZLbTRwNnEyRklqeDdUcUhueDBxNXNlMlg2bFpBMmFhMHdQNk9BdjZ5Um1qajNPbG5fOGVSZXZhWGhyQ2pMSGpkM1VvN0RxNDRERGtBMXdSYmpWelMzeklTWU41SFpB?oc=5",
+      "date": "2026-10-06T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Plans Afoot To Cap Number Of Vehicles Crossing Atal Tunnel Daily - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSjZVeC1pZFhPZDZ2Q3hSTi1GdmhOWU9pLVdpNEtXM3UwMkx1OFZpN0RXcXFDTVZJMktvemJLQzQ0d2tXOWZpQVFURmtwbEVqa2xiMU9DMFdsZFlHcWc5V2hfR0M3Zmg1RW44YTRiY3lHTFhPTWhtYklhRVZmRFhQb3kxT0p3TDBycmxOSFVfSlhIRXNXcV80Ql9iX2lWNmtzMk5UZllhVDZHM1BSbzUzRFo0UUIyd9IBuwFBVV95cUxPNWdaMFduaENGdGVEc1R6d0oyS2VZUTJsNWU4Wlh2MWgyVnBHT0V4UGNudFRGa1ZiWF8tS1NmRXZFTFpaZWRfR0FIWHU4aGFvWXF2UjEydTYyN3lWdWM5QVNGZFQzZUxmY2pkUnZJRjRXN1VCMHdxNHlIdkRRblEtQzRFRFgtdEtUN05QYjBfUjFadzY5RWhsVU1UQ2ZtckNuWHhmVENKaUtfb19LYnFiRnB2MXRrQmhFdlFn?oc=5",
-      "date": "2026-06-09T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "हिमाचल: अटल टनल पर क्षमता से दोगुना ट्रैफिक, दीवारों पर जमी कार्बन की परत; वाहनों की संख्या तय करने की तैयारी - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcHlBRUxEeE05RzZ1V1dBN3d1Q0NzX0plNHVpSVVMRkpZWDdXSng3ZjlFOG9QdVRvLUlDMkFoZXVfTHc3Z0FrUGc1dy1GTlAzdFU1Y1ZDV1JzQnd2OXI0QUJmTW5PQ19oTlgtU2RfRjJ2ci1ZWnhOdkpVcmJXaUo1ekpXVXRCOTFGeEVZamtuN2xFNG12bkFmRlk5d2VwQWpWYnZoRTNkYW5iWXVKZVlkRzZEeS12RVljbzI3Y0QtdEdkNVRkZ3A3T3BtdmxwdlAzREpQa081eFfSAd4BQVVfeXFMTXBnUEJnVDVOY2c1XzZrOVo2ZWFnZ3VmWWw5XzQ3ZWFDTno4R2JUTlc4c3kzMklhNW12WU9icTFOR0RWdjdxV2hXUkZMeWtDTDhYZllVUUE1STMyUkRZZmZLLTJKN2pOcHJUaWtlUVBlTVFLT1lXQWxrOUxRSTBfNXVEUHRnX1liMmxOamg3OHplamFHaWh2NlFHdDNWNW5DSVVKcXdhaXBYcTBYaVhkV0lJNHlMemlmSy1HWTdBeGpUUHhGcnI5MFNyZHVWcHVVVzZpNmY2WnNFaEl2dVV3?oc=5",
-      "date": "2026-06-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "Heavy traffic flow at Atal Tunnel amid tourist rush raises safety concerns | Hindustan Times - Hindustan Times",
-      "source": "Hindustan Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaVpfc1hyaWZ3cmNVSFJjN2VRVjhzYjZIR0Z2VHRicURXYXpWbVpmSE16Z1N6dDA5WEdpWE5YTTJRYUs0NUpIUzFUYzdFVmNONUpvUEtkMFAyN0xScUNFeUExM0dadEpnSVZpdkdmTUZwOGtmWGlzamxSSGRmcVM3SlR0UW1XRDBnQzZJa1pmQnhfdXZrYXBveHMtVU5RNUNSVkpDa3NEMEFwMkVNV0tjcEduMkNuMmVjWHY2TkJWejVGOTdSdzkzYWE4Tk9GbW9JTXg3SHB5YXF6RVdMVzl6bW0wONIB6AFBVV95cUxQQ3gwZjVQVV9sOWd6aDdQVXZsUC16VEV2VW5YYkVEYTRES1FUMFphY20ycVFIb2VSaVFlYmQtblhZTnNBWXlZTjdKS2tRNzZPazI1eE50OHFiRFFuT0t1eGlBajdxNXdzdlJPeUhwU2hkNmI2RWd3MllobXJjb3BlQjVMMl9oT3B3NjkzbnFXZ2I3MWtRQlNUdXdtYmJoSzdFVDFYOWRnZHpOeWoyWjB6M0ZsNDVGRFBMUGR4YllBY3p4YkJ5YnFTY1NZb1puRmlWQmVKTDFzRVFVUWRFODczdGdCb3lzR0Vm?oc=5",
-      "date": "2026-06-05T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "BRO to conduct first-ever safety audit of Atal Tunnel on June 2 amid tourist traffic surge - The New Indian Express",
-      "source": "The New Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSFE3SG5rZkZlWkxldUlCMFY2dGctTF9OQkxUQU1EUnExZ0NtclBuU0x3TkJnVlN4STUxblZnbkVya3YyVzJoTl9LTC1TVUh3cTJXQVJEZ1UyQVFZMGRfazdJOGpGajZOaUZvMzkxMGwtV1hQWElIOWFUakREMFk1T3V1Mmt3bDVmRVg3cVZVTmEtUDZrOFJjVkNPOWQ3Ml9UbVRRWkE2UlBpR2FxQmZrLVBsbnZCZTRYbF83U215VFVXRXQtQ1NUUU9CLXI2VzU0c09jYkZIVmzSAeYBQVVfeXFMT2dfeGhfZVo1eExPenZPLUhNQ0E5bGpsZEU1NGQ2T2RWd1lHRl8wLVBPcGlBZ1Znc0dHU2U1akozbTFud3VOb24xaE9kUnROTnBVLWVKVmlHMmdsWmpTelRxZ2lsWHVvVDNzakxVMm4wNDN4eHZyWnR0ZEo2RTZudXdoMUZWSFZ2TWx1OHd1WkJUYzFobHM4bmFLNk1IRUltaWI2Mk9UekhKSi1XWFdZQkUxRGwtSGFBVnkwU01WU0JCXzUyY2ItX3VEcWM2RE9uZWhNelRCa2FHOWxIem9NdlQwYVF4bUE?oc=5",
-      "date": "2026-05-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Atal Tunnel"
     }
   ],

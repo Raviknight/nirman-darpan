@@ -1,24 +1,14 @@
 {
-  "updated_at": "2026-11-20T00:58:36.438Z",
+  "updated_at": "2026-11-24T04:08:03.005Z",
   "project_id": "LUHRI-1",
   "counts": {
     "press": 39,
     "gov": 0,
-    "en": 29,
-    "hi": 10,
+    "en": 31,
+    "hi": 8,
     "total": 39
   },
   "mentions": [
-    {
-      "title": "Geo-tagged monitoring ordered to track environmental safeguards at Luhri Hydroelectric project | Hindustan Times - Hindustan Times",
-      "source": "Hindustan Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWGVWQS1pRnVjRzlfZEVaQngxTlQxNEJrY2RNdTZDWUN3bmNMNElsd0xjS0Z1bTBMblo5Q2xjNkdmRTJ3UVczR25yMk0zLTFPOUFjSWtGdngtM3ltZzI3dENyeVExQWlKMkx5cktVc01oOTRSYjBVTzJNNGtGOTNEcU0tcURMZGxhLU5zUkF0TllGaTdsYzVTc0NOQzNOSGlTZGVpMTh3ODVua3lTMHFOc1Y4elI1eFdfTGM2Z3FHU3czVlF0TUt3Mi0tNmZBcVFVYTgyc3M4cU9CRUYtR0JUR0hiQWNtWTlpMlJtdGE4enVHVHNZMzBaMUo1OELSAYICQVVfeXFMTWxLa0g5bHprNVhHVWxYbmRZanFoQUxBOXRKR2EtNlNNbEFkSWdEVFY1V19HamoyN3YxT0FWdVVPWEhabmZrcUdoLVRnVkp6RWt4WkZRdS1XaURnT1R5dTlGS2FqVnVUd0dRaUF3VXlSNEVKZWh5clM2QXZYb1NRQXg3dWRsenFIVEtDcnVRYUpHQjNEcVMybDdGTGs5VFNYSGFqdG5fUEZlRUJLazE2ZjRYWjZPLUM1blE3QnE1Q3VEdDhERURrU3h1STNFZWhzU016b1hNUDJzXzRfYm56ZmptS0lsa0F1cGZNV1hNNzlRZkhtTXJ6VkYxRXFWZkNKU1h3?oc=5",
-      "date": "2026-10-03T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Luhri Hydroelectric"
-    },
     {
       "title": "IndiGrid to acquire Luhri Power Transmission for up to ₹1,336 crore - ET EnergyWorld",
       "source": "ET EnergyWorld",
@@ -160,26 +150,6 @@
       "match": "Luhri Stage"
     },
     {
-      "title": "​लुहरी हाइड्रो प्रोजेक्ट प्रभावित किसानों का हल्ला बोल, समझौते लागू न होने पर फूटा गुस्सा - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkJZamNfUmVEWm9hOUR1cERjWnd1aFI3SXdSOGRKc2cxSzh1N0lDU0x6SHJxX0ZJbjdkVlF0Tk5lMTJxbmZBTWthMElSQ3BjLVVjUWxDczRhU0ZHZ0sxRC1kY0lNaWJRZHp3QkFVRGtDelp3VXhkczZvalFia0J6UmJ5S2xJM1oxX1hGa2h6UXQwN21OODl3T0lveDlZRThiM3pkRTB5QnJSSU4ySTY4Y211a9IBuAFBVV95cUxNZlhRRUM0cXZZUnNNVzlaOXg3ZlltTVViSlF1ZWUtYkdsZkY4ZjktdkVaZnRwVUZsRXlzWXN1MW83SnRob2FNc3d3anFwM1FodVlsRXR4YmFNeTBpdDBBNXYtMjdGOXRwZVJOMlVpYTdlNW5qNGZfYnEtVVRMRXNLTWdUc0xRQXB4TWhtQmh3dWUyTE5sZmdGTldXdXV5SXJNY0ZUdThqS2ZzOThLSVVzbGxkQTdXYTha?oc=5",
-      "date": "2026-04-25T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Luhri Hydroelectric"
-    },
-    {
-      "title": "केंद्र के अधीन स्थापित होने वाले चार पावर प्रोजेक्ट्स अब होंगे हिमाचल सरकार के, जानिए क्या है नई अपडेट? - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTY3Wng4STVlRjdUNEhNSW9LYjVac082SE5nY01yRVUtT295ckplMlJydUZzTzBCTEVaNDZkOUZaSW5naEJ5VmJwQXB4WFBYdEJkVk1PQnA2TG5EVFJJYjZLdGFHM1JJaGJkLVE3QlpiNTdqNTR5MmpBZVViX0J1UnZwOGtJZXlxUlRqVzMzYzlsVGlMMlBXUkpseUlTZkxZZGlpNDBfeGVLNFhTR01HVFFLalN6ZktrNWdHUGY3NU1TVUhUOXotZlpLaE01R0haMEVMeTVYeDVmZU4wdmfSAeMBQVVfeXFMTmNSTG5KckJmcVk3R0lQdnh1YTdDMWRVT3JqVG91dVNYQTFObjY5UEgwU1Z1azZSbWdKZGtPWnZVUzY5ZXhwTnREWDF5d1ZrcU44RFNmZFNJaUttX2ttNkt6ZXpFT1EwWnNmd3YyQnJncVBfdVNXZVhhYnBSN2t4aXFORjZURV91U3J1Zm1iNVJ4eGhKQ280WTVvbjFxVENZLVE3TGoxYURxNmJkdkxMT21NNXg1bkhPU01RbjVOQnlBUDdEa0Q0emJzMXYwS0NYYXBBbGhXTktESHlJaTJDb1pJN00?oc=5",
-      "date": "2026-04-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Luhri Stage"
-    },
-    {
       "title": "NCT clears Rs 839.55 crore transmission scheme for Sunni and Luhri HEPs - Power Peak Digest",
       "source": "Power Peak Digest",
       "source_id": "google-news-en",
@@ -188,6 +158,16 @@
       "kind": "press",
       "lang": "en",
       "match": "Luhri Stage"
+    },
+    {
+      "title": "ट्रैक्टर-ट्रॉली की टक्कर से बाइक सवार मां की मौत, बेटा घायल - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHRrU1dZTk9GUkNyMkNwbi1vU293cjFxaVMyaUpwcndjekZLLTdIXzZsYUtWblBlc0JvZHNQc2l5MkJScVduV29ta1h5d01Ob1ZlRm9OYnVCb3RsYVBTTnZDZkhZbjRsMm5PUXVNOFBsamJ6d2NHeTBJNlNSOUxmVHJzYXdGMFRXdmtDb09uMFU2emo0SDdZd1RCenZOdDNjdU42Y2oxaU1GRGJhVTd2b2R3eE9wWXRSelBqRHJFYjE1cmFKbzBYSHZXYVhWczdnZkNCMW04RdIB3AFBVV95cUxOZ3Y1TnBOSEhfZF9GT2VuaUM5T1R4ZDNoWmRKUl9xb0VVcG1TY3dmMXZ4XzYtWVJ2MGt3Qi1hcXFDNVBGMy0yckZ1N1UxNE9qb1VRWmpiSGwxeFJuZ01Cb1V2dmFCbnY5T1VhMjlYWjZUVTQ3ZjhlWGNiTklQenVfUEVwQmM3dzZYNGdTZlpvQldsOXFidTBfbV9lb0RKYjZMeXNQYU5Gd2JaSnNNSkVzdDBvejZ0emtxendXQUVTTU80czlyc3JTNWlSWndabjFOSFNGaG5YN1NuUmxi?oc=5",
+      "date": "2025-11-23T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Luhri Hydroelectric"
     },
     {
       "title": "SJVN signs Power Sale and Power Purchase Agreements with UPPCL and NDMC - PSU Watch",
@@ -208,6 +188,26 @@
       "kind": "press",
       "lang": "hi",
       "match": "Luhri Hydroelectric"
+    },
+    {
+      "title": "State-run NHPC appoints Sanjay Kumar Singh as Director of Projects - Livemint",
+      "source": "Livemint",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOWFtd1ZBaWlpclY2WmIzbHEzWi1vMUlvNlB1ci1vbTdvdG5KMU9CYzh2LW91eENXQV9QSnJLdUV6VXo3X3lJSnhrQ1lPRXlON0pyc0dnbkNoZUd5ZExIUHVycmxmYWMyNW93VWMxa2tLQ2FjQlpzMW1WMjktenZhUmJ4WXEwMG96bUtYbGc3V1g1amtYaUZ6LWNhdlNKdVdDdXpQZFFNZVpxcWE5YTR1c1VWUnB6OUlHanFObUd2UUxqd1hKblHSAcsBQVVfeXFMUGhQSzkxemwwcnBudXFhTVhSVkV2OTZQU2xHd2pfTkF0djVHNjlKMm1kbzVIUnphMFUta21TTG9NSjRsN0Q2dFExcnJTc0Fid0JXTGlxQURocGkySENpU2tLNEdFRTBKZktQLUlyQmU5OS1KZlZFaW52RWR1U1pVcU4wMHhUTTVKdFFtOXc3ejl0V08wQXBORXZCWTJFeXgwWDJvaTc0RFVvZXlwN2ZtNzRqb0J6WTF3azFydDhqRHFrVHo4VTBPYXdVWXc?oc=5",
+      "date": "2024-07-25T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Hydroelectric"
+    },
+    {
+      "title": "Himachal Pradesh: Damages at Luhri-I HEP Reveals Loopholes in Dam Safety Act - South Asia Network on Dams, Rivers and People",
+      "source": "South Asia Network on Dams, Rivers and People",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmY3ekFrV0xiYVlRS29GWVpOdnNzVURrYmtHQ2toSkFteVZrWWZVZFlaQ01sa0hHZmdIc3U0cHE5dThHbFBkTmZlWTdFY2RQRmpOYmYtbXRCMVhiYWEtM0JMZ1RxdlF1THVxYnNQSEdLYXB2VTJ2U0hJS3dybVoxMWc2NkdxZ3R0NWJqMFl2OTdWSkZTNHBEdUFHQ2lxY2hvRzlJeURBRnk?oc=5",
+      "date": "2024-07-13T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Luhri Stage"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-20T00:59:32.518Z",
+  "updated_at": "2026-11-24T04:09:04.137Z",
   "project_id": "AIIMS-BLP",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-11-24T04:09:04.137Z",
+      "title": "AIIMS Bilaspur Theft: ₹20,000 Recovered, Man Arrested - jeevanutsahnews.in",
+      "summary": "Auto-detected from press: \"AIIMS Bilaspur Theft: ₹20,000 Recovered, Man Arrested - jeevanutsahnews.in\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnlFenItY1p6dWtOUU1TTDJrVTlkUmo5TmcyRzRzai1wQ19qeGJaaWI0eEQyd0dsbEUwSm54U0xBVGt3WGRsbTlyU2ZIdDduR3YtUDVGWUxlSnpNamgwR2xMRXpSdjk1ekFIbFc1Z1BVb2pNSmM5T1poc0ZXN0ZIOTNNcXB3MVFRRXdmb2k1RXpCZkNFRmU0RGRya0plNzQ?oc=5",
+      "source_name": "jeevanutsahnews.in",
+      "lang": "en",
+      "date": "2026-11-23T05:58:29.000Z",
+      "matched_term": "arrested"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

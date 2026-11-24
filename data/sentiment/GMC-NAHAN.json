@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T01:00:45.167Z",
+  "updated_at": "2026-11-24T04:09:58.774Z",
   "project_id": "GMC-NAHAN",
   "press": {
     "n": 0,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 20,
+    "n": 21,
     "positive": 10,
     "neutral": 7,
-    "concern": 3,
-    "avg_score": 0.33,
-    "avg_magnitude": 0.495
+    "concern": 4,
+    "avg_score": 0.281,
+    "avg_magnitude": 0.505
   },
   "overall": {
-    "n": 20,
+    "n": 21,
     "positive": 10,
     "neutral": 7,
-    "concern": 3,
-    "avg_score": 0.33,
-    "avg_magnitude": 0.495
+    "concern": 4,
+    "avg_score": 0.281,
+    "avg_magnitude": 0.505
   },
   "top_positive": [
     {
@@ -45,6 +45,11 @@
   "top_concern": [
     {
       "source": "youtube",
+      "title": "this is not for ug candidates ???????",
+      "score": -0.7
+    },
+    {
+      "source": "youtube",
       "title": "I don't know why yt recommended this???",
       "score": -0.5
     },
@@ -52,11 +57,6 @@
       "source": "youtube",
       "title": "Hi sir, i tried to connect with you on instagram, thoda hostel related puchhna tha, internet par kahin bhi nahi mil raha",
       "score": -0.5
-    },
-    {
-      "source": "youtube",
-      "title": "Sir hostel and mess fees??and is there any pg quota ?",
-      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

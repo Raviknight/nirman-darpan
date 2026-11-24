@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20T00:59:32.518Z",
+  "updated_at": "2026-11-24T04:09:04.138Z",
   "project_id": "IIT-MANDI",
-  "count": 2,
+  "count": 3,
   "suggestions": [
     {
       "category": "defect",
@@ -28,7 +28,21 @@
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQnJYaENWam4tVVh0X29KQzNqcW1iX193ZE5fZXZrSGljTlRMQUY3U3hUODN2bWRNODRlYXJWMjQyTTFTWVQxM3EtWHdHckpMTVBEN3ZxODl3a0VqT0NmTXhWYWU0QTlCaW5rSDg2RGVzQ2dFMHQtRDFENlIzVldsQnFPdF9fT1NWM2xzQWo4aFR0Z1ZhdE9fampIT0lNUkJndEpzSUcwRTdEMGRneEZNS004Y2NMLW1Jam44WnNSOHhnOUphMVdPVXhXamxRWXBjV2dtYmZVNWItVENSR1RtbWtDNDY0M1JhVEpJWXMyOHVyY0psX1Jr?oc=5",
       "source_name": "Education Times",
       "lang": "en",
-      "date": "2026-11-03T05:56:00.000Z",
+      "date": "2026-11-03T08:00:00.000Z",
+      "matched_term": "sho"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-29T23:04:01.864Z",
+      "title": "IIT Mandi launches 'Science on Wheels' in Himachal Pradesh | Tap to know more | Inshorts - Inshorts",
+      "summary": "Auto-detected from press: \"IIT Mandi launches 'Science on Wheels' in Himachal Pradesh | Tap to know more | Inshorts - Inshorts\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV3Z5dDQ0X3VuMDBCUGhKbGtIMXpVb2xYRzZ6eUdIWVRYODNaaUo1VE5Bb25pcW1sUU5LVXlHTjFrWEpveVNTMC1oSHZXdnhkUzROWi0yX25IRm96THhtLWFZSWJqWkFudVYxZmFsQUlNZnhlVE9DUXhoQkNGUXBrdlpsOU9lTHJIcUhnZzYwbW0zOTg0YUFtZ2J1M25CRkpnMVFj0gGoAUFVX3lxTE9QNm5aQkdZNk9yWVd4SjIzc3o4WlNpaUZsODgwRkE4b1pxc0xQMUtBNERUcDhiZFZGOEpZNmR2eTFOdlFQXzFqNHl4VmpSdzVQcXRidHZFTzctNFVMODBxOHRQSldQdTJEeGsyRXJpSW5BUlA1V0dyd201RFBfcGxlZl8wazNUaW05dkVDRGRCWXR3cmQyLXR5S3hvTnlKR2hEbFhtUDJrTg?oc=5",
+      "source_name": "Inshorts",
+      "lang": "en",
+      "date": "2026-10-28T19:24:14.000Z",
       "matched_term": "sho"
     }
   ],

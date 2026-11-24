@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-20T01:00:29.457Z",
+  "updated_at": "2026-11-24T04:09:46.318Z",
   "project_id": "SMART-SHIMLA",
   "press": {
-    "n": 15,
+    "n": 16,
     "positive": 11,
-    "neutral": 4,
+    "neutral": 5,
     "concern": 0,
-    "avg_score": 0.233,
-    "avg_magnitude": 0.393
+    "avg_score": 0.225,
+    "avg_magnitude": 0.375
   },
   "youtube": {
-    "n": 0,
+    "n": 2,
     "positive": 0,
     "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "concern": 2,
+    "avg_score": -0.5,
+    "avg_magnitude": 0.5
   },
   "overall": {
-    "n": 15,
+    "n": 18,
     "positive": 11,
-    "neutral": 4,
-    "concern": 0,
-    "avg_score": 0.233,
-    "avg_magnitude": 0.393
+    "neutral": 5,
+    "concern": 2,
+    "avg_score": 0.144,
+    "avg_magnitude": 0.389
   },
   "top_positive": [
     {
@@ -47,21 +47,19 @@
   ],
   "top_concern": [
     {
-      "source": "press",
-      "title": "Challenges of Smart Cities Initiative - GK Today",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5Nmh3czZUQmc5OUF0Qk9BMkIzelY3QmxEMmFDNTVTR3BIN0VIUmNkSnhGZ3dQdUJGVHdGYmNDUXNTcS05dDFPTDFFOFZWdENKM1hyTnhIT3psSlJoWktxTU81b21qRHU3Q3ZoMWJn?oc=5",
-      "score": 0
+      "source": "youtube",
+      "title": "First achievement,  water supply every  3-4 day, second achievement,  over headed electricity HT wires, no undergroundin",
+      "score": -0.6
+    },
+    {
+      "source": "youtube",
+      "title": "Wow what a smart city, shame",
+      "score": -0.4
     },
     {
       "source": "press",
-      "title": "10 Deputy Commissioners,19 IAS, and 6 HPAS officers reshuffled in Himachal Pradesh - HIMACHAL HEADLINES",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXBMWWdraG1yY3JYX2pER3JkX3JCTUF6RWVVRjdmemVma0hkekFuVlBDLTROYnFnSWlRSlVKOFBYZmhEd1ZjeF9RQUF4VGtGenI2Z2dWQW5kVGtUek9Ua25zMENRb25xMjh0d0UzaU5Lc3pwaVpmZldoRzRkdURiWTkxZ1Z3aXRsSko5SE5STkFxS0lSRkY3UGxMQ3lXeHludFZfMDdhNmdBWDVienc?oc=5",
-      "score": 0
-    },
-    {
-      "source": "press",
-      "title": "Explore multi-storey parking at Lakkar Bazaar amid rising traffic: HC to Shimla MC - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVjhaYnN2WUtPQTZNTkgtQlFOeHpGNkJNWEViLW5MTGxTa1RJMjdyTGNtSWIyRWtmQjNNUmxDVDR6Vkd5Y3NvNDFjeWc0eDRUdl9JaUZxQ3RKOG11ZmUxYVp4enZLaW9VblhHOHZQN193UkotMDJZZjgyNUhBUkZFYlNRbmprSDRjLXVZQWtUdElacXZqYWNXdE1kZkZOcDcwdkc5d0RqYml6QlNZVFRsa3QtSEwyOUhxZzQ2TkEwSV8xVzZDa040WF9CX3V2TXRWSUNHVF82VU04TzNlX3ZFYWFyMDVfR2xiOEVEZHdXNjPSAfYBQVVfeXFMTzBzRGxEcDNmVE1IVFpMM0JhU0JwYWFDQTdUXzlad1NzSy1aRVJNMWc4UVloYlR3NUx0dkFPX3JHTi1NWVNvRHkzcGdBRlE3YkdKSE8zZDdnYlIyWUU0WDBGYjlmY2ZraGQ1TkNFcm50ZC1BVmVKaVFMeU1JWjdacndfZGlPb0MzUWg2ZkdFenlSdmtNZ1J6VEdjSDFCVzdxQUJMcUJiU0RQdGJIU2ZlNkRHaFFSaU14d1V6dm1xMkF3cGtsMGRIUndvdDlLTlY0Nm1RVWhSVGRiMTRZYnBsOUtJa2g2VmVBXzRrT3RRbnJ2bTBLNnZR?oc=5",
+      "title": "Shimla’s Urban Renaissance: Elevated Infrastructure Initiatives to Transform Cityscape - The News Himachal",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0luTzliZmRpbnJxWDhQTHNHa2Q1WDBFUF9zQm03S2ZYZFhPeXc2R3V3WUtwMU83TmpIWllKZzBkOE9zeWc1MDVHMmtsWF92bWplM05Kb2lIX2EwVU5jeFVQMmRvbkhSWm92aFpMbTlBYWxTMXZDX1UwZjE0VWdNbXpyMU12UjA4ajFsaDBTNEpGWGJHUjVRTEpjY0l3NEFYU280ZGwxbDZLaGVmTnZWRWEwaWtPNF9qUHY1YVZ3?oc=5",
       "score": 0
     }
   ],

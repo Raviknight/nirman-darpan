@@ -1,11 +1,62 @@
 {
-  "updated_at": "2026-11-20T00:59:40.566Z",
+  "updated_at": "2026-11-24T04:09:14.079Z",
   "project_id": "SMART-SHIMLA",
   "query": "\"Greater Shimla Smart City Mission\" Himachal",
   "counts": {
-    "videos": 0,
-    "comments": 0
+    "videos": 3,
+    "comments": 3
   },
-  "videos": [],
+  "videos": [
+    {
+      "videoId": "T99NxsDShxw",
+      "title": "Smart City Mission",
+      "channel": "Shimla Smart City Ltd.",
+      "published_at": "2021-11-24T10:02:54Z",
+      "description": "",
+      "comment_count": 2,
+      "comments": [
+        {
+          "comment_id": "UgziE9UVV9V90nMJqiV4AaABAg",
+          "author": "@jpnegi108",
+          "text": "First achievement,  water supply every  3-4 day, second achievement,  over headed electricity HT wires, no undergrounding at least, third achievement parking, atleast near igmc , but nothing done, no new road made for traffic congestion",
+          "like_count": 0,
+          "published_at": "2022-04-27T16:57:31Z"
+        },
+        {
+          "comment_id": "Ugx2b-M1a_sfovDJVpJ4AaABAg",
+          "author": "@jpnegi108",
+          "text": "Wow what a smart city, shame",
+          "like_count": 0,
+          "published_at": "2022-04-27T16:58:08Z"
+        }
+      ]
+    },
+    {
+      "videoId": "EfD5Bb7Zc5M",
+      "title": "Smart City बनी जाम सिटी, घंटों लग रहा जाम, CONGRESS ने दी चेतावनी",
+      "channel": "Punjab Kesari Himachal Pradesh",
+      "published_at": "2022-06-09T11:58:05Z",
+      "description": "shimla #traffic #congress #waterproblem स्मार्ट सिटी के दाने वाली शिमला शहर इन दिनों ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "pIJQJR5nhMU",
+      "title": "Chandigarh smooth Roads to Manali and Shimla.Himachal Pradesh,India.Punjab.Haryana.पंजाब.chandigadh",
+      "channel": "azad jain",
+      "published_at": "2016-08-17T09:43:52Z",
+      "description": "Chandigarh smooth Roads to Manali and Shimla.Himachal Pradesh, India.Punjab.Haryana.पंजाब.chandigadh Chandigarh ...",
+      "comment_count": 1,
+      "comments": [
+        {
+          "comment_id": "Ugyypt6dZcBvuamv3CR4AaABAg",
+          "author": "@jass1794",
+          "text": "chandigarh looks like shit man.. what happened to this beautifull city.. is the starting of video showing chandigarh?",
+          "like_count": 0,
+          "published_at": "2017-08-03T09:50:51Z"
+        }
+      ]
+    }
+  ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

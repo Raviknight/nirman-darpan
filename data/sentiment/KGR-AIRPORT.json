@@ -1,62 +1,61 @@
 {
-  "updated_at": "2026-11-20T01:00:14.066Z",
+  "updated_at": "2026-11-24T04:09:37.715Z",
   "project_id": "KGR-AIRPORT",
   "press": {
-    "n": 4,
-    "positive": 3,
-    "neutral": 1,
+    "n": 0,
+    "positive": 0,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": 0.225,
-    "avg_magnitude": 0.325
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "youtube": {
-    "n": 13,
-    "positive": 10,
+    "n": 18,
+    "positive": 13,
     "neutral": 3,
-    "concern": 0,
-    "avg_score": 0.4,
-    "avg_magnitude": 0.415
+    "concern": 2,
+    "avg_score": 0.344,
+    "avg_magnitude": 0.467
   },
   "overall": {
-    "n": 17,
+    "n": 18,
     "positive": 13,
-    "neutral": 4,
-    "concern": 0,
-    "avg_score": 0.359,
-    "avg_magnitude": 0.394
+    "neutral": 3,
+    "concern": 2,
+    "avg_score": 0.344,
+    "avg_magnitude": 0.467
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "I like to visit spiritual place",
+      "title": "Super butiful place ❤❤❤❤❤❤❤❤❤❤❤❤",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "बहुत ही अच्छे तरीके से समझाने का धन्यवाद।",
+      "title": "I love kangra❤",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "बहुत अच्छा जानकर्री दी",
+      "title": "Best month to go there",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Apka videos achha lagta he full information ke sath jo bolte ho",
-      "score": 0
+      "title": "Fake",
+      "score": -0.9
     },
     {
       "source": "youtube",
-      "title": "Har har Mahadev har har Mahadev Jai shree Krishna Jai shree Krishna Jay shree Ram Jai shree ram 🌹💐👏🙏👌👏💐",
-      "score": 0
+      "title": "which villages  is this?",
+      "score": -0.2
     },
     {
-      "source": "press",
-      "title": "Relief and Rehabilitation Award Notices Distributed to Gaggal Airport Project-Affected Families - The Newz Radar",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa0xHRDdHakhHbEJ2d21Pa3Z0OGl2UktybEtlNEhGTURCVjRLUGNXd09CZVZXUXZ0bnpWbVFjVTlTeVRTMVlFZzZNN2Z3QVZKbHNLM0V2OFpiQ052ZWx1bHNDYl9pR0Q5OGg5NkJFZ05lV29KQlBGLXd5MnRwTldCX1doU2dVaklTVUEyNXE2YUw5Y19YQ3l0dUhaQW0ybmlpc3l6Zzk4RUV5c3FoZFhjOXQ4a2Fkc2RmRGwycTYtSTZ1VUdzanBuSXFmSGNEOEJKdmdwUkZRVXFpUkJiV3c?oc=5",
+      "source": "youtube",
+      "title": "Is there any home stay or hotels at this place?",
       "score": 0
     }
   ],

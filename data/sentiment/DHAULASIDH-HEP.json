@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-20T01:00:34.141Z",
+  "updated_at": "2026-11-24T04:09:49.074Z",
   "project_id": "DHAULASIDH-HEP",
   "press": {
-    "n": 1,
+    "n": 2,
     "positive": 1,
-    "neutral": 0,
+    "neutral": 1,
     "concern": 0,
-    "avg_score": 0.3,
-    "avg_magnitude": 0.3
+    "avg_score": 0.15,
+    "avg_magnitude": 0.15
   },
   "youtube": {
     "n": 2,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.4
   },
   "overall": {
-    "n": 3,
+    "n": 4,
     "positive": 3,
-    "neutral": 0,
+    "neutral": 1,
     "concern": 0,
-    "avg_score": 0.367,
-    "avg_magnitude": 0.367
+    "avg_score": 0.275,
+    "avg_magnitude": 0.275
   },
   "top_positive": [
     {
@@ -46,6 +46,12 @@
   "top_concern": [
     {
       "source": "press",
+      "title": "Himachal CM Sukhu orders takeover of Sunni, Luhri, and Dhaulasidh hydro projects from SJVNL - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTY2Z3FTOWo3dDZLQXBZZ1RhVWVLUDJoNnZRc0xZTGJLUFQxc1FzbnRsUE1PXy16dkxNbVBHRXpYM29jVkEwcGJLUXltWFZEbXhDWWZpUlFhcksyU0VHMVZZU1VVdW1hN3R1R3FjS21PdDdyMzhBTGE4a245X0IxMExHN3pKaVk0aTBRRmxDdWlXcWZtS3FrT3ZzQ3lmVUhDem42WWF1LXVXbGI0T1NDVXVmeUE0UldtSlJGU0psbW5MQXpTdDBGd3k1UndNVVVWdk52NUNEWGVTOXl1Tkt5dTFEWHJyc3JG?oc=5",
+      "score": 0
+    },
+    {
+      "source": "press",
       "title": "HP CM Sukhu Orders Takeover of Three Hydropower Projects From SJVN, Setting Stage for a High-Stakes Legal Battle - HimbuMail",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1F2SXFDVDNFQjE3emtIWmRsM05UaGZXQ0loTkMzZVlmeVM4X0lrOWtLa0g2eFIteTRBa3lrSGZ4SlJqSGV5aElDeWNFcFVTc2FhTWM1S1BWSnV6UkwwSFM5YUo3ajBHcE1YQ0ZWNUt2U0E1d3dneFZrNzBvSEtlbS1GcTQxRDZCQWJZUk5qT0VtSy1SRUhrUllibTNmcTRmRFFqOHR2aVJaVnVOWjlNZkV2X1ZobXVqMG1GajFvWG5iNHN3MkpnT181bEZJUGIyM0U4MkZZWHEwZ1JXMy0ta0lFM1ZRUHJGdlBB?oc=5",
       "score": 0.3
@@ -53,11 +59,6 @@
     {
       "source": "youtube",
       "title": "👍🏻👍🏻👌🏻👌🏻",
-      "score": 0.4
-    },
-    {
-      "source": "youtube",
-      "title": "👍🏻👍🏻👍🏻",
       "score": 0.4
     }
   ],

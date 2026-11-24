@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20T00:59:32.525Z",
+  "updated_at": "2026-11-24T04:09:04.148Z",
   "project_id": "SML-WATER",
-  "count": 4,
+  "count": 5,
   "suggestions": [
     {
       "category": "litigation",
@@ -58,6 +58,20 @@
       "lang": "en",
       "date": "2024-10-18T07:00:00.000Z",
       "matched_term": "sho"
+    },
+    {
+      "category": "defect",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-11-24T04:09:04.148Z",
+      "title": "Water crisis grips Shimla; heavy silt, damaged pipes to be blamed - DT Next",
+      "summary": "Auto-detected from press: \"Water crisis grips Shimla; heavy silt, damaged pipes to be blamed - DT Next\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVFGcVgza1dwdmdWRHJmYnZFbUV2NVBkQ18tV3NtNTJMUGdFSjZRdXRPbXIwUjQzWER5Y3ZaUmpULUlfRndUMTBEOExERzBqUzNJaDZpUktFeFZQNzJaN3pRblh6MVJlM0NDVTd4SllFakpsaGVTMlBhQjVBNUR4V2dFWGowdXotRVRub19weFFMbkpZbFVCMnNYeHY4RFZxcG52QTBEQk5PQdIBtwFBVV95cUxPbFYza2NpTldGeU5vRnZ0d0YxNjFqZEU0TGZDMjhvdk9UT3VqVkJjOU15b21IbG85UmxBSE5nSEJnSmt0VTdpQVJrYkhlMUNMUC1fY0IxYXV6RmNYQnNNWVp2UjhjOTR4TnNaa1FVLTdaUlZncmZxczhoYXZUY2ZJWXpNdExuRHZ2eFp1N19QX2dvblR1WlM0UW5HMk14RkVjZE5QMUJvc0FsR1ZuQ2dmUlRFRHhsTDA?oc=5",
+      "source_name": "DT Next",
+      "lang": "en",
+      "date": "2023-07-10T07:00:00.000Z",
+      "matched_term": "damaged"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

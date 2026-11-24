@@ -1,14 +1,64 @@
 {
-  "updated_at": "2026-11-20T00:58:46.862Z",
+  "updated_at": "2026-11-24T04:08:14.359Z",
   "project_id": "IIT-MANDI",
   "counts": {
-    "press": 183,
+    "press": 209,
     "gov": 0,
-    "en": 108,
-    "hi": 75,
-    "total": 183
+    "en": 146,
+    "hi": 63,
+    "total": 209
   },
   "mentions": [
+    {
+      "title": "IIT Mandi Hosts 12th Annual Pan IIT Librarians Meet - education21.in",
+      "source": "education21.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcER3NWRJRmFyQ29faXZHU0lXby1Bd3N0d1JGS1hXQVJMMVFmNnNpOFQ3UUlVVUlRalVBbmg4azV1N3FOMTZYMmNiX05hWm1NM2VoS2U4Z3ExMWZHTU10Z0szV20tWTJDdk1sSldUbUtfVkFWc08zZl9PajNmXzZqTQ?oc=5",
+      "date": "2026-11-23T17:00:01.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "RESEARCH UPDATE: IIT Mandi researchers develop AI-based model to predict wildlife population changes - Education Times",
+      "source": "Education Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWmNNNFBzU3VXQzh2REt5UVUzM2pUMXktd0d1WHBzb0FIclpJS2NHYU1fdmlDRWV5ZGxMYnZFWExIRGQyaDU3S3JGTTdqZmZxVzQ0VTVPUzFGQk14VDhveGZCUFpwbzFXWEF3dGtyQ2NTNzFoMmdjZThCcUVSbFU1VWhfSHYwYVBzLWpteVVUWHlSaUxWbTl3UW9YSzA3QW5PcFN6Z25Ya05xNG9GWlhBZGw5YU5OdnZzbTBtMUZYU2NweUg1dDlLTjJLOGNFdmZGckpNWHgzNkRfelVacW45S3VjSUVKbUMtd0V2OFRDaU1Vem8?oc=5",
+      "date": "2026-11-21T09:24:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi researchers develop AI-based model to predict wildlife population changes - Careers360",
+      "source": "Careers360",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXlUY0FtNlRhUGFHcFplcTBUdlVaWEpGbThxTUFwVHdicldZV0o4djg1eWFPZTJjWTFuaVBpemNoWENpRmc3TlJlaDhWbWdmMGxGSURMYkJKeHR0TUo2a3k2Tk9MT3BFZlBibWk4aUJialpPMHF4V3pjeU9UNXpqZlRPRWRBV0hvak9uRXZIWDh0c3p4MlVWNmJJTmp2Wk5ZcHlvdHBCNXJUUdIBrwFBVV95cUxOeU83Z1Z5LUVia19QV1FYZV90d2ZUSHlGZzU2MDE5NFJQeV9MdE1XM2xWS3pNbGpaWDZzUFFCaHFXeXV0LXdFYjZyeG5SVWl6OXNqbnlCaWZ1dkhNb1pCYWxiZUVkTy1XUjhNb2NZMG54WUVxdm4tQndrM01CUDNMOE53YXN5aFlMcF9OcWNFSXV5UW1WUXhwUU5IbTc1MG1INUNlQi1ITUxuVVhmX3hN?oc=5",
+      "date": "2026-11-21T04:39:35.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi Researchers Develop AI-Based Mathematical Model to Predict Changes in Wildlife Populations - www.pib.gov.in",
+      "source": "www.pib.gov.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QVVkyZ2tIeTNLcGNhSTdVQVltVFNnQXdJMHREN2xRckg5SGtYaERWVmpLbjZlWGxRU3I0Tm8weU1UUGNEdXA5MmlveVE2elRUbkZDeTNxeXVxczNHM1FIekRtZ2FyME9a?oc=5",
+      "date": "2026-11-20T10:12:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi Researchers Develop AI-Powered Mathematical Model to Forecast Wildlife Population Changes - IBG News",
+      "source": "IBG News",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZnNrN0JvaUxVNnlhZkxTX3dZUzFWclZyaFg0NDg3WVpXQWp6bVBkcmFRSURsdm82b01wSFFPWmRIZS1hWjBLSHJodnAtVUF0cnVUcnM0M3M4M2ZBTm5oRi1SaXZwOVR5MzlldS03MGwyX2ZjLTdqNGthOW9GRVAwbnJGbENVY2FHdEpyZ21sVERkRlh0YlplM3BCLUpFV0FxM3lZV0ZuMzlRUm5SRnFxd3R5bmhKbEl4TUlkQ2JVcms5S1JCOFp5dzBZRQ?oc=5",
+      "date": "2026-11-20T07:26:28.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi research"
+    },
     {
       "title": "IIT-Mandi turns material defects into electronic breakthroughs - The Tribune",
       "source": "The Tribune",
@@ -17,27 +67,7 @@
       "date": "2026-11-19T19:35:03.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "Rampur Bushahar News: आईआईटी मंडी में एआई तकनीक सीखेंगे रचोली के 22 प्रशिक्षु - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ081YmlSUzluS0UwcVhFekhEU2c3NnNtcmVqTEl6cHlSRVN6dU5fZnRlNWp6ajZaT2hzXzdKeU9WUm1MZ1lCVlduN3FiSG9pbWJiZ05hcXZXakJjZ3lXaERRbkNSZGZwNlIxbXFyVUNMVUFUak1UWjNhMjcwcXNYMlJfc2dUSldUd3JqUzlpYVozeEk4eWZpclpKY1gxN1pFeTFCMTNhVks1WEtqT1lUZ1hQLUtCNnVwZ2lfUnJSQm9NS1Z6VGtXWjgxVEMyWXRGeXotZm81SG82WWtBZkE3Q1kzNjFzYWEzWXYzVTJhN0RLeXQwVFBzVEJ30gH_AUFVX3lxTFBvQjdIUXV2NFphM3BUYUtKV25ldWppZXAzcmtTUUpMay1jMjVodEdtWXZGQzhub2tON2ZFQXpRSndreTh3bEdGeHR0UG9KWGVLdUdIWmNLSGtmeGt1czZPRjNmYWYwTmpoOG1rMTdLLVpNVThjcW9LNlQ2OUZ1dzNJWlZ6UXpvOWs5YVFabzVHMFZFeHU1M2RqM01pRnNISktvT3ZObVBqTEh6bTJDZUktYWlqZHd0cFRnY0NhMlZRWHc5cmhNXzktaTYxNlNwVlNGTXAzVU1haXpsaW1LdWhjdXRwSVBsNXlhTVpuTWdOTUVIRVlPRUM1Mi1jUEJPQQ?oc=5",
-      "date": "2026-11-19T17:39:03.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT Mandi Research Opens New Possibilities for Next-Gen Memory Devices & Brain-Inspired Computing - Odisha Diary",
-      "source": "Odisha Diary",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORXVVMDRGX2c0ZWJQdkVpanNodVRKQktSTk05OTVFQlo3Nkk4OW5yX1h1akFLQXRVeUVKZG82RXZjbjZtV0pJc20wbFlnVE1CODM1d0dIbUpMUmlhc3lzRE4yMnVUYjZjd3gwU0xnRDhwSGwyY2NUUjRHMEY3SDZKYXNkVkFZcnpaSHdDd2ZLY0sxVHcxSlpxeEJ2X19NWEx0elRlWDZtTjhqNVlpUE56QWliNWlrMjJTS3B5dA?oc=5",
-      "date": "2026-11-18T08:52:53.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
+      "match": "IIT Mandi research"
     },
     {
       "title": "This IIT is helping India advance memory tech for future computers - India Today",
@@ -45,6 +75,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOU56bHppRlFONnJTWnpDN0NNRkJuOHZSeTdXRkROaS1GeXlZeDB5em1fX0xJQ1dkZG4wYUR4eWJUTGRxR2JrSFA5OUM3NzJwNkZKOEpYczA4RDBJaWRQWjBYZzVpQVhrVGxIY1ZJb3V4ZHg3bjlSNzljOEtiZTlNMC11VWJyRHBxTEpsZzVyejhLUTFuTk9VQl9MZTFxTkZvRUNlOFg0aTN2MUFkeFFLRnZiQXM0NmwxM1NWZmIyaWjSAcYBQVVfeXFMUDlRRWxrSzhGTjdxRGZ4Zm1RSkV5enVFQm1LOW5fdDVQMUVzNVI2am11aHBobzE4cVhqVjB0WnIxR3JBVGV0VzFTXzJ6dDM5R3g2SVBKVU9oOWdvRF82UTd2UzZ5RVNtSVFkUmVuZkE2Yk9YSWE5RHBpeGNkQ3RmSEx6dU5nbTRxT21vaUdWSXRnalF3MXRNY2xJNVRma0M3OTNZWlRLa3NSUl9TUzhFc3ZUOHQxS0YzNVpoUXk4V3NabEQ1TWd3?oc=5",
       "date": "2026-11-18T08:28:27.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi Research Opens New Possibilities For Next-Gen Memory Devices & Brain-Inspired Computing. - TRIPURA STAR NEWS",
+      "source": "TRIPURA STAR NEWS",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTI0ZE02U2tvN01qdnRXNFYxanA3ZmdwYlpXNmhxQ1JtRUVsNWppVmE4MjVHUWNQWGNoYUFtMEFFaGdBWE5ERWRBWWNhWVBFa29yR3ZhVURsMGNLZWZWYkNWYm9lWkhZSkdDd1RFNzZYcEdRTUZ5dnNrUGtuXzdlZGR1dWc2REhTekZtbUlQWmNZal8zYldLUU9VeDBJMndFQjJNZzlQSERqZTFlQW5QQkdYV0NDWHZsSmgxeEVJdnZJNWI0T1Zz?oc=5",
+      "date": "2026-11-17T22:28:35.000Z",
       "kind": "press",
       "lang": "en",
       "match": "IIT Mandi"
@@ -60,11 +100,21 @@
       "match": "IIT Mandi"
     },
     {
+      "title": "IIT Mandi Survey: Indian Students Match Global Average in Entrepreneurship - The Chenab Times",
+      "source": "The Chenab Times",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMUoybm5lb0lLbVdYQk1vOTBqaUdyUkJ5TjMzNU1sOU1HM29ZdmxoMnpKaUU0R1ZIS0ppZXhqb2xNQjRHTzFCOVMwbVhDYVZTTWtxVFNzRzF3Q1JhRVFqQ0Z3a2p0bGJodUxEZEVUcWY5MUhGejMxcmhRLTlFS3VDbzdKeHpwS2xjWFlsUXhYOGp6M0NQWG5DVUo5dFBPT1JzcmoyTkpJSGM4Q1NDWmh4OWkzclRvWmNNTzgxeWRnY3h5VDNBbWNFWUo3VW4xdko2dEFoV1Ryc2xzX213S1p2VnBLMzZDeW4zRzI0?oc=5",
+      "date": "2026-11-15T13:14:20.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "IIT Mandi"
+    },
+    {
       "title": "हरियाणा की डॉ. प्रियंका को टॉप-100 ब्रिक्स उद्यमी पुरस्कार, IIT मंडी में शोध से पड़ी थी स्टार्टअप की नींव - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONTREN2FpNW1HQlhIV0t3MXA5MXlsT3dqeDJ3VGQyUFV3ZlRKeXowdzJocTR2bmlZU3ExNmhmVEl0VDU0VTlqekhiclRkcTNBdDdUQ3RMLWE4cHAtNUNQNm5RN3lzWnZPZkpobGttVlFmT0Npbk9GemNtRkFuSzFid2JSdy1mVlEwOVVuU0drMjMzYV8xQTFTcC1jOWhzLVNDNGJ3MU9qYUIxa2lqazVRSHJLN2c1cTRKTEFtbUlKbHlsZw?oc=5",
-      "date": "2026-11-14T11:30:00.000Z",
+      "date": "2026-11-14T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "IIT Mandi"
@@ -77,16 +127,6 @@
       "date": "2026-11-10T10:04:15.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT मंडी का AI मॉडल देगा भूस्खलन का शुरुआती संकेत - jeevanutsahnews.in",
-      "source": "jeevanutsahnews.in",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEM4Rm1udnVRbG1HcmZLZVV6MjEtZHVMSER2M1pxdEgtcXBtTW5uTFVSbXl4b2sxeXB5LWpxaktfU3VyRW1NekdGN1FqdDhGTWV0a1lweUJZbkRzLTlnZGtoTjQwZjkzTkFtS2lSb29TQUJLeEtJYUtlcTF2Z1V0SHhiSi05TlVPckJHXzJuSUlPTkd5SGZyT0VnTXN5c2tsZFlqTTJJWWs5cTJFa2NjT2EyQTk4ZVQxeEFoN0VjMA?oc=5",
-      "date": "2026-11-10T05:37:10.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "IIT Mandi"
     },
     {
@@ -107,17 +147,17 @@
       "date": "2026-11-05T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "IIT Mandi"
+      "match": "IIT Mandi research"
     },
     {
       "title": "IIT Mandi in Himachal Pradesh: Courses, research facilities, placements and what students should know - Education Times",
       "source": "Education Times",
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQnJYaENWam4tVVh0X29KQzNqcW1iX193ZE5fZXZrSGljTlRMQUY3U3hUODN2bWRNODRlYXJWMjQyTTFTWVQxM3EtWHdHckpMTVBEN3ZxODl3a0VqT0NmTXhWYWU0QTlCaW5rSDg2RGVzQ2dFMHQtRDFENlIzVldsQnFPdF9fT1NWM2xzQWo4aFR0Z1ZhdE9fampIT0lNUkJndEpzSUcwRTdEMGRneEZNS004Y2NMLW1Jam44WnNSOHhnOUphMVdPVXhXamxRWXBjV2dtYmZVNWItVENSR1RtbWtDNDY0M1JhVEpJWXMyOHVyY0psX1Jr?oc=5",
-      "date": "2026-11-03T05:56:00.000Z",
+      "date": "2026-11-03T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Kamand campus"
+      "match": "IIT Mandi"
     },
     {
       "title": "IIT मंडी में हिमाचल के विद्यार्थियों को नेट और गेट में छूट, स्टार्टअप के लिए हर महीने 15000 रुपये मिलेंगे - Jagran",
@@ -127,6 +167,16 @@
       "date": "2026-10-31T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "IIT Mandi"
+    },
+    {
+      "title": "IIT Mandi launches 'Science on Wheels' in Himachal Pradesh | Tap to know more | Inshorts - Inshorts",
+      "source": "Inshorts",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV3Z5dDQ0X3VuMDBCUGhKbGtIMXpVb2xYRzZ6eUdIWVRYODNaaUo1VE5Bb25pcW1sUU5LVXlHTjFrWEpveVNTMC1oSHZXdnhkUzROWi0yX25IRm96THhtLWFZSWJqWkFudVYxZmFsQUlNZnhlVE9DUXhoQkNGUXBrdlpsOU9lTHJIcUhnZzYwbW0zOTg0YUFtZ2J1M25CRkpnMVFj0gGoAUFVX3lxTE9QNm5aQkdZNk9yWVd4SjIzc3o4WlNpaUZsODgwRkE4b1pxc0xQMUtBNERUcDhiZFZGOEpZNmR2eTFOdlFQXzFqNHl4VmpSdzVQcXRidHZFTzctNFVMODBxOHRQSldQdTJEeGsyRXJpSW5BUlA1V0dyd201RFBfcGxlZl8wazNUaW05dkVDRGRCWXR3cmQyLXR5S3hvTnlKR2hEbFhtUDJrTg?oc=5",
+      "date": "2026-10-28T19:24:14.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "IIT Mandi"
     },
     {
@@ -150,64 +200,14 @@
       "match": "IIT Mandi"
     },
     {
-      "title": "IIT Mandi Launches Science on Wheels in Himachal Pradesh - GK Today",
-      "source": "GK Today",
+      "title": "IIT Mandi launches 'science on wheels' programme for Himachal Pradesh schools - Careers360",
+      "source": "Careers360",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzJxOXFxakxXa0ZMRm0zY1Y0dWQ1LWxUbFRXUlZobEJ6Y3Q0T2o0bmF3R25xMkRxTVlOT1ZfbVZ3UmxrWGJNOE9kSVZ0TmtCLVVULU5kMDAxSy1RcXF0anhUV0RUQ2o3NGdiSDVJX0RtTWZSb3FoRXN1VUZwbUZVMXBOX2ZlSHM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS0JuNjR5YjkwbDMwYWI5Vk4yRlVTSkVOSTh1S3ZacXFGNTVlRUZCbm14cjdBM3lKUGRleDg4SEc2bVBkb1RzRkV6eXBGSUZkZVdQXzMyN0VDUXJPelF6WDJKRGNjZ2dFLXEzRGVVSGl1SHRhd01sQVcwaEJhZjFteUF5ZEt5N3hFdnU2SGp0VXlucWZCS0FReldpb1FvM19SMkswbjRMdlRXSl9fV1RrVE5KVWd2UdIBuwFBVV95cUxQRkJJOVBYbHVDVE14S3FYWFE2YUdKYkhOQUp2bnpSeTdlZlFtY2tfUG1rT1ptOTdlVU1sdlNpXzFMdXNlLXZzaDNGSjB4YlQ1QU1keHBsZTg4NzhPdzFMQjNnMm5UYTB4WHRuaFFweUR1OWkxQW5udFhiS0lpLWxVR3FINGRRWXVYTlQtaDVRUGFTTGZ3NG4yUkZSUGpnT0RQRW9xOXRDUUJfZmI3aTRtcWtnU2FVMzRnbERz?oc=5",
       "date": "2026-10-27T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "IIT Mandi"
-    },
-    {
-      "title": "An IIT Mandi classroom, a theatre stage, and a student learning to believe in himself - India Today",
-      "source": "India Today",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSnhmd2dBVEJUZGxYSDkwbEdCX200NFRfbm5YQnRFWTM0UkdnWnF0Z1E5WHVKLTFQeExCSEJCcDRRYkkxVUhwOTZnSWUwR2c2T1BsbWlfRTZnOUpmaFptZDRZXzZmSk1fdEJ3ODlESTJwdXlNSkpmNVRrM3VOclExWUU1cE9UMjYzX0tDeHdvUWpMQk9abmk3YkVKYkU0Rll4ODNXWXVDRG4wbEFKU3lYbThLbDFDbnpaNHlVU0Zqa0g4R0pGZjRpbk9wVkwtcGJaMjRPbXZMazR6cVpwclZMQW1nM0hiTmJIcnJrR3hB0gHzAUFVX3lxTE1qRFczMkVfbC1MTXZwdEhWUkszRDVPYXhoV0s2U2RkS1FMNFJLSzV2UVI3VmJKNVM1VnBBU2ZEd0xwMjZ6M0U2VF83cVdCaTQ3VExMZWYzVGFTazJiRVc2cGZ1UWNfcWc1aWQ2cDR6blpwLW1Ha1pVUXJNbzZ6NVZ4eVhwa1laM3BEbHVFUFV6Ulp3S3JncVUzR0ZSY1dzU2FjeVZoZVRuYjgyM2JwSFVlY0JtdXpSOWdybTU0SU5vRlFTRHl4bnI4WkxJeXFxaERiVzJBN0tjOGowS0YzeFNmc2M4b08wWHRxSjhtUUpETnc3OA?oc=5",
-      "date": "2026-10-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "जॉब सीकर नहीं, क्रिएटर बन रहा देश का युवा; IIT मंडी की रिपोर्ट- 20 से अधिक छात्रों का नौकरी के बजाय स्टार्टअप पर जोर - iit mandi report indian youth embrace entrepreneurship not jobs - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjFOdmcxWE85TmlJVHBEWHptSl94ZFFxVkdCcHNIQzAyMUZhempGa09GaEFid051cEQ3eGlMeklBUGNQN0lLeUhMNkNJUlhzNDhOQVlpWExQdllMU2NDa2JSM2FlVGNsU1Jqa21HdzQtZ2tnV3B5LUpJdXVtUk8wZTF5MU5YNnhpLV9YZ1FfdXVJalFyVGNqYXVyek82cXh4OF9NcDVGZl9yY2xZNW5ROW1Kb3loZ1BWcGV1NFBlVlU?oc=5",
-      "date": "2026-10-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT Mandi and Japan’s AIFUL Corporation Host Second Edition of AiHack with Prize Pool Exceeding ₹2.5 Lakh - www.pib.gov.in",
-      "source": "www.pib.gov.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HVzRzVzNhMkUyd3B3SDJ3R3hCdzZxNnl3VXNPTXNmaU45VXV2ZUllS3NBVm9Ob01OZTR2MGY2eGhOLVAzSXRWQjBpVU9DckFxWmpLM1hTNzdIOWVsNFc3X0t4eHZKZlRa?oc=5",
-      "date": "2026-10-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT Mandi’s Osheen Mahajan Wins Gold, Silver and Bronze at 40th Inter-IIT Aquatic Meet 2026 - www.pib.gov.in",
-      "source": "www.pib.gov.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4Z2UxQ1dwUk5MWV9oVGh3RTlQTzJyZndVU0RWVVdibDNDdkFZWDllMjdwNF9rdUtVNVZ1UW1lM3NVVmlnWVZFQXd1UGhId3FZSTR5ekVRd2MxMDFBSE4yN2tHTjNCTHF4?oc=5",
-      "date": "2026-10-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi"
-    },
-    {
-      "title": "IIT-Mandi’s AI model to aid forensic identification - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZXROVzE5bEUyLXFSOVVsX2stOWQyTU1Hb0tRLWcyVXA3OWlSTHRJNW0zZjdfQkFqWkU4ZE85bTQ4ckVFQkduN2d3WHFDR3JsbE8wY1NZZk00VVZhZFBLZFJOaWZvOHgyYW5XYlc1RE9acHdwWmZFQ0dtWUZxbjJXdkRkTzBQNXNoX2VkTDJnSlIxMTYzbzBqS3NB0gGeAUFVX3lxTFBJdk5sSVlJQ19yaWVqczFsWG50VnRRMHRlOG9teDAzNHZsTGV6NWthUlJfRlN0QXVyaHNUUlVhZ1FMZkJxSUc4TWs5dEVDNE1wNmJ4Z09LYzZhM29UWGZiTFYxT2I4YlBuQ1kycTQxSkpSbGE5NVJFb0xJcUdRUGpIZF9CU3FKSnhsMU9wc3BmcGMwWEN6WXJQWkVMVFZ3?oc=5",
-      "date": "2026-10-14T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "IIT Mandi research"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

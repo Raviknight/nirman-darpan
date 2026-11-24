@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-11-20T00:59:11.742Z",
+  "updated_at": "2026-11-24T04:08:42.908Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 22,
+    "press": 21,
     "gov": 0,
-    "en": 12,
+    "en": 11,
     "hi": 10,
-    "total": 22
+    "total": 21
   },
   "mentions": [
+    {
+      "title": "Shimla News: जल संरक्षण पर काम करेंगे एसजेपीएनएल व रोटरी क्लब - Amar Ujala",
+      "source": "Amar Ujala",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXVMYU1vUkVNbG1OWmdaZ3ZRdUswQlhYT05BVmlWc284Mm9xZWVxOWRWVEhjeDVTcWxhVkFFcTNJMVZES29ib0lrSlM2SmlLOThPdEZ5MTl4amFBTmpUa0VIUU9DZlgtbU9falhSNWtuU2tVMy1MX1ZTdklaZVNMRHFOdzk4VUtwcGFzU1hXeWp2UEhjU1U3bUxnR01Bb1RhQWZnc2tkNVhnWEpzTmhMemkxMXZ4MzdScklQLUxwaXdXbm5PMWfSAcsBQVVfeXFMUF9SNzFrWnVBZ0NNUDJNUzZWNTNLdk1kMW9MQXR1QmJxWTlLM1JaTzBBMEdrUVhzUWN3Z0YzRUJXMUtOMjRWeXpITnBOYUp6WURaVlpYVS1pcEwtVGhEN1lvNGNTSi1zcU00OU0wMFVtT1lqVWJScDJjbUpBUmVTMklaSVdfZ1I5ZC1ucmFWUXdvRThJMnhFTUVqYnA0alJncDJjU0ZKYjNQWjdGMF9sSmkxMTB3QXZCbDhPTER2ZDhLU2x1dmRYeUFPa0U?oc=5",
+      "date": "2026-11-02T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shimla Jal Prabandhan"
+    },
     {
       "title": "शिमला में गहराया जल संकट! जरूरत से काफी कम मिल रहा पानी - ABP News",
       "source": "ABP News",
@@ -110,16 +120,6 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "World Bank team meets Himachal minister, apprises about ongoing projects - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRl9Yc0lIWnFIU3R1Vlh4a2tYc0hiUVktelJFQUtkX3pVU0xIaDk4RzNnSXYtQmxkdVIxZTZaa3FEUnpTR2RTd05IX3FpZDdIc0NyekNMamlKRlkzSnhxakxEVTQzX3c2Y0lpcWZOY3REcWdvU3d0OE52d0NuQnl5WmZ3ODNvRmg5U3lwWkZ4N1lvUW1Xc1g4aVJlSnR6RnZfYno2N2VRZERsQXUzWUhKcmlxQjdGcmFWUnpVZUxTeFZWcHdRRXd6OGJ4dnM2WGs4YWVkN2dR0gHbAUFVX3lxTE11TnZUOGU5UXp6RGZmZV9WZGI3N3VHRXlHMmRYX2tPUTRMcF9GRVdXV2p0d2t4VjdMNjFCMnViRExNUzFxR3RfMXk2UUFzQjYzX2Flb1NYcC1acHlScEpDS0w4b1F5U1VrM21XWmt1dzNUNnZHZE1nLVp0X1FIYVp4dU4wTUlfZExCbWRmcnRubTdFR2ZpdS10SWpCVHp5aGFDTm1FLXo2SzlxVW5tWnF0UXZvbTl3ZVREQVlmLVIyTmRweFF0OHRRY2x0cjdlVmY4UUVVNXpZOGdFbw?oc=5",
-      "date": "2024-06-08T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
       "title": "Himachal News: शिमला जल प्रबंधन निगम लिमिटेड में बदलाव, अब इस नए नाम से जाना जाएगा SJPNL - Jagran",
       "source": "Jagran",
       "source_id": "google-news-hi",
@@ -140,11 +140,11 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "Trains suspended on Kalka-Shimla line due to heavy rains in Himachal, landslides kill 300 goats - Livemint",
-      "source": "Livemint",
+      "title": "Water crisis grips Shimla; heavy silt, damaged pipes to be blamed - DT Next",
+      "source": "DT Next",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM2w0VTdFU2ZsLWduSXZ0dUZZeGtkRVJvb2I1NGxxUWFJeElXRjh5elo5X2VGRjdjbUFDMkpEQzVVN0o2dHg1RG4tMWZGNjRBaFltc3JmM3d2dWlHRDZaWXZjNk9SM0I0OUZxb0xvN0NKMDB2VmNCc1BsZEZaZU1JVVIzNm1xMEN3VG1HcDFfVmxOTVdINzdpUjRJcll5X081eDYwcjhrMGN2SUR0enJCMDRoTzRYdHdSQktpeXZ2YmowUkEzeEZVUmJycmlmOG90NlpCSXNLTldqOFc4SDh4TnI3anTSAeoBQVVfeXFMUFFuSUFFMU1TZEhtMkF5WXZSTDJwM3Q5bUNFNVFLSk9BMi1ld2trNG41WWNwa0NPVXFFakx0Tzh6RGFXS1hEbUJyaktwZGNTdm9jYVVJdUJzSlZwR3liMWR0SmRlWF9IaUlwMnR6T3NsbV8tMl94UElPV0FLM2g2N0Y3bDEyNDdEemdCbjBwaWtBclE1aWVNQTh4bUVlekRBLWRVSUpuUUo4ZmdWZGdoTGpqZEpjWXVNeHlnUExIUkhISlNYRHU3RlNPX1JmQ182SUQxU2RuYnZFRVhyU19LYWVVNVd5VjczSEdB?oc=5",
-      "date": "2023-06-24T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVFGcVgza1dwdmdWRHJmYnZFbUV2NVBkQ18tV3NtNTJMUGdFSjZRdXRPbXIwUjQzWER5Y3ZaUmpULUlfRndUMTBEOExERzBqUzNJaDZpUktFeFZQNzJaN3pRblh6MVJlM0NDVTd4SllFakpsaGVTMlBhQjVBNUR4V2dFWGowdXotRVRub19weFFMbkpZbFVCMnNYeHY4RFZxcG52QTBEQk5PQdIBtwFBVV95cUxPbFYza2NpTldGeU5vRnZ0d0YxNjFqZEU0TGZDMjhvdk9UT3VqVkJjOU15b21IbG85UmxBSE5nSEJnSmt0VTdpQVJrYkhlMUNMUC1fY0IxYXV6RmNYQnNNWVp2UjhjOTR4TnNaa1FVLTdaUlZncmZxczhoYXZUY2ZJWXpNdExuRHZ2eFp1N19QX2dvblR1WlM0UW5HMk14RkVjZE5QMUJvc0FsR1ZuQ2dmUlRFRHhsTDA?oc=5",
+      "date": "2023-07-10T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shimla Jal Prabandhan"
@@ -157,16 +157,6 @@
       "date": "2022-10-08T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Shimla Jal Prabandhan"
-    },
-    {
-      "title": "सावधान! शिमला में पानी की टंकियां ओवरफ्लो हुई तो कटेगा कनेक्शन, निगम ने बनाई टीम - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOEJpZHFYeGticWJkNVZzMDBMdGduM25ia1JudWpkYU5fcnN0RkhhQkFiQ2J6VW1zOHktOUtCQTdiV1RmWklSSGIwVDBSc2hQWG1BajB2U3lmUWlHN2Y5dmRiWDBUTldRZ1FhYTRSaExMUjVvVEszejRrOTl2OWgyWWMybzBvRnk4bEgwVDJwQWEyVkFlYk9LZHFteGxIcVg4MGFlZGtlM0MxLTVlbnpyMGpwQ3RTVGd2Z1dpSl9DTEFDWEUxdklCclk2WkJlanBuaHg0ZU92QdIB3AFBVV95cUxNS19Vak5RcHUtcnB2dVluLXN6ZG01aEl2ZDY5c0NNSWg5Q1VhQl9qdGx1c253and5UW1QZHowTE1VTGdCWVdPSHd6ZmtEVm8xVjE4Rk9ta3lrdHBvdVRlckxPaXhvX2J6Q3lYWnE1RFNBbGJJYmFMZXZaVTJZYlFBZ2N3ZWQzd21YRVdGMGxLajRsV2czbE5PRy0tT1hpR3o3aWhQVEpPclViSTY4LWVQeFBIZVJXUVNQVlRrd3JvV1dfOEVPMkVqS0tHVjVWX2M5VlhmR2dvS0Z3aXVT?oc=5",
-      "date": "2022-09-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Shimla Jal Prabandhan"
     },
     {
@@ -208,6 +198,16 @@
       "kind": "press",
       "lang": "en",
       "match": "SJPNL Shimla"
+    },
+    {
+      "title": "Himachal Pradesh Government - himachalpr.gov.in",
+      "source": "himachalpr.gov.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LTEFHeEZRTi1NanQ3WkF0c1hyQm94U0RlMG5rTEkydmFJOUVhQTJxYW5HdjBQMTlaVkJKQjI5eHRRa0JjZ1JGdUlWYkhNRDlpYzRlMXNWeWFBeXlBVlVnUi1HSVU4R3RKanFMeTJn?oc=5",
+      "date": "2019-07-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Jal Prabandhan"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T01:00:28.678Z",
+  "updated_at": "2026-11-24T04:09:46.147Z",
   "project_id": "JJM-HP",
   "press": {
     "n": 1,
@@ -10,35 +10,53 @@
     "avg_magnitude": 0.1
   },
   "youtube": {
-    "n": 0,
-    "positive": 0,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "n": 20,
+    "positive": 6,
+    "neutral": 7,
+    "concern": 7,
+    "avg_score": -0.01,
+    "avg_magnitude": 0.37
   },
   "overall": {
-    "n": 1,
-    "positive": 0,
-    "neutral": 1,
-    "concern": 0,
-    "avg_score": 0.1,
-    "avg_magnitude": 0.1
+    "n": 21,
+    "positive": 6,
+    "neutral": 8,
+    "concern": 7,
+    "avg_score": -0.005,
+    "avg_magnitude": 0.357
   },
   "top_positive": [
     {
-      "source": "press",
-      "title": "Union Minister for Jal Shakti approves 465 crore as Performance Incentive fund for 7 States under Jal Jeevan Mission - Sarkaritel.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHF5bHB2U0E1Zi05WDVTclpGSlFBcmpISTRIRnVWTmEwTU1IX3ZFMjlvekZxVlQ2V3lIRFhxVGt4QnRDZjc4S3hTaFJ1Z1JJRVRsSTVzS1lLYnlud2xha21BaFRWT3VDRHNhaDRJR2w4RUxFdVFWRF90a2FLWGN5cVpFaGxpZEhGRk9kWllhaTV4SnVhOHZBdUVGd1Juc3JnR0hMcnQ2V3Q3QjBQVC1TN3gtbnFVLXF6c3FoeDg4SmJTTTViamEydXlUSUFkOUNsVDdxMWVLdTBEd05B?oc=5",
-      "score": 0.1
+      "source": "youtube",
+      "title": "Excellent achievement",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "Thanks bro",
+      "score": 0.9
+    },
+    {
+      "source": "youtube",
+      "title": "1साल से अधिक हो गया abhi तक पानी नहीं आया गांव में",
+      "score": 0.5
     }
   ],
   "top_concern": [
     {
-      "source": "press",
-      "title": "Union Minister for Jal Shakti approves 465 crore as Performance Incentive fund for 7 States under Jal Jeevan Mission - Sarkaritel.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHF5bHB2U0E1Zi05WDVTclpGSlFBcmpISTRIRnVWTmEwTU1IX3ZFMjlvekZxVlQ2V3lIRFhxVGt4QnRDZjc4S3hTaFJ1Z1JJRVRsSTVzS1lLYnlud2xha21BaFRWT3VDRHNhaDRJR2w4RUxFdVFWRF90a2FLWGN5cVpFaGxpZEhGRk9kWllhaTV4SnVhOHZBdUVGd1Juc3JnR0hMcnQ2V3Q3QjBQVC1TN3gtbnFVLXF6c3FoeDg4SmJTTTViamEydXlUSUFkOUNsVDdxMWVLdTBEd05B?oc=5",
-      "score": 0.1
+      "source": "youtube",
+      "title": "Sir new connection  open  karne par open nahi ho raha",
+      "score": -0.8
+    },
+    {
+      "source": "youtube",
+      "title": "Connection band marane hetu kya kar sakte hai Or kha jma karna h",
+      "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "Bhai send feedback bala option nahi aa rah hai",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

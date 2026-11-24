@@ -1,11 +1,47 @@
 {
-  "updated_at": "2026-11-20T00:59:42.072Z",
+  "updated_at": "2026-11-24T04:09:16.074Z",
   "project_id": "KOLDAM-HEP",
   "query": "\"Koldam Hydroelectric Power Station\" Himachal",
   "counts": {
-    "videos": 0,
-    "comments": 0
+    "videos": 3,
+    "comments": 1
   },
-  "videos": [],
+  "videos": [
+    {
+      "videoId": "2qZlZiPBN7w",
+      "title": "#KolDam Spillway Overflow: The Secret Danger Nobody Is Talking About #DamSafety #HimachalPradesh",
+      "channel": "RLA Network",
+      "published_at": "2026-08-10T15:00:16Z",
+      "description": "Kol Dam spillway overflow events present hidden risks that most local observers and tourists completely overlook during the ...",
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "videoId": "fwS1i7wkkrs",
+      "title": "Symphony of Nature | Biodiversity at NTPC Koldam",
+      "channel": "NTPC Limited",
+      "published_at": "2026-05-22T06:01:14Z",
+      "description": "When we think of a hydro power station, we often picture massive turbines, concrete structures, and the raw power of rushing ...",
+      "comment_count": 1,
+      "comments": [
+        {
+          "comment_id": "Ugz3jsW3QNhihKaaV4V4AaABAg",
+          "author": "@strengthcampus",
+          "text": "Wow captured 🤍🌸",
+          "like_count": 0,
+          "published_at": "2026-05-22T11:56:58Z"
+        }
+      ]
+    },
+    {
+      "videoId": "styrMe2G1yA",
+      "title": "NTPC KOLDAM  Hydro power plant #hydro #powerplant #nature #viral",
+      "channel": "AbhisheK ChandeL",
+      "published_at": "2023-07-02T14:53:11Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
+    }
+  ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

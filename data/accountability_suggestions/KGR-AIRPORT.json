@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-20T00:59:32.516Z",
+  "updated_at": "2026-11-24T04:09:04.132Z",
   "project_id": "KGR-AIRPORT",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-11-24T04:09:04.132Z",
+      "title": "Himachal High Court clears ₹4,064-crore Gaggal airport expansion - Indian Aviation News Net",
+      "summary": "Auto-detected from press: \"Himachal High Court clears ₹4,064-crore Gaggal airport expansion - Indian Aviation News Net\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN25tV1o0cUdoWUwycmpkUDhDS0NyX2l0TVJ5WEFNUG54MTNGaE92VExORjZmOXo4eS04LTMyR21idjlpdHVtT0hBbV9QN3N2ZGFpcnVHb05JaFZkY2JaejZHSm01dHpYZEtiX2RfNDY2WHBIcFlyaEZCSTF5a1hKMlVxYWJwX2ZnN3pHYkF2T28yR1ZKWFVEUVNfS25vSTNkaFZ6NWFIc3hKMlRlMkxKM2xrbG1odEpRM0wzczBkUkJnZw?oc=5",
+      "source_name": "Indian Aviation News Net",
+      "lang": "en",
+      "date": "2026-11-20T17:40:39.000Z",
+      "matched_term": "high court"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

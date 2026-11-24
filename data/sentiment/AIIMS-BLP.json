@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T01:00:23.084Z",
+  "updated_at": "2026-11-24T04:09:43.983Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 0,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 30,
-    "positive": 25,
-    "neutral": 3,
-    "concern": 2,
-    "avg_score": 0.487,
-    "avg_magnitude": 0.603
+    "n": 17,
+    "positive": 15,
+    "neutral": 1,
+    "concern": 1,
+    "avg_score": 0.541,
+    "avg_magnitude": 0.647
   },
   "overall": {
-    "n": 30,
-    "positive": 25,
-    "neutral": 3,
-    "concern": 2,
-    "avg_score": 0.487,
-    "avg_magnitude": 0.603
+    "n": 17,
+    "positive": 15,
+    "neutral": 1,
+    "concern": 1,
+    "avg_score": 0.541,
+    "avg_magnitude": 0.647
   },
   "top_positive": [
     {
@@ -45,18 +45,18 @@
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Bhai is saal milte hain\nMay be I'm coming in 2026",
-      "score": -0.2
-    },
-    {
-      "source": "youtube",
       "title": "This hospital is just next to my house like at a walking distance like it takes almost 10 20 minutes to walk to this hos",
       "score": -0.2
     },
     {
       "source": "youtube",
-      "title": "Make a separate video of lectures hall plzzzz",
+      "title": "3:30 the view 😮🌷❤️❤️❤️",
       "score": 0
+    },
+    {
+      "source": "youtube",
+      "title": "❤❤❤",
+      "score": 0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-20T00:59:59.012Z",
+  "updated_at": "2026-11-24T04:09:30.820Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
-    "n": 13,
-    "positive": 8,
-    "neutral": 3,
+    "n": 10,
+    "positive": 7,
+    "neutral": 1,
     "concern": 2,
-    "avg_score": 0.131,
-    "avg_magnitude": 0.338
+    "avg_score": 0.17,
+    "avg_magnitude": 0.35
   },
   "youtube": {
     "n": 12,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.467
   },
   "overall": {
-    "n": 25,
-    "positive": 14,
-    "neutral": 8,
+    "n": 22,
+    "positive": 13,
+    "neutral": 6,
     "concern": 3,
-    "avg_score": 0.2,
-    "avg_magnitude": 0.4
+    "avg_score": 0.227,
+    "avg_magnitude": 0.414
   },
   "top_positive": [
     {
@@ -45,9 +45,9 @@
   "top_concern": [
     {
       "source": "press",
-      "title": "Terrain trouble: Landslides, floods triple cost of key Kiratpur-Manali highway - Himtimes",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzFxSjdEeVVIQ0VFbTBvRDhzVlVhRWxrRF9naHp2TkdhaS1OamtyVmg3dmxMaXpNQ2RmTTlrY0VvYmxkUzVfZ3FNblAwMFBOcG5Ga05hd2VqMmtoS3BEbTI4ZmpmUlA3Y2htZXZYemlJY2JfenNEQ3ZuS2dMaEZjeTBsOWZFWTRSRDJyUDM2ZGN3SkhnUDlxWUtnVDNTMlU?oc=5",
-      "score": -0.8
+      "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
+      "score": -0.6
     },
     {
       "source": "youtube",

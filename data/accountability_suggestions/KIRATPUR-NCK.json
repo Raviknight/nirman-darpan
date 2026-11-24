@@ -1,8 +1,50 @@
 {
-  "updated_at": "2026-11-20T00:59:32.512Z",
+  "updated_at": "2026-11-24T04:09:04.128Z",
   "project_id": "KIRATPUR-NCK",
-  "count": 2,
+  "count": 5,
   "suggestions": [
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-29T23:04:01.858Z",
+      "title": "4 Music Industry Workers Killed In Road Accident On Chandigarh-Manali Highway - ETV Bharat",
+      "summary": "Auto-detected from press: \"4 Music Industry Workers Killed In Road Accident On Chandigarh-Manali Highway - ETV Bharat\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUVU1S0tGa2N3ZjR0MXRiSkw1eUxYQWpOSUMwaUtzYkFJLWt0bFh4UnAzZzQzTFM3aEktN2FRdVU2WExGcWFZOGNzS3hJUWxhZ2ZyNzVBa2h0MlFPQ3RCSmFrM3FnNUFheVRER2NIeHRlZmp2bllqQ3NmVmdmRFdINXB3NmprbS1TbUF1bUo5b2tCZ3lXSlZrY0lWbV8zdnNKdlRxRkVrUnZ1TVVoVmZQV3ViUWs1RTlVYU5jOHZCalZaWUxabHfSAcsBQVVfeXFMUEhIaGRMNHlQaDR6QVdHcUNua2dqSWNoV2JlaWVFLU1jWFJ4X1o3TGdrTmpHai1KSmJfXzRsU3pnX1pDQ1pJT2RvVmFJQm1JWmlva21vV2VvV2lDVFNlMG81am96SXp5dTQyZzJ2Y01iMkFrdUwxbkVpSkZfNzgzNFhzaWhnQkJMWml1NExKMnhQSExERGJTQUlWUFpQdmQ4emVvRkYwWGowd1gtVjRtSkYxck0zdmxoeDhFclFRdmc5WWU1Tld5S25uOXM?oc=5",
+      "source_name": "ETV Bharat",
+      "lang": "en",
+      "date": "2026-10-28T07:00:00.000Z",
+      "matched_term": "accident"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-09-24T21:55:31.829Z",
+      "title": "Nihang Sikhs force closure of shops in Ropar, Anandpur Sahib, Nangal; highways blocked - The Tribune",
+      "summary": "Auto-detected from press: \"Nihang Sikhs force closure of shops in Ropar, Anandpur Sahib, Nangal; highways blocked - The Tribune\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcGFKRlJTZWppZGc4c1hjcEduOUhNb1d6SlBFRXM1RDY3aFRkUXRrUU9jUkJfMWJ3MXA0VGlnWXFSRFJSTVJrQXBONVdsU0NtZ2dlSU44WjRsSU8xSGVWUU5EZTFzanQ2QkpBWGpHVkZReE1pVzB0ajBSQlhoWWxIbzNUSGMwQVdaR0NpUGYwODMtTzNMWlptdXdER2FKbWlKQlF6b2E4bmx0cHlrSWxCVldHU01Kb2RvaHVMNVJYRWp3VWfSAccBQVVfeXFMTkFwRTJ0ei1JU1BCWGRnN096OW5oa1pnWFQxRzcxZXhXQjk1bW1lbDdJSW9wZjVnTTJZN0czUW5hYnREOFBHUDdCZWNmQWFmdU5vNXlnYVBTSWNNVFcwQW1VUm5hY0dsUUNRVU1RdlZyc19rbVFDZTFUY0dibkU2d0xUQUJvOWNLWUdFc280dU12VHNpV29HT2RqVm04YTJoUzNFbW9UbVgtRVNLODNUU09TNXNaUVFBamlJaTZDWjFEWU54ZXdpaw?oc=5",
+      "source_name": "The Tribune",
+      "lang": "en",
+      "date": "2026-08-21T07:00:00.000Z",
+      "matched_term": "sho"
+    },
+    {
+      "category": "incident",
+      "severity": "high",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-08-24T19:23:39.368Z",
+      "title": "Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English",
+      "summary": "Auto-detected from press: \"Chandigarh-Manali highway crash: 4 dead from Punjab, 7 injured as two trucks collide inside Dawada tunnel - Bhaskar English\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejFxaWp3N2I1YWYwVHFjWVRxWjlscFlOWDdKTGNJUzlJMmV1b3ZlUXJvWjhzVzZUZjBqMHhvMkZlbDZ3elNsLVh3MXk5Xzl1WkpKNEhMbnFYMjdPelgwN0tLQjc5RUZIQWx5eGRQUjJkOVM0VEQ4Q19iMktpUExYUm1oYnNlNmlxNjNIMEVDS2RIWGRXcGphM3Z3UlVoSHJUMUhoTms2OWRBOC1qSFNCWGdQYnpOclhnenZRckdNSmhHQ0p6R0HSAcsBQVVfeXFMTm1QZXVMbXg5Y0RPZG9PbG1VajlGcS1mNVpSUTFFWVZCTGZ5MzF0ZkplRS1RbmlrUVhfXzc3akxwbC1KaEFiakZVeTF5TF9zdzVCb3dydXJVSEQwWkFJMkRJMjJncFVDdTFZWDVFbkctdmpUVUtOMVhlTk9RTjVoWHdjTnJtQjdTRkZ0bFlldmtBMFktOWUzU3NTeGRLWkVMdGVpajlMSXJhTDRvbVlxb2lURjZQWjN1VUVlaUZiZ1lfajEzNnB6ZUhKTjg?oc=5",
+      "source_name": "Bhaskar English",
+      "lang": "en",
+      "date": "2026-08-20T07:00:00.000Z",
+      "matched_term": "injured"
+    },
     {
       "category": "incident",
       "severity": "high",

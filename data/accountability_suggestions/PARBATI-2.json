@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-20T00:59:32.520Z",
+  "updated_at": "2026-11-24T04:09:04.140Z",
   "project_id": "PARBATI-2",
-  "count": 0,
-  "suggestions": [],
+  "count": 1,
+  "suggestions": [
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-11-24T04:09:04.140Z",
+      "title": "'यह सिर्फ एक तस्वीर नहीं...', शिव-पार्वती वाली पोस्ट पर स्वामी परमात्मानंद की राहुल और प्रियंका को चिट्ठी - hindu seer open letter to rahul and priyanka gandhi over shiva parvati post says look beyond",
+      "summary": "Auto-detected from press: \"'यह सिर्फ एक तस्वीर नहीं...', शिव-पार्वती वाली पोस्ट पर स्वामी परमात्मानंद की राहुल और प्रियंका को चिट्ठी - hindu seer open letter to rahul and priyanka gandhi \" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY1Q0aXBFdF9HdFl6aFJQd3BSbkU3c1NTX0ZrMWZGNkZJaDNGbTVORTNzSnhDalhIQ3BfdjBTVDZkWFhMamNyS3JGSktuRUJWWW00RmpGdzlUUElvYjg2aUZMZkxrcE8xc2YzU3gzVnFPODMzenhkRzRHT0x2Z1JHbnZzcGxtMVVVUTlkb19aWEtWLWxQYldlZ21RSUlMeDRDZ081Mm1yaU1NdUVfMjN5REUydUQyWFVxSm94aXhjUzFqbVVySVd5bEg2Wmc5MExGNTZEU190U1l0Mnd5c0xKaGUza1hZRUdtZEc1S21QU1BxSmJrcFE?oc=5",
+      "source_name": "Jagran",
+      "lang": "hi",
+      "date": "2026-11-21T08:53:00.000Z",
+      "matched_term": "sho"
+    }
+  ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."
 }

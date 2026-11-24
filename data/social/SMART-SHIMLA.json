@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-20T00:58:51.476Z",
+  "updated_at": "2026-11-24T04:08:21.368Z",
   "project_id": "SMART-SHIMLA",
   "counts": {
-    "press": 52,
+    "press": 48,
     "gov": 0,
-    "en": 30,
-    "hi": 22,
-    "total": 52
+    "en": 20,
+    "hi": 28,
+    "total": 48
   },
   "mentions": [
     {
       "title": "वीडियो: छोटा शिमला स्कूल में पुलिस की पाठशाला, विद्यार्थियों को नशा, बाल अपराध और साइबर ठगी पर दी जानकारी - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3lmR3ZnSHJvVXNYTi1pbGR5WVdQeEdUWWNoWmNUcEpQZnhIT3M4Szd6dVJuMUh6LUFSUWlFVVg5dDRGN2JHdTNfZXM1SlNzZlpBRDhYVlNvb1F3MkJsTXZpYVcxejZBc1VlNjRZSWh1U2hVYURvVUczcFJxTk53OFFRemZ4WEFEQ3RmNmh2LV9jTzdfdGl2RUN4anFfVkMydFBrQmU5VE1hSkdYR3hZNG04UWHSAbQBQVVfeXFMTTN5Zkd2Z0hyb1VzWE4taWxkeVlXUHhHVFljaFpjVHBKUGZ4SE9zOEs3enVSbjFIei1BUlFpRVVYOXQ0RjdiR3UzX2VzNUpTc2ZaQUQ4WFZTb29RdzJCbE12aWFXMXo2QXNVZTY0WUlodVNoVWFEb1VHM3BScU5OdzhRUXpmeFhBREN0ZjZodi1fY083X3RpdkVDeGpxX1ZDMnRQa0JlOVRNYUpHWEd4WTRtOFFh?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjRnNG5VaGZ2VHEtc0tZSGxPdkJINnJiLTRkNUltSTRYcTVVelpLTVJWWXhZWWU3d0s5VU1MdDl1enlZMWY4d0xqdW5IdG5jSWdHd1NUTVJvR0tiM1IyaUZjemJwYkI3eUZkVGNURHpwZlRqemJJMmJEOHA3VGdGYmhQNTJ5Y2VEZTVwTXVvQm9KY29xb1ZKd2pvQ2dQeTlXNHVKekpmdFp3U0Q0cDVJ0gG0AUFVX3lxTE0zeWZHdmdIcm9Vc1hOLWlsZHlZV1B4R1RZY2haY1RwSlBmeEhPczhLN3p1Um4xSHotQVJRaUVVWDl0NEY3Ykd1M19lczVKU3NmWkFEOFhWU29vUXcyQmxNdmlhVzF6NkFzVWU2NFlJaHVTaFVhRG9VRzNwUnFOTnc4UVF6ZnhYQURDdGY2aHYtX2NPN190aXZFQ3hqcV9WQzJ0UGtCZTlUTWFKR1hHeFk0bThRYQ?oc=5",
       "date": "2026-11-19T07:48:12.000Z",
       "kind": "press",
       "lang": "hi",
@@ -27,7 +27,7 @@
       "date": "2026-10-25T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Shimla Smart City Mission"
+      "match": "Shimla Smart City project"
     },
     {
       "title": "शिमला में अब नहीं चढ़नी पड़ेगी चढ़ाई, पहाड़ों में ट्रैक पर चलेगी 'फ्यूनिकुलर ट्रेन', सीधे पहुंचाएगी रिज मैदान - ETV Bharat",
@@ -110,20 +110,20 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "शिमला स्कूल संचालिका हत्याकांड: पेशी के दौरान मुंह छिपाते दिखे दोनों शूटर, कोर्ट ने 7 दिन के पुलिस रिमांड पर भेजा - ETV Bharat",
-      "source": "ETV Bharat",
+      "title": "स्कूल संचालिका हत्याकांड : दोनों शूटर 7 दिन के पुलिस रिमांड पर, साजिश के मास्टरमाइंड की तलाश - himachaldastak.com",
+      "source": "himachaldastak.com",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTWRRb1NWbGV5V2trMDdzSmtHSUNfV01vUHhnRWZqX29ROUJJc1Y3UXBKMjh6VFVuVGJsZmI3ejdUSTAwdUhlMDV4cFNjMm9MMS1OLWY4UmNKdTZXdjAzNzR0dzhoSmNFeDRWVEZESGVUWUFDNzJacGkzRklUcl9CVkdQOWVvUHJ5OWVVaTluZlBvVTdXSjBhVllTMk9JRmYtYmlPc2NOUDJGWUdLTHN5QTNCZ19oMHphQk81Q3Q5Y0dLeVF1Z1ZZ0gHMAUFVX3lxTE02dFpuSlFsR2hSd2xGYjJVY0VHMlFuc0NLVC1seHhfTF9SMHdTRG5iS21Za0dKNmxoYmFQZ1VjZ1JrdHRzQW1PcHdiVkdtWjJpZTQzZVFzaWFHai15Q1RHRk13MW1GVVhHdXVESnVidmQ0bi1wWXQwTVRqQ2hTeGMxYlp2NVRyMktXNGpaVjJvRWFJSi14eFM5bVFvVU9iRWhiZGo2bFJETXhPQks3ZDhjQmh4aWRDQTh5Vks1b2VKT2dKWGJCM2c2eXp6WA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzBkc2kxTmJUQU9ZLXlRRW9TSkNLcGcwUVVvWm55MTJrbzZjYzU5QVpVX1Y5eGJpbUtkNlljcTMtbF9HdGhhN2FxenZKRjRkT1NpenF0ZFFmanhKem05Vkw3QVI4QWZobkpFZnN3NzNJd3FMenlRSjJGSEw5OEt0OU8xOA?oc=5",
       "date": "2026-06-16T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla SCL"
     },
     {
-      "title": "स्कूल संचालिका हत्याकांड : दोनों शूटर 7 दिन के पुलिस रिमांड पर, साजिश के मास्टरमाइंड की तलाश - HIMACHAL DASTAK",
-      "source": "HIMACHAL DASTAK",
+      "title": "शिमला स्कूल संचालिका हत्याकांड: पेशी के दौरान मुंह छिपाते दिखे दोनों शूटर, कोर्ट ने 7 दिन के पुलिस रिमांड पर भेजा - ETV Bharat",
+      "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzBkc2kxTmJUQU9ZLXlRRW9TSkNLcGcwUVVvWm55MTJrbzZjYzU5QVpVX1Y5eGJpbUtkNlljcTMtbF9HdGhhN2FxenZKRjRkT1NpenF0ZFFmanhKem05Vkw3QVI4QWZobkpFZnN3NzNJd3FMenlRSjJGSEw5OEt0OU8xOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTWRRb1NWbGV5V2trMDdzSmtHSUNfV01vUHhnRWZqX29ROUJJc1Y3UXBKMjh6VFVuVGJsZmI3ejdUSTAwdUhlMDV4cFNjMm9MMS1OLWY4UmNKdTZXdjAzNzR0dzhoSmNFeDRWVEZESGVUWUFDNzJacGkzRklUcl9CVkdQOWVvUHJ5OWVVaTluZlBvVTdXSjBhVllTMk9JRmYtYmlPc2NOUDJGWUdLTHN5QTNCZ19oMHphQk81Q3Q5Y0dLeVF1Z1ZZ0gHMAUFVX3lxTE02dFpuSlFsR2hSd2xGYjJVY0VHMlFuc0NLVC1seHhfTF9SMHdTRG5iS21Za0dKNmxoYmFQZ1VjZ1JrdHRzQW1PcHdiVkdtWjJpZTQzZVFzaWFHai15Q1RHRk13MW1GVVhHdXVESnVidmQ0bi1wWXQwTVRqQ2hTeGMxYlp2NVRyMktXNGpaVjJvRWFJSi14eFM5bVFvVU9iRWhiZGo2bFJETXhPQks3ZDhjQmh4aWRDQTh5Vks1b2VKT2dKWGJCM2c2eXp6WA?oc=5",
       "date": "2026-06-16T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -170,16 +170,6 @@
       "match": "Shimla SCL"
     },
     {
-      "title": "Explore multi-storey parking at Lakkar Bazaar amid rising traffic: HC to Shimla MC - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVjhaYnN2WUtPQTZNTkgtQlFOeHpGNkJNWEViLW5MTGxTa1RJMjdyTGNtSWIyRWtmQjNNUmxDVDR6Vkd5Y3NvNDFjeWc0eDRUdl9JaUZxQ3RKOG11ZmUxYVp4enZLaW9VblhHOHZQN193UkotMDJZZjgyNUhBUkZFYlNRbmprSDRjLXVZQWtUdElacXZqYWNXdE1kZkZOcDcwdkc5d0RqYml6QlNZVFRsa3QtSEwyOUhxZzQ2TkEwSV8xVzZDa040WF9CX3V2TXRWSUNHVF82VU04TzNlX3ZFYWFyMDVfR2xiOEVEZHdXNjPSAfYBQVVfeXFMTzBzRGxEcDNmVE1IVFpMM0JhU0JwYWFDQTdUXzlad1NzSy1aRVJNMWc4UVloYlR3NUx0dkFPX3JHTi1NWVNvRHkzcGdBRlE3YkdKSE8zZDdnYlIyWUU0WDBGYjlmY2ZraGQ1TkNFcm50ZC1BVmVKaVFMeU1JWjdacndfZGlPb0MzUWg2ZkdFenlSdmtNZ1J6VEdjSDFCVzdxQUJMcUJiU0RQdGJIU2ZlNkRHaFFSaU14d1V6dm1xMkF3cGtsMGRIUndvdDlLTlY0Nm1RVWhSVGRiMTRZYnBsOUtJa2g2VmVBXzRrT3RRbnJ2bTBLNnZR?oc=5",
-      "date": "2026-05-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla Smart City Mission"
-    },
-    {
       "title": "10 Deputy Commissioners,19 IAS, and 6 HPAS officers reshuffled in Himachal Pradesh - HIMACHAL HEADLINES",
       "source": "HIMACHAL HEADLINES",
       "source_id": "google-news-en",
@@ -200,14 +190,24 @@
       "match": "Shimla Smart City project"
     },
     {
-      "title": "Lift Connecting Middle Bazaar to Mall Road in Shimla Inaugurated - Republic World",
-      "source": "Republic World",
+      "title": "Come 2025, key Shimla Smart City projects to see light of day - The Tribune",
+      "source": "The Tribune",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYVFzSWR0X1IxVDJFSkFSam0tcmpTZUwyQjFiWjFSRGdqZktSOUZSS0Z5UDQ3Q054SlJmRnVZNE5GXzUybWxVYkdDZUswdlZ5NkZRLWZCSTlOM29Jd093Wk5IMHdsTnB5eURET2ppZ0wtWlVjM1Q1RUcxNlJiYlRRQW5aSXRSdVlmakUtZ2gyc1BFcGxBMWd3ZjNMYmVMUTVseFHSAacBQVVfeXFMTV85dkVoTS1vU1Q0SzZEbFNJX3ZFcnQtN203RTFWWklUUTZ0cnE2dy1kTi1XQ053eENpbjZBcTROYzNaTndTdGxyZlBQYVl4b0NiTUN3MGR5QXhFYnpYbllLenJEM3JoZDVDRUJQbXlsd1owNVV5cHpQTGpxOHpsQ0ZGWHB1NFJyS3E0VWhxNWc0THJYWnJ5ZGtvQ0lpRkc2SjRrcW5xZ1k?oc=5",
-      "date": "2025-01-06T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS29NVG5mN1Q5R3FtYl9oUE9FdzVaeEhoMzhmWmtlY0NvMlEtZGEzQ2MwbnJKS1ZYOXY2RUFqUTFaZF9pMUgxX1J3MEN1VVNwSVFtNnc4VV9OdHNZVml1UlNNSGNsdi1lSS05UXk5U2hTNTI5ZXJJNjlsQV82ZG1Tc0FTZ0R6VGl2STZES1RWQXhsX29XTnNOd3RtZUFESUJMQnlHLXRJc9IBqwFBVV95cUxNdDFmLXZ1U3RNYUJhSThiZnIzc0FKOFdyMzA2eUt0MnBFbGtZdnFRZXFPXzh6ZUlUZDJZaVhsU29kR25nVExpLWxuODczcV90QTVWUkZjWUZoY3hEa085Y1ZxbVVuSmgxZFBYNGFhRmpXVjE2OXVYVk9lNEhXR2RIbTN2dUpRLTVFRVFKUDdIQ3dvNk15V0w3LVA0dklkc0tGVG5wUlk0bVBqT3M?oc=5",
+      "date": "2024-12-31T08:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Shimla Smart City Mission"
+      "match": "Shimla Smart City project"
+    },
+    {
+      "title": "Shimla’s Urban Renaissance: Elevated Infrastructure Initiatives to Transform Cityscape - The News Himachal",
+      "source": "The News Himachal",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0luTzliZmRpbnJxWDhQTHNHa2Q1WDBFUF9zQm03S2ZYZFhPeXc2R3V3WUtwMU83TmpIWllKZzBkOE9zeWc1MDVHMmtsWF92bWplM05Kb2lIX2EwVU5jeFVQMmRvbkhSWm92aFpMbTlBYWxTMXZDX1UwZjE0VWdNbXpyMU12UjA4ajFsaDBTNEpGWGJHUjVRTEpjY0l3NEFYU280ZGwxbDZLaGVmTnZWRWEwaWtPNF9qUHY1YVZ3?oc=5",
+      "date": "2024-01-03T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Smart City project"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."
