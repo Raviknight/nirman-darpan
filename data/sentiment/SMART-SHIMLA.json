@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T04:09:46.318Z",
+  "updated_at": "2026-11-27T02:01:35.081Z",
   "project_id": "SMART-SHIMLA",
   "press": {
-    "n": 16,
-    "positive": 11,
-    "neutral": 5,
+    "n": 15,
+    "positive": 12,
+    "neutral": 3,
     "concern": 0,
-    "avg_score": 0.225,
-    "avg_magnitude": 0.375
+    "avg_score": 0.253,
+    "avg_magnitude": 0.433
   },
   "youtube": {
     "n": 2,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.5
   },
   "overall": {
-    "n": 18,
-    "positive": 11,
-    "neutral": 5,
+    "n": 17,
+    "positive": 12,
+    "neutral": 3,
     "concern": 2,
-    "avg_score": 0.144,
-    "avg_magnitude": 0.389
+    "avg_score": 0.165,
+    "avg_magnitude": 0.441
   },
   "top_positive": [
     {
@@ -58,8 +58,8 @@
     },
     {
       "source": "press",
-      "title": "Shimla’s Urban Renaissance: Elevated Infrastructure Initiatives to Transform Cityscape - The News Himachal",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0luTzliZmRpbnJxWDhQTHNHa2Q1WDBFUF9zQm03S2ZYZFhPeXc2R3V3WUtwMU83TmpIWllKZzBkOE9zeWc1MDVHMmtsWF92bWplM05Kb2lIX2EwVU5jeFVQMmRvbkhSWm92aFpMbTlBYWxTMXZDX1UwZjE0VWdNbXpyMU12UjA4ajFsaDBTNEpGWGJHUjVRTEpjY0l3NEFYU280ZGwxbDZLaGVmTnZWRWEwaWtPNF9qUHY1YVZ3?oc=5",
+      "title": "10 Deputy Commissioners,19 IAS, and 6 HPAS officers reshuffled in Himachal Pradesh - HIMACHAL HEADLINES",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXBMWWdraG1yY3JYX2pER3JkX3JCTUF6RWVVRjdmemVma0hkekFuVlBDLTROYnFnSWlRSlVKOFBYZmhEd1ZjeF9RQUF4VGtGenI2Z2dWQW5kVGtUek9Ua25zMENRb25xMjh0d0UzaU5Lc3pwaVpmZldoRzRkdURiWTkxZ1Z3aXRsSko5SE5STkFxS0lSRkY3UGxMQ3lXeHludFZfMDdhNmdBWDVienc?oc=5",
       "score": 0
     }
   ],

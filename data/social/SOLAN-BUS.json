@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-11-24T04:09:01.141Z",
+  "updated_at": "2026-11-27T02:00:58.467Z",
   "project_id": "SOLAN-BUS",
   "counts": {
-    "press": 3,
+    "press": 2,
     "gov": 0,
-    "en": 2,
+    "en": 1,
     "hi": 1,
-    "total": 3
+    "total": 2
   },
   "mentions": [
+    {
+      "title": "अरे भाई! सोलन बस स्टैंड पर जगह-जगह गड्ढे - Divya Himachal",
+      "source": "Divya Himachal",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVRVUU14RjJGLWk4a0xjdWN2c0JqTjVwWmxKSU15YTI0UDd0cE1qLUwwZ2RyY3p4TEpHSWpoM3lGQ0FpZHo1LUlPSzU4UzZyMDUyQXl3XzhwUFFGN3pmOV9YcHBxTnBTNHZzN0JwQ0ZQdHRuRl96M0pQVXNEMnI4LVpmdFZlR3FpOUprckNVVDQ0cG96cjZGeG1rbG1pbzDSAZ8BQVVfeXFMTy1UVVFNeEYyRi1pOGtMY3VjdnNCak41cFpsSklNeWEyNFA3dHBNai1MMGdkcmN6eExKR0lqaDN5RkNBaWR6NS1JT0s1OFM2cjA1MkF5d184cFBRRjd6ZjlfWHBwcU5wUzR2czdCcENGUHR0bkZfejNKUFVzRDJyOC1aZnRWZUdxaTlKa3JDVVQ0NHBvenI2Rnhta2xtaW8w?oc=5",
+      "date": "2026-11-27T00:02:26.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Solan bus stand"
+    },
     {
       "title": "Forensic report backs rape allegations against Dr Bindal: Solan police - The Times of India",
       "source": "The Times of India",
@@ -18,26 +28,6 @@
       "kind": "press",
       "lang": "en",
       "match": "Solan old bus stand"
-    },
-    {
-      "title": "Himachal BJP chief's 80-year-old brother arrested for alleged sexual assault - The New Indian Express",
-      "source": "The New Indian Express",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0Zmb1RvcnNaM0MwOEE4SWEzcWhyd1RSV3RVODBJYndfNjlLMmJWRlJWZERVT0lPX21wYV9IcFNORDc1c3VUUEFBZWJRdUozemhVVXlFYktsQnppcTRGU2xwV3d3TWJzVTYzUElYU0hNQ0NPOFFNTDNjYzRUUEJlb3haRVJSSEpod3Z4UlhDSFNPSC1wOHJybnFJcDlZaldRRDRCYW1xbWlQOW92dXI0eUN6Zm1fN0RRQUNsLUNTRmxENVc00gHSAUFVX3lxTFBBcFZ0V1VpVFh5WFdsVTRVeTJnUG1KaUJtM0l2akxuaWU5TlludjFLQ3laNGlvQ1p2NGtkeEhHNzQwSzZTZm8yTGFUTGlteDVybWZiUGN1YjR1ZzM3ajRsbnpWZHozb3NJNG9rc0F1eC00SW1ybmlkOHl3b1N0a0l0YXowS0Y3TGJyaVluYVU1azRobEpkd1pOY0xBQ3JqUUR2cGVzVnVqeVlHVUdUc3lSajIyVjhuLWEzaXpnOWNpUVlEa2h2Y2o1Ym93aUpNZFFvdw?oc=5",
-      "date": "2025-10-10T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Solan bus stand"
-    },
-    {
-      "title": "SPECIAL: सोलन के इस ढाबे में डॉ. परमार किया करते थे ब्रेकफास्ट - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNEVvTkV4TGxmUjdJSHdpcmU4Q2ZTVFZQLUhERE5tMFNaTHJTdW9Fc1M2cTJ6UDVobXBpTW9ac3lMNHFDNzV3MndPRFVKbjdWV2NDa0lwOGVWYnhpeng5ank3WnJ1VWF4ZWRJOEx2VE9yUXZFY0QxTjFqSjJGYVdlVXRrYWJHcHRLT21uS3p6a2gycmJZV2k3alZnTmg1bW5DbFd6MlVQUng0Wkc3bjVCTjVHUUdTU2d0OE9pazctQXRRRUdXRmhBTFVFMzdoM0tMNnk4Vy0xb9IB3AFBVV95cUxQVDVtRUprSnRId0FLUUVYWUZQbksyLUJ3dFNQR2ZyWllxMU9UQUhFeGd2S19HVTBpVUI5cVk5dHVZZUlsR1psQXZjS2RadmNaQlNBZDUxUEdZSlkxSWlkQUZ6dkZkZkVidGdZREJsMUNTR2xjR2RBUUdkQlB3T2JZNFMwWEVpRXNDS2FrVzlaV3Y5WmdzQ0tNa2tDVkhxODFsbDZjZ0d0Q3lLRjZWajhadjVMWUVfcVJPZDNKVzNwaTBYc0l5WUtJWXRWWUNlbzdXMmtlOF90MkxaSU8x?oc=5",
-      "date": "2020-08-04T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Solan bus stand"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

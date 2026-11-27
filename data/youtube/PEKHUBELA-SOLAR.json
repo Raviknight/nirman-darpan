@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-24T04:09:23.215Z",
+  "updated_at": "2026-11-27T02:01:20.097Z",
   "project_id": "PEKHUBELA-SOLAR",
   "query": "\"Pekhubela Solar Power Project\" Himachal",
   "counts": {
     "videos": 3,
-    "comments": 7
+    "comments": 8
   },
   "videos": [
     {
@@ -16,18 +16,18 @@
       "comment_count": 7,
       "comments": [
         {
-          "comment_id": "Ugwd5KlmtBmOGFp7Rrx4AaABAg",
-          "author": "@kanikamahajan8673",
-          "text": "Very informative and nicely explained 👏 👍",
-          "like_count": 0,
-          "published_at": "2025-04-23T04:40:18Z"
-        },
-        {
           "comment_id": "Ugwk-TQICycAiC1lcMp4AaABAg",
           "author": "@BO80010113",
           "text": "🎉🎉🎉🎉",
           "like_count": 0,
           "published_at": "2025-04-22T15:20:59Z"
+        },
+        {
+          "comment_id": "UgxoiZN9crxp2d3GUsF4AaABAg",
+          "author": "@MockShikhar",
+          "text": "🎉🎉",
+          "like_count": 0,
+          "published_at": "2025-04-22T11:08:50Z"
         },
         {
           "comment_id": "UgwViEthqcfRv1q1YLx4AaABAg",
@@ -44,11 +44,11 @@
           "published_at": "2025-04-22T11:58:02Z"
         },
         {
-          "comment_id": "UgxoiZN9crxp2d3GUsF4AaABAg",
-          "author": "@MockShikhar",
-          "text": "🎉🎉",
+          "comment_id": "Ugwd5KlmtBmOGFp7Rrx4AaABAg",
+          "author": "@kanikamahajan8673",
+          "text": "Very informative and nicely explained 👏 👍",
           "like_count": 0,
-          "published_at": "2025-04-22T11:08:50Z"
+          "published_at": "2025-04-23T04:40:18Z"
         },
         {
           "comment_id": "UgxZ17VsgDZMNd_dvK94AaABAg",
@@ -67,15 +67,6 @@
       ]
     },
     {
-      "videoId": "vtoEsfLYKZI",
-      "title": "PekhubelaSolar Project में करोड़ों का घोटाला, Bikram Thakur ने सरकार से पूछा जनता कापैसा कहां गया",
-      "channel": "Dainik Savera Himachal Pradesh",
-      "published_at": "2025-08-12T12:54:56Z",
-      "description": "himachal #HimachalNews #LatestNews #DainikSaveraHimachal Whatsapp Channel link ...",
-      "comment_count": 0,
-      "comments": []
-    },
-    {
       "videoId": "sJL1BLgHH1k",
       "title": "क्या है पेख़ूबेला पावर प्रोजेक्ट  क्यों जुड़ रहे विमल नेगी की आत्महत्या/हत्या के तार|",
       "channel": "Study Noesis",
@@ -83,6 +74,23 @@
       "description": "Vimal negi # 32 MW Pekhubela Solar Power Project पेखुबेला में सौर उर्जा प्लांट का ...",
       "comment_count": 0,
       "comments": []
+    },
+    {
+      "videoId": "Y7e678LH7to",
+      "title": "220 करोड़ की लागत से पेखूबेला में स्थापित 32 मेगावाट सौर ऊर्जा प्रोजेक्ट पानी में डूबा",
+      "channel": "Punjab Kesari Himachal Pradesh",
+      "published_at": "2025-08-03T10:18:24Z",
+      "description": "220 करोड़ की लागत से पेखूबेला में स्थापित 32 मेगावाट सौर ऊर्जा ...",
+      "comment_count": 1,
+      "comments": [
+        {
+          "comment_id": "Ugz2EsRKttfBvF8Mb-J4AaABAg",
+          "author": "@ShivKumar-ps1wp",
+          "text": "220करोड कंम ते लंगा हुंदा फिर नी डुबदीआ सी पाणी विच,अंगरेजा दी नकल करदे आ,गोरेआ वाग सोच,नीत साफ रखो,अनपड सरकार अनपडा नू फडाई है डोर...",
+          "like_count": 1,
+          "published_at": "2025-08-03T11:09:13Z"
+        }
+      ]
     }
   ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."

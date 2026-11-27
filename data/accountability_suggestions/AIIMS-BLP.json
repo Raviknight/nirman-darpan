@@ -1,21 +1,63 @@
 {
-  "updated_at": "2026-11-24T04:09:04.137Z",
+  "updated_at": "2026-11-27T02:01:01.832Z",
   "project_id": "AIIMS-BLP",
-  "count": 1,
+  "count": 4,
   "suggestions": [
     {
       "category": "litigation",
       "severity": "medium",
       "kind": "issue",
       "duplicate_of": null,
-      "first_seen": "2026-11-24T04:09:04.137Z",
+      "first_seen": "2026-11-27T02:01:01.832Z",
       "title": "AIIMS Bilaspur Theft: ₹20,000 Recovered, Man Arrested - jeevanutsahnews.in",
       "summary": "Auto-detected from press: \"AIIMS Bilaspur Theft: ₹20,000 Recovered, Man Arrested - jeevanutsahnews.in\" — review the linked article and edit before promoting.",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnlFenItY1p6dWtOUU1TTDJrVTlkUmo5TmcyRzRzai1wQ19qeGJaaWI0eEQyd0dsbEUwSm54U0xBVGt3WGRsbTlyU2ZIdDduR3YtUDVGWUxlSnpNamgwR2xMRXpSdjk1ekFIbFc1Z1BVb2pNSmM5T1poc0ZXN0ZIOTNNcXB3MVFRRXdmb2k1RXpCZkNFRmU0RGRya0plNzQ?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVV0NGFYdkE0Rm40ZWNUVVJtNXpDdk9PdnlKMFdOQ1N5TkpldHd4b1ZPTklOTEpEV1pGRGR3UDVOT1dTTHNEcGczS0VHR1VOSTVNOGR1MmlJYk5kU21Fbk1WcXlXUEtobTFHOEhzMVZBR3lTcVdMVUs2YmhtT2dKRS01SlBBNTVudDF3Yw?oc=5",
       "source_name": "jeevanutsahnews.in",
       "lang": "en",
-      "date": "2026-11-23T05:58:29.000Z",
+      "date": "2026-11-26T03:18:02.000Z",
       "matched_term": "arrested"
+    },
+    {
+      "category": "grievance",
+      "severity": "low",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-08T23:37:31.512Z",
+      "title": "Murmu Urges AIIMS Bilaspur To Expand Tertiary Care - BW Education",
+      "summary": "Auto-detected from press: \"Murmu Urges AIIMS Bilaspur To Expand Tertiary Care - BW Education\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1Uyb2NMY2ZjV2ZpRFNWcXpWSGFQdGlsaGI0WlE1NXRQQWpLWVhWdDVrQUtZS0NBdm1NSGo2STlIeXNtNmw0UWhHeEpPeXlpVl9rbGxENk05R2JRaFZKNmRMSTJzcUFGckNOeG5zczl1dU1NVkhvSllEVE1EOU5JOFphWDRZMGtWQVUydW0tYmh0RXJuQndEaA?oc=5",
+      "source_name": "BW Education",
+      "lang": "en",
+      "date": "2026-10-08T07:00:00.000Z",
+      "matched_term": "rti"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-10-08T23:37:31.513Z",
+      "title": "AIIMS Bilaspur must strengthen tertiary healthcare in Himachal: President Murmu - ET Education",
+      "summary": "Auto-detected from press: \"AIIMS Bilaspur must strengthen tertiary healthcare in Himachal: President Murmu - ET Education\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQVAtQ2ItcXV6N1Q1NE40dm5NWS1VcEEwMnlmQ3RoM3FUUzJFWjNCa1U5ajlRdzNNZkpQWnRSeEd0WFMtZE16aDd6dXkzQjl0RDdyQjNqZkFUWVhpaFJvYjZoU3pvQ0l4ajZtbHhkbWdYSTJ1X1lVdVZubVVsX25rc3NkUTZuMWpOcFpELTJxd0tiY0RvaVQzNEozNEh6UVlqSEpZaWpDd3I4eHYxMl9leUFZRnBoMHpqNkZ3SkdZZGdXbFlqeXdlQWNVc252b1ZkWGF5TDQ3UkIxWHh2dmwyYUp5a9IB6AFBVV95cUxQNE5ZclpkRU5RYmVWb1d0Ym9ZX1RTcUN4cS1FQXZCOFRSMTdCVE5yNzFvS1EzbDBjY1JzNkE0NW5RQ1Bod1F5SjJxTzl1Y1FxYXc1MVNyd3ZmX0pWSGxheXdXeTduR2pSemdrOENZOC1IRkJCcG03empjU2RGN085NHFlM1dxV2ExOHdxMmRwZ1RJdDNzMHV6U3BRaTVkTTRiREZEWGRxS0g3NHhwOUVlSHZWMkxLb2RDWjJoaGRmUk9qaWQ3MC1ZcE50NGphWmd1djRqcVplS3oxcTJleFcxWkU1Wm03Ny1X?oc=5",
+      "source_name": "ET Education",
+      "lang": "en",
+      "date": "2026-10-07T07:00:00.000Z",
+      "matched_term": "ngt"
+    },
+    {
+      "category": "litigation",
+      "severity": "medium",
+      "kind": "issue",
+      "duplicate_of": null,
+      "first_seen": "2026-11-27T02:01:01.832Z",
+      "title": "President Murmu addresses AIIMS Bilaspur's first convocation | Tap to know more | Inshorts - Inshorts",
+      "summary": "Auto-detected from press: \"President Murmu addresses AIIMS Bilaspur's first convocation | Tap to know more | Inshorts - Inshorts\" — review the linked article and edit before promoting.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFN2MkN1UVB0QzMzaEcyeHRBeHZQYTdibzNuWFdlMk8xZkRQa3haZThjS0xXRjJIbE8ydnpNcGJ5dGJ6ZjJkMGJqX3lTU3dVMGxQdy1FUVJPVHdKM3ZOU0dSNUVqLUh4SERZRHNWM2VIVkhJZ3NLT1h2cWo2S3d6UlpIY2tmcEhLTVhwSTFRdjZfWnFMZUVYMEFma05DU2xpV0JxR2JB0gGrAUFVX3lxTE9zZGhLWHh3Z3dQQ25EM2VuSGxzakdhbzlfXzRvdzRyYkZLRmg2RlJpQVl2aWF3Sko4LU9pa2ljNUVYOFB5cDd6VDRDejBkLTVCM2VGYnA1QlpfZzdub0g4MXM5eFF2VUhtZDh3RlowRkl4Tk8xRXBQMW9YT3dRZjlnem5lVm5DYlZXY3lOSjFPVFVCRTNFd3JyLU54S01uUV84a2ozZHZiMm40WQ?oc=5",
+      "source_name": "Inshorts",
+      "lang": "en",
+      "date": "2026-10-07T06:32:48.000Z",
+      "matched_term": "sho"
     }
   ],
   "methodology": "Keyword scan of press snapshot. False positives are normal — a signed-in moderator reviews each before promotion. Categories: incident, defect, audit, grievance, litigation."

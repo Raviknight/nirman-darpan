@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-24T04:08:23.459Z",
+  "updated_at": "2026-11-27T02:00:18.150Z",
   "project_id": "PARBATI-2",
   "counts": {
-    "press": 117,
+    "press": 97,
     "gov": 0,
-    "en": 31,
-    "hi": 86,
-    "total": 117
+    "en": 62,
+    "hi": 35,
+    "total": 97
   },
   "mentions": [
     {
@@ -15,6 +15,16 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOem1OUFU0Q0RZTzBoZ1RscmZFUEZDdTZpV09hVTJwcC03UExTWUliNGc3MHhFa2h2U2hHRmFQcm41WEszS3RCclp1Tko4cmFtb0pLYlhhZi1LWkZNbzhrUHVqbDI5TUNwMnpCM1RPSHozcmxwdllCSENpWFFzYXlOZlM3TktudWlLai1ZZUxrVFBzNFJnNWdJdzJKTjhDdVlTVmo5dtIBsgFBVV95cUxNSXk2c21uR3NxZFlOdXBNWldNT0tmS0NCYkZtSnBFLTNpZ0tEcG9rbGxTNlJHSUJJUlFoLTByQ21XcTNVbndLLTk2SEhQRUpKV1VXbDZOYktFa1N3YnFwYkRGSXBNU2JxWDNNYzMyZkQ2d1NHa3h2RE1lZFZHWUlYZkhnb3BEY3VoZTVNejE5bjhLbVI2Z05CRm9UVzRWckVJTnNTZkZtUkZVV3k1U0VZaEZn?oc=5",
       "date": "2026-11-23T03:21:23.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "'असभ्य, लालची और जातिवादी', शिव-पार्वती की मूर्ति शेयर कर BJP-RSS पर बरसे राहुल गांधी - Hindustan",
+      "source": "Hindustan",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRk5aS0dLZGo2a1luNVZJV3NUTWd1VmVLa3JZYlBDeXQ3VVBZbnFvNjF1bm9uWE9wazN1TXBFUG1BNlpkQmw1emNGTWxUZlNSZ0pqc0lpdkxPejhxa1A3emhHOEFBbVhrSklSaDloRllXZDVwcW0wNUZGaEN1a3J5WGFiSF9QQTY2M3VMV1AwSm0yRnA4b19tdHRFektTUjBOZUVZdWVrLWRTdktuUDAtYzcyU3VHdzVEaHB3RDMzaThYLS1KYmQzUkE0NF8wb0Y5OEcxeFZqMGFPem5qSU5F0gHkAUFVX3lxTE9qd18xSDZDZkhiQ1pDWk15QktnTlhvMGtVRGcwbzNGUkc0UXlBcEhTVDd3ZVlBV2Z3LTg0ZVBDWmQyYTVaTm90N3VGSTRYRE8tTjkwQXZhWTYwY290dkozOGhKa1NxMFJ0N2JJNUlFbVlkdVNvTi1fREtqbFFfOEMxNmZyTDBVSUhnLTdQb21kRFBIcjg4Y0dCNUc1RDJlRWhsTlJ3X2NHTWdOVTdYNHJUdmZMY0ZEZ3o3MDlEdjJPS0hHdTRJRzJFcU1Oei0yNjhrc1lQa3FnMFBVVGlhM0RtMG04cg?oc=5",
+      "date": "2026-11-22T12:04:58.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
@@ -50,6 +60,16 @@
       "match": "Parbati II"
     },
     {
+      "title": "पापा की गोद में मम्मा पर ट्रोल हुए राहुल गांधी ने शिव-पार्वती की फोटो पोस्ट की, असम CM बोले- खुद को भगवान न समझें - Navbharat Times",
+      "source": "Navbharat Times",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdGo4Q1AzYTBMcFhBVXdIQnBaOGppUklBV1d2QWlOR0NjbzgtR0c2b1NfcXYxa1hPR1lHQnJUdW1udkl0aHBpNE5NRGR2LWlPTHVwSEtNRzl5ZGtha0I5bzZoTHhfTVo4b3QwR3RNbUF2Rkc1cERZZHdhQXZJV3VMTmpJMVVvVXBSUEhOR244MjJKVF9hcnlCR0pldDB4VGhSYTFQWHlaTnNOc2NZaC1FSDMxbkR4MUtLWms0QVRUcjMybHgwV3pMY0Q0anA3TFE0Sl9MMFRRN0N1SHp5OC1ZTDlhNTByeHZzNDZFX21YZFBsYUhXeWlhdkpVcDJjVXRJN2RR0gGIAkFVX3lxTFA2U0NscWJ5V0I4X2pJYjNzdHZ5N1l2RS1vbnF1eUpoSEZTNmR4WjlFQ21VZ3pfMHFTUTFUbXlNaVFDTWZSUE1wVmJRS05KTWY2aDhMM3RYeVNXVkJlMFpqSkJHNVJWRVNKWEw3ZHc4STRMOXRKLXByeVA5d3lOQ2JoOUsyNTVPYnQtVkNTMS0zaUt5aFc2czNUck4wUjZIVnRfa2tfWmNKV2JyRUVjUU5ZX0RpTDZJcDVXVTN5QV8xdW1Qckk1cWZmM21qZGlSR3I5T0R0Z3Z1eDRydXFmVXVXSjBOWV9MSUtwNFZhOVczZVJROEJ2RnAxX2MyTnh0cmRRUmNsV1JyTg?oc=5",
+      "date": "2026-11-18T08:39:45.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
       "title": "शिव-पार्वती की फोटो के साथ ट्रोलर्स को राहुल का जवाब - Naya India-Hindi News, Latest Hindi News, Breaking - Naya India-Hindi News, Latest Hindi News, Breaking News, Hindi Samachar",
       "source": "Naya India-Hindi News, Latest Hindi News, Breaking News, Hindi Samachar",
       "source_id": "google-news-hi",
@@ -70,21 +90,11 @@
       "match": "Parbati II"
     },
     {
-      "title": "राहुल गांधी की शिव-पार्वती वाली दलील पर भाजपा ने पूछ लिया अलाउद्दीन खिलजी-मलिक काफूर वाला सवाल - NDTV India",
-      "source": "NDTV India",
+      "title": "राहुल ने शिव-पार्वती के साथ सोनिया-राजीव की फोटो शेयर की: कल कहा था- मां पिता की गोद में बैठती थीं, हिमंता ... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3NRRGUtRm1yOVowallkR2x1eF9Dc0M5eFRNX25TckdqRkEzWTZJbnQ2OGJBdENTUWpRQW1Ub2VRNEt3RW1mT0hHQjlwNHBBNDdZMDlmRm03d01jUXlHZkVTVG1JWUduemsxdFdBb2x0NDcxNllHdzZCRURDNHBDVElEdmVVTzlpN2pwU1dfNmVQd3F5QndaczhrVnJ2VWVEOHlScmZOQ1Q0c3NUYS00MkIxYkxZaG1KT3E2WWJrdWducE9XeXhzcDZFaw?oc=5",
-      "date": "2026-11-17T14:31:58.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
-      "title": "सोनिया-राजीव की केमिस्ट्री पर हुई ट्रोलिंग तो राहुल ने शिव-पार्वती की फोटो से दिया जवाब - NDTV India",
-      "source": "NDTV India",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY1E3alhZdVRBZWlGMS1ZX0l3Smh6MURpOTNiazJLdGxpNXpVcmR5ZmVkS3FUVVhaZWF4UjZGRlVqa0I4MU9qbmppaEdvcnlueEZTbDRkVVNSWXRmbi05VkR6WXRwcjVLQ2hQYklFMUhya292YWljWHc3MG1oYWlxRUhmclVDRnloQ0Y0MjNlaUdoNnpyZ3pHLWcxSElXekowT01nR1ctb3hNSzZwZGFyVi1CaHp5aURXaTAxdF9ic21zdw?oc=5",
-      "date": "2026-11-17T13:06:55.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMEpnckNiYzFwWnBmX1N6dllZVkVjLWNYSzEtTlE2b2xTNzk0N0p5djhzcGZPd1NucmFxdm10STdzY3YzSllacUtoWHlCeGxmbVoxSzl1MTE0bVhmN04xWnR6bE56c2twbmFIa1VmYTBDcUZhRGs2bnc3YjQ2V3Vyd0RYS0hPc09hWnhzWEhDeHEwdlM0UUUwRjlxSXI1VEg4LUx3N1pfZVFTWUlQT19oLU5NcTRNMFhkM3Y4WWw3OWXSAcYBQVVfeXFMTXljejZxdGxJbDlYSDVLNVZheW9OVUdVSHVhSjluYkxwcFdvXzFfaXhiblY3Z0ZLd0JCUDVFM2lKRUVGdmhUMHFXanU1WEFPMTQ5UXVNMTZha3diVDBYUmNBS3BNUzkyb2FYeHlvWTlsV18tZUhsWExpUDFuQi15ZnZSbEI3N2t0cV90R2FVWDhHcDFFQWRDcHhtaHhPZ0ZkcXJDdjd5WFNTYUE5NzV4bnpvZkZZbmdxV0dKcGkxb3VxT21vVkVB?oc=5",
+      "date": "2026-11-17T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
@@ -94,29 +104,49 @@
       "source": "Moneycontrol Hindi",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMXlYSGlhVnpqbC1kM2hUMHFQZjB0b3FpTGpOVDVhUWQwNjF2djAxc2FORG9oaW1oZnRjZFVEbmdma2E2TzRuQm9ZcXhRRXZfdVgxSHJpU3hTTmxtanRaZkRncXRMMkZ4X19QakdxN3N1Ml8zZEFCelNVT0ZWS0dQb3pCM0tVbTB4dVlaVUFqanpCcEROaTdzbm9MQlRVY0pkbG0temRiUmJvRVU4OHNSSVpxNkNscnVvTmltblpiWmU4aGhCSXV2NHQxZktFQ1poaXlaTFVfN09NS0VtWkQwcHQ4VWtiMU0wR0dNem0wUGlDZ9IB9wFBVV95cUxOVTRRRkZzRWhyZ3lMUmlMYk1lSUR3YVl6VWdGcG9RcTR4UUlkWURHVTBjb01Eb0h1cERJRGZMMlpwZ3AtLW9LbkFuMUszYk40WFV1TU4wTXhjZXIyc0hmUXhsX29Qalg0N2dJRy1US1AzWlZ2MXBnb19jTlF3dEtTQ0xtM2pDUUg0TUh1b184NV9DUjlHM0hua2ZoVGZaYTk0c3NBeElPVEpvRHVnZnVkUVc2bWEwQnphaGlSLWVEazB0LTBIcXIydnFHZXBiOUExbHlZeExGcDFjdlpaQTk1Q2t3NzVFdl9tYUIxQlZyZkJYVXpTclN3?oc=5",
-      "date": "2026-11-17T12:15:52.000Z",
+      "date": "2026-11-17T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
     },
     {
-      "title": "Gorakhpur News: प्राचीन शिव मंदिर में माता पार्वती की मूर्ति क्षतिग्रस्त, ग्रामीणों में आक्रोश - Amar Ujala",
+      "title": "NHPC books 80% revenue pending Parbati-II, Subansiri tariffs - Multibagg AI",
+      "source": "Multibagg AI",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcmRON3R3WVN2aHRkZlRVbkp0ZVpBNFpCYTFpNUc1Qm9iWW9pLWVBYkRsZzRHZnoxZFJ6QzNFYmpFa0U3TkN3YUQ5MG9PZTJjNENiR3M0UXJDZExpTEdwVmR5bnlDSGpLS2FOVjg5QzhBVW04Tk93aW51UGNDRWR5Ni1aclVKaUF5elZlN2JrdEV4MlRzSDdlYWwyU19URmRpcUQtUGl5dTk0RWtodTY2dXV2azgta2c?oc=5",
+      "date": "2026-11-13T13:30:53.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Parbati II"
+    },
+    {
+      "title": "करियर में करना होगा संघर्ष या भाग्य का मिलेगा साथ, हथेली में बुध पर्वत की स्थिति से जानें - India TV Hindi",
+      "source": "India TV Hindi",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMWRYOFo5TklkNlJlVGI3LV9nNmd1UTZ0cmdUbDdWTk5YekdKMGhRZk9VUldwYlFSVTdYWk5hSFRMTGYzVEhSR0JhS255OEg1Uy1vVmY3aTdqRzhkdUxVNGVlaE5TcXN3OVViNGFSOVoweXdVbDREWHBTV2xUQjh2V1Y3QmM4b1hoZFZQOFVVVTRoNEd0S3NnbmdaMTQ4Smphb3dySkk3T1dLWGtVLVlaMzlkY29wYk1PQ3VtMjRqX0JiQ3pXZjJodFFCcEpwUHfSAdQBQVVfeXFMUF9uQTZPMTFiaXJtMlRiSml1SjdwWkd3dU8wOHB4Qm55bGZfc2VEWFJEak1nSGNkb0RNa2R2Yno4Z1IzOHM1X2VPeXVfY2hmbmwtLXo5WXhPNkFOc2g4M2VpSWs4ZkhKYzJhbHBKZXVQRnVTejNRNWlKbXpGb2tDWGNJRWZzUHp0cjRwcHAyZ1cxbjRRa3hWZTRwcEZ5RkFHaFRqRExwWWpMRWduVUZwYlJLVFVSczJybmJYbXVBOEdvVVZZWkl1eXdSeDdHbTNoR3h3bnA?oc=5",
+      "date": "2026-11-12T08:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
+      "title": "गोवर्धन पूजा: करना चाहते हैं गिरिराज पर्वत की परिक्रमा? जानिए 21 किमी का पूरा रास्ता और खर्च - Amar Ujala",
       "source": "Amar Ujala",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeHF6NXpXdUxIUjVGdjg0OHEzbzZLOFdwVnhLNWwwdS0xZHdkMHRnYk1YeUVNc0ZOTVNiTjcwc1FYN1lNTTRzdEJnWHpWUjJmRVluemFwMUgtbzFJWGUtbFZkSGhOcXh4Y2p6bld5MjJLQTIySUM2V3BLUHo5RF9Qc2lXRUdTRzV2WDItUTl3ZnlOVTdqSVJHMHVZaU4zOHBHT01DZkN3UEJXakN0M2M1OW80Q3ZsU1RSZk9TX3VoOERCQmhkSW5pNVJWRTVTR1Z3NkNTcG9WdGhIbG5IWHluUEEyZlVxaFJFU0p2a3lsRWlfbFVjZ1HSAfsBQVVfeXFMTkNMdjlkUzNIcnlJSGtERV9EWE5vd0diQnk2SXdZNlZNMHJIQ3B2bXM5Skh0NFJyRU5qLUdJOGM3U1FDWXA0b2VBbzBTdHF5bUx6Z3F3djd1TTE0N1hBQ1JTRnJyNDRtaW1fa0kyZGpSZXpWVWRVNkJrMHlOaXItdXJNVkVBWU9LQ1JHc3NNWFJwMXhkdlNHeklVRHdXS3JBMEVMQnhENXUzbnFXZ2VkU2NJNlZRMUJJTDZkajdqTHlWeGpoZm1ndkFaVjc1RWF4c1h1dVRDX0U1dk9iWFNIZ1RuM25oZ0xMaGxhX1dRMVRkRlNQWjNRUDB2N3c?oc=5",
-      "date": "2026-11-14T21:29:55.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekhRa0JrYzQ3SFhxUV9IcFpvV1ZZSWZGdlpidzYyNzdXRm00Mmt6b3k2T1ZQcThLaWZiVFZiZEtTWTRSQjQ0ejV2bmFNbFQtWHZFZHFNaHQ4dXdmM00zcHotVU1yYnN0WnJ0eS02YW8wUmhULVZRODRvcmxScF84b3Z4dW5XUmlPLU1ESURJUjJwZWJaQ2N4anBLazBPTXppZVNjWDhSR2h1N3hza2lpYWFGX2ZDVVkwYUxybTBZYThacmdDT01QYmJLdVlaSnp1LW1oQW5Yal9jMGR0WDNTcVp5YmJmM0HSAewBQVVfeXFMTWFFNVVTeWhITlhtMFh0eUM0LVIzM0R0eVFwSjVGUzdSR3E5NTFvTE53TDBtV2JKaEVhOHdtZ05aN3pDcXhSMzZyX1hoems1X01EcnJuTEV6empOT0FVZThFbjV0QS03aGs1WTR2NXl6bDREcm9iX2ktVThWSXMtaGhNYnk5M3hmT1RKcEFWcW5yeUxwSGxodklxMjZYazV3aXhfV05JVVVhZEVSV09TWVRURmhqLVVpTEZ3cGdNakxteDFWa09UTHNHcERFZFA3Nkk4ZzZLV0drUE52MktyUG96dm15a3pDLUpEQW0?oc=5",
+      "date": "2026-11-09T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Parbati II"
     },
     {
-      "title": "मथुरा में कल होगी गोवर्धन पूजा, गिरिराज पर्वत की परिक्रमा के लिए पहुंचने लगे श्रद्धालु - ETV Bharat",
-      "source": "ETV Bharat",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0JYdHdOYVpmd0U5c2pKUEZMc0Y2a3A5bjlQWXByQ3ZWVmtDNXhCeTAzbE9hNnRfYVUyS2FEbmd4TXF4MWFjaU9LT3BEcnc2MUpvTjhrMkMxc2FXS0NVR2lCX1VOc3M2a2RxbDVhMEhiaW1BMHdwLUEwUVhFbGw2bGg1eEw5Z1pWZ2U4aGplNHNwSmRmUEZrZU9PSV9oYW1mbENxRTZYSzdwZzl5ZkR30gG0AUFVX3lxTFBwMGxkNkFtYkY0Rm8wYkljNk1kZ2ZXeTNCRHNUcTF5Um1Zck5Xa1hHdTVlTlhOY21IZkFkeExpU1V6eEtabFQ0aW5YVVZMekIwX3lxZ3B0OVllekN4c1FlUXlvWkFVODkzZlN1cHE2SkRrdWM2NUx2dlhhUDNQYWJMTk0xenc4N2ptUXBuZmtYd3hPZDhYX1R1eWlvODJkc3BMTnItcFV1YlNHWmNVU0lDbDlkNQ?oc=5",
-      "date": "2026-11-08T08:00:00.000Z",
+      "title": "NHPC Q2 profit rises 36% to Rs 1,658 crore as new hydropower capacity boosts revenue - PSU Watch",
+      "source": "PSU Watch",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc3ZrY2xFcmhiLVZocUZ2UVpQeGJ1U3JSNk84SmRYU3ctMGJ2NEM0MkJ6YTRuM2lpeWs2OG5Gb0g0QTFoUDJsdW5HeGJRZmFJc2ZQcVRDSlF3ckRydFQyVk5ncGh3dzJsTVdVRGVHbmxoQlIzanVQQXVocTNFaDBxWEhMTFZRQnljVWJ0SkhRVjdrb042ZXB1bEdhUXhaWkplTDQzTkpKNmVsYkdLTHVnY29ZMjkzQdIBwwFBVV95cUxNZ3JjMmZzb1MtZ2ZKaVpYRFZDdEpRRXk1S2Z3a1FsSXZxbjh1T3I1MjFaY2VOc2VsMTBoTFoxRUIyMzBfU2U3bHJaUFlaMnhNdk9LWUZLMi1uSDJoMlJUU1ljLWRDYXktTHI0SkNEbkU3SmlTN0JZVkFYcGx3SW1VdzNEQy12ZEU3a2g0cXpuYW9JMmhoZ1YzQkUwdjlLS0ZMTTN0MGpCaHJyZUFkUTZfZno2elNiaFl1bWpsWHp5OTZULVU?oc=5",
+      "date": "2026-11-04T08:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Parbati II"
     },
     {
@@ -130,6 +160,16 @@
       "match": "Parbati II"
     },
     {
+      "title": "Shukra Pradosh Vrat 2026: आज शुक्र प्रदोष पर करें शिव-पार्वती की पूजा, जानें सुख-समृद्धि के लिए सरल उपाय - Navbharat Live",
+      "source": "Navbharat Live",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMVhCSXJJWUtPdTk1Rjc1WHVHR1BjMFBNN0xUSVphZEl5d2dUQjc3MnM3bExMclhFNXBrUndyLWRwQ2JqTDJHVE5BV3YyQVlEUHBWeEpqSEhLQURYSTdyWmdpNWNjbWlzVGRqRDNyX25jaG5tYVpIcUdtYXU4UXE1QXl0TkN5WlVqd0hTaHQzenREc2NrWUpOYml6OHJnNTM4bjM3N1g2UmpQbmdySDVOYy1qaGpDQU1Gd0VaOFNvLUNXWDJvU1YwT3p2NjRnMnBDZTVTSkpvb9IB5AFBVV95cUxPamd0akFEejNRUUlPTEpMSHdELWVqaC1uSHRvTUlZa0pob0htWHM0XzNwTWg5TmlvMWZGMG1fTUR3cTV5MjF5dXJ3RV8tQnRacm0yR3VWYlNhcnIwX1AxbXlVRXdNekpabVZpZlJTX1IzT1pTTDVVbUFqQ0JKSDFyNElkd1QwSVZsLU5WcFdfQkx3TVR2T0E4UTdqcy1zazZEcEFscVczeDFQQ3p2TDdLcXJWRTFrbVVaTjJPQ3lBZ0xtR2I1RzRwZDNLc21PQ3lLSEtqcW13TUVNZWhucGVNRjE4bi0?oc=5",
+      "date": "2026-10-23T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Parbati II"
+    },
+    {
       "title": "Sainj–Raila road reopens as 12-day standoff ends between NHPC & locals | Hindustan Times - Hindustan Times",
       "source": "Hindustan Times",
       "source_id": "google-news-en",
@@ -137,7 +177,7 @@
       "date": "2026-10-04T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "NHPC Parbati"
+      "match": "Parbati II"
     },
     {
       "title": "13-day Raila standoff ends as NHPC agrees to relief claims - The Tribune",
@@ -160,16 +200,6 @@
       "match": "Parbati II"
     },
     {
-      "title": "उत्तराखंड में जहां शिव-पार्वती ने लिए फेरे, अब वहीं सजेगा वेडिंग डेस्टिनेशन, ब्रिडकुल ने शुरू की तैयारी - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW52ZmZfS19rUENpVGM4ODA3UC1MT0pGcWstYUJYU01wdkhsNkFVRng1NGJRUWZ0Qk9tVFQxaGlTcEZHYWY5X0tNQnVyVFRUNEVlRzlna3EtczdTQXd5aUNCQURCS3lHQW10NFZBLUZyVFRsUjZhcUtnY2FEVUdFYXBCQkcyQmk1bU5NeFcxVDN1a3FFMDFvSjQ2SGpGMUlZc1dkek9LM09xaGtjeUlNRnNMUFBiRWRqbW1ETEV2REVJTjhKbEtnUnZB?oc=5",
-      "date": "2026-09-30T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
-    },
-    {
       "title": "टनल रिसाव मामले में नहीं आई अभी तक जांच रिपोर्ट, सड़क बहाल न होने से सुरंग की मरम्मत का काम भी लटका - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
@@ -178,36 +208,6 @@
       "kind": "press",
       "lang": "hi",
       "match": "NHPC Parbati"
-    },
-    {
-      "title": "Himachal: Parbati-II hit as 2 turbines stay shut - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnA4V003Rm5OTWUwQjR0bl9ERHBUUVBCbWtBalVSVEJhakx3WjluQV9veXZvSTRodFZhckwwM0VLMUVyMmpJUzVnUGlrSVJFOEw5UVpsVmJEOVZzRU1vaGxlVDVaWHlScnZYQS1OMWlodzltdXNUUHdsOV9XNlEteGlwZXRuM0h6SFRNZGZ6UnNiOVVGdGfSAZoBQVVfeXFMUEJyaXhFNDBXdmc5RkQ1LVd1cTBaaGg1RkNKZzhIN1NOeWxaQk9TM2JzUnl6NXZNWDdZbkJFQU9ZM1VYZWRfSnhXdTd0RjZJeEpkcGNZNUs3RjFsTnZvT2xLMFQ4Q1MzdzZVd19Nd19iSUMzZXZUbmJ1M2tpMTFZUVY2elphaHJ4dmc2WDZUWW56WDZsckxQQ2dwZw?oc=5",
-      "date": "2026-09-29T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Parbati hydroelectric"
-    },
-    {
-      "title": "Himachal: Parbati tunnel leak sparks road blockade, tourist crisis - The Tribune",
-      "source": "The Tribune",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2ZVZko1a3psLTd6TlQ3R1E4Q01sU0tiem9kcUNyeWJqa2ZDYnZqaFcyc05SX0JBMDlnd25SS05uQ2p6LXhhbVlZUXFjeklhT185Z0hoRndRUWNkSk5ZUHcwZm84bUpCZXVzVFBHUHI2cllnYTdFRmg0R1REQVMyMXM0LXo0N194Y3hDWEJTaWNYMU82XzF4c3Vma1ZFNFRs0gGkAUFVX3lxTE9vRmRhd2NoN0NrM29vM0J6elZ6Q3l6a2hqY2FsRW11a0p1OVRPcFhqd1B2RlRUVm5yNnc0MF9CbTVVc05wX3BTMmR4YldYRElKOURhZmg0endJUXhEMUpEZTNndkNZNmJ3bDNzUEQwZEs5Y0NmS3lieFVqX0RsWXRMTG4zSWxLWjQ2RGpwWDhiVHVKWWFjTHIta1hrQV83dFdBUjdE?oc=5",
-      "date": "2026-09-28T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Parbati hydroelectric"
-    },
-    {
-      "title": "हनुमान अंश: ओटीटी के अश्लील दौर में हनुमान अंश की सफलता पर उत्साहित नेहा परांजपे, पार्वती माई का किरदार निभाया - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOX3JOdlFDd2FlRTdhbUpvYUxadXY1WHpOemhLY3FsV1FCYlktUVpvWnRHLW95VVhkd3dpczl0bnd6M2d5RTI3QnVRMXJQTXpoem5Ub2hUMzVaQkREakF5WXZYd3gtTC1FV2N1TTVnWWw1aVJFcnRLM0lMRm9jVVFGN1VqcUV3N0VUMElPSWlLMTBGRzMyd3hsNW5uc21QdTRKdm8zVkRrcnBELWVrTm1IT2xvQ1JUYXIwbDJFYURscDhXZ3QxUXRTclNQYUVBSTM3Rk9XRC1lR0x0ZFZXNmNvV2VSTll4SHdmVEJRdG1iMl9HWlZWWWc5ZWtqX0t0ejliWHUw0gGIAkFVX3lxTE5zbWloZ1FESDdyLVFPUkdUckhfdkMtd1RyVkwycmRHNER4SWhUOVdUdndLekNrUUxEVUNLREdLaEZXLWlMU3k3aXdQREFfR0pLSnlVTTExMWZBX0dBZkJ5UHh5TGJtTlUzNHNueE5weGFWajdsNmVWSHNDNzFLNVNwVDNPelFYbGZOLVJvbG9TbmktNGU4NFBnWHNMYjF5UWktSEpTQ2Z5SWxCQk1WVC1uTmFJbHltU3pfSThDeFhDb2ZmTmN1Szl3MjVxWjVreTdFV1QwUDR1NVpVQVl5QlM5T3hWekgxRWpSZXE1Y0xXZUJweTAyWF9XZ3RLUUZJTVBVUC1kLU9HeQ?oc=5",
-      "date": "2026-09-26T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Parbati II"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

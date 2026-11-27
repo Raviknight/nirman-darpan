@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-24T04:09:50.596Z",
+  "updated_at": "2026-11-27T02:01:37.468Z",
   "project_id": "NH105-PNJ-NLG",
   "press": {
-    "n": 2,
-    "positive": 2,
-    "neutral": 0,
-    "concern": 0,
-    "avg_score": 0.4,
-    "avg_magnitude": 0.4
+    "n": 16,
+    "positive": 5,
+    "neutral": 5,
+    "concern": 6,
+    "avg_score": -0.056,
+    "avg_magnitude": 0.306
   },
   "youtube": {
-    "n": 2,
+    "n": 0,
     "positive": 0,
-    "neutral": 2,
+    "neutral": 0,
     "concern": 0,
-    "avg_score": -0.05,
-    "avg_magnitude": 0.55
+    "avg_score": 0,
+    "avg_magnitude": 0
   },
   "overall": {
-    "n": 4,
-    "positive": 2,
-    "neutral": 2,
-    "concern": 0,
-    "avg_score": 0.175,
-    "avg_magnitude": 0.475
+    "n": 16,
+    "positive": 5,
+    "neutral": 5,
+    "concern": 6,
+    "avg_score": -0.056,
+    "avg_magnitude": 0.306
   },
   "top_positive": [
     {
@@ -34,32 +34,35 @@
     },
     {
       "source": "press",
-      "title": "पिंजौर-बद्दी फोरलेन को बड़ी सौगात, 378.48 करोड़ से सुहाना होगा सफर - Khabargaon",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSW53MDRLeUk4NjFZQlBUNmpwZ0NhZjBpdFRHZFFObm1jcHNKZ2dwT1BJdGEyMkVkNEJOTHc0ZVBWR21FYTBDWkxtUEZfdXlvZEZkVUlQZ00tR3VtemVGRXl5V0luVDhpNzY1ZzhvVWVUazljRTFxdl9NQmd3anBUV1RlZXhhV3VoWjFWR2ZjdDBSMnU3LUxDZHZqVC1jRlM3aFFHcnNMRUhkN2VpcENV0gG7AUFVX3lxTE1aVmVBV2ZJcTVCLW5rU3ZwS09YSURFMmx5Zm1RV1pfeDZFWUphOW5pMEdYc0t6WVFidFNDLTZLRmt6WlNJMkQybzdUTXdiU3V3emhaSU9YY1FFQXA4OWZwNTVXeU9WYjFqVmJqek5VTUhNWldOTTNrdGlzbEo3SDVNdjM4YVRIYkpYRFU4bUc1clBMUllwWVBiclpBV05STXc3Rk5EVWpYY0hKT19YdlVYbE0tUjQxTTJBZHM?oc=5",
+      "title": "पिंजौर-नालागढ़ रोड पर बढ़ा नदी का जलस्तर: पुल न होने से बढ़ी परेशानी, गोरखनाथ मंदिर के पास आवाजाही प्रभावित, ... - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQnBoUDRPcWdVRFVHWGRDS1R5aFVaT1VVMldVSFBZdHlncHNoNVdvRGVuV2hQSWxSN2Nicmo5UWQxYXJqZ01uQ2dja1hnaVRUdWs4ZUdGazJzQUZGdnNISmgtcmxHU1pGX1Q3S2xXXzZjUllicFc0TDRweEdKZnBmU0NkLTMtUHZ6c2EzQU9TTlJsSVNGcmtOQ1ZMczFPX211Q3VGRzRNZEdzTEh4bnZkRlAtc1ZWZnFlVmNib0pxendnUy0tZXAweG94NVh5QXBhV24tb9IB2gFBVV95cUxPQmdlcVpQYWpLTzlKbnVKNjFKZVFwTDA0NWRXV05qOFk5YzJkNC0wVmx2aWktX1lHaktXY2xjdFdQbWtTaVFrOW8xQnc3UU1mM3ZhQmNpWnNYYjFlSEZvbUhST3pDVXZWMFJOaUNIZXdTZHowQWRQUTduMkkzazU5RUZjVU9USGtTSFlJeXg4MjBUTlVjM0trcENzNEd6LUJzZWpudjFFd241S0I2a0pXX3o0NUNfYWxfNm9YT1FqZlM1M1dLd1FlMzhvTU80RU5tY1g3SC1ndjFfQQ?oc=5",
       "score": 0.3
-    },
-    {
-      "source": "youtube",
-      "title": "Bhai \nBhud barrier se lay kar kishanpura Tak ka full video bna kar upload kro",
-      "score": 0
-    }
-  ],
-  "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Bhai pehli baat to ye four lane nahi hai. Matlab kuch bhi utha ke daal dena hai",
-      "score": -0.1
-    },
-    {
-      "source": "youtube",
-      "title": "Bhai \nBhud barrier se lay kar kishanpura Tak ka full video bna kar upload kro",
-      "score": 0
     },
     {
       "source": "press",
       "title": "पिंजौर-बद्दी फोरलेन को बड़ी सौगात, 378.48 करोड़ से सुहाना होगा सफर - Khabargaon",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSW53MDRLeUk4NjFZQlBUNmpwZ0NhZjBpdFRHZFFObm1jcHNKZ2dwT1BJdGEyMkVkNEJOTHc0ZVBWR21FYTBDWkxtUEZfdXlvZEZkVUlQZ00tR3VtemVGRXl5V0luVDhpNzY1ZzhvVWVUazljRTFxdl9NQmd3anBUV1RlZXhhV3VoWjFWR2ZjdDBSMnU3LUxDZHZqVC1jRlM3aFFHcnNMRUhkN2VpcENV0gG7AUFVX3lxTE1aVmVBV2ZJcTVCLW5rU3ZwS09YSURFMmx5Zm1RV1pfeDZFWUphOW5pMEdYc0t6WVFidFNDLTZLRmt6WlNJMkQybzdUTXdiU3V3emhaSU9YY1FFQXA4OWZwNTVXeU9WYjFqVmJqek5VTUhNWldOTTNrdGlzbEo3SDVNdjM4YVRIYkpYRFU4bUc1clBMUllwWVBiclpBV05STXc3Rk5EVWpYY0hKT19YdlVYbE0tUjQxTTJBZHM?oc=5",
       "score": 0.3
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "Kiratpur bridge construction delay causes traffic chaos on Pinjore-Nalagarh highway - ET Infra",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWmd2LXRfOWgyYlZUUW43aUdJT21XcklWaEg5a0h2S2hpNmJYazN5QjZZekdrRFlZdGZVMXRUZzZzWlpfaUl4cjAxdjZjZUx4RzNyR3lDR3BMeUdTZ2dwbG95MmF1aXJLQTVOTVI3eE9scFpuOXA3dEJpalF6RGZ3cjBHT2c5MkR3MVRvTWFoekN4LXd6Z0VPeXM0TmNGTjN3U2g3Q3pwQXNIeVdmcU4zdDhBTU1hTXBLWlZiM05KeXdoX1dncEFmZ0Nob2tMZFhROVlFRl9IOWt3TWpGeWgwWHJveU1FdDBHRWZNcQ?oc=5",
+      "score": -0.7
+    },
+    {
+      "source": "press",
+      "title": "Delayed Pinjore highway project causing daily traffic chaos, accidents - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOVhsVUNFMUlzT0ZJNy1vTDNNYkI2WW5nb01wQmQtbEZzYWRsbTgxVE1GemJhQU1RUDJFUkZWSWJFZEQ2T1VCREFKQldOeHprR0FLZ3EyLXU5RWZlbk5McTNmQUt2R3B1aXI5SUJzdWR5d1FCTXQxQ21SUFktTEpaNVZIMWlKZm5hb1hDVEtvdEJsSWdjcFdrWXVmaVRZVHJteVEwdzJrRjQycmZGaXhmQ2NkNVZ5cnRiYXNsZmJCS2M3MGJyVlRwYk4xbElMTkVMQVNlYUFLSHJFcFROWTBGetIB5gFBVV95cUxONFNnSVNSOUNGeERvV3VKRW4taEh6Q2pHNzl6US1NNTZLWVNTYlZYQmNkbG5mMUNncG9iQnlQbjFESEhTNFpSUUpVWlJNaDl0TmpnNnlQWHNTaTZRTWNfeGt6d2JIdW9NWWJkWDZqMmI2VWZfYWIxLUhNTGVwc2dwbVhhcHgxOW1adXFKSE90SGprUGI3VlI4SV9GdnJfb2N6UG9UbGRsUnRiNUhBZ095aXdCemJMNmtaWXByd090NG5HbTZ5empwbnlYTjVjdEpzVE45elp3TmZWbzN0dzhtMmVBT01qQQ?oc=5",
+      "score": -0.5
+    },
+    {
+      "source": "press",
+      "title": "18 years of wait over: Pinjore bypass opens to public - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2E4SzRhMk84ek1ZRnBaUkRQQktGMVNuQm9YRGVON0l5UVdNYUZTajBuQXRPZG9lZ3VISXhZYzY5YkE4VDVCX1pnTlR1aFhUV3N6VU10S2FsUFBiMUlRaGpSYTVaZlE5aEdBeUthWUhmU21KYkxpZXVSSlZZU0wxYUlrNjFMakhlVWtJbEl3Smt5b3JnaGxLM2hvcmhhdm9Sd1F5Vmd4b0FpdjJvZWQtR2Z5VUs2X29maHp3Z09oaUVENmJDTVlMQk130gHPAUFVX3lxTE5TY01PejdSTVZXakZsbEk1dy02b21YTTJKb3VFNDJJMDdjNlVrMmlhcXFtTDhiNUY3SUdtLUctY2thOHNsRFFuUmRiT1JiN052bGpxUWVkMXJjTUowM0pjNVdyVG1OdUdMejdVQU52MWE2OWNwTzVjSVhGZVBKT2FuSjYydFltQnhaZmNBb0FkVWtMb2dvRXNKSGFvV3NJN3VRM19HeXNYY2pYbEFHY1c1clpfdEdaMEVuMW9SbTA2eDgxRnNCVllieUF2MFZXSQ?oc=5",
+      "score": -0.5
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

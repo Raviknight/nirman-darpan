@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T04:09:45.929Z",
+  "updated_at": "2026-11-27T02:01:34.845Z",
   "project_id": "IIT-MANDI",
   "press": {
     "n": 0,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 29,
-    "positive": 24,
-    "neutral": 4,
-    "concern": 1,
-    "avg_score": 0.345,
-    "avg_magnitude": 0.541
+    "n": 18,
+    "positive": 15,
+    "neutral": 3,
+    "concern": 0,
+    "avg_score": 0.361,
+    "avg_magnitude": 0.522
   },
   "overall": {
-    "n": 29,
-    "positive": 24,
-    "neutral": 4,
-    "concern": 1,
-    "avg_score": 0.345,
-    "avg_magnitude": 0.541
+    "n": 18,
+    "positive": 15,
+    "neutral": 3,
+    "concern": 0,
+    "avg_score": 0.361,
+    "avg_magnitude": 0.522
   },
   "top_positive": [
     {
@@ -33,21 +33,16 @@
     },
     {
       "source": "youtube",
-      "title": "I see it every day 😂😂😂",
-      "score": 0.8
+      "title": "India ka sabse beautiful IIT  IITGuwahati hein 🔥🔥🔥❤️‍🔥",
+      "score": 0.7
     },
     {
       "source": "youtube",
-      "title": "India ka sabse beautiful IIT  IITGuwahati hein 🔥🔥🔥❤️‍🔥",
-      "score": 0.7
+      "title": "jee 2027 aspirant...really wish i could get in here and ill give it all",
+      "score": 0.6
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "Overhyped .....anyways IIT has lost its charm and is known for creating IT labour for developed economies .... Also manu",
-      "score": -0.8
-    },
     {
       "source": "youtube",
       "title": "Hey Bhagwan ❤❤ \nBs next year yha pahucha de ❤❤",
@@ -55,8 +50,13 @@
     },
     {
       "source": "youtube",
-      "title": "Bro what about landslide",
-      "score": -0.1
+      "title": "Khoobsurat to hai yrr",
+      "score": 0
+    },
+    {
+      "source": "youtube",
+      "title": "Mere 5 bhai (iitb, d, m, jam) se hai. Par mujhe toh IIT Mandi hi pasand hai. \n(From MH)",
+      "score": 0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

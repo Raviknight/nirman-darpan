@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T04:09:30.820Z",
+  "updated_at": "2026-11-27T02:01:27.237Z",
   "project_id": "KIRATPUR-NCK",
   "press": {
-    "n": 10,
+    "n": 9,
     "positive": 7,
     "neutral": 1,
-    "concern": 2,
-    "avg_score": 0.17,
-    "avg_magnitude": 0.35
+    "concern": 1,
+    "avg_score": 0.222,
+    "avg_magnitude": 0.444
   },
   "youtube": {
     "n": 12,
@@ -18,12 +18,12 @@
     "avg_magnitude": 0.467
   },
   "overall": {
-    "n": 22,
+    "n": 21,
     "positive": 13,
     "neutral": 6,
-    "concern": 3,
-    "avg_score": 0.227,
-    "avg_magnitude": 0.414
+    "concern": 2,
+    "avg_score": 0.252,
+    "avg_magnitude": 0.457
   },
   "top_positive": [
     {
@@ -55,10 +55,9 @@
       "score": -0.2
     },
     {
-      "source": "press",
-      "title": "Himachal Rain Fury: Chandigarh-Manali highway shut, alternative route also blocked - Babushahi.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrY09vOEV6RU5OV01UUEtZRmxacU5FWWhOdlBqWUxWSlBYcFhReDFQUmg5Sm1NdkhVV2EzZWJkOHM1TGhjZjdlaldGOWVxT1NnZDRUaU9XejJUM1ktSGc?oc=5",
-      "score": -0.2
+      "source": "youtube",
+      "title": "coming from kiratpur \nwhere to enter this highway\npanj piri or some else",
+      "score": -0.1
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

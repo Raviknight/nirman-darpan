@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-24T04:08:42.908Z",
+  "updated_at": "2026-11-27T02:00:38.116Z",
   "project_id": "SML-WATER",
   "counts": {
-    "press": 21,
+    "press": 22,
     "gov": 0,
-    "en": 11,
+    "en": 12,
     "hi": 10,
-    "total": 21
+    "total": 22
   },
   "mentions": [
     {
@@ -17,6 +17,16 @@
       "date": "2026-11-02T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "SMC and SJPNL, Jal Shakti Vibhag Sleep as Shimla City Plunges into Water Crisis as Transformer Burns - HimbuMail",
+      "source": "HimbuMail",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjdSNldmT1ptQlVsZnRSQTBleEpibjRLdHlZcEZQYW9yWTdwbTZ4bmw2eWVlMUdlemFZSjl5MGgwVzVmR3lxLWRFNDNuZjl0R09ORFdMeFhSdDlXN2k5RjlXdUdiSXlfbWdnUG5wOVhvQlhIODZzVGN0YndwdGJnRFV0c0N3Q3d6Qm1OLUMtV2Jwb3l0?oc=5",
+      "date": "2026-08-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Shimla Jal Prabandhan"
     },
     {
@@ -100,16 +110,6 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "Ex-Dy Mayor seeks shifting of Winter Carnival stage in Shimla - The Statesman",
-      "source": "The Statesman",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTnIwSEFtNGIyeHprcmxpb01TendpZjh6NllKNnlYSEhVenZMeU5yMFlZNFF6eEpkNVJsblBTVmdYRWNxTlBKT1N1TnBFbFA2SkY5MFdVbTFqYlZwWVJQQ28xckt2RmxNeWV0SXRZT29RSnBDWDJFNklfaF9VaUFKVWZvWGNJUFJDUTBKZDFqU0M5SV9CVFY4ckI1dWZKbHNsNExDZjJCREhjUGx3cmlCSTRB0gG3AUFVX3lxTFBZT3pzNHl6ZjFkOFZGaEFpakhlSHJQcERta0lvX1lhMVpNU2VDN0hwMjRhcWhHLVoyZzE4LW1TbllmVjJHUktBVGJGNktoYUk5ZEV4N1A3R2E5QUhnb3pSNkxjRmlWbTV3dE9zeVJWcUlOVDBpZ3l1bnN0MG9oMllMOU1qVFRVNHEtYkZ6S2VsV2wtdnY2ckpxQU1kSHBFZnY2WGRwaHNtT2VjMm94eFp6UVBXNWV0WQ?oc=5",
-      "date": "2024-12-25T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "SJPNL Shimla"
-    },
-    {
       "title": "Giri Water Supply Scheme: Shimla to combat water shortage with new tank - The Tribune",
       "source": "The Tribune",
       "source_id": "google-news-en",
@@ -160,21 +160,31 @@
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "शिमला जल प्रबंधन निगम का दावा, 90 फीसदी सही बिल जनरेट कर रही कंपनी - ETV Bharat",
+      "title": "शिमला: रिज मैदान के पानी टैंक की सफाई, मेयर सत्या कौंडल ने किया निरीक्षण, दिए ये निर्देश - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNjhSNDV5NDdXRHRnUmw0N20wZHJKVFRici15ZWJYLVh4MWNPWW5mWGtHM3J1SkhobkNCTzhTY211S21HbTJ6UVExaDJzNWFpMnFHc0Z1WEpBNm1SaGxvZU5FQWVodlJuSXhaQmI4VllLNzMxa1JWTHl6SldMVWJ6WkI5bDZOR1lUTFlVSGpPSTR4WWhTTWt5am5GY0MtenVOLVNlOHlJTE82QWFtUm0xLXA2YUFVVG5YUWQzS0piR08wdXFYS3lnX2N0OUNCNUtKUkF0dHBXdzh3SGJ4eFZsUTZ5cGFIVUZiT01Zd3pB0gHzAUFVX3lxTE1XNi1TbUZHVHpxUURNMHlVM3lWTmlERzFaUm9idkZqeGs0aU5Udm9vRWg5QUplbXVZYnZNcmVRWnVoNmU2VzZZenA0VVhfUGN4NnJZc1JrU3NXLXl4aFM1NU1ndUFMMXlDX0Z0cmd1dzRCdEpmM2xDRTRQZ1J4N2pnWFdNdEljeGY3c2JEREpGMjZNZEo3eGVRRzJ0OG9sTzhMVWRSWFhETV9BWG9BdWJkYTR2TUFBWlVKYnZ1RkppS0J2U2t4WElHYWhlaGRLX3ZUd1pqOUE5TWQwYmdDNnJLaE1wRGZST3VPSmRqUnZfenFnWQ?oc=5",
-      "date": "2021-12-03T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ0VwTlFPOGtmcjRQc1ZFTzdkalB0RHo5V2pGZDhzc1VpSV9fdV9rTjZnT3RVeDlIZWR6V3Q4Nm9oSGRyMkVFTlZLdHF5aEhiN0NFZ3FsMDRldkZzNDRwMmdNcDJYTjBRaUxsQ2x3VFhKUWhRUlZ0bFFWNmVoZDZDemtiWkZYclgwbFZuVEowLWpwOXUxOGVRWFN1MWsxU3hFSk93eXlHUEdpOUhkbll0MURxekxpZEMtVGFYM3FFaGdiWVRwSmtRMjJDZGg4WUduUWM2LW9YSVBNRmhNZVM4TjhtcWNKU0c4RV9OZHJn0gHzAUFVX3lxTE1Yd3NnYlk5ZG01a1FxRkFTTE95T1ltOTNnZjVadkNGekhBNDlla0lUeGNRakpqSW56elJ3ZFNwSmFIVWRnbldqcExqQ0pDQTVmM0poZ2Z0Q3JwSVJWc05HREJLZUpQaC1zd2NlM1ZpQ1JKczUxM3JwUHBpVFBEejh5SWZMUllia1ZaQ0ZGQm5DWWk5VzdWcm1uRjZQVGRmX25FZDFpam13UkZSUGVrMFBETnNMZl9JRXg3dDBLSWhueXUxUy1BcHFlajdtaGZqZ0Vxd05ETnpUaWdsNTJXdUNnZ1ItUENRTGJyQ2tEd3A4andlRQ?oc=5",
+      "date": "2022-02-17T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla Jal Prabandhan"
     },
     {
-      "title": "जल निगम को बिल देने में आ रही परेशानी, अब घरों के दरवाजे के बाहर लगेंगे मीटर - ETV Bharat",
+      "title": "Shimla households to be connected with sewerage network in 1 year - Construction World",
+      "source": "Construction World",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSlpWeVRxd1lkSlFja3pJaWdUZTZ5YXJWOFY4OFU2LWo2Z25tUFpRUFg3bElMRms4ZVlyMy1EWXpVV0h1X2tvMGtRU1FWaFVHQVpsWkJWc3p3NFlfeVRubWtSNDJEOXlkekFiUGdZdDl1ZUZrZ0JSV2FBNl9idjhRXzRwMFNGa2JhZ3pzZDZrZHFlR1lsT1kxRWVxVXcxRnBCR2R4R1p3dllPNmVfNjJVTDE2aTR3cFVpS09SYWVyUWc1MmZrelJSUEpVUmJwYnNOMmxrZnhzbzhocGg2N1RWYW5YREFTM0xTeWYtUkhn?oc=5",
+      "date": "2022-01-22T08:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shimla Jal Prabandhan"
+    },
+    {
+      "title": "शिमला जल प्रबंधन निगम का दावा, 90 फीसदी सही बिल जनरेट कर रही कंपनी - ETV Bharat",
       "source": "ETV Bharat",
       "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQ01uektRQkd5MjJkYUpod3hyVkZ2YTZydDJvaXhSTUVVaEhSZFRGbnNXb25HVEp3emY3bkdZMjJZcXpKWkcwaUJZaU5ia25GbFI4V0RLSVp6UHpIWDZKWXRiOUpCZVVYbks0c2tRRnBIZnF6U0plTFhjbnI3QVlFZUZxdXJPUlRURE5NQl84OUFnWURPSXlxZHIxVENuWmlnWDJCSDlGY0RXVEs4d2xvbVhZSlEzUms3b0ZXZkxkQ1RUeUR2cnk2dHpDZXZMQnpmcXFPU0twWTJsRjJXdVctNWNIdVkwZkR4RG8tZ1JuQ1N6UTZHalHSAfsBQVVfeXFMUFg2blFXb1o3TG9rR3B4dEhIN0YtVTBIWVJBc3I0ZWZsb0dSM29BZEIzWjZUZ0ZHbngxZ0JxendBRldTdVA3VVlUejB5Wmp3XzVjdF9ZUnhDUXVONWNjd18xRmpieHJsSDdBb3VxbWR4dW5TQ2JBMGhmSm16NWNGQ3VmM3JrR1dKVHJNVEtKSE5IaFVsUklnRGJiRG55RFR5OGUtQThRQTNnS2M0VEFual9RZld3aUJmQ1lTczNzdEp0SDhfUHFyeWZoUEFPUTZjbEpER2t2ZUFqOGV3Yzd2c1JtMnN5MHBrMndRU3BMN0dLTUkzS0Q0bVIwbU0?oc=5",
-      "date": "2021-02-10T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNjhSNDV5NDdXRHRnUmw0N20wZHJKVFRici15ZWJYLVh4MWNPWW5mWGtHM3J1SkhobkNCTzhTY211S21HbTJ6UVExaDJzNWFpMnFHc0Z1WEpBNm1SaGxvZU5FQWVodlJuSXhaQmI4VllLNzMxa1JWTHl6SldMVWJ6WkI5bDZOR1lUTFlVSGpPSTR4WWhTTWt5am5GY0MtenVOLVNlOHlJTE82QWFtUm0xLXA2YUFVVG5YUWQzS0piR08wdXFYS3lnX2N0OUNCNUtKUkF0dHBXdzh3SGJ4eFZsUTZ5cGFIVUZiT01Zd3pB0gHzAUFVX3lxTE1XNi1TbUZHVHpxUURNMHlVM3lWTmlERzFaUm9idkZqeGs0aU5Udm9vRWg5QUplbXVZYnZNcmVRWnVoNmU2VzZZenA0VVhfUGN4NnJZc1JrU3NXLXl4aFM1NU1ndUFMMXlDX0Z0cmd1dzRCdEpmM2xDRTRQZ1J4N2pnWFdNdEljeGY3c2JEREpGMjZNZEo3eGVRRzJ0OG9sTzhMVWRSWFhETV9BWG9BdWJkYTR2TUFBWlVKYnZ1RkppS0J2U2t4WElHYWhlaGRLX3ZUd1pqOUE5TWQwYmdDNnJLaE1wRGZST3VPSmRqUnZfenFnWQ?oc=5",
+      "date": "2021-12-03T08:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Shimla Jal Prabandhan"
@@ -198,16 +208,6 @@
       "kind": "press",
       "lang": "en",
       "match": "SJPNL Shimla"
-    },
-    {
-      "title": "Himachal Pradesh Government - himachalpr.gov.in",
-      "source": "himachalpr.gov.in",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LTEFHeEZRTi1NanQ3WkF0c1hyQm94U0RlMG5rTEkydmFJOUVhQTJxYW5HdjBQMTlaVkJKQjI5eHRRa0JjZ1JGdUlWYkhNRDlpYzRlMXNWeWFBeXlBVlVnUi1HSVU4R3RKanFMeTJn?oc=5",
-      "date": "2019-07-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shimla Jal Prabandhan"
     }
   ],
   "methodology": "Google News (India) en-IN + hi-IN + a small static publisher backup. Phrase match, geo-blocklist (off-region stories dropped unless Himachal named), per-project exclude terms, URL + cross-portal title dedup. No automated sentiment — open a headline to read the source."

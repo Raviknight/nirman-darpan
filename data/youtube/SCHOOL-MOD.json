@@ -1,11 +1,21 @@
 {
-  "updated_at": "2026-11-24T04:09:21.275Z",
+  "updated_at": "2026-11-27T02:01:17.867Z",
   "project_id": "SCHOOL-MOD",
   "query": "\"Govt. School STEM Modernisation Cluster\" Himachal",
   "counts": {
-    "videos": 0,
+    "videos": 1,
     "comments": 0
   },
-  "videos": [],
+  "videos": [
+    {
+      "videoId": "dXU81lVreq8",
+      "title": "ENGLISH ONLINE SESSION 1 / İNGİLİZCE ÇEVRİM İÇİ 1. OTURUM-ASC 2026-Nov 25",
+      "channel": "Akademik Çalışmalar Grubu",
+      "published_at": "2026-11-25T14:55:46Z",
+      "description": "",
+      "comment_count": 0,
+      "comments": []
+    }
+  ],
   "methodology": "YouTube Data API v3 search for the project name (India region). Top 3 videos by relevance; top 20 comments per video."
 }

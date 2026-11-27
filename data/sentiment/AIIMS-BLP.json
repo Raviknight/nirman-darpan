@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T04:09:43.983Z",
+  "updated_at": "2026-11-27T02:01:32.966Z",
   "project_id": "AIIMS-BLP",
   "press": {
     "n": 0,
@@ -10,20 +10,20 @@
     "avg_magnitude": 0
   },
   "youtube": {
-    "n": 17,
-    "positive": 15,
-    "neutral": 1,
+    "n": 31,
+    "positive": 22,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.541,
-    "avg_magnitude": 0.647
+    "avg_score": 0.455,
+    "avg_magnitude": 0.506
   },
   "overall": {
-    "n": 17,
-    "positive": 15,
-    "neutral": 1,
+    "n": 31,
+    "positive": 22,
+    "neutral": 8,
     "concern": 1,
-    "avg_score": 0.541,
-    "avg_magnitude": 0.647
+    "avg_score": 0.455,
+    "avg_magnitude": 0.506
   },
   "top_positive": [
     {
@@ -50,13 +50,13 @@
     },
     {
       "source": "youtube",
-      "title": "3:30 the view 😮🌷❤️❤️❤️",
-      "score": 0
+      "title": "Bro how is the department of pediatrics is it worth taking in bilaspur",
+      "score": -0.1
     },
     {
       "source": "youtube",
-      "title": "❤❤❤",
-      "score": 0.2
+      "title": "Msc nursing me bhi hostel milta h kya ?? Agar milta h toh sharing me milta h ya single milta h",
+      "score": 0
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

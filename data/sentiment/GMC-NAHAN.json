@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-24T04:09:58.774Z",
+  "updated_at": "2026-11-27T02:01:43.753Z",
   "project_id": "GMC-NAHAN",
   "press": {
-    "n": 0,
+    "n": 2,
     "positive": 0,
-    "neutral": 0,
+    "neutral": 2,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.1,
+    "avg_magnitude": 0.2
   },
   "youtube": {
-    "n": 21,
+    "n": 20,
     "positive": 10,
     "neutral": 7,
-    "concern": 4,
-    "avg_score": 0.281,
-    "avg_magnitude": 0.505
+    "concern": 3,
+    "avg_score": 0.33,
+    "avg_magnitude": 0.495
   },
   "overall": {
-    "n": 21,
+    "n": 22,
     "positive": 10,
-    "neutral": 7,
-    "concern": 4,
-    "avg_score": 0.281,
-    "avg_magnitude": 0.505
+    "neutral": 9,
+    "concern": 3,
+    "avg_score": 0.309,
+    "avg_magnitude": 0.468
   },
   "top_positive": [
     {
@@ -33,21 +33,16 @@
     },
     {
       "source": "youtube",
-      "title": "nice talent keep it up bro",
+      "title": "Good 👍🏻 Keep it up...",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Very nice bro ❤",
+      "title": "nice talent keep it up bro",
       "score": 0.9
     }
   ],
   "top_concern": [
-    {
-      "source": "youtube",
-      "title": "this is not for ug candidates ???????",
-      "score": -0.7
-    },
     {
       "source": "youtube",
       "title": "I don't know why yt recommended this???",
@@ -57,6 +52,11 @@
       "source": "youtube",
       "title": "Hi sir, i tried to connect with you on instagram, thoda hostel related puchhna tha, internet par kahin bhi nahi mil raha",
       "score": -0.5
+    },
+    {
+      "source": "youtube",
+      "title": "Sir hostel and mess fees??and is there any pg quota ?",
+      "score": -0.2
     }
   ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."

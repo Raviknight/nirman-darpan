@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-11-24T04:09:37.715Z",
+  "updated_at": "2026-11-27T02:01:30.463Z",
   "project_id": "KGR-AIRPORT",
   "press": {
-    "n": 0,
-    "positive": 0,
+    "n": 1,
+    "positive": 1,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.4,
+    "avg_magnitude": 0.8
   },
   "youtube": {
-    "n": 18,
+    "n": 16,
     "positive": 13,
     "neutral": 3,
-    "concern": 2,
-    "avg_score": 0.344,
-    "avg_magnitude": 0.467
+    "concern": 0,
+    "avg_score": 0.419,
+    "avg_magnitude": 0.469
   },
   "overall": {
-    "n": 18,
-    "positive": 13,
+    "n": 17,
+    "positive": 14,
     "neutral": 3,
-    "concern": 2,
-    "avg_score": 0.344,
-    "avg_magnitude": 0.467
+    "concern": 0,
+    "avg_score": 0.418,
+    "avg_magnitude": 0.488
   },
   "top_positive": [
     {
       "source": "youtube",
-      "title": "Super butiful place ❤❤❤❤❤❤❤❤❤❤❤❤",
+      "title": "I like to visit spiritual place",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "I love kangra❤",
+      "title": "बहुत ही अच्छे तरीके से समझाने का धन्यवाद।",
       "score": 0.9
     },
     {
       "source": "youtube",
-      "title": "Best month to go there",
+      "title": "Very nice❤har har mahadev ❤",
       "score": 0.9
     }
   ],
   "top_concern": [
     {
       "source": "youtube",
-      "title": "Fake",
-      "score": -0.9
+      "title": "Banarhat dharmshala rod hai kya",
+      "score": -0.1
     },
     {
       "source": "youtube",
-      "title": "which villages  is this?",
-      "score": -0.2
+      "title": "Apka videos achha lagta he full information ke sath jo bolte ho",
+      "score": 0
     },
     {
       "source": "youtube",
-      "title": "Is there any home stay or hotels at this place?",
+      "title": "Har har Mahadev har har Mahadev Jai shree Krishna Jai shree Krishna Jay shree Ram Jai shree ram 🌹💐👏🙏👌👏💐",
       "score": 0
     }
   ],

@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-11-24T04:08:48.827Z",
+  "updated_at": "2026-11-27T02:00:44.483Z",
   "project_id": "SHONGTONG-HEP",
   "counts": {
-    "press": 29,
+    "press": 31,
     "gov": 0,
-    "en": 21,
-    "hi": 8,
-    "total": 29
+    "en": 22,
+    "hi": 9,
+    "total": 31
   },
   "mentions": [
+    {
+      "title": "हिमाचल में रेत-बजरी निकासी पर सख्ती - jeevanutsahnews.in",
+      "source": "jeevanutsahnews.in",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1laDJYOUVwNkFfREx2NEZSV1N2Q2ZabUtUZ3VpZGxvNUNMV2QwaFRwUFlBcG1JelNuemwwenRhX25tVXNuenNzSWx5c2lXRExYQS1TVDJKbXZ0ekRpZ0ZuMXJVUlk5UlRFMTA1Z3R3VQ?oc=5",
+      "date": "2026-09-21T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Shongtong Karcham"
+    },
     {
       "title": "IndiGrid signs pact to acquire Shongtong Power for up to ₹5,315.8 crore - scanx.trade",
       "source": "scanx.trade",
@@ -47,6 +57,16 @@
       "date": "2026-07-13T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "CM reviews progress of key hydro project in Kinnaur - The Times of India",
+      "source": "The Times of India",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWTNOZnFZRW9MaFhQQnpNdmsxUjRvdHJMd0RBMHlmeGp5bzFwLV9xUzJCNjJweWVLMlNlaHVKVzFJQk12QkQtNnBHdVhoWU9DaUpwR1dwdDI3OHJCZHhnbFhWcnUteUJHWWtYUUxtSF9OQkFHRFREb0VHUld0OXpFVWJRTzRxRkVBbUhCbV9SYnVoT2F5U09zVGhIcGVDNnB5VFIwTWRzYmVFdHU5dkE4ZWcxelExVmZYVjdYM0FoVmVYNklpcDR2UtIBzgFBVV95cUxNMXdyeWJpOUlJUlE4MnhaSzBEOTgwcW5ZUDZHc2V5d2pOMHBVbVNIMWQ0X0JRMzA3NEtzVENYVkNxcHFlSkZrWmJNNkIyNFg4WlhoRUVUVWhBMmVFSkJYcWxMUk9jR0UyTVcxcnVvSXJvakhndlN2d2Y1ejhpTzRSODVRVFhMT1NFaWR5T1gxZmJ5UERpUTJpOVNWbDJCOTJVNUNraW9LRmFNSWloY2JwMl9nRXVTZXdpalotV0VfXzhHcGZ6cVdEQWlBNjhWdw?oc=5",
+      "date": "2026-04-15T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Shongtong Karcham"
     },
     {
@@ -95,6 +115,16 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPalAxaVAwY3FhR0wwcklfWHZhSkx6OG9tOXNNeUhYSUFGSVo3d2NxYUlENF9ObURUc3pPbUpRdHFzcHM2a0c3RVZ2S1VUNV9hSUU3akxDSDNiVTNIeG04MldBNW83Nm1ERFVFaGxmc245bnBqS29UaGdOZ1lKMmlDc25nWEo1aTdwczd6RXlNOU9HVTdYM2dRMnU3SGJVTWV5cTZoZl9jalE2MTc1eGR3dzFfN2JGTXNkLXA1Z2EwVzhNbTdkY0hhT0J0cXAzaXVI0gHWAUFVX3lxTE9leE5QR3lWX3FDQWtScjJyVjJ0bUFKTTI0RjBqZ2Q4ZWtNd0RHR0xNNzUwMVpCbHJ5bHViUk9tNGJsVW9uZ0lhZVF1dl9OcVNDYlpoWHo2emNfV1ZwNTdqNW0wWTFnckliNEhzcVBCQ3JEeGpDMHFidHFQVlhwRmF6S2g1al96dGhrVlF3eXh6dFZGUXpIbTN5a1Bka1h5ZFpjcXdweml2MlNvUTR0YTFRZ3JXNGxlLXFFc1BVMURxYWxHejQzZ3B6LWh2WE1QYkZGbnpVZ2c?oc=5",
       "date": "2025-06-10T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Shongtong Karcham"
+    },
+    {
+      "title": "Himachal CM Sukhvinder Singh Sukhu Visits Shongtong Karcham Project Site #Gallery - Social News XYZ",
+      "source": "Social News XYZ",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHhUWXdaZG9PV01KYnFES2tsYmhOcXN0bElVQmJBME9qanpZbEptNG42REEzcllGcm45T2N6ZFE4NDc5RThMZE1JQ3pMc1piVjNhUUVSLVQ5dGV5MWluT1B4ZDFKZ2RCeUZJR255SHgyd0x0QTZxc1NNR1FWNWtVWVpqeHJPX003SnRSQkRzV1NNV1cyQkozNTBNWEpiRXJKdk9uZzM3VVB5dUVpWF9iQ0hNR3Nzc3piVlhF0gG7AUFVX3lxTFAweFRZd1pkb09XTUpicURLa2xiaE5xc3RsSVVCYkEwT2pqellsSm00bjZEQTNyWUZybjlPY3pkUTg0NzlFOExkTUlDekxzWmJWM2FRRVItVDl0ZXkxaW5PUHhkMUpnZEJ5RklHbnlIeDJ3THRBNnFzU01HUVY1a1VZWmp4ck9fTTdKdFJCRHNXU01XVzJCSjM1ME1YSmJFckp2T25nMzdVUHl1RWlYX2JDSE1Hc3NzemJWWEU?oc=5",
+      "date": "2025-06-09T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shongtong Karcham"
@@ -175,36 +205,6 @@
       "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3V2THQxUWl3cHROUm01bHhuYVgzelJrTk5keTM1Tm02MjVDdWp5RDhYX3dzT2J4OTJfTVFITUNDMjM0TFlmLWdLV1JONHBzanBrSmxrS1RaZFppWUI0VkdnZU91c3U5amh0a2JGdDdsZ05xT1Q3V3YtYmhzSjRhYnVHUjNidlVMYl83MFY5ZS1vMzVEQ2lkYnNsV0piWHJMRGp1Y2ZZTQ?oc=5",
       "date": "2024-11-17T08:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shongtong Karcham"
-    },
-    {
-      "title": "Bidders shortlisted for hydropower evacuation scheme in Himachal Pradesh - T&D India",
-      "source": "T&D India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUW5rOEJ6c2Vkamw2Smh0WWtjeWd1WDhjTy1JWVF3aGZFQno0U1htTmQ3NVR5TnZTSk9BUWlmaDAtZnF6enE1bWduSW00UDY1TV9xQkdFWGx1YmY3QklXUm9ITjBWMU45OXpNU0VJa1hrajRvYWh6bTVwVDZybXdzSFo1ejBSOHRGYzZEUlJnYnFsWDZRcGk4d3RVYWRpZE3SAaQBQVVfeXFMTTBEOXpiaGEwRnZ2YUUxTF9XVEEwOUhZSGl1U2FqckdyS0lWY21zVS1NazdVR09kX2ExY1hoVVkyeTVDVDJ6Z01JajZSWnFMSTJHbTc3RnllZEtlR2RvU1d0WWJTbGJ4WUxQMUczNXJ5T2p3TXROZEJVNHFmUHZHS0U5UW1OVGVEcUFYU0REZkdvN3lCY3ZSd0ZHc1JBWVczeEJBVjk?oc=5",
-      "date": "2024-09-27T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Shongtong Karcham"
-    },
-    {
-      "title": "Kinnaur hydro power project to be handed over to Himachal power corporation | Hindustan Times - Hindustan Times",
-      "source": "Hindustan Times",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVEMxYWF0Y2JwVXNWcGs5aDY3QnBUXzhrRkdxV1JuWFlmXzhoT2JLLW1lWHpRV0R3T09LbGNrVzZCZ1R4WEU4b2N2WGVVUEhraEo5RnpfUGs5dEp3cGxWbnBITzAzTkJ6aDc0R08wclRDaXcyaEJNRlBpdkk3MUVSUHUwQXU1Zm1KY1h2UERESWtSSVR1cFYyb0NEbkxDM0VselBMZk1rVzlFZTE3RzNSbzJRVVhrRVlFUWlqVGVRQlUwQVVocllIbmNDM0N2UEIyclRTQklHaVlSaFdWVzNJa2xRcmHSAeoBQVVfeXFMTVpNd0FJOXQ1dGZ6d2tBc2xTeURra3R4bS1ZcVItVVpoeWpiekNESk1KMXlDSFQ2eV9IVjVtaHQtSDdPNkwxa3VDLWxFRHY2enpxTTBrTkZNeDlvakVJSXNmVFdIRXdGcUJDRWxpLXNNRkVxWjZDaUlybXB6ZXNtRGJtM0U5TkFpTGtDclhvWUtMd0hZdjFYeW14ZzBsTExQSkplM0F6MmVEeDlkM2prb1RKLXVwZjk1U0g1TlhLZUhaQWd1Q1Z3OThsMHl4Q3lQdFd3d29vWUhuTUp2cUkzYWRFZG5IQTkwUXln?oc=5",
-      "date": "2024-09-21T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Kinnaur hydro"
-    },
-    {
-      "title": "After 6 yrs, key HP hydro project gets FCA approval - The Times of India",
-      "source": "The Times of India",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM1VJVWlMeTBBcVM0d0M2TFBPWTNVUWtoXzF1cnoxSGhrUDdyTzViOE5jWWVyMWdLV1RobWpvUnhlbTMtQ0FIMWNlZXU5ZHRpdDVuLUt3VTJVM1hKZ0F0WXJqb1M3Ml8zbDI0Q21hcUQ3SkJDZXV1c1QzY3RYQU1VWGNObGhEUl9DbnR6SHpHN1ZfbzYycHptRWRVZk16ckZNMmF6ZHhaTXRlN2RxVTc2QUpUa0o2TWJQZl93VzJfSzBmdi0x0gHKAUFVX3lxTFA2QWd5UDJBbzhodTR5ZDZNSWJvVjYwNHVhLW84WGJZT05vYXNaZl9sdzdXa29MOC1ra1lBOGlCY3VMSHJMWVdfaUlkbGhXTHR6QTVmT2dhSWJyUUFGNXZ4X3VhR0d4YWs0Mm5sSW1nR1JNeDY5N2RqVHN5RXczbnN1VjAxUjZHUHVFUVVLVEZRUTI2LW9KTHhUMUFacGpTODMxN01zdjA4MDRXbVh5dXZwbHp1S1ZEOFdvZXd4ZnVuOGRlR1F3RkRlM2c?oc=5",
-      "date": "2024-08-01T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
       "match": "Shongtong Karcham"

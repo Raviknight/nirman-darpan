@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-24T04:08:05.232Z",
+  "updated_at": "2026-11-27T02:00:01.794Z",
   "project_id": "KGR-AIRPORT",
   "counts": {
-    "press": 98,
+    "press": 85,
     "gov": 0,
-    "en": 55,
-    "hi": 43,
-    "total": 98
+    "en": 53,
+    "hi": 32,
+    "total": 85
   },
   "mentions": [
     {
@@ -90,33 +90,13 @@
       "match": "Gaggal airport expansion"
     },
     {
-      "title": "पंतनगर एयरपोर्ट के विस्तार को मिली पर्यावरणीय मंजूरी, 3000 मीटर लंबा होगा रनवे - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3IyblRxdV9Gb0ZhQVYtVi1qQk9lekJrUTAtMXVSaFJUdGgtUXNxbnlYNHhYMk5fUW9sejd3NXVfdWJ6dXlPVFVfY0RicXk1dzB4X1JGeGlySnRGYlpIM0czQzdnU3VCWkZFU2dYaHRXa0VSWkU2WFJWQXQ3Rkh1MUhrT2x2aUxvb2Zpd1FWcTFNY0wyMmlmeUt6MFMzM0dFcHFrcnhNdDRVaWNnV2ZSejc5ZHdBZkQ2dHFr?oc=5",
-      "date": "2026-11-19T00:30:00.000Z",
+      "title": "Himachal Pradesh advances Kangra Airport expansion, plans 65-hectare aerocity - Indian Aviation News Net",
+      "source": "Indian Aviation News Net",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOExJcnRSZmlENE8tcXNXek54QmpxR20zQWs5U2RLQWEzWGt0dDRVeE1RalF1Sk1ocXZSWmY2dVRxdVVFYXg0Y3N2YWNTNmFqZnZiVEl4eTJKWHlhVnhDSEZhQmdGLXZmMW5rTFZqTklzVEhXekI5cnl3SEdmdmZtLUZWbzExY3M1QzlsUGpsZzJlNUU0Y1VnZU1aNjRYbzh3Z0lJOEZua0x3eUxnMTUtVDZjQ2dpSUllb2xXbXpZMVFNZWhWdGZkTw?oc=5",
+      "date": "2026-11-11T08:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
-      "match": "Gaggal airport expansion"
-    },
-    {
-      "title": "कांगड़ा एयरपोर्ट विस्तारीकरण: प्रशासन ने खाली किए मकानों पर चलाया बुलडोजर, 7 गांवों में प्रक्रिया तेज - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON0ZWSWZiaVhxbnVxUDRDWHljOTVrYmtqRTFqYW1LMFRsSU5wUnRaTk5lSkRNbHlVOVdXS3AyTWpVckxVTnVTTzJId1ZoLTd4a244emJLc3pOZWxlM2lldkE3S3RIckVsWklxV0x3MFk3OWxuRjVFRk1jcURUSm5sYnFOQ0FObWdsaWlaRVVHZUZtektzT2lzZS03N0NyNk56Yl8wdFJuUUdSb0VHcndvWW8ySmxyME9CdUxoSHdORUVpUGFuYk5VbFp3?oc=5",
-      "date": "2026-11-14T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Gaggal airport expansion"
-    },
-    {
-      "title": "गग्गल एयरपोर्ट विस्तार: रछियालू और कियोडियां में खाली मकानों पर चला पीला पंजा, जेसीबी से ध्वस्त किए भवन - Amar Ujala",
-      "source": "Amar Ujala",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRDdUYjZwSGdEZXJnbXRNZUExNzlDRkRQQXpXR2lsVGYwM3dWZlNhZjVLd3dwaktJdDFJV1ZwMnhEU0dwUVVPaFgyMUVGSlBkeXNJaTFlQnFJa2E3Q1VZaVdjQk1tS0ZaWmdSMHE3aHU4NENkeFZKWWJ6MElSSGRKRTBPMnIwYXU3N3R5b0c2dTFIRVV1bERjbndvcnRxem9mZVNwQTc0aVkyazk5UzkwQVBrR3E0cjRSR1J0eTNUVlhTR0FLaXYyUjlPZTFwVHZqSlNFMHpkYXpIYkhTRVYzNUstRGZib0XSAewBQVVfeXFMT0NxdHcyazFIdVhzekcyTWxRZFBvVXFEcnFvM3c1SllITWRndER1WjNFb3IxYWtHYmEyVlR1a1M0eHZCRTRCTUJZQ0Q4MGk4SG92ak5EaEdqb0NFc0NJM1BYcWVKdFVDLVowQVpDMTBwa29iTWp4N2xGSFJVemRic1duRGNlSjlScTQ3MWNHakV2TWlZM21vYnlyTFB6ZlFNcEJVbndaSzhqZnloQ1Uxd0RiaDhnbUQxUGlrdi1yWjY0azd6UHREVEhhTmM1UnVDcUhremVRT09oRVJ0RlpEenpEQVpWNFJxdE5GNy0?oc=5",
-      "date": "2026-11-13T11:13:18.000Z",
-      "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Gaggal airport expansion"
     },
     {
@@ -125,16 +105,6 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMUJRbkp3RHBhTUpocWJZSWVxbEdWVTU2bVd5cGVEWGpBOEJ5UmpOQXNFWUc4cVhCeVNxcFRXSlduVUhUOXdFcFZLWXR0ZTkwMU51LXNvRnZ0TXpON1prSTUzZzEtbmtONF9UcEVaOVRLajc2NDVrMFJvMEhybVhxZldZbG5CUHJDVHZZZ19UUF9hdjNKUVpwWW9DUGhZeXJ1NDZPS0NFanRBQ3duNHZId3kwLXZWT0k4NzZJNkhfNXI0R29Ja1FtQTZQeTdzbDNlNmVreTBYUEZMVElacVFqekE5UjRJZXlRSjJSdnMtcVNaUnFwRS0yOUNn0gH_AUFVX3lxTFBfQ1pDZHdJMUYweVU5MUJBVTdJd3lfa0Z3UXMyekN1Vmc4VnQ4RkxiN1JNYlVtVXl0b2lqZXZJekYtLW80elNTODFicFpxUmx2X1VERjVhZGRZcXY3MkdJel9URkdDT084ZE1Ba2kza0hxN3lINWN2V2owT250aWZ1RFJFN0dLMGVPT1BlcjU5enF2VmdMOWc4MUtRa1dBTUVyUl9KS2xrckJWOHFyRXY2TWE1MFRpcDN1Qmh5SlZHMjJUUkRRTzZDVTRiOVQzU01lV0daWWhxRkdjSTZ1V0tRZml5M1U0TUxPc1JCS1RxLV9aamo4T1R2Q2tpbFFaYw?oc=5",
       "date": "2026-11-04T08:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Gaggal airport expansion"
-    },
-    {
-      "title": "कानपुर चकेरी एयरपोर्ट पर बनेंगे 5 नए हैंगर, चार्टर्ड विमानों की पार्किंग होगी आसान; 2 महीने में पूरा होगा काम - chakeri airport expansion kanpur airport to get five new aircraft hangars within two months - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUFFX0NXZDdfUkQwVWJsQmQtNHZMVTkxMzJ3eUVmTWtFYjJrSG04bWxHZVRLTks4LTZyNm93Z2RHUkxGM3l5azNfWFY5ME9mNWpuTUF4SkNQQTlaUFUyMTdGbVprOHYxMEdZWGRKcVRYWGJMV0xkVWFsZjV3NS1xd0JuaklUNFJ6ekM4UnhtSEM3UjdLQ0hnVWpSNjRBQ1h0cllpWHo1UjY2aEJ3SXpDNkh6WFhiVHl5R1hwcWpIUm13RDlJam4zZnREUDRiMnZXY2ZJNy1QdU9ZU0tVd09lUEVLc2syZ2xVNWc?oc=5",
-      "date": "2026-10-31T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Gaggal airport expansion"
@@ -205,6 +175,36 @@
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTE1WWWc5Q2MxUk5valNMblJDbVJyLU5ObjY2TGZGTllCRmxVTnk3VWRlWWxmT1ZCVGV3bXZ6S3NJZnV6Z0R1X04tN0pOekNvZFY0OUpIRlp5TjhWQXJFLXdkMHpVS042Zkp6b3R3UVFoenpFX0dOa1RTeWhKa0ZGMW1IVnRyQ0lLZmp4UjdaVU11aTlmbENYRWllUHVIbGZncEtGbWk0QTZDN0JsXzUtcHFBUjFMSWs3bmc1TFcxSGZjTGg2?oc=5",
       "date": "2026-09-22T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Gaggal airport expansion"
+    },
+    {
+      "title": "कांगड़ा एयरपोर्ट विस्तार: अधिग्रहित भूमि पर लगे नो एंट्री के बोर्ड, 13 मुहालों में से 7 का नामांतरण; प्रक्रिया तेज - kangra airport expansion land acquisition speeds up no entry - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHhzNzc1YTNiVE96bFNPUnVWdmo1alZtZW03dEljVjdJbGhCNTJTX2E2V0RLMVdrZkFNNFZIOVNOVFVxVGNUY29STjBnMGM2ZXI5UzdYVklucThFMXRXclNsZS1TcnkzOFVhX3VtZkQ4aEFmZmxUVXJ4NWVxRnhzSzRhb2thOEhpT2xRUUs3MTFDZ0RQV1VGRm5OcUdmb3hEUU5ENmhiYW5tVTdZcUJRZklrRXB1N1RYSnZwNzV3?oc=5",
+      "date": "2026-09-16T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Gaggal airport expansion"
+    },
+    {
+      "title": "कांगड़ा एयरपोर्ट के बाद अब फोरलेन से उजड़ने का भय, 3500 लोगों का भविष्य अधर में; अब PM मोदी से मांगा न्याय - Jagran",
+      "source": "Jagran",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnVLU1FId1JvU0xVbkoxbVVCLWt5eHpxczY2MzJYVVBMWlBTSGQyOElGVjVKb044OHN4eDJkalota2hnek9WMG54MHJ5SzkxN2dlc3VnNlFKLVhVdFVyTmlPa1lEckl3QTZkQUEyNTJNd0VIOHJteGZnaTNaRHNQOV8zclR4U09SalNoSzd4ZS1BSEY0bTl1c3dKUXdLNnc1N3FoUEtReVh1ZkRyR0VMQUlFMWU2NUxtNy1mTms5blY3VFRuVkE?oc=5",
+      "date": "2026-09-08T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Gaggal airport expansion"
+    },
+    {
+      "title": "क्या गग्गल एयरपोर्ट के पास गरीब लोगों से सस्ते में खरीदकर महंगे दामों पर बेची गई जमीन? सरकार का बड़ा एक्शन - ETV Bharat",
+      "source": "ETV Bharat",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkhZX18zdXdHeGtoMkJPb2hJUlpLQjFob3oyWVV6bkZVcW9XOHoyeTJ1aGpVdTNnYU4ycmIydEZqdmRVWXZEQ3RfeWhBNjZDNEJXaEo5TU50WmJsUU1BOWdyT3RBbTRjRmRyaUNjZlExbEVHWEVDN3ZFekI5SkVvTXFncmtQd1paNzlBQjMzZWVaSU55NEN0bFRrS0M0djJvVEphODNiczNzNjd1X0hJ0gG0AUFVX3lxTE56a25BdHFCYVVFSkh4MHlDZjAtQjNiYnVfUFdQaFZFNDVjRFBTVjZVdU9SZHk1emJrYlBSR0ctOXRITDVzd1lkSXZYVU0yTkVaNTZwWkwzUjFFWU5fWVRSekN3czNrZ3VrTC1UVmhreG9qM1A2cFgwWVVIN2QwWkx1RkhZenZfTnZLTW9EN2pjNmZOLS1rV1ZIUlFQNjRMdUJNcHdmRzFNUGRSQ04tQVZqQ19ONg?oc=5",
+      "date": "2026-08-25T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
       "match": "Gaggal airport expansion"

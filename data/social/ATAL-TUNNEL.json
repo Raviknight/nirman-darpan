@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-24T04:08:10.061Z",
+  "updated_at": "2026-11-27T02:00:06.733Z",
   "project_id": "ATAL-TUNNEL",
   "counts": {
-    "press": 344,
+    "press": 385,
     "gov": 0,
     "en": 191,
-    "hi": 153,
-    "total": 344
+    "hi": 194,
+    "total": 385
   },
   "mentions": [
     {
       "title": "Gateway to the Himalayas - The Hindu",
       "source": "The Hindu",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY21WN2s5VTF1RmtOektQWU8xLTlHd1BBbzJRa3I3RjNMY0pVWnNpb3FVOHB6alpBSURMQzg4ci1YZ0c0WFNMOWNGWjMxMXFWTnNDelpHcEhhaWxXT2VFWGt6SHJpeE5FcU1nbFFianNGUHJIaXVGS0doVkxoMXI5OTFQcmhyQUZSelY40gGLAUFVX3lxTE1jbVY3azlVMXVGa056S1BZTzEtOUd3UEFvMlFrcjdGM0xjSlVac2lvcVU4cHpqWkFJRExDODhyLVhnRzRYU0w5Y0ZaMzExcVZOc0N6WkdwSGFpbFdPZUVYa3pIcml4TkVxTWdsUWJqc0ZQckhpdUZLR2hWTGgxcjk5MVByaHJBRlJ6Vjg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2p6MnJaaktvSmlLTkhKLTg1QkwtTjZ1RjAwcUpObVNQMElGQXNYTlZCbFN5bHA0TFBqYW1FTGN4NmZFSkwxUlJNcTd4bWVLM3BTc0pUSXlDSlpxSTM2OElITktMaHR0d3VVSmhFSnNvWkxsTWUyQXN1c21xNzRYejNuWjPSAYsBQVVfeXFMTWNtVjdrOVUxdUZrTnpLUFlPMS05R3dQQW8yUWtyN0YzTGNKVVpzaW9xVThwempaQUlETEM4OHItWGdHNFhTTDljRlozMTFxVk5zQ3paR3BIYWlsV09lRVhrekhyaXhORXFNZ2xRYmpzRlBySGl1RktHaFZMaDFyOTkxUHJockFGUnpWOA?oc=5",
       "date": "2026-11-20T05:26:37.000Z",
       "kind": "press",
       "lang": "en",
@@ -100,16 +100,6 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "President Murmu Visits Historic Hadimba Temple, Atal Tunnel During Himachal Pradesh Trip - The Earth News Network",
-      "source": "The Earth News Network",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0FtVVRfVG9saVRkRlNWdTNWaUQzbUNNSDFCUlA4VEFuVE9FTzJwTEMtLS1PMjY5VTZiTE1EcUwzY1BCM1l4N19aeEN2TVZGdHRCcGlhZ0RTNXB6ZUdQUXNjaEhpYnp2OEFvUTlhWmxHN0g5dHZBcEdwWjF3Q0Y5bF93Z05ZWVJCamhDMkFnMUtUY1JGNjFMbmlsa1U1dnBQREZYYTBoWkNubkpC?oc=5",
-      "date": "2026-10-07T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
       "title": "President Droupadi Murmu visits Atal Tunnel during Himachal Pradesh tour - Babushahi.com",
       "source": "Babushahi.com",
       "source_id": "google-news-en",
@@ -120,10 +110,10 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "President Murmu Visits Atal Tunnel, Hails Engineering Excellence and Strategic Connectivity - thepublicworld.com",
-      "source": "thepublicworld.com",
+      "title": "President Murmu Visits Historic Hadimba Temple, Atal Tunnel During Himachal Pradesh Trip - The Earth News Network",
+      "source": "The Earth News Network",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTT1E5bVlMNy1WM2NnSUphVW44RkpHYWcxRWg0QU9SdklpOGh4eDVZSk10MHVSejgtYzhNdkhqcG9yQkh5TE1GUTNZR190a3psOFVkdQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0FtVVRfVG9saVRkRlNWdTNWaUQzbUNNSDFCUlA4VEFuVE9FTzJwTEMtLS1PMjY5VTZiTE1EcUwzY1BCM1l4N19aeEN2TVZGdHRCcGlhZ0RTNXB6ZUdQUXNjaEhpYnp2OEFvUTlhWmxHN0g5dHZBcEdwWjF3Q0Y5bF93Z05ZWVJCamhDMkFnMUtUY1JGNjFMbmlsa1U1dnBQREZYYTBoWkNubkpC?oc=5",
       "date": "2026-10-07T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -140,10 +130,30 @@
       "match": "Atal Tunnel"
     },
     {
+      "title": "President Murmu Visits Atal Tunnel, Hails Engineering Excellence and Strategic Connectivity - thepublicworld.com",
+      "source": "thepublicworld.com",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTT1E5bVlMNy1WM2NnSUphVW44RkpHYWcxRWg0QU9SdklpOGh4eDVZSk10MHVSejgtYzhNdkhqcG9yQkh5TE1GUTNZR190a3psOFVkdQ?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Atal Tunnel"
+    },
+    {
       "title": "President visits Atal Tunnel -President and Governor pay obeisance at Hadimba Temple - :: India News Calling ::",
       "source": ":: India News Calling ::",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb19hMWRXU08zVUxDVDFuUXZMd1YxWU02aWI5dXk2NDZ1ZV93aGdaWm92VWp1V2E0S2hFWXhWb21FMzQyMDFWQ0dQSWtYTGNOLVRXWUJKcXp5MlpBckQxclp2UFlmUEJ0bnljUUZFX2RobGNIUWdWZ0J6UDIxM25ENzBNdnZ1Q2xkWVV6V3FxcHMzdGNyeFJXZmlyTzg4YlNVclVyUjJ3NktPaG9odHFFMWZ0elQtMnNraUF5allLa3NiZ1FzaWg2ZjJ5WDM3dw?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
+      "kind": "press",
+      "lang": "hi",
+      "match": "Atal Tunnel"
+    },
+    {
+      "title": "राष्ट्रपति मुर्मू के अटल टनल टूर के PHOTOS: लॉन्ग वूलन कोट में नजर आईं, बेटी संग हिडिंबा मंदिर के दर्शन किए... - Dainik Bhaskar",
+      "source": "Dainik Bhaskar",
+      "source_id": "google-news-hi",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWlUxYUhiM2xjcmJSQVZwMUY4WHdOS0VnX2lBaWpQNWJndlBxYWlCemFkdGNTYXU4cUZhdmhobnNLUHNicTVZcnVsdmUwQ1ZJMGxVaWlyT0JxV216bm5NZTU0VUN5bDJKNFJuRGlONnl4Qm1Qa1VDVl9TTVU4NlRyczdGekV2OVhhRElvYklKdl8tYXVUenVaU0loYTNUNE5xaHlhZjVIbnpJRTRBb3dTQWktWEVFdFlZT3FWUW1Fczhwa3NrZlZaUkMyY1YxODVsTjZrMTNZNWZNclVTRFd3Tnd0SEN6NmtYZlZQRWJwRWRVMVBldTRkZVNINNIBgAJBVV95cUxNMUktTjdhVTRTeGhqUkV6ZFNSV041ZzB3Z1NYOHBzVVQxcDh1eHVIc3E3TU1RTFhsY3ZnOTFLY2w4Tkdra1lxOW1hLS1WaF9qNFlwYTB3YURoeVYtemJJRzNub00taUo2RDZodnpSeUNZajliamlqRW1JTDljaXBucnNjNGFlWFk2azh6NTV6ZmpoWUJiRk9EcS0tSmxxZHFGOHR0LXhsdGpOLWpBX2haYnhySi1neGVpTGo1Qm51Rk9JTnJRUjJQdzFGNmN0WjJQdXNRSDZoSGg1RGNOWTJZYVhydF9kN0UxeWsyckhkUmNYd1NJWVdhTmc3NTBBSmF5?oc=5",
       "date": "2026-10-07T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
@@ -180,7 +190,7 @@
       "match": "Atal Tunnel"
     },
     {
-      "title": "राष्ट्रपति मुर्मू के अटल टनल टूर के PHOTOS: लॉन्ग वूलन कोट में नजर आईं, बेटी संग हिडिंबा मंदिर के दर्शन किए; शाम को मनाली मॉल-रोड पहुंचीं - Manali News - Dainik Bhaskar",
+      "title": "लॉन्ग वूलन कोट में नजर आईं, बेटी संग हिडिंबा मंदिर के दर्शन किए; शाम को मनाली मॉल-रोड पहुंचीं - Dainik Bhaskar",
       "source": "Dainik Bhaskar",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRFVmYnpaTi1hMkw3c1dFeTUyWDZvWk9wYUhnd2Q1blItdEc4QWc1RUN2bXU3Vm9rUmFHUGJjN1g4LTU0bjNBc3A1T1VyLVFlbGozTzU4ZjlTUS1QMXFzRVhoLWJhampIQlJYYW55Ymd5ajMxaXlhNl9UejA1M3ZRTF9aOWkyQkF2dWZpSkNHbGRVWnM2QmkyS0U0SV9rQTlzSmItRnItdEgyaU9idlJPZjZuOWZWUEV3T2ZXeU0tMUtWTnQxdjk5QU91WXdWM296cUV4X1ZLYVdEaVNydC1ISmxGekh6eU14Y1psM3hBYWtPRjlVSndIN1NZSU0xSU1YMkdaZmQ4eXBDaFk?oc=5",
@@ -197,16 +207,6 @@
       "date": "2026-10-06T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
-      "match": "Atal Tunnel"
-    },
-    {
-      "title": "मनाली पहुंची राष्ट्रपति: शहर में कड़ी नाकाबंदी; बदला ट्रैफिक प्लान; अटल टनल 18 घंटे भारी वाहनों के लिए बंद रहेगी - president murmus manali visit atal tunnel closed traffic plan - Jagran",
-      "source": "Jagran",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYnpueEpiQTVSREhlWFVyZjhHWklneFE4MjV3VEdVNGRrZEpDSnFJM2puZ3l5VFlDVzdjRi1fTHhlVXhsbzViYVZmamZidnJqb1VWVEFXbWFoS0hZTUpjSWZLbTRwNnEyRklqeDdUcUhueDBxNXNlMlg2bFpBMmFhMHdQNk9BdjZ5Um1qajNPbG5fOGVSZXZhWGhyQ2pMSGpkM1VvN0RxNDRERGtBMXdSYmpWelMzeklTWU41SFpB?oc=5",
-      "date": "2026-10-06T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
       "match": "Atal Tunnel"
     }
   ],

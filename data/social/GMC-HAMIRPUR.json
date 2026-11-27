@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-11-24T04:08:54.950Z",
+  "updated_at": "2026-11-27T02:00:52.178Z",
   "project_id": "GMC-HAMIRPUR",
   "counts": {
-    "press": 103,
+    "press": 115,
     "gov": 0,
-    "en": 44,
-    "hi": 59,
-    "total": 103
+    "en": 61,
+    "hi": 54,
+    "total": 115
   },
   "mentions": [
     {
       "title": "Glass Stuck in Man's Throat, Doctors Save Life - jeevanutsahnews.in",
       "source": "jeevanutsahnews.in",
-      "source_id": "google-news-hi",
+      "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzBvSzJqYnltYVNPZ3ktZUt3Wk1Ma1ZVUkdMb29jSFRaeEpDa3U2Nk1xcjBsUlFRQkthRXVtMlB2bXQ2QmFfWm9iNDNzUGtGeWhycjAxVWlzY2JBVzh5V1ZfYmhQcThHWEJldDN1a0J2bk54dHZ0Y0FNRU9PWlIyZnJnTWRrRkkzTnVnV01ZSVR1Q3JvNHhiSXNZbw?oc=5",
       "date": "2026-11-21T04:42:41.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
       "match": "Hamirpur medical college"
     },
     {
@@ -37,6 +37,26 @@
       "date": "2026-11-20T09:45:03.000Z",
       "kind": "press",
       "lang": "hi",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Rs 4,000 crore added to states coffers through political will: Himachal CM - Daily Excelsior",
+      "source": "Daily Excelsior",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaFpOM3g2bFh4eW9nanFZN0VwQ0w3YVhFaEF5bkV2NWV1VEdyaGJSajVCS3JPeHZMRTYwR1gxM3RUQjVGNzc3YS1BaTVaSXYzd1BtalhfdTAwOTNmSHVtWE9yaUltUERBT3U0elJuVDJLcHRabUU4NVNaTHZfdUlFMjJKNzk1bnJBOWsxRDRBYzFBbURpb1NwTVZ0WTRIZm03TkN3UzF1SdIBqwFBVV95cUxPVTJhem9Xa3dmMW9teTUwTjZCOXVCRng0c3BfWmR1MzlNc1htVU9mNVFBU1psWXRQa3lDSFctUk5HSmZaeVZINl9RRUJnanRldG1PakdiQXMwSEFTM1FfM2tqU0hTTTRmdDBSZHF0Z2Q2a2RsaXNlWEgtcEhTTXkwWExPSGdtVE1lakF6Zy1CX1V0Z19rWURLVjVVdzZfS0FXZU9vczlRd2w1Wlk?oc=5",
+      "date": "2026-11-19T22:55:40.000Z",
+      "kind": "press",
+      "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Himachal Pradesh Government - himachalpr.gov.in",
+      "source": "himachalpr.gov.in",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWYjMtN0hJdlJtSXpwdWEwczllWW1hZUlsbmY1RTBTYVR1MFNBRDlKTm04Zko0VzRWWWdRUWZzNlpZOUdneHBBQW1XZlU3eEJnWlFUNmJZMEVGX0RBTFhsMzg5SVRZZTlKSDg4ZjZWTW41WE0?oc=5",
+      "date": "2026-11-19T13:28:20.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Hamirpur medical college"
     },
     {
@@ -90,10 +110,10 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "Sukhu Inaugurates ₹200-Crore Academic Block at Hamirpur Medical College - HIMACHAL HEADLINES",
-      "source": "HIMACHAL HEADLINES",
+      "title": "Himachal Pradesh plans MBBS internship stipend hike, AI push in medical education - India Today",
+      "source": "India Today",
       "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEpqRHFtNENUVTBOUW1qT2U4MFM1djAwSEZwTjRvNFVVUjgxaUVwSjZtYWl5WHBhTEZuWGZYX01TRU1nQVVjNGtVeEVMRVVkZEM0Z2xyVFpIeE4xR3dJVTBCVkY4TGxpVFZHVEVEYnNhY0FUbWxRdTIwUm95MW9kYzB2eWQzRjZhQ29xa0RSMVJ1NzZuQmFXd3dDYldYVDR3d3pBLVFfb0pEZWFlTU5VZXFGaDZ5Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbHkyMTE1SldTaUNJLXRHWUJicHd0b192TkYxOFNRdGp4d1dVUXJ6aHFqekZtenhVZm5NVDJtMWQ0WVk1MjMxSDdYbGdRNXN4Q0xNbWpUeXVjVUlXYXhtWXpKYldJenE4c0dtOHdZZkwwcFlnVDdkaFl2RzZZWENQZjRkaGhYcjhUdHc4LXlObkIzN0x3U1plRGFidHR0bHNCUVF2RjRPM3dad2hGNDFBVU0xT3VLNE1iY1hwci1nd3A0Q042SFlwcVhPRU9iclE5SlhmUmtjdDBSQVp5UklzajNQNTBWajRsZG9aMVlDcDVVektqTkgw0gH8AUFVX3lxTE1TTnVZSGtGNklLR0t1bTQ3czVjQnpjaXVWOUJqZFRaMzFObUFVVzV1Tl9mMkJmVUstMjF6RkN0SmdlZjhscFQ3RlpUY1JxZldpVEhrYi02T2hxXzhZNWcwVEpsV3dOUzl3Qm1SQVltajh6M0dkZnVzcnBIZ0puc2p3OGVkUWR2U1UzRlNxbEVCel94UEczSm5yWTFGT1RsQS02NmNlaGYzUTM2Z2JITWhRdWtKNFROUTFXS0RrTm8tZ1ZDaFU3RGZMd3pSRkJXS3lNT0tRM0dxdEpMeEo4dmp5bFUyS0pDTmw5RFh3SF9BaDlVcEs5R3hMLS1TXw?oc=5",
       "date": "2026-10-28T07:00:00.000Z",
       "kind": "press",
       "lang": "en",
@@ -102,11 +122,21 @@
     {
       "title": "Himachal Pradesh Plans MBBS Internship Stipend Hike, AI-Based Medical Education - Jagran Josh",
       "source": "Jagran Josh",
-      "source_id": "google-news-hi",
+      "source_id": "google-news-en",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2pWOVlLand3eUFzSl9IWWhKX09WbUlnblRXbU1PZTV0ZEFEMHhETHBtNzlXa29jdHN4MW1ralVPUEVKTndLaVl2NVBNN2xhMVNGV0xCUFFSZ2FjdTdFMzF5U2xTUEI5WERhTlhtXzk2YVlDbG1IS1c4Wk03YnBxdkJ1NXVqUHdWMm9SMllGWFBWazZTWGszUXBxZnFRejNxRGRvZHg0R1RfdDMzWlZsTzV4RWZmOVlv0gG_AUFVX3lxTFBVdk1QM0JtOGhYOFRFd2FNQkw3THhvWE90M1NWSW9QMV9xQU8wbVI0emN3X1hsS1B1eXhXNTA0WHRTeVE1bTNtNTVUdEJ6eVNWaDFlT2lMbmtBajJrMG0xbmphOVE4QnBlY1ZhTnRLbDE1M2dTX0xzT3ROUmpNOV8wcGZUOUdRd0lnV3lfQ0JsYUVhWm1SWC0yZmVtZGl2ckZIZVNJZUJrSTlCcndmWFd3THZOMlJTTDhVOWpoMWVB?oc=5",
       "date": "2026-10-28T07:00:00.000Z",
       "kind": "press",
-      "lang": "hi",
+      "lang": "en",
+      "match": "Hamirpur medical college"
+    },
+    {
+      "title": "Sukhu Inaugurates ₹200-Crore Academic Block at Hamirpur Medical College - HIMACHAL HEADLINES",
+      "source": "HIMACHAL HEADLINES",
+      "source_id": "google-news-en",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEpqRHFtNENUVTBOUW1qT2U4MFM1djAwSEZwTjRvNFVVUjgxaUVwSjZtYWl5WHBhTEZuWGZYX01TRU1nQVVjNGtVeEVMRVVkZEM0Z2xyVFpIeE4xR3dJVTBCVkY4TGxpVFZHVEVEYnNhY0FUbWxRdTIwUm95MW9kYzB2eWQzRjZhQ29xa0RSMVJ1NzZuQmFXd3dDYldYVDR3d3pBLVFfb0pEZWFlTU5VZXFGaDZ5Zw?oc=5",
+      "date": "2026-10-28T07:00:00.000Z",
+      "kind": "press",
+      "lang": "en",
       "match": "Hamirpur medical college"
     },
     {
@@ -170,43 +200,13 @@
       "match": "Hamirpur medical college"
     },
     {
-      "title": "हिमाचल के छह मेडिकल कॉलेजों में पीजी की 320 सीटें बढ़ीं, 597 सीटों पर होगा दाखिला: CM सुक्खू - himachaldastak.com",
-      "source": "himachaldastak.com",
+      "title": "हिमाचल के छह मेडिकल कॉलेजों में पीजी की 320 सीटें बढ़ीं, 597 सीटों पर होगा दाखिला: CM सुक्खू - HIMACHAL DASTAK",
+      "source": "HIMACHAL DASTAK",
       "source_id": "google-news-hi",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0U1b1VhZUI5SXpzSXVSbnUweUxqME03R1pYV0lUdnViUnZXOUctbkE5YnJ4TE5TRUJoTHhqTXh3S0dBQjVOYmJGb3h3LWJpZWs3UDIyeGpyZllWOWdaUmN4NkpyV29RLTNSRlRaWVRLMjFCRFBWRURmYjVoUGE0MEZoUGdlZ1Ux?oc=5",
       "date": "2026-10-18T07:00:00.000Z",
       "kind": "press",
       "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "हमीरपुर मेडिकल कॉलेज में रैगिंग पर MBBS के 9 छात्र सस्पेंड, तीन पर 50-50 हजार, छह अन्य पर 25-25 हजार रुपये ... - News18 Hindi",
-      "source": "News18 Hindi",
-      "source_id": "google-news-hi",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGFkTWJUOEFfSFh5M19qR3V5U2ROWTI3MEtpRTlYTDZXdDlCR0llMXhNX0JpZHFtZkZmTE1KTjQxOXMwckJDQWcwU05LLTBoVlN4My1WMmpKNWx4QnhJM0FsaVF0N0lBbW1rR3BmXzFOZHFROEVzNmtIbVdDNmNxU3lEUmdEeTRfQ05LZFV4SFpqQmxrOUg2bmFLbldNbUJVUk5SLTBKd1BIQzVlVHBqWm53WnY1Y25EOEcxMmtlLXA3RmFmc2JXX3ZhcUFYS1HSAdQBQVVfeXFMUDZXWHhLNW1rck05Zng1dXBiZHdRbm9vcUZ1Q2JCdFBBMzNITlNHZ3BxMUk1dDV0Qk9CTVJCVGJsbGhwYjNCSEVfVUhCczNEVVg3NkZXd3BPNmo0dFNWTGcxSTU1cVMyQkxEaXhDV1M1d1NNMlZSVGhpVHlzSEZSdm9IQndpWkEweEpqWUpCNFQzclh6UFFqc3FpSUpCQWhILXdZUFlHVDZJeC1Fd3VxQXNOSWMxeWR0OUFJOVNFVHA1TG53Y1h4eG5YdlotVmk2RGVwSGE?oc=5",
-      "date": "2026-10-16T07:00:00.000Z",
-      "kind": "press",
-      "lang": "hi",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Hamirpur medical college 9 MBBS students suspended, fined Rs 25-50k each for ragging - Medical Dialogues",
-      "source": "Medical Dialogues",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVHJ0YnExRmlsUzVWOURYVDlrS3dNa0sxWWlkUzNiZHd2SjBUVXhUdUxfVWdFT1RfTV9QNDdtYjJUUjRGMUtDaFcyR0IwR083bUN3TndrSk9abGxOeUNFUTJfUjFibHVfczg5U3RJSENkaFlsT0pvV0xjTzdtWTMtcURXaVczSFRKYVhSN1QzNjBPSm1hak1uVG5OdndpaHBCRWJIS2g3b1pjSFVpdnhFS3ZrckJ0Q0p6Z19aVy1aTUpsMms1SmdRT1ZZODZoaTFUYXZXS2QyTFhHNVV5RE1nQUpIeEPSAeoBQVVfeXFMTzlKX0UtQWY3d2xRZ2Jiamg1RjdiZm91ZmFFbzlqeGNBdTRPRGQyR0dKV3JKMVk3aU5SUkZMZDBvd3BFbi11eUx5WjhidWI3WTdGTlhzaXBvRTUyWjAzVjgwZmh4cnRqcUJKYzZILTNGdktJZHE5Y0xJbVVMTkpRbG43bDJJc3ljdXVpUE1zMG5mWnJLZkctUExJNjZPUlZFWWo5ejQ0MUJZLUJGb2FUbnRkLXJiRXZzd3I1bmgxM1d0cWhIMkFrQVRuMEo2QUc2X3VBbVdlNVQzT1lfUmoyemIycDdSRmhuVE1B?oc=5",
-      "date": "2026-10-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
-      "match": "Hamirpur medical college"
-    },
-    {
-      "title": "Hamirpur medical college suspends nine MBBS students, imposes fine on each for ragging - Careers360",
-      "source": "Careers360",
-      "source_id": "google-news-en",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTdZOVVycHY5TE1ZUHVHN1E0UjZxMVBOamtVMGV3UjR5N21fNXloZ0xISTNvdjlvcUM2WmdzcWZJWVd5b2tZR3J2M2ZTSktERXdrZWxJbjg0YnRScDJjdmxMdXVLMTY1aHVIYnd6WTAwdW5ER2FaTnlTdjBmZlI0amVJY2plVmdHRE00R0hzaHREbFhpemJ5MzUzM1dGNGNjdXlEU0lQN0dlNjYxRXFn0gG0AUFVX3lxTE1CZEZ5bmRCSVZIVHhTdGFxdWZLdmtLaUxKUlJsbVVGaWg2MW9FVHNJM0hTRmZXcF9JM2xYTkZ3N3RNODZpNDZ4ejNwMGV0QXN0d25QZ2ttaVFoeXJ6eTIzMWFsSHE1bXdzNkd2d1U1aW1mNGdsMl9NM3U5WlNmTXd6ejNiRnlycnJTNnNXUWVSUjRaN1I0c25Sd2w4YlRRVndac24tWEx0RFFPNXBPa01mWFpYMA?oc=5",
-      "date": "2026-10-15T07:00:00.000Z",
-      "kind": "press",
-      "lang": "en",
       "match": "Hamirpur medical college"
     }
   ],

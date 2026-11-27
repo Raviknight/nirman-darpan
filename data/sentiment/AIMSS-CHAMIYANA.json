@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T04:09:53.962Z",
+  "updated_at": "2026-11-27T02:01:39.851Z",
   "project_id": "AIMSS-CHAMIYANA",
   "press": {
-    "n": 0,
-    "positive": 0,
+    "n": 2,
+    "positive": 2,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.35,
+    "avg_magnitude": 0.55
   },
   "youtube": {
     "n": 0,
@@ -18,14 +18,40 @@
     "avg_magnitude": 0
   },
   "overall": {
-    "n": 0,
-    "positive": 0,
+    "n": 2,
+    "positive": 2,
     "neutral": 0,
     "concern": 0,
-    "avg_score": 0,
-    "avg_magnitude": 0
+    "avg_score": 0.35,
+    "avg_magnitude": 0.55
   },
-  "top_positive": [],
-  "top_concern": [],
+  "top_positive": [
+    {
+      "source": "press",
+      "title": "शिमला के चमियाणा अस्पताल में ऑनलाइन बनेगी OPD पर्ची, अब नहीं आना पड़ेगा जल्दी; बेहद आसान रहेगा प्रोसेस - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHllVzVKb01XRFEzYk1fRUdNd01RWjNDbTFId2tRWFpwS1pmUktqZVk1cXJ4ZnFOR3lMQ3ZxT3VKYkdGOGRkazB2N2NEWUFPNVlqanRvSjItVl95MktzQjZCRVZIcXlzaTdFNDE1V1B4VzMwdXVMZ09tRGtscHpmVk5iWEdteVpRZzhOZWZSU1NsZDM2NmQ3QkNUbmlWaXVTTUZSMTN4YVhFN1M4VU9Eeg?oc=5",
+      "score": 0.4
+    },
+    {
+      "source": "press",
+      "title": "सर्जरी के दौरान सोनू निगम ने गाना गाया: हॉस्पिटल बेड से शेयर किया वीडियो, श्रेया घोषाल ने की जल्द रिकवरी की... - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZjRub05MTnloUGVMNGtUNkdMUGsxVlYzSjV0T1RCc0VFOS0xTmwtaldFUlJyUktqSzRVWFZWNGhJeVhjMzBMUlhGcFlqQVUwcnFfbk5JUDFaNERUcTI3Yi02SE9KU2pEX09VakRsY05WWkhTUFctcWdLN05LSVZNNkJ1bnpEMTZxTi0xS3FpSXRSaUxIa2JYYjZPeFVDOGllNEJaamZ2NEkyWDNsR3pXV0pydTQ5bVFpTDloVzJyUFZuZWQxRm1WQlFaMENybEdIVnd0ZlJ5SGxtR3BadUgxNnJMcEhrQjVoUUpnb9IB8gFBVV95cUxQNFBlSW1DcXNGZFZLQXJRZ2JjUWZ2aHNDZ3JHWW44VDR4anNDbENMMTlyWFVDM2FRM2FJb0s2SjBSbE5CRmpSOFhPYk5DVmdGaWk1ZWxQQzRONXRLOUtUMFhfNG13VHNOaEVmLXQwSGVaN0kwMThxbmpuSDdTRElaOExqSmZNSXhLcjdtaUJZeHZmOEx4b2dCR3RaTFowcTdzS0p5LVAwTkNUeElrNTRQV2gxVXNsMHpxeWVERm1FYWJCcW5mTm4zU3NWMkEzQzhWczcwWUNUSGllWWN5WnVQbHl3NE5IUFVsYXB0YUdFNDRaUQ?oc=5",
+      "score": 0.3
+    }
+  ],
+  "top_concern": [
+    {
+      "source": "press",
+      "title": "सर्जरी के दौरान सोनू निगम ने गाना गाया: हॉस्पिटल बेड से शेयर किया वीडियो, श्रेया घोषाल ने की जल्द रिकवरी की... - Dainik Bhaskar",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZjRub05MTnloUGVMNGtUNkdMUGsxVlYzSjV0T1RCc0VFOS0xTmwtaldFUlJyUktqSzRVWFZWNGhJeVhjMzBMUlhGcFlqQVUwcnFfbk5JUDFaNERUcTI3Yi02SE9KU2pEX09VakRsY05WWkhTUFctcWdLN05LSVZNNkJ1bnpEMTZxTi0xS3FpSXRSaUxIa2JYYjZPeFVDOGllNEJaamZ2NEkyWDNsR3pXV0pydTQ5bVFpTDloVzJyUFZuZWQxRm1WQlFaMENybEdIVnd0ZlJ5SGxtR3BadUgxNnJMcEhrQjVoUUpnb9IB8gFBVV95cUxQNFBlSW1DcXNGZFZLQXJRZ2JjUWZ2aHNDZ3JHWW44VDR4anNDbENMMTlyWFVDM2FRM2FJb0s2SjBSbE5CRmpSOFhPYk5DVmdGaWk1ZWxQQzRONXRLOUtUMFhfNG13VHNOaEVmLXQwSGVaN0kwMThxbmpuSDdTRElaOExqSmZNSXhLcjdtaUJZeHZmOEx4b2dCR3RaTFowcTdzS0p5LVAwTkNUeElrNTRQV2gxVXNsMHpxeWVERm1FYWJCcW5mTm4zU3NWMkEzQzhWczcwWUNUSGllWWN5WnVQbHl3NE5IUFVsYXB0YUdFNDRaUQ?oc=5",
+      "score": 0.3
+    },
+    {
+      "source": "press",
+      "title": "शिमला के चमियाणा अस्पताल में ऑनलाइन बनेगी OPD पर्ची, अब नहीं आना पड़ेगा जल्दी; बेहद आसान रहेगा प्रोसेस - Jagran",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHllVzVKb01XRFEzYk1fRUdNd01RWjNDbTFId2tRWFpwS1pmUktqZVk1cXJ4ZnFOR3lMQ3ZxT3VKYkdGOGRkazB2N2NEWUFPNVlqanRvSjItVl95MktzQjZCRVZIcXlzaTdFNDE1V1B4VzMwdXVMZ09tRGtscHpmVk5iWEdteVpRZzhOZWZSU1NsZDM2NmQ3QkNUbmlWaXVTTUZSMTN4YVhFN1M4VU9Eeg?oc=5",
+      "score": 0.4
+    }
+  ],
   "methodology": "Cloud Natural Language API analyzeSentiment on press headlines and YouTube comments. Score in [-1, 1]; magnitude ≥ 0. Editor reviews before any of this is surfaced on the public site."
 }
